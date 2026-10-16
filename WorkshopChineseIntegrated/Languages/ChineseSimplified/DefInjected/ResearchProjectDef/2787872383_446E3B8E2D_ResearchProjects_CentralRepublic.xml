@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drama and comedy -->
+  <VFEC_DramaAndComedy.label>戏剧表演</VFEC_DramaAndComedy.label>
+  <!-- EN: Perform various plays on the theatre stage as a recreational activity. -->
+  <VFEC_DramaAndComedy.description>在剧院舞台上表演戏剧，一种娱乐。</VFEC_DramaAndComedy.description>
+  <!-- EN:
+    <li>subject->the stage of life</li>
+    <li>subject_story->revived the timeless arts of drama and comedy, enriching the soul of the republic through performance and play</li>
+    <li>subject_gerund->mirroring the human condition, from tragedy to farce, on the communal stage</li>
+  -->
+  <VFEC_DramaAndComedy.generalRules.rulesStrings>
+    <li>subject->人生的舞台</li>
+    <li>subject_story->复苏了超越时代的戏剧艺术，陶冶了共和国人民的情操</li>
+    <li>subject_gerund->在戏台上演绎了人生的酸甜苦辣</li>
+  </VFEC_DramaAndComedy.generalRules.rulesStrings>
+  
+  <!-- EN: meat drying -->
+  <VFEC_MeatDrying.label>干肉制作</VFEC_MeatDrying.label>
+  <!-- EN: Construct meat drying racks, allowing you to preserve meat and create a roman delicacy. -->
+  <VFEC_MeatDrying.description>建造干肉架，能将肉类保存更长的时间，并赋予一种罗马式的风味。</VFEC_MeatDrying.description>
+  <!-- EN:
+    <li>subject->legacy of preservation</li>
+    <li>subject_story->revived the ancient art of meat drying, securing sustenance and delighting palates with flavors honed by time</li>
+    <li>subject_gerund->extending the bounty of the hunt through the wisdom of the ancients</li>
+  -->
+  <VFEC_MeatDrying.generalRules.rulesStrings>
+    <li>subject->保存的技艺</li>
+    <li>subject_story->重新开发出了古代保存肉类的手艺，保存营养的同时还赋予了全新的风味。</li>
+    <li>subject_gerund->用老祖宗的智慧让狩猎的果实更加丰满</li>
+  </VFEC_MeatDrying.generalRules.rulesStrings>
+  
+  <!-- EN: mosaics -->
+  <VFEC_Mosaics.label>马赛克</VFEC_Mosaics.label>
+  <!-- EN: Build excellent stone mosaics, utilising different colours and shapes to express beauty. Slow to construct. -->
+  <VFEC_Mosaics.description>铺设马赛克地砖，色彩丰富，线条优美，但十分耗时耗力。</VFEC_Mosaics.description>
+  <!-- EN:
+    <li>subject->mosaic of civilization</li>
+    <li>subject_story->crafted stone mosaics that capture the essence of beauty and narrative through color and form</li>
+    <li>subject_gerund->embedding the story of a people in the very stones that pave their path</li>
+  -->
+  <VFEC_Mosaics.generalRules.rulesStrings>
+    <li>subject->文明的马赛克</li>
+    <li>subject_story->用马赛克石砖体现出色彩与形状的艺术</li>
+    <li>subject_gerund->讲述了一个用石头铺设自己道路的民族的史诗</li>
+  </VFEC_Mosaics.generalRules.rulesStrings>
+  
+  <!-- EN: temperature control -->
+  <VFEC_TemperatureControl.label>温度控制</VFEC_TemperatureControl.label>
+  <!-- EN: Make large passive coolers, a way to cool indoor spaces below freezing point without needing electricity, or hot stones, a primitive heater. -->
+  <VFEC_TemperatureControl.description>允许制造大型蒸发制冷机，在不用电的情况下能够有效降低室内温度。还有热石暖炉，一种原始的加热装置。</VFEC_TemperatureControl.description>
+  <!-- EN:
+    <li>subject->masters of elements</li>
+    <li>subject_story->harnessed natural methods to defy the whims of weather, creating spaces of comfort through passive coolers and hot stones</li>
+    <li>subject_gerund->cultivating havens of warmth and coolness, in defiance of the external world</li>
+  -->
+  <VFEC_TemperatureControl.generalRules.rulesStrings>
+    <li>subject->元素大师</li>
+    <li>subject_story->驾驭用自然方法控制温度的诀窍，用水与石头降低或升高温度</li>
+    <li>subject_gerund->让人不惧恶劣的外界环境，创造一个温暖或凉爽的小避风港</li>
+  </VFEC_TemperatureControl.generalRules.rulesStrings>
+  
+  <!-- EN: thermaebath -->
+  <VFEC_Thermaebath.label>温泉</VFEC_Thermaebath.label>
+  <!-- EN: Construct large thermaebath that uses steam geysers to warm up the water, allowing up to 8 people to bathe together with an occasional chance of group lovin’. -->
+  <VFEC_Thermaebath.description>用地热间歇泉来加热水温的一个澡堂，允许至多8人一起泡澡。不排除有群X的情况。</VFEC_Thermaebath.description>
+  <!-- EN:
+    <li>subject->sanctuaries of steam</li>
+    <li>subject_story->constructed thermaebaths, communal havens of relaxation and warmth powered by the earth's breath</li>
+    <li>subject_gerund->fostering communal well-being and intimacy in the embrace of nature's warmth</li>
+  -->
+  <VFEC_Thermaebath.generalRules.rulesStrings>
+    <li>subject->水雾缭绕</li>
+    <li>subject_story->用大地的吐息为大家打造舒适的温泉</li>
+    <li>subject_gerund->在大自然的温暖怀抱中清洗心灵</li>
+  </VFEC_Thermaebath.generalRules.rulesStrings>
+  
+  <!-- EN: togas -->
+  <VFEC_Togas.label>托加长袍</VFEC_Togas.label>
+  <!-- EN: Craft togas, everyday wear of the citizens of the republic. -->
+  <VFEC_Togas.description>允许托加长袍，共和国公民的日常穿着。</VFEC_Togas.description>
+  <!-- EN:
+    <li>subject->the fabric of society</li>
+    <li>subject_story->reclaimed the elegance and simplicity of the toga, the symbol of citizenship and refined taste</li>
+    <li>subject_gerund->draping the republic in the dignity and grace of its ancestors</li>
+  -->
+  <VFEC_Togas.generalRules.rulesStrings>
+    <li>subject->衣冠楚楚</li>
+    <li>subject_story->为共和国公民缝制了优雅简约的衣物</li>
+    <li>subject_gerund->给共和国赋予了文明国家的尊严</li>
+  </VFEC_Togas.generalRules.rulesStrings>
+  
+</LanguageData>

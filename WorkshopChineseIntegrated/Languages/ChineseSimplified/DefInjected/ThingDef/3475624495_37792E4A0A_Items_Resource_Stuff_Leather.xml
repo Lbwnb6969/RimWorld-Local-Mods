@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: black chitin -->
+  <DA_BlackChitin.label>黑色几丁质</DA_BlackChitin.label>
+  <!-- EN: The inky dark chitin of a black scribe. While hard and difficult to work with, it provides remarkable protection and insulation. -->
+  <DA_BlackChitin.description>黑书吏的墨黑几丁质。尽管坚硬且难以加工，它能够提供可观的保护和隔温。</DA_BlackChitin.description>
+  <!-- EN: spongy hide -->
+  <DA_Leather_Barog.label>多孔皮革</DA_Leather_Barog.label>
+  <!-- EN: The spongy green hide of a barogoth. While good at regulating temperature in hot and humid climates, it does not protect much. -->
+  <DA_Leather_Barog.description>巴罗格斯的海绵状皮革。尽管适合在湿热气候调节温度，但不能提供多少保护。</DA_Leather_Barog.description>
+  <!-- EN: crestel stonefeather -->
+  <DA_Leather_Crestel.label>冠禽石羽</DA_Leather_Crestel.label>
+  <!-- EN: A thin pelt covered in numerous blue feathers. Incredibly hard by nature, they however shatter quite easily against blunt shocks. -->
+  <DA_Leather_Crestel.description>一块被很多蓝色羽毛覆盖的皮革。难以想象的坚硬，不过面对钝击时效果不佳。</DA_Leather_Crestel.description>
+  <!-- EN: drogpelt -->
+  <DA_Leather_Drog.label>野猪皮</DA_Leather_Drog.label>
+  <!-- EN: Heavy pelt of a drog. Very insulating and durable. Often used by northern clans to keep themselves warm during the harshest of winters. -->
+  <DA_Leather_Drog.description>野猪的厚重皮毛。非常隔温和耐用。经常被北境氏族用于在严冬中保暖。</DA_Leather_Drog.description>
+  <!-- EN: karabal leather -->
+  <DA_Leather_Karabal.label>卡拉巴皮</DA_Leather_Karabal.label>
+  <!-- EN: The purpley leather of a karabal. Good at temperature regulation.. -->
+  <DA_Leather_Karabal.description>卡拉巴的紫色皮革。冬暖夏凉。</DA_Leather_Karabal.description>
+  <!-- EN: larpah whitefur -->
+  <DA_Leather_Larpah.label>拉法皮</DA_Leather_Larpah.label>
+  <!-- EN: The soft yet robust white pelt of a red-horned larpah. Used for the highest-craft for its insulation and strength. -->
+  <DA_Leather_Larpah.description>红角拉法柔软又坚韧的皮革。其隔温且坚固的特性使其适合用于最高品质的造物。</DA_Leather_Larpah.description>
+  <!-- EN: hardened pelt -->
+  <DA_Leather_RockTroll.label>硬化皮</DA_Leather_RockTroll.label>
+  <!-- EN: The incredibly heavy and durable pelt of a rock troll. It is as hard as a chainmail and requires tremendous work to shape. -->
+  <DA_Leather_RockTroll.description>石巨魔厚重又耐用的皮革。像锁子甲一样坚硬，需要花大力气来塑形。</DA_Leather_RockTroll.description>
+  <!-- EN: silverfur -->
+  <DA_Leather_SilverMole.label>银皮</DA_Leather_SilverMole.label>
+  <!-- EN: Bright sheets of a silvery mole. It is delicate, but luxurious. -->
+  <DA_Leather_SilverMole.description>银鼠亮闪闪的皮。脆弱但奢华。</DA_Leather_SilverMole.description>
+  <!-- EN: warty hide -->
+  <!-- EN: The warty hide of a giant snaptoad. Tough and well-insulating, but very ugly. -->
+  <!-- EN: trollpelt -->
+  <DA_Leather_Troll.label>巨魔皮</DA_Leather_Troll.label>
+  <!-- EN: The strong pelt of a troll. Very weak to fire but exceptionally durable. -->
+  <DA_Leather_Troll.description>巨魔的坚韧皮革。很耐用但不擅防火。</DA_Leather_Troll.description>
+  <!-- EN: goldwool -->
+  <DA_WoolGoldilox.label>金毛</DA_WoolGoldilox.label>
+  <!-- EN: The gilded wool of a goldilox. While not particularly good for insulation or durable, it is exceptionally beautiful.\n\nWith sufficient heat, it can be melted and forged into pure gold. -->
+  <DA_WoolGoldilox.description>金牦的金毛。尽管不适用于隔温也不坚固，但它非常好看。\n\n在足够的高温下，能融化为纯金。</DA_WoolGoldilox.description>
+  <!-- EN: muffton wool -->
+  <DA_WoolMuffton.label>矮羊毛</DA_WoolMuffton.label>
+  <!-- EN: The brown wool of a dwarven muffton. Exceptionally warm and durable. -->
+  <DA_WoolMuffton.description>矮羊的棕毛。非常暖和耐用。</DA_WoolMuffton.description>
+</LanguageData>

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Hints of a dangerous shrine -->
+  <Story_Shrine1_NewShrineDetectedLetterLabel>有关危险圣殿的线索</Story_Shrine1_NewShrineDetectedLetterLabel>
+  <!-- EN: {0} sent you a message with vague hints regarding tales of a dangerous shrine. The people providing the hint weren't very credible, so take care, as they also said that no one ever returned who dared to pilgrimage there. -->
+  <Story_Shrine1_NewShrineDetectedLetterMessage>{0}向你发送了一条有关传说中危险圣殿的模糊线索，不过可信度存疑。他们说，此前敢到圣殿一探究竟的人都有去无回。请一定要多加小心。</Story_Shrine1_NewShrineDetectedLetterMessage>
+  <!-- EN: Discovering mysterious shrine (This might take a while) -->
+  <Story_Shrine1_EnterPossibleShrine>发现神秘圣殿(这可能要花点时间)</Story_Shrine1_EnterPossibleShrine>
+  <!-- EN: Caravan Adventures - Secrets of the Shrines -->
+  <Story_Shrine1_QuestName>远行大冒险 - 圣殿的奥秘</Story_Shrine1_QuestName>
+  <!-- EN: Explore possible master shrines to reveal their secrets and to determine the mechanoid armada threat.\nTake your time to prepare, this may be a long journey and the enemy won't be easily defeated! -->
+  <Story_Shrine1_QuestDesc>探索可能为宏伟圣殿所在处的位置，发掘其中埋藏的秘密。我们要尽可能搞清楚机械体舰队的威胁与动向。\n这将是一场漫长的旅程，我们要做好充足的准备。凶残的机械体不会被轻易击败的！</Story_Shrine1_QuestDesc>
+  <!-- EN: Visit ancient master shrine -->
+  <VisitAncientMasterShrine>探索远古宏伟圣殿</VisitAncientMasterShrine>
+  <!-- EN: Enemies encountered -->
+  <Story_Shrine1_EnemyEncounterLetterLabel>遭遇敌人</Story_Shrine1_EnemyEncounterLetterLabel>
+  <!-- EN: Looks like we're not alone here. -->
+  <Story_Shrine1_EnemyEncounterLetterMessage>哈...看起来我们在这儿并不孤单。</Story_Shrine1_EnemyEncounterLetterMessage>
+  <!-- EN: Visit Shrine test -->
+  <!-- EN: Give up on clue -->
+  <GiveUpOnClueLabel>遗弃线索</GiveUpOnClueLabel>
+  <!-- EN: Give up on this clue, you'll hear about another one soon. -->
+  <GiveUpOnClueDesc>遗弃这条线索。另一条线索很快就会送达。</GiveUpOnClueDesc>
+  <!-- EN: Give up on shrine -->
+  <Story_Shrine1_GiveUpOnShrineLabel>遗弃圣殿</Story_Shrine1_GiveUpOnShrineLabel>
+  <!-- EN: Give up on this shrine, you'll hear about another clue soon. -->
+  <Story_Shrine1_GiveUpOnShrineDesc>遗弃这座圣殿。另一条有关圣殿的线索很快就会送达。</Story_Shrine1_GiveUpOnShrineDesc>
+  <!-- EN: Are you sure you want to abandon your remaining colonists? -->
+  <Story_Shrine_AbandonColonists>你的一些殖民者或动物仍然在这个区域里。你确定要遗弃这一区域吗？</Story_Shrine_AbandonColonists>
+  <!-- EN: Bandits defeated -->
+  <MasterShrineVictoryLetterLabel>敌人已击败</MasterShrineVictoryLetterLabel>
+  <!-- EN: The bandits setting a trap at the shrine were defeated.  -->
+  <MasterShrineVictoryLetterMessage>埋伏在圣殿附近的海盗被我们击败了。</MasterShrineVictoryLetterMessage>
+  <!-- EN: No luck. -->
+  <NoMasterShrineLetterLabel>真不走运</NoMasterShrineLetterLabel>
+  <!-- EN: While this place may harbor treasures, it doesn't look like the place you're searching for. -->
+  <NoMasterShrineLetterMessage>虽然此处可能藏有宝物，但看起来并不像我们正在寻找的宏伟圣殿。</NoMasterShrineLetterMessage>
+  <!-- EN: Defeated {0} -->
+  <MasterShrineVictoryBossLetterLabel>击败了{0}</MasterShrineVictoryBossLetterLabel>
+  <!-- EN: Defeated {0}, the ancient harbinger of destruction. The shrine awarded you with {1} -->
+  <MasterShrineVictoryBossLetterMessage>击败了{0}，代表毁灭的远古先驱。圣殿授予了你{1}</MasterShrineVictoryBossLetterMessage>
+  <!-- EN: A mech patrol will come through {0} in about {1}. -->
+  <Story_Shrine1_NextPatrolWarning>一只机械体巡逻队将在大约{1}后抵达{0}。</Story_Shrine1_NextPatrolWarning>
+  <!-- EN: Pure pain explodes in {0}'s head -->
+  <Story_Shrine1_BossDefeated_Dia1Title>{0}的头开始剧烈疼痛起来</Story_Shrine1_BossDefeated_Dia1Title>
+  <!-- EN: While the {0} dies, memories start rushing back to the surface... although not {1}'s memories.\n\n{1} can't make sense of it, but {1} seems to recall a long forgotten spell named {2}. -->
+  <Story_Shrine1_BossDefeated_Dia1_1>当{0}被摧毁后，一股奇妙的记忆突然浮现...虽然这并不是{1}的记忆。\n\n{1}挠了挠头，没有搞懂其中的意思。不过，{1}似乎记住了一个被遗忘已久的心灵能力——{2}。</Story_Shrine1_BossDefeated_Dia1_1>
+  <!-- EN: The huge metal body of {0} crashes on the ground. -->
+  <Story_Shrine1_BossDefeated_Dia1_1_NoSpell>{0}的巨大金属躯体倒在了地上。</Story_Shrine1_BossDefeated_Dia1_1_NoSpell>
+  <!-- EN: Astonishing... -->
+  <Story_Shrine1_BossDefeated_Dia1_1_Option1>令人震惊...</Story_Shrine1_BossDefeated_Dia1_1_Option1>
+  <!-- EN: When {0}'s mechanical body came to rest, loud scratching starts to hollow around the ruins... something woke up. -->
+  <Story_Shrine1_BossDefeated_Dia1_2>当{0}的机械躯体停机后，巨大的凿墙声开始在遗迹四周回响...这可不妙，有什么东西苏醒了！</Story_Shrine1_BossDefeated_Dia1_2>
+  <!-- EN: We better get out of here... -->
+  <Story_Shrine1_BossDefeated_Dia1_1_Option2>我们最好赶紧离开这儿！</Story_Shrine1_BossDefeated_Dia1_1_Option2>
+  <!-- EN: Ancient ability gained: {0} -->
+  <Story_Shrine1_AbilityGainedLetterTitle>远古能力获得：{0}</Story_Shrine1_AbilityGainedLetterTitle>
+  <!-- EN: By defeating {0} and with the power of the Ancient Gift, {1} received the sacred knowledge of the spell: {2} -->
+  <Story_Shrine1_AbilityGainedLetterDesc>击败{0}后，{1}借助远古天赋的力量获得了新的心灵能力：{2}</Story_Shrine1_AbilityGainedLetterDesc>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. You can return once they moved on. You'll be notified about their arrival every 3 hours. -->
+  <Story_Shrine1_ArrivalTimeShownLetterMessage>你的远行队被发现了。在{0}，来自{2}的{1}将会抵达这片区域。\n请重组你的远行队并开始移动避开{1}。一旦他们离开，远行队便可以再次回到这里。现在对方抵达的倒计时将会每三小时提醒一次。</Story_Shrine1_ArrivalTimeShownLetterMessage>
+  <!-- EN: ({1}) {0}: {2} defeated the {3} and received the ancient spell {4}. -->
+  <Story_Shrine1_QuestRewardUpdate_1>({1}) {0}：{2}击败了{3}并获得了远古心灵能力：{4}。</Story_Shrine1_QuestRewardUpdate_1>
+  <!-- EN: ({1}) {0}: {2} defeated the {3}. -->
+  <Story_Shrine1_QuestRewardUpdate_1_WithoutSpell>({1}) {0}：{2}击败了{3}。</Story_Shrine1_QuestRewardUpdate_1_WithoutSpell>
+  <!-- EN: {0} is contacting you via comms... -->
+  <Story_Shrine1_SacrilegHunters_DiaTitle>{0}正通过对讲机与你联系...</Story_Shrine1_SacrilegHunters_DiaTitle>
+  <!-- EN: You did it! You found a master shrine!
+    \nTake care when exploring, as I told you before, we lost brothers and sisters when we came across our first shrine of this kind and escaped just barely.\nFocus on the larger buildings, that's what we're looking for.
+    \nWe'll send you some additional help, maybe another disaster can be avoided if we work together.\nGood luck... [{0} pauses shortly] and be careful.
+   -->
+  <Story_Shrine1_SacrilegHunters_Dia1_1>嘿，你成功了！你们找到了一个宏伟圣殿！\n    \n我得叮嘱你，探索圣殿时一定要多加小心。正如我之前所述，当第一次遇到这种圣殿时，我们失去了几名兄弟姐妹，狼狈的从那里逃了出来。\n请多加留意大型建筑，那些才是我们要找的。\n    \n协会将为你们提供一些额外的援军。如果我们齐心协力，或许可以避免另一场灾难的发生。\n祝你们好运...[{0}沉默了一会]请多加小心。</Story_Shrine1_SacrilegHunters_Dia1_1>
+  <!-- EN: Thank you, from the looks of this place, we may need them. -->
+  <Story_Shrine1_SacrilegHunters_Dia1_1_Option1>谢谢你们。从这片遗迹的规模来看，我们会需要这些帮手的。</Story_Shrine1_SacrilegHunters_Dia1_1_Option1>
+  <!-- EN: (Not recommended) No need, we can handle it ourselves. -->
+  <Story_Shrine1_SacrilegHunters_Dia1_1_Option2>(不推荐此选项)不，谢了。我们可以自己搞定的。</Story_Shrine1_SacrilegHunters_Dia1_1_Option2>
+  <!-- EN: Perfect, another shrine, that's great!\nDo you want us to assist you again? -->
+  <Story_Shrine2_SacrilegHunters_Dia1_1>漂亮！又一座神殿，干得真棒！\n你还需要我们的帮助吗？</Story_Shrine2_SacrilegHunters_Dia1_1>
+  <!-- EN: Not gonna turn down help, those things are dangerous. Thank you! -->
+  <Story_Shrine2_SacrilegHunters_Dia1_1_Option1>如果能得到你们的帮助可太好了。那些机械体真的很危险。再次感谢你们！</Story_Shrine2_SacrilegHunters_Dia1_1_Option1>
+  <!-- EN: (Not recommended) We'll deal with it ourselves. -->
+  <Story_Shrine2_SacrilegHunters_Dia1_1_Option2>(不推荐此选项)不，谢了。我们可以自己搞定的。</Story_Shrine2_SacrilegHunters_Dia1_1_Option2>
+  <!-- EN: Wow, this must be it. Alright, lets finish this. I have our best fighters ready if you wish. -->
+  <Story_Shrine5_SacrilegHunters_Dia1_1>噢噢噢噢噢...一定是这里！好，让我们大干一场吧！如果你需要的话，我们马上就能将最强悍的战士们送过去！</Story_Shrine5_SacrilegHunters_Dia1_1>
+  <!-- EN: Ya, lets tear this place down. -->
+  <Story_Shrine5_SacrilegHunters_Dia1_1_Option1>啊哈！拆迁大队开始行动！</Story_Shrine5_SacrilegHunters_Dia1_1_Option1>
+  <!-- EN: (Not recommended) Gonna take a different approach, trust me, it'll be fine. -->
+  <Story_Shrine5_SacrilegHunters_Dia1_1_Option2>(不推荐此选项)我们会采取不同的方法来攻克此处的。相信我，会没事的。</Story_Shrine5_SacrilegHunters_Dia1_1_Option2>
+  <!-- EN: Guys, I'm not getting any readings of another huge mech here. Although there seems to be a disturbance, some highly bundled particle displacement.\n\n[{0} suddenly worried] Be careful when checking that out, i have a bad feeling about this... -->
+  <Story_Shrine5_SacrilegHunters_Portal_Dia1_1>嗯...伙计们，我并没有检测到任何有关另一只精英机械体的信号参数。不过似乎有什么东西正在干扰我们，侦测仪器也显示一些高能粒子集束在怪异地波动着。\n\n[{0}突然开始担心起来]探索时一定要小心，我总感觉有些不妙...</Story_Shrine5_SacrilegHunters_Portal_Dia1_1>
+  <!-- EN: Hmm, we'll keep an eye out, thanks. -->
+  <Story_Shrine5_SacrilegHunters_Portal_Dia1_1_Option1>了解...我们会擦亮眼睛的。多谢。</Story_Shrine5_SacrilegHunters_Portal_Dia1_1_Option1>
+  <!-- EN: When {0}'s mechanical body came to rest, the ground started to vibrate stronger, then suddenly came to rest, as the old machinery deep within the planet came to a hold. -->
+  <Story_Shrine5_BossDefeated_Dia1_2>当{0}的机械躯体停机后，地面开始剧烈震动起来。行星深处的远古机械装置停止运作后，震动也随之停止了。</Story_Shrine5_BossDefeated_Dia1_2>
+  <!-- EN: Is it... over? -->
+  <Story_Shrine5_BossDefeated_Dia1_2_Option1>就这样...结束了吗？</Story_Shrine5_BossDefeated_Dia1_2_Option1>
+  <!-- EN: {0} of {1} is contacting you via comms... -->
+  <Story_Shrine1_Apocalypse_Dia1Title>{1}的{0}正通过对讲机与你联系...</Story_Shrine1_Apocalypse_Dia1Title>
+  <!-- EN: [{0}, out of breath and shocked] My god, did you guys get out alive?\nWhat happened there? When that abomination died? You screamed like you'd die. Are you alright? -->
+  <Story_Shrine1_Apocalypse_Dia1_1>[{0}因为过于震惊而有些喘不上气]卧槽！我的天哪，你们活着出来了！到底发生了什么了？那个大铁坨子什么时候挂掉的？你当时的尖叫声就好像要被打死了一样！大家都没受伤吧？</Story_Shrine1_Apocalypse_Dia1_1>
+  <!-- EN: I remembered something, but I'm not clear what yet, some sort of power... the tree...\nThis is a bad idea over comms... -->
+  <Story_Shrine1_Apocalypse_Dia1_1_Option1>我似乎回想起了一些东西，但我还搞不明白其中的含义。某种奇妙的力量...那棵树...\n嗯...在通讯里讲这事儿可不是个好主意...</Story_Shrine1_Apocalypse_Dia1_1_Option1>
+  <!-- EN: Aaah, okay... Well, what ever the death of that monster and the following earthquake caused, it's bad, and it wasn't natural.\nOur scientists are going crazy. Something very old under the planet's surface was activated. Our scientists believe it started to cool down the planet's core.\nWhile the process seems to be slow, it will mean certain death if we can't find out how to stop it! -->
+  <Story_Shrine1_Apocalypse_Dia1_2>咳咳，好吧...不管那个怪物的死亡和随后的地震造成了什么，我敢肯定那不是个好现象。\n哦，这可不妙...我们的科研团队都快吓疯了。行星地表下某些极其古老的玩意儿被激活了。科研团队确信那东西正开始冷却星球的内核。\n虽然冷却过程十分缓慢，但如果我们找不到阻止它的方法，星球将会逐渐走向毁灭！</Story_Shrine1_Apocalypse_Dia1_2>
+  <!-- EN: Let's find more of those shrines and see if we can't find more clues \nas to what we're dealing with. -->
+  <Story_Shrine1_Apocalypse_Dia1_2_Option1>那就去探索更多的圣殿吧。或许我们可以从中找到一些有关地下装置的线索。</Story_Shrine1_Apocalypse_Dia1_2_Option1>
+  <!-- EN: Ya, we'll message you when we can find more shrines. \n[{0}'s voice turning to a worried tone] And stay save until then, i have a really bad feeling about this. -->
+  <Story_Shrine1_Apocalypse_Dia1_3>我同意。当发现其它圣殿时，我会通知你们的！\n[从{0}的话中透露出了一丝担忧]不过在那之前，请你们一定要照顾好自己！</Story_Shrine1_Apocalypse_Dia1_3>
+  <!-- EN: We will, take care as well. Bye! -->
+  <Story_Shrine1_Apocalypse_Dia1_3_Option1>我们会小心的。再会了！</Story_Shrine1_Apocalypse_Dia1_3_Option1>
+  <!-- EN: You did it again! What a fight...\nWe were able to track a transmission, when the monster died. Looks like data was sent to a remote site. We need to find it! That is our best bet in stopping whatever the hell is happening with this RimWorld. -->
+  <Story_Shrine2_Apocalypse_Dia1_1>你又一次成功了！这场仗打的可真激烈...\n当怪物倒下后，我们追踪到了一个奇怪的信号。看起来某些数据被传输到远端的主机里了。我们得想办法找到它！这是我们阻止边缘世界走向毁灭的最好办法。</Story_Shrine2_Apocalypse_Dia1_1>
+  <!-- EN: Hmm, how would we go about that? -->
+  <Story_Shrine2_Apocalypse_Dia1_1_Option1>我知道了。那我们接下来该怎么办？</Story_Shrine2_Apocalypse_Dia1_1_Option1>
+  <!-- EN: We managed to get a rough location, but we need more transmissions to get the exact location. About two more should do the trick, if we can find one. -->
+  <Story_Shrine2_Apocalypse_Dia1_2>我们设法推断出了大概位置，但要想得出更加精确的结果，就得追踪更多的传输信号。撇去现在已经找到的，我们大概还需要两个额外的传输信号。</Story_Shrine2_Apocalypse_Dia1_2>
+  <!-- EN: Or survive the encounter, for that matter... -->
+  <Story_Shrine2_Apocalypse_Dia1_2_Option1>或者想办法在灾难中活下来，关于这个...</Story_Shrine2_Apocalypse_Dia1_2_Option1>
+  <!-- EN: [{0} laughs and answers sarcastically] Yep, but if we don't try, it's gonna be a little frosty around here soon. -->
+  <Story_Shrine2_Apocalypse_Dia1_3>[{0}笑了起来，并用有些挖苦的语气说]是啊。但如果不努力尝试一下的话，我们很快就能打雪仗了。你说不是吗？</Story_Shrine2_Apocalypse_Dia1_3>
+  <!-- EN: While I do like snow, this shouldn't get out of hand.\nAnyway, let us know when you find another one, take care! -->
+  <Story_Shrine2_Apocalypse_Dia1_3_Option1>嘛...虽然我确实喜欢下雪，但我们不应该就此放弃。\n不管怎样，找到其他圣殿时请一定要通知我们。多保重！</Story_Shrine2_Apocalypse_Dia1_3_Option1>
+  <!-- EN: You're getting pretty good at this, remind me not getting on your bad side...\nWe tracked another transmission. We're getting closer! -->
+  <Story_Shrine3_Apocalypse_Dia1_1>说实话，在拆迁方面你们可真是行家。幸好我们没有互相敌对...啊不，没什么。\n传输信号追踪成功。我们很快就能进行精确定位了！</Story_Shrine3_Apocalypse_Dia1_1>
+  <!-- EN: Off to the next I guess. -->
+  <Story_Shrine3_Apocalypse_Dia1_1_Option1>该去下一个地点了。</Story_Shrine3_Apocalypse_Dia1_1_Option1>
+  <!-- EN: Yes! We have the required data! We'll let you know when we have the final location. -->
+  <Story_Shrine4_Apocalypse_Dia1_1>好耶！我们拿到了所有的传输数据！等定位到最终位置后，我们会及时通知你的！</Story_Shrine4_Apocalypse_Dia1_1>
+  <!-- EN: Why do I kind of not want to know? -->
+  <Story_Shrine4_Apocalypse_Dia1_1_Option1>嗯...为啥我又突然不想听到结果了呢？</Story_Shrine4_Apocalypse_Dia1_1_Option1>
+  <!-- EN: [{0} giggles] Come on now, we're so close. Don't you want to rescue this planet? -->
+  <Story_Shrine4_Apocalypse_Dia1_2>[{0}傻笑了起来]来吧来吧，我们已经成功一大半了。难道你不想当个救世英雄吗？</Story_Shrine4_Apocalypse_Dia1_2>
+  <!-- EN: [Sigh] Considering what we might be facing, a little snow really doesn't sound so bad... -->
+  <Story_Shrine4_Apocalypse_Dia1_2_Option1>[轻声叹气]考虑到之后可能会遭遇的情况，下一场小雪听起来也没那么糟糕了...</Story_Shrine4_Apocalypse_Dia1_2_Option1>
+  <!-- EN: [{0} laughs] Well, we better prepare ourselves thoroughly, so you get to "enjoy" it until you think you're ready. Talk to you later? -->
+  <Story_Shrine4_Apocalypse_Dia1_3>[{0}放声大笑]好吧好吧，我们确实该做好最充足的准备。你可以一直“享受”这绵绵小雪，直到你觉得准备完毕为止。那我们晚点再聊？</Story_Shrine4_Apocalypse_Dia1_3>
+  <!-- EN: Alright, good luck with those calculations! -->
+  <Story_Shrine4_Apocalypse_Dia1_3_Option1>好吧，祝你好运！</Story_Shrine4_Apocalypse_Dia1_3_Option1>
+  <!-- EN: [{0} laughing full of joy] Yes, the ancient machines powered down, the planet is heating up again. We did it. You were so great. \n\nWe won't forget what you guys have done for us and the entire world. \n\nHmmm, how about 4000 bounty credits, that you can spent freely. \nAnd I really hope u guys stay in touch, especially since I'm not sure this is the last we saw of those damn mechs. \n\nThe planet is safe for now, but there is plenty more ruins out there. \nWe'll let you know if we find more in case you want to help ridding the planet of them, but for now, go celebrate and enjoy our victory. Wuhuuuuuuu. -->
+  <Story_Shrine5_Apocalypse_Dia1_1>[{0}脸上乐开了花]那台远古机械装置失去动力源了！全球气温正逐步回暖，我们做到了！你们都是最棒的！！！\n\n你们为大家和整个世界所做的一切都会深深铭记在每个人的心中。\n\n嗯...伙计，4000赏金点数怎么样？你们可以随意使用！\n我真希望能继续和你们保持联系，尤其是因为...我不确定这是不是我们最后一次看到那些该死的机械体铁疙瘩。\n\n星球现在安全了，但世界各地还有更多的遗迹等待发掘。\n如果我们发现了更多，我会第一时间给你发消息的。嘿嘿，我知道你会很乐意帮这颗星球解决掉这些麻烦的。嘛，胜利果实来之不易，我们也该好好庆祝一下了！呀吼！！！！！</Story_Shrine5_Apocalypse_Dia1_1>
+  <!-- EN: We couldn't have done it without you, thanks for all that help.\nWe'll come visit. Cya. -->
+  <Story_Shrine5_Apocalypse_Dia1_1_Option1>哈哈哈，真是过奖了。如果没有你和渎神猎人的大伙们，我们根本不可能拯救这颗星球。再次感谢你们一路以来的帮助。\n有机会我们会去你那里做客的。再会了，老朋友！</Story_Shrine5_Apocalypse_Dia1_1_Option1>
+  <!-- EN: Defeating the mechanical monstrosity activated old unknown machinery deep below the planet's surface that started to cool down the planet's core. This will slowly render the planet uninhabitable and the cause needs to be found. You should seek out more shrines to get answers. -->
+  <Story_Shrine1_QuestUpdate_1>击败的精英机械体激活了行星地表深处的远古机械装置，星球内核冷却程式已经开始。整个边缘世界将会慢慢变得不宜居住，我们需要找到更多圣殿来寻求解决方案。</Story_Shrine1_QuestUpdate_1>
+  <!-- EN: ({1}) {0}: {2} entered a shrine not harboring a guardian.\n{3} mentioned a disturbance, some highly bundled particle displacement.\nYou should find it, it must be hidden away in these ruins.  -->
+  <Story_Shrine5_QuestUpdate_1>({1}) {0}：{2}进入了一个没有机械体守卫的的圣殿。\n{3}提到似乎有什么东西正在发动干扰，侦测仪器也显示一些高能粒子集束在怪异地波动着。 我们应该试着找出干扰源，它肯定就藏在这些遗迹中。</Story_Shrine5_QuestUpdate_1>
+  <!-- EN: Defeating the {0} disabled the mechanoid mechanism responsible for freezing the planet. The catastrophe was avoided, the world will return to normal, but some other shrines may still be out there. -->
+  <Story_Shrine5_QuestUpdate_2>击败了{0}后，冷却星球内核的远古机械装置成功失效了。世界得以恢复正常，但其它圣殿依然存在着。</Story_Shrine5_QuestUpdate_2>
+  <!-- EN: (The main quest is now complete, but this quest will stay active to keep logging further shrines you may choose to explore. If you do not wish so, you can dismiss this quest.) -->
+  <Story_Shrine5_QuestUpdate_Info_1>(主线任务已经完成。此任务仍将保持激活状态，用以记录你探索的更多圣殿。如果你不需要此功能，可直接取消此任务。)</Story_Shrine5_QuestUpdate_Info_1>
+  <!-- EN: You look around as you step out of the portal's room -->
+  <Story_Shrine5_Apocalypse_Dia2Title>当走出传送门空间后，你环顾了四周</Story_Shrine5_Apocalypse_Dia2Title>
+  <!-- EN: [{0} deep in thoughts] The sacrileg hunters have no idea, that I felt something deep within the planet, when I killed the mechanoid monster. It's still down there... waiting. I may be able to reach it with some amplifier, but what could be that powerful?\n\nOh! Yes, maybe the tree, that chose me to begin with. But what might happen if I do? Do I even want to find out? Hmm, but for now it's time to get some rest... -->
+  <Story_Shrine5_Apocalypse_Dia2_1>[{0}陷入了沉思]渎神猎人的伙伴们并不知道，当干掉精英机械体时，我从星球深处感受到了某些东西。那东西还在下面...嗯？等等。我想我可以通过一些放大装置来接触到它，但有什么东西强大到足以充当放大装置呢？\n\n啊哈！我想到了。那棵仙树！正是它选择我当了救世主。但如果我真这么做了，会发生什么呢？我真的真的想知道吗？呃，不过现在嘛...是时候该休息一下了...</Story_Shrine5_Apocalypse_Dia2_1>
+  <!-- EN: Let's move on. -->
+  <Story_Shrine5_Apocalypse_Dia2_1_Option1>让我们继续行动吧。</Story_Shrine5_Apocalypse_Dia2_1_Option1>
+  <!-- EN: Current temperature: -->
+  <CAStoryCurrentTemperature>当前温度：</CAStoryCurrentTemperature>
+  <!-- EN: Unusual Infestation -->
+  <CALabelStrangeInfestation>异常虫灾</CALabelStrangeInfestation>
+  <!-- EN: Insects seeked you out. They seem more aggressive than usual. -->
+  <CATextStrangeInfestation>虫族侦测到了你的位置。它们似乎比平时更加凶狠暴躁。</CATextStrangeInfestation>
+</LanguageData>

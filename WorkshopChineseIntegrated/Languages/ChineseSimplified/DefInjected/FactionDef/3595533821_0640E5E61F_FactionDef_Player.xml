@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Noble Adventure -->
+  <BA_MedievalPlayer_Furst.label>新贵族冒险</BA_MedievalPlayer_Furst.label>
+  <!-- EN: An adventurous noble building a new county.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_MedievalPlayer_Furst.description>一位富有冒险精神的贵族，正建立属于自己的新伯爵领地。</BA_MedievalPlayer_Furst.description>
+  <!-- EN: leader -->
+  <BA_MedievalPlayer_Furst.leaderTitle>领主</BA_MedievalPlayer_Furst.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_MedievalPlayer_Furst.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_MedievalPlayer_Furst.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <BA_MedievalPlayer_Furst.pawnSingular>臣民</BA_MedievalPlayer_Furst.pawnSingular>
+  <!-- EN: subjects -->
+  <BA_MedievalPlayer_Furst.pawnsPlural>臣民们</BA_MedievalPlayer_Furst.pawnsPlural>
+  <!-- EN: Influence -->
+  <BA_MedievalPlayer_Furst.royalFavorLabel>影响力</BA_MedievalPlayer_Furst.royalFavorLabel>
+  
+  <!-- EN: New Lone Adventure -->
+  <BA_MedievalPlayer_LoneKnight.label>孤胆骑士冒险</BA_MedievalPlayer_LoneKnight.label>
+  <!-- EN: A lone feudal knight.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_MedievalPlayer_LoneKnight.description>一位孤独的封建骑士。</BA_MedievalPlayer_LoneKnight.description>
+  <!-- EN: leader -->
+  <BA_MedievalPlayer_LoneKnight.leaderTitle>首领</BA_MedievalPlayer_LoneKnight.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_MedievalPlayer_LoneKnight.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_MedievalPlayer_LoneKnight.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <BA_MedievalPlayer_LoneKnight.pawnSingular>追随者</BA_MedievalPlayer_LoneKnight.pawnSingular>
+  <!-- EN: subjects -->
+  <BA_MedievalPlayer_LoneKnight.pawnsPlural>追随者们</BA_MedievalPlayer_LoneKnight.pawnsPlural>
+  <!-- EN: Influence -->
+  <BA_MedievalPlayer_LoneKnight.royalFavorLabel>影响力</BA_MedievalPlayer_LoneKnight.royalFavorLabel>
+  
+</LanguageData>

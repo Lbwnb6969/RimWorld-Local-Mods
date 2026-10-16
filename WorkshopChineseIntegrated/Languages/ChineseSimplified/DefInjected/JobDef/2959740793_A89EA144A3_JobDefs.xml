@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: selling TargetB to TargetA. -->
+  <Storefront_Sell.reportString>将TargetB售卖给TargetA。</Storefront_Sell.reportString>
+  
+  <!-- EN: waiting for sales work. -->
+  <Storefront_StandBy.reportString>看管店铺。</Storefront_StandBy.reportString>
+  
+</LanguageData>

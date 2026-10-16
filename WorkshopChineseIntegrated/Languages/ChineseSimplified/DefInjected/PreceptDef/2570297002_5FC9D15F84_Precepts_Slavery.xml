@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: forbidden -->
+  <VME_Slavery_Forbidden.label>禁忌</VME_Slavery_Forbidden.label>
+  <!-- EN: Participating in slave trade is an absolutely vile idea. The only reason to purchase a slave is with intent to immediately free them. Moreso, those who struggled through enslavement deserve our compassion and respect. -->
+  <VME_Slavery_Forbidden.description>只有卑鄙无耻的小人才会参与奴隶贸易。我们购买奴隶的唯一原因便是想要立即解放他们。最重要的是，那些在奴役中挣扎的人们值得我们去同情与尊重。</VME_Slavery_Forbidden.description>
+  <!-- EN: Any slave in colony (until emancipated) -->
+  <VME_Slavery_Forbidden.comps.0.description>殖民地有奴隶（未解放）</VME_Slavery_Forbidden.comps.0.description>
+  
+</LanguageData>

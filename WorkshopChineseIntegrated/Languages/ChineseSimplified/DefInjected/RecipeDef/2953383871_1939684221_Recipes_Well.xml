@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Make_Water.label>从井中取水</DankPyon_Make_Water.label>
+  <DankPyon_Make_Water.description>将井里的水装至水袋。</DankPyon_Make_Water.description>
+  <DankPyon_Make_Water.jobString>正在将井里的水装至水袋。</DankPyon_Make_Water.jobString>
+
+  <DankPyon_Make_WaterBulk.label>从井中取水 x5</DankPyon_Make_WaterBulk.label>
+  <DankPyon_Make_WaterBulk.description>将井里的水装至水袋。</DankPyon_Make_WaterBulk.description>
+  <DankPyon_Make_WaterBulk.jobString>正在将井里的水装至水袋。</DankPyon_Make_WaterBulk.jobString>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Custodes ascendance vial -->
+  <BEWH_GeneseedVialCustodes.label>升华原液（禁军）</BEWH_GeneseedVialCustodes.label>
+  <!-- EN: A high-tech containment device holding a potent genetic compound. It is used to initiate the transformation of selected subjects into superhuman warriors. Upon implantation, it triggers rapid genetic enhancements, increasing strength, endurance, and resilience.\n\nThis vial contains the gestated genes ready for implantation into a pawn, creating a Custodes.\n\nThe safe implantation age is 0-3, implantation into anyone outside this range may kill them.\n\nThis item rapidly deteriorates outside containment. -->
+  <BEWH_GeneseedVialCustodes.description>一瓶高科技基因容器，内含强力基因复合物。用于将受试者升华为超级战士。植入后迅速强化受试者的基因，显著提升其力量、耐力与恢复力。\n\n此原液包含成熟基因物质，植入角色可创造禁军。\n\n安全植入年龄：0-3岁，超出此范围可能导致死亡。\n\n在容器外会快速老化。</BEWH_GeneseedVialCustodes.description>
+  
+  <!-- EN: Firstborn ascendance vial -->
+  <BEWH_GeneseedVialFirstborn.label>升华原液（初代星际战士）</BEWH_GeneseedVialFirstborn.label>
+  <!-- EN: A high-tech containment device holding a potent genetic compound. It is used to initiate the transformation of selected subjects into superhuman warriors. Upon implantation, it triggers rapid genetic enhancements, increasing strength, endurance, and resilience.\n\nThis vial contains the gestated genes ready for implantation into a pawn, creating a Firstborn.\n\nThe safe implantation age is 10~14, implantation into anyone outside this range may kill them.\n\nThis item rapidly deteriorates outside containment. -->
+  <BEWH_GeneseedVialFirstborn.description>一瓶高科技基因容器，内含强力基因复合物。用于将受试者升华为超级战士。植入后迅速强化受试者的基因，显著提升其力量、耐力与恢复力。\n\n此原液包含成熟基因物质，植入角色可创造初代星际战士。\n\n安全植入年龄：10-14岁，超出此范围可能导致死亡。\n\n在容器外会快速老化。</BEWH_GeneseedVialFirstborn.description>
+  
+  <!-- EN: Primarch ascendance vial -->
+  <BEWH_GeneseedVialPrimarch.label>升华原液（基因原体）</BEWH_GeneseedVialPrimarch.label>
+  <!-- EN: A high-tech containment device holding a potent genetic compound. It is used to initiate the transformation of selected subjects into superhuman warriors. Upon implantation, it triggers rapid genetic enhancements, increasing strength, endurance, and resilience.\n\nThis vial contains the gestated genes for creation of a Primarch.\n\nDue to the potency of the primarch genes, it needs to be inserted into a human embryo and grown artificially.\n\nThis item rapidly deteriorates outside containment. -->
+  <BEWH_GeneseedVialPrimarch.description>一瓶高科技基因容器，内含强力基因复合物。用于将受试者升华为超级战士。植入后迅速强化受试者的基因，显著提升其力量、耐力与恢复力。\n\n此原液包含成熟基因物质，植入角色可创造基因原体。\n\n因原体基因强度过高，需植入人类胚胎并通过人工培育成长。\n\n在容器外会快速老化。</BEWH_GeneseedVialPrimarch.description>
+  
+  <!-- EN: Primaris ascendance vial -->
+  <BEWH_GeneseedVialPrimaris.label>升华原液（原铸星际战士）</BEWH_GeneseedVialPrimaris.label>
+  <!-- EN: A high-tech containment device holding a potent genetic compound. It is used to initiate the transformation of selected subjects into superhuman warriors. Upon implantation, it triggers rapid genetic enhancements, increasing strength, endurance, and resilience.\n\nThis vial contains the gestated genes ready for implantation into a pawn, creating a Primaris.\n\nThe safe implantation age is 10~13, implantation into anyone outside this range may kill them.\n\nThis item rapidly deteriorates outside containment. -->
+  <BEWH_GeneseedVialPrimaris.description>一瓶高科技基因容器，内含强力基因复合物。用于将受试者升华为超级战士。植入后迅速强化受试者的基因，显著提升其力量、耐力与恢复力。\n\n此原液包含成熟基因物质，植入角色可创造原铸星际战士。\n\n安全植入年龄：10-13岁，超出此范围可能导致死亡。\n\n在容器外会快速老化。</BEWH_GeneseedVialPrimaris.description>
+  
+  <!-- EN: Thunder Warrior ascendance vial -->
+  <BEWH_GeneseedVialThunderWarrior.label>升华原液（雷霆战士）</BEWH_GeneseedVialThunderWarrior.label>
+  <!-- EN: A high-tech containment device holding a potent genetic compound. It is used to initiate the transformation of selected subjects into superhuman warriors. Upon implantation, it triggers rapid genetic enhancements, increasing strength, endurance, and resilience.\n\nThis vial contains the gestated genes ready for implantation into a pawn, creating a Thunder Warrior.\n\nThe safe implantation age is 12~21, implantation into anyone outside this range may kill them.\n\nThis item rapidly deteriorates outside containment. -->
+  <BEWH_GeneseedVialThunderWarrior.description>一瓶高科技基因容器，内含强力基因复合物。用于将受试者升华为超级战士。植入后迅速强化受试者的基因，显著提升其力量、耐力与恢复力。\n\n此原液包含成熟基因物质，植入角色可创造雷霆战士。\n\n安全植入年龄：12-21岁，超出此范围可能导致死亡。\n\n在容器外会快速老化。</BEWH_GeneseedVialThunderWarrior.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gambeson coat -->
+  <TA_GambesonCoat.label>棉甲外套</TA_GambesonCoat.label>
+  <!-- EN: Thick padded coat worn as armor by itself or under chest piece, too bulky to fit under maille sleeves. -->
+  <TA_GambesonCoat.description>厚实的填充外套，可单独作为护甲或穿在胸甲内，因过于厚重无法穿在锁子甲袖内。</TA_GambesonCoat.description>
+  
+</LanguageData>

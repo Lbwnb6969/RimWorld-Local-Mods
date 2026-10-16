@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AAFC_WalkPet.reportString>与宠物一起散步.</AAFC_WalkPet.reportString>
+  <AAFC_PlayFetch.reportString>正在玩丢接游戏.</AAFC_PlayFetch.reportString>
+  <AAFC_FetchItem.reportString>正在玩丢接游戏.</AAFC_FetchItem.reportString>
+  <AAFC_WaitForPawn.reportString>等待中.</AAFC_WaitForPawn.reportString>
+  
+</LanguageData>

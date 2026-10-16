@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood petrification -->
+  <DA_BloodPetrification.label>石血</DA_BloodPetrification.label>
+  <!-- EN: The near instantenous clotting of the blood which results in stone-like formations appearing all over the body, providing excellent protection and slowing the rate of blood-loss. -->
+  <DA_BloodPetrification.description>几乎像化石一样的血液凝块在整个体表覆盖了一层结构，提供了极佳的保护，同时降低了失血速率。</DA_BloodPetrification.description>
+  <!-- EN: minor -->
+  <DA_BloodPetrification.stages.minor-0.label>轻度</DA_BloodPetrification.stages.minor-0.label>
+  <!-- EN: minor -->
+  <DA_BloodPetrification.stages.minor-1.label>轻度</DA_BloodPetrification.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <DA_BloodPetrification.stages.moderate.label>中度</DA_BloodPetrification.stages.moderate.label>
+  <!-- EN: severe -->
+  <DA_BloodPetrification.stages.severe.label>严重</DA_BloodPetrification.stages.severe.label>
+  <!-- EN: extreme -->
+  <DA_BloodPetrification.stages.extreme.label>极度</DA_BloodPetrification.stages.extreme.label>
+  
+</LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Word of Divination -->
+  <!-- EN: By speaking the words of your Lecticio Divinitatus you're able to open your targets mind to the truth of your belief. -->
+  <!-- EN: Raise Bastion -->
+  <BEWH_RaiseBastion.label>升起堡垒</BEWH_RaiseBastion.label>
+  <!-- EN: Raise a temporary, sturdy bastion equipped with turrets and defensive positions. -->
+  <BEWH_RaiseBastion.description>升起一座配备炮塔和防御结构的临时坚固堡垒。</BEWH_RaiseBastion.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_RaiseBastion.jobReportString>使用能力：{0}</BEWH_RaiseBastion.jobReportString>
+  <!-- EN: Raise Bastion -->
+  <BEWH_RaiseBastion.verbProperties.label>升起堡垒</BEWH_RaiseBastion.verbProperties.label>
+  <!-- EN: Forestwalk longrange -->
+  <BEWH_ForestWalkLong.label>林中漫步（远距离）</BEWH_ForestWalkLong.label>
+  <!-- EN: By focusing on your destination, you manifest there by striding through the shadowed forests of Caliban until you arrive. -->
+  <BEWH_ForestWalkLong.description>集中注意力于你的目的地，你便能在卡利班的阴影森林中大步前行，然后到达目的地。</BEWH_ForestWalkLong.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_ForestWalkLong.jobReportString>使用能力：{0}</BEWH_ForestWalkLong.jobReportString>
+  <!-- EN: Forestwalk longrange -->
+  <BEWH_ForestWalkLong.verbProperties.label>林中漫步（远距离）</BEWH_ForestWalkLong.verbProperties.label>
+  <!-- EN: Forestwalk shortrange -->
+  <BEWH_ForestWalkShort.label>林中漫步（远距离）</BEWH_ForestWalkShort.label>
+  <!-- EN: By focusing on your destination, you manifest there by striding through the shadowed forests of Caliban until you arrive. -->
+  <BEWH_ForestWalkShort.description>集中注意力于你的目的地，你便能在卡利班的阴影森林中大步前行，然后到达目的地。</BEWH_ForestWalkShort.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_ForestWalkShort.jobReportString>使用能力：{0}</BEWH_ForestWalkShort.jobReportString>
+  <!-- EN: Forestwalk shortrange -->
+  <BEWH_ForestWalkShort.verbProperties.label>林中漫步（远距离）</BEWH_ForestWalkShort.verbProperties.label>
+  <!-- EN: Opus Maxima -->
+  <BEWH_OpusMaxima.label>至高调度</BEWH_OpusMaxima.label>
+  <!-- EN: By meticulous planning, you're able to temporarily increase productivity of other colonists on the map. -->
+  <BEWH_OpusMaxima.description>通过精心规划，你可以暂时提高其他殖民者的生产能力。</BEWH_OpusMaxima.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_OpusMaxima.jobReportString>使用能力：{0}</BEWH_OpusMaxima.jobReportString>
+  <!-- EN: Opus Maxima -->
+  <BEWH_OpusMaxima.verbProperties.label>至高调度</BEWH_OpusMaxima.verbProperties.label>
+  <!-- EN: Veil of Darkness -->
+  <BEWH_PsychicEmp.label>黑暗面纱</BEWH_PsychicEmp.label>
+  <!-- EN: Let out a psychic scream, that disrupts electronics, shattering all light sources, plunging the area into darkness and temporary stunning nearby enemies. -->
+  <BEWH_PsychicEmp.description>发出一声心灵尖啸，干扰电子设备，摧毁所有光源，这使该区域陷入黑暗，并暂时击晕附近的敌人。</BEWH_PsychicEmp.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_PsychicEmp.jobReportString>使用能力：{0}</BEWH_PsychicEmp.jobReportString>
+  <!-- EN: Veil of Darkness -->
+  <BEWH_PsychicEmp.verbProperties.label>黑暗面纱</BEWH_PsychicEmp.verbProperties.label>
+  <!-- EN: War Planning -->
+  <BEWH_WarPlanning.label>战争计划</BEWH_WarPlanning.label>
+  <!-- EN: By tactical and strategic planning, you're able to form a war plan, increasing combat effectiveness of other colonists on the map. -->
+  <BEWH_WarPlanning.description>通过战术和战略规划，你可以制定战争计划，提升其他殖民者的战斗力。</BEWH_WarPlanning.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_WarPlanning.jobReportString>使用能力：{0}</BEWH_WarPlanning.jobReportString>
+  <!-- EN: War Planning -->
+  <BEWH_WarPlanning.verbProperties.label>战争计划</BEWH_WarPlanning.verbProperties.label>
+  <!-- Alakh Geh -->
+  <BEWH_AlakhGeh.label>可汗之力</BEWH_AlakhGeh.label>
+  <BEWH_AlakhGeh.description>仅凭心念意志，可汗便可御风疾驰，万障莫阻。</BEWH_AlakhGeh.description>
+  <BEWH_AlakhGeh.jobReportString>使用能力：{0}</BEWH_AlakhGeh.jobReportString>
+  <BEWH_AlakhGeh.verbProperties.label>可汗之力</BEWH_AlakhGeh.verbProperties.label>
+  <!-- Deny The Witch -->
+  <BEWH_DenyTheWitch.label>抗御巫法</BEWH_DenyTheWitch.label>
+  <BEWH_DenyTheWitch.description>阻断目标灵能施法，压制其精神与灵能力量。</BEWH_DenyTheWitch.description>
+  <BEWH_DenyTheWitch.jobReportString>使用能力：{0}</BEWH_DenyTheWitch.jobReportString>
+  <BEWH_DenyTheWitch.verbProperties.label>抗御巫法</BEWH_DenyTheWitch.verbProperties.label>
+  <!-- Shared burden -->
+  <BEWH_ChillgronEmpathy.label>共担重负</BEWH_ChillgronEmpathy.label>
+  <BEWH_ChillgronEmpathy.description>通过心灵能力，你可以感受并分享目标的情绪，将他们可能产生的负面情绪转移到自己身上。</BEWH_ChillgronEmpathy.description>
+  <BEWH_ChillgronEmpathy.jobReportString>使用能力：{0}</BEWH_ChillgronEmpathy.jobReportString>
+  <BEWH_ChillgronEmpathy.verbProperties.label>共担重负</BEWH_ChillgronEmpathy.verbProperties.label>
+  <!-- Word of Authorit -->
+  <BEWH_LorgarWordOfAuthority.label>真言敕令</BEWH_LorgarWordOfAuthority.label>
+  <BEWH_LorgarWordOfAuthority.description>以神圣箴言感化目标，使其即刻皈依成为殖民地成员。</BEWH_LorgarWordOfAuthority.description>
+  <BEWH_LorgarWordOfAuthority.jobReportString>使用能力：{0}</BEWH_LorgarWordOfAuthority.jobReportString>
+  <BEWH_LorgarWordOfAuthority.verbProperties.label>真言敕令</BEWH_LorgarWordOfAuthority.verbProperties.label>
+  <!-- Conceal -->
+  <BEWH_Conceal.label>幽影潜行</BEWH_Conceal.label>
+  <BEWH_Conceal.description>遁迹无形，几乎无法被任何事物察觉。</BEWH_Conceal.description>
+  <BEWH_Conceal.jobReportString>使用能力：{0}</BEWH_Conceal.jobReportString>
+  <BEWH_Conceal.verbProperties.label>幽影潜行</BEWH_Conceal.verbProperties.label>
+  <!-- Iron Circle -->
+  <BEWH_IronCircle.label>铁环</BEWH_IronCircle.label>
+  <BEWH_IronCircle.description>召唤六台多米塔-钢铁级自动战斗机器人，保卫你的家园。</BEWH_IronCircle.description>
+  <BEWH_IronCircle.jobReportString>使用能力：{0}</BEWH_IronCircle.jobReportString>
+  <BEWH_IronCircle.verbProperties.label>铁环</BEWH_IronCircle.verbProperties.label>
+  <!-- Teleport to Twin -->
+  <BEWH_TwinTeleportation.label>兄弟情深</BEWH_TwinTeleportation.label>
+  <BEWH_TwinTeleportation.description>传送到你兄弟所在的地方。</BEWH_TwinTeleportation.description>
+  <BEWH_TwinTeleportation.jobReportString>使用能力：{0}</BEWH_TwinTeleportation.jobReportString>
+  <BEWH_TwinTeleportation.verbProperties.label>兄弟情深</BEWH_TwinTeleportation.verbProperties.label>
+</LanguageData>

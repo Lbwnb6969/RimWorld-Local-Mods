@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abstract -->
+
+  <DankPyon_Make_Wort_RoxberryStout.label>制作罗克斯黑麦芽浆</DankPyon_Make_Wort_RoxberryStout.label>
+  <DankPyon_Make_Wort_RoxberryStout.description>混合麦芽汁、莓果碎和罗克斯鲜奶以制成罗克斯黑麦芽浆。须经过发酵后才能酿造为罗克斯黑啤酒。</DankPyon_Make_Wort_RoxberryStout.description>
+  <DankPyon_Make_Wort_RoxberryStout.jobString>正在制作罗克斯黑麦芽浆。</DankPyon_Make_Wort_RoxberryStout.jobString>
+
+
+</LanguageData>

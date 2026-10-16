@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: visored sallet -->
+  <TA_VisorSallet.label>萨利特盔</TA_VisorSallet.label>
+  <!-- EN: Sallet helmet with foldable visor and bevor. It's modularity made it very popular among knights and anyone who could afford it. -->
+  <TA_VisorSallet.description>配有可折叠面甲和护颈的萨利特盔，其模块化设计使其深受骑士和能负担者的欢迎。</TA_VisorSallet.description>
+  <!-- EN: open visor -->
+  <TA_VisorSallet.comps.CompSwitchApparel.Label>打开面甲</TA_VisorSallet.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: visored sallet -->
+  <TA_VisorSalletUp.label>萨利特盔(开面甲)</TA_VisorSalletUp.label>
+  <!-- EN: Sallet helmet with foldable visor and bevor. It's modularity made it very popular among knights and anyone who could afford it. -->
+  <TA_VisorSalletUp.description>配有可折叠面甲和护颈的萨利特盔，其模块化设计使其深受骑士和能负担者的欢迎。</TA_VisorSalletUp.description>
+  <!-- EN: close visor -->
+  <TA_VisorSalletUp.comps.CompSwitchApparel.Label>关闭面甲</TA_VisorSalletUp.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

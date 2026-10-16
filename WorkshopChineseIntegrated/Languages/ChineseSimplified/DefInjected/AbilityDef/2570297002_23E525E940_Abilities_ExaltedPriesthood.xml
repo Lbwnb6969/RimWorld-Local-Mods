@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: conversion ritual (leader) -->
+  <VME_LeaderConversionRitual.label>转化仪式（领袖）</VME_LeaderConversionRitual.label>
+  <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
+  <VME_LeaderConversionRitual.description>试着劝说某人采纳你的文化形态。如果进展顺利，他们就会失去对自己某些文化形态的认可，并有可能可能改变文化形态。如果效果不好，他们会更加坚定自己原有的文化形态。\n\n需要选择一个特定的仪式地点，并且要有匹配的祭坛或者文化符号才能开始仪式。</VME_LeaderConversionRitual.description>
+  
+  <!-- EN: convert (leader) -->
+  <VME_LeaderConvert.label>教化（领袖）</VME_LeaderConvert.label>
+  <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
+  <VME_LeaderConvert.description>试图通过教化将某人的不同文化形态转化至谈话者己方文化形态。这将减少目标对自己文化形态的认可度。降低程度取决于谈话者的谈判能力。</VME_LeaderConvert.description>
+  <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
+  <VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}未能成功教化{RECIPIENT_labelShort}。{RECIPIENT_labelShort}对这种试探行为感到厌烦，不过{RECIPIENT_possessive}认可度从{CERTAINTYBEFORE}下降到{CERTAINTYAFTER}。</VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>
+  <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
+  <VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort}成功地将{RECIPIENT_labelShort}教化为{IDEO}。</VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>
+  
+  <!-- EN: Counsel (leader) -->
+  <VME_LeaderCounsel.label>劝慰（领袖）</VME_LeaderCounsel.label>
+  <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
+  <VME_LeaderCounsel.description>劝慰某个人走出悲伤记忆，面对现实生活。成功几率取决于谈话者的社交技能等级以及与目标之间的社会关系。</VME_LeaderCounsel.description>
+  <!-- EN: {INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset. -->
+  <VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort}搞砸了劝慰{RECIPIENT_labelShort}这件事。{RECIPIENT_labelShort}因此变得心烦意乱。</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}. -->
+  <VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort}成功劝慰了{RECIPIENT_labelShort}，并平复其{2}情绪状态。</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}. -->
+  <VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort}成功劝慰了{RECIPIENT_labelShort}，并提高{RECIPIENT_possessive}情绪值{MOODBONUS}。</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  
+  <!-- EN: preach health (leader) -->
+  <VME_LeaderPreachHealth.label>健康宣讲（领袖）</VME_LeaderPreachHealth.label>
+  <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
+  <VME_LeaderPreachHealth.description>通过向生病或受伤的人进行文化意识概念宣讲。提高他们的伤口愈合速度和免疫力增量。</VME_LeaderPreachHealth.description>
+  
+  <!-- EN: reassure (leader) -->
+  <VME_LeaderReassure.label>坚定信念（领袖）</VME_LeaderReassure.label>
+  <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
+  <VME_LeaderReassure.description>坚定某人对于自己文化的认可程度。坚定成果取决于谈话者的谈判能力。</VME_LeaderReassure.description>
+  <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->
+  <VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}成功激励了{RECIPIENT_labelShort}，将{RECIPIENT_possessive}对{IDEO}的认可度从{BEFORECERTAINTY}提高到{AFTERCERTAINTY}。</VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pine tree -->
+  <RG_Plant_BlueTreePine.label>松树</RG_Plant_BlueTreePine.label>
+  <!-- EN: A smaller blueish conifer covered with small pine cones. It grows only in colder regions or higher altitude. -->
+  <RG_Plant_BlueTreePine.description>能够结出小松果的小型蓝绿色针叶树。只能在寒冷或高海拔地区中生长。</RG_Plant_BlueTreePine.description>
+  
+  <!-- EN: fern -->
+  <RG_Plant_BorealFern.label>蕨草</RG_Plant_BorealFern.label>
+  <!-- EN: A short shrub with long, fine leaves. Grows in cold forests areas. -->
+  <RG_Plant_BorealFern.description>生长在寒带森林地区的矮小灌木，叶子又长又细。</RG_Plant_BorealFern.description>
+  
+  <!-- EN: coldheart -->
+  <RG_Plant_Coldheart.label>寒心常春藤</RG_Plant_Coldheart.label>
+  <!-- EN: A genetically altered version of common ivy adapted to thrive in areas of cold temperatures. -->
+  <RG_Plant_Coldheart.description>经过基因改造的常春藤，适合在寒冷地区生长。</RG_Plant_Coldheart.description>
+  
+  <!-- EN: pine tree -->
+  <RG_Plant_LargeTreePine.label>松树</RG_Plant_LargeTreePine.label>
+  <!-- EN: A tall bright green conifer with a thin bark. It grows taller than other pines. -->
+  <RG_Plant_LargeTreePine.description>树皮很薄的翠绿色针叶树，长得比其他松树都要高。</RG_Plant_LargeTreePine.description>
+  
+  <!-- EN: pine tree -->
+  <RG_Plant_OrangeTreePine.label>松树</RG_Plant_OrangeTreePine.label>
+  <!-- EN: A large orange conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <RG_Plant_OrangeTreePine.description>能够结出带刺松果的大型橙色针叶树。它的整个树冠长成独特的圆锥形。</RG_Plant_OrangeTreePine.description>
+  
+  <!-- EN: tiger lily -->
+  <RG_Plant_TigerLily.label>卷丹</RG_Plant_TigerLily.label>
+  <!-- EN: A tiny orange flower which grows in large clusters. Though it is often considered a weed, tiger lilys in bloom are quite beautiful. -->
+  <RG_Plant_TigerLily.description>一种长成一大簇的橙色小花，因为繁殖迅速常被当作野草。实际上也是一种比较好看的花卉。</RG_Plant_TigerLily.description>
+  
+  <!-- EN: potokus -->
+  <RG_Potokus.label>柏土卡菇</RG_Potokus.label>
+  <!-- EN: A small brown and delicious mushroom growing in clusters. It grows exclusively in boreal forests. -->
+  <RG_Potokus.description>一种长成一小簇的棕色蘑菇，味道鲜美。生长周期较长，但不会枯萎。</RG_Potokus.description>
+  
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 4-pounder canister shot shell -->
+  <Ammo_4lbsCannonBall_Canister.label>4磅霰弹</Ammo_4lbsCannonBall_Canister.label>
+  <!-- EN: A canister of musket balls, fired in a wide spread to deal horrific damage against enemy infantry.
+\n\n鹿弹:
+\n装有多粒大型圆铅弹弹药，通常用来猎鹿或其他大型动物，现代军事单位和治安单位也使用这类弹药。
+\n\n使用者: -->
+  <Ammo_4lbsCannonBall_Canister.description>装有大量铅弹的霰弹，射击范围广，对步兵造成毁灭性打击。</Ammo_4lbsCannonBall_Canister.description>
+  
+  <!-- EN: 4-pounder grape shot shell -->
+  <Ammo_4lbsCannonBall_Grape.label>4磅葡萄弹</Ammo_4lbsCannonBall_Grape.label>
+  <!-- EN: A bundle of medium sized metal balls, fired in a wide spread to deal horrific damage against enemy infantry.
+\n\n简易葡萄弹:
+\n一种装有许多小炮弹的罐子，由早期的平滑炮发射，作为反步兵武器。
+\n\n使用者: -->
+  <Ammo_4lbsCannonBall_Grape.description>由多个中型金属球组成的葡萄弹，射击范围广，对步兵造成毁灭性打击。</Ammo_4lbsCannonBall_Grape.description>
+  
+  <!-- EN: 4-pounder round shot -->
+  <Ammo_4lbsCannonBall_Round.label>4磅实心弹</Ammo_4lbsCannonBall_Round.label>
+  <!-- EN: A solid ball of metal fired, capable of delivering significant damage on a direct hit.
+\n\n简易实心弹:
+\n一种由早期的光滑口径火炮发射的实心金属球。
+\n\n使用者: -->
+  <Ammo_4lbsCannonBall_Round.description>金属实心弹，直接命中可造成巨大伤害。</Ammo_4lbsCannonBall_Round.description>
+  
+  <!-- EN: canister shot -->
+  <Bullet_4lbsCannonBall_Canister.label>霰弹</Bullet_4lbsCannonBall_Canister.label>
+  
+  <!-- EN: grape shot -->
+  <Bullet_4lbsCannonBall_Grape.label>葡萄弹</Bullet_4lbsCannonBall_Grape.label>
+  
+  <!-- EN: 4-pounder round shot -->
+  <Bullet_4lbsCannonBall_Round.label>4磅实心弹</Bullet_4lbsCannonBall_Round.label>
+  
+</LanguageData>

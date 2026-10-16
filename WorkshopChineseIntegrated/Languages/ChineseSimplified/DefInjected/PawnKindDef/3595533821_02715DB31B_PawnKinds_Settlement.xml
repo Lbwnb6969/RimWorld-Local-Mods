@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: nobleman -->
+  <BA_HighNoble_HRE.label>男贵族</BA_HighNoble_HRE.label>
+  <!-- EN: noblewoman -->
+  <BA_HighNoble_HRE.labelFemale>女贵族</BA_HighNoble_HRE.labelFemale>
+  
+  <!-- EN: merchant -->
+  <BA_HRE_Trader.label>商人</BA_HRE_Trader.label>
+  
+  <!-- EN: townsman -->
+  <BA_Urban_Civilian_HRE.label>男市民</BA_Urban_Civilian_HRE.label>
+  <!-- EN: townswoman -->
+  <BA_Urban_Civilian_HRE.labelFemale>女市民</BA_Urban_Civilian_HRE.labelFemale>
+  
+</LanguageData>

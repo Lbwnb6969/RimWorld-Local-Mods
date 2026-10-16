@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: embrace the deep rhetoric -->
+  <AM_Speech_DirtmoleConversion.label>拥抱地底祷辞</AM_Speech_DirtmoleConversion.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->the body being reshaped for life beneath the earth</li>
+    <li>speechtopic->the growth of powerful claws made for digging</li>
+    <li>speechtopic->the strengthening of the body to endure the deep earth</li>
+    <li>speechtopic->the thickening of the skin to withstand the harshness of the underground</li>
+    <li>speechtopic->the sharpening of the senses to navigate through darkness</li>
+    <li>speechtopic->the transformation of the limbs for burrowing through solid earth</li>
+    <li>speechtopic->the reshaping of the body into the form of a dirtmole</li>
+    <li>speechtopic->the loss of the fragile traits of the surface-dwelling body</li>
+    <li>speechtopic->the initiate's body becoming suited to life in the deep</li>
+    <li>speechtopic(p=0.25)->embracing the physical transformation into a dirtmole</li>
+    <li>speechtopic(p=0.25)->leaving the weakness of the surface behind</li>
+    <li>speechtopic(p=0.25)->becoming one with the earth below</li>
+    <li>speechtopic(p=0.25)->accepting the body that belongs beneath the earth</li>
+  -->
+  <AM_Speech_DirtmoleConversion.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->身体为在地下生活而得到重塑</li>
+    <li>speechtopic->为挖掘而生的利爪之成长</li>
+    <li>speechtopic->为承受地底环境而强化的身体</li>
+    <li>speechtopic->为抵御地下严酷环境而变厚的皮肤</li>
+    <li>speechtopic->为在黑暗中导航而锐化的感官</li>
+    <li>speechtopic->为在坚固土壤中挖掘而转化的肢体</li>
+    <li>speechtopic->身体被重塑成土鼹种的形态</li>
+    <li>speechtopic->失去地表生物的脆弱特性</li>
+    <li>speechtopic->新人的身体变得逐渐适应地下生活</li>
+    <li>speechtopic(p=0.25)->拥抱迈向土鼹种的物理转变</li>
+    <li>speechtopic(p=0.25)->抛弃地表生物的弱点</li>
+    <li>speechtopic(p=0.25)->与脚下的大地合而为一</li>
+    <li>speechtopic(p=0.25)->接纳属于地底的身体</li>
+  </AM_Speech_DirtmoleConversion.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

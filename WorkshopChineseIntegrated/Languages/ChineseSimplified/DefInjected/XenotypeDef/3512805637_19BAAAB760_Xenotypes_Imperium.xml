@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: custodes -->
+  <BEWH_Custodes.label>禁军</BEWH_Custodes.label>
+  <!-- EN: The Adeptus Custodes, hand-crafted by the Emperor Himself, are His personal guardians, surpassing even the Space Marines in skill, might, and loyalty. Immortal and unmatched in their martial prowess, they stand vigilant at His side, their golden armor gleaming as they protect the Master of Mankind. -->
+  <BEWH_Custodes.description>禁军由帝皇亲自打造，他们是帝皇的私人护卫，其技艺、力量与忠诚皆远超星际战士。他们永生不朽，武艺高强，他们身披金甲屹立两侧，守护着人类之主。</BEWH_Custodes.description>
+  <!-- EN: Created by the Master of Mankind personally, these beings are what primarch are to a space marine. The Adeptus Custodes are incarnations of incredible strength and vigilance. -->
+  <BEWH_Custodes.descriptionShort>人类之主亲铸的终极护卫，其于星际战士犹如原体之于凡人，他们是力量与警觉的化身。</BEWH_Custodes.descriptionShort>
+  
+  <!-- EN: living saint -->
+  <BEWH_LivingSaint.label>活圣人</BEWH_LivingSaint.label>
+  <!-- EN: In the name of the Holy God-Emperor, the path to sainthood begins with unwavering faith and total devotion to His divine will. This path often involves martyrdom - dying in battle or self-sacrifice for humanity. Reborn in celestial glory, they return, wreathed in the Emperor's light, to fight His enemies with supernatural power and righteousness, a beacon to all faithful. -->
+  <BEWH_LivingSaint.description>通向活圣人之路始于对神皇圣意的绝对虔诚。此道常需殉难——战死沙场或为人类牺牲。他们将在天界荣光中重生，将在帝皇的光辉下归来，以超凡伟力与正义讨伐异端，成为所有信众的永恒明灯。</BEWH_LivingSaint.description>
+  <!-- EN: A Living Saint is an extraordinarily devout servant of the Emperor of Mankind, who displays seemingly miraculous, supernatural abilities derived from potent faith in the God-Emperor during his or her lifetime. -->
+  <BEWH_LivingSaint.descriptionShort>活圣人是帝皇的极其虔诚的仆从，他们生前因坚定信仰而展现出神迹伟力。</BEWH_LivingSaint.descriptionShort>
+  
+  <!-- EN: pariah -->
+  <BEWH_Pariah.label>无魂者</BEWH_Pariah.label>
+  <!-- EN: Pariahs are individuals cursed with a profound psychic nullity, existing as living anti-psychic entities that suppress the powers of the warp in their vicinity. Their unique abilities make them invaluable in the war against psychic threats. In battle, they are harbingers of silence, cutting through the chaotic energies of the warp and serving as a stark counterbalance to the psychic forces that threaten the Imperium. -->
+  <BEWH_Pariah.description>无魂者是背负虚无诅咒的个体，作为活体反灵能实体而存在。能够抑制周围的亚空间力量。他们独特的能力在对抗灵能威胁时无可替代。战场上，他们是寂静的使者，能够穿透亚空间的混沌能量，成为抗衡威胁帝国的灵能力量的终极砝码。</BEWH_Pariah.description>
+  <!-- EN: With no presence in the warp these beings are resistant to psychic attacks. -->
+  <BEWH_Pariah.descriptionShort>亚空间虚无特性使其免疫灵能攻击。</BEWH_Pariah.descriptionShort>
+  
+  <!-- EN: primarch -->
+  <BEWH_Primarch.label>基因原体</BEWH_Primarch.label>
+  <!-- EN: The Primarchs, crafted by the Emperor's own hand, are demigods of war and leadership, each embodying a facet of His divine vision. Towering above all others in might, intellect, and charisma, they were destined to lead the Legiones Astartes and shape the fate of the Imperium. Their very presence reshaping worlds and inspiring legions. -->
+  <BEWH_Primarch.description>基因原体由帝皇本人亲手铸造。他们是战争与统治的半神，每位原体各承载帝皇神圣愿景的一面。原体们因其碾压众生的力量、智慧与魅力，注定统领星际战士军团并决定帝国的命运。他们的存在本身就重塑了世界，鼓舞了万千军团。</BEWH_Primarch.description>
+  <!-- EN: Bred to be perfect generals, warriors and statesmen; larger, stronger, faster, and smarter than any normal human could ever hope to be. They possessed a potent charisma and martial prowess that made them like the mythical gods of old - untouchable by disease, old age or supposedly the petty failings of lesser men. -->
+  <BEWH_Primarch.descriptionShort>原体们被培育为完美的将军、战士和政治家；他们的体型力量速度智慧皆非凡人可及。他们拥有神祇般的魅力与武艺，不受疾病衰老，或凡人所谓的缺点影响。</BEWH_Primarch.descriptionShort>
+  
+  <!-- EN: primaris marine -->
+  <BEWH_PrimarisSpaceMarine.label>原铸星际战士</BEWH_PrimarisSpaceMarine.label>
+  <!-- EN: The Primaris, crafted in secret by Archmagos Belisarius Cawl under the Emperor's long-forgotten edict, are the next evolution of the Adeptus Astartes, engineered to surpass even the Firstborn in strength, resilience, and combat prowess. -->
+  <BEWH_PrimarisSpaceMarine.description>原铸星际战士由大贤者贝利萨留·考尔根据帝皇那早已被遗忘的法令秘密打造。他们是星际战士的进化形态，其力量、韧性和战斗力皆超越初代星际战士。</BEWH_PrimarisSpaceMarine.description>
+  <!-- EN: Barely human, but instead superhuman; genetically engineered to be superior to normal humans in every way. These primaris stand above and are stronger than the standard space marine. -->
+  <BEWH_PrimarisSpaceMarine.descriptionShort>他们几乎已经不是人类了，简直是超人。经过基因改造，他们全方位优于常人。其实力凌驾普通星际战士之上。</BEWH_PrimarisSpaceMarine.descriptionShort>
+  
+  <!-- EN: firstborn marine -->
+  <BEWH_SpaceMarine.label>初代星际战士</BEWH_SpaceMarine.label>
+  <!-- EN: Forged from the Emperor's ancient designs, the Firstborn stand as the original and proud warriors of the Adeptus Astartes, each bound by the gene-seed of their Primarch. Untouched by any natural disease, space marines are able to suffer wounds that would kill an ordinary man and still live to fight another day. -->
+  <BEWH_SpaceMarine.description>初代星际战士由帝皇古老的设计铸就，是星际战士军团的最初的荣耀，每个人都被其原体的基因种子所束缚。星际战士不受任何疾病的影响，即使承受了致命伤害，他们仍然能够活下来继续战斗。</BEWH_SpaceMarine.description>
+  <!-- EN: Barely human, but instead superhuman; genetically engineered to be superior to normal humans in every way. -->
+  <BEWH_SpaceMarine.descriptionShort>他们几乎已经不是人类了，简直是超人。经过基因改造，他们全方位优于常人。</BEWH_SpaceMarine.descriptionShort>
+  
+  <!-- EN: thunder warrior -->
+  <BEWH_ThunderWarrior.label>雷霆战士</BEWH_ThunderWarrior.label>
+  <!-- EN: The Thunder Warriors were the Emperor's first creations, towering and brutal warriors forged for the unification of Terra. Unmatched in raw strength and fury, they were designed to crush all opposition, embodying the Emperor's wrath on the battlefield. But their power came at a cost - engineered for short, violent lives, they burned brightly and briefly, knowing only war before being cast aside as the Imperium's dark, forgotten foundation. -->
+  <BEWH_ThunderWarrior.description>雷霆战士是帝皇的首批造物，他们是高大而残暴的战士，为统一泰拉而生。他们拥有无与伦比的原始力量和狂怒，旨在粉碎一切反抗，是战场上帝皇之怒的化身。但他们的力量是有代价的——他们短暂暴烈的生命如昙花一现，如同一束束明亮但燃烧短暂的火焰，在被帝国抛弃，成为被黑暗所遗忘的垫脚石之前，他们只知道战斗。</BEWH_ThunderWarrior.description>
+  <!-- EN: Gene-enhanced warriors created by the Emperor to be living weapons, the Thunder Warriors were known to be physically stronger, more savage, more resilient and more potent in combat than the later Firstborn, though they were not as long-lived and suffered from often dangerous mental instability and early metabolic collapse when their bodies began to reject their augmentations. -->
+  <BEWH_ThunderWarrior.descriptionShort>雷霆战士是帝皇创造的活体兵器，肉体强度、凶暴程度、韧性及战力皆胜于后来的星际战士。但是他们寿命短暂，饱受精神癫狂与代谢崩溃之苦。</BEWH_ThunderWarrior.descriptionShort>
+  
+</LanguageData>

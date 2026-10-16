@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: automated mortar -->
+  <Gun_AutomatedMortar.label>自动迫击炮</Gun_AutomatedMortar.label>
+  <!-- EN: automated mortar -->
+  <Gun_AutomatedMortar.verbs.Verb_Shoot.label>自动迫击炮</Gun_AutomatedMortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: artillery gun -->
+  <VFES_Artillery_ArtilleryGun.label>远程火炮</VFES_Artillery_ArtilleryGun.label>
+  <!-- EN: Artillery launcher. Lobs bombs over walls. Accurate and long-ranged. -->
+  <VFES_Artillery_ArtilleryGun.description>远程火炮。能将炮弹以曲射弹道打出。精准且射程远。</VFES_Artillery_ArtilleryGun.description>
+  <!-- EN: artillery gun -->
+  <VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>远程火炮</VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>
+  
+  <!-- EN: artillery -->
+  <VFES_Turret_Artillery.label>远程火炮</VFES_Turret_Artillery.label>
+  <!-- EN: A powerful, manned artillery cannon designed for long-range bombardment. Though it fires slower than a mortar, its improved targeting systems allow for far greater accuracy, making it ideal for precise strikes against enemy structures or high-value targets. Can be crewed by two people to double its firing speed. Capable of providing fire support across the world map, but only on revealed locations. -->
+  <VFES_Turret_Artillery.description>一种可以发射所有种类炮弹的远程火炮，专为远程轰炸而设计。虽然射速比迫击炮更慢，但强化过的火控系统赋予了它更高的精度，使其能对敌方的建筑和高价值目标发动精准轰炸。\n\n远程火炮可以指派两名殖民者进行操作，令其射速翻倍。能在世界地图上提供火力支援，但只能轰炸已探明的位置。</VFES_Turret_Artillery.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_Artillery.comps.CompRefuelable.fuelGizmoLabel>炮管耐久度</VFES_Turret_Artillery.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_Artillery.comps.CompRefuelable.fuelLabel>更换炮管前剩余射击次数</VFES_Turret_Artillery.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new reinforced barrel -->
+  <VFES_Turret_Artillery.comps.CompRefuelable.outOfFuelMessage>需要新的加固炮管</VFES_Turret_Artillery.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: automated mortar -->
+  <VFES_Turret_AutomatedMortar.label>自动迫击炮</VFES_Turret_AutomatedMortar.label>
+  <!-- EN: An automated mortar that launches high-explosive shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. Due to a delicate firing mechanism, it's only calibrated to fire high-explosive shells. -->
+  <VFES_Turret_AutomatedMortar.description>一种可以发射高爆弹的自动迫击炮。虽然能造成毁灭性破坏，但是较低的精度使得它相比起打击成群敌人，针对大型防御工事的时候更有效。不需要手动操纵。由于发射机制复杂，它只能发射高爆弹。</VFES_Turret_AutomatedMortar.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelGizmoLabel>炮管耐久度</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelLabel>更换炮管前剩余射击次数</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelLabel>
+  <!-- EN: Needs new reinforced barrel -->
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfFuelMessage>需要新的加固炮管</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfFuelMessage>
+  <!-- EN: No shells -->
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfSecondaryFuelMessage>高爆弹耗尽</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfSecondaryFuelMessage>
+  <!-- EN: Shells loaded -->
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelGizmoLabel>已装填高爆弹</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelGizmoLabel>
+  <!-- EN: Ammunition -->
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelLabel>高爆弹</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelLabel>
+  
+</LanguageData>

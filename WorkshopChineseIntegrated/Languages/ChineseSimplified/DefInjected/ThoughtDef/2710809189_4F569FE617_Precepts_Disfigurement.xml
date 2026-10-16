@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disfigured -->
+  <AM_Disfigurement_Preferred.stages.disfigured.label>毁容</AM_Disfigurement_Preferred.stages.disfigured.label>
+  <!-- EN: Disfigurement is beautiful. To alter the body is to improve it. -->
+  <AM_Disfigurement_Preferred.stages.disfigured.description>毁容才是真正美丽的象征，而改造身体就是在完善这一点。</AM_Disfigurement_Preferred.stages.disfigured.description>
+  <!-- EN: not disfigured -->
+  <AM_Disfigurement_Preferred.stages.not_disfigured.label>未毁容</AM_Disfigurement_Preferred.stages.not_disfigured.label>
+  <!-- EN: I want to be disfigured. An unaltered body is a wasted opportunity to become something greater. -->
+  <AM_Disfigurement_Preferred.stages.not_disfigured.description>我渴望被毁容。不改造身体就是在浪费成为更伟大存在的机会。</AM_Disfigurement_Preferred.stages.not_disfigured.description>
+  
+  <!-- EN: disfigured -->
+  <AM_Disfigurement_Preferred_Social.stages.disfigured.label>毁容</AM_Disfigurement_Preferred_Social.stages.disfigured.label>
+  
+</LanguageData>

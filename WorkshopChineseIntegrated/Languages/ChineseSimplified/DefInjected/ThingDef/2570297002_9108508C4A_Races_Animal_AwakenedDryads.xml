@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awakened barkskin dryad -->
+  <VDE_AwakenedDryad_Barkskin.label>觉醒盾皮树精</VDE_AwakenedDryad_Barkskin.label>
+  <!-- EN: A dryad caste specialized in absorbing hits during combat. Its awakening has created multiple layers of hardened bark and deadened all pain receptors. Can act as a mobile form of cover.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Barkskin.description>一个专门负责在战斗中承受伤害的树精品种。觉醒后，这种树精的体表会产生多层厚实的树皮状皮甲，而体内所有的痛觉神经也已完全退化。在人为控制下，它很适合充当能够移动的肉盾掩体。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Barkskin.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Barkskin.tools.left_claw.label>左爪</VDE_AwakenedDryad_Barkskin.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Barkskin.tools.right_claw.label>右爪</VDE_AwakenedDryad_Barkskin.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Barkskin.tools.head.label>头</VDE_AwakenedDryad_Barkskin.tools.head.label>
+  
+  <!-- EN: awakened berrymaker dryad -->
+  <VDE_AwakenedDryad_Berrymaker.label>觉醒蜜果树精</VDE_AwakenedDryad_Berrymaker.label>
+  <!-- EN: A dryad caste specialized in food production. Its awakening has accelerated the berry production and instills an instinct to bury parts of its peeling hide that are entirely similar to regular berry bushes.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Berrymaker.description>一个专门负责食材生产的树精品种。觉醒后，这种树精产出莓果的速度变得更快，而身上不时脱落的毛皮也会扎根于土中，最终长出新的野山莓灌木。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Berrymaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Berrymaker.tools.left_claw.label>左爪</VDE_AwakenedDryad_Berrymaker.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Berrymaker.tools.right_claw.label>右爪</VDE_AwakenedDryad_Berrymaker.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Berrymaker.tools.head.label>头</VDE_AwakenedDryad_Berrymaker.tools.head.label>
+  
+  <!-- EN: awakened carrier dryad -->
+  <VDE_AwakenedDryad_Carrier.label>觉醒协运树精</VDE_AwakenedDryad_Carrier.label>
+  <!-- EN: A dryad caste specialized in carrying items. Its awakening has improved their size, carrying capacity and added functionality as a pack animal for long-distance hauling.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Carrier.description>一个专门负责搬运物品的树精品种。觉醒后，这种树精的体型与携带能力都有所增强，甚至还可以作为远行队的驮畜来使用。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Carrier.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Carrier.tools.left_claw.label>左爪</VDE_AwakenedDryad_Carrier.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Carrier.tools.right_claw.label>右爪</VDE_AwakenedDryad_Carrier.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Carrier.tools.head.label>头</VDE_AwakenedDryad_Carrier.tools.head.label>
+  
+  <!-- EN: awakened clawer dryad -->
+  <VDE_AwakenedDryad_Clawer.label>觉醒利爪树精</VDE_AwakenedDryad_Clawer.label>
+  <!-- EN: A dryad caste with huge claws that is specialized in aggression and damage-dealing attacks. Its awakening has improved their combat prowess and strengthened the wings, permitting them to ignore terrain movement penalties.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Clawer.description>一个有着巨大爪子的树精品种，擅长作战和对敌人造成伤害。觉醒后，这种树精的战斗力得到了显著增强，身体两侧有力的翼翅能使它忽略地形带来的移速惩罚。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Clawer.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Clawer.tools.left_claw.label>左爪</VDE_AwakenedDryad_Clawer.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Clawer.tools.right_claw.label>右爪</VDE_AwakenedDryad_Clawer.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Clawer.tools.head.label>头</VDE_AwakenedDryad_Clawer.tools.head.label>
+  
+  <!-- EN: awakened gaubricmaker dryad -->
+  <VDE_AwakenedDryad_Gaubricmaker.label>觉醒纺绸树精</VDE_AwakenedDryad_Gaubricmaker.label>
+  <!-- EN: A caste of dryad which specializes in producing a unique shaggy, leather-like material. Its awakening has accelerated the fabric production and lengthens the shagginess, turning it an adorable, living wonder-mop that cleans up messes.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Gaubricmaker.description>一个专门负责生产特殊的绒皮状材料的树精品种。觉醒后，这种树精产出织物的速度变得更快，身上浓密柔顺的长毛也使它变成了能清扫地面的奇妙拖把。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Gaubricmaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Gaubricmaker.tools.left_claw.label>左爪</VDE_AwakenedDryad_Gaubricmaker.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Gaubricmaker.tools.right_claw.label>右爪</VDE_AwakenedDryad_Gaubricmaker.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Gaubricmaker.tools.head.label>头</VDE_AwakenedDryad_Gaubricmaker.tools.head.label>
+  
+  <!-- EN: awakened medicinemaker dryad -->
+  <VDE_AwakenedDryad_Medicinemaker.label>觉醒药师树精</VDE_AwakenedDryad_Medicinemaker.label>
+  <!-- EN: A dryad caste specialized in medicine production. Its awakening has accelerated the herbal production and gives them a large nodule that slowly accumulated neutroamine, which can be milked when full.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Medicinemaker.description>一个专门负责生产药材的树精品种。觉醒后，这种树精产出草药的速度变得更快，而身上生长的大结节也能慢慢积聚出可供使用的中性胺。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Medicinemaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Medicinemaker.tools.left_claw.label>左爪</VDE_AwakenedDryad_Medicinemaker.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Medicinemaker.tools.right_claw.label>右爪</VDE_AwakenedDryad_Medicinemaker.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Medicinemaker.tools.head.label>头</VDE_AwakenedDryad_Medicinemaker.tools.head.label>
+  
+  <!-- EN: awakened nectarmaker dryad -->
+  <VDE_AwakenedDryad_Nectarmaker.label>觉醒甘馐树精</VDE_AwakenedDryad_Nectarmaker.label>
+  <!-- EN: A curious dryad caste specialized in ambrosia production. Its awakening has accelerated the ambrosia production and allows it to permanently root itself, transforming into a hardy Ambrosia Palm tree.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Nectarmaker.description>一个专门负责生产仙馐果的奇特树精品种。觉醒后，这种树精产出仙馐果的速度变得更快，它还可以将自身永久扎根于土中，以变成生命力顽强的仙馐灵树。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Nectarmaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Nectarmaker.tools.left_claw.label>左爪</VDE_AwakenedDryad_Nectarmaker.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Nectarmaker.tools.right_claw.label>右爪</VDE_AwakenedDryad_Nectarmaker.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Nectarmaker.tools.head.label>头</VDE_AwakenedDryad_Nectarmaker.tools.head.label>
+  
+  <!-- EN: awakened spitter dryad -->
+  <VDE_AwakenedDryad_Spitter.label>觉醒酸蚀树精</VDE_AwakenedDryad_Spitter.label>
+  <!-- EN: A dryad caste specialized in territorialism and can launch ranged acid projectiles. Its awakening has improved their range and adds large acid reservoirs that explode when the dryad dies.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Spitter.description>一个擅长以喷吐酸液来击退进犯之敌的树精品种。觉醒后，这种树精的射程得到了一定提升，当死亡时，它体内的大型储酸囊将会引发一场酸蚀爆炸。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Spitter.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Spitter.tools.left_claw.label>左爪</VDE_AwakenedDryad_Spitter.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Spitter.tools.right_claw.label>右爪</VDE_AwakenedDryad_Spitter.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Spitter.tools.head.label>头</VDE_AwakenedDryad_Spitter.tools.head.label>
+  <!-- EN: acidic spit -->
+  <VDE_AwakenedDryad_Spitter.verbs.acidic_spit.label>酸蚀喷射</VDE_AwakenedDryad_Spitter.verbs.acidic_spit.label>
+  
+  <!-- EN: awakened stonedigger dryad -->
+  <VDE_AwakenedDryad_Stonedigger.label>觉醒采石树精</VDE_AwakenedDryad_Stonedigger.label>
+  <!-- EN: An extremely easy-going caste of dryad which specializes in finding stone chunks. Its awakening has instilled a sense of awe and strengthened pincers, drawing envy from stone ruins and carving excavated stone chunks into blocks to build a better shell.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Stonedigger.description>一个专门负责生产石块的悠闲树精品种。觉醒后，这种树精双螯的力量得到了提升，由于对周围的石制遗迹心生慕意，它还会将采出的石块精心雕凿成石砖以构筑出更好的甲壳。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Stonedigger.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Stonedigger.tools.left_claw.label>左爪</VDE_AwakenedDryad_Stonedigger.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Stonedigger.tools.right_claw.label>右爪</VDE_AwakenedDryad_Stonedigger.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Stonedigger.tools.head.label>头</VDE_AwakenedDryad_Stonedigger.tools.head.label>
+  
+  <!-- EN: awakened woodmaker dryad -->
+  <VDE_AwakenedDryad_Woodmaker.label>觉醒供木树精</VDE_AwakenedDryad_Woodmaker.label>
+  <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Its awakening has accelerated the wood-like material production and instilled a motherly instinct to create nests made of numerous twigs.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Woodmaker.description>一个缓慢、笨手笨脚的树精品种，专门从事木材的生产。觉醒后，这种树精产出木质材料的速度变得更快，被激发的母性本能也使它可以用拾来的树枝筑巢。\n\n与它们未觉醒的同类相比，觉醒树精可谓瑕瑜并存。虽然它们更加强大专业且不会受到母树的束缚，但无法再次转变成新的形态。由于无法从树精女王那里汲取养分，它们的寿命也极其有限。</VDE_AwakenedDryad_Woodmaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Woodmaker.tools.left_claw.label>左爪</VDE_AwakenedDryad_Woodmaker.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Woodmaker.tools.right_claw.label>右爪</VDE_AwakenedDryad_Woodmaker.tools.right_claw.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Woodmaker.tools.head.label>头</VDE_AwakenedDryad_Woodmaker.tools.head.label>
+  
+</LanguageData>

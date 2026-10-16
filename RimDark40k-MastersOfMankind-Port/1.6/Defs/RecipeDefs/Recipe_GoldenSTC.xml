@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef>
+    <defName>Local_MakeGoldenSTC</defName>
+    <label>reconstruct golden STC template</label>
+    <description>Reconstruct a masterwork Standard Template Construct printout for Vulkan's autoforge.</description>
+    <jobString>Reconstructing golden STC template.</jobString>
+    <workAmount>60000</workAmount>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.5</workSkillLearnFactor>
+    <effectWorking>Research</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <ingredients>
+      <li>
+        <filter><thingDefs><li>Gold</li></thingDefs></filter>
+        <count>25</count>
+      </li>
+      <li>
+        <filter><thingDefs><li>Plasteel</li></thingDefs></filter>
+        <count>50</count>
+      </li>
+      <li>
+        <filter><thingDefs><li>ComponentSpacer</li></thingDefs></filter>
+        <count>4</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Gold</li>
+        <li>Plasteel</li>
+        <li>ComponentSpacer</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Ruler_GoldenSTC>1</GW_Ruler_GoldenSTC>
+    </products>
+    <researchPrerequisite>BEWH_AstartesWeapons</researchPrerequisite>
+    <skillRequirements>
+      <Intellectual>12</Intellectual>
+      <Crafting>12</Crafting>
+    </skillRequirements>
+    <recipeUsers>
+      <li>FabricationBench</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

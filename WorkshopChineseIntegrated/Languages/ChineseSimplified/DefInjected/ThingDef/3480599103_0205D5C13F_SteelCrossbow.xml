@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: military crossbow bolt -->
+  <TA_Arrow_CompositeCrossbow.label>复合弩箭</TA_Arrow_CompositeCrossbow.label>
+  
+  <!-- EN: heavy steel crossbow -->
+  <TA_HeavySteelCrossbw.label>重型钢弩</TA_HeavySteelCrossbw.label>
+  <!-- EN: Properly made military crossbow, limbs similar in construction to eastern composite bows but much thicker and shorter. -->
+  <TA_HeavySteelCrossbw.description>军用弩，弓臂结构与东方复合弓类似但更厚更短。</TA_HeavySteelCrossbw.description>
+  <!-- EN: heavy steel crossbow -->
+  <TA_HeavySteelCrossbw.verbs.Verb_ShootCE.label>重型钢弩</TA_HeavySteelCrossbw.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: plow soil -->
+  <DankPyon_PlowSoil_DeliverResourcesToBluePrints.label>翻耕土壤</DankPyon_PlowSoil_DeliverResourcesToBluePrints.label>
+  <!-- EN: plowing -->
+  <DankPyon_PlowSoil_DeliverResourcesToBluePrints.gerund>翻耕</DankPyon_PlowSoil_DeliverResourcesToBluePrints.gerund>
+  <!-- EN: plow -->
+  <DankPyon_PlowSoil_DeliverResourcesToBluePrints.verb>翻耕</DankPyon_PlowSoil_DeliverResourcesToBluePrints.verb>
+  
+
+  <!-- EN: plow soil -->
+  <DankPyon_PlowSoil_FinishFrames.label>翻耕土壤</DankPyon_PlowSoil_FinishFrames.label>
+  <!-- EN: plowing -->
+  <DankPyon_PlowSoil_FinishFrames.gerund>翻耕</DankPyon_PlowSoil_FinishFrames.gerund>
+  <!-- EN: plow -->
+  <DankPyon_PlowSoil_FinishFrames.verb>翻耕</DankPyon_PlowSoil_FinishFrames.verb>
+
+</LanguageData>

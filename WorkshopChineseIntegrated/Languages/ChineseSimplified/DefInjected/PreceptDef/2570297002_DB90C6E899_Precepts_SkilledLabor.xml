@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: relaxed -->
+  <VME_SkilledLabor_Relaxed.label>宽松</VME_SkilledLabor_Relaxed.label>
+  <!-- EN: Skilled labour should be approached with care and time. Rushing things only leads to sloppy results and unfortunate accidents. -->
+  <VME_SkilledLabor_Relaxed.description>专业工作需要细心与时间。匆忙草率只会增大出现事故的几率。</VME_SkilledLabor_Relaxed.description>
+  
+  <!-- EN: slow -->
+  <VME_SkilledLabor_Slow.label>缓慢</VME_SkilledLabor_Slow.label>
+  <!-- EN: Pursuits of skilled labor are meticulous and time-consuming, it is better to focus our attention and efforts elsewhere. -->
+  <VME_SkilledLabor_Slow.description>专业工作费心费力且极耗时间，我们莫不如将重心放在其他地方上。</VME_SkilledLabor_Slow.description>
+  
+</LanguageData>

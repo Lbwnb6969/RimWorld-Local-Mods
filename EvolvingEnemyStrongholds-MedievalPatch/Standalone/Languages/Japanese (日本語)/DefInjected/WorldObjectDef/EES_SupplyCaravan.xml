@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_SupplyCaravan.label>補給キャラバン</EES_SupplyCaravan.label>
+  <EES_SupplyCaravan.description>近隣拠点へ物資を運ぶ補給キャラバン。到着前に迎撃すれば積荷を奪い、目的地拠点の防御を一時的に弱体化できる。</EES_SupplyCaravan.description>
+  <EES_SupplyEncounter.label>補給キャラバンとの遭遇</EES_SupplyEncounter.label>
+  <EES_SupplyEncounter.description>補給キャラバンと遭遇した地点。</EES_SupplyEncounter.description>
+  <EES_RebuildConvoy.label>再建輸送隊</EES_RebuildConvoy.label>
+  <EES_RebuildConvoy.description>破壊された拠点を再建するため、人夫と資材を運ぶ輸送隊です。到着前に迎撃して撃破すれば、再建は恒久的に中止されます。</EES_RebuildConvoy.description>
+</LanguageData>

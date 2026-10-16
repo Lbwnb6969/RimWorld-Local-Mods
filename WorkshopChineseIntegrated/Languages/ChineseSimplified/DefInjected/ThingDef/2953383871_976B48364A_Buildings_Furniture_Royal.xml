@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Royal Furniture -->
+
+  <DankPyon_RoyalCloset.label>贵族衣橱</DankPyon_RoyalCloset.label>
+  <DankPyon_RoyalCloset.description>一座高效、能美观地收纳衣物的衣橱。能让附近的床小幅提昇舒适度。</DankPyon_RoyalCloset.description>
+
+
+  <!-- Bookshelf -->
+
+  <DankPyon_RoyalBookshelf.label>贵族书架</DankPyon_RoyalBookshelf.label>
+  <DankPyon_RoyalBookshelf.description>放置在研究桌附近时，可提昇研究速度，一张研究桌最多能使用两座书架。</DankPyon_RoyalBookshelf.description>
+
+
+  <!-- Royal Chair -->
+
+  <DankPyon_RoyalArmchair.label>贵族扶手椅</DankPyon_RoyalArmchair.label>
+  <DankPyon_RoyalArmchair.description>一种豪华、宽敞、柔软、舒适的座椅。可以放置在桌子、工作台旁等等。</DankPyon_RoyalArmchair.description>
+
+  <DankPyon_RoyalThrone.label>华丽宝座</DankPyon_RoyalThrone.label>
+  <DankPyon_RoyalThrone.description>为国王和皇后设计的华丽大椅，象征其权力和地位。通常会用美丽的织物、贵金属和雕刻装饰。</DankPyon_RoyalThrone.description>
+  <DankPyon_RoyalThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>宝座需要指定一个拥有荣誉头衔的人来使用。</DankPyon_RoyalThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+
+  <!-- Royal Tables -->
+
+  <DankPyon_RoyalTable2x2c.label>贵族桌子(2x2)</DankPyon_RoyalTable2x2c.label>
+  <DankPyon_RoyalTable2x2c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_RoyalTable2x2c.description>
+
+  <DankPyon_RoyalTable2x4c.label>贵族桌子(2x4)</DankPyon_RoyalTable2x4c.label>
+  <DankPyon_RoyalTable2x4c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_RoyalTable2x4c.description>
+
+
+  <!-- Royal End Table -->
+
+  <DankPyon_RoyalEndTable.label>贵族床头柜</DankPyon_RoyalEndTable.label>
+  <DankPyon_RoyalEndTable.description>一座小型奢华的镀金床头柜，能让附近的床小幅提昇舒适度。必须放置在床头旁边。一张床只能受到一座床头柜的影响。</DankPyon_RoyalEndTable.description>
+
+
+  <!-- Royal Dresser -->
+
+  <DankPyon_RoyalDresser.label>贵族抽屉柜</DankPyon_RoyalDresser.label>
+  <DankPyon_RoyalDresser.description>一座优雅的金边抽屉柜。能让附近的床小幅提昇舒适度。一张床只能受到一座抽屉柜的影响。</DankPyon_RoyalDresser.description>
+
+
+  <!-- Royal Tudor Bed -->
+
+  <DankPyon_RoyalTudorBed.label>都铎式贵族床</DankPyon_RoyalTudorBed.label>
+  <DankPyon_RoyalTudorBed.description>一张适合贵族的豪华顶盖式镶金床。非常舒适漂亮。它本身就是一件真正的艺术品。适合双人。</DankPyon_RoyalTudorBed.description>
+
+
+</LanguageData>

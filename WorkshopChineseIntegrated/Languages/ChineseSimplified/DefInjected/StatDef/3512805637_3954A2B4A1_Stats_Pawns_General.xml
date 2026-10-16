@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joy from art multiplier -->
+  <BEWH_JoyFromArtFactor.label>艺术娱乐系数</BEWH_JoyFromArtFactor.label>
+  <!-- EN: A multiplier on how much joy a pawn gets from viewing art. -->
+  <BEWH_JoyFromArtFactor.description>角色欣赏艺术所获得的娱乐系数。</BEWH_JoyFromArtFactor.description>
+  
+</LanguageData>

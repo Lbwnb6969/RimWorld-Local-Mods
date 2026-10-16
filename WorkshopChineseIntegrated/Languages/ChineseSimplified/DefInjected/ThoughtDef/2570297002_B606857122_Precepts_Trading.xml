@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recently traded -->
+  <VME_Trading_Required.stages.recently_traded.label>近期做了交易</VME_Trading_Required.stages.recently_traded.label>
+  <!-- EN: As usual, our products are flying off the shelves. -->
+  <VME_Trading_Required.stages.recently_traded.description>一如既往，我们的商品成功卖了出去。</VME_Trading_Required.stages.recently_traded.description>
+  <!-- EN: no recent trades -->
+  <VME_Trading_Required.stages.no_recent_trades.label>近期没有交易</VME_Trading_Required.stages.no_recent_trades.label>
+  <!-- EN: No one wants to buy our product. I hope these quiet times will pass. -->
+  <VME_Trading_Required.stages.no_recent_trades.description>没有人想买我们的商品。我希望这段难熬的时光赶快过去。</VME_Trading_Required.stages.no_recent_trades.description>
+  
+</LanguageData>

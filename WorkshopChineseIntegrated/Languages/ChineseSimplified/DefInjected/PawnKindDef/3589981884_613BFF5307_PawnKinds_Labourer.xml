@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farmer -->
+  <BA_Polish_Farmer.label>波兰农夫</BA_Polish_Farmer.label>
+  
+  <!-- EN: hunter -->
+  <BA_Polish_Hunter.label>波兰猎人</BA_Polish_Hunter.label>
+  
+  <!-- EN: logger -->
+  <BA_Polish_Logger.label>波兰伐木工</BA_Polish_Logger.label>
+  
+  <!-- EN: miner -->
+  <BA_Polish_Miner.label>波兰矿工</BA_Polish_Miner.label>
+  
+</LanguageData>

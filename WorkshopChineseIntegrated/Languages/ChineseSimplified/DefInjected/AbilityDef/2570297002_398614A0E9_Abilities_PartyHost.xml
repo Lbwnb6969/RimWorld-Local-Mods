@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: throw party -->
+  <VME_ThrowParty.label>举办聚会</VME_ThrowParty.label>
+  <!-- EN: Throws a party. -->
+  <VME_ThrowParty.description>举办一场聚会。</VME_ThrowParty.description>
+  
+</LanguageData>

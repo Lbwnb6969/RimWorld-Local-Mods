@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SC_FoodSpot.label>食物点</SC_FoodSpot.label>
+    <SC_FoodSpot.description>一个专门用来存储料理和食物地点，通常用于大的桌子和宴会。</SC_FoodSpot.description>
+
+    <SC_Table3x8c.label>桌子 (3x8)</SC_Table3x8c.label>
+
+    <SC_Counter1x5c.label>柜台 (1x5)</SC_Counter1x5c.label>
+
+    <SC_Counter1x3c.label>柜台 (1x3)</SC_Counter1x3c.label>
+
+    <SC_Bench1x3c.label>长凳 (1x3)</SC_Bench1x3c.label>
+    <SC_Bench1x3c.description>一个简易的用来坐的平台。不是很舒服。但总比没有强。可以用于桌子，工作站，和别的地方。</SC_Bench1x3c.description>
+
+    <SC_Bench1x5c.label>长凳 (1x5)</SC_Bench1x5c.label>
+    <SC_Bench1x5c.description>一个简易的用来坐的平台。不是很舒服。但总比没有强。可以用于桌子，工作站，和别的地方。</SC_Bench1x5c.description>
+
+    <SC_MoleroachNest.label>鼹鼠臭虫洞</SC_MoleroachNest.label>
+    <SC_MoleroachNest.description>一个鼹鼠臭虫挖的小洞。雌性鼹鼠臭虫会尝试把他们的蛋放在这里，如果他们可以。你的搬运工只有当盒子装满时才会拿走所有蛋，以节省时间。这个洞还防止蛋在户外变质，虽然它不能防止温度伤害。</SC_MoleroachNest.description>
+
+    <SC_HotGrill.label>热烤架</SC_HotGrill.label>
+    <SC_HotGrill.description>一个金属烤架带着一个在下面的篝火。用来烧烤食物。</SC_HotGrill.description>
+
+    <SC_ArtificialHive.label>虫房</SC_ArtificialHive.label>
+    <SC_ArtificialHive.description>一个人工虫房，一个年幼的虫皇在里面。它缓慢且不断的生产着虫胶。</SC_ArtificialHive.description>
+
+    <SC_DwarvenOven.label>矮人窑</SC_DwarvenOven.label>
+    <SC_DwarvenOven.description>一个用于各种石生种配方的质朴的砖砌烤炉。</SC_DwarvenOven.description>
+
+    <SC_PortablePot.label>便携锅</SC_PortablePot.label>
+    <SC_PortablePot.description>一个简单，便携的钢锅用来在移动时烘培。\n\n尤其适合地下探险。</SC_PortablePot.description>
+
+    <SC_CuringRack.label>固化架</SC_CuringRack.label>
+    <SC_CuringRack.description>一个木制的用以使所悬挂的肉或是鱼变得又干又老的架子。</SC_CuringRack.description>
+
+    <SC_PrepTable.label>预备长凳</SC_PrepTable.label>
+    <SC_PrepTable.description>一个用来准备类似面团的生食的配备了用来存放烹饪用具的抽屉的简易木制桌子</SC_PrepTable.description>
+
+    <SC_ArchotechMicrowave.label>量子微型生成器</SC_ArchotechMicrowave.label>
+    <SC_ArchotechMicrowave.description>一种能生成强大的辐射微波的便携式超凡机械，导致内部存储的分子物质开始剧烈震动。</SC_ArchotechMicrowave.description>
+
+    <SC_Rockbread.label>岩石面包</SC_Rockbread.label>
+    <SC_Rockbread.description>超级硬并且松脆的面包，用尽量少的原料烤制。它可以在终末抵挡数年，并且其重量也能使其成为钝器。</SC_Rockbread.description>
+
+    <SC_Pastry.label>虫胶点心</SC_Pastry.label>
+    <SC_Pastry.description>甜，柔软且温暖，裹着虫胶。他们是伟大的甜点和珍贵的商品。</SC_Pastry.description>
+
+    <SC_BerryPie.label>浆果派</SC_BerryPie.label>
+    <SC_BerryPie.description>甜，温暖的派由浆果制成。温暖灵魂和心灵。</SC_BerryPie.description>
+
+    <SC_ChocolatePie.label>巧克力派</SC_ChocolatePie.label>
+    <SC_ChocolatePie.description>由巧克力制成的光滑，可口的派。温暖灵魂和心灵。</SC_ChocolatePie.description>
+
+    <SC_CheesePie.label>烤奶酪蛋糕</SC_CheesePie.label>
+    <SC_CheesePie.description>由矮人芝士制成的柔软，有弹性的烤奶酪蛋糕。温暖灵魂和心灵。</SC_CheesePie.description>
+
+    <SC_DwarvenCheese.label>矮人奶酪</SC_DwarvenCheese.label>
+    <SC_DwarvenCheese.description>柔软，光滑的奶酪在坚硬的蜡壳里面。长期干燥老化过程的成果。</SC_DwarvenCheese.description>
+
+    <SC_Raw_FreshCheese.label>新鲜奶酪</SC_Raw_FreshCheese.label>
+    <SC_Raw_FreshCheese.description>需要在食用之前干燥老化的新鲜奶酪。</SC_Raw_FreshCheese.description>
+
+    <SC_CuredMeat.label>腌肉</SC_CuredMeat.label>
+    <SC_CuredMeat.description>干净的撒了盐的肉。挂在架子上经过了长时间的腌制。\n\n其依然能用于烹饪，但是也可以生吃。</SC_CuredMeat.description>
+
+    <SC_SaltedFish.label>咸鱼</SC_SaltedFish.label>
+    <SC_SaltedFish.description>除去了器官并且腌制了的鱼。挂在架子上经过了长时间的晾干。\n\n其依然能用于烹饪，但是也可以生吃。</SC_SaltedFish.description>
+
+    <SC_DriedHuman.label>人肉干</SC_DriedHuman.label>
+    <SC_DriedHuman.description>处理过的人肉。挂在架子上经过了长时间的晾干。\n\n其依然能用于烹饪，但是也可以生吃。</SC_DriedHuman.description>
+
+    <SC_InsectJerky.label>虫肉干</SC_InsectJerky.label>
+    <SC_InsectJerky.description>卤过的虫肉。挂在架子上经过了长时间的腌制。\n\n其依然能用于烹饪，但是也可以生吃。</SC_InsectJerky.description>
+
+    <SC_MeatRockpie.label>肉食岩石派</SC_MeatRockpie.label>
+    <SC_MeatRockpie.description>肉混合了调料和香草，用面粉增稠并且烤制成坚硬的岩石面包壳，烤制会变湿。</SC_MeatRockpie.description>
+
+    <SC_VeganRockpie.label>素食岩石派</SC_VeganRockpie.label>
+    <SC_VeganRockpie.description>各种蔬菜丁混合着香草，用面粉增稠并且烤制成坚硬的岩石面包壳，烤制会变湿。</SC_VeganRockpie.description>
+
+    <SC_MushroomRockpie.label>蘑菇岩石派</SC_MushroomRockpie.label>
+    <SC_MushroomRockpie.description>菌类切片混合着香料，用面粉增稠并且烤制成坚硬的岩石面包壳，烤制会变的多汁。</SC_MushroomRockpie.description>
+
+    <SC_Feast_JellyGlazedShank.label>虫胶裹腿</SC_Feast_JellyGlazedShank.label>
+    <SC_Feast_JellyGlazedShank.description>动物的大腿或者小腿，切开，加上香料并且用烤炉烤至完美。烤制期间其会包裹上浓郁的由虫胶所形成的酱汁。</SC_Feast_JellyGlazedShank.description>
+
+    <SC_FrozenFeast_JellyGlazedShank.label>虫胶裹腿 (冷)</SC_FrozenFeast_JellyGlazedShank.label>
+    <SC_FrozenFeast_JellyGlazedShank.description>动物的大腿或者小腿，切开，加上香料并且用烤炉烤至完美。烤制期间其会包裹上浓郁的由虫胶所形成的酱汁。\n\n这道菜已经冷冻过或是凉了，不再美味了。</SC_FrozenFeast_JellyGlazedShank.description>
+
+    <SC_Feast_RoastedMegascarab.label>烤巨型甲虫</SC_Feast_RoastedMegascarab.label>
+    <SC_Feast_RoastedMegascarab.description>一只新鲜的巨型甲虫，老练的切除和清理，然后在烤箱中跟菌类和香料一群烤制。其外壳使得肉在里面仍然细嫩且多汁。</SC_Feast_RoastedMegascarab.description>
+
+    <SC_FrozenFeast_RoastedMegascarab.label>烤巨型甲虫 (冷)</SC_FrozenFeast_RoastedMegascarab.label>
+    <SC_FrozenFeast_RoastedMegascarab.description>一只新鲜的巨型甲虫，老练的切除和清理，然后在烤箱中跟菌类和香料一群烤制。其外壳使得肉在里面仍然细嫩且多汁。\n\n这道菜已经冷冻过或是凉了，不再美味了。</SC_FrozenFeast_RoastedMegascarab.description>
+
+    <SC_Feast_MushroomSoup.label>奶油蘑菇汤</SC_Feast_MushroomSoup.label>
+    <SC_Feast_MushroomSoup.description>一道简单的矮人奶汤料，混合了菌类和香草，在烤炉中缓慢的烹饪然后搭配上软化的岩石面包片。这是石生种矿工最常吃的食品。</SC_Feast_MushroomSoup.description>
+
+    <SC_FrozenFeast_MushroomSoup.label>奶油蘑菇汤 (冷)</SC_FrozenFeast_MushroomSoup.label>
+    <SC_FrozenFeast_MushroomSoup.description>一道简单的矮人奶汤料，混合了菌类和香草，在烤炉中缓慢的烹饪然后搭配上软化的岩石面包片。\n\n这道菜已经冷冻过或是凉了，不再美味了。</SC_FrozenFeast_MushroomSoup.description>
+
+    <SC_Feast_RockdoughPizza.label>岩石面团披萨</SC_Feast_RockdoughPizza.label>
+    <SC_Feast_RockdoughPizza.description>展开面团并锤打成型，先铺上酱料然后加上矮人奶酪，和各种蔬菜。为了最好的奶酪拉丝刚离开烤炉就切开。</SC_Feast_RockdoughPizza.description>
+
+    <SC_FrozenFeast_RockdoughPizza.label>岩石面团披萨 (冷)</SC_FrozenFeast_RockdoughPizza.label>
+    <SC_FrozenFeast_RockdoughPizza.description>展开面团并锤打成型，先铺上酱料然后加上矮人奶酪，和各种蔬菜。为了最好的奶酪拉丝刚离开烤炉就切开。\n\n这道菜已经冷冻过或是凉了，不再美味了。</SC_FrozenFeast_RockdoughPizza.description>
+
+    <SC_Skewer_Meat.label>肉串</SC_Skewer_Meat.label>
+    <SC_Skewer_Meat.description>肉串烧烤，包裹着酱汁。不是非常营养，但是美味。</SC_Skewer_Meat.description>
+
+    <SC_Skewer_Vegetarian.label>蔬菜串</SC_Skewer_Vegetarian.label>
+    <SC_Skewer_Vegetarian.description>蔬菜船烧烤，包裹着酱汁。不是非常营养，但是美味。</SC_Skewer_Vegetarian.description>
+
+    <SC_Skewer_Fungus.label>蘑菇串</SC_Skewer_Fungus.label>
+    <SC_Skewer_Fungus.description>菌类串烧烤，包裹着酱汁。不是非常营养，但是美味。</SC_Skewer_Fungus.description>
+
+    <SC_Skewer_Insect.label>虫肉串</SC_Skewer_Insect.label>
+    <SC_Skewer_Insect.description>虫肉串烧烤, 包裹着酱汁。不是非常营养，但是美味。</SC_Skewer_Insect.description>
+
+    <SC_Burger_Cheeseburger.label>奶酪岩石堡</SC_Burger_Cheeseburger.label>
+    <SC_Burger_Cheeseburger.description>肉末烧烤至完美的稀有半熟，然后撒上矮人奶酪。</SC_Burger_Cheeseburger.description>
+
+    <SC_Burger_Veggieburger.label>蔬菜岩石堡</SC_Burger_Veggieburger.label>
+    <SC_Burger_Veggieburger.description>蔬菜末形成饼，然后烧烤并且撒上新鲜蔬菜。</SC_Burger_Veggieburger.description>
+
+    <SC_Burger_Caveburger.label>洞穴岩石堡</SC_Burger_Caveburger.label>
+    <SC_Burger_Caveburger.description>虫肉末充分烧烤，然后撒上焦糖色的菌类切片。</SC_Burger_Caveburger.description>
+
+    <SC_OvenMeal_Meat.label>炖肉</SC_OvenMeal_Meat.label>
+    <SC_OvenMeal_Meat.description>一道简单的由水和肉制作的炖肉。</SC_OvenMeal_Meat.description>
+
+    <SC_OvenMeal_Vegan.label>炖菜</SC_OvenMeal_Vegan.label>
+    <SC_OvenMeal_Vegan.description>一道简单的由水和菜制作的炖菜。</SC_OvenMeal_Vegan.description>
+
+    <SC_DwarvenMilk.label>矮人奶</SC_DwarvenMilk.label>
+    <SC_DwarvenMilk.description>来自一种洞穴动物的奶，源于石生种。</SC_DwarvenMilk.description>
+
+    <SC_EggCreamgrubUnfertilized.label>奶油蛆蛋 (未受精。)</SC_EggCreamgrubUnfertilized.label>
+    <SC_EggCreamgrubUnfertilized.description>一颗未受精的蛋。它可以生吃，但是那在烹饪后要好得多的多。</SC_EggCreamgrubUnfertilized.description>
+
+    <SC_EggCreamgrubFertilized.label>奶油蛆蛋 (已受精。)</SC_EggCreamgrubFertilized.label>
+    <SC_EggCreamgrubFertilized.description>一颗已受精的蛋。如果一切都好，他应该会孵化成一个幼虫。它可以生吃，但是那在烹饪后要好得多的多。</SC_EggCreamgrubFertilized.description>
+
+    <SC_MoleroachEggUnfertilized.label>鼹鼠臭虫蛋 (未受精。)</SC_MoleroachEggUnfertilized.label>
+    <SC_MoleroachEggUnfertilized.description>一颗未受精的鼹鼠臭虫蛋。它可以生吃，但是那在烹饪后要好得多的多。</SC_MoleroachEggUnfertilized.description>
+
+    <SC_MoleroachEggFertilized.label>鼹鼠臭虫蛋 (已受精。)</SC_MoleroachEggFertilized.label>
+    <SC_MoleroachEggFertilized.description>一颗鼹鼠臭虫蛋。如果一切顺利，他应该会孵化成一个若虫。它可以生吃，但是那在烹饪后要更好。</SC_MoleroachEggFertilized.description>
+
+    <SC_Raw_Dough.label>面团</SC_Raw_Dough.label>
+    <SC_Raw_Dough.description>由面粉和奶制成的厚实，粗糙的面团。生的不好。</SC_Raw_Dough.description>
+
+    <SC_Raw_PastryDough.label>面点</SC_Raw_PastryDough.label>
+    <SC_Raw_PastryDough.description>由面粉，奶和虫胶制成的光滑的面团，经过多次折叠变得巨大。生的不好。</SC_Raw_PastryDough.description>
+
+    <SC_JuvenileQueen.label>幼年虫皇</SC_JuvenileQueen.label>
+    <SC_JuvenileQueen.description>一只小巧，年幼的类虫女王蛆。它需要一个人工住所来开始工作。</SC_JuvenileQueen.description>
+
+    <SC_UnstableMatter.label>不稳定物质</SC_UnstableMatter.label>
+    <SC_UnstableMatter.description>一只微型，不稳定的，无法观测的元素，几乎仅仅只有一仄秒的真实时间在物质境界种持续，之后便消失在自爆中了。</SC_UnstableMatter.description>
+
+    <DV_Thermalite_CustomMeat.label>发热肉</DV_Thermalite_CustomMeat.label>
+    <DV_Thermalite_CustomMeat.description>来自发热的生肉。\n\n柔软且可口，不像寻常的虫肉。</DV_Thermalite_CustomMeat.description>
+
+    <SC_Rockhide.label>岩石皮</SC_Rockhide.label>
+    <SC_Rockhide.description>极厚，僵硬且沉重的皮。难以缝制和塑形但是有强力的防护属性。</SC_Rockhide.description>
+
+    <SC_Creamsilk.label>奶油丝</SC_Creamsilk.label>
+    <SC_Creamsilk.description>富有弹性并且出乎意料的透气，丝线产自奶油蛆。</SC_Creamsilk.description>
+
+    <SC_Filth_Milk.label>矮人奶</SC_Filth_Milk.label>
+
+    <SC_Plant_CaveWheat.label>小麦霉菌</SC_Plant_CaveWheat.label>
+    <SC_Plant_CaveWheat.description>为多种用途的面粉而而生长的一种高大，细长的霉菌。可以长在真菌砾石上，但只能在黑暗中-暴露在任何一种光下包括暗光都会杀死它。</SC_Plant_CaveWheat.description>
+
+    <SC_Flour.label>真菌面粉</SC_Flour.label>
+    <SC_Flour.description>粉状且稠密的真菌面粉。用于石生种烤制配方。</SC_Flour.description>
+
+    <SC_Plant_PlumpHelmet.label>肥头盔</SC_Plant_PlumpHelmet.label>
+    <SC_Plant_PlumpHelmet.description>一种成大堆生长的短，胖的粉盖蘑菇。它还有肉感，但味道仍然中性，是许多菜肴的伟大根基，不像其他的蘑菇，它还是更加能处理光亮，并且它在暴露的状况下不会死。\n\n&lt;color=#6e6e6eff&gt;这是最初的源自石生种家庭为供给他们的殖民地而栽培的菌类，他们有很深的关系于石生种的历史和文化，乃至现在仍是在底下要塞和太空飞船之间最常见的作物之一。&lt;/color&gt;</SC_Plant_PlumpHelmet.description>
+
+    <SC_Plant_Bunshroom.label>棒菇</SC_Plant_Bunshroom.label>
+    <SC_Plant_Bunshroom.description>一种短的，生长迅速的菌类，会产生坚硬的菌盖，不是人类可食用的，但是不错的动物饲料。</SC_Plant_Bunshroom.description>
+
+    <SC_Plant_Gemberry.label>宝石莓灌木</SC_Plant_Gemberry.label>
+    <SC_Plant_Gemberry.description>一种多孔的白色菌类实体，会生长出小巧，甜蜜的类软糖浆果。这些宝石莓生食或是烹饪都很美味。\n\n&lt;color=#6e6e6eff&gt;在地下生态系统中，这种菌类是是许多小型生物的食物来源。当莓果成熟并且从菌体上掉落，银色鼹鼠经常是第一个向美食发起袭击的。&lt;/color&gt;</SC_Plant_Gemberry.description>
+
+    <SC_Plant_Kokobark.label>巧克树皮</SC_Plant_Kokobark.label>
+    <SC_Plant_Kokobark.description>一种结实，高大并且散发着甜蜜的糖果般气息的菌类。过程中与可可树相同的化学成分会形成在他们的茎部，并且当成熟时，“树皮”会开始脱落成纯净的可食用巧克力。\n\n&lt;color=#6e6e6eff&gt;创造于一次宠物项目的一位石生种基因学家，巧克树皮是这个家族的四种菌类之一：黑巧克树皮，白巧克树皮和朗姆巧克树皮。&lt;/color&gt;</SC_Plant_Kokobark.description>
+
+    <SC_Rockbull.label>岩石牛</SC_Rockbull.label>
+    <SC_Rockbull.description>一种结实的为耐力而选育的牛科。岩石牛可以吃任何东西，由于缺乏植被生存在他们的栖息地，通常被发现是石生种商队或者深层农场的一部分。\n\n他们四只沉重的角和强壮的腿使他们成为了任何掠食者及自大的驯兽师的威胁。</SC_Rockbull.description>
+
+    <SC_RockbullAlbino.label>岩石牛</SC_RockbullAlbino.label>
+    <SC_RockbullAlbino.description>一种结实的为耐力而选育的牛科。岩石牛可以吃任何东西，由于缺乏植被生存在他们的栖息地，通常被发现是石生种商队或者深层农场的一部分。\n\n他们四只沉重的角和强壮的腿使他们成为了任何掠食者及自大的驯兽师的威胁。</SC_RockbullAlbino.description>
+    <Meat_SC_Rockbull.label>岩石牛肉</Meat_SC_Rockbull.label>
+    <Meat_SC_RockbullAlbino.label>岩石牛肉</Meat_SC_RockbullAlbino.label>
+
+    <SC_Creamgrub.label>奶油蛆</SC_Creamgrub.label>
+    <SC_Creamgrub.description>一种通过生物工程所制造尺寸同一头绵羊大的蛆。奶油蛆生产奶油丝，最先用于他们成虫时期的茧。他们的身体填满了直到边缘的矮人奶，可以于他死后轻缓的取出。</SC_Creamgrub.description>
+
+    <SC_Insect_Moleroach.label>鼹鼠臭虫</SC_Insect_Moleroach.label>
+    <SC_Insect_Moleroach.description>一种中等尺寸，非真社会的经过生物工程得到的尺寸同是一头羊羔的类虫。他们经常被石生种利用为他们的肉食来源卵层，他们的卵很大并且富有营养，而且鼹鼠臭虫雌性经常产卵，足以维持殖民地。鼹鼠臭虫还会建造洞穴来下他们的蛋。</SC_Insect_Moleroach.description>
+
+    <SC_Insect_MoleroachBlue.label>鼹鼠臭虫</SC_Insect_MoleroachBlue.label>
+    <SC_Insect_MoleroachBlue.description>一种中等尺寸，非真社会的经过生物工程得到的尺寸同是一头羊羔的类虫。他们经常被石生种利用为他们的肉食来源卵层，他们的卵很大并且富有营养，而且鼹鼠臭虫雌性经常产卵，足以维持殖民地。鼹鼠臭虫还会建造洞穴来下他们的蛋。</SC_Insect_MoleroachBlue.description>
+
+</LanguageData>

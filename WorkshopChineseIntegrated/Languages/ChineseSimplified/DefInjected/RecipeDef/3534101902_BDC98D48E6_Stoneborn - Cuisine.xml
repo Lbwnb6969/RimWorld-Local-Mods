@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SC_CookCheeseburger.label>烧烤奶酪岩石堡</SC_CookCheeseburger.label>
+    <SC_CookCheeseburger.description>烧烤肉类和奶酪成一份奶酪芝士岩石堡。</SC_CookCheeseburger.description>
+
+    <SC_CookVeggieburger.label>烧烤蔬菜岩石堡</SC_CookVeggieburger.label>
+    <SC_CookVeggieburger.description>烧烤蔬菜成一份蔬菜岩石堡。</SC_CookVeggieburger.description>
+
+    <SC_CookCaveburger.label>烧烤山洞岩石堡</SC_CookCaveburger.label>
+    <SC_CookCaveburger.description>烧烤虫肉和菌类成一份山洞岩石堡。</SC_CookCaveburger.description>
+
+    <SC_PrepareDough.label>准备面团</SC_PrepareDough.label>
+    <SC_PrepareDough.description>制作面团由面粉和奶。</SC_PrepareDough.description>
+
+    <SC_PrepareFreshCheese.label>准备新鲜矮人奶酪</SC_PrepareFreshCheese.label>
+    <SC_PrepareFreshCheese.description>制作新鲜矮人奶酪由奶酪和奶。</SC_PrepareFreshCheese.description>
+
+    <SC_PreparePastryDough.label>准备面点</SC_PreparePastryDough.label>
+    <SC_PreparePastryDough.description>制作面点由面粉, 奶和虫胶。</SC_PreparePastryDough.description>
+
+    <SC_CookMeatSkewer.label>烧烤肉串</SC_CookMeatSkewer.label>
+    <SC_CookMeatSkewer.description>烧烤一串肉。</SC_CookMeatSkewer.description>
+
+    <SC_CookInsectSkewer.label>烧烤虫肉串</SC_CookInsectSkewer.label>
+    <SC_CookInsectSkewer.description>烧烤烧烤一串虫肉。</SC_CookInsectSkewer.description>
+
+    <SC_CookVegSkewer.label>烧烤蔬菜串</SC_CookVegSkewer.label>
+    <SC_CookVegSkewer.description>烧烤烧烤一串蔬菜。</SC_CookVegSkewer.description>
+
+    <SC_CookFungusSkewer.label>烧烤蘑菇串</SC_CookFungusSkewer.label>
+    <SC_CookFungusSkewer.description>烧烤烧烤一串蘑菇。</SC_CookFungusSkewer.description>
+
+    <SC_CookMeatSkewerBulk.label>烧烤一串肉 x4</SC_CookMeatSkewerBulk.label>
+    <SC_CookMeatSkewerBulk.description>烧烤一串肉。</SC_CookMeatSkewerBulk.description>
+
+    <SC_CookInsectSkewerBulk.label>烧烤虫肉串 x4</SC_CookInsectSkewerBulk.label>
+    <SC_CookInsectSkewerBulk.description>烧烤烧烤一串虫肉。</SC_CookInsectSkewerBulk.description>
+
+    <SC_CookVegSkewerBulk.label>烧烤蔬菜串 x4</SC_CookVegSkewerBulk.label>
+    <SC_CookVegSkewerBulk.description>烧烤烧烤一串蔬菜。</SC_CookVegSkewerBulk.description>
+
+    <SC_CookFungusSkewerBulk.label>烧烤蘑菇串 x4</SC_CookFungusSkewerBulk.label>
+    <SC_CookFungusSkewerBulk.description>烧烤烧烤一串蘑菇。</SC_CookFungusSkewerBulk.description>
+
+</LanguageData>

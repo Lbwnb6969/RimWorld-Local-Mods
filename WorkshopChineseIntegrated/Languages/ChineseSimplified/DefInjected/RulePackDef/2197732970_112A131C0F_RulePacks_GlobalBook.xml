@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: maybe_adjective-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.0>maybe_adjective-></VBE_BookUtility.rulePack.rulesStrings.0>
+  <!-- EN: maybe_adjective->[Color] -->
+  <VBE_BookUtility.rulePack.rulesStrings.1>maybe_adjective->[Color]</VBE_BookUtility.rulePack.rulesStrings.1>
+  <!-- EN: maybe_adjective->[AdjectiveBadass] -->
+  <VBE_BookUtility.rulePack.rulesStrings.2>maybe_adjective->[AdjectiveBadass]的</VBE_BookUtility.rulePack.rulesStrings.2>
+  <!-- EN: maybe_adjective->[AdjectiveAngsty] -->
+  <VBE_BookUtility.rulePack.rulesStrings.3>maybe_adjective->[AdjectiveAngsty]的</VBE_BookUtility.rulePack.rulesStrings.3>
+  <!-- EN: Adjective->[Color] -->
+  <VBE_BookUtility.rulePack.rulesStrings.4>Adjective->[Color]</VBE_BookUtility.rulePack.rulesStrings.4>
+  <!-- EN: Adjective->[AdjectiveBadass] -->
+  <VBE_BookUtility.rulePack.rulesStrings.5>Adjective->[AdjectiveBadass]的</VBE_BookUtility.rulePack.rulesStrings.5>
+  <!-- EN: Adjective->[AdjectiveAngsty] -->
+  <VBE_BookUtility.rulePack.rulesStrings.6>Adjective->[AdjectiveAngsty]的</VBE_BookUtility.rulePack.rulesStrings.6>
+  <!-- EN: cover->the cover of this book [depicts] [image] -->
+  <VBE_BookUtility.rulePack.rulesStrings.7>cover->该书的封面[depicts][image]</VBE_BookUtility.rulePack.rulesStrings.7>
+  <!-- EN: cover->this book's cover bears a [depiction] of [image] -->
+  <VBE_BookUtility.rulePack.rulesStrings.8>cover->该书的封面承载了[image]的[depiction]</VBE_BookUtility.rulePack.rulesStrings.8>
+  <!-- EN: cover->on this book's cover is a [depiction] of [image] -->
+  <VBE_BookUtility.rulePack.rulesStrings.9>cover->该书的封面是一个[image]的[depiction]</VBE_BookUtility.rulePack.rulesStrings.9>
+  <!-- EN: first_chapters->the first few chapters of this book describe the use of  -->
+  <VBE_BookUtility.rulePack.rulesStrings.10>first_chapters->该书的开始几章描述了用于</VBE_BookUtility.rulePack.rulesStrings.10>
+  <!-- EN: first_chapters->first part of the book goes in detail about  -->
+  <VBE_BookUtility.rulePack.rulesStrings.11>first_chapters->该书的第一部分详细解释了</VBE_BookUtility.rulePack.rulesStrings.11>
+  <!-- EN: first_chapters->first few pages describe the use of  -->
+  <VBE_BookUtility.rulePack.rulesStrings.12>first_chapters->该书的开始几页描述了用于</VBE_BookUtility.rulePack.rulesStrings.12>
+  <!-- EN: first_chapters->the beginning of the book revolves around  -->
+  <VBE_BookUtility.rulePack.rulesStrings.13>first_chapters->该书的开头部分详细探讨了</VBE_BookUtility.rulePack.rulesStrings.13>
+  <!-- EN: first_chapters->the book starts off with  -->
+  <VBE_BookUtility.rulePack.rulesStrings.14>first_chapters->该书的开头是</VBE_BookUtility.rulePack.rulesStrings.14>
+  <!-- EN: first_chapters->the beginning is about  -->
+  <VBE_BookUtility.rulePack.rulesStrings.15>first_chapters->该书的开头是关于</VBE_BookUtility.rulePack.rulesStrings.15>
+  <!-- EN: maybe_cont(p=2)-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.16>maybe_cont(p=2)-></VBE_BookUtility.rulePack.rulesStrings.16>
+  <!-- EN: maybe_cont-> within the context of [ConceptAny] -->
+  <VBE_BookUtility.rulePack.rulesStrings.17>maybe_cont->在[ConceptAny]的范围内</VBE_BookUtility.rulePack.rulesStrings.17>
+  <!-- EN: maybe_cont-> in a [AdjectiveBadass] tone -->
+  <VBE_BookUtility.rulePack.rulesStrings.18>maybe_cont->以[AdjectiveBadass]的语气</VBE_BookUtility.rulePack.rulesStrings.18>
+  <!-- EN: maybe_cont-> and the importance of [ConceptAny] -->
+  <VBE_BookUtility.rulePack.rulesStrings.19>maybe_cont->和[ConceptAny]的重要性</VBE_BookUtility.rulePack.rulesStrings.19>
+  <!-- EN: maybe_cont-> with emphasis on the use of [TerrainFeature] -->
+  <VBE_BookUtility.rulePack.rulesStrings.20>maybe_cont->强调了[TerrainFeature]的用处</VBE_BookUtility.rulePack.rulesStrings.20>
+  <!-- EN: maybe_cont-> and how [Vegetable]s can be used to improve it -->
+  <VBE_BookUtility.rulePack.rulesStrings.21>maybe_cont->以及如何用[Vegetable]来改进它</VBE_BookUtility.rulePack.rulesStrings.21>
+  <!-- EN: maybe_cont-> during the game of [Game] -->
+  <VBE_BookUtility.rulePack.rulesStrings.22>maybe_cont->在[Game]的比赛中</VBE_BookUtility.rulePack.rulesStrings.22>
+  <!-- EN: maybe_cont-> within the world of the [Animal]s -->
+  <VBE_BookUtility.rulePack.rulesStrings.23>maybe_cont->在[Animal]的世界中</VBE_BookUtility.rulePack.rulesStrings.23>
+  <!-- EN: maybe_cont-> and the beauty of [Gore] -->
+  <VBE_BookUtility.rulePack.rulesStrings.24>maybe_cont->以及[Gore]的美</VBE_BookUtility.rulePack.rulesStrings.24>
+  <!-- EN: maybe_cont-> and compares it to a [NaturalObject] -->
+  <VBE_BookUtility.rulePack.rulesStrings.25>maybe_cont->并把它与[NaturalObject]相比</VBE_BookUtility.rulePack.rulesStrings.25>
+  <!-- EN: maybe_cont-> from the perspective of the [Enemy] -->
+  <VBE_BookUtility.rulePack.rulesStrings.26>maybe_cont->从[Enemy]的视角来看</VBE_BookUtility.rulePack.rulesStrings.26>
+  <!-- EN: maybe_cont-> based on experience from the middle of a [Community] -->
+  <VBE_BookUtility.rulePack.rulesStrings.27>maybe_cont->基于在[Community]之中积累的经验</VBE_BookUtility.rulePack.rulesStrings.27>
+  <!-- EN: maybe_cont->, with personal insights from a [Character] -->
+  <VBE_BookUtility.rulePack.rulesStrings.28>maybe_cont->，以及对[Character]的个人见解</VBE_BookUtility.rulePack.rulesStrings.28>
+  <!-- EN: maybe_cont->, based on the interview with the minor celebrity [NamePerson] -->
+  <VBE_BookUtility.rulePack.rulesStrings.29>maybe_cont->，基于与小明星[NamePerson]的会面</VBE_BookUtility.rulePack.rulesStrings.29>
+  <!-- EN: maybe_cont->, and how color [Color] was always associated with it -->
+  <VBE_BookUtility.rulePack.rulesStrings.30>maybe_cont->，和[Color]为何与其息息相关</VBE_BookUtility.rulePack.rulesStrings.30>
+  <!-- EN: maybe_cont->, and how [Animal] can be used to improve it -->
+  <VBE_BookUtility.rulePack.rulesStrings.31>maybe_cont->以及如何用[Animal]来改进它</VBE_BookUtility.rulePack.rulesStrings.31>
+  <!-- EN: maybe_cont->, describing various applications of [Weapon] within that field -->
+  <VBE_BookUtility.rulePack.rulesStrings.32>maybe_cont->，描述了在该领域中[Weapon]的应用</VBE_BookUtility.rulePack.rulesStrings.32>
+  <!-- EN: maybe_cont->, based on the various surveys performed with [AdjectiveFriendly] [PersonJob]s -->
+  <VBE_BookUtility.rulePack.rulesStrings.33>maybe_cont->，基于和[AdjectiveFriendly]的[PersonJob]们进行的各项调查</VBE_BookUtility.rulePack.rulesStrings.33>
+  <!-- EN: maybe_cont-> and the importance of [Apparel] -->
+  <VBE_BookUtility.rulePack.rulesStrings.34>maybe_cont->和[Apparel]的重要性</VBE_BookUtility.rulePack.rulesStrings.34>
+  <!-- EN: maybe_cont-> and how [ConceptPositive] and [ConceptPositive] improve it -->
+  <VBE_BookUtility.rulePack.rulesStrings.35>maybe_cont->还有如何用[ConceptPositive][ConceptPositive]改进它</VBE_BookUtility.rulePack.rulesStrings.35>
+  <!-- EN: maybe_cont-> written in a [bookstyle_adj] style -->
+  <VBE_BookUtility.rulePack.rulesStrings.36>maybe_cont->用[bookstyle_adj]风格写就</VBE_BookUtility.rulePack.rulesStrings.36>
+  <!-- EN: middle_book->The author then proceeds to describe -->
+  <VBE_BookUtility.rulePack.rulesStrings.37>middle_book->作者继续描述了</VBE_BookUtility.rulePack.rulesStrings.37>
+  <!-- EN: middle_book->The following chapters allow the reader to contemplate on -->
+  <VBE_BookUtility.rulePack.rulesStrings.38>middle_book->接下来的几张让读者思考</VBE_BookUtility.rulePack.rulesStrings.38>
+  <!-- EN: middle_book->The next chapters discuss -->
+  <VBE_BookUtility.rulePack.rulesStrings.39>middle_book->下一张探讨了</VBE_BookUtility.rulePack.rulesStrings.39>
+  <!-- EN: middle_book->After that, the author went to great lengths to explain -->
+  <VBE_BookUtility.rulePack.rulesStrings.40>middle_book->随后，作者用大量篇幅解释了</VBE_BookUtility.rulePack.rulesStrings.40>
+  <!-- EN: middle_book->The middle of the book speaks about -->
+  <VBE_BookUtility.rulePack.rulesStrings.41>middle_book->书的中间部分讲述了</VBE_BookUtility.rulePack.rulesStrings.41>
+  <!-- EN: middle_book->The next bit is about -->
+  <VBE_BookUtility.rulePack.rulesStrings.42>middle_book->之后是关于</VBE_BookUtility.rulePack.rulesStrings.42>
+  <!-- EN: ending->Near the ending, author summarizes -->
+  <VBE_BookUtility.rulePack.rulesStrings.43>ending->在结尾处，作者总结了</VBE_BookUtility.rulePack.rulesStrings.43>
+  <!-- EN: ending->By the end of the book, emphasis is placed on -->
+  <VBE_BookUtility.rulePack.rulesStrings.44>ending->在书的最后，强调了</VBE_BookUtility.rulePack.rulesStrings.44>
+  <!-- EN: ending->The last few chapters mention -->
+  <VBE_BookUtility.rulePack.rulesStrings.45>ending->最后几章提及了</VBE_BookUtility.rulePack.rulesStrings.45>
+  <!-- EN: ending->Ending of the book is about -->
+  <VBE_BookUtility.rulePack.rulesStrings.46>ending->书的结尾是关于</VBE_BookUtility.rulePack.rulesStrings.46>
+  <!-- EN: ending->The final chapter revolves around -->
+  <VBE_BookUtility.rulePack.rulesStrings.47>ending->最后一章分析了</VBE_BookUtility.rulePack.rulesStrings.47>
+  <!-- EN: ending->The last page mentions -->
+  <VBE_BookUtility.rulePack.rulesStrings.48>ending->最后几页提及了</VBE_BookUtility.rulePack.rulesStrings.48>
+  <!-- EN: ending->The last part of the book is about -->
+  <VBE_BookUtility.rulePack.rulesStrings.49>ending->书的结尾部分是关于</VBE_BookUtility.rulePack.rulesStrings.49>
+  <!-- EN: ending->Author decided to devote the last part of the book to -->
+  <VBE_BookUtility.rulePack.rulesStrings.50>ending->作者在结尾处写了</VBE_BookUtility.rulePack.rulesStrings.50>
+  <!-- EN: book_context->infused with the idea of [ConceptAny] and is done in a [bookstyle_adj] style -->
+  <VBE_BookUtility.rulePack.rulesStrings.51>book_context->注入了[ConceptAny]的概念并以[bookstyle_adj]手法写成。</VBE_BookUtility.rulePack.rulesStrings.51>
+  <!-- EN: book_context->written in a [bookstyle_adj] style -->
+  <VBE_BookUtility.rulePack.rulesStrings.52>book_context->应用了[bookstyle_adj]手法</VBE_BookUtility.rulePack.rulesStrings.52>
+  <!-- EN: book_context->executed in a [bookstyle_adj] style -->
+  <VBE_BookUtility.rulePack.rulesStrings.53>book_context->表现了[bookstyle_adj]手法</VBE_BookUtility.rulePack.rulesStrings.53>
+  <!-- EN: book_context->[bookstyle_adj] with [bookstyle_adj] elements -->
+  <VBE_BookUtility.rulePack.rulesStrings.54>book_context->[bookstyle_adj]和[bookstyle_adj]元素</VBE_BookUtility.rulePack.rulesStrings.54>
+  <!-- EN: book_context->[bookstyle_adj] -->
+  <VBE_BookUtility.rulePack.rulesStrings.55>book_context->[bookstyle_adj]</VBE_BookUtility.rulePack.rulesStrings.55>
+  <!-- EN: book_context->[bookstyle_adj] yet [bookstyle_adj] -->
+  <VBE_BookUtility.rulePack.rulesStrings.56>book_context->[bookstyle_adj]却[bookstyle_adj]</VBE_BookUtility.rulePack.rulesStrings.56>
+  <!-- EN: maybe_writingstyles(p=3)-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.57>maybe_writingstyles(p=3)-></VBE_BookUtility.rulePack.rulesStrings.57>
+  <!-- EN: maybe_writingstyles->, using a large amount of [bookstyle] -->
+  <VBE_BookUtility.rulePack.rulesStrings.58>maybe_writingstyles->，使用了大量[bookstyle]</VBE_BookUtility.rulePack.rulesStrings.58>
+  <!-- EN: maybe_writingstyles->, riddled with [bookstyle] -->
+  <VBE_BookUtility.rulePack.rulesStrings.59>maybe_writingstyles->，用[bookstyle]装点</VBE_BookUtility.rulePack.rulesStrings.59>
+  <!-- EN: maybe_writingstyles->, without using [bookstyle] even once -->
+  <VBE_BookUtility.rulePack.rulesStrings.60>maybe_writingstyles->，没有丝毫的[bookstyle]</VBE_BookUtility.rulePack.rulesStrings.60>
+  <!-- EN: maybe_writingstyles->, written only using [bookstyle] -->
+  <VBE_BookUtility.rulePack.rulesStrings.61>maybe_writingstyles->，只使用[bookstyle]的手法</VBE_BookUtility.rulePack.rulesStrings.61>
+  <!-- EN: maybe_writingstyles->, with a high amount of [bookstyle] and absolutely no [bookstyle] -->
+  <VBE_BookUtility.rulePack.rulesStrings.62>maybe_writingstyles->，加入了大量[bookstyle]并且没有一丝[bookstyle]</VBE_BookUtility.rulePack.rulesStrings.62>
+  <!-- EN: maybe_writingstyles->. Author used a number of [bookstyle], mixed in with [bookstyle] and [bookstyle] -->
+  <VBE_BookUtility.rulePack.rulesStrings.63>maybe_writingstyles->，作者适当使用了[bookstyle]，混入了部分的[bookstyle]和[bookstyle]</VBE_BookUtility.rulePack.rulesStrings.63>
+  <!-- EN: maybe_writingstyles-> with a number of [bookstyle_adj] [bookstyle] -->
+  <VBE_BookUtility.rulePack.rulesStrings.64>maybe_writingstyles->带有一些[bookstyle]和[bookstyle]</VBE_BookUtility.rulePack.rulesStrings.64>
+  <!-- EN: book->book -->
+  <VBE_BookUtility.rulePack.rulesStrings.65>book->书</VBE_BookUtility.rulePack.rulesStrings.65>
+  <!-- EN: book->work -->
+  <VBE_BookUtility.rulePack.rulesStrings.66>book->作品</VBE_BookUtility.rulePack.rulesStrings.66>
+  <!-- EN: book->piece of writing -->
+  <VBE_BookUtility.rulePack.rulesStrings.67>book->文章</VBE_BookUtility.rulePack.rulesStrings.67>
+  <!-- EN: book->work of writing -->
+  <VBE_BookUtility.rulePack.rulesStrings.68>book->书籍</VBE_BookUtility.rulePack.rulesStrings.68>
+  <!-- EN: book->text -->
+  <VBE_BookUtility.rulePack.rulesStrings.69>book->图书</VBE_BookUtility.rulePack.rulesStrings.69>
+  <!-- EN: book_general->The purpose of this [book] is to explain in depth  -->
+  <VBE_BookUtility.rulePack.rulesStrings.70>book_general->该[book]的目的在于详细解释</VBE_BookUtility.rulePack.rulesStrings.70>
+  <!-- EN: book_general->This [book] provides the reader with insight into -->
+  <VBE_BookUtility.rulePack.rulesStrings.71>book_general->该[book]给读者提供了灵感于</VBE_BookUtility.rulePack.rulesStrings.71>
+  <!-- EN: book_general->Reading this [book] gives valuable information on -->
+  <VBE_BookUtility.rulePack.rulesStrings.72>book_general->该[book]提供了宝贵的信息于</VBE_BookUtility.rulePack.rulesStrings.72>
+  <!-- EN: book_general->This [book] is about -->
+  <VBE_BookUtility.rulePack.rulesStrings.73>book_general->该[book]是关于</VBE_BookUtility.rulePack.rulesStrings.73>
+  <!-- EN: book_general->Author when writing this [book] wanted readers to focus on -->
+  <VBE_BookUtility.rulePack.rulesStrings.74>book_general->该[book]的作者希望读者关注</VBE_BookUtility.rulePack.rulesStrings.74>
+  <!-- EN: maybe_ShootingSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.75>maybe_ShootingSkill-></VBE_BookUtility.rulePack.rulesStrings.75>
+  <!-- EN: maybe_ShootingSkill-> and [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.76>maybe_ShootingSkill->和[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.76>
+  <!-- EN: maybe_ShootingSkill-> as well as [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.77>maybe_ShootingSkill->以及[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.77>
+  <!-- EN: maybe_AnimalsSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.78>maybe_AnimalsSkill-></VBE_BookUtility.rulePack.rulesStrings.78>
+  <!-- EN: maybe_AnimalsSkill-> and [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.79>maybe_AnimalsSkill->和[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.79>
+  <!-- EN: maybe_AnimalsSkill-> as well as [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.80>maybe_AnimalsSkill->以及[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.80>
+  <!-- EN: maybe_ArtSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.81>maybe_ArtSkill-></VBE_BookUtility.rulePack.rulesStrings.81>
+  <!-- EN: maybe_ArtSkill-> and [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.82>maybe_ArtSkill->和[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.82>
+  <!-- EN: maybe_ArtSkill-> as well as [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.83>maybe_ArtSkill->以及[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.83>
+  <!-- EN: maybe_ConstructionSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.84>maybe_ConstructionSkill-></VBE_BookUtility.rulePack.rulesStrings.84>
+  <!-- EN: maybe_ConstructionSkill-> and [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.85>maybe_ConstructionSkill->和[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.85>
+  <!-- EN: maybe_ConstructionSkill-> as well as [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.86>maybe_ConstructionSkill->以及[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.86>
+  <!-- EN: maybe_CookingSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.87>maybe_CookingSkill-></VBE_BookUtility.rulePack.rulesStrings.87>
+  <!-- EN: maybe_CookingSkill-> and [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.88>maybe_CookingSkill->和[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.88>
+  <!-- EN: maybe_CookingSkill-> as well as [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.89>maybe_CookingSkill->以及[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.89>
+  <!-- EN: maybe_CraftingSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.90>maybe_CraftingSkill-></VBE_BookUtility.rulePack.rulesStrings.90>
+  <!-- EN: maybe_CraftingSkill-> and [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.91>maybe_CraftingSkill->和[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.91>
+  <!-- EN: maybe_CraftingSkill-> as well as [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.92>maybe_CraftingSkill->以及[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.92>
+  <!-- EN: maybe_GrowingSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.93>maybe_GrowingSkill-></VBE_BookUtility.rulePack.rulesStrings.93>
+  <!-- EN: maybe_GrowingSkill-> and [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.94>maybe_GrowingSkill->和[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.94>
+  <!-- EN: maybe_GrowingSkill-> as well as [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.95>maybe_GrowingSkill->以及[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.95>
+  <!-- EN: maybe_IntellectualSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.96>maybe_IntellectualSkill-></VBE_BookUtility.rulePack.rulesStrings.96>
+  <!-- EN: maybe_IntellectualSkill-> and [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.97>maybe_IntellectualSkill->和[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.97>
+  <!-- EN: maybe_IntellectualSkill-> as well as [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.98>maybe_IntellectualSkill->以及[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.98>
+  <!-- EN: maybe_MedicalSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.99>maybe_MedicalSkill-></VBE_BookUtility.rulePack.rulesStrings.99>
+  <!-- EN: maybe_MedicalSkill-> and [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.100>maybe_MedicalSkill->和[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.100>
+  <!-- EN: maybe_MedicalSkill-> as well as [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.101>maybe_MedicalSkill->以及[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.101>
+  <!-- EN: maybe_MeleeSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.102>maybe_MeleeSkill-></VBE_BookUtility.rulePack.rulesStrings.102>
+  <!-- EN: maybe_MeleeSkill-> and [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.103>maybe_MeleeSkill->和[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.103>
+  <!-- EN: maybe_MeleeSkill-> as well as [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.104>maybe_MeleeSkill->以及[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.104>
+  <!-- EN: maybe_MiningSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.105>maybe_MiningSkill-></VBE_BookUtility.rulePack.rulesStrings.105>
+  <!-- EN: maybe_MiningSkill-> and [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.106>maybe_MiningSkill->和[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.106>
+  <!-- EN: maybe_MiningSkill-> as well as [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.107>maybe_MiningSkill->以及[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.107>
+  <!-- EN: maybe_SocialSkill-> -->
+  <VBE_BookUtility.rulePack.rulesStrings.108>maybe_SocialSkill-></VBE_BookUtility.rulePack.rulesStrings.108>
+  <!-- EN: maybe_SocialSkill-> and [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.109>maybe_SocialSkill->和[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.109>
+  <!-- EN: maybe_SocialSkill-> as well as [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.110>maybe_SocialSkill->以及[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.110>
+  <!-- EN: inspired->Inspired by the bestselling book titled -->
+  <VBE_BookUtility.rulePack.rulesStrings.111>inspired->灵感来源于一本畅销书，叫做</VBE_BookUtility.rulePack.rulesStrings.111>
+  <!-- EN: inspired->A prequel to the popular book named -->
+  <VBE_BookUtility.rulePack.rulesStrings.112>inspired->是一本前传，写给一本备受赞誉的书，名叫</VBE_BookUtility.rulePack.rulesStrings.112>
+  <!-- EN: inspired->Based heavily on the book titled -->
+  <VBE_BookUtility.rulePack.rulesStrings.113>inspired->大体上上基于一本书，叫</VBE_BookUtility.rulePack.rulesStrings.113>
+  <!-- EN: inspired->In order to contradict the statement in -->
+  <VBE_BookUtility.rulePack.rulesStrings.114>inspired->为了反对一本书中的观点，该书名为</VBE_BookUtility.rulePack.rulesStrings.114>
+  <!-- EN: context_newspaper->This [newspaper] goes indepth about the [tale_noun] on [DATE]. -->
+  <VBE_BookUtility.rulePack.rulesStrings.115>context_newspaper->这份[newspaper]深入报道了[DATE]的[tale_noun]。</VBE_BookUtility.rulePack.rulesStrings.115>
+  <!-- EN: context_newspaper->This [newspaper] relates to [tale_noun] on [DATE]. -->
+  <VBE_BookUtility.rulePack.rulesStrings.116>context_newspaper->这份[newspaper]涉及到了[DATE]的[tale_noun]。</VBE_BookUtility.rulePack.rulesStrings.116>
+  <!-- EN: context_newspaper->This [newspaper] tells the story of [tale_noun] on [DATE]. -->
+  <VBE_BookUtility.rulePack.rulesStrings.117>context_newspaper->这份[newspaper]讲述了[DATE][tale_noun]的故事。</VBE_BookUtility.rulePack.rulesStrings.117>
+  <!-- EN: context_newspaper->This [newspaper] is about [tale_noun] on [DATE]. -->
+  <VBE_BookUtility.rulePack.rulesStrings.118>context_newspaper->这份[newspaper]是关于[DATE][tale_noun]的。</VBE_BookUtility.rulePack.rulesStrings.118>
+  <!-- EN: context_newspaper->This [newspaper] informs the reader about [tale_noun] on [DATE]. -->
+  <VBE_BookUtility.rulePack.rulesStrings.119>context_newspaper->这份[newspaper]向读者介绍了[DATE][tale_noun]的消息。</VBE_BookUtility.rulePack.rulesStrings.119>
+  <!-- EN: newspaper->newspaper -->
+  <VBE_BookUtility.rulePack.rulesStrings.120>newspaper->报纸</VBE_BookUtility.rulePack.rulesStrings.120>
+  <!-- EN: newspaper->paper -->
+  <VBE_BookUtility.rulePack.rulesStrings.121>newspaper->文件</VBE_BookUtility.rulePack.rulesStrings.121>
+  <!-- EN: newspaper->article -->
+  <VBE_BookUtility.rulePack.rulesStrings.122>newspaper->文章</VBE_BookUtility.rulePack.rulesStrings.122>
+  <!-- EN: newspaper->magazine -->
+  <VBE_BookUtility.rulePack.rulesStrings.123>newspaper->杂志</VBE_BookUtility.rulePack.rulesStrings.123>
+  <!-- EN: ShootingBook->[Books] of [maybe_adjective] [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.124>ShootingBook->[maybe_adjective][ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.124>
+  <!-- EN: ShootingBook->[AdjectiveBadass] [Books] of [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.125>ShootingBook->[ShootingSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.125>
+  <!-- EN: ShootingBook->[AdjectiveLarge] [Books] of [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.126>ShootingBook->[ShootingSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.126>
+  <!-- EN: ShootingBook->[PeopleBadass]'s [Books] of [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.127>ShootingBook->[PeopleBadass]的[ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.127>
+  <!-- EN: ShootingBook->[Books] of [maybe_adjective] [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.128>ShootingBook->[maybe_adjective][ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.128>
+  <!-- EN: ShootingBook->[AdjectiveBadass] [Books] of the [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.129>ShootingBook->[AdjectiveBadass]的[ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.129>
+  <!-- EN: ShootingBook->The [Adjective] [Noun]: History of	[ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.130>ShootingBook->[Adjective][Noun]：[ShootingSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.130>
+  <!-- EN: ShootingBook->[ShootingSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.131>ShootingBook->[ShootingSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.131>
+  <!-- EN: ShootingBook->[maybe_letter][Digit][maybe_letter]: [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.132>ShootingBook->[maybe_letter][Digit][maybe_letter]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.132>
+  <!-- EN: ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]: [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.133>ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.133>
+  <!-- EN: ShootingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.134>ShootingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.134>
+  <!-- EN: ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]: [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.135>ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.135>
+  <!-- EN: ShootingBook->[ANYPAWN_nameIndef]'s [Books] of the [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.136>ShootingBook->[ANYPAWN_nameIndef]的[ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.136>
+  <!-- EN: ShootingBook->[ShootingSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.137>ShootingBook->[ANYPAWN_nameIndef]的[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.137>
+  <!-- EN: ShootingBook->[ANYPAWN_nameIndef]'s [Books]: [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.138>ShootingBook->[ANYPAWN_nameIndef]的[Books]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.138>
+  <!-- EN: ShootingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.139>ShootingBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.139>
+  <!-- EN: ShootingBook->[Noun] and [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.140>ShootingBook->[Noun]与[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.140>
+  <!-- EN: ShootingBook->[ConceptAny] and [ShootingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.141>ShootingBook->[ConceptAny]与[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.141>
+  <!-- EN: AnimalsBook->[Books] of [maybe_adjective] [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.142>AnimalsBook->[maybe_adjective][AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.142>
+  <!-- EN: AnimalsBook->[AdjectiveBadass] [Books] of [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.143>AnimalsBook->[AnimalsSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.143>
+  <!-- EN: AnimalsBook->[AdjectiveLarge] [Books] of [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.144>AnimalsBook->[AnimalsSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.144>
+  <!-- EN: AnimalsBook->[PeopleBadass]'s [Books] of [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.145>AnimalsBook->[PeopleBadass]的[AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.145>
+  <!-- EN: AnimalsBook->[Books] of [maybe_adjective] [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.146>AnimalsBook->[maybe_adjective][AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.146>
+  <!-- EN: AnimalsBook->[AdjectiveBadass] [Books] of the [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.147>AnimalsBook->[AdjectiveBadass]的[AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.147>
+  <!-- EN: AnimalsBook->The [Adjective] [Noun]: History of [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.148>AnimalsBook->[Adjective][Noun]：[AnimalsSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.148>
+  <!-- EN: AnimalsBook->[AnimalsSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.149>AnimalsBook->[AnimalsSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.149>
+  <!-- EN: AnimalsBook->[maybe_letter][Digit][maybe_letter]: [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.150>AnimalsBook->[maybe_letter][Digit][maybe_letter]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.150>
+  <!-- EN: AnimalsBook->[maybe_letter][Digit][Digit][maybe_letter]: [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.151>AnimalsBook->[maybe_letter][Digit][Digit][maybe_letter]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.151>
+  <!-- EN: AnimalsBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.152>AnimalsBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.152>
+  <!-- EN: AnimalsBook->[maybe_letter][RomanNumeral][maybe_letter]: [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.153>AnimalsBook->[maybe_letter][RomanNumeral][maybe_letter]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.153>
+  <!-- EN: AnimalsBook->[ANYPAWN_nameIndef]'s [Books] of the [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.154>AnimalsBook->[ANYPAWN_nameIndef]的[AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.154>
+  <!-- EN: AnimalsBook->[AnimalsSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.155>AnimalsBook->[ANYPAWN_nameIndef]的[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.155>
+  <!-- EN: AnimalsBook->[ANYPAWN_nameIndef]'s [Books]: [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.156>AnimalsBook->[ANYPAWN_nameIndef]的[Books]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.156>
+  <!-- EN: AnimalsBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.157>AnimalsBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.157>
+  <!-- EN: AnimalsBook->[Noun] and [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.158>AnimalsBook->[Noun]与[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.158>
+  <!-- EN: AnimalsBook->[ConceptAny] and [AnimalsSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.159>AnimalsBook->[ConceptAny]与[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.159>
+  <!-- EN: ArtBook->[Books] of [maybe_adjective] [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.160>ArtBook->[maybe_adjective][ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.160>
+  <!-- EN: ArtBook->[AdjectiveBadass] [Books] of [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.161>ArtBook->[ArtSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.161>
+  <!-- EN: ArtBook->[AdjectiveLarge] [Books] of [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.162>ArtBook->[ArtSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.162>
+  <!-- EN: ArtBook->[PeopleBadass]'s [Books] of [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.163>ArtBook->[PeopleBadass]的[ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.163>
+  <!-- EN: ArtBook->[Books] of [maybe_adjective] [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.164>ArtBook->[maybe_adjective][ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.164>
+  <!-- EN: ArtBook->[AdjectiveBadass] [Books] of the [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.165>ArtBook->[AdjectiveBadass]的[ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.165>
+  <!-- EN: ArtBook->The [Adjective] [Noun]: History of	[ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.166>ArtBook->[Adjective][Noun]：[ArtSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.166>
+  <!-- EN: ArtBook->[ArtSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.167>ArtBook->[ArtSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.167>
+  <!-- EN: ArtBook->[maybe_letter][Digit][maybe_letter]: [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.168>ArtBook->[maybe_letter][Digit][maybe_letter]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.168>
+  <!-- EN: ArtBook->[maybe_letter][Digit][Digit][maybe_letter]: [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.169>ArtBook->[maybe_letter][Digit][Digit][maybe_letter]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.169>
+  <!-- EN: ArtBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.170>ArtBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.170>
+  <!-- EN: ArtBook->[maybe_letter][RomanNumeral][maybe_letter]: [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.171>ArtBook->[maybe_letter][RomanNumeral][maybe_letter]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.171>
+  <!-- EN: ArtBook->[ANYPAWN_nameIndef]'s [Books] of the [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.172>ArtBook->[ANYPAWN_nameIndef]的[ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.172>
+  <!-- EN: ArtBook->[ArtSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.173>ArtBook->[ANYPAWN_nameIndef]的[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.173>
+  <!-- EN: ArtBook->[ANYPAWN_nameIndef]'s [Books]: [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.174>ArtBook->[ANYPAWN_nameIndef]的[Books]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.174>
+  <!-- EN: ArtBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.175>ArtBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.175>
+  <!-- EN: ArtBook->[Noun] and [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.176>ArtBook->[Noun]与[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.176>
+  <!-- EN: ArtBook->[ConceptAny] and [ArtSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.177>ArtBook->[ConceptAny]与[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.177>
+  <!-- EN: ConstructionBook->[Books] of [maybe_adjective] [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.178>ConstructionBook->[maybe_adjective][ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.178>
+  <!-- EN: ConstructionBook->[AdjectiveBadass] [Books] of [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.179>ConstructionBook->[ConstructionSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.179>
+  <!-- EN: ConstructionBook->[AdjectiveLarge] [Books] of [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.180>ConstructionBook->[ConstructionSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.180>
+  <!-- EN: ConstructionBook->[PeopleBadass]'s [Books] of [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.181>ConstructionBook->[PeopleBadass]的[ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.181>
+  <!-- EN: ConstructionBook->[Books] of [maybe_adjective] [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.182>ConstructionBook->[maybe_adjective][ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.182>
+  <!-- EN: ConstructionBook->[AdjectiveBadass] [Books] of the [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.183>ConstructionBook->[AdjectiveBadass]的[ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.183>
+  <!-- EN: ConstructionBook->The [Adjective] [Noun]: History of	[ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.184>ConstructionBook->[Adjective][Noun]：[ConstructionSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.184>
+  <!-- EN: ConstructionBook->[ConstructionSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.185>ConstructionBook->[ConstructionSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.185>
+  <!-- EN: ConstructionBook->[maybe_letter][Digit][maybe_letter]: [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.186>ConstructionBook->[maybe_letter][Digit][maybe_letter]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.186>
+  <!-- EN: ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]: [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.187>ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.187>
+  <!-- EN: ConstructionBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.188>ConstructionBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.188>
+  <!-- EN: ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]: [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.189>ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.189>
+  <!-- EN: ConstructionBook->[ANYPAWN_nameIndef]'s [Books] of the [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.190>ConstructionBook->[ANYPAWN_nameIndef]的[ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.190>
+  <!-- EN: ConstructionBook->[ConstructionSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.191>ConstructionBook->[ANYPAWN_nameIndef]的[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.191>
+  <!-- EN: ConstructionBook->[ANYPAWN_nameIndef]'s [Books]: [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.192>ConstructionBook->[ANYPAWN_nameIndef]的[Books]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.192>
+  <!-- EN: ConstructionBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.193>ConstructionBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.193>
+  <!-- EN: ConstructionBook->[Noun] and [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.194>ConstructionBook->[Noun]与[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.194>
+  <!-- EN: ConstructionBook->[ConceptAny] and [ConstructionSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.195>ConstructionBook->[ConceptAny]与[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.195>
+  <!-- EN: CookingBook->[Books] of [maybe_adjective] [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.196>CookingBook->[maybe_adjective][CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.196>
+  <!-- EN: CookingBook->[AdjectiveBadass] [Books] of [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.197>CookingBook->[CookingSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.197>
+  <!-- EN: CookingBook->[AdjectiveLarge] [Books] of [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.198>CookingBook->[CookingSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.198>
+  <!-- EN: CookingBook->[PeopleBadass]'s [Books] of [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.199>CookingBook->[PeopleBadass]的[CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.199>
+  <!-- EN: CookingBook->[Books] of [maybe_adjective] [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.200>CookingBook->[maybe_adjective][CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.200>
+  <!-- EN: CookingBook->[AdjectiveBadass] [Books] of the [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.201>CookingBook->[AdjectiveBadass]的[CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.201>
+  <!-- EN: CookingBook->The [Adjective] [Noun]: History of	[CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.202>CookingBook->[Adjective][Noun]：[CookingSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.202>
+  <!-- EN: CookingBook->[CookingSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.203>CookingBook->[CookingSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.203>
+  <!-- EN: CookingBook->[maybe_letter][Digit][maybe_letter]: [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.204>CookingBook->[maybe_letter][Digit][maybe_letter]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.204>
+  <!-- EN: CookingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.205>CookingBook->[maybe_letter][Digit][Digit][maybe_letter]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.205>
+  <!-- EN: CookingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.206>CookingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.206>
+  <!-- EN: CookingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.207>CookingBook->[maybe_letter][RomanNumeral][maybe_letter]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.207>
+  <!-- EN: CookingBook->[ANYPAWN_nameIndef]'s [Books] of the [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.208>CookingBook->[ANYPAWN_nameIndef]的[CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.208>
+  <!-- EN: CookingBook->[CookingSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.209>CookingBook->[ANYPAWN_nameIndef]之[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.209>
+  <!-- EN: CookingBook->[ANYPAWN_nameIndef]'s [Books]: [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.210>CookingBook->[ANYPAWN_nameIndef]的[Books]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.210>
+  <!-- EN: CookingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.211>CookingBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.211>
+  <!-- EN: CookingBook->[Noun] and [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.212>CookingBook->[Noun]与[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.212>
+  <!-- EN: CookingBook->[ConceptAny] and [CookingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.213>CookingBook->[ConceptAny]与[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.213>
+  <!-- EN: CraftingBook->[Books] of [maybe_adjective] [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.214>CraftingBook->[maybe_adjective][CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.214>
+  <!-- EN: CraftingBook->[AdjectiveBadass] [Books] of [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.215>CraftingBook->[CraftingSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.215>
+  <!-- EN: CraftingBook->[AdjectiveLarge] [Books] of [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.216>CraftingBook->[CraftingSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.216>
+  <!-- EN: CraftingBook->[PeopleBadass]'s [Books] of [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.217>CraftingBook->[PeopleBadass]的[CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.217>
+  <!-- EN: CraftingBook->[Books] of [maybe_adjective] [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.218>CraftingBook->[maybe_adjective][CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.218>
+  <!-- EN: CraftingBook->[AdjectiveBadass] [Books] of the [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.219>CraftingBook->[AdjectiveBadass]的[CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.219>
+  <!-- EN: CraftingBook->The [Adjective] [Noun]: History of	[CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.220>CraftingBook->[Adjective][Noun]：[CraftingSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.220>
+  <!-- EN: CraftingBook->[CraftingSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.221>CraftingBook->[CraftingSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.221>
+  <!-- EN: CraftingBook->[maybe_letter][Digit][maybe_letter]: [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.222>CraftingBook->[maybe_letter][Digit][maybe_letter]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.222>
+  <!-- EN: CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.223>CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.223>
+  <!-- EN: CraftingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.224>CraftingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.224>
+  <!-- EN: CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.225>CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.225>
+  <!-- EN: CraftingBook->[ANYPAWN_nameIndef]'s [Books] of the [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.226>CraftingBook->[ANYPAWN_nameIndef]的[CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.226>
+  <!-- EN: CraftingBook->[CraftingSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.227>CraftingBook->[ANYPAWN_nameIndef]的[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.227>
+  <!-- EN: CraftingBook->[ANYPAWN_nameIndef]'s [Books]: [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.228>CraftingBook->[ANYPAWN_nameIndef]的[Books]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.228>
+  <!-- EN: CraftingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.229>CraftingBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.229>
+  <!-- EN: CraftingBook->[Noun] and [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.230>CraftingBook->[Noun]与[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.230>
+  <!-- EN: CraftingBook->[ConceptAny] and [CraftingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.231>CraftingBook->[ConceptAny]与[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.231>
+  <!-- EN: GrowingBook->[Books] of [maybe_adjective] [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.232>GrowingBook->[maybe_adjective][GrowingSkill][Books][Books]</VBE_BookUtility.rulePack.rulesStrings.232>
+  <!-- EN: GrowingBook->[AdjectiveBadass] [Books] of [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.233>GrowingBook->[GrowingSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.233>
+  <!-- EN: GrowingBook->[AdjectiveLarge] [Books] of [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.234>GrowingBook->[GrowingSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.234>
+  <!-- EN: GrowingBook->[PeopleBadass]'s [Books] of [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.235>GrowingBook->[PeopleBadass]的[GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.235>
+  <!-- EN: GrowingBook->[Books] of [maybe_adjective] [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.236>GrowingBook->[maybe_adjective][GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.236>
+  <!-- EN: GrowingBook->[AdjectiveBadass] [Books] of the [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.237>GrowingBook->[AdjectiveBadass]的[GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.237>
+  <!-- EN: GrowingBook->The [Adjective] [Noun]: History of	[GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.238>GrowingBook->[Adjective][Noun]：[GrowingSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.238>
+  <!-- EN: GrowingBook->[GrowingSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.239>GrowingBook->[GrowingSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.239>
+  <!-- EN: GrowingBook->[maybe_letter][Digit][maybe_letter]: [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.240>GrowingBook->[maybe_letter][Digit][maybe_letter]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.240>
+  <!-- EN: GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]: [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.241>GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.241>
+  <!-- EN: GrowingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.242>GrowingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.242>
+  <!-- EN: GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]: [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.243>GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.243>
+  <!-- EN: GrowingBook->[ANYPAWN_nameIndef]'s [Books] of the [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.244>GrowingBook->[ANYPAWN_nameIndef]的[GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.244>
+  <!-- EN: GrowingBook->[GrowingSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.245>GrowingBook->[ANYPAWN_nameIndef]的[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.245>
+  <!-- EN: GrowingBook->[ANYPAWN_nameIndef]'s [Books]: [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.246>GrowingBook->[ANYPAWN_nameIndef]的[Books]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.246>
+  <!-- EN: GrowingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.247>GrowingBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.247>
+  <!-- EN: GrowingBook->[Noun] and [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.248>GrowingBook->[Noun]与[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.248>
+  <!-- EN: GrowingBook->[ConceptAny] and [GrowingSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.249>GrowingBook->[ConceptAny]与[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.249>
+  <!-- EN: IntellectualBook->[Books] of [maybe_adjective] [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.250>IntellectualBook->[maybe_adjective][IntellectualSkill]的[Books]</VBE_BookUtility.rulePack.rulesStrings.250>
+  <!-- EN: IntellectualBook->[AdjectiveBadass] [Books] of [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.251>IntellectualBook->[IntellectualSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.251>
+  <!-- EN: IntellectualBook->[AdjectiveLarge] [Books] of [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.252>IntellectualBook->[IntellectualSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.252>
+  <!-- EN: IntellectualBook->[PeopleBadass]'s [Books] of [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.253>IntellectualBook->[PeopleBadass]的[IntellectualSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.253>
+  <!-- EN: IntellectualBook->[Books] of [maybe_adjective] [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.254>IntellectualBook->[maybe_adjective][IntellectualSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.254>
+  <!-- EN: IntellectualBook->[AdjectiveBadass] [Books] of the [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.255>IntellectualBook->[AdjectiveBadass]的[IntellectualSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.255>
+  <!-- EN: IntellectualBook->The [Adjective] [Noun]: History of	[IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.256>IntellectualBook->[Adjective][Noun]：[IntellectualSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.256>
+  <!-- EN: IntellectualBook->[IntellectualSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.257>IntellectualBook->[IntellectualSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.257>
+  <!-- EN: IntellectualBook->[maybe_letter][Digit][maybe_letter]: [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.258>IntellectualBook->[maybe_letter][Digit][maybe_letter]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.258>
+  <!-- EN: IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]: [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.259>IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.259>
+  <!-- EN: IntellectualBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.260>IntellectualBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.260>
+  <!-- EN: IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]: [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.261>IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.261>
+  <!-- EN: IntellectualBook->[ANYPAWN_nameIndef]'s [Books] of the [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.262>IntellectualBook->[ANYPAWN_nameIndef]的[IntellectualSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.262>
+  <!-- EN: IntellectualBook->[IntellectualSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.263>IntellectualBook->[ANYPAWN_nameIndef]的[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.263>
+  <!-- EN: IntellectualBook->[ANYPAWN_nameIndef]'s [Books]: [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.264>IntellectualBook->[ANYPAWN_nameIndef]的[Books]: [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.264>
+  <!-- EN: IntellectualBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.265>IntellectualBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.265>
+  <!-- EN: IntellectualBook->[Noun] and [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.266>IntellectualBook->[Noun]与[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.266>
+  <!-- EN: IntellectualBook->[ConceptAny] and [IntellectualSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.267>IntellectualBook->[ConceptAny]与[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.267>
+  <!-- EN: MedicalBook->[Books] of [maybe_adjective] [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.268>MedicalBook->[maybe_adjective][MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.268>
+  <!-- EN: MedicalBook->[AdjectiveBadass] [Books] of [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.269>MedicalBook->[MedicalSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.269>
+  <!-- EN: MedicalBook->[AdjectiveLarge] [Books] of [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.270>MedicalBook->[MedicalSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.270>
+  <!-- EN: MedicalBook->[PeopleBadass]'s [Books] of [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.271>MedicalBook->[PeopleBadass]的[MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.271>
+  <!-- EN: MedicalBook->[Books] of [maybe_adjective] [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.272>MedicalBook->[maybe_adjective][MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.272>
+  <!-- EN: MedicalBook->[AdjectiveBadass] [Books] of the [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.273>MedicalBook->[AdjectiveBadass]的[MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.273>
+  <!-- EN: MedicalBook->The [Adjective] [Noun]: History of	[MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.274>MedicalBook->[Adjective][Noun]：[MedicalSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.274>
+  <!-- EN: MedicalBook->[MedicalSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.275>MedicalBook->[MedicalSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.275>
+  <!-- EN: MedicalBook->[maybe_letter][Digit][maybe_letter]: [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.276>MedicalBook->[maybe_letter][Digit][maybe_letter]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.276>
+  <!-- EN: MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]: [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.277>MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.277>
+  <!-- EN: MedicalBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.278>MedicalBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.278>
+  <!-- EN: MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]: [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.279>MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.279>
+  <!-- EN: MedicalBook->[ANYPAWN_nameIndef]'s [Books] of the [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.280>MedicalBook->[ANYPAWN_nameIndef]的[MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.280>
+  <!-- EN: MedicalBook->[MedicalSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.281>MedicalBook->[ANYPAWN_nameIndef]的[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.281>
+  <!-- EN: MedicalBook->[ANYPAWN_nameIndef]'s [Books]: [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.282>MedicalBook->[ANYPAWN_nameIndef]的[Books]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.282>
+  <!-- EN: MedicalBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.283>MedicalBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.283>
+  <!-- EN: MedicalBook->[Noun] and [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.284>MedicalBook->[Noun]与[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.284>
+  <!-- EN: MedicalBook->[ConceptAny] and [MedicalSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.285>MedicalBook->[ConceptAny]与[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.285>
+  <!-- EN: MeleeBook->[Books] of [maybe_adjective] [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.286>MeleeBook->[maybe_adjective][MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.286>
+  <!-- EN: MeleeBook->[AdjectiveBadass] [Books] of [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.287>MeleeBook->[MeleeSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.287>
+  <!-- EN: MeleeBook->[AdjectiveLarge] [Books] of [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.288>MeleeBook->[MeleeSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.288>
+  <!-- EN: MeleeBook->[PeopleBadass]'s [Books] of [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.289>MeleeBook->[PeopleBadass]的[MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.289>
+  <!-- EN: MeleeBook->[Books] of [maybe_adjective] [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.290>MeleeBook->[maybe_adjective][MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.290>
+  <!-- EN: MeleeBook->[AdjectiveBadass] [Books] of the [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.291>MeleeBook->[AdjectiveBadass]的[MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.291>
+  <!-- EN: MeleeBook->The [Adjective] [Noun]: History of	[MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.292>MeleeBook->The [Adjective] [Noun]：[MeleeSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.292>
+  <!-- EN: MeleeBook->[MeleeSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.293>MeleeBook->[MeleeSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.293>
+  <!-- EN: MeleeBook->[maybe_letter][Digit][maybe_letter]: [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.294>MeleeBook->[maybe_letter][Digit][maybe_letter]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.294>
+  <!-- EN: MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]: [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.295>MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.295>
+  <!-- EN: MeleeBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.296>MeleeBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.296>
+  <!-- EN: MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]: [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.297>MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.297>
+  <!-- EN: MeleeBook->[ANYPAWN_nameIndef]'s [Books] of the [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.298>MeleeBook->[ANYPAWN_nameIndef]的[MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.298>
+  <!-- EN: MeleeBook->[MeleeSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.299>MeleeBook->[ANYPAWN_nameIndef]的[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.299>
+  <!-- EN: MeleeBook->[ANYPAWN_nameIndef]'s [Books]: [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.300>MeleeBook->[ANYPAWN_nameIndef]的[Books]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.300>
+  <!-- EN: MeleeBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.301>MeleeBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.301>
+  <!-- EN: MeleeBook->[Noun] and [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.302>MeleeBook->[Noun]与[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.302>
+  <!-- EN: MeleeBook->[ConceptAny] and [MeleeSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.303>MeleeBook->[ConceptAny]与[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.303>
+  <!-- EN: MiningBook->[Books] of [maybe_adjective] [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.304>MiningBook->[maybe_adjective][MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.304>
+  <!-- EN: MiningBook->[AdjectiveBadass] [Books] of [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.305>MiningBook->[MiningSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.305>
+  <!-- EN: MiningBook->[AdjectiveLarge] [Books] of [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.306>MiningBook->[MiningSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.306>
+  <!-- EN: MiningBook->[PeopleBadass]'s [Books] of [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.307>MiningBook->[PeopleBadass]的[MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.307>
+  <!-- EN: MiningBook->[Books] of [maybe_adjective] [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.308>MiningBook->[maybe_adjective][MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.308>
+  <!-- EN: MiningBook->[AdjectiveBadass] [Books] of the [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.309>MiningBook->[AdjectiveBadass]的[MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.309>
+  <!-- EN: MiningBook->The [Adjective] [Noun]: History of	[MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.310>MiningBook->[Adjective][Noun]：[MiningSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.310>
+  <!-- EN: MiningBook->[MiningSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.311>MiningBook->[MiningSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.311>
+  <!-- EN: MiningBook->[maybe_letter][Digit][maybe_letter]: [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.312>MiningBook->[maybe_letter][Digit][maybe_letter]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.312>
+  <!-- EN: MiningBook->[maybe_letter][Digit][Digit][maybe_letter]: [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.313>MiningBook->[maybe_letter][Digit][Digit][maybe_letter]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.313>
+  <!-- EN: MiningBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.314>MiningBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.314>
+  <!-- EN: MiningBook->[maybe_letter][RomanNumeral][maybe_letter]: [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.315>MiningBook->[maybe_letter][RomanNumeral][maybe_letter]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.315>
+  <!-- EN: MiningBook->[ANYPAWN_nameIndef]'s [Books] of the [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.316>MiningBook->[ANYPAWN_nameIndef]的[MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.316>
+  <!-- EN: MiningBook->[MiningSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.317>MiningBook->[ANYPAWN_nameIndef]的[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.317>
+  <!-- EN: MiningBook->[ANYPAWN_nameIndef]'s [Books]: [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.318>MiningBook->[ANYPAWN_nameIndef]的[Books]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.318>
+  <!-- EN: MiningBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.319>MiningBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.319>
+  <!-- EN: MiningBook->[Noun] and [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.320>MiningBook->[Noun]与[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.320>
+  <!-- EN: MiningBook->[ConceptAny] and [MiningSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.321>MiningBook->[ConceptAny]与[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.321>
+  <!-- EN: SocialBook->[Books] of [maybe_adjective] [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.322>SocialBook->[maybe_adjective][SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.322>
+  <!-- EN: SocialBook->[AdjectiveBadass] [Books] of [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.323>SocialBook->[SocialSkill]的[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.323>
+  <!-- EN: SocialBook->[AdjectiveLarge] [Books] of [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.324>SocialBook->[SocialSkill]的[AdjectiveLarge][Books]</VBE_BookUtility.rulePack.rulesStrings.324>
+  <!-- EN: SocialBook->[PeopleBadass]'s [Books] of [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.325>SocialBook->[PeopleBadass]的[SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.325>
+  <!-- EN: SocialBook->[Books] of [maybe_adjective] [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.326>SocialBook->[maybe_adjective][SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.326>
+  <!-- EN: SocialBook->[AdjectiveBadass] [Books] of the [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.327>SocialBook->[AdjectiveBadass]的[SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.327>
+  <!-- EN: SocialBook->The [Adjective] [Noun]: History of	[SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.328>SocialBook->[Adjective][Noun]：[SocialSkill]的历史</VBE_BookUtility.rulePack.rulesStrings.328>
+  <!-- EN: SocialBook->[SocialSkill] [Digit] -->
+  <VBE_BookUtility.rulePack.rulesStrings.329>SocialBook->[SocialSkill][Digit]</VBE_BookUtility.rulePack.rulesStrings.329>
+  <!-- EN: SocialBook->[maybe_letter][Digit][maybe_letter]: [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.330>SocialBook->[maybe_letter][Digit][maybe_letter]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.330>
+  <!-- EN: SocialBook->[maybe_letter][Digit][Digit][maybe_letter]: [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.331>SocialBook->[maybe_letter][Digit][Digit][maybe_letter]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.331>
+  <!-- EN: SocialBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.332>SocialBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.332>
+  <!-- EN: SocialBook->[maybe_letter][RomanNumeral][maybe_letter]: [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.333>SocialBook->[maybe_letter][RomanNumeral][maybe_letter]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.333>
+  <!-- EN: SocialBook->[ANYPAWN_nameIndef]'s [Books] of the [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.334>SocialBook->[ANYPAWN_nameIndef]的[SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.334>
+  <!-- EN: SocialBook->[SocialSkill] of [ANYPAWN_nameIndef] -->
+  <VBE_BookUtility.rulePack.rulesStrings.335>SocialBook->[ANYPAWN_nameIndef]的[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.335>
+  <!-- EN: SocialBook->[ANYPAWN_nameIndef]'s [Books]: [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.336>SocialBook->[ANYPAWN_nameIndef]的[Books]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.336>
+  <!-- EN: SocialBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.337>SocialBook->[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.337>
+  <!-- EN: SocialBook->[Noun] and [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.338>SocialBook->[Noun]与[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.338>
+  <!-- EN: SocialBook->[ConceptAny] and [SocialSkill] -->
+  <VBE_BookUtility.rulePack.rulesStrings.339>SocialBook->[ConceptAny]与[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.339>
+  
+</LanguageData>

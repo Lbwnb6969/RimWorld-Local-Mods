@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no ocular trees -->
+  <AM_OcularTrees_TreesDesired.stages.no_ocular_trees.label>附近没有异目树</AM_OcularTrees_TreesDesired.stages.no_ocular_trees.label>
+  <!-- EN: There are no ocular trees around, and I feel nervous being outside of their soothing gaze. -->
+  <AM_OcularTrees_TreesDesired.stages.no_ocular_trees.description>这附近一颗异目树都没有。没有它们抚慰心灵的凝视，我会焦虑地说不出话的。</AM_OcularTrees_TreesDesired.stages.no_ocular_trees.description>
+  <!-- EN: scarce ocular trees -->
+  <AM_OcularTrees_TreesDesired.stages.scarce_ocular_trees.label>稀疏的异目树</AM_OcularTrees_TreesDesired.stages.scarce_ocular_trees.label>
+  <!-- EN: There are very few ocular trees around. -->
+  <AM_OcularTrees_TreesDesired.stages.scarce_ocular_trees.description>附近只有寥寥几棵异目树。</AM_OcularTrees_TreesDesired.stages.scarce_ocular_trees.description>
+  <!-- EN: adequate ocular trees -->
+  <AM_OcularTrees_TreesDesired.stages.adequate_ocular_trees.label>足量的异目树</AM_OcularTrees_TreesDesired.stages.adequate_ocular_trees.label>
+  <!-- EN: I recently saw a wide variety of ocular trees. -->
+  <AM_OcularTrees_TreesDesired.stages.adequate_ocular_trees.description>我最近看到了不少异目树。</AM_OcularTrees_TreesDesired.stages.adequate_ocular_trees.description>
+  <!-- EN: amazing ocular trees -->
+  <AM_OcularTrees_TreesDesired.stages.amazing_ocular_trees.label>繁茂的异目树</AM_OcularTrees_TreesDesired.stages.amazing_ocular_trees.label>
+  <!-- EN: I am surrounded by several beautiful, massive ocular trees. Their unblinking gaze is glorious! -->
+  <AM_OcularTrees_TreesDesired.stages.amazing_ocular_trees.description>我正被美妙的异目树环绕着！被它们凝视让我感到荣耀无比！</AM_OcularTrees_TreesDesired.stages.amazing_ocular_trees.description>
+  <!-- EN: sublime ocular forest -->
+  <AM_OcularTrees_TreesDesired.stages.sublime_ocular_forest.label>壮丽的异目树</AM_OcularTrees_TreesDesired.stages.sublime_ocular_forest.label>
+  <!-- EN: The whole region is covered in the sublime gaze of the ocular trees - a physical seat of morality! -->
+  <AM_OcularTrees_TreesDesired.stages.sublime_ocular_forest.description>这片区域正被异目树崇高的凝视所笼罩——这才是宇宙道德结构的实质体现！</AM_OcularTrees_TreesDesired.stages.sublime_ocular_forest.description>
+  
+</LanguageData>

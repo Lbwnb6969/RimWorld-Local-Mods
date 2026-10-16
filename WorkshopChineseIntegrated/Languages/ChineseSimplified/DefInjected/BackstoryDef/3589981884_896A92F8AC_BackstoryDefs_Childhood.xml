@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef]'s father carried the clan banner at Grunwald. The weight of legacy pressed on [PAWN_possessive] shoulders even in play.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_BannerBearer.description>[PAWN_nameDef] 的父亲曾在格伦瓦德战役中扛起氏族旗帜。即便在玩耍时，这份传承的重量也压在[PAWN_possessive] 的肩头。</BA_PL_Child_BannerBearer.description>
+  <!-- EN: banner-bearer's child -->
+  <BA_PL_Child_BannerBearer.title>旗手之子</BA_PL_Child_BannerBearer.title>
+  <!-- EN: Banner Bearer -->
+  <BA_PL_Child_BannerBearer.titleShort>旗手</BA_PL_Child_BannerBearer.titleShort>
+  
+  <!-- EN: Following a blind bard through villages, [PAWN_nameDef] learned the ancient songs of Polish heroes. Words became [PAWN_possessive] inheritance when coin was none.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Bardling.description>[PAWN_nameDef] 跟随一位盲眼吟游诗人穿梭于村庄之间，学会了波兰英雄的古老歌谣。当身无分文时，语言便成了[PAWN_possessive] 的遗产。</BA_PL_Child_Bardling.description>
+  <!-- EN: young bardling -->
+  <BA_PL_Child_Bardling.title>幼龄吟游诗人</BA_PL_Child_Bardling.title>
+  <!-- EN: Bard -->
+  <BA_PL_Child_Bardling.titleShort>吟游诗人</BA_PL_Child_Bardling.titleShort>
+  
+  <!-- EN: Living in the marshlands of Pomerania, [PAWN_nameDef] grew accustomed to mist, insects, and the isolation of wetlands. [PAWN_pronoun] learned to move quietly through mud and reeds.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Bogdweller.description>[PAWN_nameDef] 居住在波美拉尼亚的沼泽地带，渐渐习惯了雾气、蚊虫与湿地的隔绝感。[PAWN_pronoun] 学会了在泥泞与芦苇丛中悄无声息地移动。</BA_PL_Child_Bogdweller.description>
+  <!-- EN: bog dweller -->
+  <BA_PL_Child_Bogdweller.title>沼泽居民</BA_PL_Child_Bogdweller.title>
+  <!-- EN: Dweller -->
+  <BA_PL_Child_Bogdweller.titleShort>居民</BA_PL_Child_Bogdweller.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born near the contested lands of the Teutonic border, growing up watching armored riders pass through their fields. Every night's fire carried tales of raids, courage, and survival.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_BorderVillageLad.description>[PAWN_nameDef] 出生在条顿边境的争议地带，成长过程中常看到装甲骑手穿过自家田地。每一夜的篝火边，都流传着劫掠、勇气与生存的故事。</BA_PL_Child_BorderVillageLad.description>
+  <!-- EN: border village lad -->
+  <BA_PL_Child_BorderVillageLad.title>边境村童</BA_PL_Child_BorderVillageLad.title>
+  <!-- EN: Village Lad -->
+  <BA_PL_Child_BorderVillageLad.titleShort>村童</BA_PL_Child_BorderVillageLad.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew beside the mighty Vistula River, hauling nets at dawn and learning the art of patience on misty waters. River life made [PAWN_objective] hardy and self-reliant.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_FisherOnVistula.description>[PAWN_nameDef] 在壮阔的维斯瓦河畔长大，黎明时分便协助拖网，在雾气氤氲的水面上领悟耐心的真谛。河畔生活让[PAWN_objective] 变得坚韧而自立。</BA_PL_Child_FisherOnVistula.description>
+  <!-- EN: Vistula fisher's child -->
+  <BA_PL_Child_FisherOnVistula.title>维斯瓦河渔夫之子</BA_PL_Child_FisherOnVistula.title>
+  <!-- EN: Fisher -->
+  <BA_PL_Child_FisherOnVistula.titleShort>渔夫</BA_PL_Child_FisherOnVistula.titleShort>
+  
+  <!-- EN: Growing up in the fields outside Lublin, [PAWN_nameDef] spent summers cutting hay and winters fixing thatched roofs. Life was harsh, but the air was honest.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_HayfieldWorker.description>[PAWN_nameDef] 在卢布林城外的田野中长大，夏天割草，冬天修缮茅草屋顶。生活虽艰苦，却充满质朴的真实。</BA_PL_Child_HayfieldWorker.description>
+  <!-- EN: hayfield worker -->
+  <BA_PL_Child_HayfieldWorker.title>草地劳工</BA_PL_Child_HayfieldWorker.title>
+  <!-- EN: Worker -->
+  <BA_PL_Child_HayfieldWorker.titleShort>劳工</BA_PL_Child_HayfieldWorker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]'s forebears rode with the first winged riders. Tales of bravery filled [PAWN_possessive] nights, and horsemanship [PAWN_possessive] days.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_HussarLegacy.description>[PAWN_nameDef] 的祖先曾与最早的翼骑兵并肩作战。夜晚，[PAWN_possessive] 在勇气的传说中入眠；白昼，[PAWN_possessive] 专注于马术的练习。</BA_PL_Child_HussarLegacy.description>
+  <!-- EN: early hussar legacy -->
+  <BA_PL_Child_HussarLegacy.title>早期翼骑兵后裔</BA_PL_Child_HussarLegacy.title>
+  <!-- EN: Hussar -->
+  <BA_PL_Child_HussarLegacy.titleShort>翼骑兵</BA_PL_Child_HussarLegacy.titleShort>
+  
+  <!-- EN: Born to a knight sworn to a Piast lord, [PAWN_nameDef] grew up among armor, banners, and stories of valor. Swordplay began before schooling.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_KnightHeir.description>[PAWN_nameDef] 出生于效忠于皮亚斯特领主的骑士家庭，在甲胄、旗帜与勇气的传说中长大。他先学剑术，后入学堂。</BA_PL_Child_KnightHeir.description>
+  <!-- EN: knight's heir -->
+  <BA_PL_Child_KnightHeir.title>骑士继承人</BA_PL_Child_KnightHeir.title>
+  <!-- EN: Heir -->
+  <BA_PL_Child_KnightHeir.titleShort>继承人</BA_PL_Child_KnightHeir.titleShort>
+  
+  <!-- EN: Descended from a line of mounted warriors, [PAWN_nameDef] learned to ride before [PAWN_pronoun] could read. Every gallop was a promise to [PAWN_possessive] ancestors.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_LancerBorn.description>[PAWN_nameDef] 是骑兵世家的后裔，会骑马时还不识字。每一次疾驰，都是对[PAWN_possessive] 先祖的承诺。</BA_PL_Child_LancerBorn.description>
+  <!-- EN: lancer-born -->
+  <BA_PL_Child_LancerBorn.title>枪骑兵后裔</BA_PL_Child_LancerBorn.title>
+  <!-- EN: Lancer -->
+  <BA_PL_Child_LancerBorn.titleShort>枪骑兵</BA_PL_Child_LancerBorn.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] helped their family sell goods in Kraków's bustling square. Bartering, shouting, and dodging pickpockets became a daily skill.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_MarketHelper.description>孩童时期，[PAWN_nameDef] 便在克拉科夫热闹的广场上帮家人售卖货物。讨价还价、吆喝叫卖、躲避小偷，成了他的日常技能。</BA_PL_Child_MarketHelper.description>
+  <!-- EN: Kraków market helper -->
+  <BA_PL_Child_MarketHelper.title>克拉科夫集市帮手</BA_PL_Child_MarketHelper.title>
+  <!-- EN: Helper -->
+  <BA_PL_Child_MarketHelper.titleShort>帮手</BA_PL_Child_MarketHelper.titleShort>
+  
+  <!-- EN: Born near the Ruthenian frontier, [PAWN_nameDef] learned early the tension of watchtowers and raids. Discipline and vigilance were daily lessons in survival.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Noble_BorderKeepHeir.description>[PAWN_nameDef] 出生在鲁塞尼亚边境附近，早早便体会到瞭望塔与劫掠带来的紧张感。纪律与警惕，是他每日的生存必修课。</BA_PL_Child_Noble_BorderKeepHeir.description>
+  <!-- EN: border keep heir -->
+  <BA_PL_Child_Noble_BorderKeepHeir.title>边境堡垒继承人</BA_PL_Child_Noble_BorderKeepHeir.title>
+  <!-- EN: Heir -->
+  <BA_PL_Child_Noble_BorderKeepHeir.titleShort>继承人</BA_PL_Child_Noble_BorderKeepHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born to a modest noble family that owned little more than a few fields and a coat of arms. Pride and tradition mattered more than wealth in [PAWN_possessive] home.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Noble_DrobnaSzlachta.description>[PAWN_nameDef] 出身于一个普通贵族家庭，家中仅有几块田地与一面家族纹章。在[PAWN_possessive] 家中，骄傲与传统比财富更为重要。</BA_PL_Child_Noble_DrobnaSzlachta.description>
+  <!-- EN: drobna szlachta child -->
+  <BA_PL_Child_Noble_DrobnaSzlachta.title>小贵族子弟</BA_PL_Child_Noble_DrobnaSzlachta.title>
+  <!-- EN: Noble -->
+  <BA_PL_Child_Noble_DrobnaSzlachta.titleShort>贵族</BA_PL_Child_Noble_DrobnaSzlachta.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised among noble falconers, learning to train hawks and read the wind. The patience of hunting shaped [PAWN_possessive] calm and steady nature.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Noble_FalconersHeir.description>[PAWN_nameDef] 在贵族驯鹰人身边长大，学会了驯鹰与辨识风向。狩猎所需的耐心，塑造了[PAWN_possessive] 沉稳坚毅的性格。</BA_PL_Child_Noble_FalconersHeir.description>
+  <!-- EN: falconer's heir -->
+  <BA_PL_Child_Noble_FalconersHeir.title>驯鹰人继承人</BA_PL_Child_Noble_FalconersHeir.title>
+  <!-- EN: Falconer -->
+  <BA_PL_Child_Noble_FalconersHeir.titleShort>驯鹰人</BA_PL_Child_Noble_FalconersHeir.titleShort>
+  
+  <!-- EN: Raised under the eye of a famed commander, [PAWN_nameDef] spent childhood listening to tales of glory and discipline. Maps and war banners fascinated [PAWN_objective] more than toys.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Noble_HetmansWard.description>[PAWN_nameDef] 在一位著名指挥官的照料下长大，童年时光都在聆听荣耀与纪律的故事中度过。比起玩具，地图与战旗更能吸引[PAWN_objective]。</BA_PL_Child_Noble_HetmansWard.description>
+  <!-- EN: hetman's ward -->
+  <BA_PL_Child_Noble_HetmansWard.title>盖特曼受监护人</BA_PL_Child_Noble_HetmansWard.title>
+  <!-- EN: Ward -->
+  <BA_PL_Child_Noble_HetmansWard.titleShort>受监护人</BA_PL_Child_Noble_HetmansWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was taught the old legends of Poland's founders and saints. Between prayers and tales of dragons, [PAWN_pronoun] learned that honor could outlive blood.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Noble_SlavicStorykeeper.description>[PAWN_nameDef] 习得波兰创始人和圣徒的古老传说。在祈祷与龙的故事间隙，[PAWN_pronoun] 明白了荣誉比血统更能流传久远。</BA_PL_Child_Noble_SlavicStorykeeper.description>
+  <!-- EN: slavic storykeeper -->
+  <BA_PL_Child_Noble_SlavicStorykeeper.title>斯拉夫故事传承者</BA_PL_Child_Noble_SlavicStorykeeper.title>
+  <!-- EN: Storykeeper -->
+  <BA_PL_Child_Noble_SlavicStorykeeper.titleShort>故事传承者</BA_PL_Child_Noble_SlavicStorykeeper.titleShort>
+  
+  <!-- EN: Born to the Polish nobility, [PAWN_nameDef] was taught honor, faith, and the art of speech. [PAWN_possessive] childhood passed between hunts, feasts, and the lessons of lineage.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Noble_SzlachtaHeir.description>[PAWN_nameDef] 出身波兰贵族，被教导要恪守荣誉、坚守信仰，并习得演说之道。[PAWN_possessive] 的童年在狩猎、宴会与血统传承的课程中悄然度过。</BA_PL_Child_Noble_SzlachtaHeir.description>
+  <!-- EN: szlachta heir -->
+  <BA_PL_Child_Noble_SzlachtaHeir.title>波兰贵族继承人</BA_PL_Child_Noble_SzlachtaHeir.title>
+  <!-- EN: Heir -->
+  <BA_PL_Child_Noble_SzlachtaHeir.titleShort>继承人</BA_PL_Child_Noble_SzlachtaHeir.titleShort>
+  
+  <!-- EN: Born to a noble family involved in uneasy diplomacy with the Teutonic Knights, [PAWN_nameDef] learned to mask fear with grace and to read danger in silence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Noble_TeutonicEnvoyChild.description>[PAWN_nameDef] 的家族是与条顿骑士团进行紧张外交的贵族家庭，他自幼便学会用优雅掩饰恐惧，在沉默中察觉危险。</BA_PL_Child_Noble_TeutonicEnvoyChild.description>
+  <!-- EN: envoy's child -->
+  <BA_PL_Child_Noble_TeutonicEnvoyChild.title>使节之子</BA_PL_Child_Noble_TeutonicEnvoyChild.title>
+  <!-- EN: Envoy -->
+  <BA_PL_Child_Noble_TeutonicEnvoyChild.titleShort>使节</BA_PL_Child_Noble_TeutonicEnvoyChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a young aide within the court of Mazovia, learning etiquette, heraldry, and the subtle hierarchies of noble society.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Noble_WarsawCourtTrainee.description>[PAWN_nameDef] 在马佐维亚宫廷中担任年轻助手，学习礼仪、纹章学以及贵族社会中微妙的等级规则。</BA_PL_Child_Noble_WarsawCourtTrainee.description>
+  <!-- EN: warsaw court trainee -->
+  <BA_PL_Child_Noble_WarsawCourtTrainee.title>华沙宫廷学徒</BA_PL_Child_Noble_WarsawCourtTrainee.title>
+  <!-- EN: Trainee -->
+  <BA_PL_Child_Noble_WarsawCourtTrainee.titleShort>学徒</BA_PL_Child_Noble_WarsawCourtTrainee.titleShort>
+  
+  <!-- EN: The child of a voivode's trusted officer, [PAWN_nameDef] was raised in discipline and etiquette. Every meal was a lesson in duty and reputation.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_PalatinesSon.description>[PAWN_nameDef] 是省督亲信军官的孩子，在纪律与礼仪的熏陶中长大。每一顿饭，都是关于责任与声誉的一课。</BA_PL_Child_PalatinesSon.description>
+  <!-- EN: palatine's son -->
+  <BA_PL_Child_PalatinesSon.title>省督副官之子</BA_PL_Child_PalatinesSon.title>
+  <!-- EN: Son -->
+  <BA_PL_Child_PalatinesSon.titleShort>副官之子</BA_PL_Child_PalatinesSon.titleShort>
+  
+  <!-- EN: Descendant of those who carried banners for the Piast kings, [PAWN_nameDef] was raised with fierce pride and the expectation to defend the realm.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_PiastStandardBearer.description>[PAWN_nameDef] 是为皮亚斯特国王扛旗者的后裔，在强烈的自豪感与保卫王国的期许中长大。</BA_PL_Child_PiastStandardBearer.description>
+  <!-- EN: Piast standard-bearer's child -->
+  <BA_PL_Child_PiastStandardBearer.title>皮亚斯特旗手之子</BA_PL_Child_PiastStandardBearer.title>
+  <!-- EN: Standard Bearer -->
+  <BA_PL_Child_PiastStandardBearer.titleShort>旗手</BA_PL_Child_PiastStandardBearer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]'s family traveled from shrine to shrine across Poland, seeking blessings and healing. The child saw many lands but never had a true home.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_PilgrimsSon.description>[PAWN_nameDef] 的家人穿梭于波兰各地的圣地，寻求祝福与治愈。这个孩子见过无数土地，却从未拥有过真正的家。</BA_PL_Child_PilgrimsSon.description>
+  <!-- EN: pilgrim's son -->
+  <BA_PL_Child_PilgrimsSon.title>朝圣者之子</BA_PL_Child_PilgrimsSon.title>
+  <!-- EN: Pilgrim -->
+  <BA_PL_Child_PilgrimsSon.titleShort>朝圣者</BA_PL_Child_PilgrimsSon.titleShort>
+  
+  <!-- EN: In the dense forests of Podlasie, [PAWN_nameDef] helped their father fell trees and carve timber for the village. The whispering woods taught [PAWN_objective] silence and respect for old spirits.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_PodlasieWoodcutter.description>在波德拉谢茂密的森林中，[PAWN_nameDef] 帮父亲砍伐树木，为村庄加工木材。低语的树林教会[PAWN_objective] 保持沉默，并敬畏古老的神灵。</BA_PL_Child_PodlasieWoodcutter.description>
+  <!-- EN: Podlasie woodcutter's child -->
+  <BA_PL_Child_PodlasieWoodcutter.title>波德拉谢伐木工之子</BA_PL_Child_PodlasieWoodcutter.title>
+  <!-- EN: Woodcutter -->
+  <BA_PL_Child_PodlasieWoodcutter.titleShort>伐木工</BA_PL_Child_PodlasieWoodcutter.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent their youth assisting the local priest, ringing bells, and lighting candles. Between sermons, [PAWN_pronoun] learned to read scripture and fear divine judgment.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_PriestHelper.description>[PAWN_nameDef] 年少时协助当地牧师工作，负责敲钟、点蜡烛。在布道的间隙，[PAWN_pronoun] 学会了阅读经文，并对神的审判心怀敬畏。</BA_PL_Child_PriestHelper.description>
+  <!-- EN: parish helper -->
+  <BA_PL_Child_PriestHelper.title>教区助手</BA_PL_Child_PriestHelper.title>
+  <!-- EN: Helper -->
+  <BA_PL_Child_PriestHelper.titleShort>助手</BA_PL_Child_PriestHelper.titleShort>
+  
+  <!-- EN: Raised in the royal halls of Kraków, [PAWN_nameDef] learned the arts of governance, faith, and appearance. [PAWN_possessive] first toys were gilded, [PAWN_possessive] first lessons cruel.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Ruler_CracoPalaceBorn.description>[PAWN_nameDef] 在克拉科夫的王室大厅中长大，习得治理之道、信仰准则与仪容仪态。[PAWN_possessive] 的第一套玩具是镀金的，而第一堂课程却是残酷的。</BA_PL_Child_Ruler_CracoPalaceBorn.description>
+  <!-- EN: Kraków palace-born -->
+  <BA_PL_Child_Ruler_CracoPalaceBorn.title>克拉科夫王宫出身者</BA_PL_Child_Ruler_CracoPalaceBorn.title>
+  <!-- EN: Palace Born -->
+  <BA_PL_Child_Ruler_CracoPalaceBorn.titleShort>王宫出身</BA_PL_Child_Ruler_CracoPalaceBorn.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born during a time of famine, hailed as a sign of renewal. Every glance from the court carried expectation—and pressure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Ruler_CrownedInHope.description>[PAWN_nameDef] 出生于饥荒之年，被视为复兴的象征。宫廷中投向他的每一道目光，都饱含期许——亦藏着压力。</BA_PL_Child_Ruler_CrownedInHope.description>
+  <!-- EN: crowned in hope -->
+  <BA_PL_Child_Ruler_CrownedInHope.title>希望加冕者</BA_PL_Child_Ruler_CrownedInHope.title>
+  <!-- EN: Crowned -->
+  <BA_PL_Child_Ruler_CrownedInHope.titleShort>加冕者</BA_PL_Child_Ruler_CrownedInHope.titleShort>
+  
+  <!-- EN: Born in the shadow of Wawel Castle, tales of dragons and heroes surrounded [PAWN_nameDef]. Even as a child, [PAWN_pronoun] was expected to embody the spirit of legend.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Ruler_DragonOfWawel.description>[PAWN_nameDef] 出生在瓦维尔城堡的阴影之下，终日被龙与英雄的传说环绕。即便还是个孩子，[PAWN_pronoun] 就被寄予了传承传奇精神的期望。</BA_PL_Child_Ruler_DragonOfWawel.description>
+  <!-- EN: child of the Wawel dragon -->
+  <BA_PL_Child_Ruler_DragonOfWawel.title>瓦维尔龙之子</BA_PL_Child_Ruler_DragonOfWawel.title>
+  <!-- EN: Dragon Child -->
+  <BA_PL_Child_Ruler_DragonOfWawel.titleShort>龙之子</BA_PL_Child_Ruler_DragonOfWawel.titleShort>
+  
+  <!-- EN: Born into the ancient Piast line, [PAWN_nameDef] was told from infancy that the fate of the realm rested upon [PAWN_possessive] shoulders. Every word [PAWN_pronoun] spoke was weighed like gold.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_Ruler_PiastHeir.description>[PAWN_nameDef] 出身古老的皮亚斯特王朝，从襁褓之中便被告知，王国的命运肩负在[PAWN_possessive] 的肩上。[PAWN_pronoun] 说的每一句话，都被视作金子般珍贵，反复权衡。</BA_PL_Child_Ruler_PiastHeir.description>
+  <!-- EN: Piast heir -->
+  <BA_PL_Child_Ruler_PiastHeir.title>皮亚斯特继承人</BA_PL_Child_Ruler_PiastHeir.title>
+  <!-- EN: Heir -->
+  <BA_PL_Child_Ruler_PiastHeir.titleShort>继承人</BA_PL_Child_Ruler_PiastHeir.titleShort>
+  
+  <!-- EN: Born near the Wieliczka salt mines, [PAWN_nameDef] carried brine buckets before [PAWN_pronoun] could lift a sword. The salt dust settled into [PAWN_possessive] skin and memory alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_SaltMineBoy.description>[PAWN_nameDef] 出生在维利奇卡盐矿附近，还举不起剑的时候，就已经开始搬运盐卤桶了。盐尘渗入[PAWN_possessive] 的皮肤，也沉淀在[PAWN_possessive] 的记忆深处。</BA_PL_Child_SaltMineBoy.description>
+  <!-- EN: salt mine boy -->
+  <BA_PL_Child_SaltMineBoy.title>盐矿少年</BA_PL_Child_SaltMineBoy.title>
+  <!-- EN: Miner -->
+  <BA_PL_Child_SaltMineBoy.titleShort>矿工</BA_PL_Child_SaltMineBoy.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised among the rolling pastures of Mazovia, spending days tending sheep and learning the rhythm of nature. [PAWN_pronoun] learned patience from the herd and courage from the wolves that lurked beyond the trees.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_ShepherdOfMazovia.description>[PAWN_nameDef] 在马佐维亚起伏的牧场中长大，终日放羊，领悟自然的节律。[PAWN_pronoun] 从羊群身上学会耐心，从树林外潜藏的狼群身上学会勇气。</BA_PL_Child_ShepherdOfMazovia.description>
+  <!-- EN: shepherd of Mazovia -->
+  <BA_PL_Child_ShepherdOfMazovia.title>马佐维亚牧羊人</BA_PL_Child_ShepherdOfMazovia.title>
+  <!-- EN: Shepherd -->
+  <BA_PL_Child_ShepherdOfMazovia.titleShort>牧羊人</BA_PL_Child_ShepherdOfMazovia.titleShort>
+  
+  <!-- EN: Captured in a raid and dragged eastward, [PAWN_nameDef] learned the language of survival through silence and endurance before escaping home.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_TatarsCaptive.description>[PAWN_nameDef] 在一次劫掠中被捕获，随后被拖拽向东。在逃回家乡之前，他通过沉默与忍耐，学会了生存的法则。</BA_PL_Child_TatarsCaptive.description>
+  <!-- EN: Tatar captive -->
+  <BA_PL_Child_TatarsCaptive.title>鞑靼俘虏</BA_PL_Child_TatarsCaptive.title>
+  <!-- EN: Captive -->
+  <BA_PL_Child_TatarsCaptive.titleShort>俘虏</BA_PL_Child_TatarsCaptive.titleShort>
+  
+  <!-- EN: Running errands through the narrow lanes of Poznań, [PAWN_nameDef] carried letters, gossip, and coins. Speed and memory were [PAWN_possessive] greatest weapons.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_TownMessenger.description>[PAWN_nameDef] 在波兹南狭窄的小巷中跑腿送信，传递信件、流言与钱币。速度与记忆力，是[PAWN_possessive] 最强大的武器。</BA_PL_Child_TownMessenger.description>
+  <!-- EN: town messenger -->
+  <BA_PL_Child_TownMessenger.title>城镇信使</BA_PL_Child_TownMessenger.title>
+  <!-- EN: Messenger -->
+  <BA_PL_Child_TownMessenger.titleShort>信使</BA_PL_Child_TownMessenger.titleShort>
+  
+  <!-- EN: Born on the move, [PAWN_nameDef] knew the creak of wagon wheels better than any lullaby. Constant travel hardened [PAWN_possessive] spirit and dulled [PAWN_possessive] fear of strangers.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_WagonNomad.description>[PAWN_nameDef] 生于迁徙之路，对马车车轮的嘎吱声比对任何摇篮曲都更为熟悉。持续的旅行磨练了[PAWN_possessive] 的意志，也淡化了[PAWN_possessive] 对陌生人的恐惧。</BA_PL_Child_WagonNomad.description>
+  <!-- EN: wagon nomad -->
+  <BA_PL_Child_WagonNomad.title>马车游牧民</BA_PL_Child_WagonNomad.title>
+  <!-- EN: Nomad -->
+  <BA_PL_Child_WagonNomad.titleShort>游牧民</BA_PL_Child_WagonNomad.titleShort>
+  
+  <!-- EN: From Gdańsk to Ruthenia, [PAWN_nameDef] followed their parents' caravan. [PAWN_pronoun] learned to haggle in three tongues and sleep with one eye open on the road.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PL_Child_WanderingTrader.description>从格但斯克到鲁塞尼亚，[PAWN_nameDef] 跟随父母的商队辗转各地。[PAWN_pronoun] 学会了用三种语言讨价还价，也养成了在路上睁一只眼睡觉的习惯。</BA_PL_Child_WanderingTrader.description>
+  <!-- EN: wandering trader's child -->
+  <BA_PL_Child_WanderingTrader.title>流浪商人之子</BA_PL_Child_WanderingTrader.title>
+  <!-- EN: Trader -->
+  <BA_PL_Child_WanderingTrader.titleShort>商人</BA_PL_Child_WanderingTrader.titleShort>
+  
+</LanguageData>

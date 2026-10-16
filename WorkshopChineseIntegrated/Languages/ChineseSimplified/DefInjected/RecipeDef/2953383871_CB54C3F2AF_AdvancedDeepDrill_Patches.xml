@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MOT_TRAHS_DrillCoal.description>深钻以获得煤炭。</MOT_TRAHS_DrillCoal.description>
+  <MOT_TRAHS_DrillCoal.label>开采煤炭 x25</MOT_TRAHS_DrillCoal.label>
+  <MOT_TRAHS_DrillCoal.jobString>正在开采煤炭。</MOT_TRAHS_DrillCoal.jobString>
+
+  <MOT_TRAHS_DrillSalt.description>深钻以获得盐。</MOT_TRAHS_DrillSalt.description>
+  <MOT_TRAHS_DrillSalt.label>开采盐 x25</MOT_TRAHS_DrillSalt.label>
+  <MOT_TRAHS_DrillSalt.jobString>正在开采盐。</MOT_TRAHS_DrillSalt.jobString>
+
+  <MOT_TRAHS_DrillEmerald.description>深钻以获得绿宝石。</MOT_TRAHS_DrillEmerald.description>
+  <MOT_TRAHS_DrillEmerald.label>开采绿宝石 x20</MOT_TRAHS_DrillEmerald.label>
+  <MOT_TRAHS_DrillEmerald.jobString>正在开采绿宝石。</MOT_TRAHS_DrillEmerald.jobString>
+
+  <MOT_TRAHS_DrillSapphire.description>深钻以获得蓝宝石。</MOT_TRAHS_DrillSapphire.description>
+  <MOT_TRAHS_DrillSapphire.label>开采蓝宝石 x20</MOT_TRAHS_DrillSapphire.label>
+  <MOT_TRAHS_DrillSapphire.jobString>正在开采蓝宝石。</MOT_TRAHS_DrillSapphire.jobString>
+
+  <MOT_TRAHS_DrillOnyx.description>深钻以获得玛瑙。</MOT_TRAHS_DrillOnyx.description>
+  <MOT_TRAHS_DrillOnyx.label>开采玛瑙 x20</MOT_TRAHS_DrillOnyx.label>
+  <MOT_TRAHS_DrillOnyx.jobString>正在开采玛瑙。</MOT_TRAHS_DrillOnyx.jobString>
+
+  <MOT_TRAHS_DrillAmber.description>深钻以获得琥珀。</MOT_TRAHS_DrillAmber.description>
+  <MOT_TRAHS_DrillAmber.label>开采琥珀 x20</MOT_TRAHS_DrillAmber.label>
+  <MOT_TRAHS_DrillAmber.jobString>正在开采琥珀。</MOT_TRAHS_DrillAmber.jobString>
+
+  <MOT_TRAHS_DrillCitrine.description>深钻以获得黄水晶。</MOT_TRAHS_DrillCitrine.description>
+  <MOT_TRAHS_DrillCitrine.label>开采黄水晶 x20</MOT_TRAHS_DrillCitrine.label>
+  <MOT_TRAHS_DrillCitrine.jobString>正在开采黄水晶。</MOT_TRAHS_DrillCitrine.jobString>
+
+  <MOT_TRAHS_DrillRuby.description>深钻以获得红宝石。</MOT_TRAHS_DrillRuby.description>
+  <MOT_TRAHS_DrillRuby.label>开采红宝石 x20</MOT_TRAHS_DrillRuby.label>
+  <MOT_TRAHS_DrillRuby.jobString>正在开采红宝石。</MOT_TRAHS_DrillRuby.jobString>
+
+  <TRAHS_DrillSteel.description>深钻以获得铁矿石。</TRAHS_DrillSteel.description>
+  <TRAHS_DrillSteel.label>开采铁矿石 x50</TRAHS_DrillSteel.label>
+  <TRAHS_DrillSteel.jobString>正在开采铁矿石。</TRAHS_DrillSteel.jobString>
+
+  <TRAHS_DrillGold.description>深钻以获得金矿石。</TRAHS_DrillGold.description>
+  <TRAHS_DrillGold.label>开采金矿石 x20</TRAHS_DrillGold.label>
+  <TRAHS_DrillGold.jobString>正在开采金矿石。</TRAHS_DrillGold.jobString>
+
+  <TRAHS_DrillSilver.description>深钻以获得银矿石。</TRAHS_DrillSilver.description>
+  <TRAHS_DrillSilver.label>开采银矿石 x50</TRAHS_DrillSilver.label>
+  <TRAHS_DrillSilver.jobString>正在开采银矿石。</TRAHS_DrillSilver.jobString>
+
+</LanguageData>

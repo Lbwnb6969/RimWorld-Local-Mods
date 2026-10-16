@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: forbidden -->
+  <AM_GauranlenConnection_Forbidden.label>禁忌</AM_GauranlenConnection_Forbidden.label>
+  <!-- EN: We shun any connection with Gauranlen trees. Such bonds are a wasteful indulgence, distracting from proper labor and fostering unnatural dependence. True strength lies in severing these ties.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Planting the Gauranlen seed and then cutting the tree will provide development points and a mood bonus. -->
+  <AM_GauranlenConnection_Forbidden.description>我们不愿与母树进行任何形式的共鸣。这种关系只是毫无用处的放纵，它不仅会扰乱我们的正常工作，还会潜移默化地使我们产生怪异的依赖。只有断开这种关系，我们才能获得真正的力量。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 种植母树种子后再将母树砍伐，将获得心情增益和演进文化所需的发展点数。</AM_GauranlenConnection_Forbidden.description>
+  <!-- EN: cut Gauranlen tree -->
+  <AM_GauranlenConnection_Forbidden.comps.2.eventLabel>砍伐母树</AM_GauranlenConnection_Forbidden.comps.2.eventLabel>
+  
+</LanguageData>

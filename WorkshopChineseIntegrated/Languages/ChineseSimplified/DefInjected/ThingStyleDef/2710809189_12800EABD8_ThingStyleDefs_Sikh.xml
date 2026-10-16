@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kirpan -->
+  <AM_Sikh_Gladius.overrideLabel>吉尔班短刀</AM_Sikh_Gladius.overrideLabel>
+  
+  <!-- EN: barchha nagni -->
+  <AM_Sikh_Ikwa.overrideLabel>蛇矛</AM_Sikh_Ikwa.overrideLabel>
+  
+  <!-- EN: zulfiqar -->
+  <AM_Sikh_Knife.overrideLabel>分叉剑</AM_Sikh_Knife.overrideLabel>
+  
+  <!-- EN: gurj -->
+  <AM_Sikh_Mace.overrideLabel>锡克圆锤</AM_Sikh_Mace.overrideLabel>
+  
+  <!-- EN: barchha -->
+  <AM_Sikh_Spear.overrideLabel>巴尔卡长矛</AM_Sikh_Spear.overrideLabel>
+  
+  <!-- EN: khanda -->
+  <AM_Sikh_Sword.overrideLabel>骞荼剑</AM_Sikh_Sword.overrideLabel>
+  
+</LanguageData>

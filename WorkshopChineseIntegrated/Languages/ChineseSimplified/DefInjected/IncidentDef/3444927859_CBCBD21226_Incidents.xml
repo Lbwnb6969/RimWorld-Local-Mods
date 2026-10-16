@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raid (pillage) -->
+  <VFEM_PillageRaid.label>掠夺袭击</VFEM_PillageRaid.label>
+  <!-- EN: Raid (Pillage) -->
+  <VFEM_PillageRaid.letterLabel>掠夺袭击</VFEM_PillageRaid.letterLabel>
+  <!-- EN: A group of pillagers have arrived nearby. They will use torches to set your base ablaze. They are not interested in fighting and only want to steal your property and burn down your houses. -->
+  <VFEM_PillageRaid.letterText>一群掠夺者来到了附近。他们会用火把点燃你的基地。他们无意恋战，只会专注于抢走你的财物并烧毁你的房屋。</VFEM_PillageRaid.letterText>
+  
+</LanguageData>

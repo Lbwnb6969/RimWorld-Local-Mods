@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_IntelData_T1Core.label>intel data (tier 1)</EES_IntelData_T1Core.label>
+  <EES_IntelData_T1Core.description>An encrypted data core holding the layout, strength, and facilities of an enemy outpost. It allows remote scouting of low-tier (T1-T5) strongholds. Available only from exotic goods traders, and cannot be crafted.</EES_IntelData_T1Core.description>
+  <EES_IntelData_T2Core.label>intel data (tier 2)</EES_IntelData_T2Core.label>
+  <EES_IntelData_T2Core.description>A high-density encrypted data core holding the layout, strength, and facilities of an enemy outpost. It allows remote scouting of mid-tier (T1-T8) strongholds. Available only from exotic goods traders, and cannot be crafted.</EES_IntelData_T2Core.description>
+  <EES_IntelData_T3Core.label>intel data (tier 3)</EES_IntelData_T3Core.label>
+  <EES_IntelData_T3Core.description>A top-grade encrypted data core holding the layout, strength, and facilities of an enemy outpost. It allows remote scouting of even high-tier (T1-T12) strongholds. Only very rarely available from exotic goods traders, and cannot be crafted.</EES_IntelData_T3Core.description>
+</LanguageData>

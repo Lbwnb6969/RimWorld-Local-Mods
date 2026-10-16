@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rapier -->
+  <TA_Rapier.label>刺剑</TA_Rapier.label>
+  <!-- EN: . -->
+  <TA_Rapier.description>欧洲贵族决斗用的细长剑，擅长突刺攻击。</TA_Rapier.description>
+  <!-- EN: handle -->
+  <TA_Rapier.tools.handle.label>剑柄</TA_Rapier.tools.handle.label>
+  <!-- EN: point -->
+  <TA_Rapier.tools.point.label>剑尖</TA_Rapier.tools.point.label>
+  <!-- EN: edge -->
+  <TA_Rapier.tools.edge.label>剑刃</TA_Rapier.tools.edge.label>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: doubled -->
+  <VME_PermitHonorCost_Doubled.label>翻倍</VME_PermitHonorCost_Doubled.label>
+  <!-- EN: Every call for aid is a heavy toll, a demand of honor twice the usual rate. Such is the price of urgency, a cost only to be borne when the need is direst. -->
+  <VME_PermitHonorCost_Doubled.description>频繁使用许可必须付出更多代价。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 使用许可时所花费的皇家声望翻倍。</VME_PermitHonorCost_Doubled.description>
+  
+  <!-- EN: halved -->
+  <VME_PermitHonorCost_Halved.label>减半</VME_PermitHonorCost_Halved.label>
+  <!-- EN: The honored have the privilege of calling upon their allies more frequently, their requests for aid met with a nod and a half a cost, easing the burden of leadership. -->
+  <VME_PermitHonorCost_Halved.description>频繁使用许可应当享有优待。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 使用许可时所花费的皇家声望减半。</VME_PermitHonorCost_Halved.description>
+  
+</LanguageData>

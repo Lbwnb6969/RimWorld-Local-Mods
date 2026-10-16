@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_AncientTroll.label>古代山怪</DankPyon_AncientTroll.label>
+  <DankPyon_AncientTroll.description>这种古老的山怪起源于非常久远的年代，在几个世纪之前，人们一直认为它只存在于传说之中。古代山怪拥有用之不竭的生命力和永不满足的嗜血欲望，据说无论是否有胜算，它们都会尽可能地寻求战斗。事实上，历史记载的攻城战中不乏缺少经验的守军将山怪的现身误认为是一件喜事，因为他们还不知道敌我终将无一幸免。\n\n值得注意的是，所有山怪的目击事件都发生在白天；此外，学者们猜测山怪极度厌恶火焰，但很少有人愿意验证这个理论，他们宁愿选择在第一时间逃跑。</DankPyon_AncientTroll.description>
+  <DankPyon_AncientTroll.race.meatLabel>古代山怪肉</DankPyon_AncientTroll.race.meatLabel>
+  <DankPyon_AncientTroll.tools.left_claw.label>左爪</DankPyon_AncientTroll.tools.left_claw.label>
+  <DankPyon_AncientTroll.tools.left_claw.labelNoLocation>爪</DankPyon_AncientTroll.tools.left_claw.labelNoLocation>
+  <DankPyon_AncientTroll.tools.left_fist.label>左拳</DankPyon_AncientTroll.tools.left_fist.label>
+  <DankPyon_AncientTroll.tools.left_fist.labelNoLocation>拳</DankPyon_AncientTroll.tools.left_fist.labelNoLocation>
+  <DankPyon_AncientTroll.tools.right_claw.label>右爪</DankPyon_AncientTroll.tools.right_claw.label>
+  <DankPyon_AncientTroll.tools.right_claw.labelNoLocation>爪</DankPyon_AncientTroll.tools.right_claw.labelNoLocation>
+  <DankPyon_AncientTroll.tools.right_fist.label>右拳</DankPyon_AncientTroll.tools.right_fist.label>
+  <DankPyon_AncientTroll.tools.right_fist.labelNoLocation>拳</DankPyon_AncientTroll.tools.right_fist.labelNoLocation>
+  <DankPyon_AncientTroll.tools.tusks.label>獠牙</DankPyon_AncientTroll.tools.tusks.label>
+  <DankPyon_AncientTroll.tools.teeth.label>牙齿</DankPyon_AncientTroll.tools.teeth.label>
+  <DankPyon_AncientTroll.tools.head.label>头</DankPyon_AncientTroll.tools.head.label>
+
+
+</LanguageData>

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic focus -->
+  <VME_PsychicFocus.label>灵能专注</VME_PsychicFocus.label>
+  <!-- EN: Mastering the power of the mind is essential to securing one’s place in the universe. Strength of mind can be achieved only through inner peace, and inner peace can only be achieved through meditation. -->
+  <VME_PsychicFocus.description>唯有将心灵能力运用至炉火纯青，方可在浩瀚星海中保有一席之地。我们必须心如止水，静心冥想。</VME_PsychicFocus.description>
+  <!-- EN:
+    <li>creation(tag=meme_PsychicFocus)        ->[deity0_name] gifted humanity with psychic powers so we can follow [deity0_possessive] will.</li>
+    <li>episode(uses=1,tag=meme_PsychicFocus)  ->[deity0_name] said to all the [memberNamePlural], "Your mind is your greatest boon. Learn to use it, and no enemies will stand against you."</li>
+    <li>intro(tag=meme_PsychicFocus)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], a place of learning and a school to hone one's psychic powers to exalt [deity0_name]'s will.</li>
+    <li>conflict(tag=meme_PsychicFocus)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to attack [deity0_name]'s followers with insane psychic powers.</li>
+    <li>founderJoin(tag=meme_PsychicFocus)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] uncanny mental prowess, and none could turn away when [founder_pronoun] spoke, entranced by the wise words.</li>
+    <li>victory(tag=meme_PsychicFocus)         ->[founderName] mind-bent many of the [foeSoldiers] and coaxed them to pray to [deity0_name]. The [foeLeader] was shamed and never heard of again.</li>
+    <li>setup(tag=meme_PsychicFocus)           ->Our founder [founderName] was a psychic warrior in a forgotten, shattered star empire. [founder_pronoun] had an incredible mental discipline, that manifested in wondrous psychic powers.</li>
+    <li>story(uses=1,tag=meme_PsychicFocus)    ->[founder_pronoun] founded a prestigious martial academy where all [foeLeader_possessive] followers could learn how to hone their minds and use them as a weapon.</li>
+    <li>lessonIntro(tag=meme_PsychicFocus)         ->In all my years teaching the disciplines of the mind, I learned one lesson that is more important than anything else:</li>
+    <li>lesson(tag=meme_PsychicFocus)              ->you don't use your mind as a weapon, your mind IS the weapon. You don't just use it for offensive purposes, or it is wasted</li>
+    <li>lessonReinforcement(tag=meme_PsychicFocus) ->The greatest psychic warrior ever will not be one that knows how to use these powers, but one who knows how to think before using them.</li>
+    <li>archistBasis(tag=meme_PsychicFocus)    ->The archotechs are pure minds, pristine intellects that are so far beyond anything else as to be like gods.</li>
+    <li>archistFact(tag=meme_PsychicFocus)     ->Psychic powers are a gift from the archotechs. By awakening them in our minds we participate, albeit faintly, in the glory that is an archotech intellect.</li>
+    <li>archistProphecy(tag=meme_PsychicFocus) ->[inTheEnd], the archotechs will choose those with the greatest command over their minds, and only them will be allowed to transcend.</li>
+    <li>animistFact(tag=meme_PsychicFocus)     ->The spirits are the ultimate minds, and by awakening and channeling our hidden psychic potential we can commune with them.</li>
+    <li>serketistProphecy(tag=meme_PsychicFocus)->[itIsSaid] we will unlock the hidden psychic potential of our minds, and use those newfound powers to venerate our beloved insects.</li>
+    <li>chthonianProphecy(tag=meme_PsychicFocus)->These eldritch entities are the ultimate intellects, as vast and deep as entire nebulae, their madness engulfing a thousand stars. Only by awakening and channeling our hidden psychic potential can we hope to stand against them.</li>
+    <li>esotericismProphecy(tag=meme_PsychicFocus)->We will awaken and channel our hidden psychic potential to unlock all these secrets, baring them for all to see.</li>
+    <li>eschatologismFact(tag=meme_PsychicFocus)->We will awaken and channel our hidden psychic potential and use our destructive powers to slaughter everyone who stands in our way.</li>
+    <li>introMemo(tag=meme_PsychicFocus)->As you all well know, we value intelligence immensely here at the company. Therefore, those who manifest hidden psychic potential are encouraged to inform human resources as soon as possible, so they can be reassigned to a new department where they could be put at use.</li>
+  -->
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_PsychicFocus)        ->[deity0_name]将心灵能力赐予了人类，这样我们便可更好的遵循[deity0_possessive]意志。</li>
+    <li>episode(uses=1,tag=meme_PsychicFocus)  ->[deity0_name]对所有的[memberNamePlural]说，“心灵乃是吾给予你们最强大的恩赐。掌握了它，世间便无人敢与你们为敌。”</li>
+    <li>intro(tag=meme_PsychicFocus)           ->[memberNamePlural]在[place_summary][place_name]上建造了一所宏伟的[altarName]，这是我们磨炼并学习心灵能力的学校。一切都是为了宣扬[deity0_name]之意志。</li>
+    <li>conflict(tag=meme_PsychicFocus)        ->胆小如鼠的[foeLeader]拒绝接受[deity0_name]的意志，并命令[foeLeader_possessive][foeSoldiers]用疯狂危险的心灵能力攻击[deity0_name]的信徒。</li>
+    <li>founderJoin(tag=meme_PsychicFocus)     ->[deity0_name]为一位名为[founderName]的[place_job]施加了祝福，使其拥有了非比寻常的心灵力量。当[founder_pronoun]开始宣讲时，没人会对这些睿智的哲理充耳不闻。</li>
+    <li>victory(tag=meme_PsychicFocus)         ->[founderName]的思想折服了许多[foeSoldiers]，他们也因此皈依了[deity0_name]。敌人的领袖[foeLeader]感到羞愧难当，从此再也没有出现于世人的面前。</li>
+    <li>setup(tag=meme_PsychicFocus)           ->我们的创始者[founderName]是一位灵能战士，[founder_pronoun]来自某个被忘却已久的破碎星际帝国。[founder_pronoun]拥有着强大的精神控制力以及惊人的灵能力量。</li>
+    <li>story(uses=1,tag=meme_PsychicFocus)    ->[founder_pronoun]创立了一所闻名遐迩的军事学院。在那里，所有[foeLeader_possessive]追随者们都能学习如何磨砺自己的心灵，并将其作为武器使用。</li>
+    <li>lessonIntro(tag=meme_PsychicFocus)         ->在我指导心灵训练的这些年里，我学到了一个高于一切的教训：</li>
+    <li>lesson(tag=meme_PsychicFocus)              ->心灵是你最强大的武器。若仅是用它来攻击别人的话，那就太过浪费了</li>
+    <li>lessonReinforcement(tag=meme_PsychicFocus) ->最强大的灵能战士并非为知晓如何使用这股力量之人，而是在使用力量前进行深思熟虑之人。</li>
+    <li>archistBasis(tag=meme_PsychicFocus)    ->超凡智能拥有纯粹的心灵和原始的智慧。祂远超万物，宛若神明一般。</li>
+    <li>archistFact(tag=meme_PsychicFocus)     ->灵能乃是超凡智能给予的馈赠。通过唤醒心灵中的潜能，即便微不足道，我们也能沐浴在超凡智能的伟大荣耀下。</li>
+    <li>archistProphecy(tag=meme_PsychicFocus) ->[inTheEnd]，超凡智能将会选出那些将心灵能力掌控至炉火纯青之人，只有他们才有资格飞升。</li>
+    <li>animistFact(tag=meme_PsychicFocus)     ->灵魂乃是心灵的根本。通过唤醒并引导自身隐藏的心灵潜能，我们便可与他们进行交流。</li>
+    <li>serketistProphecy(tag=meme_PsychicFocus)->[itIsSaid]我们将揭示自身被隐藏的心灵潜能，利用这些新发现的力量来更好地敬拜至高无上的虫族。</li>
+    <li>chthonianProphecy(tag=meme_PsychicFocus)->这些骇人的怪形拥有宛如广阔星云一般深邃的智慧，癫狂的它们吞噬了宇宙中的万千恒星。唯有唤醒并引导自身隐藏的心灵潜能，我们才有希望抵御它们。</li>
+    <li>esotericismProphecy(tag=meme_PsychicFocus)->通过唤醒并引导自身隐藏的心灵潜能，我们将会向所有人揭示这些秘密。</li>
+    <li>eschatologismFact(tag=meme_PsychicFocus)->通过唤醒并引导自身隐藏的心灵潜能，我们将用这种毁灭性的力量来屠杀所有阻挠我们的人。</li>
+    <li>introMemo(tag=meme_PsychicFocus)->众所周知，我们公司非常重视各位的聪明才智。因此，我们鼓励那些展现出灵能潜力的员工尽快向人力资源部报道，他们将会被重新分配部门并得以适才适所。</li>
+  </VME_PsychicFocus.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->mental</li>
+    <li>memeAdjective->psychic</li>
+    <li>memeAdjective->metaphysical</li>
+    <li>memeHyphenPrefix->mind</li>
+    <li>memeConcept->psychic power</li>
+    <li>memeLeaderNoun->mentalist</li>
+    <li>memeLeaderNoun->augur</li>
+    <li>memeLeaderNoun->seer</li>
+    <li>memeMoralist->prophet</li>
+    <li>memeMoralist->clairvoyant</li>
+  -->
+  <VME_PsychicFocus.generalRules.rulesStrings>
+    <li>memeAdjective->精神</li>
+    <li>memeAdjective->心灵</li>
+    <li>memeAdjective->超自然</li>
+    <li>memeHyphenPrefix->心智</li>
+    <li>memeConcept->灵能</li>
+    <li>memeLeaderNoun->灵能尊师</li>
+    <li>memeLeaderNoun->占卜师</li>
+    <li>memeLeaderNoun->先知</li>
+    <li>memeMoralist->预言者</li>
+    <li>memeMoralist->通灵者</li>
+  </VME_PsychicFocus.generalRules.rulesStrings>
+  <!-- EN: psychic -->
+  <VME_PsychicFocus.symbolPacks.0.adjective>心灵</VME_PsychicFocus.symbolPacks.0.adjective>
+  <!-- EN: Psychics -->
+  <VME_PsychicFocus.symbolPacks.0.ideoName>心灵</VME_PsychicFocus.symbolPacks.0.ideoName>
+  <!-- EN: psychic -->
+  <VME_PsychicFocus.symbolPacks.0.member>心灵</VME_PsychicFocus.symbolPacks.0.member>
+  <!-- EN: pshychic powers -->
+  <VME_PsychicFocus.symbolPacks.0.theme>灵能</VME_PsychicFocus.symbolPacks.0.theme>
+  <!-- EN: mentalist -->
+  <VME_PsychicFocus.symbolPacks.1.adjective>灵能者</VME_PsychicFocus.symbolPacks.1.adjective>
+  <!-- EN: Mentalism -->
+  <VME_PsychicFocus.symbolPacks.1.ideoName>灵能主义</VME_PsychicFocus.symbolPacks.1.ideoName>
+  <!-- EN: mentalist -->
+  <VME_PsychicFocus.symbolPacks.1.member>灵能者</VME_PsychicFocus.symbolPacks.1.member>
+  <!-- EN: mentalism -->
+  <VME_PsychicFocus.symbolPacks.1.theme>灵能主义</VME_PsychicFocus.symbolPacks.1.theme>
+  <!-- EN: psionic -->
+  <VME_PsychicFocus.symbolPacks.2.adjective>异能</VME_PsychicFocus.symbolPacks.2.adjective>
+  <!-- EN: Psionics -->
+  <VME_PsychicFocus.symbolPacks.2.ideoName>异能主义</VME_PsychicFocus.symbolPacks.2.ideoName>
+  <!-- EN: psion -->
+  <VME_PsychicFocus.symbolPacks.2.member>异能者</VME_PsychicFocus.symbolPacks.2.member>
+  <!-- EN: psionics -->
+  <VME_PsychicFocus.symbolPacks.2.theme>异能</VME_PsychicFocus.symbolPacks.2.theme>
+  
+  <!-- EN: royal -->
+  <VME_Royal.label>皇权独尊</VME_Royal.label>
+  <!-- EN: We embody the essence of royalty, ensuring our titles and their inherent authority are passed down through generations, forever respected and entwined with our bloodline. -->
+  <VME_Royal.description>天上天下，唯皇权独尊。我们至高的头衔与权威将以血脉为托代代传承下去。</VME_Royal.description>
+  <!-- EN:
+    <li>creation(tag=meme_Royal)        ->[deity0_name] saw that some of the [memberNamePlural] were more fit to rule than others, and spoke to them: "Why do you treat everyone equally? Some of you are born to be rulers, while others are born to be ruled".</li>
+    <li>episode(uses=1,tag=meme_Royal)  ->[deity0_name] said to all the [memberNamePlural]: "Honour your leaders and treat them like my heralds on the mortal world, for they are more than mere men".</li>
+    <li>intro(tag=meme_Royal)           ->[memberNamePlural] built a regal [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory.</li>
+    <li>conflict(tag=meme_Royal)        ->Constant peasant revolts threatened the existance of [deity0_name]'s temple, and the leaders of the [memberNamePlural] decided to pacify them.</li>
+    <li>founderJoin(tag=meme_Royal)     ->[deity0_name] instructed [founderName] to put the peasants in their place, for they were theatening the lives of their betters.</li>
+    <li>victory(tag=meme_Royal)         ->[founderName] crushed the peasant revolts, and his royal bloodline has been blessed ever since.</li>
+    <li>setup(tag=meme_Royal)           ->Our founder [founderName] was a great sociologist, who saw the weak democratic systems in [founder_possessive] native world and found them incredibly inadequate. [founder_pronoun] chartered a private spaceship and left with hundreds of [founder_possessive] followers to create the ideal feudal society.</li>
+    <li>story(uses=1,tag=meme_Royal)    ->[founderName]'s followers studied [founder_possessive] writings and created a social structure that has been stable for more than two hundred years.</li>
+    <li>lessonIntro(tag=meme_Royal)         ->In all my years ruling over the masses, I learned one lesson that stands over all:</li>
+    <li>lesson(tag=meme_Royal)              ->some people are born to be rulers, while others are born to be ruled</li>
+    <li>lessonReinforcement(tag=meme_Royal) ->And only by honouring and obeying our noblest aristocrats can we truly build a stable society.</li>
+    <li>archistBasis(tag=meme_Royal)    ->The archotechs are flawless. A perfect example of hierarchy where most live to serve the needs of the noble few.</li>
+    <li>archistFact(tag=meme_Royal)     ->There is no ground for hesitation: only those truly subservient to their betters will be rewarded when the archotechs make themselves known to the rest of the Universe.</li>
+    <li>archistProphecy(tag=meme_Royal) ->[inTheEnd], the archotechs will allow those of noble blood to ascend, but their servants will be allowed to serve them afterwards too.</li>
+    <li>animistFact(tag=meme_Royal)     ->The spirits value those of pure blood above the rest, for those who can command others in life are also proving the strength of their spirit.</li>
+    <li>serketistProphecy(tag=meme_Royal)->As ants and bees have their queens and their drones, so shall we organize our societies: one of noble blood reigning supreme over his or her subjects.</li>
+    <li>chthonianProphecy(tag=meme_Royal)->Our leaders of noble blood will protect us and shield us from the cosmic insanity of these terrible beings. Only by obeying them can we hope to stay sane.</li>
+    <li>esotericismProphecy(tag=meme_Royal)->The noble blood of our leaders will allow them to see beyond the veil. Secrets that are to be forever hidden from their humble servants.</li>
+    <li>eschatologismFact(tag=meme_Royal)->We shall name our leader the Prince of Lies. The one who brings the end of all things.</li>
+    <li>introMemo(tag=meme_Royal)->It has recently come to my attention that some of you have been abusing the royal permits for personal gain. Let me remind you that we take appropiation of company funds as a very serious offense. Remember: none of us are noble if any of us act like peasants!</li>
+    <li>alienistProphecy(tag=tag=meme_Royal)->We will create wondrous royal menageries with all of these creatures, a veritable display of our power and might.</li>
+  -->
+  <VME_Royal.descriptionMaker.rules.rulesStrings>  
+    <li>creation(tag=meme_Royal)        ->[deity0_name]发现一些[memberNamePlural]比其他人更适合当统治者。[deity0_name]对他们说：“为何要对众生一视同仁？汝等生来即为统治者，愚昧之人注定要被汝等所统治。”</li>
+    <li>episode(uses=1,tag=meme_Royal)  ->[deity0_name]对所有[memberNamePlural]说：“敬仰汝等的领袖，将其当作吾之使者看待。他们并非平庸之人。”</li>
+    <li>intro(tag=meme_Royal)           ->[memberNamePlural]在[place_summary] [place_name]上建造了极尽奢华的[altarName]，这是一座宣扬[deity0_name]之荣耀的纪念碑。</li>
+    <li>conflict(tag=meme_Royal)        ->接连不断的农民起义威胁到了[deity0_name]之神殿的存亡，[memberNamePlural]的领袖决定安抚他们。</li>
+    <li>founderJoin(tag=meme_Royal)     ->[deity0_name]吩咐[founderName]让农民们回到自己的工作岗位上，因为他们已经威胁到了贵族阶级的安危。</li>
+    <li>victory(tag=meme_Royal)         ->[founderName]成功镇压了农民起义。从那时起，他身上流淌着的贵族血统就受到了神明的祝福。</li>
+    <li>setup(tag=meme_Royal)           ->我们的创始人[founderName]是一位伟大的社会学家，[founder_pronoun]发现了故乡中民主制度的腐朽无力，参透了其极度不完善的本质。[founder_pronoun]租下了一艘私人飞船，带走了[founder_possessive]成百上千名拥护者，创立了心中理想的封建国度。</li>
+    <li>story(uses=1,tag=meme_Royal)    ->[founderName]的拥护者们研习了[founder_possessive]著作，并以此创建了一个持续了两百多年的稳固社会结构。</li>
+    <li>lessonIntro(tag=meme_Royal)         ->在我统治人民的这些年里，我学到了一个高于一切的教训：</li>
+    <li>lesson(tag=meme_Royal)              ->有些人生来就是统治者，而其他人则生来就注定要被统治</li>
+    <li>lessonReinforcement(tag=meme_Royal) ->只有崇拜并服从高贵的皇室贵族，我们才能真正建立一个稳定的社会。</li>
+    <li>archistBasis(tag=meme_Royal)    ->超凡智能是完美的。众生皆是为了满足少数贵族的需求而活，这便是有关阶级制度的完美实例。</li>
+    <li>archistFact(tag=meme_Royal)     ->我们无需犹豫：当超凡智能展现宇宙奥妙之时，只有那些真正恭顺于贵族阶级的人们才能得到恩赐与奖赏。</li>
+    <li>archistProphecy(tag=meme_Royal) ->[inTheEnd]，超凡智能将允许那些拥有高贵血统之人走向飞升，而他们的仆从也将被允许继续侍奉他们。</li>
+    <li>animistFact(tag=meme_Royal)     ->灵魂们认为纯正的血统高于一切，那些具有指挥才能的人们也能证明其灵魂中具有强大的力量。</li>
+    <li>serketistProphecy(tag=meme_Royal)->就像蜜蜂有它们自己的蜂后和雄蜂一样，我们的社会也该如此：拥有高贵血统之人统治着他们的子民。</li>
+    <li>chthonianProphecy(tag=meme_Royal)->我们高贵的领袖将保护我们免受这些不可名状之物的疯狂侵袭。只有服从他们，我们才有希望保持自己的理智。</li>
+    <li>esotericismProphecy(tag=meme_Royal)->我们领袖的高贵血统能使他们看透帷幕彼端——那些永远对卑微仆从隐瞒的秘密。</li>
+    <li>eschatologismFact(tag=meme_Royal)->我们将领袖称之为高贵之王。是他为我们带来了万物的终结。</li>
+    <li>introMemo(tag=meme_Royal)->近日，我注意到你们之中有些人在滥用皇室许可谋取私利。在此我必须重申一遍，擅自挪用公司财产是最恶劣的犯罪行为。请记住：若我们当中有人看起来像个低贱的农民一样，那么所有人都不配成为贵族！</li>
+    <li>alienistProphecy(tag=tag=meme_Royal)->我们将用这些生物打造一个奇异的皇家动物园，以此来展现我们真正的权力与力量。</li>
+  </VME_Royal.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->kingly</li>
+    <li>memeAdjective->royal</li>
+    <li>memeAdjective->monarchal</li>
+    <li>memeAdjective->princely</li>
+    <li>memeAdjective->sovereign</li>
+    <li>memeHyphenPrefix->noble</li>
+    <li>memeConcept->aristocracy</li>
+    <li>memeConcept->nobility</li>
+    <li>memeConcept->blue blood</li>
+    <li>memeLeaderNoun->baron</li>
+    <li>memeLeaderNoun->count</li>
+  -->
+  <VME_Royal.generalRules.rulesStrings>  
+    <li>memeAdjective->王者</li>
+    <li>memeAdjective->皇家</li>
+    <li>memeAdjective->帝王</li>
+    <li>memeAdjective->皇者</li>
+    <li>memeAdjective->君王</li>
+    <li>memeHyphenPrefix->贵族</li>
+    <li>memeConcept->贵族</li>
+    <li>memeConcept->皇室</li>
+    <li>memeConcept->名门</li>
+    <li>memeLeaderNoun->男爵</li>
+    <li>memeLeaderNoun->伯爵</li>
+  </VME_Royal.generalRules.rulesStrings>
+  <!-- EN: noble -->
+  <VME_Royal.symbolPacks.0.adjective>贵族</VME_Royal.symbolPacks.0.adjective>
+  <!-- EN: Royalty -->
+  <VME_Royal.symbolPacks.0.ideoName>皇权</VME_Royal.symbolPacks.0.ideoName>
+  <!-- EN: vassal -->
+  <VME_Royal.symbolPacks.0.member>诸侯</VME_Royal.symbolPacks.0.member>
+  <!-- EN: royalty -->
+  <VME_Royal.symbolPacks.0.theme>皇权</VME_Royal.symbolPacks.0.theme>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SD_ShatterFermenting>发酵中..</SD_ShatterFermenting>
+    <SD_ShatterCurrentlyFrozen>这个破片茶已经被冻坏了，不会发酵。</SD_ShatterCurrentlyFrozen>
+    <SD_ShatterCurrentlyRefrigerated>这个破片茶已冷藏，发酵速度不会像未冷藏时那么块。 (发酵{0})</SD_ShatterCurrentlyRefrigerated>
+    <SD_ShatterFermentingCorrectly>这个破片茶正在常温发酵。 (发酵{0})</SD_ShatterFermentingCorrectly>
+</LanguageData>

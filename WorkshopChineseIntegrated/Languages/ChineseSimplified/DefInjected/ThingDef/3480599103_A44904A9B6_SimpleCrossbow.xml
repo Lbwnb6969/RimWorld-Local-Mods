@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: light crossbow bolt -->
+  <TA_Arrow_SimpleCrossbow.label>简易弩箭</TA_Arrow_SimpleCrossbow.label>
+  
+  <!-- EN: simple crossbow -->
+  <TA_SimpleCrossbow.label>简易弩</TA_SimpleCrossbow.label>
+  <!-- EN: Siple lever released crossbow with wooden bow. -->
+  <TA_SimpleCrossbow.description>采用木制弩臂的简易杠杆释放式弩。</TA_SimpleCrossbow.description>
+  <!-- EN: simple crossbow -->
+  <TA_SimpleCrossbow.verbs.Verb_ShootCE.label>简易弩射击</TA_SimpleCrossbow.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

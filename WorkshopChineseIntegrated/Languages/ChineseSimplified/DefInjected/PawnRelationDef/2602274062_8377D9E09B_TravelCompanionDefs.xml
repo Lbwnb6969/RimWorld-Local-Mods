@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Familiar companion -->
+  <CAFamiliarCompanionRelation.label>熟识的同伴</CAFamiliarCompanionRelation.label>
+  <!-- EN: Familiar companion -->
+  <CAFamiliarCompanionRelation.labelFemale>熟识的同伴</CAFamiliarCompanionRelation.labelFemale>
+  
+  <!-- EN: Outsider -->
+  <CAOutsiderRelation.label>外人</CAOutsiderRelation.label>
+  <!-- EN: Outsider -->
+  <CAOutsiderRelation.labelFemale>外人</CAOutsiderRelation.labelFemale>
+  
+  <!-- EN: Part of the gang -->
+  <CAPartOfTheGangRelation.label>团体中的一员</CAPartOfTheGangRelation.label>
+  <!-- EN: Part of the gang -->
+  <CAPartOfTheGangRelation.labelFemale>团体中的一员</CAPartOfTheGangRelation.labelFemale>
+  
+  <!-- EN: Thrid wheel -->
+  <CAThirdWheelRelation.label>累赘</CAThirdWheelRelation.label>
+  <!-- EN: Third wheel -->
+  <CAThirdWheelRelation.labelFemale>累赘</CAThirdWheelRelation.labelFemale>
+  
+  <!-- EN: True friend -->
+  <CATrueFriendRelation.label>挚友</CATrueFriendRelation.label>
+  <!-- EN: True friend -->
+  <CATrueFriendRelation.labelFemale>挚友</CATrueFriendRelation.labelFemale>
+  
+  <!-- EN: Trusted mate -->
+  <CATrustedMateRelation.label>可靠的同伴</CATrustedMateRelation.label>
+  <!-- EN: Trusted mate -->
+  <CATrustedMateRelation.labelFemale>可靠的同伴</CATrustedMateRelation.labelFemale>
+  
+</LanguageData>

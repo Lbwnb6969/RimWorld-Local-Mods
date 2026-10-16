@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UnlockCrop.label>解锁作物</UnlockCrop.label>
+  <UnlockCrop.reportString>正在解锁{0}。</UnlockCrop.reportString>
+</LanguageData>

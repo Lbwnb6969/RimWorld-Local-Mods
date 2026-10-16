@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: General -->
+  <GeologicalLandforms.Settings.Tab.General>常规</GeologicalLandforms.Settings.Tab.General>
+  <!-- EN: Landforms -->
+  <GeologicalLandforms.Settings.Tab.Landforms>地图元素</GeologicalLandforms.Settings.Tab.Landforms>
+  <!-- EN: Biome Config -->
+  <GeologicalLandforms.Settings.Tab.BiomeConfig>生态群落设置</GeologicalLandforms.Settings.Tab.BiomeConfig>
+  <!-- EN: Biome Variants -->
+  <GeologicalLandforms.Settings.Tab.BiomeVariants>生态群落变体</GeologicalLandforms.Settings.Tab.BiomeVariants>
+  <!-- EN: Debug -->
+  <GeologicalLandforms.Settings.Tab.Debug>Debug</GeologicalLandforms.Settings.Tab.Debug>
+  
+  <!-- EN: Max landform search radius on world map -->
+  <GeologicalLandforms.Settings.MaxLandformSearchRadius>世界地图的最大地图元素搜索半径</GeologicalLandforms.Settings.MaxLandformSearchRadius>
+  <!-- EN: Animal amount in secluded areas (Island, Fjord, etc.) -->
+  <GeologicalLandforms.Settings.AnimalDensityFactorForSecludedAreas>偏隐地图元素的动物数量（例如峡湾，岛屿等）</GeologicalLandforms.Settings.AnimalDensityFactorForSecludedAreas>
+  <!-- EN: Enable cell finder optimizations -->
+  <GeologicalLandforms.Settings.EnableCellFinderOptimization>启用单位准备离开地图时的寻路逻辑优化（适用于那些边缘出口特别狭窄的地图）</GeologicalLandforms.Settings.EnableCellFinderOptimization>
+  <!-- EN: Scale landforms with map size -->
+  <GeologicalLandforms.Settings.EnableLandformScaling>本Mod的地图元素规模会依据地图大小发生些许变动</GeologicalLandforms.Settings.EnableLandformScaling>
+  <!-- EN: Enable experimental landforms -->
+  <GeologicalLandforms.Settings.EnableExperimentalLandforms>启用实验性地图元素</GeologicalLandforms.Settings.EnableExperimentalLandforms>
+  <!-- EN: Enable god mode (allows placing landforms manually) -->
+  <GeologicalLandforms.Settings.EnableGodMode>启用开发者模式（可以手动编辑本Mod的地图元素）</GeologicalLandforms.Settings.EnableGodMode>
+  <!-- EN: Open landform editor -->
+  <GeologicalLandforms.Settings.OpenEditor>打开地图元素编辑器</GeologicalLandforms.Settings.OpenEditor>
+  <!-- EN: Reset everything to default -->
+  <GeologicalLandforms.Settings.ResetAll>将所有地图元素模板的各项数据重设为默认状态</GeologicalLandforms.Settings.ResetAll>
+  <!-- EN: Open custom landform data directory -->
+  <GeologicalLandforms.Settings.OpenDataDir>打开存有自定义地图元素XML文件的文件夹</GeologicalLandforms.Settings.OpenDataDir>
+  <!-- EN: Are you sure you want to fully reset the settings for this mod, including all landform configs? This will also unrecoverably delete ALL custom landforms you created! -->
+  <GeologicalLandforms.Settings.ConfirmResetAll>你真的想要将此Mod所有的地图元素模板完全重设吗？你之前所创建的自定义地图元素也将全部消失！</GeologicalLandforms.Settings.ConfirmResetAll>
+  
+  <!-- EN: custom -->
+  <GeologicalLandforms.Settings.Landforms.Custom>自定义</GeologicalLandforms.Settings.Landforms.Custom>
+  <!-- EN: experimental -->
+  <GeologicalLandforms.Settings.Landforms.Experimental>实验性</GeologicalLandforms.Settings.Landforms.Experimental>
+  <!-- EN: provided by mod {0} -->
+  <GeologicalLandforms.Settings.Landforms.DefinedInMod>出自Mod“{0}”</GeologicalLandforms.Settings.Landforms.DefinedInMod>
+  <!-- EN: misconfigured with 0 commonness -->
+  <GeologicalLandforms.Settings.Landforms.ZeroCommonness>设置错误：生成率为0</GeologicalLandforms.Settings.Landforms.ZeroCommonness>
+  <!-- EN: replaces vanilla cliff -->
+  <GeologicalLandforms.Settings.Landforms.ReplacesVanillaCliff>覆盖原版山崖地图元素</GeologicalLandforms.Settings.Landforms.ReplacesVanillaCliff>
+  <!-- EN: replaces vanilla coast -->
+  <GeologicalLandforms.Settings.Landforms.ReplacesVanillaCoast>覆盖原版海岸地图元素</GeologicalLandforms.Settings.Landforms.ReplacesVanillaCoast>
+  <!-- EN: replaces vanilla river -->
+  <GeologicalLandforms.Settings.Landforms.ReplacesVanillaRiver>覆盖原版河流地图元素</GeologicalLandforms.Settings.Landforms.ReplacesVanillaRiver>
+  <!-- EN: replaces the {1} "{0}" map feature -->
+  <GeologicalLandforms.Settings.Landforms.ReplacesMutator>替换{1}的“{0}”地图元素</GeologicalLandforms.Settings.Landforms.ReplacesMutator>
+  <!-- EN: obsolete due to the "{0}" map feature from {1} -->
+  <GeologicalLandforms.Settings.Landforms.MadeObsoleteByMutator>被{1}的“{0}”地图元素替换</GeologicalLandforms.Settings.Landforms.MadeObsoleteByMutator>
+  <!-- EN: Configure for each biome whether landforms (LF) and multi-biome features (MB) can appear there: -->
+  <GeologicalLandforms.Settings.BiomeConfig.Header>设置本Mod的地图元素（LF）和多重生态群落元素（MB）能否出现在以下生态群落中：</GeologicalLandforms.Settings.BiomeConfig.Header>
+  <!-- EN: preconfigured by author -->
+  <GeologicalLandforms.Settings.BiomeConfig.ExcludedByAuthor>已由作者预设</GeologicalLandforms.Settings.BiomeConfig.ExcludedByAuthor>
+  <!-- EN: Geological Landforms -->
+  <GeologicalLandforms.Settings.Landforms.Subheader.GeologicalLandforms>Geological Landforms</GeologicalLandforms.Settings.Landforms.Subheader.GeologicalLandforms>
+  <!-- EN: Note: The "{0}" landform (which you have just enabled) conflicts with the {2} map feature "{1}" - therefore this {2} map feature has been automatically set to disabled. -->
+  <GeologicalLandforms.Settings.Landforms.ExclusionToLandform>注意：由于“{0}”地图元素（刚刚被你启用的）与{2}的“{1}”地图元素存在冲突——因此{2}的地图元素已被自动设定为禁用状态。</GeologicalLandforms.Settings.Landforms.ExclusionToLandform>
+  <!-- EN: Note: The {2} map feature "{1}" (which you have just enabled) conflicts with the "{0}" landform - therefore the "{0}" landform has been automatically set to disabled. -->
+  <GeologicalLandforms.Settings.Landforms.ExclusionToMutator>注意：由于{2}的“{1}”地图元素（刚刚被你启用的）与“{0}”地图元素存在冲突——因此“{0}”已被自动设定为禁用状态。</GeologicalLandforms.Settings.Landforms.ExclusionToMutator>
+
+  <!-- EN: Show advanced debug info -->
+  <GeologicalLandforms.Settings.Debug.ShowWorldTileDebugInfo>显示详细Debug信息</GeologicalLandforms.Settings.Debug.ShowWorldTileDebugInfo>
+  <!-- EN: Enable map debug pawn commands -->
+  <GeologicalLandforms.Settings.Debug.EnableMapDebugPawnCommands>启用地图Debug单位指令</GeologicalLandforms.Settings.Debug.EnableMapDebugPawnCommands>
+  <!-- EN: Use unidirectional biome transition algorithm (experimental) -->
+  <GeologicalLandforms.Settings.Debug.UnidirectionalBiomeTransitions>启用单向生态融合渐变算法（实验性）</GeologicalLandforms.Settings.Debug.UnidirectionalBiomeTransitions>
+  <!-- EN: Disable biome transition post-processing -->
+  <GeologicalLandforms.Settings.Debug.DisableBiomeTransitionPostProcessing>禁用生态融合后置处理</GeologicalLandforms.Settings.Debug.DisableBiomeTransitionPostProcessing>
+  <!-- EN: Biome grid enabled (on current map) -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEnabledForCurrentMap>启用生态群落网格（当前地图）</GeologicalLandforms.Settings.Debug.BiomeGridEnabledForCurrentMap>
+  <!-- EN: Ignore world tile requirements (unsafe) -->
+  <GeologicalLandforms.Settings.Debug.IgnoreWorldTileReqInGodMode>忽略世界地图区格需求（有风险）</GeologicalLandforms.Settings.Debug.IgnoreWorldTileReqInGodMode>
+  <!-- EN: Replace all stone on current map -->
+  <GeologicalLandforms.Settings.Debug.ReplaceStoneOnCurrentMap>替换当前地图的所有岩石</GeologicalLandforms.Settings.Debug.ReplaceStoneOnCurrentMap>
+  <!-- EN: Set terrain in area -->
+  <GeologicalLandforms.Settings.Debug.SetTerrainInArea>设置活动区的地形</GeologicalLandforms.Settings.Debug.SetTerrainInArea>
+  <!-- EN: Clear world tile data cache -->
+  <GeologicalLandforms.Settings.Debug.ClearWorldTileDataCache>清除世界地图区格数据缓存</GeologicalLandforms.Settings.Debug.ClearWorldTileDataCache>
+  <!-- EN: Fill world tile data cache -->
+  <GeologicalLandforms.Settings.Debug.FillWorldTileDataCache>添加世界地图区格数据缓存</GeologicalLandforms.Settings.Debug.FillWorldTileDataCache>
+  <!-- EN: Biome grid entries -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntriesHeader>生态群落网格条目</GeologicalLandforms.Settings.Debug.BiomeGridEntriesHeader>
+  <!-- EN: Total capacity of plant ecosystem -->
+  <GeologicalLandforms.Settings.Debug.WholeMapDesiredPlants>植物生态系统总量</GeologicalLandforms.Settings.Debug.WholeMapDesiredPlants>
+  <!-- EN: Open ground factor -->
+  <GeologicalLandforms.Settings.Debug.OpenGroundFactor>露天地带系数</GeologicalLandforms.Settings.Debug.OpenGroundFactor>
+  <!-- EN: Animal density factor -->
+  <GeologicalLandforms.Settings.Debug.AnimalDensityFactor>动物密度系数</GeologicalLandforms.Settings.Debug.AnimalDensityFactor>
+  
+  <!-- EN: + -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryAddShort>+</GeologicalLandforms.Settings.Debug.BiomeGridEntryAddShort>
+  <!-- EN: - -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveShort>-</GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveShort>
+  <!-- EN: E -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryExportToAreasShort>E</GeologicalLandforms.Settings.Debug.BiomeGridEntryExportToAreasShort>
+  <!-- EN: B -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntrySetBaseShort>B</GeologicalLandforms.Settings.Debug.BiomeGridEntrySetBaseShort>
+  <!-- EN: I -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryInfoShort>I</GeologicalLandforms.Settings.Debug.BiomeGridEntryInfoShort>
+  <!-- EN: V+ -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryAddVariantShort>V+</GeologicalLandforms.Settings.Debug.BiomeGridEntryAddVariantShort>
+  <!-- EN: V- -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveVariantShort>V-</GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveVariantShort>
+  <!-- EN: S -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntrySetFromAreaShort>S</GeologicalLandforms.Settings.Debug.BiomeGridEntrySetFromAreaShort>
+  <!-- EN: R -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRegenerateAllShort>R</GeologicalLandforms.Settings.Debug.BiomeGridEntryRegenerateAllShort>
+
+  <!-- EN: Add entry -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryAdd>添加条目</GeologicalLandforms.Settings.Debug.BiomeGridEntryAdd>
+  <!-- EN: Remove entry -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRemove>移除条目</GeologicalLandforms.Settings.Debug.BiomeGridEntryRemove>
+  <!-- EN: Export all entries to Map Areas -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryExportToAreas>将所有条目导出至地图活动区中</GeologicalLandforms.Settings.Debug.BiomeGridEntryExportToAreas>
+  <!-- EN: Set base biome -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntrySetBase>设置基础生态群落</GeologicalLandforms.Settings.Debug.BiomeGridEntrySetBase>
+  <!-- EN: Show details -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryInfo>显示细节</GeologicalLandforms.Settings.Debug.BiomeGridEntryInfo>
+  <!-- EN: Add variant -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryAddVariant>添加变体</GeologicalLandforms.Settings.Debug.BiomeGridEntryAddVariant>
+  <!-- EN: Remove variant -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveVariant>移除变体</GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveVariant>
+  <!-- EN: Set cells from Map Area -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntrySetFromArea>设置地图活动区中的地块</GeologicalLandforms.Settings.Debug.BiomeGridEntrySetFromArea>
+  <!-- EN: Regenerate from world tile -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRegenerateAll>从世界地图区格重新生成</GeologicalLandforms.Settings.Debug.BiomeGridEntryRegenerateAll>
+
+  <!-- EN: Plant commonalities -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridDetails.PotentialPlants>植物生成率</GeologicalLandforms.Settings.Debug.BiomeGridDetails.PotentialPlants>
+  <!-- EN: Animal commonalities -->
+  <GeologicalLandforms.Settings.Debug.BiomeGridDetails.PotentialAnimals>动物生成率</GeologicalLandforms.Settings.Debug.BiomeGridDetails.PotentialAnimals>
+  
+  <!-- EN: Topology -->
+  <GeologicalLandforms.WorldMap.Topology>拓扑结构</GeologicalLandforms.WorldMap.Topology>
+  <!-- EN: Topology direction -->
+  <GeologicalLandforms.WorldMap.TopologyDirection>拓扑结构方位</GeologicalLandforms.WorldMap.TopologyDirection>
+  <!-- EN: Swampiness -->
+  <GeologicalLandforms.WorldMap.Swampiness>沼泽</GeologicalLandforms.WorldMap.Swampiness>
+  <!-- EN: River width -->
+  <GeologicalLandforms.WorldMap.RiverWidth>河流宽度</GeologicalLandforms.WorldMap.RiverWidth>
+  <!-- EN: River angle -->
+  <GeologicalLandforms.WorldMap.RiverAngle>河流角度</GeologicalLandforms.WorldMap.RiverAngle>
+  <!-- EN: Main road multiplier -->
+  <GeologicalLandforms.WorldMap.MainRoadMultiplier>主要道路乘数</GeologicalLandforms.WorldMap.MainRoadMultiplier>
+  <!-- EN: Main road angle -->
+  <GeologicalLandforms.WorldMap.MainRoadAngle>主要道路角度</GeologicalLandforms.WorldMap.MainRoadAngle>
+  <!-- EN: Depth in cave system -->
+  <GeologicalLandforms.WorldMap.DepthInCaveSystem>洞穴系统深度</GeologicalLandforms.WorldMap.DepthInCaveSystem>
+  <!-- EN: biome transition -->
+  <GeologicalLandforms.WorldMap.FeatureLabelBiomeTransition>生态融合</GeologicalLandforms.WorldMap.FeatureLabelBiomeTransition>
+  <!-- EN: Biomes from adjacent tiles cover some parts of this world tile. -->
+  <GeologicalLandforms.WorldMap.FeatureDescriptionBiomeTransition>此区格的某些部分被毗邻区格的生态群落所覆盖。</GeologicalLandforms.WorldMap.FeatureDescriptionBiomeTransition>
+  <!-- EN: A landform added by the {0} mod. -->
+  <GeologicalLandforms.WorldMap.FeatureDescriptionLandform>由Mod“{0}”添加的地图元素。</GeologicalLandforms.WorldMap.FeatureDescriptionLandform>
+
+  <!-- EN: Search for landform nearby -->
+  <GeologicalLandforms.WorldMap.FindLandform>搜索附近的指定地图元素</GeologicalLandforms.WorldMap.FindLandform>
+  <!-- EN: (Landform) -->
+  <GeologicalLandforms.WorldMap.FindLandformPrefix>(Geological Landforms) </GeologicalLandforms.WorldMap.FindLandformPrefix>
+  <!-- EN: (Landform) Any -->
+  <GeologicalLandforms.WorldMap.FindLandformAny>(Geological Landforms) 任意</GeologicalLandforms.WorldMap.FindLandformAny>
+  <!-- EN: (Landform) Any (POI) -->
+  <GeologicalLandforms.WorldMap.FindLandformAnyPOI>(Geological Landforms) 任意（POI）</GeologicalLandforms.WorldMap.FindLandformAnyPOI>
+  <!-- EN: Found {0} landform {1} tiles away -->
+  <GeologicalLandforms.WorldMap.FindLandformSuccess>已找到{0}地图元素，距起始点的距离为：{1}</GeologicalLandforms.WorldMap.FindLandformSuccess>
+  <!-- EN: Could not find any {0} landform within {1} tiles (max distance can be changed in mod settings) -->
+  <GeologicalLandforms.WorldMap.FindLandformFail>在允许的最大搜索半径内找不到{0}地图元素(你可以在Mod选项中进行修改)。设置的最大搜索半径为：{1}</GeologicalLandforms.WorldMap.FindLandformFail>
+  <!-- EN: Set landform override (god mode) -->
+  <GeologicalLandforms.WorldMap.SetLandform>编辑当前区格的地图元素（开发者模式）</GeologicalLandforms.WorldMap.SetLandform>
+  <!-- EN: Auto -->
+  <GeologicalLandforms.WorldMap.SetLandformAuto>自动</GeologicalLandforms.WorldMap.SetLandformAuto>
+
+  <GeologicalLandforms.Settings.Debug.RefreshWorldTileData>刷新所有世界地图区格</GeologicalLandforms.Settings.Debug.RefreshWorldTileData>
+  <GeologicalLandforms.Settings.Debug.RefreshWorldTileDataForced>刷新所有世界地图区格（强制）</GeologicalLandforms.Settings.Debug.RefreshWorldTileDataForced>
+  <GeologicalLandforms.Settings.Debug.DevQuickTestOverrideEnabled>覆盖“Dev：快速测试”模式的地图生成</GeologicalLandforms.Settings.Debug.DevQuickTestOverrideEnabled>
+  <GeologicalLandforms.Settings.Debug.DevQuickTestOverrideLandform>地图元素</GeologicalLandforms.Settings.Debug.DevQuickTestOverrideLandform>
+  <GeologicalLandforms.Settings.Debug.DevQuickTestOverrideBiome>生态群落</GeologicalLandforms.Settings.Debug.DevQuickTestOverrideBiome>
+  <GeologicalLandforms.Settings.Debug.DevQuickTestOverrideMapSize>地图大小</GeologicalLandforms.Settings.Debug.DevQuickTestOverrideMapSize>
+
+</LanguageData>

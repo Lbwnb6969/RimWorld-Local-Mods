@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disapproved -->
+  <VME_Recreation_Disapproved.label>反感</VME_Recreation_Disapproved.label>
+  <!-- EN: Recreation is a waste of time.\n\n<color=#E5E54C>Stats:</color>\n - Colonists get -5 mood for half a day after doing a recreation job. -->
+  <VME_Recreation_Disapproved.description>娱乐放松简直就是浪费时间。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 殖民者在娱乐过后会获得持续12小时的负面心情。</VME_Recreation_Disapproved.description>
+  
+  <!-- EN: loved -->
+  <VME_Recreation_Loved.label>喜好</VME_Recreation_Loved.label>
+  <!-- EN: Fun and games aren’t optional - Enjoy every moment of recreation and make it the best you can for yourself and your friends.\n\n<color=#E5E54C>Stats:</color>\n - Colonists gain recreation at 50% the speed when using any Joy buildings.\n - Increases by 50% the mood buff acquired by colonists after a party. -->
+  <VME_Recreation_Loved.description>游戏与享乐并非可有可无——我们要享受娱乐生活的每一刻，并尽可能地与朋友们玩的开心。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 殖民者通过娱乐建筑获得娱乐值的速度变为原本的50%。\n - 殖民者通过聚会获得的心情增益将提高50%。</VME_Recreation_Loved.description>
+  
+  <!-- EN: normal -->
+  <VME_Recreation_Normal.label>普通</VME_Recreation_Normal.label>
+  <!-- EN: Recreation is an important part of life. -->
+  <VME_Recreation_Normal.description>娱乐放松是生活的重要组成部分。</VME_Recreation_Normal.description>
+  
+</LanguageData>

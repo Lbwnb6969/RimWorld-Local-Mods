@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: faster for manual -->
+  <VME_CraftingSpeed_FasterForManual.label>快（手工）</VME_CraftingSpeed_FasterForManual.label>
+  <!-- EN: Manual labour is our expertise and we enjoy engaging in it.\n\n<color=#E5E54C>Stats:</color>\n - Non-electric work table speed: x125%. -->
+  <VME_CraftingSpeed_FasterForManual.description>我们热爱且擅长手工制作。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 非电力工作台速度：x125%。</VME_CraftingSpeed_FasterForManual.description>
+
+  <!-- EN: slower -->
+  <VME_CraftingSpeed_Slower.label>慢</VME_CraftingSpeed_Slower.label>
+  <!-- EN: A craftmaster must never rush, lest the quality of the product suffer. -->
+  <VME_CraftingSpeed_Slower.description>制作速度与产物品质不可得兼。作为工匠理应将这点牢记于心。</VME_CraftingSpeed_Slower.description>
+  
+  <!-- EN: slower for manual -->
+  <VME_CraftingSpeed_SlowerForManual.label>慢（手工）</VME_CraftingSpeed_SlowerForManual.label>
+  <!-- EN: Manual processes are unefficient. We can't waste our precious lives toiling away in mindless manual labour.\n\n<color=#E5E54C>Stats:</color>\n - Non-electric work table speed: -25%. -->
+  <VME_CraftingSpeed_SlowerForManual.description>只靠手工制作太没有效率了。我们可不能把宝贵的生命浪费在这些愚蠢的体力活上。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 非电力工作台速度：-25%。</VME_CraftingSpeed_SlowerForManual.description>
+  
+</LanguageData>

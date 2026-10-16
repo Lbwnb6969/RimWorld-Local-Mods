@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic owlcat -->
+  <DA_ArcticOwlcat.label>极地枭猫</DA_ArcticOwlcat.label>
+  <!-- EN: owlkitten -->
+  <DA_ArcticOwlcat.lifeStages.owlkitten.label>枭猫幼崽</DA_ArcticOwlcat.lifeStages.owlkitten.label>
+  
+  <!-- EN: forest owlcat -->
+  <DA_ForestOwlcat.label>森林枭猫</DA_ForestOwlcat.label>
+  <!-- EN: owlkitten -->
+  <DA_ForestOwlcat.lifeStages.owlkitten.label>枭猫幼崽</DA_ForestOwlcat.lifeStages.owlkitten.label>
+  
+</LanguageData>

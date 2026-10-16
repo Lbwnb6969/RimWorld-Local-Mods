@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stone ax -->
+  <AM_Neolithic_Axe.overrideLabel>石斧</AM_Neolithic_Axe.overrideLabel>
+  
+  <!-- EN: atlatl -->
+  <AM_Neolithic_Bow.overrideLabel>投矛器</AM_Neolithic_Bow.overrideLabel>
+  
+  <!-- EN: modern atlatl -->
+  <AM_Neolithic_CompoundBow.overrideLabel>现代投矛器</AM_Neolithic_CompoundBow.overrideLabel>
+  
+  <!-- EN: jagged sword -->
+  <AM_Neolithic_Gladius.overrideLabel>锯齿剑</AM_Neolithic_Gladius.overrideLabel>
+  
+  <!-- EN: reinforced atlatl -->
+  <AM_Neolithic_GreatBow.overrideLabel>强化投矛器</AM_Neolithic_GreatBow.overrideLabel>
+  
+  <!-- EN: tribal hat -->
+  <AM_Neolithic_Hat.overrideLabel>部落帽</AM_Neolithic_Hat.overrideLabel>
+  
+  <AM_Neolithic_Ikwa.overrideLabel>石斧</AM_Neolithic_Ikwa.overrideLabel>
+  
+  <!-- EN: tribal garments -->
+  <AM_Neolithic_Jacket.overrideLabel>部落披衣</AM_Neolithic_Jacket.overrideLabel>
+  
+  <!-- EN: stone dagger -->
+  <AM_Neolithic_Knife.overrideLabel>石匕首</AM_Neolithic_Knife.overrideLabel>
+  
+  <!-- EN: sharpened stick -->
+  <AM_Neolithic_LightClub.overrideLabel>尖刺棍</AM_Neolithic_LightClub.overrideLabel>
+  
+  <!-- EN: ornate atlatl -->
+  <AM_Neolithic_LongBow.overrideLabel>华丽投矛器</AM_Neolithic_LongBow.overrideLabel>
+  
+  <!-- EN: breach antlers -->
+  <AM_Neolithic_Pickaxe.overrideLabel>破墙鹿角</AM_Neolithic_Pickaxe.overrideLabel>
+  
+  <!-- EN: stone throwing spear -->
+  <AM_Neolithic_Pila.overrideLabel>石投矛</AM_Neolithic_Pila.overrideLabel>
+  
+  <!-- EN: ceremonial atlatl -->
+  <AM_Neolithic_RecurveBow.overrideLabel>仪礼投矛器</AM_Neolithic_RecurveBow.overrideLabel>
+  
+  <!-- EN: tribal shirt -->
+  <AM_Neolithic_Shirt.overrideLabel>部落衫</AM_Neolithic_Shirt.overrideLabel>
+  
+  <!-- EN: crude stone shiv -->
+  <AM_Neolithic_Shiv.overrideLabel>简易石刀</AM_Neolithic_Shiv.overrideLabel>
+  
+  <!-- EN: slingshot -->
+  <AM_Neolithic_Slingshot.overrideLabel>弹弓</AM_Neolithic_Slingshot.overrideLabel>
+  
+  <!-- EN: stone spear -->
+  <AM_Neolithic_Spear.overrideLabel>石矛</AM_Neolithic_Spear.overrideLabel>
+  
+  <!-- EN: tribal toga -->
+  <AM_Neolithic_Toga.overrideLabel>部落托加长袍</AM_Neolithic_Toga.overrideLabel>
+  
+  <!-- EN: stone protected fire -->
+  <AM_Neolithic_TorchLamp.overrideLabel>石炬</AM_Neolithic_TorchLamp.overrideLabel>
+  
+  <!-- EN: crude stone ax -->
+  <AM_Neolithic_TribalAxe.overrideLabel>简易石斧</AM_Neolithic_TribalAxe.overrideLabel>
+  
+</LanguageData>

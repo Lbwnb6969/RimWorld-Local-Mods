@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mazovian Outlaws -->
+  <BA_PolishOutlaw_Scenario.label>马佐维亚亡命之徒</BA_PolishOutlaw_Scenario.label>
+  <!-- EN: Once peasants and woodsmen of Mazovia, your band turned to rebellion after years of crushing taxes and foreign lords’ cruelty. The king’s men hunted you like beasts, branding you outlaws. Now, hidden deep in the forests, you strike back against noble caravans and corrupt soldiers. The people whisper your names in both fear and hope. Every raid feeds your legend — and your enemies’ wrath. There will be no pardon, no return to peace — only the life of the free and the damned.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_PolishOutlaw_Scenario.description>你们曾是马佐维亚的农夫与林中居民，在多年苛捐杂税与外国领主的残酷压迫下，你们的队伍揭竿而起。国王的军队将你们视作野兽般追捕，将你们定为亡命之徒。如今，你们隐匿于森林深处，向贵族商队与腐败士兵展开反击。人们对你的名字既恐惧又期盼，低声传颂。每一次突袭都让你们的传奇愈发响亮——也让仇敌的怒火愈燃愈烈。你们得不到赦免，再也回不去平静的生活——等待你们的，唯有自由者与受诅咒者的人生。</BA_PolishOutlaw_Scenario.description>
+  <!-- EN: Once peasants and woodsmen of Mazovia, your band turned to rebellion after years of crushing taxes and foreign lords’ cruelty. The king’s men hunted you like beasts, branding you outlaws. Now, hidden deep in the forests, you strike back against noble caravans and corrupt soldiers. The people whisper your names in both fear and hope. Every raid feeds your legend — and your enemies’ wrath. There will be no pardon, no return to peace — only the life of the free and the damned. -->
+  <BA_PolishOutlaw_Scenario.scenario.description>你们曾是马佐维亚的农夫与林中居民，在多年苛捐杂税与外国领主的残酷压迫下，你们的队伍揭竿而起。国王的军队将你们视作野兽般追捕，将你们定为亡命之徒。如今，你们隐匿于森林深处，向贵族商队与腐败士兵展开反击。人们对你的名字既恐惧又期盼，低声传颂。每一次突袭都让你们的传奇愈发响亮——也让仇敌的怒火愈燃愈烈。你们得不到赦免，再也回不去平静的生活——等待你们的，唯有自由者与受诅咒者的人生。</BA_PolishOutlaw_Scenario.scenario.description>
+  <!-- EN: Mazovian Outlaws -->
+  <BA_PolishOutlaw_Scenario.scenario.name>马佐维亚亡命之徒</BA_PolishOutlaw_Scenario.scenario.name>
+  <!-- EN: Once loyal peasants of Mazovia, you took up arms against the lords who bled your land dry. When soldiers came to burn your village and take your kin, you vanished into the woods — not as victims, but as outlaws. \n\nNow the forests are your home, the wind your only ally. The crown calls you bandits; the peasants whisper your names like a prayer. Every raid keeps you alive, every night you sleep with one eye open. \n\nThe law will never forgive you, but in this wild frontier, you may build something of your own. Freedom is your crime — and your only salvation. -->
+  <BA_PolishOutlaw_Scenario.scenario.parts.GameStartDialog.text>你们曾是马佐维亚忠心耿耿的农夫，却拿起武器反抗那些榨干你们土地血汗的领主。当士兵们前来焚烧村庄、掳走亲人时，你们遁入了森林——不再是受害者，而是亡命之徒。\n\n如今，森林成了你们的家，风是你们唯一的盟友。王室骂你们是匪徒；农夫们却将你们的名字当作祷告般低语。每一次突袭让你们得以存活，每一个夜晚你们都必须睁一只眼睡觉。\n\n法律永远不会宽恕你们，但在这片蛮荒的边境之地，你们或许能建立属于自己的天地。自由是你们的罪名——也是你们唯一的救赎。</BA_PolishOutlaw_Scenario.scenario.parts.GameStartDialog.text>
+  <!-- EN: Three Mazovian outlaws -->
+  <BA_PolishOutlaw_Scenario.scenario.summary>三名马佐维亚亡命之徒</BA_PolishOutlaw_Scenario.scenario.summary>
+  
+</LanguageData>

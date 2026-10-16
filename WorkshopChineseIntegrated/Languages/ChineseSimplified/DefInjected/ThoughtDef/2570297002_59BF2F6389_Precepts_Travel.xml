@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: traveled the world (less than 5 days ago) -->
+  <VME_Travel_Desired.stages.traveled_the_world_less_than_5_days_ago.label>周游世界（5天以内）</VME_Travel_Desired.stages.traveled_the_world_less_than_5_days_ago.label>
+  <!-- EN: There is nothing as exhilarating as seeing what the world has to offer. -->
+  <VME_Travel_Desired.stages.traveled_the_world_less_than_5_days_ago.description>没有什么比看到美丽景色更令人兴奋的了。</VME_Travel_Desired.stages.traveled_the_world_less_than_5_days_ago.description>
+  <!-- EN: traveled the world (less than 10 days ago) -->
+  <VME_Travel_Desired.stages.traveled_the_world_less_than_10_days_ago.label>周游世界（10天以内）</VME_Travel_Desired.stages.traveled_the_world_less_than_10_days_ago.label>
+  <!-- EN: Travelling is amazing. Seeing the sights, discovering new lands... The memories of my last travels are still fresh in my mind. -->
+  <VME_Travel_Desired.stages.traveled_the_world_less_than_10_days_ago.description>远行是件美妙的事情。欣赏风景、发现未探索的地区...上次远行的所见所感仍然历历在目。</VME_Travel_Desired.stages.traveled_the_world_less_than_10_days_ago.description>
+  <!-- EN: traveled the world (less than 15 days ago) -->
+  <VME_Travel_Desired.stages.traveled_the_world_less_than_15_days_ago.label>周游世界（15天以内）</VME_Travel_Desired.stages.traveled_the_world_less_than_15_days_ago.label>
+  <!-- EN: It's been a few days since I travelled. I loved it. -->
+  <VME_Travel_Desired.stages.traveled_the_world_less_than_15_days_ago.description>距上次远行也有些时日了。我还是很喜欢它。</VME_Travel_Desired.stages.traveled_the_world_less_than_15_days_ago.description>
+  <!-- EN: traveled the world (less than 60 days ago) -->
+  <VME_Travel_Desired.stages.traveled_the_world_less_than_60_days_ago.label>周游世界（60天以内）</VME_Travel_Desired.stages.traveled_the_world_less_than_60_days_ago.label>
+  <!-- EN: I have a fond memory of my past travels. -->
+  <VME_Travel_Desired.stages.traveled_the_world_less_than_60_days_ago.description>上次远行仍让我感到回味无穷。</VME_Travel_Desired.stages.traveled_the_world_less_than_60_days_ago.description>
+  
+  <!-- EN: had to leave the colony (less than 5 days ago) -->
+  <VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_5_days_ago.label>被迫离开殖民地（5天以内）</VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_5_days_ago.label>
+  <!-- EN: I despise travelling. Leaving the security of our colony is terrible. -->
+  <VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_5_days_ago.description>我讨厌远行。我们为什么要离开安全舒适的殖民地？</VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_5_days_ago.description>
+  <!-- EN: had to leave the colony (less than 10 days ago) -->
+  <VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_10_days_ago.label>被迫离开殖民地（10天以内）</VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_10_days_ago.label>
+  <!-- EN: The memories of my last travels are still fresh in my mind. I hated it. -->
+  <VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_10_days_ago.description>远行是件愚蠢的事情。上次远行的糟糕感受仍然盘踞在我的脑海中。</VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_10_days_ago.description>
+  <!-- EN: had to leave the colony (less than 15 days ago) -->
+  <VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_15_days_ago.label>被迫离开殖民地（15天以内）</VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_15_days_ago.label>
+  <!-- EN: It's been a few days since I travelled. I hated it. -->
+  <VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_15_days_ago.description>距上次远行也有些时日了。我还是很讨厌它。</VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_15_days_ago.description>
+  <!-- EN: had to leave the colony (less than 60 days ago) -->
+  <VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_60_days_ago.label>被迫离开殖民地（60天以内）</VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_60_days_ago.label>
+  <!-- EN: I have uncomfortable memories of my past travels. -->
+  <VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_60_days_ago.description>上次远行仍让我感到很不舒服。</VME_Travel_Despised.stages.had_to_leave_the_colony_less_than_60_days_ago.description>
+  
+</LanguageData>

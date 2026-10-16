@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suicidal colonist -->
+  <VME_CeremonialSuicideRitualBehaviour.roles.0.label>切腹的殖民者</VME_CeremonialSuicideRitualBehaviour.roles.0.label>
+  <!-- EN: participate -->
+  <VME_CeremonialSuicideRitualBehaviour.spectatorGerund>参加</VME_CeremonialSuicideRitualBehaviour.spectatorGerund>
+  <!-- EN: Participants -->
+  <VME_CeremonialSuicideRitualBehaviour.spectatorsLabel>参与者</VME_CeremonialSuicideRitualBehaviour.spectatorsLabel>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Color stripe -->
+  <BEWH_MkVIIDecoStripe.label>条纹</BEWH_MkVIIDecoStripe.label>
+  <!-- EN: ... -->
+  <BEWH_MkVIIDecoStripe.description>...</BEWH_MkVIIDecoStripe.description>
+  
+  <!-- EN: Lieutenant stripe -->
+  <BEWH_MkVIILieutenantStripe.label>副官条纹</BEWH_MkVIILieutenantStripe.label>
+  <!-- EN: ... -->
+  <BEWH_MkVIILieutenantStripe.description>...</BEWH_MkVIILieutenantStripe.description>
+  
+  <!-- EN: Color stripe -->
+  <BEWH_MkXDecoStripe.label>条纹</BEWH_MkXDecoStripe.label>
+  <!-- EN: ... -->
+  <BEWH_MkXDecoStripe.description>...</BEWH_MkXDecoStripe.description>
+  
+  <!-- EN: Lieutenant stripe -->
+  <BEWH_MkXLieutenantStripe.label>副官条纹</BEWH_MkXLieutenantStripe.label>
+  <!-- EN: ... -->
+  <BEWH_MkXLieutenantStripe.description>...</BEWH_MkXLieutenantStripe.description>
+  
+</LanguageData>

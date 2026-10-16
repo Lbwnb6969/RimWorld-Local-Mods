@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Make fireworks x12 -->
+  <MakeAmmo_TA_Firework.label>制作信号弹x12</MakeAmmo_TA_Firework.label>
+  <!-- EN: Craft 12 Fireworks -->
+  <MakeAmmo_TA_Firework.description>制作12枚信号弹。</MakeAmmo_TA_Firework.description>
+  <!-- EN: Making Fireworks -->
+  <MakeAmmo_TA_Firework.jobString>制作信号弹</MakeAmmo_TA_Firework.jobString>
+  
+</LanguageData>

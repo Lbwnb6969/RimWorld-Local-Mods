@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cash register -->
+  <CashRegister_CashRegister.label>收银机</CashRegister_CashRegister.label>
+  <!-- EN: A cash register. Workplace for your waiters. From here you can control your restaurant. -->
+  <CashRegister_CashRegister.description>用于经营和管理店铺的收银机。必须放置在桌子上。</CashRegister_CashRegister.description>
+  
+</LanguageData>

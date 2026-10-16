@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make aether extract -->
+  <DankPyon_Make_AetherExtract.label>制作以太花萃取物</DankPyon_Make_AetherExtract.label>
+  <!-- EN: Make aether extract.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <DankPyon_Make_AetherExtract.description>制作以太花萃取物。</DankPyon_Make_AetherExtract.description>
+  <!-- EN: Making aether extract. -->
+  <DankPyon_Make_AetherExtract.jobString>正在制作以太花萃取物。</DankPyon_Make_AetherExtract.jobString>
+  
+  <!-- EN: make aether extract x5 -->
+  <DankPyon_Make_AetherExtractBulk.label>制作以太花萃取物 x5</DankPyon_Make_AetherExtractBulk.label>
+  <!-- EN: Make aether extract x5.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <DankPyon_Make_AetherExtractBulk.description>制作5碗以太花萃取物。</DankPyon_Make_AetherExtractBulk.description>
+  <!-- EN: Making aether extract x5. -->
+  <DankPyon_Make_AetherExtractBulk.jobString>正在制作以太花萃取物。</DankPyon_Make_AetherExtractBulk.jobString>
+  
+  <!-- EN: make aether extract x10 -->
+  <DankPyon_Make_AetherExtractBulkExtra.label>制作以太花萃取物 x10</DankPyon_Make_AetherExtractBulkExtra.label>
+  <!-- EN: Make aether extract x10.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <DankPyon_Make_AetherExtractBulkExtra.description>制作10碗以太花萃取物。</DankPyon_Make_AetherExtractBulkExtra.description>
+  <!-- EN: Making aether extract x10. -->
+  <DankPyon_Make_AetherExtractBulkExtra.jobString>正在制作以太花萃取物。</DankPyon_Make_AetherExtractBulkExtra.jobString>
+  
+</LanguageData>

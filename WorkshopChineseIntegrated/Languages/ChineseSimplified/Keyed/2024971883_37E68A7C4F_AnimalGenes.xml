@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Genes -->
+  <VRE_TabAnimalGenes>基因</VRE_TabAnimalGenes>
+	<!-- EN: Animal genes -->
+  <VRE_AnimalGenes>动物基因</VRE_AnimalGenes>
+	<!-- EN: Gene family -->
+  <VRE_FamilyTag>基因家族</VRE_FamilyTag>
+	<!-- EN: The genes associated with this feratype. -->
+  <VRE_AnimalGenesFeratypeDesc>与此兽种相关的基因。</VRE_AnimalGenesFeratypeDesc>
+	<!-- EN: Feratype -->
+  <VRE_Feratype>兽种</VRE_Feratype>
+	<!-- EN: Genes present in this animal -->
+  <VRE_AnimalGenesDesc>此动物携带的基因</VRE_AnimalGenesDesc>
+	<!-- EN: Relevant animal genes -->
+  <VRE_StatsReport_Genes>相关动物基因</VRE_StatsReport_Genes>
+	<!-- EN: More information is available on this feratype's information screen. -->
+  <VRE_MoreInfoInInfoScreen>可在此兽种的信息面板中查看更多信息。</VRE_MoreInfoInInfoScreen>
+	<!-- EN: Animal illness MTB -->
+  <VRE_AnimalIllness>动物患病平均间隔</VRE_AnimalIllness>
+	<!-- EN: Animal tantrum MTB -->
+  <VRE_AnimalTantrum>动物发脾气平均间隔</VRE_AnimalTantrum>
+	<!-- EN: Trainability set to -->
+  <VRE_Trainability>可训练度设为</VRE_Trainability>
+	<!-- EN: Stability -->
+  <VRE_Stability>稳定性</VRE_Stability>
+	<!-- EN: Stability represents the complexity of an animal's genetic code and affecting predictability of gene inheritance.\n\nHigh stability ensures offspring typically inherit the average of their parents' genes, whereas low stability increases the likelihood that offspring will deviate from parental traits towards the natural median. -->
+  <VRE_StabilityDesc>稳定性代表着动物遗传密码的复杂度，且会影响基因遗传的可预测性。\n\n较高的稳定性可确保后代通常能遗传父母基因的平均值，而较低的稳定性则会提高后代偏离父母特性并趋向自然中值的几率。</VRE_StabilityDesc>
+	<!-- EN: days -->
+  <VRE_Days>天</VRE_Days>
+	<!-- EN: Lifespan -->
+  <VRE_LifespanFactor>寿命</VRE_LifespanFactor>
+	<!-- EN: Lifespan factor of this animal according to its genetic stability -->
+  <VRE_LifespanFactorDesc>此动物的寿命系数取决于其基因遗传稳定性</VRE_LifespanFactorDesc>	
+	<!-- EN: feratype family -->
+  <VRE_FeratypeFamily>兽种家族</VRE_FeratypeFamily>
+	<!-- EN: This feratype belongs to the {0} feratype family:\n\n{1} -->
+  <VRE_FeratypeFamilyDesc>此兽种属于{0}兽种家族：\n\n{1}</VRE_FeratypeFamilyDesc>
+	<!-- EN: Allowed partners -->
+  <VRE_AllowedPartners>允许的配偶</VRE_AllowedPartners>
+	<!-- EN: A list of all feratypes belonging to the {0} feratype family that this animal can make offspring with. -->
+  <VRE_AllowedPartnersDesc>此动物可与这些属于{0}兽种家族的兽种繁衍后代。</VRE_AllowedPartnersDesc>
+	<!-- EN: This animal is not pregnant -->
+  <VRE_NotPregnant>此动物未怀孕</VRE_NotPregnant>
+	<!-- EN: Stillborn {0} -->
+  <VRE_StillbornLabel>死胎{0}</VRE_StillbornLabel>
+	<!-- EN: Your {0}, {1} gave birth to a stillborn offspring. -->
+  <VRE_StillbornDesc>你的{0}，{1}诞下了一具死胎。</VRE_StillbornDesc>
+	<!-- EN: Specialized gene -->
+  <VRE_SpecializedGene>特化基因</VRE_SpecializedGene>
+	<!-- EN: This gene is only inherited by offspring whose feratype contains a gene from this family. -->
+  <VRE_SpecializedGeneDesc>此基因仅会被携带这种家族基因的兽种后代继承。</VRE_SpecializedGeneDesc>
+
+	
+	
+</LanguageData>

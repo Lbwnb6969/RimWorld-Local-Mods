@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient barrel -->
+  <VME_AncientBarrel.label>远古桶</VME_AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <VME_AncientBarrel.description>一个看起来像是曾经装过某种废料的桶。现在里面只有一抹污泥。</VME_AncientBarrel.description>
+  
+  <!-- EN: ancient bed -->
+  <VME_AncientBed.label>远古床</VME_AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <VME_AncientBed.description>一张破旧不堪的单人床。虽然躺起来不舒服，但仍然可以正常使用。因年代久远，故无法修复。</VME_AncientBed.description>
+  
+  <!-- EN: ancient crate -->
+  <VME_AncientCrate.label>远古储物箱</VME_AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <VME_AncientCrate.description>一个破旧不堪的储物箱。内部曾装有的物品早已老化成了毫无价值的残片。</VME_AncientCrate.description>
+  
+  <!-- EN: ancient display bank -->
+  <VME_AncientDisplayBank.label>远古显示器</VME_AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientDisplayBank.description>一组功能未知的古老显示器。贵重的部件早已消失不见，剩余的一切也已老化无用。</VME_AncientDisplayBank.description>
+  
+  <!-- EN: ancient equipment blocks -->
+  <VME_AncientEquipmentBlocks.label>远古设备组</VME_AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientEquipmentBlocks.description>一组功能未知的古老设备。贵重的部件早已消失不见，剩余的一切也已老化无用。</VME_AncientEquipmentBlocks.description>
+  
+  <!-- EN: ancient generator -->
+  <VME_AncientGenerator.label>远古发电机</VME_AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <VME_AncientGenerator.description>一台古老生锈的发电机。贵重的部件早已消失不见，剩余的一切也已老化无用。</VME_AncientGenerator.description>
+  
+  <!-- EN: ancient lamp -->
+  <VME_AncientLamp.label>远古落地灯</VME_AncientLamp.label>
+  <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
+  <VME_AncientLamp.description>一盏古老生锈的自供电灯。虽然内部电源已经严重损耗，但仍然能散发出微弱的辉光。</VME_AncientLamp.description>
+  
+  <!-- EN: ancient locker bank -->
+  <VME_AncientLockerBank.label>远古储物柜</VME_AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <VME_AncientLockerBank.description>一组古老生锈的储物柜。所有的储物柜都已经被撬开过，里面没有留下任何贵重物品。</VME_AncientLockerBank.description>
+  
+  <!-- EN: ancient machine -->
+  <VME_AncientMachine.label>远古机械</VME_AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientMachine.description>一台巨大的生锈机械，我们对里面的结构一无所知。贵重的部件早已消失不见，剩余的一切也已老化无用。</VME_AncientMachine.description>
+  
+  <!-- EN: ancient military crate -->
+  <VME_AncientMilitaryCrate.label>远古军用物资箱</VME_AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <VME_AncientMilitaryCrate.description>一个远古的物资箱，看起来是军用的。它在很久之前就被打破了，里面的东西被洗劫一空。</VME_AncientMilitaryCrate.description>
+  
+  <!-- EN: ancient operating table -->
+  <VME_AncientOperatingTable.label>远古手术台</VME_AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <VME_AncientOperatingTable.description>一张曾用于进行手术的手术台，早已破旧不堪。</VME_AncientOperatingTable.description>
+  
+  <!-- EN: ancient spacer crate -->
+  <VME_AncientSpacerCrate.label>远古太空物资箱</VME_AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <VME_AncientSpacerCrate.description>一个被破坏的远古物资箱。它曾经保存的贵重物品早就被拿走了。</VME_AncientSpacerCrate.description>
+  
+  <!-- EN: ancient storage cylinder -->
+  <VME_AncientStorageCylinder.label>远古液罐</VME_AncientStorageCylinder.label>
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientStorageCylinder.description>一个看起来曾经储存过某种液体的生锈液罐。贵重的部件早已消失不见，剩余的一切也已老化无用。</VME_AncientStorageCylinder.description>
+  
+  <!-- EN: ancient system rack -->
+  <VME_AncientSystemRack.label>远古设备架</VME_AncientSystemRack.label>
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientSystemRack.description>一个装有无法辨认的设备的生锈设备架。贵重的部件早已消失不见，剩余的一切也已老化无用。</VME_AncientSystemRack.description>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awkward insectoid hymn -->
+  <VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.label>尴尬的虫族礼赞</VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.label>
+  <!-- EN: The speech was repetitive, and it did nothing to convince me of the divinity of our beloved insects. -->
+  <VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.description>那场虫族礼赞令人尴尬。礼赞颂唱的啰里啰唆，它没能让我们能相信心爱的虫族是神圣的。</VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.description>
+  
+  <!-- EN: entrancing insectoid hymn -->
+  <VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.label>令人欣喜的虫族礼赞</VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.label>
+  <!-- EN: I can still hear the mesmerizing words of the hymn, like a myriad insectile legs crawling all over our bodies. -->
+  <VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.description>那场虫族礼赞令人欣喜若狂！我们仿佛仍能听到礼赞动人的颂词，就好像有无数的虫族爬满了全身。</VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.description>
+  
+  <!-- EN: rousing insectoid hymn -->
+  <VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.label>振奋人心的虫族礼赞</VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.label>
+  <!-- EN: The chanter showed impressing skill and the hymn appropriately extolled the virtues of our way of life. -->
+  <VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.description>那场虫族礼赞振奋人心！颂唱者的技巧十分高超，礼赞恰如其分地颂扬了我们生活方式的优点。</VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.description>
+  
+  <!-- EN: uninteresting insectoid hymn -->
+  <VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.label>无趣的虫族礼赞</VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.label>
+  <!-- EN: What an incredibly uninteresting ritual. Yeah, yeah, insects are cool. Bah. -->
+  <VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.description>那场虫族礼赞非常无聊。啊，是是是，这些虫子很酷。我呸！</VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.description>
+  
+</LanguageData>

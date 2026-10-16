@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: increased -->
+  <AM_CoffeeYield_Increased.label>提高</AM_CoffeeYield_Increased.label>
+  <!-- EN: By carefully tending our coffee plants and improving our harvesting methods, we coax a richer and more generous yield from every crop.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Increases yield of coffee plants by 10%. -->
+  <AM_CoffeeYield_Increased.description>通过悉心培育我们的咖啡树并改善收获方法，我们能得到更丰厚、更慷慨的收成。\n\n&lt;color=#E5E54C>属性：&lt;/color>\n - 咖啡树产出：+10%。</AM_CoffeeYield_Increased.description>
+  
+</LanguageData>

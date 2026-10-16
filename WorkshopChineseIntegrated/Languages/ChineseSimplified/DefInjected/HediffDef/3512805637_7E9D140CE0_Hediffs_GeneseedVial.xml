@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: firstborn development phase 1 -->
+  <BEWH_FirstbornPhaseOne.label>初代星际战士改造阶段（一）</BEWH_FirstbornPhaseOne.label>
+  <!-- EN: Undergoing a grueling process to become a firstborn. -->
+  <BEWH_FirstbornPhaseOne.description>此人正历经淬骨锻魂之苦，蜕变为初代星际战士。</BEWH_FirstbornPhaseOne.description>
+  <!-- EN: Firstborn Phase Completed -->
+  <BEWH_FirstbornPhaseOne.comps.Hediff_SendLetterAtSeverity.letter>初代星际战士改造阶段完成</BEWH_FirstbornPhaseOne.comps.Hediff_SendLetterAtSeverity.letter>
+  <!-- EN: First phase of the firstborn development has been completed and can now be advanced to the second phase. -->
+  <BEWH_FirstbornPhaseOne.comps.Hediff_SendLetterAtSeverity.message>初代星际战士改造第一阶段已完成，现可推进至第二阶段。</BEWH_FirstbornPhaseOne.comps.Hediff_SendLetterAtSeverity.message>
+  <!-- EN: In progress -->
+  <BEWH_FirstbornPhaseOne.stages.In_progress.label>改造中</BEWH_FirstbornPhaseOne.stages.In_progress.label>
+  <!-- EN: Completed -->
+  <BEWH_FirstbornPhaseOne.stages.Completed.label>已完成</BEWH_FirstbornPhaseOne.stages.Completed.label>
+  
+  <!-- EN: firstborn development phase 3 -->
+  <BEWH_FirstbornPhaseThree.label>初代星际战士改造阶段（三）</BEWH_FirstbornPhaseThree.label>
+  <!-- EN: Undergoing a grueling process to become a firstborn. -->
+  <BEWH_FirstbornPhaseThree.description>此人正历经淬骨锻魂之苦，蜕变为初代星际战士。</BEWH_FirstbornPhaseThree.description>
+  <!-- EN: Firstborn Phase Completed -->
+  <BEWH_FirstbornPhaseThree.comps.Hediff_SendLetterAtSeverity.letter>初代星际战士改造阶段完成</BEWH_FirstbornPhaseThree.comps.Hediff_SendLetterAtSeverity.letter>
+  <!-- EN: Third phase of the firstborn development has been completed and can now be advanced to the final phase. -->
+  <BEWH_FirstbornPhaseThree.comps.Hediff_SendLetterAtSeverity.message>初代星际战士改造第三阶段已完成，现可推进至最终阶段。</BEWH_FirstbornPhaseThree.comps.Hediff_SendLetterAtSeverity.message>
+  <!-- EN: In progress -->
+  <BEWH_FirstbornPhaseThree.stages.In_progress.label>改造中</BEWH_FirstbornPhaseThree.stages.In_progress.label>
+  <!-- EN: Completed -->
+  <BEWH_FirstbornPhaseThree.stages.Completed.label>已完成</BEWH_FirstbornPhaseThree.stages.Completed.label>
+  
+  <!-- EN: firstborn development phase 2 -->
+  <BEWH_FirstbornPhaseTwo.label>初代星际战士改造阶段（二）</BEWH_FirstbornPhaseTwo.label>
+  <!-- EN: Undergoing a grueling process to become a firstborn. -->
+  <BEWH_FirstbornPhaseTwo.description>此人正历经淬骨锻魂之苦，蜕变为初代星际战士。</BEWH_FirstbornPhaseTwo.description>
+  <!-- EN: Firstborn Phase Completed -->
+  <BEWH_FirstbornPhaseTwo.comps.Hediff_SendLetterAtSeverity.letter>初代星际战士改造阶段完成</BEWH_FirstbornPhaseTwo.comps.Hediff_SendLetterAtSeverity.letter>
+  <!-- EN: Second phase of the firstborn development has been completed and can now be advanced to the third phase. -->
+  <BEWH_FirstbornPhaseTwo.comps.Hediff_SendLetterAtSeverity.message>初代改造第二阶段已完成，现可推进至第三阶段。</BEWH_FirstbornPhaseTwo.comps.Hediff_SendLetterAtSeverity.message>
+  <!-- EN: In progress -->
+  <BEWH_FirstbornPhaseTwo.stages.In_progress.label>改造中</BEWH_FirstbornPhaseTwo.stages.In_progress.label>
+  <!-- EN: Completed -->
+  <BEWH_FirstbornPhaseTwo.stages.Completed.label>已完成</BEWH_FirstbornPhaseTwo.stages.Completed.label>
+  
+  <!-- EN: primaris development phase 1 -->
+  <BEWH_PrimarisPhaseOne.label>原铸星际战士改造阶段（一）</BEWH_PrimarisPhaseOne.label>
+  <!-- EN: Undergoing a grueling process to become a primaris. -->
+  <BEWH_PrimarisPhaseOne.description>此人正历经焚身淬魂之劫，蜕变为原铸星际战士。</BEWH_PrimarisPhaseOne.description>
+  <!-- EN: Primaris Phase Completed -->
+  <BEWH_PrimarisPhaseOne.comps.Hediff_SendLetterAtSeverity.letter>原铸星际战士改造阶段完成</BEWH_PrimarisPhaseOne.comps.Hediff_SendLetterAtSeverity.letter>
+  <!-- EN: First phase of the primaris development has been completed and can now be advanced to the second phase. -->
+  <BEWH_PrimarisPhaseOne.comps.Hediff_SendLetterAtSeverity.message>原铸星际战士改造第一阶段已完成，现可推进至第二阶段</BEWH_PrimarisPhaseOne.comps.Hediff_SendLetterAtSeverity.message>
+  <!-- EN: In progress -->
+  <BEWH_PrimarisPhaseOne.stages.In_progress.label>改造中</BEWH_PrimarisPhaseOne.stages.In_progress.label>
+  <!-- EN: Completed -->
+  <BEWH_PrimarisPhaseOne.stages.Completed.label>已完成</BEWH_PrimarisPhaseOne.stages.Completed.label>
+  
+  <!-- EN: primaris development phase 3 -->
+  <BEWH_PrimarisPhaseThree.label>原铸星际战士改造阶段（三）</BEWH_PrimarisPhaseThree.label>
+  <!-- EN: Undergoing a grueling process to become a primaris. -->
+  <BEWH_PrimarisPhaseThree.description>此人正历经焚身淬魂之劫，蜕变为原铸星际战士。</BEWH_PrimarisPhaseThree.description>
+  <!-- EN: Primaris Phase Completed -->
+  <BEWH_PrimarisPhaseThree.comps.Hediff_SendLetterAtSeverity.letter>原铸星际战士改造阶段完成</BEWH_PrimarisPhaseThree.comps.Hediff_SendLetterAtSeverity.letter>
+  <!-- EN: Third phase of the primaris development has been completed and can now be advanced to the final phase. -->
+  <BEWH_PrimarisPhaseThree.comps.Hediff_SendLetterAtSeverity.message>原铸星际战士改造第三阶段已完成，现可推进至最终阶段</BEWH_PrimarisPhaseThree.comps.Hediff_SendLetterAtSeverity.message>
+  <!-- EN: In progress -->
+  <BEWH_PrimarisPhaseThree.stages.In_progress.label>改造中</BEWH_PrimarisPhaseThree.stages.In_progress.label>
+  <!-- EN: Completed -->
+  <BEWH_PrimarisPhaseThree.stages.Completed.label>已完成</BEWH_PrimarisPhaseThree.stages.Completed.label>
+  
+  <!-- EN: primaris development phase 2 -->
+  <BEWH_PrimarisPhaseTwo.label>原铸星际战士改造阶段（二）</BEWH_PrimarisPhaseTwo.label>
+  <!-- EN: Undergoing a grueling process to become a primaris. -->
+  <BEWH_PrimarisPhaseTwo.description>此人正历经焚身淬魂之劫，蜕变为原铸星际战士。</BEWH_PrimarisPhaseTwo.description>
+  <!-- EN: Primaris Phase Completed -->
+  <BEWH_PrimarisPhaseTwo.comps.Hediff_SendLetterAtSeverity.letter>原铸星际战士改造阶段完成</BEWH_PrimarisPhaseTwo.comps.Hediff_SendLetterAtSeverity.letter>
+  <!-- EN: Second phase of the primaris development has been completed and can now be advanced to the third phase. -->
+  <BEWH_PrimarisPhaseTwo.comps.Hediff_SendLetterAtSeverity.message>原铸星际战士改造第二阶段已完成，现可推进至第三阶段</BEWH_PrimarisPhaseTwo.comps.Hediff_SendLetterAtSeverity.message>
+  <!-- EN: In progress -->
+  <BEWH_PrimarisPhaseTwo.stages.In_progress.label>改造中</BEWH_PrimarisPhaseTwo.stages.In_progress.label>
+  <!-- EN: Completed -->
+  <BEWH_PrimarisPhaseTwo.stages.Completed.label>已完成</BEWH_PrimarisPhaseTwo.stages.Completed.label>
+  
+</LanguageData>

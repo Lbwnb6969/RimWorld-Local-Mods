@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: insectoid slain -->
+  <VME_Insectoids_Despised.stages.insectoid_slain.label>杀死虫族</VME_Insectoids_Despised.stages.insectoid_slain.label>
+  <!-- EN: I have killed an insectoid being, this is a victory! -->
+  <VME_Insectoids_Despised.stages.insectoid_slain.description>我杀死了一只恶心的虫子，这是一场小小的胜利！</VME_Insectoids_Despised.stages.insectoid_slain.description>
+  
+  <!-- EN: insectoid slain -->
+  <VME_Insectoids_Exalted.stages.insectoid_slain.label>杀死虫族</VME_Insectoids_Exalted.stages.insectoid_slain.label>
+  <!-- EN: I have killed an insectoid being, this is a stain on my soul. -->
+  <VME_Insectoids_Exalted.stages.insectoid_slain.description>我杀死了一只神圣的虫族...这简直就是我灵魂中的污点。</VME_Insectoids_Exalted.stages.insectoid_slain.description>
+  
+</LanguageData>

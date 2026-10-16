@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: baptism rhetoric -->
+  <AM_Speech_Baptism.label>洗礼祷辞</AM_Speech_Baptism.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->the [AdjectiveWater] power of a [WaterSource]</li>
+    <li>speechtopic->how a [WaterSource] represents [AdjectiveWater] renewal</li>
+    <li>speechtopic->a [WaterSymbol] as a symbol of purity and life</li>
+    <li>speechtopic->how a [WaterSymbol] connects us through shared rituals</li>
+    <li>speechtopic->how a [AdjectiveWater] [WaterSource] brings balance to all</li>
+    <li>speechtopic->the [AdjectiveWater] flow of a [WaterSource] brings peace</li>
+    <li>speechtopic->the cleansing power of a [AdjectiveWater] [WaterSource]</li>
+    <li>speechtopic->a [WaterSymbol] as a reminder of life's eternal cycle</li>
+    <li>speechtopic(p=0.25)->committing to the ideals of [IDEO_name]</li>
+    <li>speechtopic(p=0.25)->strengthening the spirit through shared tradition</li>
+    <li>speechtopic(p=0.25)->celebrating the unity of our community</li>
+    <li>speechtopic(p=0.25)->finding harmony through nature’s gifts</li>
+    <li>speechtopic(p=0.25)->the tranquil blessing of a [AdjectiveWater] [WaterSource]</li>
+    <li>AdjectiveWater->pure</li>
+    <li>AdjectiveWater->serene</li>
+    <li>AdjectiveWater->renewing</li>
+    <li>AdjectiveWater->life-giving</li>
+    <li>WaterSource->river</li>
+    <li>WaterSource->spring</li>
+    <li>WaterSource->sacred pool</li>
+    <li>WaterSymbol->wave</li>
+    <li>WaterSymbol->droplet</li>
+    <li>WaterSymbol->ripple</li>
+  -->
+  <AM_Speech_Baptism.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->[WaterSource]的[AdjectiveWater]之力</li>
+    <li>speechtopic->[WaterSource]是如何体现[AdjectiveWater]的</li>
+    <li>speechtopic->[WaterSymbol]是纯净和生命的象征</li>
+    <li>speechtopic->[WaterSymbol]是如何通过集体仪式将我们联系起来的</li>
+    <li>speechtopic->[AdjectiveWater]的[WaterSource]是如何为众生带去平衡的</li>
+    <li>speechtopic->[AdjectiveWater]的[WaterSource]之流带来了和平</li>
+    <li>speechtopic->[AdjectiveWater]的[WaterSource]蕴藏的净化之力</li>
+    <li>speechtopic->[WaterSymbol]是生命永恒循环的表现</li>
+    <li>speechtopic(p=0.25)->笃定[IDEO_name]的理想</li>
+    <li>speechtopic(p=0.25)->通过共享传统来增强灵魂与精神</li>
+    <li>speechtopic(p=0.25)->庆贺我们社群的团结</li>
+    <li>speechtopic(p=0.25)->通过自然的馈赠寻求和谐</li>
+    <li>speechtopic(p=0.25)->[AdjectiveWater]的[WaterSource]的祥和祝福</li>
+    <li>AdjectiveWater->纯净</li>
+    <li>AdjectiveWater->静谧</li>
+    <li>AdjectiveWater->焕新</li>
+    <li>AdjectiveWater->赋生</li>
+    <li>WaterSource->河溪</li>
+    <li>WaterSource->泉水</li>
+    <li>WaterSource->圣池</li>
+    <li>WaterSymbol->水波</li>
+    <li>WaterSymbol->水滴</li>
+    <li>WaterSymbol->涟漪</li>
+  </AM_Speech_Baptism.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: flagellation rhetoric -->
+  <AM_Speech_Flagellation.label>鞭笞祷辞</AM_Speech_Flagellation.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->the [AdjectivePain] power of suffering</li>
+    <li>speechtopic->how pain strips away the weakness of the flesh</li>
+    <li>speechtopic->the [PainSymbol] as a symbol of strength and devotion</li>
+    <li>speechtopic->how suffering reveals the truth hidden beneath comfort</li>
+    <li>speechtopic->how [AdjectivePain] pain strengthens the body and spirit</li>
+    <li>speechtopic->the cleansing power of [AdjectivePain] suffering</li>
+    <li>speechtopic->how enduring pain proves the strength of one's convictions</li>
+    <li>speechtopic->the sacred purpose of willingly enduring suffering</li>
+    <li>speechtopic(p=0.25)->committing to the ideals of [IDEO_name]</li>
+    <li>speechtopic(p=0.25)->strengthening the spirit through shared suffering</li>
+    <li>speechtopic(p=0.25)->proving one's devotion through endurance</li>
+    <li>speechtopic(p=0.25)->rejecting the weakness of comfort</li>
+    <li>speechtopic(p=0.25)->the divine lesson hidden within [AdjectivePain] pain</li>
+    <li>AdjectivePain->sacred</li>
+    <li>AdjectivePain->searing</li>
+    <li>AdjectivePain->piercing</li>
+    <li>AdjectivePain->agonizing</li>
+    <li>AdjectivePain->purifying</li>
+    <li>PainSymbol->whip</li>
+    <li>PainSymbol->scar</li>
+    <li>PainSymbol->wound</li>
+  -->
+  <AM_Speech_Flagellation.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->苦痛的[AdjectivePain]之力</li>
+    <li>speechtopic->苦痛是如何剥除肉体的弱点的</li>
+    <li>speechtopic->[PainSymbol]是力量和虔诚的象征</li>
+    <li>speechtopic->苦难是如何揭示隐藏在舒适之下的真相的</li>
+    <li>speechtopic->[AdjectivePain]的苦痛是如何强化肉体和灵魂的</li>
+    <li>speechtopic->[AdjectivePain]的苦难的净化之力</li>
+    <li>speechtopic->忍受苦痛是如何证明一个人信念坚定的</li>
+    <li>speechtopic->自愿忍受苦难的神圣目的</li>
+    <li>speechtopic(p=0.25)->笃定[IDEO_name]的理想</li>
+    <li>speechtopic(p=0.25)->通过共享苦难来增强灵魂与精神</li>
+    <li>speechtopic(p=0.25)->通过忍受来证明自己的虔诚</li>
+    <li>speechtopic(p=0.25)->拒绝舒适带来的软弱</li>
+    <li>speechtopic(p=0.25)->隐藏在[AdjectivePain]的苦痛中的神圣教诲</li>
+    <li>AdjectivePain->神圣</li>
+    <li>AdjectivePain->灼热</li>
+    <li>AdjectivePain->刺痛</li>
+    <li>AdjectivePain->苦修</li>
+    <li>AdjectivePain->净化</li>
+    <li>PainSymbol->鞭子</li>
+    <li>PainSymbol->疤痕</li>
+    <li>PainSymbol->伤口</li>
+  </AM_Speech_Flagellation.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: flagellation rhetoric -->
+  <AM_Speech_Flagellation_Flagellant.label>鞭笞祷辞</AM_Speech_Flagellation_Flagellant.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]. [argh]</li>
+    <li>speechtopic->the [AdjectivePain] pain they endure</li>
+    <li>speechtopic->how pain makes them stronger</li>
+    <li>speechtopic->how suffering proves their devotion</li>
+    <li>speechtopic->the scars they will bear after the ritual</li>
+    <li>speechtopic->how they welcome the pain</li>
+    <li>speechtopic->how comfort has no place in a faithful life</li>
+    <li>speechtopic->the strength they find in suffering</li>
+    <li>argh->"Agh!"</li>
+    <li>argh->"Ghn!"</li>
+    <li>argh->"Nngh!"</li>
+    <li>argh->"Hrrgh!"</li>
+    <li>argh->"Aaargh!"</li>
+    <li>argh->"It hurts!"</li>
+    <li>argh->"More!"</li>
+    <li>speechtopic(p=0.25)->their devotion to the ideals of [IDEO_name]</li>
+    <li>speechtopic(p=0.25)->how they will carry these scars with pride</li>
+    <li>speechtopic(p=0.25)->how they refuse to fear pain</li>
+    <li>speechtopic(p=0.25)->how they are grateful for this suffering</li>
+    <li>AdjectivePain->sacred</li>
+    <li>AdjectivePain->searing</li>
+    <li>AdjectivePain->piercing</li>
+    <li>AdjectivePain->agonizing</li>
+    <li>AdjectivePain->purifying</li>
+  -->
+  <AM_Speech_Flagellation_Flagellant.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。[argh]</li>
+    <li>speechtopic->他们忍受的[AdjectivePain]的苦痛</li>
+    <li>speechtopic->苦痛是如何让他们变得更强大的</li>
+    <li>speechtopic->苦难是如何证明他们的虔诚的</li>
+    <li>speechtopic->仪式后他们将留下疤痕</li>
+    <li>speechtopic->他们是如何欢迎苦痛的</li>
+    <li>speechtopic->舒适在虔诚的生活中没有位置</li>
+    <li>speechtopic->他们在苦难中找到的力量</li>
+    <li>argh->“啊！”</li>
+    <li>argh->“咕啊！”</li>
+    <li>argh->“呃啊！”</li>
+    <li>argh->“哼啊！”</li>
+    <li>argh->“啊啊啊！”</li>
+    <li>argh->“疼死了！”</li>
+    <li>argh->“还不够疼！再来！”</li>
+    <li>speechtopic(p=0.25)->他们对[IDEO_name]理想的虔诚</li>
+    <li>speechtopic(p=0.25)->他们是如何自豪地带着这些疤痕的</li>
+    <li>speechtopic(p=0.25)->他们是如何拒绝惧怕苦痛的</li>
+    <li>speechtopic(p=0.25)->他们是如何感激这种苦难的</li>
+    <li>AdjectivePain->神圣</li>
+    <li>AdjectivePain->灼热</li>
+    <li>AdjectivePain->刺痛</li>
+    <li>AdjectivePain->苦修</li>
+    <li>AdjectivePain->净化</li>
+  </AM_Speech_Flagellation_Flagellant.logRulesInitiator.rulesStrings>
+
+  <!-- EN: heart extraction speech -->
+  <AM_Speech_HeartExtraction.label>挖心祭祀演讲</AM_Speech_HeartExtraction.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
+    <li>speechtopic->the sacred heart and its gift to the heavens</li>
+    <li>speechtopic->the life-giving power of blood</li>
+    <li>speechtopic->the journey of the heart to the heavens</li>
+    <li>speechtopic->the hunger of the sun</li>
+    <li>speechtopic->the sacred bond between blood and life</li>
+    <li>speechtopic->the heart as the seat of life</li>
+    <li>speechtopic->the price of keeping the sun alive</li>
+    <li>speechtopic->the eternal cycle of death and renewal</li>
+    <li>speechtopic->the offering of the heart</li>
+    <li>speechtopic->the sacred path from flesh to heaven</li>
+    <li>speechtopic->the red river that sustains the world</li>
+    <li>speechtopic->the beating heart beneath the ribs</li>
+    <li>crazy->screamed a prayer towards the heavens</li>
+    <li>crazy->broke into a fevered chant</li>
+    <li>crazy->chanted wildly to the sun</li>
+    <li>crazy->pressed a hand against the sacrifice's chest</li>
+    <li>crazy->cackled as they invoked the heavens</li>
+    <li>crazy->brandished the sacrificial blade</li>
+    <li>crazy->muttered prayers over and over</li>
+  -->
+  <AM_Speech_HeartExtraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef][crazy]。</li>
+    <li>speechtopic->神圣的心脏及其献给天堂的礼物</li>
+    <li>speechtopic->血液赋予生命的力量</li>
+    <li>speechtopic->心脏通往天堂的旅程</li>
+    <li>speechtopic->太阳的饥渴</li>
+    <li>speechtopic->血液与生命之间的神圣纽带</li>
+    <li>speechtopic->心脏作为生命之座</li>
+    <li>speechtopic->维系太阳存活的代价</li>
+    <li>speechtopic->死亡与重生的永恒循环</li>
+    <li>speechtopic->心脏的献祭</li>
+    <li>speechtopic->从血肉通往天堂的神圣之路</li>
+    <li>speechtopic->维系世界的红色河流</li>
+    <li>speechtopic->肋骨之下跳动的心脏</li>
+    <li>crazy->向天堂尖声祈祷</li>
+    <li>crazy->陷入狂热的吟诵</li>
+    <li>crazy->对着太阳疯狂念咒</li>
+    <li>crazy->将一只手按在祭品的胸膛上</li>
+    <li>crazy->在呼唤天堂时发出咯咯怪笑</li>
+    <li>crazy->挥舞着献祭之刃</li>
+    <li>crazy->一遍又一遍地低语祈祷</li>
+  </AM_Speech_HeartExtraction.logRulesInitiator.rulesStrings>
+
+</LanguageData>

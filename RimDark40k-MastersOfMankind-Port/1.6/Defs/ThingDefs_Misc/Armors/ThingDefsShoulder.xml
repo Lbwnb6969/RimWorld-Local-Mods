@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Abstract="true" Name="GW_Rulers_ShoulderBase" ParentName="ArmorMachineableBase">
+    <techLevel>Spacer</techLevel>
+    <!-- These recipes should use autoforging and cant use the usual recipe maker -->
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef> -->
+    <!-- <skillRequirements> -->
+    <!-- <Crafting>20</Crafting> -->
+    <!-- </skillRequirements> -->
+    <!-- <recipeUsers Inherit="false"> -->
+    <!-- <li>GW_Autoforge</li> -->
+    <!-- </recipeUsers> -->
+    <!-- </recipeMaker> -->
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconScale>1.6</uiIconScale>
+    <equippedStatOffsets>
+      <PawnBeauty>50</PawnBeauty>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>ApparelArmor</li>
+    </thingCategories>
+    <apparel>
+      <drawData>
+        <defaultData>
+          <layer>75</layer>
+          <!--70-77 is over helmet and under gun-->
+        </defaultData>
+        <dataNorth>
+          <layer>75</layer>
+          <!--70-77 is over helmet and under gun-->
+          <offset>(0,0.1,0)</offset>
+        </dataNorth>
+        <scale>0.9</scale>
+        <childScale>1.0</childScale>
+      </drawData>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <bodyPartGroups>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li MayRequire="ceteam.combatextended">Hands</li>
+      </bodyPartGroups>
+      <layers>
+        <li>GW_Shoulder</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+        <li>PrestigeCombatGear</li>
+      </defaultOutfitTags>
+    </apparel>
+    <modExtensions>
+      <li Class="CombatExtended.PartialArmorExt" MayRequire="ceteam.combatextended">
+        <stats>
+          <li>
+            <ArmorRating_Sharp>0.8</ArmorRating_Sharp>
+            <parts>
+              <li>Hand</li>
+            </parts>
+          </li>
+          <li>
+            <ArmorRating_Blunt>0.8</ArmorRating_Blunt>
+            <parts>
+              <li>Hand</li>
+            </parts>
+          </li>
+        </stats>
+      </li>
+      <li Class="VEF.Apparels.ApparelExtension">
+        <isUnifiedApparel>true</isUnifiedApparel>
+        <hideHead>false</hideHead>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_ShoulderBase">
+    <defName>GW_Rulers_EmperorShoulderW</defName>
+    <label>One True Armor shoulders (W)</label>
+    <description>The shoulder plates of the One True Armor, decorated with the motifs of majestic eagles. \n\nThe Emperor wore Power Armor just like this through the Great Crusade and the Horus Heresy - including the final duel against the Arch-Traitor Horus aboard the &lt;i&gt;Vengeful Spirit&lt;/i&gt;. There, exhausted and mortally-wounded, he slew what remained of his son with the Athame dagger... or, perhaps, it was an act of mercy. \n\nWhatever the case, the Traitor forces collapsed with the loss of their leader, and the Loyalists hounded them all the way to the Eye of Terror - but the damage was done.</description>
+    <graphicData>
+      <texPath>Emperor/Shoulders/GW_HRM_Emperor_ShouldersW</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>480</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>3</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>0.60</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.45</ArmorRating_Heat>
+      <Insulation_Cold>10</Insulation_Cold>
+      <Insulation_Heat>5</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MentalBreakThreshold>-0.1</MentalBreakThreshold>
+      <PainShockThreshold>0.2</PainShockThreshold>
+    </equippedStatOffsets>
+    <costList>
+      <Plasteel>360</Plasteel>
+      <Gold>162</Gold>
+      <Uranium>100</Uranium>
+    </costList>
+    <apparel>
+      <wornGraphicPath>Emperor/Shoulders/GW_HRM_Emperor_ShouldersW</wornGraphicPath>
+      <tags>
+        <li>GW_Custodes</li>
+        <li>GW_CustodesGuard</li>
+      </tags>
+      <drawData>
+        <scale>1.2</scale>
+      </drawData>
+    </apparel>
+    <comps></comps>
+    <modExtensions>
+      <li Class="RimDark.MastersOfMankind.DefModExtension_ApparelRestriction">
+        <isRestrictStat>true</isRestrictStat>
+        <statDef>PsychicSensitivity</statDef>
+        <reqMode>GreaterEqual</reqMode>
+        <value>1.4</value>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_ShoulderBase">
+    <defName>GW_Rulers_EmperorShoulder</defName>
+    <label>One True Armor shoulders</label>
+    <description>The shoulder plates of the One True Armor, decorated with the motifs of majestic eagles. \n\nThe Emperor wore Power Armor just like this through the Great Crusade and the Horus Heresy - including the final duel against the Arch-Traitor Horus aboard the &lt;i&gt;Vengeful Spirit&lt;/i&gt;. There, exhausted and mortally-wounded, he slew what remained of his son with the Athame dagger... or, perhaps, it was an act of mercy. \n\nWhatever the case, the Traitor forces collapsed with the loss of their leader, and the Loyalists hounded them all the way to the Eye of Terror - but the damage was done.</description>
+    <graphicData>
+      <texPath>Emperor/Shoulders/GW_HRM_Emperor_ShouldersC</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>480</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>3</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>0.60</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.45</ArmorRating_Heat>
+      <Insulation_Cold>10</Insulation_Cold>
+      <Insulation_Heat>5</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MentalBreakThreshold>-0.1</MentalBreakThreshold>
+      <PainShockThreshold>0.2</PainShockThreshold>
+    </equippedStatOffsets>
+    <costList>
+      <Plasteel>360</Plasteel>
+      <Gold>162</Gold>
+      <Uranium>100</Uranium>
+    </costList>
+    <apparel>
+      <wornGraphicPath>Emperor/Shoulders/GW_HRM_Emperor_ShouldersC</wornGraphicPath>
+      <tags>
+        <li>GW_Custodes</li>
+        <li>GW_CustodesGuard</li>
+      </tags>
+      <drawData>
+        <scale>1.2</scale>
+      </drawData>
+    </apparel>
+    <comps></comps>
+    <modExtensions>
+      <li Class="RimDark.MastersOfMankind.DefModExtension_ApparelRestriction">
+        <isRestrictStat>true</isRestrictStat>
+        <statDef>PsychicSensitivity</statDef>
+        <reqMode>GreaterEqual</reqMode>
+        <value>1.4</value>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_ShoulderBase">
+    <defName>GW_Rulers_ValdorShoulderW</defName>
+    <label>Corinthine Warplate shoulders (W)</label>
+    <description>The auramite shoulder pauldrons of the Corinthine Warplate, gleaming in its splendor. \n\nConstantin Valdor fought valiantly in defense of Terra, boarding the &lt;i&gt;Vengeful Spirit&lt;/i&gt; but becoming separated from the Emperor in a trap. Assailed by First Captain Ezekyle Abaddon of the Sons of Horus, he duelled the Traitor Marine and managed to cut him with the Apollonian Spear. However, as the Spear gave him an insight into the next ten thousand years of war and destruction, the horrified Captain-General named Abaddon "the Despoiler" - a title that the latter has used ever since.</description>
+    <graphicData>
+      <texPath>Valdor/Shoulders/GW_HRM_Valdor_ShouldersW</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>480</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>3</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>0.60</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.45</ArmorRating_Heat>
+      <Insulation_Cold>10</Insulation_Cold>
+      <Insulation_Heat>5</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MentalBreakThreshold>-0.1</MentalBreakThreshold>
+      <PainShockThreshold>0.2</PainShockThreshold>
+    </equippedStatOffsets>
+    <costList>
+      <Plasteel>370</Plasteel>
+      <Gold>140</Gold>
+      <Uranium>150</Uranium>
+      <Skull>1</Skull>
+    </costList>
+    <apparel>
+      <wornGraphicPath>Valdor/Shoulders/GW_HRM_Valdor_ShouldersW</wornGraphicPath>
+      <tags>
+        <li>GW_Custodes</li>
+      </tags>
+      <drawData>
+        <scale>1.3</scale>
+      </drawData>
+    </apparel>
+    <comps></comps>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_ShoulderBase">
+    <defName>GW_Rulers_ValdorShoulder</defName>
+    <label>Corinthine Warplate shoulders</label>
+    <description>The auramite shoulder pauldrons of the Corinthine Warplate, gleaming in its splendor. \n\nConstantin Valdor fought valiantly in defense of Terra, boarding the &lt;i&gt;Vengeful Spirit&lt;/i&gt; but becoming separated from the Emperor in a trap. Assailed by First Captain Ezekyle Abaddon of the Sons of Horus, he duelled the Traitor Marine and managed to cut him with the Apollonian Spear. However, as the Spear gave him an insight into the next ten thousand years of war and destruction, the horrified Captain-General named Abaddon "the Despoiler" - a title that the latter has used ever since.</description>
+    <graphicData>
+      <texPath>Valdor/Shoulders/GW_HRM_Valdor_ShouldersC</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>480</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>3</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>0.60</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.45</ArmorRating_Heat>
+      <Insulation_Cold>10</Insulation_Cold>
+      <Insulation_Heat>5</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MentalBreakThreshold>-0.1</MentalBreakThreshold>
+      <PainShockThreshold>0.2</PainShockThreshold>
+    </equippedStatOffsets>
+    <costList>
+      <Plasteel>370</Plasteel>
+      <Gold>140</Gold>
+      <Uranium>150</Uranium>
+      <Skull>1</Skull>
+    </costList>
+    <apparel>
+      <wornGraphicPath>Valdor/Shoulders/GW_HRM_Valdor_ShouldersC</wornGraphicPath>
+      <tags>
+        <li>GW_Custodes</li>
+      </tags>
+      <drawData>
+        <scale>1.3</scale>
+      </drawData>
+    </apparel>
+    <comps></comps>
+  </ThingDef>
+</Defs>

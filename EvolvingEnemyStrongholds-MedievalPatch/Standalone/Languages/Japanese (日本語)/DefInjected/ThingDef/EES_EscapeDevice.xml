@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_EscapeDevice.label>緊急脱出装置</EES_EscapeDevice.label>
+  <EES_EscapeDevice.description>偵察者または工作員が逃走に失敗した際、自動的に使用される。着用者が所持している限り、捕縛や死亡を必ず防ぐが、負傷はあり得る。こんな物をどうやって持ち歩くのかって? まあ、方法はいくらでもあるものだ。</EES_EscapeDevice.description>
+</LanguageData>

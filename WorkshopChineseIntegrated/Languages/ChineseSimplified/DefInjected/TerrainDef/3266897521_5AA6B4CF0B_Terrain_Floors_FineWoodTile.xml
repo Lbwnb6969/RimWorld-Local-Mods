@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burned wood floor -->
+  <RB_BurnedFineWoodPlankFloor.label>被烧毁的精致木地板</RB_BurnedFineWoodPlankFloor.label>
+  <!-- EN: Burned-out fine wood plank flooring. -->
+  <RB_BurnedFineWoodPlankFloor.description>被烧毁的精致木地板。</RB_BurnedFineWoodPlankFloor.description>
+  
+  <!-- EN: fine wood floor -->
+  <RB_FinePlankWood.label>精致木地板</RB_FinePlankWood.label>
+  <!-- EN: Exquisite wooden tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+  <RB_FinePlankWood.description>精美的木制地板，毫不妥协地制作，用来表现地位。铺设缓慢。</RB_FinePlankWood.description>
+  
+</LanguageData>

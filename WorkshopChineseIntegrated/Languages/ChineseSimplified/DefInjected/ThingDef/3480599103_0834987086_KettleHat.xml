@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kettle hat -->
+  <TA_KettleHat.label>壶盔</TA_KettleHat.label>
+  <!-- EN: Simple steel helmet with a wide brim, protects face from overhead blows while leaving good visibility. -->
+  <TA_KettleHat.description>带有宽边的简易钢盔，能防护来自上方的打击同时保持良好的视野。</TA_KettleHat.description>
+  
+</LanguageData>

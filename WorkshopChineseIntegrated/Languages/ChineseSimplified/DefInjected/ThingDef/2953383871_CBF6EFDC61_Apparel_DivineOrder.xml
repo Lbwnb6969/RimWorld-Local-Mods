@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crusader armor -->
+  <BotchJob_CrusaderArmor.label>十字军盔甲</BotchJob_CrusaderArmor.label>
+  <!-- EN: An exquisite set of armor draped in runeweave, bestowed upon those that survive the trails of the exalted and become crusaders of the divine order.\n\nBy the power of a sacred tablet, this armor has received a blessing and will improve the melee proficiency of the wearer. -->
+  <BotchJob_CrusaderArmor.description>一套华丽的盔甲，用符文编织而成，授予那些在崇高的考验中幸存并晋升为神圣秩序十字军的人。\n\n凭藉神圣的牌匾之力，这套盔甲得到了祝福，并将提高佩戴者的近战熟练度。</BotchJob_CrusaderArmor.description>
+  
+  <!-- EN: crusader helmet -->
+  <BotchJob_CrusaderHelmet.label>十字军头盔</BotchJob_CrusaderHelmet.label>
+  <!-- EN: An exquisite plate helmet draped in runeweave, bestowed upon those that survive the trails of the exalted and become crusaders of the divine order.\n\nBy the power of a sacred tablet, this helmet has received a blessing and will improve the melee proficiency of the wearer. -->
+  <BotchJob_CrusaderHelmet.description>一顶悬挂符文织物的精美板甲头盔，赋予那些经受过崇高试炼并晋升神圣秩序十字军的人。\n\n凭藉一块神圣的碑文之力，这顶头盔得到了祝福，并将提升佩戴者的近战熟练度。</BotchJob_CrusaderHelmet.description>
+  
+  <!-- EN: divine order breastplate -->
+  <BotchJob_DivineOrderBreastplate.label>神圣秩序胸甲</BotchJob_DivineOrderBreastplate.label>
+  <!-- EN: A sturdy, metal breastplate that can be worn underneath cloaks and similar apparel.\n\nHowever, it only provides protection to the torso and slows the wearer down slightly. -->
+  <BotchJob_DivineOrderBreastplate.description>一件坚固的金属胸甲，可穿在披风和类似服饰下。\n\n然而，它只对躯干提供保护，并稍微减慢穿戴者的速度。</BotchJob_DivineOrderBreastplate.description>
+  
+  <!-- EN: divine order breeches -->
+  <BotchJob_DivineOrderBreeches.label>神圣秩序长裤</BotchJob_DivineOrderBreeches.label>
+  <!-- EN: A standard pair of breeches made from fabric or leather. -->
+  <BotchJob_DivineOrderBreeches.description>一件由织物或皮革制成的标准长裤。</BotchJob_DivineOrderBreeches.description>
+  
+  <!-- EN: divine order cloak -->
+  <BotchJob_DivineOrderCloak.label>神圣秩序披风</BotchJob_DivineOrderCloak.label>
+  <!-- EN: A thick cloak made from fabric or leather.\n\nIt is usually worn over other clothes, offers a small amount of physical protection aswell as some protection from the elements. -->
+  <BotchJob_DivineOrderCloak.description>由织物或皮革制成的厚披风。\n\n通常穿在其他衣物上，提供一定的物理保护和一定程度的防护。</BotchJob_DivineOrderCloak.description>
+  
+  <!-- EN: divine order cowled helmet -->
+  <BotchJob_DivineOrderCowledHelmet.label>神圣秩序罩兜头盔</BotchJob_DivineOrderCowledHelmet.label>
+  <!-- EN: A thick leather cowl covered by a light helmet.\n\nIt offers a decent amount of protection and insulation without impeding head movement or vision. -->
+  <BotchJob_DivineOrderCowledHelmet.description>由轻型头盔覆盖的厚实皮革兜帽。\n\n提供相当程度的防护和保暖效果，而不妨碍头部活动或视野。</BotchJob_DivineOrderCowledHelmet.description>
+
+  <BotchJob_DivineOrderFurHood.label>神圣秩序毛皮兜帽</BotchJob_DivineOrderFurHood.label>
+  <BotchJob_DivineOrderFurHood.description>一件厚实的毛皮内衬兜帽。\n\n提供少量的物理保护及良好保暖效果。</BotchJob_DivineOrderFurHood.description>
+
+
+  <!-- EN: divine order fur cloak -->
+  <BotchJob_DivineOrderFurCloak.label>神圣秩序毛皮披风</BotchJob_DivineOrderFurCloak.label>
+  <!-- EN: A long fur cloak. It offers a small amount of physical protection and insulates from the cold very well. -->
+  <BotchJob_DivineOrderFurCloak.description>一件长毛皮披风。提供一定的物理保护及保暖效果。</BotchJob_DivineOrderFurCloak.description>
+  
+  <!-- EN: divine order hood -->
+  <BotchJob_DivineOrderHood.label>神圣秩序兜帽</BotchJob_DivineOrderHood.label>
+  <!-- EN: A thick hood made from fabric or leather.\n\nIt offers a small amount of physical protection aswell as some protection from the elements. -->
+  <BotchJob_DivineOrderHood.description>由织物或皮革制成的厚兜帽。\n\n提供一定的物理保护和一定程度的防护。</BotchJob_DivineOrderHood.description>
+  
+  <!-- EN: divine order light helmet -->
+  <BotchJob_DivineOrderLightHelmet.label>神圣秩序轻型头盔</BotchJob_DivineOrderLightHelmet.label>
+  <!-- EN: A light plate helmet forged in the style of the divine order.\n\nIt doesn't offer as much protection as a full helmet and leaves the lower head exposed but requires less resources to craft and doesn't restrict vision. -->
+  <BotchJob_DivineOrderLightHelmet.description>一顶风格独特的轻型板甲头盔。\n\n它的防护能力不如全面头盔，但制作所需资源较少，不限制视野。</BotchJob_DivineOrderLightHelmet.description>
+  
+  <!-- EN: divine order merchant's hat -->
+  <BotchJob_DivineOrderMerchantHat.label>神圣秩序商人帽</BotchJob_DivineOrderMerchantHat.label>
+  <!-- EN: A fancy hat adorned with jewellery, favoured by merchants of the divine order.\n\nIt provides a boost to buying and selling prices when trading. -->
+  <BotchJob_DivineOrderMerchantHat.description>一顶装饰有珠宝的时尚帽，是神圣秩序的商人们喜爱的帽子。\n\n在交易时提供买卖价格的提升。</BotchJob_DivineOrderMerchantHat.description>
+  
+  <!-- EN: divine order light helmet -->
+  <BotchJob_DivineOrderOpenHelmet.label>神圣秩序开放式头盔</BotchJob_DivineOrderOpenHelmet.label>
+  <!-- EN: An open-faced plate helmet forged in the style of the divine order.\n\nIt offers a generous amount of protection and doesn't restrict vision but leaves the lower face exposed. -->
+  <BotchJob_DivineOrderOpenHelmet.description>一顶风格独特的开放式板甲头盔。\n\n提供大量的防护并不限制视野，但下半部脸部暴露在外。</BotchJob_DivineOrderOpenHelmet.description>
+  
+  <!-- EN: divine order plate armor -->
+  <BotchJob_DivineOrderPlateArmor.label>神圣秩序连身板甲</BotchJob_DivineOrderPlateArmor.label>
+  <!-- EN: A full set of heavy plate armor forged in the style of the divine order.\n\nCovers the entire body, providing a substantial amount of protection and some insulation from cold, but slows the wearer down. -->
+  <BotchJob_DivineOrderPlateArmor.description>一套完整的重型连身板甲，风格独特，符合神圣秩序的制作标准。\n\n覆盖整个身体，提供相当程度的防护和一定的保暖效果，但会减慢穿戴者的速度。</BotchJob_DivineOrderPlateArmor.description>
+  
+  <!-- EN: divine order plate helmet -->
+  <BotchJob_DivineOrderPlateHelmet.label>神圣秩序板甲头盔</BotchJob_DivineOrderPlateHelmet.label>
+  <!-- EN: A sturdy, well made plate helmet forged in the style of the divine order that covers the whole head.\n\n It provides generous protection against sharp attacks but is ineffective against blunt weapons and restricts the wearer's field of vision. -->
+  <BotchJob_DivineOrderPlateHelmet.description>一顶风格独特的坚固板甲头盔，完全覆盖头部。\n\n对尖锐攻击提供很好的保护，但对钝器无效，并限制佩戴者的视野。</BotchJob_DivineOrderPlateHelmet.description>
+  
+  <!-- EN: divine order shield -->
+  <BotchJob_DivineOrderShield.label>神圣秩序盾牌</BotchJob_DivineOrderShield.label>
+  <!-- EN: A sturdy, reinforced shield that bears the insignia of the Divine Order. -->
+  <BotchJob_DivineOrderShield.description>一面坚固的加固盾牌，上面有神圣秩序的徽章。</BotchJob_DivineOrderShield.description>
+  <!-- EN: base -->
+  <BotchJob_DivineOrderShield.tools.base.label>底座</BotchJob_DivineOrderShield.tools.base.label>
+  <!-- EN: centre -->
+  <BotchJob_DivineOrderShield.tools.centre.label>中心</BotchJob_DivineOrderShield.tools.centre.label>
+  
+  <!-- EN: skirmisher armor -->
+  <BotchJob_DivineOrderSkirmisherArmor.label>游击者盔甲</BotchJob_DivineOrderSkirmisherArmor.label>
+  <!-- EN: Thick leather armor covered by a light breastplate.\n\nIt offers decent protection whilst allowing the wearer to remain light on their feet and provides a generous amount of insulation from both cold and heat. -->
+  <BotchJob_DivineOrderSkirmisherArmor.description>由轻型胸甲覆盖的厚实皮革盔甲。\n\n提供相当程度的防护，同时保持穿戴者灵活，并提供良好的保暖效果，使其对抗寒冷和炎热具备一定的能力。</BotchJob_DivineOrderSkirmisherArmor.description>
+  
+  <!-- EN: divine order tunic -->
+  <BotchJob_DivineOrderTunic.label>神圣秩序束腰外衣</BotchJob_DivineOrderTunic.label>
+  <!-- EN: A thick, padded tunic made from cloth or leather.\n\nIt can be worn on its own or under armor and provides a good amount of insulation against the cold. -->
+  <BotchJob_DivineOrderTunic.description>由布料或皮革制成的厚实垫肩外衣。\n\n可以单独穿着或穿在盔甲下面，提供良好的保暖效果。</BotchJob_DivineOrderTunic.description>
+  
+  <!-- EN: herald's helmet -->
+  <BotchJob_HeraldHelmet.label>传令官头盔</BotchJob_HeraldHelmet.label>
+  <!-- EN: An ornate plate helmet lined with runeweave, bestowed upon those that survive the trails of the exalted and become heralds of the divine order.\n\nBy the power of a sacred tablet, this helmet has recieved a blessing and will improve the casting proficiency of the wearer. -->
+  <BotchJob_HeraldHelmet.description>一顶华丽的板甲头盔，授予那些在崇高的考验中幸存并晋升神圣秩序传令官的人。\n\n凭藉神圣的牌匾之力，这顶头盔得到了祝福，并将提高佩戴者的施法熟练度。</BotchJob_HeraldHelmet.description>
+  
+  <!-- EN: herald robes -->
+  <BotchJob_HeraldRobes.label>传令官长袍</BotchJob_HeraldRobes.label>
+  <!-- EN: Sturdy armor covered by heavy ceremonial robes, bestowed upon those that survive the trails of the exalted and become inquisitors of the divine order.\n\nBy the power of a sacred tablet, these robes have received a blessing and will improve the casting proficiency of the wearer. -->
+  <BotchJob_HeraldRobes.description>坚固的盔甲覆盖着沉重的礼服长袍，授予那些在崇高的考验中幸存并晋升神圣秩序传令官的人。\n\n凭藉神圣的牌匾之力，这套长袍得到了祝福，并将提高穿戴者的施法熟练度。</BotchJob_HeraldRobes.description>
+  
+  <!-- EN: inquisitor garb -->
+  <BotchJob_InquisitorArmor.label>审判官服饰</BotchJob_InquisitorArmor.label>
+  <!-- EN: Finely crafted leather armor adorned with gold, bestowed upon those that survive the trails of the exalted and become inquisitors of the divine order.\n\nBy the power of a sacred tablet, this armor has received a blessing and will improve the shooting proficiency of the wearer. -->
+  <BotchJob_InquisitorArmor.description>精致的皮甲，镶有金饰，授予那些在崇高的考验中幸存并晋升神圣秩序审判官的人。\n\n凭藉神圣的牌匾之力，这套盔甲得到了祝福，并将提高佩戴者的射击熟练度。</BotchJob_InquisitorArmor.description>
+  
+  <!-- EN: inquisitor cloak -->
+  <BotchJob_InquisitorCloak.label>审判官斗篷</BotchJob_InquisitorCloak.label>
+  <!-- EN: A gold-trimmed cloak often worn by inquisitors of the divine order. -->
+  <BotchJob_InquisitorCloak.description>一件镶有金边的斗篷，通常由神圣秩序的审判官们穿戴。</BotchJob_InquisitorCloak.description>
+  
+  <!-- EN: inquisitor hat -->
+  <BotchJob_InquisitorHat.label>审判官帽子</BotchJob_InquisitorHat.label>
+  <!-- EN: A finely crafted leather hat adorned with gold, bestowed upon those that survive the trails of the exalted and become inquisitors of the divine order.\n\nBy the power of a sacred tablet, this hat has received a blessing and will improve the shooting proficiency of the wearer. -->
+  <BotchJob_InquisitorHat.description>一顶精致的皮帽，镶有金饰，授予那些在崇高的考验中幸存并晋升神圣秩序审判官的人。\n\n凭藉神圣的牌匾之力，这顶帽子得到了祝福，并将提高佩戴者的射击熟练度。</BotchJob_InquisitorHat.description>
+
+  <BotchJob_DivineOrderZealotRobes.label>神圣秩序狂信者长袍</BotchJob_DivineOrderZealotRobes.label>
+  <BotchJob_DivineOrderZealotRobes.description>一件镶有金饰的长袍。仅能提供少量的物理防护，绝缘良好。\n\n略为增加心灵敏感度，并能提高神经热降低速率。</BotchJob_DivineOrderZealotRobes.description>
+ 
+</LanguageData>

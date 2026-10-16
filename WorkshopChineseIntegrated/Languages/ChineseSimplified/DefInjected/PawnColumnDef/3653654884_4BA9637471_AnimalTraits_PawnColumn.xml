@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Traits -->
+  <AnimalTraits_TraitColumn.label>特性</AnimalTraits_TraitColumn.label>
+  <!-- EN: Special traits this animal has. Traits provide various stat bonuses or penalties. -->
+  <AnimalTraits_TraitColumn.headerTip>该动物的特性，特性对动物的数种属性会产生增益或减益。</AnimalTraits_TraitColumn.headerTip>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate home-cooked meal -->
+  <Tav_AteHomeCookedMeal.label>吃了家常食物</Tav_AteHomeCookedMeal.label>
+  <!-- EN: There's nothing quite like a warm, home-cooked meal made with care. -->
+  <Tav_AteHomeCookedMeal.description>没有什么是比一份精心烹饪的家常食物更能让人感到暖心的了。</Tav_AteHomeCookedMeal.description>
+  <!-- EN: home-cooked meal -->
+  <Tav_AteHomeCookedMeal.stages.homecooked_meal.label>家常食物</Tav_AteHomeCookedMeal.stages.homecooked_meal.label>
+  <!-- EN: I ate a delicious home-cooked meal. -->
+  <Tav_AteHomeCookedMeal.stages.homecooked_meal.description>我吃了一份美味的家常食物。</Tav_AteHomeCookedMeal.stages.homecooked_meal.description>
+  
+</LanguageData>

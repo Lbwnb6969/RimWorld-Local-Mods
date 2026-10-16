@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fire keeper -->
+  <VME_IdeoRole_FireKeeper.label>诵火者</VME_IdeoRole_FireKeeper.label>
+  <!-- EN: A keeper of sacred flame whose primary job is to control pyres, bonfires, and kilns. Respected unanimously by their disciples, they have no qualms extinguishing fires and followers will respect their decisions to do so. All Firekeepers possess the ability to ignite flame sources and cause an explosion. -->
+  <VME_IdeoRole_FireKeeper.description>负责看管圣火的守护者，其主要工作是举行火葬、管理篝火和窑炉。他是信徒们的仰慕者，即便毫无顾忌的扑灭火焰，信徒们也会尊重他这样做的决定。所有诵火者都拥有扩大火势并引发爆炸的能力。</VME_IdeoRole_FireKeeper.description>
+  
+</LanguageData>

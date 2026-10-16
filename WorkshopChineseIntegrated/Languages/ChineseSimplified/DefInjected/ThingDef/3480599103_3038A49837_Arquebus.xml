@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: matchlock arquebus -->
+  <TA_Arquebus.label>火绳枪</TA_Arquebus.label>
+  <!-- EN: . -->
+  <TA_Arquebus.description>早期火器，使用火绳点火发射。</TA_Arquebus.description>
+  <!-- EN: stock -->
+  <TA_Arquebus.tools.stock.label>枪托</TA_Arquebus.tools.stock.label>
+  <!-- EN: barrel -->
+  <TA_Arquebus.tools.barrel.label>枪管</TA_Arquebus.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <TA_Arquebus.tools.muzzle.label>枪口</TA_Arquebus.tools.muzzle.label>
+  <!-- EN: matchlock arquebus -->
+  <TA_Arquebus.verbs.Verb_ShootCE.label>火绳枪射击</TA_Arquebus.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crane -->
+  <VAERoy_Crane.label>鹤</VAERoy_Crane.label>
+  <!-- EN: A large, long legged bird species, cranes are a symbol of royalty and nobility and often populate royal gardens. It is believed that people of imperial rank will appreciate having plenty of cranes around them.\n\n<color=#E5E54C>Gameplay effect:</color> If you have at least 5 cranes under your control, any pawn with a nobility rank of any kind receives a +5 mood boost. -->
+  <VAERoy_Crane.description>美丽、优雅且腿长的大型基因工程禽类动物。鹤自古以来便被一些王朝视作“祥瑞之鸟”，它们也常常会在皇家园林中繁衍生息。有传言说，许多破碎帝国的王公贵戚们都喜欢在身边大量饲养这种赏心悦目的动物。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>当殖民地中饲养了5只以上的鹤时，任何拥有破碎帝国头衔的殖民者都将获得+5的心情增益。</VAERoy_Crane.description>
+  <!-- EN: claws -->
+  <VAERoy_Crane.tools.claws.label>爪</VAERoy_Crane.tools.claws.label>
+  <!-- EN: beak -->
+  <VAERoy_Crane.tools.beak.label>喙</VAERoy_Crane.tools.beak.label>
+  <!-- EN: head -->
+  <VAERoy_Crane.tools.head.label>头</VAERoy_Crane.tools.head.label>
+  
+</LanguageData>

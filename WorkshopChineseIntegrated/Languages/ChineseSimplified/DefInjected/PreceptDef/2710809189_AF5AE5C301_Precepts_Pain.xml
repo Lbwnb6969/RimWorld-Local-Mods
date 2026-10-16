@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: required -->
+  <AM_Pain_Required.label>必要</AM_Pain_Required.label>
+  <!-- EN: To endure nerve-shattering pain is to prove my strength and moral worth. Avoiding it is a sign of weakness. -->
+  <AM_Pain_Required.description>忍受刻骨铭心的痛苦才能证明我们的力量与道德价值。逃避它是软弱的行为。</AM_Pain_Required.description>
+  <!-- EN: Pain -->
+  <AM_Pain_Required.comps.0.description>疼痛</AM_Pain_Required.comps.0.description>
+  <!-- EN: No pain (masochist trait) -->
+  <AM_Pain_Required.comps.1.description>缺少疼痛（受虐狂特性）</AM_Pain_Required.comps.1.description>
+  
+</LanguageData>

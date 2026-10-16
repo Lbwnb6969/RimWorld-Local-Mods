@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gonczy Polski -->
+  <BA_GonczyPolski.label>波兰猎犬</BA_GonczyPolski.label>
+  <!-- EN: The Gonczy Polski, also known as the Polish Hound or the Polish Hunting Dog, is a rare breed of scent hound indigenous to Poland. Prized for its stability, resilience, and minimal maintenance requirements.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_GonczyPolski.description>波兰猎犬（又称波兰猎鹬犬或波兰狩猎犬）是一种原产于波兰的稀有嗅觉猎犬品种。该品种以其稳定性强、适应性好且维护需求低的特点而备受珍视。</BA_GonczyPolski.description>
+  <!-- EN: left claw -->
+  <BA_GonczyPolski.tools.left_claw.label>左爪</BA_GonczyPolski.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <BA_GonczyPolski.tools.right_claw.label>右爪</BA_GonczyPolski.tools.right_claw.label>
+  <!-- EN: bite -->
+  <BA_GonczyPolski.tools.bite.label>咬击</BA_GonczyPolski.tools.bite.label>
+  <!-- EN: head -->
+  <BA_GonczyPolski.tools.head.label>头部</BA_GonczyPolski.tools.head.label>
+  
+</LanguageData>

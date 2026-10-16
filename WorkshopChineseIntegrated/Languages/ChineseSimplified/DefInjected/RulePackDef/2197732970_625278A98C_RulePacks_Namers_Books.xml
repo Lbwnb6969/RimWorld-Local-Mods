@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desc->[Newspapers] of [nearnameinitial] [political_union_outlander] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.0>desc->[nearnameinitial][political_union_outlander][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.0>
+  <!-- EN: desc->[Newspapers] of [nearnameinitial] [political_adjective] [political_union_outlander] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.1>desc->[nearnameinitial][political_union_outlander][political_adjective][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.1>
+  <!-- EN: desc->[Newspapers] of [political_union_outlander] of [nearnameinitial] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.2>desc->[nearnameinitial]的[political_union_outlander][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.2>
+  <!-- EN: desc->[PeopleBadass]'s [Newspapers] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.3>desc->[PeopleBadass][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.3>
+  <!-- EN: desc->[Newspapers] of [PlaceOutlander] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.4>desc->[PlaceOutlander][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.4>
+  <!-- EN: desc->[Newspapers] of [Direction] [PlaceOutlander] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.5>desc->[Direction][PlaceOutlander][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.5>
+  <!-- EN: desc->[Newspapers] [Digit] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.6>desc->[Newspapers][Digit]</ArtDescription_Newspaper.rulePack.rulesStrings.6>
+  <!-- EN: desc->[Newspapers] [maybe_letter][Digit][maybe_letter] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.7>desc->[Newspapers][maybe_letter][Digit][maybe_letter]</ArtDescription_Newspaper.rulePack.rulesStrings.7>
+  <!-- EN: desc->[Newspapers] [maybe_letter][Digit][Digit][maybe_letter] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.8>desc->[Newspapers][maybe_letter][Digit][Digit][maybe_letter]</ArtDescription_Newspaper.rulePack.rulesStrings.8>
+  <!-- EN: desc->[Newspapers] [maybe_letter][Digit][Digit][Digit][maybe_letter] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.9>desc->[Newspapers][maybe_letter][Digit][Digit][Digit][maybe_letter]</ArtDescription_Newspaper.rulePack.rulesStrings.9>
+  <!-- EN: desc->[Newspapers] [maybe_letter][RomanNumeral][maybe_letter] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.10>desc->[Newspapers][maybe_letter][RomanNumeral][maybe_letter]</ArtDescription_Newspaper.rulePack.rulesStrings.10>
+  <!-- EN: desc->[ANYPAWN_nameIndef]'s [Newspapers] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.11>desc->[ANYPAWN_nameIndef][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.11>
+  <!-- EN: title->[desc] -->
+  <ArtDescription_Newspaper.rulePack.rulesStrings.12>title->[desc]</ArtDescription_Newspaper.rulePack.rulesStrings.12>
+  
+  <!-- EN: desc->This newspaper goes indepth about the events of the last couple of days. -->
+  <ArtDescription_NewspaperDesc.rulePack.rulesStrings.0>desc->这份报纸深入报道了过去几天发生的事件。</ArtDescription_NewspaperDesc.rulePack.rulesStrings.0>
+  
+</LanguageData>

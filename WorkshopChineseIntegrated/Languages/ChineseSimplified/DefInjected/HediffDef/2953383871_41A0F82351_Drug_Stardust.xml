@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_High_Stardust.label>星尘粉亢奋</DankPyon_High_Stardust.label>
+  <DankPyon_High_Stardust.description>星尘粉的成分经由血液输送到全身，它能大大提高借由冥想所获得的精神力力。</DankPyon_High_Stardust.description>
+  <DankPyon_High_Stardust.labelNoun>星尘粉亢奋</DankPyon_High_Stardust.labelNoun>
+
+  <DankPyon_Addiction_Stardust.label>星尘粉成瘾</DankPyon_Addiction_Stardust.label>
+  <DankPyon_Addiction_Stardust.description>星尘粉的化学成瘾。长期吸食星尘粉会造成细胞内的神经适应，导致大脑没有星尘粉的话就无法运作。</DankPyon_Addiction_Stardust.description>
+  <DankPyon_Addiction_Stardust.stages.1.label>戒断</DankPyon_Addiction_Stardust.stages.1.label>
+
+  <DankPyon_Tolerance_Stardust.label>星尘粉耐受</DankPyon_Tolerance_Stardust.label>
+  <DankPyon_Tolerance_Stardust.description>对星尘粉的耐受性。耐受性越严重，达到同样效果所需要摄入的星尘粉也就越多。</DankPyon_Tolerance_Stardust.description>
+  <DankPyon_Tolerance_Stardust.stages.small.label>轻微</DankPyon_Tolerance_Stardust.stages.small.label>
+  <DankPyon_Tolerance_Stardust.stages.large.label>强烈</DankPyon_Tolerance_Stardust.stages.large.label>
+  <DankPyon_Tolerance_Stardust.stages.massive.label>极强</DankPyon_Tolerance_Stardust.stages.massive.label>
+
+</LanguageData>

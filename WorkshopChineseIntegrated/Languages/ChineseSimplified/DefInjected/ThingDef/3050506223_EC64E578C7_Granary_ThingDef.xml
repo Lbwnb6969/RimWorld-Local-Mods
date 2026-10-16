@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Granary -->
+  <ASF_Granary.label>简易粮仓</ASF_Granary.label>
+  <!-- EN: A granary for keeping food dry. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nTotal Capacity: 54 Stacks -->
+  <ASF_Granary.description>用于储存食物并保持其干燥的简易粮仓。存放在里面的物品永远不会老化，也不会影响周围环境的美观度。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：54组\n【可储存类型】：生食，植物原材料</ASF_Granary.description>
+  
+</LanguageData>

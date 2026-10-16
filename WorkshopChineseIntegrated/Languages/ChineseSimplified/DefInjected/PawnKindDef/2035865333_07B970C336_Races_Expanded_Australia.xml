@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boombat -->
+  <AEXP_Boombat.label>爆炸袋熊</AEXP_Boombat.label>
+  
+  <!-- EN: kangaroo -->
+  <AEXP_Kangaroo.label>袋鼠</AEXP_Kangaroo.label>
+  
+  <!-- EN: koala -->
+  <AEXP_Koala.label>树熊</AEXP_Koala.label>
+  
+  <!-- EN: platypus -->
+  <AEXP_Platypus.label>鸭嘴兽</AEXP_Platypus.label>
+  
+</LanguageData>

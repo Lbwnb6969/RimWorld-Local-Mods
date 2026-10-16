@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was raised in the gilded halls of the palace as a sehzade. Surrounded by tutors, guards, and servants, [PAWN_pronoun] learned the arts of governance and poetry, yet remained untested in hardship.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sehzade_1.description>[PAWN_nameDef]作为塞扎德（王子）在宫殿的镀金大厅中长大。在导师、守卫与仆人的环绕下，[PAWN_pronoun]习得治国之道与诗歌艺术，却从未经历过苦难的考验。</BA_Turkic_Adult_Sehzade_1.description>
+  <!-- EN: Palace Prince -->
+  <BA_Turkic_Adult_Sehzade_1.title>宫廷塞扎德</BA_Turkic_Adult_Sehzade_1.title>
+  <!-- EN: Sehzade -->
+  <BA_Turkic_Adult_Sehzade_1.titleShort>塞扎德</BA_Turkic_Adult_Sehzade_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was sent as a sehzade to govern a frontier sanjak. Life away from the palace forced [PAWN_objective] to learn diplomacy, command, and the art of survival in harsh lands.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sehzade_2.description>[PAWN_nameDef]以塞扎德的身份被派往边境桑贾克（行政区划）执政。远离宫殿的生活迫使[PAWN_objective]学会了外交、指挥以及在艰苦土地上的生存之道。</BA_Turkic_Adult_Sehzade_2.description>
+  <!-- EN: Sanjak Sehzade -->
+  <BA_Turkic_Adult_Sehzade_2.title>桑贾克塞扎德</BA_Turkic_Adult_Sehzade_2.title>
+  <!-- EN: Sehzade -->
+  <BA_Turkic_Adult_Sehzade_2.titleShort>塞扎德</BA_Turkic_Adult_Sehzade_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] preferred books and calligraphy to the sword. While tutors trained [PAWN_objective] in mathematics, theology, and history, [PAWN_pronoun] avoided martial training whenever possible.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sehzade_3.description>[PAWN_nameDef]相较于刀剑，更偏爱书籍与书法。尽管导师教导[PAWN_objective]数学、神学与历史，[PAWN_pronoun]却总是尽可能回避军事训练。</BA_Turkic_Adult_Sehzade_3.description>
+  <!-- EN: Scholar Sehzade -->
+  <BA_Turkic_Adult_Sehzade_3.title>学者塞扎德</BA_Turkic_Adult_Sehzade_3.title>
+  <!-- EN: Sehzade -->
+  <BA_Turkic_Adult_Sehzade_3.titleShort>塞扎德</BA_Turkic_Adult_Sehzade_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rejected palace luxury and trained relentlessly with the janissaries and sipahis. [PAWN_pronoun] gained skill with the sword and bow, preparing for a claim to the throne through battle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sehzade_4.description>[PAWN_nameDef]摒弃宫殿的奢华，与耶尼切里士兵和西帕希骑兵一同刻苦训练。[PAWN_pronoun]练就了精湛的刀剑与弓箭技艺，准备通过战斗争夺王位。</BA_Turkic_Adult_Sehzade_4.description>
+  <!-- EN: Warrior Sehzade -->
+  <BA_Turkic_Adult_Sehzade_4.title>战士塞扎德</BA_Turkic_Adult_Sehzade_4.title>
+  <!-- EN: Sehzade -->
+  <BA_Turkic_Adult_Sehzade_4.titleShort>塞扎德</BA_Turkic_Adult_Sehzade_4.titleShort>
+  
+  <!-- EN: Political intrigue forced [PAWN_nameDef] into exile at a young age. Away from palace luxury, [PAWN_pronoun] learned resilience, cunning, and survival far from the court.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sehzade_5.description>政治阴谋迫使[PAWN_nameDef]年少时便流亡他乡。远离宫殿的奢华生活，[PAWN_pronoun]在远离宫廷的地方学会了坚韧、狡黠与生存之道。</BA_Turkic_Adult_Sehzade_5.description>
+  <!-- EN: Exiled Sehzade -->
+  <BA_Turkic_Adult_Sehzade_5.title>流亡塞扎德</BA_Turkic_Adult_Sehzade_5.title>
+  <!-- EN: Sehzade -->
+  <BA_Turkic_Adult_Sehzade_5.titleShort>塞扎德</BA_Turkic_Adult_Sehzade_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up tending goats and sheep in the hills. Long hours watching animals taught [PAWN_pronoun] patience, but little else.\n\n[PAWN_pronoun] prefers the company of animals over people.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_1.description>[PAWN_nameDef]在山间照看山羊和绵羊长大。长时间看管动物让[PAWN_pronoun]学会了耐心，却没学到太多其他技能。比起与人相处，[PAWN_pronoun]更偏爱动物的陪伴。</BA_Turkic_Basic_Child_1.description>
+  <!-- EN: Shepherd Child -->
+  <BA_Turkic_Basic_Child_1.title>牧羊孩童</BA_Turkic_Basic_Child_1.title>
+  <!-- EN: Shepherd -->
+  <BA_Turkic_Basic_Child_1.titleShort>牧羊童</BA_Turkic_Basic_Child_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood carrying water and supplies from rivers and wells, building stamina and endurance.\n\n[PAWN_pronoun] is strong but finds books tedious.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_10.description>[PAWN_nameDef]的童年都在从河流与水井运送水和物资中度过，练就了充沛的体力与耐力。[PAWN_pronoun]体格强壮，但觉得读书十分枯燥。</BA_Turkic_Basic_Child_10.description>
+  <!-- EN: Water Carrier -->
+  <BA_Turkic_Basic_Child_10.title>运水孩童</BA_Turkic_Basic_Child_10.title>
+  <!-- EN: Carrier -->
+  <BA_Turkic_Basic_Child_10.titleShort>运水工</BA_Turkic_Basic_Child_10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to hunt small game to feed the village. [PAWN_pronoun] developed patience, accuracy, and respect for nature.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_11.description>[PAWN_nameDef]学会了捕猎小型猎物为村庄提供食物。[PAWN_pronoun]培养出了耐心、精准度，以及对自然的敬畏之心。</BA_Turkic_Basic_Child_11.description>
+  <!-- EN: Village Hunter -->
+  <BA_Turkic_Basic_Child_11.title>村庄狩猎孩童</BA_Turkic_Basic_Child_11.title>
+  <!-- EN: Hunter -->
+  <BA_Turkic_Basic_Child_11.titleShort>小猎人</BA_Turkic_Basic_Child_11.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up tending orchards, learning the cycles of plants and the value of hard work.\n\n[PAWN_pronoun] is patient but physically weaker than others.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_12.description>[PAWN_nameDef]在照料果园的环境中长大，了解了植物的生长周期与辛勤劳作的价值。[PAWN_pronoun]极具耐心，但体格比其他人瘦弱。</BA_Turkic_Basic_Child_12.description>
+  <!-- EN: Orchard Child -->
+  <BA_Turkic_Basic_Child_12.title>果园孩童</BA_Turkic_Basic_Child_12.title>
+  <!-- EN: Gardener -->
+  <BA_Turkic_Basic_Child_12.titleShort>小园丁</BA_Turkic_Basic_Child_12.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped their family craft tools, weapons, or textiles. [PAWN_pronoun] is skilled with hands but not academically inclined.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_13.description>[PAWN_nameDef]帮助家人制作工具、武器或纺织品。[PAWN_pronoun]手工技艺娴熟，但对学术方面并不感兴趣。</BA_Turkic_Basic_Child_13.description>
+  <!-- EN: Craftsman's Child -->
+  <BA_Turkic_Basic_Child_13.title>工匠之子</BA_Turkic_Basic_Child_13.title>
+  <!-- EN: Apprentice -->
+  <BA_Turkic_Basic_Child_13.titleShort>学徒</BA_Turkic_Basic_Child_13.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood helping at a local bazaar, learning the art of negotiation and observation.\n\n[PAWN_pronoun] is social and persuasive but not strong.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_14.description>[PAWN_nameDef]的童年在当地集市帮忙度过，学会了谈判的技巧与观察的能力。[PAWN_pronoun]善于社交、极具说服力，但体格不强壮。</BA_Turkic_Basic_Child_14.description>
+  <!-- EN: Bazaar Child -->
+  <BA_Turkic_Basic_Child_14.title>集市孩童</BA_Turkic_Basic_Child_14.title>
+  <!-- EN: Trader -->
+  <BA_Turkic_Basic_Child_14.titleShort>小商贩</BA_Turkic_Basic_Child_14.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] listened to elders tell tales by the campfire, learning history and lore.\n\n[PAWN_pronoun] is intelligent and persuasive but lacks physical strength.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_15.description>[PAWN_nameDef]在篝火旁聆听长者讲述故事，了解历史与传说。[PAWN_pronoun]聪慧过人、善于言辞，但缺乏体力。</BA_Turkic_Basic_Child_15.description>
+  <!-- EN: Nomadic Storyteller -->
+  <BA_Turkic_Basic_Child_15.title>游牧故事孩童</BA_Turkic_Basic_Child_15.title>
+  <!-- EN: Storyteller -->
+  <BA_Turkic_Basic_Child_15.titleShort>小说书人</BA_Turkic_Basic_Child_15.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood learning the stories of the Oghuz heroes and epic battles, memorizing names, clans, and deeds.\n\n[PAWN_pronoun] is intelligent and perceptive but not physically strong.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_16.description>[PAWN_nameDef]的童年都在学习乌古斯英雄的故事与史诗战役，牢记英雄的名字、部落与事迹。[PAWN_pronoun]聪慧敏锐，但体格不强壮。</BA_Turkic_Basic_Child_16.description>
+  <!-- EN: Oghuz Lore Child -->
+  <BA_Turkic_Basic_Child_16.title>乌古斯传说孩童</BA_Turkic_Basic_Child_16.title>
+  <!-- EN: Storykeeper -->
+  <BA_Turkic_Basic_Child_16.titleShort>传说守护者</BA_Turkic_Basic_Child_16.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was fascinated by the stories of steppe falconers and hunted with birds from an early age, learning patience and precision.\n\n[PAWN_pronoun] enjoys nature and hunting over study.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_17.description>[PAWN_nameDef]被草原驯鹰师的故事深深吸引，从小就用猛禽狩猎，学会了耐心与精准。比起学习，[PAWN_pronoun]更热爱自然与狩猎。</BA_Turkic_Basic_Child_17.description>
+  <!-- EN: Falconry of the Steppes -->
+  <BA_Turkic_Basic_Child_17.title>草原驯鹰孩童</BA_Turkic_Basic_Child_17.title>
+  <!-- EN: Falconer -->
+  <BA_Turkic_Basic_Child_17.titleShort>小驯鹰师</BA_Turkic_Basic_Child_17.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up hearing tales of legendary blacksmiths forging the swords of heroes. [PAWN_pronoun] learned the basics of crafting early and respects hard work.\n\n[PAWN_pronoun] is skillful with hands but less scholarly.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_18.description>[PAWN_nameDef]在听着传奇铁匠锻造英雄之剑的故事中长大。[PAWN_pronoun]早早学会了锻造的基础知识，并且尊重辛勤的劳作。[PAWN_pronoun]手工技艺娴熟，但学术素养较弱。</BA_Turkic_Basic_Child_18.description>
+  <!-- EN: Self-taught Blacksmith -->
+  <BA_Turkic_Basic_Child_18.title>自学铁匠孩童</BA_Turkic_Basic_Child_18.title>
+  <!-- EN: Smith -->
+  <BA_Turkic_Basic_Child_18.titleShort>小铁匠</BA_Turkic_Basic_Child_18.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the nomad camps, listening to epic tales and learning survival in harsh lands.\n\n[PAWN_pronoun] is resilient and self-reliant.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_19.description>[PAWN_nameDef]在游牧营地长大，聆听史诗故事，学习在恶劣环境中的生存技能。[PAWN_pronoun]坚韧不拔、自力更生。</BA_Turkic_Basic_Child_19.description>
+  <!-- EN: Nomad Camp Child -->
+  <BA_Turkic_Basic_Child_19.title>游牧营地孩童</BA_Turkic_Basic_Child_19.title>
+  <!-- EN: Nomad -->
+  <BA_Turkic_Basic_Child_19.titleShort>小游牧民</BA_Turkic_Basic_Child_19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood copying texts for a local scholar. Ink-stained fingers and tired eyes gave [PAWN_nameDef] an early start in letters.\n\n[PAWN_pronoun] grew fond of reading but disliked physical labor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_2.description>[PAWN_nameDef]的童年在为当地学者抄写文献中度过。沾满墨水的手指与疲惫的双眼让[PAWN_nameDef]早早踏上了文字之路。[PAWN_pronoun]渐渐爱上了阅读，却厌恶体力劳动。</BA_Turkic_Basic_Child_2.description>
+  <!-- EN: Apprentice Scribe -->
+  <BA_Turkic_Basic_Child_2.title>抄写学徒</BA_Turkic_Basic_Child_2.title>
+  <!-- EN: Scribe -->
+  <BA_Turkic_Basic_Child_2.titleShort>抄写员</BA_Turkic_Basic_Child_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to sing and recite the epic tales of Dede Korkut, memorizing stories of heroes and legendary deeds.\n\n[PAWN_pronoun] is persuasive and creative.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_20.description>[PAWN_nameDef]学会了演唱并吟诵《迪德·科尔特》史诗故事，牢记英雄事迹与传奇篇章。[PAWN_pronoun]极具说服力与创造力。</BA_Turkic_Basic_Child_20.description>
+  <!-- EN: Bard Apprentice -->
+  <BA_Turkic_Basic_Child_20.title>吟游学徒</BA_Turkic_Basic_Child_20.title>
+  <!-- EN: Bard -->
+  <BA_Turkic_Basic_Child_20.titleShort>小吟游诗人</BA_Turkic_Basic_Child_20.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned from a young age to ride and train horses like the heroes of old. [PAWN_pronoun] is strong and agile, a natural with animals.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_21.description>[PAWN_nameDef]从小就学着像古代英雄一样骑马与训练马匹。[PAWN_pronoun]体格强壮、身手敏捷，在与动物相处方面极具天赋。</BA_Turkic_Basic_Child_21.description>
+  <!-- EN: Horse Tamer Child -->
+  <BA_Turkic_Basic_Child_21.title>驯马孩童</BA_Turkic_Basic_Child_21.title>
+  <!-- EN: Tamer -->
+  <BA_Turkic_Basic_Child_21.titleShort>小驯马师</BA_Turkic_Basic_Child_21.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] roamed the steppes with elders, learning tracking, hunting, and observing the land. [PAWN_pronoun] is alert and skilled in survival.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_22.description>[PAWN_nameDef]与长者一同在草原上游历，学习追踪、狩猎与观察地形。[PAWN_pronoun]警觉性高，生存技能娴熟。</BA_Turkic_Basic_Child_22.description>
+  <!-- EN: Yoruk Child -->
+  <BA_Turkic_Basic_Child_22.title>约鲁克孩童</BA_Turkic_Basic_Child_22.title>
+  <!-- EN: Yoruk -->
+  <BA_Turkic_Basic_Child_22.titleShort>约鲁克少年</BA_Turkic_Basic_Child_22.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped provide for the camp by hunting wild game, learning patience and strategy from elders.\n\n[PAWN_pronoun] is resourceful but less bookish.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_23.description>[PAWN_nameDef]通过狩猎野生动物为营地提供食物，从长者那里学会了耐心与策略。[PAWN_pronoun]应变能力强，但不爱读书。</BA_Turkic_Basic_Child_23.description>
+  <!-- EN: Nomad Hunter Child -->
+  <BA_Turkic_Basic_Child_23.title>游牧狩猎孩童</BA_Turkic_Basic_Child_23.title>
+  <!-- EN: Hunter -->
+  <BA_Turkic_Basic_Child_23.titleShort>小猎人</BA_Turkic_Basic_Child_23.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up weaving stories and songs inspired by heroic deeds of the past, becoming a natural entertainer.\n\n[PAWN_pronoun] is charming and clever.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_24.description>[PAWN_nameDef]在编织以古代英雄事迹为灵感的故事与歌曲中长大，成为了一名天生的表演者。[PAWN_pronoun]魅力十足、机智灵巧。</BA_Turkic_Basic_Child_24.description>
+  <!-- EN: Story Weaver Child -->
+  <BA_Turkic_Basic_Child_24.title>故事编织孩童</BA_Turkic_Basic_Child_24.title>
+  <!-- EN: Weaver -->
+  <BA_Turkic_Basic_Child_24.titleShort>故事创作者</BA_Turkic_Basic_Child_24.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was abandoned as a small child and raised by a pack of wolves in the wild steppes. [PAWN_pronoun] learned to hunt, survive, and move silently, gaining instincts far beyond ordinary children.\n\n[PAWN_pronoun] is wary of strangers but deeply connected to nature.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_25.description>[PAWN_nameDef]在幼小时被遗弃，在野外草原被一群狼抚养长大。[PAWN_pronoun]学会了狩猎、生存与无声移动，拥有远超普通孩童的本能。[PAWN_pronoun]对陌生人充满警惕，但与自然有着深厚的联结。</BA_Turkic_Basic_Child_25.description>
+  <!-- EN: Raised by Wolves -->
+  <BA_Turkic_Basic_Child_25.title>狼养大的孩童</BA_Turkic_Basic_Child_25.title>
+  <!-- EN: Wolf Child -->
+  <BA_Turkic_Basic_Child_25.titleShort>狼孩</BA_Turkic_Basic_Child_25.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up cleaning stables and feeding horses. The work was dirty but taught [PAWN_nameDef] how to handle animals and heavy loads.\n\n[PAWN_pronoun] developed strong arms but little patience for books.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_3.description>[PAWN_nameDef]在打扫马厩与喂养马匹的工作中长大。这份工作虽肮脏，却让[PAWN_nameDef]学会了如何照料动物与搬运重物。[PAWN_pronoun]练就了强壮的手臂，但对读书毫无耐心。</BA_Turkic_Basic_Child_3.description>
+  <!-- EN: Stable Hand -->
+  <BA_Turkic_Basic_Child_3.title>马厩学徒</BA_Turkic_Basic_Child_3.title>
+  <!-- EN: Stablehand -->
+  <BA_Turkic_Basic_Child_3.titleShort>马夫助手</BA_Turkic_Basic_Child_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] roamed the steppe with their family, moving herds from pasture to pasture. [PAWN_pronoun] learned resilience and endurance early in life.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_4.description>[PAWN_nameDef]与家人一同在草原上游牧，带着畜群从一片牧场迁徙到另一片牧场。[PAWN_pronoun]在年幼时就学会了坚韧与耐力。</BA_Turkic_Basic_Child_4.description>
+  <!-- EN: Nomadic Child -->
+  <BA_Turkic_Basic_Child_4.title>游牧孩童</BA_Turkic_Basic_Child_4.title>
+  <!-- EN: Nomad -->
+  <BA_Turkic_Basic_Child_4.titleShort>小游牧民</BA_Turkic_Basic_Child_4.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to shoot bow and arrow as soon as [PAWN_pronoun] could hold one. This skill would become invaluable later in life.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_5.description>[PAWN_nameDef]在刚能握住弓箭时就学会了射箭。这项技能在日后的生活中变得极为宝贵。</BA_Turkic_Basic_Child_5.description>
+  <!-- EN: Apprentice Archer -->
+  <BA_Turkic_Basic_Child_5.title>射箭学徒</BA_Turkic_Basic_Child_5.title>
+  <!-- EN: Bowman -->
+  <BA_Turkic_Basic_Child_5.titleShort>小弓箭手</BA_Turkic_Basic_Child_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled with traders across the lands, learning to carry goods and observe human behavior.\n\n[PAWN_pronoun] learned bartering early but dislikes solitude.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_6.description>[PAWN_nameDef]跟随商人穿越各地，学会了搬运货物与观察人类行为。[PAWN_pronoun]早早学会了易货交易，但厌恶孤独。</BA_Turkic_Basic_Child_6.description>
+  <!-- EN: Caravan Helper -->
+  <BA_Turkic_Basic_Child_6.title>商队助手</BA_Turkic_Basic_Child_6.title>
+  <!-- EN: Caravan Kid -->
+  <BA_Turkic_Basic_Child_6.titleShort>商队孩童</BA_Turkic_Basic_Child_6.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent hours in the forge, learning to hammer metal and make tools. [PAWN_pronoun] grew strong and accustomed to hard labor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_7.description>[PAWN_nameDef]在铁匠铺里花费数小时学习锤炼金属与制作工具。[PAWN_pronoun]变得体格强壮，习惯了繁重的劳作。</BA_Turkic_Basic_Child_7.description>
+  <!-- EN: Village Blacksmith's Child -->
+  <BA_Turkic_Basic_Child_7.title>村庄铁匠之子</BA_Turkic_Basic_Child_7.title>
+  <!-- EN: Blacksmith -->
+  <BA_Turkic_Basic_Child_7.titleShort>小铁匠</BA_Turkic_Basic_Child_7.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to gather herbs and prepare poultices, helping treat minor injuries in the village.\n\n[PAWN_pronoun] is knowledgeable of plants but not very strong.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_8.description>[PAWN_nameDef]学会了采集草药与制作膏药，帮助治疗村庄里的轻伤。[PAWN_pronoun]对植物知识十分了解，但体格不算强壮。</BA_Turkic_Basic_Child_8.description>
+  <!-- EN: Herbalist's Apprentice -->
+  <BA_Turkic_Basic_Child_8.title>草药学徒</BA_Turkic_Basic_Child_8.title>
+  <!-- EN: Healer -->
+  <BA_Turkic_Basic_Child_8.titleShort>小医师</BA_Turkic_Basic_Child_8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped run a family stall, learning negotiation and the value of goods from a young age.\n\n[PAWN_pronoun] is social and clever but not strong.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Child_9.description>[PAWN_nameDef]帮助家里经营摊位，从小就学会了谈判技巧与商品价值判断。[PAWN_pronoun]善于社交、机智灵活，但体格不强壮。</BA_Turkic_Basic_Child_9.description>
+  <!-- EN: Merchant's Child -->
+  <BA_Turkic_Basic_Child_9.title>商人之子</BA_Turkic_Basic_Child_9.title>
+  <!-- EN: Trader -->
+  <BA_Turkic_Basic_Child_9.titleShort>小商贩</BA_Turkic_Basic_Child_9.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was taken from their village at a young age as part of the devshirme levy. Trained to serve the Sultan's army, [PAWN_pronoun] learned discipline, obedience, and early martial skills.\n\n[PAWN_pronoun] feels torn between their homeland and the strict life imposed upon them.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Devshirme_Child_1.description>[PAWN_nameDef]在年幼时作为德夫希尔梅征兵制的一员被带离村庄。为服务苏丹军队而接受训练的[PAWN_pronoun]学会了纪律、服从与基础的军事技能。[PAWN_pronoun]在故土与被强加的严苛生活之间左右为难。</BA_Turkic_Devshirme_Child_1.description>
+  <!-- EN: Tough Devshirme Recruit -->
+  <BA_Turkic_Devshirme_Child_1.title>坚毅的德夫希尔梅新兵</BA_Turkic_Devshirme_Child_1.title>
+  <!-- EN: Recruit -->
+  <BA_Turkic_Devshirme_Child_1.titleShort>新兵</BA_Turkic_Devshirme_Child_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was taken from their village at a young age as part of the devshirme levy. Trained to serve the Sultan's army, [PAWN_pronoun] learned discipline, obedience, and early martial skills.\n\n[PAWN_pronoun] feels torn between their homeland and the strict life imposed upon them.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Devshirme_Child_2.description>[PAWN_nameDef]在年幼时作为德夫希尔梅征兵制的一员被带离村庄。为服务苏丹军队而接受训练的[PAWN_pronoun]学会了纪律、服从与基础的军事技能。[PAWN_pronoun]在故土与被强加的严苛生活之间左右为难。</BA_Turkic_Devshirme_Child_2.description>
+  <!-- EN: Nimble Devshirme Recruit -->
+  <BA_Turkic_Devshirme_Child_2.title>敏捷的德夫希尔梅新兵</BA_Turkic_Devshirme_Child_2.title>
+  <!-- EN: Recruit -->
+  <BA_Turkic_Devshirme_Child_2.titleShort>新兵</BA_Turkic_Devshirme_Child_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned the art of fine handwriting, copying manuscripts for the local scribe. [PAWN_pronoun] developed patience and a steady hand.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Child_1.description>[PAWN_nameDef]学会了精湛的书法技艺，为当地抄写员抄写手稿。[PAWN_pronoun]培养出了耐心与稳定的手劲。</BA_Turkic_Educated_Child_1.description>
+  <!-- EN: Apprentice Calligrapher -->
+  <BA_Turkic_Educated_Child_1.title>书法学徒</BA_Turkic_Educated_Child_1.title>
+  <!-- EN: Calligrapher -->
+  <BA_Turkic_Educated_Child_1.titleShort>小书法家</BA_Turkic_Educated_Child_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent long hours discussing ethics and logic with teachers. [PAWN_pronoun] grew thoughtful, curious, and somewhat reserved.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Child_2.description>[PAWN_nameDef]花费大量时间与老师探讨伦理与逻辑问题。[PAWN_pronoun]变得善于思考、充满好奇心，同时也有些内敛。</BA_Turkic_Educated_Child_2.description>
+  <!-- EN: Philosopher's Pupil -->
+  <BA_Turkic_Educated_Child_2.title>哲学家的学徒</BA_Turkic_Educated_Child_2.title>
+  <!-- EN: Philosopher -->
+  <BA_Turkic_Educated_Child_2.titleShort>小哲学家</BA_Turkic_Educated_Child_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to play the ud, accompanying local minstrels and learning melodies of the region. [PAWN_pronoun] developed dexterity and a love for music.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Child_4.description>[PAWN_nameDef]学会了演奏乌德琴，为当地吟游诗人伴奏并学习该地区的旋律。[PAWN_pronoun]练就了灵巧的指法，同时爱上了音乐。</BA_Turkic_Educated_Child_4.description>
+  <!-- EN: Udi Apprentice -->
+  <BA_Turkic_Educated_Child_4.title>乌德琴学徒</BA_Turkic_Educated_Child_4.title>
+  <!-- EN: Udi -->
+  <BA_Turkic_Educated_Child_4.titleShort>小乌德琴师</BA_Turkic_Educated_Child_4.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained in the art of epic storytelling and folk singing, reciting tales of heroes and love. [PAWN_pronoun] became persuasive and creative.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Child_5.description>[PAWN_nameDef]接受了史诗讲述与民间演唱的训练，吟诵英雄与爱情的故事。[PAWN_pronoun]变得极具说服力与创造力。</BA_Turkic_Educated_Child_5.description>
+  <!-- EN: Asik Apprentice -->
+  <BA_Turkic_Educated_Child_5.title>阿希克学徒</BA_Turkic_Educated_Child_5.title>
+  <!-- EN: Asik -->
+  <BA_Turkic_Educated_Child_5.titleShort>小阿希克</BA_Turkic_Educated_Child_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was selected by a noble patron to train at the Enderun palace school. [PAWN_pronoun] learned etiquette, administration, and swordsmanship, preparing for service in high offices or military roles within the state.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Enderun_Native_Student.description>[PAWN_nameDef]被贵族赞助人选中进入恩德伦宫学校学习。[PAWN_pronoun]学习礼仪、行政管理与剑术，为日后在国家高阶职位或军事岗位任职做准备。</BA_Turkic_Enderun_Native_Student.description>
+  <!-- EN: Native Enderun Student -->
+  <BA_Turkic_Enderun_Native_Student.title>恩德伦本土学生</BA_Turkic_Enderun_Native_Student.title>
+  <!-- EN: Palace Student -->
+  <BA_Turkic_Enderun_Native_Student.titleShort>宫廷学生</BA_Turkic_Enderun_Native_Student.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was selected through the devshirme system and trained in the Enderun Palace School. [PAWN_pronoun] learned discipline, etiquette, and administration from a young age, preparing for service in the palace or military.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Enderun_Student.description>[PAWN_nameDef]通过德夫希尔梅制度被选中，进入恩德伦宫学校接受训练。[PAWN_pronoun]从小学习纪律、礼仪与行政管理，为在宫廷或军队任职做准备。</BA_Turkic_Enderun_Student.description>
+  <!-- EN: Enderun Student -->
+  <BA_Turkic_Enderun_Student.title>恩德伦宫学生</BA_Turkic_Enderun_Student.title>
+  <!-- EN: Palace Student -->
+  <BA_Turkic_Enderun_Student.titleShort>宫廷学生</BA_Turkic_Enderun_Student.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood studying in a medrese, learning theology, literature, and philosophy. [PAWN_pronoun] grew up disciplined, studious, and contemplative, preparing for a life of scholarship or religious service.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Medrese_Student.description>[PAWN_nameDef]的童年在伊斯兰宗教学校学习度过，钻研神学、文学与哲学。[PAWN_pronoun]在成长过程中养成了纪律严明、勤奋好学、善于沉思的品性，为学术研究或宗教服务的人生道路做好了准备。</BA_Turkic_Medrese_Student.description>
+  <!-- EN: Medrese Student -->
+  <BA_Turkic_Medrese_Student.title>宗教学校学生</BA_Turkic_Medrese_Student.title>
+  <!-- EN: Scholar -->
+  <BA_Turkic_Medrese_Student.titleShort>小学者</BA_Turkic_Medrese_Student.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was taught the basics of swordplay and spear handling by family members. Early mornings and rigorous drills taught [PAWN_pronoun] patience and precision.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Military_Child_2.description>[PAWN_nameDef]由家人教授剑术与矛术的基础。清晨的刻苦训练让[PAWN_pronoun]学会了耐心与精准。</BA_Turkic_Military_Child_2.description>
+  <!-- EN: Weapon Apprentice -->
+  <BA_Turkic_Military_Child_2.title>武器学徒</BA_Turkic_Military_Child_2.title>
+  <!-- EN: Blade Learner -->
+  <BA_Turkic_Military_Child_2.titleShort>刀剑学习者</BA_Turkic_Military_Child_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the household of a Pasha, learning the ways of leadership, protocol, and strategy from a young age. [PAWN_pronoun] observed advisors, trained with guards, and learned the importance of honor and duty.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Pasha_Child_1.description>[PAWN_nameDef]在帕夏的宅邸中长大，从小学习领导力、礼仪规范与战略之道。[PAWN_pronoun]观察顾问们的工作，与守卫一同训练，并领悟到荣誉与职责的重要性。</BA_Turkic_Pasha_Child_1.description>
+  <!-- EN: Pasha's Child -->
+  <BA_Turkic_Pasha_Child_1.title>帕夏之子</BA_Turkic_Pasha_Child_1.title>
+  <!-- EN: Noble Heir -->
+  <BA_Turkic_Pasha_Child_1.titleShort>贵族继承人</BA_Turkic_Pasha_Child_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born into a family of Sipahis, the mounted warriors of the realm. From an early age, [PAWN_pronoun] learned horse riding, weapon handling, and the honor of military service.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_Child.description>[PAWN_nameDef]出生于西帕希骑兵家族——这个国家的骑战勇士家族。[PAWN_pronoun]从小学习马术、武器使用，以及军事服务的荣誉感。</BA_Turkic_Sipahi_Child.description>
+  <!-- EN: Sipahi's Child -->
+  <BA_Turkic_Sipahi_Child.title>西帕希之子</BA_Turkic_Sipahi_Child.title>
+  <!-- EN: Sipahi Heir -->
+  <BA_Turkic_Sipahi_Child.titleShort>西帕希继承人</BA_Turkic_Sipahi_Child.titleShort>
+  
+</LanguageData>

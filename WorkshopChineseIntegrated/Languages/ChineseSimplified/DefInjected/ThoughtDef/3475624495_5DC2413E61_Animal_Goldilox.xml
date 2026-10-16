@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate cooked regal milk -->
+  <DA_CookedRegalMilk.stages.ate_cooked_regal_milk.label>食用了烹饪过的皇家乳汁</DA_CookedRegalMilk.stages.ate_cooked_regal_milk.label>
+  <!-- EN: I ate a meal containing regal milk, it really elevated the savors. -->
+  <DA_CookedRegalMilk.stages.ate_cooked_regal_milk.description>我吃了包含了皇家乳汁的一餐，它实实在在地提升了风味。</DA_CookedRegalMilk.stages.ate_cooked_regal_milk.description>
+  
+  <!-- EN: drank regal milk -->
+  <DA_DrankRegalMilk.stages.drank_regal_milk.label>饮用了皇家乳汁</DA_DrankRegalMilk.stages.drank_regal_milk.label>
+  <!-- EN: I drank exquisite milk. The slight buttery notes and creamy texture were amazing. -->
+  <DA_DrankRegalMilk.stages.drank_regal_milk.description>我喝了这珍馐乳品。淡淡的黄油味和奶油质感令人惊叹。</DA_DrankRegalMilk.stages.drank_regal_milk.description>
+  
+  <!-- EN: milk withdrawal -->
+  <DA_MilkWithdrawal.stages.milk_withdrawal.label>乳汁戒断</DA_MilkWithdrawal.stages.milk_withdrawal.label>
+  <!-- EN: Everything is tasteless, i desire nothing more than a drop of regal milk. -->
+  <DA_MilkWithdrawal.stages.milk_withdrawal.description>寡淡无味啊，我别无所求，不过是想喝一滴皇家乳汁罢了。</DA_MilkWithdrawal.stages.milk_withdrawal.description>
+  
+</LanguageData>

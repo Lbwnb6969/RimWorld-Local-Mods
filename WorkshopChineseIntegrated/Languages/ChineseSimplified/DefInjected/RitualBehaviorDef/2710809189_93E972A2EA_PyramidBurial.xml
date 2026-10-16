@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_PyramidBurialBehavior.roles.0.label>演讲者</AM_PyramidBurialBehavior.roles.0.label>
+  <!-- EN: Corpse -->
+  <AM_PyramidBurialBehavior.roles.1.label>尸体</AM_PyramidBurialBehavior.roles.1.label>
+  <!-- EN: Spectators must be alive. -->
+  <AM_PyramidBurialBehavior.spectatorFilter.description>观众必须为活着的殖民者。</AM_PyramidBurialBehavior.spectatorFilter.description>
+  <!-- EN: {0}: The speech is over, and the entombing is beginning. -->
+  <AM_PyramidBurialBehavior.stages.1.postAction.text>{0}: 演讲结束了，下葬开始了。</AM_PyramidBurialBehavior.stages.1.postAction.text>
+  
+</LanguageData>

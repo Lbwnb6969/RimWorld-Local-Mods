@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_Wheat.label>斯佩耳特小麦</VCE_Wheat.label>
+  <VCE_Wheat.description>斯佩耳特小麦大约从公元前5000年起就开始种植了。它是膳食纤维、蛋白质（比普通小麦含量更多）、维生素和矿物质的良好来源。斯佩耳特小麦需要花费整个适耕季来成熟。这种脆弱又费时间的转基因小麦一碰就会碎成面粉。</VCE_Wheat.description>
+
+  <VCE_Flour.label>斯佩耳特面粉</VCE_Flour.label>
+  <VCE_Flour.description>斯佩耳特小麦磨成的粉，是用于烘焙的理想材料。面粉如果保持乾燥，保质期会很长。使用的转基因小麦一碰就会碎成面粉。</VCE_Flour.description>
+
+  <VCE_Cheese.label>牛奶奶酪</VCE_Cheese.label>
+
+  <VCE_Sugarcane.label>育巴甘蔗</VCE_Sugarcane.label>
+  <VCE_Sugarcane.description>一种节茎热带草本植物。育巴品种的甘蔗更为耐寒，但产量较低。虽然直接吃没什么营养，这种转基因甘蔗能被轻松碾成红糖并被用于厨艺——尤其是甜点。</VCE_Sugarcane.description>
+
+  <VCE_RawSugar.label>红糖</VCE_RawSugar.label>
+  <VCE_RawSugar.description>红糖是一种蔗糖产品，由于甘蔗糖浆的存在而呈现出独特的棕色，它增加了人们所期望的甜味。蔗糖虽然味道很好但是会对肾脏造成负担，大批食用会造成高血糖。蔗糖能被人体迅速转化为能量，可以让人精力充沛。</VCE_RawSugar.description>
+
+
+</LanguageData>

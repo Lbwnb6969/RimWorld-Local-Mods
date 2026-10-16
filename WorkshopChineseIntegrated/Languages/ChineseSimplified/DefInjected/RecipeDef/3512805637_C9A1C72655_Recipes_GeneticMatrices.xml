@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make Custodes genetic matrix -->
+  <BEWH_MakeCustodesMatrix.label>制作禁军基因矩阵</BEWH_MakeCustodesMatrix.label>
+  <!-- EN: Make a Custodes genetic matrix. -->
+  <BEWH_MakeCustodesMatrix.description>制作禁军基因矩阵。</BEWH_MakeCustodesMatrix.description>
+  <!-- EN: Making Custodes genetic matrix. -->
+  <BEWH_MakeCustodesMatrix.jobString>制作禁军基因矩阵中。</BEWH_MakeCustodesMatrix.jobString>
+  
+  <!-- EN: make Firstborn genetic matrix -->
+  <BEWH_MakeFirstbornMatrix.label>制作初代星际战士基因矩阵</BEWH_MakeFirstbornMatrix.label>
+  <!-- EN: Make a Firstborn genetic matrix. -->
+  <BEWH_MakeFirstbornMatrix.description>制作初代星际战士基因矩阵。</BEWH_MakeFirstbornMatrix.description>
+  <!-- EN: Making Firstborn genetic matrix. -->
+  <BEWH_MakeFirstbornMatrix.jobString>制作初代星际战士基因矩阵中。</BEWH_MakeFirstbornMatrix.jobString>
+  
+  <!-- EN: make Primarch genetic matrix -->
+  <BEWH_MakePrimarchMatrix.label>制作基因原体基因矩阵</BEWH_MakePrimarchMatrix.label>
+  <!-- EN: Make a Primarch genetic matrix. -->
+  <BEWH_MakePrimarchMatrix.description>制作基因原体基因矩阵。</BEWH_MakePrimarchMatrix.description>
+  <!-- EN: Making Primarch genetic matrix. -->
+  <BEWH_MakePrimarchMatrix.jobString>制作基因原体基因矩阵中。</BEWH_MakePrimarchMatrix.jobString>
+  
+  <!-- EN: make Primaris genetic matrix -->
+  <BEWH_MakePrimarisMatrix.label>制作原铸星际战士基因矩阵</BEWH_MakePrimarisMatrix.label>
+  <!-- EN: Make a Primaris genetic matrix. -->
+  <BEWH_MakePrimarisMatrix.description>制作原铸星际战士基因矩阵。</BEWH_MakePrimarisMatrix.description>
+  <!-- EN: Making Primaris genetic matrix. -->
+  <BEWH_MakePrimarisMatrix.jobString>制作原铸星际战士基因矩阵中。</BEWH_MakePrimarisMatrix.jobString>
+  
+  <!-- EN: make Thunder Warrior genetic matrix -->
+  <BEWH_MakeThunderWarriorMatrix.label>制作雷霆战士基因矩阵</BEWH_MakeThunderWarriorMatrix.label>
+  <!-- EN: Make a Thunder Warrior genetic matrix. -->
+  <BEWH_MakeThunderWarriorMatrix.description>制作雷霆战士基因矩阵。</BEWH_MakeThunderWarriorMatrix.description>
+  <!-- EN: Making Thunder Warrior genetic matrix. -->
+  <BEWH_MakeThunderWarriorMatrix.jobString>制作雷霆战士基因矩阵中。</BEWH_MakeThunderWarriorMatrix.jobString>
+  
+</LanguageData>

@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agnosticism -->
+  <VME_Structure_Agnosticism.label>不可知论</VME_Structure_Agnosticism.label>
+  <!-- EN: The theory that any gods or all-powerful force watches or guides us down to trivialities is either asinine or incomprehensible by mere man, and equally so is the idea that all came from nothing. It is better to ignore such dogma and respect the freedom of those who find respite in such beliefs. -->
+  <VME_Structure_Agnosticism.description>这个世界总是会有像「神明或全知全能的力量会观察并指引我们，乃至日常生活中的琐碎小事」这样的理论，它们要么愚蠢至极，要么不可理喻。同样的，那些无中生有的想法也是如此。不过我们最好还是无视这些教义信条，并尊重那些在信仰中寻求片刻安宁之人的自由。</VME_Structure_Agnosticism.description>
+  <!-- EN:
+    <li>memeAdjective->disbelieving</li>
+    <li>memeAdjective->godless</li>
+    <li>memeAdjective->irreligious</li>
+    <li>memeAdjective->nonreligious</li>
+    <li>memeAdjective->unbelieving</li>
+    <li>memeAdjective->secular</li>
+    <li>memeLeaderNoun->leader</li>
+    <li>memeLeaderNoun->freethinker</li>
+    <li>memeLeaderAdjective->secular</li>
+    <li>memeLeaderAdjective->worldly</li>
+    <li>memeLeaderAdjective->profane</li>
+    <li>memeMoralist->counselor</li>
+    <li>memeMoralist->ethicist</li>
+    <li>memeMoralist->moralist</li>
+    <li>memeMoralist->philosopher</li>
+    <li>memeMoralist->thinker</li>
+    <li>memeMoralist->academic</li>
+    <li>memeMoralist->sophist</li>
+  -->
+  <VME_Structure_Agnosticism.generalRules.rulesStrings>
+    <li>memeAdjective->猜疑</li>
+    <li>memeAdjective->无神</li>
+    <li>memeAdjective->不虔诚</li>
+    <li>memeAdjective->无神</li>
+    <li>memeAdjective->无信仰</li>
+    <li>memeAdjective->世俗</li>
+    <li>memeLeaderNoun->领袖</li>
+    <li>memeLeaderNoun->自由思想家</li>
+    <li>memeLeaderAdjective->世俗</li>
+    <li>memeLeaderAdjective->尘世</li>
+    <li>memeLeaderAdjective->渎神</li>
+    <li>memeMoralist->辅导员</li>
+    <li>memeMoralist->伦理学家</li>
+    <li>memeMoralist->道德家</li>
+    <li>memeMoralist->哲学家</li>
+    <li>memeMoralist->思想家</li>
+    <li>memeMoralist->学者</li>
+    <li>memeMoralist->智者</li>
+  </VME_Structure_Agnosticism.generalRules.rulesStrings>
+  <!-- EN: agnostic -->
+  <VME_Structure_Agnosticism.symbolPacks.0.adjective>不可知论</VME_Structure_Agnosticism.symbolPacks.0.adjective>
+  <!-- EN: agnostic -->
+  <VME_Structure_Agnosticism.symbolPacks.0.member>无信者</VME_Structure_Agnosticism.symbolPacks.0.member>
+  <!-- EN: agnosticism -->
+  <VME_Structure_Agnosticism.symbolPacks.0.theme>不可知论</VME_Structure_Agnosticism.symbolPacks.0.theme>
+  <!-- EN: symposium hall -->
+  <VME_Structure_Agnosticism.worshipRoomLabel>议事厅</VME_Structure_Agnosticism.worshipRoomLabel>
+  
+  <!-- EN: authoritarian -->
+  <VME_Structure_Authoritarianism.label>独裁专制</VME_Structure_Authoritarianism.label>
+  <!-- EN: Plurality only brings a false illusion of choice, and breeds discontent, rebellion and chaos. With an iron fist we will govern our people and bring prosperity to all. -->
+  <VME_Structure_Authoritarianism.description>政治多元化只会让人们对选择权产生虚假的幻想，随之而来的便是不满、谋反与混乱。唯有采用强硬的独裁制度来管控人民，才能真正地带领我们走向繁荣与昌盛。</VME_Structure_Authoritarianism.description>
+  <!-- EN:
+    <li>memeAdjective->firm</li>
+    <li>memeAdjective->oligarchic</li>
+    <li>memeAdjective->absolute</li>
+    <li>memeAdjective->uncompromising</li>
+    <li>memeAdjective->repressive</li>
+    <li>memeAdjective->iron-fisted</li>
+    <li>memeAdjective->populist</li>
+    <li>memeLeaderNoun->supreme leader</li>
+    <li>memeLeaderNoun->caudillo</li>
+    <li>memeLeaderNoun->chairman</li>
+    <li>memeLeaderNoun->duce</li>
+    <li>memeLeaderNoun->president for life</li>
+    <li>memeLeaderAdjective->stern</li>
+    <li>memeLeaderAdjective->patriot</li>
+    <li>memeLeaderAdjective->callous</li>
+    <li>memeLeaderAdjective->harsh</li>
+    <li>memeLeaderAdjective->implacable</li>
+    <li>memeLeaderAdjective->inexorable</li>
+    <li>memeMoralist->propagandist</li>
+    <li>memeMoralist->regime advocate</li>
+    <li>memeMoralist->campaigner</li>
+  -->
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings>
+    <li>memeAdjective->稳固</li>
+    <li>memeAdjective->寡头</li>
+    <li>memeAdjective->绝对</li>
+    <li>memeAdjective->不屈</li>
+    <li>memeAdjective->镇压</li>
+    <li>memeAdjective->强硬</li>
+    <li>memeAdjective->民粹</li>
+    <li>memeLeaderNoun->至高领袖</li>
+    <li>memeLeaderNoun->元首</li>
+    <li>memeLeaderNoun->委员长</li>
+    <li>memeLeaderNoun->主席</li>
+    <li>memeLeaderNoun->终身总理</li>
+    <li>memeLeaderAdjective->坚定</li>
+    <li>memeLeaderAdjective->爱国</li>
+    <li>memeLeaderAdjective->无情</li>
+    <li>memeLeaderAdjective->残酷</li>
+    <li>memeLeaderAdjective->铁心</li>
+    <li>memeLeaderAdjective->绝情</li>
+    <li>memeMoralist->宣传委员</li>
+    <li>memeMoralist->拥护者</li>
+    <li>memeMoralist->领导者</li>
+  </VME_Structure_Authoritarianism.generalRules.rulesStrings>
+  <!-- EN: authoritarian -->
+  <VME_Structure_Authoritarianism.symbolPacks.0.adjective>独裁</VME_Structure_Authoritarianism.symbolPacks.0.adjective>
+  <!-- EN: citizen -->
+  <VME_Structure_Authoritarianism.symbolPacks.0.member>公民</VME_Structure_Authoritarianism.symbolPacks.0.member>
+  <!-- EN: authoritarianism -->
+  <VME_Structure_Authoritarianism.symbolPacks.0.theme>威权</VME_Structure_Authoritarianism.symbolPacks.0.theme>
+  <!-- EN: headquarters -->
+  <VME_Structure_Authoritarianism.worshipRoomLabel>司令部</VME_Structure_Authoritarianism.worshipRoomLabel>
+  
+  <!-- EN: hedonism -->
+  <VME_Structure_Bacchanalianism.label>纵情享乐</VME_Structure_Bacchanalianism.label>
+  <!-- EN: Man's time on this earth is brief and fleeting, to deny oneself of any of life's pleasures such as lust or gluttony is the one true sin. Throw wide the gates to tireless festivity, live and breathe endless splendor. -->
+  <VME_Structure_Bacchanalianism.description>人生如此短暂，不如及时行乐。拒绝生命中的一切乐趣才是真正的罪过。</VME_Structure_Bacchanalianism.description>
+  <!-- EN:
+    <li>memeAdjective->hedonistic</li>
+    <li>memeAdjective->pleasurable</li>
+    <li>memeAdjective->orgasmic</li>
+    <li>memeAdjective->pleasant</li>
+    <li>memeAdjective->enjoyable</li>
+    <li>memeAdjective->delightful</li>
+    <li>memeLeaderNoun->lord of pleasure</li>
+    <li>memeLeaderNoun->libertine</li>
+    <li>memeLeaderAdjective->delightful</li>
+    <li>memeLeaderAdjective->gratifying</li>
+    <li>memeLeaderAdjective->pleasing</li>
+    <li>memeMoralist->reveler</li>
+    <li>memeMoralist->love priest</li>
+  -->
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings>
+    <li>memeAdjective->享乐</li>
+    <li>memeAdjective->快活</li>
+    <li>memeAdjective->快感</li>
+    <li>memeAdjective->愉悦</li>
+    <li>memeAdjective->乐趣</li>
+    <li>memeAdjective->欣喜</li>
+    <li>memeLeaderNoun->愉悦领主</li>
+    <li>memeLeaderNoun->浪荡公子</li>
+    <li>memeLeaderAdjective->快乐</li>
+    <li>memeLeaderAdjective->满足</li>
+    <li>memeLeaderAdjective->愉悦</li>
+    <li>memeMoralist->设宴者</li>
+    <li>memeMoralist->爱欲祭司</li>
+  </VME_Structure_Bacchanalianism.generalRules.rulesStrings>
+  <!-- EN: hedonist -->
+  <VME_Structure_Bacchanalianism.symbolPacks.0.adjective>享乐</VME_Structure_Bacchanalianism.symbolPacks.0.adjective>
+  <!-- EN: hedonist -->
+  <VME_Structure_Bacchanalianism.symbolPacks.0.member>享乐主义者</VME_Structure_Bacchanalianism.symbolPacks.0.member>
+  <!-- EN: hedonism -->
+  <VME_Structure_Bacchanalianism.symbolPacks.0.theme>狂欢</VME_Structure_Bacchanalianism.symbolPacks.0.theme>
+  <!-- EN: pleasure lounge -->
+  <VME_Structure_Bacchanalianism.worshipRoomLabel>休闲娱乐室</VME_Structure_Bacchanalianism.worshipRoomLabel>
+  
+  <!-- EN: eldritch cult -->
+  <VME_Structure_ChthonianCult.label>外神崇拜</VME_Structure_ChthonianCult.label>
+  <!-- EN: There are ancient entities in this Universe that are more powerful than mere gods. Immensely powerful and utterly indifferent to us humans who can barely begin to comprehend them. Only by worshipping them can we hope to placate their ire. -->
+  <VME_Structure_ChthonianCult.description>在这浩瀚宇宙中有一些极其古老的存在，祂们的力量远超于普通的神明。祂们对渺小的人类漠不关心，而人类也几乎无法理解祂们。唯有心怀畏惧地敬拜祂们，我们才有希望平息祂们的怒火。</VME_Structure_ChthonianCult.description>
+  <!-- EN:
+    <li>memeAdjective->chthonian</li>
+    <li>memeAdjective->eldritch</li>
+    <li>memeAdjective->unnameable</li>
+    <li>memeAdjective->insane</li>
+    <li>memeAdjective->non-euclidean</li>
+    <li>memeAdjective->otherwordly</li>
+    <li>memeAdjective->loathsome</li>
+    <li>memeCreed->scribbles</li>
+    <li>memeCreed->knowledge</li>
+    <li>memeCreed->madness</li>
+    <li>memeLeaderNoun->antiquarian</li>
+    <li>memeLeaderNoun->nameless</li>
+    <li>memeLeaderAdjective->indescribable</li>
+    <li>memeLeaderAdjective->unmentionable</li>
+    <li>memeLeaderAdjective->whispering</li>
+    <li>memeMoralist->deranged cultist</li>
+    <li>memeMoralist->cultist leader</li>
+    <li>memeMoralist->stygian advocate</li>
+  -->
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings>
+    <li>memeAdjective->克托尼亚</li>
+    <li>memeAdjective->外神</li>
+    <li>memeAdjective->不可名状</li>
+    <li>memeAdjective->疯狂</li>
+    <li>memeAdjective->维度</li>
+    <li>memeAdjective->超凡</li>
+    <li>memeAdjective->憎恶</li>
+    <li>memeCreed->潦草</li>
+    <li>memeCreed->知识</li>
+    <li>memeCreed->疯狂</li>
+    <li>memeLeaderNoun->古物研究者</li>
+    <li>memeLeaderNoun->无名者</li>
+    <li>memeLeaderAdjective->不可名状</li>
+    <li>memeLeaderAdjective->讳莫如深</li>
+    <li>memeLeaderAdjective->低语</li>
+    <li>memeMoralist->狂热邪教徒</li>
+    <li>memeMoralist->邪教教主</li>
+    <li>memeMoralist->幽冥引领者</li>
+  </VME_Structure_ChthonianCult.generalRules.rulesStrings>
+  <!-- EN: eldritch -->
+  <VME_Structure_ChthonianCult.symbolPacks.0.adjective>外神</VME_Structure_ChthonianCult.symbolPacks.0.adjective>
+  <!-- EN: cultist -->
+  <VME_Structure_ChthonianCult.symbolPacks.0.member>邪教徒</VME_Structure_ChthonianCult.symbolPacks.0.member>
+  <!-- EN: eldritch -->
+  <VME_Structure_ChthonianCult.symbolPacks.0.theme>邪神</VME_Structure_ChthonianCult.symbolPacks.0.theme>
+  <!-- EN: chamber of whispers -->
+  <VME_Structure_ChthonianCult.worshipRoomLabel>低语密室</VME_Structure_ChthonianCult.worshipRoomLabel>
+  
+  <!-- EN: corporate origin -->
+  <VME_Structure_Corporate.label>巨企起源</VME_Structure_Corporate.label>
+  <!-- EN: No Gods or Kings should be worshipped, only man and his unslakable desire for wealth. Colonies should be managed like companies. -->
+  <VME_Structure_Corporate.description>没有神明或君主应被敬拜，有的只是人类和对财富的不竭渴望。我们应当像经营公司一样管理殖民地。</VME_Structure_Corporate.description>
+  <!-- EN:
+    <li>memeAdjective->private</li>
+    <li>memeAdjective->profitable</li>
+    <li>memeAdjective->exploitative</li>
+    <li>memeAdjective->professional</li>
+    <li>memeAdjective->commercial</li>
+    <li>memeAdjective->lucrative</li>
+    <li>memeLeaderNoun->CEO</li>
+    <li>memeLeaderNoun->boss</li>
+    <li>memeLeaderNoun->superintendent</li>
+    <li>memeLeaderAdjective->ruthless</li>
+    <li>memeLeaderAdjective->talented</li>
+    <li>memeLeaderAdjective->entrepreneurial</li>
+    <li>memeMoralist->administrator</li>
+    <li>memeMoralist->executive</li>
+    <li>memeMoralist->manager</li>
+  -->
+  <VME_Structure_Corporate.generalRules.rulesStrings>
+    <li>memeAdjective->私人</li>
+    <li>memeAdjective->利益</li>
+    <li>memeAdjective->剥削</li>
+    <li>memeAdjective->专业</li>
+    <li>memeAdjective->商贸</li>
+    <li>memeAdjective->盈利</li>
+    <li>memeLeaderNoun->CEO</li>
+    <li>memeLeaderNoun->老板</li>
+    <li>memeLeaderNoun->主管</li>
+    <li>memeLeaderAdjective->无情</li>
+    <li>memeLeaderAdjective->精英</li>
+    <li>memeLeaderAdjective->企业</li>
+    <li>memeMoralist->部长</li>
+    <li>memeMoralist->执行官</li>
+    <li>memeMoralist->经理</li>
+  </VME_Structure_Corporate.generalRules.rulesStrings>
+  <!-- EN: corporate -->
+  <VME_Structure_Corporate.symbolPacks.0.adjective>公司</VME_Structure_Corporate.symbolPacks.0.adjective>
+  <!-- EN: employee -->
+  <VME_Structure_Corporate.symbolPacks.0.member>员工</VME_Structure_Corporate.symbolPacks.0.member>
+  <!-- EN: corporation -->
+  <VME_Structure_Corporate.symbolPacks.0.theme>巨企</VME_Structure_Corporate.symbolPacks.0.theme>
+  <!-- EN: office -->
+  <VME_Structure_Corporate.worshipRoomLabel>办公室</VME_Structure_Corporate.worshipRoomLabel>
+  
+  <!-- EN: cult of personality -->
+  <VME_Structure_CultOfPersonality.label>个人崇拜</VME_Structure_CultOfPersonality.label>
+  <!-- EN: It is forbidden to question the crown of a king or queen, even the soil itself is undeserving to feel the touch of our leaders' divine feet. Our leader should want for nothing and through their grand design we will prosper. -->
+  <VME_Structure_CultOfPersonality.description>君王的权威不容置疑，即便是土地本身也不配触碰他们神圣的玉足。我们的领袖应当衣食无忧，通过他们所规划出的宏伟蓝图，我们必将走向繁荣与昌盛。</VME_Structure_CultOfPersonality.description>
+  <!-- EN:
+    <li>memeAdjective->unified</li>
+    <li>memeAdjective->imperial</li>
+    <li>memeAdjective->kingly</li>
+    <li>memeAdjective->royal</li>
+    <li>memeAdjective->monarchal</li>
+    <li>memeAdjective->princely</li>
+    <li>memeAdjective->sovereign</li>
+    <li>memeCreed->laws</li>
+    <li>memeCreed->orders</li>
+    <li>memeCreed->divine will</li>
+    <li>memeLeaderNoun->god-emperor</li>
+    <li>memeLeaderNoun->emperor</li>
+    <li>memeLeaderNoun->king</li>
+    <li>memeLeaderNoun->dictator</li>
+    <li>memeLeaderAdjective->majestic</li>
+    <li>memeLeaderAdjective->loved</li>
+    <li>memeLeaderAdjective->adored</li>
+    <li>memeLeaderAdjective->annointed</li>
+    <li>memeMoralist->sycophant</li>
+    <li>memeMoralist->servant</li>
+    <li>memeMoralist->magistrate</li>
+  -->
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings>
+    <li>memeAdjective->统一</li>
+    <li>memeAdjective->帝国</li>
+    <li>memeAdjective->君王</li>
+    <li>memeAdjective->皇家</li>
+    <li>memeAdjective->君主</li>
+    <li>memeAdjective->宏伟</li>
+    <li>memeAdjective->国王</li>
+    <li>memeCreed->法律</li>
+    <li>memeCreed->秩序</li>
+    <li>memeCreed->神意</li>
+    <li>memeLeaderNoun->神皇</li>
+    <li>memeLeaderNoun->皇帝</li>
+    <li>memeLeaderNoun->国王</li>
+    <li>memeLeaderNoun->君主</li>
+    <li>memeLeaderAdjective->宏伟</li>
+    <li>memeLeaderAdjective->慈爱</li>
+    <li>memeLeaderAdjective->崇拜</li>
+    <li>memeLeaderAdjective->神选</li>
+    <li>memeMoralist->谄媚者</li>
+    <li>memeMoralist->官吏</li>
+    <li>memeMoralist->执法官</li>
+  </VME_Structure_CultOfPersonality.generalRules.rulesStrings>
+  <!-- EN: totalitarian -->
+  <VME_Structure_CultOfPersonality.symbolPacks.0.adjective>集权</VME_Structure_CultOfPersonality.symbolPacks.0.adjective>
+  <!-- EN: subject -->
+  <VME_Structure_CultOfPersonality.symbolPacks.0.member>臣民</VME_Structure_CultOfPersonality.symbolPacks.0.member>
+  <!-- EN: cult of personality -->
+  <VME_Structure_CultOfPersonality.symbolPacks.0.theme>个人崇拜</VME_Structure_CultOfPersonality.symbolPacks.0.theme>
+  <!-- EN: chamber of the high one -->
+  <VME_Structure_CultOfPersonality.worshipRoomLabel>至高议室</VME_Structure_CultOfPersonality.worshipRoomLabel>
+  
+  <!-- EN: eschatologism -->
+  <VME_Structure_Eschatologism.label>末世论</VME_Structure_Eschatologism.label>
+  <!-- EN: To be cursed to walk this earth is true torture, and whether by means of cataclysm, famine, or pestilence the departure of ones soul from their mortal coil should be celebrated. -->
+  <VME_Structure_Eschatologism.description>在这片诅咒之地上行走简直令人苦痛至极。无论是通过战乱、饥荒还是瘟疫，人们都理应欢庆灵魂因此得到了解脱。</VME_Structure_Eschatologism.description>
+  <!-- EN:
+    <li>memeAdjective->doomsday</li>
+    <li>memeAdjective->eschatological</li>
+    <li>memeAdjective->apocalyptic</li>
+    <li>memeAdjective->cataclysmic</li>
+    <li>memeAdjective->catastrophic</li>
+    <li>memeCreed->predictions</li>
+    <li>memeCreed->prophecies</li>
+    <li>memeCreed->auguries</li>
+    <li>memeLeaderNoun->cult leader</li>
+    <li>memeLeaderNoun->doombringer</li>
+    <li>memeLeaderAdjective->portentous</li>
+    <li>memeLeaderAdjective->oracular</li>
+    <li>memeLeaderAdjective->prescient</li>
+    <li>memeMoralist->doomsayer</li>
+    <li>memeMoralist->scaremonger</li>
+    <li>memeMoralist->harbinger of doom</li>
+  -->
+  <VME_Structure_Eschatologism.generalRules.rulesStrings>
+    <li>memeAdjective->末日</li>
+    <li>memeAdjective->末世论</li>
+    <li>memeAdjective->天启</li>
+    <li>memeAdjective->灾变</li>
+    <li>memeAdjective->毁灭</li>
+    <li>memeCreed->预言</li>
+    <li>memeCreed->预示</li>
+    <li>memeCreed->预兆</li>
+    <li>memeLeaderNoun->教主</li>
+    <li>memeLeaderNoun->末日使者</li>
+    <li>memeLeaderAdjective->预兆</li>
+    <li>memeLeaderAdjective->神谕</li>
+    <li>memeLeaderAdjective->先启</li>
+    <li>memeMoralist->预言者</li>
+    <li>memeMoralist->恐吓者</li>
+    <li>memeMoralist->末日先驱</li>
+  </VME_Structure_Eschatologism.generalRules.rulesStrings>
+  <!-- EN: eschatological -->
+  <VME_Structure_Eschatologism.symbolPacks.0.adjective>末日</VME_Structure_Eschatologism.symbolPacks.0.adjective>
+  <!-- EN: doomsday cultist -->
+  <VME_Structure_Eschatologism.symbolPacks.0.member>末日教徒</VME_Structure_Eschatologism.symbolPacks.0.member>
+  <!-- EN: eschatologism -->
+  <VME_Structure_Eschatologism.symbolPacks.0.theme>末世论</VME_Structure_Eschatologism.symbolPacks.0.theme>
+  <!-- EN: antechamber -->
+  <VME_Structure_Eschatologism.worshipRoomLabel>接待室</VME_Structure_Eschatologism.worshipRoomLabel>
+  
+  <!-- EN: esotericism -->
+  <VME_Structure_Esotericism.label>秘奥探求</VME_Structure_Esotericism.label>
+  <!-- EN: The forces that guide this world are not for the faint of heart nor weak of will. Only through forbidden texts, dark pacts and proper initiation can one truly see beyond the veil. -->
+  <VME_Structure_Esotericism.description>操控世界之力是无法被畏首畏尾与意志薄弱的人掌握的。唯有通过禁书、暗黑契约以及正确的仪式，我们才能真正看透帷幕彼端的事物。</VME_Structure_Esotericism.description>
+  <!-- EN:
+    <li>memeAdjective->obscure</li>
+    <li>memeAdjective->secret</li>
+    <li>memeAdjective->occult</li>
+    <li>memeAdjective->mystical</li>
+    <li>memeCreed->mystery</li>
+    <li>memeCreed->secrets</li>
+    <li>memeCreed->arcana</li>
+    <li>memeCreed->divinations</li>
+    <li>memeLeaderNoun->grand magus</li>
+    <li>memeLeaderNoun->enlightened one</li>
+    <li>memeLeaderAdjective->esoteric</li>
+    <li>memeLeaderAdjective->mystical</li>
+    <li>memeLeaderAdjective->secretive</li>
+    <li>memeMoralist->practitioner</li>
+    <li>memeMoralist->philosopher</li>
+    <li>memeMoralist->wizard</li>
+  -->
+  <VME_Structure_Esotericism.generalRules.rulesStrings>
+    <li>memeAdjective->隐晦</li>
+    <li>memeAdjective->隐秘</li>
+    <li>memeAdjective->玄妙</li>
+    <li>memeAdjective->神秘</li>
+    <li>memeCreed->神秘</li>
+    <li>memeCreed->奥秘</li>
+    <li>memeCreed->奥法</li>
+    <li>memeCreed->占卜</li>
+    <li>memeLeaderNoun->大法师</li>
+    <li>memeLeaderNoun->启明者</li>
+    <li>memeLeaderAdjective->秘奥</li>
+    <li>memeLeaderAdjective->神秘</li>
+    <li>memeLeaderAdjective->隐匿</li>
+    <li>memeMoralist->密医</li>
+    <li>memeMoralist->哲学家</li>
+    <li>memeMoralist->巫师</li>
+  </VME_Structure_Esotericism.generalRules.rulesStrings>
+  <!-- EN: esoteric -->
+  <VME_Structure_Esotericism.symbolPacks.0.adjective>秘奥</VME_Structure_Esotericism.symbolPacks.0.adjective>
+  <!-- EN: practitioner -->
+  <VME_Structure_Esotericism.symbolPacks.0.member>探求者</VME_Structure_Esotericism.symbolPacks.0.member>
+  <!-- EN: esotericism -->
+  <VME_Structure_Esotericism.symbolPacks.0.theme>神秘</VME_Structure_Esotericism.symbolPacks.0.theme>
+  <!-- EN: sanctum -->
+  <VME_Structure_Esotericism.worshipRoomLabel>圣殿</VME_Structure_Esotericism.worshipRoomLabel>
+  
+  <!-- EN: omnism -->
+  <VME_Structure_Omnism.label>普神论</VME_Structure_Omnism.label>
+  <!-- EN: All creeds and beliefs have both truths and fabrications, a healthy mind will listen carefully and with scrutiny to what tenets say as well as what they choose not to say. -->
+  <VME_Structure_Omnism.description>一切教条信仰都兼具真理与谬论。无论是教义所述还是被刻意隐匿的内容，智者都会对其进行仔细地审视。</VME_Structure_Omnism.description>
+  <!-- EN:
+    <li>memeAdjective->universal</li>
+    <li>memeAdjective->reformed</li>
+    <li>memeAdjective->comprehensive</li>
+    <li>memeAdjective->ubiquitous</li>
+    <li>memeAdjective->all-inclusive</li>
+    <li>memeLeaderNoun->all-theist</li>
+    <li>memeLeaderNoun->trascendent one</li>
+    <li>memeLeaderAdjective->wise</li>
+    <li>memeLeaderAdjective->inclusive</li>
+    <li>memeMoralist->priest</li>
+    <li>memeMoralist->preacher</li>
+  -->
+  <VME_Structure_Omnism.generalRules.rulesStrings>
+    <li>memeAdjective->普遍</li>
+    <li>memeAdjective->革新</li>
+    <li>memeAdjective->综合</li>
+    <li>memeAdjective->广泛</li>
+    <li>memeAdjective->包罗万象</li>
+    <li>memeLeaderNoun->智者</li>
+    <li>memeLeaderNoun->飞升者</li>
+    <li>memeLeaderAdjective->博学</li>
+    <li>memeLeaderAdjective->包容</li>
+    <li>memeMoralist->祭司</li>
+    <li>memeMoralist->传教士</li>
+  </VME_Structure_Omnism.generalRules.rulesStrings>
+  <!-- EN: omnist -->
+  <VME_Structure_Omnism.symbolPacks.0.adjective>普神</VME_Structure_Omnism.symbolPacks.0.adjective>
+  <!-- EN: believer -->
+  <VME_Structure_Omnism.symbolPacks.0.member>信徒</VME_Structure_Omnism.symbolPacks.0.member>
+  <!-- EN: omnism -->
+  <VME_Structure_Omnism.symbolPacks.0.theme>普神</VME_Structure_Omnism.symbolPacks.0.theme>
+  <!-- EN: temple -->
+  <VME_Structure_Omnism.worshipRoomLabel>神庙</VME_Structure_Omnism.worshipRoomLabel>
+  
+  <!-- EN: pantheism -->
+  <VME_Structure_Pantheism.label>泛神论</VME_Structure_Pantheism.label>
+  <!-- EN: The Universe is God. There is no God but the combined substance, forces, and laws that are manifested in the existing universe. -->
+  <VME_Structure_Pantheism.description>宇宙本身即是神明。所谓的上帝与天主并不存在，而宇宙中的万物、力量与法则都只是神明的体现。</VME_Structure_Pantheism.description>
+  <!-- EN:
+    <li>memeAdjective->immanent</li>
+    <li>memeAdjective->divine</li>
+    <li>memeAdjective->all-encompassing</li>
+    <li>memeAdjective->transcendent</li>
+    <li>memeAdjective->infinite</li>
+    <li>memeAdjective->enlightened</li>
+    <li>memeLeaderNoun->guru</li>
+    <li>memeLeaderNoun->leader</li>
+    <li>memeLeaderNoun->prince</li>
+    <li>memeLeaderAdjective->calm</li>
+    <li>memeLeaderAdjective->meditating </li>
+    <li>memeLeaderAdjective->enlightened</li>
+    <li>memeMoralist->philosopher</li>
+    <li>memeMoralist->thinker</li>
+    <li>memeMoralist->spiritualist</li>
+  -->
+  <VME_Structure_Pantheism.generalRules.rulesStrings>
+    <li>memeAdjective->固有</li>
+    <li>memeAdjective->神圣</li>
+    <li>memeAdjective->包罗万象</li>
+    <li>memeAdjective->超凡</li>
+    <li>memeAdjective->无限</li>
+    <li>memeAdjective->开明</li>
+    <li>memeLeaderNoun->宗师</li>
+    <li>memeLeaderNoun->领袖</li>
+    <li>memeLeaderNoun->亲王 </li>
+    <li>memeLeaderAdjective->镇静</li>
+    <li>memeLeaderAdjective->冥想</li>
+    <li>memeLeaderAdjective->开明</li>
+    <li>memeMoralist->哲学家</li>
+    <li>memeMoralist->思想家</li>
+    <li>memeMoralist->巫师</li>
+  </VME_Structure_Pantheism.generalRules.rulesStrings>
+  <!-- EN: pantheistic -->
+  <VME_Structure_Pantheism.symbolPacks.0.adjective>泛神论</VME_Structure_Pantheism.symbolPacks.0.adjective>
+  <!-- EN: pantheist -->
+  <VME_Structure_Pantheism.symbolPacks.0.member>泛神论者</VME_Structure_Pantheism.symbolPacks.0.member>
+  <!-- EN: pantheism -->
+  <VME_Structure_Pantheism.symbolPacks.0.theme>泛神论</VME_Structure_Pantheism.symbolPacks.0.theme>
+  <!-- EN: great hall -->
+  <VME_Structure_Pantheism.worshipRoomLabel>大礼堂</VME_Structure_Pantheism.worshipRoomLabel>
+  
+  <!-- EN: secular spirituality -->
+  <VME_Structure_SecularSpirituality.label>世俗灵性</VME_Structure_SecularSpirituality.label>
+  <!-- EN: Putting one’s faith in rituals, prayer or powers beyond only delays one’s personal growth. Enlightenment, happiness, and purpose can all be found from within and through any matter one feels is right. -->
+  <VME_Structure_SecularSpirituality.description>将宗教信仰至于仪式、祷告或权力之上只会耽误我们的个人成长。启发、幸福与目标既可以由心而生，也可以从任何自己认为正确之事里找到。</VME_Structure_SecularSpirituality.description>
+  <!-- EN:
+    <li>memeAdjective->psychic</li>
+    <li>memeAdjective->intangible</li>
+    <li>memeAdjective->ethereal</li>
+    <li>memeAdjective->transcendent</li>
+    <li>memeLeaderNoun->mystic</li>
+    <li>memeLeaderNoun->visionary</li>
+    <li>memeLeaderAdjective->supernatural</li>
+    <li>memeLeaderAdjective->spiritual</li>
+    <li>memeLeaderAdjective->otherworldly</li>
+    <li>memeMoralist->yogi</li>
+    <li>memeMoralist->therapist</li>
+    <li>memeMoralist->meditation teacher</li>
+  -->
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings>
+    <li>memeAdjective->心灵</li>
+    <li>memeAdjective->无形</li>
+    <li>memeAdjective->缥缈</li>
+    <li>memeAdjective->超凡</li>
+    <li>memeLeaderNoun->潜修者</li>
+    <li>memeLeaderNoun->愿景家</li>
+    <li>memeLeaderAdjective->神奇</li>
+    <li>memeLeaderAdjective->精神</li>
+    <li>memeLeaderAdjective->超俗</li>
+    <li>memeMoralist->瑜伽师</li>
+    <li>memeMoralist->医疗专家</li>
+    <li>memeMoralist->禅师</li>
+  </VME_Structure_SecularSpirituality.generalRules.rulesStrings>
+  <!-- EN: secular -->
+  <VME_Structure_SecularSpirituality.symbolPacks.0.adjective>世俗</VME_Structure_SecularSpirituality.symbolPacks.0.adjective>
+  <!-- EN: spiritual person -->
+  <VME_Structure_SecularSpirituality.symbolPacks.0.member>通灵者</VME_Structure_SecularSpirituality.symbolPacks.0.member>
+  <!-- EN: secular spirituality -->
+  <VME_Structure_SecularSpirituality.symbolPacks.0.theme>世俗灵性</VME_Structure_SecularSpirituality.symbolPacks.0.theme>
+  <!-- EN: meditation room -->
+  <VME_Structure_SecularSpirituality.worshipRoomLabel>禅室</VME_Structure_SecularSpirituality.worshipRoomLabel>
+  
+  <!-- EN: serketism -->
+  <VME_Structure_Serketist.label>虫神崇拜</VME_Structure_Serketist.label>
+  <!-- EN: The true face of gods is found in the bite of a spider, the sting of the scorpion. Let those of many legs crawl all over us. -->
+  <VME_Structure_Serketist.description>神明的真实面貌显现在蜘蛛的蛰咬与毒蝎的螫刺中。快让那些腿多的虫子们爬满我们全身吧！</VME_Structure_Serketist.description>
+  <!-- EN:
+    <li>memeAdjective->serketic</li>
+    <li>memeAdjective->insectoid</li>
+    <li>memeAdjective->verminous</li>
+    <li>memeLeaderNoun->scarab lord</li>
+    <li>memeLeaderNoun->high speaker</li>
+    <li>memeLeaderAdjective->buzzing</li>
+    <li>memeLeaderAdjective->gregarious</li>
+    <li>memeLeaderAdjective->crawling</li>
+    <li>memeMoralist->shaman</li>
+    <li>memeMoralist->moth priest</li>
+    <li>memeMoralist->plague advocate</li>
+  -->
+  <VME_Structure_Serketist.generalRules.rulesStrings>
+    <li>memeAdjective->虫神</li>
+    <li>memeAdjective->虫族</li>
+    <li>memeAdjective->虱虫</li>
+    <li>memeLeaderNoun->甲虫领主</li>
+    <li>memeLeaderNoun->至高演讲者</li>
+    <li>memeLeaderAdjective->嗡嗡</li>
+    <li>memeLeaderAdjective->群居</li>
+    <li>memeLeaderAdjective->爬行</li>
+    <li>memeMoralist->萨满</li>
+    <li>memeMoralist->飞蛾祭司</li>
+    <li>memeMoralist->瘟疫传播者</li>
+  </VME_Structure_Serketist.generalRules.rulesStrings>
+  <!-- EN: serketist -->
+  <VME_Structure_Serketist.symbolPacks.0.adjective>虫神</VME_Structure_Serketist.symbolPacks.0.adjective>
+  <!-- EN: serketist -->
+  <VME_Structure_Serketist.symbolPacks.0.member>虫神敬拜者</VME_Structure_Serketist.symbolPacks.0.member>
+  <!-- EN: serketism -->
+  <VME_Structure_Serketist.symbolPacks.0.theme>虫神敬拜</VME_Structure_Serketist.symbolPacks.0.theme>
+  <!-- EN: hive -->
+  <VME_Structure_Serketist.worshipRoomLabel>巢穴</VME_Structure_Serketist.worshipRoomLabel>
+  
+  <!-- EN: shintaoist origin -->
+  <VME_Structure_Shintaoism.label>东方教起源</VME_Structure_Shintaoism.label>
+  <!-- EN: This ideoligion is a descendant of ancient Shinto and Taoism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <VME_Structure_Shintaoism.description>这种思想宗教是远古道教和神道教的延续。它的戒律可能与几千年前的戒律大不相同，但它的符号却很相似。</VME_Structure_Shintaoism.description>
+  <!-- EN:
+    <li>memeAdjective->balanced</li>
+    <li>memeAdjective->natural</li>
+    <li>memeAdjective->compassionate</li>
+    <li>memeAdjective->frugal</li>
+    <li>memeAdjective->humble</li>
+    <li>memeLeaderNoun->taoshih</li>
+    <li>memeLeaderNoun->master of the Tao</li>
+    <li>memeLeaderAdjective->spiritual</li>
+    <li>memeLeaderAdjective->serene</li>
+    <li>memeMoralist->shintaoist priest</li>
+  -->
+  <VME_Structure_Shintaoism.generalRules.rulesStrings>
+    <li>memeAdjective->平衡</li>
+    <li>memeAdjective->自然</li>
+    <li>memeAdjective->同情</li>
+    <li>memeAdjective->质朴</li>
+    <li>memeAdjective->谦逊</li>
+    <li>memeLeaderNoun->方丈</li>
+    <li>memeLeaderNoun->住持</li>
+    <li>memeLeaderAdjective->精神</li>
+    <li>memeLeaderAdjective->祥和</li>
+    <li>memeMoralist->道长</li>
+  </VME_Structure_Shintaoism.generalRules.rulesStrings>
+  <!-- EN: shintaoist -->
+  <VME_Structure_Shintaoism.symbolPacks.0.adjective>东方</VME_Structure_Shintaoism.symbolPacks.0.adjective>
+  <!-- EN: initiate -->
+  <VME_Structure_Shintaoism.symbolPacks.0.member>弟子</VME_Structure_Shintaoism.symbolPacks.0.member>
+  <!-- EN: shintao -->
+  <VME_Structure_Shintaoism.symbolPacks.0.theme>东方</VME_Structure_Shintaoism.symbolPacks.0.theme>
+  <!-- EN: dàoguàn -->
+  <VME_Structure_Shintaoism.worshipRoomLabel>道观</VME_Structure_Shintaoism.worshipRoomLabel>
+  
+</LanguageData>

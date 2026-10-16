@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Woven Basket Double -->
+  <ASF_WovenBasketDouble.label>双层编织篮</ASF_WovenBasketDouble.label>
+  <!-- EN: A stack of two woven baskets designed for storing various items. Items stored inside do not affect the beauty of their surroundings.\n\nTotal Capacity: 20 Stacks -->
+  <ASF_WovenBasketDouble.description>用于储存各种物品的双层编织篮。存放在里面的物品永远不会老化，也不会影响周围环境的美观度。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：20组\n【可储存类型】：所有物品</ASF_WovenBasketDouble.description>
+  
+</LanguageData>

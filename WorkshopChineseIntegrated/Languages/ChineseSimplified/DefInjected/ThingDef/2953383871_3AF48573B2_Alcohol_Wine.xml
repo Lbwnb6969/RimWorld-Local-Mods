@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Wine.label>葡萄酒</DankPyon_Wine.label>
+  <DankPyon_Wine.description>富有多种风味的酒。陈年佳酿是专为鑑赏家和相当挑剔的酒饕而设计的精致饮品——在皇家派对、宴会和化装舞会上必不可少。年份短的葡萄酒则经常在路边的酒馆里贩售给农民——只不过会先在老板良心允许的范围内用水稀释过。</DankPyon_Wine.description>
+  <DankPyon_Wine.tools.0.label>瓶身</DankPyon_Wine.tools.0.label>
+  <DankPyon_Wine.tools.1.label>瓶颈</DankPyon_Wine.tools.1.label>
+  <DankPyon_Wine.ingestible.ingestCommandString>饮用{0}</DankPyon_Wine.ingestible.ingestCommandString>
+  <DankPyon_Wine.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Wine.ingestible.ingestReportString>
+
+  <DankPyon_MustWine.label>葡萄浆</DankPyon_MustWine.label>
+  <DankPyon_MustWine.description>压碎的葡萄。需要在质朴发酵桶发酵以酿成葡萄酒。</DankPyon_MustWine.description>
+
+
+  <!-- Mulberry Wine -->
+
+  <DankPyon_Wine_Mulberry.label>桑葚酒</DankPyon_Wine_Mulberry.label>
+  <DankPyon_Wine_Mulberry.description>使用甘美桑葚酿造而成的果味红酒，在种植桑树培育蚕丝的桑园里，几乎都会一并经营桑葚酒的生产事业。陈年桑葚酒的魅力，仿佛像是在人们耳边低声诉说着高雅的轶闻趣事，以其复杂的风味向鉴赏家们招手，是贵族聚会和皇家宴会的主打产品。</DankPyon_Wine_Mulberry.description>
+  <DankPyon_Wine_Mulberry.tools.0.label>瓶身</DankPyon_Wine_Mulberry.tools.0.label>
+  <DankPyon_Wine_Mulberry.tools.1.label>瓶颈</DankPyon_Wine_Mulberry.tools.1.label>
+  <DankPyon_Wine_Mulberry.ingestible.ingestCommandString>饮用{0}</DankPyon_Wine_Mulberry.ingestible.ingestCommandString>
+  <DankPyon_Wine_Mulberry.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Wine_Mulberry.ingestible.ingestReportString>
+
+  <DankPyon_MustWine_Mulberry.label>桑葚浆</DankPyon_MustWine_Mulberry.label>
+  <DankPyon_MustWine_Mulberry.description>压碎的桑葚。需要在质朴发酵桶发酵以酿成桑葚酒。</DankPyon_MustWine_Mulberry.description>
+
+  <!-- Griffon Wine -->
+  <DankPyon_Wine_Griffon.label>狮鹫莓酒</DankPyon_Wine_Griffon.label>
+  <DankPyon_Wine_Griffon.description>一种风味万千的酒。陈年狮鹫莓酒是专为鉴赏家和相当挑剔的酒饕而设计的精致饮品——在皇家派对、宴会和化装舞会上必不可少。年份短的狮鹫莓酒则经常在路边的酒馆里贩售给农民——只不过会先在老板良心允许的范围内用水稀释过。</DankPyon_Wine_Griffon.description>
+  <DankPyon_Wine_Griffon.tools.0.label>瓶身</DankPyon_Wine_Griffon.tools.0.label>
+  <DankPyon_Wine_Griffon.tools.1.label>瓶颈</DankPyon_Wine_Griffon.tools.1.label>
+  <DankPyon_Wine_Griffon.ingestible.ingestCommandString>饮用{0}</DankPyon_Wine_Griffon.ingestible.ingestCommandString>
+  <DankPyon_Wine_Griffon.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Wine_Griffon.ingestible.ingestReportString>
+
+  <DankPyon_MustWine_Griffon.label>狮鹫莓浆</DankPyon_MustWine_Griffon.label>
+  <DankPyon_MustWine_Griffon.description>压碎的狮鹫莓。需要在质朴发酵桶发酵以酿成狮鹫莓酒。</DankPyon_MustWine_Griffon.description>
+
+  <!-- Ice Wine -->
+
+  <DankPyon_Wine_Ice.label>冰酒</DankPyon_Wine_Ice.label>
+  <DankPyon_Wine_Ice.description>由罕见的霜莓酿制而成的美酒，因其迷人的高质量风味而备受追捧。这种用初冬霜冻期间采摘的霜莓酿造出的酒，清冽甘甜，带着一丝冬日的寒意。\n\n冰酒能赋予饮用者微妙的抗冻能力，使他们能够抵御最严酷的寒冷。这种神奇的饮料是冒险家和旅行者在冰天雪地里的最爱，只需喝上一口，就能让人倍感温暖和保护。</DankPyon_Wine_Ice.description>
+  <DankPyon_Wine_Ice.tools.0.label>瓶身</DankPyon_Wine_Ice.tools.0.label>
+  <DankPyon_Wine_Ice.tools.1.label>瓶颈</DankPyon_Wine_Ice.tools.1.label>
+  <DankPyon_Wine_Ice.ingestible.ingestCommandString>饮用{0}</DankPyon_Wine_Ice.ingestible.ingestCommandString>
+  <DankPyon_Wine_Ice.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Wine_Ice.ingestible.ingestReportString>
+
+  <DankPyon_MustWine_Ice.label>霜莓浆</DankPyon_MustWine_Ice.label>
+  <DankPyon_MustWine_Ice.description>压碎的霜莓。需要在质朴发酵桶发酵以酿成霜莓酒。</DankPyon_MustWine_Ice.description>
+
+</LanguageData>

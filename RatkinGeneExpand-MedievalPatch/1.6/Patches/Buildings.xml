@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Keep power comps because the custom building classes read PowerComp directly. -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="OAGene_RatkinDestructiveGeneDiscriminator" or defName="OAGene_RatkinGeneDiscriminator" or defName="OAGene_OAGeneFragmentInterceptor" or defName="OAGene_OARatkinGeneDiscriminator" or defName="OAGene_OAGeneProcessor" or defName="OAGene_OAGeneBank" or defName="OAGene_OAGeneRepairInstrument"]/comps/li[@Class="CompProperties_Power"]/basePowerConsumption</xpath>
+    <value>
+      <basePowerConsumption>-1</basePowerConsumption>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="OAGene_RatkinDestructiveGeneDiscriminator" or defName="OAGene_RatkinGeneDiscriminator" or defName="OAGene_OAGeneFragmentInterceptor" or defName="OAGene_OARatkinGeneDiscriminator" or defName="OAGene_OAGeneProcessor" or defName="OAGene_OAGeneBank" or defName="OAGene_OAGeneRepairInstrument"]/comps/li[@Class="CompProperties_Power"]</xpath>
+    <value>
+      <transmitsPower>true</transmitsPower>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="OAGene_RatkinDestructiveGeneDiscriminator" or defName="OAGene_RatkinGeneDiscriminator" or defName="OAGene_OAGeneFragmentInterceptor" or defName="OAGene_OARatkinGeneDiscriminator" or defName="OAGene_OAGeneRepairInstrument"]/comps/li[@Class="CompProperties_Power"]/idlePowerDraw</xpath>
+    <value>
+      <idlePowerDraw>0</idlePowerDraw>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="OAGene_RatkinDestructiveGeneDiscriminator"]/costList</xpath>
+    <value><costList><Steel>350</Steel></costList></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="OAGene_RatkinGeneDiscriminator"]/costList</xpath>
+    <value><costList><Steel>300</Steel></costList></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="OAGene_OAGeneFragmentInterceptor"]/costList</xpath>
+    <value><costList><Steel>300</Steel><Gold>20</Gold></costList></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="OAGene_OARatkinGeneDiscriminator"]/costList</xpath>
+    <value><costList><Steel>300</Steel><Gold>30</Gold></costList></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="OAGene_OAGeneProcessor"]/costList</xpath>
+    <value><costList><Steel>240</Steel></costList></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="OAGene_OAGeneBank"]/costList</xpath>
+    <value><costList><Steel>160</Steel></costList></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="OAGene_OAGeneRepairInstrument"]/costList</xpath>
+    <value><costList><Steel>260</Steel><Gold>25</Gold></costList></value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="OAGene_RatkinGeneDiscriminator" or defName="OAGene_OARatkinGeneDiscriminator"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>VR_GeneRack</li>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="VR_GraftForge"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>OAGene_OAGeneBank</li>
+      <li>OAGene_OAGeneProcessor</li>
+    </value>
+  </Operation>
+</Patch>

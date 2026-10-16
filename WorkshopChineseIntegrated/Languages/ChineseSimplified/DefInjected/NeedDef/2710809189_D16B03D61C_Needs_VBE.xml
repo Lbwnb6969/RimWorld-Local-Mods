@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_CoffeeNeed.label>咖啡</AM_CoffeeNeed.label>
+  
+  <AM_CoffeeNeed.description>咖啡需求反映了人物对新鲜冲泡的咖啡豆所带来的振奋暖意和浓郁口感的渴望，此乃提神醒脑和开启崭新一天的仪式。</AM_CoffeeNeed.description>
+  
+  
+  <AM_TeaNeed.label>饮茶</AM_TeaNeed.label>
+  
+  <AM_TeaNeed.description>饮茶需求反映了人物对茶道的温舒韵致与高雅品味的渴望，此乃与古老文明同寿的仪式。</AM_TeaNeed.description>
+  
+</LanguageData>

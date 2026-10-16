@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>physical_description_root->The plaque is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The plaque has a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The plaque is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on the plaque [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <AM_ArtDescription_Mummy.rulePack.rulesStrings>  
+    <li>physical_description_root->这具木乃伊上印写的内容[depiction]了[image]。[desc_sentence_group]</li>
+    <li>physical_description_root->这具木乃伊上印写的内容向我们[depiction]了[image]。[desc_sentence_group]</li>
+    <li>physical_description_root->这具木乃伊上印写的内容[depiction]了[image]。[desc_sentence_group]</li>
+    <li>physical_description_root->在这具木乃伊上印写的内容[depicts]的是[image]。[desc_sentence_group]</li>
+  </AM_ArtDescription_Mummy.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->The Urn is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The Urn bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The Urn is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this Urn [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <AM_ArtDescription_Urn.rulePack.rulesStrings>  
+    <li>physical_description_root->这个骨灰瓮上雕刻的内容[depiction]了[image]。[desc_sentence_group]</li>
+    <li>physical_description_root->这个骨灰瓮上雕刻的内容向我们[depiction]了[image]。[desc_sentence_group]</li>
+    <li>physical_description_root->这个骨灰瓮上雕刻的内容[depiction]了[image]。[desc_sentence_group]</li>
+    <li>physical_description_root->在这个骨灰瓮上雕刻的内容[depicts]的是[image]。[desc_sentence_group]</li>
+  </AM_ArtDescription_Urn.rulePack.rulesStrings>
+  
+</LanguageData>

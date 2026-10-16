@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: field medic -->
+  <BEWH_FieldMedic.degreeDatas.field_medic.label>战地医生</BEWH_FieldMedic.degreeDatas.field_medic.label>
+  <!-- EN: {PAWN_nameDef} used to function as a field medic. {PAWN_pronoun} has learned how to quickly apply first aid to fallen allies, sometimes too fast. -->
+  <BEWH_FieldMedic.degreeDatas.field_medic.description>{PAWN_nameDef}曾经担任战地医生。{PAWN_pronoun}学会了如何快速对倒下的盟友进行急救，但太快也不是一件好事。</BEWH_FieldMedic.degreeDatas.field_medic.description>
+  
+  <!-- EN: serf -->
+  <BEWH_Serf.degreeDatas.serf.label>侍从</BEWH_Serf.degreeDatas.serf.label>
+  <!-- EN: {PAWN_nameDef} is a serf. {PAWN_pronoun} lives to serve their Space Marine masters. -->
+  <BEWH_Serf.degreeDatas.serf.description>{PAWN_nameDef}是一名侍从。{PAWN_pronoun}的唯一使命便是为星际战士服务。</BEWH_Serf.degreeDatas.serf.description>
+  
+  <!-- EN: surgeon -->
+  <BEWH_Surgeon.degreeDatas.surgeon.label>外科医生</BEWH_Surgeon.degreeDatas.surgeon.label>
+  <!-- EN: {PAWN_nameDef} is a trained surgeon. {PAWN_pronoun} has undergone training in the fine arts of cutting people up and stiching them back together, hopefully fixing stuff that needed it midst the cutting. -->
+  <BEWH_Surgeon.degreeDatas.surgeon.description>{PAWN_nameDef}是一名训练有素的外科医生，{PAWN_pronoun}接受过精密的外科手术训练，能够将人体切开再缝合，并能在切割过程中修复需要修复的部分。</BEWH_Surgeon.degreeDatas.surgeon.description>
+  
+</LanguageData>

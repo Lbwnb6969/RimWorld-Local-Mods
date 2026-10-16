@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Medieval Overhaul Royalty - New Configuration Menu -->
+  <MOR_ModMenuNewsLetter_Title>Medieval Overhaul Royalty</MOR_ModMenuNewsLetter_Title>
+  <!-- EN: Medieval Overhaul Royalty now features its own configuration menu in your Mod Options!\n\nAccess it anytime through:\nOptions → Mod Options → Medieval Overhaul Royalty\n\nTwo new settings are available:\n\n• Medieval Overhaul - Furniture Integration\nControls whether Medieval Overhaul items completely replace vanilla royal furniture, or are added as supplementary options.\n\n• Medieval Overhaul - Empire Trader Integration\nDetermine if Medieval Overhaul goods dominate Empire trader stocks, or are mixed with vanilla items (incl. orbital trader).\n\nConfigure these settings to your preference and reload your game to apply the changes! -->
+  <MOR_ModMenuNewsLetter_Text>Medieval Overhaul Royalty现已于模组选项中新增专属设定界面！\n\n可从游戏选单进入设定页：选项 → 模组设定 → Medieval Overhaul Royalty\n\n新增两项设定项目：\n\n• Medieval Overhaul - 贵族头衔家具需求整合\n控制是否以MO建筑完全取代原版建筑需求，或做为补充选项。\n\n• Medieval Overhaul - 帝国商人整合\n决定MO物品是否主导帝国商人存货生成规则，或与原版物品混合陈列。\n\n依个人偏好设定后，重启游戏即可生效！</MOR_ModMenuNewsLetter_Text>
+</LanguageData>

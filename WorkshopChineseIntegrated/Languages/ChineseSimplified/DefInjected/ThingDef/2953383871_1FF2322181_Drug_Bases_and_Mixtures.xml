@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mixtures base for drugs -->
+
+  <DankPyon_Mixture_Miracle.label>炼金混合原料 (药剂师的奇迹)</DankPyon_Mixture_Miracle.label>
+  <DankPyon_Mixture_Miracle.description>炼金原料的混合物，用来制作药剂师的奇迹。需要在炼金釜调和后才能使用。</DankPyon_Mixture_Miracle.description>
+
+  <DankPyon_Mixture_HappyPowder.label>炼金混合原料 (快乐粉)</DankPyon_Mixture_HappyPowder.label>
+  <DankPyon_Mixture_HappyPowder.description>炼金原料的混合物，用来制作快乐粉。需要在炼金釜调和后才能使用。</DankPyon_Mixture_HappyPowder.description>
+
+  <DankPyon_Mixture_BattleElixir.label>炼金混合原料 (战斗灵药)</DankPyon_Mixture_BattleElixir.label>
+  <DankPyon_Mixture_BattleElixir.description>炼金原料的混合物，用来制作战斗灵药。需要在炼金釜调和后才能使用。</DankPyon_Mixture_BattleElixir.description>
+
+  <DankPyon_Mixture_Paregoric.label>炼金混合原料 (安神鸦片酊)</DankPyon_Mixture_Paregoric.label>
+  <DankPyon_Mixture_Paregoric.description>炼金原料的混合物，用来制作安神鸦片酊。需要在炼金釜调和后才能使用。</DankPyon_Mixture_Paregoric.description>
+
+  <DankPyon_Mixture_VigorPill.label>炼金混合原料 (活力丸)</DankPyon_Mixture_VigorPill.label>
+  <DankPyon_Mixture_VigorPill.description>炼金原料的混合物，用来制作活力丸。需要在炼金釜调和后才能使用。</DankPyon_Mixture_VigorPill.description>
+
+  <DankPyon_Mixture_Luhix.label>炼金混合原料 (乐喜思)</DankPyon_Mixture_Luhix.label>
+  <DankPyon_Mixture_Luhix.description>炼金原料的混合物，用来制作乐喜思。需要在炼金釜调和后才能使用。</DankPyon_Mixture_Luhix.description>
+
+  <DankPyon_Mixture_Stardust.label>炼金混合原料 (星尘粉)</DankPyon_Mixture_Stardust.label>
+  <DankPyon_Mixture_Stardust.description>炼金原料的混合物，用来制作星尘粉。需要在炼金釜调和后才能使用。</DankPyon_Mixture_Stardust.description>
+
+  <DankPyon_Mixture_Knowledge.label>炼金混合原料 (知识灵药)</DankPyon_Mixture_Knowledge.label>
+  <DankPyon_Mixture_Knowledge.description>炼金原料的混合物，用来制作知识灵药。需要在炼金釜调和后才能使用。</DankPyon_Mixture_Knowledge.description>
+
+</LanguageData>

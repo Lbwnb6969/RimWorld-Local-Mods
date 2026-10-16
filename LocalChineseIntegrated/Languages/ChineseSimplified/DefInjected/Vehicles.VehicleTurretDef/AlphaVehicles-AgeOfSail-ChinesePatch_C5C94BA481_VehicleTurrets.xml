@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AV_PirateCaravel_MainTurret.label>舷侧炮</AV_PirateCaravel_MainTurret.label>
+  <AV_PirateCaravel_MainTurret.description>同时发射战船一侧的全部火炮。</AV_PirateCaravel_MainTurret.description>
+  <AV_PirateCaravel_MainTurret.fireModes.0.label>舷侧齐射</AV_PirateCaravel_MainTurret.fireModes.0.label>
+  <AV_PirateCaravel_SecondTurret.label>舷侧炮</AV_PirateCaravel_SecondTurret.label>
+  <AV_PirateCaravel_SecondTurret.description>同时发射战船一侧的全部火炮。</AV_PirateCaravel_SecondTurret.description>
+  <AV_PirateCaravel_SecondTurret.fireModes.0.label>舷侧齐射</AV_PirateCaravel_SecondTurret.fireModes.0.label>
+  <AV_Frigate_MainTurret.label>舷侧炮</AV_Frigate_MainTurret.label>
+  <AV_Frigate_MainTurret.description>同时发射战船一侧的全部火炮。</AV_Frigate_MainTurret.description>
+  <AV_Frigate_MainTurret.fireModes.0.label>舷侧齐射</AV_Frigate_MainTurret.fireModes.0.label>
+  <AV_Frigate_SecondTurret.label>舷侧炮</AV_Frigate_SecondTurret.label>
+  <AV_Frigate_SecondTurret.description>同时发射战船一侧的全部火炮。</AV_Frigate_SecondTurret.description>
+  <AV_Frigate_SecondTurret.fireModes.0.label>舷侧齐射</AV_Frigate_SecondTurret.fireModes.0.label>
+</LanguageData>

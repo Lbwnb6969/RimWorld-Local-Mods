@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate in wooden table -->
+  <AM_RoughLiving_Disliked_AteInWoodenTable.stages.ate_in_wooden_table.label>在木制桌子上吃饭</AM_RoughLiving_Disliked_AteInWoodenTable.stages.ate_in_wooden_table.label>
+  <!-- EN: Dining on a table crafted from fallen trees fills me with pride. A symbol of our dominance over the wild. -->
+  <AM_RoughLiving_Disliked_AteInWoodenTable.stages.ate_in_wooden_table.description>在一张用伐倒的树木制成的桌子上吃饭令我感到骄傲。这也是我们支配荒野的象征。</AM_RoughLiving_Disliked_AteInWoodenTable.stages.ate_in_wooden_table.description>
+  
+  <!-- EN: ate without table -->
+  <AM_RoughLiving_Disliked_AteWithoutATable.stages.ate_without_table.label>在地上吃饭</AM_RoughLiving_Disliked_AteWithoutATable.stages.ate_without_table.label>
+  <!-- EN: I had to eat a meal off the filthy ground like a wild animal. This is beneath even the barest standards of decency! -->
+  <AM_RoughLiving_Disliked_AteWithoutATable.stages.ate_without_table.description>我不得不像野兽一样在污秽的地上吃饭。这可一点都不体面！</AM_RoughLiving_Disliked_AteWithoutATable.stages.ate_without_table.description>
+  
+  <!-- EN: slept in wooden bed -->
+  <AM_RoughLiving_Disliked_SleptInWoodenBed.stages.slept_in_wooden_bed.label>在木制床上睡觉</AM_RoughLiving_Disliked_SleptInWoodenBed.stages.slept_in_wooden_bed.label>
+  <!-- EN: There's something deeply satisfying about resting on the remains of felled trees. A proper victory over nature. -->
+  <AM_RoughLiving_Disliked_SleptInWoodenBed.stages.slept_in_wooden_bed.description>在一张用伐倒的树木制成的床上睡觉令我十分满足。这是征服自然过程中的一次胜利。</AM_RoughLiving_Disliked_SleptInWoodenBed.stages.slept_in_wooden_bed.description>
+  
+</LanguageData>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional" MayRequire="athelas.medievalkingdoms.mongols"><xpath>Defs/FactionDef[defName="BA_Mongol_NobleHouse"]/modExtensions/li[@Class="KCSG.CustomGenOption"]/chooseFromSettlements</xpath><match Class="PatchOperationReplace"><xpath>Defs/FactionDef[defName="BA_Mongol_NobleHouse"]/modExtensions/li[@Class="KCSG.CustomGenOption"]/chooseFromSettlements</xpath><value><chooseFromSettlements><li>BA_MongolTown</li><li>BA_MongolTown</li><li>BA_MongolTown</li><li>BA_MongolTown</li><li>BA_MongolTown</li><li>BA_MongolTown</li><li>EESMK_Mongol_KhanOrduTownV2</li><li>EESMK_Mongol_CaravanCampTownV2</li><li>EESMK_Mongol_WinterOrduTownV2</li><li>EESMK_Mongol_RiverOrduTownV2</li></chooseFromSettlements></value></match></Operation>
+</Patch>

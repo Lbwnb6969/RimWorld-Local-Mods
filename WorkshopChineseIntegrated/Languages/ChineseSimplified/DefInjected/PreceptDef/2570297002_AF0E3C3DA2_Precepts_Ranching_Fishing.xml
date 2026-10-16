@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: discouraged -->
+  <VME_Ranching_Discouraged.label>反感</VME_Ranching_Discouraged.label>
+  <!-- EN: Why would we raise land animals or hunt, waste our time training and butchering them when we can get all the meat we need from the sea? -->
+  <VME_Ranching_Discouraged.description>既然从水中捕捞的渔获完全能满足我们，那么还有什么理由去费心费力地饲养、狩猎、训练以及屠宰陆地上的动物呢？</VME_Ranching_Discouraged.description>
+  
+</LanguageData>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial ecosystems -->
+  <VFE_Res_AdvancedHydroponics.label>人工生态系统</VFE_Res_AdvancedHydroponics.label>
+  <!-- EN: Learn to construct artificial ecosystems, highly advanced terraria which vastly improve upon hydroponics. -->
+  <VFE_Res_AdvancedHydroponics.description>研习人工生态系统，构建高度先进高效的地形地面，极大改善水培法。</VFE_Res_AdvancedHydroponics.description>
+  <!-- EN:
+    <li>subject->pioneering biospheres</li>
+    <li>subject_story->conceived and created self-sustaining environments, mastering the balance of nature and technology</li>
+    <li>subject_story->ushered in a new age of food security with ecosystems that defy the natural limitations of climate and geography</li>
+    <li>subject_story->harnessed the principles of ecological harmony, integrating advanced hydroponics with biodiverse terraria</li>
+    <li>subject_story->enabled the cultivation of exotic flora and fauna, previously unseen on this scale</li>
+    <li>subject_story->innovated in closed-loop water and nutrient cycles, reducing waste and increasing efficiency</li>
+    <li>subject_gerund->revolutionizing agriculture with the creation of artificial ecosystems</li>
+  -->
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings>
+    <li>subject->创新生物圈</li>
+    <li>subject_story->设想并创造了能自我维持的环境，掌控了自然与技术间的平衡</li>
+    <li>subject_story->引领了一个突破气候与地理自然限制的生态系统的新时代，确保了食物的安全</li>
+    <li>subject_story->利用了生态和谐的理论，将高级水栽培设施与陆地生命多样性融为一体</li>
+    <li>subject_story->使未曾有过的大规模培育稀有动植物成为可能</li>
+    <li>subject_story->在闭式水与营养循环中进行革新，降低了浪费并提高效率</li>
+    <li>subject_gerund->通过创建人工生态系统以完全革新农业</li>
+  </VFE_Res_AdvancedHydroponics.generalRules.rulesStrings>
+  
+  <!-- EN: farming techniques -->
+  <VFE_Res_FarmingTechniques.label>农业技术</VFE_Res_FarmingTechniques.label>
+  <!-- EN: Develop a theoretical basis for larger-scale farming operations, including centralized feeding and dedicated scarecrows to keep your crops uneaten. -->
+  <VFE_Res_FarmingTechniques.description>为大规模的农业经营提供理论基础。包括集约化饲育系统，和专用用于防止作物被偷吃的稻草人。</VFE_Res_FarmingTechniques.description>
+  <!-- EN:
+    <li>subject->cultivating abundance</li>
+    <li>subject_story->rediscovered and refined ancient methods for modern largescale farming operations</li>
+    <li>subject_story->implemented centralized feeding strategies, optimizing nutrition and yield</li>
+    <li>subject_story->crafted scarecrows based on deep understanding of local fauna, effectively protecting crops</li>
+    <li>subject_story->laid down the foundational practices for sustainable and efficient food production</li>
+    <li>subject_story->inspired a generation of farmers to adopt innovative approaches to agriculture</li>
+    <li>subject_gerund->advancing the art and science of farming through cutting-edge techniques</li>
+  -->
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings>
+    <li>subject->培养丰获</li>
+    <li>subject_story->重新找到并改良了新式大规模农业种植的远古方法</li>
+    <li>subject_story->执行集中饲养规划，充分优化营养与产出</li>
+    <li>subject_story->对当地动物种群进行深入了解后，制作了能有效保护作物的稻草人</li>
+    <li>subject_story->制定了可持续发展与高效食物产出的基础规则</li>
+    <li>subject_story->鼓励了一批农民采用革新农业方法</li>
+    <li>subject_gerund->利用尖端技术推进农业技艺与科学</li>
+  </VFE_Res_FarmingTechniques.generalRules.rulesStrings>
+  
+  <!-- EN: sprinklers -->
+  <VFE_Res_Sprinkler.label>喷淋装置</VFE_Res_Sprinkler.label>
+  <!-- EN: Assemble schematics for a device which can automatically water fields, increasing the speed at which crops grow. -->
+  <VFE_Res_Sprinkler.description>研究自动浇水设备的组装技术，可提高农作物的生长速度。</VFE_Res_Sprinkler.description>
+  <!-- EN:
+    <li>subject->the irrigation evolution</li>
+    <li>subject_story->developed automated watering systems, ensuring optimal hydration for crops across vast fields</li>
+    <li>subject_story->transformed agricultural productivity with precision irrigation, minimizing water waste</li>
+    <li>subject_story->pioneered the use of sprinklers, marking a leap forward from traditional watering methods</li>
+    <li>subject_story->empowered farmers to control the very essence of growth - water - with the turn of a valve</li>
+    <li>subject_story->fostered greener pastures and bountiful harvests, even in areas once thought barren</li>
+    <li>subject_gerund->streamlining growth with the simplicity and efficiency of sprinklers</li>
+  -->
+  <VFE_Res_Sprinkler.generalRules.rulesStrings>
+    <li>subject->灌溉发展</li>
+    <li>subject_story->研发了自动灌溉系统，确保大片作物能得到最优的水化作用</li>
+    <li>subject_story->通过精准灌溉改变了农业生产力，最大程度地降低了水资源浪费</li>
+    <li>subject_story->开创使用了喷淋装置，标志着已脱离传统的灌溉方法</li>
+    <li>subject_story->让农民们可以通过扭动阀门来控制作物的生长本质——水</li>
+    <li>subject_story->促进了更绿色的牧场和丰收，甚至是在那些荒芜的地区</li>
+    <li>subject_gerund->使用简单和高效的喷淋装置简化种植过程</li>
+  </VFE_Res_Sprinkler.generalRules.rulesStrings>
+  
+</LanguageData>

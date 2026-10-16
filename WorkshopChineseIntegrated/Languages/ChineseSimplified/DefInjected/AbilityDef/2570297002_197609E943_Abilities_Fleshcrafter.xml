@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harvest body parts -->
+  <VME_HarvestBodyParts.label>血肉收割</VME_HarvestBodyParts.label>
+  <!-- EN: Harvests a fleshcrafted body part from a corpse. -->
+  <VME_HarvestBodyParts.description>从尸体上收割一个血肉重塑器官。</VME_HarvestBodyParts.description>
+  
+</LanguageData>

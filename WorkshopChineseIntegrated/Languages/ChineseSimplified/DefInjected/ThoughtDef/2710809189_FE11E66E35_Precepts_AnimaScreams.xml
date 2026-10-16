@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anima tree around -->
+  <AM_AnimaScream_TreesInMap.stages.anima_tree_around.label>附近有仙树</AM_AnimaScream_TreesInMap.stages.anima_tree_around.label>
+  <!-- EN: That strange anima tree is whispering inside my mind, we should get rid of it! -->
+  <AM_AnimaScream_TreesInMap.stages.anima_tree_around.description>那棵古怪的仙树好像在对我低语，快把它从我的脑海中赶出去！</AM_AnimaScream_TreesInMap.stages.anima_tree_around.description>
+  <!-- EN: anima trees around -->
+  <AM_AnimaScream_TreesInMap.stages.anima_trees_around.label>附近有仙树</AM_AnimaScream_TreesInMap.stages.anima_trees_around.label>
+  <!-- EN: This is madness, those trees need to be cut down NOW. -->
+  <AM_AnimaScream_TreesInMap.stages.anima_trees_around.description>真是见鬼！我们必须赶快把那些该死的树砍光！现在！立刻！马上！</AM_AnimaScream_TreesInMap.stages.anima_trees_around.description>
+  
+  <!-- EN: anima scream -->
+  <AM_AnimaScreams_Delightful.stages.anima_scream.label>仙灵尖啸</AM_AnimaScreams_Delightful.stages.anima_scream.label>
+  <!-- EN: The reverberating mental echoes of the cursed tree's death are music to my brain. -->
+  <AM_AnimaScreams_Delightful.stages.anima_scream.description>那些被诅咒的树死亡后产生的心灵回响萦绕在我的脑海中，如同悦耳的音乐般美妙。</AM_AnimaScreams_Delightful.stages.anima_scream.description>
+  
+</LanguageData>

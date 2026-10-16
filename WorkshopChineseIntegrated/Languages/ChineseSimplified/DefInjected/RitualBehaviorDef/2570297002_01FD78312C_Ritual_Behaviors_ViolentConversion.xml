@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: inquisitor -->
+  <VME_ViolentConversionRitualBehaviour.roles.0.label>审判官</VME_ViolentConversionRitualBehaviour.roles.0.label>
+  <!-- EN: prisoner -->
+  <VME_ViolentConversionRitualBehaviour.roles.1.label>囚犯</VME_ViolentConversionRitualBehaviour.roles.1.label>
+  <!-- EN: a prisoner -->
+  <VME_ViolentConversionRitualBehaviour.roles.1.missingDesc>一名囚犯</VME_ViolentConversionRitualBehaviour.roles.1.missingDesc>
+  <!-- EN: Spectators must be willing to watch the violent conversion. -->
+  <VME_ViolentConversionRitualBehaviour.spectatorFilter.description>观众们一定乐意观看暴力转化。</VME_ViolentConversionRitualBehaviour.spectatorFilter.description>
+  <!-- EN: Prisoner is not reachable. -->
+  <VME_ViolentConversionRitualBehaviour.stages.0.failTriggers.0.desc>无法抵达囚犯位置。</VME_ViolentConversionRitualBehaviour.stages.0.failTriggers.0.desc>
+  
+</LanguageData>

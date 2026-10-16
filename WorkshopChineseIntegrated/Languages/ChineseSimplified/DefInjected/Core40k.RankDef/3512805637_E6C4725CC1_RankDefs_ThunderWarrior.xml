@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Beserker -->
+  <BEWH_ThunderWarriorRankBeserker.label>狂战士</BEWH_ThunderWarriorRankBeserker.label>
+  <!-- EN: Berserkers are highly skilled melee specialists who thrive in the heat of battle. They channel pain into furry, growing deadlier with each injury they sustain. -->
+  <BEWH_ThunderWarriorRankBeserker.description>狂战士是武艺精湛的近战专家，擅长在激烈的战场上大杀四方。他们能将痛苦转化成力量，他们每一次受伤都会让他们的攻击变得更加狂暴且致命。</BEWH_ThunderWarriorRankBeserker.description>
+  
+  <!-- EN: Veteran Beserker -->
+  <BEWH_ThunderWarriorRankBeserkerUpgrade.label>狂战士老兵</BEWH_ThunderWarriorRankBeserkerUpgrade.label>
+  <!-- EN: Veteran Berserkers are exceptionally skilled melee specialists who mastered the art of close combat, making them extrely dangerous opponents. Very few would dare face a Veteran Berserker in melee. -->
+  <BEWH_ThunderWarriorRankBeserkerUpgrade.description>狂战士老兵是力压群雄的近战专家。他们精通近战且十分危险，与他们近战无异于找死。</BEWH_ThunderWarriorRankBeserkerUpgrade.description>
+  
+  <!-- EN: Initiate -->
+  <BEWH_ThunderWarriorRankInitiate.label>新兵</BEWH_ThunderWarriorRankInitiate.label>
+  <!-- EN: Initiates are freshly forged recruits of the Thunder Warriors, they often serve in the support roles while prepearing themselves for the brutal challanges of the eternal war. -->
+  <BEWH_ThunderWarriorRankInitiate.description>新兵是雷霆战士中的新进战士。他们通常在军团中担任辅助工作，同时为永不停息的战争中的种种残酷挑战做好准备。</BEWH_ThunderWarriorRankInitiate.description>
+  
+  <!-- EN: Linebreaker -->
+  <BEWH_ThunderWarriorRankLinebreaker.label>破阵者</BEWH_ThunderWarriorRankLinebreaker.label>
+  <!-- EN: Linebreakers are experienced Thunder Warriors who form the primary assault unit. They charge into enemy lines with unparalleled strength and ferocity. -->
+  <BEWH_ThunderWarriorRankLinebreaker.description>破阵者是战斗经验丰富的雷霆战士，是突击队的中坚力量。他们能以无以伦比的力量凶猛地杀入敌阵。</BEWH_ThunderWarriorRankLinebreaker.description>
+  <!-- EN: 10% chance to not get organ decay -->
+  <BEWH_ThunderWarriorRankLinebreaker.customEffectDescriptions.0>10%免疫器官腐烂</BEWH_ThunderWarriorRankLinebreaker.customEffectDescriptions.0>
+  
+  <!-- EN: Vitalseer -->
+  <BEWH_ThunderWarriorRankMedic.label>维塔希尔</BEWH_ThunderWarriorRankMedic.label>
+  <!-- EN: Vitalseers are Thunder Warrior battlefield medics who use brutal yet highly effective methods to heal their fallen brothers, even reviving them with powerfull electric charges. -->
+  <BEWH_ThunderWarriorRankMedic.description>维塔希尔是雷霆战士的医护人员，能够使用残酷但高效的方法来治疗倒下的战友，甚至可以用强烈的电击复活他们。\n\n译者注：原文Vitalseer是由Vital和Seer组成的复合词，Vital表“生命，生存”，Seer表“先知，预言者”。直译出来应当为“生命先知/生死先知”。\n经过考据，战锤40k中并没有对应的原文，这个名字应该是Mod作者自己生造的，这个词出现在40k背景中太过突兀，因此采用音译。</BEWH_ThunderWarriorRankMedic.description>
+  
+  <!-- EN: Veteran Vitalseer -->
+  <BEWH_ThunderWarriorRankMedicUpgrade.label>维塔希尔老兵</BEWH_ThunderWarriorRankMedicUpgrade.label>
+  <!-- EN: Veteran Vitalseers are experienced Thunder Warrior battlefield medics, exceptionally effective at keeping their brothers alive, even in the most brutal conditions. -->
+  <BEWH_ThunderWarriorRankMedicUpgrade.description>维塔希尔老兵是作战经验丰富的雷霆战士医护人员。即使在最残酷的战场中，他们也能非常有效地保护他们的战友。</BEWH_ThunderWarriorRankMedicUpgrade.description>
+  
+  <!-- EN: Primarch -->
+  <BEWH_ThunderWarriorRankPrimarch.label>原体</BEWH_ThunderWarriorRankPrimarch.label>
+  <!-- EN: The Primarch is the highest rank figure that commands the entire legion of Thunder Warriors. Despite the title, Thunder Warrior Primarchs are no different from their subordinates mentally physically. Instead, they are simply exceptional warriors and superb tactitians. \n\nSome evinedces say that Primarchs could withstand incredible damage through their sheer willpower alone. -->
+  <BEWH_ThunderWarriorRankPrimarch.description>原体是统领整个雷霆战士军团的最高人物。尽管头衔如此，但雷霆战士中的原体在精神和身体构造上与他们手下的战士并无二致。相反，他们只是卓越的战士和杰出的指挥官。\n\n一些证据表明，原体仅凭其强大的意志力就能承受难以置信的伤害。</BEWH_ThunderWarriorRankPrimarch.description>
+  <!-- EN: 40% chance to not get organ decay -->
+  <BEWH_ThunderWarriorRankPrimarch.customEffectDescriptions.0>40%免疫器官腐烂</BEWH_ThunderWarriorRankPrimarch.customEffectDescriptions.0>
+  
+  <!-- EN: Stormtrooper -->
+  <BEWH_ThunderWarriorRankRanged.label>风暴兵</BEWH_ThunderWarriorRankRanged.label>
+  <!-- EN: Stormtroopers are ranged specialists who unleash relentless firepower upon the enemy. They prioritize damage output over precision, making them trigger-hungry but extremely dangerous. -->
+  <BEWH_ThunderWarriorRankRanged.description>风暴兵是射击专家，他们认为射击次数比射击准度更加重要。所以他们经常乱开枪，对他们的敌人倾泻无情且致命的压制火力。</BEWH_ThunderWarriorRankRanged.description>
+  
+  <!-- EN: Veteran Stormtrooper -->
+  <BEWH_ThunderWarriorRankRangedUpgrade.label>风暴老兵</BEWH_ThunderWarriorRankRangedUpgrade.label>
+  <!-- EN: Veteran Stormtroopers are highly skilled ranged specialists who fire with deadly efficiency. Their experience allows them to maintain overwhelming firepower even in the chaos of battle. -->
+  <BEWH_ThunderWarriorRankRangedUpgrade.description>风暴老兵是作战经验丰富的射击专家，即便在最混乱的战场中他们也能从容不迫地倾泻强大的火力。</BEWH_ThunderWarriorRankRangedUpgrade.description>
+  
+  <!-- EN: Storm-Captain -->
+  <BEWH_ThunderWarriorRankStormCaptain.label>风暴队长</BEWH_ThunderWarriorRankStormCaptain.label>
+  <!-- EN: Storm Captains are veteran Thunder Warriors who lead assault formations. They command with strength and brutal efficiency. -->
+  <BEWH_ThunderWarriorRankStormCaptain.description>风暴队长是经验丰富的雷霆战士，们以强大的力量和残酷的效率指挥着突击队。</BEWH_ThunderWarriorRankStormCaptain.description>
+  <!-- EN: 20% chance to not get organ decay -->
+  <BEWH_ThunderWarriorRankStormCaptain.customEffectDescriptions.0>20%免疫器官腐烂</BEWH_ThunderWarriorRankStormCaptain.customEffectDescriptions.0>
+  
+  <!-- EN: Thunderlord -->
+  <BEWH_ThunderWarriorRankThunderlord.label>雷霆领主</BEWH_ThunderWarriorRankThunderlord.label>
+  <!-- EN: Thunderlords are firce commanders who lead entire units, having earned their authority through unmatched skills and numerous victories. -->
+  <BEWH_ThunderWarriorRankThunderlord.description>雷霆领主是强大的指挥官，统领着整个部队，他们凭借无与伦比的战斗技艺和无数的胜利赢得了权威。</BEWH_ThunderWarriorRankThunderlord.description>
+  <!-- EN: 30% chance to not get organ decay -->
+  <BEWH_ThunderWarriorRankThunderlord.customEffectDescriptions.0>30%免疫器官腐烂</BEWH_ThunderWarriorRankThunderlord.customEffectDescriptions.0>
+  
+</LanguageData>

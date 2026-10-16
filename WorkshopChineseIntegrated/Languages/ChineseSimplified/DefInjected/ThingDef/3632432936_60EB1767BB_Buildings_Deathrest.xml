@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic deathrest casket -->
+  <VR_BasicDeathRestCasket.label>基础死眠棺材</VR_BasicDeathRestCasket.label>
+  <!-- EN: A basic casket that accelerates the process of deathrest. It can connect to other vampire ritual objects which confer additional bonuses on the deathrester. The number of objects that can connect depends on the person's deathrest capacity, which can be seen by selecting them.\n\nOnly those with the deathrest gene can use the deathrest casket -->
+  <VR_BasicDeathRestCasket.description>一具加速死眠过程的基础死眠棺材。它可以连接其他血族仪式物品，为死眠者提供额外加成。可连接的物品数量取决于其死眠容量，选择该角色即可查看。\n\n只有拥有死眠基因的人才能使用死眠棺材。</VR_BasicDeathRestCasket.description>
+  
+</LanguageData>

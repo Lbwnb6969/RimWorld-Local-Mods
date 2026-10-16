@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Once a {IDEO} member is defeated twice in honorable combat with a hostile enemy, other {MEMBERS} expect {RITUAL_labelDef} to take place to cleanse the dishonor upon the colony. -->
+  <VME_CeremonialSuicideRitual.ritualExpectedDesc>若 {IDEO} 中的一名成员在与敌人的荣耀厮杀中战败两次，其他 {MEMBERS} 会要求执行 {RITUAL_labelDef} 来洗刷此人为殖民地带来的屈辱。</VME_CeremonialSuicideRitual.ritualExpectedDesc>
+  
+</LanguageData>

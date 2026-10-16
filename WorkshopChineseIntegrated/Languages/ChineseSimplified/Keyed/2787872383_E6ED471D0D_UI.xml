@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+    
+  <VFEC.UI.SenatorsOf>{0}的元老议员</VFEC.UI.SenatorsOf>
+    
+  <VFEC.UI.GainingFavor>获得该元老议员的支持会解锁：</VFEC.UI.GainingFavor>
+    
+  <VFEC.UI.Perk>理念：{0}</VFEC.UI.Perk>
+    
+  <VFEC.UI.Research>科技：{0}</VFEC.UI.Research>
+    
+  <VFEC.UI.ReQuest>接取任务</VFEC.UI.ReQuest>
+    
+  <VFEC.UI.Bribe>贿赂（{0}白银）</VFEC.UI.Bribe>
+    
+  <VFEC.UI.GainingFavorAll>获得所有元老议员的支持会解锁：</VFEC.UI.GainingFavorAll>
+    
+  <VFEC.UI.SenatorsInFavor>已获取支持的元老议员：{0}/{1}</VFEC.UI.SenatorsInFavor>
+    
+  <VFEC.UI.Info>获取一个元老议员的支持会使之加入你的殖民地。如果失去该元老议员，你必须重新取悦一个新的元老议员。因此你应当尽量保持他们的安全。\n获取所有元老议员的支持会让这个国家受你指挥。当你获取了任一共和国5名元老议员的支持之后，解锁的理念会永久保留，不管议员是死是活。</VFEC.UI.Info>
+    
+  <VFEC.UI.NotEnoughMoney>你没有携带足够的钱。</VFEC.UI.NotEnoughMoney>
+    
+  <VFEC.UI.BribeReject>{0}拒绝了你的贿赂，并且不会再接受贿赂。</VFEC.UI.BribeReject>
+    
+  <VFEC.UI.AlreadyQuest>已经接取了该元老议员的任务。</VFEC.UI.AlreadyQuest>
+    
+  <VFEC.UI.ViewPerks>查看理念</VFEC.UI.ViewPerks>
+    
+  <VFEC.UI.ViewSenators>查看元老议员</VFEC.UI.ViewSenators>
+<VFEC.UI.NoQuestsAvailable>该元老议员目前没有可用任务。</VFEC.UI.NoQuestsAvailable><VFEC.Senators.RequiresCaravan>该定居点必须有一支商队，才能进入元老院。</VFEC.Senators.RequiresCaravan></LanguageData>

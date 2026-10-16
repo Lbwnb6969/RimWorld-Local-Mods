@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AV_Cog.label>柯克帆船</AV_Cog.label>
+  <AV_Cog.description>一种船体宽阔坚固、采用单桅横帆的中世纪帆船。中世纪欧洲常用它进行贸易、运输和探索。在本地地图上航速很慢，但在世界地图上跨洋航行时很快。\n\n&lt;color=#bb8f04&gt;船员：&lt;/color&gt;舵手 x1</AV_Cog.description>
+  <AV_Cog.properties.roles.0.label>舵手</AV_Cog.properties.roles.0.label>
+  <AV_Cog.components.0.label>主桅</AV_Cog.components.0.label>
+  <AV_Cog.components.1.label>主木质船体</AV_Cog.components.1.label>
+  <AV_Cog.components.2.label>船楼</AV_Cog.components.2.label>
+  <AV_Cog.components.3.label>艏楼</AV_Cog.components.3.label>
+  <AV_Cog.components.4.label>龙骨</AV_Cog.components.4.label>
+  <AV_Cog.components.5.label>舵</AV_Cog.components.5.label>
+
+  <AV_Junk.label>中式帆船</AV_Junk.label>
+  <AV_Junk.description>一种传统帆船，以高耸的船尾和平底船身为显著特征。它通常配有多面船帆，历史上广泛用于贸易、捕鱼和运输等海上活动。\n\n&lt;color=#bb8f04&gt;船员：&lt;/color&gt;舵手 x1，乘员 x3</AV_Junk.description>
+  <AV_Junk.properties.roles.0.label>舵手</AV_Junk.properties.roles.0.label>
+  <AV_Junk.properties.roles.1.label>乘员</AV_Junk.properties.roles.1.label>
+  <AV_Junk.components.0.label>后桅</AV_Junk.components.0.label>
+  <AV_Junk.components.1.label>主桅</AV_Junk.components.1.label>
+  <AV_Junk.components.2.label>前桅</AV_Junk.components.2.label>
+  <AV_Junk.components.3.label>主木质船体</AV_Junk.components.3.label>
+  <AV_Junk.components.4.label>舵</AV_Junk.components.4.label>
+
+  <AV_Longship.label>维京长船</AV_Longship.label>
+  <AV_Longship.description>一种狭长而流畅的船只，通常配有船帆提供动力。历史上常用于运输、探索和战争等活动。在本地地图上航速很快，但在世界地图上跨洋航行时较慢。\n\n&lt;color=#bb8f04&gt;船员：&lt;/color&gt;舵手 x1，乘员 x2</AV_Longship.description>
+  <AV_Longship.properties.roles.0.label>舵手</AV_Longship.properties.roles.0.label>
+  <AV_Longship.properties.roles.1.label>乘员</AV_Longship.properties.roles.1.label>
+  <AV_Longship.components.0.label>主桅</AV_Longship.components.0.label>
+  <AV_Longship.components.1.label>主木质船体</AV_Longship.components.1.label>
+  <AV_Longship.components.2.label>盾牌</AV_Longship.components.2.label>
+  <AV_Longship.components.3.label>龙头雕饰</AV_Longship.components.3.label>
+  <AV_Longship.components.4.label>龙骨</AV_Longship.components.4.label>
+  <AV_Longship.components.5.label>舵</AV_Longship.components.5.label>
+
+  <AV_Caravel.label>卡拉维尔帆船</AV_Caravel.label>
+  <AV_Caravel.description>一种小型、快速且用途广泛的帆船，以狭窄船体、多根桅杆以及横帆和三角帆的组合而闻名。大航海时代广泛用于探索、贸易和海军活动。在河流上航速较慢。\n\n&lt;color=#bb8f04&gt;船员：&lt;/color&gt;舵手 x1，乘员 x3</AV_Caravel.description>
+  <AV_Caravel.properties.roles.0.label>舵手</AV_Caravel.properties.roles.0.label>
+  <AV_Caravel.properties.roles.1.label>乘员</AV_Caravel.properties.roles.1.label>
+  <AV_Caravel.components.0.label>后桅</AV_Caravel.components.0.label>
+  <AV_Caravel.components.1.label>主桅</AV_Caravel.components.1.label>
+  <AV_Caravel.components.2.label>前桅</AV_Caravel.components.2.label>
+  <AV_Caravel.components.3.label>船楼</AV_Caravel.components.3.label>
+  <AV_Caravel.components.4.label>艏楼</AV_Caravel.components.4.label>
+  <AV_Caravel.components.5.label>主木质船体</AV_Caravel.components.5.label>
+  <AV_Caravel.components.6.label>龙骨</AV_Caravel.components.6.label>
+  <AV_Caravel.components.7.label>舵</AV_Caravel.components.7.label>
+
+  <AV_PirateCaravel.label>海盗卡拉维尔帆船</AV_PirateCaravel.label>
+  <AV_PirateCaravel.description>一种小型、快速且用途广泛的帆船，以狭窄船体、多根桅杆以及横帆和三角帆的组合而闻名。大航海时代广泛用于探索、贸易和海军活动。这艘卡拉维尔帆船经过改装，成为了一艘高速战船。在河流上航速较慢。\n\n&lt;color=#bb8f04&gt;船员：&lt;/color&gt;舵手 x1，炮手 x1，乘员 x2</AV_PirateCaravel.description>
+  <AV_PirateCaravel.properties.roles.0.label>舵手</AV_PirateCaravel.properties.roles.0.label>
+  <AV_PirateCaravel.properties.roles.1.label>炮手</AV_PirateCaravel.properties.roles.1.label>
+  <AV_PirateCaravel.properties.roles.2.label>乘员</AV_PirateCaravel.properties.roles.2.label>
+  <AV_PirateCaravel.components.0.label>后桅</AV_PirateCaravel.components.0.label>
+  <AV_PirateCaravel.components.1.label>主桅</AV_PirateCaravel.components.1.label>
+  <AV_PirateCaravel.components.2.label>前桅</AV_PirateCaravel.components.2.label>
+  <AV_PirateCaravel.components.3.label>船楼</AV_PirateCaravel.components.3.label>
+  <AV_PirateCaravel.components.4.label>艏楼</AV_PirateCaravel.components.4.label>
+  <AV_PirateCaravel.components.5.label>主木质船体</AV_PirateCaravel.components.5.label>
+  <AV_PirateCaravel.components.6.label>龙骨</AV_PirateCaravel.components.6.label>
+  <AV_PirateCaravel.components.7.label>舵</AV_PirateCaravel.components.7.label>
+
+  <AV_Sloop.label>单桅纵帆船</AV_Sloop.label>
+  <AV_Sloop.description>一种采用纵帆帆装的单桅帆船，通常配有一面主帆和一面或多面前帆。它船身流畅、机动灵活，可用于竞速、巡航、捕鱼和近岸巡逻等多种活动。\n\n&lt;color=#bb8f04&gt;船员：&lt;/color&gt;舵手 x1，乘员 x3</AV_Sloop.description>
+  <AV_Sloop.properties.roles.0.label>舵手</AV_Sloop.properties.roles.0.label>
+  <AV_Sloop.properties.roles.1.label>乘员</AV_Sloop.properties.roles.1.label>
+  <AV_Sloop.components.0.label>主桅</AV_Sloop.components.0.label>
+  <AV_Sloop.components.1.label>玻璃钢船体</AV_Sloop.components.1.label>
+  <AV_Sloop.components.2.label>龙骨</AV_Sloop.components.2.label>
+  <AV_Sloop.components.3.label>舵</AV_Sloop.components.3.label>
+
+  <AV_Brig.label>双桅横帆船</AV_Brig.label>
+  <AV_Brig.description>一种两根桅杆均采用横帆帆装的帆船，后桅通常还挂有一面纵帆。凭借良好的机动性和较大的载货能力，它广泛用于海军和商贸活动。由于体型较大，在河流上航速很慢。\n\n&lt;color=#bb8f04&gt;船员：&lt;/color&gt;舵手 x1，水手长 x1，乘员 x10</AV_Brig.description>
+  <AV_Brig.properties.roles.0.label>舵手</AV_Brig.properties.roles.0.label>
+  <AV_Brig.properties.roles.1.label>水手长</AV_Brig.properties.roles.1.label>
+  <AV_Brig.properties.roles.2.label>乘员</AV_Brig.properties.roles.2.label>
+  <AV_Brig.components.0.label>主桅</AV_Brig.components.0.label>
+  <AV_Brig.components.1.label>前桅</AV_Brig.components.1.label>
+  <AV_Brig.components.2.label>主木质船体</AV_Brig.components.2.label>
+  <AV_Brig.components.3.label>龙骨</AV_Brig.components.3.label>
+  <AV_Brig.components.4.label>舵</AV_Brig.components.4.label>
+
+  <AV_Frigate.label>护卫舰</AV_Frigate.label>
+  <AV_Frigate.description>一种船身流畅、快速灵活的战舰，最初在风帆时代用于护航和警戒。护卫舰通常设有一层连续炮甲板，装备多种火炮和其他武器。由于体型较大，在河流上航速很慢。\n\n&lt;color=#bb8f04&gt;船员：&lt;/color&gt;舵手 x1，水手长 x1，炮手 x1，乘员 x3</AV_Frigate.description>
+  <AV_Frigate.properties.roles.0.label>舵手</AV_Frigate.properties.roles.0.label>
+  <AV_Frigate.properties.roles.1.label>水手长</AV_Frigate.properties.roles.1.label>
+  <AV_Frigate.properties.roles.2.label>炮手</AV_Frigate.properties.roles.2.label>
+  <AV_Frigate.properties.roles.3.label>乘员</AV_Frigate.properties.roles.3.label>
+  <AV_Frigate.components.0.label>后桅</AV_Frigate.components.0.label>
+  <AV_Frigate.components.1.label>主桅</AV_Frigate.components.1.label>
+  <AV_Frigate.components.2.label>前桅</AV_Frigate.components.2.label>
+  <AV_Frigate.components.3.label>船楼</AV_Frigate.components.3.label>
+  <AV_Frigate.components.4.label>艏楼</AV_Frigate.components.4.label>
+  <AV_Frigate.components.5.label>主木质船体</AV_Frigate.components.5.label>
+  <AV_Frigate.components.6.label>龙骨</AV_Frigate.components.6.label>
+  <AV_Frigate.components.7.label>舵</AV_Frigate.components.7.label>
+
+  <AV_Galleon.label>盖伦帆船</AV_Galleon.label>
+  <AV_Galleon.description>一种大型多层甲板帆船，主要用于跨越海洋的长途货运。它拥有坚固的船体、宽敞的货舱、多根提供动力的横帆桅杆，以及可供额外储货和船员居住的高耸船尾与艏楼。由于体型较大，在河流上航速很慢。\n\n&lt;color=#bb8f04&gt;船员：&lt;/color&gt;舵手 x1，水手长 x1，乘员 x4</AV_Galleon.description>
+  <AV_Galleon.properties.roles.0.label>舵手</AV_Galleon.properties.roles.0.label>
+  <AV_Galleon.properties.roles.1.label>水手长</AV_Galleon.properties.roles.1.label>
+  <AV_Galleon.properties.roles.2.label>乘员</AV_Galleon.properties.roles.2.label>
+  <AV_Galleon.components.0.label>后桅</AV_Galleon.components.0.label>
+  <AV_Galleon.components.1.label>主桅</AV_Galleon.components.1.label>
+  <AV_Galleon.components.2.label>前桅</AV_Galleon.components.2.label>
+  <AV_Galleon.components.3.label>船楼</AV_Galleon.components.3.label>
+  <AV_Galleon.components.4.label>艏楼</AV_Galleon.components.4.label>
+  <AV_Galleon.components.5.label>主木质船体</AV_Galleon.components.5.label>
+  <AV_Galleon.components.6.label>龙骨</AV_Galleon.components.6.label>
+  <AV_Galleon.components.7.label>舵</AV_Galleon.components.7.label>
+</LanguageData>

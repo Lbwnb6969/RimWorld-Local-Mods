@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <AM_Megaliths_Desired.label>渴望</AM_Megaliths_Desired.label>
+  <!-- EN: We honour our ancestors by erecting huge monuments that both defy and glorify nature. They will truly withstand the test of time.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists desire the construction of megalithic monuments (found in the Misc category), expecting one to be built for every three members of the colony. This requires expectations to be Moderate or higher to trigger. -->
+  <AM_Megaliths_Desired.description>我们需要搭起能够久经时间考验的图腾巨石来颂扬先祖的荣耀。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 拥有“合理的期望”及以上的殖民者将会要求在殖民地中摆放图腾巨石。每3名殖民者至少需要1个图腾巨石。你可以在“建筑规划”→“杂项”标签中找到它。\n\n&lt;color=#E5E54C>注意：&lt;/color>\n - 建造图腾巨石需要“石器部落”文化结构。缺少图腾巨石会让殖民者们感到不满。</AM_Megaliths_Desired.description>
+  
+</LanguageData>

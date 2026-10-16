@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chalice -->
+
+  <DankPyon_CleanLoot_ChaliceSilver.label>清理银色圣杯</DankPyon_CleanLoot_ChaliceSilver.label>
+  <DankPyon_CleanLoot_ChaliceSilver.jobString>正在清理银色圣杯。</DankPyon_CleanLoot_ChaliceSilver.jobString>
+
+  <DankPyon_CleanLoot_ChaliceGold.label>清理金色圣杯</DankPyon_CleanLoot_ChaliceGold.label>
+  <DankPyon_CleanLoot_ChaliceGold.jobString>正在清理金色圣杯。</DankPyon_CleanLoot_ChaliceGold.jobString>
+
+
+  <!-- Bowl -->
+
+  <DankPyon_CleanLoot_BowlSilver.label>清理银碗</DankPyon_CleanLoot_BowlSilver.label>
+  <DankPyon_CleanLoot_BowlSilver.jobString>正在清理银碗。</DankPyon_CleanLoot_BowlSilver.jobString>
+
+  <DankPyon_CleanLoot_BowlGold.label>清理金碗</DankPyon_CleanLoot_BowlGold.label>
+  <DankPyon_CleanLoot_BowlGold.jobString>正在清理金碗。</DankPyon_CleanLoot_BowlGold.jobString>
+
+  <DankPyon_CleanLoot_SkullGold.label>清理黄金颅骨</DankPyon_CleanLoot_SkullGold.label>
+  <DankPyon_CleanLoot_SkullGold.jobString>正在清理黄金颅骨。</DankPyon_CleanLoot_SkullGold.jobString>
+
+  <DankPyon_CleanLoot_SkullEmerald.label>清理绿宝石颅骨</DankPyon_CleanLoot_SkullEmerald.label>
+  <DankPyon_CleanLoot_SkullEmerald.jobString>正在清理绿宝石颅骨。</DankPyon_CleanLoot_SkullEmerald.jobString>
+
+  <DankPyon_CleanLoot_SkullSapphire.label>清理蓝宝石颅骨</DankPyon_CleanLoot_SkullSapphire.label>
+  <DankPyon_CleanLoot_SkullSapphire.jobString>正在清理蓝宝石颅骨。</DankPyon_CleanLoot_SkullSapphire.jobString>
+
+  <DankPyon_CleanLoot_SkullRuby.label>清理红宝石颅骨</DankPyon_CleanLoot_SkullRuby.label>
+  <DankPyon_CleanLoot_SkullRuby.jobString>正在清理红宝石颅骨。</DankPyon_CleanLoot_SkullRuby.jobString>
+
+
+</LanguageData>

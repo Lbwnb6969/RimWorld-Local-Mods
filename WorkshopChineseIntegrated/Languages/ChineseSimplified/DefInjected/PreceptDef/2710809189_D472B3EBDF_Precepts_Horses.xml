@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <AM_Horses_Desired.label>渴望</AM_Horses_Desired.label>
+  <!-- EN: We see the horse as a vital companion on our ranch. Their strength and loyalty will enhance our life here, helping with work and bringing a sense of freedom to our lives.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colony will start with two tamed horses.\n - Horses will get -2 Minimum handling skill (it will be 0), +15% move speed and +25% caravan riding speed. -->
+  <AM_Horses_Desired.description>对经营牧场的我们而言，马是不可或缺的好伙伴。它们的力量与忠诚有助于我们的生活和工作，且能让我们体验到自由的快感。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 开始游戏后，殖民地将获得2匹已驯服的马。\n - 驯服马所需的最低驯兽等级-2（从2降至0）。\n - 马将获得+15%移动速度和+25%远行骑乘速度的加成。</AM_Horses_Desired.description>
+  
+</LanguageData>

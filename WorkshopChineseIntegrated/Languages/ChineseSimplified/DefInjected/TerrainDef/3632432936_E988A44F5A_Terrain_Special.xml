@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient tile -->
+  <VR_AncientTile.label>远古地砖</VR_AncientTile.label>
+  <!-- EN: Ancient tile flooring. -->
+  <VR_AncientTile.description>远古地砖地板。</VR_AncientTile.description>
+  
+</LanguageData>

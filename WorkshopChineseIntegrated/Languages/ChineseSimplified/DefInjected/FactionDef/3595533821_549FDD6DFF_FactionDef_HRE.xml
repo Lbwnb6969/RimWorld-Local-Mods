@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Holy Roman Empire -->
+  <BA_HRE_NobleHouse.label>神圣罗马帝国</BA_HRE_NobleHouse.label>
+  <!-- EN: The Holy Roman Empire is a particularly misleading name for Europe's largest collective of kingdoms and fiefdoms, regardless which way one looks at it. For starters, it is the Byzantine Empire that truly carries on the legacy of the ancient Romans, and the notion that the Kaiser (the Germanic name for "Emperor") truly serves the Roman Catholic Church is presently quite laughable.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_NobleHouse.description>无论从哪个角度看，“神圣罗马帝国”都是个极具误导性的名称——它实则是欧洲最大的王国与封地联合体。首先，真正继承古罗马遗产的是拜占庭帝国；而如今，认为“凯撒”（德意志人对“皇帝”的称呼）真正效忠于罗马天主教会的想法，实在颇为可笑。</BA_HRE_NobleHouse.description>
+  <!-- EN: Savior -->
+  <BA_HRE_NobleHouse.deityPresets.0.nameType.type>救世主</BA_HRE_NobleHouse.deityPresets.0.nameType.type>
+  <!-- EN: Holy Roman Empire -->
+  <BA_HRE_NobleHouse.fixedName>神圣罗马帝国</BA_HRE_NobleHouse.fixedName>
+  <!-- EN: Catholicism is the largest branch of Christianity, tracing its origins to the teachings of Jesus Christ and the apostolic succession of Saint Peter, regarded as the first Pope. Centered in Rome and governed by the Papacy, Catholicism developed as the dominant form of Western Christianity throughout the Middle Ages, shaping the spiritual, cultural, and political foundations of Europe. The Catholic Church emphasizes the authority of Scripture and Tradition, upheld by the Magisterium (teaching authority of the Church). Faith and reason are viewed as complementary paths to divine truth, a view deeply rooted in the scholastic philosophy of medieval theologians such as Thomas Aquinas and Augustine of Hippo. Medieval Catholicism was defined by its elaborate rituals, veneration of saints, and a strong emphasis on salvation through faith, good works, and participation in the sacraments. Monastic orders, crusades, and missionary activity spread the Catholic faith across continents, while cathedrals and art expressed the grandeur of divine worship. Despite periods of corruption and reform, Catholicism remained the unifying spiritual force of medieval Europe, influencing law, education, and moral life. It continues to represent a universal community of believers guided by the Pope and the traditions of the early Church. -->
+  <BA_HRE_NobleHouse.ideoDescription>天主教是基督教最大的分支，其起源可追溯至耶稣基督的教义以及被视为首位教皇的圣彼得的使徒传承。天主教以罗马为中心，由教皇制管辖，在整个中世纪发展成为西方基督教的主导形式，塑造了欧洲的精神、文化与政治根基。天主教会强调《圣经》与传统的权威，由教会训导权（教会的教学权威）予以维护。信仰与理性被视为通向神圣真理的互补路径，这一观点深深植根于托马斯·阿奎那、希波的奥古斯丁等中世纪神学家的经院哲学中。中世纪天主教的特征包括繁复的仪式、对圣徒的尊崇，以及强调通过信仰、善功和参与圣事获得救赎。修道院修会、十字军东征与传教活动将天主教信仰传播至各大洲，而大教堂与艺术则彰显了神圣崇拜的庄严宏伟。尽管经历了腐败与改革的时期，天主教仍是中世纪欧洲统一的精神力量，影响着法律、教育与道德生活。它至今仍是一个由教皇与早期教会传统指引的普世信徒共同体。</BA_HRE_NobleHouse.ideoDescription>
+  <!-- EN: kaiser -->
+  <BA_HRE_NobleHouse.leaderTitle>凯撒</BA_HRE_NobleHouse.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_HRE_NobleHouse.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_HRE_NobleHouse.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <BA_HRE_NobleHouse.pawnSingular>臣民</BA_HRE_NobleHouse.pawnSingular>
+  <!-- EN: subjects -->
+  <BA_HRE_NobleHouse.pawnsPlural>臣民们</BA_HRE_NobleHouse.pawnsPlural>
+  
+</LanguageData>

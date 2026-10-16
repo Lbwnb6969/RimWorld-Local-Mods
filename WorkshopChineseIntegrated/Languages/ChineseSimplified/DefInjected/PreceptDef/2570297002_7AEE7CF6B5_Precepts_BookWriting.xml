@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disliked -->
+  <VME_BookWriting_Disliked.label>反感</VME_BookWriting_Disliked.label>
+  <!-- EN: Why write down what can be taught much quicker semantically or through trial and error? What an absolute waste of time. -->
+  <VME_BookWriting_Disliked.description>为什么要把经由反复试验得出的知识结论写在纸上？通过口头传授不是更快一些吗？这简直就是浪费时间。</VME_BookWriting_Disliked.description>
+  <!-- EN: Put sinful words into paper -->
+  <VME_BookWriting_Disliked.comps.1.description>写下了罪恶的文字</VME_BookWriting_Disliked.comps.1.description>
+  
+  <!-- EN: exalted -->
+  <VME_BookWriting_Exalted.label>高尚</VME_BookWriting_Exalted.label>
+  <!-- EN: Passing on one's knowledge is a purely respectful act. The authors of this world and their heirs shall be the ones to inherit it and all of its fruits. -->
+  <VME_BookWriting_Exalted.description>传授知识是一种纯粹且高尚的行为。世上的作家与其后继者们将继承这些知识与成果。</VME_BookWriting_Exalted.description>
+  <!-- EN: Wrote an amazing new book -->
+  <VME_BookWriting_Exalted.comps.1.description>完成了新的著作</VME_BookWriting_Exalted.comps.1.description>
+  
+  <!-- EN: decreased -->
+  <VME_BookWritingSpeed_Decreased.label>降低</VME_BookWritingSpeed_Decreased.label>
+  <!-- EN: Writing is a chore, something that wastes time and requires a huge effort. -->
+  <VME_BookWritingSpeed_Decreased.description>书写创作绝非易事，需要花费大量的时间和努力才能完成。</VME_BookWritingSpeed_Decreased.description>
+  
+  <!-- EN: increased -->
+  <VME_BookWritingSpeed_Increased.label>提高</VME_BookWritingSpeed_Increased.label>
+  <!-- EN: Writing comes naturally to us, and we do it fast and efficiently. -->
+  <VME_BookWritingSpeed_Increased.description>我们自诩为天生的作家，可以迅速且高效地完成各种书写创作。</VME_BookWritingSpeed_Increased.description>
+  
+</LanguageData>

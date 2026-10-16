@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anima leaves -->
+  <RG_Filth_LeavesTreeAnima.label>仙灵落叶</RG_Filth_LeavesTreeAnima.label>
+  
+  <!-- EN: leaves -->
+  <RG_Filth_LeavesTreeBirch.label>落叶</RG_Filth_LeavesTreeBirch.label>
+  
+  <!-- EN: leaves -->
+  <RG_Filth_LeavesTreeOak.label>落叶</RG_Filth_LeavesTreeOak.label>
+  
+  <!-- EN: leaves -->
+  <RG_Filth_LeavesTreePopolar.label>落叶</RG_Filth_LeavesTreePopolar.label>
+  
+  <!-- EN: neutroamine -->
+  <RG_Filth_Neutroamine.label>中性胺</RG_Filth_Neutroamine.label>
+  
+  <!-- EN: water -->
+  <RG_FilthWater.label>水</RG_FilthWater.label>
+  <!-- EN: Water. -->
+  <RG_FilthWater.description>水。</RG_FilthWater.description>
+  
+  <!-- EN: water -->
+  <RG_FilthWaterSpatter.label>水</RG_FilthWaterSpatter.label>
+  <!-- EN: Water. -->
+  <RG_FilthWaterSpatter.description>水。</RG_FilthWaterSpatter.description>
+  
+</LanguageData>

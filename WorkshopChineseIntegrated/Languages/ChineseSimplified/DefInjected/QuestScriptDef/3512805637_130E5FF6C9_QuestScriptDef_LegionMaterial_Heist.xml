@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <BEWH_Site_LegionMaterial.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->我们截获了关于在[map_definite]附近发现价值[itemStashContentsValue]的珍贵物品的消息。该物品包括：\n\n[itemStashContents]\n\n似乎[allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef],[asker_faction_leaderTitle]的[asker_faction_name],告知我们，在离我们不远的地方发现了价值[itemStashContentsValue]的珍贵物品。该物品包括:\n\n[itemStashContents]\n\n[asker_label]表示[allSitePartsDescriptionsExceptFirst]</li>
+  </BEWH_Site_LegionMaterial.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
+    <li>questName->[stash] of [treasure]</li>
+    <li>stash->Stash</li>
+    <li>stash->Cache</li>
+    <li>stash->Collection</li>
+    <li>stash->Shack</li>
+    <li>treasure->Treasure</li>
+    <li>treasure->Valuables</li>
+    <li>treasure->Fortune</li>
+    <li>treasure->Goodies</li>
+    <li>treasure->Supplies</li>
+  -->
+  <BEWH_Site_LegionMaterial.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[asker_nameDef]的[stash]的[treasure]</li>
+    <li>questName->[stash]的[treasure]</li>
+    <li>stash->宝物</li>
+    <li>stash->隐匿物</li>
+    <li>stash->收藏</li>
+    <li>stash->小屋</li>
+    <li>treasure->宝藏</li>
+    <li>treasure->高价值物品</li>
+    <li>treasure->财富</li>
+    <li>treasure->好东西</li>
+    <li>treasure->补给</li>
+  </BEWH_Site_LegionMaterial.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <BEWH_Site_LegionMaterial.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务过期:[resolvedQuestName]</BEWH_Site_LegionMaterial.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <BEWH_Site_LegionMaterial.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>截获的通讯表明物品已被其他人夺取。任务[resolvedQuestName]已过期。</BEWH_Site_LegionMaterial.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

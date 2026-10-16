@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SC_Thought_AteSweets.stages.0.label>吃了一个岩石派</SC_Thought_AteSweets.stages.0.label>
+    <SC_Thought_AteSweets.stages.0.description>真饱，尽兴的餐品！</SC_Thought_AteSweets.stages.0.description>
+    <SC_Thought_AteSweets.stages.0.baseMoodEffect>6</SC_Thought_AteSweets.stages.0.baseMoodEffect>
+
+    <SC_Thought_AteRockburger.stages.0.label>吃了一个岩石堡</SC_Thought_AteRockburger.stages.0.label>
+    <SC_Thought_AteRockburger.stages.0.description>油腻但美味！</SC_Thought_AteRockburger.stages.0.description>
+    <SC_Thought_AteRockburger.stages.0.baseMoodEffect>4</SC_Thought_AteRockburger.stages.0.baseMoodEffect>
+
+    <SC_Thought_AteRockpie.stages.0.label>吃了一个岩石派</SC_Thought_AteRockpie.stages.0.label>
+    <SC_Thought_AteRockpie.stages.0.description>真饱，尽兴的餐品！</SC_Thought_AteRockpie.stages.0.description>
+    <SC_Thought_AteRockpie.stages.0.baseMoodEffect>8</SC_Thought_AteRockpie.stages.0.baseMoodEffect>
+
+    <SC_Thought_AteFeast.stages.0.label>吃了一个值得称赞的料理</SC_Thought_AteFeast.stages.0.label>
+    <SC_Thought_AteFeast.stages.0.description>精彩的餐品，营养共存于美味！</SC_Thought_AteFeast.stages.0.description>
+    <SC_Thought_AteFeast.stages.0.baseMoodEffect>16</SC_Thought_AteFeast.stages.0.baseMoodEffect>
+
+    <SC_Thought_AteFrozenFeast.stages.0.label>吃了一个冷菜</SC_Thought_AteFrozenFeast.stages.0.label>
+    <SC_Thought_AteFrozenFeast.stages.0.description>不错的菜品，如果它依旧是热的..</SC_Thought_AteFrozenFeast.stages.0.description>
+    <SC_Thought_AteFrozenFeast.stages.0.baseMoodEffect>8</SC_Thought_AteFrozenFeast.stages.0.baseMoodEffect>
+
+</LanguageData>

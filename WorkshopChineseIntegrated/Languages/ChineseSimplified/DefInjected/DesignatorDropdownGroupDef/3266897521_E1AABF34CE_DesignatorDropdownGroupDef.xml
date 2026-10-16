@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: metal grate tile -->
+  <RB_Floor_Tile_GrateMetal.label>金属格栅地砖</RB_Floor_Tile_GrateMetal.label>
+  
+  <!-- EN: metal studded tile -->
+  <RB_Floor_Tile_StuddedMetal.label>金属点阵地砖</RB_Floor_Tile_StuddedMetal.label>
+  
+</LanguageData>

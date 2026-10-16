@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bricks (1x1) -->
+  <DankPyon_Bricks1x1Empty.label>ASF石砖堆(1x1)</DankPyon_Bricks1x1Empty.label>
+  <!-- EN: Bricks that are stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Bricks1x1Empty.description>石砖整齐的堆叠在一起，可以节省更多空间。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Bricks1x1Empty.description>
+  
+  <!-- EN: Bricks (1x2) -->
+  <DankPyon_Bricks1x2Empty.label>ASF石砖堆(1x2)</DankPyon_Bricks1x2Empty.label>
+  <!-- EN: Bricks that are stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Bricks1x2Empty.description>石砖整齐的堆叠在一起，可以节省更多空间。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Bricks1x2Empty.description>
+  
+  <!-- EN: Bricks (2x2) -->
+  <DankPyon_Bricks2x2Empty.label>ASF石砖堆(2x2)</DankPyon_Bricks2x2Empty.label>
+  <!-- EN: Bricks that are stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Bricks2x2Empty.description>石砖整齐的堆叠在一起，可以节省更多空间。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Bricks2x2Empty.description>
+  
+  <!-- EN: Cart -->
+  <DankPyon_CartEmptyA.label>ASF马车</DankPyon_CartEmptyA.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_CartEmptyA.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界这片无情的土地。可以用来存放物品。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_CartEmptyA.description>
+  
+  <!-- EN: open crate (1x2) -->
+  <DankPyon_Crate1x2d.label>ASF板条箱(1x2)</DankPyon_Crate1x2d.label>
+  <!-- EN: A wooden box made up of planks designed to store resources in an efficient manner. Items stored inside will not affect room beauty and will never deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Crate1x2d.description>木板制成的木箱，旨在有效地储存资源。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Crate1x2d.description>
+  
+  <!-- EN: open crate (2x2) -->
+  <DankPyon_Crate2x2d.label>ASF板条箱(2x2)</DankPyon_Crate2x2d.label>
+  <!-- EN: A wooden box made up of planks designed to store resources in an efficient manner. Items stored inside will not affect room beauty and will never deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Crate2x2d.description>木板制成的木箱，旨在有效地储存资源。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Crate2x2d.description>
+  
+  <!-- EN: Ingots (1x1) -->
+  <DankPyon_Ingot1x1Empty.label>ASF锭堆(1x1)</DankPyon_Ingot1x1Empty.label>
+  <!-- EN: Ingots stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Ingot1x1Empty.description>为节省空间而整齐摆放的一堆金属锭。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Ingot1x1Empty.description>
+  
+  <!-- EN: Ingots (1x2) -->
+  <DankPyon_Ingot1x2Empty.label>ASF锭堆(1x2)</DankPyon_Ingot1x2Empty.label>
+  <!-- EN: Ingots stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Ingot1x2Empty.description>为节省空间而整齐摆放的一堆金属锭。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Ingot1x2Empty.description>
+  
+  <!-- EN: Ingots (2x2) -->
+  <DankPyon_Ingot2x2Empty.label>ASF锭堆(2x2)</DankPyon_Ingot2x2Empty.label>
+  <!-- EN: Ingots stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Ingot2x2Empty.description>为节省空间而整齐摆放的一堆金属锭。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Ingot2x2Empty.description>
+  
+  <!-- EN: Large shelf -->
+  <DankPyon_LargeShelf.label>ASF大型储架</DankPyon_LargeShelf.label>
+  <!-- EN: A large square platform designed to store things, like herbal medicine, cheese, milk, meat, bread, wine, flour, wheat and vegetables.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_LargeShelf.description>一座方形大储架，用于存放物品，保持其清洁及远离地面。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_LargeShelf.description>
+  
+  <!-- EN: Logs (1x1) -->
+  <DankPyon_Log1x1Empty.label>ASF原木堆(1x1)</DankPyon_Log1x1Empty.label>
+  <!-- EN: Logs that are stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Log1x1Empty.description>原木整齐的堆叠在一起，可以节省更多空间。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Log1x1Empty.description>
+  
+  <!-- EN: Logs (1x2) -->
+  <DankPyon_Log1x2Empty.label>ASF原木堆(1x2)</DankPyon_Log1x2Empty.label>
+  <!-- EN: Logs that are stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Log1x2Empty.description>原木整齐的堆叠在一起，可以节省更多空间。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Log1x2Empty.description>
+  
+  <!-- EN: Logs (2x2) -->
+  <DankPyon_Log2x2Empty.label>ASF原木堆(2x2)</DankPyon_Log2x2Empty.label>
+  <!-- EN: Logs that are stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Log2x2Empty.description>原木整齐的堆叠在一起，可以节省更多空间。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Log2x2Empty.description>
+  
+  <!-- EN: Melee rack (A) -->
+  <DankPyon_Rack2x1a.label>ASF近战武器架A</DankPyon_Rack2x1a.label>
+  <!-- EN: A rack for storting smaller, one-handed melee weapons.\nItems stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Rack2x1a.description>用于存放小型、单手使用的近战武器的架子。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Rack2x1a.description>
+  
+  <!-- EN: Melee rack (B) -->
+  <DankPyon_Rack2x1b.label>ASF近战武器架B</DankPyon_Rack2x1b.label>
+  <!-- EN: A rack for storting larger, one- and two-handed melee weapons.\nItems stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Rack2x1b.description>用于存放较大型近战武器的架子。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Rack2x1b.description>
+  
+  <!-- EN: Melee rack (C) -->
+  <DankPyon_Rack2x1c.label>ASF近战武器架C</DankPyon_Rack2x1c.label>
+  <!-- EN: A rack for storting large, mostly two-handed melee weapons.\nItems stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Rack2x1c.description>用于存放大型、需双手使用的近战武器的架子。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Rack2x1c.description>
+  
+  <!-- EN: Ranged rack (A) -->
+  <DankPyon_RackRange2x1a.label>ASF远程武器架A</DankPyon_RackRange2x1a.label>
+  <!-- EN: A rack for storting larger bows.\nItems stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RackRange2x1a.description>用于存放大型弓的架子。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RackRange2x1a.description>
+  
+  <!-- EN: Ranged rack (B) -->
+  <DankPyon_RackRange2x1b.label>ASF远程武器架B</DankPyon_RackRange2x1b.label>
+  <!-- EN: A rack for storting smaller baws.\nItems stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RackRange2x1b.description>用于存放小型弓的架子。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RackRange2x1b.description>
+  
+  <!-- EN: Ranged rack (C) -->
+  <DankPyon_RackRange2x1c.label>ASF远程武器架C</DankPyon_RackRange2x1c.label>
+  <!-- EN: A rack for storting differnt kind of ranged weapons.\nItems stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RackRange2x1c.description>用于存放弩以及火器的架子。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RackRange2x1c.description>
+  
+  <!-- EN: Component barrel -->
+  <DankPyon_RusticComponentBarrelEmpty.label>ASF零件储存桶</DankPyon_RusticComponentBarrelEmpty.label>
+  <!-- EN: A cylindrical barrel for general storage. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RusticComponentBarrelEmpty.description>用于储存零件的圆柱形桶。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RusticComponentBarrelEmpty.description>
+  
+  <!-- EN: cupboard (1x3) -->
+  <DankPyon_RusticCupboard1x3Empty.label>ASF橱架</DankPyon_RusticCupboard1x3Empty.label>
+  <!-- EN: An open cupboard to store and display objects in an efficient manner\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RusticCupboard1x3Empty.description>一个开放式橱架，可以有效率地储存和展示物品。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RusticCupboard1x3Empty.description>
+
+  <DankPyon_RusticEmptyShelf1x1Storage.label>ASF置物柜</DankPyon_RusticEmptyShelf1x1Storage.label>
+  <!-- EN: A shelf primarily used for storing clothing.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RusticEmptyShelf1x1Storage.description>一个开放式置物柜，主要用于存放衣物。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RusticEmptyShelf1x1Storage.description>
+  
+  <!-- EN: Shelf -->
+  <DankPyon_RusticEmptyShelf1x2Storage.label>ASF置物柜(1x2)</DankPyon_RusticEmptyShelf1x2Storage.label>
+  <!-- EN: A shelf primarily used for storing clothing.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RusticEmptyShelf1x2Storage.description>一个开放式置物柜，主要用于存放衣物。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RusticEmptyShelf1x2Storage.description>
+
+
+  <!-- EN: Grape barrel -->
+  <DankPyon_RusticGrapeBarrelEmpty.label>ASF葡萄储存桶</DankPyon_RusticGrapeBarrelEmpty.label>
+  <!-- EN: A cylindrical barrel for general storage. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RusticGrapeBarrelEmpty.description>用于储存葡萄和桑葚的圆柱形桶。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RusticGrapeBarrelEmpty.description>
+  
+  <!-- EN: Log barrel -->
+  <DankPyon_RusticLogBarrelEmpty.label>ASF原木储存桶</DankPyon_RusticLogBarrelEmpty.label>
+  <!-- EN: A cylindrical barrel for general storage. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RusticLogBarrelEmpty.description>用于储存原木的圆柱形桶。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RusticLogBarrelEmpty.description>
+  
+  <!-- EN: ore barrel -->
+  <DankPyon_RusticOreBarrelEmpty.label>ASF矿物储存桶</DankPyon_RusticOreBarrelEmpty.label>
+  <!-- EN: A cylindrical barrel for general storage. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RusticOreBarrelEmpty.description>用于储存矿的圆柱形桶。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RusticOreBarrelEmpty.description>
+  
+  <!-- EN: textile barrel -->
+  <DankPyon_RusticTextileBarrelEmpty.label>ASF织物储存桶</DankPyon_RusticTextileBarrelEmpty.label>
+  <!-- EN: A cylindrical barrel for general storage. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_RusticTextileBarrelEmpty.description>用于储存织物的圆柱形桶。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_RusticTextileBarrelEmpty.description>
+  
+  <!-- EN: Linen sack -->
+  <DankPyon_SackEmpty.label>ASF麻布袋</DankPyon_SackEmpty.label>
+  <!-- EN: A robust fabric bag. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_SackEmpty.description>坚固耐用的布袋，旨在以更高效的方式存放物品。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_SackEmpty.description>
+  
+  <!-- EN: Shelf -->
+  <DankPyon_SmallShelf.label>ASF置物架</DankPyon_SmallShelf.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_SmallShelf.description>用于存放杂物的架子。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_SmallShelf.description>
+ 
+  <!-- EN: Logs (1x1) -->
+  <DankPyon_Timber1x1Empty.label>ASF木材堆(1x1)</DankPyon_Timber1x1Empty.label>
+  <!-- EN: Timber that are stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Timber1x1Empty.description>木材整齐的堆叠在一起，可以节省更多空间。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Timber1x1Empty.description>
+  
+  <!-- EN: Timber (1x2) -->
+  <DankPyon_Timber1x2Empty.label>ASF木材堆(1x2)</DankPyon_Timber1x2Empty.label>
+  <!-- EN: Timber that are stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Timber1x2Empty.description>木材整齐的堆叠在一起，可以节省更多空间。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Timber1x2Empty.description>
+  
+  <!-- EN: Timber (2x2) -->
+  <DankPyon_Timber2x2Empty.label>ASF木材堆(2x2)</DankPyon_Timber2x2Empty.label>
+  <!-- EN: Timber that are stacked in an efficient manner to save more space.\n(Medieval Overhaul: Adaptive Storage) -->
+  <DankPyon_Timber2x2Empty.description>木材整齐的堆叠在一起，可以节省更多空间。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_Timber2x2Empty.description>
+
+  <DankPyon_TableMarket_Bread.label>ASF摆摊桌</DankPyon_TableMarket_Bread.label>
+  <DankPyon_TableMarket_Bread.description>一张摆摊用的桌子，用来陈列各种面包、奶制品及草药。\nMedieval Overhaul: Adaptive Storage版本的储存建筑。</DankPyon_TableMarket_Bread.description>
+
+</LanguageData>

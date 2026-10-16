@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: large lizardlike -->
+  <AEXP_LargeLizardlike.label>大型蜥类</AEXP_LargeLizardlike.label>
+  <!-- EN: left lung -->
+  <AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>左肺</AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>右肺</AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>左肾</AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>右肾</AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>左前腿</AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>第一左爪指</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!-- EN: front left leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>第二左爪指</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!-- EN: front left leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>第三左爪指</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!-- EN: front right leg -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>右前腿</AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>第一右爪指</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!-- EN: front right leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>第二右爪指</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!-- EN: front right leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>第三右爪指</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!-- EN: rear left leg -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>左后腿</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>第一左爪趾</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!-- EN: rear left leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>第二左爪趾</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!-- EN: rear left leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>第三左爪趾</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!-- EN: rear right leg -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>右后腿</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>第一右爪趾</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!-- EN: rear right leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>第二右爪趾</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!-- EN: rear right leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>第三右爪趾</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  
+</LanguageData>

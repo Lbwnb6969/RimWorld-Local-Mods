@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate animal products -->
+  <VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.label>吃了禽畜产品</VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.label>
+  <!-- EN: I had to eat animal products. It is wrong and immoral to imprison an animal and use it as a factory. -->
+  <VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.description>我被迫吃了一些禽畜产品。把动物们圈养起来当工厂使用是错误且不道德的。</VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.description>
+  
+  <!-- EN: ate animal products -->
+  <VME_AteAnimalProducts_Know_Abhorrent.stages.ate_animal_products.label>吃了禽畜产品</VME_AteAnimalProducts_Know_Abhorrent.stages.ate_animal_products.label>
+  
+</LanguageData>

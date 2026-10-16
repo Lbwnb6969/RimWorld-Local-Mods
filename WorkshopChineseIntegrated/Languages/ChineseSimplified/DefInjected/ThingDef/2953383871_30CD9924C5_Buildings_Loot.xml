@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chalice -->
+
+  <DankPyon_Building_ChaliceSilver.label>银色圣杯</DankPyon_Building_ChaliceSilver.label>
+  <DankPyon_Building_ChaliceSilver.description>常用于饮酒的杯子，使用白银打造，提供经济实惠的方式来改善厅堂的美感。</DankPyon_Building_ChaliceSilver.description>
+
+  <DankPyon_Building_ChaliceGold.label>金色圣杯</DankPyon_Building_ChaliceGold.label>
+  <DankPyon_Building_ChaliceGold.description>常用于饮酒的杯子，使用黄金打造，增添富丽堂皇的美感。</DankPyon_Building_ChaliceGold.description>
+
+  <!-- Bowls -->
+
+  <DankPyon_Building_BowlSilver.label>银碗</DankPyon_Building_BowlSilver.label>
+  <DankPyon_Building_BowlSilver.description>一种使用白银制成的精致碗。</DankPyon_Building_BowlSilver.description>
+
+  <DankPyon_Building_BowlGold.label>金碗</DankPyon_Building_BowlGold.label>
+  <DankPyon_Building_BowlGold.description>一种使用黄金制成的精致碗。</DankPyon_Building_BowlGold.description>
+
+
+  <!-- Skull -->
+
+  <DankPyon_Building_SkullGold.label>黄金颅骨</DankPyon_Building_SkullGold.label>
+  <DankPyon_Building_SkullGold.description>在废墟深处发现的金色颅骨，揭示了那些不死生物所拥有的华贵宝藏。</DankPyon_Building_SkullGold.description>
+
+  <DankPyon_Building_SkullEmerald.label>绿宝石颅骨</DankPyon_Building_SkullEmerald.label>
+  <DankPyon_Building_SkullEmerald.description>由珍稀的宝石材料制成的颅骨。虽然价值不菲，但掘墓人还是得小心行事，因为如此富有的宝藏，不会毫无看守的放在那。</DankPyon_Building_SkullEmerald.description>
+
+  <DankPyon_Building_SkullSapphire.label>蓝宝石颅骨</DankPyon_Building_SkullSapphire.label>
+  <DankPyon_Building_SkullSapphire.description>蓝宝石制成的颅骨，闪烁着蓝色的光芒，颅顶的每一个弧面都散发着光芒。像这样的宝物，肯定能换来不少财富，或者摆在大厅里也不错。</DankPyon_Building_SkullSapphire.description>
+ 
+  <DankPyon_Building_SkullRuby.label>红宝石颅骨</DankPyon_Building_SkullRuby.label>
+  <DankPyon_Building_SkullRuby.description>红宝石颅骨是珍贵的大奖，它吸引了所有贵族、战士、探险家和商人的注意。也是收藏家的珍贵藏品。</DankPyon_Building_SkullRuby.description>
+
+
+  <!-- Book -->
+
+  <DankPyon_Building_AncientCodex.label>古代圣典</DankPyon_Building_AncientCodex.label>
+  <DankPyon_Building_AncientCodex.description>一本有着金色饰面、精心制作的古籍。详细记载了地下帝国的历史。\n\n可以卖给有兴趣的收藏家。</DankPyon_Building_AncientCodex.description>
+
+
+</LanguageData>

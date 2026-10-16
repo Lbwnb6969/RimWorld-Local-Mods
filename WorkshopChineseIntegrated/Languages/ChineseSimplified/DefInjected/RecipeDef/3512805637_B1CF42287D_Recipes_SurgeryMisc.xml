@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rubicon surgery -->
+  <BEWH_RubiconSurgery.label>原铸手术</BEWH_RubiconSurgery.label>
+  <!-- EN: Extensive surgery that elevates a Firstborn Astartes to Primaris status. Increases physical capabilities but may result in death during the procedure. -->
+  <BEWH_RubiconSurgery.description>一项将阿斯塔特提升至原铸状态的大型手术。该手术可提升身体素质，但可能导致死亡。</BEWH_RubiconSurgery.description>
+  <!-- EN: Rebirthing {0} into a Primaris. -->
+  <BEWH_RubiconSurgery.jobString>正在将{0}重铸为原铸星际战士。</BEWH_RubiconSurgery.jobString>
+  <!-- EN: {1} has been reborn as a Primaris. -->
+  <BEWH_RubiconSurgery.successfullyRemovedHediffMessage>{1}已成功重铸为原铸星际战士。</BEWH_RubiconSurgery.successfullyRemovedHediffMessage>
+  
+  <!-- EN: resurrect from stasis -->
+  <BEWH_StasisWake.label>停滞复苏</BEWH_StasisWake.label>
+  <!-- EN: Ressurects pawn from self-induced stasis. -->
+  <BEWH_StasisWake.description>将此人从静滞状态中唤醒。</BEWH_StasisWake.description>
+  <!-- EN: Resurrecting {0} from stasis. -->
+  <BEWH_StasisWake.jobString>正在将{0}从静滞状态中唤醒。</BEWH_StasisWake.jobString>
+  <!-- EN: {0} has successfully awoken {1} from stasis. -->
+  <BEWH_StasisWake.successfullyRemovedHediffMessage>{0}已成功将{1}从静滞状态中唤醒。</BEWH_StasisWake.successfullyRemovedHediffMessage>
+  
+</LanguageData>

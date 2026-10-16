@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: comms console -->
+  <VR_CommsConsole.label>通讯控制台</VR_CommsConsole.label>
+  <!-- EN: Allows for communication over large distances. -->
+  <VR_CommsConsole.description>可进行远距离通信。</VR_CommsConsole.description>
+  <!-- EN:
+    <li>subject->comms console</li>
+    <li>subject_story->learned to encode messages into rhythmic pressure pulses</li>
+    <li>subject_story->constructed resonant speaking chambers</li>
+    <li>subject_story->decoded distant messages carried by returning harmonic vibrations</li>
+    <li>subject_gerund->calibrated harmonics for clear transmission</li>
+  -->
+  <VR_CommsConsole.generalRules.rulesStrings>
+    <li>subject->通讯控制台</li>
+    <li>subject_story->学会将讯息编码为有节律的压力脉冲</li>
+    <li>subject_story->建造了共振发声腔室</li>
+    <li>subject_story->解读了由回返谐波携带的远方讯息</li>
+    <li>subject_gerund->校准谐波以实现清晰传输</li>
+  </VR_CommsConsole.generalRules.rulesStrings>
+  
+  <!-- EN: steam power -->
+  <VR_SteamPower.label>蒸汽能源</VR_SteamPower.label>
+  <!-- EN: Allows for the collection, production, and storage of steam. This steam can than be used to power other buildings. -->
+  <VR_SteamPower.description>允许蒸汽的收集、生产与储存。这些蒸汽可用于为其他建筑供能。</VR_SteamPower.description>
+  <!-- EN:
+    <li>subject->steam power</li>
+    <li>subject_story->built a boiler deep beneath a mountain</li>
+    <li>subject_story->discovered forgotten steam diagrams in a buried vault</li>
+    <li>subject_story->traversed an active geyser field</li>
+    <li>subject_gerund->created pressurized containment vessels</li>
+  -->
+  <VR_SteamPower.generalRules.rulesStrings>
+    <li>subject->蒸汽能源</li>
+    <li>subject_story->在深山之下建造了锅炉</li>
+    <li>subject_story->在埋藏的宝库里发现被遗忘的蒸汽图纸</li>
+    <li>subject_story->穿越了一片活跃的间歇泉地带</li>
+    <li>subject_gerund->制作加压容器</li>
+  </VR_SteamPower.generalRules.rulesStrings>
+  
+  <!-- EN: trade displacement -->
+  <VR_TradeDisplacement.label>谐波位移贸易</VR_TradeDisplacement.label>
+  <!-- EN: Allows for the trading of goods through harmonic displacement. -->
+  <VR_TradeDisplacement.description>允许通过谐波位移进行货物交易。</VR_TradeDisplacement.description>
+  <!-- EN:
+    <li>subject->trade displacement</li>
+    <li>subject_story->discovered that goods could be shifted through harmonic phase alignment</li>
+    <li>subject_story->learned to stabilize matter during displacement</li>
+    <li>subject_story->prevented catastrophic loss by binding mass to return frequencies</li>
+    <li>subject_gerund->aligned trade signals through harmonic anchors</li>
+  -->
+  <VR_TradeDisplacement.generalRules.rulesStrings>
+    <li>subject->谐波位移贸易</li>
+    <li>subject_story->发现可通过谐波相位对齐转移货物</li>
+    <li>subject_story->学会在位移过程中稳定物质</li>
+    <li>subject_story->通过将质量锚定在回返频率上避免了灾难性损失</li>
+    <li>subject_gerund->通过谐波锚点对齐贸易信号</li>
+  </VR_TradeDisplacement.generalRules.rulesStrings>
+  
+</LanguageData>

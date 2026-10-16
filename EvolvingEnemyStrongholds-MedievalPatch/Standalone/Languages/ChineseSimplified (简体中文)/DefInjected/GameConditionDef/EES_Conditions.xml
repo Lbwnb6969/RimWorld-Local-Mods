@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_PsychicShrineDrone.label>巫术祭坛的波动</EES_PsychicShrineDrone.label>
+  <EES_PsychicShrineDrone.description>附近部落的巫术祭坛正向该地区发射心灵波动。{0}殖民者的精神正逐渐崩溃。在摧毁祭坛之前不会停止。</EES_PsychicShrineDrone.description>
+  <EES_PsychicShrineDrone.endMessage>巫术祭坛的心灵波动已停止。</EES_PsychicShrineDrone.endMessage>
+  <EES_PsychicShrineDrone.letterText>附近的巫术祭坛正在发射针对{0}殖民者的心灵波动。</EES_PsychicShrineDrone.letterText>
+</LanguageData>

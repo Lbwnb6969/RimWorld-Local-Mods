@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cubicism -->
+  <AM_Structure_Cubicism.label>魔方崇拜</AM_Structure_Cubicism.label>
+  <!-- EN: Driven by an insatiable thirst for knowledge and spiritual enlightenment, the Cubicists dedicate their lives to unraveling the mysteries of the Cube. They believe that by understanding its enigmatic nature, they can transcend the limitations of the material world and ascend to higher planes of consciousness. -->
+  <AM_Structure_Cubicism.description>对知识与心灵启示的无尽渴求驱使我们投身于探求金色魔方所蕴藏的奥秘。通过理解其奇异的本质，我们可以挣脱物质世界的枷锁，迈入更高等的意识层面。</AM_Structure_Cubicism.description>
+  <!-- EN:
+    <li>memeAdjective->cubic</li>
+    <li>memeAdjective->hypercubic</li>
+    <li>memeAdjective->cubiform</li>
+    <li>memeAdjective->cuboid</li>
+    <li>memeLeaderNoun->square one</li>
+    <li>memeLeaderNoun->cubic one</li>
+    <li>memeLeaderAdjective->solid</li>
+    <li>memeLeaderAdjective->gilded</li>
+    <li>memeLeaderAdjective->golden</li>
+    <li>memeMoralist->cubic oracle</li>
+    <li>memeMoralist->tetrasage</li>
+    <li>memeMoralist->auric hierophant</li>
+    <li>memeMoralist->luminary custodian</li>
+  -->
+  <AM_Structure_Cubicism.generalRules.rulesStrings>  
+    <li>memeAdjective->魔方</li>
+    <li>memeAdjective->超立方体</li>
+    <li>memeAdjective->立方</li>
+    <li>memeAdjective->立方体</li>
+    <li>memeLeaderNoun->立方神选者</li>
+    <li>memeLeaderNoun->魔方救世者</li>
+    <li>memeLeaderAdjective->纯粹</li>
+    <li>memeLeaderAdjective->金辉</li>
+    <li>memeLeaderAdjective->金色</li>
+    <li>memeMoralist->魔方祭司</li>
+    <li>memeMoralist->立方贤者</li>
+    <li>memeMoralist->耀金圣人</li>
+    <li>memeMoralist->光辉守护者</li>
+  </AM_Structure_Cubicism.generalRules.rulesStrings>
+  <!-- EN: cubic -->
+  <AM_Structure_Cubicism.symbolPacks.0.adjective>魔方</AM_Structure_Cubicism.symbolPacks.0.adjective>
+  <!-- EN: cube disciple -->
+  <AM_Structure_Cubicism.symbolPacks.0.member>魔方信徒</AM_Structure_Cubicism.symbolPacks.0.member>
+  <!-- EN: cubicism -->
+  <AM_Structure_Cubicism.symbolPacks.0.theme>立方体</AM_Structure_Cubicism.symbolPacks.0.theme>
+  <!-- EN: cubic sanctum -->
+  <AM_Structure_Cubicism.worshipRoomLabel>魔方圣所</AM_Structure_Cubicism.worshipRoomLabel>
+  
+</LanguageData>

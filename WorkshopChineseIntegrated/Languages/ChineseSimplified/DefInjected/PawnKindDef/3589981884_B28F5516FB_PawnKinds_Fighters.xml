@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Polish bannerman -->
+  <BA_Polish_Bannerman.label>波兰旗手</BA_Polish_Bannerman.label>
+  
+  <!-- EN: crossbow militia -->
+  <BA_Polish_Crossbowman.label>波兰弩兵民兵</BA_Polish_Crossbowman.label>
+  
+  <!-- EN: hajduk -->
+  <BA_Polish_Hajduk.label>哈伊杜克</BA_Polish_Hajduk.label>
+  
+  <!-- EN: halberd militia -->
+  <BA_Polish_Halberdier.label>波兰戟兵民兵</BA_Polish_Halberdier.label>
+  
+  <!-- EN: winged hussar -->
+  <BA_Polish_Hussar_Heavy.label>波兰重型翼骑兵</BA_Polish_Hussar_Heavy.label>
+  
+  <!-- EN: king -->
+  <BA_Polish_King.label>国王</BA_Polish_King.label>
+  <!-- EN: queen -->
+  <BA_Polish_King.labelFemale>女王</BA_Polish_King.labelFemale>
+  
+  <!-- EN: noble spearmen -->
+  <BA_Polish_Noble_Spearmen.label>波兰贵族矛兵</BA_Polish_Noble_Spearmen.label>
+  
+  <!-- EN: peasant -->
+  <BA_Polish_Peasant.label>波兰农民</BA_Polish_Peasant.label>
+  
+  <!-- EN: rycerz -->
+  <BA_Polish_Rycerz.label>波兰骑士</BA_Polish_Rycerz.label>
+  
+  <!-- EN: spear militia -->
+  <BA_Polish_Spear_Militia.label>波兰矛兵民兵</BA_Polish_Spear_Militia.label>
+  
+  <!-- EN: strzelcy -->
+  <BA_Polish_Strzelcy.label>波兰射手</BA_Polish_Strzelcy.label>
+  
+  <!-- EN: szlachta -->
+  <BA_Polish_Szlachta.label>波兰贵族</BA_Polish_Szlachta.label>
+  
+  <!-- EN: woodsmen -->
+  <BA_Polish_Woodsmen.label>波兰林中兵</BA_Polish_Woodsmen.label>
+  
+</LanguageData>

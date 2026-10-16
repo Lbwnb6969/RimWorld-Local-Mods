@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: enemies burnt -->
+  <VME_KillingWithFire_Abhorrent.stages.enemies_burnt.label>敌人被烧死</VME_KillingWithFire_Abhorrent.stages.enemies_burnt.label>
+  <!-- EN: Our enemies burnt to death and we were unable to avoid their gruesome deaths. -->
+  <VME_KillingWithFire_Abhorrent.stages.enemies_burnt.description>我们的敌人被烧死了。我们没法阻止他们可怕的死亡。</VME_KillingWithFire_Abhorrent.stages.enemies_burnt.description>
+  
+  <!-- EN: enemies burnt -->
+  <VME_KillingWithFire_Preferred.stages.enemies_burnt.label>敌人被烧死</VME_KillingWithFire_Preferred.stages.enemies_burnt.label>
+  <!-- EN: Our enemies burnt in the holy flames. -->
+  <VME_KillingWithFire_Preferred.stages.enemies_burnt.description>我们的敌人被神圣之火焚烧了。</VME_KillingWithFire_Preferred.stages.enemies_burnt.description>
+  
+</LanguageData>

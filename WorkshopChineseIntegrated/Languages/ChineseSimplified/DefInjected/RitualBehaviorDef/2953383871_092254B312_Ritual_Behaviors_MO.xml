@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: participate -->
+  <DankPyon_FeastNoble.spectatorGerund>参与</DankPyon_FeastNoble.spectatorGerund>
+  <!-- EN: Participants -->
+  <DankPyon_FeastNoble.spectatorsLabel>参加者</DankPyon_FeastNoble.spectatorsLabel>
+  
+  <!-- EN: participate -->
+  <DankPyon_FeastPeasant.spectatorGerund>参与</DankPyon_FeastPeasant.spectatorGerund>
+  <!-- EN: Participants -->
+  <DankPyon_FeastPeasant.spectatorsLabel>参加者</DankPyon_FeastPeasant.spectatorsLabel>
+  
+</LanguageData>

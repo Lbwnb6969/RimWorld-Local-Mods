@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: If the flagellation ritual goes well (anything over the worst result), the flagellant will receive a number of scarifications. -->
+  <AM_FlagellationOutcome.description>如果鞭笞仪式顺利举行（只要结果不是最糟糕的），被鞭笞者将获得一定数量的刻印。</AM_FlagellationOutcome.description>
+  <!-- EN: started at altar -->
+  <AM_FlagellationOutcome.comps.0.label>由祭坛开始仪式</AM_FlagellationOutcome.comps.0.label>
+  <!-- EN: an altar -->
+  <AM_FlagellationOutcome.comps.0.expectedThingLabelTip>一座祭坛</AM_FlagellationOutcome.comps.0.expectedThingLabelTip>
+  <!-- EN: participant count -->
+  <AM_FlagellationOutcome.comps.1.label>参与者数量</AM_FlagellationOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AM_FlagellationOutcome.comps.2.label>{PAWN_labelShort}的社交效果</AM_FlagellationOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <AM_FlagellationOutcome.comps.2.labelAbstract>演讲者的社交效果</AM_FlagellationOutcome.comps.2.labelAbstract>
+  <!-- EN: Failed -->
+  <AM_FlagellationOutcome.outcomeChances.0.label>失败的</AM_FlagellationOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was a failure. The ritual failed to leave even a single scar, making the entire ceremony feel pointless. -->
+  <AM_FlagellationOutcome.outcomeChances.0.description>{0}失败了。我们未能在被鞭笞者身上留下任何刻印，整场仪式显得毫无意义。</AM_FlagellationOutcome.outcomeChances.0.description>
+  <!-- EN: Underwhelming -->
+  <AM_FlagellationOutcome.outcomeChances.1.label>效果甚微的</AM_FlagellationOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was underwhelming. Only a few ritual scars were earned, leaving much to be desired. -->
+  <AM_FlagellationOutcome.outcomeChances.1.description>{0}效果甚微。我们只在被鞭笞者身上留下了很少的刻印，远未达到预期所想。</AM_FlagellationOutcome.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <AM_FlagellationOutcome.outcomeChances.2.label>令人满意的</AM_FlagellationOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The ritual left its participant bearing several new scars as marks of their devotion. -->
+  <AM_FlagellationOutcome.outcomeChances.2.description>{0}令人满意。我们在被鞭笞者身上留下了数个刻印，这是其虔诚的证明。</AM_FlagellationOutcome.outcomeChances.2.description>
+  <!-- EN: Exemplary -->
+  <AM_FlagellationOutcome.outcomeChances.3.label>堪称典范的</AM_FlagellationOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was exemplary! The ritual left its participant covered in new scars, displaying their devotion for all to see. -->
+  <AM_FlagellationOutcome.outcomeChances.3.description>{0}堪称典范！我们在被鞭笞者身上留下了刻印，向所有人展示了其虔诚。</AM_FlagellationOutcome.outcomeChances.3.description>
+  
+</LanguageData>

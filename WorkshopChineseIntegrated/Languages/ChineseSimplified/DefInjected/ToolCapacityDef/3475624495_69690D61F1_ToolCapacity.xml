@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: petrifying bite -->
+  <DA_CrestelBite.label>僵直叮咬</DA_CrestelBite.label>
+  
+  <!-- EN: demolish -->
+  <DA_DemolishTroll.label>吞食</DA_DemolishTroll.label>
+  
+  <!-- EN: karabal bite -->
+  <DA_KarabalBite.label>卡拉巴叮咬</DA_KarabalBite.label>
+  
+  <!-- EN: quill-sting -->
+  <DA_Quillsting.label>刺叮</DA_Quillsting.label>
+  
+  <!-- EN: ram-bash -->
+  <DA_Rambash.label>撞击</DA_Rambash.label>
+  
+  <!-- EN: devour -->
+  <DA_ToadDevour.label>吞食</DA_ToadDevour.label>
+  
+</LanguageData>

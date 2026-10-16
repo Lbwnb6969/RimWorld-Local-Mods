@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: being of faith -->
+  <BEWH_LivingSaintBeingOfFaith.label>神圣之躯</BEWH_LivingSaintBeingOfFaith.label>
+  <!-- EN: A Living Saint is an extraordinarily devout servant of the Emperor of Mankind, who displays seemingly miraculous, supernatural abilities derived from potent faith in the God-Emperor during his or her lifetime.\nShould the carrier of this gene fall in battle they will vanish, and in time of need, they will return to defend their colony. -->
+  <BEWH_LivingSaintBeingOfFaith.description>活圣人是帝皇极其虔诚的仆人，他们生前展现出源自对帝皇信仰热忱的神力。\n如果此基因的携带者在战斗中死亡，他们将会暂时消失，但他们会在需要时返回殖民地。</BEWH_LivingSaintBeingOfFaith.description>
+  <!-- EN: This pawn is truly never lost upon death. They may, upon times of great need, return to the colony to help. -->
+  <BEWH_LivingSaintBeingOfFaith.customEffectDescriptions.0>这名殖民者不会死亡，他们总有一天会回来。</BEWH_LivingSaintBeingOfFaith.customEffectDescriptions.0>
+  
+  <!-- EN: divine flight -->
+  <BEWH_LivingSaintDivineFlight.label>神圣飞行</BEWH_LivingSaintDivineFlight.label>
+  <!-- EN: Immense faith have conjured forth ethereal wings of warp energy, resembling that of an angels. These wings allows for short flights. -->
+  <BEWH_LivingSaintDivineFlight.description>强大的信仰召唤出如同天使般，由亚空间能量构成的神圣之翼。这些翅膀能够进行短距离飞行。</BEWH_LivingSaintDivineFlight.description>
+  
+  <!-- EN: Divine Grace -->
+  <BEWH_LivingSaintDivineGrace.label>神圣恩典</BEWH_LivingSaintDivineGrace.label>
+  <!-- EN: Carriers of this gene have a resevoir of energy used to power fantastical abilities and themself. -->
+  <BEWH_LivingSaintDivineGrace.description>此基因的携带者配备能量储存器，用于驱动自身及其神力。</BEWH_LivingSaintDivineGrace.description>
+  <!-- EN: Gives Divine Grace. -->
+  <BEWH_LivingSaintDivineGrace.customEffectDescriptions.0>获得一种名为“恩典”的能量。</BEWH_LivingSaintDivineGrace.customEffectDescriptions.0>
+  <!-- EN: Warp powered faith used to manifest immense power. -->
+  <BEWH_LivingSaintDivineGrace.resourceDescription>携带者能够运用亚空间能量驱动的信仰，释放出巨大的力量。</BEWH_LivingSaintDivineGrace.resourceDescription>
+  <!-- EN: Divine Grace -->
+  <BEWH_LivingSaintDivineGrace.resourceLabel>神圣恩典</BEWH_LivingSaintDivineGrace.resourceLabel>
+  
+  <!-- EN: fury of the Emperor -->
+  <BEWH_LivingSaintFuryOfTheEmperor.label>帝皇之怒</BEWH_LivingSaintFuryOfTheEmperor.label>
+  <!-- EN: Filled with the fury of the Emperor, carriers of this gene can feel the power of the Emperor surge through them as they fight his enemies. -->
+  <BEWH_LivingSaintFuryOfTheEmperor.description>携带者的体内充斥着帝皇的怒火，与敌人战斗时，他们能够感受到帝皇之力在体内涌动。</BEWH_LivingSaintFuryOfTheEmperor.description>
+  
+  <!-- EN: holy radiance -->
+  <BEWH_LivingSaintHolyRadiance.label>神圣光辉</BEWH_LivingSaintHolyRadiance.label>
+  <!-- EN: Immense faith have conjured forth an ethereal halo of warp energy, resembling that of an angels. This halo radiates a blissful energy for anyone around them. -->
+  <BEWH_LivingSaintHolyRadiance.description>至臻信仰唤出一道如同天使般的亚空间能量光环。这道光环向周遭辐射宁和圣能，抚慰信众心神。</BEWH_LivingSaintHolyRadiance.description>
+  
+  <!-- EN: martyr's endurance -->
+  <BEWH_LivingSaintMartyrsEndurance.label>殉道坚毅</BEWH_LivingSaintMartyrsEndurance.label>
+  <!-- EN: Having already died once, carriers of this gene have steeled themselves to damage, greatly reducing incoming damage. -->
+  <BEWH_LivingSaintMartyrsEndurance.description>携带者已经历过一次死亡。这一次，他已做足充分准备，强化自身，大幅降低受到的伤害。</BEWH_LivingSaintMartyrsEndurance.description>
+  <!-- EN: Ignores movespeed decrease from armor. -->
+  <BEWH_LivingSaintMartyrsEndurance.customEffectDescriptions.0>无视护甲造成的移速惩罚。</BEWH_LivingSaintMartyrsEndurance.customEffectDescriptions.0>
+  
+  <!-- EN: sacred regeneration -->
+  <BEWH_LivingSaintSacredRegeneration.label>神圣再生</BEWH_LivingSaintSacredRegeneration.label>
+  <!-- EN: Immense faith and connection to the warp allows the carrier of this gene to quickly regenerate their wounds. -->
+  <BEWH_LivingSaintSacredRegeneration.description>至臻信仰与亚空间的链接能使携带者能够快速再生。</BEWH_LivingSaintSacredRegeneration.description>
+  
+</LanguageData>

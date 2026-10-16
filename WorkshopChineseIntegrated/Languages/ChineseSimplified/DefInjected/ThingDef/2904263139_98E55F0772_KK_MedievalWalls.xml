@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Medieval Cellar Ditch -->
+  <KK_MedievalCellarDitch.label>中世纪沟渠</KK_MedievalCellarDitch.label>
+  <!-- EN: A deep cellar ditch that slows movement if anyone tries to cross it. -->
+  <KK_MedievalCellarDitch.description>一种可对越过者造成减速效果的深沟渠。</KK_MedievalCellarDitch.description>
+  
+  <!-- EN: Medieval Wall -->
+  <KK_MedievalWall.label>中世纪城墙</KK_MedievalWall.label>
+  <!-- EN: A medieval stone wall. Thick and strong, but weak to explosives -->
+  <KK_MedievalWall.description>一面无法通过的中世纪石墙。厚实且坚固，但很容易被爆炸摧毁。可以支撑起屋顶。</KK_MedievalWall.description>
+  
+  <!-- EN: Medieval Embrasures -->
+  <KK_MedievalWallEmbrasures.label>中世纪垛墙</KK_MedievalWallEmbrasures.label>
+  <!-- EN: A medieval stone wall with embrasures. Thick and strong, but weak to explosives -->
+  <KK_MedievalWallEmbrasures.description>一面无法通过的中世纪石墙，上面开有供武器对外射击的垛口。厚实且坚固，但很容易被爆炸摧毁。可以支撑起屋顶。</KK_MedievalWallEmbrasures.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lice de joute -->
+  <RimJoust_LiceBarrier.label>比武赛道栏</RimJoust_LiceBarrier.label>
+  <!-- EN: La barrière au milieu de la piste de joute. Une clôture en bois renforcée, à peu près à hauteur de jambe quand t'es à cheval. Elle sépare les deux pistes pour que les chevaux se rentrent pas dedans. Pose une rangée bien droite entre les deux fanions. Ça se relie tout seul aux autres clôtures. -->
+  <RimJoust_LiceBarrier.description>比武赛道中间的栅栏。一种加固的木栅栏，大约达到骑马时腿部的高度。它分隔两条赛道，防止马匹相撞。在两个旗帜之间放置一排笔直的道栏。它会自动与其他道栏连接。</RimJoust_LiceBarrier.description>
+  
+</LanguageData>

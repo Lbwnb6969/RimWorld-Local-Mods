@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Loot Books -->
+
+  <DankPyon_BookUnique_OrnateTome.label>华丽巨著</DankPyon_BookUnique_OrnateTome.label>
+  <DankPyon_BookUnique_OrnateTome.description>这是一系列装桢精巧的古籍，以华丽的封面及镀金护边装饰。这些手抄本详细记载了古老地下帝国统治时期的历史。\n\n可以卖给有兴趣的收藏家。</DankPyon_BookUnique_OrnateTome.description>
+
+
+  <!-- Unique Books -->
+
+  <DankPyon_BookUnique_OnEnglish.label>《南辕北辙—从方言到中古英语》</DankPyon_BookUnique_OnEnglish.label>
+  <DankPyon_BookUnique_OnEnglish.description>《南辕北辙—从方言到中古英语》\n\n“一位名叫谢菲尔德的商人来自英格兰北部。他走进一户人家，问女主人能否买些「egges（蛋）」。她回答说她不会法语，这让商人很恼火，因为他也不会说法语。幸好，一位旁人跳出来向女主人解释商人想买的是「eyren（蛋）」，这才化解了这场误会。”\n\n那么，鸡蛋的标准书面写法是什么呢？应该采用北方的egges还是南方的eyren？由于语言的多样性和变化，很难让每个人都满意。诸如此类的问题必须花好几年才能解决，但也渐渐形成了后世所称的「中古英语（Middle English）」。</DankPyon_BookUnique_OnEnglish.description>
+
+
+</LanguageData>

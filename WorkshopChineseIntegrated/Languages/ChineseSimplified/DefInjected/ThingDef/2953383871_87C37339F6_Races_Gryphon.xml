@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Griffon -->
+
+  <DankPyon_Griffon.label>狮鹫</DankPyon_Griffon.label>
+  <DankPyon_Griffon.description>狮鹫是天空中领地意识极强的掠食者，以高山和偏远地区为家。白天，它们会在狩猎场周围展翅飞翔，寻找任何落单的游荡者。如果猎人忽视狮鹫从空中发出的（唯一）警告，那么他们就应该做好准备，迎接一场残酷的生死较量。</DankPyon_Griffon.description>
+  <DankPyon_Griffon.tools.0.label>左爪</DankPyon_Griffon.tools.0.label>
+  <DankPyon_Griffon.tools.1.label>右爪</DankPyon_Griffon.tools.1.label>
+  <DankPyon_Griffon.tools.2.label>喙</DankPyon_Griffon.tools.2.label>
+  <DankPyon_Griffon.tools.3.label>头</DankPyon_Griffon.tools.3.label>
+
+
+</LanguageData>

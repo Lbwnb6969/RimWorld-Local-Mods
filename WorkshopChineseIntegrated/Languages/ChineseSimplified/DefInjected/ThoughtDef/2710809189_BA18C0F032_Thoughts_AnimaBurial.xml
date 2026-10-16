@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amazing burial -->
+  <AM_AmazingAnimaBurial.stages.amazing_burial.label>令人惊异的仙树葬礼</AM_AmazingAnimaBurial.stages.amazing_burial.label>
+  <!-- EN: The burial was amazing. I could feel the tree spirit embracing our friend. -->
+  <AM_AmazingAnimaBurial.stages.amazing_burial.description>那次仙树葬礼令人惊异，我能感受到我们的朋友正处于仙树之灵的怀抱中。</AM_AmazingAnimaBurial.stages.amazing_burial.description>
+  
+  <!-- EN: anima scream -->
+  <AM_AnimaScreamLesser.stages.anima_scream.label>仙灵尖啸</AM_AnimaScreamLesser.stages.anima_scream.label>
+  <!-- EN: Such a pain in my head. We shouldn't have angered the tree. -->
+  <AM_AnimaScreamLesser.stages.anima_scream.description>我的头好痛...我们不该触怒仙树之灵的...</AM_AnimaScreamLesser.stages.anima_scream.description>
+  
+  <!-- EN: good burial -->
+  <AM_GoodAnimaBurial.stages.good_burial.label>令人满意的仙树葬礼</AM_GoodAnimaBurial.stages.good_burial.label>
+  <!-- EN: The burial went well, a good sendoff and I believe my friend is with the tree's spirit now. -->
+  <AM_GoodAnimaBurial.stages.good_burial.description>那次仙树葬礼令人满意，我们的朋友现在与仙树之灵同在了。</AM_GoodAnimaBurial.stages.good_burial.description>
+  
+  <!-- EN: incredible burial -->
+  <AM_IncredibleAnimaBurial.stages.incredible_burial.label>难以忘怀的仙树葬礼</AM_IncredibleAnimaBurial.stages.incredible_burial.label>
+  <!-- EN: That burial was enlightening, the tree spirit graced us with some of its power. -->
+  <AM_IncredibleAnimaBurial.stages.incredible_burial.description>那次仙树葬礼令人难以忘怀，仙树之灵为我们赐予了一些力量。</AM_IncredibleAnimaBurial.stages.incredible_burial.description>
+  
+  <!-- EN: lackluster burial -->
+  <AM_LacklusterAnimaBurial.stages.lackluster_burial.label>枯燥乏味的仙树葬礼</AM_LacklusterAnimaBurial.stages.lackluster_burial.label>
+  <!-- EN: That anima burial was quite disappointing. The tree spirit seemed displeased. -->
+  <AM_LacklusterAnimaBurial.stages.lackluster_burial.description>那次仙树葬礼枯燥乏味，仙树之灵似乎有些不满了。</AM_LacklusterAnimaBurial.stages.lackluster_burial.description>
+  
+  <!-- EN: disgraceful burial -->
+  <AM_TerribleAnimaBurial.stages.disgraceful_burial.label>糟糕的仙树葬礼</AM_TerribleAnimaBurial.stages.disgraceful_burial.label>
+  <!-- EN: That anima burial was devastating, I hope the tree spirit will forgive us some day. -->
+  <AM_TerribleAnimaBurial.stages.disgraceful_burial.description>那次仙树葬礼非常糟糕，希望仙树之灵某天会大发慈悲，原谅我们的无礼。</AM_TerribleAnimaBurial.stages.disgraceful_burial.description>
+  
+</LanguageData>

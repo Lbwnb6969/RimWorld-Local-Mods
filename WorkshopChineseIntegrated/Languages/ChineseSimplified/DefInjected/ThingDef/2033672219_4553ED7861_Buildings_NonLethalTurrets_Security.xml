@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: non-lethal turret gun -->
+  <VFES_Gun_NonLethalTurret.label>镇暴自动机枪</VFES_Gun_NonLethalTurret.label>
+  <!-- EN: A non-lethal rubber bullet gun made to be mounted on a turret. -->
+  <VFES_Gun_NonLethalTurret.description>安装在炮塔上的镇暴自动机枪。发射非致命的橡胶子弹。</VFES_Gun_NonLethalTurret.description>
+  <!-- EN: non-lethal turret gun -->
+  <VFES_Gun_NonLethalTurret.verbs.Verb_Shoot.label>镇暴自动机枪</VFES_Gun_NonLethalTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: non-lethal turret -->
+  <VFES_Turret_NonLethalTurret.label>镇暴自动机枪塔</VFES_Turret_NonLethalTurret.label>
+  <!-- EN: A turret designed to fire rubber bullets at intruders or unruly colonists. It causes pain and blunt trauma with low chance of fatal injury, making it ideal for non-lethal suppression. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_NonLethalTurret.description>一种小型、短程的便携式自动机枪塔，专为放倒不速之客和失控的殖民者而设计。它发射的橡胶子弹会造成一定量的痛苦和钝击伤害，但几乎不会致命，也因此非常适合镇暴。受损严重时可能会爆炸。由于是人工智能来运行无法被直接控制，所以要小心友军误伤。</VFES_Turret_NonLethalTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelGizmoLabel>枪管耐久度</VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelLabel>更换枪管前剩余射击次数</VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_NonLethalTurret.comps.CompRefuelable.outOfFuelMessage>需要新枪管</VFES_Turret_NonLethalTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

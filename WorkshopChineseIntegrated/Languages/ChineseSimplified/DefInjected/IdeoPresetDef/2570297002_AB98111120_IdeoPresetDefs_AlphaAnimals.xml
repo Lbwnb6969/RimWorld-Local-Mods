@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astrological corruptors -->
+  <VME_Astrological_Corruptors.label>占星堕落者</VME_Astrological_Corruptors.label>
+  <!-- EN: The stars beckon, and we obey. We shall be the faceless bearers of a new awakening, for we have peered into the unknown and its vastness has filled us with wonder.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Alienism. -->
+  <VME_Astrological_Corruptors.description>星星在召唤，我们必须遵从。我们将觉醒并成为新时代无名肩负者，因为我们窥视了未知，它的浩瀚让我们充满了惊奇。\n\n&lt;color=#E5E54C>推荐结构&lt;/color>\n -异域生命崇拜</VME_Astrological_Corruptors.description>
+  
+  <!-- EN: inhuman ravagers -->
+  <VME_Inhuman_Ravagers.label>野蛮掠夺者</VME_Inhuman_Ravagers.label>
+  <!-- EN: The dark confines of the Universe hid the existence of the Flesh that Hungers, a transdimensional conversion that reveals the true reality of life. We will forcefully bring its boon into the whole galaxy, erasing the obsolete examples of prior lifeforms, faulty and incomplete as they are.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Alienism. -->
+  <VME_Inhuman_Ravagers.description>宇宙黑暗的界限隐藏了血肉饥渴的存在，跨维度的转换揭示了真实的生命。我们将忠实地将它的恩惠带到整个银河系，以便抹杀曾经那些充满缺陷的过时生命形态。\n\n&lt;color=#E5E54C>推荐结构&lt;/color>\n -异域生命崇拜</VME_Inhuman_Ravagers.description>
+  
+</LanguageData>

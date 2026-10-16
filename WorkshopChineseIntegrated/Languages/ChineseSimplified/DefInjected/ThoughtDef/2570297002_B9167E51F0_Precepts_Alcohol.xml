@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: missing alcohol -->
+  <VME_Alcohol_Demanded.stages.missing_alcohol.label>缺少酒饮</VME_Alcohol_Demanded.stages.missing_alcohol.label>
+  <!-- EN: I could use a drink. Something stronger please. -->
+  <VME_Alcohol_Demanded.stages.missing_alcohol.description>我想喝一杯了。给我来杯劲儿大的。</VME_Alcohol_Demanded.stages.missing_alcohol.description>
+  <!-- EN: no alcohol -->
+  <VME_Alcohol_Demanded.stages.no_alcohol.label>没有酒饮</VME_Alcohol_Demanded.stages.no_alcohol.label>
+  <!-- EN: I wish I could have a drink of something stronger. -->
+  <VME_Alcohol_Demanded.stages.no_alcohol.description>我希望能喝杯烈酒。</VME_Alcohol_Demanded.stages.no_alcohol.description>
+  <!-- EN: needs alcohol -->
+  <VME_Alcohol_Demanded.stages.needs_alcohol.label>需求酒饮</VME_Alcohol_Demanded.stages.needs_alcohol.label>
+  <!-- EN: I need a drink of something stronger. -->
+  <VME_Alcohol_Demanded.stages.needs_alcohol.description>我需要喝杯烈酒。</VME_Alcohol_Demanded.stages.needs_alcohol.description>
+  <!-- EN: craves alcohol -->
+  <VME_Alcohol_Demanded.stages.craves_alcohol.label>想要酒饮</VME_Alcohol_Demanded.stages.craves_alcohol.label>
+  <!-- EN: I’d kill for a drop of something stronger. -->
+  <VME_Alcohol_Demanded.stages.craves_alcohol.description>只要能给我杯烈酒喝，让我杀人都行。</VME_Alcohol_Demanded.stages.craves_alcohol.description>
+  <!-- EN: demands alcohol -->
+  <VME_Alcohol_Demanded.stages.demands_alcohol.label>渴求酒饮</VME_Alcohol_Demanded.stages.demands_alcohol.label>
+  <!-- EN: Booze or I riot. -->
+  <VME_Alcohol_Demanded.stages.demands_alcohol.description>要么给我酒喝，要么我就四处闹事。</VME_Alcohol_Demanded.stages.demands_alcohol.description>
+  
+  <!-- EN: missing alcohol -->
+  <VME_Alcohol_Desired.stages.missing_alcohol.label>缺少酒饮</VME_Alcohol_Desired.stages.missing_alcohol.label>
+  <!-- EN: It's been a while since I've had a drink. -->
+  <VME_Alcohol_Desired.stages.missing_alcohol.description>我已经很久没喝过酒了。</VME_Alcohol_Desired.stages.missing_alcohol.description>
+  <!-- EN: desiring a drink -->
+  <VME_Alcohol_Desired.stages.desiring_a_drink.label>需求酒饮</VME_Alcohol_Desired.stages.desiring_a_drink.label>
+  <!-- EN: What this colony needs is a bar so we can take a few drinks with our friends after a day of hard work. -->
+  <VME_Alcohol_Desired.stages.desiring_a_drink.description>殖民地里真应该建一家酒吧，这样我们就可以在一天的辛勤劳作后和朋友们喝上几杯了。</VME_Alcohol_Desired.stages.desiring_a_drink.description>
+  <!-- EN: wanting a drink -->
+  <VME_Alcohol_Desired.stages.wanting_a_drink-0.label>想要酒饮</VME_Alcohol_Desired.stages.wanting_a_drink-0.label>
+  <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
+  <VME_Alcohol_Desired.stages.wanting_a_drink-0.description>努力工作是好事，但我真的想喝几杯烈酒或啤酒来放松放松。</VME_Alcohol_Desired.stages.wanting_a_drink-0.description>
+  <!-- EN: wanting a drink -->
+  <VME_Alcohol_Desired.stages.wanting_a_drink-1.label>想要酒饮</VME_Alcohol_Desired.stages.wanting_a_drink-1.label>
+  <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
+  <VME_Alcohol_Desired.stages.wanting_a_drink-1.description>努力工作是好事，但我真的想喝几杯烈酒或啤酒来放松放松。</VME_Alcohol_Desired.stages.wanting_a_drink-1.description>
+  <!-- EN: wanting a drink -->
+  <VME_Alcohol_Desired.stages.wanting_a_drink-2.label>想要酒饮</VME_Alcohol_Desired.stages.wanting_a_drink-2.label>
+  <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
+  <VME_Alcohol_Desired.stages.wanting_a_drink-2.description>努力工作是好事，但我真的想喝几杯烈酒或啤酒来放松放松。</VME_Alcohol_Desired.stages.wanting_a_drink-2.description>
+  
+  <!-- EN: consumed alcohol -->
+  <VME_Alcohol_MildAbstinence.stages.consumed_alcohol.label>喝酒</VME_Alcohol_MildAbstinence.stages.consumed_alcohol.label>
+  <!-- EN: I drank a bit of alcohol. Not a big deal, but I feel a bit woozy. -->
+  <VME_Alcohol_MildAbstinence.stages.consumed_alcohol.description>我喝了点酒。虽然没什么大不了的，但我感觉有点头晕。</VME_Alcohol_MildAbstinence.stages.consumed_alcohol.description>
+  <!-- EN: abstained from alcohol -->
+  <VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.label>戒酒</VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.label>
+  <!-- EN: I haven't consumed alcohol lately. -->
+  <VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.description>我最近已经不喝酒了。</VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.description>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Diplomat.label>款待</Diplomat.label>
+  <!-- EN: Diplomats entertain guests and build friendships. -->
+  <Diplomat.description>外交官款待访客，与之建立友谊。</Diplomat.description>
+  <!-- EN: Entertaining -->
+  <Diplomat.gerundLabel>正在款待</Diplomat.gerundLabel>
+  <!-- EN: Entertain -->
+  <Diplomat.labelShort>款待</Diplomat.labelShort>
+  <!-- EN: Diplomat -->
+  <Diplomat.pawnLabel>外交官</Diplomat.pawnLabel>
+  <!-- EN: Entertain -->
+  <Diplomat.verb>款待</Diplomat.verb>
+  
+</LanguageData>

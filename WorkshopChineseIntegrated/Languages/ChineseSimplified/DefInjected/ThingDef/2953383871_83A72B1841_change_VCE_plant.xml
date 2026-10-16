@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_Beet.label>基奥贾甜菜</VCE_Beet.label>
+  <VCE_Beet.description>草状蔬菜，营养丰富也曾被用作染料，人和动物都爱吃。尽管从外观来看，这种甜菜与普通品种相似，但切开内部会发现明显的红白条纹，图案就像牛眼睛一样，俗称牛眼甜菜或意大利甜菜。这些甜菜的甜度是最高的。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;虽然对土壤要求高，但生命力很旺盛，即便在冬季也会以10%的速度缓慢生长。仍然需要在适耕季播种。</VCE_Beet.description>
+
+  <VCE_RawBeets.label>基奥贾甜菜</VCE_RawBeets.label>
+  <VCE_RawBeets.description>草状蔬菜，营养丰富也曾被用作染料，人和动物都爱吃。尽管从外观来看，这种甜菜与普通品种相似，但切开内部会发现明显的红白条纹，图案就像牛眼睛一样，俗称牛眼甜菜或意大利甜菜。这些甜菜的甜度是最高的。</VCE_RawBeets.description>
+
+  <VCE_Cabbage.label>西兰花</VCE_Cabbage.label>
+  <VCE_Cabbage.description>一种大而圆的蔬菜，西兰花的头部为白色或绿色花球，周围是绿色的叶子，含有大量纤维和维生素B群。这种特殊的品系似乎对空气中的毒素和辐射有很强的抵抗力。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;不会受到毒气的影响</VCE_Cabbage.description>
+
+  <VCE_RawCabbage.label>西兰花</VCE_RawCabbage.label>
+  <VCE_RawCabbage.description>一种大而圆的蔬菜，西兰花的头部为白色或绿色花球，周围是绿色的叶子，含有大量纤维和维生素B群。</VCE_RawCabbage.description>
+
+  <VCE_Onion.label>白洋葱</VCE_Onion.label>
+  <VCE_Onion.description>一种气味强烈而辛辣的洋葱品种，非常适合用于味道鲜美的沙拉或需要强烈味道的菜餚中使用。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;不会受到枯萎病的影响。</VCE_Onion.description>
+
+  <VCE_RawOnion.label>白洋葱</VCE_RawOnion.label>
+  <VCE_RawOnion.description>一种气味强烈而辛辣的洋葱品种，非常适合用于味道鲜美的沙拉或需要强烈味道的菜餚中使用。</VCE_RawOnion.description>
+
+  <VCE_Pumpkin.label>猛犸金南瓜</VCE_Pumpkin.label>
+  <VCE_Pumpkin.description>猛犸金南瓜是最大的南瓜品种之一，可以长到25至50公斤。技术上来说，它是一种富含水分的巨大浆果，因播种和收割容易而闻名。然而，它们的坚韧性意味着重量和体积的增加--对于水培盆来说太麻烦了。</VCE_Pumpkin.description>
+
+  <VCE_RawPumpkin.label>猛犸金南瓜</VCE_RawPumpkin.label>
+  <VCE_RawPumpkin.description>猛犸金南瓜是最大的南瓜品种之一，可以长到25至50公斤。技术上来说，它是一种富含水分的巨大浆果，因播种和收割容易而闻名。</VCE_RawPumpkin.description>
+
+  <VCE_Tomato.label>牛番茄</VCE_Tomato.label>
+  <VCE_Tomato.description>番茄的其中一个品种，具有坚实的肉质、丰富和鲜艳的红色。与其他品种相比，其味道温和多汁而平衡。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;番茄在收割后不会消失，而是会留下藤，与果树类似。</VCE_Tomato.description>
+
+  <VCE_RawTomatoes.label>牛番茄</VCE_RawTomatoes.label>
+  <VCE_RawTomatoes.description>番茄的其中一个品种，具有坚实的肉质、丰富和鲜艳的红色。与其他品种相比，其味道温和多汁而平衡。</VCE_RawTomatoes.description>
+
+  <VCE_AppleTree.label>青苹果树</VCE_AppleTree.label>
+  <VCE_AppleTree.description>树上能结出光洁通绿的青苹果。果皮呈浅绿色，果肉清脆多汁。味道是酸的，它在烘烤后仍能保持外型，使其成为非常受欢迎的烹饪苹果，可用于制作馅饼，混合在糖里呈现一种酸酸甜甜的风味。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有果树都需要占用四格空间，需要很长的时间生长，并最终会结出可以生吃的果实。果树在被收割后不会消失，但依旧有自己的寿命限制。</VCE_AppleTree.description>
+
+  <VCE_RawApple.label>青苹果</VCE_RawApple.label>
+  <VCE_RawApple.description>果皮呈浅绿色，果肉清脆多汁。味道是酸的，它在烘烤后仍能保持外型，使其成为非常受欢迎的烹饪苹果，可用于制作馅饼，混合在糖里呈现一种酸酸甜甜的风味。</VCE_RawApple.description>
+
+</LanguageData>

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Abstract="true" Name="GW_Rulers_HelmetBase" ParentName="ArmorHelmetMakeableBase">
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>1</drawSize>
+    </graphicData>
+    <!-- These recipes should use autoforging and cant use the usual recipe maker -->
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef> -->
+    <!-- <skillRequirements> -->
+    <!-- <Crafting>20</Crafting> -->
+    <!-- </skillRequirements> -->
+    <!-- <recipeUsers Inherit="False"> -->
+    <!-- <li>GW_Autoforge</li> -->
+    <!-- </recipeUsers> -->
+    <!-- </recipeMaker> -->
+    <uiIconScale>1.6</uiIconScale>
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
+      <PawnBeauty>50</PawnBeauty>
+      <VacuumResistance MayRequire="ludeon.rimworld.odyssey">0.6</VacuumResistance>
+      <HypoxiaResistance MayRequire="kentington.saveourship2">0.25</HypoxiaResistance>
+      <DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
+      <VacuumSpeedMultiplier MayRequire="kentington.saveourship2">2</VacuumSpeedMultiplier>
+    </equippedStatOffsets>
+    <statBases>
+      <Flammability>0.0</Flammability>
+    </statBases>
+    <apparel>
+      <tags>
+        <li>Spacer</li>
+        <li>EVA</li>
+        <li>PrestigeCombatGear</li>
+      </tags>
+      <drawData>
+        <scale>1.1</scale>
+        <childScale>1.1</childScale>
+      </drawData>
+      <useWornGraphicMask>true</useWornGraphicMask>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <layers>
+        <li>EyeCover</li>
+        <li MayRequire="ceteam.combatextended">StrappedHead</li>
+        <li MayRequire="ceteam.combatextended">OnHead</li>
+        <li>Overhead</li>
+        <!--Needs to be last for the tool to properly label this a helmet-->
+      </layers>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="VEF.Apparels.ApparelExtension">
+        <isUnifiedApparel>true</isUnifiedApparel>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_HelmetBase">
+    <defName>GW_Rulers_EmperorHelmetW</defName>
+    <label>Emperor's laurels (W)</label>
+    <description>A magnificent golden wreath like that worn by the Emperor of Mankind. Surely it is no ordinary wreath, for it is radiant with glory. \n\nCrippled by His final duel with Horus, the Emperor was ferried to the Imperial Palace and placed upon the Golden Throne. There he has sat for ten thousand years, shining a great Warp beacon - the Astronomican - so that ships travelling through the Warp may find their path through the Immaterium. \n\nThousands of psykers are sacrificed to Him every day, their strength consumed to prolong the dying Emperor's life.</description>
+    <graphicData>
+      <texPath>Emperor/Headgear/GW_HRM_Emperor_LaurelsW</texPath>
+    </graphicData>
+    <apparel>
+      <renderSkipFlags>
+        <li>None</li>
+      </renderSkipFlags>
+      <tags></tags>
+      <wornGraphicPath>Emperor/Headgear/GW_HRM_Emperor_LaurelsW</wornGraphicPath>
+      <drawData>
+        <scale>1.1</scale>
+        <dataSouth>
+          <offset>(0, 0, 0.05)</offset>
+        </dataSouth>
+        <dataNorth>
+          <offset>(0, 0, 0.05)</offset>
+        </dataNorth>
+        <dataEast>
+          <offset>(0, 0, 0.05)</offset>
+        </dataEast>
+        <dataWest>
+          <offset>(0, 0, 0.05)</offset>
+        </dataWest>
+      </drawData>
+    </apparel>
+    <equippedStatOffsets>
+      <InjuryHealingFactor>0.5</InjuryHealingFactor>
+      <PsychicSensitivity>0.5</PsychicSensitivity>
+    </equippedStatOffsets>
+    <costList>
+      <Plasteel>205</Plasteel>
+      <Gold>180</Gold>
+    </costList>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>1.45</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.6</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.75</ArmorRating_Heat>
+      <Insulation_Cold>10</Insulation_Cold>
+      <Insulation_Heat>4</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="RimDark.MastersOfMankind.DefModExtension_ApparelRestriction">
+        <isRestrictStat>true</isRestrictStat>
+        <statDef>PsychicSensitivity</statDef>
+        <reqMode>GreaterEqual</reqMode>
+        <value>1.4</value>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_HelmetBase">
+    <defName>GW_Rulers_EmperorHelmet</defName>
+    <label>Emperor's laurels</label>
+    <description>A magnificent golden wreath like that worn by the Emperor of Mankind. Surely it is no ordinary wreath, for it is radiant with glory. \n\nCrippled by His final duel with Horus, the Emperor was ferried to the Imperial Palace and placed upon the Golden Throne. There he has sat for ten thousand years, shining a great Warp beacon - the Astronomican - so that ships travelling through the Warp may find their path through the Immaterium. \n\nThousands of psykers are sacrificed to Him every day, their strength consumed to prolong the dying Emperor's life.</description>
+    <graphicData>
+      <texPath>Emperor/Headgear/GW_HRM_Emperor_LaurelsC</texPath>
+    </graphicData>
+    <apparel>
+      <renderSkipFlags>
+        <li>None</li>
+      </renderSkipFlags>
+      <tags></tags>
+      <wornGraphicPath>Emperor/Headgear/GW_HRM_Emperor_LaurelsC</wornGraphicPath>
+      <drawData>
+        <scale>1.1</scale>
+        <dataSouth>
+          <offset>(0, 0, 0.05)</offset>
+        </dataSouth>
+        <dataNorth>
+          <offset>(0, 0, 0.05)</offset>
+        </dataNorth>
+        <dataEast>
+          <offset>(0, 0, 0.05)</offset>
+        </dataEast>
+        <dataWest>
+          <offset>(0, 0, 0.05)</offset>
+        </dataWest>
+      </drawData>
+    </apparel>
+    <equippedStatOffsets>
+      <InjuryHealingFactor>0.5</InjuryHealingFactor>
+      <PsychicSensitivity>0.5</PsychicSensitivity>
+    </equippedStatOffsets>
+    <costList>
+      <Plasteel>205</Plasteel>
+      <Gold>170</Gold>
+    </costList>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>700</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>1.45</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.6</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.75</ArmorRating_Heat>
+      <Insulation_Cold>10</Insulation_Cold>
+      <Insulation_Heat>4</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="RimDark.MastersOfMankind.DefModExtension_ApparelRestriction">
+        <isRestrictStat>true</isRestrictStat>
+        <statDef>PsychicSensitivity</statDef>
+        <reqMode>GreaterEqual</reqMode>
+        <value>1.4</value>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_HelmetBase">
+    <defName>GW_Rulers_ValdorHelmetW</defName>
+    <label>Corinthine Warplate helmet (W)</label>
+    <description>A masterfully-crafted helmet, built to match the Corinthine Warplate. \n\nSome time after the end of the Horus Heresy, Constantin Valdor slipped away from the Imperial Palace and disappeared into the night, never to be seen again. His last known words were "Only in Death".</description>
+    <graphicData>
+      <texPath>Valdor/Headgear/GW_HRM_Valdor_HelmetW_south</texPath>
+    </graphicData>
+    <apparel>
+      <tags></tags>
+      <wornGraphicPath>Valdor/Headgear/GW_HRM_Valdor_HelmetW</wornGraphicPath>
+      <drawData>
+        <scale>0.8</scale>
+        <dataSouth>
+          <offset>(0, 0, 0.2)</offset>
+        </dataSouth>
+        <dataNorth>
+          <offset>(0, 0, 0.2)</offset>
+        </dataNorth>
+        <dataEast>
+          <offset>(0, 0, 0.2)</offset>
+        </dataEast>
+        <dataWest>
+          <offset>(0, 0, 0.2)</offset>
+        </dataWest>
+      </drawData>
+    </apparel>
+    <equippedStatOffsets>
+      <MeleeHitChance>1</MeleeHitChance>
+      <RangedCooldownFactor>-0.2</RangedCooldownFactor>
+      <ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
+      <DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
+      <HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
+    </equippedStatOffsets>
+    <costList>
+      <Gold>70</Gold>
+      <Plasteel>205</Plasteel>
+      <ComponentSpacer>15</ComponentSpacer>
+      <ComponentIndustrial>20</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>700</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>1.45</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.6</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.75</ArmorRating_Heat>
+      <Insulation_Cold>10</Insulation_Cold>
+      <Insulation_Heat>4</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_HelmetBase">
+    <defName>GW_Rulers_ValdorHelmet</defName>
+    <label>Corinthine Warplate helmet</label>
+    <description>A masterfully-crafted helmet, built to match the Corinthine Warplate. \n\nSome time after the end of the Horus Heresy, Constantin Valdor slipped away from the Imperial Palace and disappeared into the night, never to be seen again. His last known words were "Only in Death".</description>
+    <graphicData>
+      <texPath>Valdor/Headgear/GW_HRM_Valdor_HelmetC_south</texPath>
+    </graphicData>
+    <apparel>
+      <tags></tags>
+      <wornGraphicPath>Valdor/Headgear/GW_HRM_Valdor_HelmetC</wornGraphicPath>
+      <drawData>
+        <scale>0.8</scale>
+        <dataSouth>
+          <offset>(0, 0, 0.2)</offset>
+        </dataSouth>
+        <dataNorth>
+          <offset>(0, 0, 0.2)</offset>
+        </dataNorth>
+        <dataEast>
+          <offset>(0, 0, 0.2)</offset>
+        </dataEast>
+        <dataWest>
+          <offset>(0, 0, 0.2)</offset>
+        </dataWest>
+      </drawData>
+    </apparel>
+    <equippedStatOffsets>
+      <MeleeHitChance>1</MeleeHitChance>
+      <RangedCooldownFactor>-0.2</RangedCooldownFactor>
+      <ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
+      <DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
+      <HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
+    </equippedStatOffsets>
+    <costList>
+      <Gold>70</Gold>
+      <Plasteel>205</Plasteel>
+      <ComponentSpacer>15</ComponentSpacer>
+      <ComponentIndustrial>20</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>1.45</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.6</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.75</ArmorRating_Heat>
+      <Insulation_Cold>10</Insulation_Cold>
+      <Insulation_Heat>4</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_HelmetBase">
+    <defName>GW_Rulers_MalcadorHelmet</defName>
+    <label>Malcador's hood</label>
+    <description>A specially-reinforced hood to match the robes of Malcador the Sigillite. It may appear to be mere cloth, but it provides a surprising amount of protection. \n\nTo allow the Emperor to go and face Horus aboard the &lt;i&gt;Vengeful Spirit&lt;/i&gt;, Malcador took His place on the Golden Throne, preventing the daemons from breaking through the Webway gate to Terra. Though his psychic powers were great, they still paled in comparison to the Emperor's own, and the strain was too great for him to bear. Enduring even past the disintegration of his own body, he only allowed his soul to fizzle out of existence when his duty was done.</description>
+    <graphicData>
+      <texPath>Malcador/Headgear/GW_HRM_Malcador_Hood_south</texPath>
+    </graphicData>
+    <apparel>
+      <tags></tags>
+      <wornGraphicPath>Malcador/Headgear/GW_HRM_Malcador_Hood</wornGraphicPath>
+      <drawData>
+        <scale>1.1</scale>
+        <dataSouth>
+          <offset>(0, 0, 0.05)</offset>
+        </dataSouth>
+        <dataNorth>
+          <offset>(0, 0, 0.05)</offset>
+        </dataNorth>
+        <dataEast>
+          <offset>(0, 0, 0.05)</offset>
+        </dataEast>
+        <dataWest>
+          <offset>(0, 0, 0.05)</offset>
+        </dataWest>
+      </drawData>
+    </apparel>
+    <equippedStatOffsets>
+      <SocialImpact>0.5</SocialImpact>
+      <PsychicSensitivity>0.25</PsychicSensitivity>
+      <DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
+      <HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
+    </equippedStatOffsets>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>400</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>0.60</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.20</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.65</ArmorRating_Heat>
+      <Insulation_Cold>20</Insulation_Cold>
+      <Insulation_Heat>30</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <costList>
+      <Plasteel>100</Plasteel>
+      <Gold>64</Gold>
+      <Hyperweave>80</Hyperweave>
+      <ComponentSpacer>12</ComponentSpacer>
+    </costList>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_EmperorRightHand</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="RimDark.MastersOfMankind.DefModExtension_ApparelRestriction">
+        <isRestrictStat>true</isRestrictStat>
+        <statDef>PsychicSensitivity</statDef>
+        <reqMode>GreaterEqual</reqMode>
+        <value>1.4</value>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef Abstract="true" Name="GW_RulersAOD_HelmetBase" ParentName="ArmorHelmetMakeableBase">
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>1.6</drawSize>
+    </graphicData>
+    <!-- These recipes should use autoforging and cant use the usual recipe maker -->
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef> -->
+    <!-- <skillRequirements> -->
+    <!-- <Crafting>15</Crafting> -->
+    <!-- </skillRequirements> -->
+    <!-- <recipeUsers Inherit="False"> -->
+    <!-- <li>GW_Autoforge</li> -->
+    <!-- </recipeUsers> -->
+    <!-- </recipeMaker> -->
+    <uiIconScale>1.0</uiIconScale>
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.50</ToxicEnvironmentResistance>
+      <VacuumResistance MayRequire="ludeon.rimworld.odyssey">0.3</VacuumResistance>
+      <HypoxiaResistance MayRequire="kentington.saveourship2">0.25</HypoxiaResistance>
+      <DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
+      <VacuumSpeedMultiplier MayRequire="kentington.saveourship2">2</VacuumSpeedMultiplier>
+    </equippedStatOffsets>
+    <tradeTags>
+      <li>HPHelmet</li>
+    </tradeTags>
+    <apparel>
+      <tags>
+        <li>Spacer</li>
+        <li>EVA</li>
+      </tags>
+      <drawData>
+        <!--<scale>1.5</scale> Uncomment these to increase size while equipped
+                <childScale>1.5</childScale>-->
+      </drawData>
+      <useWornGraphicMask>true</useWornGraphicMask>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <layers>
+        <li>EyeCover</li>
+        <li MayRequire="ceteam.combatextended">StrappedHead</li>
+        <li MayRequire="ceteam.combatextended">OnHead</li>
+        <li>Overhead</li>
+        <!--Needs to be last for the tool to properly label this a helmet-->
+      </layers>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="GW_RulersAOD_HelmetBase">
+    <defName>GW_SM_FirstbornHelmet</defName>
+    <label>Firstborn helmet</label>
+    <description>Isstvan V... Isstvan V... Isstvan V...</description>
+    <graphicData>
+      <texPath>LegionOfTheDamned/Firstborn/Shell/LOTDFirstBornHelmet</texPath>
+    </graphicData>
+    <uiIconPath>LegionOfTheDamned/Firstborn/Shell/LOTDFirstBornHelmet</uiIconPath>
+    <apparel>
+      <tags>
+        <li>GW_Firstborn</li>
+      </tags>
+      <wornGraphicPath>LegionOfTheDamned/Firstborn/HeadGear1/LOTDFirstBornHelmet</wornGraphicPath>
+    </apparel>
+    <comps />
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.25</ToxicEnvironmentResistance>
+      <MoveSpeed>-0.05</MoveSpeed>
+    </equippedStatOffsets>
+    <costList>
+      <ComponentIndustrial>2</ComponentIndustrial>
+      <ComponentSpacer>1</ComponentSpacer>
+      <Plasteel>80</Plasteel>
+    </costList>
+    <statBases>
+      <WorkToMake>45000</WorkToMake>
+      <MaxHitPoints>320</MaxHitPoints>
+      <Mass>2</Mass>
+      <MarketValue>600</MarketValue>
+      <Flammability>0.2</Flammability>
+      <ArmorRating_Sharp>1.15</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.50</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.65</ArmorRating_Heat>
+      <Insulation_Cold>6</Insulation_Cold>
+      <Insulation_Heat>5</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>Fabrication</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+  </ThingDef>
+  <ThingDef ParentName="GW_RulersAOD_HelmetBase">
+    <defName>GW_Rulers_PrimarisHelmet</defName>
+    <label>Primaris helmet</label>
+    <description>Isstvan V... Isstvan V... Isstvan V...</description>
+    <graphicData>
+      <texPath>LegionOfTheDamned/Primaris/Shell/LOTDPrimarisHelmet</texPath>
+    </graphicData>
+    <uiIconPath>LegionOfTheDamned/Primaris/Shell/LOTDPrimarisHelmet</uiIconPath>
+    <apparel>
+      <tags>
+        <li>GW_Primaris</li>
+      </tags>
+      <wornGraphicPath>LegionOfTheDamned/Primaris/HeadGear/LOTDPrimarisHelmet</wornGraphicPath>
+    </apparel>
+    <comps />
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.25</ToxicEnvironmentResistance>
+      <MoveSpeed>-0.05</MoveSpeed>
+    </equippedStatOffsets>
+    <costList>
+      <ComponentIndustrial>2</ComponentIndustrial>
+      <ComponentSpacer>1</ComponentSpacer>
+      <Plasteel>80</Plasteel>
+    </costList>
+    <statBases>
+      <WorkToMake>45000</WorkToMake>
+      <MaxHitPoints>320</MaxHitPoints>
+      <Mass>2</Mass>
+      <MarketValue>600</MarketValue>
+      <Flammability>0.2</Flammability>
+      <ArmorRating_Sharp>1.15</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.50</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.65</ArmorRating_Heat>
+      <Insulation_Cold>6</Insulation_Cold>
+      <Insulation_Heat>5</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>Fabrication</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+  </ThingDef>
+  <ThingDef ParentName="GW_RulersAOD_HelmetBase">
+    <defName>GW_Rulers_PrimarisTenatHelmet</defName>
+    <label>Primaris helmet(Lieutenant)</label>
+    <description>Isstvan V... Isstvan V... Isstvan V...</description>
+    <graphicData>
+      <texPath>LegionOfTheDamned/Primaris/Shell/LOTD_PrimarisLieutenat</texPath>
+    </graphicData>
+    <uiIconPath>LegionOfTheDamned/Primaris/Shell/LOTD_PrimarisLieutenat</uiIconPath>
+    <apparel>
+      <tags>
+        <li>GW_Primaris</li>
+      </tags>
+      <wornGraphicPath>LegionOfTheDamned/Primaris/HeadGear/LOTD_PrimarisLieutenat</wornGraphicPath>
+    </apparel>
+    <comps />
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.25</ToxicEnvironmentResistance>
+      <MoveSpeed>-0.05</MoveSpeed>
+    </equippedStatOffsets>
+    <costList>
+      <ComponentIndustrial>2</ComponentIndustrial>
+      <ComponentSpacer>1</ComponentSpacer>
+      <Plasteel>80</Plasteel>
+    </costList>
+    <statBases>
+      <WorkToMake>45000</WorkToMake>
+      <MaxHitPoints>320</MaxHitPoints>
+      <Mass>2</Mass>
+      <MarketValue>600</MarketValue>
+      <Flammability>0.2</Flammability>
+      <ArmorRating_Sharp>1.15</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.50</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.65</ArmorRating_Heat>
+      <Insulation_Cold>6</Insulation_Cold>
+      <Insulation_Heat>5</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>Fabrication</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+  </ThingDef>
+  <ThingDef ParentName="GW_RulersAOD_HelmetBase">
+    <defName>GW_Rulers_GravisHelmet</defName>
+    <label>Gravis helmet</label>
+    <description>Isstvan V... Isstvan V... Isstvan V...</description>
+    <graphicData>
+      <texPath>LegionOfTheDamned/Gravis/Shell/LOTDGravisHelmet</texPath>
+    </graphicData>
+    <uiIconPath>LegionOfTheDamned/Gravis/Shell/LOTDGravisHelmet</uiIconPath>
+    <apparel>
+      <tags>
+        <li>GW_Primaris</li>
+      </tags>
+      <wornGraphicPath>LegionOfTheDamned/Gravis/HeadGear1/LOTDGravisHelmet</wornGraphicPath>
+    </apparel>
+    <comps />
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.25</ToxicEnvironmentResistance>
+      <MoveSpeed>-0.05</MoveSpeed>
+    </equippedStatOffsets>
+    <costList>
+      <ComponentIndustrial>2</ComponentIndustrial>
+      <ComponentSpacer>1</ComponentSpacer>
+      <Plasteel>80</Plasteel>
+    </costList>
+    <statBases>
+      <WorkToMake>45000</WorkToMake>
+      <MaxHitPoints>320</MaxHitPoints>
+      <Mass>2</Mass>
+      <MarketValue>600</MarketValue>
+      <Flammability>0.2</Flammability>
+      <ArmorRating_Sharp>1.15</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.50</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.65</ArmorRating_Heat>
+      <Insulation_Cold>6</Insulation_Cold>
+      <Insulation_Heat>5</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>Fabrication</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+  </ThingDef>
+  <ThingDef ParentName="GW_RulersAOD_HelmetBase">
+    <defName>GW_Rulers_Xth_Helmet</defName>
+    <label>Xth</label>
+    <description>Isstvan V... Isstvan V... Isstvan V...</description>
+    <graphicData>
+      <texPath>LegionOfTheDamned/Xth/Skost_south</texPath>
+    </graphicData>
+    <uiIconPath>LegionOfTheDamned/Xth/Skost_south</uiIconPath>
+    <apparel>
+      <tags>
+        <li>GW_Xth</li>
+      </tags>
+      <wornGraphicPath>LegionOfTheDamned/Xth/Skost</wornGraphicPath>
+    </apparel>
+    <comps />
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.25</ToxicEnvironmentResistance>
+      <MoveSpeed>-0.05</MoveSpeed>
+    </equippedStatOffsets>
+    <costList>
+      <ComponentIndustrial>2</ComponentIndustrial>
+      <ComponentSpacer>1</ComponentSpacer>
+      <Plasteel>80</Plasteel>
+    </costList>
+    <statBases>
+      <WorkToMake>45000</WorkToMake>
+      <MaxHitPoints>320</MaxHitPoints>
+      <Mass>2</Mass>
+      <MarketValue>600</MarketValue>
+      <Flammability>0.2</Flammability>
+      <ArmorRating_Sharp>1.25</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.60</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.85</ArmorRating_Heat>
+      <Insulation_Cold>6</Insulation_Cold>
+      <Insulation_Heat>5</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>Fabrication</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+  </ThingDef>
+</Defs>

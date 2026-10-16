@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Menu Title -->
+	<MedievalOverhaul.ModNameShort>Medieval Overhaul (修改后须重启游戏才能生效)</MedievalOverhaul.ModNameShort>
+
+	<!-- Production Chain Options -->
+	<DankPyon_Settings_ProductionChain>生产链选项</DankPyon_Settings_ProductionChain>
+	<DankPyon_Settings_LeatherChain>启用MO制革生产链：</DankPyon_Settings_LeatherChain>
+	<DankPyon_Settings_LeatherChain_Tooltip>启用后，屠宰动物获得的毛皮须先经过鞣制才能制成可用的皮革。</DankPyon_Settings_LeatherChain_Tooltip>
+	<DankPyon_Settings_WoodChain>启用MO伐木制材生产链：</DankPyon_Settings_WoodChain>
+	<DankPyon_Settings_WoodChain_Tooltip>启用后，伐木获得的原木须先经过切割才能制成可用的木材。</DankPyon_Settings_WoodChain_Tooltip>
+	<DankPyon_Settings_ClothChain>启用MO纺织生产链：</DankPyon_Settings_ClothChain>
+	<DankPyon_Settings_ClothChain_Tooltip>启用后，棉花及亚麻植物须经过纺织才能制成可用的布料。</DankPyon_Settings_ClothChain_Tooltip>
+	<DankPyon_Settings_MetalChain>启用MO冶炼生产链：</DankPyon_Settings_MetalChain>
+	<DankPyon_Settings_MetalChain_Tooltip>启用后，金属矿物须先经过冶炼才能制成可用的金属锭。</DankPyon_Settings_MetalChain_Tooltip>
+
+	<!-- Agriculture Options -->
+	<DankPyon_Settings_Agriculture>农耕设定</DankPyon_Settings_Agriculture>
+	<DankPyon_Settings_SoilWear>耕地耗损机制(提供客制化选项)：</DankPyon_Settings_SoilWear>
+	<DankPyon_Settings_SoilWear_Tooltip>启用后，翻耕过的土壤会在每次收成时丧失肥度(耗损)，最后变回原本的土地。</DankPyon_Settings_SoilWear_Tooltip>
+	<DankPyon_Settings_AutoPlow>启用自动重新翻耕：</DankPyon_Settings_AutoPlow>
+	<DankPyon_Settings_AutoPlow_Tooltip>启用后，会在耕地完全耗损时自动重新翻耕。</DankPyon_Settings_AutoPlow_Tooltip>
+	<DankPyon_Settings_SoilWearChance>耕地耗损概率：</DankPyon_Settings_SoilWearChance>
+	<DankPyon_Settings_SoilWearChance_Tooltip>调整耕地收成时耗损的概率。</DankPyon_Settings_SoilWearChance_Tooltip>
+	<DankPyon_Settings_SoilFertility>耕地默认肥沃度：</DankPyon_Settings_SoilFertility>
+	<DankPyon_Settings_SoilFertility_Tooltip>调整耕地默认肥沃度。</DankPyon_Settings_SoilFertility_Tooltip>
+
+	<!-- Map Generation Stuff -->
+	<DankPyon_Settings_MapGen>地图生成选项</DankPyon_Settings_MapGen>
+	<DankPyon_Settings_IndustrialJunk>避免地图生成原版工业废弃物：</DankPyon_Settings_IndustrialJunk>
+	<DankPyon_Settings_ExostriderRemains>避免地图生成Biotech(DLC)的远古机械体：</DankPyon_Settings_ExostriderRemains>
+	<DankPyon_Settings_HornetNest>避免地图生成MO大黄蜂巢穴：</DankPyon_Settings_HornetNest>
+	<DankPyon_Settings_VanillaMine>使用原版矿物生成设置：</DankPyon_Settings_VanillaMine>
+
+	<!-- Misc. Settings -->
+	<DankPyon_Settings_MiscOption>其他选项</DankPyon_Settings_MiscOption>
+	<DankPyon_Settings_RefuelableTorch>路灯及壁挂火把无需燃料：</DankPyon_Settings_RefuelableTorch>
+	<DankPyon_Settings_RefuelableTorch_Tooltip>影响范围包含原版及MO的火把、壁挂火把、油灯、路灯及蜡烛。</DankPyon_Settings_RefuelableTorch_Tooltip>
+	<DankPyon_Settings_BoomalopeTar>爆炸羊(等类似生物)生产MO焦油而非原版化合燃料：</DankPyon_Settings_BoomalopeTar>
+	<DankPyon_Settings_MealRetexture>替换原版食物贴图：</DankPyon_Settings_MealRetexture>
+	<DankPyon_Settings_MealRetexture_Tooltip>替换包含生存食物、营养膏、简单/精致/奢侈食物。</DankPyon_Settings_MealRetexture_Tooltip>
+	<DankPyon_Settings_SchematicRework>将原理图改为可使用道具：</DankPyon_Settings_SchematicRework>
+	<DankPyon_Settings_SchematicRework_Tooltip>将研究所需的原理图建筑改为可使用道具(等同原版科技蓝图，分析后解除研究限制)。*变更此选项会导致既有原理图消失*</DankPyon_Settings_SchematicRework_Tooltip>
+  	<DankPyon_Settings_SlopDispenser>启用中世纪版本的营养膏合成机:</DankPyon_Settings_SlopDispenser>
+  	<DankPyon_Settings_SlopDispenser_Tooltip>启用三种大型炖锅。*关闭此选项会使该三种建筑消失*</DankPyon_Settings_SlopDispenser_Tooltip>
+
+	<!-- Experimental Patches -->
+	<DankPyon_Settings_Experimental>实验性补丁</DankPyon_Settings_Experimental>
+	<DankPyon_Settings_Experimental_Desc>以下的补丁完全是实验性的，可能导致错误。与其相关的问题将不获任何支援。(注意:Medieval Overhaul Patches也提供一模一样的补丁，如有需要，选一边使用即可)</DankPyon_Settings_Experimental_Desc>
+	<DankPyon_Settings_Chemfuel_Replace_Title>化合燃料需求替换:</DankPyon_Settings_Chemfuel_Replace_Title>
+	<DankPyon_Settings_Chemfuel_Replace_Desc>用MO焦油取代任何配方和建造物所需的化合燃料。</DankPyon_Settings_Chemfuel_Replace_Desc>
+	<DankPyon_Settings_Component_Replace_Title>零件需求替换:</DankPyon_Settings_Component_Replace_Title>
+	<DankPyon_Settings_Component_Replace_Desc>用MO基本零件取代任何配方和建造物所需的零件。(但不会取代维修设施所需的零件)</DankPyon_Settings_Component_Replace_Desc>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Tailor Continued</li>
+    </mods>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="AMT_Apparel_RoyalTunic"]/costList/Gold</xpath>
+      <value>
+        <Gold>2</Gold>
+      </value>
+    </match>
+  </Operation>
+</Patch>

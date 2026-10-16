@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scrapping ritual -->
+  <AM_ScrapRitual.label>拆解仪式</AM_ScrapRitual.label>
+  <!-- EN: We've acquired some advanced tech. We should break it down to learn more about it! -->
+  <AM_ScrapRitual.description>将技术级别为“太空时代”及以上的物品拆解成有用的材料，并从中获取知识的仪式。</AM_ScrapRitual.description>
+  
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pollaxe -->
+  <TA_Pollaxe.label>战斧长戟</TA_Pollaxe.label>
+  <!-- EN: . -->
+  <TA_Pollaxe.description>多功能长柄武器，结合了斧刃、尖刺和锤头，适合对抗重甲敌人。</TA_Pollaxe.description>
+  <!-- EN: handle -->
+  <TA_Pollaxe.tools.handle.label>握柄</TA_Pollaxe.tools.handle.label>
+  <!-- EN: point -->
+  <TA_Pollaxe.tools.point.label>尖刺</TA_Pollaxe.tools.point.label>
+  <!-- EN: head -->
+  <TA_Pollaxe.tools.head.label>斧头</TA_Pollaxe.tools.head.label>
+  <!-- EN: edge -->
+  <TA_Pollaxe.tools.edge.label>斧刃</TA_Pollaxe.tools.edge.label>
+  
+</LanguageData>

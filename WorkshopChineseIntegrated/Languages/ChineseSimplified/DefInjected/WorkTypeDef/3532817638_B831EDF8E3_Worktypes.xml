@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <KAU_UrgentHaul.labelShort>搬运+</KAU_UrgentHaul.labelShort>
+  <KAU_UrgentHaul.pawnLabel>紧急搬运工</KAU_UrgentHaul.pawnLabel>
+  <KAU_UrgentHaul.gerundLabel>紧急搬运中</KAU_UrgentHaul.gerundLabel>
+  <KAU_UrgentHaul.description>优先搬运物品。</KAU_UrgentHaul.description>
+  <KAU_UrgentHaul.verb>紧急搬运</KAU_UrgentHaul.verb>
+
+  <KAU_FinishingOff.labelShort>处决</KAU_FinishingOff.labelShort>
+  <KAU_FinishingOff.pawnLabel>处决者</KAU_FinishingOff.pawnLabel>
+  <KAU_FinishingOff.gerundLabel>处决中</KAU_FinishingOff.gerundLabel>
+  <KAU_FinishingOff.verb>执行处决</KAU_FinishingOff.verb>
+  <KAU_FinishingOff.description>快速无痛苦地处决倒地生物。</KAU_FinishingOff.description>
+
+</LanguageData>

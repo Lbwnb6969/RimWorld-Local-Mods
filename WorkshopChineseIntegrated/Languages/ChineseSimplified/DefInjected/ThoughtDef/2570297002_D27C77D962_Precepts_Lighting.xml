@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: despised darkness -->
+  <VME_Darklight_DislikeDarkness.stages.despised_darkness.label>厌恶黑暗</VME_Darklight_DislikeDarkness.stages.despised_darkness.label>
+  <!-- EN: Darkness is unnatural and disgusting. -->
+  <VME_Darklight_DislikeDarkness.stages.despised_darkness.description>黑暗既怪异又可怕。</VME_Darklight_DislikeDarkness.stages.despised_darkness.description>
+  
+  <!-- EN: darklight -->
+  <VME_Darklight_NormalPreferred_Darklight.stages.darklight.label>微光</VME_Darklight_NormalPreferred_Darklight.stages.darklight.label>
+  <!-- EN: Darklight is unnatural. -->
+  <VME_Darklight_NormalPreferred_Darklight.stages.darklight.description>微光看起来很奇怪。</VME_Darklight_NormalPreferred_Darklight.stages.darklight.description>
+  
+</LanguageData>

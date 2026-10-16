@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: small -->
+  <AM_RoomSize_Small.label>小</AM_RoomSize_Small.label>
+  <!-- EN: Large rooms and caverns remind us too much of the dangerous outdoors. We prefer tight, cramped accomodations. -->
+  <AM_RoomSize_Small.description>宽敞的房间和洞穴会让我们联想到危险的室外。我们更喜欢紧凑、狭小的住所。</AM_RoomSize_Small.description>
+  
+</LanguageData>

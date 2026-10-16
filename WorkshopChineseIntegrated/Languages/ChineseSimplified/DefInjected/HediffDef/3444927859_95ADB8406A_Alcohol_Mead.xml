@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mead high -->
+  <VFEM2_MeadAlcoholHigh.label>蜜酒醉酒</VFEM2_MeadAlcoholHigh.label>
+  <!-- EN: Mead in the bloodstream. It makes people happy, but reduces capacities. Slightly reduces psychic sensitivity. -->
+  <VFEM2_MeadAlcoholHigh.description>流淌在血液里的酒精，使人快乐，但又让人神志不清。略微减少心灵敏感度。</VFEM2_MeadAlcoholHigh.description>
+  <!-- EN: a mead high -->
+  <VFEM2_MeadAlcoholHigh.labelNoun>蜜酒亢奋</VFEM2_MeadAlcoholHigh.labelNoun>
+  <!-- EN: warm -->
+  <VFEM2_MeadAlcoholHigh.stages.warm.label>暖和</VFEM2_MeadAlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <VFEM2_MeadAlcoholHigh.stages.tipsy.label>微醺</VFEM2_MeadAlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <VFEM2_MeadAlcoholHigh.stages.drunk.label>飘飘然</VFEM2_MeadAlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <VFEM2_MeadAlcoholHigh.stages.hammered.label>酩酊大醉</VFEM2_MeadAlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <VFEM2_MeadAlcoholHigh.stages.blackout.label>昏醉不醒</VFEM2_MeadAlcoholHigh.stages.blackout.label>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bound carcass -->
+  <RimSiege_CarrionShell.label>捆绑腐尸</RimSiege_CarrionShell.label>
+  <!-- EN: A rotting carcass, wrapped and bound for the sling. The oldest way to end a siege. -->
+  <RimSiege_CarrionShell.description>一具腐烂的尸体，被包裹捆扎后用作投射物。这是结束围城最古老的方式。</RimSiege_CarrionShell.description>
+  <!-- EN: carcass -->
+  <RimSiege_Artillery_Carrion.label>腐尸弹</RimSiege_Artillery_Carrion.label>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: horseman's axe -->
+  <TA_HorsemansAxe.label>骑兵斧</TA_HorsemansAxe.label>
+  <!-- EN: . -->
+  <TA_HorsemansAxe.description>骑兵专用的单手斧，适合马上作战。</TA_HorsemansAxe.description>
+  <!-- EN: shaft -->
+  <TA_HorsemansAxe.tools.shaft-0.label>斧柄</TA_HorsemansAxe.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_HorsemansAxe.tools.shaft-1.label>斧柄</TA_HorsemansAxe.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_HorsemansAxe.tools.head.label>斧头</TA_HorsemansAxe.tools.head.label>
+  
+</LanguageData>

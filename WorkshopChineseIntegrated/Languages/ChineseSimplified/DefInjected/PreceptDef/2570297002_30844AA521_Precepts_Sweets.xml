@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: craved -->
+  <VME_Sweets_Craved.label>渴望</VME_Sweets_Craved.label>
+  <!-- EN: Desserts and treats shouldn’t be withheld, sugary confections should be eaten at least every couple days. -->
+  <VME_Sweets_Craved.description>我们不该拒绝美味甜点的盛情款待，至少每隔几天就该享用一次。</VME_Sweets_Craved.description>
+  
+  <!-- EN: impartial -->
+  <VME_Sweets_Impartial.label>中立</VME_Sweets_Impartial.label>
+  <!-- EN: Sweets aren’t that great, they can easily be left behind. -->
+  <VME_Sweets_Impartial.description>甜点没有想象中的那么好吃，它们的味道很容易被遗忘。</VME_Sweets_Impartial.description>
+  
+</LanguageData>

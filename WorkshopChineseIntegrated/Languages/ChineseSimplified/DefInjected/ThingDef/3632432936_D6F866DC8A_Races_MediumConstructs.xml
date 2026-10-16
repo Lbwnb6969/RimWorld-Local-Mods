@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ballistae -->
+  <VR_Construct_Ballistae.label>弩炮</VR_Construct_Ballistae.label>
+  <!-- EN: A clunky multi-legged combat construct specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat. -->
+  <VR_Construct_Ballistae.description>一种笨重的多足战斗构装体，专门作为远程武器平台。远距离有效，但在近距离和近战中很弱。</VR_Construct_Ballistae.description>
+  <!-- EN: construct ballista -->
+  <VR_Construct_Ballistae.comps.Comp_VerbProps.verbProps.0.label>构装弩炮</VR_Construct_Ballistae.comps.Comp_VerbProps.verbProps.0.label>
+  <!-- EN: Shoots target with steam powered ballista -->
+  <VR_Construct_Ballistae.comps.Comp_VerbProps.verbProps.0.description>使用蒸汽动力弩炮射击目标。</VR_Construct_Ballistae.comps.Comp_VerbProps.verbProps.0.description>
+  <!-- EN: front left leg -->
+  <VR_Construct_Ballistae.tools.front_left_leg.label>左前腿</VR_Construct_Ballistae.tools.front_left_leg.label>
+  <!-- EN: leg -->
+  <VR_Construct_Ballistae.tools.front_left_leg.labelNoLocation>腿</VR_Construct_Ballistae.tools.front_left_leg.labelNoLocation>
+  <!-- EN: front right leg -->
+  <VR_Construct_Ballistae.tools.front_right_leg.label>右前腿</VR_Construct_Ballistae.tools.front_right_leg.label>
+  <!-- EN: leg -->
+  <VR_Construct_Ballistae.tools.front_right_leg.labelNoLocation>腿</VR_Construct_Ballistae.tools.front_right_leg.labelNoLocation>
+  <!-- EN: head -->
+  <VR_Construct_Ballistae.tools.head.label>头部</VR_Construct_Ballistae.tools.head.label>
+  <!-- EN: construct ballista -->
+  <VR_Construct_Ballistae.verbs.construct_ballista.label>构装弩炮</VR_Construct_Ballistae.verbs.construct_ballista.label>
+  
+  <!-- EN: scorcher -->
+  <VR_Construct_Scorcher.label>构装体炽蚕</VR_Construct_Scorcher.label>
+  <!-- EN: Smaller combat construct that is well equipped with a short range flamer. -->
+  <VR_Construct_Scorcher.description>一种配备短程喷火器的小型战斗构装体。</VR_Construct_Scorcher.description>
+  <!-- EN: left fist -->
+  <VR_Construct_Scorcher.tools.left_fist.label>左拳</VR_Construct_Scorcher.tools.left_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Scorcher.tools.left_fist.labelNoLocation>拳</VR_Construct_Scorcher.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <VR_Construct_Scorcher.tools.right_fist.label>右拳</VR_Construct_Scorcher.tools.right_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Scorcher.tools.right_fist.labelNoLocation>拳</VR_Construct_Scorcher.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <VR_Construct_Scorcher.tools.head.label>头部</VR_Construct_Scorcher.tools.head.label>
+  
+  <!-- EN: sphere (melee) -->
+  <VR_Construct_Sphere_Melee.label>球体（近战）</VR_Construct_Sphere_Melee.label>
+  <!-- EN: Construct that is intentionally designed for combat. Mostly seen carrying a variety of melee weapons, but occasionally can be equipped with ranged weapons. -->
+  <VR_Construct_Sphere_Melee.description>一种专为战斗而设计的构装体。通常携带多种近战武器，但偶尔也会装备远程武器。</VR_Construct_Sphere_Melee.description>
+  <!-- EN: left fist -->
+  <VR_Construct_Sphere_Melee.tools.left_fist.label>左拳</VR_Construct_Sphere_Melee.tools.left_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Melee.tools.left_fist.labelNoLocation>拳</VR_Construct_Sphere_Melee.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <VR_Construct_Sphere_Melee.tools.right_fist.label>右拳</VR_Construct_Sphere_Melee.tools.right_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Melee.tools.right_fist.labelNoLocation>拳</VR_Construct_Sphere_Melee.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <VR_Construct_Sphere_Melee.tools.head.label>头部</VR_Construct_Sphere_Melee.tools.head.label>
+  
+  <!-- EN: sphere (melee) -->
+  <VR_Construct_Sphere_Melee_Hammer.label>球体（战锤）</VR_Construct_Sphere_Melee_Hammer.label>
+  <!-- EN: Construct that is intentionally designed for combat. Mostly seen carrying a variety of melee weapons, but occasionally can be equipped with ranged weapons. -->
+  <VR_Construct_Sphere_Melee_Hammer.description>一种专为战斗而设计的构装体。通常携带多种近战武器，但偶尔也会装备远程武器。</VR_Construct_Sphere_Melee_Hammer.description>
+  <!-- EN: left fist -->
+  <VR_Construct_Sphere_Melee_Hammer.tools.left_fist.label>左拳</VR_Construct_Sphere_Melee_Hammer.tools.left_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Melee_Hammer.tools.left_fist.labelNoLocation>拳</VR_Construct_Sphere_Melee_Hammer.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <VR_Construct_Sphere_Melee_Hammer.tools.right_fist.label>右拳</VR_Construct_Sphere_Melee_Hammer.tools.right_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Melee_Hammer.tools.right_fist.labelNoLocation>拳</VR_Construct_Sphere_Melee_Hammer.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <VR_Construct_Sphere_Melee_Hammer.tools.head.label>头部</VR_Construct_Sphere_Melee_Hammer.tools.head.label>
+  
+  <!-- EN: sphere (melee) -->
+  <VR_Construct_Sphere_Melee_Lance.label>球体（骑枪）</VR_Construct_Sphere_Melee_Lance.label>
+  <!-- EN: Construct that is intentionally designed for combat. Mostly seen carrying a variety of melee weapons, but occasionally can be equipped with ranged weapons. -->
+  <VR_Construct_Sphere_Melee_Lance.description>一种专为战斗而设计的构装体。通常携带多种近战武器，但偶尔也会装备远程武器。</VR_Construct_Sphere_Melee_Lance.description>
+  <!-- EN: left fist -->
+  <VR_Construct_Sphere_Melee_Lance.tools.left_fist.label>左拳</VR_Construct_Sphere_Melee_Lance.tools.left_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Melee_Lance.tools.left_fist.labelNoLocation>拳</VR_Construct_Sphere_Melee_Lance.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <VR_Construct_Sphere_Melee_Lance.tools.right_fist.label>右拳</VR_Construct_Sphere_Melee_Lance.tools.right_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Melee_Lance.tools.right_fist.labelNoLocation>拳</VR_Construct_Sphere_Melee_Lance.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <VR_Construct_Sphere_Melee_Lance.tools.head.label>头部</VR_Construct_Sphere_Melee_Lance.tools.head.label>
+  
+  <!-- EN: sphere (melee) -->
+  <VR_Construct_Sphere_Melee_Sword.label>球体（剑）</VR_Construct_Sphere_Melee_Sword.label>
+  <!-- EN: Construct that is intentionally designed for combat. Mostly seen carrying a variety of melee weapons, but occasionally can be equipped with ranged weapons. -->
+  <VR_Construct_Sphere_Melee_Sword.description>一种专为战斗而设计的构装体。通常携带多种近战武器，但偶尔也会装备远程武器。</VR_Construct_Sphere_Melee_Sword.description>
+  <!-- EN: left fist -->
+  <VR_Construct_Sphere_Melee_Sword.tools.left_fist.label>左拳</VR_Construct_Sphere_Melee_Sword.tools.left_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Melee_Sword.tools.left_fist.labelNoLocation>拳</VR_Construct_Sphere_Melee_Sword.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <VR_Construct_Sphere_Melee_Sword.tools.right_fist.label>右拳</VR_Construct_Sphere_Melee_Sword.tools.right_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Melee_Sword.tools.right_fist.labelNoLocation>拳</VR_Construct_Sphere_Melee_Sword.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <VR_Construct_Sphere_Melee_Sword.tools.head.label>头部</VR_Construct_Sphere_Melee_Sword.tools.head.label>
+  
+  <!-- EN: sphere (ranged) -->
+  <VR_Construct_Sphere_Range.label>球体（远程）</VR_Construct_Sphere_Range.label>
+  <!-- EN: Construct that is intentionally designed for combat. Mostly seen carrying a variety of melee weapons, but occasionally can be equipped with ranged weapons. -->
+  <VR_Construct_Sphere_Range.description>一种专为战斗而设计的构装体。通常携带多种近战武器，但偶尔也会装备远程武器。</VR_Construct_Sphere_Range.description>
+  <!-- EN: left fist -->
+  <VR_Construct_Sphere_Range.tools.left_fist.label>左拳</VR_Construct_Sphere_Range.tools.left_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Range.tools.left_fist.labelNoLocation>拳</VR_Construct_Sphere_Range.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <VR_Construct_Sphere_Range.tools.right_fist.label>右拳</VR_Construct_Sphere_Range.tools.right_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Sphere_Range.tools.right_fist.labelNoLocation>拳</VR_Construct_Sphere_Range.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <VR_Construct_Sphere_Range.tools.head.label>头部</VR_Construct_Sphere_Range.tools.head.label>
+  
+  <!-- EN: tesseron -->
+  <VR_Construct_Tesseron.label>构装体哨卫</VR_Construct_Tesseron.label>
+  <!-- EN: Smaller combat construct that carries an experimental miniaturized version of the lightning gun seen in bigger constructs. -->
+  <VR_Construct_Tesseron.description>一种携带实验性小型化闪电枪的小型战斗构装体。</VR_Construct_Tesseron.description>
+  <!-- EN: left fist -->
+  <VR_Construct_Tesseron.tools.left_fist.label>左拳</VR_Construct_Tesseron.tools.left_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Tesseron.tools.left_fist.labelNoLocation>拳</VR_Construct_Tesseron.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <VR_Construct_Tesseron.tools.right_fist.label>右拳</VR_Construct_Tesseron.tools.right_fist.label>
+  <!-- EN: fist -->
+  <VR_Construct_Tesseron.tools.right_fist.labelNoLocation>拳</VR_Construct_Tesseron.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <VR_Construct_Tesseron.tools.head.label>头部</VR_Construct_Tesseron.tools.head.label>
+  
+</LanguageData>

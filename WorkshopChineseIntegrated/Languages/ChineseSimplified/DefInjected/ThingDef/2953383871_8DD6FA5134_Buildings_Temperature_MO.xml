@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_IceChest.label>冰盒</DankPyon_IceChest.label>
+  <DankPyon_IceChest.description>一种用来调节室内温度的箱子，填充冰块后能够为周围环境降温。</DankPyon_IceChest.description>
+
+
+  <!-- bonfire -->
+
+  <DankPyon_Pyre.label>大型篝火(方形)</DankPyon_Pyre.label>
+  <DankPyon_Pyre.description>一座大型篝火，能产生大量热和光。适合焚烧废弃物和尸体，由于会产生有害烟尘，不建议放在室内。</DankPyon_Pyre.description>
+
+  <DankPyon_PyreRound.label>大型篝火(圆形)</DankPyon_PyreRound.label>
+  <DankPyon_PyreRound.description>一座大型篝火，能产生大量热和光。适合焚烧废弃物和尸体，由于会产生有害烟尘，不建议放在室内。</DankPyon_PyreRound.description>
+
+</LanguageData>

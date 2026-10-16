@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: imperial redhound -->
+  <DA_ImperialRedhound.label>皇家赤犬</DA_ImperialRedhound.label>
+  <!-- EN: imperial redhound puppy -->
+  <DA_ImperialRedhound.lifeStages.imperial_redhound_puppy.label>皇家赤犬幼崽</DA_ImperialRedhound.lifeStages.imperial_redhound_puppy.label>
+  <!-- EN: imperial redhound puppies -->
+  <DA_ImperialRedhound.lifeStages.imperial_redhound_puppy.labelPlural>皇家赤犬幼崽们</DA_ImperialRedhound.lifeStages.imperial_redhound_puppy.labelPlural>
+  
+</LanguageData>

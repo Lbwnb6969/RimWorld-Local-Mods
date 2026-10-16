@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: black rash -->
+  <SV_DeathStinged.label>蜂螫伤</SV_DeathStinged.label>
+  <!-- EN: A painful dark rash caused by the poison of a deathstinger drone. Will disappear after one to two days.\n(Medieval Overhaul : Hornetkeeping) -->
+  <SV_DeathStinged.description>由死亡毒刺蜂毒蛋白引发的疼痛性过敏反应，伤口产生暗色的肿胀，通常会在一至两天内自行消退。</SV_DeathStinged.description>
+  
+  <!-- EN: swarm -->
+  <SV_Swarmed.label>巡逻蜂围绕</SV_Swarmed.label>
+  <!-- EN: Swarmed by deathstingers. They will slow people down, and occassionally sting.\n(Medieval Overhaul : Hornetkeeping) -->
+  <SV_Swarmed.description>被死亡毒刺巡逻蜂包围而减缓速度。部分蜂只会转为攻击蜂发动叮咬。</SV_Swarmed.description>
+  
+</LanguageData>

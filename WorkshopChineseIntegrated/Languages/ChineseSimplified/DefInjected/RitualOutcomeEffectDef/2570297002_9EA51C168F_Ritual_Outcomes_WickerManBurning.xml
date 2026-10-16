@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A prisoner of the colony will be locked in a cage, and set fire, killing the prisoner in the process. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_WickerManBurningOutcome.description>殖民地中的一名囚犯将被关在柳条人中处以火刑。参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值， 这取决于仪式的效果。</VME_WickerManBurningOutcome.description>
+  <!-- EN: participant count -->
+  <VME_WickerManBurningOutcome.comps.0.label>参与者数量</VME_WickerManBurningOutcome.comps.0.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_WickerManBurningOutcome.comps.1.label>{PAWN_labelShort}的社交影响</VME_WickerManBurningOutcome.comps.1.label>
+  <!-- EN: speaker's social impact -->
+  <VME_WickerManBurningOutcome.comps.1.labelAbstract>演讲者的社交影响</VME_WickerManBurningOutcome.comps.1.labelAbstract>
+  <!-- EN: Terrible -->
+  <VME_WickerManBurningOutcome.outcomeChances.0.label>糟糕的</VME_WickerManBurningOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The prisoner rattled the cage all the time and it smelled like rotten bacon. -->
+  <VME_WickerManBurningOutcome.outcomeChances.0.description>{0}实在是太糟糕了！着火的囚犯们不停地挣扎着摇晃笼子，并散发出腐烂熏肉般的味道。</VME_WickerManBurningOutcome.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <VME_WickerManBurningOutcome.outcomeChances.1.label>枯燥乏味的</VME_WickerManBurningOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. The prisoner just burned to death too fast, and the fire didn't even lift our spirits much. -->
+  <VME_WickerManBurningOutcome.outcomeChances.1.description>{0}实在是枯燥乏味。囚犯们很快就被烧死了，火焰甚至没能让我们重新振作起来。</VME_WickerManBurningOutcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <VME_WickerManBurningOutcome.outcomeChances.2.label>令人满意的</VME_WickerManBurningOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The anguished cries of the prisoner will resonate with us for a long time, another soul consumed by the flames. -->
+  <VME_WickerManBurningOutcome.outcomeChances.2.description>{0}令人满意。囚犯痛苦的哀号会在很长一段时间里引起我们的共鸣。啊...又一个被火焰所吞噬的灵魂。</VME_WickerManBurningOutcome.outcomeChances.2.description>
+  <!-- EN: Glorious -->
+  <VME_WickerManBurningOutcome.outcomeChances.3.label>充满荣耀的</VME_WickerManBurningOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was glorious! We will forever remember the thrashing of the prisoner, the frightened crescendo of screams as another soul was consumed by the holy flames. -->
+  <VME_WickerManBurningOutcome.outcomeChances.3.description>{0}简直太棒了！我们将永远铭记囚犯所遭受的痛苦，被圣火所吞噬的灵魂发出的惊恐尖叫声将长久回荡在我们的脑海中。</VME_WickerManBurningOutcome.outcomeChances.3.description>
+  
+</LanguageData>

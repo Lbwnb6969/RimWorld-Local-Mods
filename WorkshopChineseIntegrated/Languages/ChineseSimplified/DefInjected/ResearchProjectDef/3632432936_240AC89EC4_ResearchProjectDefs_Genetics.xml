@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Advanced Chymerimancy -->
+  <VR_AdvancedGenetics.label>高级嵌合术</VR_AdvancedGenetics.label>
+  <!-- EN: Build mutagenic furnaces, which allow a graft forge to create xenogerms of higher genetic complexity. -->
+  <VR_AdvancedGenetics.description>建造诱变熔炉，使嫁接锻炉能够制作更高遗传复杂度的异种胚体。</VR_AdvancedGenetics.description>
+  <!-- EN:
+    <li>subject->advanced chymerimancy</li>
+    <li>subject_story->extracted genes from a wandering rogue</li>
+    <li>subject_story->processed an entire village to create one set of higher genes</li>
+    <li>subject_story->began the slow process of uplift by implanting xenogerms into a primitive tribe</li>
+    <li>subject_gerund->constructing mutagenic furnaces</li>
+    <li>subject_gerund->processing genes</li>
+  -->
+  <VR_AdvancedGenetics.generalRules.rulesStrings>
+    <li>subject->高级嵌合术</li>
+    <li>subject_story->从流浪的浪人身上提取基因</li>
+    <li>subject_story->处理整座村庄只为制造一套高阶基因</li>
+    <li>subject_story->通过向原始部族植入异种胚体，开始缓慢的提升过程</li>
+    <li>subject_gerund->建造诱变熔炉</li>
+    <li>subject_gerund->处理基因</li>
+  </VR_AdvancedGenetics.generalRules.rulesStrings>
+  
+  <!-- EN: Archite Chymerimancy -->
+  <VR_ArchiteGenetics.label>拱元嵌合术</VR_ArchiteGenetics.label>
+  <!-- EN: Allows a graft forge to use up to two archite capsules to create seemingly impossible genes. Archite genes and archite capsules can be obtained from traders. -->
+  <VR_ArchiteGenetics.description>允许嫁接锻炉最多使用两枚拱元胶囊来制造近乎不可能的基因。拱元基因和拱元胶囊可从商人处获得。</VR_ArchiteGenetics.description>
+  <!-- EN:
+    <li>subject->archite chymerimancy</li>
+    <li>subject_story->excavated archite genes from the ancient ruin</li>
+    <li>subject_story->made a good living as an archite gene trader</li>
+    <li>subject_story->led a research expedition to an ancient monolith and returned changed</li>
+    <li>subject_gerund->assembling archite genes</li>
+    <li>subject_gerund->creating seemingly impossible genes</li>
+  -->
+  <VR_ArchiteGenetics.generalRules.rulesStrings>
+    <li>subject->拱元嵌合术</li>
+    <li>subject_story->从古代遗迹中挖出拱元基因</li>
+    <li>subject_story->作为拱元基因商赚得颇丰</li>
+    <li>subject_story->率领研究远征队前往远古巨碑并归来后判若两人</li>
+    <li>subject_gerund->组装拱元基因</li>
+    <li>subject_gerund->制作近乎不可能的基因</li>
+  </VR_ArchiteGenetics.generalRules.rulesStrings>
+  
+  <!-- EN: Chymerimancy -->
+  <VR_BasicGenetics.label>嵌合术</VR_BasicGenetics.label>
+  <!-- EN: Create xenogerms which can be implanted in a person to genetically modify them. Extract genepacks from living people using a gene extractor so you can reimplant their genes into someone else. -->
+  <VR_BasicGenetics.description>制作可植入人体以改变遗传的异种胚体。使用基因提取器从活人身上提取基因包，再将其基因重新植入他人。</VR_BasicGenetics.description>
+  <!-- EN:
+    <li>subject->chymerimancy</li>
+    <li>subject->genetic implantation</li>
+    <li>subject_story->was uplifted by a scientist that focused on the genetically disadvantaged</li>
+    <li>subject_story->had [ANYPAWN_possessive] flesh stolen by a rogue biologist</li>
+    <li>subject_story->ran a genetic transfer clinic for the nobility</li>
+    <li>subject_gerund->crafting xenogerms</li>
+  -->
+  <VR_BasicGenetics.generalRules.rulesStrings>
+    <li>subject->嵌合术</li>
+    <li>subject->基因植入</li>
+    <li>subject_story->被一位关注遗传劣势者的科学家提升</li>
+    <li>subject_story->被一名流浪生物学家窃取了[ANYPAWN_possessive]的血肉</li>
+    <li>subject_story->为贵族经营基因移植诊所</li>
+    <li>subject_gerund->制作异种胚体</li>
+  </VR_BasicGenetics.generalRules.rulesStrings>
+  
+  <!-- EN: Master Chymerimancy -->
+  <VR_MasterArchiteGenetics.label>大师级嵌合术</VR_MasterArchiteGenetics.label>
+  <!-- EN: Allows a graft forge to use unlimited amount of archite capsules to create seemingly impossible genes. Archite genes and archite capsules can be obtained from traders. -->
+  <VR_MasterArchiteGenetics.description>允许嫁接锻炉使用无限数量的拱元胶囊来制造近乎不可能的基因。拱元基因和拱元胶囊可从商人处获得。</VR_MasterArchiteGenetics.description>
+  <!-- EN:
+    <li>subject->master chymerimancy</li>
+    <li>subject_story->excavated archite genes from the ancient ruin</li>
+    <li>subject_story->made a good living as an archite gene trader</li>
+    <li>subject_story->led a research expedition to an ancient monolith and returned changed</li>
+    <li>subject_gerund->assembling archite genes</li>
+    <li>subject_gerund->creating seemingly impossible genes</li>
+  -->
+  <VR_MasterArchiteGenetics.generalRules.rulesStrings>
+    <li>subject->大师级嵌合术</li>
+    <li>subject_story->从古代遗迹中挖出拱元基因</li>
+    <li>subject_story->作为拱元基因商赚得颇丰</li>
+    <li>subject_story->率领研究远征队前往远古巨碑并归来后判若两人</li>
+    <li>subject_gerund->组装拱元基因</li>
+    <li>subject_gerund->制作近乎不可能的基因</li>
+  </VR_MasterArchiteGenetics.generalRules.rulesStrings>
+  
+</LanguageData>

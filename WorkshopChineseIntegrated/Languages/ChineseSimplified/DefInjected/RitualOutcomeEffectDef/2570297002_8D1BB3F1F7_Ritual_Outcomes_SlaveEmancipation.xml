@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_SlaveEmancipationOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</VME_SlaveEmancipationOutcome.description>
+  <!-- EN: room impressiveness -->
+  <VME_SlaveEmancipationOutcome.comps.0.label>令人难忘的房间</VME_SlaveEmancipationOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VME_SlaveEmancipationOutcome.comps.1.label>参与者数量</VME_SlaveEmancipationOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_SlaveEmancipationOutcome.comps.2.label>{PAWN_labelShort}的社交影响</VME_SlaveEmancipationOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <VME_SlaveEmancipationOutcome.comps.2.labelAbstract>演讲者的社交影响</VME_SlaveEmancipationOutcome.comps.2.labelAbstract>
+  <!-- EN: Demagogic -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.0.label>蛊惑人心的</VME_SlaveEmancipationOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was horribly demagogic! We ended up looking as the evil guys here... With such a display, it's unlikely anyone will freely want to join the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.0.description>{0}像是在蛊惑人心！我们最终表现得像一群邪教徒...由于这样的表现，不太可能有人自愿加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.0.description>
+  <!-- EN: Freethinking -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.label>思想自由的</VME_SlaveEmancipationOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was a nice display of freethinking. Our leader's speech was clear and succint, explaining all the evils of slavery in a concise way. Participating slaves have a 25% chance of joining the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.description>{0}令人感到思想自由的重要性。我们领袖的演讲精简干练，简明扼要地解释了奴隶制的所有罪恶。参与的奴隶有25%的几率会加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
+  <!-- EN: Unshackling -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.label>思想解放的</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was unshackling. Our leader's speech was very inspiring, detailing all the evils caused by slavery and the immense advantages of a free society. Participating slaves have a 50% chance of joining the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.description>{0}令人感到解放他人的重要性。我们领袖的演讲鼓舞人心，详述了奴隶制造成的所有罪恶和自由社会的巨大好处。参与的奴隶有50%的几率会加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.2.description>
+  <!-- EN: Liberating -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.3.label>身体力行的</VME_SlaveEmancipationOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was liberating! Our leader's speech was a masterclass in extolling the virtues of a free society, liberated for the shackles of slavery. Participating slaves have a 75% chance of joining the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.3.description>{0}令人感到解放主义的优越性。我们领袖的演讲对摆脱了奴隶制枷锁的自由社会和美德进行了一次大师级的颂扬。参与的奴隶有75%的几率会加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.3.description>
+  <!-- EN: Amazing -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.4.label>令人惊异的</VME_SlaveEmancipationOutcome.outcomeChances.4.label>
+  <!-- EN: The {0} was amazing! Legends will be told about our leader's speech, and how those words will resonate in the future, elevating the cause of emancipation. Participating slaves have a 100% chance of joining the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.4.description>{0}令人惊异！我们领袖的演讲将成为历史传奇，这些话将在未来会产生共鸣，并促进我们的解放事业发扬光大。参与的奴隶必定会加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.4.description>
+  
+</LanguageData>

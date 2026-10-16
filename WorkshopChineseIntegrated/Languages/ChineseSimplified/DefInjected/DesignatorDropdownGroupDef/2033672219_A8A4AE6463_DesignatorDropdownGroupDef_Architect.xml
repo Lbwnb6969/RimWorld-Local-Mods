@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cobblestone floor -->
+  <VFEArch_CobblestoneFloor.label>鹅卵石地板</VFEArch_CobblestoneFloor.label>
+  
+  <!-- EN: picket fence -->
+  <VFEArch_PicketFence.label>尖桩栅栏</VFEArch_PicketFence.label>
+  
+  <!-- EN: polished stone floor -->
+  <VFEArch_PolishedStoneFloor.label>抛光石地板</VFEArch_PolishedStoneFloor.label>
+  
+  <!-- EN: stone bridge -->
+  <VFEArch_StoneBridge.label>石桥</VFEArch_StoneBridge.label>
+  
+  <!-- EN: stone slabs -->
+  <VFEArch_StoneSlabs.label>石板</VFEArch_StoneSlabs.label>
+  
+  <!-- EN: wooden parquet -->
+  <VFEArch_WoodenParquet.label>木拼花地板</VFEArch_WoodenParquet.label>
+  
+  <!-- EN: wood floor -->
+  <VFEArch_WoodFloor.label>木地板</VFEArch_WoodFloor.label>
+  
+  <!-- EN: wooly carpet -->
+  <VFEArch_WoolCarpet.label>毛绒地毯</VFEArch_WoolCarpet.label>
+  
+</LanguageData>

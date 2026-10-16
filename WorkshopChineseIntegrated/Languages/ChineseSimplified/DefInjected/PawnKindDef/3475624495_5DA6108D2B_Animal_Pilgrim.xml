@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pilgrim -->
+  <DA_Pilgrim.label>朝圣者</DA_Pilgrim.label>
+  <!-- EN: pilgrim chick -->
+  <DA_Pilgrim.lifeStages.pilgrim_chick.label>朝圣者幼崽</DA_Pilgrim.lifeStages.pilgrim_chick.label>
+  <!-- EN: pilgrim chicks -->
+  <DA_Pilgrim.lifeStages.pilgrim_chick.labelPlural>朝圣者幼崽们</DA_Pilgrim.lifeStages.pilgrim_chick.labelPlural>
+  
+</LanguageData>

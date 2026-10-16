@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Allow chronic health conditions in food (Diabetes, Cholesterol and High Blood Pressure) -->
+  <VCE_AllowConditions>开启食物可能会引发慢性健康疾病的机制（例如糖尿病、胆固醇和高血压）</VCE_AllowConditions>
+  <!-- EN: Vanilla Cooking Expanded must be installed for these options to have any effect -->
+  <VCE_MustBeInstalled>必须安装原版厨艺扩展（Vanilla Cooking Expanded）才能使这些机制生效。</VCE_MustBeInstalled>
+  <!-- EN: Apiary found nearby -->
+  <!-- EN: No apiary found in a 6 tiles radius (calculated on sowing) -->
+  <!-- EN: Not in equatorial region (in this planet, below {0} latitude). Growing normally. -->
+  <!-- EN: In equatorial region, growing 30% faster. -->
+  <!-- EN: This plant needs to grow in shade: outside, but under a roof. -->
+  <!-- EN: Growth reduced due to non-rocky terrain -->
+  <!-- EN: Growth impossible due to too fertile terrain -->
+  <!-- EN: A body of water nearby is impeding this plant's growth -->
+  <!-- EN: Lack of a body of water nearby is impeding this plant's growth -->
+  <!-- EN: Too far away from the sea, no extra growth bonus -->
+  <!-- EN: {0} sea tiles nearby, providing {0}% growth bonus -->
+</LanguageData>

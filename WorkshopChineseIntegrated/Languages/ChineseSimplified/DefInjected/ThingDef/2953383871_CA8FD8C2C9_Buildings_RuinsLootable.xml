@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shelf -->
+
+  <DankPyon_RuinedShelfEmpty.label>毁坏的置物架</DankPyon_RuinedShelfEmpty.label>
+  <DankPyon_RuinedShelfEmpty.description>一座毁坏的置物架。</DankPyon_RuinedShelfEmpty.description>
+
+
+  <!-- Alchemy Shelf -->
+
+  <DankPyon_LootableShelf_AssortedHerbs.label>装满草药的置物架</DankPyon_LootableShelf_AssortedHerbs.label>
+  <DankPyon_LootableShelf_AssortedHerbs.description>一座装满物品的置物架。</DankPyon_LootableShelf_AssortedHerbs.description>
+
+  <DankPyon_LootableShelf_GreenHerbs.label>装满草药的置物架</DankPyon_LootableShelf_GreenHerbs.label>
+  <DankPyon_LootableShelf_GreenHerbs.description>一座装满物品的置物架。</DankPyon_LootableShelf_GreenHerbs.description>
+
+  <DankPyon_LootableShelf_RedHerbs.label>装满草药的置物架</DankPyon_LootableShelf_RedHerbs.label>
+  <DankPyon_LootableShelf_RedHerbs.description>一座装满物品的置物架。</DankPyon_LootableShelf_RedHerbs.description>
+
+
+  <!-- Drugs Shelf -->
+
+  <DankPyon_LootableShelf_BattleElixir.label>装满药品的置物架</DankPyon_LootableShelf_BattleElixir.label>
+  <DankPyon_LootableShelf_BattleElixir.description>一座装满药品的置物架。</DankPyon_LootableShelf_BattleElixir.description>
+
+  <DankPyon_LootableShelf_HappyPowder.label>装满药品的置物架</DankPyon_LootableShelf_HappyPowder.label>
+  <DankPyon_LootableShelf_HappyPowder.description>一座装满药品的置物架。</DankPyon_LootableShelf_HappyPowder.description>
+
+  <DankPyon_LootableShelf_VigorPill.label>装满药品的置物架</DankPyon_LootableShelf_VigorPill.label>
+  <DankPyon_LootableShelf_VigorPill.description>一座装满药品的置物架。</DankPyon_LootableShelf_VigorPill.description>
+
+  <DankPyon_LootableShelf_AssortedDrugsA.label>装满药品的置物架</DankPyon_LootableShelf_AssortedDrugsA.label>
+  <DankPyon_LootableShelf_AssortedDrugsA.description>一座装满药品的置物架。</DankPyon_LootableShelf_AssortedDrugsA.description>
+
+  <DankPyon_LootableShelf_Stardust.label>装满药品的置物架</DankPyon_LootableShelf_Stardust.label>
+  <DankPyon_LootableShelf_Stardust.description>一座装满药品的置物架。</DankPyon_LootableShelf_Stardust.description>
+
+  <DankPyon_LootableShelf_Luhix.label>装满药品的置物架</DankPyon_LootableShelf_Luhix.label>
+  <DankPyon_LootableShelf_Luhix.description>一座装满药品的置物架。</DankPyon_LootableShelf_Luhix.description>
+
+  <DankPyon_LootableShelf_Paregoric.label>装满药品的置物架</DankPyon_LootableShelf_Paregoric.label>
+  <DankPyon_LootableShelf_Paregoric.description>一座装满药品的置物架。</DankPyon_LootableShelf_Paregoric.description>
+
+  <DankPyon_LootableShelf_AssortedDrugsB.label>装满药品的置物架</DankPyon_LootableShelf_AssortedDrugsB.label>
+  <DankPyon_LootableShelf_AssortedDrugsB.description>一座装满药品的置物架。</DankPyon_LootableShelf_AssortedDrugsB.description>
+
+
+  <!-- Jewelry Shelf -->
+
+  <DankPyon_LootableShelf_ChaliceSilver.label>装满的置物架</DankPyon_LootableShelf_ChaliceSilver.label>
+  <DankPyon_LootableShelf_ChaliceSilver.description>一座装满物品的置物架。</DankPyon_LootableShelf_ChaliceSilver.description>
+
+  <DankPyon_LootableShelf_Emerald.label>装满的置物架</DankPyon_LootableShelf_Emerald.label>
+  <DankPyon_LootableShelf_Emerald.description>一座装满物品的置物架。</DankPyon_LootableShelf_Emerald.description>
+
+  <DankPyon_LootableShelf_Ruby.label>装满的置物架</DankPyon_LootableShelf_Ruby.label>
+  <DankPyon_LootableShelf_Ruby.description>一座装满物品的置物架。</DankPyon_LootableShelf_Ruby.description>
+
+  <DankPyon_LootableShelf_Sapphire.label>装满的置物架</DankPyon_LootableShelf_Sapphire.label>
+  <DankPyon_LootableShelf_Sapphire.description>一座装满物品的置物架。</DankPyon_LootableShelf_Sapphire.description>
+
+  <DankPyon_LootableShelf_Rations.label>装满的置物架</DankPyon_LootableShelf_Rations.label>
+  <DankPyon_LootableShelf_Rations.description>一座装满物品的置物架。</DankPyon_LootableShelf_Rations.description>
+
+  <DankPyon_LootableShelf_IronIngot.label>装满的置物架</DankPyon_LootableShelf_IronIngot.label>
+  <DankPyon_LootableShelf_IronIngot.description>一座装满物品的置物架。</DankPyon_LootableShelf_IronIngot.description>
+
+  <DankPyon_LootableShelf_Bowl.label>装满的置物架</DankPyon_LootableShelf_Bowl.label>
+  <DankPyon_LootableShelf_Bowl.description>一座装满物品的置物架。</DankPyon_LootableShelf_Bowl.description>
+
+  <DankPyon_LootableShelf_Book.label>装满的置物架</DankPyon_LootableShelf_Book.label>
+  <DankPyon_LootableShelf_Book.description>一座装满物品的置物架。</DankPyon_LootableShelf_Book.description>
+
+
+  <!-- Lootable Rack -->
+
+  <DankPyon_Lootable_RackMix.label>武器架</DankPyon_Lootable_RackMix.label>
+  <DankPyon_Lootable_RackMix.description>有序存放刀剑等武器的架子。</DankPyon_Lootable_RackMix.description>
+
+  <DankPyon_Lootable_RackSword.label>刀剑架</DankPyon_Lootable_RackSword.label>
+  <DankPyon_Lootable_RackSword.description>有序存放刀剑等武器的架子。</DankPyon_Lootable_RackSword.description>
+
+  <DankPyon_Lootable_RackSpear.label>长矛架</DankPyon_Lootable_RackSpear.label>
+  <DankPyon_Lootable_RackSpear.description>有序存放长矛的架子。</DankPyon_Lootable_RackSpear.description>
+
+
+  <!-- Lootable Chest -->
+
+  <DankPyon_LootableChest_RusticChest.label>宝箱</DankPyon_LootableChest_RusticChest.label>
+  <DankPyon_LootableChest_RusticChest.description>一个存放着宝物(或垃圾)的箱子。</DankPyon_LootableChest_RusticChest.description>
+
+  <DankPyon_LootableChest_RoyalChest.label>豪华宝箱</DankPyon_LootableChest_RoyalChest.label>
+  <DankPyon_LootableChest_RoyalChest.description>一个存放着贵族宝物(或垃圾)的箱子。</DankPyon_LootableChest_RoyalChest.description>
+
+  <DankPyon_Lootable_ArmorStatueNamed.label>赋名盔甲雕像</DankPyon_Lootable_ArmorStatueNamed.label>
+  <DankPyon_Lootable_ArmorStatueNamed.description>展示古代国王和比武冠军穿着的著名盔甲的展架。</DankPyon_Lootable_ArmorStatueNamed.description>
+
+
+</LanguageData>

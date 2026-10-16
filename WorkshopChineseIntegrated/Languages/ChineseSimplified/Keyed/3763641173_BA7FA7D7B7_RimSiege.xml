@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  
+  <RimSiege_LabelFootAssault>步兵攻城</RimSiege_LabelFootAssault>
+  
+  <RimSiege_TextFootAssault>一支 {0} 人的战帮已在城墙外扎营，准备发动步战强攻。此番并无攻城器械助阵——守住阵线，击退来敌！</RimSiege_TextFootAssault>
+  
+  <RimSiege_LabelTower>攻城：云梯塔楼</RimSiege_LabelTower>
+  
+  <RimSiege_TextTower>一支 {0} 人的军队已在城外扎营，正在筑造攻城塔楼。一旦建成，他们便可推塔至城下，士兵如潮水般从塔顶涌入城头。趁其尚未完工，速毁其工地！</RimSiege_TextTower>
+  
+  <RimSiege_LabelRam>攻城冲车</RimSiege_LabelRam>
+  
+  <RimSiege_TextRam>一支 {0} 人的大军已在城下列阵，正在打造攻城冲车，意图撞破城门！出城袭营，斩杀工匠、焚毁图纸辎重——否则便准备死守缺口！</RimSiege_TextRam>
+  
+  <RimSiege_TrebOne>一架投石机将从远方投石助战。</RimSiege_TrebOne>
+  
+  <RimSiege_TrebMany>{0} 架投石机列阵于前，巨石如雨，轰击城垣！</RimSiege_TrebMany>
+  
+  <RimSiege_SappersHint>工兵将试图在你城墙的薄弱处炸开另一道缺口。</RimSiege_SappersHint>
+  
+  <RimSiege_CaptainHint>敌军统帅 {0} 亲临阵前——那顶镀金头盔与两名护卫便是他的标志。若能于乱军之中取其首级，整场围城便将随之瓦解！</RimSiege_CaptainHint>
+  
+  <RimSiege_CaptainFell>{0} 已阵亡——围城军心涣散，拔营溃逃！</RimSiege_CaptainFell>
+
+  
+  
+  <RimSiege_UltimatumLabel>最后通牒：献贡，或兵临城下</RimSiege_UltimatumLabel>
+  
+  <RimSiege_UltimatumText>一支 {0} 人的大军已在城墙的阴影之下扎营，向你索要 {1} 白银作为贡品。\n\n若如数献上，他们将收起刀兵，拔营退去——围城之危便化作一场有惊无险的风波。\n若断然拒绝（或任时限流逝），烽火便将燃起：他们将倾尽攻城利器，兵锋直指你的城垣。\n\n你只有短短数刻，定夺此城之命运。</RimSiege_UltimatumText>
+  
+  <RimSiege_TributePaid>贡品已献（{0} 白银）。{1} 拔营退兵。</RimSiege_TributePaid>
+  
+  <RimSiege_PayOption>献上贡品，换取安宁（{0} 白银）</RimSiege_PayOption>
+  
+  <RimSiege_NotEnoughSilver>城中白银不足（尚缺 {0}）。</RimSiege_NotEnoughSilver>
+  
+  <RimSiege_DefyOption>断然拒绝——让他们来！</RimSiege_DefyOption>
+  
+  <RimSiege_UltimatumPaidBefore>\n\n你坐拥黄金的消息早已传遍四方，赎金之价随之水涨船高。</RimSiege_UltimatumPaidBefore>
+
+  
+  
+  <RimSiege_SetUltimatum>围城前发出最后通牒</RimSiege_SetUltimatum>
+  
+  <RimSiege_SetUltimatumTip>围城者将在开战前索要贡品。若不勾选，围城将立即发动。</RimSiege_SetUltimatumTip>
+  
+  <RimSiege_SetTribute>贡品数额：{0} × 威胁点数（限制 200-5000）</RimSiege_SetTribute>
+  
+  <RimSiege_SetHours>决断时限：{0} 小时</RimSiege_SetHours>
+  
+  <RimSiege_SetEngineFloor>攻城器械（冲车/塔楼）所需最低威胁：{0}</RimSiege_SetEngineFloor>
+  
+  <RimSiege_SetTrebFloor>投石机所需最低点数：{0}</RimSiege_SetTrebFloor>
+  
+  <RimSiege_SetMaxTrebs>投石机上限：{0} 架</RimSiege_SetMaxTrebs>
+  
+  <RimSiege_SetSapperFloor>工兵所需最低点数：{0}</RimSiege_SetSapperFloor>
+  
+  <RimSiege_SetMaxSappers>工兵上限：{0} 人</RimSiege_SetMaxSappers>
+  
+  <RimSiege_SetPushers>每架攻城器械推动人数：{0}</RimSiege_SetPushers>
+  
+  <RimSiege_SetCaptainRout>主将阵亡则全军溃散</RimSiege_SetCaptainRout>
+  
+  <RimSiege_SetCaptainRoutTip>在缺口被打开之前击杀敌将（镀金头盔），整支围城大军将如惊弓之鸟，四散溃逃。</RimSiege_SetCaptainRoutTip>
+  
+  <RimSiege_SetDanegeld>派系会铭记（丹麦金）</RimSiege_SetDanegeld>
+  
+  <RimSiege_SetDanegeldTip>若献上贡品，那派系便记住了你的软弱，日后再来索要更多。若击溃一场围城，威名远播——下一次战火之前，你将拥有一段长久的安宁。</RimSiege_SetDanegeldTip>
+
+<RimSiege_BallistaHint>弩炮将守卫其营地——出击将置身弩矢齐射之下。</RimSiege_BallistaHint><RimSiege_BombardBegins>攻城器械已完工，炮击开始。</RimSiege_BombardBegins><RimSiege_RansomLabel>赎金提议：{0}</RimSiege_RansomLabel><RimSiege_RansomText>{0} 想要他们的统帅平安归来。{1} 正关押在你的牢房里，他的家族愿意支付 {2} 白银换取安全释放。\n\n接受赎金后，停战使团会在谈判旗帜下前来接人：将他交还（你的狱卒会负责押送），白银归你。\n拒绝，他将继续成为你的囚犯。\n\n或者取下他的首级——然后承担随之而来的后果。</RimSiege_RansomText><RimSiege_RansomAccept>接受赎金（{0} 白银）</RimSiege_RansomAccept><RimSiege_RansomRefuse>留下他</RimSiege_RansomRefuse><RimSiege_RansomExecute>处决他</RimSiege_RansomExecute><RimSiege_EnvoysComing>{0} 派出的停战使团正前往接回 {1}。</RimSiege_EnvoysComing><RimSiege_EnvoysLeave>使者离开</RimSiege_EnvoysLeave><RimSiege_RansomPaid>赎金已支付：{0} 白银。{1} 将回家。</RimSiege_RansomPaid><RimSiege_RansomFailed>使者们没有带回他们的统帅便离开了。这份赎约已作废。</RimSiege_RansomFailed><RimSiege_EnvoysBetrayed>停战使团在白旗下遭到攻击。这件事会传遍四方。</RimSiege_EnvoysBetrayed><RimSiege_VendettaLabel>血仇：{0}</RimSiege_VendettaLabel><RimSiege_VendettaText>{0} 已发誓为 {1} 复仇。他们会来，而且不会谈判。</RimSiege_VendettaText><RimSiege_VendettaHint>这支军队正为 {0} 复仇而来。他们无意交涉。</RimSiege_VendettaHint><RimSiege_CaptainDiedCustody>{0} 死在了你的监禁之中。{1} 将追究你的责任。</RimSiege_CaptainDiedCustody><RimSiege_CaptainFreed>你释放了 {0}，分文未取。{1} 会暂时记住这份善意。</RimSiege_CaptainFreed><RimSiege_PickExecutioner>谁来挥刀？</RimSiege_PickExecutioner><RimSiege_ExecutionerOption>{0}（近战 {1}）</RimSiege_ExecutionerOption><RimSiege_FlingOption>用投石机把他抛过城墙（由 {0} 执行）</RimSiege_FlingOption><RimSiege_Flung>{0} 被抛过了城墙。</RimSiege_Flung><RimSiege_ExecutionOrdered>{0} 正前去处决 {1}。鼓声已经响起。</RimSiege_ExecutionOrdered><RimSiege_FetchCaptain>索要统帅</RimSiege_FetchCaptain><RimSiege_CaptainExecuted>{0} 已被处决。{1} 不会忘记这件事。</RimSiege_CaptainExecuted><RimSiege_SetBallistaFloor>营地弩炮所需最低点数：{0}</RimSiege_SetBallistaFloor><RimSiege_SetMaxBallistas>弩炮上限：{0} 架</RimSiege_SetMaxBallistas><RimSiege_SetBombard>进攻前炮击时间：{0} 小时</RimSiege_SetBombard><RimSiege_SetTarFloor>焦油火石所需最低点数：{0}</RimSiege_SetTarFloor><RimSiege_SetCarrion>生物战（发射尸骸）</RimSiege_SetCarrion><RimSiege_SetCarrionTip>最富有的围城（焦油火石阈值加 2000 点威胁）会把腐烂的尸骸抛过你的城墙：带来恶臭云、一具需要搬运的尸体，以及冲击点附近人员感染瘟疫的风险。如果这对你的殖民地过于阴森，可以取消勾选。</RimSiege_SetCarrionTip><RimSiege_SetWarband>围城战帮规模：威胁点数 ×{0}</RimSiege_SetWarband><RimSiege_SetRansom>统帅可以被赎回（也会招致复仇）</RimSiege_SetRansom><RimSiege_SetRansomTip>活捉围城统帅后，他的家族会拿出白银赎回他。处决统帅、背叛停战使团，或任由他死在你的牢房里，都会招来血仇：下一场围城会更早到来、更为凶狠，而且不会发出最后通牒。无条件释放他，则能让他们暂时远离你的城墙。</RimSiege_SetRansomTip></LanguageData>

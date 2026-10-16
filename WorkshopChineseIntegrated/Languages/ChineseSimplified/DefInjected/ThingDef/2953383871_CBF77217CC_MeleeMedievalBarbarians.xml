@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_BoneClub.label>生锈骨棒</pphhyy_Barbarian_BoneClub.label>
+  <pphhyy_Barbarian_BoneClub.description>星球上的野蛮人部落所使用的棍棒武器，便宜且易于使用。</pphhyy_Barbarian_BoneClub.description>
+  <pphhyy_Barbarian_BoneClub.tools.0.label>握柄</pphhyy_Barbarian_BoneClub.tools.0.label>
+  <pphhyy_Barbarian_BoneClub.tools.1.label>锤头</pphhyy_Barbarian_BoneClub.tools.1.label>
+
+  <pphhyy_Barbarian_ClawClub.label>生锈爪棍</pphhyy_Barbarian_ClawClub.label>
+  <pphhyy_Barbarian_ClawClub.description>用动物或战败者的骨头所制成的棍棒武器。成本低廉，能够广泛提供给氏族成员使用。这根棍棒带有锋利的爪子，以强化利刃攻击。</pphhyy_Barbarian_ClawClub.description>
+  <pphhyy_Barbarian_ClawClub.tools.0.label>爪锋</pphhyy_Barbarian_ClawClub.tools.0.label>
+  <pphhyy_Barbarian_ClawClub.tools.1.label>锤头</pphhyy_Barbarian_ClawClub.tools.1.label>
+
+  <pphhyy_Barbarian_GreatBoneClub.label>强化骨棒</pphhyy_Barbarian_GreatBoneClub.label>
+  <pphhyy_Barbarian_GreatBoneClub.description>动物或战败者的骨头所制成的棍棒武器。这把武器相较一般棍棒更为巨大且笨重，但挥舞起来能对目标造成更大的冲击伤害，通常由部落最强壮凶猛的族人使用。</pphhyy_Barbarian_GreatBoneClub.description>
+  <pphhyy_Barbarian_GreatBoneClub.tools.0.label>握柄</pphhyy_Barbarian_GreatBoneClub.tools.0.label>
+  <pphhyy_Barbarian_GreatBoneClub.tools.1.label>锤头</pphhyy_Barbarian_GreatBoneClub.tools.1.label>
+
+  <pphhyy_Barbarian_GreatSkullMace.label>强化骨锤</pphhyy_Barbarian_GreatSkullMace.label>
+  <pphhyy_Barbarian_GreatSkullMace.description>这把武器的锤头由动物或战败者的骨头所制成，并稳稳固定在一根长杆上。这把武器相较一般棍棒更为巨大且笨重，但挥舞时能借由锤子的重量和尖刺来凿穿敌人的护甲。</pphhyy_Barbarian_GreatSkullMace.description>
+  <pphhyy_Barbarian_GreatSkullMace.tools.0.label>握柄</pphhyy_Barbarian_GreatSkullMace.tools.0.label>
+  <pphhyy_Barbarian_GreatSkullMace.tools.1.label>锤头</pphhyy_Barbarian_GreatSkullMace.tools.1.label>
+
+  <pphhyy_Barbarian_RustedSword.label>生锈蛮族单刃剑</pphhyy_Barbarian_RustedSword.label>
+  <pphhyy_Barbarian_RustedSword.description>这把蛮族使用的剑看起来粗制滥造，可能是掠夺而来的。它缺乏护手，而且为单锋，尽管缺乏防御能力，但它勉强算得上是能造成切割伤害的武器。由于蛮族部落缺乏保养武器的技能和习惯，所以除了刀锋以外，其他部位的锈蚀程度都相当严重。</pphhyy_Barbarian_RustedSword.description>
+  <pphhyy_Barbarian_RustedSword.tools.0.label>握柄</pphhyy_Barbarian_RustedSword.tools.0.label>
+  <pphhyy_Barbarian_RustedSword.tools.1.label>刀锋</pphhyy_Barbarian_RustedSword.tools.1.label>
+
+  <pphhyy_Barbarian_RustedClaymore.label>生锈蛮族单刃大剑</pphhyy_Barbarian_RustedClaymore.label>
+  <pphhyy_Barbarian_RustedClaymore.description>一把生锈的单刃大剑，由战场上掠夺来的武器制成。尽管它的结构简陋，但它的大型单刃刀锋能造成惊人的破坏性攻击。</pphhyy_Barbarian_RustedClaymore.description>
+  <pphhyy_Barbarian_RustedClaymore.tools.0.label>握柄</pphhyy_Barbarian_RustedClaymore.tools.0.label>
+  <pphhyy_Barbarian_RustedClaymore.tools.1.label>刀锋</pphhyy_Barbarian_RustedClaymore.tools.1.label>
+
+  <pphhyy_Barbarian_RustedAxe.label>生锈斧头</pphhyy_Barbarian_RustedAxe.label>
+  <pphhyy_Barbarian_RustedAxe.description>一把锈迹斑斑的斧头，由战场上掠夺来的武器制成，虽然斧身已锈蚀不堪，但它在砍下人头时找到了除砍柴以外的另一个新使命。当用来对付无护甲敌人和袭击者时，这是一把毁灭性的武器。</pphhyy_Barbarian_RustedAxe.description>
+  <pphhyy_Barbarian_RustedAxe.tools.0.label>握柄</pphhyy_Barbarian_RustedAxe.tools.0.label>
+  <pphhyy_Barbarian_RustedAxe.tools.1.label>斧锋</pphhyy_Barbarian_RustedAxe.tools.1.label>
+
+  <pphhyy_Barbarian_RustedBattleAxe.label>生锈战斧</pphhyy_Barbarian_RustedBattleAxe.label>
+  <pphhyy_Barbarian_RustedBattleAxe.description>一把生锈的战斧，由战场上掠夺来的武器制成；设计比一般斧头更为巨大，更注重战斗效率。它是一种致命又卑鄙的武器，即便没有划出一道可怕的割伤，也可能导致敌人感染破伤风。</pphhyy_Barbarian_RustedBattleAxe.description>
+  <pphhyy_Barbarian_RustedBattleAxe.tools.0.label>握柄</pphhyy_Barbarian_RustedBattleAxe.tools.0.label>
+  <pphhyy_Barbarian_RustedBattleAxe.tools.1.label>斧锋</pphhyy_Barbarian_RustedBattleAxe.tools.1.label>
+
+  <pphhyy_Barbarian_RustedGlaive.label>生锈蛮族大刀</pphhyy_Barbarian_RustedGlaive.label>
+  <pphhyy_Barbarian_RustedGlaive.description>一把生锈的大刀，由战场上掠夺来的武器制成。这种武器非常受到小康阶级族人的喜爱。虽然做工粗糙，但它允许持有者在保持距离的同时以奇特的精确度攻击目标，使它成为一把致命的切割武器。</pphhyy_Barbarian_RustedGlaive.description>
+  <pphhyy_Barbarian_RustedGlaive.tools.0.label>握柄</pphhyy_Barbarian_RustedGlaive.tools.0.label>
+  <pphhyy_Barbarian_RustedGlaive.tools.1.label>尖端</pphhyy_Barbarian_RustedGlaive.tools.1.label>
+
+  <pphhyy_Barbarian_RustedMace.label>生锈钉锤</pphhyy_Barbarian_RustedMace.label>
+  <pphhyy_Barbarian_RustedMace.description>一把生锈的钉锤，由战场上掠夺来的武器制成。是凿开敌对部族、突袭者或落单骑士盔甲的重要工具。</pphhyy_Barbarian_RustedMace.description>
+  <pphhyy_Barbarian_RustedMace.tools.0.label>握柄</pphhyy_Barbarian_RustedMace.tools.0.label>
+  <pphhyy_Barbarian_RustedMace.tools.1.label>锤头</pphhyy_Barbarian_RustedMace.tools.1.label>
+
+  <pphhyy_Barbarian_RustedSkullMace.label>生锈骨锤</pphhyy_Barbarian_RustedSkullMace.label>
+  <pphhyy_Barbarian_RustedSkullMace.description>一把生锈的骨锤，由战场上掠夺来的武器制成。顶部装有一枚由骇然尖刺贯穿的乾枯、灰白的头骨。这种恶魔般的设计能有效激发敌人的恐惧，最重要的是，它可以为那些自认能安然躲在盔甲下的人们送上死亡。</pphhyy_Barbarian_RustedSkullMace.description>
+  <pphhyy_Barbarian_RustedSkullMace.tools.0.label>握柄</pphhyy_Barbarian_RustedSkullMace.tools.0.label>
+  <pphhyy_Barbarian_RustedSkullMace.tools.1.label>锤头</pphhyy_Barbarian_RustedSkullMace.tools.1.label>
+
+  <pphhyy_Barbarian_RustedGreatSkullMace.label>生锈强化骨锤</pphhyy_Barbarian_RustedGreatSkullMace.label>
+  <pphhyy_Barbarian_RustedGreatSkullMace.description>一把生锈的强化骨锤，由战场上掠夺来的武器制成。顶部装有一枚由斧刃贯穿的乾枯、灰白的头骨。这种恶魔般的设计能有效激发敌人的恐惧，最重要的是，它可以为那些自认能安然躲在盔甲下的人们送上死亡。</pphhyy_Barbarian_RustedGreatSkullMace.description>
+  <pphhyy_Barbarian_RustedGreatSkullMace.tools.0.label>握柄</pphhyy_Barbarian_RustedGreatSkullMace.tools.0.label>
+  <pphhyy_Barbarian_RustedGreatSkullMace.tools.1.label>锤头</pphhyy_Barbarian_RustedGreatSkullMace.tools.1.label>
+
+
+</LanguageData>

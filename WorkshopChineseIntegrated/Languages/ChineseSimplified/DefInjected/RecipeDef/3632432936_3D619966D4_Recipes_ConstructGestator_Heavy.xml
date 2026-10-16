@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestate sentinel (burner) -->
+  <VR_Construct_Centurion_Burner.label>孕育百机长（火焰）</VR_Construct_Centurion_Burner.label>
+  <!-- EN: Gestate a sentinel (burner) construct. -->
+  <VR_Construct_Centurion_Burner.description>孕育一个百机长（火焰）构装体。</VR_Construct_Centurion_Burner.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Centurion_Burner.jobString>孕育构装体中。</VR_Construct_Centurion_Burner.jobString>
+  
+  <!-- EN: gestate sentinel (hammer) -->
+  <VR_Construct_Centurion_Melee_Hammer.label>孕育近战百机长（战锤）</VR_Construct_Centurion_Melee_Hammer.label>
+  <!-- EN: Gestate a sentinel construct. -->
+  <VR_Construct_Centurion_Melee_Hammer.description>孕育一个近战百机长构装体。</VR_Construct_Centurion_Melee_Hammer.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Centurion_Melee_Hammer.jobString>孕育构装体中。</VR_Construct_Centurion_Melee_Hammer.jobString>
+  
+  <!-- EN: gestate sentinel (stakedriver) -->
+  <VR_Construct_Centurion_Melee_StakeDriver.label>孕育近战百机长（桩钉炮）</VR_Construct_Centurion_Melee_StakeDriver.label>
+  <!-- EN: Gestate a sentinel construct. -->
+  <VR_Construct_Centurion_Melee_StakeDriver.description>孕育一个近战百机长构装体。</VR_Construct_Centurion_Melee_StakeDriver.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Centurion_Melee_StakeDriver.jobString>孕育构装体中。</VR_Construct_Centurion_Melee_StakeDriver.jobString>
+  
+  <!-- EN: gestate sentinel (sword) -->
+  <VR_Construct_Centurion_Melee_Sword.label>孕育近战百机长（剑）</VR_Construct_Centurion_Melee_Sword.label>
+  <!-- EN: Gestate a sentinel construct. -->
+  <VR_Construct_Centurion_Melee_Sword.description>孕育一个近战百机长构装体。</VR_Construct_Centurion_Melee_Sword.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Centurion_Melee_Sword.jobString>孕育构装体中。</VR_Construct_Centurion_Melee_Sword.jobString>
+  
+  <!-- EN: gestate sentinel (shooter) -->
+  <VR_Construct_Centurion_Shooter.label>孕育百机长（远程）</VR_Construct_Centurion_Shooter.label>
+  <!-- EN: Gestate a sentinel (shooter) constructs. -->
+  <VR_Construct_Centurion_Shooter.description>孕育一个百机长（远程）构装体。</VR_Construct_Centurion_Shooter.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Centurion_Shooter.jobString>孕育构装体中。</VR_Construct_Centurion_Shooter.jobString>
+  
+</LanguageData>

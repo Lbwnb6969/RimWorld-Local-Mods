@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beaver -->
+  <AEXP_Beaver.label>海狸</AEXP_Beaver.label>
+  <!-- EN: A large semiaquatic rodent with a flat, paddle-shaped tail and webbed hind feet. Beavers are renowned for their innate construction skills, building their homes, or "lodges", out of sticks, twigs, rocks, and mud in lakes, streams, and tidal river deltas. Beavers are well known for building dams across streams and constructing their lodges in the artificial ponds which form. -->
+  <AEXP_Beaver.description>一种大型半水栖啮齿动物，尾巴扁平，桨状，后脚有蹼。海狸以其天生的建筑技能而闻名，它们用树枝、树叶、岩石和淤泥在湖泊、溪流和三角洲建造家园或“小屋”。海狸以在溪流上筑坝和在池塘中筑巢而闻名。</AEXP_Beaver.description>
+  <!-- EN: left claw -->
+  <AEXP_Beaver.tools.left_claw.label>左爪</AEXP_Beaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Beaver.tools.right_claw.label>右爪</AEXP_Beaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Beaver.tools.head.label>头</AEXP_Beaver.tools.head.label>
+  
+  <!-- EN: hedgehog -->
+  <AEXP_Hedgehog.label>刺猬</AEXP_Hedgehog.label>
+  <!-- EN: Hedgehogs are diminutive mammals with cone-shaped faces, short legs and bodies that are covered with porcupine-like quills. When in danger, the hedgehog rolls into a ball so that the quills cover the entire area of their exposed body and protects the animal from predators. -->
+  <AEXP_Hedgehog.description>刺猬是一种身材矮小的哺乳类动物，有圆锥形的脸，短腿，身体上覆盖着豪猪一样的刺。遇到危险时，刺猬会滚成一个球，这样刺猬就可以将它们暴露在外的身体部分整个包裹住，保护其免受捕食者的伤害。</AEXP_Hedgehog.description>
+  <!-- EN: left claw -->
+  <AEXP_Hedgehog.tools.left_claw.label>左爪</AEXP_Hedgehog.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Hedgehog.tools.right_claw.label>右爪</AEXP_Hedgehog.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Hedgehog.tools.head.label>头</AEXP_Hedgehog.tools.head.label>
+  
+  <!-- EN: red panda -->
+  <AEXP_RedPanda.label>小熊猫</AEXP_RedPanda.label>
+  <!-- EN: The red panda is a small mammal, slightly larger than a domestic cat, with a bear-like body and thick russet fur. The belly and limbs are black, and there are white markings on the side of the head and above its small eyes. Red pandas are very skillful and acrobatic animals that predominantly stay in trees. It is a solitary animal, mainly active from dusk to dawn, though they can be quite affectionate if properly tamed. -->
+  <AEXP_RedPanda.description>小熊猫是一种小型哺乳类动物，体型略大于家猫，身体酷似熊，皮毛呈黄褐色。腹部和四肢是黑色的，头部侧面和小眼上方有白色斑纹。小熊猫非常灵巧，主要栖息于树上。它们喜欢独行，主要活动于黄昏到黎明，尽管如此，驯服得当的它们仍是粘人的宠物。</AEXP_RedPanda.description>
+  <!-- EN: left fist -->
+  <AEXP_RedPanda.tools.left_fist.label>左拳</AEXP_RedPanda.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <AEXP_RedPanda.tools.right_fist.label>右拳</AEXP_RedPanda.tools.right_fist.label>
+  <!-- EN: head -->
+  <AEXP_RedPanda.tools.head.label>头</AEXP_RedPanda.tools.head.label>
+  
+  <!-- EN: wild goose -->
+  <AEXP_WildGoose.label>大雁</AEXP_WildGoose.label>
+  <!-- EN: A non-domesticated grey goose. Compared to their domesticated brethren, which have been selected over thousands of years for larger size, wild geese don't lay as many eggs, and they are renowned for their aggressive temperament. Peace was never an option. -->
+  <AEXP_WildGoose.description>大雁其实就是一种未驯养的灰鹅。与它们被驯养的同类相比，大雁的体型要大许多，相比之下，大雁的产卵量却不那么多，它们以好斗的性情而闻名。与它们和平相处是不可能的。</AEXP_WildGoose.description>
+  <!-- EN: claws -->
+  <AEXP_WildGoose.tools.claws.label>爪</AEXP_WildGoose.tools.claws.label>
+  <!-- EN: beak -->
+  <AEXP_WildGoose.tools.beak.label>喙</AEXP_WildGoose.tools.beak.label>
+  <!-- EN: head -->
+  <AEXP_WildGoose.tools.head.label>头</AEXP_WildGoose.tools.head.label>
+  
+</LanguageData>

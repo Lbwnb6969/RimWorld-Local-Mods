@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic coyote -->
+  <AEXP_ArcticCoyote.label>北极郊狼</AEXP_ArcticCoyote.label>
+  <!-- EN: A small canine native to tundra and boreal forests. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf. -->
+  <AEXP_ArcticCoyote.description>一种小型犬科动物，往往成群生活于苔原和针叶林。狩猎能力出色，能解决更大的猎物。</AEXP_ArcticCoyote.description>
+  <!-- EN: left claw -->
+  <AEXP_ArcticCoyote.tools.left_claw.label>左爪</AEXP_ArcticCoyote.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_ArcticCoyote.tools.right_claw.label>右爪</AEXP_ArcticCoyote.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_ArcticCoyote.tools.head.label>头</AEXP_ArcticCoyote.tools.head.label>
+  
+  <!-- EN: black bear -->
+  <AEXP_BlackBear.label>黑熊</AEXP_BlackBear.label>
+  <!-- EN: A medium sized omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the black bear is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <AEXP_BlackBear.description>一种适应了寒冷气候的中型杂食性哺乳动物。它们厚厚的脂肪和皮毛可以在冬季保暖。\n\n虽然它们平时的饮食包括鱼、浆果、蜂蜜、腐肉，灰熊仍能利用其巨大的力量和致命的爪子杀死活着的猎物。虽然它们的外形看起来很笨重，但却出人意料的十分敏捷。</AEXP_BlackBear.description>
+  <!-- EN: left claw -->
+  <AEXP_BlackBear.tools.left_claw.label>左爪</AEXP_BlackBear.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_BlackBear.tools.left_claw.labelNoLocation>爪</AEXP_BlackBear.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_BlackBear.tools.right_claw.label>右爪</AEXP_BlackBear.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_BlackBear.tools.right_claw.labelNoLocation>爪</AEXP_BlackBear.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <AEXP_BlackBear.tools.head.label>头</AEXP_BlackBear.tools.head.label>
+  
+</LanguageData>

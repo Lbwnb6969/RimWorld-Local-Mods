@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Divine Flight -->
+  <BEWH_DivineFlight.label>神圣飞行</BEWH_DivineFlight.label>
+  <!-- EN: The Living Saint ascends into the air, sustained by their blessed wings, allowing them to cover great distances quickly. -->
+  <BEWH_DivineFlight.description>活圣人借助他们的神圣羽翼快速升入空中，然后进行远距离飞行。</BEWH_DivineFlight.description>
+  <!-- EN: divine flight -->
+  <BEWH_DivineFlight.verbProperties.label>神圣飞行</BEWH_DivineFlight.verbProperties.label>
+  
+  <!-- EN: Holy Blast -->
+  <BEWH_LivingSaintHolyBlast.label>神圣冲击</BEWH_LivingSaintHolyBlast.label>
+  <!-- EN: The Living Saint unleashes a powerful burst of divine energy, blasting humanoid enemies in a targeted area with searing light. At the same time, the radiant power heals nearby allies, restoring their strength. -->
+  <BEWH_LivingSaintHolyBlast.description>活圣人释放出强大的神圣能量，用灼热的光芒轰击目标区域内的人形敌人。同时，神圣能量会治愈附近的盟友，恢复他们的力量。</BEWH_LivingSaintHolyBlast.description>
+  
+  <!-- EN: Inviolable Aura -->
+  <BEWH_LivingSaintInviolableAura.label>神圣光环</BEWH_LivingSaintInviolableAura.label>
+  <!-- EN: The Living Saint radiates a divine aura that envelops nearby allies in holy protection, shielding them from harm. The effect remains attached to the caster for 6 hours. -->
+  <BEWH_LivingSaintInviolableAura.description>活圣人散发出神圣光辉，将附近的盟友笼罩在神圣的庇护之下，保护他们免受伤害。该效果持续6小时。</BEWH_LivingSaintInviolableAura.description>
+  
+  <!-- EN: Proof of Faith -->
+  <BEWH_LivingSaintProofOfFaith.label>信仰证明</BEWH_LivingSaintProofOfFaith.label>
+  <!-- EN: The Living Saint calls upon a willing ally to make the ultimate sacrifice, channeling their life force to replenish the Saint's divine grace. The chosen pawn enters a state of deep, restorative coma for several days or weeks. -->
+  <BEWH_LivingSaintProofOfFaith.description>活圣人呼唤一位自愿的盟友，希望其做出至高无上的牺牲。活圣人会引导他们的生命能量来补充神圣恩典。被选中的盟友将进入深度昏迷状态，持续数天或数周。</BEWH_LivingSaintProofOfFaith.description>
+  
+</LanguageData>

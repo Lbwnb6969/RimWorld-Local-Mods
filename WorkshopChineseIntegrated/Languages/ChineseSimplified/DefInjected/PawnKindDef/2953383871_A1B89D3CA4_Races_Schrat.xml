@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Schrat_Dark.label>黑暗树灵</DankPyon_Schrat_Dark.label>
+  <DankPyon_Schrat_Dark.labelPlural>黑暗树灵</DankPyon_Schrat_Dark.labelPlural>
+  <DankPyon_Schrat_Dark.labelMale>公黑暗树灵</DankPyon_Schrat_Dark.labelMale>
+  <DankPyon_Schrat_Dark.labelMalePlural>公黑暗树灵</DankPyon_Schrat_Dark.labelMalePlural>
+  <DankPyon_Schrat_Dark.labelFemale>母黑暗树灵</DankPyon_Schrat_Dark.labelFemale>
+  <DankPyon_Schrat_Dark.labelFemalePlural>母黑暗树灵</DankPyon_Schrat_Dark.labelFemalePlural>
+
+
+  <!-- Schrat Plains -->
+
+  <DankPyon_Schrat_Plain.label>树灵</DankPyon_Schrat_Plain.label>
+  <DankPyon_Schrat_Plain.labelPlural>树灵</DankPyon_Schrat_Plain.labelPlural>
+  <DankPyon_Schrat_Plain.labelMale>公树灵</DankPyon_Schrat_Plain.labelMale>
+  <DankPyon_Schrat_Plain.labelMalePlural>公树灵</DankPyon_Schrat_Plain.labelMalePlural>
+  <DankPyon_Schrat_Plain.labelFemale>母树灵</DankPyon_Schrat_Plain.labelFemale>
+  <DankPyon_Schrat_Plain.labelFemalePlural>母树灵</DankPyon_Schrat_Plain.labelFemalePlural>
+
+
+</LanguageData>

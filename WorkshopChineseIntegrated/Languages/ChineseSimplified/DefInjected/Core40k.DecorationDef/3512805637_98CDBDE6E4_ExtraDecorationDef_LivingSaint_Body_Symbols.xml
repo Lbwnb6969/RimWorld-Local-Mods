@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Chalice -->
+  <BEWH_Deco_LsChalice.label>圣杯</BEWH_Deco_LsChalice.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_LsChalice.description>...</BEWH_Deco_LsChalice.description>
+  
+  <!-- EN: Fleur-de-lis -->
+  <BEWH_Deco_LsFleurDeLis.label>百合纹章</BEWH_Deco_LsFleurDeLis.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_LsFleurDeLis.description>...</BEWH_Deco_LsFleurDeLis.description>
+  
+  <!-- EN: Rose -->
+  <BEWH_Deco_LsRose.label>玫瑰</BEWH_Deco_LsRose.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_LsRose.description>...</BEWH_Deco_LsRose.description>
+  
+  <!-- EN: Skull -->
+  <BEWH_Deco_LsSkull.label>铁颅</BEWH_Deco_LsSkull.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_LsSkull.description>...</BEWH_Deco_LsSkull.description>
+  
+</LanguageData>

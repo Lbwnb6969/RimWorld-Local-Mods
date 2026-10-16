@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient barrel chair -->
+  <AM_Scavenger_Chair.overrideLabel>远古桶椅</AM_Scavenger_Chair.overrideLabel>
+  
+  <!-- EN: ancient repurposed chemfuel generator -->
+  <AM_Scavenger_ChemfuelPoweredGenerator.overrideLabel>已修复的远古化合燃料发电机</AM_Scavenger_ChemfuelPoweredGenerator.overrideLabel>
+  
+  <!-- EN: ancient gun column -->
+  <AM_Scavenger_Column.overrideLabel>远古炮管支撑柱</AM_Scavenger_Column.overrideLabel>
+  
+  <!-- EN: ancient cooler -->
+  <AM_Scavenger_Cooler.overrideLabel>远古制冷机</AM_Scavenger_Cooler.overrideLabel>
+  
+  <!-- EN: ancient beacon darklight -->
+  <AM_Scavenger_DarklampStanding.overrideLabel>远古微光信标灯</AM_Scavenger_DarklampStanding.overrideLabel>
+  
+  <!-- EN: ancient storage cylinder dresser -->
+  <AM_Scavenger_Dresser.overrideLabel>远古液罐矮柜</AM_Scavenger_Dresser.overrideLabel>
+  
+  <!-- EN: ancient crate end table -->
+  <AM_Scavenger_EndTable.overrideLabel>远古储物箱床头柜</AM_Scavenger_EndTable.overrideLabel>
+  
+  <!-- EN: rapier -->
+  <AM_Scavenger_Gladius.overrideLabel>手锯剑</AM_Scavenger_Gladius.overrideLabel>
+  
+  <!-- EN: ancient beacon light -->
+  <AM_Scavenger_StandingLamp.overrideLabel>远古信标灯</AM_Scavenger_StandingLamp.overrideLabel>
+  
+  <!-- EN: ancient barrel stool -->
+  <AM_Scavenger_Stool.overrideLabel>远古桶凳</AM_Scavenger_Stool.overrideLabel>
+  
+  <!-- EN: ancient scrap table -->
+  <AM_Scavenger_Table1x2c.overrideLabel>远古残骸桌</AM_Scavenger_Table1x2c.overrideLabel>
+  
+  <!-- EN: ancient scrap table -->
+  <AM_Scavenger_Table2x2c.overrideLabel>远古残骸桌</AM_Scavenger_Table2x2c.overrideLabel>
+  
+  <!-- EN: ancient scrap table -->
+  <AM_Scavenger_Table2x4c.overrideLabel>远古残骸桌</AM_Scavenger_Table2x4c.overrideLabel>
+  
+  <!-- EN: ancient scrap table -->
+  <AM_Scavenger_Table3x3c.overrideLabel>远古残骸桌</AM_Scavenger_Table3x3c.overrideLabel>
+  
+  <!-- EN: ancient repurposed generator -->
+  <AM_Scavenger_WoodFiredGenerator.overrideLabel>已修复的远古木柴发电机</AM_Scavenger_WoodFiredGenerator.overrideLabel>
+  
+</LanguageData>

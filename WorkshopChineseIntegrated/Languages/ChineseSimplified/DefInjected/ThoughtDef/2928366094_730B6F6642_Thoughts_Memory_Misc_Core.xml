@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extremely wet -->
+  <RG_ExtremelyWet.stages.extremely_wet.label>落汤鸡</RG_ExtremelyWet.stages.extremely_wet.label>
+  <!-- EN: I'm extremely wet. -->
+  <RG_ExtremelyWet.stages.extremely_wet.description>我现在就像只落汤鸡一样。</RG_ExtremelyWet.stages.extremely_wet.description>
+  
+  <!-- EN: warm water -->
+  <RG_HotSpringWet.stages.warm_water.label>温水</RG_HotSpringWet.stages.warm_water.label>
+  <!-- EN: The hot water from the hot spring felt amazing! -->
+  <RG_HotSpringWet.stages.warm_water.description>这温泉可真舒服！</RG_HotSpringWet.stages.warm_water.description>
+  
+  <!-- EN: sandy -->
+  <RG_Sandy.stages.sandy.label>沙子</RG_Sandy.stages.sandy.label>
+  <!-- EN: There is sand like..... everywhere! Even in my eyes! -->
+  <RG_Sandy.stages.sandy.description>咳咳...沙子到处都是！我的眼睛...快睁不开了！</RG_Sandy.stages.sandy.description>
+  
+  <!-- EN: wet -->
+  <RG_Wet.stages.wet.label>微湿</RG_Wet.stages.wet.label>
+  <!-- EN: I'm wet. -->
+  <RG_Wet.stages.wet.description>我身上有点湿。</RG_Wet.stages.wet.description>
+  
+</LanguageData>

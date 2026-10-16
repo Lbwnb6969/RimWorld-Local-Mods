@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: call trade caravan -->
+  <VME_CallTradeCaravan.label>商队呼叫</VME_CallTradeCaravan.label>
+  <!-- EN: Summon a trade caravan. -->
+  <VME_CallTradeCaravan.description>呼叫一支贸易商队。</VME_CallTradeCaravan.description>
+  
+</LanguageData>

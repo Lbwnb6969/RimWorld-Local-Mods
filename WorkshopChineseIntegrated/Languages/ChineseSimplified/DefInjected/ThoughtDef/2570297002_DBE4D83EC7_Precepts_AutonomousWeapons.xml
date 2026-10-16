@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: automated turrets -->
+  <VME_AutonomousWeapons_Accepted.stages.automated_turrets.label>自动炮塔</VME_AutonomousWeapons_Accepted.stages.automated_turrets.label>
+  <!-- EN: We use automated turrets. They are an incredible boon to our defenses. -->
+  <VME_AutonomousWeapons_Accepted.stages.automated_turrets.description>我们架设了一些自动炮塔。它们对殖民地的防御很有帮助。</VME_AutonomousWeapons_Accepted.stages.automated_turrets.description>
+  
+  <!-- EN: automated turrets -->
+  <VME_AutonomousWeapons_Exalted.stages.automated_turrets.label>自动炮塔</VME_AutonomousWeapons_Exalted.stages.automated_turrets.label>
+  <!-- EN: We use automated turrets. Automated defenses are key to a proper defense of what is ours. -->
+  <VME_AutonomousWeapons_Exalted.stages.automated_turrets.description>我们架设了一些自动炮塔。它们对殖民地的防御来说是重中之重。</VME_AutonomousWeapons_Exalted.stages.automated_turrets.description>
+  
+</LanguageData>

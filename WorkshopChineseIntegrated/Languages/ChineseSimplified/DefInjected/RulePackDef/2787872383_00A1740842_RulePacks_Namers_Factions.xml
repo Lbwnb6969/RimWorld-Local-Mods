@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_leaderTitle->Senator</li>
+  -->
+  <VFEC_LeaderTitleMaker_Classical.rulePack.rulesStrings>
+    <li>r_leaderTitle->元老议员</li>
+  </VFEC_LeaderTitleMaker_Classical.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->Central Republic</li>
+  -->
+  <VFEC_NamerFactionCentral.rulePack.rulesStrings>
+    <li>r_name->中部共和国</li>
+  </VFEC_NamerFactionCentral.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->Eastern Republic</li>
+  -->
+  <VFEC_NamerFactionEastern.rulePack.rulesStrings>
+    <li>r_name->东部共和国</li>
+  </VFEC_NamerFactionEastern.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->Western Republic</li>
+  -->
+  <VFEC_NamerFactionWestern.rulePack.rulesStrings>
+    <li>r_name->西部共和国</li>
+  </VFEC_NamerFactionWestern.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=2)->[Classical_First_Male] [Classical_Last]</li>
+  -->
+  <VFEC_NamerPersonClassical.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Classical_First_Male] [Classical_Last]</li>
+  </VFEC_NamerPersonClassical.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=2)->[Classical_First_Female] [Classical_Last]</li>
+  -->
+  <VFEC_NamerPersonClassicalFemale.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Classical_First_Female] [Classical_Last]</li>
+  </VFEC_NamerPersonClassicalFemale.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[ClassicalName]</li>
+  -->
+  <VFEC_NamerSettlementClassical.rulePack.rulesStrings>
+    <li>r_name->[ClassicalName]</li>
+  </VFEC_NamerSettlementClassical.rulePack.rulesStrings>
+  
+</LanguageData>

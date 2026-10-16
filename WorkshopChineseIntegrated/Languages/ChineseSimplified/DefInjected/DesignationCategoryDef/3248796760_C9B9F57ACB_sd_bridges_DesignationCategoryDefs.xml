@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Terraform -->
+  <sd_bridges_category_terraform.label>地形</sd_bridges_category_terraform.label>
+  <!-- EN: tools to terraform -->
+  <sd_bridges_category_terraform.description>地形改造工具</sd_bridges_category_terraform.description>
+  
+</LanguageData>

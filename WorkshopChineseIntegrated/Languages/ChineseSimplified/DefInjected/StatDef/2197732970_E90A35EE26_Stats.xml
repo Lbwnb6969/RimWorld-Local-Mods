@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: writing speed -->
+  <VBE_WritingSpeed.label>书写速度</VBE_WritingSpeed.label>
+  <!-- EN: A multiplier applied to the speed this person can write books at. -->
+  <VBE_WritingSpeed.description>这个人书写书籍时的速度乘数</VBE_WritingSpeed.description>
+  
+</LanguageData>

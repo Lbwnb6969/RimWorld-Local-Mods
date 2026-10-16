@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Kingdom -->
+  <VFEM2_PlayerKingdom.label>新王国</VFEM2_PlayerKingdom.label>
+  <!-- EN: A small kingdom. -->
+  <VFEM2_PlayerKingdom.description>一个新生的小王国。</VFEM2_PlayerKingdom.description>
+  <!-- EN: leader -->
+  <VFEM2_PlayerKingdom.leaderTitle>领袖</VFEM2_PlayerKingdom.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_PlayerKingdom.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</VFEM2_PlayerKingdom.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <VFEM2_PlayerKingdom.pawnSingular>臣民</VFEM2_PlayerKingdom.pawnSingular>
+  <!-- EN: subjects -->
+  <VFEM2_PlayerKingdom.pawnsPlural>臣民</VFEM2_PlayerKingdom.pawnsPlural>
+  
+</LanguageData>

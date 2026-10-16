@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AM_DreadnoughtFuneralOutcome.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</AM_DreadnoughtFuneralOutcome.description>
+  <!-- EN: moral guide present -->
+  <AM_DreadnoughtFuneralOutcome.comps.0.label>传道者出席</AM_DreadnoughtFuneralOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <AM_DreadnoughtFuneralOutcome.comps.1.label>参与者数量</AM_DreadnoughtFuneralOutcome.comps.1.label>
+  <!-- EN: doctor -->
+  <AM_DreadnoughtFuneralOutcome.comps.2.label>医师</AM_DreadnoughtFuneralOutcome.comps.2.label>
+  <!-- EN: {RITUAL} was spectacular! {CORPSE} had 0 side effects -->
+  <AM_DreadnoughtFuneralOutcome.modExtensions.0.bestOutcomeDesc>{RITUAL}非常完美！{CORPSE}没有受到任何副作用的影响。</AM_DreadnoughtFuneralOutcome.modExtensions.0.bestOutcomeDesc>
+  <!-- EN: {RITUAL} was a disaster! {CORPSE} has been lost forever. -->
+  <AM_DreadnoughtFuneralOutcome.modExtensions.0.worstOutcomeDesc>{RITUAL}糟糕透顶！{CORPSE}已经永远离开了我们。</AM_DreadnoughtFuneralOutcome.modExtensions.0.worstOutcomeDesc>
+  <!-- EN: Terrible -->
+  <AM_DreadnoughtFuneralOutcome.outcomeChances.0.label>糟糕的</AM_DreadnoughtFuneralOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The entombing failed and they are lost to us forever. -->
+  <AM_DreadnoughtFuneralOutcome.outcomeChances.0.description>{0}非常糟糕！抢救最终失败了，我们永远失去了一位朋友。</AM_DreadnoughtFuneralOutcome.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <AM_DreadnoughtFuneralOutcome.outcomeChances.1.label>枯燥乏味的</AM_DreadnoughtFuneralOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was messy, I hope if I ever end up in that situation they do a better job. -->
+  <AM_DreadnoughtFuneralOutcome.outcomeChances.1.description>{0}枯燥乏味。如果将来我死了，希望进行抢救的医师能尽自己最大的努力。</AM_DreadnoughtFuneralOutcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AM_DreadnoughtFuneralOutcome.outcomeChances.2.label>令人满意的</AM_DreadnoughtFuneralOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. I'm sure they'll be up on their feet any time now. -->
+  <AM_DreadnoughtFuneralOutcome.outcomeChances.2.description>{0}令人满意。我相信，我们的朋友随时会醒过来的。</AM_DreadnoughtFuneralOutcome.outcomeChances.2.description>
+  <!-- EN: Amazing -->
+  <AM_DreadnoughtFuneralOutcome.outcomeChances.3.label>令人惊异的</AM_DreadnoughtFuneralOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was Amazing. I've never seen such skill, they walked right out as if nothing had happened. -->
+  <AM_DreadnoughtFuneralOutcome.outcomeChances.3.description>{0}令人惊异。进行抢救的医师竟如此技艺高超，我们的朋友就像无事发生一样走了出去。</AM_DreadnoughtFuneralOutcome.outcomeChances.3.description>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mead -->
+  <VFEM2_Mead.label>蜜酒</VFEM2_Mead.label>
+  <!-- EN: A drink akin to wine, made of fermented honey and water, aged in a simple barrel. This sweet, crisp drink is known be nursed over time and has a reputation of being particularly comforting. Consuming mead lowers psychic sensitivity. -->
+  <VFEM2_Mead.description>用蜂蜜发酵而成的酒精饮料，味道和葡萄酒相似。这种甘甜的饮料能让人感到非常舒适。喝下蜜酒会降低心灵敏感度。</VFEM2_Mead.description>
+  <!-- EN: Drink {0} -->
+  <VFEM2_Mead.ingestible.ingestCommandString>喝{0}</VFEM2_Mead.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VFEM2_Mead.ingestible.ingestReportString>正在喝{0}</VFEM2_Mead.ingestible.ingestReportString>
+  
+</LanguageData>

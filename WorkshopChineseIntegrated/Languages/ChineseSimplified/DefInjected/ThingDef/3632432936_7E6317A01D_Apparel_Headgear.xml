@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificelord helmet -->
+  <VR_Apparel_ArtificeLordHelmet.label>机巧领主头盔</VR_Apparel_ArtificeLordHelmet.label>
+  <!-- EN: A heavy helmet infused to assist an artificerlord. The artificelord helmet dramatically amplifies an artificers's bandwidth, but is somewhat less protective than dedicated heavy armor. -->
+  <VR_Apparel_ArtificeLordHelmet.description>一顶注入奥术以辅助机巧领主的重型头盔。机巧领主头盔会显著放大机巧师的带宽，但防护力略逊于专用重甲。</VR_Apparel_ArtificeLordHelmet.description>
+  
+  <!-- EN: artificer goggles -->
+  <VR_Apparel_ArtificerGoggles.label>机巧师护目镜</VR_Apparel_ArtificerGoggles.label>
+  <!-- EN: A pair of arcana infused googles that enhances an artificers's control bandwidth. This allows them to control more constructs. -->
+  <VR_Apparel_ArtificerGoggles.description>一副注入奥术的护目镜，可提升机巧师的控制带宽，使其能控制更多构装体。</VR_Apparel_ArtificerGoggles.description>
+  
+  <!-- EN: artificer monocle -->
+  <VR_Apparel_ArtificerMonocle.label>机巧师单片镜</VR_Apparel_ArtificerMonocle.label>
+  <!-- EN: An arcana infused monocle that slightly enhances an artificers's control bandwidth. This allows them to control more constructs. -->
+  <VR_Apparel_ArtificerMonocle.description>一枚注入奥术的单片镜，略微提升机巧师的控制带宽，使其能控制更多构装体。</VR_Apparel_ArtificerMonocle.description>
+  
+  <!-- EN: respirator -->
+  <VR_Apparel_ArtificerRespirator.label>呼吸器</VR_Apparel_ArtificerRespirator.label>
+  <!-- EN: A flexible mask worn over the face with an embedded air filter. It dramatically reduces exposure to pollution through the lungs, but does not protect the skin on the rest of the body.\n\nIt prevents tox gas irritants from entering through the eyes and mouth. -->
+  <VR_Apparel_ArtificerRespirator.description>一款贴合脸部的柔性面罩，内置空气滤芯。可大幅降低经肺部吸入污染，但不保护身体其他部位的皮肤。\n\n它能阻止毒气刺激物从眼口进入。</VR_Apparel_ArtificerRespirator.description>
+  
+</LanguageData>

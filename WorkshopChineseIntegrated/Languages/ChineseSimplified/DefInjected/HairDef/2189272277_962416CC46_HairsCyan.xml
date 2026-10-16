@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: celebrity -->
+  <VHE_Celebrity.label>庆典（VHE）</VHE_Celebrity.label>
+  
+  <!-- EN: farmboy -->
+  <VHE_Farmboy.label>农家仔（VHE）</VHE_Farmboy.label>
+  
+  <!-- EN: flat afro -->
+  <VHE_FlatAfro.label>扁平爆炸头（VHE）</VHE_FlatAfro.label>
+  
+  <!-- EN: karen -->
+  <VHE_Karen.label>凯伦（VHE）</VHE_Karen.label>
+  
+  <!-- EN: long ponytail -->
+  <VHE_LongPonytail.label>长马尾（VHE）</VHE_LongPonytail.label>
+  
+  <!-- EN: sad -->
+  <VHE_Sad.label>悲伤（VHE）</VHE_Sad.label>
+  
+  <!-- EN: senator -->
+  <VHE_Senator.label>评议员（VHE）</VHE_Senator.label>
+  
+  <!-- EN: smuggler -->
+  <VHE_Smuggler.label>走私者（VHE）</VHE_Smuggler.label>
+  
+</LanguageData>

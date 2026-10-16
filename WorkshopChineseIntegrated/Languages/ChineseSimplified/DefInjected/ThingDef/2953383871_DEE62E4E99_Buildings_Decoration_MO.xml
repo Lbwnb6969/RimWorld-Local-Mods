@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Beverages -->
+
+  <DankPyon_OnTop_Bottle_Milk.label>空鲜奶壶</DankPyon_OnTop_Bottle_Milk.label>
+  <DankPyon_OnTop_Bottle_Milk.description>一壶空的鲜奶壶，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Bottle_Milk.description>
+
+  <DankPyon_OnTop_Bottle_Ale.label>空酒杯</DankPyon_OnTop_Bottle_Ale.label>
+  <DankPyon_OnTop_Bottle_Ale.description>一只空的酒杯，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Bottle_Ale.description>
+
+  <DankPyon_OnTop_Bottle_Mead.label>空蜂蜜酒瓶</DankPyon_OnTop_Bottle_Mead.label>
+  <DankPyon_OnTop_Bottle_Mead.description>一支空的蜂蜜酒瓶，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Bottle_Mead.description>
+
+  <DankPyon_OnTop_Bottle_Wine.label>空葡萄酒瓶</DankPyon_OnTop_Bottle_Wine.label>
+  <DankPyon_OnTop_Bottle_Wine.description>一支空的葡萄酒瓶，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Bottle_Wine.description>
+
+  <DankPyon_OnTop_Bottle_MulberryWine.label>空桑葚酒瓶</DankPyon_OnTop_Bottle_MulberryWine.label>
+  <DankPyon_OnTop_Bottle_MulberryWine.description>一支空的桑葚酒瓶，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Bottle_MulberryWine.description>
+
+  <DankPyon_OnTop_Bottle_IceWine.label>空冰酒瓶</DankPyon_OnTop_Bottle_IceWine.label>
+  <DankPyon_OnTop_Bottle_IceWine.description>一支空的冰酒瓶，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Bottle_IceWine.description>
+
+  <DankPyon_OnTop_Bottle_GriffonWine.label>空狮鹫莓酒瓶</DankPyon_OnTop_Bottle_GriffonWine.label>
+  <DankPyon_OnTop_Bottle_GriffonWine.description>一支空的狮鹫莓酒瓶，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Bottle_GriffonWine.description>
+
+
+  <!-- Scribe Tools -->
+
+  <DankPyon_OnTop_Scribe_StackPaper.label>一叠废纸</DankPyon_OnTop_Scribe_StackPaper.label>
+  <DankPyon_OnTop_Scribe_StackPaper.description>一叠废纸，湿漉漉、破烂且凌乱不堪。仅剩装饰用途，能放置在桌子或柜子上。</DankPyon_OnTop_Scribe_StackPaper.description>
+
+  <DankPyon_OnTop_Scribe_ScrollAndInkwell.label>废卷轴和羽毛笔</DankPyon_OnTop_Scribe_ScrollAndInkwell.label>
+  <DankPyon_OnTop_Scribe_ScrollAndInkwell.description>破损的卷轴和一支笔尖干掉的羽毛笔。仅剩装饰用途，能放置在桌子或柜子上。</DankPyon_OnTop_Scribe_ScrollAndInkwell.description>
+
+  <DankPyon_OnTop_Scribe_Book.label>一本废书</DankPyon_OnTop_Scribe_Book.label>
+  <DankPyon_OnTop_Scribe_Book.description>一本废书，湿漉漉、破烂且凌乱不堪。仅剩装饰用途，能放置在桌子或柜子上。</DankPyon_OnTop_Scribe_Book.description>
+
+
+  <!-- Kitchen Tools -->
+
+  <DankPyon_OnTop_Kitchen_Bowl.label>空碗</DankPyon_OnTop_Kitchen_Bowl.label>
+  <DankPyon_OnTop_Kitchen_Bowl.description>一只空的碗，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Kitchen_Bowl.description>
+
+  <DankPyon_OnTop_Kitchen_Plate.label>空盘</DankPyon_OnTop_Kitchen_Plate.label>
+  <DankPyon_OnTop_Kitchen_Plate.description>一个空的盘子，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Kitchen_Plate.description>
+
+  <DankPyon_OnTop_Kitchen_CookingPot.label>空锅</DankPyon_OnTop_Kitchen_CookingPot.label>
+  <DankPyon_OnTop_Kitchen_CookingPot.description>一只空的烹饪锅，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Kitchen_CookingPot.description>
+
+  <DankPyon_OnTop_Kitchen_Cup.label>空高脚杯</DankPyon_OnTop_Kitchen_Cup.label>
+  <DankPyon_OnTop_Kitchen_Cup.description>一只空的高脚杯，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Kitchen_Cup.description>
+
+  <DankPyon_OnTop_Kitchen_EmbeddedCleaver.label>嵌入的菜刀</DankPyon_OnTop_Kitchen_EmbeddedCleaver.label>
+  <DankPyon_OnTop_Kitchen_EmbeddedCleaver.description>一把嵌入表面的菜刀，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Kitchen_EmbeddedCleaver.description>
+
+
+  <!-- Research and Alchemy Tools -->
+
+  <DankPyon_OnTop_Research_Flasks.label>惰性烧瓶</DankPyon_OnTop_Research_Flasks.label>
+  <DankPyon_OnTop_Research_Flasks.description>装有惰性化学物质的烧瓶，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Research_Flasks.description>
+
+  <DankPyon_OnTop_Research_Vials.label>惰性试管</DankPyon_OnTop_Research_Vials.label>
+  <DankPyon_OnTop_Research_Vials.description>装有惰性化学物质的试管，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Research_Vials.description>
+
+  <DankPyon_OnTop_Alchemy_MortarAndPestle.label>损坏的研杵</DankPyon_OnTop_Alchemy_MortarAndPestle.label>
+  <DankPyon_OnTop_Alchemy_MortarAndPestle.description>不勘使用的研杵，能放置在桌子或柜子上做为装饰。</DankPyon_OnTop_Alchemy_MortarAndPestle.description>
+
+
+  <!-- Fountain -->
+
+  <DankPyon_Fountain1x1c.label>小型喷水池</DankPyon_Fountain1x1c.label>
+  <DankPyon_Fountain1x1c.description>一座装饰性小型喷水池。</DankPyon_Fountain1x1c.description>
+
+  <DankPyon_Fountain2x2c.label>大型喷水池</DankPyon_Fountain2x2c.label>
+  <DankPyon_Fountain2x2c.description>一座装饰性大型喷水池。</DankPyon_Fountain2x2c.description>
+
+  <DankPyon_BarrelWater.label>装满水的桶子</DankPyon_BarrelWater.label>
+  <DankPyon_BarrelWater.description>一个装满水的桶子，用以清洁自己或周围环境。</DankPyon_BarrelWater.description>
+
+
+  <!-- Wall Banner -->
+
+  <DankPyon_WallBanner1x2c.label>挂旗(1x2)</DankPyon_WallBanner1x2c.label>
+  <DankPyon_WallBanner1x2c.description>用于装饰墙面的挂旗。可安装在墙上。</DankPyon_WallBanner1x2c.description>
+
+
+  <!-- Thin Divider -->
+
+  <DankPyon_RusticRoomDivider1x2c.label>质朴屏风(1x2)</DankPyon_RusticRoomDivider1x2c.label>
+  <DankPyon_RusticRoomDivider1x2c.description>一个简易的屏风，用以保护隐私。</DankPyon_RusticRoomDivider1x2c.description>
+
+
+  <!-- Struct Divider -->
+
+  <DankPyon_RusticThickRoomDivider_Open1x2c.label>厚重开放式屏风(1x2)</DankPyon_RusticThickRoomDivider_Open1x2c.label>
+  <DankPyon_RusticThickRoomDivider_Open1x2c.description>一座部分篓空的简易厚重屏风，能够低限度的保护隐私，并能支撑屋顶。</DankPyon_RusticThickRoomDivider_Open1x2c.description>
+
+  <DankPyon_RusticThickRoomDivider_Closed1x2c.label>厚重屏风(1x2)</DankPyon_RusticThickRoomDivider_Closed1x2c.label>
+  <DankPyon_RusticThickRoomDivider_Closed1x2c.description>一座简易的厚重屏风，用以保护隐私，并能支撑屋顶。</DankPyon_RusticThickRoomDivider_Closed1x2c.description>
+
+
+  <!-- Struct Column -->
+
+  <DankPyon_DividerColumn.label>屏风柱</DankPyon_DividerColumn.label>
+  <DankPyon_DividerColumn.description>能够支撑屋顶的屏风柱。不会影响视野、移动，看起来相当漂亮。</DankPyon_DividerColumn.description>
+
+
+  <!-- Signs -->
+
+  <DankPyon_Sign_Tavern.label>酒馆标志</DankPyon_Sign_Tavern.label>
+  <DankPyon_Sign_Tavern.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Tavern.description>
+
+  <DankPyon_Sign_Bread.label>烘焙坊标志</DankPyon_Sign_Bread.label>
+  <DankPyon_Sign_Bread.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Bread.description>
+
+  <DankPyon_Sign_Butcher.label>屠宰场标志</DankPyon_Sign_Butcher.label>
+  <DankPyon_Sign_Butcher.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Butcher.description>
+
+  <DankPyon_Sign_Smith.label>锻造屋标志</DankPyon_Sign_Smith.label>
+  <DankPyon_Sign_Smith.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Smith.description>
+
+  <DankPyon_Sign_Apothecary.label>炼金坊标志</DankPyon_Sign_Apothecary.label>
+  <DankPyon_Sign_Apothecary.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Apothecary.description>
+
+  <DankPyon_Sign_Jewelry.label>珠宝店标志</DankPyon_Sign_Jewelry.label>
+  <DankPyon_Sign_Jewelry.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Jewelry.description>
+
+  <DankPyon_Sign_Library.label>图书室标志</DankPyon_Sign_Library.label>
+  <DankPyon_Sign_Library.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Library.description>
+
+  <DankPyon_Sign_Tailor.label>缝纫间标志</DankPyon_Sign_Tailor.label>
+  <DankPyon_Sign_Tailor.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Tailor.description>
+
+  <DankPyon_Sign_Woodworking.label>制材场标志</DankPyon_Sign_Woodworking.label>
+  <DankPyon_Sign_Woodworking.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Woodworking.description>
+
+  <DankPyon_Sign_Barn.label>谷仓标志</DankPyon_Sign_Barn.label>
+  <DankPyon_Sign_Barn.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Barn.description>
+
+  <DankPyon_Sign_Winery.label>酒庄标志</DankPyon_Sign_Winery.label>
+  <DankPyon_Sign_Winery.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Winery.description>
+
+  <DankPyon_Sign_Scribe.label>缮写室标志</DankPyon_Sign_Scribe.label>
+  <DankPyon_Sign_Scribe.description>描述房间用途的悬挂式标志牌。</DankPyon_Sign_Scribe.description>
+
+</LanguageData>

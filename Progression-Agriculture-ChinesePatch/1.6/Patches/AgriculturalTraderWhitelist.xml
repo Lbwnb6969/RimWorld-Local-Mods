@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Keep the Agriculture trader available only to the selected vanilla faction. -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/FactionDef[defName != "OutlanderCivil"]/caravanTraderKinds/li[text()="AgriculturalTrader"]</xpath>
+  </Operation>
+</Patch>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <StandaloneSettlementPreference_ModName>Medieval Overhaul-定居偏好调整</StandaloneSettlementPreference_ModName>
+  <StandaloneSettlementPreference_ResetSettings>重置设置</StandaloneSettlementPreference_ResetSettings>
+
+  <StandaloneSettlementPreference_Logging>允许日志功能(Debug log)</StandaloneSettlementPreference_Logging>
+  <StandaloneSettlementPreference_LoggingTooltip>允许定居偏好Harmony补丁启用日志功能。这些日志内容将在创建世界时出现，会记录派系定居点生成过程，可以帮助诊断可能发生的任何问题。</StandaloneSettlementPreference_LoggingTooltip>
+  <StandaloneSettlementPreference_LoggingExtended>允许额外的日志内容</StandaloneSettlementPreference_LoggingExtended>
+  <StandaloneSettlementPreference_LoggingExtendedTooltip>启用额外的日志内容可能会导致LOG快速暴增，建议一次仅启用一个派系并启用此选项检查问题。</StandaloneSettlementPreference_LoggingExtendedTooltip>
+  <StandaloneSettlementPreference_EnableSettlementPreference>启用定居偏好Harmony patch</StandaloneSettlementPreference_EnableSettlementPreference>
+  <StandaloneSettlementPreference_EnableSettlementPreferenceTooltip>如果启用此项，具有定居偏好定义值的派系将更有可能在特定区域定居。\n\n切换此选项需要重启一个新的世界才能生效。\n\n这会影响：</StandaloneSettlementPreference_EnableSettlementPreferenceTooltip>
+  <StandaloneSettlementPreference_Iterations>定居偏好的最大迭代次数</StandaloneSettlementPreference_Iterations>
+  <StandaloneSettlementPreference_IterationsTooltip>如果定居偏好在此迭代次数内无法找到理想的生成地图格，它将把控制权交还给RimWorld。\n\n减少此值可能有助于缩短世界生成时间，而增加此值可能有助于选中更理想的定居位置。</StandaloneSettlementPreference_IterationsTooltip>
+
+  <DankPyon_Settings_SettlementGeneration>MO派系定居点生成设定</DankPyon_Settings_SettlementGeneration>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: walltomb -->
+  <DA_WallTomb.label>壁冢</DA_WallTomb.label>
+  <!-- EN: A tomb directly carved into a wall to honor the dead. Takes a long time to build. -->
+  <DA_WallTomb.description>直接在墙壁上凿刻出来的墓室，用以纪念死者。需要很长的时间来建造。</DA_WallTomb.description>
+  
+</LanguageData>

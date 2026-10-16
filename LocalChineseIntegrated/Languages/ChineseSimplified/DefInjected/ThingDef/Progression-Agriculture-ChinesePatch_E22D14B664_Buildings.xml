@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SeedPackingBench.label>种子打包台</SeedPackingBench.label>
+  <SeedPackingBench.description>用收获的作物打包种子包的工作台。</SeedPackingBench.description>
+  <SeedPackingCraftingSpot.label>种子打包点</SeedPackingCraftingSpot.label>
+  <SeedPackingCraftingSpot.description>无需工作台即可用收获的作物打包种子包，但原料消耗是普通种子打包台的两倍。</SeedPackingCraftingSpot.description>
+  <PlantPot.label>植物装饰</PlantPot.label>
+</LanguageData>

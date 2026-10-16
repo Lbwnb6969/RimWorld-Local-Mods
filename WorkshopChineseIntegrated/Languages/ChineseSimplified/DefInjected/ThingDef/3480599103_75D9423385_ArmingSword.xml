@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sword -->
+  <TA_ArmingSword.label>武装剑</TA_ArmingSword.label>
+  <!-- EN: . -->
+  <TA_ArmingSword.description>中世纪常见的单手剑，适合骑士和士兵使用。</TA_ArmingSword.description>
+  <!-- EN: handle -->
+  <TA_ArmingSword.tools.handle.label>剑柄</TA_ArmingSword.tools.handle.label>
+  <!-- EN: point -->
+  <TA_ArmingSword.tools.point.label>剑尖</TA_ArmingSword.tools.point.label>
+  <!-- EN: edge -->
+  <TA_ArmingSword.tools.edge.label>剑刃</TA_ArmingSword.tools.edge.label>
+  
+</LanguageData>

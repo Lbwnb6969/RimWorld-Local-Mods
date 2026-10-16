@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Ideoligions -->
+  <!-- EN: Automation efficiency: increased precept -->
+  <VME_Automation>自动化效率：提高 戒律</VME_Automation>
+  <!-- EN: Automation efficiency: decreased precept -->
+  <VME_AutomationDecreased>自动化效率：降低 戒律</VME_AutomationDecreased>
+  <!-- EN: Crafting speed: slower for manual precept -->
+  <VME_AutomationManual>制作速度：慢（手工）戒律</VME_AutomationManual>
+  <!-- EN: Crafting speed: faster for manual precept -->
+  <VME_AutomationManualFaster>制作速度：快（手工）戒律</VME_AutomationManualFaster>
+  <!-- EN: Meditation: exquisite precept -->
+  <VME_MeditationSpotExtra>冥想：高效 戒律</VME_MeditationSpotExtra>
+  <!-- EN: Recreation: loved precept -->
+  <VME_ExtraJoyGain>娱乐：喜好 戒律</VME_ExtraJoyGain>
+  <!-- EN: Pâtissier role -->
+  <VME_ExtraPatissierCooking>甜点师职位</VME_ExtraPatissierCooking>
+  <!-- EN: Eldritch Corruption too low -->
+  <VME_ExtraCertaintyLoss>外神崇拜堕落值过低</VME_ExtraCertaintyLoss>
+  <!-- EN: Eldritch Corruption -->
+  <VME_NullCertaintyLoss>外神崇拜堕落值</VME_NullCertaintyLoss>
+  <!-- EN: {0} is not harbouring suicidal thoughts! -->
+  <VME_PawnMustBeSuicidal>{0}没有切腹谢罪的想法！</VME_PawnMustBeSuicidal>
+  <!-- EN: {0} must be the best melee fighter in the colony! -->
+  <VME_PawnMustBeBestMelee>{0}必须是殖民地中拥有最高格斗技能的战士！</VME_PawnMustBeBestMelee>
+  <!-- EN: An unroofed ritual spot at night. Spot must be unroofed with at least 25 unroofed cells in the area. -->
+  <VME_RitualTargetDivineTheStarsInfo>一个无屋顶遮挡且处于晚上的仪式点。场地附近需要有至少25格无屋顶的空间。</VME_RitualTargetDivineTheStarsInfo>
+  <!-- EN: A built wicker man. -->
+  <VME_WickerManInfo>一个已建造的柳条人。</VME_WickerManInfo>
+  <!-- EN: You need a prisoner to start the wicker man ritual. -->
+  <VME_CantStartWickerManRitual>你需要一名囚犯来开始柳条人火刑仪式。</VME_CantStartWickerManRitual>
+  <!-- EN: Participant must be a slave. -->
+  <VME_MessageRitualRoleMustBeSlave>参与者必须是一名奴隶。</VME_MessageRitualRoleMustBeSlave>
+  <!-- EN: Organizer and participants must be consenting adults. -->
+  <VME_NeedsAdults>组织者和参与者必须都是成年人。</VME_NeedsAdults>
+  <!-- EN: No reachable wicker man. -->
+  <VME_AbilityDisabledNoWickerMan>没有可达的柳条人。</VME_AbilityDisabledNoWickerMan>
+  <!-- EN: This ability needs to target a turret or mechanoid. -->
+  <VME_AbilityNeedsATurret>此技能必须以炮塔或机械族作为目标。</VME_AbilityNeedsATurret>
+  <!-- EN: This ability needs to target a wild or hostile insectoid. -->
+  <VME_AbilityNeedsInsect>此技能必须以野生或敌对的虫族作为目标。</VME_AbilityNeedsInsect>
+  <!-- EN: This ability needs to target an empty spot under mountain roof. -->
+  <VME_AbilityNeedsRoof>目标点位必须处在山岩顶下。</VME_AbilityNeedsRoof>
+  <!-- EN: This ability needs to target an empty spot. -->
+  <VME_AbilityNeedsSpotEmpty>目标点位不能有其他物品阻挡。</VME_AbilityNeedsSpotEmpty>
+  <!-- EN: This ability needs to target food categorized as a meal. -->
+  <VME_AbilityNeedsMeal>此技能必须以食物作为目标。</VME_AbilityNeedsMeal>
+  <!-- EN: A trader caravan has been attracted to your settlement and will arrive in approximately a day. -->
+  <VME_AbilityCaravanWillArrive>一支贸易商队将在大约1天后抵达。</VME_AbilityCaravanWillArrive>
+  <!-- EN: Meal is already a dessert. This ability needs to target a meal that isn't a dessert. -->
+  <VME_AbilityAlreadyADessert>目标食物已经是甜点了。</VME_AbilityAlreadyADessert>
+  <!-- EN: This ability needs to target a free colonist. -->
+  <VME_AbilityNeedsAColonist>此技能必须以不受限制的殖民者作为目标。</VME_AbilityNeedsAColonist>
+  <!-- EN: This ability needs to target a fresh humanoid corpse. -->
+  <VME_AbilityNeedsCorpse>此技能必须以新鲜的人类尸体作为目标。</VME_AbilityNeedsCorpse>
+  <!-- EN: {0}'s ideo lacks the Organ use: post mortem precept. Ability can't be used without it -->
+  <VME_AbilityNeedsOrganPostMortemPrecept>{0}的文化缺少“使用器官：死后收割”戒律。无法在没有此戒律的情况下施展能力。</VME_AbilityNeedsOrganPostMortemPrecept>
+  <!-- EN: Uninstall building -->
+  <VME_DeconstructBuildingLabel>卸载</VME_DeconstructBuildingLabel>
+  <!-- EN: Uninstall junk building to be able to move and reintall it. These can be caravaned out of a map, making "junk expeditions" possible -->
+  <VME_DeconstructBuildingDesc>卸载并打包这个远古残骸，以便移动或安装在其他地方。远古残骸能通过远行队来运输，这也使得四处“捡垃圾”成为了可能。</VME_DeconstructBuildingDesc>
+  <!-- EN: Cancel uninstall building -->
+  <VME_CancelDeconstructBuildingLabel>取消</VME_CancelDeconstructBuildingLabel>
+  <!-- EN: Cancel uninstall building -->
+  <VME_CancelDeconstructBuildingDesc>取消</VME_CancelDeconstructBuildingDesc>
+  <!-- EN: Last straw: cosmic horror -->
+  <VME_BreakCorruption>压倒骆驼的最后一根稻草：来自宇宙的恐怖</VME_BreakCorruption>
+  <!-- EN: Must be built on passable water. -->
+  <VME_NeedsWater>必须建造在可通过的水面上。</VME_NeedsWater>
+  <!-- EN: Fish traps must be built at least 10 tiles apart from each other. -->
+  <VME_NeedsDistance>渔网之间至少要相隔10格距离。</VME_NeedsDistance>
+  <!-- EN: This fish trap can catch small fish: -->
+  <VME_SmallFishTrapDescriptionInspect>此渔网能够捕获小型鱼：</VME_SmallFishTrapDescriptionInspect>
+  <!-- EN: Next small fish caught in -->
+  <VME_SmallFishCaughtIn>距捕获下一批小型鱼还剩：</VME_SmallFishCaughtIn>
+  <!-- EN: This fish trap can catch medium fish: -->
+  <VME_MediumFishTrapDescriptionInspect>此渔网能够捕获中型鱼：</VME_MediumFishTrapDescriptionInspect>
+  <!-- EN: Next medium fish caught in -->
+  <VME_MediumFishCaughtIn>距捕获下一批中型鱼还剩：</VME_MediumFishCaughtIn>
+  <!-- EN: This fish trap can catch large fish: -->
+  <VME_LargeFishTrapDescriptionInspect>此渔网能够捕获大型鱼：</VME_LargeFishTrapDescriptionInspect>
+  <!-- EN: Next large fish caught in -->
+  <VME_LargeFishCaughtIn>距捕获下一批大型鱼还剩：</VME_LargeFishCaughtIn>
+  <!-- EN: Catches until breaking: {0} -->
+  <VME_UsesLeftUntilItBreaks>捕获{0}次后损坏</VME_UsesLeftUntilItBreaks>
+  <!-- EN: Only adults can participate in this ritual -->
+  <VME_PawnMustBeAnAdult>只有成年人才能参加这个仪式</VME_PawnMustBeAnAdult>
+  <!-- EN: Insect nest maintenance: {0}% -->
+  <VME_Maintenance>虫巢维护值：{0}%</VME_Maintenance>
+  <!-- EN: Maintenance needed. If it reaches 0% the nest will be destroyed. -->
+  <VME_MaintenanceNeeded>需要维护。如果维护值降至0%，虫巢将会损坏。</VME_MaintenanceNeeded>
+  <!-- EN: The Queen snorts at you: "No, I don't think I will" -->
+  <VME_NotTheQueen>虫后对你嗤之以鼻：“不，我想我不愿意。”</VME_NotTheQueen>
+  <!-- EN: Could not find any valid party spot or organizer was unavailable. -->
+  <VME_NoValidPartySpot>找不到任何有效的聚会举办点或组织者不可用。</VME_NoValidPartySpot>
+  <!-- EN: You need a reasonably healthy prisoner to start the ritual -->
+  <VME_CantStartRitualNoConvertee>你需要一名健康的囚犯来开始仪式</VME_CantStartRitualNoConvertee>
+  <!-- EN: Unfortunately, {0} refused to see our reasonable ways and was sacrificed. -->
+  <VME_ViolentOutcome>不幸的是，{0}拒绝接受我们合理正确的行为准则，最终成为了牺牲品。</VME_ViolentOutcome>
+  <!-- EN: {0} saw our reasonable ways and was converted to our ideoligion. -->
+  <VME_NonViolentOutcome>{0}接受了我们合理正确的行为准则，最终皈依了我们的文化。</VME_NonViolentOutcome>
+  <!-- EN: Ritual needs to be done at night, or under any condition that lowers light below 50% globally (eclipses don't count). -->
+  <VME_RitualNeedsNightOrDarkness>仪式需要在夜晚进行，或者在全局亮度降至50%以下时进行（日蚀不包括在内）。</VME_RitualNeedsNightOrDarkness>
+  <!-- EN: Ritual needs to be done at night, and with clear weather. -->
+  <VME_RitualNeedsClearWeather>仪式需要在天气晴朗的夜晚进行。</VME_RitualNeedsClearWeather>
+  <!-- EN: Bonfire at {0}% strength -->
+  <VME_BonfireDyingIn>篝火的强度：{0}%</VME_BonfireDyingIn>
+  <!-- EN: High corruption -->
+  <VEM_HighCorruption>堕落值过高</VEM_HighCorruption>
+  <!-- EN: These people have a too high corruption need (more than 90%). If they reach 100% corruption they will get an extreme level mental break:\n\n{0} -->
+  <VEM_HighCorruptionDesc>这些人的堕落需求已经过高（超过90%）。如果堕落值达到100%，他们将立即陷入极高等级的精神崩溃状态：\n\n{0}</VEM_HighCorruptionDesc>
+  <!-- EN: Low corruption -->
+  <VEM_LowCorruption>堕落值过低</VEM_LowCorruption>
+  <!-- EN: These people have a too low corruption need (less than 10%). If they reach 0% corruption they will be easily swayed to a different ideoligion. Build obelisks to maintain their corruption need or perform Incantation rituals to increase it by 10%:\n\n{0} -->
+  <VEM_LowCorruptionDesc>这些人的堕落需求已经过低（少于10%）。如果堕落值达到0%，他们将很容易被其他文化所动摇。可通过建造不详方尖碑来阻止堕落值降低，或通过举行诅咒仪式来增加10%的堕落值：\n\n{0}</VEM_LowCorruptionDesc>
+  <!-- EN: Chunks of ancient space junk have impacted nearby. You can uninstall and move them to build your junkyard.\n\nThis event happens if you have any colonists with an ideo using the Scrapper meme. -->
+  <VME_MessageJunkChunkDrop>几块远古飞船碎片从太空掉落至附近。你可以通过卸载并移动它们来建造更大型的残骸场。\n\n此事件只会在拥有“节俭主义”模因时出现。</VME_MessageJunkChunkDrop>
+  <!-- EN: Colonist must be capable of Talking -->
+  <VME_MessageRitualRoleMustBeCapableOfSocial>殖民者必须要有说话的能力</VME_MessageRitualRoleMustBeCapableOfSocial>
+  <!-- EN: Ritual needs the Exalted Priesthood meme -->
+  <VME_NeedsExaltedPriesthood>该仪式需要崇高圣职的模因</VME_NeedsExaltedPriesthood>
+  <!-- EN: Heir changed -->
+  <VME_HeirChange>继承人变更</VME_HeirChange>
+  <!-- EN: Due to royal inheritance, {1} has been automatically designated as the heir of {0} -->
+  <VME_HeirChangeDesc>根据“荣誉头衔：继承”戒律，{1}已自动被指定为{0}的荣誉头衔继承人。</VME_HeirChangeDesc>
+  <!-- EN: 200 silver needs to be found in stockpiles near a trading beacon for the fair to bot be considered "cheap" -->
+  <VME_CheapTradingFair>至少需要放置200白银在轨道交易信标附近，否则会被认定为“敷衍的贸易展会”</VME_CheapTradingFair>
+  <!-- Mod options -->
+  <!-- EN: Reset -->
+  <!-- EN: max memes -->
+  <!-- EN: max rituals -->
+  <!-- EN: max styles -->
+  <!-- EN: max relics -->
+  <!-- EN: max buildings -->
+  <!-- EN: Max number of memes allowed (default is 4) -->
+  <!-- EN: Max number of memes allowed. Note that this only applies to player ideoligions. -->
+  <!-- EN: Max number non-meme specific rituals allowed (default is 6) (requires game reload) -->
+  <!-- EN: Max number non-meme specific rituals allowed. Rituals that are forced by a meme USUALLY don't count towards this limit, though there can be exceptions (requires game reload). -->
+  <!-- EN: Max number of ideo visual styles allowed (default is 3) (requires game reload) -->
+  <!-- EN: Max number of ideo visual styles allowed. Note that we set this to start in the mod as 5 by default, up from base game's 3, because we add quite a lot of them (requires game reload). -->
+  <!-- EN: Max number of ideo relics allowed (default is 3) -->
+  <!-- EN: Max number of ideo relics allowed -->
+  <!-- EN: Max number of ideo buildings allowed (default is 2) -->
+  <!-- EN: Max number of ideo buildings allowed. This includes altars, pictograms and such, but not buildings added through memes. -->
+  <!-- EN: Allow high impact memes for fluid ideos -->
+  <VME_AllowHighImpactMemesForFluidIdeos>允许演进文化选择高影响度模因</VME_AllowHighImpactMemesForFluidIdeos>
+  <!-- EN: By default, fluid ideos only let you choose one meme with impact 1 or 2, blocking impact 3 memes from being chosen. With this option toggle you can make it so impact 3 memes are available too. -->
+  <VME_AllowHighImpactMemesForFluidIdeos_Tooltip>默认情况下，演进文化仅允许你选择一个影响度为1或2的模因，而影响度为3的模因则被禁用了。如果启用此项，则将可以选择影响度为3的模因。</VME_AllowHighImpactMemesForFluidIdeos_Tooltip>
+  <!-- EN: No warden is capable of this recruitment. -->
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>没有能胜任招募工作的狱卒。</VFEAncients.MessageNoWardenCapableOfRecruitment>
+  <!-- EN: Interrogation Success -->
+  <VFEAncients.InterrogationSuccess>审讯成功</VFEAncients.InterrogationSuccess>
+  <!-- EN: {0} has successfully interrogated {1}, who has revealed the location of {2}. -->
+  <VFEAncients.InterrogationSuccessDetail>{0}已成功对{1}进行了审讯。{1}向我们揭示了地点{2}。</VFEAncients.InterrogationSuccessDetail>
+  <!-- EN: Interrogation failed! -->
+  <VFEAncients.InterrogationFailure>审讯失败！</VFEAncients.InterrogationFailure>
+</LanguageData>

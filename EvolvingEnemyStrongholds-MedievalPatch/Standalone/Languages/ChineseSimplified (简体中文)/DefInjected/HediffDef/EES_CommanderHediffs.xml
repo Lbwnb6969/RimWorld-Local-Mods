@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_MarksmanAura.label>神射手的指挥</EES_MarksmanAura.label>
+  <EES_MarksmanAura.description>在神射手军官的指挥下，射击命中率提升。</EES_MarksmanAura.description>
+  <EES_AssaultAura.label>突击指挥</EES_AssaultAura.label>
+  <EES_AssaultAura.description>在突击队长的指挥下，机动性提升。</EES_AssaultAura.description>
+  <EES_WarlordProtected.label>军阀的庇护</EES_WarlordProtected.label>
+  <EES_WarlordProtected.description>军阀存活时，受到的伤害降低(×0.75)。</EES_WarlordProtected.description>
+  <EES_WarlordExposed.label>军阀已倒下</EES_WarlordExposed.label>
+  <EES_WarlordExposed.description>军阀被击倒后，士气崩溃，受到的伤害激增(×2.5)。</EES_WarlordExposed.description>
+</LanguageData>

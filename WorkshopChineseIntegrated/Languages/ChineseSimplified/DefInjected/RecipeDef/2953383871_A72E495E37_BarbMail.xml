@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_MakeMail.label>制作 蛮族锁子甲 I</pphhyy_Barbarian_MakeMail.label>
+  <pphhyy_Barbarian_MakeMail.description>制作蛮族锁子甲 I</pphhyy_Barbarian_MakeMail.description>
+  <pphhyy_Barbarian_MakeMail.jobString>正在制作蛮族锁子甲 I。</pphhyy_Barbarian_MakeMail.jobString>
+
+  <pphhyy_Barbarian_MakeMailII.label>制作 蛮族锁子甲 II</pphhyy_Barbarian_MakeMailII.label>
+  <pphhyy_Barbarian_MakeMailII.description>制作蛮族锁子甲 II</pphhyy_Barbarian_MakeMailII.description>
+  <pphhyy_Barbarian_MakeMailII.jobString>正在制作蛮族锁子甲 II。</pphhyy_Barbarian_MakeMailII.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- drawbridge -->
+  <!-- EN: drawbridge up -->
+  <sd_bridges.drawbridge_up_Lable>吊桥</sd_bridges.drawbridge_up_Lable>
+  <!-- EN: double drawbridge up -->
+  <sd_bridges.doubledrawbridge_up_Lable>双吊桥</sd_bridges.doubledrawbridge_up_Lable>
+  <!-- EN: Click to pull drawbridge up -->
+  <sd_bridges.drawbridge_up_Desc>点击拉起吊桥</sd_bridges.drawbridge_up_Desc>
+  <!-- EN: Click to pull double drawbridge up -->
+  <sd_bridges.doubledrawbridge_up_Desc>点击拉起双吊桥</sd_bridges.doubledrawbridge_up_Desc>
+  <!-- EN: drawbridge down -->
+  <sd_bridges.drawbridge_down_Lable>放下吊桥</sd_bridges.drawbridge_down_Lable>
+  <!-- EN: double drawbridge down -->
+  <sd_bridges.doubledrawbridge_down_Lable>双吊桥下</sd_bridges.doubledrawbridge_down_Lable>
+  <!-- EN: Click to let drawbridge down -->
+  <sd_bridges.drawbridge_down_Desc>点击放下吊桥</sd_bridges.drawbridge_down_Desc>
+  <!-- EN: Click to let double drawbridge down -->
+  <sd_bridges.doubledrawbridge_down_Desc>点击让双吊桥下来</sd_bridges.doubledrawbridge_down_Desc>
+  <!-- EN: Not both tiles are water! (the bridge down needs water tiles below. up it needs 1 below and the one in front.) -->
+  <sd_bridges_drawbridge_not_both_water>不是两块的瓷砖都是水!(向下的桥需要下面的水砖。向上的桥需要下面的一块和前面的两块。)</sd_bridges_drawbridge_not_both_water>
+  <!-- EN: Not all tiles are water! (the bridge down needs water tiles below. up it needs 1 below and the two in front.) -->
+  <sd_bridges_doubledrawbridge_not_both_water>不是所有的瓷砖都是水!(向下的桥需要下面的水砖。向上的桥需要下面的一块和前面的两块。)</sd_bridges_doubledrawbridge_not_both_water>
+  <!-- placeworkers desc-->
+  <!-- EN: Must be placed on water or marsh terrain. -->
+  <sd_bridges_placeworker_drawbridge_desc>必须放置在水域或者沼泽地形上。</sd_bridges_placeworker_drawbridge_desc>
+  <!-- EN: Must be placed on water or marsh terrain. -->
+  <sd_bridges_placeworker_doubledrawbridge_desc>必须放置在水面或沼泽地形上。</sd_bridges_placeworker_doubledrawbridge_desc>
+  <!-- EN: Can not be placed on deep water. Terraform first. -->
+  <sd_bridges_placeworker_FundamentBaseNotInDeepWater_desc>不能直接放置在深水上。</sd_bridges_placeworker_FundamentBaseNotInDeepWater_desc>
+  <!-- EN: Must be placed on a foundation. -->
+  <sd_bridges_placeworker_OnFundamentBasis_desc>必须放在地基上。</sd_bridges_placeworker_OnFundamentBasis_desc>
+  <!-- EN: Must be placed on shallow water. -->
+  <sd_bridges_placeworker_OnShallowWater_desc>必须放置在浅水上。</sd_bridges_placeworker_OnShallowWater_desc>
+  <!-- EN: This is already shallow water. -->
+  <sd_bridges_placeworker_NotOnShallowWater_desc>这里已经是浅水了。</sd_bridges_placeworker_NotOnShallowWater_desc>
+  <!-- EN: You can not place pontoon bridges on foundations. -->
+  <sd_bridges_placeworker_notonfoundation_desc>你不能在地基上放置浮桥。</sd_bridges_placeworker_notonfoundation_desc>
+</LanguageData>

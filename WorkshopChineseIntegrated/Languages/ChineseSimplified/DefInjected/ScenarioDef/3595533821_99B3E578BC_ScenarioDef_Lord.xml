@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Adventurous noble -->
+  <BA_Scenario_Furst.label>冒险亲王</BA_Scenario_Furst.label>
+  <!-- EN: Born to privilege yet tempered by hardship, you are a noble of the frontier — a Fürst whose blood carries both the refinement of courts and the endurance of the open plains. Your peasants trust your leadership, and your steel commands respect.  Now, far from the empire’s heart, you seek to carve your own dominion from untamed lands.  Will your fledgling settlement become a beacon of civilization, or be swallowed by the wilds?  \nNote: A balanced medieval RimWorld experience featuring a noble-led settlement.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_Scenario_Furst.description>你出身特权阶层，却历经磨难磨砺，身为边境贵族——一名亲王，血脉中既流淌着宫廷的优雅，也蕴含着旷野的坚韧。你的农民信赖你的领导力，你的利剑赢得了他人的敬畏。如今，在远离帝国核心的地方，你立志在未开化的土地上开拓属于自己的领地。你的新兴聚落终将成为文明的灯塔，还是被荒野吞噬？\n注：以亲王领导聚落为特色的平衡型中世纪《环世界》体验。</BA_Scenario_Furst.description>
+  <!-- EN: Born to privilege yet tempered by hardship, you are a noble of the frontier — a Fürst whose blood carries both the refinement of courts and the endurance of the open plains. Your peasants trust your leadership, and your steel commands respect.  Now, far from the empire’s heart, you seek to carve your own dominion from untamed lands.  Will your fledgling settlement become a beacon of civilization, or be swallowed by the wilds?  \nNote: A balanced medieval RimWorld experience featuring a noble-led settlement. -->
+  <BA_Scenario_Furst.scenario.description>你出身特权阶层，却历经磨难磨砺，身为边境贵族——一名亲王，血脉中既流淌着宫廷的优雅，也蕴含着旷野的坚韧。你的农民信赖你的领导力，你的利剑赢得了他人的敬畏。如今，在远离帝国核心的地方，你立志在未开化的土地上开拓属于自己的领地。你的新兴聚落终将成为文明的灯塔，还是被荒野吞噬？\n注：以亲王领导聚落为特色的平衡型中世纪《环世界》体验。</BA_Scenario_Furst.scenario.description>
+  <!-- EN: Adventurous noble -->
+  <BA_Scenario_Furst.scenario.name>冒险亲王</BA_Scenario_Furst.scenario.name>
+  <!-- EN: The journey from the heartlands has been long and harsh. The empire’s paved roads gave way to wild meadows and wind-beaten hills, where only the bold dare to settle.  At last, you and your small band of peasants have found a place to call your own. Here, far from the noble courts, titles mean little — only strength and resolve matter.  As dawn breaks over the frontier, you mark the first stone of your new holding.  Your Fürstdom begins today — a fragile spark of civilization at the edge of the empire. -->
+  <BA_Scenario_Furst.scenario.parts.GameStartDialog.text>从帝国核心区出发的旅途漫长而艰辛。帝国的石板路渐渐被荒野草地和狂风肆虐的山丘取代，这里唯有勇者敢在此定居。终于，你和身边为数不多的农民找到了一片可以称之为家的土地。在这片远离贵族宫廷的地方，头衔毫无意义——唯有力量与决心才是根本。当边境迎来黎明，你为你的新领地立下第一块基石。你的亲王领地从今日启程——它是帝国边缘一抹脆弱的文明火种。</BA_Scenario_Furst.scenario.parts.GameStartDialog.text>
+  <!-- EN: One Fürst and two peasants. -->
+  <BA_Scenario_Furst.scenario.summary>一名亲王与两名农民。</BA_Scenario_Furst.scenario.summary>
+  
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: specific pawn kind joins -->
+  <O21_SpecificPawnKindJoins.label>特殊单位加入</O21_SpecificPawnKindJoins.label>
+  
+  <!-- EN: reinforcement joins -->
+  <TabulaRasa_ReinforcementJoins.label>援军加入</TabulaRasa_ReinforcementJoins.label>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vial stasis depository -->
+  <BEWH_GeneseedVialStorage.label>原液静滞库</BEWH_GeneseedVialStorage.label>
+  <!-- EN: A stasis vault designed to preserve Ascendance Vials in a state of suspended animation. It safeguards the volatile contents from degradation, time drift, and warp corruption, ensuring they remain viable for implantation.\n\nAble to holster 6 Ascendance Vials, keeping them safe and preventing deterioration. -->
+  <BEWH_GeneseedVialStorage.description>专为保存升华原液设计的静滞储存库，它能使内容物处于时间停滞状态。保护易变物质免受衰变、时流偏移及亚空间污染，确保植入活性。\n\n可容纳6支升华原液，防止其劣化。</BEWH_GeneseedVialStorage.description>
+  
+  <!-- EN: genetic matrix storage -->
+  <BEWH_GeneticCryostaticStorage.label>基因矩阵冷存柜</BEWH_GeneticCryostaticStorage.label>
+  <!-- EN: A secure containment unit designed to preserve Genetic Matrices in stasis, shielding them from environmental degradation and the corrupting influence of the Immaterium. Essential for maintaining their integrity.\n\nAble to holster 6 Genetic matrices, keeping them safe and preventing deterioration. -->
+  <BEWH_GeneticCryostaticStorage.description>用于静滞保存基因矩阵的密封储存单元，能抵御环境侵蚀与非物质界的腐化影响，对维持矩阵完整性至关重要。\n\n可安全存放6份基因矩阵，防止其劣化。</BEWH_GeneticCryostaticStorage.description>
+  
+  <!-- EN: primarch embryo container -->
+  <BEWH_PrimarchEmbryoContainer.label>原体胚胎圣柜</BEWH_PrimarchEmbryoContainer.label>
+  <!-- EN: A specialized containment unit equipped with advanced life-support systems. It can hold a single Primarch embryo cluster, keeping it stable and preventing rapid deterioration. -->
+  <BEWH_PrimarchEmbryoContainer.description>配备先进维生系统的特种容器，可稳定保存单组原体胚胎簇，防止快速衰变。</BEWH_PrimarchEmbryoContainer.description>
+  
+  <!-- EN: Sangprimus Portum vault -->
+  <BEWH_SangprimusPortum.label>原血之栈</BEWH_SangprimusPortum.label>
+  <!-- EN: This device replicates the function of the sanctified Sangprimus Portum. However, it does not contain the full range of genetic materials by default and must be filled with specific Legion and Primarch materials. Once filled, it enables the creation of gene-seed with the chosen traits when linked to a Gene-seed Gestator.\n\nWhilst near a gestator it is able to duplicate the material within to complete the matrices of Firstborn, Primaris and Primarchs.\nCan only store one copy of each material. -->
+  <BEWH_SangprimusPortum.description>此装置复现了原血之栈的功能，但并不包含全套基因材料，需要填充特定战团及原体的遗传物质。连接至基因种子培育器后，可根据所选性状制造基因种子。\n\n放置在培育器旁边的时候能复制其中材料，用于补全原铸星际战士、初代星际战士与基因原体的基因矩阵。\n每种材料仅可存储一份。</BEWH_SangprimusPortum.description>
+  
+</LanguageData>

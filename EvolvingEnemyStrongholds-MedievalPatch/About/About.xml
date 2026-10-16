@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Evolving Enemy Strongholds - Local Medieval Overhaul</name>
+  <author>Local integration; original EES by wowgag</author>
+  <packageId>Local.EvolvingEnemyStrongholds.MedievalPatch</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Local-only source-built EES with medieval faction, settlement progression, reward, and compatibility support. Original EES code and resources are credited to wowgag. The local core loads when Workshop EES is inactive; do not redistribute this integration without resolving the original permissions.</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>DankPyon.Medieval.Overhaul</packageId>
+      <displayName>Medieval Overhaul</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3219596926</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>OskarPotocki.VFE.Medieval2</packageId>
+      <displayName>Vanilla Factions Expanded - Medieval 2</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3444347874</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Gideon.CastleWalls</packageId>
+      <displayName>Castle Walls Reborn</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3256542892</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>wowgag.EvolvingEnemyStrongholds</li>
+    <li>DankPyon.Medieval.Overhaul</li>
+    <li>OskarPotocki.VFE.Medieval2</li>
+    <li>Gideon.CastleWalls</li>
+    <li>Phonicmas.RimDark.MankindsFinest</li>
+    <li>athelas.medievalkingdoms.core</li>
+    <li>athelas.medievalkingdoms.theturks</li>
+    <li>athelas.medievalkingdoms.poland</li>
+    <li>athelas.medievalkingdoms.hre</li>
+    <li>athelas.medievalkingdoms.byzantium</li>
+    <li>athelas.medievalkingdoms.france</li>
+    <li>athelas.medievalkingdoms.iberia</li>
+    <li>athelas.medievalkingdoms.mongols</li>
+    <li>athelas.medievalkingdoms.shogunate</li>
+  </loadAfter>
+</ModMetaData>

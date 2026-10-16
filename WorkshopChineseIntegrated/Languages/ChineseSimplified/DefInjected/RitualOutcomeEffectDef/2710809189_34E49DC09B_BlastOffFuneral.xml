@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AM_BlastOffFuneralOutcome.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</AM_BlastOffFuneralOutcome.description>
+  <!-- EN: moral guide present -->
+  <AM_BlastOffFuneralOutcome.comps.0.label>传道者出席</AM_BlastOffFuneralOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <AM_BlastOffFuneralOutcome.comps.1.label>参与者数量</AM_BlastOffFuneralOutcome.comps.1.label>
+  <!-- EN: The {RITUAL} spectacular! {CORPSE} has reached the stars, which led a trade ship to come investigate! -->
+  <AM_BlastOffFuneralOutcome.modExtensions.0.bestOutcomeDesc>{RITUAL}非常完美！装有{CORPSE}的运输舱已抵达星空，一艘商船也因此被吸引了过来！</AM_BlastOffFuneralOutcome.modExtensions.0.bestOutcomeDesc>
+  <!-- EN: The {RITUAL} was a disaster! Not only did {CORPSE} not reach the stars, they landed in {SETTLEMENT} causing a diplomatic disaster! -->
+  <AM_BlastOffFuneralOutcome.modExtensions.0.worstOutcomeDesc>{RITUAL}糟糕透顶！装有{CORPSE}的运输舱偏离了航线，并降落在了定居点{SETTLEMENT}里！这次事故对我们双方的关系造成了恶劣影响！</AM_BlastOffFuneralOutcome.modExtensions.0.worstOutcomeDesc>
+  <!-- EN: Terrible -->
+  <AM_BlastOffFuneralOutcome.outcomeChances.0.label>糟糕的</AM_BlastOffFuneralOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! They came back down on a nearby settlement who are now furious. -->
+  <AM_BlastOffFuneralOutcome.outcomeChances.0.description>{0}非常糟糕！运输舱被发射到了附近的定居点，那里的住民对此表示十分愤怒！</AM_BlastOffFuneralOutcome.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <AM_BlastOffFuneralOutcome.outcomeChances.1.label>枯燥乏味的</AM_BlastOffFuneralOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. We think they didn't even reach the atmosphere! Some swear they saw them come back down. -->
+  <AM_BlastOffFuneralOutcome.outcomeChances.1.description>{0}枯燥乏味。我们认为运输舱根本就没有飞出大气层，部分人也很确信自己看到运输舱落回了地表！</AM_BlastOffFuneralOutcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AM_BlastOffFuneralOutcome.outcomeChances.2.label>令人满意的</AM_BlastOffFuneralOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The speaker's final words were satisfying, and the smell of chemfuel was the perfect sendoff. -->
+  <AM_BlastOffFuneralOutcome.outcomeChances.2.description>{0}令人满意。演讲者的结束语恰到好处，化合燃料的气味正是我们对死者最好的送别。</AM_BlastOffFuneralOutcome.outcomeChances.2.description>
+  <!-- EN: Amazing -->
+  <AM_BlastOffFuneralOutcome.outcomeChances.3.label>令人惊异的</AM_BlastOffFuneralOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was heartwarming. The speech was captivating and heartfelt, and we swear we saw them reach the sun. -->
+  <AM_BlastOffFuneralOutcome.outcomeChances.3.description>{0}令人惊异。演讲感人肺腑，我们也确信自己看到运输舱抵达了太阳。</AM_BlastOffFuneralOutcome.outcomeChances.3.description>
+  
+</LanguageData>

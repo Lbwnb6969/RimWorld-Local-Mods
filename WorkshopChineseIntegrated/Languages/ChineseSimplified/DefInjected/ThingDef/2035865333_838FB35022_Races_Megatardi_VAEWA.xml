@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megatardi -->
+  <VAEWaste_Megatardi.label>巨型水熊虫</VAEWaste_Megatardi.label>
+  <!-- EN: The Megatardi is a massive and curious creature, mutated from its tiny tardigrade origins to become a behemoth of the wasteland. Though slow and blind, it requires very little sustenance to survive and can consume even the most toxic wastepacks. With its six legs, the Megatardi is an impressive sight, and its gentle nature makes it a popular pack animal among those brave enough to venture into the polluted world. Though it is easily tamed, the Megatardi is not without its dangers. Upon its death, it releases a cloud of toxic gas, making it a potential hazard for anyone nearby. Despite this, the Megatardi remains a valuable asset for those willing to take on the challenges of the polluted wasteland. -->
+  <VAEWaste_Megatardi.description>已对污染和毒素产生抗性的突变生物。这些在废土中四处游荡的古怪巨兽原本只是最长不过1.5毫米的微小存在。虽然它们步履迟缓且没有视觉器官，但仅需极少量的营养就能生存，在必要时还可以将有毒垃圾当做食物。巨型水熊虫生性温和、易于驯服，其标志性的六条腿异常粗壮有力，不过被杀死后会释放出有害的毒气。尽管存在安全隐患，可对那些常年与危险相伴的废土客们来说，它们仍是具有价值的优秀驮运动物。\n\n巨型水熊虫的肉有毒，请三思而后食。</VAEWaste_Megatardi.description>
+  <!-- EN: mandibles -->
+  <VAEWaste_Megatardi.tools.mandibles.label>口器</VAEWaste_Megatardi.tools.mandibles.label>
+  <!-- EN: head -->
+  <VAEWaste_Megatardi.tools.head.label>头</VAEWaste_Megatardi.tools.head.label>
+  
+</LanguageData>

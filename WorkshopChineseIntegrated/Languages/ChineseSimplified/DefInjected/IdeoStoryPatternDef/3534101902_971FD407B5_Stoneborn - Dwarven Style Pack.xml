@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LeaderTitleMaker_Stoneborn.rulePack.rulesStrings.0>r_leaderTitle-&gt;深渊领主</LeaderTitleMaker_Stoneborn.rulePack.rulesStrings.0>
+
+
+    <!-- final fallbacks (when no memes selected yet) -->
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.0>lesson(priority=-1)-&gt;事情发生</DV_Structure_Dwarven_Description.rules.rulesStrings.0>
+    <!-- typesetting -->
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.1>r_pattern-&gt;"[r_dwarfLessonIntro] [r_lesson]。 [r_lessonReinforcement] [r_dwarfLessonReinforcement]"\n\n  - [lessonAttribution]</DV_Structure_Dwarven_Description.rules.rulesStrings.1>
+    <!-- attribution -->
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.2>lessonAttribution-&gt;一个[edited][saga]片段被发现[museum]</DV_Structure_Dwarven_Description.rules.rulesStrings.2>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.3>edited-&gt;损坏的</DV_Structure_Dwarven_Description.rules.rulesStrings.3>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.4>edited-&gt;误会的</DV_Structure_Dwarven_Description.rules.rulesStrings.4>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.5>edited-&gt;古老的</DV_Structure_Dwarven_Description.rules.rulesStrings.5>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.6>edited-&gt;遗忘的</DV_Structure_Dwarven_Description.rules.rulesStrings.6>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.7>edited-&gt;保留的</DV_Structure_Dwarven_Description.rules.rulesStrings.7>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.8>saga-&gt;符文板</DV_Structure_Dwarven_Description.rules.rulesStrings.8>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.9>saga-&gt;技术卷轴遗物</DV_Structure_Dwarven_Description.rules.rulesStrings.9>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.10>saga-&gt;古代诗篇</DV_Structure_Dwarven_Description.rules.rulesStrings.10>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.11>saga-&gt;饮酒歌</DV_Structure_Dwarven_Description.rules.rulesStrings.11>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.12>museum-&gt;在一个睿智的怨灵看守者心灵中</DV_Structure_Dwarven_Description.rules.rulesStrings.12>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.13>museum-&gt;在一把斧头上，繁复的雕刻着</DV_Structure_Dwarven_Description.rules.rulesStrings.13>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.14>museum-&gt;在毁坏的贡达巴德山主峰的熔炉中</DV_Structure_Dwarven_Description.rules.rulesStrings.14>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.15>museum-&gt;在格茹尼的宏伟大厅中</DV_Structure_Dwarven_Description.rules.rulesStrings.15>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.16>museum-&gt;在阿马达尔的卷轴架里</DV_Structure_Dwarven_Description.rules.rulesStrings.16>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.17>museum-&gt;在孤山的一座雕像上</DV_Structure_Dwarven_Description.rules.rulesStrings.17>
+    <!-- generic intro -->
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.18>dwarfLessonIntro-&gt;在格茹尼的铁砧上，这些传说被锻造:</DV_Structure_Dwarven_Description.rules.rulesStrings.18>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.19>dwarfLessonIntro-&gt;由奥利图夫《时代》所记载，这些卷轴讲述:</DV_Structure_Dwarven_Description.rules.rulesStrings.19>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.20>dwarfLessonIntro-&gt;愿福日格拉姆的手与铁砧教会你这个:</DV_Structure_Dwarven_Description.rules.rulesStrings.20>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.21>dwarfLessonIntro-&gt;因为贝尔约恩的话语而在苍穹与群星间响起:</DV_Structure_Dwarven_Description.rules.rulesStrings.21>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.22>dwarfLessonIntro-&gt;随着每一次镐的敲击，马哈尔的关照:</DV_Structure_Dwarven_Description.rules.rulesStrings.22>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.23>dwarfLessonIntro-&gt;汤姆卡尔的冻结之拥既能致命又能致残，但它也会关照:</DV_Structure_Dwarven_Description.rules.rulesStrings.23>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.24>dwarfLessonIntro-&gt;通过奧吉特的邪恶罪行，我们传播了这个信息:</DV_Structure_Dwarven_Description.rules.rulesStrings.24>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.25>dwarfLessonIntro-&gt;在卢加尔领域的岩石子宫里，她告诉了我们一切:</DV_Structure_Dwarven_Description.rules.rulesStrings.25>
+    <!-- generic reinforcement -->
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.26>dwarfLessonReinforcement-&gt;因为格茹尼的胡须保佑我们。</DV_Structure_Dwarven_Description.rules.rulesStrings.26>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.27>dwarfLessonReinforcement-&gt;随着你的努力，熔炉明亮的燃烧。</DV_Structure_Dwarven_Description.rules.rulesStrings.27>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.28>dwarfLessonReinforcement-&gt;随着你的力量，矿井扩张得更大。</DV_Structure_Dwarven_Description.rules.rulesStrings.28>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.29>dwarfLessonReinforcement-&gt;随着你的呼喊，大厅变得令人愉悦。</DV_Structure_Dwarven_Description.rules.rulesStrings.29>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.30>dwarfLessonReinforcement-&gt;福日吉拉姆在世界之刃上刻下了你的名字。</DV_Structure_Dwarven_Description.rules.rulesStrings.30>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.31>dwarfLessonReinforcement-&gt;贝尔约恩的力量支撑着行善的人。</DV_Structure_Dwarven_Description.rules.rulesStrings.31>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.32>dwarfLessonReinforcement-&gt;愿汤姆卡尔的霜雪让我们更加亲近..</DV_Structure_Dwarven_Description.rules.rulesStrings.32>
+    <DV_Structure_Dwarven_Description.rules.rulesStrings.33>lessonReinforcement-&gt;所以这个故事会活下去。</DV_Structure_Dwarven_Description.rules.rulesStrings.33>
+
+</LanguageData>

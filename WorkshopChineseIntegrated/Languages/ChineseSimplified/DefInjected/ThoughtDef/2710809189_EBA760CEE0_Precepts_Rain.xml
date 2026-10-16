@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: it's raining -->
+  <AM_Rain_Blessed.stages.its_raining.label>降雨</AM_Rain_Blessed.stages.its_raining.label>
+  <!-- EN: Rain is a blessing, purifying our souls with its sacred touch. -->
+  <AM_Rain_Blessed.stages.its_raining.description>雨是上天降下的祝福，其神圣的触碰能涤净我们的灵魂。</AM_Rain_Blessed.stages.its_raining.description>
+  
+  <!-- EN: it's raining -->
+  <AM_Rain_Disliked.stages.its_raining.label>降雨</AM_Rain_Disliked.stages.its_raining.label>
+  <!-- EN: The rain weighs on me, bringing discomfort and longing for the sun. -->
+  <AM_Rain_Disliked.stages.its_raining.description>沉重的雨令我们倍感不适。我们渴望太阳重现于天。</AM_Rain_Disliked.stages.its_raining.description>
+  
+</LanguageData>

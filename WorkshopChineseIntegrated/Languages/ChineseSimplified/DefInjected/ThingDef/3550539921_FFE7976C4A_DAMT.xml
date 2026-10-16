@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: butchering tools -->
+  <DA_ButcheringTools.label>屠宰工具组</DA_ButcheringTools.label>
+  <DA_ButcheringTools.description>摆放锋利刀具的工作台。放置在屠宰台附近时可提升作业效率。</DA_ButcheringTools.description>
+
+  <!-- EN: stonecutting tools -->
+  <DA_StonecuttingTools.label>石雕工具组</DA_StonecuttingTools.label>
+  <DA_StonecuttingTools.description>配备钝器的工作台，能更轻松地破碎石料。放置在石雕台附近时可提升作业效率。</DA_StonecuttingTools.description>
+
+  <!-- EN: tailoring tools -->
+  <DA_TailoringTools.label>缝纫工具组</DA_TailoringTools.label>
+  <DA_TailoringTools.description>提供全套缝纫辅助工具的工作台。放置在缝纫台附近时可提升作业效率。</DA_TailoringTools.description>
+
+  <!-- EN: mixing barrel -->
+  <DA_MixingBarrel.label>混合酒桶</DA_MixingBarrel.label>
+  <DA_MixingBarrel.description>用于混合啤酒花制作麦芽汁的木桶。放置在酿酒坊附近时可提升作业效率。</DA_MixingBarrel.description>
+
+  <!-- EN: medieval crane -->
+  <DA_MedievalCrane.label>中世纪起重架</DA_MedievalCrane.label>
+  <DA_MedievalCrane.description>坚固的木制起重装置，用于吊运地下开采的大型矿石。放置在矿井竖井附近时可提升作业效率。</DA_MedievalCrane.description>
+
+  <!-- EN: Pottery tools -->
+  <DA_PotteryTools.label>陶艺工具组</DA_PotteryTools.label>
+  <DA_PotteryTools.description>配备雕刻工具的工作台，用于辅助塑形陶器。放置在陶轮附近时可提升作业效率。</DA_PotteryTools.description>
+
+  <!-- EN: building hammer -->
+  <DA_MeleeWeapon_Hammer.label>建筑锤</DA_MeleeWeapon_Hammer.label>
+  <DA_MeleeWeapon_Hammer.description>头部沉重的柄装工具，用于建筑施工。</DA_MeleeWeapon_Hammer.description>
+  <DA_MeleeWeapon_Hammer.tools.0.label>握柄</DA_MeleeWeapon_Hammer.tools.0.label>
+  <DA_MeleeWeapon_Hammer.tools.1.label>锤头</DA_MeleeWeapon_Hammer.tools.1.label>
+  <!-- EN: bonesaw -->
+  <DA_MeleeWeapon_Hacksaw.label>骨锯</DA_MeleeWeapon_Hacksaw.label>
+  <DA_MeleeWeapon_Hacksaw.description>由锋利锯齿刀片构成的简陋医疗工具，常用于锯除感染肢体。</DA_MeleeWeapon_Hacksaw.description>
+  <DA_MeleeWeapon_Hacksaw.tools.0.label>握柄</DA_MeleeWeapon_Hacksaw.tools.0.label>
+  <DA_MeleeWeapon_Hacksaw.tools.1.label>刀片</DA_MeleeWeapon_Hacksaw.tools.1.label>
+  <!-- EN: pickaxe -->
+  <DA_MeleeWeapon_Pickaxe.label>镐头</DA_MeleeWeapon_Pickaxe.label>
+  <DA_MeleeWeapon_Pickaxe.description>带有锋利T形头部的重型工具，可轻松破碎石材。</DA_MeleeWeapon_Pickaxe.description>
+  <DA_MeleeWeapon_Pickaxe.tools.0.label>握柄</DA_MeleeWeapon_Pickaxe.tools.0.label>
+  <DA_MeleeWeapon_Pickaxe.tools.1.label>镐头</DA_MeleeWeapon_Pickaxe.tools.1.label>
+  <!-- EN: meat cleaver -->
+  <DA_MeleeWeapon_Cleaver.label>切肉刀</DA_MeleeWeapon_Cleaver.label>
+  <DA_MeleeWeapon_Cleaver.description>配备大型刀片的工具，能更高效地斩切肉类与骨头。</DA_MeleeWeapon_Cleaver.description>
+  <DA_MeleeWeapon_Cleaver.tools.0.label>握柄</DA_MeleeWeapon_Cleaver.tools.0.label>
+  <DA_MeleeWeapon_Cleaver.tools.1.label>刀片</DA_MeleeWeapon_Cleaver.tools.1.label>
+  <!-- EN: scythe -->
+  <DA_MeleeWeapon_Scythe.label>镰刀</DA_MeleeWeapon_Scythe.label>
+  <DA_MeleeWeapon_Scythe.description>带有长柄弯刃的双手工具，用于田间收割作业。</DA_MeleeWeapon_Scythe.description>
+  <DA_MeleeWeapon_Scythe.tools.0.label>握柄</DA_MeleeWeapon_Scythe.tools.0.label>
+  <DA_MeleeWeapon_Scythe.tools.1.label>刀片</DA_MeleeWeapon_Scythe.tools.1.label>
+  <!-- EN: broom -->
+  <DA_MeleeWeapon_Broom.label>扫帚</DA_MeleeWeapon_Broom.label>
+  <DA_MeleeWeapon_Broom.description>干草捆扎于木柄制成的清洁工具，结构简单但高效实用。</DA_MeleeWeapon_Broom.description>
+  <DA_MeleeWeapon_Broom.tools.0.label>握柄</DA_MeleeWeapon_Broom.tools.0.label>
+  <DA_MeleeWeapon_Broom.tools.1.label>刷头</DA_MeleeWeapon_Broom.tools.1.label>
+  <!-- EN: guard baton -->
+  <DA_MeleeWeapon_GuardBaton.label>镇暴棍</DA_MeleeWeapon_GuardBaton.label>
+  <DA_MeleeWeapon_GuardBaton.description>金属加固的木制警棍，专为制造脑震荡效果及镇压囚犯设计。</DA_MeleeWeapon_GuardBaton.description>
+  <DA_MeleeWeapon_GuardBaton.tools.0.label>握柄</DA_MeleeWeapon_GuardBaton.tools.0.label>
+  <DA_MeleeWeapon_GuardBaton.tools.1.label>棍头</DA_MeleeWeapon_GuardBaton.tools.1.label>
+
+</LanguageData>

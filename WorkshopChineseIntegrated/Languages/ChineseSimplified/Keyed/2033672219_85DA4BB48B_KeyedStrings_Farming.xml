@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Automatically designate the specified area around this {0}. -->
+  <VFEF_CommandMakeCompAreaDesc>自动在{0}周围创建特定区域。</VFEF_CommandMakeCompAreaDesc> <!-- {0} is the parent building's label -->
+	<!-- EN: Designate feeding area -->
+  <VFEF_CommandMakeCompAreaLabel>创建饲喂区</VFEF_CommandMakeCompAreaLabel> <!-- {0} is the parent building's label -->
+	<!-- EN: Scare colony animals -->
+  <VFEF_ScarecrowGizmo>惊吓\n殖民地动物</VFEF_ScarecrowGizmo>
+	<!-- EN: Allow to choose if this scarecrow should make your colony animal flee -->
+  <VFEF_ScarecrowGizmoText>设置此稻草人是否会惊吓殖民地饲养的动物。</VFEF_ScarecrowGizmoText>
+</LanguageData>

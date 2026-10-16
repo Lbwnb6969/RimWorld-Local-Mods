@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anonymity violated -->
+  <VME_NeedAnonymity.stages.anonymity_violated.label>完全暴露</VME_NeedAnonymity.stages.anonymity_violated.label>
+  <!-- EN: They know everything, I’m an open book, entirely vulnerable and without a shred of nuance. -->
+  <VME_NeedAnonymity.stages.anonymity_violated.description>他们全都知道了...我就像一本被打开的书，所有的一切都暴露无遗。</VME_NeedAnonymity.stages.anonymity_violated.description>
+  <!-- EN: anonymity compromised -->
+  <VME_NeedAnonymity.stages.anonymity_compromised.label>匿名性遭受侵害</VME_NeedAnonymity.stages.anonymity_compromised.label>
+  <!-- EN: My identity has been deeply compromised, I’m so ashamed by the attention I’ve garnered for myself. -->
+  <VME_NeedAnonymity.stages.anonymity_compromised.description>我的身份已经遭到了他人的怀疑，我为自己被人关注而感到羞愧不已。</VME_NeedAnonymity.stages.anonymity_compromised.description>
+  <!-- EN: anonymity threatened -->
+  <VME_NeedAnonymity.stages.anonymity_threatened.label>匿名性遭受威胁</VME_NeedAnonymity.stages.anonymity_threatened.label>
+  <!-- EN: This can’t be allowed to continue, if I keep this behavior up I’ll be exposed. -->
+  <VME_NeedAnonymity.stages.anonymity_threatened.description>不行，如果再继续下去，我的身份会暴露的。</VME_NeedAnonymity.stages.anonymity_threatened.description>
+  <!-- EN: completely anonymous -->
+  <VME_NeedAnonymity.stages.completely_anonymous.label>完全匿名</VME_NeedAnonymity.stages.completely_anonymous.label>
+  <!-- EN: I feel so much more comfortable like this. I don’t even think they know my name or face. -->
+  <VME_NeedAnonymity.stages.completely_anonymous.description>我觉得这样舒服多了。他们不会知晓我的名字与长相的。</VME_NeedAnonymity.stages.completely_anonymous.description>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hemogen draught -->
+  <VFEM2_HemogenDraught.label>血原灵药</VFEM2_HemogenDraught.label>
+  <!-- EN: A rich, crimson liquid crafted from concentrated hemogen packs. When the user drinks it, it enhances all traits and abilities tied to their hemogenic nature, boosting physical and mental capacities. Additionally, this draught replenishes the user's hemogen supply over time, maintaining their vitality and enhancing their overall function. -->
+  <VFEM2_HemogenDraught.description>一瓶浓厚的绯红色液体，由血原包浓缩制成。被喝下时会强化服用者所有血原质相关的基因能力，并增强身心机能。除此之外，它还能持续补充体内的血原质含量。</VFEM2_HemogenDraught.description>
+  <!-- EN: Use {0_label} -->
+  <VFEM2_HemogenDraught.comps.CompUsable.useLabel>服用{0_label}</VFEM2_HemogenDraught.comps.CompUsable.useLabel>
+  <!-- EN: Ingest {0} -->
+  <VFEM2_HemogenDraught.ingestible.ingestCommandString>服用{0}</VFEM2_HemogenDraught.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <VFEM2_HemogenDraught.ingestible.ingestReportString>正在服用{0}</VFEM2_HemogenDraught.ingestible.ingestReportString>
+  
+</LanguageData>

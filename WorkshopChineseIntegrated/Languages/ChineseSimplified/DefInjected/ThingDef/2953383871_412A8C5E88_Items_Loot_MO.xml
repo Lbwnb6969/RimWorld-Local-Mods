@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scrap -->
+
+  <DankPyon_BrokenWeapons.label>破损的武器</DankPyon_BrokenWeapons.label>
+  <DankPyon_BrokenWeapons.description>残破的、无法使用的金属武器碎片。可以通过熔炼来回收资源。</DankPyon_BrokenWeapons.description>
+
+
+  <!-- Books -->
+
+  <DankPyon_Book.label>损毁的书籍</DankPyon_Book.label>
+  <DankPyon_Book.description>一本包含特定主题内容的书。可以卖给有兴趣的商人。</DankPyon_Book.description>
+
+  <DankPyon_Book_TheBeginning.label>《新的开始》</DankPyon_Book_TheBeginning.label>
+  <DankPyon_Book_TheBeginning.description>《新的开始》\n–野外求生指南–\n\n一、生皮制成革\n透过在鞣制架上用鞣剂处理生皮来获得皮革。等待足够长的时间后，处理过的皮革就可以直接使用了。\n\n二、寻找食物\n新鲜的肉很快就会变质，最好赶快行动起来！可以先将肉类放置于干肉架上风干，延长它们的保质期。之后，再制作成包装口粮(或素食品替代品–包装香料面包)，以解决食物变质的问题。\n\n三、冶金\n制作一把好的刀剑，需要先有品质优良的铁，提炼金属原矿是制造武器的必经过程。透过在熔炉上熔炼原矿石，可以生产出用于制造和冶炼的金属锭。\n\n四、如何获得钢锭？\n你可能会怀疑为什么地图上只有铁矿？想要获得「钢锭」，你首先需要研究冶钢技术(在中世纪技术研究分页的右侧)。之后，你就可以将铁锭转化为钢锭。</DankPyon_Book_TheBeginning.description>
+  <DankPyon_Book_IntoTheRuins.label>《进入废墟》</DankPyon_Book_IntoTheRuins.label>
+  <DankPyon_Book_IntoTheRuins.description>《进入废墟》\n–地下城指南–\n\n一、尽头有什么？\n地下城深处藏有与伟大的帝国一样古老的宝藏和战利品。那是一个生产力和财富不可估量的黄金时代。\n\n二、黑暗中的生物\n探索地牢时可能会遇到体型不成比例的怪物。蛇、巨魔和龙居住在废墟中，为牠们的后代筑巢。狡猾的强盗也来占领废墟作为他们的活动基地，以便掠夺和袭击附近的城镇。</DankPyon_Book_IntoTheRuins.description>
+
+  <DankPyon_Book_AncientCodex.label>古代圣典</DankPyon_Book_AncientCodex.label>
+  <DankPyon_Book_AncientCodex.description>一本有着金色饰面、精心制作的古籍。详细记载了地下帝国的历史。\n\n可以卖给有兴趣的收藏家。</DankPyon_Book_AncientCodex.description>
+
+
+  <!-- Notes -->
+
+  <DankPyon_TornNote_Song1c.label>《艺术家的遗产》</DankPyon_TornNote_Song1c.label>
+  <DankPyon_TornNote_Song1c.description>〈第 1 卷〉
+            \n\n他是只螃蟹，她也算是只螃蟹
+            \n他们还能不对彼此无动于衷吗
+            \n若说他是雄蜂，她就是女王蜂
+            \n只想引起一场轰轰烈烈的骚动
+            \n他想要她，她想要蛋，于是
+            \n她偷偷地欣赏着他那副
+            \n螃蟹们都不得不承认
+            \n一点也不喜欢的腿足
+
+            \n\n他的巨钳撼动如鲸，她的尾巴游如虾轻
+            \n他为她的偏爱　受宠若惊
+            \n虽说她一週蜕脱二次，薄甲吹弹可破
+            \n但可没蜕去那　何等气魄
+
+            \n\n漫漫长夜她独自承担
+            \n用她的泡沫喂养着蛋
+            \n望向大海，静静等待
+            \n雄蜂会带着什么话语回来
+            \n历尽漫长春夏
+            \n笑容终绽放如花
+            \n「为我制一副上好盔甲！」
+
+            \n\n他的巨钳撼动如鲸，她的尾巴游如虾轻
+            \n他为她的偏爱　受宠若惊
+            \n现在他身覆厚甲，屠戮不留片甲
+            \n我真想不着
+            \n还有什么能比现在这样更好
+            \n比短尾下目还优秀的种族　无处可找。</DankPyon_TornNote_Song1c.description>
+
+
+  <!-- Chalice -->
+
+  <DankPyon_ChaliceSilver.label>银色圣杯(未清理)</DankPyon_ChaliceSilver.label>
+  <DankPyon_ChaliceSilver.description>常用于饮酒的杯子，使用白银打造，提供经济实惠的方式来改善厅堂的美感。\n\n需要在清理工作桌清洁后才能用于展示。</DankPyon_ChaliceSilver.description>
+
+  <DankPyon_ChaliceGold.label>金色圣杯(未清理)</DankPyon_ChaliceGold.label>
+  <DankPyon_ChaliceGold.description>常用于饮酒的杯子，使用黄金打造，增添富丽堂皇的美感。\n\n需要在清理工作桌清洁后才能用于展示。</DankPyon_ChaliceGold.description>
+
+
+  <!-- Bowls -->
+
+  <DankPyon_BowlSilver.label>银碗(未清理)</DankPyon_BowlSilver.label>
+  <DankPyon_BowlSilver.description>一种使用白银制成的精致碗。\n\n需要在清理工作桌清洁后才能用于展示。</DankPyon_BowlSilver.description>
+
+  <DankPyon_BowlGold.label>金碗(未清理)</DankPyon_BowlGold.label>
+  <DankPyon_BowlGold.description>一种使用黄金制成的精致碗。\n\n需要在清理工作桌清洁后才能用于展示。</DankPyon_BowlGold.description>
+
+
+  <!-- Skulls -->
+
+  <DankPyon_SkullGold.label>黄金颅骨(未清理)</DankPyon_SkullGold.label>
+  <DankPyon_SkullGold.description>在废墟深处发现的金色颅骨，揭示了那些不死生物所拥有的华贵宝藏。\n\n需要在清理工作桌清洁后才能用于展示。</DankPyon_SkullGold.description>
+
+  <DankPyon_SkullEmerald.label>绿宝石颅骨(未清理)</DankPyon_SkullEmerald.label>
+  <DankPyon_SkullEmerald.description>由珍稀的宝石材料制成的颅骨。虽然价值不菲，但掘墓人还是得小心行事，因为如此富有的宝藏，不会毫无看守的放在那。\n\n需要在清理工作桌清洁后才能用于展示。</DankPyon_SkullEmerald.description>
+
+  <DankPyon_SkullSapphire.label>蓝宝石颅骨(未清理)</DankPyon_SkullSapphire.label>
+  <DankPyon_SkullSapphire.description>蓝宝石制成的颅骨，闪烁着蓝色的光芒，颅顶的每一个弧面都散发着光芒。像这样的宝物，肯定能换来不少财富，或者摆在大厅里也不错。\n\n需要在清理工作桌清洁后才能用于展示。</DankPyon_SkullSapphire.description>
+
+  <DankPyon_SkullRuby.label>红宝石颅骨(未清理)</DankPyon_SkullRuby.label>
+  <DankPyon_SkullRuby.description>红宝石颅骨是珍贵的大奖，它吸引了所有贵族、战士、探险家和商人的注意。也是收藏家的珍贵藏品。\n\n需要在清理工作桌清洁后才能用于展示。</DankPyon_SkullRuby.description>
+
+
+  <!-- Dice -->
+
+  <DankPyon_DiceGold.label>黄金骰子</DankPyon_DiceGold.label>
+  <DankPyon_DiceGold.description>一套由不同价值的宝石组合而成的骰子；骰子虽小，但每颗的价值都比一枚漂亮的硬币还高。</DankPyon_DiceGold.description>
+
+  <DankPyon_DiceEmerald.label>绿宝石骰子</DankPyon_DiceEmerald.label>
+  <DankPyon_DiceEmerald.description>一套由不同价值的宝石组合而成的骰子；骰子虽小，但每颗的价值都比一枚漂亮的硬币还高。</DankPyon_DiceEmerald.description>
+
+  <DankPyon_DiceSapphire.label>蓝宝石骰子</DankPyon_DiceSapphire.label>
+  <DankPyon_DiceSapphire.description>一套由不同价值的宝石组合而成的骰子；骰子虽小，但每颗的价值都比一枚漂亮的硬币还高。</DankPyon_DiceSapphire.description>
+
+  <DankPyon_DiceRuby.label>红宝石骰子</DankPyon_DiceRuby.label>
+  <DankPyon_DiceRuby.description>一套由不同价值的宝石组合而成的骰子；骰子虽小，但每颗的价值都比一枚漂亮的硬币还高。</DankPyon_DiceRuby.description>
+
+
+  <!-- Skill Books -->
+
+  <DankPyon_Treatise_Shooting.label>射击魔典</DankPyon_Treatise_Shooting.label>
+  <DankPyon_Treatise_Shooting.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Shooting.description>
+  <DankPyon_Treatise_Shooting.comps.CompUsable.useLabel>阅读论着以提高经验：射击</DankPyon_Treatise_Shooting.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Melee.label>格斗魔典</DankPyon_Treatise_Melee.label>
+  <DankPyon_Treatise_Melee.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Melee.description>
+  <DankPyon_Treatise_Melee.comps.CompUsable.useLabel>阅读论着以提高经验：格斗</DankPyon_Treatise_Melee.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Construction.label>建造魔典</DankPyon_Treatise_Construction.label>
+  <DankPyon_Treatise_Construction.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Construction.description>
+  <DankPyon_Treatise_Construction.comps.CompUsable.useLabel>阅读论着以提高经验：建造</DankPyon_Treatise_Construction.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Mining.label>采矿魔典</DankPyon_Treatise_Mining.label>
+  <DankPyon_Treatise_Mining.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Mining.description>
+  <DankPyon_Treatise_Mining.comps.CompUsable.useLabel>阅读论着以提高经验：采矿</DankPyon_Treatise_Mining.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Cooking.label>烹饪魔典</DankPyon_Treatise_Cooking.label>
+  <DankPyon_Treatise_Cooking.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Cooking.description>
+  <DankPyon_Treatise_Cooking.comps.CompUsable.useLabel>阅读论着以提高经验：烹饪</DankPyon_Treatise_Cooking.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Plants.label>种植魔典</DankPyon_Treatise_Plants.label>
+  <DankPyon_Treatise_Plants.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Plants.description>
+  <DankPyon_Treatise_Plants.comps.CompUsable.useLabel>阅读论着以提高经验：种植</DankPyon_Treatise_Plants.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Animals.label>驯兽魔典</DankPyon_Treatise_Animals.label>
+  <DankPyon_Treatise_Animals.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Animals.description>
+  <DankPyon_Treatise_Animals.comps.CompUsable.useLabel>阅读论着以提高经验：驯兽</DankPyon_Treatise_Animals.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Crafting.label>手工魔典</DankPyon_Treatise_Crafting.label>
+  <DankPyon_Treatise_Crafting.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Crafting.description>
+  <DankPyon_Treatise_Crafting.comps.CompUsable.useLabel>阅读论着以提高经验：手工</DankPyon_Treatise_Crafting.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Artistic.label>艺术魔典</DankPyon_Treatise_Artistic.label>
+  <DankPyon_Treatise_Artistic.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Artistic.description>
+  <DankPyon_Treatise_Artistic.comps.CompUsable.useLabel>阅读论着以提高经验：艺术</DankPyon_Treatise_Artistic.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Medicine.label>医疗魔典</DankPyon_Treatise_Medicine.label>
+  <DankPyon_Treatise_Medicine.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Medicine.description>
+  <DankPyon_Treatise_Medicine.comps.CompUsable.useLabel>阅读论着以提高经验：医疗</DankPyon_Treatise_Medicine.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Social.label>社交魔典</DankPyon_Treatise_Social.label>
+  <DankPyon_Treatise_Social.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Social.description>
+  <DankPyon_Treatise_Social.comps.CompUsable.useLabel>阅读论着以提高经验：社交</DankPyon_Treatise_Social.comps.CompUsable.useLabel>
+
+  <DankPyon_Treatise_Intellectual.label>智识魔典</DankPyon_Treatise_Intellectual.label>
+  <DankPyon_Treatise_Intellectual.description>一本在黄金时代制作的魔典。每一页似乎都存在着魔法灌注的痕迹，但无法估量。当盯着里头的内容看时，本应无法破译的文字会慢慢变成一种可识别的语言。能肯定的是，一旦将其化为言语，就会为这本书带来不可逆的转变，使之变得毫无用处。</DankPyon_Treatise_Intellectual.description>
+  <DankPyon_Treatise_Intellectual.comps.CompUsable.useLabel>阅读论着以提高经验：智识</DankPyon_Treatise_Intellectual.comps.CompUsable.useLabel>
+
+  <!-- Tornnote -->
+
+  <DankPyon_TornNote_Hideout.label>破损的笔记</DankPyon_TornNote_Hideout.label>
+  <DankPyon_TornNote_Hideout.description>破烂的羊皮纸碎片，经常能在废墟或是逃亡的强盗身上发现这种相似的纸片。上面潦草地写满了各种神秘的提示、简陋的地图和褪色的符号，这些笔记上的资讯似乎指向一个更大的谜题，一旦拼凑起来，就能揭示隐秘的藏身处所、被遗忘的藏宝地和其他你可能会感兴趣的地点。追寻这些支离破碎的线索将带领冒险者踏上探索之旅，重重难关等待着考验他们的智慧和毅力。\n\n游戏提示：您可以在MO的任务地点找到更多笔记，也可以从各个贵族世家的杂货商或学者商队购买。此外，据点内存放笔记的探索者档案柜有特殊用途，别忘了把它们一起带回来！</DankPyon_TornNote_Hideout.description>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_GreatOak.label>巨型橡树</DankPyon_GreatOak.label>
+  <DankPyon_GreatOak.description>普通硬木树中最高大的品种。虽然巨型橡树是当地村民的日常景观和值得信赖的遮荫地点，但如此巨大的树型仍令外来者无一不感到惊讶。它主要生长在沃土上，粗大的根系深入地下。它宽大的树冠层很容易就能伸展到300甚至400英尺的直径大小。</DankPyon_GreatOak.description>
+  <DankPyon_GreatOak.comps.0.letterLabel>甦醒的树灵</DankPyon_GreatOak.comps.0.letterLabel>
+  <DankPyon_GreatOak.comps.0.letterDescription>一头古老的树灵因砍伐巨木而被激怒了。请确保别激怒牠！</DankPyon_GreatOak.comps.0.letterDescription>
+
+  <DankPyon_GreatIter.label>巨型伊塔树</DankPyon_GreatIter.label>
+  <DankPyon_GreatIter.description>它是巨型树种里面最小的树，以厚厚的叶子和丰富的粘性酸果而闻名。在炙热的夏季，它们会以梯田状分布，开始形成新的叶子，因此，它通常被当作嗜热和防暑的象征。</DankPyon_GreatIter.description>
+  <DankPyon_GreatIter.comps.0.letterLabel>甦醒的树灵</DankPyon_GreatIter.comps.0.letterLabel>
+  <DankPyon_GreatIter.comps.0.letterDescription>一头古老的树灵因砍伐巨木而被激怒了。请确保别激怒牠！</DankPyon_GreatIter.comps.0.letterDescription>
+
+  <DankPyon_GreatFir.label>巨型冷杉</DankPyon_GreatFir.label>
+  <DankPyon_GreatFir.description>三百英尺高的雪松的巨型表亲。这些树通常被称为夏季的最后守护者，常青的绵延的希望之色，与雪形成鲜明对比。在穿越紧密相连的冷杉林时要小心，因为从树上落下的10英寸大的毬果，甚至可以击倒一名全副武装的骑士。</DankPyon_GreatFir.description>
+
+  <DankPyon_GreatWillow.label>巨型柳树</DankPyon_GreatWillow.label>
+  <DankPyon_GreatWillow.description>一棵活了树千年的柳树。</DankPyon_GreatWillow.description>
+  <DankPyon_GreatWillow.comps.0.letterLabel>甦醒的树灵</DankPyon_GreatWillow.comps.0.letterLabel>
+  <DankPyon_GreatWillow.comps.0.letterDescription>一头古老的树灵因砍伐巨木而被激怒了。请确保别激怒牠！</DankPyon_GreatWillow.comps.0.letterDescription>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Schrat.label>树灵</DankPyon_Schrat.label>
+  <DankPyon_Schrat.description>一种由树枝、树根和泥土纠结组成的生物，轮廓状似人类。树灵被赋予了扭曲、阴险的意志，牠们会在树丛中缓慢地穿梭并寻找活人，据说，尤对侵入森林的伐木工和猎人的鲜血特别感兴趣。</DankPyon_Schrat.description>
+  <DankPyon_Schrat.tools.0.label>左拳</DankPyon_Schrat.tools.0.label>
+  <DankPyon_Schrat.tools.1.label>右拳</DankPyon_Schrat.tools.1.label>
+
+  <!-- Schrat Plains -->
+
+  <DankPyon_SchratPlain.label>树灵</DankPyon_SchratPlain.label>
+  <DankPyon_SchratPlain.description>一种由树枝、树根和泥土纠结组成的生物，轮廓状似人类。树灵被赋予了扭曲、阴险的意志，牠们会在树丛中缓慢地穿梭并寻找活人，据说，尤对侵入森林的伐木工和猎人的鲜血特别感兴趣。</DankPyon_SchratPlain.description>
+  <DankPyon_SchratPlain.tools.0.label>左拳</DankPyon_SchratPlain.tools.0.label>
+  <DankPyon_SchratPlain.tools.1.label>右拳</DankPyon_SchratPlain.tools.1.label>
+
+
+</LanguageData>

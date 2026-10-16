@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Animals Expanded</li>
+    </mods>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/SoundDef[defName="AEXP_Pawn_Hippopotamus_Call"]/subSounds</xpath>
+      <value>
+        <subSounds><li><grains><li Class="AudioGrain_Folder"><clipFolderPath>Pawn/Animal/Wolverine/Call</clipFolderPath></li></grains><volumeRange>12</volumeRange><pitchRange>0.9~1.1</pitchRange><distRange>0~50</distRange></li></subSounds>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Animals Expanded</li>
+    </mods>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/SoundDef[defName="AEXP_Pawn_Hippopotamus_Angry"]/subSounds</xpath>
+      <value>
+        <subSounds><li><grains><li Class="AudioGrain_Folder"><clipFolderPath>Pawn/Animal/Wolverine/Angry</clipFolderPath></li></grains><volumeRange>20</volumeRange><pitchRange>0.9~1.1</pitchRange><distRange>0~70</distRange></li></subSounds>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Animals Expanded</li>
+    </mods>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/SoundDef[defName="AEXP_Pawn_Hippopotamus_Death"]/subSounds</xpath>
+      <value>
+        <subSounds><li><grains><li Class="AudioGrain_Folder"><clipFolderPath>Pawn/Animal/Wolverine/Death</clipFolderPath></li></grains><volumeRange>28</volumeRange><pitchRange>1.0~1.2</pitchRange><distRange>0~70</distRange></li></subSounds>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Animals Expanded</li>
+    </mods>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/SoundDef[defName="AEXP_Pawn_Hippopotamus_Wounded"]/subSounds</xpath>
+      <value>
+        <subSounds><li><grains><li Class="AudioGrain_Folder"><clipFolderPath>Pawn/Animal/Wolverine/Pain</clipFolderPath></li></grains><volumeRange>20</volumeRange><pitchRange>0.8~1.0</pitchRange><distRange>0~70</distRange></li></subSounds>
+      </value>
+    </match>
+  </Operation>
+</Patch>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_CommanderShield.label>指挥官护盾</EES_CommanderShield.label>
+  <EES_CommanderShield.description>部署在指挥官周围的移动式弹幕屏障，可同时阻挡直射和曲射弹丸。</EES_CommanderShield.description>
+  <EES_CommanderShieldBelt.label>护盾腰带(指挥官)</EES_CommanderShieldBelt.label>
+  <EES_CommanderShieldBelt.description>防卫官佩戴的军用护盾发生器。在佩戴者周围半径8格内展开屏障，可同时阻挡直射和曲射弹丸。无法被掠夺。</EES_CommanderShieldBelt.description>
+</LanguageData>

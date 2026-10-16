@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: broken asphalt -->
+  <VFEArch_PlayerBrokenAsphalt.label>破碎的沥青</VFEArch_PlayerBrokenAsphalt.label>
+  <!-- EN: Old, broken apart asphalt, often found in the form of ancient highways around abandoned locations. Very easy to traverse for people and vehicles alike. -->
+  <VFEArch_PlayerBrokenAsphalt.description>破碎开裂的沥青，通常出现在荒废地区周围的古老高速公路上。对于人和车辆来说十分易于行走。</VFEArch_PlayerBrokenAsphalt.description>
+  
+  <!-- EN: packed dirt -->
+  <VFEArch_PlayerPackedDirt.label>泥土小径</VFEArch_PlayerPackedDirt.label>
+  <!-- EN: Packed dirt, slightly enhancing movement speed, often forming paths around places of interest. -->
+  <VFEArch_PlayerPackedDirt.description>泥土堆积的小径，能够略微提高移动速度。世上本没有路，走的人多了，也便成了路。</VFEArch_PlayerPackedDirt.description>
+  
+</LanguageData>

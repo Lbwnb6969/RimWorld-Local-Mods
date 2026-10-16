@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Janissary Deserter -->
+  <BA_Janissary_Scenario.label>耶尼切里逃兵</BA_Janissary_Scenario.label>
+  <!-- EN: You were taken from your homeland and family at a very young age. They did not choose you for higher learning in the Enderun, but instead conscripted you into the Sultan's elite forces. Through all those years, you never truly found where you belonged. Today, after the chaos of battle, you seized your chance. You deserted your brothers-in-arms and fled for your life. You know that returning would mean certain death. Now, only one path remains before you—your own.\nNote: Since you start with a single character this is a very hard scenario.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Janissary_Scenario.description>你年幼时便被迫离开故土与家人。他们没有选你进入恩德伦学校深造，而是将你征召入苏丹的精锐部队。这些年来，你始终找不到真正的归属。今日，趁战事混乱，你抓住机会，背弃战友，亡命奔逃。你清楚，回去唯有死路一条。如今，摆在你面前的只有一条路——属于自己的路。</BA_Janissary_Scenario.description>
+  <!-- EN: You were taken from your homeland and family at a very young age. They did not choose you for higher learning in the Enderun, but instead conscripted you into the Sultan's elite forces. Through all those years, you never truly found where you belonged. Today, after the chaos of battle, you seized your chance. You deserted your brothers-in-arms and fled for your life. You know that returning would mean certain death. Now, only one path remains before you—your own.\nNote: Since you start with a single character this is a very hard scenario. -->
+  <BA_Janissary_Scenario.scenario.description>你年幼时便被迫离开故土与家人。他们没有选你进入恩德伦学校深造，而是将你征召入苏丹的精锐部队。这些年来，你始终找不到真正的归属。今日，趁战事混乱，你抓住机会，背弃战友，亡命奔逃。你清楚，回去唯有死路一条。如今，摆在你面前的只有一条路——属于自己的路。</BA_Janissary_Scenario.scenario.description>
+  <!-- EN: Janissary Deserter -->
+  <BA_Janissary_Scenario.scenario.name>耶尼切里逃兵</BA_Janissary_Scenario.scenario.name>
+  <!-- EN: After years of marching in the Sultan's armies, you finally broke away. Taken as a boy, molded into an elite soldier, you were never given a choice. When the battle turned, you seized your chance—deserting your brothers-in-arms and fleeing into the wild.\nNow, far from the barracks and the Sultan’s watchful eye, you are free to shape your own destiny. Yet the mark of betrayal clings to you, and both strangers and kin may see you with suspicion. With nothing but your skills, your will, and the steel you carried from the battlefield, you must carve out a new life. Half fugitive, half pioneer, you will forge your own path at the edge of the world. -->
+  <BA_Janissary_Scenario.scenario.parts.GameStartDialog.text>在苏丹的军队中服役多年后，你终于挣脱了束缚。自幼被掳走，被塑造成精锐士兵，你从未有过选择的权利。战局逆转之际，你抓住机会——背弃战友，逃入荒野。</BA_Janissary_Scenario.scenario.parts.GameStartDialog.text>
+  <!-- EN: A janissary deserter -->
+  <BA_Janissary_Scenario.scenario.summary>一名耶尼切里逃兵</BA_Janissary_Scenario.scenario.summary>
+  
+</LanguageData>

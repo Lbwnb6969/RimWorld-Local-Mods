@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wearing leather clothing -->
+  <VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.label>穿了皮革衣服</VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.label>
+  <!-- EN: I'm wearing clothing made with animal leather. Slaughtering an animal to use its skin as apparel is cruel and inhumane. -->
+  <VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.description>我正穿着用动物皮革制成的衣物。杀死动物并用它们的皮革做衣服是残忍且不人道的。</VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.description>
+  
+  <!-- EN: wearing leather clothing -->
+  <VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.label>穿了皮革衣服</VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.label>
+  <!-- EN: I'm wearing clothing made with animal leather. Slaughtering an animal to use its skin should be avoided. -->
+  <VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.description>我正穿着用动物皮革制成的衣物。我们应当避免杀死动物并利用它们的皮革。</VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.description>
+  
+</LanguageData>

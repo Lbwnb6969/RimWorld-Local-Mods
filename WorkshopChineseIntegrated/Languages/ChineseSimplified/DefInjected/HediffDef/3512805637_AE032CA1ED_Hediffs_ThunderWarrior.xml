@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unyielding rage -->
+  <BEWH_BerserkerPainBoost.label>不屈之怒</BEWH_BerserkerPainBoost.label>
+  <!-- EN: Berserkers channel their pain into raw fury. The greater the pain, the deadlier their strikes become... -->
+  <BEWH_BerserkerPainBoost.description>狂战士将他们的痛苦转化成原始的狂怒。痛苦越剧烈，攻击越致命......</BEWH_BerserkerPainBoost.description>
+  <!-- EN: no pain -->
+  <BEWH_BerserkerPainBoost.stages.no_pain.label>无痛</BEWH_BerserkerPainBoost.stages.no_pain.label>
+  <!-- EN: tingling pain -->
+  <BEWH_BerserkerPainBoost.stages.tingling_pain.label>疼痛痛</BEWH_BerserkerPainBoost.stages.tingling_pain.label>
+  <!-- EN: stinging pain -->
+  <BEWH_BerserkerPainBoost.stages.stinging_pain.label>剧痛</BEWH_BerserkerPainBoost.stages.stinging_pain.label>
+  <!-- EN: searing pain -->
+  <BEWH_BerserkerPainBoost.stages.searing_pain.label>灼烧般的疼痛</BEWH_BerserkerPainBoost.stages.searing_pain.label>
+  <!-- EN: enraging pain -->
+  <BEWH_BerserkerPainBoost.stages.enraging_pain.label>痛苦愤怒!</BEWH_BerserkerPainBoost.stages.enraging_pain.label>
+  <!-- EN: wrathful pain -->
+  <BEWH_BerserkerPainBoost.stages.wrathful_pain.label>痛苦狂怒!!</BEWH_BerserkerPainBoost.stages.wrathful_pain.label>
+  
+  <!-- EN: immortal will -->
+  <BEWH_PrimarchImmortality.label>不朽意志</BEWH_PrimarchImmortality.label>
+  <!-- EN: Virtual immortality. FOR THE EMPEROR! -->
+  <BEWH_PrimarchImmortality.description>虚假的不朽。为了帝皇！</BEWH_PrimarchImmortality.description>
+  
+  <!-- EN: shooting frenzy -->
+  <BEWH_RangedThunderBoost.label>射击狂热</BEWH_RangedThunderBoost.label>
+  <!-- EN: Ratatatatatata! Make it rain lead! -->
+  <BEWH_RangedThunderBoost.description>哒哒哒哒哒！弹如雨下！</BEWH_RangedThunderBoost.description>
+  
+</LanguageData>

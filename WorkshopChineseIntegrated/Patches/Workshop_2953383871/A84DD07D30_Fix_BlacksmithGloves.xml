@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<!-- Blacksmith Gloves fix-->
+			<li Class="PatchOperationConditional">
+				<xpath>Defs/ThingDef[defName="AMT_Handwear_BlacksmithGloves"]/equippedStatOffsets/WorkTableWorkSpeedFactor</xpath>
+				<match Class="PatchOperationRemove">
+					<xpath>Defs/ThingDef[defName="AMT_Handwear_BlacksmithGloves"]/equippedStatOffsets/WorkTableWorkSpeedFactor</xpath>
+				</match>
+			</li>
+			<li Class="PatchOperationConditional">
+				<xpath>Defs/ThingDef[defName="AMT_Handwear_BlacksmithGloves"]/equippedStatOffsets/GeneralLaborSpeed</xpath>
+				<nomatch Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName="AMT_Handwear_BlacksmithGloves"]/equippedStatOffsets</xpath>
+						<value>
+							<GeneralLaborSpeed>0.2</GeneralLaborSpeed>
+						</value>
+				</nomatch>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

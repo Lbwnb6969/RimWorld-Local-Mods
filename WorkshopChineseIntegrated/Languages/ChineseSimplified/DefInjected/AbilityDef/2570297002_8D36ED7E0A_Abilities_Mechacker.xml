@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: enable self-destruct -->
+  <VME_EnableSelfDestruct.label>自毁命令</VME_EnableSelfDestruct.label>
+  <!-- EN: An ability to command a turret or mechanoid to self-destruct. The mechacker can target any turret, even enemy ones, as well as any mechanoid. -->
+  <VME_EnableSelfDestruct.description>破解目标炮塔或机械族令其自毁。此技能可对任何炮塔（包括敌人的）和机械族使用。</VME_EnableSelfDestruct.description>
+  
+</LanguageData>

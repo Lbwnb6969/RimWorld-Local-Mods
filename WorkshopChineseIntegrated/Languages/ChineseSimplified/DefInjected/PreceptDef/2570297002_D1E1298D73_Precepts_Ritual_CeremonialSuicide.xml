@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ceremonial suicide -->
+  <VME_CeremonialSuicidePrecept.label>切腹仪式</VME_CeremonialSuicidePrecept.label>
+  <!-- EN: A ceremonial suicide. -->
+  <VME_CeremonialSuicidePrecept.description>一场切腹仪式。</VME_CeremonialSuicidePrecept.description>
+  
+</LanguageData>

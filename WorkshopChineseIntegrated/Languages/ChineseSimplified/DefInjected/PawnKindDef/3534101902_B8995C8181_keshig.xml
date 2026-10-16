@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DV_Keshig_Common_Trader.label>部落商人</DV_Keshig_Common_Trader.label>
+    <DV_Nokud_Keshig.label>诺库德</DV_Nokud_Keshig.label>
+    <DV_Ravager_Keshig.label>掠夺者</DV_Ravager_Keshig.label>
+    <DV_Boyan_Keshig.label>巴依</DV_Boyan_Keshig.label><!-- O: boyan. maybe was "bayan" | "bay" | "巴依"-->
+    <DV_Bahadur_Keshig.label>巴哈杜尔</DV_Bahadur_Keshig.label>
+    <DV_Shade_Keshig.label>欧布伏赛托</DV_Shade_Keshig.label>
+    <DV_Assassin_Keshig.label>咏剑士</DV_Assassin_Keshig.label>
+    <DV_Ilkhan_Keshig.label>副汗</DV_Ilkhan_Keshig.label><!-- maybe was i l khan -->
+    <DV_Khan_Keshig.label>可汗</DV_Khan_Keshig.label>
+</LanguageData>

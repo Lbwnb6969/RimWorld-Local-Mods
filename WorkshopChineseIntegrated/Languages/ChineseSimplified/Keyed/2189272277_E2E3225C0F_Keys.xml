@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- Settings -->
+    <!-- EN: Vanilla Hair Expanded -->
+  <VanillaHairExpanded.SettingsCategory>原版发型拓展</VanillaHairExpanded.SettingsCategory>
+
+    <!-- EN: Whether or not beards are rendered on pawns. -->
+  <VanillaHairExpanded.Beards_ToolTip>小人是否有胡须</VanillaHairExpanded.Beards_ToolTip>
+
+    <!-- Float menu options -->
+    <!-- EN: Change hairstyle -->
+  <VanillaHairExpanded.ChangeHairstyle>改变发型</VanillaHairExpanded.ChangeHairstyle>
+
+    <!-- GUI -->
+    <!-- EN: Hairstyles -->
+  <VanillaHairExpanded.Hairstyles>发型</VanillaHairExpanded.Hairstyles>
+    <!-- EN: Beards -->
+  <VanillaHairExpanded.Beards>胡须</VanillaHairExpanded.Beards>
+    <!-- EN: Colour sliders -->
+  <VanillaHairExpanded.CustomMode>颜色调节滑块</VanillaHairExpanded.CustomMode>
+    <!-- EN: Colours tied -->
+  <VanillaHairExpanded.ColoursTied>颜色绑定</VanillaHairExpanded.ColoursTied>
+    
+</LanguageData>

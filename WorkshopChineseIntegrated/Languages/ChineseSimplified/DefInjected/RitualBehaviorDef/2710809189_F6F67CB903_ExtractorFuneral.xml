@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <GR_ExtractorFuneralBehavior.roles.0.label>演讲者</GR_ExtractorFuneralBehavior.roles.0.label>
+  <!-- EN: Corpse -->
+  <GR_ExtractorFuneralBehavior.roles.1.label>尸体</GR_ExtractorFuneralBehavior.roles.1.label>
+  <!-- EN: crafter -->
+  <GR_ExtractorFuneralBehavior.roles.2.label>基因科学家</GR_ExtractorFuneralBehavior.roles.2.label>
+  <!-- EN: Spectators must be alive. -->
+  <GR_ExtractorFuneralBehavior.spectatorFilter.description>观众必须为活着的殖民者。</GR_ExtractorFuneralBehavior.spectatorFilter.description>
+  <!-- EN: {0}: The speech is over, and the extraction is beginning. -->
+  <GR_ExtractorFuneralBehavior.stages.1.postAction.text>{0}: 演讲结束了，提取开始了。</GR_ExtractorFuneralBehavior.stages.1.postAction.text>
+  
+</LanguageData>

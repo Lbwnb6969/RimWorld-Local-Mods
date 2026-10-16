@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_JuiceApple.label>苹果汁</DankPyon_JuiceApple.label>
+  <DankPyon_JuiceApple.description>鲜榨苹果汁，清甜爽口的饮品。在合适温度下发酵几天，就会变成苹果酒。</DankPyon_JuiceApple.description>
+  <DankPyon_JuiceApple.tools.0.label>瓶身</DankPyon_JuiceApple.tools.0.label>
+  <DankPyon_JuiceApple.tools.1.label>瓶颈</DankPyon_JuiceApple.tools.1.label>
+
+  <DankPyon_JuiceAppleUnfermented.label>苹果汁(发酵中)</DankPyon_JuiceAppleUnfermented.label>
+  <DankPyon_JuiceAppleUnfermented.description>正在发酵的苹果汁。保持合适室温以完成发酵过程。</DankPyon_JuiceAppleUnfermented.description>
+  <DankPyon_JuiceAppleUnfermented.tools.0.label>瓶身</DankPyon_JuiceAppleUnfermented.tools.0.label>
+  <DankPyon_JuiceAppleUnfermented.tools.1.label>瓶颈</DankPyon_JuiceAppleUnfermented.tools.1.label>
+
+  <DankPyon_MincedApple.label>苹果碎</DankPyon_MincedApple.label>
+  <DankPyon_MincedApple.description>苹果经过切片并切成小块。需要压榨成汁。</DankPyon_MincedApple.description>
+
+
+</LanguageData>

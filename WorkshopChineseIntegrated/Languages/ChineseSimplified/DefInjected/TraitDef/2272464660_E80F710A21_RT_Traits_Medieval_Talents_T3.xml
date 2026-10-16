@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: <color=#9f40ff>Talent: Adventurer</color> -->
+  <RT_TalentAdventurer.degreeDatas.color9f40ffTalent_Adventurercolor.label>&lt;color=#9f40ff>冒险家&lt;/color></RT_TalentAdventurer.degreeDatas.color9f40ffTalent_Adventurercolor.label>
+  <!-- EN: [PAWN_nameDef] is a skilled fighter. [PAWN_pronoun] realised that [PAWN_pronoun] could protect [PAWN_possessive] friends and satisfy [PAWN_possessive] curiosity at the same time. -->
+  <RT_TalentAdventurer.degreeDatas.color9f40ffTalent_Adventurercolor.description>[PAWN_nameDef]因为经常冒险成为了一名老练的战士。[PAWN_nameDef]意识到[PAWN_pronoun]可以保护[PAWN_possessive]朋友，同时满足[PAWN_possessive]好奇心。</RT_TalentAdventurer.degreeDatas.color9f40ffTalent_Adventurercolor.description>
+  
+  <!-- EN: <color=#9f40ff>Talent: Architect</color> -->
+  <RT_TalentArchitect.degreeDatas.color9f40ffTalent_Architectcolor.label>&lt;color=#9f40ff>建筑师&lt;/color></RT_TalentArchitect.degreeDatas.color9f40ffTalent_Architectcolor.label>
+  <!-- EN: [PAWN_nameDef] is an architect. [PAWN_pronoun] understands that you don't have to be in The Good Place to build The Good Place. -->
+  <RT_TalentArchitect.degreeDatas.color9f40ffTalent_Architectcolor.description>[PAWN_nameDef]是一名建筑师。[PAWN_pronoun]明白，你不一定要在好地方才能建造好房子。</RT_TalentArchitect.degreeDatas.color9f40ffTalent_Architectcolor.description>
+  
+  <!-- EN: <color=#9f40ff>Talent: Chef</color> -->
+  <RT_TalentChef.degreeDatas.color9f40ffTalent_Chefcolor.label>&lt;color=#9f40ff>大厨&lt;/color></RT_TalentChef.degreeDatas.color9f40ffTalent_Chefcolor.label>
+  <!-- EN: Cooking is an art, or so [PAWN_nameDef] says. -->
+  <RT_TalentChef.degreeDatas.color9f40ffTalent_Chefcolor.description>烹饪是一门艺术，[PAWN_nameDef]如是说。</RT_TalentChef.degreeDatas.color9f40ffTalent_Chefcolor.description>
+  
+  <!-- EN: <color=#9f40ff>Talent: Philosopher</color> -->
+  <RT_TalentPhilosopher.degreeDatas.color9f40ffTalent_Philosophercolor.label>&lt;color=#9f40ff>哲学家&lt;/color></RT_TalentPhilosopher.degreeDatas.color9f40ffTalent_Philosophercolor.label>
+  <!-- EN: Everyone hates moral philosophy professors, but [PAWN_nameDef] certainly isn't one. -->
+  <RT_TalentPhilosopher.degreeDatas.color9f40ffTalent_Philosophercolor.description>[PAWN_nameDef]是一位哲学家。[PAWN_pronoun]认为，即使在这个糟糕的世界，思考也能让[PAWN_pronoun]找到内心的平静。</RT_TalentPhilosopher.degreeDatas.color9f40ffTalent_Philosophercolor.description>
+  
+  <!-- EN: <color=#9f40ff>Talent: Surgeon</color> -->
+  <RT_TalentSurgeon.degreeDatas.color9f40ffTalent_Surgeoncolor.label>&lt;color=#9f40ff>外科医生&lt;/color></RT_TalentSurgeon.degreeDatas.color9f40ffTalent_Surgeoncolor.label>
+  <!-- EN: [PAWN_nameDef] took it one step further, realising that [PAWN_pronoun] could get paid touching people's naked bodies. -->
+  <RT_TalentSurgeon.degreeDatas.color9f40ffTalent_Surgeoncolor.description>[PAWN_nameDef]更进一步，意识到[PAWN_pronoun]摸别人的裸体可以得到报酬。</RT_TalentSurgeon.degreeDatas.color9f40ffTalent_Surgeoncolor.description>
+  
+</LanguageData>

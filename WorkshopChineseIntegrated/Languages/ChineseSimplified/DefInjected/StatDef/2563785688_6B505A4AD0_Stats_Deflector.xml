@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deflection chance -->
+  <O21_MeleeWeapon_DeflectionChance.label>偏转几率</O21_MeleeWeapon_DeflectionChance.label>
+  <!-- EN: Chance to deflect ranged projectiles with melee weapon. -->
+  <O21_MeleeWeapon_DeflectionChance.description>近战武器使远程投射物偏转的几率。</O21_MeleeWeapon_DeflectionChance.description>
+  
+</LanguageData>

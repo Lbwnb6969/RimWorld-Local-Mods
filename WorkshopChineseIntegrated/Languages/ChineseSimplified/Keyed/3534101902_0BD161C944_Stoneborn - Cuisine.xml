@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SC_CheeseAging>风干老化..</SC_CheeseAging>
+    <SC_CheeseCurrentlyFrozen>这个奶酪是冻结的并且不会老化。</SC_CheeseCurrentlyFrozen>
+    <SC_CheeseCurrentlyRefrigerated>这个奶酪是冷藏的并且不会快速老化 (老化 in {0})</SC_CheeseCurrentlyRefrigerated>
+    <SC_CheeseAgingCorrectly>这个奶酪在合适的风干老化 (老化 in {0})</SC_CheeseAgingCorrectly>
+    <SC_BullgrogResourceString>产奶</SC_BullgrogResourceString>
+    <SC_CreamgrubResourceString>产丝</SC_CreamgrubResourceString>
+    <SC_KilnNotWorking>这个窑炉当前无法工作</SC_KilnNotWorking>
+    <SC_PotNotWorking>这个锅当前无法工作</SC_PotNotWorking>
+    <SC_MicrowaveNotWorking>你对自己吗满意吗？</SC_MicrowaveNotWorking>
+</LanguageData>

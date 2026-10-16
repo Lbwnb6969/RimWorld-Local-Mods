@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <AbilityDef>
+    <defName>EmperorLOTDAbility</defName>
+    <label>Rally the Legion</label>
+    <description>The Emperor's call cannot be denied. Summon a member of the Legion of the Damned to fight for you.</description>
+    <!-- Placeholder icon path -->
+    <iconPath>UIicon/SMdrop</iconPath>
+    <cooldownTicksRange>420000</cooldownTicksRange>
+    <displayOrder>300</displayOrder>
+    <!-- <cooldownPerCharge>true</cooldownPerCharge> -->
+    <!-- <charges>1</charges> -->
+    <comps>
+      <li Class="RimDark.MastersOfMankind.CompProperties_AbilityEmperorLOTD">
+        <psychicSensitivityExtraSummmonFactor>0.5</psychicSensitivityExtraSummmonFactor>
+        <!-- adds more pawns to summon for every additional 50% psychic sensitivity -->
+        <!-- <factionDef>Empire</factionDef>  the summons are just player faction -->
+        <pawnKindDefs>
+          <li>
+            <pawnKindDef>LOTD_Firstborn</pawnKindDef>
+            <chance>0.4</chance>
+          </li>
+          <li>
+            <pawnKindDef>LOTD_Primaris</pawnKindDef>
+            <chance>0.4</chance>
+          </li>
+          <li>
+            <pawnKindDef>LOTD_Gravis</pawnKindDef>
+            <chance>0.4</chance>
+          </li>
+          <li>
+            <pawnKindDef>LOTD_Xth</pawnKindDef>
+            <chance>0.1</chance>
+          </li>
+        </pawnKindDefs>
+        <summonLimit>12</summonLimit>
+      </li>
+    </comps>
+    <targetRequired>True</targetRequired>
+    <verbProperties>
+      <verbClass>Verb_CastAbility</verbClass>
+      <!-- <label>Summon</label> -->
+      <!-- <hastarget>True</hastarget> -->
+      <!-- <targetWorldMap>False</targetWorldMap> -->
+      <range>120</range>
+      <warmupTime>7</warmupTime>
+      <!-- <burstShotCount>1</burstShotCount> -->
+      <soundCast>Shot_ChargeBlaster</soundCast>
+      <requireLineOfSight>True</requireLineOfSight>
+      <targetParams>
+        <!-- <canTargetAnimals>False</canTargetAnimals> -->
+        <!-- <canTargetPawns>False</canTargetPawns> -->
+        <!-- <canTargetBuildings>False</canTargetBuildings> -->
+        <canTargetLocations>True</canTargetLocations>
+      </targetParams>
+    </verbProperties>
+  </AbilityDef>
+  <AbilityDef>
+    <defName>GW_Ruler_MalcadorAbility</defName>
+    <label>Will of the Sigillite</label>
+    <description>Crush the enemy with the power of your mind. Greatly decrease the consciousness of all entities in the area of effect.</description>
+    <iconPath>UIicon/massPsychicDepression</iconPath>
+    <writeCombatLog>True</writeCombatLog>
+    <casterMustBeCapableOfViolence>false</casterMustBeCapableOfViolence>
+    <statBases>
+      <Ability_Duration>30</Ability_Duration>
+      <Ability_EffectRadius>6</Ability_EffectRadius>
+    </statBases>
+    <verbProperties>
+      <verbClass>Verb_CastAbility</verbClass>
+      <warmupTime>2</warmupTime>
+      <range>100</range>
+      <targetParams>
+        <canTargetSelf>True</canTargetSelf>
+        <canTargetAnimals>True</canTargetAnimals>
+        <canTargetLocations>True</canTargetLocations>
+      </targetParams>
+    </verbProperties>
+    <comps>
+      <li Class="CompProperties_AbilityEffectWithDuration">
+        <compClass>CompAbilityEffect_Stun</compClass>
+        <durationMultiplier>PsychicSensitivity</durationMultiplier>
+        <psychic>True</psychic>
+        <goodwillImpact>-15</goodwillImpact>
+      </li>
+      <li Class="CompProperties_AbilityGiveHediff">
+        <compClass>CompAbilityEffect_GiveHediff</compClass>
+        <hediffDef>GW_Ruler_MalcadorDebuff</hediffDef>
+        <durationMultiplier>PsychicSensitivity</durationMultiplier>
+        <goodwillImpact>-40</goodwillImpact>
+        <applyGoodwillImpactToLodgers>False</applyGoodwillImpactToLodgers>
+      </li>
+    </comps>
+  </AbilityDef>
+</Defs>

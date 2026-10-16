@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- ITab Labels -->
+    <!-- EN: Animal -->
+  <AnimalTraits_AnimalTab>动物</AnimalTraits_AnimalTab>
+    <!-- EN: Bio -->
+  <AnimalTraits_BioTab>生物</AnimalTraits_BioTab>
+    
+    <!-- Section Headers -->
+    <!-- EN: Identity -->
+  <AnimalTraits_Identity>身份</AnimalTraits_Identity>
+    <!-- EN: Traits -->
+  <AnimalTraits_Traits>特质</AnimalTraits_Traits>
+    <!-- EN: Trait Effects Summary -->
+  <AnimalTraits_TraitEffectsSummary>特质效果汇总</AnimalTraits_TraitEffectsSummary>
+    
+    <!-- Info Row Labels -->
+    <!-- EN: Kind: -->
+  <AnimalTraits_Kind>种类：</AnimalTraits_Kind>
+    <!-- EN: Age: -->
+  <AnimalTraits_Age>年龄：</AnimalTraits_Age>
+    <!-- EN: Life Stage: -->
+  <AnimalTraits_LifeStage>成长阶段：</AnimalTraits_LifeStage>
+    <!-- EN: Gender: -->
+  <AnimalTraits_Gender>性别：</AnimalTraits_Gender>
+    <!-- EN: Kills: -->
+  <AnimalTraits_Kills>击杀：</AnimalTraits_Kills>
+    
+    <!-- Messages -->
+    <!-- EN: No special traits. -->
+  <AnimalTraits_NoSpecialTraits>没有特殊特性</AnimalTraits_NoSpecialTraits>
+    <!-- EN: No stat modifications. -->
+  <AnimalTraits_NoStatModifications>没有改变属性</AnimalTraits_NoStatModifications>
+    <!-- EN: Open information card -->
+  <AnimalTraits_OpenInfoCard>打开信息卡</AnimalTraits_OpenInfoCard>
+
+    <!-- Trait Tooltip -->
+    <!-- EN: Inheritance: -->
+  <AnimalTraits_Inheritance>遗传：</AnimalTraits_Inheritance>
+    <!-- EN: Parents: {0}% chance -->
+  <AnimalTraits_ParentsChance>父母：{0}% 概率</AnimalTraits_ParentsChance>
+    <!-- EN: Grandparents: {0}% chance -->
+  <AnimalTraits_GrandparentsChance>祖父母：{0}% 概率</AnimalTraits_GrandparentsChance>
+    <!-- EN: Effects: -->
+  <AnimalTraits_Effects>效果：</AnimalTraits_Effects>
+
+    <!-- Genetics Tooltip -->
+    <!-- EN: Inherited Traits (Genetics) -->
+  <AnimalTraits_InheritedTraitsHeader>遗传特性（基因）</AnimalTraits_InheritedTraitsHeader>
+    <!-- EN: Parents: -->
+  <AnimalTraits_Parents>父母：</AnimalTraits_Parents>
+    <!-- EN: Grandparents: -->
+  <AnimalTraits_Grandparents>祖父母：</AnimalTraits_Grandparents>
+    <!-- EN: Mother -->
+  <AnimalTraits_Mother>母亲</AnimalTraits_Mother>
+    <!-- EN: Father -->
+  <AnimalTraits_Father>父亲</AnimalTraits_Father>
+    <!-- EN: Maternal Grandmother -->
+  <AnimalTraits_MaternalGrandmother>外祖母</AnimalTraits_MaternalGrandmother>
+    <!-- EN: Maternal Grandfather -->
+  <AnimalTraits_MaternalGrandfather>外祖父</AnimalTraits_MaternalGrandfather>
+    <!-- EN: Paternal Grandmother -->
+  <AnimalTraits_PaternalGrandmother>祖母</AnimalTraits_PaternalGrandmother>
+    <!-- EN: Paternal Grandfather -->
+  <AnimalTraits_PaternalGrandfather>祖父</AnimalTraits_PaternalGrandfather>
+    <!-- EN: (Unknown) -->
+  <AnimalTraits_Unknown>（未知）</AnimalTraits_Unknown>
+    <!-- EN: No traits -->
+  <AnimalTraits_NoTraits>无特性</AnimalTraits_NoTraits>
+    <!-- EN: {0} ({1}% inherit chance) -->
+  <AnimalTraits_InheritChanceEntry>{0}（{1}% 遗传概率）</AnimalTraits_InheritChanceEntry>
+    <!-- EN: {0} (not inheritable) -->
+  <AnimalTraits_NotInheritable>{0}（不可遗传）</AnimalTraits_NotInheritable>
+    <!-- EN: No inheritable traits from parents or grandparents. -->
+  <AnimalTraits_NoAncestorTraits>父母或祖父母没有可遗传的特性。</AnimalTraits_NoAncestorTraits>
+
+    <!-- Spare Traits Column -->
+    <!-- EN: Click to configure trait-based auto-slaughter rules.\n\nSpare traits: animals with them show a shield icon and cannot be auto-slaughtered.\nCull traits: animals with them show a slaughter icon and are automatically marked for slaughter. -->
+  <AnimalTraits_SpareTraitsHeaderTip>点击配置基于特性的自动屠宰规则。\n\n保留特性：拥有这些特性的动物会显示盾牌图标，不会被自动屠宰。\n汰换特性：拥有这些特性的动物会显示屠宰图标，并自动标记为屠宰。</AnimalTraits_SpareTraitsHeaderTip>
+    <!-- EN: Protected from slaughter due to traits: -->
+  <AnimalTraits_ProtectedFromSlaughter>因特性受保护免于屠宰：</AnimalTraits_ProtectedFromSlaughter>
+
+    <!-- Trait Notifications -->
+    <!-- EN: Special animal: {0} -->
+  <AnimalTraits_NotifyLetterLabel>特殊动物：{0}</AnimalTraits_NotifyLetterLabel>
+    <!-- EN: {0} was born with notable trait(s):\n\n{1} -->
+  <AnimalTraits_NotifyLetterTextBorn>{0} 出生时带有显著特性：\n\n{1}</AnimalTraits_NotifyLetterTextBorn>
+    <!-- EN: {0} was acquired with notable trait(s):\n\n{1} -->
+  <AnimalTraits_NotifyLetterTextAcquired>{0} 获得时带有显著特性：\n\n{1}</AnimalTraits_NotifyLetterTextAcquired>
+    <!-- EN: {0} was born with trait(s): {1}. -->
+  <AnimalTraits_NotifyMessageBorn>{0} 出生时带有特性：{1}。</AnimalTraits_NotifyMessageBorn>
+    <!-- EN: {0} was acquired with trait(s): {1}. -->
+  <AnimalTraits_NotifyMessageAcquired>{0} 获得时带有特性：{1}。</AnimalTraits_NotifyMessageAcquired>
+
+    <!-- Trade Window -->
+    <!-- EN: Animal traits -->
+  <AnimalTraits_TradeTraitsTip>动物特性</AnimalTraits_TradeTraitsTip>
+
+    <!-- Trait Selection Dialogs -->
+    <!-- EN: Select Traits to Spare from Slaughter -->
+  <AnimalTraits_SpareDialogTitle>选择保留免屠宰的特性</AnimalTraits_SpareDialogTitle>
+    <!-- EN: Animals with any of the selected traits will be protected from auto-slaughter.\nThis applies to all tamed animals in your colony. -->
+  <AnimalTraits_SpareDialogDesc>拥有任一选中特性的动物将受到保护，免于自动屠宰。\n这适用于殖民地中所有已驯服的动物。</AnimalTraits_SpareDialogDesc>
+    <!-- EN: Select Traits to Cull -->
+  <AnimalTraits_CullDialogTitle>选择要汰换的特性</AnimalTraits_CullDialogTitle>
+    <!-- EN: Animals with any of the selected traits will be automatically marked for slaughter.\nTraits configured to spare animals take precedence over culling. -->
+  <AnimalTraits_CullDialogDesc>拥有任一选中特性的动物将被自动标记为屠宰。\n配置为保留动物的特性优先于汰换。</AnimalTraits_CullDialogDesc>
+    <!-- EN: Configure spare traits... -->
+  <AnimalTraits_ConfigureSpareTraits>配置保留特性...</AnimalTraits_ConfigureSpareTraits>
+    <!-- EN: Configure cull traits... -->
+  <AnimalTraits_ConfigureCullTraits>配置汰换特性...</AnimalTraits_ConfigureCullTraits>
+    <!-- EN: Marked for culling due to traits: -->
+  <AnimalTraits_MarkedForCull>因特性标记为汰换：</AnimalTraits_MarkedForCull>
+    <!-- EN: All -->
+  <AnimalTraits_FilterAll>全部</AnimalTraits_FilterAll>
+    <!-- EN: Good -->
+  <AnimalTraits_FilterGood>正面</AnimalTraits_FilterGood>
+    <!-- EN: Bad -->
+  <AnimalTraits_FilterBad>负面</AnimalTraits_FilterBad>
+    <!-- EN: Selected -->
+  <AnimalTraits_FilterSelected>已选</AnimalTraits_FilterSelected>
+    <!-- EN: Configured -->
+  <AnimalTraits_FilterConfigured>已配置</AnimalTraits_FilterConfigured>
+    <!-- EN: Select All Good -->
+  <AnimalTraits_SelectAllGood>选择全部正面</AnimalTraits_SelectAllGood>
+    <!-- EN: Select All Bad -->
+  <AnimalTraits_SelectAllBad>选择全部负面</AnimalTraits_SelectAllBad>
+    <!-- EN: Clear All -->
+  <AnimalTraits_ClearAll>清除全部</AnimalTraits_ClearAll>
+    <!-- EN: Selected: {0} traits ({1} good, {2} bad) -->
+  <AnimalTraits_SelectionSummary>已选：{0} 个特性（{1} 个正面，{2} 个负面）</AnimalTraits_SelectionSummary>
+    <!-- EN: (good) -->
+  <AnimalTraits_GoodSuffix>（正面）</AnimalTraits_GoodSuffix>
+    <!-- EN: (bad) -->
+  <AnimalTraits_BadSuffix>（负面）</AnimalTraits_BadSuffix>
+
+    <!-- Notifications Dialog -->
+    <!-- EN: Configure Trait Notifications -->
+  <AnimalTraits_NotificationsDialogTitle>配置特性通知</AnimalTraits_NotificationsDialogTitle>
+    <!-- EN: Choose how to be notified when an animal is born or acquired with a trait.\nMessage = top-left popup. Letter = envelope on the right side of the screen. -->
+  <AnimalTraits_NotificationsDialogDesc>选择当动物出生或获得特性时的通知方式。\n消息 = 左上角弹窗。信件 = 屏幕右侧的信封通知。</AnimalTraits_NotificationsDialogDesc>
+    <!-- EN: None -->
+  <AnimalTraits_NotifyTypeNone>无</AnimalTraits_NotifyTypeNone>
+    <!-- EN: Message -->
+  <AnimalTraits_NotifyTypeMessage>消息</AnimalTraits_NotifyTypeMessage>
+    <!-- EN: Letter -->
+  <AnimalTraits_NotifyTypeLetter>信件</AnimalTraits_NotifyTypeLetter>
+</LanguageData>

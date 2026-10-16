@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fishing -->
+  <VME_Recreation_Fishing.label>钓鱼</VME_Recreation_Fishing.label>
+  <!-- EN: Fishing is one of the most relaxing and fulfilling activities you could possibly spend your free time doing.\n\n<color=#E5E54C>Stats:</color>\n - Colonists gain recreation when fishing. -->
+  <VME_Recreation_Fishing.description>钓鱼是最为充实与放松的娱乐活动之一。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 殖民者可以在钓鱼时增长娱乐值。</VME_Recreation_Fishing.description>
+  
+</LanguageData>

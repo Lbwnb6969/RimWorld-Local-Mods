@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: divine order -->
+  <BotchJob_DivineOrderCulture.label>神圣秩序</BotchJob_DivineOrderCulture.label>
+  <!-- EN: Either forcefully initiated or born into the order, these people are iron-clad in their faith and consider it their divine mission to cleanse the realm of what they believe to be corruption. They are highly distrustful of outsiders but not completely without reason, and have been know to form uneasy alliances if they see the benefits of doing so. -->
+  <BotchJob_DivineOrderCulture.description>不论是被“征募”，还是出生于秩序之中，这些人对自己的信仰都坚不可摧，并认为外来者是必须被净化的腐败。然而，他们并非毫无理智，一旦看到合作的好处，他们也会形成不稳定的联盟。</BotchJob_DivineOrderCulture.description>
+  
+</LanguageData>

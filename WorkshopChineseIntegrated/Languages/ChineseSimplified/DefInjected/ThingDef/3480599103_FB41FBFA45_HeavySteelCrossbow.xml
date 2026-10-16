@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Heavy Steel Crossbow -->
+  <TA_HeavySteelCrossbow.label>重型钢弩</TA_HeavySteelCrossbow.label>
+  <TA_HeavySteelCrossbow.description>军用弩，弓臂结构与东方复合弓类似但更厚更短</TA_HeavySteelCrossbow.description>
+  <!-- Crossbow Bolt -->
+  <!-- Tool labels -->
+  <TA_HeavySteelCrossbow.tools.limb.label>弩臂</TA_HeavySteelCrossbow.tools.limb.label>
+</LanguageData>

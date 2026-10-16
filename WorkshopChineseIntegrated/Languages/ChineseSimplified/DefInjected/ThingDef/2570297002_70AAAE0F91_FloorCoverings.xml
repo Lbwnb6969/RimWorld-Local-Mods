@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: eldritch slab (broad) -->
+  <VME_EldritchSlab_Broad.label>外神文化雕板（宽）</VME_EldritchSlab_Broad.label>
+  <!-- EN: A stone bas relief of eldritch imagery for decorating a floor. -->
+  <VME_EldritchSlab_Broad.description>用来装饰地板的外神文化图案石制浅浮雕。</VME_EldritchSlab_Broad.description>
+  
+  <!-- EN: eldritch slab (medium) -->
+  <VME_EldritchSlab_Medium.label>外神文化雕板</VME_EldritchSlab_Medium.label>
+  <!-- EN: A stone bas relief of eldritch imagery for decorating a floor. -->
+  <VME_EldritchSlab_Medium.description>用来装饰地板的外神文化图案石制浅浮雕。</VME_EldritchSlab_Medium.description>
+  
+  <!-- EN: esotericism slab (broad) -->
+  <VME_EsotericismSlab_Broad.label>秘奥文化雕板（宽）</VME_EsotericismSlab_Broad.label>
+  <!-- EN: A stone bas relief of esoteric imagery for decorating a floor. -->
+  <VME_EsotericismSlab_Broad.description>用来装饰地板的秘奥文化图案石制浅浮雕。</VME_EsotericismSlab_Broad.description>
+  
+  <!-- EN: esotericism slab (medium) -->
+  <VME_EsotericismSlab_Medium.label>秘奥文化雕板</VME_EsotericismSlab_Medium.label>
+  <!-- EN: A stone bas relief of esoteric imagery for decorating a floor. -->
+  <VME_EsotericismSlab_Medium.description>用来装饰地板的秘奥文化图案石制浅浮雕。</VME_EsotericismSlab_Medium.description>
+  
+  <!-- EN: serketist slab (broad) -->
+  <VME_SerketistSlab_Broad.label>虫神文化雕版（宽）</VME_SerketistSlab_Broad.label>
+  <!-- EN: A stone bas relief of serketist imagery for decorating a floor. -->
+  <VME_SerketistSlab_Broad.description>用来装饰地板的虫神文化图案石制浅浮雕。</VME_SerketistSlab_Broad.description>
+  
+  <!-- EN: serketist slab (medium) -->
+  <VME_SerketistSlab_Medium.label>虫神文化雕版</VME_SerketistSlab_Medium.label>
+  <!-- EN: A stone bas relief of serketist imagery for decorating a floor. -->
+  <VME_SerketistSlab_Medium.description>用来装饰地板的虫神文化图案石制浅浮雕。</VME_SerketistSlab_Medium.description>
+
+  <!-- EN: shintao slab (broad) -->
+  <VME_TaoistSlab_Broad.label>东方文化雕板（宽）</VME_TaoistSlab_Broad.label>
+  <!-- EN: A stone bas relief of shintao imagery for decorating a floor. -->
+  <VME_TaoistSlab_Broad.description>用来装饰地板的东方文化图案石制浅浮雕。</VME_TaoistSlab_Broad.description>
+  
+  <!-- EN: shintao slab (medium) -->
+  <VME_TaoistSlab_Medium.label>东方文化雕板</VME_TaoistSlab_Medium.label>
+  <!-- EN: A stone bas relief of shintao imagery for decorating a floor. -->
+  <VME_TaoistSlab_Medium.description>用来装饰地板的东方文化图案石制浅浮雕。</VME_TaoistSlab_Medium.description>
+  
+</LanguageData>

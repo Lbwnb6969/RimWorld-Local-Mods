@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Serfdom -->
+  <BEWH_SerfNearbyMarine.stages.Serfdom-0.label>侍从</BEWH_SerfNearbyMarine.stages.Serfdom-0.label>
+  <!-- EN: No Space Marines midst our colony, no master to serve... -->
+  <BEWH_SerfNearbyMarine.stages.Serfdom-0.description>我们的殖民地里没有星际战士，我没有可侍奉的主人...</BEWH_SerfNearbyMarine.stages.Serfdom-0.description>
+  <!-- EN: Serfdom -->
+  <BEWH_SerfNearbyMarine.stages.Serfdom-1.label>侍从</BEWH_SerfNearbyMarine.stages.Serfdom-1.label>
+  <!-- EN: Space Marines roam our colony, it makes me happy. -->
+  <BEWH_SerfNearbyMarine.stages.Serfdom-1.description>我们的殖民地里有星际战士，我很高兴！</BEWH_SerfNearbyMarine.stages.Serfdom-1.description>
+  <!-- EN: Serfdom -->
+  <BEWH_SerfNearbyMarine.stages.Serfdom-2.label>侍从</BEWH_SerfNearbyMarine.stages.Serfdom-2.label>
+  <!-- EN: Nearby Space Marines make me ecstatic and give me purpose! -->
+  <BEWH_SerfNearbyMarine.stages.Serfdom-2.description>星际战士就在我旁边！！这下我知道我要干什么了！</BEWH_SerfNearbyMarine.stages.Serfdom-2.description>
+  
+</LanguageData>

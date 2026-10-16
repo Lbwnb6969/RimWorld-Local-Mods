@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: light construct -->
+  <VR_Construct_Light.label>轻型构装体</VR_Construct_Light.label>
+  
+  <!-- EN: war queen -->
+  <VR_Construct_Queen.label>战争女皇</VR_Construct_Queen.label>
+  <!-- EN: left sight sensor -->
+  <VR_Construct_Queen.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>左视觉传感器</VR_Construct_Queen.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <VR_Construct_Queen.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>右视觉传感器</VR_Construct_Queen.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <VR_Construct_Queen.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>左听觉传感器</VR_Construct_Queen.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <VR_Construct_Queen.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>右听觉传感器</VR_Construct_Queen.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <!-- EN: light construct -->
+  <VR_Construct_Workers.label>轻型构装体</VR_Construct_Workers.label>
+  <!-- EN: left front leg -->
+  <VR_Construct_Workers.corePart.parts.left_front_leg.customLabel>左前腿</VR_Construct_Workers.corePart.parts.left_front_leg.customLabel>
+  <!-- EN: left front foot -->
+  <VR_Construct_Workers.corePart.parts.left_front_leg.parts.left_front_foot.customLabel>左前足</VR_Construct_Workers.corePart.parts.left_front_leg.parts.left_front_foot.customLabel>
+  <!-- EN: right front leg -->
+  <VR_Construct_Workers.corePart.parts.right_front_leg.customLabel>右前腿</VR_Construct_Workers.corePart.parts.right_front_leg.customLabel>
+  <!-- EN: right front foot -->
+  <VR_Construct_Workers.corePart.parts.right_front_leg.parts.right_front_foot.customLabel>右前足</VR_Construct_Workers.corePart.parts.right_front_leg.parts.right_front_foot.customLabel>
+  <!-- EN: left middle leg -->
+  <VR_Construct_Workers.corePart.parts.left_middle_leg.customLabel>左中腿</VR_Construct_Workers.corePart.parts.left_middle_leg.customLabel>
+  <!-- EN: left middle foot -->
+  <VR_Construct_Workers.corePart.parts.left_middle_leg.parts.left_middle_foot.customLabel>左中足</VR_Construct_Workers.corePart.parts.left_middle_leg.parts.left_middle_foot.customLabel>
+  <!-- EN: right middle leg -->
+  <VR_Construct_Workers.corePart.parts.right_middle_leg.customLabel>右中腿</VR_Construct_Workers.corePart.parts.right_middle_leg.customLabel>
+  <!-- EN: right middle foot -->
+  <VR_Construct_Workers.corePart.parts.right_middle_leg.parts.right_middle_foot.customLabel>右中足</VR_Construct_Workers.corePart.parts.right_middle_leg.parts.right_middle_foot.customLabel>
+  <!-- EN: left rear leg -->
+  <VR_Construct_Workers.corePart.parts.left_rear_leg.customLabel>左后腿</VR_Construct_Workers.corePart.parts.left_rear_leg.customLabel>
+  <!-- EN: left rear foot -->
+  <VR_Construct_Workers.corePart.parts.left_rear_leg.parts.left_rear_foot.customLabel>左后足</VR_Construct_Workers.corePart.parts.left_rear_leg.parts.left_rear_foot.customLabel>
+  <!-- EN: right rear leg -->
+  <VR_Construct_Workers.corePart.parts.right_rear_leg.customLabel>右后腿</VR_Construct_Workers.corePart.parts.right_rear_leg.customLabel>
+  <!-- EN: right rear foot -->
+  <VR_Construct_Workers.corePart.parts.right_rear_leg.parts.right_rear_foot.customLabel>右后足</VR_Construct_Workers.corePart.parts.right_rear_leg.parts.right_rear_foot.customLabel>
+  
+  <!-- EN: construct -->
+  <VR_ConstructBipedal.label>构装体</VR_ConstructBipedal.label>
+  <!-- EN: left brass ocular -->
+  <VR_ConstructBipedal.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_brass_ocular.customLabel>左黄铜目镜</VR_ConstructBipedal.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_brass_ocular.customLabel>
+  <!-- EN: right brass ocular -->
+  <VR_ConstructBipedal.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_brass_ocular.customLabel>右黄铜目镜</VR_ConstructBipedal.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_brass_ocular.customLabel>
+  <!-- EN: left harmonic listener -->
+  <VR_ConstructBipedal.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_harmonic_listener.customLabel>左谐波监听器</VR_ConstructBipedal.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_harmonic_listener.customLabel>
+  <!-- EN: right harmonic listener -->
+  <VR_ConstructBipedal.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_harmonic_listener.customLabel>右谐波监听器</VR_ConstructBipedal.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_harmonic_listener.customLabel>
+  <!-- EN: left shoulder -->
+  <VR_ConstructBipedal.corePart.parts.left_shoulder.customLabel>左肩</VR_ConstructBipedal.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left hand -->
+  <VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左小指</VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left middle finger -->
+  <VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</VR_ConstructBipedal.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <VR_ConstructBipedal.corePart.parts.right_shoulder.customLabel>右肩</VR_ConstructBipedal.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.customLabel>右臂</VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right hand -->
+  <VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右小指</VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right middle finger -->
+  <VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</VR_ConstructBipedal.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  
+</LanguageData>

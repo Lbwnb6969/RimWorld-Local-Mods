@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Headgear_RedBandana.label>红色头带</DankPyon_Headgear_RedBandana.label>
+  <DankPyon_Headgear_RedBandana.description>一条用长长的暗红色布料系成的简单头带。为头部提供微微温暖和防护。</DankPyon_Headgear_RedBandana.description>
+
+  <DankPyon_Headgear_Hood.label>兜帽</DankPyon_Headgear_Hood.label>
+  <DankPyon_Headgear_Hood.description>一顶覆盖头部和耳朵的垂褶兜帽，也可以戴在头盔外面掩人耳目。</DankPyon_Headgear_Hood.description>
+
+  <DankPyon_Headgear_coif.label>衬帽</DankPyon_Headgear_coif.label>
+  <DankPyon_Headgear_coif.description>一种贴身且衬垫薄的头巾，通常戴在锁甲或头盔内侧，或单独在寒冷天气里穿戴保暖。</DankPyon_Headgear_coif.description>
+
+  <DankPyon_Headgear_ArmingCap.label>厚衬帽</DankPyon_Headgear_ArmingCap.label>
+  <DankPyon_Headgear_ArmingCap.description>一种加厚衬垫的帽子，通常戴在较重的头盔内侧，以提供额外的保护层。相当保暖，并能提供一点钝器防御能力。</DankPyon_Headgear_ArmingCap.description>
+
+  <DankPyon_Headgear_FullArmingCap.label>厚衬帽(套头式)</DankPyon_Headgear_FullArmingCap.label>
+  <DankPyon_Headgear_FullArmingCap.description>一种加厚衬垫的兜帽，通常戴在较重的头盔内侧，以提供额外的保护层。非常保暖，并提供一点钝器防御能力。</DankPyon_Headgear_FullArmingCap.description>
+
+  <DankPyon_Headgear_CultistHood.label>邪教徒兜帽</DankPyon_Headgear_CultistHood.label>
+  <DankPyon_Headgear_CultistHood.description>一顶邪教徒聚会时使用的兜帽，可以戴在头盔外面掩人耳目。</DankPyon_Headgear_CultistHood.description>
+
+
+  <DankPyon_Headgear_ZweihandersHat.label>大号宽松羽毛帽</DankPyon_Headgear_ZweihandersHat.label>
+  <DankPyon_Headgear_ZweihandersHat.description>一顶大号宽松羽毛帽，可以戴在头盔外面，古时多由国土佣仆的双手剑士佩戴。由于它的大小和形状，多少能提供一些保护作用，但主要是作为装饰和身份象征来佩戴。</DankPyon_Headgear_ZweihandersHat.description>
+
+
+  <!-- Padded Helmets -->
+
+  <DankPyon_Headgear_PaddedNasalHelmet.label>鼻盔(衬垫)</DankPyon_Headgear_PaddedNasalHelmet.label>
+  <DankPyon_Headgear_PaddedNasalHelmet.description>一顶坚固的中世纪头盔，可覆盖整个头部。虽然它提供了良好的保护，但会影响射击准度。</DankPyon_Headgear_PaddedNasalHelmet.description>
+
+  <DankPyon_Headgear_PaddedKettleHelmet.label>壶盔(衬垫)</DankPyon_Headgear_PaddedKettleHelmet.label>
+  <DankPyon_Headgear_PaddedKettleHelmet.description>一顶附有宽缘的圆顶壶盔，内部搭配厚厚的软垫衬帽。虽然它提供了良好的保护，但会影响射击准度。</DankPyon_Headgear_PaddedKettleHelmet.description>
+
+  <DankPyon_Headgear_PaddedFlatTopHelmet.label>平顶盔(衬垫)</DankPyon_Headgear_PaddedFlatTopHelmet.label>
+  <DankPyon_Headgear_PaddedFlatTopHelmet.description>一顶简单的平顶盔，内部搭配厚厚的软垫衬帽。虽然它提供了良好的保护，但会影响射击准度。</DankPyon_Headgear_PaddedFlatTopHelmet.description>
+
+
+  <!-- Chain -->
+
+  <DankPyon_Headgear_ChainCoif.label>链甲罩帽</DankPyon_Headgear_ChainCoif.label>
+  <DankPyon_Headgear_ChainCoif.description>一顶由金属链条锻造而成的罩帽，为头部提供了出色的保护，使其免受挥砍和刺击的伤害。</DankPyon_Headgear_ChainCoif.description>
+
+  <DankPyon_Headgear_ChainCoifClosed.label>覆面式链甲罩帽</DankPyon_Headgear_ChainCoifClosed.label>
+  <DankPyon_Headgear_ChainCoifClosed.description>一顶由金属链条锻造而成的罩帽，带有额外的保护。为整个头部提供出色的保护，防止穿刺和挥砍攻击。</DankPyon_Headgear_ChainCoifClosed.description>
+
+  <DankPyon_Headgear_ChainCoifFull.label>覆面式链甲罩帽(护鼻)</DankPyon_Headgear_ChainCoifFull.label>
+  <DankPyon_Headgear_ChainCoifFull.description>一顶由金属链条锻造而成的罩帽，带有附加的金属板护鼻器，几乎可以完全保护面部、头部。提供了极佳的防割保护。</DankPyon_Headgear_ChainCoifFull.description>
+
+
+  <!-- Heavy Helm -->
+
+  <DankPyon_Headgear_ChainNasalHelmet.label>鼻盔(链甲罩帽)</DankPyon_Headgear_ChainNasalHelmet.label>
+  <DankPyon_Headgear_ChainNasalHelmet.description>一顶简单的圆形鼻盔搭配链甲罩帽，为头部提供出色的保护，但会影响射击准度。</DankPyon_Headgear_ChainNasalHelmet.description>
+
+  <DankPyon_Headgear_ChainNasalRedHelmet.label>系带鼻盔(链甲罩帽)</DankPyon_Headgear_ChainNasalRedHelmet.label>
+  <DankPyon_Headgear_ChainNasalRedHelmet.description>一顶鼻盔搭配链甲罩帽，最外侧绑着的红色头带，虽无保护功能，但彰显了权威。这顶头盔虽然为头部提供了良好的保护，但会影响射击准度。</DankPyon_Headgear_ChainNasalRedHelmet.description>
+
+  <DankPyon_Headgear_ChainKettleHelmet.label>壶盔(链甲罩帽)</DankPyon_Headgear_ChainKettleHelmet.label>
+  <DankPyon_Headgear_ChainKettleHelmet.description>一顶宽缘圆顶盔搭配链甲罩帽，提供舒适的遮阳效果及出色的头部保护，但会影响射击准度。</DankPyon_Headgear_ChainKettleHelmet.description>
+
+  <DankPyon_Headgear_Chain_FlatTopHelmet.label>平顶盔(链甲罩帽)</DankPyon_Headgear_Chain_FlatTopHelmet.label>
+  <DankPyon_Headgear_Chain_FlatTopHelmet.description>一顶平顶盔搭配链甲罩帽，提供出色的头部保护，但会影响射击准度。</DankPyon_Headgear_Chain_FlatTopHelmet.description>
+
+  <DankPyon_Headgear_ClosedChain_FlatTopHelmet.label>平顶盔(覆面式链甲罩帽)</DankPyon_Headgear_ClosedChain_FlatTopHelmet.label>
+  <DankPyon_Headgear_ClosedChain_FlatTopHelmet.description>坚固的中世纪头盔，可覆盖整个头部。虽然它提供了出色的头部保护，但会影响射击准度。</DankPyon_Headgear_ClosedChain_FlatTopHelmet.description>
+
+  <DankPyon_Headgear_ChainClosedFlatTopHelmet.label>覆面式平顶盔(链甲罩帽)</DankPyon_Headgear_ChainClosedFlatTopHelmet.label>
+  <DankPyon_Headgear_ChainClosedFlatTopHelmet.description>全罩式头盔的早期设计，结构包括一顶加固的平顶头盔搭配链甲罩帽和一副额外的金属面罩。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。</DankPyon_Headgear_ChainClosedFlatTopHelmet.description>
+
+  <DankPyon_Headgear_HeavyBarbrute.label>重型巴布塔式头盔</DankPyon_Headgear_HeavyBarbrute.label>
+  <DankPyon_Headgear_HeavyBarbrute.description>这种头盔形状类似于古典希腊头盔，但其脸部中央开了T型或Y型的通气口，顶上有一条突起的低脊，从鼻樑上方位置一路延伸至头盔后侧，有助于在不全面增厚头盔的情况下加强防御。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。</DankPyon_Headgear_HeavyBarbrute.description>
+
+  <DankPyon_Headgear_OpenBascinet.label>敞面式中头盔</DankPyon_Headgear_OpenBascinet.label>
+  <DankPyon_Headgear_OpenBascinet.description>一顶厚金属板制成的中头盔。早期的中头盔，通常戴在一个更大的头盔里面，因而得名，在骑兵第一次使用骑枪交锋之后，外层的头盔就被丢弃以避免妨碍近身战。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。</DankPyon_Headgear_OpenBascinet.description>
+
+  <DankPyon_Headgear_ZweihanderHelm.label>国土佣仆头盔</DankPyon_Headgear_ZweihanderHelm.label>
+  <DankPyon_Headgear_ZweihanderHelm.description>一顶坚固的金属头盔，上面装饰着一顶色彩艷丽的大号宽松羽毛帽，以彰显一个人的地位。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。</DankPyon_Headgear_ZweihanderHelm.description>
+
+  <DankPyon_Headgear_ZweihanderHelmAmboise.label>国土佣仆头盔(昂布瓦兹)</DankPyon_Headgear_ZweihanderHelmAmboise.label>
+  <DankPyon_Headgear_ZweihanderHelmAmboise.description>一顶坚固的金属头盔，上面装饰着一顶色彩艷丽的大号宽松羽毛帽，以彰显一个人的地位。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。\n\n头盔上的颜色象征着昂布瓦兹家族。</DankPyon_Headgear_ZweihanderHelmAmboise.description>
+
+  <DankPyon_Headgear_ZweihanderHelmSoren.label>国土佣仆头盔(索伦)</DankPyon_Headgear_ZweihanderHelmSoren.label>
+  <DankPyon_Headgear_ZweihanderHelmSoren.description>一顶坚固的金属头盔，上面装饰着一顶色彩艷丽的大号宽松羽毛帽，以彰显一个人的地位。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。\n\n头盔上的颜色象征着索伦家族。</DankPyon_Headgear_ZweihanderHelmSoren.description>
+
+  <DankPyon_Headgear_ZweihanderHelmOswin.label>国土佣仆头盔(傲斯温)</DankPyon_Headgear_ZweihanderHelmOswin.label>
+  <DankPyon_Headgear_ZweihanderHelmOswin.description>一顶坚固的金属头盔，上面装饰着一顶色彩艷丽的大号宽松羽毛帽，以彰显一个人的地位。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。\n\n头盔上的颜色象征着傲斯温家族。</DankPyon_Headgear_ZweihanderHelmOswin.description>
+
+  <DankPyon_Headgear_ZweihanderHelmHesse.label>国土佣仆头盔(黑森)</DankPyon_Headgear_ZweihanderHelmHesse.label>
+  <DankPyon_Headgear_ZweihanderHelmHesse.description>一顶坚固的金属头盔，上面装饰着一顶色彩艷丽的大号宽松羽毛帽，以彰显一个人的地位。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。\n\n头盔上的颜色象征着黑森家族。</DankPyon_Headgear_ZweihanderHelmHesse.description>
+
+
+
+
+  <DankPyon_Headgear_ClosedBascinetHelmet.label>覆面式中头盔</DankPyon_Headgear_ClosedBascinetHelmet.label>
+  <DankPyon_Headgear_ClosedBascinetHelmet.description>一顶厚金属板制成的中头盔搭配链甲罩帽，外加一副圆面面罩。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</DankPyon_Headgear_ClosedBascinetHelmet.description>
+
+  <DankPyon_Headgear_WolfBascinet.label>覆面式中头盔(狼肋型)</DankPyon_Headgear_WolfBascinet.label>
+  <DankPyon_Headgear_WolfBascinet.description>一顶厚金属板制成的中头盔搭配链甲罩帽，外加一副狼肋型圆面面罩。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</DankPyon_Headgear_WolfBascinet.description>
+
+  <DankPyon_Headgear_KlappvisorBascinet.label>覆面式中头盔(猪脸型)</DankPyon_Headgear_KlappvisorBascinet.label>
+  <DankPyon_Headgear_KlappvisorBascinet.description>一顶厚金属板制成的中头盔搭配链甲罩帽，外加一副猪脸型圆面面罩。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</DankPyon_Headgear_KlappvisorBascinet.description>
+
+  <DankPyon_Headgear_HounskullHelmet.label>覆面式中头盔(犬面型)</DankPyon_Headgear_HounskullHelmet.label>
+  <DankPyon_Headgear_HounskullHelmet.description>一顶厚金属板制成的中头盔搭配链甲罩帽，外加一副尖型犬吻面罩。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</DankPyon_Headgear_HounskullHelmet.description>
+
+
+  <DankPyon_Headgear_SalletHelmet.label>覆面式长尾盔</DankPyon_Headgear_SalletHelmet.label>
+  <DankPyon_Headgear_SalletHelmet.description>一种由顶部、面罩和底部组成的光滑头盔，分别用于保护头部及脸部。重量轻、保护性强，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</DankPyon_Headgear_SalletHelmet.description>
+
+  <DankPyon_Headgear_SalletBellowFace.label>覆面式长尾盔(波纹型)</DankPyon_Headgear_SalletBellowFace.label>
+  <DankPyon_Headgear_SalletBellowFace.description>一种由顶部、面罩和底部组成的光滑头盔，分别用于保护头部及脸部。重量轻、保护性强，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</DankPyon_Headgear_SalletBellowFace.description>
+
+  <DankPyon_Headgear_SalletGryphon.label>覆面式长尾盔(鸟喙型)</DankPyon_Headgear_SalletGryphon.label>
+  <DankPyon_Headgear_SalletGryphon.description>一种由顶部、面罩和底部组成的光滑头盔，分别用于保护头部及脸部。重量轻、保护性强，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</DankPyon_Headgear_SalletGryphon.description>
+
+  <DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.label>覆面式中头盔(猪脸型,盖起)</DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.label>
+  <DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.description>一顶厚金属板制成的中头盔，外加一副猪脸型圆面面罩。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.description>
+
+
+
+
+  <DankPyon_Headgear_GreatHelm.label>巨盔</DankPyon_Headgear_GreatHelm.label>
+  <DankPyon_Headgear_GreatHelm.description>全罩式头盔的早期设计，内衬为非常厚的布质罩帽。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</DankPyon_Headgear_GreatHelm.description>
+
+
+
+
+  <DankPyon_Headgear_HeraldicGreatHelm1c.label>纹章巨盔(昂布瓦兹)</DankPyon_Headgear_HeraldicGreatHelm1c.label>
+  <DankPyon_Headgear_HeraldicGreatHelm1c.description>一顶装饰精美的全脸巨盔，通常由骑枪兵、比武冠军以及战功显赫的贵族世家佩戴。不仅能彰显佩戴者的高贵地位，同时为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。\n\n这顶巨盔上的颜色象征着昂布瓦兹家族。</DankPyon_Headgear_HeraldicGreatHelm1c.description>
+
+  <DankPyon_Headgear_HeraldicGreatHelm2c.label>纹章巨盔(索伦)</DankPyon_Headgear_HeraldicGreatHelm2c.label>
+  <DankPyon_Headgear_HeraldicGreatHelm2c.description>一顶装饰精美的全脸巨盔，通常由骑枪兵、比武冠军以及战功显赫的贵族世家佩戴。不仅能彰显佩戴者的高贵地位，同时为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。\n\n这顶巨盔上的颜色象征着索伦家族。</DankPyon_Headgear_HeraldicGreatHelm2c.description>
+
+  <DankPyon_Headgear_HeraldicGreatHelm3c.label>纹章巨盔(傲斯温)</DankPyon_Headgear_HeraldicGreatHelm3c.label>
+  <DankPyon_Headgear_HeraldicGreatHelm3c.description>一顶装饰精美的全脸巨盔，通常由骑枪兵、比武冠军以及战功显赫的贵族世家佩戴。不仅能彰显佩戴者的高贵地位，同时为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。\n\n这顶巨盔上的颜色象征着傲斯温家族。</DankPyon_Headgear_HeraldicGreatHelm3c.description>
+
+  <DankPyon_Headgear_HeraldicGreatHelm4c.label>纹章巨盔(黑森)</DankPyon_Headgear_HeraldicGreatHelm4c.label>
+  <DankPyon_Headgear_HeraldicGreatHelm4c.description>一顶装饰精美的全脸巨盔，通常由骑枪兵、比武冠军以及战功显赫的贵族世家佩戴。不仅能彰显佩戴者的高贵地位，同时为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。\n\n这顶巨盔上的颜色象征着黑森家族。</DankPyon_Headgear_HeraldicGreatHelm4c.description>
+
+
+  <!-- Super Helmets -->
+
+  <DankPyon_Headgear_Armet.label>武装盔</DankPyon_Headgear_Armet.label>
+  <DankPyon_Headgear_Armet.description>一款制作精良、符合人体工学的板甲头盔，可为整个头部和脸部提供全面保护，其形状可偏转直接性的打击所造成的冲击力。这顶头盔为整个头部提供极大的保护，但会大幅影响射击准度；另外，能提高社交影响力。</DankPyon_Headgear_Armet.description>
+
+  <DankPyon_Headgear_ArmetGilded.label>镀金武装盔</DankPyon_Headgear_ArmetGilded.label>
+  <DankPyon_Headgear_ArmetGilded.description>一款制作精良、符合人体工学的板甲头盔，可为整个头部和脸部提供全面保护，其形状可偏转直接性的打击所造成的冲击力。这顶头盔为整个头部提供极大的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力并大幅提升社交影响力。</DankPyon_Headgear_ArmetGilded.description>
+
+  <DankPyon_Headgear_ArmetNamed.label>铭刻武装盔</DankPyon_Headgear_ArmetNamed.label>
+  <DankPyon_Headgear_ArmetNamed.description>由古代帝国的地下锻造厂精心打造的远古华丽武器。可为整个头部和脸部提供全面保护，并点缀出一种令人肃然起敬的优雅。这顶头盔为整个头部提供极大的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力并大幅提升社交影响力。</DankPyon_Headgear_ArmetNamed.description>
+
+  <DankPyon_Headgear_Lindwurm.label>林德虫鳞盔</DankPyon_Headgear_Lindwurm.label>
+  <DankPyon_Headgear_Lindwurm.description>用林德虫鳞片制作而成的头盔。戴上这顶头盔是一种力量的彰显，因为这证明他们杀死了一条危险的林德虫。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这顶头盔能保护配戴者免受林德虫酸蚀效果影响。</DankPyon_Headgear_Lindwurm.description>
+
+</LanguageData>

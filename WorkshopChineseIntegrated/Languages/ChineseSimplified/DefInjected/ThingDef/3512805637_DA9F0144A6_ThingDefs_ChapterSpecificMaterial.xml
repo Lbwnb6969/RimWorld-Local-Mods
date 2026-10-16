@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: legion material I - Dark Angels -->
+  <BEWH_ChapterMaterialI.label>军团材料 I - 黑暗天使</BEWH_ChapterMaterialI.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion I - Dark Angels. -->
+  <BEWH_ChapterMaterialI.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第一军团“黑暗天使”的基因突变物质。</BEWH_ChapterMaterialI.description>
+  <!-- EN: Dark Angels -->
+  <BEWH_ChapterMaterialI.modExtensions.0.shownMaterialName>黑暗天使</BEWH_ChapterMaterialI.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material III - Emperor's Children -->
+  <BEWH_ChapterMaterialIII.label>军团材料 III - 帝皇之子</BEWH_ChapterMaterialIII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion III - Emperor's Children. -->
+  <BEWH_ChapterMaterialIII.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第三军团“帝皇之子”的基因突变物质。</BEWH_ChapterMaterialIII.description>
+  <!-- EN: Emperor's Children -->
+  <BEWH_ChapterMaterialIII.modExtensions.0.shownMaterialName>帝皇之子</BEWH_ChapterMaterialIII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material IV - Iron Warriors -->
+  <BEWH_ChapterMaterialIV.label>军团材料 IV - 钢铁勇士</BEWH_ChapterMaterialIV.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion IV - Iron Warriors. -->
+  <BEWH_ChapterMaterialIV.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第四军团“钢铁之手”的基因突变物质。</BEWH_ChapterMaterialIV.description>
+  <!-- EN: Iron Warriors -->
+  <BEWH_ChapterMaterialIV.modExtensions.0.shownMaterialName>钢铁勇士</BEWH_ChapterMaterialIV.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material IX - Blood Angels -->
+  <BEWH_ChapterMaterialIX.label>军团材料 IX - 圣血天使</BEWH_ChapterMaterialIX.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion IX - Blood Angels. -->
+  <BEWH_ChapterMaterialIX.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第九军团“圣血天使”的基因突变物质。</BEWH_ChapterMaterialIX.description>
+  <!-- EN: Blood Angels -->
+  <BEWH_ChapterMaterialIX.modExtensions.0.shownMaterialName>圣血天使</BEWH_ChapterMaterialIX.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material V - White Scars -->
+  <BEWH_ChapterMaterialV.label>军团材料 V - 白色疤痕</BEWH_ChapterMaterialV.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion V - White Scars. -->
+  <BEWH_ChapterMaterialV.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第五军团“白色疤痕”的基因突变物质。</BEWH_ChapterMaterialV.description>
+  <!-- EN: White Scars -->
+  <BEWH_ChapterMaterialV.modExtensions.0.shownMaterialName>白色疤痕</BEWH_ChapterMaterialV.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material VI - Space Wolves -->
+  <BEWH_ChapterMaterialVI.label>军团材料 VI - 太空野狼</BEWH_ChapterMaterialVI.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion VI - Space Wolves. -->
+  <BEWH_ChapterMaterialVI.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第六军团“太空野狼”的基因突变物质。</BEWH_ChapterMaterialVI.description>
+  <!-- EN: Space Wolves -->
+  <BEWH_ChapterMaterialVI.modExtensions.0.shownMaterialName>太空野狼</BEWH_ChapterMaterialVI.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material VII - Imperial Fists -->
+  <BEWH_ChapterMaterialVII.label>军团材料 VII - 帝国之拳</BEWH_ChapterMaterialVII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion VII - Imperial Fists. -->
+  <BEWH_ChapterMaterialVII.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第七军团“帝国之拳”的基因突变物质。</BEWH_ChapterMaterialVII.description>
+  <!-- EN: Imperial Fists -->
+  <BEWH_ChapterMaterialVII.modExtensions.0.shownMaterialName>帝国之拳</BEWH_ChapterMaterialVII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material VIII - Night Lords -->
+  <BEWH_ChapterMaterialVIII.label>军团材料 VIII - 午夜领主</BEWH_ChapterMaterialVIII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion VIII - Night Lords. -->
+  <BEWH_ChapterMaterialVIII.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第八军团“午夜领主”的基因突变物质。</BEWH_ChapterMaterialVIII.description>
+  <!-- EN: Night Lords -->
+  <BEWH_ChapterMaterialVIII.modExtensions.0.shownMaterialName>午夜领主</BEWH_ChapterMaterialVIII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material X - Iron Hands -->
+  <BEWH_ChapterMaterialX.label>军团材料 X - 钢铁之手</BEWH_ChapterMaterialX.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion X - Iron Hands. -->
+  <BEWH_ChapterMaterialX.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第十军团“钢铁之手”的基因突变物质。</BEWH_ChapterMaterialX.description>
+  <!-- EN: Iron Hands -->
+  <BEWH_ChapterMaterialX.modExtensions.0.shownMaterialName>钢铁之手</BEWH_ChapterMaterialX.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material XII - World Eaters -->
+  <BEWH_ChapterMaterialXII.label>军团材料 XII - 吞世者</BEWH_ChapterMaterialXII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion XII - World Eaters. -->
+  <BEWH_ChapterMaterialXII.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第十二军团“吞世者”的基因突变物质。</BEWH_ChapterMaterialXII.description>
+  <!-- EN: World Eaters -->
+  <BEWH_ChapterMaterialXII.modExtensions.0.shownMaterialName>吞世者</BEWH_ChapterMaterialXII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material XIII - Ultramarines -->
+  <BEWH_ChapterMaterialXIII.label>军团材料 XIII - 极限战士</BEWH_ChapterMaterialXIII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion XIII - Ultramarines. -->
+  <BEWH_ChapterMaterialXIII.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第十三军团“极限战士”的基因突变物质。</BEWH_ChapterMaterialXIII.description>
+  <!-- EN: Ultramarines -->
+  <BEWH_ChapterMaterialXIII.modExtensions.0.shownMaterialName>极限战士</BEWH_ChapterMaterialXIII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material XIV - Death Guard -->
+  <BEWH_ChapterMaterialXIV.label>军团材料 XIV - 死亡守卫</BEWH_ChapterMaterialXIV.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion XIV - Death Guard. -->
+  <BEWH_ChapterMaterialXIV.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第十四军团“死亡守卫”的基因突变物质。</BEWH_ChapterMaterialXIV.description>
+  <!-- EN: Death Guard -->
+  <BEWH_ChapterMaterialXIV.modExtensions.0.shownMaterialName>死亡守卫</BEWH_ChapterMaterialXIV.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material XIX - Raven Guard -->
+  <BEWH_ChapterMaterialXIX.label>军团材料 XIX - 暗鸦守卫</BEWH_ChapterMaterialXIX.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion XIX - Raven Guard. -->
+  <BEWH_ChapterMaterialXIX.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第十九军团“暗鸦守卫”的基因突变物质。</BEWH_ChapterMaterialXIX.description>
+  <!-- EN: Raven Guard -->
+  <BEWH_ChapterMaterialXIX.modExtensions.0.shownMaterialName>暗鸦守卫</BEWH_ChapterMaterialXIX.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material XV - Thousand Sons -->
+  <BEWH_ChapterMaterialXV.label>军团材料 XV - 千疮之子</BEWH_ChapterMaterialXV.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion XV - Thousand Sons. -->
+  <BEWH_ChapterMaterialXV.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第十五军团“千疮之子”的基因突变物质。</BEWH_ChapterMaterialXV.description>
+  <!-- EN: Thousand Sons -->
+  <BEWH_ChapterMaterialXV.modExtensions.0.shownMaterialName>千疮之子</BEWH_ChapterMaterialXV.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material XVI - Sons of Horus -->
+  <BEWH_ChapterMaterialXVI.label>军团材料 XVI - 荷鲁斯之子</BEWH_ChapterMaterialXVI.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion XVI - Sons of Horus. -->
+  <BEWH_ChapterMaterialXVI.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第十六军团“荷鲁斯之子”的基因突变物质。</BEWH_ChapterMaterialXVI.description>
+  <!-- EN: Sons of Horus -->
+  <BEWH_ChapterMaterialXVI.modExtensions.0.shownMaterialName>荷鲁斯之子</BEWH_ChapterMaterialXVI.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material XVII - Word Bearers -->
+  <BEWH_ChapterMaterialXVII.label>军团材料 XVII - 怀言者</BEWH_ChapterMaterialXVII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion XVII - Word Bearers. -->
+  <BEWH_ChapterMaterialXVII.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第十七军团“怀言者”的基因突变物质。</BEWH_ChapterMaterialXVII.description>
+  <!-- EN: Word Bearers -->
+  <BEWH_ChapterMaterialXVII.modExtensions.0.shownMaterialName>怀言者</BEWH_ChapterMaterialXVII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material XVIII - Salamanders -->
+  <BEWH_ChapterMaterialXVIII.label>军团材料 XVIII - 火蜥蜴</BEWH_ChapterMaterialXVIII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion XVIII - Salamanders. -->
+  <BEWH_ChapterMaterialXVIII.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第十八军团“火蜥蜴”的基因突变物质。</BEWH_ChapterMaterialXVIII.description>
+  <!-- EN: Salamanders -->
+  <BEWH_ChapterMaterialXVIII.modExtensions.0.shownMaterialName>火蜥蜴</BEWH_ChapterMaterialXVIII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: legion material XX - Alpha Legion -->
+  <BEWH_ChapterMaterialXX.label>军团材料 XX - 阿尔法军团</BEWH_ChapterMaterialXX.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Legion. Legion material develops within a Space Marine's body and can be harvested once fully developed and retrieved from the fallen.\n\nThis unit holds the genetic mutation material of Legion XX - Alpha Legion. -->
+  <BEWH_ChapterMaterialXX.description>专为储存特定星际战士军团神圣基因数据设计的容器。军团材料在星际战士体内发育成熟后，可从阵亡者体内回收。\n\n此容器包含第二十军团“阿尔法军团”的基因突变物质。</BEWH_ChapterMaterialXX.description>
+  <!-- EN: Alpha Legion -->
+  <BEWH_ChapterMaterialXX.modExtensions.0.shownMaterialName>阿尔法军团</BEWH_ChapterMaterialXX.modExtensions.0.shownMaterialName>
+  
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>lesson(priority=-1)->stuff happens</li>
+    <li>r_pattern->"[r_cubicismlessonIntro] [r_lesson]. [r_cubicismlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]'s [book] on [concept]</li>
+    <li>book->discourse</li>
+    <li>book->sermon</li>
+    <li>book->conclave</li>
+    <li>book->congregation</li>
+    <li>concept->Cubic Enlightenment</li>
+    <li>concept->Archotech Revelation</li>
+    <li>concept->Geometric Mysticism</li>
+    <li>concept->Transcendent Geometry</li>
+    <li>concept->The Sacred Angles</li>
+    <li>concept->Divine Symmetry</li>
+    <li>concept->Esoteric Constructs</li>
+    <li>cubicismlessonIntro->Welcome, faithful congregants, to today's sermon of enlightenment and revelation. As we gather in the sanctified halls of the Cubic Enclave, let us open our hearts and minds to the divine wisdom that emanates from the sacred Golden Cube. The Cube shows us that</li>
+    <li>cubicismlessonIntro->Blessings upon you, beloved disciples, as we come together in communion with the mysteries of the universe. Within these hallowed walls, we shall delve into the depths of Cubic Enlightenment. It will then become clear:</li>
+    <li>cubicismlessonIntro->Greetings, seekers of truth and enlightenment. Today, as we gather in the presence of the divine Cube, let us embark on a journey of discovery and introspection. It teaches us one thing:</li>
+    <li>cubicismlessonIntro->Dear friends, as we gather in the embrace of the Cubic Sanctuary, let us reflect upon the sacred teachings that have been passed down through generations. In the radiance of the Golden Cube you can realize that</li>
+    <li>cubicismlessonIntro->Beloved brethren, as we come together in fellowship and devotion, let us heed the call of the Cube and embrace its timeless wisdom. Within its sacred geometry lies the key to unlocking the mysteries of creation. You will show everyone that</li>
+    <li>cubicismlessonReinforcement->Go forth, disciples, and let the wisdom of the Cube guide your steps.</li>
+    <li>cubicismlessonReinforcement->Carry the light of the Cube with you as you journey through life.</li>
+    <li>cubicismlessonReinforcement->Embrace the teachings of the Cube and share its message of harmony.</li>
+    <li>cubicismlessonReinforcement->Until we gather again, may the presence of the Cube be your constant companion.</li>
+    <li>cubicismlessonReinforcement->With the Cube's blessings, may you find peace and enlightenment in all your endeavors.</li>
+  -->
+  <AM_CubicDescription.rules.rulesStrings>  
+    <li>lesson(priority=-1)->事情发生了</li>
+    <li>r_pattern->“[r_cubicismlessonIntro][r_lesson]。[r_cubicismlessonReinforcement]”\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]，关于[concept]的[book]</li>
+    <li>book->宣讲</li>
+    <li>book->布道</li>
+    <li>book->秘会</li>
+    <li>book->集会</li>
+    <li>concept->魔方悟道</li>
+    <li>concept->超凡启示</li>
+    <li>concept->几何秘术</li>
+    <li>concept->几何飞升</li>
+    <li>concept->圣洁角度</li>
+    <li>concept->神圣对称</li>
+    <li>concept->秘奥结构</li>
+    <li>cubicismlessonIntro->虔诚的信徒们，欢迎参加今日的启示布道。当我们齐聚于魔方飞地的神圣大堂中时，让我们尽情在至高金色魔方流露出的无穷智慧前吐露心声。魔方向我们揭示了</li>
+    <li>cubicismlessonIntro->祝福你们哟，亲爱的信徒们，我们齐聚于此处，只为与宇宙的辛秘交流探讨。在这神圣之墙内，我们将深入钻研魔方的启示。这样我们就能明白：</li>
+    <li>cubicismlessonIntro->日安，真理与启示的探求者们。我们于此时齐聚在神圣魔方面前，开始发现与内省之旅。它让我们明白了一件事情：</li>
+    <li>cubicismlessonIntro->亲爱的朋友们，我们齐聚于魔方圣域的怀抱中，深思世代相传的神圣教义。在金色魔方的光辉下，你将认识到</li>
+    <li>cubicismlessonIntro->亲爱且虔诚的教友们，我们因共同的目的遵从魔方的召唤，拥抱它永恒的智慧。它神圣的几何形状乃是揭示创造奥秘的密匙。你们会向世人表明</li>
+    <li>cubicismlessonReinforcement->前行吧，信徒们，让魔方的智慧为你们指明方向。</li>
+    <li>cubicismlessonReinforcement->让魔方的光辉照亮你们的人生旅途。</li>
+    <li>cubicismlessonReinforcement->拥抱魔方的教诲，分享它和谐的旨意。</li>
+    <li>cubicismlessonReinforcement->直到我们再次齐聚前，愿魔方永伴你们左右。</li>
+    <li>cubicismlessonReinforcement->在魔方的庇佑下，愿你们能通过努力寻求到和平与启示。</li>
+  </AM_CubicDescription.rules.rulesStrings>
+  
+</LanguageData>

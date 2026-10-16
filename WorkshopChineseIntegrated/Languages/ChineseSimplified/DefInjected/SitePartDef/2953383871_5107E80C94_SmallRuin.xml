@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Small_Ruin.label>小型废墟</DankPyon_Small_Ruin.label>
+  <DankPyon_Small_Ruin.description>一座小型废墟。\n\n(Medieval Overhaul)</DankPyon_Small_Ruin.description>
+
+  <DankPyon_Medium_Ruin.label>大型废墟</DankPyon_Medium_Ruin.label>
+  <DankPyon_Medium_Ruin.description>一座大型废墟。\n\n(Medieval Overhaul)</DankPyon_Medium_Ruin.description>
+
+
+  <!-- Big Ruin -->
+
+  <DankPyon_Big_Snake_Ruin.label>蛇出没的废墟</DankPyon_Big_Snake_Ruin.label>
+  <DankPyon_Big_Snake_Ruin.description>一座巨蛇出没的废墟。\n\n(Medieval Overhaul)</DankPyon_Big_Snake_Ruin.description>
+
+
+</LanguageData>

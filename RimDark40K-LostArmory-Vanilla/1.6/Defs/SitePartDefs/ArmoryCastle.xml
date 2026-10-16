@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SitePartDef>
+    <defName>Local_RimDark40K_ArmoryCastle_I</defName>
+    <label>chapter armory fortress</label>
+    <description>A fortified perimeter protects the lost chapter armory.</description>
+    <workerClass>Local.RimDark40K.LostArmoryVanilla.SitePartWorker_ArmoryCastle</workerClass>
+    <minMapSize>(200,1,200)</minMapSize><tags><li>Local_RimDark40K_ArmoryCastle_I</li></tags>
+  </SitePartDef>
+  <SitePartDef>
+    <defName>Local_RimDark40K_ArmoryCastle_II</defName>
+    <label>Primaris vault fortress</label>
+    <description>Two fortified perimeters protect the sealed Primaris vault.</description>
+    <workerClass>Local.RimDark40K.LostArmoryVanilla.SitePartWorker_ArmoryCastle</workerClass>
+    <minMapSize>(210,1,210)</minMapSize><tags><li>Local_RimDark40K_ArmoryCastle_II</li></tags>
+  </SitePartDef>
+  <SitePartDef>
+    <defName>Local_RimDark40K_ArmoryCastle_III</defName>
+    <label>golden armory fortress</label>
+    <description>Three fortified perimeters protect the golden armory and its Imperial relics.</description>
+    <workerClass>Local.RimDark40K.LostArmoryVanilla.SitePartWorker_ArmoryCastle</workerClass>
+    <minMapSize>(220,1,220)</minMapSize><tags><li>Local_RimDark40K_ArmoryCastle_III</li></tags>
+  </SitePartDef>
+</Defs>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>GW_Ruler_EmperorLOTD_24Hours</defName>
+    <label>Legionnaire of the Damned</label>
+    <description>This pawn is of the Legion of the Damned, summoned by the Emperor to do their duty. They will be banished back to the Warp in 24 hours.</description>
+    <isBad>false</isBad>
+    <hediffClass>HediffWithComps</hediffClass>
+    <initialSeverity>0.001</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <stages>
+      <li>
+        <disabledWorkTags>
+          <li>Caring</li>
+          <li>ManualDumb</li>
+          <li>Intellectual</li>
+          <li>ManualSkilled</li>
+          <li>Animals</li>
+          <li>Artistic</li>
+          <li>Social</li>
+        </disabledWorkTags>
+        <!-- <becomeVisible>false</becomeVisible> -->
+      </li>
+    </stages>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.HediffCompProperties_DespawnAfterRemoved" />
+      <li Class="HediffCompProperties_Disappears">
+        <disappearsAfterTicks>60000</disappearsAfterTicks>
+        <showRemainingTime>true</showRemainingTime>
+      </li>
+    </comps>
+  </HediffDef>
+  <HediffDef>
+    <defName>GW_Ruler_EmperorLOTD_12Hours</defName>
+    <label>Legionnaire of the Damned</label>
+    <description>This pawn is of the Legion of the Damned, summoned by the Emperor to do their duty. They will be banished back to the Warp in 12 hours.</description>
+    <isBad>false</isBad>
+    <hediffClass>HediffWithComps</hediffClass>
+    <initialSeverity>0.001</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <stages>
+      <li>
+        <disabledWorkTags>
+          <li>Caring</li>
+          <li>ManualDumb</li>
+          <li>Intellectual</li>
+          <li>ManualSkilled</li>
+          <li>Animals</li>
+          <li>Artistic</li>
+          <li>Social</li>
+        </disabledWorkTags>
+        <!-- <becomeVisible>false</becomeVisible> -->
+      </li>
+    </stages>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.HediffCompProperties_DespawnAfterRemoved" />
+      <li Class="HediffCompProperties_Disappears">
+        <disappearsAfterTicks>30000</disappearsAfterTicks>
+        <showRemainingTime>true</showRemainingTime>
+      </li>
+    </comps>
+  </HediffDef>
+  <HediffDef>
+    <defName>GW_Ruler_EmperorLOTD_6Hours</defName>
+    <label>Legionnaire of the Damned</label>
+    <description>This pawn is of the Legion of the Damned, summoned by the Emperor to do their duty. They will be banished back to the Warp in 6 hours.</description>
+    <isBad>false</isBad>
+    <hediffClass>HediffWithComps</hediffClass>
+    <initialSeverity>0.001</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <stages>
+      <li>
+        <disabledWorkTags>
+          <li>Caring</li>
+          <li>ManualDumb</li>
+          <li>Intellectual</li>
+          <li>ManualSkilled</li>
+          <li>Animals</li>
+          <li>Artistic</li>
+          <li>Social</li>
+        </disabledWorkTags>
+        <!-- <becomeVisible>false</becomeVisible> -->
+      </li>
+    </stages>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.HediffCompProperties_DespawnAfterRemoved" />
+      <li Class="HediffCompProperties_Disappears">
+        <disappearsAfterTicks>15000</disappearsAfterTicks>
+        <showRemainingTime>true</showRemainingTime>
+      </li>
+    </comps>
+  </HediffDef>
+</Defs>

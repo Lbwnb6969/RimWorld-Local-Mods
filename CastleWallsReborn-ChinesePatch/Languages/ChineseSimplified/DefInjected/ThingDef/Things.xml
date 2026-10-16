@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <JDS_WallsTwo.label>城堡墙（1x2）</JDS_WallsTwo.label>
+  <JDS_WallsTwo.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_WallsTwo.description>
+
+  <JDS_Walls.label>城堡墙（2x2）</JDS_Walls.label>
+  <JDS_Walls.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Walls.description>
+
+  <JDS_Walls_Embrasure.label>城堡墙射孔</JDS_Walls_Embrasure.label>
+  <JDS_Walls_Embrasure.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</JDS_Walls_Embrasure.description>
+
+  <Castle_Walls_Corner_Embrasure.label>城堡墙转角射孔</Castle_Walls_Corner_Embrasure.label>
+  <Castle_Walls_Corner_Embrasure.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</Castle_Walls_Corner_Embrasure.description>
+
+  <JDS_Walls_End.label>城堡墙端段</JDS_Walls_End.label>
+  <JDS_Walls_End.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Walls_End.description>
+
+  <JDS_Walls_L_connector.label>L 型城堡墙连接段</JDS_Walls_L_connector.label>
+  <JDS_Walls_L_connector.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Walls_L_connector.description>
+  <JDS_Walls_T_connector.label>T 型城堡墙连接段</JDS_Walls_T_connector.label>
+  <JDS_Walls_T_connector.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Walls_T_connector.description>
+  <JDS_Wall_X_connector.label>X 型城堡墙连接段</JDS_Wall_X_connector.label>
+  <JDS_Wall_X_connector.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Wall_X_connector.description>
+
+  <JDS_Tower.label>城堡塔楼</JDS_Tower.label>
+  <JDS_Tower.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Tower.description>
+  <JDS_Tower_connector.label>城堡塔楼连接段</JDS_Tower_connector.label>
+  <JDS_Tower_connector.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Tower_connector.description>
+  <JDS_Tower_I_connector.label>I 型城堡塔楼连接段</JDS_Tower_I_connector.label>
+  <JDS_Tower_I_connector.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Tower_I_connector.description>
+  <JDS_Tower_T_connector.label>T 型城堡塔楼连接段</JDS_Tower_T_connector.label>
+  <JDS_Tower_T_connector.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Tower_T_connector.description>
+  <JDS_Tower_L_connector.label>L 型城堡塔楼连接段</JDS_Tower_L_connector.label>
+  <JDS_Tower_L_connector.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Tower_L_connector.description>
+
+  <JDS_Walls_Embrasure_Corner.label>城堡墙转角射孔（旧版）</JDS_Walls_Embrasure_Corner.label>
+  <JDS_Walls_Embrasure_Corner.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</JDS_Walls_Embrasure_Corner.description>
+
+  <JDS_Castle_Gate.label>城堡大门</JDS_Castle_Gate.label>
+  <JDS_Castle_Gate.description>设置在城堡入口处的坚固防御建筑。</JDS_Castle_Gate.description>
+
+  <Defend_Tower_Arrow.label>巨弓箭矢</Defend_Tower_Arrow.label>
+  <Defend_Tower_GreatBow.label>防御塔巨弓</Defend_Tower_GreatBow.label>
+  <Defend_Tower_GreatBow.description>安装在防御塔上的自动巨弓。</Defend_Tower_GreatBow.description>
+
+  <JDS_Defense_Tower.label>防御塔连接段</JDS_Defense_Tower.label>
+  <JDS_Defense_Tower.description>防御塔又称城墙塔，可用弩或其他投射武器对笔直的幕墙地段提供侧向火力。</JDS_Defense_Tower.description>
+  <JDS_Defense_Tower.comps.2.fuelLabel>剩余箭矢</JDS_Defense_Tower.comps.2.fuelLabel>
+  <JDS_Defense_Tower.comps.2.fuelGizmoLabel>巨弓耐久度</JDS_Defense_Tower.comps.2.fuelGizmoLabel>
+  <JDS_Defense_Tower.comps.2.outOfFuelMessage>无法射击：需要更换箭矢</JDS_Defense_Tower.comps.2.outOfFuelMessage>
+
+  <JDS_I_Defense_Tower.label>I 型防御塔连接段</JDS_I_Defense_Tower.label>
+  <JDS_I_Defense_Tower.description>防御塔又称城墙塔，可用弩或其他投射武器对笔直的幕墙地段提供侧向火力。</JDS_I_Defense_Tower.description>
+  <JDS_I_Defense_Tower.comps.2.fuelLabel>剩余箭矢</JDS_I_Defense_Tower.comps.2.fuelLabel>
+  <JDS_I_Defense_Tower.comps.2.fuelGizmoLabel>巨弓耐久度</JDS_I_Defense_Tower.comps.2.fuelGizmoLabel>
+  <JDS_I_Defense_Tower.comps.2.outOfFuelMessage>无法射击：需要更换箭矢</JDS_I_Defense_Tower.comps.2.outOfFuelMessage>
+
+  <JDS_L_Defense_Tower.label>L 型防御塔连接段</JDS_L_Defense_Tower.label>
+  <JDS_L_Defense_Tower.description>防御塔又称城墙塔，可用弩或其他投射武器对笔直的幕墙地段提供侧向火力。</JDS_L_Defense_Tower.description>
+  <JDS_L_Defense_Tower.comps.2.fuelLabel>剩余箭矢</JDS_L_Defense_Tower.comps.2.fuelLabel>
+  <JDS_L_Defense_Tower.comps.2.fuelGizmoLabel>巨弓耐久度</JDS_L_Defense_Tower.comps.2.fuelGizmoLabel>
+  <JDS_L_Defense_Tower.comps.2.outOfFuelMessage>无法射击：需要更换箭矢</JDS_L_Defense_Tower.comps.2.outOfFuelMessage>
+
+  <JDS_T_Defense_Tower.label>T 型防御塔连接段</JDS_T_Defense_Tower.label>
+  <JDS_T_Defense_Tower.description>防御塔又称城墙塔，可用弩或其他投射武器对笔直的幕墙地段提供侧向火力。</JDS_T_Defense_Tower.description>
+  <JDS_T_Defense_Tower.comps.2.fuelLabel>剩余箭矢</JDS_T_Defense_Tower.comps.2.fuelLabel>
+  <JDS_T_Defense_Tower.comps.2.fuelGizmoLabel>巨弓耐久度</JDS_T_Defense_Tower.comps.2.fuelGizmoLabel>
+  <JDS_T_Defense_Tower.comps.2.outOfFuelMessage>无法射击：需要更换箭矢</JDS_T_Defense_Tower.comps.2.outOfFuelMessage>
+</LanguageData>

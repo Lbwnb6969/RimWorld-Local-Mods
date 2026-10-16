@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: handaxe -->
+  <TA_Handaxe.label>手斧</TA_Handaxe.label>
+  <!-- EN: . -->
+  <TA_Handaxe.description>轻便的单手斧，适合日常使用和战斗。</TA_Handaxe.description>
+  <!-- EN: shaft -->
+  <TA_Handaxe.tools.shaft.label>斧柄</TA_Handaxe.tools.shaft.label>
+  <!-- EN: head -->
+  <TA_Handaxe.tools.head.label>斧头</TA_Handaxe.tools.head.label>
+  <!-- EN: edge -->
+  <TA_Handaxe.tools.edge.label>斧刃</TA_Handaxe.tools.edge.label>
+  
+</LanguageData>

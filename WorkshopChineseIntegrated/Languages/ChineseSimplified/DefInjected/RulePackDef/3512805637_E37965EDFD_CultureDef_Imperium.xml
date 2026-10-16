@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_deityType->The Anathema</li>
+    <li>r_deityType->The Revelation</li>
+    <li>r_deityType->The Lord of Man</li>
+    <li>r_deityType->The Ruler of the Imperium</li>
+  -->
+  <BEWH_DeityTypeMakerImperium.rulePack.rulesStrings>
+    <li>r_deityType->受诅者</li>
+    <li>r_deityType->启示者</li>
+    <li>r_deityType->人类之主</li>
+    <li>r_deityType->帝国的统治者</li>
+  </BEWH_DeityTypeMakerImperium.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_leaderTitle->Chapter Master</li>
+  -->
+  <BEWH_LeaderTitleMakerImperium.rulePack.rulesStrings>
+    <li>r_leaderTitle->战团长</li>
+  </BEWH_LeaderTitleMakerImperium.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityName->Holy God Emperor</li>
+    <li>r_deityName->God Emperor</li>
+    <li>r_deityName->The Emperor</li>
+    <li>r_deityName->The Emperor of Mankind</li>
+    <li>r_deityName->The God Emperor of Mankind</li>
+    <li>r_deityName->God Emperor of Mankind</li>
+    <li>r_deityName->Him on Terra</li>
+    <li>r_deityName->The Allfather</li>
+  -->
+  <BEWH_NamerDeityImperium.rulePack.rulesStrings>
+    <li>r_deityName->神圣神皇</li>
+    <li>r_deityName->神皇</li>
+    <li>r_deityName->帝皇</li>
+    <li>r_deityName->人类帝皇</li>
+    <li>r_deityName->人类神皇</li>
+    <li>r_deityName->人类神皇</li>
+    <li>r_deityName->泰拉圣座</li>
+    <li>r_deityName->万物之父</li>
+  </BEWH_NamerDeityImperium.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_ideoName->Imperium of Man</li>
+    <li>r_ideoAdjective->Imperial</li>
+    <li>r_memberName->Imperial</li>
+  -->
+  <BEWH_NamerIdeoImperium.rulePack.rulesStrings>
+    <li>r_ideoName->人类帝国</li>
+    <li>r_ideoAdjective->帝国的</li>
+    <li>r_memberName->帝国公民</li>
+  </BEWH_NamerIdeoImperium.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_ritualName->Celebration of the Emperor</li>
+  -->
+  <BEWH_NamerRitualFestivalImperium.rulePack.rulesStrings>
+    <li>r_ritualName->帝皇升天节</li>
+  </BEWH_NamerRitualFestivalImperium.rulePack.rulesStrings>
+  
+</LanguageData>

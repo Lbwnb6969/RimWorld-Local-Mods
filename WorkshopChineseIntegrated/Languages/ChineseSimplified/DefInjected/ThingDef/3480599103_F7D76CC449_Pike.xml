@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: long pike -->
+  <TA_Pike.label>长矛</TA_Pike.label>
+  <!-- EN: . -->
+  <TA_Pike.description>超长柄武器，专门用于对抗骑兵冲锋。</TA_Pike.description>
+  <!-- EN: shaft -->
+  <TA_Pike.tools.shaft-0.label>矛柄</TA_Pike.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_Pike.tools.shaft-1.label>矛柄</TA_Pike.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_Pike.tools.head.label>矛头</TA_Pike.tools.head.label>
+  
+</LanguageData>

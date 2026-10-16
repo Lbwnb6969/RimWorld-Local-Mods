@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_Ranching_CattleCentered.label>以牛为主</AM_Ranching_CattleCentered.label> 
+  
+  <AM_Ranching_CattleCentered.description>牧场的心脏与牧群齐同律动。我们的牛可不仅仅是牲畜而已；它们更是整个社群的命脉。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 此戒律对于“牛”的定义其实相当宽泛：任何可以挤奶的动物都包括在内，再额外加上雪牛和野牛。没错，其他mod添加的动物也算。你甚至可以打造一座霜之巨螨牧场！</AM_Ranching_CattleCentered.description>
+  
+  <AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.0>没有牛类动物</AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.0>
+  
+  <AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.1>缺少牛类动物{STAGE1}</AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.1>
+  
+  <AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.2>较少牛类动物{STAGE2}</AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.2>
+  
+  <AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.3>一些牛类动物{STAGE4}</AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.3>
+  
+  <AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.4>很多牛类动物{STAGE5}</AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.4>
+  
+  <AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.5>大量牛类动物</AM_Ranching_CattleCentered.comps.0.thoughtStageDescriptions.5>
+  
+  <AM_Ranching_CattleCentered.comps.1.thoughtStageDescriptions.0>附近没有畜栏</AM_Ranching_CattleCentered.comps.1.thoughtStageDescriptions.0>
+  
+  <AM_Ranching_CattleCentered.comps.1.thoughtStageDescriptions.1>附近有畜栏</AM_Ranching_CattleCentered.comps.1.thoughtStageDescriptions.1>
+  
+  <AM_Ranching_CattleCentered.comps.1.thoughtStageDescriptions.2>附近有畜栏（2个及以上）</AM_Ranching_CattleCentered.comps.1.thoughtStageDescriptions.2>
+  
+</LanguageData>

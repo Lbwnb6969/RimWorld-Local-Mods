@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bearded troll -->
+  <DA_BeardedTroll.label>长须巨魔</DA_BeardedTroll.label>
+  <!-- EN: This large, eyeless predator roams the frigid landscape, constantly in search of food. During winter, they often retreat deep into underground burrows, to feast on the many corpses they hoarded throughout the rest of the year. Relentless and capable of quickly regenerating its wounds, it allows the trolls to take down creatures much stronger than itself.\n\nTrolls spread quickly and are considered a dangerous pest as they frequently attack caravans and travelers. However their hide and delicious meat makes them a target of many hunters. -->
+  <DA_BeardedTroll.description>这种大型无眼捕食者在冻土上漫游，一直在寻找食物。冬天它们往往会撤回到地底洞穴，享用一年来贮存的尸体。不知疲惫和快速再生的能力使得它们能猎捕比自己强得多的生物。\n\n巨魔扩散迅速且对过往的旅客造成巨大威胁，故而被视为一种害虫。然而它们的皮毛和美味的肉也使得它们成为不少猎人的目标。</DA_BeardedTroll.description>
+  <!-- EN: head -->
+  <DA_BeardedTroll.tools.head.label>头</DA_BeardedTroll.tools.head.label>
+  <!-- EN: left claw -->
+  <DA_BeardedTroll.tools.left_claw.label>左爪</DA_BeardedTroll.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <DA_BeardedTroll.tools.right_claw.label>右爪</DA_BeardedTroll.tools.right_claw.label>
+  
+</LanguageData>

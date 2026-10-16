@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abstinent -->
+  <RT_Abstinent.degreeDatas.abstinent.label>禁欲者</RT_Abstinent.degreeDatas.abstinent.label>
+  <!-- EN: [PAWN_nameDef] doesn't eat or drink much. -->
+  <RT_Abstinent.degreeDatas.abstinent.description>[PAWN_nameDef]不怎么吃喝。</RT_Abstinent.degreeDatas.abstinent.description>
+  
+  <!-- EN: athletic -->
+  <RT_Athletic.degreeDatas.athletic.label>运动员</RT_Athletic.degreeDatas.athletic.label>
+  <!-- EN: [PAWN_nameDef]'s movements are smooth and graceful. -->
+  <RT_Athletic.degreeDatas.athletic.description>[PAWN_nameDef]的动作流畅优美。</RT_Athletic.degreeDatas.athletic.description>
+  
+  <!-- EN: cold intolerant -->
+  <RT_ColdIntolerant.degreeDatas.cold_intolerant.label>怕冷</RT_ColdIntolerant.degreeDatas.cold_intolerant.label>
+  <!-- EN: [PAWN_nameDef] does not like being in the cold. -->
+  <RT_ColdIntolerant.degreeDatas.cold_intolerant.description>[PAWN_nameDef]不喜欢在低温下工作。</RT_ColdIntolerant.degreeDatas.cold_intolerant.description>
+  
+  <!-- EN: cold tolerant -->
+  <RT_ColdTolerant.degreeDatas.cold_tolerant.label>耐寒</RT_ColdTolerant.degreeDatas.cold_tolerant.label>
+  <!-- EN: [PAWN_nameDef] is more comfortable being in cold environment than his peers. -->
+  <RT_ColdTolerant.degreeDatas.cold_tolerant.description>[PAWN_nameDef]比普通人更喜欢在寒冷的环境中生活。</RT_ColdTolerant.degreeDatas.cold_tolerant.description>
+  
+  <!-- EN: composed -->
+  <RT_Composed.degreeDatas.composed.label>镇定</RT_Composed.degreeDatas.composed.label>
+  <!-- EN: [PAWN_nameDef] is usually calm and collected. -->
+  <RT_Composed.degreeDatas.composed.description>[PAWN_nameDef]]平时沉稳冷静。</RT_Composed.degreeDatas.composed.description>
+  
+  <!-- EN: craven -->
+  <RT_Craven.degreeDatas.craven.label>胆小</RT_Craven.degreeDatas.craven.label>
+  <!-- EN: When there's a fight, [PAWN_nameDef] is the first to run. -->
+  <RT_Craven.degreeDatas.craven.description>当发生战斗时，[PAWN_nameDef]总会是第一个跑的。</RT_Craven.degreeDatas.craven.description>
+  
+  <!-- EN: efficient -->
+  <RT_Efficient.degreeDatas.efficient.label>高效</RT_Efficient.degreeDatas.efficient.label>
+  <!-- EN: [PAWN_nameDef] is quite productive when it comes to work. -->
+  <RT_Efficient.degreeDatas.efficient.description>[PAWN_nameDef]在工作的时候是相当高效的。</RT_Efficient.degreeDatas.efficient.description>
+  
+  <!-- EN: energetic -->
+  <RT_Energetic.degreeDatas.energetic.label>活力四射</RT_Energetic.degreeDatas.energetic.label>
+  <!-- EN: [PAWN_nameDef] always tackle his tasks with great enthusism. -->
+  <RT_Energetic.degreeDatas.energetic.description>[PAWN_nameDef]总是以极大的热情去完成他的任务。</RT_Energetic.degreeDatas.energetic.description>
+  
+  <!-- EN: farsighted -->
+  <RT_Farsighted.degreeDatas.farsighted.label>远视</RT_Farsighted.degreeDatas.farsighted.label>
+  <!-- EN: [PAWN_nameDef] could spot a target from nearly a hundred meters, yet still somehow walk into walls. -->
+  <RT_Farsighted.degreeDatas.farsighted.description>[PAWN_nameDef] could spot a target from nearly a hundred meters, yet still somehow walk into walls. [PAWN_nameDef]可以在近百米外发现目标，却还是莫名其妙的走进了墙壁。</RT_Farsighted.degreeDatas.farsighted.description>
+  
+  <!-- EN: fragile -->
+  <RT_Fragile.degreeDatas.fragile.label>脆弱</RT_Fragile.degreeDatas.fragile.label>
+  <!-- EN: [PAWN_nameDef] lived a pampered life until now, and is unused to the brutal challenges present out in the Rim. -->
+  <RT_Fragile.degreeDatas.fragile.description>[PAWN_nameDef]过着养尊处优的生活，直到现在都还不习惯边缘世界的残酷挑战。</RT_Fragile.degreeDatas.fragile.description>
+  
+  <!-- EN: frail -->
+  <RT_Frail.degreeDatas.frail.label>娇气</RT_Frail.degreeDatas.frail.label>
+  <!-- EN: [PAWN_nameDef] looks a bit fragile, but not in a lovable way. -->
+  <RT_Frail.degreeDatas.frail.description>[PAWN_nameDef]的身体看起来很娇气。不是可爱的那种。</RT_Frail.degreeDatas.frail.description>
+  
+  <!-- EN: good hygiene -->
+  <RT_GoodHygiene.degreeDatas.good_hygiene.label>整洁</RT_GoodHygiene.degreeDatas.good_hygiene.label>
+  <!-- EN: [PAWN_nameDef] takes care of [PAWN_possessive] personal hygiene. -->
+  <RT_GoodHygiene.degreeDatas.good_hygiene.description>[PAWN_nameDef]很注意[PAWN_possessive]个人卫生。</RT_GoodHygiene.degreeDatas.good_hygiene.description>
+  
+  <!-- EN: heat intolerant -->
+  <RT_HeatIntolerant.degreeDatas.heat_intolerant.label>怕热</RT_HeatIntolerant.degreeDatas.heat_intolerant.label>
+  <!-- EN: [PAWN_nameDef] does not like being in the heat. -->
+  <RT_HeatIntolerant.degreeDatas.heat_intolerant.description>[PAWN_nameDef]不喜欢在高温下工作。</RT_HeatIntolerant.degreeDatas.heat_intolerant.description>
+  
+  <!-- EN: heat tolerant -->
+  <RT_HeatTolerant.degreeDatas.heat_tolerant.label>耐热</RT_HeatTolerant.degreeDatas.heat_tolerant.label>
+  <!-- EN: [PAWN_nameDef] is more comfortable being in hot environment than his peers. -->
+  <RT_HeatTolerant.degreeDatas.heat_tolerant.description>[PAWN_nameDef]比普通人更喜欢在炎热的环境中生活。</RT_HeatTolerant.degreeDatas.heat_tolerant.description>
+  
+  <!-- EN: inefficient -->
+  <RT_Inefficient.degreeDatas.inefficient.label>低效</RT_Inefficient.degreeDatas.inefficient.label>
+  <!-- EN: [PAWN_nameDef] is somewhat of a bottleneck in the colony. -->
+  <RT_Inefficient.degreeDatas.inefficient.description>[PAWN_nameDef]某种程度上是殖民地发展的瓶颈。</RT_Inefficient.degreeDatas.inefficient.description>
+  
+  <!-- EN: muscular -->
+  <RT_Muscular.degreeDatas.muscular.label>肌肉发达</RT_Muscular.degreeDatas.muscular.label>
+  <!-- EN: [PAWN_nameDef] has a well built body, people around [PAWN_pronoun] find that rather attractive. -->
+  <RT_Muscular.degreeDatas.muscular.description>[PAWN_nameDef] 的身材很好，[PAWN_pronoun]周围的人都觉得这一点相当有吸引力。</RT_Muscular.degreeDatas.muscular.description>
+  
+  <!-- EN: nearsighted -->
+  <RT_Nearsighted.degreeDatas.nearsighted.label>近视</RT_Nearsighted.degreeDatas.nearsighted.label>
+  <!-- EN: [PAWN_nameDef] finds it difficult to focus on distant targets, and prefer to get up close and personal. -->
+  <RT_Nearsighted.degreeDatas.nearsighted.description>[PAWN_nameDef]发现很难将注意力集中在远处的目标上，而更喜欢近距离接触。</RT_Nearsighted.degreeDatas.nearsighted.description>
+  
+  <!-- EN: persuasive -->
+  <RT_Persuasive.degreeDatas.persuasive.label>能言善道</RT_Persuasive.degreeDatas.persuasive.label>
+  <!-- EN: [PAWN_nameDef] often gets [PAWN_possessive] way with things. -->
+  <RT_Persuasive.degreeDatas.persuasive.description>[PAWN_nameDef]经常会以[PAWN_possessive]的方式处理事情。</RT_Persuasive.degreeDatas.persuasive.description>
+  
+  <!-- EN: poor hygiene -->
+  <RT_PoorHygiene.degreeDatas.poor_hygiene.label>邋遢</RT_PoorHygiene.degreeDatas.poor_hygiene.label>
+  <!-- EN: [PAWN_nameDef] doesn't care about [PAWN_possessive] hygiene, and sometimes get sick from bad food. -->
+  <RT_PoorHygiene.degreeDatas.poor_hygiene.description>[PAWN_nameDef]不在乎[PAWN_possessive]卫生，有时会因为吃得不好而生病。</RT_PoorHygiene.degreeDatas.poor_hygiene.description>
+  
+  <!-- EN: ravenous -->
+  <RT_Ravenous.degreeDatas.ravenous.label>馋虫</RT_Ravenous.degreeDatas.ravenous.label>
+  <!-- EN: [PAWN_nameDef] has a bottomless pit for a stomach. -->
+  <RT_Ravenous.degreeDatas.ravenous.description>[PAWN_nameDef]有一个无底洞的胃。</RT_Ravenous.degreeDatas.ravenous.description>
+  
+  <!-- EN: resilient -->
+  <RT_Resilient.degreeDatas.resilient.label>韧性</RT_Resilient.degreeDatas.resilient.label>
+  <!-- EN: [PAWN_nameDef] has been in plenty of fights since [PAWN_pronoun] was a kid, and had built up a tolerance to injury and pain as a result. -->
+  <RT_Resilient.degreeDatas.resilient.description>从[PAWN_nameDef]小时候开始，[PAWN_pronoun]就经历了大量的战斗，也因此建立了对伤痛的承受能力。</RT_Resilient.degreeDatas.resilient.description>
+  
+  <!-- EN: restful -->
+  <RT_Restful.degreeDatas.restful.label>安逸</RT_Restful.degreeDatas.restful.label>
+  <!-- EN: [PAWN_nameDef] always sleep like a baby. -->
+  <RT_Restful.degreeDatas.restful.description>[PAWN_nameDef]总是睡得像个婴儿。</RT_Restful.degreeDatas.restful.description>
+  
+  <!-- EN: restless -->
+  <RT_Restless.degreeDatas.restless.label>躁动不安</RT_Restless.degreeDatas.restless.label>
+  <!-- EN: [PAWN_nameDef] often has a difficult time falling asleep. -->
+  <RT_Restless.degreeDatas.restless.description>[PAWN_nameDef]经常难以入睡。</RT_Restless.degreeDatas.restless.description>
+  
+  <!-- EN: rowdy -->
+  <RT_Rowdy.degreeDatas.rowdy.label>无赖</RT_Rowdy.degreeDatas.rowdy.label>
+  <!-- EN: [PAWN_nameDef] likes a good fight, [PAWN_pronoun] will sometimes start a fight just because [PAWN_pronoun] can. -->
+  <RT_Rowdy.degreeDatas.rowdy.description>[PAWN_nameDef]喜欢打架，[PAWN_pronoun]有时仅仅因为[PAWN_pronoun]想就挑起一场争端。</RT_Rowdy.degreeDatas.rowdy.description>
+  
+  <!-- EN: sluggish -->
+  <RT_Sluggish.degreeDatas.sluggish.label>迟缓</RT_Sluggish.degreeDatas.sluggish.label>
+  <!-- EN: [PAWN_nameDef] is slow. Sooo... slooow... -->
+  <RT_Sluggish.degreeDatas.sluggish.description>[PAWN_nameDef]不过做什么都很慢。太慢了... 太慢了...</RT_Sluggish.degreeDatas.sluggish.description>
+  
+  <!-- EN: stiff -->
+  <RT_Stiff.degreeDatas.stiff.label>僵硬</RT_Stiff.degreeDatas.stiff.label>
+  <!-- EN: [PAWN_nameDef] is so rigid, it's almost like [PAWN_pronoun] is souless. -->
+  <RT_Stiff.degreeDatas.stiff.description>[PAWN_nameDef]动起来太死板了，简直就像[PAWN_pronoun]没有灵魂一样。</RT_Stiff.degreeDatas.stiff.description>
+  
+  <!-- EN: unconvincing -->
+  <RT_Unconvincing.degreeDatas.unconvincing.label>笨嘴拙舌</RT_Unconvincing.degreeDatas.unconvincing.label>
+  <!-- EN: [PAWN_nameDef] has never won a debate in [PAWN_possessive] life. -->
+  <RT_Unconvincing.degreeDatas.unconvincing.description>在[PAWN_nameDef]生活中，[Pawn_possessive]一次辩论也没赢过。</RT_Unconvincing.degreeDatas.unconvincing.description>
+  
+  <!-- EN: valiant -->
+  <RT_Valiant.degreeDatas.valiant.label>英勇</RT_Valiant.degreeDatas.valiant.label>
+  <!-- EN: [PAWN_nameDef] is brave, [PAWN_pronoun] would stand [PAWN_possessive] ground where others would scramble and run. -->
+  <RT_Valiant.degreeDatas.valiant.description>[PAWN_nameDef]十分勇敢，[PAWN_pronoun]能待在别人惊慌逃跑的地方。</RT_Valiant.degreeDatas.valiant.description>
+  
+</LanguageData>

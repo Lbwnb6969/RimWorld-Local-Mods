@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEE_BestowBaron.label>册封：男爵</VFEE_BestowBaron.label>
+  <VFEE_BestowBaron.description>将男爵头衔册封给选定的目标，对方会获得45点荣誉。不能用于已经拥有男爵或更高级的头衔的目标。冷却时间3天。</VFEE_BestowBaron.description>
+
+  <VFEE_BestowCount.label>册封：伯爵</VFEE_BestowCount.label>
+  <VFEE_BestowCount.description>将伯爵头衔册封给选定的目标，对方会获得45点荣誉。不能用于已经拥有伯爵或更高级的头衔的目标。冷却时间3天。</VFEE_BestowCount.description>
+
+</LanguageData>

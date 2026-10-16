@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: long pike -->
+  <!-- EN: . -->
+  <!-- EN: shaft -->
+  <TA_Pike.tools.shaft.label>矛柄</TA_Pike.tools.shaft.label>
+  <!-- EN: point -->
+  <TA_Pike.tools.point.label>矛尖</TA_Pike.tools.point.label>
+  <!-- UNUSED -->
+</LanguageData>

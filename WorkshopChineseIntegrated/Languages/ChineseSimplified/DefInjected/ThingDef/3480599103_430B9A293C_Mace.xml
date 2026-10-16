@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mace -->
+  <TA_Mace.label>草原钉头锤</TA_Mace.label>
+  <!-- EN: . -->
+  <TA_Mace.description>草原战士使用的重型打击武器，能有效对抗重甲目标。</TA_Mace.description>
+  <!-- EN: handle -->
+  <TA_Mace.tools.handle.label>握柄</TA_Mace.tools.handle.label>
+  <!-- EN: head -->
+  <TA_Mace.tools.head.label>锤头</TA_Mace.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: berserker -->
+  <VFEM2_Berserker.label>狂战士</VFEM2_Berserker.label>
+  
+  <!-- EN: bowman -->
+  <VFEM2_Bowman.label>弓手</VFEM2_Bowman.label>
+  
+  <!-- EN: peasant -->
+  <VFEM2_Clan_Peasant.label>农民</VFEM2_Clan_Peasant.label>
+  
+  <!-- EN: heavy bowman -->
+  <VFEM2_HeavyBowman.label>重型弓手</VFEM2_HeavyBowman.label>
+  
+  <!-- EN: jarl -->
+  <VFEM2_Jarl.label>酋长</VFEM2_Jarl.label>
+  
+  <!-- EN: merchant -->
+  <VFEM2_Merchant.label>商人</VFEM2_Merchant.label>
+  
+  <!-- EN: raider -->
+  <VFEM2_Raider.label>掠夺者</VFEM2_Raider.label>
+  
+  <!-- EN: siege raider -->
+  <VFEM2_SiegeRaider.label>破墙掠夺者</VFEM2_SiegeRaider.label>
+  
+  <!-- EN: skirmisher -->
+  <VFEM2_Skirmisher.label>游击手</VFEM2_Skirmisher.label>
+  
+  <!-- EN: spearman -->
+  <VFEM2_Spearman.label>矛手</VFEM2_Spearman.label>
+  
+  <!-- EN: thrall -->
+  <VFEM2_Thrall.label>农奴</VFEM2_Thrall.label>
+  
+  <!-- EN: torch thrower -->
+  <VFEM2_TorchThrower.label>掷火兵</VFEM2_TorchThrower.label>
+  
+</LanguageData>

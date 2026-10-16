@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] began training with a bow from a young age, aiming for skill and precision as required of noble warriors. [PAWN_pronoun] spent hours drawing targets in the courtyard and practicing long-distance shots. The training honed [PAWN_possessive] focus and gave [PAWN_pronoun] an edge in ranged combat. -->
+  <VFEM_ArcherTrainee155.description>[PAWN_nameDef]从小就开始训练用弓，旨在训练出贵族战士应有的技艺和准头。[PAWN_pronoun]花了许多时间在庭院中画出箭靶、练习远距离射箭。这些训练锻炼了[PAWN_possessive]专注力，并令[PAWN_pronoun]在远距离战斗中具有了优势。</VFEM_ArcherTrainee155.description>
+  <!-- EN: archer trainee -->
+  <VFEM_ArcherTrainee155.title>弓手学徒</VFEM_ArcherTrainee155.title>
+  <!-- EN: archer -->
+  <VFEM_ArcherTrainee155.titleShort>弓手</VFEM_ArcherTrainee155.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was groomed for a future in diplomacy, studying languages, geography, and the customs of foreign courts. [PAWN_pronoun] practiced making speeches and mediating minor disputes among peers. Though still young, [PAWN_pronoun] showed promise as a skilled negotiator and tactician. -->
+  <VFEM_AspiringDiplomat150.description>[PAWN_nameDef]为未来的外交生涯做好了准备：学习外语，地理，及外国法院的习俗。[PAWN_pronoun]还练习演讲和调解同龄人之间的小纠纷。虽然还很年轻，但[PAWN_pronoun]已经预示了[PAWN_pronoun]会成为优秀的谈判者和谋士。</VFEM_AspiringDiplomat150.description>
+  <!-- EN: aspiring diplomat -->
+  <VFEM_AspiringDiplomat150.title>有志外交家</VFEM_AspiringDiplomat150.title>
+  <!-- EN: diplomat -->
+  <VFEM_AspiringDiplomat150.titleShort>外交家</VFEM_AspiringDiplomat150.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained from an early age in the art of combat, preparing for the day [PAWN_pronoun] could earn [PAWN_possessive] place among the knights of [PAWN_possessive] house. [PAWN_pronoun] practiced with wooden swords and sparred with instructors, learning discipline and honor. While young, [PAWN_pronoun] already showed promise as a warrior. -->
+  <VFEM_AspiringKnight145.description>[PAWN_nameDef]从小就开始接受战斗艺术的训练，为[PAWN_pronoun]在[PAWN_pronoun]家族的骑士中获得一席之地的那一日做准备。[PAWN_pronoun]用木剑训练，与教官对练，学习着纪律与荣誉。尽管年轻，但[PAWN_pronoun]已经展现出作为战士的潜力。</VFEM_AspiringKnight145.description>
+  <!-- EN: aspiring knight -->
+  <VFEM_AspiringKnight145.title>有志骑士</VFEM_AspiringKnight145.title>
+  <!-- EN: knight -->
+  <VFEM_AspiringKnight145.titleShort>骑士</VFEM_AspiringKnight145.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carried the family banner into drills and parades, learning to represent [PAWN_possessive] house with pride. [PAWN_pronoun] spent hours practicing marching formations and staying composed under scrutiny. Though not a frontline fighter, [PAWN_pronoun] gained valuable lessons in discipline and leadership. -->
+  <VFEM_BannerBearer154.description>[PAWN_nameDef]负责在训练和游行中举着家族的旗帜，学习如何骄傲的代表[PAWN_possessive]家族。[PAWN_pronoun]花了许多时间练习行进编队以及如何在各路审查下保持镇定。尽管不是前线的战士，[PAWN_pronoun]也习得了纪律和领袖才能方面的宝贵经验。</VFEM_BannerBearer154.description>
+  <!-- EN: banner bearer -->
+  <VFEM_BannerBearer154.title>小旗手</VFEM_BannerBearer154.title>
+  <!-- EN: banner bearer -->
+  <VFEM_BannerBearer154.titleShort>小旗手</VFEM_BannerBearer154.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] composed an epic poem at a young age that spread throughout the region, earning [PAWN_pronoun] fame and admiration. Nobles and commoners alike recited [PAWN_possessive] verses, praising their vivid imagery and emotional depth. The success brought invitations to courts across the land. -->
+  <VFEM_BuddingPoet170.description>[PAWN_nameDef]在年少时创作了一首传遍全国的史诗，这让[PAWN_pronoun]赢得了许多名声与钦佩。贵族和平民都吟诵[PAWN_possessive]诗句，称赞诗句中生动的意象与情感的深度。这般成功让全大陆的宫廷都向[PAWN_nameDef]送来了邀请。</VFEM_BuddingPoet170.description>
+  <!-- EN: budding poet -->
+  <VFEM_BuddingPoet170.title>新星诗人</VFEM_BuddingPoet170.title>
+  <!-- EN: poet -->
+  <VFEM_BuddingPoet170.titleShort>诗人</VFEM_BuddingPoet170.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised in a fortified castle and spent [PAWN_possessive] days training with guards and learning the basics of siege defense. [PAWN_pronoun] practiced with bows on the battlements and drilled with spears in the courtyard. The life gave [PAWN_pronoun] a strong sense of duty and early combat experience. -->
+  <VFEM_CastleDefender153.description>[PAWN_nameDef]在一座堡垒中长大，[PAWN_possessive]人生基本都是在与守卫一同训练、学习如何抵御围攻中度过。[PAWN_pronoun]在城垛上练习射箭、在庭院中操使长矛。这段人生给予了[PAWN_pronoun]强烈的责任感和基础的战斗经验。</VFEM_CastleDefender153.description>
+  <!-- EN: castle defender -->
+  <VFEM_CastleDefender153.title>城堡小守卫</VFEM_CastleDefender153.title>
+  <!-- EN: defender -->
+  <VFEM_CastleDefender153.titleShort>小守卫</VFEM_CastleDefender153.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood running through the halls and courtyards of a castle, playing games with other noble children. The carefree years gave [PAWN_pronoun] a strong sense of camaraderie and a basic understanding of courtly manners. However, the sheltered life left [PAWN_pronoun] naive about the struggles of common folk. -->
+  <VFEM_CastlePlaymate144.description>[PAWN_nameDef]在跑过城堡的大厅与庭院、陪其他贵族孩子玩游戏的时光中度过了[PAWN_possessive]童年。这段无忧无虑的岁月给予了[PAWN_pronoun]强烈的同袍情谊与对宫廷礼仪的基本了解。但是，这段被庇护的人生也让[PAWN_pronoun]对普通民众的斗争心存天真。</VFEM_CastlePlaymate144.description>
+  <!-- EN: castle playmate -->
+  <VFEM_CastlePlaymate144.title>城堡玩伴</VFEM_CastlePlaymate144.title>
+  <!-- EN: playmate -->
+  <VFEM_CastlePlaymate144.titleShort>玩伴</VFEM_CastlePlaymate144.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born under an ominous eclipse, a sign that filled the villagers with dread. [PAWN_pronoun] grew up under the weight of grim superstition, with some believing [PAWN_pronoun] brought bad luck or worse. [PAWN_pronoun] learned to navigate the fear of others, growing cunning and detached to survive. -->
+  <VFEM_ChildOfTheEclipse162.description>[PAWN_nameDef]出生于某次不祥的日食期间，这一征兆让村民们充满了恐惧。[PAWN_pronoun]在残酷迷信的重压下长大，只因为有人相信[PAWN_pronoun]会带来厄运或不幸。[PAWN_pronoun]因此学会了如何驾驭他人的恐惧，为了生存变得狡诈而冷漠。</VFEM_ChildOfTheEclipse162.description>
+  <!-- EN: child of the eclipse -->
+  <VFEM_ChildOfTheEclipse162.title>日食之子</VFEM_ChildOfTheEclipse162.title>
+  <!-- EN: eclipse-born -->
+  <VFEM_ChildOfTheEclipse162.titleShort>日食之子</VFEM_ChildOfTheEclipse162.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up serving as a junior attendant in a royal court, learning the nuances of etiquette and the art of flattery. [PAWN_pronoun] observed the dealings of nobles and practiced [PAWN_possessive] own skills in negotiation and charm. Though immersed in the intrigue of the court, [PAWN_pronoun] rarely ventured beyond its walls. -->
+  <VFEM_CourtAttendant148.description>[PAWN_nameDef]从小在皇家宫廷担任少年侍从，学习各种礼仪的细微差别和奉承的艺术。[PAWN_pronoun]观察贵族们的往来，练习自己的谈判技巧和魅力。尽管深陷于宫廷的密谋中，[PAWN_pronoun]却很少冒险越过边界。</VFEM_CourtAttendant148.description>
+  <!-- EN: court attendant -->
+  <VFEM_CourtAttendant148.title>宫廷侍从</VFEM_CourtAttendant148.title>
+  <!-- EN: attendant -->
+  <VFEM_CourtAttendant148.titleShort>侍从</VFEM_CourtAttendant148.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised on a sprawling estate, learning to oversee the household and manage the laborers who worked the land. [PAWN_pronoun] received lessons in stewardship and basic leadership, preparing [PAWN_objective] for a life of privilege. Though competent, [PAWN_pronoun] had little understanding of life beyond [PAWN_possessive] family’s wealth. -->
+  <VFEM_EstateHeir157.description>[PAWN_nameDef]在一个大庄园长大，学习如何监督整个家族以及管理在这片土地上工作的工人。[PAWN_pronoun]接受了管理和基本领袖才能方面的课程，为过上特权生活做好了准备。然而，尽管出类拔萃，但[PAWN_pronoun]对在[PAWN_possessive]家族的广袤财富之外的生活一无所知。</VFEM_EstateHeir157.description>
+  <!-- EN: estate heir -->
+  <VFEM_EstateHeir157.title>庄园继承人</VFEM_EstateHeir157.title>
+  <!-- EN: heir -->
+  <VFEM_EstateHeir157.titleShort>继承人</VFEM_EstateHeir157.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] youth learning the noble pastime of falconry, training birds to hunt and obey commands. [PAWN_pronoun] developed patience and a keen understanding of animal behavior. Though the skill impressed others, [PAWN_pronoun] had little time for practical tasks outside the sport. -->
+  <VFEM_FalconryStudent149.description>[PAWN_nameDef]的少年时光都在学习名为鹰猎的高贵消遣——训练鸟儿前去捕猎和服从命令。在学习中，[PAWN_pronoun]培养了自己的耐心和对动物行为的敏锐理解。尽管这项技艺足以折服众人，但[PAWN_pronoun]几乎没什么时间去做体育之外的实际工作。</VFEM_FalconryStudent149.description>
+  <!-- EN: falconry student -->
+  <VFEM_FalconryStudent149.title>鹰猎学徒</VFEM_FalconryStudent149.title>
+  <!-- EN: falconer -->
+  <VFEM_FalconryStudent149.titleShort>鹰猎人</VFEM_FalconryStudent149.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days among the headstones, speaking to the dead as though they were alive. [PAWN_pronoun] was drawn to the quiet stillness and the stories carved into weathered stone. The villagers whispered of [PAWN_possessive] odd habits, and [PAWN_pronoun] learned to keep [PAWN_possessive] thoughts hidden from prying eyes. -->
+  <VFEM_GraveyardWanderer163.description>[PAWN_nameDef]在墓碑间度过了[PAWN_possessive]青春，[PAWN_pronoun]与死者对话，仿佛他们还在世。[PAWN_pronoun]被那平和的宁静和风化石头上刻着的故事吸引。村民们低语着[PAWN_possessive]古怪习惯，而[PAWN_pronoun]学会了将自己的想法隐藏起来，不让他人窥探。</VFEM_GraveyardWanderer163.description>
+  <!-- EN: graveyard wanderer -->
+  <VFEM_GraveyardWanderer163.title>墓地漫游者</VFEM_GraveyardWanderer163.title>
+  <!-- EN: wanderer -->
+  <VFEM_GraveyardWanderer163.titleShort>漫游者</VFEM_GraveyardWanderer163.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised to inherit the family estate, receiving lessons in administration and diplomacy from a young age. [PAWN_pronoun] was taught to manage resources, oversee servants, and maintain order among the household. The structured upbringing prepared [PAWN_pronoun] for leadership but left little time for play. -->
+  <VFEM_HeirToTheEstate146.description>[PAWN_nameDef]从小就学习管理和外交课程，作为家族财产的继承人成长。[PAWN_pronoun]被教导如何管理财产，监督仆人及维持家族秩序。这种结构化的教育让[PAWN_pronoun]为成为领袖做好了准备，但没有为玩耍留下多少时间。</VFEM_HeirToTheEstate146.description>
+  <!-- EN: heir to the estate -->
+  <VFEM_HeirToTheEstate146.title>家业继承人</VFEM_HeirToTheEstate146.title>
+  <!-- EN: heir -->
+  <VFEM_HeirToTheEstate146.titleShort>继承人</VFEM_HeirToTheEstate146.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was surrounded by luxury from birth, never knowing hunger or hardship. [PAWN_pronoun] was taught courtly manners and spent [PAWN_possessive] days enjoying music, fine food, and leisure. While refined and confident, [PAWN_pronoun] struggled with practical tasks that required hard labor. -->
+  <VFEM_LavishUpbringing158.description>[PAWN_nameDef]从出生就被奢侈品包围，从不知晓饥饿或困难的滋味。[PAWN_pronoun]被教导当有温文尔雅的举止，在享受音乐、美食和闲暇中度过了[PAWN_possessive]青春。尽管精致且自信，[PAWN_pronoun]仍在挣扎着完成需要辛勤劳动的实际工作。</VFEM_LavishUpbringing158.description>
+  <!-- EN: lavish upbringing -->
+  <VFEM_LavishUpbringing158.title>奢侈教养者</VFEM_LavishUpbringing158.title>
+  <!-- EN: lavish -->
+  <VFEM_LavishUpbringing158.titleShort>奢侈者</VFEM_LavishUpbringing158.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up surrounded by the bustling trade of [PAWN_possessive] family’s business, watching deals unfold and goods change hands. [PAWN_pronoun] was taught the art of negotiation and the importance of wealth. Though well-versed in trade, [PAWN_pronoun] had little exposure to the struggles of common life. -->
+  <VFEM_MerchantsProdigy156.description>[PAWN_nameDef]在[PAWN_possessive]家族企业的无数繁荣贸易中长大，看着交易披露和货物易手。[PAWN_pronoun]从其中学习了谈判的艺术和财富的重要性。尽管精通贸易，[PAWN_pronoun]却极少接触到日常生活的挣扎。</VFEM_MerchantsProdigy156.description>
+  <!-- EN: merchant's prodigy -->
+  <VFEM_MerchantsProdigy156.title>经商神童</VFEM_MerchantsProdigy156.title>
+  <!-- EN: prodigy -->
+  <VFEM_MerchantsProdigy156.titleShort>神童</VFEM_MerchantsProdigy156.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was sent to another noble’s court to be raised and educated in the ways of governance and etiquette. [PAWN_pronoun] learned to navigate the complexities of noble relationships and gained a basic understanding of leadership. Though surrounded by luxury, [PAWN_pronoun] spent much of [PAWN_possessive] time under watchful eyes. -->
+  <VFEM_NobleWard141.description>[PAWN_nameDef]从小就被送到另一个贵族的宫廷，接受治理和礼仪方面的教育。[PAWN_pronoun]学习了如何驾驭贵族关系的复杂性，并对领袖才能有着基本的了解。尽管被奢侈品包围，[PAWN_possessive]成长时光却大多在监视下度过。</VFEM_NobleWard141.description>
+  <!-- EN: noble ward -->
+  <VFEM_NobleWard141.title>受贵族监护的孩子</VFEM_NobleWard141.title>
+  <!-- EN: ward -->
+  <VFEM_NobleWard141.titleShort>受监护的孩子</VFEM_NobleWard141.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] began [PAWN_possessive] training in a noble household, learning the fundamentals of serving and knightly duties. [PAWN_pronoun] spent hours cleaning armor, carrying messages, and studying basic combat techniques. The experience gave [PAWN_pronoun] an early introduction to the discipline and loyalty expected of nobility. -->
+  <VFEM_Page142.description>[PAWN_nameDef]在一个贵族家庭接受属于[PAWN_possessive]训练，学习如何服侍以及骑士职责的基础。[PAWN_pronoun]花了许多时间在清洁盔甲、传递消息和学习基本的战斗技巧上。这些经验让[PAWN_pronoun]早早了解了贵族所期望的纪律与忠诚。</VFEM_Page142.description>
+  <!-- EN: page -->
+  <VFEM_Page142.title>学习骑士</VFEM_Page142.title>
+  <!-- EN: page -->
+  <VFEM_Page142.titleShort>学习骑士</VFEM_Page142.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was encouraged to pursue and support the arts, attending performances and commissioning works from talented craftsmen. [PAWN_pronoun] developed an appreciation for beauty and creativity, as well as a talent for recognizing skill in others. Though cultured, [PAWN_pronoun] was sheltered from the harsher realities of life. -->
+  <VFEM_PatronOfTheArts159.description>[PAWN_nameDef]被鼓励追求和赞助艺术，参与才华横溢的工匠们的艺术创作和委托工作。[PAWN_pronoun]培养了对美的欣赏能力和创造力，以及分辨他人才华的技能。尽管受过教育，但[PAWN_pronoun]被保护着，远离了生活的残酷现实。</VFEM_PatronOfTheArts159.description>
+  <!-- EN: patron of the arts -->
+  <VFEM_PatronOfTheArts159.title>艺术赞助人</VFEM_PatronOfTheArts159.title>
+  <!-- EN: patron -->
+  <VFEM_PatronOfTheArts159.titleShort>赞助人</VFEM_PatronOfTheArts159.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] had access to the finest tutors, studying history, philosophy, and the sciences from a young age. [PAWN_pronoun] showed promise in academic pursuits, impressing [PAWN_possessive] family with [PAWN_possessive] keen intellect. However, [PAWN_pronoun] had little understanding of the struggles faced by those less fortunate. -->
+  <VFEM_PrivilegedScholar160.description>[PAWN_nameDef]从小就能接触到最好的导师，学习历史、哲学和科学。[PAWN_pronoun]在学术事业上展现出了潜力，这和[PAWN_possessive]锋锐才智一同给[PAWN_possessive]家族留下了深刻印象。不过，[PAWN_pronoun]对那些不幸之人所面对的斗争知之甚少。</VFEM_PrivilegedScholar160.description>
+  <!-- EN: privileged scholar -->
+  <VFEM_PrivilegedScholar160.title>特权学者</VFEM_PrivilegedScholar160.title>
+  <!-- EN: scholar -->
+  <VFEM_PrivilegedScholar160.titleShort>学者</VFEM_PrivilegedScholar160.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] won a prestigious archery competition at the age of thirteen, besting older and more experienced opponents. [PAWN_pronoun] was praised for [PAWN_possessive] precision and composure under pressure. The victory brought honor to [PAWN_possessive] family and set [PAWN_objective] on a path of future acclaim. -->
+  <VFEM_PrizeArcher169.description>[PAWN_nameDef]在十三岁时赢得了一场著名的射箭比赛，击败了年纪更大、经验更丰富的对手们。[PAWN_pronoun]因为即使在压力下也能镇定自若、百步穿杨而受到称赞。这场胜利为[PAWN_possessive]家族带来了荣誉，而[PAWN_objective]也走上了未来将会获得赞誉的道路。</VFEM_PrizeArcher169.description>
+  <!-- EN: prize archer -->
+  <VFEM_PrizeArcher169.title>得奖弓手</VFEM_PrizeArcher169.title>
+  <!-- EN: archer -->
+  <VFEM_PrizeArcher169.titleShort>弓手</VFEM_PrizeArcher169.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] demonstrated a gift for strategy by organizing and winning a mock battle between the castle’s squires. [PAWN_pronoun] anticipated [PAWN_possessive] opponents’ moves and used the terrain to [PAWN_possessive] advantage, earning the admiration of seasoned knights. The event marked [PAWN_objective] as a promising future commander. -->
+  <VFEM_ProdigiousTactician167.description>[PAWN_nameDef]组织起城堡骑士们之间的模拟战斗并赢得了胜利，展示出了战略天赋。[PAWN_pronoun]预测[PAWN_possessive]对手的行动，利用地形发挥自身优势，赢得了经验丰富的骑士们的钦佩。这件事标志着[PAWN_objective]会是一位有前途的未来指挥官。</VFEM_ProdigiousTactician167.description>
+  <!-- EN: prodigious tactician -->
+  <VFEM_ProdigiousTactician167.title>卓越战术家</VFEM_ProdigiousTactician167.title>
+  <!-- EN: tactician -->
+  <VFEM_ProdigiousTactician167.titleShort>战术家</VFEM_ProdigiousTactician167.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent long hours learning to read and write under the guidance of a family-appointed tutor. [PAWN_pronoun] practiced copying texts and recording transactions, developing a keen eye for detail. While skilled in intellectual pursuits, [PAWN_pronoun] had little exposure to physical labor or combat training. -->
+  <VFEM_ScribeInTraining147.description>[PAWN_nameDef]在家中任命的导师指导下，花了很长时间学习读写。[PAWN_pronoun]练习抄写文章、记录交易，培养了对细节的敏锐眼光。虽然擅长于智力消遣，[PAWN_pronoun]却很少接触体力劳动或是战斗训练。</VFEM_ScribeInTraining147.description>
+  <!-- EN: scribe in training -->
+  <VFEM_ScribeInTraining147.title>新手抄写员</VFEM_ScribeInTraining147.title>
+  <!-- EN: scribe -->
+  <VFEM_ScribeInTraining147.titleShort>抄写员</VFEM_ScribeInTraining147.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was feared by the villagers for reasons whispered but never explained. [PAWN_pronoun] spent [PAWN_possessive] childhood in the shadows, avoiding those who glared or crossed themselves at [PAWN_possessive] presence. The isolation hardened [PAWN_objective], leaving [PAWN_pronoun] mistrustful and quiet, always watching from the dark corners. -->
+  <VFEM_ShadowedOutcast161.description>[PAWN_nameDef]被村民们在私下里恐惧着，但从未得到过解释。[PAWN_pronoun]在阴影中度过了童年，努力避开那些在[PAWN_possessive]面前怒目而视或画十字祈祷的人们。这种孤立让[PAWN_objective]变得坚强，也让[PAWN_pronoun]变得多疑和安静，往往在暗处角落看着一切。</VFEM_ShadowedOutcast161.description>
+  <!-- EN: shadowed outcast -->
+  <VFEM_ShadowedOutcast161.title>影中弃儿</VFEM_ShadowedOutcast161.title>
+  <!-- EN: outcast -->
+  <VFEM_ShadowedOutcast161.titleShort>弃儿</VFEM_ShadowedOutcast161.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained alongside warriors, serving as a shield carrier during skirmishes and drills. [PAWN_pronoun] learned to endure long marches and protect [PAWN_possessive] mentors in the heat of battle. Though young, [PAWN_pronoun] displayed courage and determination beyond [PAWN_possessive] years. -->
+  <VFEM_ShieldCarrier152.description>[PAWN_nameDef]和战士们一起训练，在小规模冲突和演习中作为持盾者战斗。[PAWN_pronoun]学会了忍耐长途行军和在激战中保护[PAWN_possessive]导师。尽管年轻，但[PAWN_pronoun]却表现出了远超[PAWN_pronoun]年龄的勇气与决心。</VFEM_ShieldCarrier152.description>
+  <!-- EN: shield carrier -->
+  <VFEM_ShieldCarrier152.title>持盾者</VFEM_ShieldCarrier152.title>
+  <!-- EN: carrier -->
+  <VFEM_ShieldCarrier152.titleShort>持盾者</VFEM_ShieldCarrier152.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was apprenticed to a knight, tasked with maintaining armor, tending horses, and learning the code of chivalry. [PAWN_pronoun] spent countless hours observing battles and practicing with training weapons. The rigorous training instilled discipline and a desire to prove [PAWN_possessive] worth on the battlefield. -->
+  <VFEM_Squire151.description>[PAWN_nameDef]师从一位骑士，负责维护铠甲、照料马匹和学习骑士精神。[PAWN_pronoun]花了许多时间观察战斗和用训练用武器练习。严格的训练向[PAWN_pronoun]灌输了纪律，以及在战场上证明自身价值的渴望。</VFEM_Squire151.description>
+  <!-- EN: squire -->
+  <VFEM_Squire151.title>扈从</VFEM_Squire151.title>
+  <!-- EN: squire -->
+  <VFEM_Squire151.titleShort>扈从</VFEM_Squire151.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was believed to be cursed, blamed for every ill fortune that befell the village. Crops failed, livestock died, and villagers fell ill, all under [PAWN_possessive] dark shadow. [PAWN_pronoun] grew to expect rejection, developing a cold resilience to survive in a world that feared [PAWN_objective]. -->
+  <VFEM_VillageCurseBearer164.description>[PAWN_nameDef]被认为是受诅咒者，因此被指责为所有降临到村中的坏事的罪魁祸首。庄稼歉收、牲口死亡、村民生病，全都笼罩在[PAWN_possessive]阴影下。随着年纪渐长，[PAWN_pronoun]越发期待拒绝，在这个畏惧[PAWN_possessive]世界里培养出了一种冷酷的适应力。</VFEM_VillageCurseBearer164.description>
+  <!-- EN: village curse-bearer -->
+  <VFEM_VillageCurseBearer164.title>乡村受诅咒者</VFEM_VillageCurseBearer164.title>
+  <!-- EN: cursed -->
+  <VFEM_VillageCurseBearer164.titleShort>受诅咒者</VFEM_VillageCurseBearer164.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was discovered as an infant at the edge of the woods, wrapped in tattered cloth and left in the rain. The villagers took [PAWN_objective] in reluctantly, always murmuring of unnatural origins. [PAWN_pronoun] grew up in the shadow of suspicion, learning to remain unseen and unheard. -->
+  <VFEM_WhisperedFoundling165.description>[PAWN_nameDef]在树林边被发现时还是个婴儿，裹着破烂的布条，被弃置在雨中。村民们不情愿地收留了[PAWN_objective]，但总在私下抱怨着[PAWN_objective]反常的身世。[PAWN_pronoun]因此在怀疑的阴影下长大，学会了保持沉默与隐蔽。</VFEM_WhisperedFoundling165.description>
+  <!-- EN: whispered foundling -->
+  <VFEM_WhisperedFoundling165.title>怨言弃儿</VFEM_WhisperedFoundling165.title>
+  <!-- EN: foundling -->
+  <VFEM_WhisperedFoundling165.titleShort>弃儿</VFEM_WhisperedFoundling165.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] designed an innovative irrigation system for the family estate at just ten years old, greatly increasing crop yields. [PAWN_pronoun] impressed both the stewards and laborers with [PAWN_possessive] ingenuity. The success ensured [PAWN_pronoun] would be taken seriously, even at such a young age. -->
+  <VFEM_YoungArchitect168.description>[PAWN_nameDef]十岁就为家族庄园设计了一套创新的灌溉系统，大大提高了作物产量。[PAWN_pronoun]以[PAWN_possessive]匠心独运给工人们和管家们留下了深刻印象。这次成功确保了[PAWN_pronoun]会被认真看待，即使[PAWN_pronoun]如此年轻。</VFEM_YoungArchitect168.description>
+  <!-- EN: young architect -->
+  <VFEM_YoungArchitect168.title>少年建筑师</VFEM_YoungArchitect168.title>
+  <!-- EN: architect -->
+  <VFEM_YoungArchitect168.titleShort>建筑师</VFEM_YoungArchitect168.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] surprised [PAWN_possessive] elders by brokering a truce between feuding noble families at just twelve years old. [PAWN_pronoun] used charm and logic to persuade both sides, earning respect far beyond [PAWN_possessive] years. The experience cemented [PAWN_possessive] place as a rising star in courtly politics. -->
+  <VFEM_YoungDiplomat166.description>[PAWN_nameDef]十二岁时，就已经让两个世代结仇的贵族家族达成了停战协议，这震撼了[PAWN_possessive]长辈们。[PAWN_pronoun]用魅力和逻辑说服双方，赢得了远超[PAWN_possessive]年龄的尊重。这段经历巩固了[PAWN_pronoun]作为宫廷政治冉冉升起的新星的地位。</VFEM_YoungDiplomat166.description>
+  <!-- EN: young diplomat -->
+  <VFEM_YoungDiplomat166.title>少年外交家</VFEM_YoungDiplomat166.title>
+  <!-- EN: diplomat -->
+  <VFEM_YoungDiplomat166.titleShort>外交家</VFEM_YoungDiplomat166.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was tutored in history, philosophy, and mathematics from an early age, as was expected of highborn children. [PAWN_pronoun] showed a natural curiosity and an aptitude for learning, earning praise from [PAWN_possessive] tutors. Though well-read, [PAWN_pronoun] had little experience with manual or practical work. -->
+  <VFEM_YoungScholar143.description>[PAWN_nameDef]从小就学习历史、哲学和数学，这是对出身名门的孩子的期望。[PAWN_pronoun]在学业上展现出了天然的好奇心与学习能力，赢得了[PAWN_possessive]导师的赞扬。尽管学业优秀，但[PAWN_pronoun]极少体验做手工和实际工作。</VFEM_YoungScholar143.description>
+  <!-- EN: young scholar -->
+  <VFEM_YoungScholar143.title>少年学者</VFEM_YoungScholar143.title>
+  <!-- EN: scholar -->
+  <VFEM_YoungScholar143.titleShort>学者</VFEM_YoungScholar143.titleShort>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sculpting speed -->
+  <SculptingSpeed.label>雕塑速度</SculptingSpeed.label>
+  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
+  <SculptingSpeed.description>一个单位制作雕像的速度。\n\n这个数据只影响雕塑的制作速度，而不影响其质量。质量取决于作者的技能等级。</SculptingSpeed.description>
+  
+  <!-- EN: smithing speed -->
+  <SmithingSpeed.label>锻造速度</SmithingSpeed.label>
+  <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
+  <SmithingSpeed.description>一个单位制作武器，机械，弹药的速度。\n\n这个数据只影响物品的制作速度，而不影响其质量。质量取决于作者的技能等级。</SmithingSpeed.description>
+  
+  <!-- EN: tailoring speed -->
+  <TailoringSpeed.label>裁缝速度</TailoringSpeed.label>
+  <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->
+  <TailoringSpeed.description>一个单位制作衣服的速度。\n\n这个数据只影响衣服的制作速度，而不影响其质量。质量取决于作者的技能等级。</TailoringSpeed.description>
+  
+</LanguageData>

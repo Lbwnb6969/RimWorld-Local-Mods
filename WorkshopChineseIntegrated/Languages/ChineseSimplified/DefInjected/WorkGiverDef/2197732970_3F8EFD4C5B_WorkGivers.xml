@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: write books -->
+  <VBE_DoBillsWrite.label>写书</VBE_DoBillsWrite.label>
+  <!-- EN: writing at -->
+  <VBE_DoBillsWrite.gerund>书写于</VBE_DoBillsWrite.gerund>
+  <!-- EN: write -->
+  <VBE_DoBillsWrite.verb>书写</VBE_DoBillsWrite.verb>
+  
+</LanguageData>

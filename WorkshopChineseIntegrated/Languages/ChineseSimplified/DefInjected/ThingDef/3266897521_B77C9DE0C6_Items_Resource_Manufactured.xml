@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ballistic glass -->
+  <RB_BallisticGlass.label>防弹玻璃板</RB_BallisticGlass.label>
+  <!-- EN: Toughened, multi-layered transparent armor capable of withstanding bullets and explosions, crucial for protecting high-value targets and ensuring safety in hostile environments. -->
+  <RB_BallisticGlass.description>通体透明的坚固多层非金属材料，能够抵挡子弹和爆炸冲击。常用于保护高价值目标或在危险环境中建立安全的庇护所。</RB_BallisticGlass.description>
+  
+  <!-- EN: glass -->
+  <RB_Glass.label>普通玻璃板</RB_Glass.label>
+  <!-- EN: Transparent, brittle sheets of silica-based material, widely utilised for windows and various other applications where clarity and rigidity are essential. -->
+  <RB_Glass.description>通体透明的脆弱非金属材料，常用于制造窗户或其他对透光性与硬度有特定需求的东西。</RB_Glass.description>
+  
+</LanguageData>

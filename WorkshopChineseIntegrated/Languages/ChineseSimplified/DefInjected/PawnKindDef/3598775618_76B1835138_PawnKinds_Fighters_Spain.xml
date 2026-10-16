@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: almughavar -->
+  <BA_Spain_Almughavar.label>阿尔穆加瓦标枪兵</BA_Spain_Almughavar.label>
+  
+  <!-- EN: musketeer -->
+  <BA_Spain_Arquebusier.label>火绳枪手</BA_Spain_Arquebusier.label>
+  
+  <!-- EN: bannerman -->
+  <BA_Spain_Bannerman.label>旗手</BA_Spain_Bannerman.label>
+  
+  <!-- EN: conquistador -->
+  <BA_Spain_Conquistador.label>征服者</BA_Spain_Conquistador.label>
+  
+  <!-- EN: crossbow militia -->
+  <BA_Spain_Crossbowman.label>弩民兵</BA_Spain_Crossbowman.label>
+  
+  <!-- EN: king -->
+  <BA_Spain_King.label>国王</BA_Spain_King.label>
+  <!-- EN: queen -->
+  <BA_Spain_King.labelFemale>女王</BA_Spain_King.labelFemale>
+  
+  <!-- EN: pavise crossbowman -->
+  <BA_Spain_Pavise_Crossbowman.label>大盾弩手</BA_Spain_Pavise_Crossbowman.label>
+  
+  <!-- EN: peasant -->
+  <BA_Spain_Peasant.label>农民</BA_Spain_Peasant.label>
+  
+  <!-- EN: tercio pikeman -->
+  <BA_Spain_Pikeman.label>西班牙方阵长矛兵</BA_Spain_Pikeman.label>
+  
+  <!-- EN: knight of Santiago -->
+  <BA_Spain_Santiago.label>圣地亚哥骑士</BA_Spain_Santiago.label>
+  
+  <!-- EN: swordsman militia -->
+  <BA_Spain_Sword_Militia.label>剑士民兵</BA_Spain_Sword_Militia.label>
+  
+  <!-- EN: sword and buckler man -->
+  <BA_Spain_Swordsman.label>剑盾兵</BA_Spain_Swordsman.label>
+  
+</LanguageData>

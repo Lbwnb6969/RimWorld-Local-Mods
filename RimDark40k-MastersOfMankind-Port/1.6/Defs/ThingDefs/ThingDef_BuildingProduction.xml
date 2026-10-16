@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <WorkGiverDef>
+    <defName>GW_Ruler_Autoforge</defName>
+    <label>fabricate things</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <priorityInType>50</priorityInType>
+    <fixedBillGiverDefs>
+      <li>GW_Autoforge</li>
+    </fixedBillGiverDefs>
+    <verb>making things</verb>
+    <gerund>making items at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+  <ThingDef ParentName="BenchBase">
+    <defName>GW_Autoforge</defName>
+    <label>Vulkan's autoforge</label>
+    <description>A complex and arcane autoforge, designed just like one used by Vulkan, the Primarch of the Salamanders. Using "Golden STC Templates", one can forge wargear that is the stuff of legend. \n\nVulkan was one of the greatest blacksmiths the Imperium had ever seen, having been raised as one on the volcanic planet of Nocturne. Upon being discovered and recruited by the Emperor of Mankind, he continued his work, forging his own wargear and thousands of other artefacts. His Space Marine Legion, the Salamanders, took after their gene-father, and maintain a strong culture of blacksmithing and craftsmanship as a Chapter today. \n\nMany of Vulkan's works were so dangerous that at the start of the Horus Heresy, he ordered all but seven destroyed, fearing that the Traitor forces would take them for their own use.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Buildings/RotI_Forge</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(6.5,6.5)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Buildings/RotI_Forge_south</uiIconPath>
+    <castEdgeShadows>false</castEdgeShadows>
+    <!-- <staticSunShadowHeight>0.20</staticSunShadowHeight> -->
+    <statBases>
+      <WorkToBuild>35000</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Cleanliness>0</Cleanliness>
+    </statBases>
+    <costList>
+      <Steel>400</Steel>
+      <Plasteel>200</Plasteel>
+      <DankPyon_ComponentBasic>30</DankPyon_ComponentBasic>
+      <Gold>100</Gold>
+      <DankPyon_Ruby>80</DankPyon_Ruby>
+      <GW_Ruler_GoldenSTC>1</GW_Ruler_GoldenSTC>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <size>(5,5)</size>
+    <designationCategory>BEWH_RimDarkCategory</designationCategory>
+    <uiOrder>2520</uiOrder>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-3)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <constructionSkillPrerequisite>18</constructionSkillPrerequisite>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>5</glowRadius>
+        <glowColor>(73,123,138,0)</glowColor>
+      </li>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <workTableRoomRole>Workshop</workTableRoomRole>
+      <workTableNotInRoomRoleFactor>0.8</workTableNotInRoomRoleFactor>
+    </building>
+    <constructEffect>ConstructMetal</constructEffect>
+    <researchPrerequisites>
+      <li>GW_Rulers_MasterForge</li>
+    </researchPrerequisites>
+    <designationHotKey>Misc7</designationHotKey>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+  </ThingDef>
+</Defs>

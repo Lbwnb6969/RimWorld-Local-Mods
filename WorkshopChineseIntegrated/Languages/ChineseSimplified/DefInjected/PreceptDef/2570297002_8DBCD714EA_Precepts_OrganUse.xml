@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: post mortem -->
+  <VME_OrganUse_PostMortem.label>死后收割</VME_OrganUse_PostMortem.label>
+  <!-- EN: The organs of one’s being should never go to waste, so long as their vessel is no longer required.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Through the fleshcrafter role can butcher fresh humanoid bodies to acquire fleshcrafted organs. -->
+  <VME_OrganUse_PostMortem.description>人们的器官永远不该被浪费，当然...只要他们的躯体不再需要这些。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 拥有“血肉重塑者”职位的殖民者可以使用“血肉收割”技能来从新鲜的人类尸体上获得血肉重塑器官。</VME_OrganUse_PostMortem.description>
+  
+</LanguageData>

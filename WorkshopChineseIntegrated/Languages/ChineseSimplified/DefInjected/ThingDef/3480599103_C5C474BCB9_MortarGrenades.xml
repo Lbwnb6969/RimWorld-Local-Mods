@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fireworks -->
+  <Ammo_TA_Firework.label>烟花弹</Ammo_TA_Firework.label>
+  <!-- EN: paper machet shell filled with a gunpowder mix that burns bright.
+\n\n简易燃烧弹:
+\n一种简单的燃烧弹，由一个中空的金属弹丸组成，弹丸中充满了高度易燃的液体，可以从早期的平滑炮发射。
+\n\n使用者: -->
+  <Ammo_TA_Firework.description>装有火药混合物的纸壳弹，燃烧时发出明亮光芒。</Ammo_TA_Firework.description>
+  
+  <!-- EN: bursting grenade -->
+  <Bullet_MortarGrenade.label>迫击炮榴弹</Bullet_MortarGrenade.label>
+  
+  <!-- EN: bursting grenade -->
+  <Bullet_MortarGrenade_indirect.label>爆破榴弹</Bullet_MortarGrenade_indirect.label>
+  
+  <!-- EN: incendiary -->
+  <Bullet_TA_Firework_indirect.label>燃烧弹</Bullet_TA_Firework_indirect.label>
+  
+  <!-- EN: smoke grenade -->
+  <Bullet_TA_SmokeGrenade_indirect.label>烟雾弹</Bullet_TA_SmokeGrenade_indirect.label>
+  
+</LanguageData>

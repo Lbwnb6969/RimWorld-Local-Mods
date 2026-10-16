@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_VigorPill.label>活力丸</DankPyon_VigorPill.label>
+  <DankPyon_VigorPill.description>活力丸可以减少服用者的休息需求，让他们长时间工作而不感到疲倦。在那些竞争最激烈的大学和城市里，这种药丸经常被追求高成就的人们滥用并导致成瘾。</DankPyon_VigorPill.description>
+  <DankPyon_VigorPill.ingestible.ingestCommandString>服用{0}</DankPyon_VigorPill.ingestible.ingestCommandString>
+  <DankPyon_VigorPill.ingestible.ingestReportString>正在服用{0}。</DankPyon_VigorPill.ingestible.ingestReportString>
+
+
+</LanguageData>

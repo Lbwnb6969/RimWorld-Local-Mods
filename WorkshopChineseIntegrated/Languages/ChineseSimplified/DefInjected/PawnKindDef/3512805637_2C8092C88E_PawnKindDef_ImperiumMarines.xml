@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Custodes -->
+  <BEWH_CustodesPawn.label>禁军</BEWH_CustodesPawn.label>
+  
+  <!-- EN: Tactical Marine -->
+  <BEWH_FirstbornPawn.label>战术小队成员</BEWH_FirstbornPawn.label>
+  
+  <!-- EN: Primarch -->
+  <BEWH_LordCommanderPawn.label>基因原体</BEWH_LordCommanderPawn.label>
+  
+  <!-- EN: Tactical Primaris Marine -->
+  <BEWH_PrimarisSpaceMarinePawn.label>原铸战术小队成员</BEWH_PrimarisSpaceMarinePawn.label>
+  
+</LanguageData>

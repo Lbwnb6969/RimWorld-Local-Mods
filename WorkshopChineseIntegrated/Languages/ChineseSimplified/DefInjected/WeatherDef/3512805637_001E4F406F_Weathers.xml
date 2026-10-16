@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood rain -->
+  <BEWH_BloodRain.label>血雨</BEWH_BloodRain.label>
+  <!-- EN: Blood rain reduces the accuracy of ranged weapons, extinguishes fire, slows people down and decreases their mood. -->
+  <BEWH_BloodRain.description>血雨会降低远程武器的精准度，扑灭火焰，使人行动迟缓，情绪低落。</BEWH_BloodRain.description>
+  
+</LanguageData>

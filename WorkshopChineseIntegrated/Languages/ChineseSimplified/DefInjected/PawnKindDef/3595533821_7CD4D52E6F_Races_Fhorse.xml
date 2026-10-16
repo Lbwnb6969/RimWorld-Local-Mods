@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: friesian horse -->
+  <Friesian_Horse.label>弗里斯兰马</Friesian_Horse.label>
+  <!-- EN: friesian mare -->
+  <Friesian_Horse.labelFemale>弗里斯兰母马</Friesian_Horse.labelFemale>
+  <!-- EN: friesian stallion -->
+  <Friesian_Horse.labelMale>弗里斯兰公马</Friesian_Horse.labelMale>
+  <!-- EN: foal -->
+  <Friesian_Horse.lifeStages.foal.label>弗里斯兰小马驹</Friesian_Horse.lifeStages.foal.label>
+  
+</LanguageData>

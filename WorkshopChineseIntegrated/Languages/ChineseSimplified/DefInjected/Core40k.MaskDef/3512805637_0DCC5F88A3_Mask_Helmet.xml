@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Faceplate -->
+  <BEWH_MkVIIHelmetFaceplateMask.label>面罩上色</BEWH_MkVIIHelmetFaceplateMask.label>
+  <!-- EN: Colorable faceplate paint pattern. -->
+  <BEWH_MkVIIHelmetFaceplateMask.description>...</BEWH_MkVIIHelmetFaceplateMask.description>
+  
+  <!-- EN: Faceplate with Stripe -->
+  <BEWH_MkVIIHelmetFaceplateStripeMask.label>头盔条纹与面罩上色</BEWH_MkVIIHelmetFaceplateStripeMask.label>
+  <!-- EN: Colorable faceplate with a vertical stripe paint pattern. -->
+  <BEWH_MkVIIHelmetFaceplateStripeMask.description>...</BEWH_MkVIIHelmetFaceplateStripeMask.description>
+  
+  <!-- EN: Halved -->
+  <BEWH_MkVIIHelmetHalvedMask.label>半边上色</BEWH_MkVIIHelmetHalvedMask.label>
+  <!-- EN: Halved helmet paint pattern. -->
+  <BEWH_MkVIIHelmetHalvedMask.description>...</BEWH_MkVIIHelmetHalvedMask.description>
+  
+  <!-- EN: Faceplate -->
+  <BEWH_MkXHelmetFaceplateMask.label>面罩上色</BEWH_MkXHelmetFaceplateMask.label>
+  <!-- EN: Colorable faceplate paint pattern. -->
+  <BEWH_MkXHelmetFaceplateMask.description>...</BEWH_MkXHelmetFaceplateMask.description>
+  
+  <!-- EN: Faceplate with Stripe -->
+  <BEWH_MkXHelmetFaceplateStripeMask.label>头盔条纹与面罩上色</BEWH_MkXHelmetFaceplateStripeMask.label>
+  <!-- EN: Colorable faceplate with a vertical stripe paint pattern. -->
+  <BEWH_MkXHelmetFaceplateStripeMask.description>...</BEWH_MkXHelmetFaceplateStripeMask.description>
+  
+  <!-- EN: Halved -->
+  <BEWH_MkXHelmetHalvedMask.label>半边上色</BEWH_MkXHelmetHalvedMask.label>
+  <!-- EN: Halved helmet paint pattern. -->
+  <BEWH_MkXHelmetHalvedMask.description>...</BEWH_MkXHelmetHalvedMask.description>
+  
+</LanguageData>

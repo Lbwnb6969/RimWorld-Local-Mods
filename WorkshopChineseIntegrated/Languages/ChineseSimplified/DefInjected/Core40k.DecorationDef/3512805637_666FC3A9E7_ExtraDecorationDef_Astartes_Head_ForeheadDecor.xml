@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Apothecary Symbol -->
+  <BEWH_Deco_MkVIIApothecarySymbol.label>药剂师标志</BEWH_Deco_MkVIIApothecarySymbol.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_MkVIIApothecarySymbol.description>...</BEWH_Deco_MkVIIApothecarySymbol.description>
+  
+  <!-- EN: Apothecary Symbol -->
+  <BEWH_Deco_MkXApothecarySymbol.label>药剂师标志</BEWH_Deco_MkXApothecarySymbol.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_MkXApothecarySymbol.description>...</BEWH_Deco_MkXApothecarySymbol.description>
+  
+  <!-- EN: Inquisition Symbol -->
+  <BEWH_DecoInquisInsignia.label>宗教裁判所标志</BEWH_DecoInquisInsignia.label>
+  <!-- EN: ... -->
+  <BEWH_DecoInquisInsignia.description>...</BEWH_DecoInquisInsignia.description>
+  
+  <!-- EN: Laurel wreath -->
+  <BEWH_DecoLaurels.label>帝国桂冠</BEWH_DecoLaurels.label>
+  <!-- EN: ... -->
+  <BEWH_DecoLaurels.description>...</BEWH_DecoLaurels.description>
+  
+  <!-- EN: Skull -->
+  <BEWH_DecoSkull.label>铁颅</BEWH_DecoSkull.label>
+  <!-- EN: ... -->
+  <BEWH_DecoSkull.description>...</BEWH_DecoSkull.description>
+  
+</LanguageData>

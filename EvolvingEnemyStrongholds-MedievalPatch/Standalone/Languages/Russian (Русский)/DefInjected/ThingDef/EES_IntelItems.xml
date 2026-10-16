@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_IntelData_T1Core.label>разведданные (уровень 1)</EES_IntelData_T1Core.label>
+  <EES_IntelData_T1Core.description>Зашифрованное ядро данных, хранящее планировку, силу и объекты вражеского аванпоста. Позволяет удалённо разведать крепости низкого уровня (T1-T5). Доступно только у торговцев экзотикой, изготовить нельзя.</EES_IntelData_T1Core.description>
+  <EES_IntelData_T2Core.label>разведданные (уровень 2)</EES_IntelData_T2Core.label>
+  <EES_IntelData_T2Core.description>Высокоплотное зашифрованное ядро данных, хранящее планировку, силу и объекты вражеского аванпоста. Позволяет удалённо разведать крепости среднего уровня (T1-T8). Доступно только у торговцев экзотикой, изготовить нельзя.</EES_IntelData_T2Core.description>
+  <EES_IntelData_T3Core.label>разведданные (уровень 3)</EES_IntelData_T3Core.label>
+  <EES_IntelData_T3Core.description>Первоклассное зашифрованное ядро данных, хранящее планировку, силу и объекты вражеского аванпоста. Позволяет удалённо разведать даже крепости высокого уровня (T1-T12). Очень редко доступно у торговцев экзотикой, изготовить нельзя.</EES_IntelData_T3Core.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: opium -->
+  <VFEC_Chemical_Opium.label>鸦片</VFEC_Chemical_Opium.label>
+  <!-- EN: Because of an opium addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <VFEC_Chemical_Opium.description>由于鸦片成瘾，此人需要持续服用成瘾品以避免产生戒断反应。</VFEC_Chemical_Opium.description>
+  
+</LanguageData>

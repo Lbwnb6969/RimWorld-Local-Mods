@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spear -->
+  <TA_Spear.label>长矛</TA_Spear.label>
+  <!-- EN: One handed spear, primary fighting weapon of shield formations. -->
+  <TA_Spear.description>单手使用的长矛，是盾阵作战的主要武器。</TA_Spear.description>
+  <!-- EN: shaft -->
+  <TA_Spear.tools.shaft.label>矛杆</TA_Spear.tools.shaft.label>
+  <!-- EN: edge -->
+  <TA_Spear.tools.edge.label>矛刃</TA_Spear.tools.edge.label>
+  <!-- EN: point -->
+  <TA_Spear.tools.point.label>矛尖</TA_Spear.tools.point.label>
+  
+</LanguageData>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThingDef ParentName="ResourceBase" Name="EES_IntelDataBase" Abstract="True">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <tradeability>All</tradeability>
+    <stackLimit>5</stackLimit>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <techLevel>Spacer</techLevel>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <alwaysHaulable>true</alwaysHaulable>
+    <graphicData>
+      <texPath>Things/Item/Special/AIPersonaCore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>EES_IntelData</li>
+    </tradeTags>
+  </ThingDef>
+
+  <ThingDef ParentName="EES_IntelDataBase">
+    <defName>EES_IntelData_T1Core</defName>
+    <label>정보 자원 (티어 1)</label>
+    <description>적 전초기지의 배치·전력·시설 정보를 담은 암호화 데이터 코어. 낮은 등급(T1~T5) 거점을 원격으로 정찰할 수 있다. 희귀품 상인에게서만 구할 수 있으며 제작은 불가능하다.</description>
+    <statBases>
+      <MarketValue>1000</MarketValue>
+      <Mass>0.3</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Special/AIPersonaCore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(0.55, 0.85, 0.55)</color>
+    </graphicData>
+  </ThingDef>
+
+  <ThingDef ParentName="EES_IntelDataBase">
+    <defName>EES_IntelData_T2Core</defName>
+    <label>정보 자원 (티어 2)</label>
+    <description>적 전초기지의 배치·전력·시설 정보를 담은 고밀도 암호화 데이터 코어. 중간 등급(T1~T8) 거점을 원격으로 정찰할 수 있다. 희귀품 상인에게서만 구할 수 있으며 제작은 불가능하다.</description>
+    <statBases>
+      <MarketValue>3000</MarketValue>
+      <Mass>0.3</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Special/AIPersonaCore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(0.45, 0.65, 0.95)</color>
+    </graphicData>
+  </ThingDef>
+
+  <ThingDef ParentName="EES_IntelDataBase">
+    <defName>EES_IntelData_T3Core</defName>
+    <label>정보 자원 (티어 3)</label>
+    <description>적 전초기지의 배치·전력·시설 정보를 담은 최상급 암호화 데이터 코어. 고등급(T1~T12) 거점까지 원격으로 정찰할 수 있다. 희귀품 상인에게서만 극히 드물게 구할 수 있으며 제작은 불가능하다.</description>
+    <statBases>
+      <MarketValue>8000</MarketValue>
+      <Mass>0.3</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Special/AIPersonaCore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(0.85, 0.55, 0.95)</color>
+    </graphicData>
+  </ThingDef>
+
+</Defs>

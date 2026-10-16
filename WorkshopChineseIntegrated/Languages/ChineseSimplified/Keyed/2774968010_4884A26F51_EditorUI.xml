@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Open -->
+  <GeologicalLandforms.Editor.Open>打开</GeologicalLandforms.Editor.Open>
+  <!-- EN: Select landform to edit -->
+  <GeologicalLandforms.Editor.Open.Tooltip>选择需要编辑的地图元素</GeologicalLandforms.Editor.Open.Tooltip>
+  <!-- EN: Reset -->
+  <GeologicalLandforms.Editor.Reset>重设</GeologicalLandforms.Editor.Reset>
+  <!-- EN: Reset this landform to default -->
+  <GeologicalLandforms.Editor.Reset.Long>将此地图元素重设</GeologicalLandforms.Editor.Reset.Long>
+  <!-- EN: Reset config for this landform to default -->
+  <GeologicalLandforms.Editor.Reset.Tooltip>将此地图元素的配置重设</GeologicalLandforms.Editor.Reset.Tooltip>
+  <!-- EN: Copy -->
+  <GeologicalLandforms.Editor.Copy>复制</GeologicalLandforms.Editor.Copy>
+  <!-- EN: Create a copy of this landform -->
+  <GeologicalLandforms.Editor.Copy.Long>复制此地图元素</GeologicalLandforms.Editor.Copy.Long>
+  <!-- EN: Create a new custom landform (with selected one as template) -->
+  <GeologicalLandforms.Editor.Copy.Tooltip>创建新的自定义地图元素（需要选择一个现有的作为模板）</GeologicalLandforms.Editor.Copy.Tooltip>
+  <!-- EN: Delete -->
+  <GeologicalLandforms.Editor.Delete>删除</GeologicalLandforms.Editor.Delete>
+  <!-- EN: Delete this custom landform -->
+  <GeologicalLandforms.Editor.Delete.Long>删除此自定义地图元素</GeologicalLandforms.Editor.Delete.Long>
+  <!-- EN: Delete selected custom landform -->
+  <GeologicalLandforms.Editor.Delete.Tooltip>删除选择的自定义地图元素</GeologicalLandforms.Editor.Delete.Tooltip>
+  <!-- EN: Tools -->
+  <GeologicalLandforms.Editor.Tools>工具</GeologicalLandforms.Editor.Tools>
+  <!-- EN: For mod developers -->
+  <GeologicalLandforms.Editor.Tools.ForModDevs>Mod开发者用</GeologicalLandforms.Editor.Tools.ForModDevs>
+  <!-- EN: Save changes in mod "{0}" -->
+  <GeologicalLandforms.Editor.SaveInMod>保存Mod“{0}”中的更改</GeologicalLandforms.Editor.SaveInMod>
+  <!-- EN: Successfully applied changes to file "{0}" -->
+  <GeologicalLandforms.Editor.SaveInMod.Success>成功将更改应用至文件“{0}”</GeologicalLandforms.Editor.SaveInMod.Success>
+  <!-- EN: There are currently no new changes to be applied. -->
+  <GeologicalLandforms.Editor.SaveInMod.NoChanges>当前没有需要应用的新更改。</GeologicalLandforms.Editor.SaveInMod.NoChanges>
+  <!-- EN: Failed to apply changes to file "{0}" -->
+  <GeologicalLandforms.Editor.SaveInMod.Error>未能成功将更改应用至文件“{0}”</GeologicalLandforms.Editor.SaveInMod.Error>
+  <!-- EN: Are you sure you want to reset the config for the selected landform to default? -->
+  <GeologicalLandforms.Editor.ConfirmReset>你真的想要将当前正在编辑的自定义地图元素数据重设为默认状态吗？</GeologicalLandforms.Editor.ConfirmReset>
+  <!-- EN: Are you sure you want to delete the selected custom landform? It will be gone forever! -->
+  <GeologicalLandforms.Editor.ConfirmDelete>你真的想要将当前正在编辑的自定义地图元素删除吗？这项操作将无法撤销！</GeologicalLandforms.Editor.ConfirmDelete>
+  <!-- EN: This landform is provided by the mod "{0}". By default, when you make changes to this landform, they will be saved in your personal config folder, while the original file in the mod folder stays untouched. This has the advantage that your changes will not be overridden when the mod is updated, for example through Steam.\n\nHowever, if you are a mod developer working on "{0}", you probably want to apply your changes to the original file in the mod's folder, so that you can commit it via Git, or push out the changes as part of an update of your mod. Apply your changes to the original file in the mod folder now? -->
+  <GeologicalLandforms.Editor.ConfirmSaveInMod>此地图元素来自Mod“{0}”。当你编辑更改了此地图元素时，默认会保存至你的个人配置文件夹中，而原始文件则不会变化。这种处理方式的优点在于，当原Mod更新时，你所做的编辑更改不会被覆盖掉。\n\n但如果你是Mod“{0}”的开发者，想要将所做的编辑更改应用至原始文件的话，可以使用Git来提交Pr，或者通过接下来的操作进行合并。\n\n是否要直接将更改应用至Mod文件夹内的原始文件？</GeologicalLandforms.Editor.ConfirmSaveInMod>
+  
+  <!-- EN: Id -->
+  <GeologicalLandforms.Settings.Landform.Id>Id</GeologicalLandforms.Settings.Landform.Id>
+  <!-- EN: Display name -->
+  <GeologicalLandforms.Settings.Landform.DisplayName>名字</GeologicalLandforms.Settings.Landform.DisplayName>
+  <!-- EN: Show direction -->
+  <GeologicalLandforms.Settings.Landform.DisplayNameHasDirection>名字</GeologicalLandforms.Settings.Landform.DisplayNameHasDirection>
+  <!-- EN: Topology -->
+  <GeologicalLandforms.Settings.Landform.Topology>拓扑结构</GeologicalLandforms.Settings.Landform.Topology>
+  <!-- EN: Biome -->
+  <GeologicalLandforms.Settings.Landform.AllowedBiomes>生态群落</GeologicalLandforms.Settings.Landform.AllowedBiomes>
+  <!-- EN: ({0} biomes selected) -->
+  <GeologicalLandforms.Settings.Landform.AllowedBiomes.Some>（已选择{0}种生态群落）</GeologicalLandforms.Settings.Landform.AllowedBiomes.Some>
+  <!-- EN: World object nearby -->
+  <GeologicalLandforms.Settings.Landform.WorldObjectNearby>附近事件点</GeologicalLandforms.Settings.Landform.WorldObjectNearby>
+  <!-- EN: ({0} world objects) -->
+  <GeologicalLandforms.Settings.Landform.WorldObjectNearby.Some>（{0}事件点）</GeologicalLandforms.Settings.Landform.WorldObjectNearby.Some>
+  <!-- EN: River shape -->
+  <GeologicalLandforms.Settings.Landform.AllowedRiverTypes>河流形状</GeologicalLandforms.Settings.Landform.AllowedRiverTypes>
+  <!-- EN: ({0} shapes selected) -->
+  <GeologicalLandforms.Settings.Landform.AllowedRiverTypes.Some>（已选择{0}种河流形状）</GeologicalLandforms.Settings.Landform.AllowedRiverTypes.Some>
+  <!-- EN: Commonness -->
+  <GeologicalLandforms.Settings.Landform.Commonness>生成率</GeologicalLandforms.Settings.Landform.Commonness>
+  <!-- EN: Hilliness -->
+  <GeologicalLandforms.Settings.Landform.HillinessRequirement>山体</GeologicalLandforms.Settings.Landform.HillinessRequirement>
+  <!-- EN: Road -->
+  <GeologicalLandforms.Settings.Landform.RoadRequirement>道路</GeologicalLandforms.Settings.Landform.RoadRequirement>
+  <!-- EN: River -->
+  <GeologicalLandforms.Settings.Landform.RiverRequirement>河流</GeologicalLandforms.Settings.Landform.RiverRequirement>
+  <!-- EN: River or road -->
+  <GeologicalLandforms.Settings.Landform.RiverOrRoadRequirement>道路或河流</GeologicalLandforms.Settings.Landform.RiverOrRoadRequirement>
+  <!-- EN: Elevation -->
+  <GeologicalLandforms.Settings.Landform.ElevationRequirement>海拔</GeologicalLandforms.Settings.Landform.ElevationRequirement>
+  <!-- EN: Average temperature -->
+  <GeologicalLandforms.Settings.Landform.AvgTemperatureRequirement>平均温度</GeologicalLandforms.Settings.Landform.AvgTemperatureRequirement>
+  <!-- EN: Rainfall -->
+  <GeologicalLandforms.Settings.Landform.RainfallRequirement>降雨量</GeologicalLandforms.Settings.Landform.RainfallRequirement>
+  <!-- EN: Swampiness -->
+  <GeologicalLandforms.Settings.Landform.SwampinessRequirement>沼泽</GeologicalLandforms.Settings.Landform.SwampinessRequirement>
+  <!-- EN: Bordering biomes -->
+  <GeologicalLandforms.Settings.Landform.BiomeTransitionsRequirement>毗邻的生态群落</GeologicalLandforms.Settings.Landform.BiomeTransitionsRequirement>
+  <!-- EN: Topology value -->
+  <GeologicalLandforms.Settings.Landform.TopologyValueRequirement>拓扑值</GeologicalLandforms.Settings.Landform.TopologyValueRequirement>
+  <!-- EN: Depth in cave system -->
+  <GeologicalLandforms.Settings.Landform.DepthInCaveSystemRequirement>洞穴深度</GeologicalLandforms.Settings.Landform.DepthInCaveSystemRequirement>
+  <!-- EN: Add requirement -->
+  <GeologicalLandforms.Settings.Landform.AddRequirement>添加需求</GeologicalLandforms.Settings.Landform.AddRequirement>
+  <!-- EN: Allow non-player settlements -->
+  <GeologicalLandforms.Settings.Landform.AllowSettlements>允许生成其他派系定居点</GeologicalLandforms.Settings.Landform.AllowSettlements>
+  <!-- EN: Allow quest sites -->
+  <GeologicalLandforms.Settings.Landform.AllowSites>允许生成任务地点</GeologicalLandforms.Settings.Landform.AllowSites>
+  <!-- EN: Cave chance -->
+  <GeologicalLandforms.Settings.Landform.CaveChance>洞穴生成几率</GeologicalLandforms.Settings.Landform.CaveChance>
+  <!-- EN: Allow caves -->
+  <GeologicalLandforms.Settings.Landform.AllowCaves>允许生成洞穴</GeologicalLandforms.Settings.Landform.AllowCaves>
+  <!-- EN: Require caves -->
+  <GeologicalLandforms.Settings.Landform.RequireCaves>需要洞穴才能生成</GeologicalLandforms.Settings.Landform.RequireCaves>
+  <!-- EN: Priority -->
+  <GeologicalLandforms.Settings.Landform.Priority>优先级</GeologicalLandforms.Settings.Landform.Priority>
+  <!-- EN: Layer -->
+  <GeologicalLandforms.Settings.Landform.LayerId>层级</GeologicalLandforms.Settings.Landform.LayerId>
+  <!-- EN: Atlas size -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.AtlasSize>Atlas size</GeologicalLandforms.Settings.Landform.WorldTileGraphic.AtlasSize>
+  <!-- EN: Tex path -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.TexPath>Tex path</GeologicalLandforms.Settings.Landform.WorldTileGraphic.TexPath>
+  <!-- EN: Draw mode -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode>绘制模式</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode>
+  <!-- EN: Hex (random) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexRandom>Hex (random)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexRandom>
+  <!-- EN: Hex (adjacency) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacency>Hex (adjacency)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacency>
+  <!-- EN: Hex (cave adjacency) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacencyCaves>Hex (cave adjacency)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacencyCaves>
+  <!-- EN: Quad (random) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadRandom>Quad (random)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadRandom>
+  <!-- EN: Quad (static) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadStatic>Quad (static)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadStatic>
+
+  <!-- EN: Any -->
+  <GeologicalLandforms.Settings.Landform.Topology.Any>任意</GeologicalLandforms.Settings.Landform.Topology.Any>
+  <!-- EN: Inland -->
+  <GeologicalLandforms.Settings.Landform.Topology.Inland>内陆</GeologicalLandforms.Settings.Landform.Topology.Inland>
+  <!-- EN: Coast on one side -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastOneSide>单侧有海岸</GeologicalLandforms.Settings.Landform.Topology.CoastOneSide>
+  <!-- EN: Coast on two adjacent sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastTwoSides>相邻两侧有海岸</GeologicalLandforms.Settings.Landform.Topology.CoastTwoSides>
+  <!-- EN: Coast on two opposite sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastLandbridge>平行两侧有海岸</GeologicalLandforms.Settings.Landform.Topology.CoastLandbridge>
+  <!-- EN: Coast on three sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastThreeSides>三侧有海岸</GeologicalLandforms.Settings.Landform.Topology.CoastThreeSides>
+  <!-- EN: Coast on all sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastAllSides>被海岸包围</GeologicalLandforms.Settings.Landform.Topology.CoastAllSides>
+  <!-- EN: Cliff on one side -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffOneSide>单侧有山崖</GeologicalLandforms.Settings.Landform.Topology.CliffOneSide>
+  <!-- EN: Cliff on two adjacent sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffTwoSides>相邻两侧有山崖</GeologicalLandforms.Settings.Landform.Topology.CliffTwoSides>
+  <!-- EN: Cliff on two opposite sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffValley>平行两侧有山崖</GeologicalLandforms.Settings.Landform.Topology.CliffValley>
+  <!-- EN: Cliff on three sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffThreeSides>三侧有山崖</GeologicalLandforms.Settings.Landform.Topology.CliffThreeSides>
+  <!-- EN: Cliff on all sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffAllSides>被山崖包围</GeologicalLandforms.Settings.Landform.Topology.CliffAllSides>
+  <!-- EN: Cliff and coast -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffAndCoast>山崖和海岸</GeologicalLandforms.Settings.Landform.Topology.CliffAndCoast>
+  <!-- EN: Cave system entrance -->
+  <GeologicalLandforms.Settings.Landform.Topology.CaveEntrance>洞穴系统（入口）</GeologicalLandforms.Settings.Landform.Topology.CaveEntrance>
+  <!-- EN: Cave system tunnel -->
+  <GeologicalLandforms.Settings.Landform.Topology.CaveTunnel>洞穴系统（隧道）</GeologicalLandforms.Settings.Landform.Topology.CaveTunnel>
+  <!-- EN: Ocean -->
+  <GeologicalLandforms.Settings.Landform.Topology.Ocean>海洋</GeologicalLandforms.Settings.Landform.Topology.Ocean>
+
+  <GeologicalLandforms.WorldParams.Mountains>山脉</GeologicalLandforms.WorldParams.Mountains>
+  <GeologicalLandforms.WorldParams.CaveSystems>洞穴</GeologicalLandforms.WorldParams.CaveSystems>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ritual will increase the participants' corruption need by 10%. If the need gets over 100%, they risk going mad from the eldritch incantations. -->
+  <VME_IncantationPattern.ritualExplanation>仪式将为参与者增长10%的堕落值。若堕落值达到100%,参与者便很有可能会因外神的诅咒而陷入疯狂。</VME_IncantationPattern.ritualExplanation>
+  
+</LanguageData>

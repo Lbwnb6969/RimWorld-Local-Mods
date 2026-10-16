@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 -->
+
+  <DankPyon_Amboisse_Peasant.label>农民</DankPyon_Amboisse_Peasant.label>
+  <DankPyon_Amboisse_Peasant.labelPlural>农民</DankPyon_Amboisse_Peasant.labelPlural>
+
+  <DankPyon_Soren_Peasant.label>农民</DankPyon_Soren_Peasant.label>
+  <DankPyon_Soren_Peasant.labelPlural>农民</DankPyon_Soren_Peasant.labelPlural>
+
+  <DankPyon_Oswin_Peasant.label>农民</DankPyon_Oswin_Peasant.label>
+  <DankPyon_Oswin_Peasant.labelPlural>农民</DankPyon_Oswin_Peasant.labelPlural>
+
+  <DankPyon_Hesse_Peasant.label>农民</DankPyon_Hesse_Peasant.label>
+  <DankPyon_Hesse_Peasant.labelPlural>农民</DankPyon_Hesse_Peasant.labelPlural>
+
+  <!-- Amboisse -->
+
+  <DankPyon_Amboisse_Archer.label>弓箭手</DankPyon_Amboisse_Archer.label>
+  <DankPyon_Amboisse_Archer.labelPlural>弓箭手</DankPyon_Amboisse_Archer.labelPlural>
+
+  <DankPyon_Amboisse_Footman.label>步兵</DankPyon_Amboisse_Footman.label>
+  <DankPyon_Amboisse_Footman.labelPlural>步兵</DankPyon_Amboisse_Footman.labelPlural>
+
+  <DankPyon_Amboisse_Knight.label>骑士</DankPyon_Amboisse_Knight.label>
+  <DankPyon_Amboisse_Knight.labelPlural>骑士</DankPyon_Amboisse_Knight.labelPlural>
+
+  <DankPyon_Amboise_LocalLord.label>地区领主</DankPyon_Amboise_LocalLord.label>
+  <DankPyon_Amboise_LocalLord.labelPlural>地区领主</DankPyon_Amboise_LocalLord.labelPlural>
+
+
+  <!-- Soren -->
+
+  <DankPyon_Soren_Archer.label>弓箭手</DankPyon_Soren_Archer.label>
+  <DankPyon_Soren_Archer.labelPlural>弓箭手</DankPyon_Soren_Archer.labelPlural>
+
+  <DankPyon_Soren_Footman.label>步兵</DankPyon_Soren_Footman.label>
+  <DankPyon_Soren_Footman.labelPlural>步兵</DankPyon_Soren_Footman.labelPlural>
+
+  <DankPyon_Soren_Knight.label>骑士</DankPyon_Soren_Knight.label>
+  <DankPyon_Soren_Knight.labelPlural>骑士</DankPyon_Soren_Knight.labelPlural>
+
+  <DankPyon_Soren_LocalLord.label>地区领主</DankPyon_Soren_LocalLord.label>
+  <DankPyon_Soren_LocalLord.labelPlural>地区领主</DankPyon_Soren_LocalLord.labelPlural>
+
+
+  <!-- Oswin -->
+
+  <DankPyon_Oswin_Archer.label>弓箭手</DankPyon_Oswin_Archer.label>
+  <DankPyon_Oswin_Archer.labelPlural>弓箭手</DankPyon_Oswin_Archer.labelPlural>
+
+  <DankPyon_Oswin_Footman.label>步兵</DankPyon_Oswin_Footman.label>
+  <DankPyon_Oswin_Footman.labelPlural>步兵</DankPyon_Oswin_Footman.labelPlural>
+
+  <DankPyon_Oswin_Knight.label>骑士</DankPyon_Oswin_Knight.label>
+  <DankPyon_Oswin_Knight.labelPlural>骑士</DankPyon_Oswin_Knight.labelPlural>
+
+  <DankPyon_Oswin_LocalLord.label>地区领主</DankPyon_Oswin_LocalLord.label>
+  <DankPyon_Oswin_LocalLord.labelPlural>地区领主</DankPyon_Oswin_LocalLord.labelPlural>
+
+
+  <!-- Hesse -->
+
+  <DankPyon_Hesse_Archer.label>弓箭手</DankPyon_Hesse_Archer.label>
+  <DankPyon_Hesse_Archer.labelPlural>弓箭手</DankPyon_Hesse_Archer.labelPlural>
+
+  <DankPyon_Hesse_Footman.label>步兵</DankPyon_Hesse_Footman.label>
+  <DankPyon_Hesse_Footman.labelPlural>步兵</DankPyon_Hesse_Footman.labelPlural>
+
+  <DankPyon_Hesse_Knight.label>骑士</DankPyon_Hesse_Knight.label>
+  <DankPyon_Hesse_Knight.labelPlural>骑士</DankPyon_Hesse_Knight.labelPlural>
+
+  <DankPyon_Hesse_LocalLord.label>地区领主</DankPyon_Hesse_LocalLord.label>
+  <DankPyon_Hesse_LocalLord.labelPlural>地区领主</DankPyon_Hesse_LocalLord.labelPlural>
+
+</LanguageData>

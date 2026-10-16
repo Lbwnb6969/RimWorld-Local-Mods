@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced powerchip -->
+  <VR_PowerchipAdvanced.label>高级能量芯片</VR_PowerchipAdvanced.label>
+  <!-- EN: A rune-etched powerchip brimming with bound aether.. It is necessary to produce certain advanced constructs and equipment.\n\nAn artificer can study this chip to help unlock higher tiers of construct tech research. -->
+  <VR_PowerchipAdvanced.description>一枚刻有符文、充盈束缚以太的能量芯片。它是生产某些高级构装体与装备所必需的。\n\n机巧师可以研究该芯片，以解锁更高等级的构装体技术研究。</VR_PowerchipAdvanced.description>
+  <!-- EN: Analyze the advanced powerchip. -->
+  <VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.activateDescString>分析高级能量芯片。</VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the advanced powerchip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.completedLetter>{PAWN_labelShort}通过研究高级能量芯片，获得了开展研究项目{RESEARCH}所需的洞见。\n\n你的研究者现在可以在研究台上开始研究如何实际运用该技术。</VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Advanced powerchip studied: {RESEARCH} unlocked -->
+  <VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.completedLetterLabel>高级能量芯片研究完成：解锁{RESEARCH}</VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.guiLabelString>选择由谁来分析</VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze advanced powerchip -->
+  <VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.jobString>分析高级能量芯片</VR_PowerchipAdvanced.comps.CompAnalyzableUnlockResearch.jobString>
+  
+  <!-- EN: basic powerchip -->
+  <VR_PowerchipBasic.label>基础能量芯片</VR_PowerchipBasic.label>
+  <!-- EN: A rune-etched powerchip brimming with bound aether. It is necessary to produce certain advanced types of constructs and equipment.\n\nAn artificer can study this chip to help unlock higher tiers of construct tech research. -->
+  <VR_PowerchipBasic.description>一枚刻有符文、充盈束缚以太的能量芯片。它是生产某些高级构装体与装备所必需的。\n\n机巧师可以研究该芯片，以解锁更高等级的构装体技术研究。</VR_PowerchipBasic.description>
+  <!-- EN: Analyze the basic powerchip. -->
+  <VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.activateDescString>分析基础能量芯片。</VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the basic powerchip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.completedLetter>{PAWN_labelShort}通过研究基础能量芯片，获得了开展研究项目{RESEARCH}所需的洞见。\n\n你的研究者现在可以在研究台上开始研究如何实际运用该技术。</VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Basic powerchip studied: {RESEARCH} unlocked -->
+  <VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.completedLetterLabel>基础能量芯片研究完成：解锁{RESEARCH}</VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.guiLabelString>选择由谁来分析</VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze basic powerchip -->
+  <VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.jobString>分析基础能量芯片</VR_PowerchipBasic.comps.CompAnalyzableUnlockResearch.jobString>
+  
+  <!-- EN: standard powerchip -->
+  <VR_PowerchipStandard.label>标准能量芯片</VR_PowerchipStandard.label>
+  <!-- EN: A rune-etched powerchip brimming with bound aether. It is necessary to produce certain advanced types of constructs and equipment.\n\nAn artificer can study this chip to help unlock higher tiers of construct tech research. -->
+  <VR_PowerchipStandard.description>一枚刻有符文、充盈束缚以太的能量芯片。它是生产某些高级构装体与装备所必需的。\n\n机巧师可以研究该芯片，以解锁更高等级的构装体技术研究。</VR_PowerchipStandard.description>
+  <!-- EN: Analyze the standard powerchip. -->
+  <VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.activateDescString>分析标准能量芯片。</VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the standrad powerchip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.completedLetter>{PAWN_labelShort}通过研究标准能量芯片，获得了开展研究项目{RESEARCH}所需的洞见。\n\n你的研究者现在可以在研究台上开始研究如何实际运用该技术。</VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Standard powerchipchip studied: {RESEARCH} unlocked -->
+  <VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.completedLetterLabel>标准能量芯片研究完成：解锁{RESEARCH}</VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.guiLabelString>选择由谁来分析</VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze standard powerchip -->
+  <VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.jobString>分析标准能量芯片</VR_PowerchipStandard.comps.CompAnalyzableUnlockResearch.jobString>
+  
+</LanguageData>

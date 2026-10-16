@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>lesson(priority=-1)->stuff happens</li>
+    <li>r_pattern->"[r_horaxianlessonIntro] [r_lesson]. [r_horaxianlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]'s [book] on [concept]</li>
+    <li>book->discourse</li>
+    <li>book->sermon</li>
+    <li>book->conclave</li>
+    <li>book->congregation</li>
+    <li>concept->the Voidborn Prophecies</li>
+    <li>concept->the Darkened Mysteries</li>
+    <li>concept->Nightmare Esoterica</li>
+    <li>concept->Horaxian Doctrine</li>
+    <li>concept->Shadowed Lore</li>
+    <li>concept->Tenebrous Revelations</li>
+    <li>concept->Umbral Invocations</li>
+    <li>horaxianlessonIntro->Welcome, brethren, to the gathering of shadows and whispers. As we convene beneath the veil of darkness, let us heed the call of the void and embrace the wisdom it offers. The Void shows us that</li>
+    <li>horaxianlessonIntro->Dark blessings upon you, faithful followers of the abyss. As we stand on the precipice of oblivion, let us open our minds to the secrets that lie within the depths of our darkest desires. It will then become clear:</li>
+    <li>horaxianlessonIntro->Hail, disciples of the void, and welcome to the sanctum of shadows. In the swirling darkness that surrounds us, let us find solace and strength as we commune with the unseen forces that shape our existence. They'll teach us one thing:</li>
+    <li>horaxianlessonIntro->Greetings, children of the abyss, and welcome to this gathering of the faithful. In the silence that envelops us, let us listen for the whispers of our dark patron and prepare to receive its unholy wisdom:</li>
+    <li>horaxianlessonIntro->May the shadows embrace you, brethren, as we come together in reverence of the void. In the quietude of this sacred space, let us open our hearts to the mysteries that await us in the depths of the abyss. You will show everyone that</li>
+    <li>horaxianlessonReinforcement->As we depart, carry the darkness within you, for it is our strength and our salvation.</li>
+    <li>horaxianlessonReinforcement->Go forth, disciples, and may the shadows guide your every step.</li>
+    <li>horaxianlessonReinforcement->Let the whispers of the void linger in your soul, guiding you on the path to enlightenment.</li>
+    <li>horaxianlessonReinforcement->With the darkness as our ally, we shall triumph over all who oppose us.</li>
+    <li>horaxianlessonReinforcement->Until we meet again, may the abyss watch over you and keep you safe.</li>
+  -->
+  <AM_HoraxianDescription.rules.rulesStrings>  
+    <li>lesson(priority=-1)->事情发生了</li>
+    <li>r_pattern->“[r_horaxianlessonIntro][r_lesson]。[r_horaxianlessonReinforcement]”\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]，关于[concept]的[book]</li>
+    <li>book->宣讲</li>
+    <li>book->布道</li>
+    <li>book->秘会</li>
+    <li>book->集会</li>
+    <li>concept->虚空之裔先知</li>
+    <li>concept->暗黑辛秘</li>
+    <li>concept->梦魇秘奥</li>
+    <li>concept->霍拉克斯教义</li>
+    <li>concept->阴暗学识</li>
+    <li>concept->晦暗启示</li>
+    <li>concept->暗影邪术</li>
+    <li>horaxianlessonIntro->信徒们，欢迎你们参加这暗影与私语之集会。我们齐聚在黑暗面纱之下，遵从虚空的召唤，拥抱它所提供的智慧。虚空向我们展示了</li>
+    <li>horaxianlessonIntro->暗黑祝福常伴你们左右，深渊虔诚的信徒们。当我们站在忘却之崖上时，让我们吐露自己的心声，了解埋藏在至暗欲望深处的秘密。这样我们才能明白：</li>
+    <li>horaxianlessonIntro->感到荣幸吧，虚空的信徒们，欢迎来到这暗影圣地。涡流轮转的黑暗环绕着我们，让我们在与塑造自身存在的无形之力交流时寻获慰藉和力量。它们教会了我们一件事情：</li>
+    <li>horaxianlessonIntro->日安，深渊之子们，欢迎你们参加这虔诚集会。无声寂静笼罩着我们，让我们聆听暗黑守护神的低语，它罪恶的智慧将告诉我们：</li>
+    <li>horaxianlessonIntro->当我们因敬畏虚空而聚集在一起时，愿暗影拥抱你们。我们站在这寂静无声的神圣空间内，敞开心扉以接受在深渊中等待我们的奥秘。你们会向世人表明</li>
+    <li>horaxianlessonReinforcement->当我们启程时，请把黑暗带入心中，这正是我们的力量之源与救赎。</li>
+    <li>horaxianlessonReinforcement->前行吧，信徒们，愿暗影指引你们的脚步。</li>
+    <li>horaxianlessonReinforcement->让虚空低语游荡在你们的灵魂中，指引你们在启示之路上不断前行。</li>
+    <li>horaxianlessonReinforcement->黑暗是我们坚实可靠的后盾，我们将战胜所有反对我们的人。</li>
+    <li>horaxianlessonReinforcement->直到我们再次相见前，愿深渊庇佑你们，保护你们的安全。</li>
+  </AM_HoraxianDescription.rules.rulesStrings>
+  
+</LanguageData>

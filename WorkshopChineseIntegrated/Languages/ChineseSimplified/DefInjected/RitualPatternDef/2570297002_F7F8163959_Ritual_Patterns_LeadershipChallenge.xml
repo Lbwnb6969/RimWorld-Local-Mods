@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A {IDEO} member has better melee skill than the current leader, other {MEMBERS} expect {RITUAL_labelDef} to take place so only the strongest leader can rule them. -->
+  <VME_LeadershipChallengeRitual.ritualExpectedDesc>一名 {IDEO} 成员拥有比现任领袖更高超的格斗技能，其他 {MEMBERS} 会要求执行 {RITUAL_labelDef} 来决出最强大的领袖。</VME_LeadershipChallengeRitual.ritualExpectedDesc>
+  
+</LanguageData>

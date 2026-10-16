@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gaubricmaker dryad -->
+  <VDE_Dryad_Gaubricmaker.label>纺绸树精</VDE_Dryad_Gaubricmaker.label>
+  
+  <!-- EN: nectarmaker dryad -->
+  <VDE_Dryad_Nectarmaker.label>甘馐树精</VDE_Dryad_Nectarmaker.label>
+  
+  <!-- EN: spitter dryad -->
+  <VDE_Dryad_Spitter.label>酸蚀树精</VDE_Dryad_Spitter.label>
+  
+  <!-- EN: stonedigger dryad -->
+  <VDE_Dryad_Stonedigger.label>采石树精</VDE_Dryad_Stonedigger.label>
+  
+</LanguageData>

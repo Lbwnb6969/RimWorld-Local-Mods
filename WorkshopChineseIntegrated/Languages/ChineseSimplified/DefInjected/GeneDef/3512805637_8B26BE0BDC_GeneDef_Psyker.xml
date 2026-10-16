@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpha psyker -->
+  <BEWH_AlphaPsyker.label>Ⅴ级灵能者</BEWH_AlphaPsyker.label>
+  <!-- EN: Carriers of this gene can unlock their full psychic potential. These beings are extremely dangerous-capable of bringing entire worlds to ruin if their powers are properly honed. -->
+  <BEWH_AlphaPsyker.description>此基因的携带者可以释放其全部灵能潜力。他们极度危险——如果他们的灵能得到适当的训练，便能够毁灭整个世界。</BEWH_AlphaPsyker.description>
+  <!-- EN: Gives the ability to fire psychic bolts. -->
+  <BEWH_AlphaPsyker.customEffectDescriptions.0>获得发射灵能飞弹的能力。</BEWH_AlphaPsyker.customEffectDescriptions.0>
+  <!-- EN: Makes pawn a psycaster. -->
+  <BEWH_AlphaPsyker.customEffectDescriptions.1>使角色成为一位灵能者。</BEWH_AlphaPsyker.customEffectDescriptions.1>
+  
+  <!-- EN: beta psyker -->
+  <BEWH_BetaPsyker.label>Ⅳ级灵能者</BEWH_BetaPsyker.label>
+  <!-- EN: Carriers of this gene can unlock their true psychic potential. These beings are extremely dangerous, capable of overwhelming entire armies on their own. -->
+  <BEWH_BetaPsyker.description>此基因的携带者可以释放其无以伦比的灵能潜力。他们非常危险，能够独自击溃整支军队。</BEWH_BetaPsyker.description>
+  <!-- EN: Gives the ability to fire psychic bolts. -->
+  <BEWH_BetaPsyker.customEffectDescriptions.0>获得发射灵能飞弹的能力。</BEWH_BetaPsyker.customEffectDescriptions.0>
+  <!-- EN: Makes pawn a psycaster. -->
+  <BEWH_BetaPsyker.customEffectDescriptions.1>使角色成为一位灵能者。</BEWH_BetaPsyker.customEffectDescriptions.1>
+  
+  <!-- EN: delta psyker -->
+  <BEWH_DeltaPsyker.label>Ⅲ级灵能者</BEWH_DeltaPsyker.label>
+  <!-- EN: Carriers of this gene can unlock their true psychic potential. These beings are dangerous and should be treated accordingly. -->
+  <BEWH_DeltaPsyker.description>此基因的携带者可以释放其真正的灵能潜力。他们非常危险，应谨慎对待。</BEWH_DeltaPsyker.description>
+  <!-- EN: Gives the ability to fire psychic bolts. -->
+  <BEWH_DeltaPsyker.customEffectDescriptions.0>获得发射灵能飞弹的能力。</BEWH_DeltaPsyker.customEffectDescriptions.0>
+  <!-- EN: Makes pawn a psycaster. -->
+  <BEWH_DeltaPsyker.customEffectDescriptions.1>使角色成为一位灵能者。</BEWH_DeltaPsyker.customEffectDescriptions.1>
+  
+  <!-- EN: epsilon psyker -->
+  <BEWH_EpsilonPsyker.label>Ⅱ级灵能者</BEWH_EpsilonPsyker.label>
+  <!-- EN: Carriers of this gene can unlock their true psychic potential. While dangerous, their abilities remain within the bounds of average psykers. -->
+  <BEWH_EpsilonPsyker.description>这种基因的携带者能够释放他们潜藏的灵能潜力。虽然危险，但他们的能力仍在普通灵能者的范畴之内。</BEWH_EpsilonPsyker.description>
+  <!-- EN: Gives the ability to fire psychic bolts. -->
+  <BEWH_EpsilonPsyker.customEffectDescriptions.0>获得发射灵能飞弹的能力。</BEWH_EpsilonPsyker.customEffectDescriptions.0>
+  <!-- EN: Makes pawn a psycaster. -->
+  <BEWH_EpsilonPsyker.customEffectDescriptions.1>使角色成为一位灵能者。</BEWH_EpsilonPsyker.customEffectDescriptions.1>
+  
+  <!-- EN: iota psyker -->
+  <BEWH_IotaPsyker.label>Ⅰ级灵能者</BEWH_IotaPsyker.label>
+  <!-- EN: Carriers of this gene can unlock their psychic potential, though only a faint sliver of what's truly possible. -->
+  <BEWH_IotaPsyker.description>基因的携带者可以释放他们的灵能潜力，尽管这仅仅是极小一部分。</BEWH_IotaPsyker.description>
+  <!-- EN: Gives the ability to fire psychic bolts. -->
+  <BEWH_IotaPsyker.customEffectDescriptions.0>获得发射灵能飞弹的能力。</BEWH_IotaPsyker.customEffectDescriptions.0>
+  <!-- EN: Makes pawn a psycaster. -->
+  <BEWH_IotaPsyker.customEffectDescriptions.1>使角色成为一位灵能者。</BEWH_IotaPsyker.customEffectDescriptions.1>
+  
+</LanguageData>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] hauled goods along the Rhine, watching merchants, pilgrims, and knights pass by. The river became [PAWN_possessive] school.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Basic_BargeHelper.description>[PAWN_nameDef]沿着莱茵河搬运货物，看着商人、朝圣者与骑士往来穿梭。这条河流成了[PAWN_possessive]的学堂。</BA_HRE_Childhood_Basic_BargeHelper.description>
+  <!-- EN: Rhine Barge Helper -->
+  <BA_HRE_Childhood_Basic_BargeHelper.title>莱茵河驳船助手</BA_HRE_Childhood_Basic_BargeHelper.title>
+  <!-- EN: Bargehand -->
+  <BA_HRE_Childhood_Basic_BargeHelper.titleShort>驳船助手</BA_HRE_Childhood_Basic_BargeHelper.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped carry ore from the tunnels of the Harz Mountains. The air was heavy, but so was the promise of bread.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Basic_MinerDescendant.description>[PAWN_nameDef]帮忙从哈尔茨山脉的矿道中搬运矿石。空气沉闷压抑，但能赚到面包的希望也同样沉甸甸。</BA_HRE_Childhood_Basic_MinerDescendant.description>
+  <!-- EN: Miner's Son -->
+  <BA_HRE_Childhood_Basic_MinerDescendant.title>矿工之子</BA_HRE_Childhood_Basic_MinerDescendant.title>
+  <!-- EN: Miner Child -->
+  <BA_HRE_Childhood_Basic_MinerDescendant.titleShort>矿工孩童</BA_HRE_Childhood_Basic_MinerDescendant.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] pushed the heavy wooden plow through mud and rain, helping parents sow grain for their lord’s tithe.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Basic_Plowhand.description>[PAWN_nameDef]在泥泞与雨水之中推动沉重的木犁，协助父母播种谷物以缴纳领主的什一税。</BA_HRE_Childhood_Basic_Plowhand.description>
+  <!-- EN: Plowhand -->
+  <BA_HRE_Childhood_Basic_Plowhand.title>耕犁助手</BA_HRE_Childhood_Basic_Plowhand.title>
+  <!-- EN: Farmhand -->
+  <BA_HRE_Childhood_Basic_Plowhand.titleShort>农家童工</BA_HRE_Childhood_Basic_Plowhand.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in one of the Empire’s new universities, carrying scrolls for professors and listening to great debates.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Educated_UniversityPage.description>[PAWN_nameDef]在帝国一所新建的大学中做事，为教授们搬运卷轴，旁听各类精彩的辩论。</BA_HRE_Childhood_Educated_UniversityPage.description>
+  <!-- EN: University Page -->
+  <BA_HRE_Childhood_Educated_UniversityPage.title>大学侍从</BA_HRE_Childhood_Educated_UniversityPage.title>
+  <!-- EN: Page -->
+  <BA_HRE_Childhood_Educated_UniversityPage.titleShort>侍从</BA_HRE_Childhood_Educated_UniversityPage.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up among the pomp of tournaments, dreaming of banners and lances breaking in glory.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_MilitaryLineage_JoustSpectator.description>[PAWN_nameDef]在马上比武大赛的盛大氛围中长大，梦想着旗帜飘扬、长矛在荣耀中折断的场景。</BA_HRE_Childhood_MilitaryLineage_JoustSpectator.description>
+  <!-- EN: Joust Enthusiast -->
+  <BA_HRE_Childhood_MilitaryLineage_JoustSpectator.title>比武爱好者</BA_HRE_Childhood_MilitaryLineage_JoustSpectator.title>
+  <!-- EN: Joust Fan -->
+  <BA_HRE_Childhood_MilitaryLineage_JoustSpectator.titleShort>比武迷</BA_HRE_Childhood_MilitaryLineage_JoustSpectator.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served among the brothers of the Teutonic Order, learning piety, service, and strict obedience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_MilitaryLineage_PageOfTeutonicOrder.description>[PAWN_nameDef]在条顿骑士团的修士们身边服役，学习虔诚、奉献与绝对的服从。</BA_HRE_Childhood_MilitaryLineage_PageOfTeutonicOrder.description>
+  <!-- EN: Page of the Teutonic Order -->
+  <BA_HRE_Childhood_MilitaryLineage_PageOfTeutonicOrder.title>条顿骑士团侍从</BA_HRE_Childhood_MilitaryLineage_PageOfTeutonicOrder.title>
+  <!-- EN: Teutonic Page -->
+  <BA_HRE_Childhood_MilitaryLineage_PageOfTeutonicOrder.titleShort>条顿侍从</BA_HRE_Childhood_MilitaryLineage_PageOfTeutonicOrder.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a page in a noble court, learning courtesy, sword etiquette, and the politics of feasts.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_MilitaryLineage_PageOfTheDuke.description>[PAWN_nameDef]在贵族宫廷中担任侍从，学习礼仪、剑术规范以及宴会场合中的政治门道。</BA_HRE_Childhood_MilitaryLineage_PageOfTheDuke.description>
+  <!-- EN: Page of the Duke -->
+  <BA_HRE_Childhood_MilitaryLineage_PageOfTheDuke.title>公爵侍从</BA_HRE_Childhood_MilitaryLineage_PageOfTheDuke.title>
+  <!-- EN: Page -->
+  <BA_HRE_Childhood_MilitaryLineage_PageOfTheDuke.titleShort>侍从</BA_HRE_Childhood_MilitaryLineage_PageOfTheDuke.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained beside knights of the Teutonic or Hospitaller orders, learning discipline, arms, and devotion.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_MilitaryLineage_SquireToKnight.description>[PAWN_nameDef]在条顿骑士团或医院骑士团的骑士身边接受训练，学习纪律、武器使用与虔诚之道。</BA_HRE_Childhood_MilitaryLineage_SquireToKnight.description>
+  <!-- EN: Squire of the Order -->
+  <BA_HRE_Childhood_MilitaryLineage_SquireToKnight.title>骑士团侍从</BA_HRE_Childhood_MilitaryLineage_SquireToKnight.title>
+  <!-- EN: Squire -->
+  <BA_HRE_Childhood_MilitaryLineage_SquireToKnight.titleShort>侍从</BA_HRE_Childhood_MilitaryLineage_SquireToKnight.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] idolized mercenary pikemen, training with makeshift pikes and learning camp discipline before ever holding pay.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_MilitaryLineage_YoungLandsknecht.description>[PAWN_nameDef]崇拜雇佣长矛兵，在还未获得报酬之前，就用简易长矛训练，并学习军营纪律。</BA_HRE_Childhood_MilitaryLineage_YoungLandsknecht.description>
+  <!-- EN: Young Landsknecht -->
+  <BA_HRE_Childhood_MilitaryLineage_YoungLandsknecht.title>少年德意志雇佣步兵</BA_HRE_Childhood_MilitaryLineage_YoungLandsknecht.title>
+  <!-- EN: Landsknecht -->
+  <BA_HRE_Childhood_MilitaryLineage_YoungLandsknecht.titleShort>雇佣步兵</BA_HRE_Childhood_MilitaryLineage_YoungLandsknecht.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up watching [PAWN_possessive] father carry banners of the Empire, dreaming one day to bear one proudly.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_MilitaryLineage_YoungStandardBearer.description>[PAWN_nameDef]在目睹[PAWN_possessive]父亲高举帝国旗帜的环境中长大，梦想着有一天能自豪地扛起一面旗帜。</BA_HRE_Childhood_MilitaryLineage_YoungStandardBearer.description>
+  <!-- EN: Standard Bearer’s Child -->
+  <BA_HRE_Childhood_MilitaryLineage_YoungStandardBearer.title>旗手之子</BA_HRE_Childhood_MilitaryLineage_YoungStandardBearer.title>
+  <!-- EN: Standard-Bearer -->
+  <BA_HRE_Childhood_MilitaryLineage_YoungStandardBearer.titleShort>旗手学徒</BA_HRE_Childhood_MilitaryLineage_YoungStandardBearer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised partly within a convent thanks to noble relatives, gaining both humility and pride.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Noble_AbbessNephew.description>[PAWN_nameDef]得益于贵族亲属的帮助，部分童年时光在女修道院中度过，既学会了谦逊，也心怀自豪。</BA_HRE_Childhood_Noble_AbbessNephew.description>
+  <!-- EN: Abbess’s Nephew -->
+  <BA_HRE_Childhood_Noble_AbbessNephew.title>女修道院院长的侄子</BA_HRE_Childhood_Noble_AbbessNephew.title>
+  <!-- EN: Nephew -->
+  <BA_HRE_Childhood_Noble_AbbessNephew.titleShort>贵族侄子</BA_HRE_Childhood_Noble_AbbessNephew.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was sent to the imperial court at Aachen to learn courtesy, diplomacy, and obedience under the Emperor’s gaze.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Noble_ImperialCourtPage.description>[PAWN_nameDef]被送往亚琛的帝国宫廷，在皇帝的注视下学习礼仪、外交与服从之道。</BA_HRE_Childhood_Noble_ImperialCourtPage.description>
+  <!-- EN: Imperial Court Page -->
+  <BA_HRE_Childhood_Noble_ImperialCourtPage.title>帝国宫廷侍从</BA_HRE_Childhood_Noble_ImperialCourtPage.title>
+  <!-- EN: Page -->
+  <BA_HRE_Childhood_Noble_ImperialCourtPage.titleShort>宫廷侍从</BA_HRE_Childhood_Noble_ImperialCourtPage.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was sent as a political hostage to another noble court, where [PAWN_pronoun] learned restraint and diplomacy early.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Noble_MinorPrinceWard.description>[PAWN_nameDef]作为政治人质被送往另一处贵族宫廷，在那里早早学会了克制与外交技巧。</BA_HRE_Childhood_Noble_MinorPrinceWard.description>
+  <!-- EN: Ward of a Minor Prince -->
+  <BA_HRE_Childhood_Noble_MinorPrinceWard.title>小亲王的受监护人</BA_HRE_Childhood_Noble_MinorPrinceWard.title>
+  <!-- EN: Ward -->
+  <BA_HRE_Childhood_Noble_MinorPrinceWard.titleShort>受监护人</BA_HRE_Childhood_Noble_MinorPrinceWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was celebrated as the future of [PAWN_possessive] house, educated by the finest tutors and expected to shine.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Ruler_DynasticProdigy.description>[PAWN_nameDef]被视为家族的未来而备受瞩目，由最优秀的导师教导，人们期待着[PAWN_possessive]大放异彩。</BA_HRE_Childhood_Ruler_DynasticProdigy.description>
+  <!-- EN: Dynastic Prodigy -->
+  <BA_HRE_Childhood_Ruler_DynasticProdigy.title>王朝奇才</BA_HRE_Childhood_Ruler_DynasticProdigy.title>
+  <!-- EN: Prodigy -->
+  <BA_HRE_Childhood_Ruler_DynasticProdigy.titleShort>奇才</BA_HRE_Childhood_Ruler_DynasticProdigy.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up among the few who would choose emperors, taught early the burden and privilege of vote and power.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Ruler_HeirOfElector.description>[PAWN_nameDef]在为数不多的选帝侯身边长大，早早被教导了选举权与权力所带来的责任与特权。</BA_HRE_Childhood_Ruler_HeirOfElector.description>
+  <!-- EN: Heir of an Elector -->
+  <BA_HRE_Childhood_Ruler_HeirOfElector.title>选帝侯继承人</BA_HRE_Childhood_Ruler_HeirOfElector.title>
+  <!-- EN: Elector’s Heir -->
+  <BA_HRE_Childhood_Ruler_HeirOfElector.titleShort>选帝侯子嗣</BA_HRE_Childhood_Ruler_HeirOfElector.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was groomed for rule from birth, trained by tutors in Latin, law, and the divine right of the crown.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Ruler_ImperialHeir.description>[PAWN_nameDef]从出生起就被培养为统治者，由导师教授拉丁语、法律以及君权神授的理念。</BA_HRE_Childhood_Ruler_ImperialHeir.description>
+  <!-- EN: Imperial Heir -->
+  <BA_HRE_Childhood_Ruler_ImperialHeir.title>帝国继承人</BA_HRE_Childhood_Ruler_ImperialHeir.title>
+  <!-- EN: Heir -->
+  <BA_HRE_Childhood_Ruler_ImperialHeir.titleShort>继承人</BA_HRE_Childhood_Ruler_ImperialHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived within the imperial palace surrounded by intrigue, where charm and wit were as vital as blood.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Ruler_PrinceOfTheRealm.description>[PAWN_nameDef]在充斥着阴谋的帝国宫殿中长大，在那里，魅力与机智和血统同样重要。</BA_HRE_Childhood_Ruler_PrinceOfTheRealm.description>
+  <!-- EN: Prince of the Realm -->
+  <BA_HRE_Childhood_Ruler_PrinceOfTheRealm.title>王国亲王</BA_HRE_Childhood_Ruler_PrinceOfTheRealm.title>
+  <!-- EN: Prince -->
+  <BA_HRE_Childhood_Ruler_PrinceOfTheRealm.titleShort>亲王</BA_HRE_Childhood_Ruler_PrinceOfTheRealm.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent youth helping traders and performers in great imperial fairs like Frankfurt, learning tricks and trade.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Traveller_FairWorker.description>[PAWN_nameDef]年少时在法兰克福等帝国大型集市中帮助商人和表演者，学会了各类谋生技巧与经商之道。</BA_HRE_Childhood_Traveller_FairWorker.description>
+  <!-- EN: Fair Worker -->
+  <BA_HRE_Childhood_Traveller_FairWorker.title>集市工人</BA_HRE_Childhood_Traveller_FairWorker.title>
+  <!-- EN: Fairhand -->
+  <BA_HRE_Childhood_Traveller_FairWorker.titleShort>集市助手</BA_HRE_Childhood_Traveller_FairWorker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] assisted a merchant traveling through imperial fairs, counting coins and tracking debts.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Traveller_MerchantApprentice.description>[PAWN_nameDef]协助一位穿梭于帝国集市的商人，负责清点钱币与记录债务。</BA_HRE_Childhood_Traveller_MerchantApprentice.description>
+  <!-- EN: Merchant’s Apprentice -->
+  <BA_HRE_Childhood_Traveller_MerchantApprentice.title>商人学徒</BA_HRE_Childhood_Traveller_MerchantApprentice.title>
+  <!-- EN: Trader -->
+  <BA_HRE_Childhood_Traveller_MerchantApprentice.titleShort>学徒商人</BA_HRE_Childhood_Traveller_MerchantApprentice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] followed parents on pilgrimages to holy shrines across the Empire, from Aachen to Rome. [PAWN_pronoun] learned endurance and faith.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Traveller_PilgrimsChild.description>[PAWN_nameDef]跟随父母前往帝国各地的圣地朝圣，从亚琛到罗马。[PAWN_pronoun]在此过程中学会了坚韧与虔诚。</BA_HRE_Childhood_Traveller_PilgrimsChild.description>
+  <!-- EN: Pilgrim’s Child -->
+  <BA_HRE_Childhood_Traveller_PilgrimsChild.title>朝圣者之子</BA_HRE_Childhood_Traveller_PilgrimsChild.title>
+  <!-- EN: Pilgrim -->
+  <BA_HRE_Childhood_Traveller_PilgrimsChild.titleShort>少年朝圣者</BA_HRE_Childhood_Traveller_PilgrimsChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up on a merchant barge drifting down the Rhine, learning the flow of current and coin alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Childhood_Traveller_RhineBoatChild.description>[PAWN_nameDef]在一艘沿莱茵河漂流的商人驳船上长大，既摸清了水流的规律，也通晓了钱币的流通之道。</BA_HRE_Childhood_Traveller_RhineBoatChild.description>
+  <!-- EN: Boat Child of the Rhine -->
+  <BA_HRE_Childhood_Traveller_RhineBoatChild.title>莱茵河船童</BA_HRE_Childhood_Traveller_RhineBoatChild.title>
+  <!-- EN: Boat Child -->
+  <BA_HRE_Childhood_Traveller_RhineBoatChild.titleShort>船童</BA_HRE_Childhood_Traveller_RhineBoatChild.titleShort>
+  
+</LanguageData>

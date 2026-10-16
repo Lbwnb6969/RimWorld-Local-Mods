@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_TavernOwnerStart.label>酒馆老板</DankPyon_TavernOwnerStart.label>
+  <DankPyon_TavernOwnerStart.description>那些城墙从来都不曾让人感到安心。城市生活的喧嚣也一样，只要多花点时间，它甚至连巫妖的灵魂都能吸走。在这个地方你所能找到的工作机会都不适合你，原因有很多，但最主要的两点其一是缺乏体能，其二是不够无情。\n\n正是样的生活环境加速了你动身离开的念头，带着简单的工具和原材料来塑造你的梦想。你渴望在荒野中建立一个家，一个可以为疲惫不堪的旅行者暖起身子的壁炉。无论是流氓还是英雄，它都会庇护他们。\n\n不过，任何希望都伴随着风险，现在正有一个你无法忽视的风险。当地驻军的报告指出土匪数量正在增加，犯罪率也节节攀高。无论你再怎么小心翼翼隐藏财富，恶人也绝不会放过最细微的线索。\n\n但你已经坚定了信念，越过了城市的大门。前方仅有荒野，后头则尽是背信弃义，于是，你勇敢的走向前。\n\n你的眉间，同时垄罩着乐观和忧虑……。</DankPyon_TavernOwnerStart.description>
+  <DankPyon_TavernOwnerStart.scenario.name>酒馆老板</DankPyon_TavernOwnerStart.scenario.name>
+  <DankPyon_TavernOwnerStart.scenario.summary>三个天性乐观的定居者——RPG交易体验(建议搭配Hospitality及Gastronomy模组)</DankPyon_TavernOwnerStart.scenario.summary>
+  <DankPyon_TavernOwnerStart.scenario.description>那些城墙从来都不曾让人感到安心。城市生活的喧嚣也一样，只要多花点时间，它甚至连巫妖的灵魂都能吸走。在这个地方你所能找到的工作机会都不适合你，原因有很多，但最主要的两点其一是缺乏体能，其二是不够无情。\n\n正是样的生活环境加速了你动身离开的念头，带着简单的工具和原材料来塑造你的梦想。你渴望在荒野中建立一个家，一个可以为疲惫不堪的旅行者暖起身子的壁炉。无论是流氓还是英雄，它都会庇护他们。\n\n不过，任何希望都伴随着风险，现在正有一个你无法忽视的风险。当地驻军的报告指出土匪数量正在增加，犯罪率也节节攀高。无论你再怎么小心翼翼隐藏财富，恶人也绝不会放过最细微的线索。\n\n但你已经坚定了信念，越过了城市的大门。前方仅有荒野，后头则尽是背信弃义，于是，你勇敢的走向前。\n\n你的眉间，同时垄罩着乐观和忧虑……。</DankPyon_TavernOwnerStart.scenario.description>
+  <DankPyon_TavernOwnerStart.scenario.parts.16.text>你们带着简单的工具和原材料抵达了城外的荒野，要在这个地方建立起梦想的家园并不容易，无论再怎么小心翼翼隐藏财富，恶人也绝不会放过最细微的线索。\n\n但你们已决定贯彻自己的信念，要把理想蓝图中的那座温暖的小酒馆堆砌出来。\n\n确保食物来源和建造基本的防御，是能让你今晚安心入睡的唯一良方……。</DankPyon_TavernOwnerStart.scenario.parts.16.text>
+
+
+</LanguageData>

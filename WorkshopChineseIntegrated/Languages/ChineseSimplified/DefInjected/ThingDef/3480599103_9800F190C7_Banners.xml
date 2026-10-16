@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: banner (Burgundy cross) -->
+  <TA_BannerSpear_BurgundyCross.label>勃艮第十字旗</TA_BannerSpear_BurgundyCross.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_BurgundyCross.description>勃艮第公国风格的十字军旗。</TA_BannerSpear_BurgundyCross.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_BurgundyCross.tools.shaft-0.label>旗杆</TA_BannerSpear_BurgundyCross.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_BurgundyCross.tools.shaft-1.label>旗杆</TA_BannerSpear_BurgundyCross.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_BurgundyCross.tools.head.label>旗头</TA_BannerSpear_BurgundyCross.tools.head.label>
+  
+  <!-- EN: banner (Dutch Republic) -->
+  <TA_BannerSpear_Dutch.label>荷兰共和国旗</TA_BannerSpear_Dutch.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_Dutch.description>荷兰联省共和国时期的军旗。</TA_BannerSpear_Dutch.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_Dutch.tools.shaft-0.label>旗杆</TA_BannerSpear_Dutch.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_Dutch.tools.shaft-1.label>旗杆</TA_BannerSpear_Dutch.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_Dutch.tools.head.label>旗头</TA_BannerSpear_Dutch.tools.head.label>
+  
+  <!-- EN: banner (fleur-de-lis) -->
+  <TA_BannerSpear_FleurDeLis.label>鸢尾花旗</TA_BannerSpear_FleurDeLis.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_FleurDeLis.description>法国王室风格的鸢尾花军旗。</TA_BannerSpear_FleurDeLis.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_FleurDeLis.tools.shaft-0.label>旗杆</TA_BannerSpear_FleurDeLis.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_FleurDeLis.tools.shaft-1.label>旗杆</TA_BannerSpear_FleurDeLis.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_FleurDeLis.tools.head.label>旗头</TA_BannerSpear_FleurDeLis.tools.head.label>
+  
+  <!-- EN: banner (Holy Roman Empire) -->
+  <TA_BannerSpear_HRE.label>神圣罗马帝国旗</TA_BannerSpear_HRE.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_HRE.description>神圣罗马帝国时期的双头鹰军旗。</TA_BannerSpear_HRE.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_HRE.tools.shaft-0.label>旗杆</TA_BannerSpear_HRE.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_HRE.tools.shaft-1.label>旗杆</TA_BannerSpear_HRE.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_HRE.tools.head.label>旗头</TA_BannerSpear_HRE.tools.head.label>
+  
+  <!-- EN: banner (Muscovite) -->
+  <TA_BannerSpear_Muscovite.label>莫斯科公国旗</TA_BannerSpear_Muscovite.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_Muscovite.description>莫斯科大公国时期的圣乔治屠龙旗。</TA_BannerSpear_Muscovite.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_Muscovite.tools.shaft-0.label>旗杆</TA_BannerSpear_Muscovite.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_Muscovite.tools.shaft-1.label>旗杆</TA_BannerSpear_Muscovite.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_Muscovite.tools.head.label>旗头</TA_BannerSpear_Muscovite.tools.head.label>
+  
+  <!-- EN: banner (Ottoman) -->
+  <TA_BannerSpear_Ottoman.label>奥斯曼帝国旗</TA_BannerSpear_Ottoman.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_Ottoman.description>奥斯曼帝国新月旗。</TA_BannerSpear_Ottoman.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_Ottoman.tools.shaft-0.label>旗杆</TA_BannerSpear_Ottoman.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_Ottoman.tools.shaft-1.label>旗杆</TA_BannerSpear_Ottoman.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_Ottoman.tools.head.label>旗头</TA_BannerSpear_Ottoman.tools.head.label>
+  
+  <!-- EN: banner (Polish-Lithuanian Commonwealth) -->
+  <TA_BannerSpear_PLCommonwealth.label>波兰立陶宛联邦旗</TA_BannerSpear_PLCommonwealth.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_PLCommonwealth.description>波兰立陶宛联邦时期的红白军旗。</TA_BannerSpear_PLCommonwealth.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_PLCommonwealth.tools.shaft-0.label>旗杆</TA_BannerSpear_PLCommonwealth.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_PLCommonwealth.tools.shaft-1.label>旗杆</TA_BannerSpear_PLCommonwealth.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_PLCommonwealth.tools.head.label>旗头</TA_BannerSpear_PLCommonwealth.tools.head.label>
+  
+  <!-- EN: banner (Saint Andrew's Cross) -->
+  <TA_BannerSpear_StAndrewCross.label>圣安德鲁十字旗</TA_BannerSpear_StAndrewCross.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_StAndrewCross.description>苏格兰风格的圣安德鲁斜十字旗。</TA_BannerSpear_StAndrewCross.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_StAndrewCross.tools.shaft-0.label>旗杆</TA_BannerSpear_StAndrewCross.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_StAndrewCross.tools.shaft-1.label>旗杆</TA_BannerSpear_StAndrewCross.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_StAndrewCross.tools.head.label>旗头</TA_BannerSpear_StAndrewCross.tools.head.label>
+  
+  <!-- EN: banner (Saint George's Cross) -->
+  <TA_BannerSpear_StGeorgeCross.label>圣乔治十字旗</TA_BannerSpear_StGeorgeCross.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_StGeorgeCross.description>英格兰风格的圣乔治红十字旗。</TA_BannerSpear_StGeorgeCross.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_StGeorgeCross.tools.shaft-0.label>旗杆</TA_BannerSpear_StGeorgeCross.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_StGeorgeCross.tools.shaft-1.label>旗杆</TA_BannerSpear_StGeorgeCross.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_StGeorgeCross.tools.head.label>旗头</TA_BannerSpear_StGeorgeCross.tools.head.label>
+  
+  <!-- EN: banner (Sweden) -->
+  <TA_BannerSpear_Swede.label>瑞典国旗</TA_BannerSpear_Swede.label>
+  <!-- EN: . -->
+  <TA_BannerSpear_Swede.description>瑞典王国蓝底金十字军旗。</TA_BannerSpear_Swede.description>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_Swede.tools.shaft-0.label>旗杆</TA_BannerSpear_Swede.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_BannerSpear_Swede.tools.shaft-1.label>旗杆</TA_BannerSpear_Swede.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_BannerSpear_Swede.tools.head.label>旗头</TA_BannerSpear_Swede.tools.head.label>
+  
+</LanguageData>

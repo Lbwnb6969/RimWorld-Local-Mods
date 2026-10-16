@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Anatolian leopard -->
+  <BA_AnatolianLeopard.label>安纳托利亚豹</BA_AnatolianLeopard.label>
+  <!-- EN: Panthera pardus tulliana, also called the Persian leopard, Anatolian leopard and Caucasian leopard in different parts of its range, is a leopard subspecies native to the Iranian Plateau and the surrounding region from eastern Anatolia and the Caucasus to the Hindu Kush.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_AnatolianLeopard.description>图利阿纳豹（学名：Panthera pardus tulliana），在其分布区域的不同地区亦被称为波斯豹、安纳托利亚豹和高加索豹，是一种原产于伊朗高原及周边区域的豹亚种，分布范围从安纳托利亚东部、高加索地区延伸至兴都库什山脉。</BA_AnatolianLeopard.description>
+  <!-- EN: left claw -->
+  <BA_AnatolianLeopard.tools.left_claw.label>左爪</BA_AnatolianLeopard.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <BA_AnatolianLeopard.tools.right_claw.label>右爪</BA_AnatolianLeopard.tools.right_claw.label>
+  <!-- EN: razorfangs -->
+  <BA_AnatolianLeopard.tools.razorfangs.label>剃刀尖牙</BA_AnatolianLeopard.tools.razorfangs.label>
+  <!-- EN: head -->
+  <BA_AnatolianLeopard.tools.head.label>头部</BA_AnatolianLeopard.tools.head.label>
+  
+</LanguageData>

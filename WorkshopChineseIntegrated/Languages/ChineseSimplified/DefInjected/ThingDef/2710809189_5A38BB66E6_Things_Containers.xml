@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mummified -->
+  <AM_MummyFemale.label>木乃伊</AM_MummyFemale.label>
+  <!-- EN: An embalmed and mummified corpse -->
+  <AM_MummyFemale.description>经过防腐处理并被制成木乃伊的尸体。</AM_MummyFemale.description>
+  <!-- EN: Is the last remains of {CORPSE} -->
+  <AM_MummyFemale.comps.Comp_CorpseContainer.inspectString>装有：{CORPSE}</AM_MummyFemale.comps.Comp_CorpseContainer.inspectString>
+  <!-- EN: Mummified {CORPSE} ({QUALITY}) -->
+  <AM_MummyFemale.comps.Comp_CorpseContainer.transformLabel>木乃伊{CORPSE} ({QUALITY})</AM_MummyFemale.comps.Comp_CorpseContainer.transformLabel>
+  
+  <!-- EN: Mummified -->
+  <AM_MummyMale.label>木乃伊</AM_MummyMale.label>
+  <!-- EN: An embalmed and mummified corpse -->
+  <AM_MummyMale.description>经过防腐处理并被制成木乃伊的尸体。</AM_MummyMale.description>
+  <!-- EN: Is the last remains of {CORPSE} -->
+  <AM_MummyMale.comps.Comp_CorpseContainer.inspectString>装有：{CORPSE}</AM_MummyMale.comps.Comp_CorpseContainer.inspectString>
+  <!-- EN: Mummified {CORPSE} ({QUALITY}) -->
+  <AM_MummyMale.comps.Comp_CorpseContainer.transformLabel>木乃伊{CORPSE} ({QUALITY})</AM_MummyMale.comps.Comp_CorpseContainer.transformLabel>
+  
+  <!-- EN: urn -->
+  <AM_Urn.label>骨灰瓮</AM_Urn.label>
+  <!-- EN: A decorative container. -->
+  <AM_Urn.description>装有死者骨灰的装饰性容器。</AM_Urn.description>
+  <!-- EN: Contains the last remains of {CORPSE} -->
+  <AM_Urn.comps.Comp_CorpseContainer.inspectString>装有：{CORPSE}</AM_Urn.comps.Comp_CorpseContainer.inspectString>
+  <!-- EN: {CORPSE}'s {LABEL} -->
+  <AM_Urn.comps.Comp_CorpseContainer.transformLabel>{CORPSE}的{LABEL}</AM_Urn.comps.Comp_CorpseContainer.transformLabel>
+  
+</LanguageData>

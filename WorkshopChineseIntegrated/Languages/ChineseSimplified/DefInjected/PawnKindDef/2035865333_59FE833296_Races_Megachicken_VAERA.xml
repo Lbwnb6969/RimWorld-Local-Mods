@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megachicken -->
+  <VAERoy_Megachicken.label>巨皇鸡</VAERoy_Megachicken.label>
+  <!-- EN: megahen -->
+  <VAERoy_Megachicken.labelFemale>母巨皇鸡</VAERoy_Megachicken.labelFemale>
+  <!-- EN: megacock -->
+  <VAERoy_Megachicken.labelMale>公巨皇鸡</VAERoy_Megachicken.labelMale>
+  <!-- EN: megachick -->
+  <VAERoy_Megachicken.lifeStages.megachick.label>巨皇鸡仔</VAERoy_Megachicken.lifeStages.megachick.label>
+  <!-- EN: megacockerel -->
+  <VAERoy_Megachicken.lifeStages.megacockerel.labelMale>公巨皇鸡</VAERoy_Megachicken.lifeStages.megacockerel.labelMale>
+  
+</LanguageData>

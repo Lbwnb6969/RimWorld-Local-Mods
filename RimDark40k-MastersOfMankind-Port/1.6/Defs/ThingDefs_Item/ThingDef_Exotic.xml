@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>GW_Ruler_GoldenSTC</defName>
+    <label>DAoT STC</label>
+    <description>A larger, rarer printout from a Standard Template Construct system, brimming with details and specifications. Fed into a Forge, it can produce weapons that could slay even the gods. \n\nJust as the Adeptus Mechanicus squirrels away their technological knowledge, many other factions secretly do the same. House Van Saar, on the hive world of Necromunda, holds a Standard Template Constructor at the heart of its stronghold, but its increasing corruption makes their wargear dangerously radioactive.</description>
+    <graphicData>
+      <texPath>Things/GoldenSTC</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>10</stackLimit>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>10000</MarketValue>
+      <Mass>1</Mass>
+      <Flammability>0.3</Flammability>
+      <DeteriorationRate>1.0</DeteriorationRate>
+    </statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <thingSetMakerTags>
+      <li>RewardStandardLowFreq</li>
+    </thingSetMakerTags>
+    <allowedArchonexusCount>5</allowedArchonexusCount>
+  </ThingDef>
+</Defs>

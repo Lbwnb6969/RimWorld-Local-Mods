@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Homing missile -->
+  <CAHomingMissile.label>追踪导弹</CAHomingMissile.label>
+  
+  <!-- EN: Stinger missile -->
+  <CAStingerMissile.label>毒刺导弹</CAStingerMissile.label>
+  
+</LanguageData>

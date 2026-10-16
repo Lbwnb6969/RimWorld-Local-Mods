@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: divine order battle standard -->
+  <BotchJob_DivineOrderBattleStandard.label>神圣秩序战旗</BotchJob_DivineOrderBattleStandard.label>
+  <!-- EN: A long pike that bears the flag of the divine order. It is usually held high by standard bearers when marching into battle but is also an effective melee weapon, capable of delivering deadly thrusts from range. -->
+  <BotchJob_DivineOrderBattleStandard.description>一根长矛，上面印有神圣秩序的旗帜。在行军进入战斗时，通常由旗手高举，但也是一种有效的近战武器，能够从远距离刺击敌人。</BotchJob_DivineOrderBattleStandard.description>
+  <!-- EN: shaft -->
+  <BotchJob_DivineOrderBattleStandard.tools.shaft.label>杆</BotchJob_DivineOrderBattleStandard.tools.shaft.label>
+  <!-- EN: point -->
+  <BotchJob_DivineOrderBattleStandard.tools.point.label>尖端</BotchJob_DivineOrderBattleStandard.tools.point.label>
+  
+  <!-- EN: cleansing concoction -->
+  <BotchJob_DivineOrderCleansingConcoction.label>净化药剂</BotchJob_DivineOrderCleansingConcoction.label>
+  <!-- EN: An unstable alchemical concoction within a sealed container. It can be ignited and thrown to produce a searing blast of light after a few seconds, burning and temporarily blinding those caught in the blast.\n\nWithin the divine order, use of this concoction is the primary way of "cleansing" what they deem to be corruption. As such, the method of creating it is a closely guarded secret. -->
+  <BotchJob_DivineOrderCleansingConcoction.description>一个密封容器内的不稳定炼金混合物。它可以点燃并投掷，在几秒钟后产生灼热的光芒爆炸，烧伤并暂时致盲那些被困在爆炸中的人。\n\n在神圣秩序中，使用这种混合物是他们认为清除腐败的主要方式。因此，制造它的方法始终被严格保密着。</BotchJob_DivineOrderCleansingConcoction.description>
+  <!-- EN: throw concoction -->
+  <BotchJob_DivineOrderCleansingConcoction.verbs.throw_concoction.label>投掷混合物</BotchJob_DivineOrderCleansingConcoction.verbs.throw_concoction.label>
+  
+  <!-- EN: cleansing concoction -->
+  <BotchJob_DivineOrderCleansingConcoctionThrown.label>净化混合物</BotchJob_DivineOrderCleansingConcoctionThrown.label>
+  
+  <!-- EN: divine order crossbow -->
+  <BotchJob_DivineOrderCrossbow.label>神圣秩序弩</BotchJob_DivineOrderCrossbow.label>
+  <!-- EN: A crossbow forged in the style of the Divine Order. It is easier to use than a bow and is capable of piercing armor but is slower to re-arm. -->
+  <BotchJob_DivineOrderCrossbow.description>以神圣秩序的风格锻造的弩。比弓更容易使用，能够穿透护甲，但重装速度较慢。</BotchJob_DivineOrderCrossbow.description>
+  <!-- EN: limb -->
+  <BotchJob_DivineOrderCrossbow.tools.limb.label>弓臂</BotchJob_DivineOrderCrossbow.tools.limb.label>
+  <!-- EN: divine order crossbow -->
+  <BotchJob_DivineOrderCrossbow.verbs.Verb_Shoot.label>神圣秩序弩</BotchJob_DivineOrderCrossbow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: hunting bow arrow -->
+  <BotchJob_DivineOrderCrossbowBolt.label>狩猎箭</BotchJob_DivineOrderCrossbowBolt.label>
+  
+  <!-- EN: divine order greatsword -->
+  <BotchJob_DivineOrderGreatsword.label>神圣秩序巨剑</BotchJob_DivineOrderGreatsword.label>
+  <!-- EN: A large, two handed greatsword forged in the style of the Divine order. It is slow to swing but in skilled hands it can deliver deadly, sweeping slashes. -->
+  <BotchJob_DivineOrderGreatsword.description>以神圣秩序的风格锻造的大型双手巨剑。挥舞缓慢，但在熟练的双手下能够造成致命的横扫斩击。</BotchJob_DivineOrderGreatsword.description>
+  <!-- EN: handle -->
+  <BotchJob_DivineOrderGreatsword.tools.handle.label>柄</BotchJob_DivineOrderGreatsword.tools.handle.label>
+  <!-- EN: edge -->
+  <BotchJob_DivineOrderGreatsword.tools.edge.label>刃</BotchJob_DivineOrderGreatsword.tools.edge.label>
+  
+  <!-- EN: divine order longsword -->
+  <BotchJob_DivineOrderLongsword.label>神圣秩序长剑</BotchJob_DivineOrderLongsword.label>
+  <!-- EN: A fine longsword forged in the style of the Divine order, a balanced weapon capable of slashing or stabbing. -->
+  <BotchJob_DivineOrderLongsword.description>以神圣秩序的风格锻造的精良长剑，是一种平衡武器，既可劈砍也可刺击。</BotchJob_DivineOrderLongsword.description>
+  <!-- EN: handle -->
+  <BotchJob_DivineOrderLongsword.tools.handle.label>柄</BotchJob_DivineOrderLongsword.tools.handle.label>
+  <!-- EN: point -->
+  <BotchJob_DivineOrderLongsword.tools.point.label>尖端</BotchJob_DivineOrderLongsword.tools.point.label>
+  <!-- EN: edge -->
+  <BotchJob_DivineOrderLongsword.tools.edge.label>刃</BotchJob_DivineOrderLongsword.tools.edge.label>
+  
+  <!-- EN: divine order mace -->
+  <BotchJob_DivineOrderMace.label>神圣秩序钉锤</BotchJob_DivineOrderMace.label>
+  <!-- EN: A sturdy mace forged in the style of the Divine Order, it inflicts blunt damage which is effective against armored foes. -->
+  <BotchJob_DivineOrderMace.description>以神圣秩序的风格锻造的坚固钉锤，对抗护甲敌人具有有效的钝击伤害。</BotchJob_DivineOrderMace.description>
+  <!-- EN: handle -->
+  <BotchJob_DivineOrderMace.tools.handle.label>柄</BotchJob_DivineOrderMace.tools.handle.label>
+  <!-- EN: head -->
+  <BotchJob_DivineOrderMace.tools.head.label>锤头</BotchJob_DivineOrderMace.tools.head.label>
+  
+  <!-- EN: divine order pistol -->
+  <BotchJob_DivineOrderPistol.label>神圣秩序手枪</BotchJob_DivineOrderPistol.label>
+  <!-- EN: An ornate pistol with a flintlock firing mechanism. It fires a powerful shot that can pierce most conventional armor but is slow to reload. -->
+  <BotchJob_DivineOrderPistol.description>把装饰华丽的手枪，采用燧石点火机制。它发射出的强力子弹能够穿透大多数常规护甲，但装填速度较慢。</BotchJob_DivineOrderPistol.description>
+  <!-- EN: grip -->
+  <BotchJob_DivineOrderPistol.tools.grip.label>握把</BotchJob_DivineOrderPistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <BotchJob_DivineOrderPistol.tools.barrel.label>枪管</BotchJob_DivineOrderPistol.tools.barrel.label>
+  <!-- EN: divine order pistol -->
+  <BotchJob_DivineOrderPistol.verbs.Verb_Shoot.label>神圣秩序手枪</BotchJob_DivineOrderPistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol bullet -->
+  <BotchJob_DivineOrderPistolBullet.label>手枪子弹</BotchJob_DivineOrderPistolBullet.label>
+  
+  <!-- EN: divine order shortsword -->
+  <BotchJob_DivineOrderShortsword.label>神圣秩序短剑</BotchJob_DivineOrderShortsword.label>
+  <!-- EN: A shortsword forged in the style of the Divine order. It is light and easy to handle, making it an ideal weapon for nobles and commoners. -->
+  <BotchJob_DivineOrderShortsword.description>以神圣秩序的风格锻造的短剑。它轻便易用，是贵族和平民的理想武器。</BotchJob_DivineOrderShortsword.description>
+  <!-- EN: handle -->
+  <BotchJob_DivineOrderShortsword.tools.handle.label>柄</BotchJob_DivineOrderShortsword.tools.handle.label>
+  <!-- EN: point -->
+  <BotchJob_DivineOrderShortsword.tools.point.label>尖端</BotchJob_DivineOrderShortsword.tools.point.label>
+  <!-- EN: edge -->
+  <BotchJob_DivineOrderShortsword.tools.edge.label>刃</BotchJob_DivineOrderShortsword.tools.edge.label>
+
+
+
+  <BotchJob_DivineOrderWarhammer.label>神圣秩序战锤</BotchJob_DivineOrderWarhammer.label>
+  <BotchJob_DivineOrderWarhammer.description>以神圣秩序的风格锻造的巨型双手战锤，它能对装甲敌人造成有效的钝击伤害。</BotchJob_DivineOrderWarhammer.description>
+  <BotchJob_DivineOrderWarhammer.tools.handle.label>柄</BotchJob_DivineOrderWarhammer.tools.handle.label>
+  <BotchJob_DivineOrderWarhammer.tools.head.label>锤头</BotchJob_DivineOrderWarhammer.tools.head.label>
+
+  <BotchJob_DivineOrderHandCrossbow.label>神圣秩序单手弩</BotchJob_DivineOrderHandCrossbow.label>
+  <BotchJob_DivineOrderHandCrossbow.description>设计为单手握持的小型弩。它的射程和伤害比普通弩要小，但射速更快。</BotchJob_DivineOrderHandCrossbow.description>
+  <BotchJob_DivineOrderHandCrossbow.tools.limb.label>弓臂</BotchJob_DivineOrderHandCrossbow.tools.limb.label>
+
+  <BotchJob_DivineOrderHandCrossbowBolt.label>弩箭</BotchJob_DivineOrderHandCrossbowBolt.label>
+
+
+  <BotchJob_DivineJudgementStaff.label>神圣秩序法杖</BotchJob_DivineJudgementStaff.label>
+  <BotchJob_DivineJudgementStaff.description>一把散发着神圣力量的华丽法杖，是神圣秩序的终极武器。挥舞这把法杖就能召唤神的力量来进行审判，用净化之光摧毁一个区域。</BotchJob_DivineJudgementStaff.description>
+  <BotchJob_DivineJudgementStaff.tools.shaft.label>杆</BotchJob_DivineJudgementStaff.tools.shaft.label>
+  <BotchJob_DivineJudgementStaff.verbs.Verb_Shoot.label>神圣审判</BotchJob_DivineJudgementStaff.verbs.Verb_Shoot.label>
+  <BotchJob_DivineOrderStaffThrown.label>神圣之击</BotchJob_DivineOrderStaffThrown.label>
+
+
+</LanguageData>

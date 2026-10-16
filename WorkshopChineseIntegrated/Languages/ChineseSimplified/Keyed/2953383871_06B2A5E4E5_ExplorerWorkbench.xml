@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EEG.SelectQuest>当前搜索目标: {0}\n\n点击以选择其他目标。</EEG.SelectQuest>
+  <EEG.ScanningProgress>搜索进度</EEG.ScanningProgress>
+  <EEG.SearchingFor>搜索目标</EEG.SearchingFor>
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scorpion -->
+  <DA_ScorpionLike.label>蝎子</DA_ScorpionLike.label>
+  <!-- EN: left lateral eye -->
+  <DA_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_lateral_eye.customLabel>左侧眼</DA_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_lateral_eye.customLabel>
+  <!-- EN: right lateral eye -->
+  <DA_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_lateral_eye.customLabel>右侧眼</DA_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_lateral_eye.customLabel>
+  <!-- EN: left median eye -->
+  <DA_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_median_eye.customLabel>左中眼</DA_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_median_eye.customLabel>
+  <!-- EN: right median eye -->
+  <DA_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_median_eye.customLabel>右中眼</DA_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_median_eye.customLabel>
+  <!-- EN: front left leg -->
+  <DA_ScorpionLike.corePart.parts.front_left_leg.customLabel>左前肢</DA_ScorpionLike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <DA_ScorpionLike.corePart.parts.front_right_leg.customLabel>右前肢</DA_ScorpionLike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: middle left leg -->
+  <DA_ScorpionLike.corePart.parts.middle_left_leg.customLabel>左中肢</DA_ScorpionLike.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <DA_ScorpionLike.corePart.parts.middle_right_leg.customLabel>右中肢</DA_ScorpionLike.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <DA_ScorpionLike.corePart.parts.rear_left_leg.customLabel>左后肢</DA_ScorpionLike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <DA_ScorpionLike.corePart.parts.rear_right_leg.customLabel>右后肢</DA_ScorpionLike.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: left pincer -->
+  <DA_ScorpionLike.corePart.parts.left_pincer.customLabel>左螯</DA_ScorpionLike.corePart.parts.left_pincer.customLabel>
+  <!-- EN: right pincer -->
+  <DA_ScorpionLike.corePart.parts.right_pincer.customLabel>右螯</DA_ScorpionLike.corePart.parts.right_pincer.customLabel>
+  
+</LanguageData>

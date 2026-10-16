@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boring heart extraction -->
+  <AM_HeartExtraction_Boring.stages.boring_heart_extraction.label>枯燥乏味的挖心祭祀仪式</AM_HeartExtraction_Boring.stages.boring_heart_extraction.label>
+  <!-- EN: That sacrifice lacked passion and ceremony. The heart was extracted without any real grace or reverence. -->
+  <AM_HeartExtraction_Boring.stages.boring_heart_extraction.description>挖心祭祀仪式枯燥乏味。演讲重复不断，挖心的手法也毫无仪式感和优雅可言。这让人觉得仪式非常尴尬且不体面。</AM_HeartExtraction_Boring.stages.boring_heart_extraction.description>
+  
+  <!-- EN: satisfying heart extraction -->
+  <AM_HeartExtraction_Satisfying.stages.satisfying_heart_extraction.label>令人满意的挖心祭祀仪式</AM_HeartExtraction_Satisfying.stages.satisfying_heart_extraction.label>
+  <!-- EN: That sacrifice was satisfying - the heart was extracted cleanly and presented to the heavens with proper ceremony. -->
+  <AM_HeartExtraction_Satisfying.stages.satisfying_heart_extraction.description>挖心祭祀仪式令人满意。演讲让人感觉很有意义，受害者的胸部被精确剖开，心脏也被利落取出并庄严地献向天空。</AM_HeartExtraction_Satisfying.stages.satisfying_heart_extraction.description>
+  
+  <!-- EN: spectacular heart extraction -->
+  <AM_HeartExtraction_Spectacular.stages.spectacular_heart_extraction.label>壮观的挖心祭祀仪式</AM_HeartExtraction_Spectacular.stages.spectacular_heart_extraction.label>
+  <!-- EN: The heart! The blood! The offering! That sacrifice felt like a true communion with the heavens. -->
+  <AM_HeartExtraction_Spectacular.stages.spectacular_heart_extraction.description>挖心祭祀仪式非常壮观！心脏！鲜血！献祭！演讲把每个人都带到了疯狂的边缘，受害者的胸部被完美精确剖开，其仍在跳动的心脏被欢欣鼓舞地高举向天空，鲜血溅洒在祭坛之上。</AM_HeartExtraction_Spectacular.stages.spectacular_heart_extraction.description>
+  
+  <!-- EN: terrible heart extraction -->
+  <AM_HeartExtraction_Terrible.stages.terrible_heart_extraction.label>糟糕的挖心祭祀仪式</AM_HeartExtraction_Terrible.stages.terrible_heart_extraction.label>
+  <!-- EN: That sacrifice was botched and the ritual felt completely wrong. The heart was extracted clumsily, making for an awful and awkward death. -->
+  <AM_HeartExtraction_Terrible.stages.terrible_heart_extraction.description>挖心祭祀仪式太糟糕了！演讲结结巴巴，语无伦次，受害者的胸部就这样被草草地剖开，心脏也难以取出。受害者痛苦挣扎的时间太长了——每个人都在期盼着仪式结束。</AM_HeartExtraction_Terrible.stages.terrible_heart_extraction.description>
+  
+</LanguageData>

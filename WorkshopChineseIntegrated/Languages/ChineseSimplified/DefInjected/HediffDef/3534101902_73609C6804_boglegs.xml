@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <Bogleg_FatHediff.label>贮藏的脂肪</Bogleg_FatHediff.label>
+    <Bogleg_FatHediff.description>这个棋子有大量的脂肪储存，能够积累可用的脂肪来应对饥饿。</Bogleg_FatHediff.description>
+
+    <DV_KnuckleDusters.label>指虎</DV_KnuckleDusters.label>
+    <DV_KnuckleDusters.description>一对金属指虎。它们能将集中力量到更小的区域，从而造成更大的伤害。</DV_KnuckleDusters.description>
+</LanguageData>

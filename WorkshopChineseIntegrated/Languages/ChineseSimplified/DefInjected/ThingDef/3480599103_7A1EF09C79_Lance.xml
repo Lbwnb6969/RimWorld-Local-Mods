@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lance -->
+  <TA_Lance.label>草原骑枪</TA_Lance.label>
+  <!-- EN: . -->
+  <TA_Lance.description>草原骑兵使用的长柄武器，适合冲锋作战。</TA_Lance.description>
+  <!-- EN: shaft -->
+  <TA_Lance.tools.shaft-0.label>枪杆(前段)</TA_Lance.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <TA_Lance.tools.shaft-1.label>枪杆(后段)</TA_Lance.tools.shaft-1.label>
+  <!-- EN: head -->
+  <TA_Lance.tools.head.label>枪头</TA_Lance.tools.head.label>
+  
+</LanguageData>

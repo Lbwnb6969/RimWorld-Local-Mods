@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleshcrafting funeral -->
+  <AM_FleshCraftingFuneral.label>血肉重塑葬礼</AM_FleshCraftingFuneral.label>
+  <!-- EN: A gathering to butcher our colleague's corpse for spare parts -->
+  <AM_FleshCraftingFuneral.description>在仪式点处举行“葬礼”，以将死者分解为有用的血肉重塑部件。</AM_FleshCraftingFuneral.description>
+  <!-- EN: {PAWN_nameDef} should be butchered so {PAWN_possessive} parts can be repurposed. -->
+  <AM_FleshCraftingFuneral.extraTextPawnDeathLetter>{PAWN_nameDef}应当被收割分解，这样{PAWN_possessive}同伴们才能从中获益。</AM_FleshCraftingFuneral.extraTextPawnDeathLetter>
+  
+</LanguageData>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cell door -->
+  <RB_CellDoor.label>监狱门</RB_CellDoor.label>
+  <!-- EN: A slow moving door that separates two rooms. -->
+  <RB_CellDoor.description>分隔房间。只能手动开关，会减慢人的速度。</RB_CellDoor.description>
+
+  <!-- EN: cell wall -->
+  <RB_CellWall.label>监狱墙</RB_CellWall.label>
+  <!-- EN: An impassable wall consisting of metal bars. -->
+  <RB_CellWall.description>一面无法通过的监狱墙，不会阻挡光线射入/射出。可以支撑起屋顶。</RB_CellWall.description>
+
+  <!-- EN: barriers wall -->
+  <RB_BarriersWall.label>水栅墙</RB_BarriersWall.label>
+  <!-- EN: An impassable wall consisting of metal bars that allow water to pass through. Must be constructed in water. -->
+  <RB_BarriersWall.description>一面无法通过，但不会阻挡水流的格栅结构墙。必须放置在可架桥的地形上。</RB_BarriersWall.description>
+
+  <!-- EN: clerestory wall -->
+  <RB_ClerestoryWall.label>高窗墙</RB_ClerestoryWall.label>
+  <!-- EN: An impassable half-glass wall. Capable of holding up a roof, but more fragile than a normal wall. Does not block light, providing a growing bonus to plants near them. Slowly refills peoples outdoor need. -->
+  <RB_ClerestoryWall.description>一面无法通过的高窗墙，不会阻挡光线射入/射出。可以支撑起屋顶，但不如普通的墙坚固。能缓慢满足附近殖民者的室外需求，以及供植物生长。</RB_ClerestoryWall.description>
+  
+  <!-- EN: double autodoor -->
+  <RB_DoubleAutodoor.label>自动大门</RB_DoubleAutodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <RB_DoubleAutodoor.description>分隔房间。电力运转，人穿过门不会减速。这种大而重的门两侧必须与墙体相连才能正常工作。</RB_DoubleAutodoor.description>
+  
+  <!-- EN: double door -->
+  <RB_DoubleDoor.label>大门</RB_DoubleDoor.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <RB_DoubleDoor.description>分隔房间。只能手动开关，会减慢人的速度。到底有多慢取决于门的材质。这种大而重的门两侧必须与墙体相连才能正常工作。</RB_DoubleDoor.description>
+
+  <!-- EN: fireplace -->
+  <RB_Fireplace.label>壁炉</RB_Fireplace.label>
+  <!-- EN: A stone fireplace. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable with wood. -->
+  <RB_Fireplace.description>用石砖砌成的壁炉。和其他热源一样，必须放置在室内封闭空间才能取暖。需要添加木材作为燃料。</RB_Fireplace.description>
+  
+  <!-- EN: glass autodoor -->
+  <RB_GlassAutodoor.label>玻璃自动门</RB_GlassAutodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <RB_GlassAutodoor.description>分隔房间。电力运转，人穿过门不会减速。</RB_GlassAutodoor.description>
+  
+  <!-- EN: glass wall -->
+  <RB_GlassWall.label>玻璃墙</RB_GlassWall.label>
+  <!-- EN: An impassable glass wall. Capable of holding up a roof, but far more fragile than a normal wall. Does not block light, providing a growing bonus to plants near them. Slowly refills peoples outdoor need. -->
+  <RB_GlassWall.description>一面无法通过的玻璃墙，不会阻挡光线射入/射出。可以支撑起屋顶，但远不如普通的墙坚固。能缓慢满足附近殖民者的室外需求，以及供植物生长。</RB_GlassWall.description>
+  
+  <!-- EN: large ornate door -->
+  <RB_LargeOrnateDoor.label>豪华巨门</RB_LargeOrnateDoor.label>
+  <!-- EN: Divides rooms. An intricately-carved door, decorated with gold. This large, heavy door requires adjacent walls to function. -->
+  <RB_LargeOrnateDoor.description>分隔房间。精雕细琢，黄金装饰。这种大而重的门两侧必须与墙体相连才能正常工作。</RB_LargeOrnateDoor.description>
+  
+  <!-- EN: ornate wall -->
+  <RB_OrnateWall.label>豪华墙</RB_OrnateWall.label>
+  <!-- EN: An intricate and impassable wall, decorated with gold. Capable of holding up a roof, but more fragile than a normal wall. Dignity-focused psycaster will receive a meditation bonus when meditating near them. -->
+  <RB_OrnateWall.description>一面无法通过的豪华墙。精雕细琢，黄金装饰。可以支撑起屋顶，但不如普通的墙坚固。能为灵媒包含“庄严”类型的灵能者提供冥想加成。</RB_OrnateWall.description>
+  
+  <!-- EN: wall armor -->
+  <RB_OverwallArmor.label>护墙装甲</RB_OverwallArmor.label>
+  <!-- EN: A durable, reinforced armor that seamlessly integrates with existing walls. Provides enhanced protection against external threats while maintaining structural integrity. It will protect the wall under it from damage until destroyed. Must be constructed on an existing wall. -->
+  <RB_OverwallArmor.description>用于为墙体提供额外防护的加固装甲。直到被彻底摧毁前，它都能代替下方墙体承受来自外部的伤害。必须放置在已有的墙体上。</RB_OverwallArmor.description>
+  
+  <!-- EN: wall-mounted fireplace -->
+  <RB_OverwallFireplace.label>壁挂壁炉</RB_OverwallFireplace.label>
+  <!-- EN: A stone fireplace build into an existing wall. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable with wood. -->
+  <RB_OverwallFireplace.description>用石砖砌成的壁挂式壁炉。和其他热源一样，必须放置在室内封闭空间才能取暖。需要添加木材作为燃料。</RB_OverwallFireplace.description>
+  
+  <!-- EN: reinforced clerestory wall -->
+  <RB_ReinforcedClerestoryWall.label>加固高窗墙</RB_ReinforcedClerestoryWall.label>
+  <!-- EN: An impassable half-glass wall. Capable of holding up a roof. Does not block light, providing a growing bonus to plants near them. Slowly refills peoples outdoor need. -->
+  <RB_ReinforcedClerestoryWall.description>一面无法通过的加固高窗墙，不会阻挡光线射入/射出。可以支撑起屋顶。能缓慢满足附近殖民者的室外需求，以及供植物生长。</RB_ReinforcedClerestoryWall.description>
+  
+  <!-- EN: reinforced glass autodoor -->
+  <RB_ReinforcedGlassAutodoor.label>加固玻璃自动门</RB_ReinforcedGlassAutodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <RB_ReinforcedGlassAutodoor.description>分隔房间。电力运转，人穿过门不会减速。</RB_ReinforcedGlassAutodoor.description>
+  
+  <!-- EN: reinforced glass wall -->
+  <RB_ReinforcedGlassWall.label>加固玻璃墙</RB_ReinforcedGlassWall.label>
+  <!-- EN: An impassable reinforced glass wall. Capable of holding up a roof. Does not block light, providing a growing bonus to plants near them. Slowly refills peoples outdoor need. -->
+  <RB_ReinforcedGlassWall.description>一面无法通过的加固玻璃墙，不会阻挡光线射入/射出。可以支撑起屋顶。能缓慢满足附近殖民者的室外需求，以及供植物生长。</RB_ReinforcedGlassWall.description>
+  
+  <!-- EN: rustic wall -->
+  <RB_RusticWall.label>田舍墙</RB_RusticWall.label>
+  <!-- EN: A simplistic, weak and impassable wall. Capable of holding up a roof. -->
+  <RB_RusticWall.description>一面无法通过的田舍墙。风格质朴简约，极具乡野气息。可以支撑起屋顶，但远不如普通的墙坚固。</RB_RusticWall.description>
+  
+</LanguageData>

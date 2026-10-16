@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ridge helmet -->
+  <BA_RomanHelmet.label>罗马脊盔</BA_RomanHelmet.label>
+  <!-- EN: The Late Roman ridge helmet was a type of combat helmet of Late Antiquity used by soldiers of the Late Roman army. It was characterized by the possession of a bowl made up of two or four parts, united by a longitudinal ridge.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_RomanHelmet.description>晚期罗马脊盔是上古晚期的一种战斗头盔，为晚期罗马军队士兵所使用。其特征是盔体由两部分或四部分组成，通过一条纵向脊线连接为整体。</BA_RomanHelmet.description>
+  
+</LanguageData>

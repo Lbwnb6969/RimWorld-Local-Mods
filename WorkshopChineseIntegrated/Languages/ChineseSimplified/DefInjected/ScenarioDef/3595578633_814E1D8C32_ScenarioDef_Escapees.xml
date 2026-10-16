@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Fall of Constantinople -->
+  <BA_Scenario_Constantinople.label>君士坦丁堡的陷落</BA_Scenario_Constantinople.label>
+  <!-- EN: The Queen of Cities has fallen. The golden domes of Constantinople burn, and the last cries of Rome echo across the Bosporus. You and a handful of peasants fled the breach as the empire crumbled — nobles, scholars, and soldiers cast adrift by fate. Carrying relics of a lost world, you now wander beyond the frontiers, seeking refuge and renewal.  Will you rebuild the light of Byzantium in exile, or vanish like the empires before you?  \nNote: A survival-focused medieval scenario centered on exiled Byzantine citizens struggling to found a new settlement after the fall of Constantinople.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Scenario_Constantinople.description>万城之女王已然陷落。君士坦丁堡的金色穹顶燃起熊熊烈火，罗马最后的悲鸣在博斯普鲁斯海峡上空回荡。帝国崩塌之际，你与少数农民从城墙缺口逃离——贵族、学者与士兵，皆被命运抛入漂泊之路。怀揣着失落世界的圣物，你们如今漫游于边境之外，寻觅庇护与复兴之机。\n你将在流亡中重燃拜占庭之光，还是如过往帝国般湮没于历史？\n\n注：这是一个以生存为核心的中世纪场景，聚焦君士坦丁堡陷落后，流亡的拜占庭公民奋力建立新聚落的历程。</BA_Scenario_Constantinople.description>
+  <!-- EN: The Queen of Cities has fallen. The golden domes of Constantinople burn, and the last cries of Rome echo across the Bosporus. You and a handful of peasants fled the breach as the empire crumbled — nobles, scholars, and soldiers cast adrift by fate. Carrying relics of a lost world, you now wander beyond the frontiers, seeking refuge and renewal.  Will you rebuild the light of Byzantium in exile, or vanish like the empires before you?  \nNote: A survival-focused medieval scenario centered on exiled Byzantine citizens struggling to found a new settlement after the fall of Constantinople. -->
+  <BA_Scenario_Constantinople.scenario.description>万城之女王已然陷落。君士坦丁堡的金色穹顶燃起熊熊烈火，罗马最后的悲鸣在博斯普鲁斯海峡上空回荡。帝国崩塌之际，你与少数农民从城墙缺口逃离——贵族、学者与士兵，皆被命运抛入漂泊之路。怀揣着失落世界的圣物，你们如今漫游于边境之外，寻觅庇护与复兴之机。\n你将在流亡中重燃拜占庭之光，还是如过往帝国般湮没于历史？\n\n注：这是一个以生存为核心的中世纪场景，聚焦君士坦丁堡陷落后，流亡的拜占庭公民奋力建立新聚落的历程。</BA_Scenario_Constantinople.scenario.description>
+  <!-- EN: Fall of Constantinople -->
+  <BA_Scenario_Constantinople.scenario.name>君士坦丁堡的陷落</BA_Scenario_Constantinople.scenario.name>
+  <!-- EN: The smoke of Constantinople still stains the sky behind you. Once, you toiled beneath the empire’s banners — farmers, craftsmen, servants of a world that has now fallen to flame. You escaped through broken gates and silent harbors, clutching what little you could carry.  Days of flight have brought you here, to a quiet stretch of untamed land far from the sultan’s reach. The ground is rough, but it is yours. There are no emperors here, no soldiers, no marble walls — only earth, wind, and hunger.  As dawn rises over your camp, you look toward the horizon and whisper a vow: \nThe empire may have fallen, but its spirit will endure — in your hands, in your labor, in this fragile new beginning. -->
+  <BA_Scenario_Constantinople.scenario.parts.GameStartDialog.text>君士坦丁堡的烟尘仍在你身后的天空弥漫。你曾在帝国的旗帜下劳作——农夫、工匠、仆役，而那个世界如今已付之一炬。你穿过残破的城门与寂静的港口逃离，紧攥着仅有的家当。\n数日的奔逃将你带到此处，一片远离苏丹势力范围的宁静荒野。土地崎岖，却真正属于你们。这里没有皇帝，没有士兵，没有大理石城墙——唯有泥土、风声与饥饿。\n当黎明照亮营地，你望向地平线，轻声立下誓言：\n帝国或许已然陨落，但它的精神将永续——在你的手中，在你的劳作中，在这个脆弱的新起点中。</BA_Scenario_Constantinople.scenario.parts.GameStartDialog.text>
+  <!-- EN: Three escapees experienced Fall of Constantinople. -->
+  <BA_Scenario_Constantinople.scenario.summary>三名逃亡者亲历了君士坦丁堡的陷落。</BA_Scenario_Constantinople.scenario.summary>
+  
+</LanguageData>

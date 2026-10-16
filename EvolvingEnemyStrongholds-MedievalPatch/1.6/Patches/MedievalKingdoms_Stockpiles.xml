@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- KCSG fills every empty storage slot when enabled, so keep cultural town loot bounded. -->
+  <Operation Class="PatchOperationReplace" MayRequireAnyOf="athelas.medievalkingdoms.theturks,athelas.medievalkingdoms.poland,athelas.medievalkingdoms.hre,athelas.medievalkingdoms.france,athelas.medievalkingdoms.byzantium,athelas.medievalkingdoms.iberia,athelas.medievalkingdoms.mongols,athelas.medievalkingdoms.shogunate">
+    <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_TurkishTown" or defName="BA_PolishTown" or defName="BA_HRETown" or defName="BA_ByzantiumTown" or defName="BA_IberiaTown" or defName="BA_MongolTown" or defName="BA_JapanTown"]/stockpileOptions/fillStorageBuildings</xpath>
+    <value><fillStorageBuildings>false</fillStorageBuildings></value>
+  </Operation>
+  <Operation Class="PatchOperationAdd" MayRequireAnyOf="athelas.medievalkingdoms.theturks,athelas.medievalkingdoms.poland,athelas.medievalkingdoms.hre,athelas.medievalkingdoms.france,athelas.medievalkingdoms.byzantium,athelas.medievalkingdoms.iberia,athelas.medievalkingdoms.mongols,athelas.medievalkingdoms.shogunate">
+    <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_TurkishTown" or defName="BA_PolishTown" or defName="BA_HRETown" or defName="BA_ByzantiumTown" or defName="BA_IberiaTown" or defName="BA_MongolTown" or defName="BA_JapanTown"]/stockpileOptions</xpath>
+    <value><stockpileValueMultiplier>0.75</stockpileValueMultiplier></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace" MayRequire="athelas.medievalkingdoms.theturks">
+    <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_TurkishTown"]/stockpileOptions/fillWithDefs</xpath>
+    <value><fillWithDefs>
+      <li>Pemmican</li><li>MedicineHerbal</li><li>Silver</li><li>Gold</li><li>Jade</li>
+      <li>WoodLog</li><li>BlocksGranite</li><li>DankPyon_IronIngot</li><li>DankPyon_ComponentBasic</li>
+      <li>DankPyon_Linen</li><li>DankPyon_Silk</li><li>Plasteel</li><li>TA_SteppeSaber</li><li>TA_TurkBow</li>
+    </fillWithDefs></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace" MayRequire="athelas.medievalkingdoms.poland">
+    <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_PolishTown"]/stockpileOptions/fillWithDefs</xpath>
+    <value><fillWithDefs>
+      <li>Pemmican</li><li>MedicineHerbal</li><li>Silver</li><li>Gold</li><li>Jade</li>
+      <li>WoodLog</li><li>BlocksGranite</li><li>DankPyon_IronIngot</li><li>DankPyon_ComponentBasic</li>
+      <li>DankPyon_Linen</li><li>DankPyon_Silk</li><li>Plasteel</li><li>TA_HussarSaber</li><li>TA_CompositeCrossbow</li>
+    </fillWithDefs></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace" MayRequireAnyOf="athelas.medievalkingdoms.hre,athelas.medievalkingdoms.france">
+    <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_HRETown"]/stockpileOptions/fillWithDefs</xpath>
+    <value><fillWithDefs>
+      <li>Pemmican</li><li>MedicineHerbal</li><li>Silver</li><li>Gold</li><li>Jade</li>
+      <li>WoodLog</li><li>BlocksGranite</li><li>DankPyon_IronIngot</li><li>DankPyon_ComponentBasic</li>
+      <li>DankPyon_Linen</li><li>DankPyon_Silk</li><li>Plasteel</li><li>TA_ArmingSword</li><li>TA_CompositeCrossbow</li>
+    </fillWithDefs></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace" MayRequire="athelas.medievalkingdoms.byzantium">
+    <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_ByzantiumTown"]/stockpileOptions/fillWithDefs</xpath>
+    <value><fillWithDefs>
+      <li>Pemmican</li><li>MedicineHerbal</li><li>Silver</li><li>Gold</li><li>Jade</li>
+      <li>WoodLog</li><li>BlocksGranite</li><li>DankPyon_IronIngot</li><li>DankPyon_ComponentBasic</li>
+      <li>DankPyon_Linen</li><li>DankPyon_Silk</li><li>Plasteel</li><li>TA_ArmingSword</li><li>TA_TurkBow</li>
+    </fillWithDefs></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace" MayRequire="athelas.medievalkingdoms.iberia">
+    <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_IberiaTown"]/stockpileOptions/fillWithDefs</xpath>
+    <value><fillWithDefs>
+      <li>Pemmican</li><li>MedicineHerbal</li><li>Silver</li><li>Gold</li><li>Jade</li>
+      <li>WoodLog</li><li>BlocksGranite</li><li>DankPyon_IronIngot</li><li>DankPyon_ComponentBasic</li>
+      <li>DankPyon_Linen</li><li>DankPyon_Silk</li><li>Plasteel</li><li>TA_ArmingSword</li><li>TA_SingleEdgeSword</li>
+    </fillWithDefs></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace" MayRequire="athelas.medievalkingdoms.mongols">
+    <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_MongolTown"]/stockpileOptions/fillWithDefs</xpath>
+    <value><fillWithDefs>
+      <li>Pemmican</li><li>MedicineHerbal</li><li>Silver</li><li>Gold</li><li>Jade</li>
+      <li>WoodLog</li><li>BlocksGranite</li><li>DankPyon_IronIngot</li><li>DankPyon_ComponentBasic</li>
+      <li>DankPyon_Linen</li><li>DankPyon_Silk</li><li>Plasteel</li><li>TA_SteppeSaber</li><li>TA_Bow_SteppeBow</li>
+    </fillWithDefs></value>
+  </Operation>
+  <Operation Class="PatchOperationConditional" MayRequire="athelas.medievalkingdoms.shogunate">
+    <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_JapanTown"]/stockpileOptions/fillWithDefs</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/KCSG.SettlementLayoutDef[defName="BA_JapanTown"]/stockpileOptions/fillWithDefs</xpath>
+      <value><fillWithDefs>
+        <li>Pemmican</li><li>MedicineHerbal</li><li>Silver</li><li>Gold</li><li>Jade</li>
+        <li>WoodLog</li><li>BlocksGranite</li><li>DankPyon_IronIngot</li><li>DankPyon_ComponentBasic</li>
+        <li>DankPyon_Linen</li><li>DankPyon_Silk</li><li>Plasteel</li><li>TA_Katana</li><li>TA_Yumi</li>
+      </fillWithDefs></value>
+    </match>
+  </Operation>
+</Patch>

@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alchemist -->
+
+  <!--EN: Alchemist’s apprentice-->
+  <AssassinsBro_Medieval_AlchemistsApprentice.title>炼金学徒</AssassinsBro_Medieval_AlchemistsApprentice.title>
+  <!--EN: Alchemist’s apprentice-->
+  <AssassinsBro_Medieval_AlchemistsApprentice.titleShort>炼金学徒</AssassinsBro_Medieval_AlchemistsApprentice.titleShort>
+  <!--EN: [PAWN_nameDef] was the apprentice of a prominent alchemist. [PAWN_nameDef]’s master was determined to discover the formula for the legendary Panacea Elixir, a remedy to all illnesses. Under his tutelage, [PAWN_nameDef] learned about the medical sciences, including how to brew medicines from plants and herbs.-->
+  <AssassinsBro_Medieval_AlchemistsApprentice.baseDesc>[PAWN_nameDef]是一位知名炼金术士的学徒。[PAWN_nameDef]的师傅决心查明传说中的万灵药（一种所有疾病的解药）的配方。在他的教导下，[PAWN_nameDef]了解了医学，包括如何用药草和植物制作药物。</AssassinsBro_Medieval_AlchemistsApprentice.baseDesc>
+  <!--EN: [PAWN_nameDef] was the apprentice of a prominent alchemist. [PAWN_nameDef]’s master was determined to discover the formula for the legendary Panacea Elixir, a remedy to all illnesses. Under his tutelage, [PAWN_nameDef] learned about the medical sciences, including how to brew medicines from plants and herbs.-->
+  <AssassinsBro_Medieval_AlchemistsApprentice.description>[PAWN_nameDef]是一位知名炼金术士的学徒。[PAWN_nameDef]的师傅决心查明传说中的万灵药（一种所有疾病的解药）的配方。在他的教导下，[PAWN_nameDef]了解了医学，包括如何用药草和植物制作药物。</AssassinsBro_Medieval_AlchemistsApprentice.description>
+
+
+  <!-- Squire -->
+
+  <!--EN: Educated squire-->
+  <AssassinsBro_Medieval_EducatedSquire.title>受过教育的扈从</AssassinsBro_Medieval_EducatedSquire.title>
+  <!--EN: Squire-->
+  <AssassinsBro_Medieval_EducatedSquire.titleShort>扈从</AssassinsBro_Medieval_EducatedSquire.titleShort>
+  <!--EN: [PAWN_nameDef] was a squire training to become a full-fledged knight. [PAWN_possessive] duties included polishing and maintaining equipment and caring for [PAWN_possessive] master’s horse. The knight [PAWN_nameDef] served was well-educated, and passed along his knowledge about history and philosophy to [PAWN_objective].-->
+  <AssassinsBro_Medieval_EducatedSquire.baseDesc>[PAWN_nameDef]是一位正在接受成为合格骑士的训练的扈从。[PAWN_possessive]职责包括打磨及维护装备和照顾[PAWN_possessive]主人的马。[PAWN_nameDef]侍奉的骑士受过良好教育，他将他关于历史和哲学的学识都传授给了[PAWN_objective]。</AssassinsBro_Medieval_EducatedSquire.baseDesc>
+  <!--EN: [PAWN_nameDef] was a squire training to become a full-fledged knight. [PAWN_possessive] duties included polishing and maintaining equipment and caring for [PAWN_possessive] master’s horse. The knight [PAWN_nameDef] served was well-educated, and passed along his knowledge about history and philosophy to [PAWN_objective].-->
+  <AssassinsBro_Medieval_EducatedSquire.description>[PAWN_nameDef]是一位正在接受成为合格骑士的训练的扈从。[PAWN_possessive]职责包括打磨及维护装备和照顾[PAWN_possessive]主人的马。[PAWN_nameDef]侍奉的骑士受过良好教育，他将他关于历史和哲学的学识都传授给了[PAWN_objective]。</AssassinsBro_Medieval_EducatedSquire.description>
+  
+
+  <!--EN: Corrupt squire-->
+  <AssassinsBro_Medieval_CorruptSquire.title>堕落的扈从</AssassinsBro_Medieval_CorruptSquire.title>
+  <!--EN: Squire-->
+  <AssassinsBro_Medieval_CorruptSquire.titleShort>扈从</AssassinsBro_Medieval_CorruptSquire.titleShort>
+  <!--EN: [PAWN_nameDef] was a squire in the service of a dishonourable knight. [PAWN_pronoun] was routinely ordered to help [PAWN_possessive] master win tournaments by any means necessary. [PAWN_nameDef] would sabotage equipment, blackmail opponents, and even poison horses.-->
+  <AssassinsBro_Medieval_CorruptSquire.baseDesc>[PAWN_nameDef]是一位为一名可耻的骑士服务的扈从。[PAWN_pronoun]经常被命令尽一切必要的手段去帮[PAWN_possessive]主人赢得比赛。[PAWN_nameDef]会破坏装备，恐吓对手，甚至毒害马匹。</AssassinsBro_Medieval_CorruptSquire.baseDesc>
+  <!--EN: [PAWN_nameDef] was a squire in the service of a dishonourable knight. [PAWN_pronoun] was routinely ordered to help [PAWN_possessive] master win tournaments by any means necessary. [PAWN_nameDef] would sabotage equipment, blackmail opponents, and even poison horses.-->
+  <AssassinsBro_Medieval_CorruptSquire.description>[PAWN_nameDef]是一位为一名可耻的骑士服务的扈从。[PAWN_pronoun]经常被命令尽一切必要的手段去帮[PAWN_possessive]主人赢得比赛。[PAWN_nameDef]会破坏装备，恐吓对手，甚至毒害马匹。</AssassinsBro_Medieval_CorruptSquire.description>
+
+  <!--EN: Lowborn squire-->
+  <AssassinsBro_Medieval_LowbornSquire.title>出身低微的扈从</AssassinsBro_Medieval_LowbornSquire.title>
+  <!--EN: Squire-->
+  <AssassinsBro_Medieval_LowbornSquire.titleShort>扈从</AssassinsBro_Medieval_LowbornSquire.titleShort>
+  <!--EN: Despite not being of noble blood, [PAWN_nameDef] was taken on as a squire by a kind and chivalrous knight. The knight spent very little time at court, preferring to wander the kingdom helping others, [PAWN_nameDef] ever at his side. [PAWN_nameDef] gained an appreciation for adventure, travel, and aiding those in need, and resolved to see [PAWN_possessive] training as a knight through so that [PAWN_pronoun] could continue to do so.-->
+  <AssassinsBro_Medieval_LowbornSquire.baseDesc>尽管没有贵族血脉，[PAWN_nameDef]还是被一位善良而正直的骑士任命为扈从。这位骑士留在宫廷内的时间很少，他更喜欢在王国内漫游，帮助他人，[PAWN_nameDef]总在他的身边。[PAWN_nameDef]因此对冒险、旅行以及帮助有求之人产生了兴趣，并决心完成[PAWN_possessive]骑士训练，以便[PAWN_pronoun]可以继续这样做。</AssassinsBro_Medieval_LowbornSquire.baseDesc>
+  <!--EN: Despite not being of noble blood, [PAWN_nameDef] was taken on as a squire by a kind and chivalrous knight. The knight spent very little time at court, preferring to wander the kingdom helping others, [PAWN_nameDef] ever at his side. [PAWN_nameDef] gained an appreciation for adventure, travel, and aiding those in need, and resolved to see [PAWN_possessive] training as a knight through so that [PAWN_pronoun] could continue to do so.-->
+  <AssassinsBro_Medieval_LowbornSquire.description>尽管没有贵族血脉，[PAWN_nameDef]还是被一位善良而正直的骑士任命为扈从。这位骑士留在宫廷内的时间很少，他更喜欢在王国内漫游，帮助他人，[PAWN_nameDef]总在他的身边。[PAWN_nameDef]因此对冒险、旅行以及帮助有求之人产生了兴趣，并决心完成[PAWN_possessive]骑士训练，以便[PAWN_pronoun]可以继续这样做。</AssassinsBro_Medieval_LowbornSquire.description>
+
+  <!--EN: Reluctant squire-->
+  <AssassinsBro_Medieval_ReluctantSquire.title>不情愿的扈从</AssassinsBro_Medieval_ReluctantSquire.title>
+  <!--EN: Squire-->
+  <AssassinsBro_Medieval_ReluctantSquire.titleShort>扈从</AssassinsBro_Medieval_ReluctantSquire.titleShort>
+  <!--EN: [PAWN_nameDef] didn't want to be a squire, and most certainly didn’t want anything to do with tournaments or battles or things of that sort. However, [PAWN_possessive] family gave [PAWN_objective] little choice in the matter, and [PAWN_nameDef] found [PAWN_objective]self in the service of a particularly demanding knight as soon as [PAWN_pronoun] was of age.-->
+  <AssassinsBro_Medieval_ReluctantSquire.baseDesc>[PAWN_nameDef]并不想成为扈从，也不想与骑士比武或战斗或诸如此类的事情有任何联系。然而，[PAWN_possessive]家族在此事上没有给[PAWN_objective]任何选择，而[PAWN_nameDef]发现[PAWN_pronoun]一成年，[PAWN_pronoun]就要为一位极为苛刻的骑士服务。</AssassinsBro_Medieval_ReluctantSquire.baseDesc>
+  <!--EN: [PAWN_nameDef] didn't want to be a squire, and most certainly didn’t want anything to do with tournaments or battles or things of that sort. However, [PAWN_possessive] family gave [PAWN_objective] little choice in the matter, and [PAWN_nameDef] found [PAWN_objective]self in the service of a particularly demanding knight as soon as [PAWN_pronoun] was of age.-->
+  <AssassinsBro_Medieval_ReluctantSquire.description>[PAWN_nameDef]并不想成为扈从，也不想与骑士比武或战斗或诸如此类的事情有任何联系。然而，[PAWN_possessive]家族在此事上没有给[PAWN_objective]任何选择，而[PAWN_nameDef]发现[PAWN_pronoun]一成年，[PAWN_pronoun]就要为一位极为苛刻的骑士服务。</AssassinsBro_Medieval_ReluctantSquire.description>
+
+
+  <!-- Merchant -->
+
+  <!--EN: Wealthy merchant’s child-->
+  <AssassinsBro_Medieval_WealthyMerchantChild.title>富裕的商人之子</AssassinsBro_Medieval_WealthyMerchantChild.title>
+  <!--EN: Merchant’s son-->
+  <AssassinsBro_Medieval_WealthyMerchantChild.titleShort>商人之子</AssassinsBro_Medieval_WealthyMerchantChild.titleShort>
+  <!--EN: [PAWN_nameDef] was the child of a wealthy merchant who traded in exotic goods. [PAWN_pronoun] spent [PAWN_possessive] childhood surrounded by fine silks and foods made with expensive ingredients. [PAWN_possessive] family was able to afford a private tutor for [PAWN_objective] as well as several servants who attended to [PAWN_objective] every need.-->
+  <AssassinsBro_Medieval_WealthyMerchantChild.baseDesc>[PAWN_nameDef]是一位经营舶来品的富裕商人的孩子。[PAWN_pronoun]在绫罗绸缎和珍馐美馔的环绕中度过了[PAWN_possessive]童年。[PAWN_possessive]家族承担得起[PAWN_objective]的私家教育，以及几位能够照顾到[PAWN_possessive]一切需求的仆人。</AssassinsBro_Medieval_WealthyMerchantChild.baseDesc>
+  <!--EN: [PAWN_nameDef] was the child of a wealthy merchant who traded in exotic goods. [PAWN_pronoun] spent [PAWN_possessive] childhood surrounded by fine silks and foods made with expensive ingredients. [PAWN_possessive] family was able to afford a private tutor for [PAWN_objective] as well as several servants who attended to [PAWN_objective] every need.-->
+  <AssassinsBro_Medieval_WealthyMerchantChild.description>[PAWN_nameDef]是一位经营舶来品的富裕商人的孩子。[PAWN_pronoun]在绫罗绸缎和珍馐美馔的环绕中度过了[PAWN_possessive]童年。[PAWN_possessive]家族承担得起[PAWN_objective]的私家教育，以及几位能够照顾到[PAWN_possessive]一切需求的仆人。</AssassinsBro_Medieval_WealthyMerchantChild.description>
+
+  <!--EN: Helpful merchant’s child-->
+  <AssassinsBro_Medieval_MerchantChild.title>善心的商人之子</AssassinsBro_Medieval_MerchantChild.title>
+  <!--EN: Merchant’s son-->
+  <AssassinsBro_Medieval_MerchantChild.titleShort>商人之子</AssassinsBro_Medieval_MerchantChild.titleShort>
+  <!--EN: [PAWN_nameDef] was the child of a merchant. [PAWN_pronoun] often helped on market days by loading up the pack animals and making sure they were fit to travel. [PAWN_nameDef]'s family was moderately wealthy, and [PAWN_pronoun] was able to receive a basic education.-->
+  <AssassinsBro_Medieval_MerchantChild.baseDesc>[PAWN_nameDef]是一位商人的孩子。[PAWN_pronoun]在集市上经常帮忙装载驮畜，并确保它们适宜长途运输。[PAWN_nameDef]的家庭还算富裕，因此[PAWN_pronoun]能够接受基本的教育。</AssassinsBro_Medieval_MerchantChild.baseDesc>
+  <!--EN: [PAWN_nameDef] was the child of a merchant. [PAWN_pronoun] often helped on market days by loading up the pack animals and making sure they were fit to travel. [PAWN_nameDef]'s family was moderately wealthy, and [PAWN_pronoun] was able to receive a basic education.-->
+  <AssassinsBro_Medieval_MerchantChild.description>[PAWN_nameDef]是一位商人的孩子。[PAWN_pronoun]在集市上经常帮忙装载驮畜，并确保它们适宜长途运输。[PAWN_nameDef]的家庭还算富裕，因此[PAWN_pronoun]能够接受基本的教育。</AssassinsBro_Medieval_MerchantChild.description>
+
+
+  <!-- Royal -->
+
+  <!--EN: Young king-->
+  <AssassinsBro_Medieval_YoungKing.title>年轻的国王</AssassinsBro_Medieval_YoungKing.title>
+  <!--EN: Young king-->
+  <AssassinsBro_Medieval_YoungKing.titleShort>年轻的国王</AssassinsBro_Medieval_YoungKing.titleShort>
+  <!--EN: [PAWN_nameDef] was still a child when [PAWN_possessive] father, the king, died. As his oldest son, [PAWN_nameDef] was crowned as ruler despite [PAWN_possessive] young age.-->
+  <AssassinsBro_Medieval_YoungKing.baseDesc>[PAWN_nameDef]还是个孩子时，[PAWN_possessive]父亲，一位国王，便离世了。作为他最年长的儿子，[PAWN_nameDef]被加冕为统治者，尽管[PAWN_possessive]年纪尚小。</AssassinsBro_Medieval_YoungKing.baseDesc>
+  <!--EN: [PAWN_nameDef] was still a child when [PAWN_possessive] father, the king, died. As his oldest son, [PAWN_nameDef] was crowned as ruler despite [PAWN_possessive] young age.-->
+  <AssassinsBro_Medieval_YoungKing.description>[PAWN_nameDef]还是个孩子时，[PAWN_possessive]父亲，一位国王，便离世了。作为他最年长的儿子，[PAWN_nameDef]被加冕为统治者，尽管[PAWN_possessive]年纪尚小。</AssassinsBro_Medieval_YoungKing.description>
+
+  <!--EN: Young queen-->
+  <AssassinsBro_Medieval_YoungQueen.title>年轻的女王</AssassinsBro_Medieval_YoungQueen.title>
+  <!--EN: Young queen-->
+  <AssassinsBro_Medieval_YoungQueen.titleShort>年轻的女王</AssassinsBro_Medieval_YoungQueen.titleShort>
+  <!--EN: [PAWN_nameDef] was still a child when [PAWN_possessive] mother, the queen, died. As her oldest daughter, [PAWN_nameDef] was crowned as ruler despite [PAWN_possessive] young age.-->
+  <AssassinsBro_Medieval_YoungQueen.baseDesc>[PAWN_nameDef]还是个孩子时，[PAWN_possessive]母亲，一位女王，便离世了。作为她最年长的女儿，[PAWN_nameDef]被加冕为统治者，尽管[PAWN_possessive]年纪尚小。</AssassinsBro_Medieval_YoungQueen.baseDesc>
+  <!--EN: [PAWN_nameDef] was still a child when [PAWN_possessive] mother, the queen, died. As her oldest daughter, [PAWN_nameDef] was crowned as ruler despite [PAWN_possessive] young age.-->
+  <AssassinsBro_Medieval_YoungQueen.description>[PAWN_nameDef]还是个孩子时，[PAWN_possessive]母亲，一位女王，便离世了。作为她最年长的女儿，[PAWN_nameDef]被加冕为统治者，尽管[PAWN_possessive]年纪尚小。</AssassinsBro_Medieval_YoungQueen.description>
+
+  <!--EN: Heir to the throne-->
+  <AssassinsBro_Medieval_HeirToTheThrone.title>王位继承人</AssassinsBro_Medieval_HeirToTheThrone.title>
+  <!--EN: Crown Prince-->
+  <AssassinsBro_Medieval_HeirToTheThrone.titleShort>王储</AssassinsBro_Medieval_HeirToTheThrone.titleShort>
+  <!--EN: Crown Princess-->
+  <AssassinsBro_Medieval_HeirToTheThrone.titleShortFemale>女王储</AssassinsBro_Medieval_HeirToTheThrone.titleShortFemale>
+  <!--EN: [PAWN_nameDef] was the next in line to become ruler of the kingdom. [PAWN_pronoun] received the best education possible from tutors who came from all over the world in order to ensure [PAWN_pronoun] was fit to rule.-->
+  <AssassinsBro_Medieval_HeirToTheThrone.baseDesc>[PAWN_nameDef]是下一个会成为王国统治者的人。[PAWN_pronoun]从来自世界各地的老师们那接受了最好的教育，以确保[PAWN_pronoun]适合治理国家。</AssassinsBro_Medieval_HeirToTheThrone.baseDesc>
+  <!--EN: [PAWN_nameDef] was the next in line to become ruler of the kingdom. [PAWN_pronoun] received the best education possible from tutors who came from all over the world in order to ensure [PAWN_pronoun] was fit to rule.-->
+  <AssassinsBro_Medieval_HeirToTheThrone.description>[PAWN_nameDef]是下一个会成为王国统治者的人。[PAWN_pronoun]从来自世界各地的老师们那接受了最好的教育，以确保[PAWN_pronoun]适合治理国家。</AssassinsBro_Medieval_HeirToTheThrone.description>
+
+  <!--EN: Young royal-->
+  <AssassinsBro_Medieval_YoungRoyal.title>年轻的皇室成员</AssassinsBro_Medieval_YoungRoyal.title>
+  <!--EN: Little prince-->
+  <AssassinsBro_Medieval_YoungRoyal.titleShort>小王子</AssassinsBro_Medieval_YoungRoyal.titleShort>
+  <!--EN: Little princess-->
+  <AssassinsBro_Medieval_YoungRoyal.titleShortFemale>小公主</AssassinsBro_Medieval_YoungRoyal.titleShortFemale>
+  <!--EN: [PAWN_nameDef] was one of the king and queen’s children. Because [PAWN_pronoun] was not the firstborn, [PAWN_pronoun] most likely would never inherit the crown. However, just in case, [PAWN_nameDef] received the type of education that a future ruler would need.-->
+  <AssassinsBro_Medieval_YoungRoyal.baseDesc>[PAWN_nameDef]是某位国王与王后的孩子之一。因为[PAWN_pronoun]不是长子，[PAWN_pronoun]很可能不会继承王位。不过，以防万一，[PAWN_nameDef]还是接受了未来统治者所需的教育。</AssassinsBro_Medieval_YoungRoyal.baseDesc>
+  <!--EN: [PAWN_nameDef] was one of the king and queen’s children. Because [PAWN_pronoun] was not the firstborn, [PAWN_pronoun] most likely would never inherit the crown. However, just in case, [PAWN_nameDef] received the type of education that a future ruler would need.-->
+  <AssassinsBro_Medieval_YoungRoyal.description>[PAWN_nameDef]是某位国王与王后的孩子之一。因为[PAWN_pronoun]不是长子，[PAWN_pronoun]很可能不会继承王位。不过，以防万一，[PAWN_nameDef]还是接受了未来统治者所需的教育。</AssassinsBro_Medieval_YoungRoyal.description>
+
+
+  <!-- Noble -->
+
+  <!--EN: Proper noble child-->
+  <AssassinsBro_Medieval_ProperNobleChild.title>得体的贵族之子</AssassinsBro_Medieval_ProperNobleChild.title>
+  <!--EN: Little lord-->
+  <AssassinsBro_Medieval_ProperNobleChild.titleShort>小贵族</AssassinsBro_Medieval_ProperNobleChild.titleShort>
+  <!--EN: [PAWN_nameDef] was born into a noble family. Even as a very young child, [PAWN_nameDef] had to behave with propriety in all situations, lest [PAWN_possessive] actions reflect poorly on [PAWN_possessive] family. As [PAWN_pronoun] grew, much of [PAWN_possessive] time was spent attending lessons on reading, writing and etiquette.-->
+  <AssassinsBro_Medieval_ProperNobleChild.baseDesc>[PAWN_nameDef]出生在一个贵族家庭。即使还是个小孩子，[PAWN_nameDef]也必须在任何情况下举止得体, 以免[PAWN_possessive]行为对[PAWN_possessive]家族产生不良影响。随着[PAWN_pronoun]成长，[PAWN_possessive]很多时间用在了阅读、写作和礼仪课程上。</AssassinsBro_Medieval_ProperNobleChild.baseDesc>
+  <!--EN: [PAWN_nameDef] was born into a noble family. Even as a very young child, [PAWN_nameDef] had to behave with propriety in all situations, lest [PAWN_possessive] actions reflect poorly on [PAWN_possessive] family. As [PAWN_pronoun] grew, much of [PAWN_possessive] time was spent attending lessons on reading, writing and etiquette.-->
+  <AssassinsBro_Medieval_ProperNobleChild.description>[PAWN_nameDef]出生在一个贵族家庭。即使还是个小孩子，[PAWN_nameDef]也必须在任何情况下举止得体, 以免[PAWN_possessive]行为对[PAWN_possessive]家族产生不良影响。随着[PAWN_pronoun]成长，[PAWN_possessive]很多时间用在了阅读、写作和礼仪课程上。</AssassinsBro_Medieval_ProperNobleChild.description>
+
+  <!--EN: Playful noble child-->
+  <AssassinsBro_Medieval_PlayfulNobleChild.title>爱玩的贵族之子</AssassinsBro_Medieval_PlayfulNobleChild.title>
+  <!--EN: Little lord-->
+  <AssassinsBro_Medieval_PlayfulNobleChild.titleShort>小贵族</AssassinsBro_Medieval_PlayfulNobleChild.titleShort>
+  <!--EN: [PAWN_nameDef] was born into a noble family. [PAWN_nameDef] was given many toys and games to play with, [PAWN_possessive] favourite being a little wooden horse. [PAWN_nameDef] was easily distracted when it came to lessons and caused endless frustration for [PAWN_possessive] tutors. The exception to this was riding lessons, which [PAWN_pronoun] was always enthusiastic about.-->
+  <AssassinsBro_Medieval_PlayfulNobleChild.baseDesc>[PAWN_nameDef]出生在一个贵族家庭。[PAWN_nameDef]拥有很多玩具和许多可玩的游戏，其中[PAWN_possessive]最爱是一只小木马。[PAWN_nameDef]在上课时相当容易分心，这给[PAWN_possessive]老师带来了无尽的挫折感。唯一的例外是骑马课程，这是[PAWN_pronoun]一直热衷的。</AssassinsBro_Medieval_PlayfulNobleChild.baseDesc>
+  <!--EN: [PAWN_nameDef] was born into a noble family. [PAWN_nameDef] was given many toys and games to play with, [PAWN_possessive] favourite being a little wooden horse. [PAWN_nameDef] was easily distracted when it came to lessons and caused endless frustration for [PAWN_possessive] tutors. The exception to this was riding lessons, which [PAWN_pronoun] was always enthusiastic about.-->
+  <AssassinsBro_Medieval_PlayfulNobleChild.description>[PAWN_nameDef]出生在一个贵族家庭。[PAWN_nameDef]拥有很多玩具和许多可玩的游戏，其中[PAWN_possessive]最爱是一只小木马。[PAWN_nameDef]在上课时相当容易分心，这给[PAWN_possessive]老师带来了无尽的挫折感。唯一的例外是骑马课程，这是[PAWN_pronoun]一直热衷的。</AssassinsBro_Medieval_PlayfulNobleChild.description>
+
+  <!--EN: Spoiled noble child-->
+  <AssassinsBro_Medieval_SpoiledNobleChild.title>被宠坏的贵族之子</AssassinsBro_Medieval_SpoiledNobleChild.title>
+  <!--EN: Little lord-->
+  <AssassinsBro_Medieval_SpoiledNobleChild.titleShort>小贵族</AssassinsBro_Medieval_SpoiledNobleChild.titleShort>
+  <!--EN: [PAWN_nameDef] was born into a noble family. [PAWN_nameDef] was extremely spoiled, and was allowed to do whatever [PAWN_pronoun] pleased and to have whatever [PAWN_pronoun] asked for. [PAWN_pronoun] would scream and cry if told “no” and was feared by [PAWN_possessive] family’s servants as a tiny tyrant.-->
+  <AssassinsBro_Medieval_SpoiledNobleChild.baseDesc>[PAWN_nameDef]出生在一个贵族家庭。[PAWN_nameDef]被彻底宠坏了，而且被允许做任何[PAWN_pronoun]想做的事情和拥有任何[PAWN_pronoun]想要拥有的。如果被告知“不”，[PAWN_pronoun]会尖叫和哭泣，因此被[PAWN_possessive]家族的仆人们当作一位小暴君恐惧着。</AssassinsBro_Medieval_SpoiledNobleChild.baseDesc>
+  <!--EN: [PAWN_nameDef] was born into a noble family. [PAWN_nameDef] was extremely spoiled, and was allowed to do whatever [PAWN_pronoun] pleased and to have whatever [PAWN_pronoun] asked for. [PAWN_pronoun] would scream and cry if told “no” and was feared by [PAWN_possessive] family’s servants as a tiny tyrant.-->
+  <AssassinsBro_Medieval_SpoiledNobleChild.description>[PAWN_nameDef]出生在一个贵族家庭。[PAWN_nameDef]被彻底宠坏了，而且被允许做任何[PAWN_pronoun]想做的事情和拥有任何[PAWN_pronoun]想要拥有的。如果被告知“不”，[PAWN_pronoun]会尖叫和哭泣，因此被[PAWN_possessive]家族的仆人们当作一位小暴君恐惧着。</AssassinsBro_Medieval_SpoiledNobleChild.description>
+
+  <!--EN: Royal bastard-->
+  <AssassinsBro_Medieval_RoyalBastard.title>皇室私生子</AssassinsBro_Medieval_RoyalBastard.title>
+  <!--EN: Royal bastard-->
+  <AssassinsBro_Medieval_RoyalBastard.titleShort>皇室私生子</AssassinsBro_Medieval_RoyalBastard.titleShort>
+  <!--EN: [PAWN_nameDef] was the bastard child of a king, the result of an “indiscretion” with a noblewoman. To avoid scandal, [PAWN_nameDef]’s mother sent [PAWN_objective] to live with relatives in a neighbouring kingdom. [PAWN_nameDef] received the standard education given to children of noble houses, but lacked many of the privileges that those born legitimately had.-->
+  <AssassinsBro_Medieval_RoyalBastard.baseDesc>[PAWN_nameDef]是一位国王的私生子，是与一位贵妇的“冲动行为”的结果。为了避免丑闻，[PAWN_nameDef]的母亲送[PAWN_objective]去和邻国的亲戚一起生活。[PAWN_nameDef]接受了贵族家庭中子女的标准教育，但没有那些合法出生者所拥有的许多特权。</AssassinsBro_Medieval_RoyalBastard.baseDesc>
+  <!--EN: [PAWN_nameDef] was the bastard child of a king, the result of an “indiscretion” with a noblewoman. To avoid scandal, [PAWN_nameDef]’s mother sent [PAWN_objective] to live with relatives in a neighbouring kingdom. [PAWN_nameDef] received the standard education given to children of noble houses, but lacked many of the privileges that those born legitimately had.-->
+  <AssassinsBro_Medieval_RoyalBastard.description>[PAWN_nameDef]是一位国王的私生子，是与一位贵妇的“冲动行为”的结果。为了避免丑闻，[PAWN_nameDef]的母亲送[PAWN_objective]去和邻国的亲戚一起生活。[PAWN_nameDef]接受了贵族家庭中子女的标准教育，但没有那些合法出生者所拥有的许多特权。</AssassinsBro_Medieval_RoyalBastard.description>
+
+
+  <!-- Servant -->
+
+  <!--EN: Stable hand-->
+  <AssassinsBro_Medieval_StableHand.title>马夫</AssassinsBro_Medieval_StableHand.title>
+  <!--EN: Stable boy-->
+  <AssassinsBro_Medieval_StableHand.titleShort>马童</AssassinsBro_Medieval_StableHand.titleShort>
+  <!--EN: [PAWN_nameDef] worked as a stable hand for a noble family. [PAWN_pronoun] fed and groomed the horses, mucked out their stalls, and made sure they were ready to ride when needed.-->
+  <AssassinsBro_Medieval_StableHand.baseDesc>[PAWN_nameDef]作为马夫为一个贵族家庭工作。[PAWN_pronoun]喂养和梳洗马匹，清理马厩，并确保它们在需要骑乘时已经做好准备。</AssassinsBro_Medieval_StableHand.baseDesc>
+  <!--EN: [PAWN_nameDef] worked as a stable hand for a noble family. [PAWN_pronoun] fed and groomed the horses, mucked out their stalls, and made sure they were ready to ride when needed.-->
+  <AssassinsBro_Medieval_StableHand.description>[PAWN_nameDef]作为马夫为一个贵族家庭工作。[PAWN_pronoun]喂养和梳洗马匹，清理马厩，并确保它们在需要骑乘时已经做好准备。</AssassinsBro_Medieval_StableHand.description>
+
+  <!--EN: Kitchen helper-->
+  <AssassinsBro_Medieval_KitchenHelper.title>帮厨</AssassinsBro_Medieval_KitchenHelper.title>
+  <!--EN: Kitchen boy-->
+  <AssassinsBro_Medieval_KitchenHelper.titleShort>帮厨</AssassinsBro_Medieval_KitchenHelper.titleShort>
+  <!--EN: [PAWN_nameDef] worked in the royal kitchens. [PAWN_pronoun] was tasked with scrubbing the cookware clean, as well as peeling vegetables, plucking fowl, and scaling fish. During mealtimes, [PAWN_nameDef] had to stay in the kitchens to keep an eye on any food that was still cooking, and never got to eat together with the other servants.-->
+  <AssassinsBro_Medieval_KitchenHelper.baseDesc>[PAWN_nameDef]在皇家厨房里工作。[PAWN_pronoun]被指派擦洗干净炊具，以及给蔬菜削皮、给禽类褪毛，和给鱼刮鳞片。在用餐时间里，[PAWN_nameDef]必须待在厨房里照管还在烹饪的食物，他从没有和其他仆人一起吃过饭。</AssassinsBro_Medieval_KitchenHelper.baseDesc>
+  <!--EN: [PAWN_nameDef] worked in the royal kitchens. [PAWN_pronoun] was tasked with scrubbing the cookware clean, as well as peeling vegetables, plucking fowl, and scaling fish. During mealtimes, [PAWN_nameDef] had to stay in the kitchens to keep an eye on any food that was still cooking, and never got to eat together with the other servants.-->
+  <AssassinsBro_Medieval_KitchenHelper.description>[PAWN_nameDef]在皇家厨房里工作。[PAWN_pronoun]被指派擦洗干净炊具，以及给蔬菜削皮、给禽类褪毛，和给鱼刮鳞片。在用餐时间里，[PAWN_nameDef]必须待在厨房里照管还在烹饪的食物，他从没有和其他仆人一起吃过饭。</AssassinsBro_Medieval_KitchenHelper.description>
+
+  <!--EN: Young servant-->
+  <AssassinsBro_Medieval_YoungServant.title>年轻的仆人</AssassinsBro_Medieval_YoungServant.title>
+  <!--EN: Young servant-->
+  <AssassinsBro_Medieval_YoungServant.titleShort>年轻的仆人</AssassinsBro_Medieval_YoungServant.titleShort>
+  <!--EN: [PAWN_nameDef]’s parents were servants in the royal castle. As soon as [PAWN_pronoun] was old enough, [PAWN_nameDef] began work as a servant as well, mostly doing the odd jobs that no one else wanted to do.-->
+  <AssassinsBro_Medieval_YoungServant.baseDesc>[PAWN_nameDef]的父母是皇家城堡里的仆人。等[PAWN_pronoun]年纪一到，[PAWN_nameDef]就也开始作为仆人工作，主要是做那些别人不乐意做的零工。</AssassinsBro_Medieval_YoungServant.baseDesc>
+  <!--EN: [PAWN_nameDef]’s parents were servants in the royal castle. As soon as [PAWN_pronoun] was old enough, [PAWN_nameDef] began work as a servant as well, mostly doing the odd jobs that no one else wanted to do.-->
+  <AssassinsBro_Medieval_YoungServant.description>[PAWN_nameDef]的父母是皇家城堡里的仆人。等[PAWN_pronoun]年纪一到，[PAWN_nameDef]就也开始作为仆人工作，主要是做那些别人不乐意做的零工。</AssassinsBro_Medieval_YoungServant.description>
+
+
+  <!-- Craftsman -->
+
+  <!--EN: Apprentice-->
+  <AssassinsBro_Medieval_Apprentice.title>学徒</AssassinsBro_Medieval_Apprentice.title>
+  <!--EN: Apprentice-->
+  <AssassinsBro_Medieval_Apprentice.titleShort>学徒</AssassinsBro_Medieval_Apprentice.titleShort>
+  <!--EN: [PAWN_nameDef] was an apprentice to a skilled craftsman. [PAWN_pronoun] was paid almost nothing at all, but received valuable training in exchange for [PAWN_possessive] work.-->
+  <AssassinsBro_Medieval_Apprentice.baseDesc>[PAWN_nameDef]被交给一位熟练工匠当学徒。[PAWN_pronoun]几乎没有得到任何报酬，但接受了十分有价值的训练以换取[PAWN_possessive]工作。</AssassinsBro_Medieval_Apprentice.baseDesc>
+  <!--EN: [PAWN_nameDef] was an apprentice to a skilled craftsman. [PAWN_pronoun] was paid almost nothing at all, but received valuable training in exchange for [PAWN_possessive] work.-->
+  <AssassinsBro_Medieval_Apprentice.description>[PAWN_nameDef]被交给一位熟练工匠当学徒。[PAWN_pronoun]几乎没有得到任何报酬，但接受了十分有价值的训练以换取[PAWN_possessive]工作。</AssassinsBro_Medieval_Apprentice.description>
+
+
+  <!-- Peasant -->
+
+  <!--EN: Peasant child-->
+  <AssassinsBro_Medieval_PeasantChild.title>佃农之子</AssassinsBro_Medieval_PeasantChild.title>
+  <!--EN: Peasant child-->
+  <AssassinsBro_Medieval_PeasantChild.titleShort>佃农之子</AssassinsBro_Medieval_PeasantChild.titleShort>
+  <!--EN: [PAWN_nameDef] grew up in a small, rural village. [PAWN_possessive] parents farmed a plot of land that was owned by a wealthy landlord. In order for the family to be able to afford rent and taxes, everyone, including [PAWN_nameDef], had to pitch in to work the farm.-->
+  <AssassinsBro_Medieval_PeasantChild.baseDesc>[PAWN_nameDef]在一个小而有乡土气息的村子长大。[PAWN_possessive]父母耕种着一块由富裕地主所有的土地。为了能让这个家庭负担得起地租和税收，这个家的每个人，包括[PAWN_nameDef]，都必须投入到农田去工作。</AssassinsBro_Medieval_PeasantChild.baseDesc>
+  <!--EN: [PAWN_nameDef] grew up in a small, rural village. [PAWN_possessive] parents farmed a plot of land that was owned by a wealthy landlord. In order for the family to be able to afford rent and taxes, everyone, including [PAWN_nameDef], had to pitch in to work the farm.-->
+  <AssassinsBro_Medieval_PeasantChild.description>[PAWN_nameDef]在一个小而有乡土气息的村子长大。[PAWN_possessive]父母耕种着一块由富裕地主所有的土地。为了能让这个家庭负担得起地租和税收，这个家的每个人，包括[PAWN_nameDef]，都必须投入到农田去工作。</AssassinsBro_Medieval_PeasantChild.description>
+
+  <!--EN: Fisherman’s child-->
+  <AssassinsBro_Medieval_FishermansChild.title>渔民之子</AssassinsBro_Medieval_FishermansChild.title>
+  <!--EN: Fisherman’s child-->
+  <AssassinsBro_Medieval_FishermansChild.titleShort>渔民之子</AssassinsBro_Medieval_FishermansChild.titleShort>
+  <!--EN: [PAWN_nameDef] was the child of a fisherman. [PAWN_pronoun] often helped out by repairing nets and fishing lines, catching bait worms, and performing simple maintenance on [PAWN_possessive] father’s boat.-->
+  <AssassinsBro_Medieval_FishermansChild.baseDesc>[PAWN_nameDef]是一位渔民的孩子。[PAWN_pronoun]经常帮忙修理渔网和鱼线，抓鱼饵用的虫子，以及对[PAWN_possessive]父亲的船进行简单的维护。</AssassinsBro_Medieval_FishermansChild.baseDesc>
+  <!--EN: [PAWN_nameDef] was the child of a fisherman. [PAWN_pronoun] often helped out by repairing nets and fishing lines, catching bait worms, and performing simple maintenance on [PAWN_possessive] father’s boat.-->
+  <AssassinsBro_Medieval_FishermansChild.description>[PAWN_nameDef]是一位渔民的孩子。[PAWN_pronoun]经常帮忙修理渔网和鱼线，抓鱼饵用的虫子，以及对[PAWN_possessive]父亲的船进行简单的维护。</AssassinsBro_Medieval_FishermansChild.description>
+
+
+  <!-- Artist -->
+
+  <!--EN: Travelling minstrel child-->
+  <AssassinsBro_Medieval_TravellingMinstrelChild.title>旅行艺人之子</AssassinsBro_Medieval_TravellingMinstrelChild.title>
+  <!--EN: Minstrel child-->
+  <AssassinsBro_Medieval_TravellingMinstrelChild.titleShort>艺人之子</AssassinsBro_Medieval_TravellingMinstrelChild.titleShort>
+  <!--EN: [PAWN_nameDef] and [PAWN_possessive] parents were members of a travelling troupe of entertainers. [PAWN_nameDef] had naturally good hand-eye coordination and performed as a juggler. When [PAWN_pronoun] got a bit older, [PAWN_pronoun] also performed a knife throwing act.-->
+  <AssassinsBro_Medieval_TravellingMinstrelChild.baseDesc>[PAWN_nameDef]和[PAWN_possessive]父母是一个巡回剧团的成员。[PAWN_nameDef]天生手眼协调能力好，并作为杂耍演员表演。待到[PAWN_pronoun]年纪稍长一点，[PAWN_pronoun]还常常表演飞刀把戏。</AssassinsBro_Medieval_TravellingMinstrelChild.baseDesc>
+  <!--EN: [PAWN_nameDef] and [PAWN_possessive] parents were members of a travelling troupe of entertainers. [PAWN_nameDef] had naturally good hand-eye coordination and performed as a juggler. When [PAWN_pronoun] got a bit older, [PAWN_pronoun] also performed a knife throwing act.-->
+  <AssassinsBro_Medieval_TravellingMinstrelChild.description>[PAWN_nameDef]和[PAWN_possessive]父母是一个巡回剧团的成员。[PAWN_nameDef]天生手眼协调能力好，并作为杂耍演员表演。待到[PAWN_pronoun]年纪稍长一点，[PAWN_pronoun]还常常表演飞刀把戏。</AssassinsBro_Medieval_TravellingMinstrelChild.description>
+
+  <!--EN: Young wordsmith-->
+  <AssassinsBro_Medieval_YoungWordsmith.title>年轻的语言大师</AssassinsBro_Medieval_YoungWordsmith.title>
+  <!--EN: Young wordsmith-->
+  <AssassinsBro_Medieval_YoungWordsmith.titleShort>年轻的语言大师</AssassinsBro_Medieval_YoungWordsmith.titleShort>
+  <!--EN: [PAWN_nameDef] loved to be told stories as a child. Every adult who knew [PAWN_objective] knew to expect to hear “please, tell me a story!” several times a day. As [PAWN_pronoun] got older, [PAWN_nameDef] began to make-up tales and stories of [PAWN_possessive] own.  [PAWN_pronoun] was quite good at it, and [PAWN_possessive] family often spent part of their evenings sitting around a fire listening to [PAWN_objective].-->
+  <AssassinsBro_Medieval_YoungWordsmith.baseDesc>作为一个孩子，[PAWN_nameDef]喜欢听人讲故事。每个认识[PAWN_objective]大人都知道每天肯定会听到几次“求你了，给我讲个故事吧！”。待到[PAWN_pronoun]年纪稍长，[PAWN_nameDef]就开始创作属于[PAWN_possessive]故事和传说。[PAWN_pronoun]非常擅长于此，因此[PAWN_possessive]家人在晚上经常有一部分时间围坐在炉火旁，听[PAWN_objective]讲故事。</AssassinsBro_Medieval_YoungWordsmith.baseDesc>
+  <!--EN: [PAWN_nameDef] loved to be told stories as a child. Every adult who knew [PAWN_objective] knew to expect to hear “please, tell me a story!” several times a day. As [PAWN_pronoun] got older, [PAWN_nameDef] began to make-up tales and stories of [PAWN_possessive] own.  [PAWN_pronoun] was quite good at it, and [PAWN_possessive] family often spent part of their evenings sitting around a fire listening to [PAWN_objective].-->
+  <AssassinsBro_Medieval_YoungWordsmith.description>作为一个孩子，[PAWN_nameDef]喜欢听人讲故事。每个认识[PAWN_objective]大人都知道每天肯定会听到几次“求你了，给我讲个故事吧！”。待到[PAWN_pronoun]年纪稍长，[PAWN_nameDef]就开始创作属于[PAWN_possessive]故事和传说。[PAWN_pronoun]非常擅长于此，因此[PAWN_possessive]家人在晚上经常有一部分时间围坐在炉火旁，听[PAWN_objective]讲故事。</AssassinsBro_Medieval_YoungWordsmith.description>
+
+  <!--EN: Noble's bastard-->
+  <AssassinsBro_Medieval_NobleBastard.title>贵族私生子</AssassinsBro_Medieval_NobleBastard.title>
+  <!--EN: Bastard-->
+  <AssassinsBro_Medieval_NobleBastard.titleShort>私生子</AssassinsBro_Medieval_NobleBastard.titleShort>
+  <!--EN: [PAWN_nameDef] was the illegitimate child of a nobleman, the result of an affair with a comely maid. In exchange for being discreet, [PAWN_nameDef]’s mother received a modest allowance, which she used to rent comfortable lodgings for herself and her child. [PAWN_nameDef] eventually began to develop an interest in the arts, and [PAWN_possessive] father increased the allowance in order to pay for an art tutor.-->
+  <AssassinsBro_Medieval_NobleBastard.baseDesc>[PAWN_nameDef]是一位贵族的私生子，是与一位秀丽的女仆有染的结果。作为慎重的交换，[PAWN_nameDef]的母亲得到了一笔适度的津贴，她用这笔津贴为她和她的孩子租了一处舒适的住处。[PAWN_nameDef]最终对艺术开始产生了兴趣，所以[PAWN_possessive]父亲增加了津贴数额来支付聘请艺术教师的费用。</AssassinsBro_Medieval_NobleBastard.baseDesc>
+  <!--EN: [PAWN_nameDef] was the illegitimate child of a nobleman, the result of an affair with a comely maid. In exchange for being discreet, [PAWN_nameDef]’s mother received a modest allowance, which she used to rent comfortable lodgings for herself and her child. [PAWN_nameDef] eventually began to develop an interest in the arts, and [PAWN_possessive] father increased the allowance in order to pay for an art tutor.-->
+  <AssassinsBro_Medieval_NobleBastard.description>[PAWN_nameDef]是一位贵族的私生子，是与一位秀丽的女仆有染的结果。作为慎重的交换，[PAWN_nameDef]的母亲得到了一笔适度的津贴，她用这笔津贴为她和她的孩子租了一处舒适的住处。[PAWN_nameDef]最终对艺术开始产生了兴趣，所以[PAWN_possessive]父亲增加了津贴数额来支付聘请艺术教师的费用。</AssassinsBro_Medieval_NobleBastard.description>
+
+
+  <!-- Townsfolk -->
+
+  <!--EN: Lantern bearer-->
+  <AssassinsBro_Medieval_LanternBearer.title>持灯人</AssassinsBro_Medieval_LanternBearer.title>
+  <!--EN: Lantern boy-->
+  <AssassinsBro_Medieval_LanternBearer.titleShort>持灯人</AssassinsBro_Medieval_LanternBearer.titleShort>
+  <!--EN: [PAWN_nameDef] lived in a town that had no street lamps. Instead, lantern bearing children like [PAWN_nameDef] helped to light the way for travellers at night. [PAWN_pronoun] was polite, quick, knew the streets well, and was about as highly regarded as a lantern bearer could be.-->
+  <AssassinsBro_Medieval_LanternBearer.baseDesc>[PAWN_nameDef]住在一个没有路灯的小镇。作为替代，像[PAWN_nameDef]这样负责持灯的孩子们帮助旅行者们在夜晚照亮道路。[PAWN_pronoun]彬彬有礼，行动迅捷，对街道十分熟悉，受到了一位持灯人应有的高度评价。</AssassinsBro_Medieval_LanternBearer.baseDesc>
+  <!--EN: [PAWN_nameDef] lived in a town that had no street lamps. Instead, lantern bearing children like [PAWN_nameDef] helped to light the way for travellers at night. [PAWN_pronoun] was polite, quick, knew the streets well, and was about as highly regarded as a lantern bearer could be.-->
+  <AssassinsBro_Medieval_LanternBearer.description>[PAWN_nameDef]住在一个没有路灯的小镇。作为替代，像[PAWN_nameDef]这样负责持灯的孩子们帮助旅行者们在夜晚照亮道路。[PAWN_pronoun]彬彬有礼，行动迅捷，对街道十分熟悉，受到了一位持灯人应有的高度评价。</AssassinsBro_Medieval_LanternBearer.description>
+
+  <!--EN: Innkeeper’s child-->
+  <AssassinsBro_Medieval_InnkeepersChild.title>旅店老板之子</AssassinsBro_Medieval_InnkeepersChild.title>
+  <!--EN: Innkeeper’s child-->
+  <AssassinsBro_Medieval_InnkeepersChild.titleShort>旅店老板之子</AssassinsBro_Medieval_InnkeepersChild.titleShort>
+  <!--EN: [PAWN_nameDef]’s family owned a busy inn. Ever since [PAWN_pronoun] was old enough, [PAWN_nameDef] was required to help with the cooking, cleaning, and other tasks that were needed to keep the inn running.-->
+  <AssassinsBro_Medieval_InnkeepersChild.baseDesc>[PAWN_nameDef]的家庭拥有一家繁忙的旅店。自从[PAWN_pronoun]的年纪足够大以来，[PAWN_nameDef]就被要求帮忙完成维持旅店运营所需的烹饪、清洁及其他工作。</AssassinsBro_Medieval_InnkeepersChild.baseDesc>
+  <!--EN: [PAWN_nameDef]’s family owned a busy inn. Ever since [PAWN_pronoun] was old enough, [PAWN_nameDef] was required to help with the cooking, cleaning, and other tasks that were needed to keep the inn running.-->
+  <AssassinsBro_Medieval_InnkeepersChild.description>[PAWN_nameDef]的家庭拥有一家繁忙的旅店。自从[PAWN_pronoun]的年纪足够大以来，[PAWN_nameDef]就被要求帮忙完成维持旅店运营所需的烹饪、清洁及其他工作。</AssassinsBro_Medieval_InnkeepersChild.description>
+
+  <!--EN: Helpful child-->
+  <AssassinsBro_Medieval_HelpfulChild.title>善心的孩子</AssassinsBro_Medieval_HelpfulChild.title>
+  <!--EN: Helpful child-->
+  <AssassinsBro_Medieval_HelpfulChild.titleShort>善心的孩子</AssassinsBro_Medieval_HelpfulChild.titleShort>
+  <!--EN: [PAWN_nameDef] grew up in a small town where everyone knew everyone. [PAWN_pronoun] often wandered the town doing miscellaneous chores and tasks and was always willing to offer a helping hand to anyone who asked. This led to [PAWN_nameDef] picking up a variety of different skills.-->
+  <AssassinsBro_Medieval_HelpfulChild.baseDesc>[PAWN_nameDef]在一个人们彼此认识的小镇长大。[PAWN_pronoun]总是在镇上闲逛，做各种各样的杂务和工作，并且总是在任何人询问他时伸出援手。这让[PAWN_nameDef]学到了各种各样的技能。</AssassinsBro_Medieval_HelpfulChild.baseDesc>
+  <!--EN: [PAWN_nameDef] grew up in a small town where everyone knew everyone. [PAWN_pronoun] often wandered the town doing miscellaneous chores and tasks and was always willing to offer a helping hand to anyone who asked. This led to [PAWN_nameDef] picking up a variety of different skills.-->
+  <AssassinsBro_Medieval_HelpfulChild.description>[PAWN_nameDef]在一个人们彼此认识的小镇长大。[PAWN_pronoun]总是在镇上闲逛，做各种各样的杂务和工作，并且总是在任何人询问他时伸出援手。这让[PAWN_nameDef]学到了各种各样的技能。</AssassinsBro_Medieval_HelpfulChild.description>
+
+  <!--EN: Little soldier-->
+  <AssassinsBro_Medieval_LittleSoldier.title>小士兵</AssassinsBro_Medieval_LittleSoldier.title>
+  <!--EN: Little soldier-->
+  <AssassinsBro_Medieval_LittleSoldier.titleShort>小士兵</AssassinsBro_Medieval_LittleSoldier.titleShort>
+  <!--EN: [PAWN_nameDef] loved to play soldier, pretending to be a member of the royal infantry. [PAWN_pronoun] diligently practised [PAWN_possessive] marching every day and trained swordsmanship by swinging around fallen tree branches.-->
+  <AssassinsBro_Medieval_LittleSoldier.baseDesc>[PAWN_nameDef]喜欢扮演成士兵，假装自己是皇室步兵的一员。[PAWN_pronoun]每天勤奋的练习如何行军，并且通过左右挥舞掉落的树枝来练习[PAWN_possessive]剑术。</AssassinsBro_Medieval_LittleSoldier.baseDesc>
+  <!--EN: [PAWN_nameDef] loved to play soldier, pretending to be a member of the royal infantry. [PAWN_pronoun] diligently practised [PAWN_possessive] marching every day and trained swordsmanship by swinging around fallen tree branches.-->
+  <AssassinsBro_Medieval_LittleSoldier.description>[PAWN_nameDef]喜欢扮演成士兵，假装自己是皇室步兵的一员。[PAWN_pronoun]每天勤奋的练习如何行军，并且通过左右挥舞掉落的树枝来练习[PAWN_possessive]剑术。</AssassinsBro_Medieval_LittleSoldier.description>
+
+  <!--EN: Farrier’s child-->
+  <AssassinsBro_Medieval_FarriersChild.title>装蹄匠之子</AssassinsBro_Medieval_FarriersChild.title>
+  <!--EN: Farrier’s child-->
+  <AssassinsBro_Medieval_FarriersChild.titleShort>装蹄匠之子</AssassinsBro_Medieval_FarriersChild.titleShort>
+  <!--EN: [PAWN_nameDef] was the child of a blacksmith who specialised in shoeing horses. [PAWN_nameDef] helped to keep the horses calm while [PAWN_possessive] father worked on their hooves. When not working, [PAWN_nameDef] played with the other children of  [PAWN_possessive] village, [PAWN_possessive] favourite game, of course, being horseshoes.-->
+  <AssassinsBro_Medieval_FarriersChild.baseDesc>[PAWN_nameDef]是一位专门为马儿钉蹄铁的铁匠的孩子。当[PAWN_possessive]父亲处理马蹄时，[PAWN_nameDef]帮助马儿们保持冷静。没有工作时，[PAWN_nameDef]就和[PAWN_possessive]村子中的其他孩子一起玩,[PAWN_possessive]最爱当然是玩马蹄钉。</AssassinsBro_Medieval_FarriersChild.baseDesc>
+  <!--EN: [PAWN_nameDef] was the child of a blacksmith who specialised in shoeing horses. [PAWN_nameDef] helped to keep the horses calm while [PAWN_possessive] father worked on their hooves. When not working, [PAWN_nameDef] played with the other children of  [PAWN_possessive] village, [PAWN_possessive] favourite game, of course, being horseshoes.-->
+  <AssassinsBro_Medieval_FarriersChild.description>[PAWN_nameDef]是一位专门为马儿钉蹄铁的铁匠的孩子。当[PAWN_possessive]父亲处理马蹄时，[PAWN_nameDef]帮助马儿们保持冷静。没有工作时，[PAWN_nameDef]就和[PAWN_possessive]村子中的其他孩子一起玩,[PAWN_possessive]最爱当然是玩马蹄钉。</AssassinsBro_Medieval_FarriersChild.description>
+
+  <!--EN: Boastful child-->
+  <AssassinsBro_Medieval_BoastfulChild.title>吹牛大王</AssassinsBro_Medieval_BoastfulChild.title>
+  <!--EN: Boastful child-->
+  <AssassinsBro_Medieval_BoastfulChild.titleShort>吹牛大王</AssassinsBro_Medieval_BoastfulChild.titleShort>
+  <!--EN: [PAWN_nameDef] was the best Hoop and Stick player out of all of the children in [PAWN_possessive] village. The game was played by racing wooden hoops along the ground using sticks to keep them in motion. [PAWN_nameDef] was not a gracious winner, and  [PAWN_possessive] boastfulness eventually meant that nobody wanted to play with [PAWN_objective].-->
+  <AssassinsBro_Medieval_BoastfulChild.baseDesc>[PAWN_nameDef]是[PAWN_possessive]村子里所有孩子中最会玩滚铁环的。这种游戏通过在地面上用棍子使木桶箍保持滚动来进行。[PAWN_nameDef]并不是一位有礼貌的赢家,而[PAWN_possessive]自吹自擂最终导致了没有人愿意和[PAWN_objective]一起玩。</AssassinsBro_Medieval_BoastfulChild.baseDesc>
+  <!--EN: [PAWN_nameDef] was the best Hoop and Stick player out of all of the children in [PAWN_possessive] village. The game was played by racing wooden hoops along the ground using sticks to keep them in motion. [PAWN_nameDef] was not a gracious winner, and  [PAWN_possessive] boastfulness eventually meant that nobody wanted to play with [PAWN_objective].-->
+  <AssassinsBro_Medieval_BoastfulChild.description>[PAWN_nameDef]是[PAWN_possessive]村子里所有孩子中最会玩滚铁环的。这种游戏通过在地面上用棍子使木桶箍保持滚动来进行。[PAWN_nameDef]并不是一位有礼貌的赢家,而[PAWN_possessive]自吹自擂最终导致了没有人愿意和[PAWN_objective]一起玩。</AssassinsBro_Medieval_BoastfulChild.description>
+
+
+  <!-- Criminal -->
+
+  <!--EN: Child beggar-->
+  <AssassinsBro_Medieval_ChildBeggar.title>儿童乞丐</AssassinsBro_Medieval_ChildBeggar.title>
+  <!--EN: Child beggar-->
+  <AssassinsBro_Medieval_ChildBeggar.titleShort>儿童乞丐</AssassinsBro_Medieval_ChildBeggar.titleShort>
+  <!--EN: [PAWN_nameDef] came from a very poor and very large family. [PAWN_pronoun] had far too many siblings for [PAWN_possessive] parents to even hope to feed them all. As soon as [PAWN_pronoun] was old enough, [PAWN_nameDef] was kicked out onto the streets and told to beg from others to earn [PAWN_possessive] keep.-->
+  <AssassinsBro_Medieval_ChildBeggar.baseDesc>[PAWN_nameDef]来自一个非常贫穷的家庭。[PAWN_pronoun]有太多的兄弟姐妹，以至于[PAWN_possessive]父母甚至对喂饱他们所有人不抱希望。等[PAWN_pronoun]年纪一到，[PAWN_nameDef]就被踢到街头上，并且被告知必须通过向他人乞讨来挣[PAWN_possessive]生活费。</AssassinsBro_Medieval_ChildBeggar.baseDesc>
+  <!--EN: [PAWN_nameDef] came from a very poor and very large family. [PAWN_pronoun] had far too many siblings for [PAWN_possessive] parents to even hope to feed them all. As soon as [PAWN_pronoun] was old enough, [PAWN_nameDef] was kicked out onto the streets and told to beg from others to earn [PAWN_possessive] keep.-->
+  <AssassinsBro_Medieval_ChildBeggar.description>[PAWN_nameDef]来自一个非常贫穷的家庭。[PAWN_pronoun]有太多的兄弟姐妹，以至于[PAWN_possessive]父母甚至对喂饱他们所有人不抱希望。等[PAWN_pronoun]年纪一到，[PAWN_nameDef]就被踢到街头上，并且被告知必须通过向他人乞讨来挣[PAWN_possessive]生活费。</AssassinsBro_Medieval_ChildBeggar.description>
+
+  <!--EN: Street orphan-->
+  <AssassinsBro_Medieval_StreetOrphan.title>街头遗孤</AssassinsBro_Medieval_StreetOrphan.title>
+  <!--EN: Orphan-->
+  <AssassinsBro_Medieval_StreetOrphan.titleShort>孤儿</AssassinsBro_Medieval_StreetOrphan.titleShort>
+  <!--EN: [PAWN_nameDef]’s parents died when [PAWN_pronoun] was very young. In order to survive, [PAWN_pronoun] joined a gang of child criminals. The gang worked together to steal food and valuables, distributing the goods amongst themselves so that everyone could eat. [PAWN_nameDef] began as a lookout, but soon moved on to robbery due to  [PAWN_possessive] intimidating demeanour and skill with a knife.-->
+  <AssassinsBro_Medieval_StreetOrphan.baseDesc>[PAWN_nameDef]的父母在[PAWN_pronoun]很小时就去世了。为了活下去，[PAWN_pronoun]加入了一个儿童罪犯的帮派。 这个帮派合伙偷窃食物和贵重物品，他们自己分配赃物，以保证大家都能吃上一口饭。[PAWN_nameDef]一开始负责望风，但很快就因为[PAWN_possessive]吓人举止和用刀技巧成为了盗窃者。</AssassinsBro_Medieval_StreetOrphan.baseDesc>
+  <!--EN: [PAWN_nameDef]’s parents died when [PAWN_pronoun] was very young. In order to survive, [PAWN_pronoun] joined a gang of child criminals. The gang worked together to steal food and valuables, distributing the goods amongst themselves so that everyone could eat. [PAWN_nameDef] began as a lookout, but soon moved on to robbery due to  [PAWN_possessive] intimidating demeanour and skill with a knife.-->
+  <AssassinsBro_Medieval_StreetOrphan.description>[PAWN_nameDef]的父母在[PAWN_pronoun]很小时就去世了。为了活下去，[PAWN_pronoun]加入了一个儿童罪犯的帮派。 这个帮派合伙偷窃食物和贵重物品，他们自己分配赃物，以保证大家都能吃上一口饭。[PAWN_nameDef]一开始负责望风，但很快就因为[PAWN_possessive]吓人举止和用刀技巧成为了盗窃者。</AssassinsBro_Medieval_StreetOrphan.description>
+
+
+  <!-- Clergy -->
+
+  <!--EN: Orphan boy-->
+  <AssassinsBro_Medieval_OrphanBoy.title>孤儿男孩</AssassinsBro_Medieval_OrphanBoy.title>
+  <!--EN: Orphan-->
+  <AssassinsBro_Medieval_OrphanBoy.titleShort>孤儿</AssassinsBro_Medieval_OrphanBoy.titleShort>
+  <!--EN: [PAWN_nameDef]’s parents abandoned [PAWN_objective] as an infant, leaving [PAWN_objective] at a monastery. The monks who took care of [PAWN_nameDef] taught [PAWN_objective] how to read and write, as well as how to make the wine that the monks sold so that they could buy food for the poor.-->
+  <AssassinsBro_Medieval_OrphanBoy.baseDesc>[PAWN_nameDef]的父母在[PAWN_objective]还是婴儿时就选择了遗弃，把[PAWN_objective]丢在一间修道院。照顾[PAWN_nameDef]的僧侣们教导[PAWN_objective]如何读写，以及如何酿造僧侣们用来出售、好为穷人们购买食物的酒。</AssassinsBro_Medieval_OrphanBoy.baseDesc>
+  <!--EN: [PAWN_nameDef]’s parents abandoned [PAWN_objective] as an infant, leaving [PAWN_objective] at a monastery. The monks who took care of [PAWN_nameDef] taught [PAWN_objective] how to read and write, as well as how to make the wine that the monks sold so that they could buy food for the poor.-->
+  <AssassinsBro_Medieval_OrphanBoy.description>[PAWN_nameDef]的父母在[PAWN_objective]还是婴儿时就选择了遗弃，把[PAWN_objective]丢在一间修道院。照顾[PAWN_nameDef]的僧侣们教导[PAWN_objective]如何读写，以及如何酿造僧侣们用来出售、好为穷人们购买食物的酒。</AssassinsBro_Medieval_OrphanBoy.description>
+
+  <!--EN: Orphan girl-->
+  <AssassinsBro_Medieval_OrphanGirl.title>孤儿女孩</AssassinsBro_Medieval_OrphanGirl.title>
+  <!--EN: Orphan-->
+  <AssassinsBro_Medieval_OrphanGirl.titleShort>孤儿</AssassinsBro_Medieval_OrphanGirl.titleShort>
+  <!--EN: [PAWN_nameDef]’s parents abandoned [PAWN_objective] as an infant, leaving [PAWN_objective] at a monastery. The nuns who took care of [PAWN_nameDef] taught [PAWN_objective] how to read and write, as well as how to weave the cloth that was used to make clothing for the poor.-->
+  <AssassinsBro_Medieval_OrphanGirl.baseDesc>[PAWN_nameDef]的父母在[PAWN_objective]还是婴儿时就选择了遗弃，把[PAWN_objective]丢在一间修道院。照顾[PAWN_nameDef]的修女们教导[PAWN_objective]如何读写，以及如何纺织为穷人们制作衣服的布料。</AssassinsBro_Medieval_OrphanGirl.baseDesc>
+  <!--EN: [PAWN_nameDef]’s parents abandoned [PAWN_objective] as an infant, leaving [PAWN_objective] at a monastery. The nuns who took care of [PAWN_nameDef] taught [PAWN_objective] how to read and write, as well as how to weave the cloth that was used to make clothing for the poor.-->
+  <AssassinsBro_Medieval_OrphanGirl.description>[PAWN_nameDef]的父母在[PAWN_objective]还是婴儿时就选择了遗弃，把[PAWN_objective]丢在一间修道院。照顾[PAWN_nameDef]的修女们教导[PAWN_objective]如何读写，以及如何纺织为穷人们制作衣服的布料。</AssassinsBro_Medieval_OrphanGirl.description>
+
+
+  <!-- Scholar -->
+
+  <!--EN: Student-->
+  <AssassinsBro_Medieval_Student.title>学生</AssassinsBro_Medieval_Student.title>
+  <!--EN: Student-->
+  <AssassinsBro_Medieval_Student.titleShort>学生</AssassinsBro_Medieval_Student.titleShort>
+  <!--EN: [PAWN_nameDef] was a very bright child. [PAWN_possessive] family was wealthy enough to afford school and [PAWN_pronoun] was sent off to the city to attend classes as soon as [PAWN_pronoun] was old enough. [PAWN_nameDef] was taught the trivium: grammar, logic, and rhetoric, as well as the quadrivium: arithmetic, geometry, music, and astronomy.-->
+  <AssassinsBro_Medieval_Student.baseDesc>[PAWN_nameDef]是一个非常聪明的孩子。[PAWN_possessive]家庭足够富裕，可以负担[PAWN_pronoun]上学的费用，所以[PAWN_pronoun]年纪一到，就被送到城里来读书。在那里，[PAWN_nameDef]修习了三艺（文法、修辞学、逻辑学）和四学（算术、几何、音乐和天文学）。</AssassinsBro_Medieval_Student.baseDesc>
+  <!--EN: [PAWN_nameDef] was a very bright child. [PAWN_possessive] family was wealthy enough to afford school and [PAWN_pronoun] was sent off to the city to attend classes as soon as [PAWN_pronoun] was old enough. [PAWN_nameDef] was taught the trivium: grammar, logic, and rhetoric, as well as the quadrivium: arithmetic, geometry, music, and astronomy.-->
+  <AssassinsBro_Medieval_Student.description>[PAWN_nameDef]是一个非常聪明的孩子。[PAWN_possessive]家庭足够富裕，可以负担[PAWN_pronoun]上学的费用，所以[PAWN_pronoun]年纪一到，就被送到城里来读书。在那里，[PAWN_nameDef]修习了三艺（文法、修辞学、逻辑学）和四学（算术、几何、音乐和天文学）。</AssassinsBro_Medieval_Student.description>
+
+
+  <!-- Misc -->
+
+  <!--EN: Cursed child-->
+  <AssassinsBro_Medieval_CursedChild.title>被诅咒的孩子</AssassinsBro_Medieval_CursedChild.title>
+  <!--EN: Cursed child-->
+  <AssassinsBro_Medieval_CursedChild.titleShort>被诅咒的孩子</AssassinsBro_Medieval_CursedChild.titleShort>
+  <!--EN: [PAWN_nameDef] was constantly sick as a child, coming close to death many times. [PAWN_possessive] family believed [PAWN_pronoun] had been hexed by a witch, and tried all manner of rituals and prayers in order to remove the curse, such as burning herbs and covering [PAWN_nameDef] in leeches to drain [PAWN_possessive] tainted blood. [PAWN_nameDef] was quite frail, and had trouble doing physically demanding tasks.-->
+  <AssassinsBro_Medieval_CursedChild.baseDesc>[PAWN_nameDef]在还是孩子时经常生病，甚至濒临死亡好几次。[PAWN_possessive]家人相信[PAWN_pronoun]是被一位女巫诅咒了，因此他们尝试了各种仪式和祈祷来移除诅咒，比如焚烧草药和让[PAWN_nameDef]全身覆盖水蛭，好排出[PAWN_possessive]污秽血液。[PAWN_nameDef]非常的虚弱，难以完成对身体状况要求较高的工作。</AssassinsBro_Medieval_CursedChild.baseDesc>
+  <!--EN: [PAWN_nameDef] was constantly sick as a child, coming close to death many times. [PAWN_possessive] family believed [PAWN_pronoun] had been hexed by a witch, and tried all manner of rituals and prayers in order to remove the curse, such as burning herbs and covering [PAWN_nameDef] in leeches to drain [PAWN_possessive] tainted blood. [PAWN_nameDef] was quite frail, and had trouble doing physically demanding tasks.-->
+  <AssassinsBro_Medieval_CursedChild.description>[PAWN_nameDef]在还是孩子时经常生病，甚至濒临死亡好几次。[PAWN_possessive]家人相信[PAWN_pronoun]是被一位女巫诅咒了，因此他们尝试了各种仪式和祈祷来移除诅咒，比如焚烧草药和让[PAWN_nameDef]全身覆盖水蛭，好排出[PAWN_possessive]污秽血液。[PAWN_nameDef]非常的虚弱，难以完成对身体状况要求较高的工作。</AssassinsBro_Medieval_CursedChild.description>
+
+  <!--EN: Flower picker-->
+  <AssassinsBro_Medieval_FlowerPicker.title>采花者</AssassinsBro_Medieval_FlowerPicker.title>
+  <!--EN: Flower picker-->
+  <AssassinsBro_Medieval_FlowerPicker.titleShort>采花者</AssassinsBro_Medieval_FlowerPicker.titleShort>
+  <!--EN: [PAWN_nameDef] had trouble getting along with other children. [PAWN_pronoun] much preferred picking flowers alone to playing with the others. [PAWN_nameDef] liked to braid the flowers [PAWN_pronoun] picked into garlands and crowns.-->
+  <AssassinsBro_Medieval_FlowerPicker.baseDesc>[PAWN_nameDef]在和其他孩子的相处上有些麻烦。比起和其他人玩，[PAWN_pronoun]更喜欢独自摘花。[PAWN_nameDef]喜欢将[PAWN_pronoun]摘下的花朵编织成花环和花冠。</AssassinsBro_Medieval_FlowerPicker.baseDesc>
+  <!--EN: [PAWN_nameDef] had trouble getting along with other children. [PAWN_pronoun] much preferred picking flowers alone to playing with the others. [PAWN_nameDef] liked to braid the flowers [PAWN_pronoun] picked into garlands and crowns.-->
+  <AssassinsBro_Medieval_FlowerPicker.description>[PAWN_nameDef]在和其他孩子的相处上有些麻烦。比起和其他人玩，[PAWN_pronoun]更喜欢独自摘花。[PAWN_nameDef]喜欢将[PAWN_pronoun]摘下的花朵编织成花环和花冠。</AssassinsBro_Medieval_FlowerPicker.description>
+
+  <!--EN: Changeling-->
+  <AssassinsBro_Medieval_Changeling.title>换生灵</AssassinsBro_Medieval_Changeling.title>
+  <!--EN: Changeling-->
+  <AssassinsBro_Medieval_Changeling.titleShort>换生灵</AssassinsBro_Medieval_Changeling.titleShort>
+  <!--EN: It was believed that [PAWN_nameDef] was a changeling, a fae who was left in place of a human baby stolen by fairies, due in part to [PAWN_possessive] unfortunate looks and low intelligence. Because [PAWN_possessive] parents didn’t believe [PAWN_pronoun] was their real child, [PAWN_nameDef] was often mistreated and forced to do extra chores.-->
+  <AssassinsBro_Medieval_Changeling.baseDesc>[PAWN_nameDef]被相信是一个换生灵，一个被留下来取代小仙子们偷走的人类婴儿的恶灵，某种程度上是因为[PAWN_possessive]糟糕样貌和低下智力。因为[PAWN_possessive]父母不相信[PAWN_pronoun]是他们真正的孩子，[PAWN_nameDef]常常被虐待并且被逼着做额外的家务。</AssassinsBro_Medieval_Changeling.baseDesc>
+  <!--EN: It was believed that [PAWN_nameDef] was a changeling, a fae who was left in place of a human baby stolen by fairies, due in part to [PAWN_possessive] unfortunate looks and low intelligence. Because [PAWN_possessive] parents didn’t believe [PAWN_pronoun] was their real child, [PAWN_nameDef] was often mistreated and forced to do extra chores.-->
+  <AssassinsBro_Medieval_Changeling.description>[PAWN_nameDef]被相信是一个换生灵，一个被留下来取代小仙子们偷走的人类婴儿的恶灵，某种程度上是因为[PAWN_possessive]糟糕样貌和低下智力。因为[PAWN_possessive]父母不相信[PAWN_pronoun]是他们真正的孩子，[PAWN_nameDef]常常被虐待并且被逼着做额外的家务。</AssassinsBro_Medieval_Changeling.description>
+
+  <!--EN: Adventurous youth-->
+  <AssassinsBro_Medieval_AdventurousYouth.title>爱冒险的孩子</AssassinsBro_Medieval_AdventurousYouth.title>
+  <!--EN: Adventurous youth-->
+  <AssassinsBro_Medieval_AdventurousYouth.titleShort>爱冒险的孩子</AssassinsBro_Medieval_AdventurousYouth.titleShort>
+  <!--EN: [PAWN_nameDef] lived in a town that was on the main road to the kingdom’s capital. Watching the comings and goings of travellers filled [PAWN_objective] with a desire to see the world. A passerby once told [PAWN_nameDef] that to travel, one must either know how to swing a sword or have the money to pay someone who can. Taking these words to heart, [PAWN_nameDef] began practising every day with a large, vaguely sword-like tree branch.-->
+  <AssassinsBro_Medieval_AdventurousYouth.baseDesc>[PAWN_nameDef]住在一个位于通往王国首都的主干道的小镇上，看着旅行者们来来往往，[PAWN_objective]心中充满了去看看世界的欲望。一位旅者告诉[PAWN_nameDef]要去旅行的话，要么了解如何挥舞剑，要么得有钱付给那些懂得用剑的人。将这些话语牢记于心，[PAWN_nameDef]开始用一根巨大的、隐约有些像剑的树枝每天练习。</AssassinsBro_Medieval_AdventurousYouth.baseDesc>
+  <!--EN: [PAWN_nameDef] lived in a town that was on the main road to the kingdom’s capital. Watching the comings and goings of travellers filled [PAWN_objective] with a desire to see the world. A passerby once told [PAWN_nameDef] that to travel, one must either know how to swing a sword or have the money to pay someone who can. Taking these words to heart, [PAWN_nameDef] began practising every day with a large, vaguely sword-like tree branch.-->
+  <AssassinsBro_Medieval_AdventurousYouth.description>[PAWN_nameDef]住在一个位于通往王国首都的主干道的小镇上，看着旅行者们来来往往，[PAWN_objective]心中充满了去看看世界的欲望。一位旅者告诉[PAWN_nameDef]要去旅行的话，要么了解如何挥舞剑，要么得有钱付给那些懂得用剑的人。将这些话语牢记于心，[PAWN_nameDef]开始用一根巨大的、隐约有些像剑的树枝每天练习。</AssassinsBro_Medieval_AdventurousYouth.description>
+
+
+</LanguageData>

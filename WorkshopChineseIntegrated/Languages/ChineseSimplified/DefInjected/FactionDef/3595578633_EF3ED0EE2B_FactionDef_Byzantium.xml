@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Byzantine Empire -->
+  <BA_Byzantium_NobleHouse.label>拜占庭帝国</BA_Byzantium_NobleHouse.label>
+  <!-- EN: Byzantium is the shadow that remains of the old Roman Empire. It is a mere shadow because despite retaining the civilised ways of the Roman legacy, the Byzantines have done little to further it. In fact, it is their reverence of the old ways that has brought the empire to a point of stagnation, in a world that has gradually kept moving on. The differences between the thinking in Byzantium and the west were most profoundly highlighted with the Great Schism, the division of Christendom.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_NobleHouse.description>拜占庭是古罗马帝国留存的余晖。之所以称其为余晖，是因为尽管拜占庭人延续了罗马遗产中的文明范式，却鲜有革新之举。事实上，正是他们对旧制的尊崇，让帝国在持续发展的世界中陷入停滞。东西教会大分裂（基督教世界的分裂），深刻凸显了拜占庭与西方在思想层面的分歧。</BA_Byzantium_NobleHouse.description>
+  <!-- EN: Savior -->
+  <BA_Byzantium_NobleHouse.deityPresets.0.nameType.type>救世主</BA_Byzantium_NobleHouse.deityPresets.0.nameType.type>
+  <!-- EN: Byzantine Empire -->
+  <BA_Byzantium_NobleHouse.fixedName>拜占庭帝国</BA_Byzantium_NobleHouse.fixedName>
+  <!-- EN: Eastern Orthodoxy, otherwise known as Eastern Orthodox Christianity or Byzantine Christianity, is one of the three main branches of Chalcedonian Christianity, alongside Catholicism and Protestantism. Like the Pentarchy of the first millennium, the mainstream Eastern Orthodox Church is organised into autocephalous churches independent from each other. In the 21st century, the number of mainstream autocephalous churches is seventeen; there also exist autocephalous churches unrecognized by those mainstream ones. Autocephalous churches choose their own primate. Autocephalous churches can have jurisdiction (authority) over other churches, some of which have the status of "autonomous" which means they have more autonomy than simple eparchies. -->
+  <BA_Byzantium_NobleHouse.ideoDescription>东正教，又称正教、拜占庭基督教，是卡尔西顿基督教的三大核心分支之一，与天主教、新教并列。如同公元一千年的五牧首制，主流东正教会由相互独立的自主教会构成。21世纪时，主流自主教会共计十七个，此外还存在未被主流教会认可的自主教会。自主教会自行选举牧首，可对其他教会行使管辖权，其中部分教会拥有“自治”地位，意味着其自主权高于普通教区。</BA_Byzantium_NobleHouse.ideoDescription>
+  <!-- EN: Eastern Orthodoxy -->
+  <BA_Byzantium_NobleHouse.ideoName>东正教</BA_Byzantium_NobleHouse.ideoName>
+  <!-- EN: basileus -->
+  <BA_Byzantium_NobleHouse.leaderTitle>巴西琉斯</BA_Byzantium_NobleHouse.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_Byzantium_NobleHouse.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_Byzantium_NobleHouse.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <BA_Byzantium_NobleHouse.pawnSingular>臣民</BA_Byzantium_NobleHouse.pawnSingular>
+  <!-- EN: subjects -->
+  <BA_Byzantium_NobleHouse.pawnsPlural>臣民们</BA_Byzantium_NobleHouse.pawnsPlural>
+  <!-- EN: authority -->
+  <BA_Byzantium_NobleHouse.royalFavorLabel>权威</BA_Byzantium_NobleHouse.royalFavorLabel>
+  
+</LanguageData>

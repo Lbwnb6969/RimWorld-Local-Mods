@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fat -->
+
+  <DankPyon_Fat.label>脂肪</DankPyon_Fat.label>
+  <DankPyon_Fat.description>脂肪是一种动物身上含量丰富的物质，有多种用途。在食物中，添加脂肪可以改善伙食，使殖民者的肠胃得到更长时间的饱足，但过多的脂肪会使殖民者更容易生病。在生存用途上，脂肪可以被添加到火源中–无论是火炬还是篝火–以保持更长时间的燃烧。提炼后的油脂可以制成蜡烛、肥皂、雕塑等物品。</DankPyon_Fat.description>
+
+  <DankPyon_Tallow.label>动物油脂</DankPyon_Tallow.label>
+  <DankPyon_Tallow.description>动物油脂是脂肪提炼的形式，在室温下呈固态，可以长期储存。可制成蜡烛。</DankPyon_Tallow.description>
+
+  <DankPyon_Flour.label>面粉</DankPyon_Flour.label>
+  <DankPyon_Flour.description>面粉用于制作许多不同的餐点，保存期限很长，但不能生吃。由于其物理性质，它可以用非常有效地的方式储存起来。</DankPyon_Flour.description>
+
+  <DankPyon_Straw.label>干草(晒干)</DankPyon_Straw.label>
+  <DankPyon_Straw.description>晒干后的牧草，收获并压实可以更有效率地储存起来。干草是绝佳的动物饲料，但人类无法食用。</DankPyon_Straw.description>
+
+  <DankPyon_Salt.label>盐</DankPyon_Salt.label>
+  <DankPyon_Salt.description>盐是一种常见的矿物质，通常存在于天然岩石沉积物中，并且在海洋中含量丰富。它常用于食品保鲜，也可用于调味。</DankPyon_Salt.description>
+
+  <DankPyon_Sugar.label>糖</DankPyon_Sugar.label>
+  <DankPyon_Sugar.description>从甘蔗中提取出的，一种甜甜的白色粉末状物质。</DankPyon_Sugar.description>
+
+  <DankPyon_Spices.label>香料</DankPyon_Spices.label>
+  <DankPyon_Spices.description>香料植物经过干燥和辗碎后混和而成，能为食物添加美妙的香气和味道。</DankPyon_Spices.description>
+
+  <DankPyon_Sausages.label>香肠</DankPyon_Sausages.label>
+  <DankPyon_Sausages.description>由碎肉与香料混合制成。</DankPyon_Sausages.description>
+
+
+</LanguageData>

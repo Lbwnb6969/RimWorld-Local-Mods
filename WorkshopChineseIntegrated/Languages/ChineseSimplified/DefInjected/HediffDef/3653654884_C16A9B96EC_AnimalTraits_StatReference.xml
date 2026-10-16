@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stat reference -->
+  <AnimalTrait_StatReference.label>属性参考</AnimalTrait_StatReference.label>
+  <!-- EN: COMPREHENSIVE STAT REFERENCE - This hediff demonstrates ALL possible stat modifiers that can be applied to pawns (including animals). Use this as a reference when creating new traits. Most stats won't make sense for animals - pick carefully! -->
+  <AnimalTrait_StatReference.description>属性参考合集 - 本hediff表列出了所有可应用于角色（包括动物）的潜在属性加成。在创建新特性时可作为参考使用。大多数属性对于动物来说并不适用——请务必谨慎选择！</AnimalTrait_StatReference.description>
+  <!-- EN: Stat Reference -->
+  <AnimalTrait_StatReference.modExtensions.0.traitName>属性参考</AnimalTrait_StatReference.modExtensions.0.traitName>
+  
+</LanguageData>

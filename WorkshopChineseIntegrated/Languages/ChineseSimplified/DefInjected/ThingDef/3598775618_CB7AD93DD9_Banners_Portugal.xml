@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: banner (Portugal) -->
+  <BA_BannerSpear_Portugal.label>葡萄牙旗帜矛</BA_BannerSpear_Portugal.label>
+  <!-- EN: The first heraldic symbol that can be associated with what would become the Portuguese nation was on the shield used by Henry of Burgundy, Count of Portugal since 1095, during his battles with the Moors. This shield consisted of a blue cross over a white field.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_BannerSpear_Portugal.description>与未来葡萄牙王国相关联的首个纹章符号，源自勃艮第的亨利所用的盾牌。1095年起，亨利担任葡萄牙伯爵，在与摩尔人的战斗中一直使用这面盾牌。盾牌的图案为白底蓝色十字。</BA_BannerSpear_Portugal.description>
+  <!-- EN: shaft -->
+  <BA_BannerSpear_Portugal.tools.shaft-0.label>矛杆</BA_BannerSpear_Portugal.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <BA_BannerSpear_Portugal.tools.shaft-1.label>矛杆</BA_BannerSpear_Portugal.tools.shaft-1.label>
+  <!-- EN: head -->
+  <BA_BannerSpear_Portugal.tools.head.label>矛尖</BA_BannerSpear_Portugal.tools.head.label>
+  
+</LanguageData>

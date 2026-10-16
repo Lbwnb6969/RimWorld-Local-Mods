@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ArmetHooded -->
+
+  <Joe_ArmetHooded.label>连帽武装盔</Joe_ArmetHooded.label>
+  <Joe_ArmetHooded.description>一款制作精良、符合人体工学的带兜帽板甲头盔，可为整个头部和脸部提供全面保护，其形状可偏转直接性的打击所造成的冲击力。这顶头盔为整个头部提供极大的保护，但会大幅影响射击准度；另外，能提高社交影响力。</Joe_ArmetHooded.description>
+
+
+  <!-- BascinetHooded -->
+
+  <Joe_BascinetHooded.label>连帽覆面式中头盔</Joe_BascinetHooded.label>
+  <Joe_BascinetHooded.description>一顶厚金属板制成的中头盔搭配链甲罩帽，外加一副圆面面罩和兜帽。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</Joe_BascinetHooded.description>
+
+
+  <!-- OpenBascinetHooded -->
+
+  <Joe_OpenBascinetHooded.label>连帽敞面式中头盔</Joe_OpenBascinetHooded.label>
+  <Joe_OpenBascinetHooded.description>一顶厚金属板制成的中头盔，外加一件兜帽。早期的中头盔，通常戴在一个更大的头盔里面，因而得名，在骑兵第一次使用骑枪交锋之后，外层的头盔就被丢弃以避免妨碍近身战。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。</Joe_OpenBascinetHooded.description>
+
+
+  <!-- GreatHelmHooded -->
+
+  <Joe_GreatHelmHooded.label>连帽巨盔</Joe_GreatHelmHooded.label>
+  <Joe_GreatHelmHooded.description>全罩式头盔的早期设计，内衬为非常厚的布质罩帽，还外加了一件兜帽。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</Joe_GreatHelmHooded.description>
+
+
+  <!-- KlappvisorBascinetHooded -->
+
+  <Joe_KlappvisorBascinetHooded.label>连帽覆面式中头盔(猪脸型)</Joe_KlappvisorBascinetHooded.label>
+  <Joe_KlappvisorBascinetHooded.description>一顶厚金属板制成的中头盔搭配链甲罩帽，外加一副猪脸型圆面面罩和兜帽。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</Joe_KlappvisorBascinetHooded.description>
+
+
+  <!-- SalletVisored(Base) -->
+
+  <Joe_SalletVisoredHooded.label>连帽覆面式长尾盔</Joe_SalletVisoredHooded.label>
+  <Joe_SalletVisoredHooded.description>一种由顶部、面罩和底部组成的光滑头盔，分别用于保护头部及脸部，还外加了一件兜帽。重量轻、保护性强，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</Joe_SalletVisoredHooded.description>
+
+
+  <!-- SalletGryphonHooded -->
+
+  <Joe_SalletGryphonHooded.label>连帽覆面式长尾盔(鸟喙型)</Joe_SalletGryphonHooded.label>
+  <Joe_SalletGryphonHooded.description>一种由顶部、面罩和底部组成的光滑头盔，分别用于保护头部及脸部，还外加了一件兜帽。重量轻、保护性强，但会大幅影响射击准度；另外，能提高疼痛忍耐力和社交影响力。</Joe_SalletGryphonHooded.description>
+
+
+  <!-- SalletOpenHooded -->
+
+  <Joe_SalletOpenHooded.label>连帽敞面式长尾盔</Joe_SalletOpenHooded.label>
+  <Joe_SalletOpenHooded.description>一种无面罩的光滑头盔，搭配链甲罩帽和一件兜帽。重量轻、保护性强，无面罩设计虽然降低了保护力，但对射击准度影响较小；另外，能提高疼痛忍耐力和社交影响力。</Joe_SalletOpenHooded.description>
+
+
+  <!-- ChainClosedFlatTopHooded -->
+
+  <Joe_ChainClosedFlatTopHooded.label>连帽覆面式平顶盔(链甲罩帽)</Joe_ChainClosedFlatTopHooded.label>
+  <Joe_ChainClosedFlatTopHooded.description>全罩式头盔的早期设计，结构包括一顶加固的平顶头盔搭配链甲罩帽和一副额外的金属面罩，还外加了一件兜帽。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。</Joe_ChainClosedFlatTopHooded.description>
+
+
+  <!-- ChainNasalHooded -->
+
+  <Joe_ChainNasalHooded.label>连帽鼻盔(链甲罩帽)</Joe_ChainNasalHooded.label>
+  <Joe_ChainNasalHooded.description>一顶简单的圆形鼻盔搭配链甲罩帽，外加一件兜帽。为头部提供出色的保护，但会影响射击准度。</Joe_ChainNasalHooded.description>
+
+
+  <!-- ClosedChainFlatTopHooded -->
+
+  <Joe_ClosedChainFlatTopHooded.label>连帽平顶盔(覆面式链甲罩帽)</Joe_ClosedChainFlatTopHooded.label>
+  <Joe_ClosedChainFlatTopHooded.description>坚固的中世纪头盔，可覆盖整个头部，外加一件兜帽。虽然它提供了出色的头部保护，但会影响射击准度。</Joe_ClosedChainFlatTopHooded.description>
+
+
+  <!-- HeavyBarbruteHooded -->
+
+  <Joe_HeavyBarbruteHooded.label>连帽重型巴布塔式头盔</Joe_HeavyBarbruteHooded.label>
+  <Joe_HeavyBarbruteHooded.description>这种头盔形状类似于古典希腊头盔，但其脸部中央开了T型或Y型的通气口，顶上有一条突起的低脊，从鼻梁上方位置一路延伸至头盔后侧，有助于在不全面增厚头盔的情况下加强防御，还外加了一件兜帽。这顶头盔为整个头部提供极佳的保护，但会大幅影响射击准度。</Joe_HeavyBarbruteHooded.description>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pilgrim -->
+  <DA_Pilgrim.label>朝圣者</DA_Pilgrim.label>
+  <!-- EN: A large avian often seen striding amidst the dunes. The pilgrims were given their name after their long migration periods which can last months as they travel from one desert to the next.\n\nPilgrims are often domesticated by the southern tribes to serve as mounts and for their eggs which provides nutrition in the harsh desert conditions. -->
+  <DA_Pilgrim.description>一种经常在沙丘间阔步行进的大型鸟类。朝圣者因为其在沙漠间花数月长途迁徙的习性而被命名。\n\n朝圣者往往被南部的部落畜养以作驼兽和蛋用。</DA_Pilgrim.description>
+  <!-- EN: claws -->
+  <DA_Pilgrim.tools.claws.label>爪</DA_Pilgrim.tools.claws.label>
+  <!-- EN: beak -->
+  <DA_Pilgrim.tools.beak.label>喙</DA_Pilgrim.tools.beak.label>
+  <!-- EN: head -->
+  <DA_Pilgrim.tools.head.label>头</DA_Pilgrim.tools.head.label>
+  
+  <!-- EN: pilgrim egg (fert.) -->
+  <EggPilgrimFertilized.label>朝圣者蛋（已受精）</EggPilgrimFertilized.label>
+  <!-- EN: A fertilized pilgrim egg. If all goes well, it should hatch into a pilgrim chick. It can be eaten raw, but it's much better cooked. -->
+  <EggPilgrimFertilized.description>一枚已经受精的朝圣者蛋。如果一切顺利，它能孵出小朝圣者幼崽。能生食，但最好煮熟了吃。</EggPilgrimFertilized.description>
+  
+  <!-- EN: pilgrim egg (unfert.) -->
+  <EggPilgrimUnfertilized.label>朝圣者蛋（未受精）</EggPilgrimUnfertilized.label>
+  <!-- EN: The sand-colored egg of a pilgrim. It can be eaten raw, but it's much, much better cooked. -->
+  <EggPilgrimUnfertilized.description>一枚沙色的朝圣者蛋。能生食，但最好煮熟了吃。</EggPilgrimUnfertilized.description>
+  
+</LanguageData>

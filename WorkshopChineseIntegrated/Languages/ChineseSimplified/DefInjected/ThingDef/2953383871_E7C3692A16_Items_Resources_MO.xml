@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Clay -->
+
+  <DankPyon_Clay.label>粘土</DankPyon_Clay.label>
+  <DankPyon_Clay.description>一种用途广泛的材料，粘土的自然蕴藏量丰富，广泛分布在河床地区和山坡采石场。这种矿物原质地柔软，但经过加工后坚固耐用，长久以来一直扮演着城镇和王国手工艺产业发展基石的角色。从简陋的壁炉到高耸的堡垒城墙，粘土见证了祖先们的劳动和艺术成就，以其谦逊而高贵的姿态塑造着我们的村庄和防御工事。</DankPyon_Clay.description>
+
+
+  <!-- Raw wood will have the same stats as their processed counterpart except for the following
+		Mass is x3
+		MarketValue is x2 -->
+
+  <DankPyon_RawWood.label>原木</DankPyon_RawWood.label>
+  <DankPyon_RawWood.description>未经加工的木头，是营火的良好燃料，虽然也能用于建造或作成武器，但在适当切割后将更便于运用。</DankPyon_RawWood.description>
+  <DankPyon_RawWood.tools.0.label>原木</DankPyon_RawWood.tools.0.label>
+  <DankPyon_RawWood.stuffProps.stuffAdjective>原木制</DankPyon_RawWood.stuffProps.stuffAdjective>
+
+  <DankPyon_RawDarkWood.label>黑暗木</DankPyon_RawDarkWood.label>
+  <DankPyon_RawDarkWood.description>一种深色的坚硬而古老的木材，经得起时间的考验。可用于建造结构和武器。它是营火的良好燃料。</DankPyon_RawDarkWood.description>
+  <DankPyon_RawDarkWood.tools.0.label>木材</DankPyon_RawDarkWood.tools.0.label>
+  <DankPyon_RawDarkWood.stuffProps.stuffAdjective>黑暗木制</DankPyon_RawDarkWood.stuffProps.stuffAdjective>
+
+  <DankPyon_DarkWood.label>黑暗木材</DankPyon_DarkWood.label>
+  <DankPyon_DarkWood.description>一种经过加工的深色坚硬木材，已被切割成更易于管理的大小，使其更容易用于建造。</DankPyon_DarkWood.description>
+  <DankPyon_DarkWood.tools.0.label>木材</DankPyon_DarkWood.tools.0.label>
+  <DankPyon_DarkWood.stuffProps.stuffAdjective>黑暗木制</DankPyon_DarkWood.stuffProps.stuffAdjective>
+
+
+  <!-- Elven Wood
+
+  <DankPyon_ElvenWoodLog.label>精灵木材</DankPyon_ElvenWoodLog.label>
+  <DankPyon_ElvenWoodLog.description>柔软但有弹性，因其美观和力量感而备受青睐。可用于建造结构和武器。它是营火的良好燃料。</DankPyon_ElvenWoodLog.description>
+  <DankPyon_ElvenWoodLog.tools.0.label>原木</DankPyon_ElvenWoodLog.tools.0.label>
+  <DankPyon_ElvenWoodLog.stuffProps.stuffAdjective>精灵木制</DankPyon_ElvenWoodLog.stuffProps.stuffAdjective>
+ -->
+
+  <!-- Dryad Wood
+
+  <DankPyon_DryadWoodLog.label>树精木材</DankPyon_DryadWoodLog.label>
+  <DankPyon_DryadWoodLog.description>柔软但有弹性，因其美观和力量感而备受青睐。可用于建造结构和武器。它是营火的良好燃料。</DankPyon_DryadWoodLog.description>
+  <DankPyon_DryadWoodLog.tools.0.label>原木</DankPyon_DryadWoodLog.tools.0.label>
+  <DankPyon_DryadWoodLog.stuffProps.stuffAdjective>附魔的</DankPyon_DryadWoodLog.stuffProps.stuffAdjective>
+ -->
+
+  <!-- Ancient Wood
+
+  <DankPyon_AncientWoodLog.label>远古木材</DankPyon_AncientWoodLog.label>
+  <DankPyon_AncientWoodLog.description>柔软但有弹性，因其美观和力量感而备受青睐。可用于建造结构和武器。它是营火的良好燃料。</DankPyon_AncientWoodLog.description>
+  <DankPyon_AncientWoodLog.tools.0.label>原木</DankPyon_AncientWoodLog.tools.0.label>
+  <DankPyon_AncientWoodLog.stuffProps.stuffAdjective>远古的</DankPyon_AncientWoodLog.stuffProps.stuffAdjective>
+ -->
+ 
+  <DankPyon_Coal.label>煤炭</DankPyon_Coal.label>
+  <DankPyon_Coal.description>煤炭是一种主要由碳成分组成的黑色可燃物质。是炉灶和熔炉的良好燃料来源。</DankPyon_Coal.description>
+
+  <!-- Ice -->
+
+  <DankPyon_IceBlock.label>冰块</DankPyon_IceBlock.label>
+  <DankPyon_IceBlock.description>水冻结而成的冰块。在高于冰点的温度下会开始融化。</DankPyon_IceBlock.description>
+
+  <DankPyon_Waterskin.label>水袋</DankPyon_Waterskin.label>
+  <DankPyon_Waterskin.description>装满水的皮囊。</DankPyon_Waterskin.description>
+  <DankPyon_Waterskin.ingestible.ingestCommandString>饮用{0}</DankPyon_Waterskin.ingestible.ingestCommandString>
+  <DankPyon_Waterskin.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Waterskin.ingestible.ingestReportString>
+
+  <!-- Beekeeping -->
+
+  <DankPyon_Wax.label>蜂蜡</DankPyon_Wax.label>
+  <DankPyon_Wax.description>一种有机化合物，在室温下是固体，这使它可以长时间储存。可以制作成蜡烛。</DankPyon_Wax.description>
+
+  <DankPyon_QueenBee.label>傲斯温女王蜂</DankPyon_QueenBee.label>
+  <DankPyon_QueenBee.description>秃鹫蜂群的主宰者，起源于傲斯温家族领地，因此又称傲斯温女王蜂。这种蜜蜂以腐肉为食，并能生产出烟熏味浓郁的蜂蜜。</DankPyon_QueenBee.description>
+
+  <DankPyon_Honey.label>烟熏蜂蜜</DankPyon_Honey.label>
+  <DankPyon_Honey.description>一种带有烟熏味和些许咸味的粘稠蜂蜜，可用作防腐剂或发酵成酒精饮料。</DankPyon_Honey.description>
+
+  <DankPyon_Honeycomb.label>烟熏蜜脾</DankPyon_Honeycomb.label>
+  <DankPyon_Honeycomb.description>由傲斯温蜂分泌的蜂蜡和唾液混合而成的巢室，在适当时机收成，能够提取出蜂蜡和里头储存的烟熏蜂蜜。</DankPyon_Honeycomb.description>
+
+
+  <!-- Iron -->
+
+  <DankPyon_IronOre.label>铁矿石</DankPyon_IronOre.label>
+  <DankPyon_IronOre.description>一种原始的铁矿石，需要在熔炉加工成铁锭才能使用。</DankPyon_IronOre.description>
+
+  <DankPyon_IronIngot.label>铁锭</DankPyon_IronIngot.label>
+  <DankPyon_IronIngot.description>一根铁条。已准备好用于制作和建造。</DankPyon_IronIngot.description>
+  <DankPyon_IronIngot.stuffProps.stuffAdjective>铁制</DankPyon_IronIngot.stuffProps.stuffAdjective>
+
+
+  <!-- Silver -->
+
+  <DankPyon_SilverOre.label>银矿石</DankPyon_SilverOre.label>
+  <DankPyon_SilverOre.description>一种原始的银矿石，需要在熔炉加工成银锭才能使用。</DankPyon_SilverOre.description>
+
+
+  <!-- Gold Ore -->
+
+  <DankPyon_GoldOre.label>金矿石</DankPyon_GoldOre.label>
+  <DankPyon_GoldOre.description>一种原始的金矿石，需要在熔炉加工成金锭才能使用。</DankPyon_GoldOre.description>
+
+
+  <!-- Plasteel -->
+
+  <DankPyon_PlasteelOre.label>秘银矿石</DankPyon_PlasteelOre.label>
+  <DankPyon_PlasteelOre.description>一种原始的秘银矿石，需要在熔炉加工成秘银锭才能使用。</DankPyon_PlasteelOre.description>
+
+
+  <!-- Bone -->
+
+  <DankPyon_Bone.label>骨头</DankPyon_Bone.label>
+  <DankPyon_Bone.description>包括人类在内的动物的骨头，可以作为一般材料使用。骨质武器和盔甲的耐用性差，但勉强能提供保护。镶嵌着骨头的建筑物和艺术品可以为原本贫乏或沉闷的材料提供点缀。虽然这种材料很容易获得，但应该避免使用骨头作为整个结构，如墙壁或门，的材料。骨头的最佳用途(无论是用于制作盔甲或是艺术品)，应当是仅仅作为其他材料的点缀和加分。</DankPyon_Bone.description>
+  <DankPyon_Bone.stuffProps.stuffAdjective>骨制</DankPyon_Bone.stuffProps.stuffAdjective>
+
+
+  <!-- Fabric -->
+
+  <DankPyon_Linen.label>亚麻布</DankPyon_Linen.label>
+  <DankPyon_Linen.description>一种由干燥的亚麻纤维制成的弹性织物。</DankPyon_Linen.description>
+
+  <DankPyon_Silk.label>丝绸</DankPyon_Silk.label>
+  <DankPyon_Silk.description>一种柔软奢华的面料，经常被指定为高贵的订制服的材料。</DankPyon_Silk.description>
+
+  <DankPyon_Spider_Silk.label>蛛魔布</DankPyon_Spider_Silk.label>
+  <DankPyon_Spider_Silk.description>用蛛魔织网制成的布料，拥有超凡的耐久性和弹性，在险恶世界中为雇佣兵们提供了坚韧的防护力且不影响行动。</DankPyon_Spider_Silk.description>
+
+  <!-- Citrine -->
+
+  <DankPyon_Citrine.label>黄水晶</DankPyon_Citrine.label>
+  <DankPyon_Citrine.description>被称为黄水晶的淡黄色石英是价值最低的晶石之一。用这种宝石装饰珠宝仅能些微增加财富。</DankPyon_Citrine.description>
+
+
+  <!-- Amber -->
+
+  <DankPyon_Amber.label>琥珀</DankPyon_Amber.label>
+  <DankPyon_Amber.description>一种硬化的树脂化石。因其天然的黄橙色色调而受到普遍赞誉，常被用于装饰品和首饰。然而，因为质地太软，无法用于武器。</DankPyon_Amber.description>
+
+
+  <!-- Onyx -->
+
+  <DankPyon_Onyx.label>玛瑙</DankPyon_Onyx.label>
+  <DankPyon_Onyx.description>这种矿物有着黑色和白色的平行线条，因而显变化多端的花纹视觉效果，有时是和谐的，有时是混乱的。然而，花纹呈混乱分布的玛瑙并没有因此而贬值，反而增加了它的价值，特别是对雕刻和珠宝而言。</DankPyon_Onyx.description>
+
+
+  <!-- Emerald -->
+
+  <DankPyon_Emerald.label>绿宝石</DankPyon_Emerald.label>
+  <DankPyon_Emerald.description>一种坚韧的宝石，主要是绿色的色调。这种宝石能为任何物品增加价值，无论是做为剑柄上的宝石还是戒指上的点缀。</DankPyon_Emerald.description>
+
+  <DankPyon_Sapphire.label>蓝宝石</DankPyon_Sapphire.label>
+  <DankPyon_Sapphire.description>由于其漂亮的结晶面，蓝宝石比其他多数宝石更有价值和受欢迎。当制成珠宝时，它闪耀出的蓝色调和光泽使其成为极具美观饰品，即使是原石本身也具有相当的价值，因此常常吸引危险的流浪者的注意。</DankPyon_Sapphire.description>
+
+  <DankPyon_Ruby.label>红宝石</DankPyon_Ruby.label>
+  <DankPyon_Ruby.description>最受世人追捧的宝石，其颜色就像人们为获得它而做出的牺牲一样血腥。尽管属于发源地不同的文化群体，最后都会一致地发现自己被这种富有美感的宝石吸引。红宝石经常用于贸易、珠宝制作，甚至展示。</DankPyon_Ruby.description>
+
+
+</LanguageData>

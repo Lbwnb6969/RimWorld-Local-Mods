@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cheetah -->
+  <AEXP_Cheetah.label>猎豹</AEXP_Cheetah.label>
+  <!-- EN: These cats are lean and lanky, allowing them to reach incredible speeds. They have tan-colored fur with solid black, round spots, very long legs, a long narrow tail for balance, and a deep chest that contains large lungs. -->
+  <AEXP_Cheetah.description>这种大猫精瘦而修长，配有健壮的长腿、细长的尾巴和大型的肺部，可以达到很高很高的奔跑速度。皮毛配有黑色斑纹用着，便于隐藏。</AEXP_Cheetah.description>
+  <!-- EN: left claw -->
+  <AEXP_Cheetah.tools.left_claw.label>左爪</AEXP_Cheetah.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_Cheetah.tools.left_claw.labelNoLocation>爪</AEXP_Cheetah.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_Cheetah.tools.right_claw.label>右爪</AEXP_Cheetah.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_Cheetah.tools.right_claw.labelNoLocation>爪</AEXP_Cheetah.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <AEXP_Cheetah.tools.head.label>头</AEXP_Cheetah.tools.head.label>
+  
+  <!-- EN: coyote -->
+  <AEXP_Coyote.label>郊狼</AEXP_Coyote.label>
+  <!-- EN: A praire wolf native to desert and shrubland areas. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf. -->
+  <AEXP_Coyote.description>一种生活在半灌木地半沙漠的野狼。样貌和捕猎方式都像狼，经常集团行动，能捕猎远比起大的猎物。</AEXP_Coyote.description>
+  <!-- EN: left claw -->
+  <AEXP_Coyote.tools.left_claw.label>左爪</AEXP_Coyote.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Coyote.tools.right_claw.label>右爪</AEXP_Coyote.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Coyote.tools.head.label>头</AEXP_Coyote.tools.head.label>
+  
+  <!-- EN: crocodile -->
+  <AEXP_Crocodile.label>鳄鱼</AEXP_Crocodile.label>
+  <!-- EN: A large semi-aquatic reptile, most often found on the river banks. It's predatory insticts combined with an extremely strong jaw allow them to tackle much larger prey. Older crocodiles can grow to monstrous sizes. -->
+  <AEXP_Crocodile.description>一种大型的两栖爬行类动物，通常栖息于河畔边上。出色的捕猎本能加上极强的咬合力，使得它们可以扭倒比自身大得多的猎物。年长而出色的鳄鱼能长到怪物般的尺寸。</AEXP_Crocodile.description>
+  
+  <!-- EN: giraffe -->
+  <AEXP_Giraffe.label>长颈鹿</AEXP_Giraffe.label>
+  <!-- EN: A giraffe is one of the tallest mammals in the galaxy, using it's long neck to reach leaves and branches unavailable for smaller herbivores. -->
+  <AEXP_Giraffe.description>长颈鹿是银河系中最高的哺乳类动物之一。得益于这长脖子，能够吃到其他草食性动物够不着的树叶和嫩枝。</AEXP_Giraffe.description>
+  <!-- EN: left hoof -->
+  <AEXP_Giraffe.tools.left_hoof.label>左蹄</AEXP_Giraffe.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <AEXP_Giraffe.tools.right_hoof.label>右蹄</AEXP_Giraffe.tools.right_hoof.label>
+  <!-- EN: head -->
+  <AEXP_Giraffe.tools.head.label>头</AEXP_Giraffe.tools.head.label>
+  
+  <!-- EN: wildebeest -->
+  <AEXP_Wildebeest.label>牛羚</AEXP_Wildebeest.label>
+  <!-- EN: Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds.\n\nDue to its Wildness, it produces milk at much slower rate than a standard cow. -->
+  <AEXP_Wildebeest.description>牛羚也叫角马，因其凶恶无比的双角而得名。它们有着尖胡子和大大的头，会大规模地进行大迁徙。/n/n由于野性更高，牛羚的产奶速度要比普通的牛更慢。</AEXP_Wildebeest.description>
+  <!-- EN: head -->
+  <AEXP_Wildebeest.tools.head.label>头</AEXP_Wildebeest.tools.head.label>
+  <!-- EN: left hoof -->
+  <AEXP_Wildebeest.tools.left_hoof.label>左蹄</AEXP_Wildebeest.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <AEXP_Wildebeest.tools.right_hoof.label>右蹄</AEXP_Wildebeest.tools.right_hoof.label>
+  
+  <!-- EN: zebra -->
+  <AEXP_Zebra.label>斑马</AEXP_Zebra.label>
+  <!-- EN: A member of the horse family native to arid and desert areas. Whilst it doesn't share the same bodysize as a horse, due to years of evolution it's one of the fastest hooved animals. -->
+  <AEXP_Zebra.description>生活在半干旱荒漠半草原地区的马类动物。虽然体型跟普通的马有点差距，但依然是跑得最快的有蹄类动物之一。</AEXP_Zebra.description>
+  <!-- EN: head -->
+  <AEXP_Zebra.tools.head.label>头</AEXP_Zebra.tools.head.label>
+  <!-- EN: left hoof -->
+  <AEXP_Zebra.tools.left_hoof.label>左蹄</AEXP_Zebra.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <AEXP_Zebra.tools.right_hoof.label>右蹄</AEXP_Zebra.tools.right_hoof.label>
+  
+</LanguageData>

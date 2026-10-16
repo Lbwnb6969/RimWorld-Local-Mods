@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extraction funeral -->
+  <GR_ExtractorFuneral.label>提取葬礼</GR_ExtractorFuneral.label>
+  <!-- EN: A gathering to witness the extraction of our friends' genomes so they can remain with us. -->
+  <GR_ExtractorFuneral.description>在指定地点处举行葬礼，以将死者转化为基因物质。</GR_ExtractorFuneral.description>
+  <!-- EN: {PAWN_nameDef} should be extracted and turned into a glorious creation so {PAWN_possessive} friends and family need not say farewell. -->
+  <GR_ExtractorFuneral.extraTextPawnDeathLetter>{PAWN_nameDef}应当被提取成基因物质，这样就能留在{PAWN_possessive}朋友和家人身边了。</GR_ExtractorFuneral.extraTextPawnDeathLetter>
+  
+</LanguageData>

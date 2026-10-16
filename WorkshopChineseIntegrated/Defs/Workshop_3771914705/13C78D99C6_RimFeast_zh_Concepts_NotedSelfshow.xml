@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- GiTS Cyberbrains Learning Helper Tutorials-->
+<Defs>
+<!-- General ConceptDefs-->
+  <ConceptDef>
+    <defName>RimFeastTutor</defName>
+    <label>边缘盛宴教程</label>
+    <priority>110</priority>
+    <helpText>你可以用搜索栏搜索「建筑规划-杂项」中的「宴会点」</helpText>
+  </ConceptDef>
+</Defs>

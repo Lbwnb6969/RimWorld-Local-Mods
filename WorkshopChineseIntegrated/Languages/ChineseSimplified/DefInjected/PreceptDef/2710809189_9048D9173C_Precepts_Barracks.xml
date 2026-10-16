@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acceptable -->
+  <AM_Barracks_Acceptable.label>认可</AM_Barracks_Acceptable.label>
+  <!-- EN: Sharing a bedroom is just an unavoidable part of living in the Rim. It's not a big deal.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists won't receive penalties from sleeping in barracks.\n - They will still prefer a private room and they will still get "disturbed sleep" moods. -->
+  <AM_Barracks_Acceptable.description>若想在边缘世界生活下去，就免不了于同间卧室中相拥而眠。这没什么大不了的。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 睡在多人宿舍中的殖民者将不会获得心情减益。\n - 殖民者仍然更喜欢单人卧室，也依旧会产生“睡眠被打扰”的想法。</AM_Barracks_Acceptable.description>
+  
+  <!-- EN: monastic -->
+  <AM_Barracks_Preferred.label>苦行</AM_Barracks_Preferred.label>
+  <!-- EN: A communal living space allows us to meditate and contemplate the meaning of this life together. Private rooms are an unnecessary frivolity.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists receive positive mood by sleeping in barracks, but the room should be above Awful and below Extremely impressive.\n - Colonists receive negative mood by sleeping in a private room. -->
+  <AM_Barracks_Preferred.description>宽敞的大通铺有助于我们一同冥想并思考人生的意义。我们并不需要精致奢华的单人卧室。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 睡在多人宿舍中的殖民者将会获得心情增益，但房间观感必须高于“可怕”并低于“印象极度深刻”。\n - 睡在单人卧室中的殖民者将会获得心情减益。</AM_Barracks_Preferred.description>
+  
+  <!-- EN: preferred -->
+  <AM_Barracks_PreferredTrue.label>喜好</AM_Barracks_PreferredTrue.label>
+  <!-- EN: Sharing a bedroom bring a certain sensation of security in the Rim. Who would want to sleep alone in such a terrible world?\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists receive small positive mood boosts by sleeping in barracks.\n - Colonists receive negative mood by sleeping in a private room. -->
+  <AM_Barracks_PreferredTrue.description>或许只有于同间卧室中相拥而眠，才能为我们带来一丝安全感。在这危机四伏的边缘世界中，又有谁会想一个人入睡呢？\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 睡在多人宿舍中的殖民者将会获得少量心情增益。\n - 睡在单人卧室中的殖民者将会获得心情减益。</AM_Barracks_PreferredTrue.description>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bardiche -->
+  <TA_Bardiche.label>巴尔迪什斧</TA_Bardiche.label>
+  <!-- EN: . -->
+  <TA_Bardiche.description>东欧特色的长柄斧，兼具劈砍和刺击功能。</TA_Bardiche.description>
+  <!-- EN: shaft -->
+  <TA_Bardiche.tools.shaft.label>斧柄</TA_Bardiche.tools.shaft.label>
+  <!-- EN: edge -->
+  <TA_Bardiche.tools.edge.label>斧刃</TA_Bardiche.tools.edge.label>
+  <!-- EN: point -->
+  <TA_Bardiche.tools.point.label>斧尖</TA_Bardiche.tools.point.label>
+  
+</LanguageData>

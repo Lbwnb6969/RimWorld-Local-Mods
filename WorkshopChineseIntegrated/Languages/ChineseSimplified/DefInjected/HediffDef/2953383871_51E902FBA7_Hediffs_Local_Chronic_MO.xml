@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Intoxication.label>中枢神经中毒</DankPyon_Intoxication.label>
+  <DankPyon_Intoxication.description>经常服用成瘾品、酒精饮品、草药和药物会增加您中枢神经中毒程度。高度中毒会对此人造成不良影响。</DankPyon_Intoxication.description>
+  <DankPyon_Intoxication.stages.0.label>轻度(无影响)</DankPyon_Intoxication.stages.0.label>
+  <DankPyon_Intoxication.stages.1.label>中度</DankPyon_Intoxication.stages.1.label>
+  <DankPyon_Intoxication.stages.2.label>重度</DankPyon_Intoxication.stages.2.label>
+  <DankPyon_Intoxication.stages.3.label>极重度</DankPyon_Intoxication.stages.3.label>
+  
+  <DankPyon_Painless.label>无痛</DankPyon_Painless.label>
+  <DankPyon_Painless.description>无痛。</DankPyon_Painless.description>
+
+
+</LanguageData>

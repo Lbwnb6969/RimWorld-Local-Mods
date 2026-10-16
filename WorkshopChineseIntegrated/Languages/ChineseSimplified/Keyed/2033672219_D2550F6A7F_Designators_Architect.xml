@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Remove foundation -->
+  <VFEArchitect.DesignatorRemoveFoundation>移除地基</VFEArchitect.DesignatorRemoveFoundation>
+    <!-- EN: Remove foundations to reveal the terrain underneath. -->
+  <VFEArchitect.DesignatorRemoveFoundationDesc>移除地基，揭露其下的地形。</VFEArchitect.DesignatorRemoveFoundationDesc>
+</LanguageData>

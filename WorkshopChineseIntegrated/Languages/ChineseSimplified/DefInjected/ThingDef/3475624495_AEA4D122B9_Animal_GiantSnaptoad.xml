@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: giant snaptoad -->
+  <!-- EN: An enormous, carnivorous amphibian reigning as swamplands' apex predator. The tooth-filled maw that earned giant snaptoad its moniker can easily crush bone, and unhinge to swallow smaller prey whole after a leaping ambush from between the reeds. Its dentition, unique among contemporary amphibians, leads to speculation among scholars about whether giant snaptoad is a true toad, or an unrelated amphibian that convergently developed toad-like traits.\n\nGiant snaptoads practice a rare form of child rearing called gastric brooding: upon fertilization, the eggs are immediately swallowed by the female and stored in a special chamber in their stomach. There, the tadpoles can safely hatch and develop, regurgitated by their parent only once they have transformed into froglets. However, in rare cases, the practice is omitted, and the tadpoles are left to fend for themselves in marshy waters. -->
+  <!-- EN: head -->
+  <DA_Snaptoad.tools.head.label>头</DA_Snaptoad.tools.head.label>
+</LanguageData>

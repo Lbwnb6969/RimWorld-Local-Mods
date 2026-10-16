@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful -->
+  <VME_Junk_Beautiful.label>美丽</VME_Junk_Beautiful.label>
+  <!-- EN: The machinations of old are breath-taking, and their weathering should be viewed as art. It's wonderful to live surrounded by things discarded by others.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Ancient junk buildings can be uninstalled and placed again as needed.\n - Colonists get mood penalties / bonuses depending on amount of ancient junk buildings in a 20 tiles radius around them. Effect checks approximately once every 5 hours. -->
+  <VME_Junk_Beautiful.description>这些古老的遗物可真是令人激动不已，它们的风化腐蚀也理应被当做艺术看待。生活在满是远古残骸的环境中简直太美妙了！\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 废弃的远古残骸可以被卸载并重新安装。\n - 殖民者会依据半径20格内的远古残骸数量来获得心情减益/增益。每隔五小时会重新检测并刷新效果。</VME_Junk_Beautiful.description>
+  <!-- EN: No junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>没有远古残骸</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Few pieces of ancient junk (1 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>极少的远古残骸（1个）</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Few pieces of ancient junk (2 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>极少的远古残骸（2个）</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Few pieces of ancient junk (3 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>极少的远古残骸（3个）</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Few pieces of ancient junk (4 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>极少的远古残骸（4个）</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>
+  <!-- EN: very little junk (5 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>较少的远古残骸（5个）</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>
+  <!-- EN: Small junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>少量的远古残骸</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>
+  <!-- EN: Saw junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>看到了远古残骸</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>
+  <!-- EN: Amazing junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>美妙的远古残骸</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>
+  <!-- EN: Beautiful junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>艺术般的远古残骸</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>
+  
+  <!-- EN: preferred -->
+  <VME_Junk_Preferred.label>喜好</VME_Junk_Preferred.label>
+  <!-- EN: Ancient junk reminds us of the tribulations of our forefathers, subject to the eternal struggle of humanity among the stars. We can learn a great deal from studying this discarded tech.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Ancient junk buildings can be uninstalled and placed again as needed.\n - Colonists get moderate mood penalties / bonuses depending on amount of ancient junk buildings in a 20 tiles radius around them. Effect checks approximately once every 5 hours. -->
+  <VME_Junk_Preferred.description>这些古老的残骸使我们回忆起了祖先们所经受的磨难，人类一直在星际间进行着无止境的争斗。我们可以从这些残骸中学到许多有用的知识与技术。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 废弃的远古残骸可以被卸载并重新安装。\n - 殖民者会依据半径20格内的远古残骸数量来获得心情减益/增益。每隔五小时会重新检测并刷新效果。</VME_Junk_Preferred.description>
+  <!-- EN: No junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>没有远古残骸</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Few pieces of ancient junk (1 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>极少的远古残骸（1个）</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Few pieces of ancient junk (2 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>极少的远古残骸（2个）</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Few pieces of ancient junk (3 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>极少的远古残骸（3个）</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Few pieces of ancient junk (4 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>极少的远古残骸（4个）</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>
+  <!-- EN: very little junk (5 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>较少的远古残骸（5个）</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>
+  <!-- EN: Small junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>少量的远古残骸</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>
+  <!-- EN: Saw junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>看到了远古残骸</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>
+  <!-- EN: Plenty of junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>许多的远古残骸</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>
+  <!-- EN: Lots of junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>大量的远古残骸</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>
+  
+</LanguageData>

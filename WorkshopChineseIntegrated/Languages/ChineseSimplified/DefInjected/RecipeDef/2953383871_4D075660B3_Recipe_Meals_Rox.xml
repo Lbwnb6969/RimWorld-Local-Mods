@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rox Roast -->
+
+  <DankPyon_CookMealRoxRoast.label>炙烤罗克斯烤肉</DankPyon_CookMealRoxRoast.label>
+  <DankPyon_CookMealRoxRoast.description>炙烤罗克斯烤肉。</DankPyon_CookMealRoxRoast.description>
+  <DankPyon_CookMealRoxRoast.jobString>正在炙烤罗克斯烤肉。</DankPyon_CookMealRoxRoast.jobString>
+
+  <DankPyon_CookMealRoxRoast_Bulk.label>炙烤罗克斯烤肉 x4</DankPyon_CookMealRoxRoast_Bulk.label>
+  <DankPyon_CookMealRoxRoast_Bulk.description>炙烤罗克斯烤肉。</DankPyon_CookMealRoxRoast_Bulk.description>
+  <DankPyon_CookMealRoxRoast_Bulk.jobString>正在炙烤罗克斯烤肉。</DankPyon_CookMealRoxRoast_Bulk.jobString>
+
+
+  <!-- Rox Feast -->
+
+  <DankPyon_CookMealRoxFeast.label>烹制罗克斯盛宴</DankPyon_CookMealRoxFeast.label>
+  <DankPyon_CookMealRoxFeast.description>烹制罗克斯盛宴。</DankPyon_CookMealRoxFeast.description>
+  <DankPyon_CookMealRoxFeast.jobString>正在烹制罗克斯盛宴。</DankPyon_CookMealRoxFeast.jobString>
+
+  <DankPyon_CookMealRoxFeast_Bulk.label>烹制罗克斯盛宴 x4</DankPyon_CookMealRoxFeast_Bulk.label>
+  <DankPyon_CookMealRoxFeast_Bulk.description>烹制罗克斯盛宴。</DankPyon_CookMealRoxFeast_Bulk.description>
+  <DankPyon_CookMealRoxFeast_Bulk.jobString>正在烹制罗克斯盛宴。</DankPyon_CookMealRoxFeast_Bulk.jobString>
+
+
+</LanguageData>

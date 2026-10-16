@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- DDJY.MedievalGeneAssembler removes this node; add an empty placeholder for 1.6. -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/DesignationCategoryDef[defName="Biotech"]/researchPrerequisites</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/DesignationCategoryDef[defName="Biotech"]</xpath>
+      <value>
+        <researchPrerequisites />
+      </value>
+    </nomatch>
+  </Operation>
+</Patch>

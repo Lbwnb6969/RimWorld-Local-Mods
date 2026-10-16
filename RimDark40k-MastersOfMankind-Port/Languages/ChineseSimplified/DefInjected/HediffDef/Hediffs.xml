@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GW_Ruler_EmperorAura.description>此人已加冕为帝皇。其神圣光辉激励周围同伴全力作战。</GW_Ruler_EmperorAura.description>
+  <GW_Ruler_InspiredByHolyLight.description>此人受到圣光鼓舞，能够在战斗中发挥更强的力量。</GW_Ruler_InspiredByHolyLight.description>
+  <GW_Ruler_ValdorShieldBonus.description>帝皇之盾庇护着此人，神圣恩典化作贴身护盾。</GW_Ruler_ValdorShieldBonus.description>
+  <GW_Ruler_MalcadorBonus.description>掌印者马卡多的智慧使此人在贸易和谈判中更具优势。</GW_Ruler_MalcadorBonus.description>
+  <GW_Ruler_MalcadorDebuff.description>此人的心智正被掌印者的意志压制。</GW_Ruler_MalcadorDebuff.description>
+  <GW_Ruler_EmperorLOTD_24Hours.description>此人是受帝皇召唤前来履行职责的诅咒军团战士，将在 24 小时后被遣返亚空间。</GW_Ruler_EmperorLOTD_24Hours.description>
+  <GW_Ruler_EmperorLOTD_12Hours.description>此人是受帝皇召唤前来履行职责的诅咒军团战士，将在 12 小时后被遣返亚空间。</GW_Ruler_EmperorLOTD_12Hours.description>
+  <GW_Ruler_EmperorLOTD_6Hours.description>此人是受帝皇召唤前来履行职责的诅咒军团战士，将在 6 小时后被遣返亚空间。</GW_Ruler_EmperorLOTD_6Hours.description>
+  <GW_Ruler_ValdorSpearXpDrain.label>瓦尔多之矛</GW_Ruler_ValdorSpearXpDrain.label>
+  <GW_Ruler_ValdorSpearXpDrain.description>阿波罗之矛会揭示死者的真相，并将其部分技能经验赐予持有者。</GW_Ruler_ValdorSpearXpDrain.description>
+  <GW_Ruler_EmperorAura.label>神圣之光</GW_Ruler_EmperorAura.label>
+  <GW_Ruler_InspiredByHolyLight.label>神圣之光的激励</GW_Ruler_InspiredByHolyLight.label>
+  <GW_Ruler_ValdorShieldBonus.label>瓦尔多之盾</GW_Ruler_ValdorShieldBonus.label>
+  <GW_Ruler_MalcadorBonus.label>马卡多的智慧</GW_Ruler_MalcadorBonus.label>
+  <GW_Ruler_MalcadorDebuff.label>强加意志</GW_Ruler_MalcadorDebuff.label>
+  <GW_Ruler_EmperorLOTD_24Hours.label>诅咒军团战士</GW_Ruler_EmperorLOTD_24Hours.label>
+  <GW_Ruler_EmperorLOTD_12Hours.label>诅咒军团战士</GW_Ruler_EmperorLOTD_12Hours.label>
+  <GW_Ruler_EmperorLOTD_6Hours.label>诅咒军团战士</GW_Ruler_EmperorLOTD_6Hours.label>
+</LanguageData>

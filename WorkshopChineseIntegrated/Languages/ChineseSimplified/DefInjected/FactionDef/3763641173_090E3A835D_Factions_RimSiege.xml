@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: envoys -->
+  <RimSiege_Envoys.label>使者</RimSiege_Envoys.label>
+  <!-- EN: Heralds and go-betweens sent to treat under a flag of truce. -->
+  <RimSiege_Envoys.description>在休战旗下前来谈判的使者和斡旋者。</RimSiege_Envoys.description>
+  <!-- EN: envoy -->
+  <RimSiege_Envoys.pawnSingular>使者</RimSiege_Envoys.pawnSingular>
+  
+</LanguageData>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Component Medieval -->
+
+  <DankPyon_ComponentBasic.label>基础零件</DankPyon_ComponentBasic.label>
+  <DankPyon_ComponentBasic.description>各种齿轮、轮子、钉子。用于组装复杂装置。</DankPyon_ComponentBasic.description>
+
+  <!-- Repair Tools -->
+
+  <DankPyon_RepairTools.label>修补零件</DankPyon_RepairTools.label>
+  <DankPyon_RepairTools.description>用于修补物品的杂项零件。</DankPyon_RepairTools.description>
+
+
+  <!-- Papers please -->
+
+  <DankPyon_Paper.label>纸张</DankPyon_Paper.label>
+  <DankPyon_Paper.description>一张空白的纸。用于抄写或制作书籍。</DankPyon_Paper.description>
+
+
+  <!-- Tannin Liquor -->
+
+  <DankPyon_TanningLiquor.label>鞣酸</DankPyon_TanningLiquor.label>
+  <DankPyon_TanningLiquor.description>从各种天然资源中提取的单宁酸被浓缩到这种液体中。它可用于将生皮加工成皮革。</DankPyon_TanningLiquor.description>
+
+  <DankPyon_Mixture_Paper.label>纸浆</DankPyon_Mixture_Paper.label>
+  <DankPyon_Mixture_Paper.description>纸浆是制作纸的基本原料，将纤维材料研磨粉碎并用水浸泡后，打成均匀又粘稠的一种混合物。纸浆经过铺展、压制并干燥后即可制成强韧的纸张。</DankPyon_Mixture_Paper.description>
+
+
+  <!-- Tar -->
+
+  <DankPyon_Tar.label>焦油</DankPyon_Tar.label>
+  <DankPyon_Tar.description>一种黑色的粘浆体，在攻城战中作为粘剂或可燃材料的来源。</DankPyon_Tar.description>
+
+
+  <!-- Gunpowder -->
+
+  <DankPyon_Gunpowder.label>火药</DankPyon_Gunpowder.label>
+  <DankPyon_Gunpowder.description>一种黑色粉末状物质，具有高度爆炸性，通常用于火器。</DankPyon_Gunpowder.description>
+
+
+  <!-- Scorpio Bolts -->
+
+  <DankPyon_ScorpioBolt.label>蝎弩箭</DankPyon_ScorpioBolt.label>
+  <DankPyon_ScorpioBolt.description>蝎弩使用的箭矢。</DankPyon_ScorpioBolt.description>
+
+
+  <!-- Ballista Bolts -->
+
+  <DankPyon_BallistaBolt.label>巨型弩箭</DankPyon_BallistaBolt.label>
+  <DankPyon_BallistaBolt.description>床弩使用的箭矢。</DankPyon_BallistaBolt.description>
+
+
+  <!-- Stone Boulder -->
+
+  <DankPyon_StoneBoulder.label>巨石</DankPyon_StoneBoulder.label>
+  <DankPyon_StoneBoulder.description>一块坚而圆且沉重的岩石，用于投石机。</DankPyon_StoneBoulder.description>
+
+  <DankPyon_Artillery_Boulder.label>巨石</DankPyon_Artillery_Boulder.label>
+
+
+  <!-- Stone Boulder covered with Tar -->
+
+  <DankPyon_StoneBoulderTarred.label>焦油巨石</DankPyon_StoneBoulderTarred.label>
+  <DankPyon_StoneBoulderTarred.description>一块坚而圆且沉重的岩石，用于投石机。\n\n表面涂有焦油，一旦准备好发射就可以点燃它。</DankPyon_StoneBoulderTarred.description>
+
+  <DankPyon_Artillery_BoulderTarred.label>焦油巨石</DankPyon_Artillery_BoulderTarred.label>
+
+  <!-- Alchemy -->
+
+  <DankPyon_HerbalExtract.label>药草萃取物</DankPyon_HerbalExtract.label>
+  <DankPyon_HerbalExtract.description>透过研磨、萃取各种具药性成分的草本植物所获得的浓稠混合物。药效不如工业药品，但聊胜于无。</DankPyon_HerbalExtract.description>
+
+</LanguageData>

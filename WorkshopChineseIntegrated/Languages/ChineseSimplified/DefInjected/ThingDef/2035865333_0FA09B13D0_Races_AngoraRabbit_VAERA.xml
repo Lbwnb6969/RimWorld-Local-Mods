@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: angora rabbit -->
+  <VAERoy_AngoraRabbit.label>长毛兔</VAERoy_AngoraRabbit.label>
+  <!-- EN: Small, domestic rabbit that has developed an ability to enhance the neural heat dissipation of anyone they bond with. Unfortunately, as a side effect, it the bonded master of the angora rabbit dies, the rabbit will also die of sadness and loss.\n\n<color=#E5E54C>Gameplay effect:</color> As long as an Angora Rabbit is bonded to a colonist, this colonist will receive a psychic connection that helps with neural heat dissipation. -->
+  <VAERoy_AngoraRabbit.description>浑身覆有长长绒毛的兔科动物。这些经过基因工程改造的长毛兔生来便具有一种特殊的能力——当与殖民者产生牵绊后，它们可以加快主人的心灵熵消散速度，但若主人不幸逝去，它们也会在痛苦与悲伤中走向死亡。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>与长毛兔建立牵绊的殖民者将获得加快心灵熵消散速度的增益效果。</VAERoy_AngoraRabbit.description>
+  <!-- EN: head -->
+  <VAERoy_AngoraRabbit.tools.head.label>头</VAERoy_AngoraRabbit.tools.head.label>
+  
+</LanguageData>

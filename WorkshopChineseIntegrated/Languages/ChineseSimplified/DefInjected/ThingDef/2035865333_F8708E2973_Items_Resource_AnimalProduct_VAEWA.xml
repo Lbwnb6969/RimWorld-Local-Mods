@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hydra egg (fert.) -->
+  <VAEWaste_EggHydraFertilized.label>三首蛇蛋（已受精）</VAEWaste_EggHydraFertilized.label>
+  <!-- EN: A fertilized hydra egg. If all goes well, it should hatch into a baby hydra. It can be eaten raw, but it's much better cooked. -->
+  <VAEWaste_EggHydraFertilized.description>已受精的三首蛇蛋。如果一切顺利应该可以孵化出三首蛇幼崽。可以生吃，但是最好烹饪后食用。</VAEWaste_EggHydraFertilized.description>
+  
+  <!-- EN: hydra egg (unfert.) -->
+  <VAEWaste_EggHydraUnfertilized.label>三首蛇蛋（未受精）</VAEWaste_EggHydraUnfertilized.label>
+  <!-- EN: An unfertilized hydra egg. It can be eaten raw, but it's much better cooked. -->
+  <VAEWaste_EggHydraUnfertilized.description>未受精的三首蛇蛋。可以生吃，但是最好烹饪后食用。</VAEWaste_EggHydraUnfertilized.description>
+  
+  <!-- EN: toxiguana egg (fert.) -->
+  <VAEWaste_EggToxiguanaFertilized.label>污毒鬣蜥蛋（已受精）</VAEWaste_EggToxiguanaFertilized.label>
+  <!-- EN: A fertilized toxiguana egg. If all goes well, it should hatch into a baby toxiguana. It can be eaten raw, but it's much better cooked. -->
+  <VAEWaste_EggToxiguanaFertilized.description>已受精的污毒鬣蜥蛋。如果一切顺利应该可以孵化出污毒鬣蜥幼崽。可以生吃，但是最好烹饪后食用。</VAEWaste_EggToxiguanaFertilized.description>
+  
+  <!-- EN: toxiguana egg (unfert.) -->
+  <VAEWaste_EggToxiguanaUnfertilized.label>污毒鬣蜥蛋（未受精）</VAEWaste_EggToxiguanaUnfertilized.label>
+  <!-- EN: An unfertilized toxiguana egg. It can be eaten raw, but it's much better cooked. -->
+  <VAEWaste_EggToxiguanaUnfertilized.description>未受精的污毒鬣蜥蛋。可以生吃，但是最好烹饪后食用。</VAEWaste_EggToxiguanaUnfertilized.description>
+  
+</LanguageData>

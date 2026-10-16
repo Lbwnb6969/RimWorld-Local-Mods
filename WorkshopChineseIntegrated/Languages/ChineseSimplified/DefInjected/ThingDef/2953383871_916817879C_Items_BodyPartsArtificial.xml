@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- artificial hand -->
+
+  <ArtificialMedHand.label>假手</ArtificialMedHand.label>
+  <ArtificialMedHand.description>一只假手。</ArtificialMedHand.description>
+
+
+  <!-- artificial arm -->
+
+  <ArtificialMedArm.label>假手臂</ArtificialMedArm.label>
+  <ArtificialMedArm.description>一只假手臂。</ArtificialMedArm.description>
+
+
+  <!-- artificial leg -->
+
+  <ArtificialMedLeg.label>假腿</ArtificialMedLeg.label>
+  <ArtificialMedLeg.description>一只假腿。</ArtificialMedLeg.description>
+
+
+  <!-- artificial foot -->
+
+  <ArtificialMedFoot.label>假脚</ArtificialMedFoot.label>
+  <ArtificialMedFoot.description>一只假脚。</ArtificialMedFoot.description>
+
+
+  <!-- artificial toe -->
+
+  <ArtificialMedToe.label>假趾</ArtificialMedToe.label>
+  <ArtificialMedToe.description>一只假趾。</ArtificialMedToe.description>
+
+
+  <!-- Artificial finger -->
+
+  <ArtificialMedFinger.label>假指</ArtificialMedFinger.label>
+  <ArtificialMedFinger.description>一只假指。</ArtificialMedFinger.description>
+
+
+  <!-- artificial nose -->
+
+  <ArtificialMedNose.label>假鼻</ArtificialMedNose.label>
+  <ArtificialMedNose.description>一只不具功能的人造鼻。看起来比你原本脸上那个洞还好，你终于不会吓到孩子们了。</ArtificialMedNose.description>
+
+
+  <!-- Artificial eye -->
+
+  <ArtificialMedEye.label>假眼</ArtificialMedEye.label>
+  <ArtificialMedEye.description>一颗不具功能的人造眼球。看起来比你原本脸上那个洞还好，你终于不会吓到孩子们了。</ArtificialMedEye.description>
+
+
+  <!-- Artificial ear -->
+
+  <ArtificialMedEar.label>假耳</ArtificialMedEar.label>
+  <ArtificialMedEar.description>一只不具功能的人造耳。看起来比你原本头上那个洞还好，你终于不会吓到孩子们了。</ArtificialMedEar.description>
+
+
+</LanguageData>

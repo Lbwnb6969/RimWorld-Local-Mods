@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_deityName->The Cube</li>
+    <li>r_deityName->The Tetragold</li>
+    <li>r_deityName->The Auric Sanctum</li>
+    <li>r_deityName->The Gilded Ascendancy</li>
+    <li>r_deityName->The Archonic Reliquary</li>
+    <li>r_deityName->The Golden Luminae Devotion</li>
+  -->
+  <AM_NamerDeityCubic.rulePack.rulesStrings>  
+    <li>r_deityName->魔方</li>
+    <li>r_deityName->无上金魔方</li>
+    <li>r_deityName->耀金魔方</li>
+    <li>r_deityName->超智立方</li>
+    <li>r_deityName->超凡圣物</li>
+    <li>r_deityName->金方神尊</li>
+  </AM_NamerDeityCubic.rulePack.rulesStrings>
+  
+</LanguageData>

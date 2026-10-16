@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Angelic Flight -->
+  <BEWH_AngelicFlight.label>飞行</BEWH_AngelicFlight.label>
+  <!-- EN: Gifted with wings, this pawn is capable of flight. -->
+  <BEWH_AngelicFlight.description>因为拥有翅膀，此人可以进行飞行。</BEWH_AngelicFlight.description>
+  <!-- EN: angelic flight -->
+  <BEWH_AngelicFlight.verbProperties.label>神圣飞行</BEWH_AngelicFlight.verbProperties.label>
+  
+  <!-- EN: Toggle Warp shield -->
+  <BEWH_WarpShield.label>开关心灵屏障</BEWH_WarpShield.label>
+  <!-- EN: Toggle warp shield on and off. This will affect the psychic sensitivity of this pawn. -->
+  <BEWH_WarpShield.description>控制心灵屏障的开启和关闭。这将影响此棋子的心灵敏感度。</BEWH_WarpShield.description>
+  
+</LanguageData>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: argali -->
+  <ERN_Argali.label>盘羊</ERN_Argali.label>
+  <!-- EN: argali ewe -->
+  <ERN_Argali.labelFemale>雌盘羊</ERN_Argali.labelFemale>
+  <!-- EN: argali ram -->
+  <ERN_Argali.labelMale>雄盘羊</ERN_Argali.labelMale>
+  <!-- EN: argali -->
+  <ERN_Argali.labelPlural>盘羊</ERN_Argali.labelPlural>
+  <!-- EN: argali lamb -->
+  <ERN_Argali.lifeStages.argali_lamb.label>盘羊羔</ERN_Argali.lifeStages.argali_lamb.label>
+  <!-- EN: argali lambs -->
+  <ERN_Argali.lifeStages.argali_lamb.labelPlural>盘羊羔</ERN_Argali.lifeStages.argali_lamb.labelPlural>
+  
+  <!-- EN: armadillo -->
+  <ERN_Armadillo.label>犰狳</ERN_Armadillo.label>
+  <!-- EN: armadillo pup -->
+  <ERN_Armadillo.lifeStages.armadillo_pup.label>幼年犰狳</ERN_Armadillo.lifeStages.armadillo_pup.label>
+  <!-- EN: armadillo pups -->
+  <ERN_Armadillo.lifeStages.armadillo_pup.labelPlural>幼年犰狳</ERN_Armadillo.lifeStages.armadillo_pup.labelPlural>
+  
+  <!-- EN: Ferret -->
+  <ERN_Ferret.label>雪貂</ERN_Ferret.label>
+  <!-- EN: Ferrets -->
+  <ERN_Ferret.labelPlural>雪貂</ERN_Ferret.labelPlural>
+  <!-- EN: Ferret kit -->
+  <ERN_Ferret.lifeStages.Ferret_kit.label>雪貂幼崽</ERN_Ferret.lifeStages.Ferret_kit.label>
+  <!-- EN: Ferret kits -->
+  <ERN_Ferret.lifeStages.Ferret_kit.labelPlural>雪貂幼崽</ERN_Ferret.lifeStages.Ferret_kit.labelPlural>
+  
+  <!-- EN: Garter Snake -->
+  <ERN_Gartersnake.label>束带蛇</ERN_Gartersnake.label>
+  <!-- EN: Garter Snakes -->
+  <ERN_Gartersnake.labelPlural>束带蛇</ERN_Gartersnake.labelPlural>
+  
+  <!-- EN: Grey fox -->
+  <ERN_Greyfox.label>灰狐</ERN_Greyfox.label>
+  <!-- EN: Grey foxes -->
+  <ERN_Greyfox.labelPlural>灰狐</ERN_Greyfox.labelPlural>
+  <!-- EN: Grey fox kit -->
+  <ERN_Greyfox.lifeStages.Grey_fox_kit.label>灰狐幼崽</ERN_Greyfox.lifeStages.Grey_fox_kit.label>
+  <!-- EN: Grey fox kits -->
+  <ERN_Greyfox.lifeStages.Grey_fox_kit.labelPlural>灰狐幼崽</ERN_Greyfox.lifeStages.Grey_fox_kit.labelPlural>
+  
+  <!-- EN: hedgehog -->
+  <ERN_Hedgehog.label>刺猬</ERN_Hedgehog.label>
+  <!-- EN: hoglet -->
+  <ERN_Hedgehog.lifeStages.hoglet.label>刺猬幼崽</ERN_Hedgehog.lifeStages.hoglet.label>
+  <!-- EN: hoglets -->
+  <ERN_Hedgehog.lifeStages.hoglet.labelPlural>刺猬幼崽</ERN_Hedgehog.lifeStages.hoglet.labelPlural>
+  
+  <!-- EN: Mink -->
+  <ERN_Mink.label>水貂</ERN_Mink.label>
+  <!-- EN: Minks -->
+  <ERN_Mink.labelPlural>水貂</ERN_Mink.labelPlural>
+  <!-- EN: Mink kit -->
+  <ERN_Mink.lifeStages.Mink_kit.label>水貂幼崽</ERN_Mink.lifeStages.Mink_kit.label>
+  <!-- EN: Mink kits -->
+  <ERN_Mink.lifeStages.Mink_kit.labelPlural>水貂幼崽</ERN_Mink.lifeStages.Mink_kit.labelPlural>
+  
+  <!-- EN: Opossum -->
+  <ERN_Opossum.label>负鼠</ERN_Opossum.label>
+  <!-- EN: Opossums -->
+  <ERN_Opossum.labelPlural>负鼠</ERN_Opossum.labelPlural>
+  <!-- EN: Opossum joey -->
+  <ERN_Opossum.lifeStages.Opossum_joey.label>负鼠幼崽</ERN_Opossum.lifeStages.Opossum_joey.label>
+  <!-- EN: Opossum joeys -->
+  <ERN_Opossum.lifeStages.Opossum_joey.labelPlural>负鼠幼崽</ERN_Opossum.lifeStages.Opossum_joey.labelPlural>
+  
+  <!-- EN: pallas' cat -->
+  <ERN_PallasCat.label>兔狲</ERN_PallasCat.label>
+  <!-- EN: pallas' cats -->
+  <ERN_PallasCat.labelPlural>兔狲</ERN_PallasCat.labelPlural>
+  <!-- EN: Pallas' kitten -->
+  <ERN_PallasCat.lifeStages.Pallas_kitten.label>兔狲幼崽</ERN_PallasCat.lifeStages.Pallas_kitten.label>
+  
+  <!-- EN: pika -->
+  <ERN_Pika.label>鼠兔</ERN_Pika.label>
+  
+  <!-- EN: Ptarmigan -->
+  <ERN_ptarmigan.label>雷鸟</ERN_ptarmigan.label>
+  <!-- EN: Ptarmigans -->
+  <ERN_ptarmigan.labelPlural>雷鸟</ERN_ptarmigan.labelPlural>
+  <!-- EN: chick -->
+  <ERN_ptarmigan.lifeStages.chick.label>雷鸟雏鸟</ERN_ptarmigan.lifeStages.chick.label>
+  <!-- EN: chicks -->
+  <ERN_ptarmigan.lifeStages.chick.labelPlural>雷鸟雏鸟</ERN_ptarmigan.lifeStages.chick.labelPlural>
+  
+  <!-- EN: Red panda -->
+  <ERN_Redpanda.label>小熊猫</ERN_Redpanda.label>
+  <!-- EN: Red pandas -->
+  <ERN_Redpanda.labelPlural>小熊猫</ERN_Redpanda.labelPlural>
+  <!-- EN: Red panda cub -->
+  <ERN_Redpanda.lifeStages.Red_panda_cub.label>小熊猫幼崽</ERN_Redpanda.lifeStages.Red_panda_cub.label>
+  <!-- EN: Red panda cubs -->
+  <ERN_Redpanda.lifeStages.Red_panda_cub.labelPlural>小熊猫幼崽</ERN_Redpanda.lifeStages.Red_panda_cub.labelPlural>
+  
+  <!-- EN: Snow leopard -->
+  <ERN_SnowLeopard.label>雪豹</ERN_SnowLeopard.label>
+  <!-- EN: Snow leopards -->
+  <ERN_SnowLeopard.labelPlural>雪豹</ERN_SnowLeopard.labelPlural>
+  <!-- EN: Snow leopard cub -->
+  <ERN_SnowLeopard.lifeStages.Snow_leopard_cub.label>雪豹幼崽</ERN_SnowLeopard.lifeStages.Snow_leopard_cub.label>
+  
+</LanguageData>

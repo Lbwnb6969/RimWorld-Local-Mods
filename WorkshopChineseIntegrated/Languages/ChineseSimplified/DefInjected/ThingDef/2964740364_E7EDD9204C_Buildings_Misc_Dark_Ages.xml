@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Graves -->
+
+  <DA_Coffin.label>简易棺材</DA_Coffin.label>
+  <DA_Coffin.description>一座廉价且易于建造的棺材。虽称不上是光荣的安息之所，但总比在土坑里腐朽要好得多。</DA_Coffin.description>
+
+  <DA_GrandSarcophagus.label>精致石棺</DA_GrandSarcophagus.label>
+  <DA_GrandSarcophagus.description>一座大型但精雕细琢的石棺，对勇者和圣贤来说是再适合不过的安息之地。据说，世界上最珍贵的财宝都随着它们的主人一起下葬了。</DA_GrandSarcophagus.description>
+
+
+  <!-- Statues -->
+
+  <DA_ImpStatue.label>次等恶魔雕像</DA_ImpStatue.label>
+  <DA_ImpStatue.description>一座蛰伏着的次等恶魔的雕塑。这种阴暗又冷酷的装饰品通常被放置本地下墓穴作为装饰，据说可以守护死者，驱赶鬼魂和幽灵。</DA_ImpStatue.description>
+
+  <DA_GargoyleStatue.label>石像鬼雕像</DA_GargoyleStatue.label>
+  <DA_GargoyleStatue.description>一座蛰伏着的石像鬼的雕塑。传说中，石像鬼是邪恶的象征，经常被描绘成具有蝙蝠翼的恶魔，能够喷火并乐于折磨不幸的人。现在它们则被视为守墓人，用以吓跑接近圣地的鬼魂。</DA_GargoyleStatue.description>
+
+  <DA_DemonStatue.label>恶魔雕像</DA_DemonStatue.label>
+  <DA_DemonStatue.description>一座蛰伏着的恶魔的大型雕塑。恶魔是一种从地狱被派来折磨恶棍和罪人的生物。虽然这仅仅是尊以恶魔为主题的雕像，但有些人认为真的恶灵就寄宿在其中。</DA_DemonStatue.description>
+
+
+  <DA_HeroicMemorial.label>英雄纪念碑</DA_HeroicMemorial.label>
+  <DA_HeroicMemorial.description>为荣耀英勇的牺牲者们而建立的纪念碑。无论是无名小卒或战争英雄，每一个献出自己生命的高贵灵魂都应当被记住。</DA_HeroicMemorial.description>
+
+
+  <!-- BurialUrns -->
+
+  <DA_BurialUrn.label>骨瓮</DA_BurialUrn.label>
+  <DA_BurialUrn.description>用于盛放死者遗骸的石瓮。在某些文化里—特别是那些相信火焰拥有净化之力的民族—人们会将焚烧献祭后的遗骸装于此容器内，以悼念死者。</DA_BurialUrn.description>
+
+  <!-- SepulchralStatue -->
+
+  <DA_SepulchralStatue.label>坟墓雕像</DA_SepulchralStatue.label>
+  <DA_SepulchralStatue.description>一座手持火盆的坟墓雕像，为圣地洒下光芒。会照亮周围并产生热量。</DA_SepulchralStatue.description>
+
+  <DA_BloodflameSepulchralStatue.label>血色坟墓雕像</DA_BloodflameSepulchralStatue.label>
+  <DA_BloodflameSepulchralStatue.description>一座手持血色火盆的坟墓雕像，为圣地洒下嫣红光芒。会照亮周围并产生热量。</DA_BloodflameSepulchralStatue.description>
+
+  <DA_DarkligtSepulchralStatue.label>暗光坟墓雕像</DA_DarkligtSepulchralStatue.label>
+  <DA_DarkligtSepulchralStatue.description>一座手持暗光火盆的坟墓雕像，为圣地洒下昏暗光芒。会照亮周围并产生热量。</DA_DarkligtSepulchralStatue.description>
+
+
+</LanguageData>

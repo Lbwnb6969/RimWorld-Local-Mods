@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Apply a castle-wall-only stone profile without changing global stuff properties. -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/StatDef[defName="MaxHitPoints"]/parts</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/StatDef[defName="MaxHitPoints"]/parts</xpath>
+      <value><li Class="Local.CastleWallsCompatibility.StatPart_CastleWallStoneDurability" /></value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/StatDef[defName="MaxHitPoints"]</xpath>
+      <value><parts><li Class="Local.CastleWallsCompatibility.StatPart_CastleWallStoneDurability" /></parts></value>
+    </nomatch>
+  </Operation>
+
+  <!-- Reborn and Expanded wall pieces: reduced material and construction costs. -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[(defName="JDS_WallsTwo" or defName="JDS_Walls" or defName="JDS_Walls_Embrasure" or defName="Castle_Walls_Corner_Embrasure" or defName="JDS_Walls_End" or defName="JDS_Walls_L_connector" or defName="JDS_Walls_T_connector" or defName="JDS_Wall_X_connector" or defName="JDS_Tower" or defName="JDS_Tower_connector" or defName="JDS_Tower_I_connector" or defName="JDS_Tower_T_connector" or defName="JDS_Tower_L_connector" or defName="JDS_Walls_Dia_connector" or defName="JDS_Walls_Dia_connector_Embrasure" or defName="JDS_Walls_Dia_corner" or defName="JDS_Walls_Dia_corner_Embrasure" or defName="JDS_Walls_T_connector_Embrasure" or defName="JDS_Wall_X_connector_Embrasure" or defName="JDS_Walls_End_Embrasure")]/statBases/MaxHitPoints</xpath>
+    <value><MaxHitPoints>1380</MaxHitPoints></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="JDS_WallsTwo_Embrasure"]/statBases/MaxHitPoints</xpath>
+    <value><MaxHitPoints>690</MaxHitPoints></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[(defName="JDS_WallsTwo" or defName="JDS_Walls" or defName="JDS_Walls_Embrasure" or defName="Castle_Walls_Corner_Embrasure" or defName="JDS_Walls_End" or defName="JDS_Walls_L_connector" or defName="JDS_Walls_T_connector" or defName="JDS_Wall_X_connector" or defName="JDS_Tower" or defName="JDS_Tower_connector" or defName="JDS_Tower_I_connector" or defName="JDS_Tower_T_connector" or defName="JDS_Tower_L_connector" or defName="JDS_Walls_Dia_connector" or defName="JDS_Walls_Dia_connector_Embrasure" or defName="JDS_Walls_Dia_corner" or defName="JDS_Walls_Dia_corner_Embrasure" or defName="JDS_Walls_T_connector_Embrasure" or defName="JDS_Wall_X_connector_Embrasure" or defName="JDS_Walls_End_Embrasure")]/statBases/WorkToBuild</xpath>
+    <value><WorkToBuild>2400</WorkToBuild></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="JDS_WallsTwo_Embrasure"]/statBases/WorkToBuild</xpath>
+    <value><WorkToBuild>1200</WorkToBuild></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[(defName="JDS_WallsTwo" or defName="JDS_WallsTwo_Embrasure")]/costStuffCount</xpath>
+    <value><costStuffCount>40</costStuffCount></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[(defName="JDS_Walls_End" or defName="JDS_Walls_End_Embrasure")]/costStuffCount</xpath>
+    <value><costStuffCount>60</costStuffCount></value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[(defName="JDS_Walls" or defName="JDS_Walls_Embrasure" or defName="Castle_Walls_Corner_Embrasure" or defName="JDS_Walls_L_connector" or defName="JDS_Walls_T_connector" or defName="JDS_Wall_X_connector" or defName="JDS_Tower" or defName="JDS_Tower_connector" or defName="JDS_Tower_I_connector" or defName="JDS_Tower_T_connector" or defName="JDS_Tower_L_connector" or defName="JDS_Walls_Dia_connector" or defName="JDS_Walls_Dia_connector_Embrasure" or defName="JDS_Walls_Dia_corner" or defName="JDS_Walls_Dia_corner_Embrasure" or defName="JDS_Walls_T_connector_Embrasure" or defName="JDS_Wall_X_connector_Embrasure") and not(costStuffCount)]</xpath>
+    <value><costStuffCount>80</costStuffCount></value>
+  </Operation>
+</Patch>

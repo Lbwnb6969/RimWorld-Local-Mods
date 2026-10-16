@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravship panorama hull -->
+  <RB_GravshipPanoramaHull.label>逆重飞船全景舱壁</RB_GravshipPanoramaHull.label>
+  <!-- EN: A strong airtight wall that prevents oxygen leaks in the vacuum of space. The wall connects directly into the underlying substructure, meaning it can only be built on a gravship. -->
+  <RB_GravshipPanoramaHull.description>一面坚固的密封舱壁，可防止氧气在真空中泄漏。舱壁无缝嵌入基架，故仅能构建于逆重飞船上。</RB_GravshipPanoramaHull.description>
+  
+  <!-- EN: gravship glasshull -->
+  <RB_GravshipWindowHull.label>逆重飞船玻璃舱壁</RB_GravshipWindowHull.label>
+  <!-- EN: A strong airtight wall that prevents oxygen leaks in the vacuum of space. The wall connects directly into the underlying substructure, meaning it can only be built on a gravship. -->
+  <RB_GravshipWindowHull.description>一面坚固的密封舱壁，可防止氧气在真空中泄漏。舱壁无缝嵌入基架，故仅能构建于逆重飞船上。</RB_GravshipWindowHull.description>
+  
+  <!-- EN: gravship hull -->
+  <RB_SmoothGravshipHull.label>逆重飞船舱壁</RB_SmoothGravshipHull.label>
+  <!-- EN: A weaker airtight wall that prevents oxygen leaks in the vacuum of space. The wall connects directly into the underlying substructure, meaning it can only be built on a gravship. -->
+  <RB_SmoothGravshipHull.description>一面不太坚固的密封舱壁，可防止氧气在真空中泄漏。舱壁无缝嵌入基架，故仅能构建于逆重飞船上。</RB_SmoothGravshipHull.description>
+  
+</LanguageData>

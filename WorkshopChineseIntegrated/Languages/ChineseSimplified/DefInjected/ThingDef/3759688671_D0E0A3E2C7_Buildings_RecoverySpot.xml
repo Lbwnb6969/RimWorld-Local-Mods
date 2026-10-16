@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aire de récupération -->
+  <RimJoust_RecoverySpot.label>恢复区</RimJoust_RecoverySpot.label>
+  <!-- EN: Où les écuyers emmènent les chevaliers désarçonnés pour qu'ils se remettent loin de la lice. Pose des lits autour, des lits médicaux c'est mieux, et l'écuyer ira y allonger le chevalier tombé pour qu'on le soigne. S'il n'y a pas de lit dans le coin, il le laisse au sol à côté du marqueur. -->
+  <RimJoust_RecoverySpot.description>侍从将落马的骑士带到这里，让他们远离赛道进行恢复。在周围放置床铺，最好是医疗床，侍从会将落马的骑士抬到床上接受治疗。如果附近没有床，他们会把骑士放在标记旁边的地上。</RimJoust_RecoverySpot.description>
+  
+</LanguageData>

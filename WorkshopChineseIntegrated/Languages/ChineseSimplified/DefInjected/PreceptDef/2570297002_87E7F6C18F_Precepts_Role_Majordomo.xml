@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: majordomo -->
+  <VME_IdeoRole_Majordomo.label>管家</VME_IdeoRole_Majordomo.label>
+  <!-- EN: A management specialist, Majordomo is the steward of nobility and overseer of estates. They wield authority to organize, manage, and ensure the seamless operation of every aspect of aristocratic life, but are unable to hold titles themselves. They possess an ability to inspire everyone around them to go an extra mile, at the cost of greatly lowering their recreation.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Gains recreation from any work. -->
+  <VME_IdeoRole_Majordomo.description>一位精通规划管理的专业人士。管家是服侍贵族之人，需要将主人的生活和领地打理的井井有条。管家无法获得荣誉头衔，但他可以提供工作技术指导，提高附近所有人的全局工作速度。作为代价，所有受影响者的娱乐值会下降的更快。此外，管家执行任何类型的工作时都能提高自身的娱乐值。</VME_IdeoRole_Majordomo.description>
+  
+</LanguageData>

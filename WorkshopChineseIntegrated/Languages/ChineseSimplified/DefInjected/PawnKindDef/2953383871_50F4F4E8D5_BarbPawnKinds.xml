@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- [Basic, Thrall] -->
+
+  <pphhyy_Barbarian_Thrall.label>奴隶</pphhyy_Barbarian_Thrall.label>
+  <pphhyy_Barbarian_Thrall.labelPlural>奴隶</pphhyy_Barbarian_Thrall.labelPlural>
+
+
+  <!-- [Basic, Marauder Shield] -->
+
+  <pphhyy_Barbarian_MarauderShield.label>劫掠者</pphhyy_Barbarian_MarauderShield.label>
+  <pphhyy_Barbarian_MarauderShield.labelPlural>劫掠者</pphhyy_Barbarian_MarauderShield.labelPlural>
+
+  <pphhyy_Barbarian_Marauder.label>劫掠者</pphhyy_Barbarian_Marauder.label>
+  <pphhyy_Barbarian_Marauder.labelPlural>劫掠者</pphhyy_Barbarian_Marauder.labelPlural>
+
+
+  <!-- [Advanced, Warrior] -->
+
+  <pphhyy_Barbarian_WarriorShield.label>蛮战士</pphhyy_Barbarian_WarriorShield.label>
+  <pphhyy_Barbarian_WarriorShield.labelPlural>蛮战士</pphhyy_Barbarian_WarriorShield.labelPlural>
+
+  <pphhyy_Barbarian_Warrior.label>蛮战士</pphhyy_Barbarian_Warrior.label>
+  <pphhyy_Barbarian_Warrior.labelPlural>蛮战士</pphhyy_Barbarian_Warrior.labelPlural>
+
+
+  <!-- [Chosen] -->
+
+  <pphhyy_Barbarian_ChosenShield.label>天选者</pphhyy_Barbarian_ChosenShield.label>
+  <pphhyy_Barbarian_ChosenShield.labelPlural>天选者</pphhyy_Barbarian_ChosenShield.labelPlural>
+
+  <pphhyy_Barbarian_Chosen.label>天选者</pphhyy_Barbarian_Chosen.label>
+  <pphhyy_Barbarian_Chosen.labelPlural>天选者</pphhyy_Barbarian_Chosen.labelPlural>
+
+
+  <!-- [Barbarian Warlord] -->
+
+  <pphhyy_Barbarian_WarlordFactionLeader.label>督军</pphhyy_Barbarian_WarlordFactionLeader.label>
+  <pphhyy_Barbarian_WarlordFactionLeader.labelPlural>督军</pphhyy_Barbarian_WarlordFactionLeader.labelPlural>
+
+
+</LanguageData>

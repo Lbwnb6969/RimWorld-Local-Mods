@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef Name="Local_RimDarkMastersResearchBase" ParentName="BEWH_ImperiumResearchBase" Abstract="true" />
+
+  <ResearchProjectDef ParentName="Local_RimDarkMastersResearchBase">
+    <defName>GW_Rulers_MasterForge</defName>
+    <label>Vulkan's autoforge</label>
+    <description>Design an autoforge worthy of Vulkan, the Primarch of the Salamanders.</description>
+    <prerequisites>
+      <li>BEWH_AstartesWeapons</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>2</researchViewY>
+    <baseCost>8000</baseCost>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef ParentName="Local_RimDarkMastersResearchBase">
+    <defName>GW_Rulers_OneTrueArmor</defName>
+    <label>One True Armor</label>
+    <description>Replicate the arms and armor of the Emperor of Mankind Himself.</description>
+    <prerequisites>
+      <li>GW_Rulers_MasterForge</li>
+      <li>BEWH_PrimarchProject</li>
+    </prerequisites>
+    <researchViewX>7</researchViewX>
+    <researchViewY>1</researchViewY>
+    <baseCost>9000</baseCost>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef ParentName="Local_RimDarkMastersResearchBase">
+    <defName>GW_Rulers_FirstCaptainr</defName>
+    <label>The Chief Custodian</label>
+    <description>Replicate the wargear of Constantine Valdor, the First of the Ten Thousand.</description>
+    <prerequisites>
+      <li>GW_Rulers_MasterForge</li>
+      <li>BEWH_CustodesCreation</li>
+    </prerequisites>
+    <researchViewX>7</researchViewX>
+    <researchViewY>2</researchViewY>
+    <baseCost>8000</baseCost>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef ParentName="Local_RimDarkMastersResearchBase">
+    <defName>GW_Rulers_EmperorRightHand</defName>
+    <label>The Sigillite</label>
+    <description>Replicate the regalia of Malcador the Sigillite, the Emperor's right hand.</description>
+    <prerequisites>
+      <li>GW_Rulers_MasterForge</li>
+    </prerequisites>
+    <researchViewX>7</researchViewX>
+    <researchViewY>3</researchViewY>
+    <baseCost>8000</baseCost>
+  </ResearchProjectDef>
+</Defs>

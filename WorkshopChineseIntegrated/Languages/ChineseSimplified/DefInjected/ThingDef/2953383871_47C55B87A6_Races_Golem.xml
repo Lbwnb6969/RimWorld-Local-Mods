@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Iron Golem -->
+
+  <DankPyon_Golem_Iron.label>魔像(铁)</DankPyon_Golem_Iron.label>
+  <DankPyon_Golem_Iron.description>用铁制作而成的巨大魔像。</DankPyon_Golem_Iron.description>
+  <DankPyon_Golem_Iron.tools.0.label>左手</DankPyon_Golem_Iron.tools.0.label>
+  <DankPyon_Golem_Iron.tools.1.label>右手</DankPyon_Golem_Iron.tools.1.label>
+  <DankPyon_Golem_Iron.tools.2.label>头</DankPyon_Golem_Iron.tools.2.label>
+
+  <!-- Gold Golem -->
+
+  <DankPyon_Golem_Gold.label>魔像(金)</DankPyon_Golem_Gold.label>
+  <DankPyon_Golem_Gold.description>用黄金制作而成的巨大魔像。</DankPyon_Golem_Gold.description>
+  <DankPyon_Golem_Gold.tools.left_hand-0.label>左手</DankPyon_Golem_Gold.tools.left_hand-0.label>
+  <DankPyon_Golem_Gold.tools.right_hand-0.label>右手</DankPyon_Golem_Gold.tools.right_hand-0.label>
+  <DankPyon_Golem_Gold.tools.head-0.label>头</DankPyon_Golem_Gold.tools.head-0.label>
+  <DankPyon_Golem_Gold.tools.left_hand-1.label>左手</DankPyon_Golem_Gold.tools.left_hand-1.label>
+  <DankPyon_Golem_Gold.tools.right_hand-1.label>右手</DankPyon_Golem_Gold.tools.right_hand-1.label>
+  <DankPyon_Golem_Gold.tools.head-1.label>头</DankPyon_Golem_Gold.tools.head-1.label>
+
+  <!-- Steel Golem -->
+
+  <DankPyon_Golem_Steel.label>魔像(钢)</DankPyon_Golem_Steel.label>
+  <DankPyon_Golem_Steel.description>用钢制作而成的巨大魔像。</DankPyon_Golem_Steel.description>
+  <DankPyon_Golem_Steel.tools.left_hand-0.label>左手</DankPyon_Golem_Steel.tools.left_hand-0.label>
+  <DankPyon_Golem_Steel.tools.right_hand-0.label>右手</DankPyon_Golem_Steel.tools.right_hand-0.label>
+  <DankPyon_Golem_Steel.tools.head-0.label>头</DankPyon_Golem_Steel.tools.head-0.label>
+  <DankPyon_Golem_Steel.tools.left_hand-1.label>左手</DankPyon_Golem_Steel.tools.left_hand-1.label>
+  <DankPyon_Golem_Steel.tools.right_hand-1.label>右手</DankPyon_Golem_Steel.tools.right_hand-1.label>
+  <DankPyon_Golem_Steel.tools.head-1.label>头</DankPyon_Golem_Steel.tools.head-1.label>
+
+  <!-- Silver Golem -->
+
+  <DankPyon_Golem_Silver.label>魔像(银)</DankPyon_Golem_Silver.label>
+  <DankPyon_Golem_Silver.description>用白银制作而成的巨大魔像。</DankPyon_Golem_Silver.description>
+  <DankPyon_Golem_Silver.tools.left_hand-0.label>左手</DankPyon_Golem_Silver.tools.left_hand-0.label>
+  <DankPyon_Golem_Silver.tools.right_hand-0.label>右手</DankPyon_Golem_Silver.tools.right_hand-0.label>
+  <DankPyon_Golem_Silver.tools.head-0.label>头</DankPyon_Golem_Silver.tools.head-0.label>
+  <DankPyon_Golem_Silver.tools.left_hand-1.label>左手</DankPyon_Golem_Silver.tools.left_hand-1.label>
+  <DankPyon_Golem_Silver.tools.right_hand-1.label>右手</DankPyon_Golem_Silver.tools.right_hand-1.label>
+  <DankPyon_Golem_Silver.tools.head-1.label>头</DankPyon_Golem_Silver.tools.head-1.label>
+
+</LanguageData>

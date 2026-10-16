@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: elder -->
+  <VME_Elders_Despised.stages.elder.label>长者</VME_Elders_Despised.stages.elder.label>
+  <!-- EN: youth -->
+  <VME_Elders_Despised.stages.youth.label>年轻人</VME_Elders_Despised.stages.youth.label>
+  
+  <!-- EN: elder -->
+  <VME_Elders_Holy.stages.elder.label>长者</VME_Elders_Holy.stages.elder.label>
+  
+  <!-- EN: elder -->
+  <VME_Elders_Respected.stages.elder.label>长者</VME_Elders_Respected.stages.elder.label>
+  
+</LanguageData>

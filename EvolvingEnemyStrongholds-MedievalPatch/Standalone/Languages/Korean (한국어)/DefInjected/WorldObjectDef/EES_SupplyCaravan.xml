@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_SupplyCaravan.label>보급 상단</EES_SupplyCaravan.label>
+  <EES_SupplyCaravan.description>인근 거점으로 화물을 나르는 보급 상단입니다. 도착 전에 요격하면 화물을 노획하고 목적지 거점의 방어를 일시적으로 약화시킵니다.</EES_SupplyCaravan.description>
+  <EES_SupplyEncounter.label>보급 상단 조우</EES_SupplyEncounter.label>
+  <EES_SupplyEncounter.description>보급 상단과 조우한 지역입니다.</EES_SupplyEncounter.description>
+  <EES_RebuildConvoy.label>재건 호송대</EES_RebuildConvoy.label>
+  <EES_RebuildConvoy.description>파괴된 거점을 재건하기 위해 인부와 자재를 나르는 호송대입니다. 도착 전에 요격해 격파하면 재건이 영구히 취소됩니다.</EES_RebuildConvoy.description>
+</LanguageData>

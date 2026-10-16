@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_BloodwineBarrel.label>酿血酒桶</DV_BloodwineBarrel.label>
+    <DV_BloodwineBarrel.description>一种用于储水的可改装成气密性的用于短期发酵的廉价容器。</DV_BloodwineBarrel.description>
+
+    <DV_GoreMust.label>鲜血原浆</DV_GoreMust.label>
+    <DV_GoreMust.description>一种由生动物肉和浆果混合而成的浓稠淀粉泥，可随时发酵。</DV_GoreMust.description>
+
+    <DV_Gorewine.label>鲜血纯酿</DV_Gorewine.label>
+    <DV_Gorewine.description>鲜血纯酿是一种奇特的饮料，最初由怯薛战士酿造。鲜血纯酿的特点是甜中带铁，有明显的酒精味，即使只是闻一闻也会让人昏昏欲睡。这种饮料是用动物血和浆果汁发酵酿造的，是怯薛文化的主食，经常被带上战舰参加庆功宴。过量饮用会导致酒精中毒，久而久之还会上瘾。</DV_Gorewine.description>
+    <DV_Gorewine.tools.0.label>瓶子</DV_Gorewine.tools.0.label>
+    <DV_Gorewine.tools.1.label>脖子</DV_Gorewine.tools.1.label>
+
+    <DV_MeleeWeapon_SerratedScimitar.label>锯齿弯刀</DV_MeleeWeapon_SerratedScimitar.label>
+    <DV_MeleeWeapon_SerratedScimitar.description>一种由怯薛设计的常见单手刀。由于刀刃呈锯齿状，在许多世界都被禁止使用，它挥舞迅速并能造成非常可怕的割伤和撕裂伤。</DV_MeleeWeapon_SerratedScimitar.description>
+    <DV_MeleeWeapon_SerratedScimitar.tools.0.label>刀把</DV_MeleeWeapon_SerratedScimitar.tools.0.label>
+    <DV_MeleeWeapon_SerratedScimitar.tools.1.label>刀尖</DV_MeleeWeapon_SerratedScimitar.tools.1.label>
+    <DV_MeleeWeapon_SerratedScimitar.tools.2.label>刀刃</DV_MeleeWeapon_SerratedScimitar.tools.2.label>
+    <DV_MeleeWeapon_CeremonialBlade.label>仪式之刃</DV_MeleeWeapon_CeremonialBlade.label>
+    <DV_MeleeWeapon_CeremonialBlade.description>一把传统的锯齿礼仪剑，由怯薛家族中最熟练和最有权势的人使用。它不寻常的形状和尺寸使没有经验的使用者很难使用它，但它能造成痛苦的撕伤和伤痕。</DV_MeleeWeapon_CeremonialBlade.description>
+    <DV_MeleeWeapon_CeremonialBlade.tools.0.label>刀把</DV_MeleeWeapon_CeremonialBlade.tools.0.label>
+    <DV_MeleeWeapon_CeremonialBlade.tools.1.label>刀尖</DV_MeleeWeapon_CeremonialBlade.tools.1.label>
+    <DV_MeleeWeapon_CeremonialBlade.tools.2.label>刀刃</DV_MeleeWeapon_CeremonialBlade.tools.2.label>
+</LanguageData>

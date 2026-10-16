@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- pphhyy_Demigryph_untameable -->
+  <!-- A powerful and noble creature the Demigryph was rumored to be made by empire nobles with too much money and time on their hands. Eagle and Lion mixed into a rimworlds deadliest predator, Empire and medieval noble seek them as mounts or trophies while the tribals worship or live in fear of them. This breed of Demigryph lives in prides, hunting as a pack and are the most numerous of the demi breeds. -->
+  <pphhyy_Demigryph_untameable.label>半狮鹫</pphhyy_Demigryph_untameable.label>
+  <pphhyy_Demigryph_untameable.description>一种强大而高贵的生物，半狮鹫据传是由帝国的贵族们投入大量的时间和金钱培养出来的。透过老鹰与狮子杂交产生出这种边缘世界致命程度数一数二的掠食者，帝国和贵族都争相想要获得牠们以作为坐骑或战利品；而部落民有一部分生活在对牠们的恐惧中，有一部分则当作信仰来崇拜。这个品种的半狮鹫是群居动物，会集体狩猎，是半狮鹫中数量最多的品种。</pphhyy_Demigryph_untameable.description>
+  <pphhyy_Demigryph_untameable.tools.0.label>左爪</pphhyy_Demigryph_untameable.tools.0.label>
+  <pphhyy_Demigryph_untameable.tools.1.label>右爪</pphhyy_Demigryph_untameable.tools.1.label>
+  <pphhyy_Demigryph_untameable.tools.2.label>喙</pphhyy_Demigryph_untameable.tools.2.label>
+  <pphhyy_Demigryph_untameable.tools.3.label>头</pphhyy_Demigryph_untameable.tools.3.label>
+  <pphhyy_Demigryph_untameable.race.meatLabel>半狮鹫肉</pphhyy_Demigryph_untameable.race.meatLabel>
+  <EEG_Demigryph_armored.label>半狮鹫</EEG_Demigryph_armored.label>
+  <EEG_Demigryph_armored.description>一种强大而高贵的生物，半狮鹫据传是由帝国的贵族们投入大量的时间和金钱培养出来的。透过老鹰与狮子杂交产生出这种边缘世界致命程度数一数二的掠食者，帝国和贵族都争相想要获得牠们以作为坐骑或战利品；而部落民有一部分生活在对牠们的恐惧中，有一部分则当作信仰来崇拜。这个品种的半狮鹫是群居动物，会集体狩猎，是半狮鹫中数量最多的品种。</EEG_Demigryph_armored.description>
+  <EEG_Demigryph_armored.tools.0.label>左爪</EEG_Demigryph_armored.tools.0.label>
+  <EEG_Demigryph_armored.tools.1.label>右爪</EEG_Demigryph_armored.tools.1.label>
+  <EEG_Demigryph_armored.tools.2.label>喙</EEG_Demigryph_armored.tools.2.label>
+  <EEG_Demigryph_armored.tools.3.label>头</EEG_Demigryph_armored.tools.3.label>
+  <EEG_Demigryph_armored.race.meatLabel>半狮鹫肉</EEG_Demigryph_armored.race.meatLabel>
+  <pphhyy_Demigryph_untameable.labelPlural>半狮鹫</pphhyy_Demigryph_untameable.labelPlural>
+  <pphhyy_Demigryph_untameable.lifeStages.0.label>半狮鹫幼崽</pphhyy_Demigryph_untameable.lifeStages.0.label>
+  <pphhyy_Demigryph_untameable.lifeStages.0.labelPlural>半狮鹫幼崽</pphhyy_Demigryph_untameable.lifeStages.0.labelPlural>
+  <pphhyy_Demigryph_untameable.lifeStages.0.labelMale>公半狮鹫幼崽</pphhyy_Demigryph_untameable.lifeStages.0.labelMale>
+  <pphhyy_Demigryph_untameable.lifeStages.0.labelMalePlural>公半狮鹫幼崽</pphhyy_Demigryph_untameable.lifeStages.0.labelMalePlural>
+  <pphhyy_Demigryph_untameable.lifeStages.0.labelFemale>母半狮鹫幼崽</pphhyy_Demigryph_untameable.lifeStages.0.labelFemale>
+  <pphhyy_Demigryph_untameable.lifeStages.0.labelFemalePlural>母半狮鹫幼崽</pphhyy_Demigryph_untameable.lifeStages.0.labelFemalePlural>
+  <pphhyy_Demigryph_untameable.lifeStages.1.label>半狮鹫</pphhyy_Demigryph_untameable.lifeStages.1.label>
+  <pphhyy_Demigryph_untameable.lifeStages.1.labelPlural>半狮鹫</pphhyy_Demigryph_untameable.lifeStages.1.labelPlural>
+  <pphhyy_Demigryph_untameable.lifeStages.1.labelMale>半狮鹫</pphhyy_Demigryph_untameable.lifeStages.1.labelMale>
+  <pphhyy_Demigryph_untameable.lifeStages.1.labelMalePlural>公半狮鹫</pphhyy_Demigryph_untameable.lifeStages.1.labelMalePlural>
+  <pphhyy_Demigryph_untameable.lifeStages.1.labelFemale>半狮鹫</pphhyy_Demigryph_untameable.lifeStages.1.labelFemale>
+  <pphhyy_Demigryph_untameable.lifeStages.1.labelFemalePlural>母半狮鹫</pphhyy_Demigryph_untameable.lifeStages.1.labelFemalePlural>
+  <pphhyy_Demigryph_untameable.lifeStages.2.label>半狮鹫</pphhyy_Demigryph_untameable.lifeStages.2.label>
+  <pphhyy_Demigryph_untameable.lifeStages.2.labelPlural>半狮鹫</pphhyy_Demigryph_untameable.lifeStages.2.labelPlural>
+  <pphhyy_Demigryph_untameable.lifeStages.2.labelMale>半狮鹫</pphhyy_Demigryph_untameable.lifeStages.2.labelMale>
+  <pphhyy_Demigryph_untameable.lifeStages.2.labelMalePlural>公半狮鹫</pphhyy_Demigryph_untameable.lifeStages.2.labelMalePlural>
+  <pphhyy_Demigryph_untameable.lifeStages.2.labelFemale>半狮鹫</pphhyy_Demigryph_untameable.lifeStages.2.labelFemale>
+  <pphhyy_Demigryph_untameable.lifeStages.2.labelFemalePlural>母半狮鹫</pphhyy_Demigryph_untameable.lifeStages.2.labelFemalePlural>
+  <pphhyy_Demigryph_untameable.labelMale>半狮鹫</pphhyy_Demigryph_untameable.labelMale>
+  <pphhyy_Demigryph_untameable.labelMalePlural>半狮鹫</pphhyy_Demigryph_untameable.labelMalePlural>
+  <pphhyy_Demigryph_untameable.labelFemale>半狮鹫</pphhyy_Demigryph_untameable.labelFemale>
+  <pphhyy_Demigryph_untameable.labelFemalePlural>半狮鹫</pphhyy_Demigryph_untameable.labelFemalePlural>
+</LanguageData>

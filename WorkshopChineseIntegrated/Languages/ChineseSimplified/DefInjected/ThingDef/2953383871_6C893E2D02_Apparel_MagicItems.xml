@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Ring_Holding.label>次元之戒</DankPyon_Ring_Holding.label>
+  <DankPyon_Ring_Holding.description>对于商人和需要远行的战士来说，这枚戒指是一件宝物，可以为那些长期的战役和贸易商队提供更大的负载能力。</DankPyon_Ring_Holding.description>
+
+  <DankPyon_Ring_Haste.label>急速之戒</DankPyon_Ring_Haste.label>
+  <DankPyon_Ring_Haste.description>一枚赋予佩戴者额外移动速度的魔法戒指——非常适合那些希望快速旅行和逃离危险的探险家。</DankPyon_Ring_Haste.description>
+
+  <DankPyon_Ring_Tending.label>照护之戒</DankPyon_Ring_Tending.label>
+  <DankPyon_Ring_Tending.description>一名治疗者的基本配备，只要戴上这枚戒指，双手就会被赋予更好的照护质量，同时也增加了佩戴者的活力。</DankPyon_Ring_Tending.description>
+
+  <DankPyon_Ring_Research.label>研究之戒</DankPyon_Ring_Research.label>
+  <DankPyon_Ring_Research.description>毅力和智慧能够为世界带来奇迹。这枚戒指将给予佩戴者启蒙，他的思想将开悟至对世人来说—与其称之为独创性、不如以疯狂来形容—的程度。</DankPyon_Ring_Research.description>
+
+  <DankPyon_Ring_StunImmunity.label>屹立之戒</DankPyon_Ring_StunImmunity.label>
+  <DankPyon_Ring_StunImmunity.description>强大的戒指，能赋予配戴者完全免疫击晕效果的能力，确保在战斗或危急情况下不中断移动和行动。</DankPyon_Ring_StunImmunity.description>
+
+</LanguageData>

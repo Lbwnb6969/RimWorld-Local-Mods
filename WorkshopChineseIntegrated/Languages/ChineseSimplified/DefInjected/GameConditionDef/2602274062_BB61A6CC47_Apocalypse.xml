@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Encroaching Apocalypse -->
+  <CAGameCondition_Apocalypse.label>末日迫近</CAGameCondition_Apocalypse.label>
+  <!-- EN: Unknown mechanoid technology is generating an encroaching apocalypse causing the planet's temperature to keep dropping until every living being dies. The cause of this condition shouldn't be ignored too long.\n\nCurrent temperature adjustment: {0} -->
+  <CAGameCondition_Apocalypse.description>不明的机械体科技正使星球逐渐走向毁灭。全球温度将会持续下降，直至万物生灵都因严寒消亡殆尽。我们必须尽快查明造成这种状况的原因。\n\n当前温度调整：{0}</CAGameCondition_Apocalypse.description>
+  <!-- EN: Unknown mechanoid technology is generating an encroaching apocalypse causing the planet's temperature to keep dropping until every living being dies. The cause of this condition needs to be found quickly. -->
+  <CAGameCondition_Apocalypse.descriptionFuture>不明的机械体科技正使星球逐渐走向毁灭。全球温度将会持续下降，直至万物生灵都因严寒消亡殆尽。我们必须尽快查明造成这种状况的原因。</CAGameCondition_Apocalypse.descriptionFuture>
+  <!-- EN: The apocalypse has been stopped. -->
+  <CAGameCondition_Apocalypse.endMessage>末日被成功阻止了。</CAGameCondition_Apocalypse.endMessage>
+  <!-- EN: Unknown mechanoid technology is generating an encroaching apocalypse causing the planet's temperature to keep dropping until every living being dies. The cause of this condition needs to be found quickly. -->
+  <CAGameCondition_Apocalypse.letterText>不明的机械体科技正使星球逐渐走向毁灭。全球温度将会持续下降，直至万物生灵都因严寒消亡殆尽。我们必须尽快查明造成这种状况的原因。</CAGameCondition_Apocalypse.letterText>
+  
+</LanguageData>

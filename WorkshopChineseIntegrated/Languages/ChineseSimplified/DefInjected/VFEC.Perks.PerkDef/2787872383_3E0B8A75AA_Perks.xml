@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Acta Non Verba -->
+  <ActaNonVerba.label>行胜于言</ActaNonVerba.label>
+  <!-- EN: Global work speed increased by 5%. -->
+  <ActaNonVerba.description>全局工作速度增加10%。</ActaNonVerba.description>
+  
+  <!-- EN: Alea Iacta Est -->
+  <AleaIactaEst.label>箭已离弦</AleaIactaEst.label>
+  <!-- EN: Pain threshold increased by 10%. -->
+  <AleaIactaEst.description>疼痛休克阈值增加10%。</AleaIactaEst.description>
+  
+  <!-- EN: Amor Vincit Omnia -->
+  <AmorVincitOmnia.label>真爱无敌</AmorVincitOmnia.label>
+  <!-- EN: Opinion of husband and wife is always locked at 100 and can never go down. -->
+  <AmorVincitOmnia.description>夫妻之间的关系被锁死在100。</AmorVincitOmnia.description>
+  
+  <!-- EN: Ars Longa, Vita Brevis -->
+  <ArsLongaVitaBrevis.label>艺海无涯，人生苦短</ArsLongaVitaBrevis.label>
+  <!-- EN: Beauty of all sculptures and art pieces is multiplied by x1.25. -->
+  <ArsLongaVitaBrevis.description>所有雕塑和艺术作品的美观度x1.25。</ArsLongaVitaBrevis.description>
+  
+  <!-- EN: Auxilia -->
+  <Auxilia.label>备有援手</Auxilia.label>
+  <!-- EN: Every time a raid occurs, there is a 25% chance a reinforcement legion will show up to help. After that, the reinforcement legion leaves the map. -->
+  <Auxilia.description>每当受到袭击时，有25%的几率会有后备军团的援军。在战斗结束后援军会离开地图。</Auxilia.description>
+  
+  <!-- EN: Carpe Diem -->
+  <CarpeDiem.label>及时行乐</CarpeDiem.label>
+  <!-- EN: Everyone gets +3 Mood buff -->
+  <CarpeDiem.description>所有人心情+3。</CarpeDiem.description>
+  
+  <!-- EN: Exitus Acta Probat -->
+  <ExitusActaProbat.label>唯果是问</ExitusActaProbat.label>
+  <!-- EN: All negative mood thoughts last 10% shorter. -->
+  <ExitusActaProbat.description>所有负面心情效果的持续时间减少10%。</ExitusActaProbat.description>
+  
+  <!-- EN: Mens Sana In Corpore Sano -->
+  <MensSanaInCorporeSano.label>健体强心</MensSanaInCorporeSano.label>
+  <!-- EN: Global work speed increased by 10% if in positive mood. -->
+  <MensSanaInCorporeSano.description>当有正面心情时，全局工作速度增加10%。</MensSanaInCorporeSano.description>
+  
+  <!-- EN: Natura Non Constristatur -->
+  <NaturaNonConstristatur.label>天地不仁</NaturaNonConstristatur.label>
+  <!-- EN: Thoughts on Environment (Hot and Cold) are halved (instead of -8, for example, it's -4). -->
+  <NaturaNonConstristatur.description>环境造成的负面心情（过热或过冷）减半。</NaturaNonConstristatur.description>
+  
+  <!-- EN: Nil Desperandum -->
+  <NilDesperandum.label>决不丧志</NilDesperandum.label>
+  <!-- EN: Mental break threshold decreased by 10%. -->
+  <NilDesperandum.description>崩溃临界值减少10%。</NilDesperandum.description>
+  
+  <!-- EN: Non Omnia Possumus Omnes -->
+  <NonOmniaPossumusOmnes.label>学无止境</NonOmniaPossumusOmnes.label>
+  <!-- EN: Global skill learning speed increased by 5%. -->
+  <NonOmniaPossumusOmnes.description>全局学习效率增加5%。</NonOmniaPossumusOmnes.description>
+  
+  <!-- EN: Nos Morituri Te Salutant -->
+  <NosMorituriTeSalutant.label>师出之日，有死而荣</NosMorituriTeSalutant.label>
+  <!-- EN: Mood thoughts for losing colonists, family members etc are halved. -->
+  <NosMorituriTeSalutant.description>殖民者和亲人死亡造成的负面心情减半。</NosMorituriTeSalutant.description>
+  
+  <!-- EN: Panem Et Circenses -->
+  <PanemEtCircenses.label>有酒有戏</PanemEtCircenses.label>
+  <!-- EN: All positive mood thoughts last 20% longer. -->
+  <PanemEtCircenses.description>所有正面心情效果的持续时间增加20%。</PanemEtCircenses.description>
+  
+  <!-- EN: Pecunia Nervus Belli -->
+  <PecuniaNervusBelli.label>钱为兵胆</PecuniaNervusBelli.label>
+  <!-- EN: Weapons of any kind receive 5% price improvement. -->
+  <PecuniaNervusBelli.description>所有武器的价格改善增加5%。</PecuniaNervusBelli.description>
+  
+  <!-- EN: Profectus -->
+  <Profectus.label>当勤精进</Profectus.label>
+  <!-- EN: Every so often a random research project that's achievable by the player (Player meets prerequisites) gets automatically unlocked. -->
+  <Profectus.description>有一定几率将一个玩家可以研究的科技直接完成。</Profectus.description>
+  
+  <!-- EN: Si Vis Pacem, Para Bellum -->
+  <SiVisPacemParaBellum.label>人望和平，当备战争</SiVisPacemParaBellum.label>
+  <!-- EN: When colonist is drafted, mental breaks cannot happen. -->
+  <SiVisPacemParaBellum.description>征召状态下的殖民者不会精神崩溃。</SiVisPacemParaBellum.description>
+  
+  <!-- EN: Timendi Causa Est Nescire -->
+  <TimendiCausaEstNescire.label>无知生惧</TimendiCausaEstNescire.label>
+  <!-- EN: Research Speed increased by 5%. -->
+  <TimendiCausaEstNescire.description>研究速度增加5%。</TimendiCausaEstNescire.description>
+  
+  <!-- EN: Tributum -->
+  <Tributum.label>食租衣税</Tributum.label>
+  <!-- EN: Gain annual silver donation equal to 5% of the player wealth. Prices at Central Republic vendors get halved. -->
+  <Tributum.description>每年会获得等价于玩家财富值5%的白银。中部共和国商品对你的售价减半。</Tributum.description>
+  
+  <!-- EN: Veni, Vidi, Vici -->
+  <VeniVidiVici.label>我来，我见，我征服</VeniVidiVici.label>
+  <!-- EN: Any pawn from any of the three Republics will now be instantly recruitable. -->
+  <VeniVidiVici.description>可以立即招募任何共和国的成员。</VeniVidiVici.description>
+  
+</LanguageData>

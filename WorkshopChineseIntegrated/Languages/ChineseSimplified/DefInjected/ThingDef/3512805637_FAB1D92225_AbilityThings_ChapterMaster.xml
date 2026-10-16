@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Drop Pod -->
+  <BEWH_SteelRainDropPodBuilding.label>空降舱</BEWH_SteelRainDropPodBuilding.label>
+  <!-- EN: A heavily armored, high-velocity capsule used to drop Space Marines right into the heart of battle. With reinforced hulls and rapid descent systems, the Drop Pod blasts through the atmosphere, delivering its deadly payload with devastating impact. -->
+  <BEWH_SteelRainDropPodBuilding.description>一个重型装甲高速空降舱，可将星际战士精准投送至战场中心。得益于强化外壳和急速下降系统，它可以突破大气层，以毁灭性冲击投送致命作战单位。</BEWH_SteelRainDropPodBuilding.description>
+  
+  <!-- EN: astartes drop pod -->
+  <BEWH_SteelRainDropPodSkyfaller.label>星际战士空降舱</BEWH_SteelRainDropPodSkyfaller.label>
+  
+  <!-- EN: Drop Pod Turret -->
+  <BEWH_SteelRainDropPodTurret.label>空降舱炮塔</BEWH_SteelRainDropPodTurret.label>
+  <!-- EN: A heavy, double-barreled version of the standard .75 caliber bolter mounted on drop pods to unleash devastating firepower on enemy forces. Its increased weight and recoil make it unsuitable for infantry use, but it provides powerful suppression and support during planetary assaults. -->
+  <BEWH_SteelRainDropPodTurret.description>空投舱搭载的双管重型爆弹炮塔，采用标准.75口径强化版，可向敌军倾泻毁灭性火力。其过大的重量和后坐力不适于步兵携带，但能在行星登陆作战能提供强大的火力支援。</BEWH_SteelRainDropPodTurret.description>
+  <!-- EN: Storm Bolter -->
+  <BEWH_SteelRainDropPodTurret.verbs.Storm_Bolter.label>风暴爆弹枪</BEWH_SteelRainDropPodTurret.verbs.Storm_Bolter.label>
+  
+</LanguageData>

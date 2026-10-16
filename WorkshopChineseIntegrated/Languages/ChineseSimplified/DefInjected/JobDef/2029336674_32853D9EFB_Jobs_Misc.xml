@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Browsing wares. -->
+  <BrowseItems.reportString>浏览商品。</BrowseItems.reportString>
+  
+  <!-- EN: Checking out TargetA. -->
+  <BuyItem.reportString>准备购买TargetA。</BuyItem.reportString>
+  
+  <!-- EN: Trying to recruit TargetA. -->
+  <CharmGuest.reportString>尝试招募TargetA。</CharmGuest.reportString>
+  
+  <!-- EN: Claiming a bed. -->
+  <ClaimGuestBed.reportString>登记床铺。</ClaimGuestBed.reportString>
+  
+  <!-- EN: Trying to improve relationship with TargetA's faction. -->
+  <GuestImproveRelationship.reportString>尝试改善与TargetA所在派系的关系。</GuestImproveRelationship.reportString>
+  
+  <!-- EN: Scrounging food from TargetA. -->
+  <ScroungeFood.reportString>从TargetA白嫖食物。</ScroungeFood.reportString>
+  
+  <!-- EN: Swiping food from TargetA. -->
+  <SwipeFood.reportString>从TargetA购买食物。</SwipeFood.reportString>
+  
+  <!-- EN: Emptying vending machine. -->
+  <VendingMachine_EmptyVendingMachine.reportString>清空自动售货机。</VendingMachine_EmptyVendingMachine.reportString>
+  
+</LanguageData>

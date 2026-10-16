@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Sell -->
+  <CAFormingTradePresetSell>卖出</CAFormingTradePresetSell>
+  <!-- EN: Select -->
+  <CAFormingTradePresetSelect>选择</CAFormingTradePresetSelect>
+  <!-- EN: All -->
+  <CAFormingTradePresetAll>所有</CAFormingTradePresetAll>
+  <!-- EN: Pack up -->
+  <CAFormingTradePresetPackUp>打包</CAFormingTradePresetPackUp>
+  <!-- EN: Goods -->
+  <CAFormingTradePresetGoods>货物</CAFormingTradePresetGoods>
+  <!-- EN: Goods2 -->
+  <CAFormingTradePresetGoods2>货物2</CAFormingTradePresetGoods2>
+  <!-- EN: Clear -->
+  <CAFormingTradePresetClear>清除</CAFormingTradePresetClear>
+  <!-- EN: Supply disabled -->
+  <CAFormingTradePresetSupply>禁用补给</CAFormingTradePresetSupply>
+</LanguageData>

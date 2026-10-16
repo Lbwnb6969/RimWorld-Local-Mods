@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floor lamp -->
+  <RB_FloorLamp.label>嵌地灯</RB_FloorLamp.label>
+  <!-- EN: A floor-mounted lamp that lights an area using electricity. It is less powerful than a standing lamp, but can be build on any floor. -->
+  <RB_FloorLamp.description>利用电力照明的嵌地式灯具。亮度不及落地灯，但可以安装在地板上。</RB_FloorLamp.description>
+  
+</LanguageData>

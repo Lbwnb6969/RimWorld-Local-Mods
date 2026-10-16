@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Chronically Ill -->
+  <MoodOffsetRTChronicallyIll.stages.Chronically_Ill.label>慢性病患者</MoodOffsetRTChronicallyIll.stages.Chronically_Ill.label>
+  <!-- EN: I am feeling a little poorly, am I sick again? -->
+  <MoodOffsetRTChronicallyIll.stages.Chronically_Ill.description>我感觉有点不舒服，难道我又病了？</MoodOffsetRTChronicallyIll.stages.Chronically_Ill.description>
+  
+  <!-- EN: Healthy -->
+  <MoodOffsetRTHealthy.stages.Healthy.label>健康</MoodOffsetRTHealthy.stages.Healthy.label>
+  <!-- EN: It's nice to have a healthy body. -->
+  <MoodOffsetRTHealthy.stages.Healthy.description>有一个健康的身体真不戳。</MoodOffsetRTHealthy.stages.Healthy.description>
+  
+</LanguageData>

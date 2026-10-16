@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VME_Royalty_Exalted.stages.royalty_baron.label>皇权：男爵</VME_Royalty_Exalted.stages.royalty_baron.label>
+  <VME_Royalty_Exalted.stages.royalty_count.label>皇权：伯爵</VME_Royalty_Exalted.stages.royalty_count.label>
+  <VME_Royalty_Exalted.stages.royalty_archcount.label>皇权：大伯爵</VME_Royalty_Exalted.stages.royalty_archcount.label>
+  <VME_Royalty_Exalted.stages.royalty_marquess.label>皇权：侯爵</VME_Royalty_Exalted.stages.royalty_marquess.label>
+  <VME_Royalty_Exalted.stages.royalty_duke.label>皇权：公爵</VME_Royalty_Exalted.stages.royalty_duke.label>
+  <VME_Royalty_Exalted.stages.royalty_stellarch.label>皇权：国王</VME_Royalty_Exalted.stages.royalty_stellarch.label>
+  <VME_Royalty_Exalted.stages.royalty_high_stellarch.label>皇权：至高王</VME_Royalty_Exalted.stages.royalty_high_stellarch.label>
+  
+  <VME_Royalty_Hated.stages.royalty_baron.label>皇权：男爵</VME_Royalty_Hated.stages.royalty_baron.label>
+  <VME_Royalty_Hated.stages.royalty_count.label>皇权：伯爵</VME_Royalty_Hated.stages.royalty_count.label>
+  <VME_Royalty_Hated.stages.royalty_archcount.label>皇权：大伯爵</VME_Royalty_Hated.stages.royalty_archcount.label>
+  <VME_Royalty_Hated.stages.royalty_marquess.label>皇权：侯爵</VME_Royalty_Hated.stages.royalty_marquess.label>
+  <VME_Royalty_Hated.stages.royalty_duke.label>皇权：公爵</VME_Royalty_Hated.stages.royalty_duke.label>
+  <VME_Royalty_Hated.stages.royalty_stellarch.label>皇权：国王</VME_Royalty_Hated.stages.royalty_stellarch.label>
+  <VME_Royalty_Hated.stages.royalty_high_stellarch.label>皇权：至高王</VME_Royalty_Hated.stages.royalty_high_stellarch.label>
+
+</LanguageData>

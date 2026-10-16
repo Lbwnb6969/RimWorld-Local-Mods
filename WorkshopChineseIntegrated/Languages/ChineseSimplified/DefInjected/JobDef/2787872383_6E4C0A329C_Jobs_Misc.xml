@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: set up scorpion -->
+  <VFEC_SetupScorpion.label>部署蝎炮</VFEC_SetupScorpion.label>
+  <!-- EN: setting up scorpion -->
+  <VFEC_SetupScorpion.reportString>正在部署蝎炮</VFEC_SetupScorpion.reportString>
+  
+</LanguageData>

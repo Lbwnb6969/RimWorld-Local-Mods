@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sick -->
+  <VME_Illness_Exalted.stages.sick.label>得病</VME_Illness_Exalted.stages.sick.label>
+  <!-- EN: The holy virus and the godlike bacteria shall breed in my veins. -->
+  <VME_Illness_Exalted.stages.sick.description>伟大的慈父！神圣的病毒与细菌正在我的体内不断繁殖！</VME_Illness_Exalted.stages.sick.description>
+  <!-- EN: wants to be sick -->
+  <VME_Illness_Exalted.stages.wants_to_be_sick.label>想要得病</VME_Illness_Exalted.stages.wants_to_be_sick.label>
+  <!-- EN: What I would give for the illness to bind me in pain once more. -->
+  <VME_Illness_Exalted.stages.wants_to_be_sick.description>我愿意为再次体验病痛缠身的感觉而付出任何代价。</VME_Illness_Exalted.stages.wants_to_be_sick.description>
+  
+  <!-- EN: sick -->
+  <VME_Illness_Preferred.stages.sick.label>得病</VME_Illness_Preferred.stages.sick.label>
+  <!-- EN: I am sick. A perfect excuse to lie down. -->
+  <VME_Illness_Preferred.stages.sick.description>我生病了。这下可以光明正大地躺在床上摸鱼了。</VME_Illness_Preferred.stages.sick.description>
+  
+</LanguageData>

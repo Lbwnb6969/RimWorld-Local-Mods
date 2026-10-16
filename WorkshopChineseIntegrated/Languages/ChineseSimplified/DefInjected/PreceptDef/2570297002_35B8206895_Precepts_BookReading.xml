@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decreased -->
+  <VME_BookReadingSpeed_Decreased.label>降低</VME_BookReadingSpeed_Decreased.label>
+  <!-- EN: Reading is not something that can be rushed. It is important to spend a lot of time on each page, absorbing all the little details. -->
+  <VME_BookReadingSpeed_Decreased.description>阅读可不能急于求成。我们必须逐字逐句地阅读每一页，绝不放过每一处小细节。</VME_BookReadingSpeed_Decreased.description>
+  
+  <!-- EN: increased -->
+  <VME_BookReadingSpeed_Increased.label>提高</VME_BookReadingSpeed_Increased.label>
+  <!-- EN: Books are an open window to a world filled with wonders. We love reading and will quickly devour any text we come across. -->
+  <VME_BookReadingSpeed_Increased.description>书籍是将我们与奇妙世界连通起来的明窗。热爱阅读的我们会如饥似渴地吸收其中的任何知识。</VME_BookReadingSpeed_Increased.description>
+  
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- Toggle Settings -->
+  <!-- EN: Disable research schematics -->
+  <MOTS_RemoveSchematics_Label>MO研究无需原理图</MOTS_RemoveSchematics_Label>
+  <!-- EN: Prevents Medieval Overhaul from adding research schematics. -->
+  <MOTS_RemoveSchematics_Desc>MO中世纪研究项目不再需要原理图解锁。</MOTS_RemoveSchematics_Desc>
+  <!-- EN: Enable loading cart for scribe table -->
+  <MOTS_LoadingCart_Label>为MO贸易马车添加原版轨道贸易信标功能</MOTS_LoadingCart_Label>
+  <!-- EN: Adds back the old loading card for the scribe table. -->
+  <MOTS_LoadingCart_Desc>为MO贸易马车加回1.5版末期被阉割掉的功能。</MOTS_LoadingCart_Desc>
+  <!-- EN: Wooden and Stony Vents -->
+  <MOTS_BetterVents_Label>木制/石制通风口</MOTS_BetterVents_Label>
+  <!-- EN: Allows you to build wooden and stony vents. -->
+  <MOTS_BetterVents_Desc>允许使用木材或石材建造BetterVents的通风口。</MOTS_BetterVents_Desc>
+  <!-- EN: Deconstructable Scrap -->
+  <MOTS_DeconstructScrap_Label>允许拆除MO小型残骸</MOTS_DeconstructScrap_Label>
+  <!-- EN: Allows you to deconstruct Medieval Overhaul scrapfields. -->
+  <MOTS_DeconstructScrap_Desc>允许拆除地图上生成的小型战争残骸。</MOTS_DeconstructScrap_Desc>
+  <!-- EN: Flickable Fireplaces -->
+  <MOTS_FlickFireplace_Label>为MO壁炉添加开关</MOTS_FlickFireplace_Label>
+  <!-- EN: Allows you to toggle Medieval Overhaul fireplaces on and off. -->
+  <MOTS_FlickFireplace_Desc>允许开启或关闭MO的壁炉、柴炉和篝火。</MOTS_FlickFireplace_Desc>
+  <!-- EN: Rugs Act As Doormats -->
+  <MOTS_Doormats_Label>为MO拼接地毯添加落尘功能</MOTS_Doormats_Label>
+  <!-- EN: Medieval Overhaul cloth and leather rugs act as doormats. -->
+  <MOTS_Doormats_Desc>让MO的拼接布地毯和拼接皮革地毯效果等同于Door Mat/Doormats模组的落尘垫。</MOTS_Doormats_Desc>
+  
+  <!-- Newsletter / Mod Menu Letter -->
+  <!-- EN: Medieval Overhaul: Toggleable Stuff -->
+  <MOT_ModMenuNewsLetter_Title>Medieval Overhaul: Toggleable Stuff</MOT_ModMenuNewsLetter_Title>
+  <!-- EN: Medieval Overhaul: Toggleable Stuff has its own mod menu. You can change toggleable patches there. Please note that you might have to re-enable some of your previously activated settings due to these changes. -->
+  <MOT_ModMenuNewsLetter_Text>Medieval Overhaul: Toggleable Stuff现已于模组选项中新增专属设定界面！\n\n可从游戏选单进入设定页：选项 → 模组设定 → Medieval Overhaul: Toggleable Stuff\n\n依个人偏好设定后，重启游戏即可生效！</MOT_ModMenuNewsLetter_Text>
+
+</LanguageData>

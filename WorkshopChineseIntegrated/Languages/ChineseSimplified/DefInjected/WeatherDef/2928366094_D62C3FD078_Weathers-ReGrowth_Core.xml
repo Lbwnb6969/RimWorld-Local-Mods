@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drizzle -->
+  <RG_Drizzle.label>细雨</RG_Drizzle.label>
+  <!-- EN: Very light but prominent rain which slightly reduces ranged weapon accuracy and movement speed. -->
+  <RG_Drizzle.description>鹅毛细雨。几乎不会对远程武器的命中率和移动速度造成影响。</RG_Drizzle.description>
+  
+  <!-- EN: foggy snow -->
+  <RG_FoggySnow.label>雾雪</RG_FoggySnow.label>
+  <!-- EN: Heavy snow with fog that reduces ranged weapon accuracy, extinguishes fires and reduces movement speed. -->
+  <RG_FoggySnow.description>大雪和浓雾会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。</RG_FoggySnow.description>
+  
+  <!-- EN: fog storm -->
+  <RG_FogStorm.label>浓雾风暴</RG_FogStorm.label>
+  <!-- EN: Rolling fog and heavy wind reduces the accuracy of ranged weapons. -->
+  <RG_FogStorm.description>浓雾和狂风交杂在一起，会降低远程武器的命中率。</RG_FogStorm.description>
+  
+  <!-- EN: Breezy  -->
+  <RG_Windy.label>刮风</RG_Windy.label>
+  <!-- EN: Consistent wind that reduces ranged weapon accuracy. -->
+  <RG_Windy.description>持续流动的风增加了风力发电机的电力输出，但会降低远程武器的命中率。</RG_Windy.description>
+  
+</LanguageData>

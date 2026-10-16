@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cultists -->
+
+  <DankPyon_Cultist_Novice.label>影宗信徒</DankPyon_Cultist_Novice.label>
+  <DankPyon_Cultist_Novice.labelPlural>影宗信徒</DankPyon_Cultist_Novice.labelPlural>
+
+
+  <!-- Tier 2 -->
+
+  <DanyPyon_Cultist_Acolyte_Melee.label>影宗圣徒</DanyPyon_Cultist_Acolyte_Melee.label>
+  <DanyPyon_Cultist_Acolyte_Melee.labelPlural>影宗圣徒</DanyPyon_Cultist_Acolyte_Melee.labelPlural>
+
+  <DanyPyon_Cultist_Acolyte_Ranged.label>影宗圣徒</DanyPyon_Cultist_Acolyte_Ranged.label>
+  <DanyPyon_Cultist_Acolyte_Ranged.labelPlural>影宗圣徒</DanyPyon_Cultist_Acolyte_Ranged.labelPlural>
+
+
+  <!-- Tier 3 -->
+
+  <DanyPyon_Cultist_Adept_Melee.label>影宗祭司</DanyPyon_Cultist_Adept_Melee.label>
+  <DanyPyon_Cultist_Adept_Melee.labelPlural>影宗祭司</DanyPyon_Cultist_Adept_Melee.labelPlural>
+
+  <DanyPyon_Cultist_Adept_Ranged.label>影宗祭司</DanyPyon_Cultist_Adept_Ranged.label>
+  <DanyPyon_Cultist_Adept_Ranged.labelPlural>影宗祭司</DanyPyon_Cultist_Adept_Ranged.labelPlural>
+
+
+  <!-- Tier 4 -->
+
+  <DanyPyon_Cultist_HighPriest_Melee.label>影宗司铎</DanyPyon_Cultist_HighPriest_Melee.label>
+  <DanyPyon_Cultist_HighPriest_Melee.labelPlural>影宗司铎</DanyPyon_Cultist_HighPriest_Melee.labelPlural>
+
+  <DanyPyon_Cultist_HighPriest_Ranged.label>影宗司铎</DanyPyon_Cultist_HighPriest_Ranged.label>
+  <DanyPyon_Cultist_HighPriest_Ranged.labelPlural>影宗司铎</DanyPyon_Cultist_HighPriest_Ranged.labelPlural>
+
+
+</LanguageData>

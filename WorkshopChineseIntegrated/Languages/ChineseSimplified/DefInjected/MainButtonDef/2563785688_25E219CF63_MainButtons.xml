@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drones -->
+  <O21_MainTab_Drones.label>无人机</O21_MainTab_Drones.label>
+  <!-- EN: List controllable drones and adjust their work settings. -->
+  <O21_MainTab_Drones.description>列出可控制的无人机并为它们调整工作设置。</O21_MainTab_Drones.description>
+  
+</LanguageData>

@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wood Logs -->
+
+  <Lootable_WoodLogs1x1c.label>原木堆</Lootable_WoodLogs1x1c.label>
+  <Lootable_WoodLogs1x1c.description>原木整齐的堆叠在一起，可以节省更多空间。</Lootable_WoodLogs1x1c.description>
+
+
+  <!-- Wood Logs 1x2 -->
+
+  <Lootable_WoodLogs1x2c.label>原木堆(1x2)</Lootable_WoodLogs1x2c.label>
+  <Lootable_WoodLogs1x2c.description>原木整齐的堆叠在一起，可以节省更多空间。</Lootable_WoodLogs1x2c.description>
+
+
+  <!-- Wood Logs 2x2 -->
+
+  <Lootable_WoodLogs2x2c.label>原木堆(2x2)</Lootable_WoodLogs2x2c.label>
+  <Lootable_WoodLogs2x2c.description>原木整齐的堆叠在一起，可以节省更多空间。</Lootable_WoodLogs2x2c.description>
+
+
+  <!-- Timber 1x1 -->
+
+  <Lootable_Timber1x1c.label>木材堆</Lootable_Timber1x1c.label>
+  <Lootable_Timber1x1c.description>木材整齐的堆叠在一起，可以节省更多空间。</Lootable_Timber1x1c.description>
+
+
+  <!-- Timber 1x2 -->
+
+  <Lootable_Timber1x2c.label>木材堆(1x2)</Lootable_Timber1x2c.label>
+  <Lootable_Timber1x2c.description>木材整齐的堆叠在一起，可以节省更多空间。</Lootable_Timber1x2c.description>
+
+
+  <!-- Timber 2x2 -->
+
+  <Lootable_Timber2x2c.label>木材堆(2x2)</Lootable_Timber2x2c.label>
+  <Lootable_Timber2x2c.description>木材整齐的堆叠在一起，可以节省更多空间。</Lootable_Timber2x2c.description>
+
+
+  <!-- Bricks -->
+
+  <Lootable_Bricks1x1c.label>石砖堆</Lootable_Bricks1x1c.label>
+  <Lootable_Bricks1x1c.description>石砖整齐的堆叠在一起，可以节省更多空间。</Lootable_Bricks1x1c.description>
+
+
+  <!-- Bricks 1x2 -->
+
+  <Lootable_Bricks1x2c.label>石砖堆(1x2)</Lootable_Bricks1x2c.label>
+  <Lootable_Bricks1x2c.description>石砖整齐的堆叠在一起，可以节省更多空间。</Lootable_Bricks1x2c.description>
+
+
+  <!-- Bricks 2x2 -->
+
+  <Lootable_Bricks2x2c.label>石砖堆</Lootable_Bricks2x2c.label>
+  <Lootable_Bricks2x2c.description>石砖整齐的堆叠在一起，可以节省更多空间。</Lootable_Bricks2x2c.description>
+
+
+  <!-- Cupboard -->
+
+  <Lootable_RusticCupboardEmpty.label>橱架</Lootable_RusticCupboardEmpty.label>
+  <Lootable_RusticCupboardEmpty.description>一个开放式橱架，可以有效率地储存和展示物品。</Lootable_RusticCupboardEmpty.description>
+
+  <Lootable_RusticCupboardBread.label>面包架</Lootable_RusticCupboardBread.label>
+  <Lootable_RusticCupboardBread.description>一个开放式橱架，可以有效率地储存和展示物品。</Lootable_RusticCupboardBread.description>
+
+  <Lootable_RusticCupboardCheese.label>奶酪架</Lootable_RusticCupboardCheese.label>
+  <Lootable_RusticCupboardCheese.description>一个开放式橱架，可以有效率地储存和展示物品。</Lootable_RusticCupboardCheese.description>
+
+  <Lootable_RusticCupboardWine.label>葡萄酒架</Lootable_RusticCupboardWine.label>
+  <Lootable_RusticCupboardWine.description>一个开放式橱架，可以有效率地储存和展示物品。</Lootable_RusticCupboardWine.description>
+
+
+  <!-- Barrels -->
+
+  <Lootable_RusticBarrelBigClosed.label>大型储物桶(立式)</Lootable_RusticBarrelBigClosed.label>
+  <Lootable_RusticBarrelBigClosed.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_RusticBarrelBigClosed.description>
+
+  <Lootable_RusticBarrelBigGrape.label>大型储物桶(葡萄风格)</Lootable_RusticBarrelBigGrape.label>
+  <Lootable_RusticBarrelBigGrape.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_RusticBarrelBigGrape.description>
+
+  <Lootable_RusticBarrelBigClosedDown.label>大型储物桶(横式)</Lootable_RusticBarrelBigClosedDown.label>
+  <Lootable_RusticBarrelBigClosedDown.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_RusticBarrelBigClosedDown.description>
+
+  <Lootable_RusticBarrelStack.label>多层储物桶</Lootable_RusticBarrelStack.label>
+  <Lootable_RusticBarrelStack.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_RusticBarrelStack.description>
+
+  <Lootable_RusticBarrelClosed.label>储物桶</Lootable_RusticBarrelClosed.label>
+  <Lootable_RusticBarrelClosed.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_RusticBarrelClosed.description>
+
+
+  <!-- WoodLog Barrel -->
+
+  <Lootable_BarrelWoodLog.label>原木储存桶</Lootable_BarrelWoodLog.label>
+  <Lootable_BarrelWoodLog.description>用于储存原木的圆柱形桶。最多可容纳4叠原木。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_BarrelWoodLog.description>
+
+
+  <!-- Iron Ore Barrel -->
+
+  <Lootable_BarrelIronOre.label>铁矿储存桶</Lootable_BarrelIronOre.label>
+  <Lootable_BarrelIronOre.description>用于储存铁矿的圆柱形桶。最多可容纳4叠铁矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_BarrelIronOre.description>
+
+
+  <!-- Silver Ore Barrel -->
+
+  <Lootable_BarrelSilverOre.label>银矿储存桶</Lootable_BarrelSilverOre.label>
+  <Lootable_BarrelSilverOre.description>用于储存银矿的圆柱形桶。最多可容纳4叠银矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_BarrelSilverOre.description>
+
+
+  <!-- Gold Ore Barrel -->
+
+  <Lootable_BarrelGoldOre.label>金矿储存桶</Lootable_BarrelGoldOre.label>
+  <Lootable_BarrelGoldOre.description>用于储存金矿的圆柱形桶。最多可容纳4叠金矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_BarrelGoldOre.description>
+
+
+  <!-- Coal Ore Barrel -->
+
+  <Lootable_BarrelCoalOre.label>煤矿储存桶</Lootable_BarrelCoalOre.label>
+  <Lootable_BarrelCoalOre.description>用于储存煤矿的圆柱形桶。最多可容纳4叠煤矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_BarrelCoalOre.description>
+
+
+  <!-- Textiles Barrel -->
+
+  <Lootable_BarrelTextiles.label>织物储存桶</Lootable_BarrelTextiles.label>
+  <Lootable_BarrelTextiles.description>用于储存织物的圆柱形桶。最多可容纳4叠织物。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_BarrelTextiles.description>
+
+
+  <!-- Leather Barrel -->
+
+  <Lootable_BarrelLeather.label>皮革储存桶</Lootable_BarrelLeather.label>
+  <Lootable_BarrelLeather.description>用于储存煤矿的圆柱形桶。最多可容纳4叠煤矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_BarrelLeather.description>
+
+
+  <!-- Basic Component -->
+
+  <Lootable_BarrelComponentBasic.label>基础零件储存桶</Lootable_BarrelComponentBasic.label>
+  <Lootable_BarrelComponentBasic.description>用于储存基础零件的圆柱形桶。最多可容纳4叠基础零件。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_BarrelComponentBasic.description>
+
+
+  <!-- Grape Barrel -->
+
+  <Lootable_BarrelGrape.label>葡萄储存桶</Lootable_BarrelGrape.label>
+  <Lootable_BarrelGrape.description>用于储存葡萄的圆柱形桶。最多可容纳4迭葡萄零件。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_BarrelGrape.description>
+
+
+  <!-- Large Shelf -->
+
+  <Lootable_LargeShelfEmpty.label>大型储架</Lootable_LargeShelfEmpty.label>
+  <Lootable_LargeShelfEmpty.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</Lootable_LargeShelfEmpty.description>
+
+  <Lootable_LargeShelf_Bread.label>大型面包架</Lootable_LargeShelf_Bread.label>
+  <Lootable_LargeShelf_Bread.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</Lootable_LargeShelf_Bread.description>
+
+  <Lootable_LargeShelf_Grain.label>大型谷物架</Lootable_LargeShelf_Grain.label>
+  <Lootable_LargeShelf_Grain.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</Lootable_LargeShelf_Grain.description>
+
+  <Lootable_LargeShelf_Meat.label>大型肉品架</Lootable_LargeShelf_Meat.label>
+  <Lootable_LargeShelf_Meat.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</Lootable_LargeShelf_Meat.description>
+
+  <Lootable_LargeShelf_Cheese.label>大型奶酪架</Lootable_LargeShelf_Cheese.label>
+  <Lootable_LargeShelf_Cheese.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</Lootable_LargeShelf_Cheese.description>
+
+  <Lootable_LargeShelf_Wine.label>大型葡萄酒架</Lootable_LargeShelf_Wine.label>
+  <Lootable_LargeShelf_Wine.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</Lootable_LargeShelf_Wine.description>
+
+  <Lootable_LargeShelf_Mead.label>大型蜂蜜酒架</Lootable_LargeShelf_Mead.label>
+  <Lootable_LargeShelf_Mead.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</Lootable_LargeShelf_Mead.description>
+
+  <Lootable_LargeShelf_Vegetables.label>大型蔬果架</Lootable_LargeShelf_Vegetables.label>
+  <Lootable_LargeShelf_Vegetables.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</Lootable_LargeShelf_Vegetables.description>
+
+
+  <!-- Sack -->
+
+  <Lootable_SackClosed.label>麻布袋</Lootable_SackClosed.label>
+  <Lootable_SackClosed.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</Lootable_SackClosed.description>
+
+  <Lootable_SackFlour.label>面粉袋</Lootable_SackFlour.label>
+  <Lootable_SackFlour.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</Lootable_SackFlour.description>
+
+  <Lootable_SackWheat.label>小麦袋</Lootable_SackWheat.label>
+  <Lootable_SackWheat.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</Lootable_SackWheat.description>
+
+  <Lootable_SackPotato.label>土豆袋</Lootable_SackPotato.label>
+  <Lootable_SackPotato.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</Lootable_SackPotato.description>
+
+  <Lootable_SackApple.label>苹果袋</Lootable_SackApple.label>
+  <Lootable_SackApple.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</Lootable_SackApple.description>
+
+
+  <!-- Crate -->
+
+  <Lootable_Crate1x1c.label>板条箱</Lootable_Crate1x1c.label>
+  <Lootable_Crate1x1c.description>木板制成的木箱，用于存放资源。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_Crate1x1c.description>
+
+
+  <!-- Crate 1x2 -->
+
+  <Lootable_Crate1x2c.label>板条箱(1x2)</Lootable_Crate1x2c.label>
+  <Lootable_Crate1x2c.description>木板制成的木箱，用于存放资源。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_Crate1x2c.description>
+
+
+  <!-- Weapon Rack -->
+
+  <Lootable_RackEmpty.label>武器类杂物架</Lootable_RackEmpty.label>
+  <Lootable_RackEmpty.description>用于存放各式武器类杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_RackEmpty.description>
+
+  <Lootable_RackSword.label>刀剑架</Lootable_RackSword.label>
+  <Lootable_RackSword.description>用于存放刀剑的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_RackSword.description>
+
+  <Lootable_RackSpear.label>矛架</Lootable_RackSpear.label>
+  <Lootable_RackSpear.description>用于存放长矛的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_RackSpear.description>
+
+  <Lootable_RackMixed.label>武器架</Lootable_RackMixed.label>
+  <Lootable_RackMixed.description>用于存放武器的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_RackMixed.description>
+
+
+  <!-- Shelf -->
+
+  <Lootable_ShelfEmpty.label>空置物架</Lootable_ShelfEmpty.label>
+  <Lootable_ShelfEmpty.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfEmpty.description>
+
+  <Lootable_ShelfFilled1c.label>放满药品的置物架</Lootable_ShelfFilled1c.label>
+  <Lootable_ShelfFilled1c.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilled1c.description>
+
+  <Lootable_ShelfFilled2c.label>放满杂物的置物架</Lootable_ShelfFilled2c.label>
+  <Lootable_ShelfFilled2c.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilled2c.description>
+
+  <Lootable_ShelfFilledEmerald.label>放满绿宝石的置物架</Lootable_ShelfFilledEmerald.label>
+  <Lootable_ShelfFilledEmerald.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledEmerald.description>
+
+  <Lootable_ShelfFilledSapphire.label>放满蓝宝石的置物架</Lootable_ShelfFilledSapphire.label>
+  <Lootable_ShelfFilledSapphire.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledSapphire.description>
+
+  <Lootable_ShelfFilledRuby.label>放满红宝石的置物架</Lootable_ShelfFilledRuby.label>
+  <Lootable_ShelfFilledRuby.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledRuby.description>
+
+  <Lootable_ShelfFilledSilverware.label>放满银器的置物架</Lootable_ShelfFilledSilverware.label>
+  <Lootable_ShelfFilledSilverware.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledSilverware.description>
+
+  <Lootable_ShelfFilledGoldware.label>放满金器的置物架</Lootable_ShelfFilledGoldware.label>
+  <Lootable_ShelfFilledGoldware.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledGoldware.description>
+
+  <Lootable_ShelfFilledChaliceSilver.label>放满银圣杯的置物架</Lootable_ShelfFilledChaliceSilver.label>
+  <Lootable_ShelfFilledChaliceSilver.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledChaliceSilver.description>
+
+  <Lootable_ShelfFilledChaliceGold.label>放满金圣杯的置物架</Lootable_ShelfFilledChaliceGold.label>
+  <Lootable_ShelfFilledChaliceGold.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledChaliceGold.description>
+
+  <Lootable_ShelfFilledWine.label>放满葡萄酒的置物架</Lootable_ShelfFilledWine.label>
+  <Lootable_ShelfFilledWine.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledWine.description>
+
+  <Lootable_ShelfFilledFood.label>放满食物的置物架</Lootable_ShelfFilledFood.label>
+  <Lootable_ShelfFilledFood.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledFood.description>
+
+  <Lootable_ShelfFilledIngot.label>放满金属碇的置物架</Lootable_ShelfFilledIngot.label>
+  <Lootable_ShelfFilledIngot.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledIngot.description>
+
+  <Lootable_ShelfFilledBook.label>放满书的置物架</Lootable_ShelfFilledBook.label>
+  <Lootable_ShelfFilledBook.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</Lootable_ShelfFilledBook.description>
+
+
+
+  <Lootable_StrawPile.label>乾草堆</Lootable_StrawPile.label>
+  <Lootable_StrawPile.description>一堆谷物植物的乾茎，例如小麦、水稻、燕麦、大麦和黑麦。</Lootable_StrawPile.description>
+
+
+  <!-- Carts -->
+
+  <Lootable_Storage_Cart_Empty.label>马车</Lootable_Storage_Cart_Empty.label>
+  <Lootable_Storage_Cart_Empty.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界这片无情的土地。可以用来存放物品。</Lootable_Storage_Cart_Empty.description>
+
+  <Lootable_Storage_Cart_Assorted.label>杂货马车</Lootable_Storage_Cart_Assorted.label>
+  <Lootable_Storage_Cart_Assorted.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界这片无情的土地。可以用来存放物品。</Lootable_Storage_Cart_Assorted.description>
+
+  <Lootable_Storage_Cart_Ore.label>矿石马车</Lootable_Storage_Cart_Ore.label>
+  <Lootable_Storage_Cart_Ore.description>一辆可靠的马车，可以载着矿石穿越边缘世界这片无情的土地。可以用来存放物品。</Lootable_Storage_Cart_Ore.description>
+
+  <Lootable_Storage_Cart_PlantRaw.label>植物原料马车</Lootable_Storage_Cart_PlantRaw.label>
+  <Lootable_Storage_Cart_PlantRaw.description>一辆可靠的马车，可以载着植物原料穿越边缘世界这片无情的土地。可以用来存放物品。</Lootable_Storage_Cart_PlantRaw.description>
+
+  <Lootable_Storage_Cart_Textiles.label>织物马车</Lootable_Storage_Cart_Textiles.label>
+  <Lootable_Storage_Cart_Textiles.description>一辆可靠的马车，可以载着织物穿越边缘世界这片无情的土地。可以用来存放物品。</Lootable_Storage_Cart_Textiles.description>
+
+  <Lootable_Storage_Cart_RawWood.label>原木马车</Lootable_Storage_Cart_RawWood.label>
+  <Lootable_Storage_Cart_RawWood.description>一辆可靠的马车，可以载着原木穿越边缘世界这片无情的土地。可以用来存放物品。</Lootable_Storage_Cart_RawWood.description>
+
+
+</LanguageData>

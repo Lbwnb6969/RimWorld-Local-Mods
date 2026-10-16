@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crushing slam -->
+  <DA_CrushingSlam.label>震地冲击</DA_CrushingSlam.label>
+  <!-- EN: Slam the ground several times, destabilizing and dealing damage to everyone in the area. -->
+  <DA_CrushingSlam.description>命令动物冲撞并让附近的敌人失去平衡。</DA_CrushingSlam.description>
+  
+</LanguageData>

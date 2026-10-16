@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Warg -->
+
+  <DankPyon_Direwolf.label>恐狼</DankPyon_Direwolf.label>
+  <DankPyon_Direwolf.description>大灰狼的一个亚种，在北方无情的霜冻中变得坚韧勇猛。牠们攻击性强，通常以配合良好的群体为单位进行狩猎。在过去，恐狼更喜欢寒冷的领域，但因缺乏猎物，牠们不得不迁徙到温暖的地区，并对商队和小型定居点发起袭击。</DankPyon_Direwolf.description>
+  <DankPyon_Direwolf.tools.0.label>左爪</DankPyon_Direwolf.tools.0.label>
+  <DankPyon_Direwolf.tools.1.label>右爪</DankPyon_Direwolf.tools.1.label>
+  <DankPyon_Direwolf.tools.2.label>牙齿</DankPyon_Direwolf.tools.2.label>
+  <DankPyon_Direwolf.tools.3.label>头</DankPyon_Direwolf.tools.3.label>
+
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: goldilox wanders into the area -->
+  <LetterLabelGoldiloxPasses>金牦进入区域</LetterLabelGoldiloxPasses>
+	<!-- EN: Goldiloxen have wandered into the area.\n\nYou can try taming these magnificent beasts to secure a supply of rich milk and valuable golden wool, or hunt them for meat and horns.\n\nThey will leave in a few days. -->
+  <LetterGoldiloxPasses>一群金牦漫步进了这片区域。\n\n你可以尝试驯服这些野兽以稳定供给乳汁和珍贵的金毛，或者猎捕它们来获取角和肉。\n\n金牦将在几天后离开。</LetterGoldiloxPasses>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Escapees from Constantinople -->
+  <BA_MedievalPlayer_Constantinople.label>君士坦丁堡逃亡者</BA_MedievalPlayer_Constantinople.label>
+  <!-- EN: Three escapee experienced the Fall of Constantinople.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_MedievalPlayer_Constantinople.description>三名逃亡者亲历了君士坦丁堡的陷落。</BA_MedievalPlayer_Constantinople.description>
+  <!-- EN: leader -->
+  <BA_MedievalPlayer_Constantinople.leaderTitle>领袖</BA_MedievalPlayer_Constantinople.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_MedievalPlayer_Constantinople.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_MedievalPlayer_Constantinople.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <BA_MedievalPlayer_Constantinople.pawnSingular>追随者</BA_MedievalPlayer_Constantinople.pawnSingular>
+  <!-- EN: subjects -->
+  <BA_MedievalPlayer_Constantinople.pawnsPlural>追随者们</BA_MedievalPlayer_Constantinople.pawnsPlural>
+  <!-- EN: Influence -->
+  <BA_MedievalPlayer_Constantinople.royalFavorLabel>影响力</BA_MedievalPlayer_Constantinople.royalFavorLabel>
+  
+</LanguageData>

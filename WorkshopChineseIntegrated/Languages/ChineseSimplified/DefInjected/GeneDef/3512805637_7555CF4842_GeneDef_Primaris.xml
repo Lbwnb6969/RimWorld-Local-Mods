@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: belisarian furnace -->
+  <BEWH_BelisarianFurnace.label>贝利撒留熔炉</BEWH_BelisarianFurnace.label>
+  <!-- EN: Carriers of this gene possess a dormant organ connected to both Astartes hearts. In moments of extreme stress or severe trauma, it activates, releasing powerful bursts of self-synthesized chemicals - a hyper-cocktail that mimics the effects of combat stimms while accelerating the regeneration of tissue, bone, and muscle. -->
+  <BEWH_BelisarianFurnace.description>这种基因的携带者拥有一个连接双侧心脏的休眠器官。在绝境遭遇重创时，它会被激活，释放出强大的自合成化学药剂，它能够模拟战斗兴奋剂的效果，同时加速组织、骨骼和肌肉的再生。</BEWH_BelisarianFurnace.description>
+  
+  <!-- EN: magnificat -->
+  <BEWH_Magnificat.label>圣颂歌垂体</BEWH_Magnificat.label>
+  <!-- EN: Carriers of this gene possess a small, thumbnail-sized lobe in the brain's cortex that make them physically even larger, stronger and with faster reaction times than his non-Primaris brethren. -->
+  <BEWH_Magnificat.description>该基因的携带者在大脑皮层中拥有一个拇指指甲大小的小脑叶，这使得他们比非原铸的兄弟们体型更大、更强壮、反应更快。</BEWH_Magnificat.description>
+  
+  <!-- EN: sinew coil -->
+  <BEWH_SinewCoil.label>肌腱线圈</BEWH_SinewCoil.label>
+  <!-- EN: Carriers of this gene have sinews reinforced with durametallic coil-cables that contract with immense force, greatly enhancing their strength and providing an additional layer of defense. -->
+  <BEWH_SinewCoil.description>该基因的携带者拥有由金属线圈强化的肌腱，这些线圈能够以巨大的力量收缩，从而大大增强携带者的力量，并为其提供额外的防护。</BEWH_SinewCoil.description>
+  
+</LanguageData>

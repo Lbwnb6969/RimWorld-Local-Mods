@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MThingsGeysersCore.label>地热喷泉核心</MThingsGeysersCore.label>
+  <MThingsGeysersCore.description>石工与蒸汽机巧的杰作。地热喷泉核心必须建在活跃的蒸汽喷泉上才能运作。它将大地的热量传导给相邻的工作站，提供显著的工作速度加成，并自动为连接的工作台补充燃料。它完全由防火石材制成，会发出柔和而稳定的光芒，还能调节室内温度，是任何工坊都不可或缺的核心设施。</MThingsGeysersCore.description>
+
+  <MThingsGeysersPsyfocusBooster.label>灵能专注增幅器</MThingsGeysersPsyfocusBooster.label>
+  <MThingsGeysersPsyfocusBooster.description>建在蒸汽喷泉上的巨大石制圣龛，镶嵌着发光的灵能符文。它引导原始的地热力量与晶体传导的心灵之火，增强各种冥想方式，包括艺术、尊贵、火焰、极简、病态、自然乃至虚空冥想。前来冥想的殖民者可以接入大地与心灵的原始交汇点，无论遵循何种冥想传统，都能获得极强的专注增益。</MThingsGeysersPsyfocusBooster.description>
+
+  <MThingsGeysersStonekettle.label>石制炊锅</MThingsGeysersStonekettle.label>
+  <MThingsGeysersStonekettle.description>为承受高温而设计的石制工作台。它可以独立运作，连接地热喷泉核心后还能获得工作速度加成。它完全由石材制成，免疫火焰。</MThingsGeysersStonekettle.description>
+
+  <MThingsGeysersSmokeforge.label>烟熏锻炉</MThingsGeysersSmokeforge.label>
+  <MThingsGeysersSmokeforge.description>为中世纪锻造而建的独立石制锻炉，内置熔炉和一整块替代传统铁砧的实心铁块。它无需连接地热喷泉核心即可运作，连接后会获得显著的工作速度加成。它完全由防火石材制成，适合重视效率又不介意烟尘的殖民地。</MThingsGeysersSmokeforge.description>
+
+  <MThingsGeysersCharforge.label>炭化熔炉</MThingsGeysersCharforge.label>
+  <MThingsGeysersCharforge.description>由石材建成的小型防火熔炉，用于分解金属物品和通过受控焚烧处理尸体。它可以独立运作，连接地热喷泉核心后会获得工作速度加成。体积小巧、结构一体化，非常适合边境城堡的紧凑工坊。警告：不要把殖民者放进去。</MThingsGeysersCharforge.description>
+
+  <MThingsGeysersStonebrewery.label>石制酿酒坊</MThingsGeysersStonebrewery.label>
+  <MThingsGeysersStonebrewery.description>采用中世纪酿造工艺的厚重石制酿酒坊，内置大锅并需要燃料运作，也可以连接地热喷泉核心以提高酿造速度。它完全由防火石材制成，是酒馆中坚固高效的核心设施，也是殖民者和耐热微生物喜爱的场所。</MThingsGeysersStonebrewery.description>
+
+  <MThingsGeysersMagicyteHarvester.label>魔晶石采集器</MThingsGeysersMagicyteHarvester.label>
+  <MThingsGeysersMagicyteHarvester.description>刻有符文的石制构造体，必须建在蒸汽喷泉上才能被动提取魔晶石，即结晶化的奥术能量。它无需看守，但必须固定在活跃的蒸汽喷泉上。这个防火且完美对称的采集器会从大地的呼吸中汲取魔力，并以微光显示储存的能量。</MThingsGeysersMagicyteHarvester.description>
+</LanguageData>

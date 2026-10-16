@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_MakeBoneHelmI.label>制作 骨盔 I</pphhyy_Barbarian_MakeBoneHelmI.label>
+  <pphhyy_Barbarian_MakeBoneHelmI.description>制作骨盔 I</pphhyy_Barbarian_MakeBoneHelmI.description>
+  <pphhyy_Barbarian_MakeBoneHelmI.jobString>正在制作骨盔 I。</pphhyy_Barbarian_MakeBoneHelmI.jobString>
+
+  <pphhyy_Barbarian_MakeBoneHelmII.label>制作 骨盔 II</pphhyy_Barbarian_MakeBoneHelmII.label>
+  <pphhyy_Barbarian_MakeBoneHelmII.description>制作骨盔 II</pphhyy_Barbarian_MakeBoneHelmII.description>
+  <pphhyy_Barbarian_MakeBoneHelmII.jobString>正在制作骨盔II。</pphhyy_Barbarian_MakeBoneHelmII.jobString>
+
+  <pphhyy_Barbarian_MakeBoneHelmIII.label>制作 骨盔 III</pphhyy_Barbarian_MakeBoneHelmIII.label>
+  <pphhyy_Barbarian_MakeBoneHelmIII.description>制作骨盔 III</pphhyy_Barbarian_MakeBoneHelmIII.description>
+  <pphhyy_Barbarian_MakeBoneHelmIII.jobString>正在制作骨盔 III。</pphhyy_Barbarian_MakeBoneHelmIII.jobString>
+
+  <pphhyy_Barbarian_MakeBearHeaddressI.label>制作 熊头饰 I</pphhyy_Barbarian_MakeBearHeaddressI.label>
+  <pphhyy_Barbarian_MakeBearHeaddressI.description>制作熊头饰 I</pphhyy_Barbarian_MakeBearHeaddressI.description>
+  <pphhyy_Barbarian_MakeBearHeaddressI.jobString>正在制作熊头饰 I。</pphhyy_Barbarian_MakeBearHeaddressI.jobString>
+
+  <pphhyy_Barbarian_MakeBearHeaddressII.label>制作 熊头饰 II</pphhyy_Barbarian_MakeBearHeaddressII.label>
+  <pphhyy_Barbarian_MakeBearHeaddressII.description>制作熊头饰 II</pphhyy_Barbarian_MakeBearHeaddressII.description>
+  <pphhyy_Barbarian_MakeBearHeaddressII.jobString>正在制作熊头饰 II。</pphhyy_Barbarian_MakeBearHeaddressII.jobString>
+
+
+</LanguageData>

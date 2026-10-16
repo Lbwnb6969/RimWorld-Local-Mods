@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Acolytum -->
+  <BEWH_AstartesRankAcolytum.label>侍僧</BEWH_AstartesRankAcolytum.label>
+  <!-- EN: Acolyta are those who take the first steps on the path of the Librarius. Under the guidance of senior Librarians, they learn to harness and control their psychic potential. Their souls are fortified against the Warp, but constant vigilance is required. -->
+  <BEWH_AstartesRankAcolytum.description>侍僧是那些踏上成为智库之路的第一步的人。在高级智库的指导下，他们学习了如何驾驭和控制自身的灵能潜能。他们的灵魂得到了强化，可以抵御亚空间的侵袭，但仍需要时刻保持警惕。</BEWH_AstartesRankAcolytum.description>
+  
+  <!-- EN: Apothecary -->
+  <BEWH_AstartesRankApothecary.label>药剂师</BEWH_AstartesRankApothecary.label>
+  <!-- EN: Apothecaries are the healers and gene-seed keepers of the Chapter. On the battlefield, they tend the wounded and recover the genetic legacy of fallen brethren - an unbroken chain stretching back to the Chapter's Primarch. -->
+  <BEWH_AstartesRankApothecary.description>药剂师是战团的治疗者与基因种子守护者。战场上，他们救治伤员并回收阵亡兄弟的基因遗产——这条传承链可追溯至战团原体，至今未断。</BEWH_AstartesRankApothecary.description>
+  <!-- EN: 25% increased chance to succesfully harvest gene-seed from dead marines. -->
+  <BEWH_AstartesRankApothecary.customEffectDescriptions.0>从死亡星际战士体内成功回收基因种子的概率提升25%</BEWH_AstartesRankApothecary.customEffectDescriptions.0>
+  
+  <!-- EN: Close Support -->
+  <BEWH_AstartesRankAssault.label>密接支援小队战士</BEWH_AstartesRankAssault.label>
+  <!-- EN: Close Support Space Marines excel in fast and aggressive assaults. Armed for melee and close-range engagements, they strike hard and fast, disrupting enemy lines with relentless fury. -->
+  <BEWH_AstartesRankAssault.description>密接支援小队的星际战士擅长发动迅捷而致命的突击。他们装备精良，擅长近身格斗和近距离作战，他们将以狂暴攻势撕裂敌军防线。</BEWH_AstartesRankAssault.description>
+  
+  <!-- EN: Close Support Sergeant -->
+  <BEWH_AstartesRankAssaultSergeant.label>密接支援小队军士</BEWH_AstartesRankAssaultSergeant.label>
+  <!-- EN: The Close Support Sergeant leads from the front, driving his warriors into the heart of battle. His command is one of speed and savagery, ensuring the enemy is overwhelmed before they can respond. -->
+  <BEWH_AstartesRankAssaultSergeant.description>密接支援小队军士身先士卒，率领战士们直插战场核心。其指挥风格疾如闪电，猛如雷霆，确保他们能在敌军做出反应前就将其碾碎。</BEWH_AstartesRankAssaultSergeant.description>
+  
+  <!-- EN: Battle-Brother -->
+  <BEWH_AstartesRankBattleBrother.label>战斗兄弟</BEWH_AstartesRankBattleBrother.label>
+  <!-- EN: Battle-Brothers are fully initiated Astartes, proven in both skill and loyalty. They form the backbone of a Chapter's fighting force, deployed across the galaxy in service of the Emperor's will. -->
+  <BEWH_AstartesRankBattleBrother.description>战斗兄弟是完成初步试炼的阿斯塔特，其技艺与忠诚皆经战火淬炼。他们是战团的中坚力量，为践行帝皇圣志而远征星河。</BEWH_AstartesRankBattleBrother.description>
+  
+  <!-- EN: Captain -->
+  <BEWH_AstartesRankCaptain.label>连长</BEWH_AstartesRankCaptain.label>
+  <!-- EN: Captains are the commanders of a Chapter's companies. Each is a master of strategy and a paragon of the Chapter's ideals. -->
+  <BEWH_AstartesRankCaptain.description>连长统帅着战团的各个连队，他们既是战略大师，亦为战团精神之典范。</BEWH_AstartesRankCaptain.description>
+  
+  <!-- EN: Chaplain -->
+  <BEWH_AstartesRankChaplain.label>牧师</BEWH_AstartesRankChaplain.label>
+  <!-- EN: Chaplain are spiritual leaders and warriors of unyielding faith. They safeguard souls of their brethren and lead the battle rites. Their skull helms strike terror into the hearts of the unfaithful. -->
+  <BEWH_AstartesRankChaplain.description>牧师乃信仰坚不可摧的精神领袖，亦为坚定不移的战士。他们守卫着兄弟们的灵魂，领导战斗仪式。他们标志性的骷髅头盔令异端肝胆俱裂。</BEWH_AstartesRankChaplain.description>
+  
+  <!-- EN: Ancient -->
+  <BEWH_AstartesRankChapterAncient.label>战团旗手</BEWH_AstartesRankChapterAncient.label>
+  <!-- EN: The Chapter Ancient bears the Chapter Standard into war - a relic of immense symbolic power. Its presence steels the hearts of Battle-Brothers and inspires them to fight with renewed fury and unwavering resolve. -->
+  <BEWH_AstartesRankChapterAncient.description>战团旗手肩负着神圣战旗出征——此乃象征无上荣耀的圣物。战旗所至，战斗兄弟必以钢铁意志血战到底。</BEWH_AstartesRankChapterAncient.description>
+  
+  <!-- EN: Chapter Master -->
+  <BEWH_AstartesRankChapterMaster.label>战团长</BEWH_AstartesRankChapterMaster.label>
+  <!-- EN: The Chapter Master is the supreme commander of the Chapter, a warlord whose word is the law, a living embodiment of Chapter's legacy, will and strength. Under his leadership, the Chapter wages war across the galaxy in the name of the Emperor. -->
+  <BEWH_AstartesRankChapterMaster.description>战团长是战团的至高统帅，其言即为铁律，其身即为战团传承、意志与力量之化身。在他的率领下，战团以帝皇之名征伐星河。</BEWH_AstartesRankChapterMaster.description>
+  
+  <!-- EN: Chief Librarian -->
+  <BEWH_AstartesRankChiefLibrarian.label>首席智库</BEWH_AstartesRankChiefLibrarian.label>
+  <!-- EN: The strongest and and most psychically attuned Librarian in the Chapter. The master of the Librarium. Chief Librarians often lead troops or assist the Chapter Master in battle. -->
+  <BEWH_AstartesRankChiefLibrarian.description>战团中最强大的灵能者，执掌着智库馆。首席智库馆长通常亲临战场指挥，或辅佐战团长作战。</BEWH_AstartesRankChiefLibrarian.description>
+  
+  <!-- EN: Fire Support -->
+  <BEWH_AstartesRankDevastator.label>火力支援小组战士</BEWH_AstartesRankDevastator.label>
+  <!-- EN: Fire Support Space Marines wield heavy weaponry to suppress enemy advances and annihilate armored targets. Positioned at the rear of the battle line, they deliver devastating firepower in support of the main assault. -->
+  <BEWH_AstartesRankDevastator.description>火力支援小组的星际战士使用重火力压制敌军攻势、摧毁装甲目标。他们据守战线后方，以毁灭性火力支援前线小队。</BEWH_AstartesRankDevastator.description>
+  
+  <!-- EN: Fire Support Sergeant -->
+  <BEWH_AstartesRankDevastatorSergeant.label>火力支援小组军士</BEWH_AstartesRankDevastatorSergeant.label>
+  <!-- EN: The Fire Support Sergeant commands squads of heavy-weapon specialists, directing fields of fire with precision to break the enemy with overwhelming force. -->
+  <BEWH_AstartesRankDevastatorSergeant.description>火力支援小组军士指挥着重武器小队，精确引导火力，以压倒性的火力轰碎敌军。</BEWH_AstartesRankDevastatorSergeant.description>
+  
+  <!-- EN: Helix Adept -->
+  <BEWH_AstartesRankHelixAdept.label>先锋药剂师</BEWH_AstartesRankHelixAdept.label>
+  <!-- EN: The Helix Adept is an Apothecary-in-training, versed in battlefield triage and the sacred duty of gene-seed retrieval. They learn the arts of life and death under the watchful eye of experienced Apothecaries. -->
+  <BEWH_AstartesRankHelixAdept.description>先锋药剂师是药剂师学徒，精通战地急救，肩负回收基因种子的神圣职责。他们在资深药剂师的督导下修习生死之道。</BEWH_AstartesRankHelixAdept.description>
+  <!-- EN: 10% increased chance to succesfully harvest gene-seed from dead marines. -->
+  <BEWH_AstartesRankHelixAdept.customEffectDescriptions.0>从死亡星际战士体内成功回收基因种子的概率提升10%</BEWH_AstartesRankHelixAdept.customEffectDescriptions.0>
+  
+  <!-- EN: Judiciar -->
+  <BEWH_AstartesRankJudiciar.label>裁决士</BEWH_AstartesRankJudiciar.label>
+  <!-- EN: Judiciars are grim enforcers of a Chapter's discipline, ensuring their brothers remain true to their oaths. -->
+  <BEWH_AstartesRankJudiciar.description>裁决士是战团铁律的冷酷执刑官，他会确保兄弟永不背弃誓言。</BEWH_AstartesRankJudiciar.description>
+  
+  <!-- EN: Librarian -->
+  <BEWH_AstartesRankLibrarian.label>智库</BEWH_AstartesRankLibrarian.label>
+  <!-- EN: Librarians are warrior-psykers, sanctioned to wield the power of the Warp in service of the Emperor. Guardians of esoteric knowledge and lore-keepers of the Chapter, they walk a fine line between divine purpose and damnation. -->
+  <BEWH_AstartesRankLibrarian.description>智库是受命亚空间之力侍奉帝皇的灵能战士。身为秘学守护者与战团传承者，他们游走于神圣使命与万劫不复的深渊之间。</BEWH_AstartesRankLibrarian.description>
+  
+  <!-- EN: Lieutenant -->
+  <BEWH_AstartesRankLieutenant.label>副官</BEWH_AstartesRankLieutenant.label>
+  <!-- EN: Lieutenants are junior officers who act as trusted aides to Captains. They provide strategic oversight, relay orders, and reinforce the chain of command, ensuring that that the will of the Chapter is carried out with perfect coordination. -->
+  <BEWH_AstartesRankLieutenant.description>副官是战团长信赖的次级指挥官，负责战略监督、传达命令并巩固指挥链，确保战团意志在完美的协同得以贯彻。</BEWH_AstartesRankLieutenant.description>
+  
+  <!-- EN: Master of Sanctity -->
+  <BEWH_AstartesRankMasterOfSanctity.label>圣洁之主</BEWH_AstartesRankMasterOfSanctity.label>
+  <!-- EN: The Master of Sanctity is the highest Chaplain of the Chapter, guardian of its spiritual purity and eternal flame. His voice is sacred, his judgment absolute, and his presence an anathema to heresy and weakness. -->
+  <BEWH_AstartesRankMasterOfSanctity.description>圣洁之主是战团的首席牧师，守护着战团的精神纯净与永恒圣火。其言即神谕，其判即天裁，其即异端与懦弱之灾厄。</BEWH_AstartesRankMasterOfSanctity.description>
+  
+  <!-- EN: Master of the Apothecarion -->
+  <BEWH_AstartesRankMasterOfTheApothecarion.label>首席药剂师</BEWH_AstartesRankMasterOfTheApothecarion.label>
+  <!-- EN: The Master of the Apothecarion oversees all medical and genetic duties within the Chapter. A veteran among healers, they are charged with preserving the purity of the gene-seed and ensuring its sanctity across generations. -->
+  <BEWH_AstartesRankMasterOfTheApothecarion.description>首席药剂师统辖着战团所有医疗与基因事务。作为医者中的大将，他们的职责是守护基因种子纯度，确保其世代圣洁无瑕。</BEWH_AstartesRankMasterOfTheApothecarion.description>
+  <!-- EN: 40% increased chance to succesfully harvest gene-seed from dead marines. -->
+  <BEWH_AstartesRankMasterOfTheApothecarion.customEffectDescriptions.0>从死亡星际战士体内成功回收基因种子的概率提升40%</BEWH_AstartesRankMasterOfTheApothecarion.customEffectDescriptions.0>
+  
+  <!-- EN: Master of the Forge -->
+  <BEWH_AstartesRankMasterOfTheForge.label>锻造大师</BEWH_AstartesRankMasterOfTheForge.label>
+  <!-- EN: The Master of the Forge is the highest Techmarine in a Chapter, responsible for the maintenance of its most sacred machines and relics. -->
+  <BEWH_AstartesRankMasterOfTheForge.description>锻造大师是战团首席技术军士，负责维护战团中最神圣的机器与遗物。</BEWH_AstartesRankMasterOfTheForge.description>
+  
+  <!-- EN: Neophyte -->
+  <BEWH_AstartesRankNeophyte.label>新兵</BEWH_AstartesRankNeophyte.label>
+  <!-- EN: Neophytes are the newest recruits of a Chapter. They are usually employed along a Chapter's Scout Squads as part of their training. -->
+  <BEWH_AstartesRankNeophyte.description>新兵是战团新晋成员，通常编入侦察小队接受训练。</BEWH_AstartesRankNeophyte.description>
+  
+  <!-- EN: Sergeant -->
+  <BEWH_AstartesRankSergeant.label>军士</BEWH_AstartesRankSergeant.label>
+  <!-- EN: Sergeants are seasoned warriors appointed to lead squads into battle. Steeped in the Chapter's doctrines, they embody tactical discipline and command the unwavering loyalty of their Battle-Brothers. -->
+  <BEWH_AstartesRankSergeant.description>军士是身经百战的战士，奉命率领小队投入战斗。他们深谙战团教义，以严格的战术纪律表现出战斗兄弟们的无瑕忠诚。</BEWH_AstartesRankSergeant.description>
+  
+  <!-- EN: Techmarine -->
+  <BEWH_AstartesRankTechmarine.label>技术军士</BEWH_AstartesRankTechmarine.label>
+  <!-- EN: Techmarines are the sacred bridge between the Chapter and Cult Mechanicus. They maintain war engines, command servitors, and wield powerful mechadendrites and plasma tools in both repair and battle. -->
+  <BEWH_AstartesRankTechmarine.description>技术军士是战团与机械神教之间的神圣纽带。他们维护战争引擎，统御机仆，在维修与战斗中驾驭机械附肢与等离子工具。</BEWH_AstartesRankTechmarine.description>
+  
+  <!-- EN: Techmarine Novitiate -->
+  <BEWH_AstartesRankTechmarineNovitiate.label>新进技术军士</BEWH_AstartesRankTechmarineNovitiate.label>
+  <!-- EN: Techmarine Novitiates are initiates of the Machine Cult, undergoing rigorous training in the rites of the Omnissiah. Divided in loyalty between their Chapter and Mars, they begin their path by learning to commune with the machine spirit and soothing the "pain" of sacred wargear. -->
+  <BEWH_AstartesRankTechmarineNovitiate.description>新进技术军士是机械神教的见习者，接受机械神教仪式的严格训练，他们被根据对战团和火星的忠诚度而划分。他们通过学习如何与机魂沟通以及如何抚慰神圣武备的“痛苦”来开启他们的伟大征程。</BEWH_AstartesRankTechmarineNovitiate.description>
+  
+  <!-- EN: Vanguard -->
+  <BEWH_AstartesRankVanguard.label>入侵者</BEWH_AstartesRankVanguard.label>
+  <!-- EN: Vanguards are elite warriors trained in stealth, rapid assault, and close-quarters combat. Often equipped with lighter armor and specialized wargear, they strike swiftly behind enemy lines, spreading terror and confusion before vanishing into the shadows. -->
+  <BEWH_AstartesRankVanguard.description>入侵者是精通潜行、突袭与近身格斗的精锐星际战士。他们通常配备轻型装甲与特种装备，他们如鬼魅般突袭敌后，散布恐惧与混乱，然后遁入暗影。</BEWH_AstartesRankVanguard.description>
+  <!-- EN: Increased stats while in darkness -->
+  <BEWH_AstartesRankVanguard.customEffectDescriptions.0>身处黑暗环境时属性提升</BEWH_AstartesRankVanguard.customEffectDescriptions.0>
+  
+  <!-- EN: Veteran -->
+  <BEWH_AstartesRankVeteran.label>先锋老兵</BEWH_AstartesRankVeteran.label>
+  <!-- EN: Veterans are warriors honed by centuries of battle. These Space Marines are often equipped with the finest relics and serve as mentors, bodyguards, and champions in the Chapter's most vital conflicts. -->
+  <BEWH_AstartesRankVeteran.description>先锋老兵是历经百年战火淬炼的战士。他们通常配备着最精良的遗物，并在关乎战团存亡之战中担任导师、护卫与冠军。</BEWH_AstartesRankVeteran.description>
+  
+</LanguageData>

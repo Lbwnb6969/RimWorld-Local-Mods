@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Emptying slot machine. -->
+  <HospitalityCasino_EmptyVendingMachine.reportString>清空老虎机。</HospitalityCasino_EmptyVendingMachine.reportString>
+
+  <!-- EN: Playing the slot machine. -->
+  <Play_SlotMachine.reportString>玩老虎机。</Play_SlotMachine.reportString>
+  
+</LanguageData>

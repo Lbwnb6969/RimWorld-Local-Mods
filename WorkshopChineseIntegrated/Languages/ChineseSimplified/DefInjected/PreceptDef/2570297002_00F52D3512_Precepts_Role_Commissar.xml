@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: commissar -->
+  <VME_IdeoRole_Commissar.label>政委</VME_IdeoRole_Commissar.label>
+  <!-- EN: A brave and ruthless military tactician who specializes in leading by means of fear and threats. Capable of executing insubordinate pawns in order to motivate the rest. -->
+  <VME_IdeoRole_Commissar.description>一位作战英勇且冷酷无情的军事谋略家，擅长通过权威震慑来领导团体和维持秩序。政委可以处决抗命的怯懦殖民者，以此来提振其他人的士气。</VME_IdeoRole_Commissar.description>
+  
+</LanguageData>

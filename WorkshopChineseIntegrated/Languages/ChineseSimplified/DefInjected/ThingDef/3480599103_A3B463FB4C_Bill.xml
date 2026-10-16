@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bill -->
+  <TA_Bill.label>钩镰枪</TA_Bill.label>
+  <!-- EN: Implement for chopping branches. And sometimes limbs. -->
+  <TA_Bill.description>用于砍伐树枝的工具，偶尔也用来砍断肢体。</TA_Bill.description>
+  <!-- EN: handle -->
+  <TA_Bill.tools.handle.label>枪杆</TA_Bill.tools.handle.label>
+  <!-- EN: head -->
+  <TA_Bill.tools.head.label>枪头</TA_Bill.tools.head.label>
+  <!-- EN: point -->
+  <TA_Bill.tools.point.label>枪尖</TA_Bill.tools.point.label>
+  
+</LanguageData>

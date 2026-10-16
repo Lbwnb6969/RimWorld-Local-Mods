@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SD_DwarvenDrugPlants.label>地下香草</SD_DwarvenDrugPlants.label>
+    <SD_DwarvenDrugPlants.description>种植所有石生种酒饮的三种主要原料。</SD_DwarvenDrugPlants.description>
+
+    <SD_DwarvenBrewing.label>矮人发酵站</SD_DwarvenBrewing.label>
+    <SD_DwarvenBrewing.description>建造矮人酒桶，探索其中蕴藏着的所有奥秘。</SD_DwarvenBrewing.description>
+
+    <SD_ProcessedDrugs.label>复合调制</SD_ProcessedDrugs.label>
+    <SD_ProcessedDrugs.description>利用各种化学物质和矿物质创造加工过的药物混合物和独特药剂。</SD_ProcessedDrugs.description>
+
+    <SC_BasicBaking.label>基础烘培</SC_BasicBaking.label>
+    <SC_BasicBaking.discoveredLetterText>你的殖民地发现了精彩的石生种烘培世界！通过种植霉菌小麦，你的殖民地可以收获真菌面粉并把它烤制成岩石面包，或是使用烤箱生产简单的炖菜！</SC_BasicBaking.discoveredLetterText>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>WeaponStats - Simplified Chinese</name>
+  <author>Local translation patch</author>
+  <packageId>Local.WeaponStats.ChineseSimplified</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Simplified Chinese translation for WeaponStats.</description>
+  <modDependencies>
+    <li>
+      <packageId>bodlosh.WeaponStats</packageId>
+      <displayName>WeaponStats</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/974066449</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>bodlosh.WeaponStats</li>
+  </loadAfter>
+</ModMetaData>

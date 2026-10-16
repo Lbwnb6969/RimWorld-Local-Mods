@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pontoon bridge -->
+  <sd_bridges_pontoonbridge.label>浮桥</sd_bridges_pontoonbridge.label>
+  <!-- EN: The pontoon bridge can only be placed on water/mud/marsh. It will counter the walking impairment from the terrain. You can not stand on it. It's only a fast water crossing solution. -->
+  <sd_bridges_pontoonbridge.description>浮桥只能放置在水域/泥地/沼泽上。 它将抵消地形造成的步行障碍。 你不能在上面驻足。 这只是一种快速的过水解决方案。</sd_bridges_pontoonbridge.description>
+  
+</LanguageData>

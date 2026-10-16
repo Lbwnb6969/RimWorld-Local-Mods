@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Offworld Marines -->
+  <BEWH_OffworldMarinesFaction.label>外星星际战士</BEWH_OffworldMarinesFaction.label>
+  <!-- EN: A company of Space Marines stationed aboard an off-world ship. -->
+  <BEWH_OffworldMarinesFaction.description>一支驻扎在一艘外星飞船上的星际战士战团。</BEWH_OffworldMarinesFaction.description>
+  <!-- EN: Offworld Marines -->
+  <BEWH_OffworldMarinesFaction.fixedName>外星星际战士</BEWH_OffworldMarinesFaction.fixedName>
+  <!-- EN: leader -->
+  <BEWH_OffworldMarinesFaction.leaderTitle>领袖</BEWH_OffworldMarinesFaction.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BEWH_OffworldMarinesFaction.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}!</BEWH_OffworldMarinesFaction.messageDefendersAttacking>
+  <!-- EN: Marine -->
+  <BEWH_OffworldMarinesFaction.pawnSingular>星际战士</BEWH_OffworldMarinesFaction.pawnSingular>
+  <!-- EN: Marines -->
+  <BEWH_OffworldMarinesFaction.pawnsPlural>星际战士</BEWH_OffworldMarinesFaction.pawnsPlural>
+  
+</LanguageData>

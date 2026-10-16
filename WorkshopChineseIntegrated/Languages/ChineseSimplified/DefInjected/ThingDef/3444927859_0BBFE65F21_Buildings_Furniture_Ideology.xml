@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: darklight hearth -->
+  <VFEM2_HearthDarklight.label>微光石炉</VFEM2_HearthDarklight.label>
+  <!-- EN: A large, tightly packed fire pit capable of holding high amounts of wood at once. Provides hefty warmth and light to thronerooms and halls alike and acts as a gathering spot for idle colonists. -->
+  <VFEM2_HearthDarklight.description>一个密集的大型火堆，可以同时燃烧大量木材。可以给谒见厅和客厅提供暖气和光亮，同时也能作为殖民者的聚集点。</VFEM2_HearthDarklight.description>
+  
+</LanguageData>

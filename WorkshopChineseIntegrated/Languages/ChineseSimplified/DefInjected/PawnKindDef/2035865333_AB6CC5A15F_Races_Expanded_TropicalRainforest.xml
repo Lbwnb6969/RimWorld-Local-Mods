@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: jaguar -->
+  <AEXP_Jaguar.label>美洲豹</AEXP_Jaguar.label>
+  
+  <!-- EN: lemur -->
+  <AEXP_Lemur.label>狐猴</AEXP_Lemur.label>
+  
+  <!-- EN: mandrill -->
+  <AEXP_Mandrill.label>山魈</AEXP_Mandrill.label>
+  
+  <!-- EN: tapir -->
+  <AEXP_Tapir.label>貘</AEXP_Tapir.label>
+  
+</LanguageData>

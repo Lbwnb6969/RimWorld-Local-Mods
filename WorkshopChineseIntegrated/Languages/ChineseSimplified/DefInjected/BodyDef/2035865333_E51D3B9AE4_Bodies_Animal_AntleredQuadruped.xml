@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: antlered quadruped -->
+  <AEXP_AntleredQuadruped.label>带鹿角的四足动物</AEXP_AntleredQuadruped.label>
+  <!-- EN: left lung -->
+  <AEXP_AntleredQuadruped.corePart.parts.left_lung.customLabel>左肺</AEXP_AntleredQuadruped.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <AEXP_AntleredQuadruped.corePart.parts.right_lung.customLabel>右肺</AEXP_AntleredQuadruped.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <AEXP_AntleredQuadruped.corePart.parts.left_kidney.customLabel>左肾</AEXP_AntleredQuadruped.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <AEXP_AntleredQuadruped.corePart.parts.right_kidney.customLabel>右肾</AEXP_AntleredQuadruped.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <AEXP_AntleredQuadruped.corePart.parts.front_left_leg.customLabel>左前腿</AEXP_AntleredQuadruped.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <AEXP_AntleredQuadruped.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>左前蹄</AEXP_AntleredQuadruped.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <AEXP_AntleredQuadruped.corePart.parts.front_right_leg.customLabel>右前腿</AEXP_AntleredQuadruped.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <AEXP_AntleredQuadruped.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>右前蹄</AEXP_AntleredQuadruped.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.customLabel>左后腿</AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>左后蹄</AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.customLabel>右后腿</AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>右后蹄</AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+</LanguageData>

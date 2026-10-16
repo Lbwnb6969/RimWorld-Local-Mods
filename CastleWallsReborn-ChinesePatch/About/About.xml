@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Castle Walls Reborn - Simplified Chinese</name>
+  <author>Local translation patch</author>
+  <packageId>Local.CastleWallsReborn.ChineseSimplified</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Simplified Chinese translation for Castle Walls Reborn.</description>
+  <modDependencies>
+    <li>
+      <packageId>Gideon.CastleWalls</packageId>
+      <displayName>Castle Walls Reborn</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3256542892</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Gideon.CastleWalls</li>
+  </loadAfter>
+</ModMetaData>

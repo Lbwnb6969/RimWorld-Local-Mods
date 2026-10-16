@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->Our trackers have discovered footprints that seem to lead to a Sanguophage camp nestled near [map_definite]. The area shows signs of recent activity, and it seems the camp may be built around an old crypt. These creatures are a danger to all, and their lair might hold valuable relics or technology worth recovering. Be prepared for resistance, as the Sanguophages will not give up their stronghold without a fight.</li>
+  -->
+  <AM_OpportunitySite_SanguophageCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->我们的追猎者发现了一些异常的足迹，看起来它们是朝着[map_definite]附近的某个血族营地去的。这片区域最近存在血族活动的迹象，而他们的营地似乎搭建在了一座古老的墓穴旁。\n\n虽然血族对任何生物而言都种威胁，不过他们藏在老巢里的圣物或科技也许能为我们所用。这些血族顽抗到底的可能性很高，我们应当提前做好激战的准备。</li>
+  </AM_OpportunitySite_SanguophageCamp.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[camp] [discovered]</li>
+    <li>camp->Sanguophage camp</li>
+    <li>camp->Sanguophage den</li>
+    <li>camp->Sanguophage lair</li>
+    <li>camp->Sanguophage mausoleum</li>
+    <li>discovered->discovered</li>
+    <li>discovered->found</li>
+    <li>discovered->located</li>
+    <li>discovered->brought to light</li>
+    <li>discovered->tracked down</li>
+    <li>discovered->unearthed</li>
+  -->
+  <AM_OpportunitySite_SanguophageCamp.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[discovered][camp]</li>
+    <li>camp->血族营地</li>
+    <li>camp->血族窝点</li>
+    <li>camp->血族巢穴</li>
+    <li>camp->血族陵墓</li>
+    <li>discovered->被发现的</li>
+    <li>discovered->被找到的</li>
+    <li>discovered->被定位的</li>
+    <li>discovered->被揭露的</li>
+    <li>discovered->被探查到的</li>
+    <li>discovered->被追踪到的</li>
+  </AM_OpportunitySite_SanguophageCamp.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <AM_OpportunitySite_SanguophageCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务失效：[resolvedQuestName]</AM_OpportunitySite_SanguophageCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Intercepted communications indicate the sanguophage camp has seemingly vanished without a trace. The quest [resolvedQuestName] has expired. -->
+  <AM_OpportunitySite_SanguophageCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>根据刚截获的讯息表明，血族营地已经悄无声息地消失了。任务“[resolvedQuestName]”已经失效。</AM_OpportunitySite_SanguophageCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

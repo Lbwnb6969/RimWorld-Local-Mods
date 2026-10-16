@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scyther -->
+  <CAMech_Scyther.label>机械飞螳</CAMech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive. -->
+  <CAMech_Scyther.description>一种移动迅速的、人类大小的中型作战机械体，其身体上遍布着可怕的尖刺与镰刃。它们擅长凭借速度优势快速突入敌阵，并用镰刃状的双臂切下敌人的四肢或开膛破肚。</CAMech_Scyther.description>
+  <!-- EN: left blade -->
+  <CAMech_Scyther.tools.left_blade.label>左镰刃</CAMech_Scyther.tools.left_blade.label>
+  <!-- EN: right blade -->
+  <CAMech_Scyther.tools.right_blade.label>右镰刃</CAMech_Scyther.tools.right_blade.label>
+  <!-- EN: head -->
+  <CAMech_Scyther.tools.head.label>头</CAMech_Scyther.tools.head.label>
+  
+</LanguageData>

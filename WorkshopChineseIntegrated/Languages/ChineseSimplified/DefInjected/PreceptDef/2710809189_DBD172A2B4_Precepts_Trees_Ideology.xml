@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_OcularTrees_Desired.label>渴望</AM_OcularTrees_Desired.label>
+  
+  <AM_OcularTrees_Desired.description>异目树的怪异凝视能够抚慰我们的心灵。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 注意：异目树出自Alpha Animals与Alpha Biomes这两个Mod。如果你并未安装其中之一，将无法获得异目树。</AM_OcularTrees_Desired.description>
+  
+  <AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.0>没有异目树</AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.0>
+  
+  <AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.1>稀疏的异目树（少于50棵）</AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.1>
+  
+  <AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.2>足量的异目树（少于500棵）</AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.2>
+  
+  <AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.3>繁茂的异目树（少于1000棵）</AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.3>
+  
+  <AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.4>壮丽的异目树（多于1000棵）</AM_OcularTrees_Desired.comps.0.thoughtStageDescriptions.4>
+  
+  
+  <AM_OcularTrees_Indifferent.label>漠视</AM_OcularTrees_Indifferent.label>
+  
+  <AM_OcularTrees_Indifferent.description>这些树看起来真是古怪。好恶心。</AM_OcularTrees_Indifferent.description>
+  
+</LanguageData>

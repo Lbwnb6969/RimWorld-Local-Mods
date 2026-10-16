@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional" MayRequire="athelas.medievalkingdoms.hre">
+    <xpath>Defs/FactionDef[defName="BA_HRE_NobleHouse"]/modExtensions/li[@Class="KCSG.CustomGenOption"]/chooseFromSettlements</xpath>
+    <match Class="PatchOperationReplace"><xpath>Defs/FactionDef[defName="BA_HRE_NobleHouse"]/modExtensions/li[@Class="KCSG.CustomGenOption"]/chooseFromSettlements</xpath><value><chooseFromSettlements><li>BA_HRETown</li><li>BA_HRETown</li><li>BA_HRETown</li><li>BA_HRETown</li><li>BA_HRETown</li><li>BA_HRETown</li><li>EESMK_HRE_FreeCityTownV2</li><li>EESMK_HRE_PrinceBishopTownV2</li><li>EESMK_HRE_ImperialBurgTownV2</li><li>EESMK_HRE_HanseaticGateTownV2</li></chooseFromSettlements></value></match>
+  </Operation>
+  <Operation Class="PatchOperationConditional" MayRequire="athelas.medievalkingdoms.poland">
+    <xpath>Defs/FactionDef[defName="BA_Poland_NobleHouse"]/modExtensions/li[@Class="KCSG.CustomGenOption"]/chooseFromSettlements</xpath>
+    <match Class="PatchOperationReplace"><xpath>Defs/FactionDef[defName="BA_Poland_NobleHouse"]/modExtensions/li[@Class="KCSG.CustomGenOption"]/chooseFromSettlements</xpath><value><chooseFromSettlements><li>BA_PolishTown</li><li>BA_PolishTown</li><li>BA_PolishTown</li><li>BA_PolishTown</li><li>BA_PolishTown</li><li>BA_PolishTown</li><li>EESMK_Poland_RiverGrodTownV2</li><li>EESMK_Poland_BrickCastleTownV2</li><li>EESMK_Poland_RoyalGrodTownV2</li><li>EESMK_Poland_BorderStarostyTownV2</li></chooseFromSettlements></value></match>
+  </Operation>
+</Patch>

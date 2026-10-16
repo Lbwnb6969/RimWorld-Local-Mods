@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.0>subject->[subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.0>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.1>title->[subject_primary]的秘密</DankPyon_AncientLore_Name.rulePack.rulesStrings.1>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.2>title->[subject_primary]论</DankPyon_AncientLore_Name.rulePack.rulesStrings.2>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.3>title->[subject_primary]纲要</DankPyon_AncientLore_Name.rulePack.rulesStrings.3>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.4>title->古代[subject_primary]的启示</DankPyon_AncientLore_Name.rulePack.rulesStrings.4>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.5>title->发掘[subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.5>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.6>title->古人的智慧: [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.6>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.7>title->[subject_primary]与其[randAdjective]艺术</DankPyon_AncientLore_Name.rulePack.rulesStrings.7>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.8>title->[subject_primary]揭秘</DankPyon_AncientLore_Name.rulePack.rulesStrings.8>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.9>title->探寻[subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.9>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.10>title->了解[subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.10>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.11>title->[subject_primary]原理</DankPyon_AncientLore_Name.rulePack.rulesStrings.11>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.12>title->[subject_primary]及其应用</DankPyon_AncientLore_Name.rulePack.rulesStrings.12>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.13>title->[subject_primary]编年史, 卷[volNumeral]</DankPyon_AncientLore_Name.rulePack.rulesStrings.13>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.14>title->关于[subject_primary][randAdjective]见解</DankPyon_AncientLore_Name.rulePack.rulesStrings.14>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.15>title->[randAdjective][subject_primary]秘密</DankPyon_AncientLore_Name.rulePack.rulesStrings.15>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.16>title->[maybe_authored_title]</DankPyon_AncientLore_Name.rulePack.rulesStrings.16>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.17>volNumeral->I</DankPyon_AncientLore_Name.rulePack.rulesStrings.17>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.18>volNumeral->II</DankPyon_AncientLore_Name.rulePack.rulesStrings.18>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.19>volNumeral->III</DankPyon_AncientLore_Name.rulePack.rulesStrings.19>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.20>volNumeral->IV</DankPyon_AncientLore_Name.rulePack.rulesStrings.20>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.21>volNumeral->V</DankPyon_AncientLore_Name.rulePack.rulesStrings.21>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.22>maybe_authored_title->[author_gen]的手稿</DankPyon_AncientLore_Name.rulePack.rulesStrings.22>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.23>maybe_authored_title->[author_gen]的手抄本</DankPyon_AncientLore_Name.rulePack.rulesStrings.23>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.24>author_gen->[ANYPAWN_nameIndef]的论文</DankPyon_AncientLore_Name.rulePack.rulesStrings.24>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.25>author_gen->[ANYPAWN_nameIndef]志</DankPyon_AncientLore_Name.rulePack.rulesStrings.25>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.26>randAdjective->古老的</DankPyon_AncientLore_Name.rulePack.rulesStrings.26>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.27>randAdjective->神秘的</DankPyon_AncientLore_Name.rulePack.rulesStrings.27>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.28>randAdjective->被遗忘的</DankPyon_AncientLore_Name.rulePack.rulesStrings.28>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.29>randAdjective->神秘莫测的</DankPyon_AncientLore_Name.rulePack.rulesStrings.29>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.30>randAdjective->奥秘的</DankPyon_AncientLore_Name.rulePack.rulesStrings.30>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.31>randAdjective->怪诞的</DankPyon_AncientLore_Name.rulePack.rulesStrings.31>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.32>randAdjective->晦涩的</DankPyon_AncientLore_Name.rulePack.rulesStrings.32>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.33>randAdjective->失落的</DankPyon_AncientLore_Name.rulePack.rulesStrings.33>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.34>randAdjective->原始的</DankPyon_AncientLore_Name.rulePack.rulesStrings.34>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.35>randAdjective->神圣的</DankPyon_AncientLore_Name.rulePack.rulesStrings.35>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.36>randAdjective->永恒的</DankPyon_AncientLore_Name.rulePack.rulesStrings.36>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.37>randAdjective->上古的</DankPyon_AncientLore_Name.rulePack.rulesStrings.37>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.38>randAdjective->神话的</DankPyon_AncientLore_Name.rulePack.rulesStrings.38>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.39>randAdjective->传说的</DankPyon_AncientLore_Name.rulePack.rulesStrings.39>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.40>randAdjective->久远的</DankPyon_AncientLore_Name.rulePack.rulesStrings.40>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.41>randAdjective->魔法的</DankPyon_AncientLore_Name.rulePack.rulesStrings.41>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.42>randAdjective->冗长的</DankPyon_AncientLore_Name.rulePack.rulesStrings.42>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.43>randAdjective->史前的</DankPyon_AncientLore_Name.rulePack.rulesStrings.43>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_SupplyCaravan.label>караван снабжения</EES_SupplyCaravan.label>
+  <EES_SupplyCaravan.description>Караван снабжения, везущий груз к ближайшей крепости. Если перехватить его до прибытия, вы захватите груз и временно ослабите оборону крепости назначения.</EES_SupplyCaravan.description>
+  <EES_SupplyEncounter.label>встреча с караваном снабжения</EES_SupplyEncounter.label>
+  <EES_SupplyEncounter.description>Местность, где произошла встреча с караваном снабжения.</EES_SupplyEncounter.description>
+  <EES_RebuildConvoy.label>караван восстановления</EES_RebuildConvoy.label>
+  <EES_RebuildConvoy.description>Караван, везущий рабочих и материалы для восстановления разрушенной базы. Перехватите и уничтожьте его, чтобы навсегда отменить восстановление.</EES_RebuildConvoy.description>
+</LanguageData>

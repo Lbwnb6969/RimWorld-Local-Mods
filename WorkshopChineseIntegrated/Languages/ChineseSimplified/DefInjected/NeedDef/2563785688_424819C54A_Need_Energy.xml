@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: energy -->
+  <TabulaRasa_EnergyNeed.label>能量</TabulaRasa_EnergyNeed.label>
+  <!-- EN: Energy is the amount of electrical power stored inside the pawn. If it is at zero, the pawn will switch to emergency power mode and soon deactivate if not charged. -->
+  <TabulaRasa_EnergyNeed.description>此单位需要定期充电来补充供其正常运转活动的能量。当能量归零时，此单位将会切换至后备能源模式。如果得不到及时补充，很快便会永久关机。</TabulaRasa_EnergyNeed.description>
+  
+</LanguageData>

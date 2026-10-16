@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_MarksmanAura.label>командование стрелка</EES_MarksmanAura.label>
+  <EES_MarksmanAura.description>Под командованием офицера-стрелка меткость стрельбы повышена.</EES_MarksmanAura.description>
+  <EES_AssaultAura.label>командование штурма</EES_AssaultAura.label>
+  <EES_AssaultAura.description>Под командованием штурмового командира подвижность повышена.</EES_AssaultAura.description>
+  <EES_WarlordProtected.label>эгида полководца</EES_WarlordProtected.label>
+  <EES_WarlordProtected.description>Пока полководец жив, входящий урон снижен (×0.75).</EES_WarlordProtected.description>
+  <EES_WarlordExposed.label>полководец пал</EES_WarlordExposed.label>
+  <EES_WarlordExposed.description>Со смертью полководца боевой дух рушится, а входящий урон резко возрастает (×2.5).</EES_WarlordExposed.description>
+</LanguageData>

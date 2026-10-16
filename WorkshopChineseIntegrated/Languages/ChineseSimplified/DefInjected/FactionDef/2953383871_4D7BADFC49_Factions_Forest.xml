@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Forest_Faction.label>森林住民</DankPyon_Forest_Faction.label>
+  <DankPyon_Forest_Faction.description>居住在森林深处的怪物和无人性的生物。以不分青红皂白地猎杀人类来庇护自然界的动物而闻名。</DankPyon_Forest_Faction.description>
+  <DankPyon_Forest_Faction.fixedName>森林生物</DankPyon_Forest_Faction.fixedName>
+  <DankPyon_Forest_Faction.leaderTitle>首领</DankPyon_Forest_Faction.leaderTitle>
+  <DankPyon_Forest_Faction.pawnSingular>树</DankPyon_Forest_Faction.pawnSingular>
+  <DankPyon_Forest_Faction.pawnsPlural>树</DankPyon_Forest_Faction.pawnsPlural>
+  <DankPyon_Forest_Faction.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_Forest_Faction.messageDefendersAttacking>
+
+
+  <DankPyon_Witch_Faction.label>惑魅女巫</DankPyon_Witch_Faction.label>
+  <DankPyon_Witch_Faction.description>居住在森林深处的怪物和无人性的生物。以不分青红皂白地猎杀人类来庇护自然界的动物而闻名。</DankPyon_Witch_Faction.description>
+  <DankPyon_Witch_Faction.fixedName>惑魅女巫</DankPyon_Witch_Faction.fixedName>
+  <DankPyon_Witch_Faction.leaderTitle>首领</DankPyon_Witch_Faction.leaderTitle>
+  <DankPyon_Witch_Faction.pawnSingular>树</DankPyon_Witch_Faction.pawnSingular>
+  <DankPyon_Witch_Faction.pawnsPlural>树</DankPyon_Witch_Faction.pawnsPlural>
+  <DankPyon_Witch_Faction.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_Witch_Faction.messageDefendersAttacking>
+
+
+</LanguageData>

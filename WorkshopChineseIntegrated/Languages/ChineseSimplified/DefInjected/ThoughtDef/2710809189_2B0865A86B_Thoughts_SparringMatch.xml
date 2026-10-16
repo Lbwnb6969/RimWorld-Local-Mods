@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: uneventful sparring match -->
+  <AM_BoringSparring.stages.uneventful_sparring_match.label>平凡无奇的格斗竞技</AM_BoringSparring.stages.uneventful_sparring_match.label>
+  <!-- EN: The match lacked energy and intensity, leaving me feeling unimpressed. -->
+  <AM_BoringSparring.stages.uneventful_sparring_match.description>格斗竞技平凡无奇。这场竞技缺乏激情和紧张感，我们根本感受不到任何东西。</AM_BoringSparring.stages.uneventful_sparring_match.description>
+  
+  <!-- EN: invigorating sparring match -->
+  <AM_FunSparring.stages.invigorating_sparring_match.label>激动人心的格斗竞技</AM_FunSparring.stages.invigorating_sparring_match.label>
+  <!-- EN: A lively match that showcased skill and spirit, leaving me feeling energized. -->
+  <AM_FunSparring.stages.invigorating_sparring_match.description>格斗竞技激动人心。这场精彩的竞技向我们展示了何为技巧与勇气，每个人都感到兴奋不已。</AM_FunSparring.stages.invigorating_sparring_match.description>
+  
+  <!-- EN: embarrassing sparring match -->
+  <AM_TerribleSparring.stages.embarrassing_sparring_match.label>尴尬不已的格斗竞技</AM_TerribleSparring.stages.embarrassing_sparring_match.label>
+  <!-- EN: The match lacked skill, discipline, and respect. It was a shameful display that lingers in my thoughts. -->
+  <AM_TerribleSparring.stages.embarrassing_sparring_match.description>格斗竞技令人尴尬不已。参加这场竞技的决斗者们缺乏技巧、训练和相互尊重，如此丢脸的表现让人根本无法忘怀。</AM_TerribleSparring.stages.embarrassing_sparring_match.description>
+  
+  <!-- EN: exhilarating sparring match -->
+  <AM_UnforgettableSparring.stages.exhilarating_sparring_match.label>心潮澎湃的格斗竞技</AM_UnforgettableSparring.stages.exhilarating_sparring_match.label>
+  <!-- EN: A breathtaking display of mastery and determination, leaving a lasting impression on me. -->
+  <AM_UnforgettableSparring.stages.exhilarating_sparring_match.description>格斗竞技令人心潮澎湃！这场惊心动魄的竞技让我们见识到了娴熟的技巧和决心，它们会深深刻在每个人的脑海中。</AM_UnforgettableSparring.stages.exhilarating_sparring_match.description>
+  
+</LanguageData>

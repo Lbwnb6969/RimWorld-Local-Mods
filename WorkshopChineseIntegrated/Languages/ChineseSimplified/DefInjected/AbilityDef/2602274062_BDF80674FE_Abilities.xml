@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient coordinator -->
+  <CAAncientCoordinator.label>远古调谐</CAAncientCoordinator.label>
+  <!-- EN: The caster aswell as 4 other colonists are granted the power of the ancient protective aura without any downsides as long as the caster is alive. However, every other pawn exceeding the limit of 5 will die. Requires the ancient gift. -->
+  <CAAncientCoordinator.description>为施法者自身与其他四名殖民者施加无任何副作用的远古守护光环。只要施法者还活着，光环效果就不会消散。但是请一定要注意：只要你的总人数超过此能力的人数限制(四人，不包括施法者本身)，那么超出上限部分的殖民者将会当场毙命。再次施展可解除能力效果。只有获得远古天赋的天选之人才能使用此能力。</CAAncientCoordinator.description>
+  
+  <!-- EN: ancient mech signal -->
+  <CAAncientMechSignal.label>远古机械增援信号</CAAncientMechSignal.label>
+  <!-- EN: Summons a group of mechanoid scythers to the caster's aid. Requires the ancient gift. -->
+  <CAAncientMechSignal.description>在指定地点召唤一组为施法者而战的机械飞螳。只有获得远古天赋的天选之人才能使用此能力。</CAAncientMechSignal.description>
+  
+  <!-- EN: ancient meditation -->
+  <CAAncientMeditate.label>远古冥想</CAAncientMeditate.label>
+  <!-- EN: Absorbs psychic energy from nature and restores it for the user. Other colonists standing close to the caster regain a small amount aswell. Requires the ancient gift. -->
+  <CAAncientMeditate.description>从大自然中汲取能量来为指定目标恢复精神力。处于施法者附近的其他殖民者也将恢复少量的精神力。只有获得远古天赋的天选之人才能使用此能力。</CAAncientMeditate.description>
+  
+  <!-- EN: ancient protective aura -->
+  <CAAncientProtectiveAura.label>远古守护光环</CAAncientProtectiveAura.label>
+  <!-- EN: Allows the caster to channel psyfocus to directly strenghten the bodies capabilities in almost any humanly possible way. Agility, melee combat, aswell as endurance are highly increased. It also protects the target from a large part of incoming damage, fire, heals wounds over time (even permanent ones when active long enough). \n\nReduces the overall heat a pawn can handle and accelerates psyfocus drain by 2% / day while active. The effect of this spell disappears if cast a second time or no more psyfocus is available. \n\nRequires the ancient gift, unless enhanced by The Ancient Coordinator spell. -->
+  <CAAncientProtectiveAura.description>允许施法者引导精神力将自身身体素质强化至人类所能抵达的极限，各项能力都将获得极大提升。远古守护光环可以大幅减轻施法者所受的伤害并免疫燃烧，还能随时间推移渐渐治愈身上的伤口(包括永久性疤痕，但需要足够长的时间)。\n\n远古守护光环会降低施法者的最大心灵熵阈值，并在其活动时以每天2%的速度消耗精神力。再次施展或精神力归零可解除能力效果。\n\n只有获得远古天赋的天选之人才能使用此能力。</CAAncientProtectiveAura.description>
+  
+  <!-- EN: ancient thunder bolt -->
+  <CAAncientThunderBolt.label>远古落雷</CAAncientThunderBolt.label>
+  <!-- EN: Powerful ancient psypower, a targettet thunder blast with area damage. Requires the ancient gift. -->
+  <CAAncientThunderBolt.description>威力十足的远古心灵能力。在指定地点瞬间降下大量雷暴，可造成极其恐怖的伤害。只有获得远古天赋的天选之人才能使用此能力。</CAAncientThunderBolt.description>
+  
+  <!-- EN: mystical guiding light -->
+  <CAConjureLight.label>指引秘灯</CAConjureLight.label>
+  <!-- EN: A support light for travels that increases the travelers speed, may it be on a map or caravan. Can't be cast on the road and has a lengthy preperation time. Lasts 3 days. -->
+  <CAConjureLight.description>召唤一盏指引秘灯，提高施法者在当前地图或远行时的移动速度。此能力的释放时间较长，且无法在远行途中使用。能力效果持续三天。</CAConjureLight.description>
+  
+</LanguageData>

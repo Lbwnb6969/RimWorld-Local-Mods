@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doors and Structures -->
+
+  <DankPyon_RuinedRusticDoor.label>封死的门</DankPyon_RuinedRusticDoor.label>
+  <DankPyon_RuinedRusticDoor.description>这扇门被木板加封固定住了。必须摧毁后才能通过。</DankPyon_RuinedRusticDoor.description>
+
+  <DankPyon_RuinedSlabDoor.label>毁坏的门</DankPyon_RuinedSlabDoor.label>
+  <DankPyon_RuinedSlabDoor.description>这扇门已经碎成一堆石块。必须摧毁后才能通过。</DankPyon_RuinedSlabDoor.description>
+
+  <DankPyon_RuinedGate.label>上锁的门</DankPyon_RuinedGate.label>
+  <DankPyon_RuinedGate.description>一扇锁着的金属门。通行的唯一办法就是破门而入。</DankPyon_RuinedGate.description>
+
+  <DankPyon_RuinedColumn.label>毁坏的柱子</DankPyon_RuinedColumn.label>
+  <DankPyon_RuinedColumn.description>曾经是设计华丽的高柱子。</DankPyon_RuinedColumn.description>
+
+  <DankPyon_Ruined_AncientColumn.label>毁坏的远古高柱</DankPyon_Ruined_AncientColumn.label>
+  <DankPyon_Ruined_AncientColumn.description>曾经设计华丽的高柱子。</DankPyon_Ruined_AncientColumn.description>
+
+
+  <!-- Wooden Ruins -->
+
+  <DankPyon_RuinedStool.label>毁坏的圆凳</DankPyon_RuinedStool.label>
+  <DankPyon_RuinedStool.description>一张毁坏的圆凳。</DankPyon_RuinedStool.description>
+
+  <DankPyon_RuinedBedWicker.label>毁坏的藤编床</DankPyon_RuinedBedWicker.label>
+  <DankPyon_RuinedBedWicker.description>一张毁坏的藤编床。</DankPyon_RuinedBedWicker.description>
+
+  <DankPyon_RuinedBedWickerDouble.label>毁坏的藤编双人床</DankPyon_RuinedBedWickerDouble.label>
+  <DankPyon_RuinedBedWickerDouble.description>一张毁坏的藤编双人床。</DankPyon_RuinedBedWickerDouble.description>
+
+  <DankPyon_WoodenDebris.label>瓦砾堆</DankPyon_WoodenDebris.label>
+  <DankPyon_WoodenDebris.description>一堆家具和建筑残骸，似乎是故意堆在一起的。</DankPyon_WoodenDebris.description>
+
+  <DankPyon_RuinedCloset.label>毁坏的衣橱</DankPyon_RuinedCloset.label>
+  <DankPyon_RuinedCloset.description>一座毁坏的衣橱。</DankPyon_RuinedCloset.description>
+
+  <DankPyon_RuinedBookshelf.label>毁坏的书架</DankPyon_RuinedBookshelf.label>
+  <DankPyon_RuinedBookshelf.description>一座毁坏的书架。</DankPyon_RuinedBookshelf.description>
+
+  <DankPyon_EmptyBucket.label>破旧木桶</DankPyon_EmptyBucket.label>
+  <DankPyon_EmptyBucket.description>一个看起来空空的木桶。里面可能还留有一些废料。</DankPyon_EmptyBucket.description>
+
+  <DankPyon_RuinedCrate1x1c.label>破旧箱子</DankPyon_RuinedCrate1x1c.label>
+  <DankPyon_RuinedCrate1x1c.description>一个破箱子。里面可能还留有一些废料。</DankPyon_RuinedCrate1x1c.description>
+
+  <DankPyon_RuinedTable1x2c.label>毁坏的桌子(1x2)</DankPyon_RuinedTable1x2c.label>
+  <DankPyon_RuinedTable1x2c.description>一张毁坏的桌子。</DankPyon_RuinedTable1x2c.description>
+
+  <DankPyon_RuinedTable2x4c.label>毁坏的桌子(2x4)</DankPyon_RuinedTable2x4c.label>
+  <DankPyon_RuinedTable2x4c.description>一张毁坏的桌子。</DankPyon_RuinedTable2x4c.description>
+
+
+  <!-- Bones -->
+
+  <DankPyon_RuinedRugGrizzlyBear3x3c.label>破损的熊皮地毯(3x3)</DankPyon_RuinedRugGrizzlyBear3x3c.label>
+  <DankPyon_RuinedRugGrizzlyBear3x3c.description>一张破损的熊皮地毯。</DankPyon_RuinedRugGrizzlyBear3x3c.description>
+
+  <DankPyon_RuinedBonePile1x1c.label>残骸堆</DankPyon_RuinedBonePile1x1c.label>
+  <DankPyon_RuinedBonePile1x1c.description>粗陋地堆放在一起的骨头。</DankPyon_RuinedBonePile1x1c.description>
+
+  <DankPyon_RuinedBonePile1x2c.label>大型残骸堆</DankPyon_RuinedBonePile1x2c.label>
+  <DankPyon_RuinedBonePile1x2c.description>粗陋地堆放在一起的骨头。</DankPyon_RuinedBonePile1x2c.description>
+
+  <DankPyon_RuinedBonePile2x2c.label>巨型残骸堆</DankPyon_RuinedBonePile2x2c.label>
+  <DankPyon_RuinedBonePile2x2c.description>大量骨头粗陋地散落在此处。</DankPyon_RuinedBonePile2x2c.description>
+
+
+  <!-- Furniture -->
+
+  <DankPyon_RuinedBust.label>毁坏的半身像</DankPyon_RuinedBust.label>
+  <DankPyon_RuinedBust.description>曾经是一块躯干大小的材料雕刻成的艺术品。</DankPyon_RuinedBust.description>
+
+  <DankPyon_RuinedCandles.label>毁坏的蜡烛</DankPyon_RuinedCandles.label>
+  <DankPyon_RuinedCandles.description>陈旧且沾满灰尘的蜡烛，无法使用。</DankPyon_RuinedCandles.description>
+
+  <DankPyon_RuinedCandleStand.label>毁坏的烛台</DankPyon_RuinedCandleStand.label>
+  <DankPyon_RuinedCandleStand.description>一座毁坏的烛台。</DankPyon_RuinedCandleStand.description>
+
+  <DankPyon_RuinedStewPot.label>毁坏的炖锅</DankPyon_RuinedStewPot.label>
+  <DankPyon_RuinedStewPot.description>一个陈旧生锈的大锅，里面装满了无法辨认的生物的残骸。</DankPyon_RuinedStewPot.description>
+
+  <DankPyon_RuinedAnvil.label>毁坏的铁砧</DankPyon_RuinedAnvil.label>
+  <DankPyon_RuinedAnvil.description>弯曲破损，这座铁砧的状态已经不如往昔。</DankPyon_RuinedAnvil.description>
+
+  <DankPyon_RuinedHearth.label>毁坏的壁炉</DankPyon_RuinedHearth.label>
+  <DankPyon_RuinedHearth.description>一座毁坏的壁炉。</DankPyon_RuinedHearth.description>
+
+  <DankPyon_RuinedMineShaft.label>毁坏的矿井</DankPyon_RuinedMineShaft.label>
+  <DankPyon_RuinedMineShaft.description>一个废弃的矿井，无人维护，导致其轴承断裂，使这座矿井无法使用。</DankPyon_RuinedMineShaft.description>
+
+  <DankPyon_StoneDebris.label>砖墙遗址</DankPyon_StoneDebris.label>
+  <DankPyon_StoneDebris.description>一堆倒塌的石砖墙，可能曾经是废墟和地牢的一部分。\n\n它仍然包含有用的资源，可以摧毁回收资源。</DankPyon_StoneDebris.description>
+
+  <DankPyon_StoneDebrisSmall.label>小型砖墙遗址</DankPyon_StoneDebrisSmall.label>
+  <DankPyon_StoneDebrisSmall.description>一堆倒塌的石砖墙，可能曾经是废墟和地牢的一部分。\n\n它仍然包含有用的资源，可以摧毁回收少量资源。</DankPyon_StoneDebrisSmall.description>
+
+  <DankPyon_Cellar.label>地窖</DankPyon_Cellar.label>
+  <!--<DankPyon_Cellar.description>serves no function at the moment, just acts as a placeholder</DankPyon_Cellar.description>-->
+
+</LanguageData>

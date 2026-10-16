@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificer -->
+  <VR_Artificer.label>机巧师</VR_Artificer.label>
+  
+  <!-- EN: artificer -->
+  <VR_Artificer_Basic.label>机巧师</VR_Artificer_Basic.label>
+  
+  <!-- EN: explorer -->
+  <VR_RuinExplorer.label>探险者</VR_RuinExplorer.label>
+  
+</LanguageData>

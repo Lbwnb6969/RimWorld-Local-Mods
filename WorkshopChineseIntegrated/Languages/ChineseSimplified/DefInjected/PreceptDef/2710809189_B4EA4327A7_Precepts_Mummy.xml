@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mummification funeral -->
+  <AM_Mummification.label>木乃伊葬礼</AM_Mummification.label>
+  <!-- EN: A gathering to witness the mummification of our friend -->
+  <AM_Mummification.description>在指定地点处举行葬礼，以将死者制成木乃伊。</AM_Mummification.description>
+  <!-- EN: {PAWN_nameDef} should be mummmified so {PAWN_possessive} friends and family can visit them whenever they want. -->
+  <AM_Mummification.extraTextPawnDeathLetter>{PAWN_nameDef}应当被制成木乃伊，以便{PAWN_possessive}朋友和家人可以随时去祭奠。</AM_Mummification.extraTextPawnDeathLetter>
+  
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <VME_PermanentBases_Desired.label>渴望</VME_PermanentBases_Desired.label>
+  <!-- EN: Our colony should become our forever home, the more buildings, paths, and lights we can erect the better off we’ll all be.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists gets mood penalties / bonuses depending on amount of buildings on the map. "Building" is a completely enclosed structure with at least 25 tiles size. -->
+  <VME_PermanentBases_Desired.description>我们的殖民地应该成为永恒的家园。我们建造的房屋、道路与照明灯越多，我们也就过得越舒适。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 殖民者会依据地图上的房屋数量来获得心情减益/增益。“房屋”的空间面积必须不少于25格。</VME_PermanentBases_Desired.description>
+  <!-- EN: Magnificent city (more than 20 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>宏伟的城镇（房屋数量超过20）</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Lots of beautiful buildings (less than 20 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>美丽的城镇（房屋数量少于20）</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Many beautiful buildings (less than 15 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>温馨的城镇（房屋数量少于15）</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Burgeoning city (less than 10 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>新兴的城镇（房屋数量少于10）</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Not enough buildings (less than 5 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>房屋不足（房屋数量少于5）</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>
+  
+  <!-- EN: despised -->
+  <VME_PermanentBases_Despised.label>厌恶</VME_PermanentBases_Despised.label>
+  <!-- EN: Our colony is only temporary, should we stay it will only be a matter of time before we are unable to defend it, it is better to never gain such comfort.\n\n<color=#E5E54C>Stats:</color>\n - Farming yield: -10%.\n - Gathering yield: +40%. -->
+  <VME_PermanentBases_Despised.description>殖民地并非我们长久的居所，就算留下来也无法永远守卫它。我们最好不要对此抱有幻想。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 农耕产出：-10%。\n - 远行采集量：+40%。</VME_PermanentBases_Despised.description>
+  <!-- EN: Wanderlust (15 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>渴望远行（15天）</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Wanderlust (16 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>渴望远行（16天）</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Wanderlust (17 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>渴望远行（17天）</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Wanderlust (20 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>渴望远行（20天）</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Wanderlust (30 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>渴望远行（30天）</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>
+  <!-- EN: Wanderlust (40 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>渴望远行（40天）</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>
+  <!-- EN: Wanderlust (50 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>渴望远行（50天）</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>
+  <!-- EN: Wanderlust (60 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>渴望远行（60天）</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>
+  
+</LanguageData>

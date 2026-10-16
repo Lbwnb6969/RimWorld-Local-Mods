@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_ShadowSect.label>月影邪教</DankPyon_ShadowSect.label>
+  <DankPyon_ShadowSect.description>注意：请不要禁用这个派系，否则将无法生成MO专属的探索据点。\n\n在秩序无法照拂的黑暗社会里，一直流传着「月影邪教」这个邪恶势力的传说。尽管世人普遍认为他们在几个世纪前就已经被根除了，但影子仍存在于社会的角落，致力于崇拜假神，并以残酷的祭祀活动来安抚他们的所谓的神灵。\n\n月影邪教的秘密仪式披着隐密的外衣，回荡着被诅咒者的惨叫和血腥味。他们是伪装和操纵的大师，编织着一张又一张的欺瞒之网，让世人无法看见他们的存在。\n\n关于影子已渗透到社会各阶层的传言不绝于耳，他们像毒蛇一样盘桓在毫无防备的人们身边，等待合适的时机扑向受害者。这些邪教徒以堕落者的血肉为食，是受原始饥饿本能和扭曲奉献精神驱使的食人者。然而，在恐怖的背后，传说有一座隐蔽的圣地，里面散落着古老的圣物和被诅咒的宝藏。\n\n当心阴影，因为邪教徒的领地就隐藏其中，那是一个永远受黑暗统治的领域，只要身在其中，很快就会发觉现实与恶梦之间的界线不再存续。</DankPyon_ShadowSect.description>
+  <DankPyon_ShadowSect.leaderTitle>教宗</DankPyon_ShadowSect.leaderTitle>
+  <DankPyon_ShadowSect.pawnSingular>教徒</DankPyon_ShadowSect.pawnSingular>
+  <DankPyon_ShadowSect.pawnsPlural>教徒</DankPyon_ShadowSect.pawnsPlural>
+  <DankPyon_ShadowSect.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_ShadowSect.messageDefendersAttacking>
+
+
+</LanguageData>

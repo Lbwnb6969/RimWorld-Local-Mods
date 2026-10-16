@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_TreatiseShooting.label>抄写中世纪论着（射击）</DankPyon_TreatiseShooting.label>
+  <DankPyon_TreatiseShooting.description>抄写中世纪论着（射击）。</DankPyon_TreatiseShooting.description>
+  <DankPyon_TreatiseShooting.jobString>正在抄写中世纪论着（射击）。</DankPyon_TreatiseShooting.jobString>
+
+  <DankPyon_TreatiseMelee.label>抄写中世纪论着（格斗）</DankPyon_TreatiseMelee.label>
+  <DankPyon_TreatiseMelee.description>抄写中世纪论着（格斗）。</DankPyon_TreatiseMelee.description>
+  <DankPyon_TreatiseMelee.jobString>正在抄写中世纪论着（格斗）。</DankPyon_TreatiseMelee.jobString>
+
+  <DankPyon_TreatiseConstruction.label>抄写中世纪论着（建造）</DankPyon_TreatiseConstruction.label>
+  <DankPyon_TreatiseConstruction.description>抄写中世纪论着（建造）。</DankPyon_TreatiseConstruction.description>
+  <DankPyon_TreatiseConstruction.jobString>正在抄写中世纪论着（建造）。</DankPyon_TreatiseConstruction.jobString>
+
+  <DankPyon_TreatiseMining.label>抄写中世纪论着（采矿）</DankPyon_TreatiseMining.label>
+  <DankPyon_TreatiseMining.description>抄写中世纪论着（采矿）。</DankPyon_TreatiseMining.description>
+  <DankPyon_TreatiseMining.jobString>正在抄写中世纪论着（采矿）。</DankPyon_TreatiseMining.jobString>
+
+  <DankPyon_TreatiseCooking.label>抄写中世纪论着（烹饪）</DankPyon_TreatiseCooking.label>
+  <DankPyon_TreatiseCooking.description>抄写中世纪论着（烹饪）。</DankPyon_TreatiseCooking.description>
+  <DankPyon_TreatiseCooking.jobString>正在抄写中世纪论着（烹饪）。</DankPyon_TreatiseCooking.jobString>
+
+  <DankPyon_TreatiseGrowing.label>抄写中世纪论着（种植）</DankPyon_TreatiseGrowing.label>
+  <DankPyon_TreatiseGrowing.description>抄写中世纪论着（种植）。</DankPyon_TreatiseGrowing.description>
+  <DankPyon_TreatiseGrowing.jobString>正在抄写中世纪论着（种植）。</DankPyon_TreatiseGrowing.jobString>
+
+  <DankPyon_TreatiseAnimals.label>抄写中世纪论着（驯兽）</DankPyon_TreatiseAnimals.label>
+  <DankPyon_TreatiseAnimals.description>抄写中世纪论着（驯兽）。</DankPyon_TreatiseAnimals.description>
+  <DankPyon_TreatiseAnimals.jobString>正在抄写中世纪论着（驯兽）。</DankPyon_TreatiseAnimals.jobString>
+
+  <DankPyon_TreatiseCrafting.label>抄写中世纪论着（手工）</DankPyon_TreatiseCrafting.label>
+  <DankPyon_TreatiseCrafting.description>抄写中世纪论着（手工）。</DankPyon_TreatiseCrafting.description>
+  <DankPyon_TreatiseCrafting.jobString>正在抄写中世纪论着（手工）。</DankPyon_TreatiseCrafting.jobString>
+
+  <DankPyon_TreatiseArt.label>抄写中世纪论着（艺术）</DankPyon_TreatiseArt.label>
+  <DankPyon_TreatiseArt.description>抄写中世纪论着（艺术）。</DankPyon_TreatiseArt.description>
+  <DankPyon_TreatiseArt.jobString>正在抄写中世纪论着（艺术）。</DankPyon_TreatiseArt.jobString>
+
+  <DankPyon_TreatiseMedical.label>抄写中世纪论着（医疗）</DankPyon_TreatiseMedical.label>
+  <DankPyon_TreatiseMedical.description>抄写中世纪论着（医疗）。</DankPyon_TreatiseMedical.description>
+  <DankPyon_TreatiseMedical.jobString>正在抄写中世纪论着（医疗）。</DankPyon_TreatiseMedical.jobString>
+
+  <DankPyon_TreatiseSocial.label>抄写中世纪论着（社交）</DankPyon_TreatiseSocial.label>
+  <DankPyon_TreatiseSocial.description>抄写中世纪论着（社交）。</DankPyon_TreatiseSocial.description>
+  <DankPyon_TreatiseSocial.jobString>正在抄写中世纪论着（社交）。</DankPyon_TreatiseSocial.jobString>
+
+  <DankPyon_TreatiseIntellectual.label>抄写中世纪论着（智识）</DankPyon_TreatiseIntellectual.label>
+  <DankPyon_TreatiseIntellectual.description>抄写中世纪论着（智识）。</DankPyon_TreatiseIntellectual.description>
+  <DankPyon_TreatiseIntellectual.jobString>正在抄写中世纪论着（智识）。</DankPyon_TreatiseIntellectual.jobString>
+
+
+</LanguageData>

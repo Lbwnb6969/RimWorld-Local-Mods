@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: forced recruit relationship damage -->
+  <ForcedRecruitRelationshipDamage.label>强行招募访客对派系关系的损害</ForcedRecruitRelationshipDamage.label>
+  <!-- EN: The damage done to the relationship with the faction of this person when forcefully recruiting. -->
+  <ForcedRecruitRelationshipDamage.description>当强行招募后，对此人所属派系关系造成的损害。</ForcedRecruitRelationshipDamage.description>
+  
+  <!-- EN: recruit effectiveness factor -->
+  <RecruitEffectivity.label>招募效率修正</RecruitEffectivity.label>
+  <!-- EN: The effectiveness when trying to charm visitors to join your faction. -->
+  <RecruitEffectivity.description>尝试招募访客加入你的派系时的效率。</RecruitEffectivity.description>
+  
+  <!-- EN: recruit relationship damage -->
+  <RecruitRelationshipDamage.label>招募访客对派系关系的损害</RecruitRelationshipDamage.label>
+  <!-- EN: The damage done to the relationship with the faction of this person when successfully recruiting. -->
+  <RecruitRelationshipDamage.description>当成功招募后，对此人所属派系关系造成的损害。</RecruitRelationshipDamage.description>
+  
+</LanguageData>

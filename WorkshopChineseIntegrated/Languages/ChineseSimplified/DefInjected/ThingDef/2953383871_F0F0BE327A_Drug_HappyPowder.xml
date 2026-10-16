@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_HappyPowder.label>快乐粉</DankPyon_HappyPowder.label>
+  <DankPyon_HappyPowder.description>这是一种在几个世纪前的一系列奇怪事故中意外诞生的非典型混合药物。之所以得名快乐粉，是因为它具有非常强效且显著的兴奋效果，能让服用者产生极度的欣快感。服用者表示每走一步都感觉疲劳减轻、疼痛减轻，并且更有动力。尽管快乐粉有以上诸多好处，但有些人声称它是用人类儿童的骨头磨碎制成的，并拒绝服用；此外亦有许多报告指出，一旦兴奋感消失，随之将带来反常的道德沦丧和空虚感，学者和炼金术士们至今仍无法理解这种副作用的成因和预防方式。</DankPyon_HappyPowder.description>
+  <DankPyon_HappyPowder.ingestible.ingestCommandString>吸食{0}</DankPyon_HappyPowder.ingestible.ingestCommandString>
+  <DankPyon_HappyPowder.ingestible.ingestReportString>正在吸食{0}。</DankPyon_HappyPowder.ingestible.ingestReportString>
+
+
+</LanguageData>

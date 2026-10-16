@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/TraderKindDef[defName="Caravan_Outlander_Exotic"]/stockGenerators</xpath>
+    <value>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESIntel">
+        <thingDef>EES_IntelData_T1Core</thingDef>
+        <countRange>1~2</countRange>
+        <appearChance>0.45</appearChance>
+      </li>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESIntel">
+        <thingDef>EES_IntelData_T2Core</thingDef>
+        <countRange>1~2</countRange>
+        <appearChance>0.25</appearChance>
+      </li>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESIntel">
+        <thingDef>EES_IntelData_T3Core</thingDef>
+        <countRange>1~1</countRange>
+        <appearChance>0.12</appearChance>
+      </li>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/TraderKindDef[defName="Orbital_Exotic"]/stockGenerators</xpath>
+    <value>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESIntel">
+        <thingDef>EES_IntelData_T1Core</thingDef>
+        <countRange>1~2</countRange>
+        <appearChance>0.45</appearChance>
+      </li>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESIntel">
+        <thingDef>EES_IntelData_T2Core</thingDef>
+        <countRange>1~2</countRange>
+        <appearChance>0.25</appearChance>
+      </li>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESIntel">
+        <thingDef>EES_IntelData_T3Core</thingDef>
+        <countRange>1~1</countRange>
+        <appearChance>0.12</appearChance>
+      </li>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/TraderKindDef[defName="Caravan_Outlander_Exotic"]/stockGenerators</xpath>
+    <value>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESEscapeDevice">
+        <thingDef>EES_EscapeDevice</thingDef>
+        <countRange>1~2</countRange>
+        <appearChance>1.0</appearChance>
+      </li>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/TraderKindDef[defName="Orbital_Exotic"]/stockGenerators</xpath>
+    <value>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESEscapeDevice">
+        <thingDef>EES_EscapeDevice</thingDef>
+        <countRange>1~2</countRange>
+        <appearChance>1.0</appearChance>
+      </li>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/TraderKindDef[defName="Caravan_Outlander_CombatSupplier"]/stockGenerators</xpath>
+    <value>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESEscapeDevice">
+        <thingDef>EES_EscapeDevice</thingDef>
+        <countRange>1~1</countRange>
+        <appearChance>0.35</appearChance>
+      </li>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/TraderKindDef[defName="Orbital_CombatSupplier"]/stockGenerators</xpath>
+    <value>
+      <li Class="EvolvingEnemyStrongholds.StockGenerator_EESEscapeDevice">
+        <thingDef>EES_EscapeDevice</thingDef>
+        <countRange>1~1</countRange>
+        <appearChance>0.35</appearChance>
+      </li>
+    </value>
+  </Operation>
+
+</Patch>

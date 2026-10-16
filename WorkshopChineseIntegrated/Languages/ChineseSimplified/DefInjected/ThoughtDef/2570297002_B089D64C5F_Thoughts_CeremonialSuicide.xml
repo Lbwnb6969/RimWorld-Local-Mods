@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boring ceremonial suicide -->
+  <VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.label>无聊的切腹仪式</VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.label>
+  <!-- EN: That ceremonial suicide was not good. The speech seemed forced. At the very least we have restored the honor of our colony. -->
+  <VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.description>那场切腹仪式非常无聊。虽然有些牵强附会，但至少恢复了我们殖民地的部分荣誉。</VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.description>
+  
+  <!-- EN: honorable ceremonial suicide -->
+  <VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.label>可敬的切腹仪式</VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.label>
+  <!-- EN: A honorable ceremonial suicide. The shadow of defeat no longer clouds our minds. -->
+  <VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.description>那场切腹仪式令人感到敬畏。失败的阴影不再笼罩我们的心灵。</VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.description>
+  
+  <!-- EN: terrible ceremonial suicide -->
+  <VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.label>糟糕的切腹仪式</VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.label>
+  <!-- EN: That ceremonial suicide was terrible. The blade was thrust laterally and there was blood and entrails everywhere. Disgusting! -->
+  <VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.description>那场切腹仪式非常糟糕！刀刃刺入身体的角度非常诡异，鲜血与内脏喷洒的到处都是。呕...真恶心!</VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.description>
+  
+  <!-- EN: unforgettable ceremonial suicide -->
+  <VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.label>难忘的切腹仪式</VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.label>
+  <!-- EN: That ceremonial suicide was unforgettable! Everyone will remember the courage, self-control, and strong resolve. The honor of our colony is now spotless. -->
+  <VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.description>那场切腹仪式令人难忘！每个人都会牢记勇气、自控以增强自己的决心。我们殖民地的荣誉至高无上！</VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.description>
+  
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neutral -->
+
+  <DankPyon_DaerPasses.label>珍稀的鹿熊</DankPyon_DaerPasses.label>
+  <DankPyon_DaerPasses.letterText>一群{1}已进入此地，并会在一段时间后离开。请小心，{1}极其危险，但其强韧的皮毛和雄伟的鹿角也许值得您的关注。</DankPyon_DaerPasses.letterText>
+  <DankPyon_DaerPasses.letterLabel>{0}游荡至此地</DankPyon_DaerPasses.letterLabel>
+
+  <DankPyon_LindwurmPasses.label>珍稀的林德虫</DankPyon_LindwurmPasses.label>
+  <DankPyon_LindwurmPasses.letterText>在命运之风的吹拂下，一群{1}游荡到了这里，为您的王国带来了片刻的光辉。它们威风凛凛地在这片土地上蜿蜒穿行，身上的鳞片像余烬遗辉般散发着令人敬畏的气息。\n\n当心，因为{1}是可怕的对手，它们酸灼的气息和强大的盘绕能力，能对所有胆敢与其擦肩而过的人构成极大的威胁。</DankPyon_LindwurmPasses.letterText>
+  <DankPyon_LindwurmPasses.letterLabel>{0}游荡至此地</DankPyon_LindwurmPasses.letterLabel>
+
+  <DankPyon_GriffonPasses.label>珍稀的狮鹫</DankPyon_GriffonPasses.label>
+  <DankPyon_GriffonPasses.letterText>一群{1}已进入此地，并会在一段时间后离开。请小心，{1}极其危险，但牠作为战斗用坐骑的价值也许值得您的关注。</DankPyon_GriffonPasses.letterText>
+  <DankPyon_GriffonPasses.letterLabel>{0}游荡至此地</DankPyon_GriffonPasses.letterLabel>
+
+  <DankPyon_TrollPasses.label>稀有的巨魔</DankPyon_TrollPasses.label>
+  <DankPyon_TrollPasses.letterText>一群{1}已进入此地，并会在一段时间后离开。请小心，{1}极其危险，牠们拥有无与伦比的自癒能力。</DankPyon_TrollPasses.letterText>
+  <DankPyon_TrollPasses.letterLabel>{0}游荡至此地</DankPyon_TrollPasses.letterLabel>
+
+  <DankPyon_GolemImpactor.label>奇怪的陨石坠落</DankPyon_GolemImpactor.label>
+  <DankPyon_GolemImpactor.letterText>一块奇怪的陨石撞击了该地区的地面。仔细一看那不是陨石，而是某种巨大的生物。这头生物在撞击后处于休眠状态。</DankPyon_GolemImpactor.letterText>
+  <DankPyon_GolemImpactor.letterLabel>奇怪的陨石</DankPyon_GolemImpactor.letterLabel>
+
+  <DankPyon_AlpEclipse.label>不自然的日蚀</DankPyon_AlpEclipse.label>
+
+  <DankPyon_Mineshaftfestation.label>矿井的虫灾</DankPyon_Mineshaftfestation.label>
+  <DankPyon_Mineshaftfestation.letterLabel>深过头：虫灾</DankPyon_Mineshaftfestation.letterLabel>
+  <DankPyon_Mineshaftfestation.letterText>太过贪婪的采掘触怒了地底下的虫族。它们现在正窜向你寻求复仇！\n\n注意，愤怒的虫族正打算摧毁你的基地。</DankPyon_Mineshaftfestation.letterText>
+
+</LanguageData>

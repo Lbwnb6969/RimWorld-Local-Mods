@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_StripHeldEntity.label>&#x5265;&#x9664;&#x88AB;&#x5173;&#x62BC;&#x8005;&#x88C5;&#x5907;</CE_StripHeldEntity.label>
+  <CE_StripHeldEntity.reportString>&#x6B63;&#x5728;&#x5265;&#x9664; TargetA &#x7684;&#x88C5;&#x5907;</CE_StripHeldEntity.reportString>
+  <CE_TakeHeldPrisonerToBed.reportString>&#x6B63;&#x5728;&#x5C06; TargetC &#x5E26;&#x5230; TargetB &#x3002;</CE_TakeHeldPrisonerToBed.reportString>
+  <CE_RestrainPrisonerToBed.reportString>&#x6B63;&#x5728;&#x5C06; TargetA &#x675F;&#x7F1A;&#x5230; TargetB &#x3002;</CE_RestrainPrisonerToBed.reportString>
+  <CE_UnrestrainPrisonerFromBed.reportString>&#x6B63;&#x5728;&#x89E3;&#x9664; TargetA &#x7684;&#x675F;&#x7F1A;&#x3002;</CE_UnrestrainPrisonerFromBed.reportString>
+  <CE_ActivateGuillotine.reportString>&#x6B63;&#x5728;&#x6267;&#x884C; TargetB &#x3002;</CE_ActivateGuillotine.reportString>
+</LanguageData>

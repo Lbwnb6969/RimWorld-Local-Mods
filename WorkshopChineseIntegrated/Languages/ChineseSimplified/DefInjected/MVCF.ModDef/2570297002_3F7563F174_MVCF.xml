@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Vanilla Dryads Expanded -->
+  <VDE_VanillaDryadsExpanded.label>Vanilla Dryads Expanded</VDE_VanillaDryadsExpanded.label>
+  <!-- EN: Adding animal ranged attacks for Vanilla Dryads Expanded creatures -->
+  <VDE_VanillaDryadsExpanded.description>为树精扩展的生物增加了远程攻击能力。</VDE_VanillaDryadsExpanded.description>
+  
+</LanguageData>

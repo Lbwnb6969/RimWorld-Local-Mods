@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_High_HappyPowder.label>快乐粉亢奋</DankPyon_High_HappyPowder.label>
+  <DankPyon_High_HappyPowder.description>快乐粉的成分经由血液输送到全身，让吸食者产生强烈的兴奋感。</DankPyon_High_HappyPowder.description>
+  <DankPyon_High_HappyPowder.labelNoun>快乐粉亢奋</DankPyon_High_HappyPowder.labelNoun>
+
+
+  <!-- Happy Powder Addiction -->
+
+  <DankPyon_Tolerance_HappyPowder.label>快乐粉耐受</DankPyon_Tolerance_HappyPowder.label>
+  <DankPyon_Tolerance_HappyPowder.description>对快乐粉的耐受性。耐受性越严重，达到同样效果所需要摄入的快乐粉也就越多。</DankPyon_Tolerance_HappyPowder.description>
+  <DankPyon_Tolerance_HappyPowder.stages.small.label>轻微</DankPyon_Tolerance_HappyPowder.stages.small.label>
+  <DankPyon_Tolerance_HappyPowder.stages.large.label>强烈</DankPyon_Tolerance_HappyPowder.stages.large.label>
+  <DankPyon_Tolerance_HappyPowder.stages.massive.label>极强</DankPyon_Tolerance_HappyPowder.stages.massive.label>
+
+  <DankPyon_Addiction_HappyPowder.label>快乐粉成瘾</DankPyon_Addiction_HappyPowder.label>
+  <DankPyon_Addiction_HappyPowder.description>快乐粉的化学成瘾。长期吸食快乐粉会造成细胞内的神经适应，导致大脑没有快乐粉的话就无法运作。</DankPyon_Addiction_HappyPowder.description>
+  <DankPyon_Addiction_HappyPowder.stages.1.label>戒断</DankPyon_Addiction_HappyPowder.stages.1.label>
+
+
+</LanguageData>

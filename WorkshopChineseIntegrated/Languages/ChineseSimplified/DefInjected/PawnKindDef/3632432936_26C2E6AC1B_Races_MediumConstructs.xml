@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ballistae -->
+  <VR_Construct_Ballistae.label>弩炮</VR_Construct_Ballistae.label>
+  <!-- EN: ballistae -->
+  <VR_Construct_Ballistae.labelPlural>弩炮</VR_Construct_Ballistae.labelPlural>
+  
+  <!-- EN: scorcher -->
+  <VR_Construct_Scorcher.label>构装体炽蚕</VR_Construct_Scorcher.label>
+  
+  <!-- EN: sphere (melee) -->
+  <VR_Construct_Sphere_Melee.label>球体（近战）</VR_Construct_Sphere_Melee.label>
+  
+  <!-- EN: sphere (hammer) -->
+  <VR_Construct_Sphere_Melee_Hammer.label>球体（战锤）</VR_Construct_Sphere_Melee_Hammer.label>
+  
+  <!-- EN: sphere (lance) -->
+  <VR_Construct_Sphere_Melee_Lance.label>球体（骑枪）</VR_Construct_Sphere_Melee_Lance.label>
+  
+  <!-- EN: sphere (sword) -->
+  <VR_Construct_Sphere_Melee_Sword.label>球体（剑）</VR_Construct_Sphere_Melee_Sword.label>
+  
+  <!-- EN: sphere (ranged) -->
+  <VR_Construct_Sphere_Range.label>球体（远程）</VR_Construct_Sphere_Range.label>
+  
+  <!-- EN: tesseron -->
+  <VR_Construct_Tesseron.label>构装体哨卫</VR_Construct_Tesseron.label>
+  
+</LanguageData>

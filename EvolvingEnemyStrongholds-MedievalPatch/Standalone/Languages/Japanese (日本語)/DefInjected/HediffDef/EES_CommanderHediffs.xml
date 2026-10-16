@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_MarksmanAura.label>射撃手の指揮</EES_MarksmanAura.label>
+  <EES_MarksmanAura.description>射撃手士官の指揮下で、射撃命中率が向上する。</EES_MarksmanAura.description>
+  <EES_AssaultAura.label>強襲指揮</EES_AssaultAura.label>
+  <EES_AssaultAura.description>強襲隊長の指揮下で、機動力が向上する。</EES_AssaultAura.description>
+  <EES_WarlordProtected.label>軍閥の加護</EES_WarlordProtected.label>
+  <EES_WarlordProtected.description>軍閥の長が生存している間、受けるダメージが軽減される(×0.75)。</EES_WarlordProtected.description>
+  <EES_WarlordExposed.label>軍閥の長 喪失</EES_WarlordExposed.label>
+  <EES_WarlordExposed.description>軍閥の長が倒れ、士気が崩壊して受けるダメージが急増する(×2.5)。</EES_WarlordExposed.description>
+</LanguageData>

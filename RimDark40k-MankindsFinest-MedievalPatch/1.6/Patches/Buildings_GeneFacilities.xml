@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Overhaul</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <!-- Entry facilities use only predictable materials so the biological route cannot be gem-locked. -->
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneManipulationTable"]/costList</xpath><value><costList><Steel>250</Steel><DankPyon_ComponentBasic>24</DankPyon_ComponentBasic><Gold>12</Gold></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneseedGestator"]/costList</xpath><value><costList><Steel>350</Steel><DankPyon_ComponentBasic>30</DankPyon_ComponentBasic><Gold>18</Gold></costList></value></li>
+
+        <!-- Later facilities add researched mithril and one small, progressively rarer gem requirement. -->
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_PrimarchGrowthVat"]/costList</xpath><value><costList><Steel>400</Steel><Plasteel>140</Plasteel><DankPyon_ComponentBasic>32</DankPyon_ComponentBasic><Gold>40</Gold><DankPyon_Ruby>15</DankPyon_Ruby></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_SangprimusPortum"]/costList</xpath><value><costList><Steel>240</Steel><Plasteel>70</Plasteel><DankPyon_ComponentBasic>24</DankPyon_ComponentBasic><Gold>25</Gold><DankPyon_Sapphire>8</DankPyon_Sapphire></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneticCryostaticStorage"]/costList</xpath><value><costList><Steel>160</Steel><DankPyon_ComponentBasic>14</DankPyon_ComponentBasic><Gold>12</Gold></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneseedVialStorage"]/costList</xpath><value><costList><Steel>200</Steel><Plasteel>40</Plasteel><DankPyon_ComponentBasic>18</DankPyon_ComponentBasic><Gold>18</Gold><DankPyon_Emerald>5</DankPyon_Emerald></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_PrimarchEmbryoContainer"]/costList</xpath><value><costList><Steel>220</Steel><Plasteel>90</Plasteel><DankPyon_ComponentBasic>24</DankPyon_ComponentBasic><Gold>30</Gold><DankPyon_Ruby>10</DankPyon_Ruby></costList></value></li>
+      </operations>
+    </match>
+    <nomatch Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneManipulationTable"]/costList</xpath><value><costList><Steel>400</Steel><Gold>45</Gold></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneseedGestator"]/costList</xpath><value><costList><Steel>620</Steel><Gold>125</Gold></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_PrimarchGrowthVat"]/costList</xpath><value><costList><Steel>720</Steel><Gold>210</Gold></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_SangprimusPortum"]/costList</xpath><value><costList><Steel>490</Steel><Gold>130</Gold></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneticCryostaticStorage"]/costList</xpath><value><costList><Steel>220</Steel><Gold>42</Gold></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneseedVialStorage"]/costList</xpath><value><costList><Steel>330</Steel><Gold>85</Gold></costList></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_PrimarchEmbryoContainer"]/costList</xpath><value><costList><Steel>380</Steel><Gold>170</Gold></costList></value></li>
+      </operations>
+    </nomatch>
+  </Operation>
+
+  <!-- Restore construction progression that inherited 2,000 work or used an anomalous skill-4 vat. -->
+  <Operation Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneManipulationTable"]/statBases/WorkToBuild</xpath><value><WorkToBuild>8000</WorkToBuild></value></Operation>
+  <Operation Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneseedGestator"]/statBases/WorkToBuild</xpath><value><WorkToBuild>15000</WorkToBuild></value></Operation>
+  <Operation Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_PrimarchGrowthVat"]/statBases/WorkToBuild</xpath><value><WorkToBuild>30000</WorkToBuild></value></Operation>
+  <Operation Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="BEWH_SangprimusPortum"]</xpath><value><statBases><WorkToBuild>12000</WorkToBuild></statBases></value></Operation>
+  <Operation Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="BEWH_GeneticCryostaticStorage"]</xpath><value><statBases><WorkToBuild>6000</WorkToBuild></statBases></value></Operation>
+  <Operation Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="BEWH_GeneseedVialStorage"]</xpath><value><statBases><WorkToBuild>8000</WorkToBuild></statBases></value></Operation>
+  <Operation Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="BEWH_PrimarchEmbryoContainer"]</xpath><value><statBases><WorkToBuild>10000</WorkToBuild></statBases></value></Operation>
+
+  <Operation Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneManipulationTable"]/constructionSkillPrerequisite</xpath><value><constructionSkillPrerequisite>8</constructionSkillPrerequisite></value></Operation>
+  <Operation Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_GeneseedGestator"]/constructionSkillPrerequisite</xpath><value><constructionSkillPrerequisite>10</constructionSkillPrerequisite></value></Operation>
+  <Operation Class="PatchOperationReplace"><xpath>Defs/ThingDef[defName="BEWH_PrimarchGrowthVat"]/constructionSkillPrerequisite</xpath><value><constructionSkillPrerequisite>14</constructionSkillPrerequisite></value></Operation>
+  <Operation Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="BEWH_SangprimusPortum"]</xpath><value><constructionSkillPrerequisite>10</constructionSkillPrerequisite></value></Operation>
+  <Operation Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="BEWH_GeneticCryostaticStorage"]</xpath><value><constructionSkillPrerequisite>8</constructionSkillPrerequisite></value></Operation>
+  <Operation Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="BEWH_GeneseedVialStorage"]</xpath><value><constructionSkillPrerequisite>10</constructionSkillPrerequisite></value></Operation>
+  <Operation Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="BEWH_PrimarchEmbryoContainer"]</xpath><value><constructionSkillPrerequisite>12</constructionSkillPrerequisite></value></Operation>
+
+  <!-- Custom building classes read their power comps directly, so retain them as self-powered producers. -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="BEWH_GeneManipulationTable" or defName="BEWH_GeneseedGestator" or defName="BEWH_PrimarchGrowthVat" or defName="BEWH_SangprimusPortum" or defName="BEWH_GeneticCryostaticStorage" or defName="BEWH_GeneseedVialStorage" or defName="BEWH_PrimarchEmbryoContainer"]/comps/li[@Class="CompProperties_Power"]/basePowerConsumption</xpath>
+    <value><basePowerConsumption>-1</basePowerConsumption></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="BEWH_GeneManipulationTable" or defName="BEWH_GeneseedGestator" or defName="BEWH_PrimarchGrowthVat" or defName="BEWH_SangprimusPortum" or defName="BEWH_GeneticCryostaticStorage" or defName="BEWH_GeneseedVialStorage" or defName="BEWH_PrimarchEmbryoContainer"]/comps/li[@Class="CompProperties_Power"]/idlePowerDraw</xpath>
+    <value><idlePowerDraw>0</idlePowerDraw></value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="BEWH_GeneManipulationTable" or defName="BEWH_GeneseedGestator" or defName="BEWH_PrimarchGrowthVat" or defName="BEWH_SangprimusPortum" or defName="BEWH_GeneticCryostaticStorage" or defName="BEWH_GeneseedVialStorage" or defName="BEWH_PrimarchEmbryoContainer"]/comps/li[@Class="CompProperties_Power"]</xpath>
+    <value><transmitsPower>true</transmitsPower></value>
+  </Operation>
+  <Operation Class="PatchOperationRemove"><xpath>Defs/ThingDef[defName="BEWH_GeneManipulationTable" or defName="BEWH_GeneseedGestator" or defName="BEWH_PrimarchGrowthVat" or defName="BEWH_SangprimusPortum" or defName="BEWH_GeneticCryostaticStorage" or defName="BEWH_GeneseedVialStorage" or defName="BEWH_PrimarchEmbryoContainer"]/comps/li[@Class="CompProperties_Flickable"]</xpath></Operation>
+  <Operation Class="PatchOperationRemove"><xpath>Defs/ThingDef[defName="BEWH_GeneManipulationTable" or defName="BEWH_GeneseedGestator" or defName="BEWH_PrimarchGrowthVat" or defName="BEWH_SangprimusPortum" or defName="BEWH_GeneticCryostaticStorage" or defName="BEWH_GeneseedVialStorage" or defName="BEWH_PrimarchEmbryoContainer"]/comps/li[@Class="CompProperties_Breakdownable"]</xpath></Operation>
+</Patch>

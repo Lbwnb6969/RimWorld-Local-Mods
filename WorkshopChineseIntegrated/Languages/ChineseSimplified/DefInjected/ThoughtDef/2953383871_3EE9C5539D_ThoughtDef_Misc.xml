@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_WearRunes.stages.0.label>佩带符文印记</DankPyon_WearRunes.stages.0.label>
+  <DankPyon_WearRunes.stages.0.description>看看我这些超棒的符文。</DankPyon_WearRunes.stages.0.description>
+
+  <DankPyon_AlpEclipse.stages.darkening_terror.label>渐深之魇</DankPyon_AlpEclipse.stages.darkening_terror.label>
+  <DankPyon_AlpEclipse.stages.darkening_terror.description>我必须离开这里，尖叫声越来越接近了…。</DankPyon_AlpEclipse.stages.darkening_terror.description>
+  
+  <DankPyon_AlpRaidFinished.stages.darkening_terror_stopped.label>渐深之魇消散</DankPyon_AlpRaidFinished.stages.darkening_terror_stopped.label>
+  <DankPyon_AlpRaidFinished.stages.darkening_terror_stopped.description>那些梦魇终于停止了攻势！</DankPyon_AlpRaidFinished.stages.darkening_terror_stopped.description>
+
+</LanguageData>

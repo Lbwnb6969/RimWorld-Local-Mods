@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: General -->
+  <RB_Core.label>常规</RB_Core.label>
+  <!-- EN: ReBuild: Doors and Corners -->
+  <RB_Core.modSettingsName>ReBuild: Doors and Corners</RB_Core.modSettingsName>
+  
+  <!-- EN: Doors -->
+  <RB_Doors.label>门</RB_Doors.label>
+  <!-- EN: ReBuild: Doors and Corners -->
+  <RB_Doors.modSettingsName>ReBuild: Doors and Corners</RB_Doors.modSettingsName>
+  
+  <!-- EN: Floors -->
+  <RB_Floors.label>地板</RB_Floors.label>
+  <!-- EN: ReBuild: Doors and Corners -->
+  <RB_Floors.modSettingsName>ReBuild: Doors and Corners</RB_Floors.modSettingsName>
+
+  <!-- EN: Mod Integrations -->
+  <RB_Integrations.label>Mod功能整合</RB_Integrations.label>
+  <!-- EN: ReBuild: Doors and Corners -->
+  <RB_Integrations.modSettingsName>ReBuild: Doors and Corners</RB_Integrations.modSettingsName>
+
+  <!-- EN: Walls -->
+  <RB_Walls.label>墙体</RB_Walls.label>
+  <!-- EN: ReBuild: Doors and Corners -->
+  <RB_Walls.modSettingsName>ReBuild: Doors and Corners</RB_Walls.modSettingsName>
+  
+</LanguageData>

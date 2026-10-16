@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: merchant -->
+  <VME_IdeoRole_Merchant.label>商人</VME_IdeoRole_Merchant.label>
+  <!-- EN: A welcoming and charismatic, though somewhat cutthroat trader, specializes in establishing mercantile routes with other colonies. Can signal for a random friendly faction trade caravan to make a detour directly to the colony every 5 days. Also receives a small bonus to trading prices through sheer charisma. -->
+  <VME_IdeoRole_Merchant.description>一位热情好客且富有魅力的商人，虽然在涉及商业竞争的情况下会显露出残忍的一面。擅长建立与其他殖民地相连通的商业路线。能够每隔5天召唤一支贸易商队抵达殖民地，也可以通过纯粹的魅力来获得小小的折扣优惠。</VME_IdeoRole_Merchant.description>
+  
+</LanguageData>

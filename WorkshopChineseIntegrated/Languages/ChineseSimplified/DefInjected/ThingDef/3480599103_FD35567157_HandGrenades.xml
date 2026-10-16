@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bursting grenades -->
+  <Ammo_MortarGrenade.label>迫击炮榴弹</Ammo_MortarGrenade.label>
+  <!-- EN: cast iron shell filled with gunpowder, fitted with fuse. -->
+  <Ammo_MortarGrenade.description>用于迫击炮的慢速榴弹。</Ammo_MortarGrenade.description>
+  
+  <!-- EN: smoke grenade -->
+  <Ammo_TA_SmokeGrenade.label>烟雾弹</Ammo_TA_SmokeGrenade.label>
+  <!-- EN: paper machet shell filled with a gunpowder mix that burns into thick smoke, fitted with fuse.
+\n\n烟雾弹:
+\n充满了烟雾剂。在撞击时爆炸，产生厚厚的烟幕。
+\n\n使用者: -->
+  <Ammo_TA_SmokeGrenade.description>纸壳烟雾弹，内含燃烧后产生浓烟的混合物。</Ammo_TA_SmokeGrenade.description>
+  
+  <!-- EN: bursting grenade -->
+  <Bullet_MortarGrenade_thrown.label>爆破手榴弹</Bullet_MortarGrenade_thrown.label>
+  
+  <!-- EN: glass grenade -->
+  <Bullet_TA_GlassGrenade.label>玻璃手榴弹</Bullet_TA_GlassGrenade.label>
+  
+  <!-- EN: smoke grenades -->
+  <Bullet_TA_SmokeGrenade_thrown.label>烟雾手榴弹</Bullet_TA_SmokeGrenade_thrown.label>
+  
+  <!-- EN: glass shards -->
+  <Fragment_GlassShard.label>玻璃碎片</Fragment_GlassShard.label>
+  
+  <!-- EN: glass grenades -->
+  <Weapon_TA_GlassGrenade.label>玻璃手榴弹</Weapon_TA_GlassGrenade.label>
+  <!-- EN: Doctors hate this small spherical-ish glass bottle filled with gunpowder, fitted with a fuse. -->
+  <Weapon_TA_GlassGrenade.description>装满火药并配有引信的玻璃瓶手榴弹，医生们最讨厌的武器。</Weapon_TA_GlassGrenade.description>
+  <!-- EN: Body -->
+  <Weapon_TA_GlassGrenade.tools.Body.label>弹体</Weapon_TA_GlassGrenade.tools.Body.label>
+  
+</LanguageData>

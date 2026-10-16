@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: If the embrace the deep ritual goes well (positive outcome), mood will be improved for all asistants. A negative outcome will cause a mood penalty. -->
+  <AM_DirtmoleConversionOutcome.description>如果拥抱地底仪式顺利举行（积极的结果），所有参与者都将获得心情增益。相反，消极的结果会为参与者带来心情减益。</AM_DirtmoleConversionOutcome.description>
+  <!-- EN: participant count -->
+  <AM_DirtmoleConversionOutcome.comps.0.label>参与者数量</AM_DirtmoleConversionOutcome.comps.0.label>
+  <!-- EN: indoors -->
+  <AM_DirtmoleConversionOutcome.comps.1.label>处于室内</AM_DirtmoleConversionOutcome.comps.1.label>
+  <!-- EN: not indoors -->
+  <AM_DirtmoleConversionOutcome.comps.1.labelNotMet>未处于室内</AM_DirtmoleConversionOutcome.comps.1.labelNotMet>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AM_DirtmoleConversionOutcome.comps.2.label>{PAWN_labelShort}的社交效果</AM_DirtmoleConversionOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <AM_DirtmoleConversionOutcome.comps.2.labelAbstract>演讲者的社交效果</AM_DirtmoleConversionOutcome.comps.2.labelAbstract>
+  <!-- EN: Unconvincing -->
+  <AM_DirtmoleConversionOutcome.outcomeChances.0.label>令人失望的</AM_DirtmoleConversionOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was unconvincing. The dirtmole conversion was successful, but the speaker failed to inspire the faithful with the importance of embracing the deep, and the assistants were left unimpressed. -->
+  <AM_DirtmoleConversionOutcome.outcomeChances.0.description>{0}令人失望。土鼹种转化成功了，但演讲者却未能激起大家对拥抱地底的重要性的认识，我们根本感受不到任何东西。</AM_DirtmoleConversionOutcome.outcomeChances.0.description>
+  <!-- EN: Underwhelming -->
+  <AM_DirtmoleConversionOutcome.outcomeChances.1.label>效果甚微的</AM_DirtmoleConversionOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was underwhelming. The dirtmole conversion was successful, but the speaker's words lacked passion, and the assistants found little inspiration in the ceremony. -->
+  <AM_DirtmoleConversionOutcome.outcomeChances.1.description>{0}效果甚微。土鼹种转化成功了，但演讲者的话语缺乏热情，我们在仪式中几乎未得到任何启发。</AM_DirtmoleConversionOutcome.outcomeChances.1.description>
+  <!-- EN: Convincing -->
+  <AM_DirtmoleConversionOutcome.outcomeChances.2.label>令人信服的</AM_DirtmoleConversionOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was convincing. The dirtmole conversion was successful, and the speaker delivered a stirring sermon about the embrace of the deep, leaving the assistants satisfied with the ceremony. -->
+  <AM_DirtmoleConversionOutcome.outcomeChances.2.description>{0}令人信服。土鼹种转化成功了，演讲者以饱满的热情发表了拥抱地底的布道，我们对仪式感到非常满意。</AM_DirtmoleConversionOutcome.outcomeChances.2.description>
+  <!-- EN: Inspiring -->
+  <AM_DirtmoleConversionOutcome.outcomeChances.3.label>鼓舞人心的</AM_DirtmoleConversionOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was inspiring! The dirtmole conversion was successful, and the speaker's words captured the importance of embracing the deep and left the assistants deeply moved by the ceremony. -->
+  <AM_DirtmoleConversionOutcome.outcomeChances.3.description>{0}鼓舞人心！土鼹种转化成功了，演讲者的话语抓住了拥抱地底的重要性，我们在仪式中深受感动。</AM_DirtmoleConversionOutcome.outcomeChances.3.description>
+  
+</LanguageData>

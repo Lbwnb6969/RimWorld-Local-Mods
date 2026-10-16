@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AM_HeartExtractionOutcome.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</AM_HeartExtractionOutcome.description>
+  <!-- EN: moral guide present -->
+  <AM_HeartExtractionOutcome.comps.1.label>传道者出席</AM_HeartExtractionOutcome.comps.1.label>
+  <!-- EN: participant count -->
+  <AM_HeartExtractionOutcome.comps.2.label>参与者数量</AM_HeartExtractionOutcome.comps.2.label>
+  <!-- EN: started at altar -->
+  <AM_HeartExtractionOutcome.comps.3.label>由祭坛开始仪式</AM_HeartExtractionOutcome.comps.3.label>
+  <!-- EN: an altar -->
+  <AM_HeartExtractionOutcome.comps.3.expectedThingLabelTip>一座祭坛</AM_HeartExtractionOutcome.comps.3.expectedThingLabelTip>
+  <!-- EN: If the {0} is satisfying, one of the participants might gain an inspiration. -->
+  <AM_HeartExtractionOutcome.extraPredictedOutcomeDescriptions.0>如果{0}令人满意，其中一个参与者可能会获得灵感。</AM_HeartExtractionOutcome.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <AM_HeartExtractionOutcome.outcomeChances.0.label>糟糕的</AM_HeartExtractionOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the chest was opened clumsily. The heart was difficult to extract, leaving the victim struggling for far too long - everyone was waiting for it to end. -->
+  <AM_HeartExtractionOutcome.outcomeChances.0.description>{0}太糟糕了！演讲结结巴巴，语无伦次，受害者的胸部就这样被草草地剖开，心脏也难以取出。受害者痛苦挣扎的时间太长了——现在每个人都在期盼着仪式结束。</AM_HeartExtractionOutcome.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <AM_HeartExtractionOutcome.outcomeChances.1.label>枯燥乏味的</AM_HeartExtractionOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech was repetitive and the heart was extracted without ceremony or grace. The whole affair felt awkward and undignified. -->
+  <AM_HeartExtractionOutcome.outcomeChances.1.description>{0}枯燥乏味。演讲重复不断，挖心的手法也毫无仪式感和优雅可言。这让人觉得仪式非常尴尬且不体面。</AM_HeartExtractionOutcome.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <AM_HeartExtractionOutcome.outcomeChances.2.label>令人满意的</AM_HeartExtractionOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, the chest was opened with precision, and the heart was extracted cleanly and presented to the heavens with dignity. -->
+  <AM_HeartExtractionOutcome.outcomeChances.2.description>{0}令人满意。演讲让人感觉很有意义，受害者的胸部被精确剖开，心脏也被利落取出并庄严地献向天空。</AM_HeartExtractionOutcome.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gets an inspiration. -->
+  <AM_HeartExtractionOutcome.outcomeChances.2.potentialExtraOutcomeDesc>随机一位参与者有5%的几率获得灵感。</AM_HeartExtractionOutcome.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Spectacular -->
+  <AM_HeartExtractionOutcome.outcomeChances.3.label>壮观的</AM_HeartExtractionOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was spectacular! The speech drove the crowd to the edge of a frenzy, the chest was opened with perfect precision, and the still-beating heart was raised triumphantly toward the heavens as blood spilled upon the altar. -->
+  <AM_HeartExtractionOutcome.outcomeChances.3.description>{0}非常壮观！演讲把每个人都带到了疯狂的边缘，受害者的胸部被完美精确剖开，其仍在跳动的心脏被欢欣鼓舞地高举向天空，鲜血溅洒在祭坛之上。</AM_HeartExtractionOutcome.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance that a random participant gets an inspiration. -->
+  <AM_HeartExtractionOutcome.outcomeChances.3.potentialExtraOutcomeDesc>随机一位参与者有10%的几率获得灵感。</AM_HeartExtractionOutcome.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+</LanguageData>

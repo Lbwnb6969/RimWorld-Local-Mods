@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Aquila -->
+  <BEWH_FlagAquila.label>双头鹰标志</BEWH_FlagAquila.label>
+  <!-- EN: Imperial Aquila. -->
+  <BEWH_FlagAquila.description>帝国双头鹰</BEWH_FlagAquila.description>
+  
+  <!-- EN: None -->
+  <BEWH_FlagNone.label>无</BEWH_FlagNone.label>
+  <!-- EN: No icon. -->
+  <BEWH_FlagNone.description>无</BEWH_FlagNone.description>
+  
+</LanguageData>

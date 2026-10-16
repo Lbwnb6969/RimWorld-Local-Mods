@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bordeaux mastiff -->
+  <BA_Mastiff.label>波尔多獒犬</BA_Mastiff.label>
+  <!-- EN: Bordeaux mastiff puppy -->
+  <BA_Mastiff.lifeStages.Bordeaux_mastiff_puppy.label>波尔多獒犬幼犬</BA_Mastiff.lifeStages.Bordeaux_mastiff_puppy.label>
+  <!-- EN: Bordeaux mastiff puppies -->
+  <BA_Mastiff.lifeStages.Bordeaux_mastiff_puppy.labelPlural>波尔多獒犬幼犬们</BA_Mastiff.lifeStages.Bordeaux_mastiff_puppy.labelPlural>
+  
+</LanguageData>

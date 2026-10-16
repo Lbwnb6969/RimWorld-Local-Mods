@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: entertain guests -->
+  <Diplomat.label>款待访客</Diplomat.label>
+  <!-- EN: engaging -->
+  <Diplomat.gerund>正在款待</Diplomat.gerund>
+  <!-- EN: engage -->
+  <Diplomat.verb>款待</Diplomat.verb>
+  
+  <!-- EN: empty vending machine -->
+  <Hospitality_WithdrawVendingMachineEarnings.label>清空自动售货机</Hospitality_WithdrawVendingMachineEarnings.label>
+  <!-- EN: emptying vending machine -->
+  <Hospitality_WithdrawVendingMachineEarnings.gerund>正在清空自动售货机</Hospitality_WithdrawVendingMachineEarnings.gerund>
+  <!-- EN: empty vending machine -->
+  <Hospitality_WithdrawVendingMachineEarnings.verb>清空自动售货机</Hospitality_WithdrawVendingMachineEarnings.verb>
+  
+  <!-- EN: recruit visitors and prisoners -->
+  <Recruiter.label>与访客建立友谊</Recruiter.label>
+  <!-- EN: recruiting -->
+  <Recruiter.gerund>正在建立友谊</Recruiter.gerund>
+  <!-- EN: recruit -->
+  <Recruiter.verb>建立友谊</Recruiter.verb>
+  
+</LanguageData>

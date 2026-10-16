@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>(Defs/DesignationCategoryDef[defName="Castle"])[2]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>(Defs/DesignationCategoryDef[defName="Castle"])[2]</xpath>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>(Defs/ThingDef[defName="Castle_Walls_Corner_Embrasure"])[2]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>(Defs/ThingDef[defName="Castle_Walls_Corner_Embrasure"])[2]</xpath>
+    </match>
+  </Operation>
+</Patch>

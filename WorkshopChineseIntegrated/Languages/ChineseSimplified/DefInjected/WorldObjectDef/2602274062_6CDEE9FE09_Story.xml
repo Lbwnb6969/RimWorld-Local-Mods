@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ancient Master Shrine -->
+  <CAAncientMasterShrineMP.label>远古圣殿</CAAncientMasterShrineMP.label>
+  <!-- EN: a dangerous and long forgotten shrine -->
+  <CAAncientMasterShrineMP.description>一座被遗忘在历史长河中的圣殿，内部危机四伏。</CAAncientMasterShrineMP.description>
+  
+  <!-- EN: Hint - Dangerous Shrine -->
+  <CAAncientMasterShrineWO.label>线索-危机四伏的圣殿</CAAncientMasterShrineWO.label>
+  <!-- EN: A vague clue regarding tales of a dangerous shrine. The people providing the hint weren't very credible, so take care, as they also said that noone ever returned who dared to pilgrimage there. -->
+  <CAAncientMasterShrineWO.description>一条有关传说中危险圣殿的模糊线索，不过可信度存疑。线索提供者说，此前敢到圣殿一探究竟的人都有去无回。请一定要多加小心。</CAAncientMasterShrineWO.description>
+  
+  <!-- EN: Ancient Last Judgment -->
+  <CALastJudgmentMP.label>远古终末审判</CALastJudgmentMP.label>
+  <!-- EN: a dangerous and long forgotten shrine -->
+  <CALastJudgmentMP.description>一座被遗忘在历史长河中的圣殿，内部危机四伏。</CALastJudgmentMP.description>
+  
+  <!-- EN: Friend's Village -->
+  <CAStoryVillageMP.label>友人的城镇</CAStoryVillageMP.label>
+  <!-- EN: The village of your recent new friends. -->
+  <CAStoryVillageMP.description>你最近新结识的朋友所建立的城镇。</CAStoryVillageMP.description>
+  
+</LanguageData>

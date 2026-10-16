@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_BloodwineRush.label>鲜血纯酿亢奋</DV_BloodwineRush.label>
+    <DV_BloodwineRush.labelNoun>鲜血纯酿亢奋</DV_BloodwineRush.labelNoun>
+    <DV_BloodwineRush.description>鲜血纯酿的功效。它能促进肾上腺素分泌，加快近战攻击速度。</DV_BloodwineRush.description>
+    <DV_BloodwineRush.stages.0.label>暖和</DV_BloodwineRush.stages.0.label>
+    <DV_BloodwineRush.stages.1.label>微醺</DV_BloodwineRush.stages.1.label>
+    <DV_BloodwineRush.stages.2.label>飘飘然</DV_BloodwineRush.stages.2.label>
+    <DV_BloodwineRush.stages.3.label>酩酊大醉</DV_BloodwineRush.stages.3.label>
+    <DV_BloodwineRush.stages.4.label>昏醉不醒</DV_BloodwineRush.stages.4.label>
+</LanguageData>

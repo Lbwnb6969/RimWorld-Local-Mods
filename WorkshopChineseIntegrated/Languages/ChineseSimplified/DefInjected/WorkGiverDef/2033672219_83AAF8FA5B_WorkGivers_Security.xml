@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rearm traps -->
+  <VFES_ConstructRearmTrap.label>重置陷阱</VFES_ConstructRearmTrap.label>
+  <!-- EN: rearming -->
+  <VFES_ConstructRearmTrap.gerund>重置</VFES_ConstructRearmTrap.gerund>
+  <!-- EN: rearm -->
+  <VFES_ConstructRearmTrap.verb>重置</VFES_ConstructRearmTrap.verb>
+  
+  <!-- EN: rearm traps -->
+  <VFES_RearmTrap.label>重置陷阱</VFES_RearmTrap.label>
+  <!-- EN: rearming -->
+  <VFES_RearmTrap.gerund>重置</VFES_RearmTrap.gerund>
+  <!-- EN: rearm -->
+  <VFES_RearmTrap.verb>重置</VFES_RearmTrap.verb>
+  
+</LanguageData>

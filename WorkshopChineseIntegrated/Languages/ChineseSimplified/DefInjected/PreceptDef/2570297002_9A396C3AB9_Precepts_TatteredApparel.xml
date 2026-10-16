@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <VME_TatteredApparel_Abhorrent.label>厌恶</VME_TatteredApparel_Abhorrent.label>
+  <!-- EN: Ratty clothes are disgusting and should be discarded as soon as possible. -->
+  <VME_TatteredApparel_Abhorrent.description>这些肮脏恶心的衣服早该被丢掉了。</VME_TatteredApparel_Abhorrent.description>
+  
+  <!-- EN: disapproved -->
+  <VME_TatteredApparel_Disapproved.label>反感</VME_TatteredApparel_Disapproved.label>
+  <!-- EN: Wearing ratty clothes is uncomfortable and should be avoided. -->
+  <VME_TatteredApparel_Disapproved.description>这些磨损的衣服穿起来可真不舒服。</VME_TatteredApparel_Disapproved.description>
+  
+  <!-- EN: don't care -->
+  <VME_TatteredApparel_DontCare.label>漠视</VME_TatteredApparel_DontCare.label>
+  <!-- EN: We have bigger concerns to address than holes in our clothes, let's not waste our valuable time fretting or lamenting about such trivialities. -->
+  <VME_TatteredApparel_DontCare.description>比衣服上破洞还大的麻烦比比皆是，我们可不能为这点小事而浪费时间。</VME_TatteredApparel_DontCare.description>
+  
+</LanguageData>

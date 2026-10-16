@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: delivering TargetA. -->
+  <AM_DeliverCorpseToCell.reportString>交付TargetA。</AM_DeliverCorpseToCell.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <AM_DeliverStuffToCell.reportString>交付TargetA。</AM_DeliverStuffToCell.reportString>
+  
+  <!-- EN: delivering TargetB. -->
+  <AM_DeliverThingsToCell.reportString>交付TargetA。</AM_DeliverThingsToCell.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <AM_LoadCorpseToThing.reportString>交付TargetA。</AM_LoadCorpseToThing.reportString>
+
+  <!-- EN: burying TargetA. -->
+  <AM_OcularBurial.reportString>埋葬TargetA。</AM_OcularBurial.reportString>
+
+</LanguageData>

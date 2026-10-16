@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: interrogate prisoners -->
+  <VFEA_Interrogate.label>审讯囚犯</VFEA_Interrogate.label>
+  <!-- EN: interrogating -->
+  <VFEA_Interrogate.gerund>审讯</VFEA_Interrogate.gerund>
+  <!-- EN: interrogate -->
+  <VFEA_Interrogate.verb>审讯</VFEA_Interrogate.verb>
+  
+  <!-- EN: uninstall ancient junk -->
+  <VME_DeconstructJunk.label>卸载远古废弃建筑</VME_DeconstructJunk.label>
+  <!-- EN: uninstalling ancient junk -->
+  <VME_DeconstructJunk.gerund>卸载远古废弃建筑</VME_DeconstructJunk.gerund>
+  <!-- EN: uninstall ancient junk -->
+  <VME_DeconstructJunk.verb>卸载远古废弃建筑</VME_DeconstructJunk.verb>
+  
+  <!-- EN: maintain insect nest -->
+  <VME_MaintainInsectNest.label>维护虫巢</VME_MaintainInsectNest.label>
+  <!-- EN: maintaining -->
+  <VME_MaintainInsectNest.gerund>维护</VME_MaintainInsectNest.gerund>
+  <!-- EN: maintain -->
+  <VME_MaintainInsectNest.verb>维护</VME_MaintainInsectNest.verb>
+  
+</LanguageData>

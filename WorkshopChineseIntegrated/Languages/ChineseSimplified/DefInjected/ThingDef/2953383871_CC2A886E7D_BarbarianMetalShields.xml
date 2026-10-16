@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_MetalShield.label>蛮族金属盾 I</pphhyy_Barbarian_MetalShield.label>
+  <pphhyy_Barbarian_MetalShield.description>一面从战场上掠夺来的金属盾牌。</pphhyy_Barbarian_MetalShield.description>
+  <pphhyy_Barbarian_MetalShield.tools.0.label>盾缘</pphhyy_Barbarian_MetalShield.tools.0.label>
+  <pphhyy_Barbarian_MetalShield.tools.1.label>盾心</pphhyy_Barbarian_MetalShield.tools.1.label>
+
+  <pphhyy_Barbarian_MetalShieldII.label>蛮族金属盾 II</pphhyy_Barbarian_MetalShieldII.label>
+  <pphhyy_Barbarian_MetalShieldII.description>一面从战场上掠夺来的金属盾牌。</pphhyy_Barbarian_MetalShieldII.description>
+  <pphhyy_Barbarian_MetalShieldII.tools.0.label>盾缘</pphhyy_Barbarian_MetalShieldII.tools.0.label>
+  <pphhyy_Barbarian_MetalShieldII.tools.1.label>盾心</pphhyy_Barbarian_MetalShieldII.tools.1.label>
+
+  <pphhyy_Barbarian_MetalShieldIII.label>蛮族金属盾 III</pphhyy_Barbarian_MetalShieldIII.label>
+  <pphhyy_Barbarian_MetalShieldIII.description>一面从战场上掠夺来的金属盾牌。</pphhyy_Barbarian_MetalShieldIII.description>
+  <pphhyy_Barbarian_MetalShieldIII.tools.0.label>盾缘</pphhyy_Barbarian_MetalShieldIII.tools.0.label>
+  <pphhyy_Barbarian_MetalShieldIII.tools.1.label>盾心</pphhyy_Barbarian_MetalShieldIII.tools.1.label>
+
+
+</LanguageData>

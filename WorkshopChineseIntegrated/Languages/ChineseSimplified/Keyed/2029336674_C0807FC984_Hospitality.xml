@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recruiting -->
+  <!-- EN: {0} upset {1} {2}x in a row. -->
+  <RecruitAngerMultiple>{0}在一次争吵中激怒了{1}x{2}。</RecruitAngerMultiple>
+  <!-- EN: {0} of {1} is upset with you for recruiting {2} ({3}). -->
+  <RecruitFactionAnger>{1}的{0}对于你招募{2}的行为感到愤怒。（{3}）</RecruitFactionAnger>
+  <!-- EN: The members of {0} never heard back of their delegation ({2}). -->
+  <RecruitFactionAngerLeaderless>{0}的成员与其派出的访客团失联了。（{2}）</RecruitFactionAngerLeaderless>
+  <!-- EN: {0} of {1} never heard back of this delegation ({2}). -->
+  <LostGroupFactionAnger>{1}的{0}与其派出的访客团失联了。（{2}）</LostGroupFactionAnger>
+  <!-- EN: The members of {0} are upset with you for recruiting ({1}). -->
+  <LostGroupFactionAngerLeaderless>{0}的成员对你挖墙脚的行为感到愤怒。（{1}）</LostGroupFactionAngerLeaderless>
+  <!-- EN: {0} of {1} is glad that you took {2} off his hands ({3}). -->
+  <RecruitFactionPlease>{1}的{0}很乐意你将{2}招募走。（{3}）</RecruitFactionPlease>
+  <!-- EN: The members of {0} are glad that you took {1} off their hands ({2}). -->
+  <RecruitFactionPleaseLeaderless>{0}的成员很乐意你将{1}招募走。（{2}）</RecruitFactionPleaseLeaderless>
+  <!-- EN: {0} happily decided to join your colony! -->
+  <MessageGuestRecruitSuccess>{0}欣然决定加入你的殖民地！</MessageGuestRecruitSuccess>
+  <!-- EN: {0} has been forced to join your colony! -->
+  <MessageGuestForcedRecruit>{0}被迫加入你的殖民地！</MessageGuestForcedRecruit>
+  <!-- EN: Chief angered -->
+  <LetterLabelRecruitFactionChiefAnger>领袖的愤怒</LetterLabelRecruitFactionChiefAnger>
+  <!-- EN: Faction angered -->
+  <LetterLabelRecruitFactionAnger>派系的愤怒</LetterLabelRecruitFactionAnger>
+  <!-- EN: Chief pleased -->
+  <LetterLabelRecruitFactionChiefPlease>领袖的感谢</LetterLabelRecruitFactionChiefPlease>
+  <!-- EN: Faction pleased -->
+  <LetterLabelRecruitFactionPlease>派系的感谢</LetterLabelRecruitFactionPlease>
+  <!-- EN: {PAWN_labelShort} has enough friends now to be recruited. -->
+  <GuestCanBeRecruitedNow>{PAWN_labelShort}在殖民地已有足够的朋友，现在可进行招募了。</GuestCanBeRecruitedNow>
+  <!-- EN: Offended -->
+  <TextMote_CharmFail>冒犯了</TextMote_CharmFail>
+  <!-- EN: Charmed -->
+  <TextMote_CharmSuccess>说服了</TextMote_CharmSuccess>
+  <!-- Incident Results -->
+  <!-- EN: They are absolutely amazed by your hospitality! (Score: {1}) -->
+  <VisitorsLeavingGreat>他们对此地的热情好客称赞不已！（评分：{1}）</VisitorsLeavingGreat>
+  <!-- EN: They really enjoyed their stay! (Score: {1}) -->
+  <VisitorsLeavingGood>他们享受了造访此地的时光。（评分：{1}）</VisitorsLeavingGood>
+  <!-- EN: Their stay was okay. (Score: {1}) -->
+  <VisitorsLeavingNormal>他们觉得此次造访差强人意。（评分：{1}）</VisitorsLeavingNormal>
+  <!-- EN: They expected more from you. (Score: {1}) -->
+  <VisitorsLeavingBad>他们希望你能做的更好些。（评分：{1}）</VisitorsLeavingBad>
+  <!-- EN: They were awfully disappointed by their stay. (Score: {1}) -->
+  <VisitorsLeavingAwful>他们对此次造访感到极其失望。（评分：{1}）</VisitorsLeavingAwful>
+  <!-- EN: The visitors from {0} are leaving again because it is too cold. -->
+  <MessageVisitorsLeavingCold>由于过于寒冷，来自{0}的访客决定离开。</MessageVisitorsLeavingCold>
+  <!-- EN: You have sent them away. -->
+  <VisitorsSentAway>你已经把访客送走了。</VisitorsSentAway>
+  <!-- EN: They will visit again in a few days. -->
+  <VisitorsReturnSoon>他们将在几天后再次来访。</VisitorsReturnSoon>
+  <!-- EN: They will visit again in a while. -->
+  <VisitorsReturnWhile>他们将在一段时间后再次来访。</VisitorsReturnWhile>
+  <!-- EN: They won't come back any time soon. -->
+  <VisitorsReturnNotSoon>近期内他们不会再来了。</VisitorsReturnNotSoon>
+  <!-- EN: They've had enough of you. -->
+  <VisitorsReturnNot>他们已经受够你了。</VisitorsReturnNot>
+  <!-- EN: Visitors from {FACTION_name} have arrived at {WORLDOBJECT_label} (from {1}) -->
+  <VisitorsArrivedTitle>来自{FACTION_name}的访客已抵达{WORLDOBJECT_label}（来自{1}）</VisitorsArrivedTitle>
+  <!-- EN: They are afraid to enter your territory for the following reasons:\n{1}\n\nIf you send them away they might stay in the area and come back later. -->
+  <VisitorsArrivedDesc>由于以下原因，他们害怕进入你的领地：\n{1}\n\n如果你送他们离开，他们会稍作停留然后返回。</VisitorsArrivedDesc>
+  <!-- EN: Assure safety -->
+  <VisitorsArrivedAccept>确保安全</VisitorsArrivedAccept>
+  <!-- EN: Send away -->
+  <VisitorsArrivedRefuse>送离</VisitorsArrivedRefuse>
+  <!-- EN: Refuse visitors until I have guest beds -->
+  <VisitorsArrivedRefuseUntilBeds>在有访客用床之前拒绝来访</VisitorsArrivedRefuseUntilBeds>
+  <!-- EN: No guest beds -->
+  <VisitorsArrivedReasonNoBeds>没有访客用床</VisitorsArrivedReasonNoBeds>
+  <!-- EN: Always let them come (don't ask this again) -->
+  <VisitorsArrivedDontAskAgain>总是允许他们来访（不再询问）</VisitorsArrivedDontAskAgain>
+  <!-- EN: {PAWN_labelShort} became a guest -->
+  <LetterLabelPawnBecameGuest>{PAWN_labelShort}成为访客</LetterLabelPawnBecameGuest>
+  <!-- EN: {PAWN_labelShort} joined guests -->
+  <LetterLabelPawnJoinedGroup>{PAWN_labelShort}加入访客团</LetterLabelPawnJoinedGroup>
+  <!-- EN: {PAWN_nameDef}, who you rescued, is now a guest and {PAWN_pronoun} will stay for a few more hours. You can wait, send {PAWN_objective} home or recruit {PAWN_objective}.\n\nWhen {PAWN_labelShort} leaves the map safely, {PAWN_possessive} faction will be grateful. -->
+  <RescuedPawnBecameGuest>你救出的{PAWN_nameDef}现在作为殖民地的访客会再待几个小时。你可以等待其自行离开、将{PAWN_objective}送走或招募{PAWN_objective}。\n\n当{PAWN_labelShort}安全离开地图后，{PAWN_possessive}所在的派系会感激你的善举。</RescuedPawnBecameGuest>
+  <!-- EN: {PAWN_nameDef}, who you rescued, has joined a visiting group of {PAWN_possessive} faction. When {PAWN_pronoun} leaves the map with them safely, they will be grateful. -->
+  <RescuedPawnJoinedGroup>你救出的{PAWN_nameDef}已加入{PAWN_possessive}所属派系的访客团。当{PAWN_pronoun}安全离开地图后，他们将会感激你的善举。</RescuedPawnJoinedGroup>
+  <!-- EN: {PAWN_nameDef} is now a guest and {PAWN_pronoun} will stay for a few more hours. You can wait, send {PAWN_objective} home or recruit {PAWN_objective}. -->
+  <DownedPawnBecameGuest>{PAWN_nameDef}现在作为殖民地的访客会再待几个小时。你可以等待其自行离开、将{PAWN_objective}送走或招募{PAWN_objective}。</DownedPawnBecameGuest>
+  <!-- EN: {PAWN_nameDef} has joined a visiting group of {PAWN_possessive} faction. -->
+  <DownedPawnJoinedGroup>{PAWN_nameDef}已加入{PAWN_possessive}所属派系的访客团。</DownedPawnJoinedGroup>
+  <!-- EN: {PAWN_labelShort} wants to stay -->
+  <LetterLabelHappyGuestJoins>{PAWN_labelShort}想留下来</LetterLabelHappyGuestJoins>
+  <!-- EN: {PAWN_labelShort} of {0} made a deal with {PAWN_possessive} faction to let them join you as an ambassador. It will not worsen the relationship with {PAWN_possessive} faction.\n\nYou have time to decide until they leave. -->
+  <HappyGuestJoins>{0}的{PAWN_labelShort}与其派系达成协议，想作为使者加入你的派系。这不会恶化与{PAWN_possessive}所属派系之间的关系。\n\n在{PAWN_labelShort}离开前，你有时间决定是否接纳此人。</HappyGuestJoins>
+  <!-- EN: A member of {FACTION_name} has bought {ITEM_label} for {1} silver. -->
+  <!-- EN: A member of {FACTION_name} has taken {ITEM_label} for free. -->
+  <!-- Communication -->
+  <!-- EN: Invite for a visit -->
+  <InviteGuests>邀请来访</InviteGuests>
+  <!-- EN: can't be hostile -->
+  <GuestsCantBeHostile>不能是敌对关系</GuestsCantBeHostile>
+  <!-- EN: currently not interested in visiting you -->
+  <GuestsDontWantToCome>目前对来访不感兴趣</GuestsDontWantToCome>
+  <!-- EN: are already on their way and will arrive in {0} -->
+  <GuestsAlreadyComing>已在来访的路上，预计将在{0}后抵达</GuestsAlreadyComing>
+  <!-- EN: They are sending a delegation. Expect them to arrive in {0}. -->
+  <GuestsOnTheirWay>他们已派出访客团。预计将在{0}后抵达。</GuestsOnTheirWay>
+  <!-- Pawn Tab -->
+  <!-- EN: Allowed area -->
+  <AreaToStay>允许活动区域</AreaToStay>
+  <!-- EN: Shopping area -->
+  <AreaToBuy>购物区</AreaToBuy>
+  <!-- EN: No shopping -->
+  <AreaNoShopping>不允许购物</AreaNoShopping>
+  <!-- EN: This is where guests may sleep and hang out. -->
+  <AreaToStayTooltip>访客可以在此区域内睡觉或闲逛。</AreaToStayTooltip>
+  <!-- EN: Guests may buy items in this zone. Has to be inside the area of accommodation. -->
+  <AreaToBuyTooltip>访客可以在此区域内购物。必须设置在住宿区内。</AreaToBuyTooltip>
+  <!-- EN: Enough friends to recruit: {0}/{1} -->
+  <FriendsRequirement>可进行招募的朋友人数： {0}/{1}</FriendsRequirement>
+  <!-- EN: Enough royal friend ranks to recruit: {0}/{1} -->
+  <SeniorityRequirement>可进行招募的贵族朋友人数： {0}/{1}</SeniorityRequirement>
+  <!-- EN: Relationship damage when recruited: {0} ({1} forced) -->
+  <RecruitmentPenalty>招募后对关系的损害：{0}（强制为{1}）</RecruitmentPenalty>
+  <!-- EN: Try to entertain -->
+  <ImproveRelationship>尝试款待</ImproveRelationship>
+  <!-- EN: Try to create friendships -->
+  <MakeFriends>尝试建立友谊</MakeFriends>
+  <!-- EN: Leave alone -->
+  <LeaveAlone>不打扰</LeaveAlone>
+  <!-- EN: Faction goodwill -->
+  <FactionGoodwill>派系关系</FactionGoodwill>
+  <!-- EN: Hospitality -->
+  <Hospitality>款待</Hospitality>
+  <!-- EN: Make Default -->
+  <MakeDefault>设为默认</MakeDefault>
+  <!-- EN: Send away... -->
+  <SendAway>送走...</SendAway>
+  <!-- EN: Are you sure you want to send the visitors from {FACTION_name} away?\nIf you send them away immediately after appearing, this will have no effect on relations. -->
+  <SendAwayQuestion>你确定要把来自{FACTION_name}的访客送走吗？\n送走访客不会影响派系关系。</SendAwayQuestion>
+  <!-- EN: Recruit... -->
+  <Recruit>招募...</Recruit>
+  <!-- EN: This guest can not be recruited (right now). -->
+  <CantRecruit>这位访客现在不能招募。</CantRecruit>
+  <!-- EN: This guest can not be recruited by force. -->
+  <CantForceRecruit>这位访客不能强行招募。</CantForceRecruit>
+  <!-- EN: You can recruit {PAWN_nameDef} now.\n\nBecause {PAWN_pronoun} has enough friends, this only costs you {0} points of relationship with {PAWN_possessive} faction.{1}\n\n\nAre you sure you want to recruit {PAWN_objective}? -->
+  <RecruitQuestion>你现在可以招募{PAWN_nameDef}了。\n\n由于{PAWN_pronoun}在这里有足够多的朋友，这只会降低你与{PAWN_possessive}所在派系{0}点关系。{1}\n\n\n你确定要招募{PAWN_objective}吗？</RecruitQuestion>
+  <!-- EN: Force recruit... -->
+  <ForceRecruit>强行招募...</ForceRecruit>
+  <!-- EN: You can recruit {PAWN_nameDef} immediately.\n\nBecause {PAWN_pronoun} doesn't have enough friends yet to join you on {PAWN_possessive} own accord, this costs you {0} points of relationship with {PAWN_possessive} faction. This will be less if {PAWN_pronoun} has more friends. {1}{2}\n\n\nAre you sure? -->
+  <ForceRecruitQuestion>你现在可以招募{PAWN_nameDef}了。\n\n由于{PAWN_nameDef}在这里没有足够多的朋友，{PAWN_pronoun}并不情愿加入，这会降低{0}点你与{PAWN_possessive}所属派系之间的关系。如果{PAWN_pronoun}在这里有更多的朋友，降低的关系会减少。{1}\n\n\n你确定要招募{PAWN_objective}吗？</ForceRecruitQuestion>
+  <!-- EN: \n\nThis will cause them to become hostile immediately. -->
+  <ForceRecruitWarning>\n\n这将导致他们与你为敌。</ForceRecruitWarning>
+  <!-- EN: \n\nThey will trigger {PAWN_possessive} death acidifier. -->
+  <ForceAcidifierWarning>\n\n他们将引爆{PAWN_possessive}的质溶器。</ForceAcidifierWarning>
+  <!-- EN: [PAWN_nameDef] does not like enough of your colonists (opinion > {0}). -->
+  <NotEnoughFriends>[PAWN_nameDef]不是很喜欢你的殖民者(看法＞{0})。</NotEnoughFriends>
+  <!-- EN: [PAWN_nameDef] can now be recruited. -->
+  <CanNowBeRecruited>[PAWN_nameDef]现在可以被招募了。</CanNowBeRecruited>
+  <!-- EN: [PAWN_nameDef] will only join by force. -->
+  <OnlyJoinsByForce>[PAWN_nameDef]只能强制招募。</OnlyJoinsByForce>
+  <!-- EN: [PAWN_nameDef] can not be recruited. -->
+  <CanNeverRecruit>[PAWN_nameDef]不能被招募。</CanNeverRecruit>
+  <!-- EN: [PAWN_nameDef] is part of a trading caravan and not a guest. -->
+  <IsATrader>[PAWN_nameDef]是商队的成员，而不是访客。</IsATrader>
+  <!-- EN: Your diplomats will try to temporarily improve the guest's mood. Good diplomats are more effective at this. Bad diplomats can anger the guest. -->
+  <ImproveTooltip>你的外交官会设法暂时改善访客的心情。优秀的外交官在这方面做的更出色，糟糕的外交官会激怒访客。</ImproveTooltip>
+  <!-- EN: Your diplomats will try to befriend the guest with your other colonists. Good diplomats are more effective at this. Bad diplomats can anger the guest. When the guest has enough friends, he will join your colony. -->
+  <TryRecruitTooltip>你的外交官将尝试让其他殖民者与访客建立友谊。优秀的外交官在这方面做的更出色，糟糕的外交官会激怒访客。当访客在此地有足够多的朋友时，他将会加入你的派系。</TryRecruitTooltip>
+  <!-- EN: Your guest has enough friendships in the colony and can be recruited now. Recruiting causes damage to your relationship with this faction, though. -->
+  <RecruitTooltip>你的访客在此地有足够多的朋友，可以立即招募。不过，招募将会损害你与访客所属派系之间的关系。</RecruitTooltip>
+  <!-- EN: Applies the areas and the entertain settings to all current and future visitors. -->
+  <MakeDefaultTooltip>将区域和款待设置应用于所有当前和之后造访的访客。</MakeDefaultTooltip>
+  <!-- EN: Instead of waiting for your diplomats to convince this guest, you can also force them to stay. The relationship damage with this faction will be much higher, though. -->
+  <ForceRecruitTooltip>除了等待外交官说服此访客外，你还可以选择强迫其留下。不过，这将会严重损害你与访客所属派系之间的关系。</ForceRecruitTooltip>
+  <!-- EN: Ask the group of this guest to go home again. -->
+  <SendAwayTooltip>再次将这个访客团送走。</SendAwayTooltip>
+  <!-- Main Tab -->
+  <!-- EN: Beds in use: {0}/{1} -->
+  <BedsFilled>床铺使用情况：{0}/{1}</BedsFilled>
+  <!-- EN: Map settings... -->
+  <MapSettings>地图设置...</MapSettings>
+  <!-- EN: Allow new guests -->
+  <GuestsWelcome>允许新访客入住</GuestsWelcome>
+  <!-- EN: If you turn this off, no new guest groups will arrive at this colony. -->
+  <GuestsWelcomeTooltip>如果关闭此功能，则不会有新的访客团到达此殖民地。</GuestsWelcomeTooltip>
+  <!-- EN: Refuse guests until guest beds are built -->
+  <RefuseGuestsUntilBeds>没有访客用床时拒绝访客入住</RefuseGuestsUntilBeds>
+  <!-- EN: If you turn this on, no new guest groups will arrive, until you've built guest beds. -->
+  <RefuseGuestsUntilBedsTooltip>开启此功能后，在你造好访客用床前不会有新的访客团抵达殖民地。</RefuseGuestsUntilBedsTooltip>
+  <!-- EN: Guests may take food for free -->
+  <GuestsCanTakeFoodForFree>访客可以白嫖食物</GuestsCanTakeFoodForFree>
+  <!-- EN: If you turn this on, guests may take and eat food from your stockpile for free. -->
+  <GuestsCanTakeFoodForFreeTooltip>开启此功能后，访客可以从你的库存中白嫖食物。</GuestsCanTakeFoodForFreeTooltip>
+  <!-- EN: Guests ask if it is safe to come -->
+  <GuestsAskForSafety>访客询问来访是否安全</GuestsAskForSafety>
+  <!-- EN: If you turn this off, guests will not ask if they may come if there is danger present. -->
+  <GuestsAskForSafetyTooltip>如果关闭此功能，访客来访前将不会询问是否存在危险情况。</GuestsAskForSafetyTooltip>
+  <!-- Infos -->
+  <!-- EN: Missing friends -->
+  <StatsReport_MissingFriends>想念朋友们</StatsReport_MissingFriends>
+  <!-- Vending Machine -->
+  <!-- EN: Vending machine -->
+  <Hospitality_VendingMachine>自动售货机</Hospitality_VendingMachine>
+  <!-- EN: Price: -->
+  <Hospitality_VendingMachinePrice>价格：</Hospitality_VendingMachinePrice>
+  <!-- EN: Contains: -->
+  <Hospitality_VendingMachineContains>包含：</Hospitality_VendingMachineContains>
+  <!-- EN: Allow guests to use this facility. -->
+  <Hospitality_VendingMachineToggleDesc>允许访客使用此设施。</Hospitality_VendingMachineToggleDesc>
+  <!-- EN: Empty at: -->
+  <!-- EN: Content -->
+  <!-- Bed -->
+  <!-- EN: guest {0} -->
+  <GuestBedFormat>访客用{0}</GuestBedFormat>
+  <!-- EN: For guests -->
+  <CommandBedSetAsGuestLabel>访客专用</CommandBedSetAsGuestLabel>
+  <!-- EN: Whether this bed is for guests. -->
+  <CommandBedSetAsGuestDesc>这张床是否给访客使用。</CommandBedSetAsGuestDesc>
+  <!-- EN: Attractiveness: -->
+  <BedGizmoAttractiveness>吸引力：</BedGizmoAttractiveness>
+  <!-- EN: These royal titles will accept this bed: -->
+  <BedSatisfiedTitles>这张床可供持有这些荣誉头衔的访客使用：</BedSatisfiedTitles>
+  <!-- EN: Only one bed -->
+  <BedroomMustBeSingle>房间内仅放置一张床</BedroomMustBeSingle>
+  <!-- EN: Requirements for the next title:\n- {0} -->
+  <NextTitleRequirements>下一级头衔需求：\n -{0}</NextTitleRequirements>
+  <!-- Alerts -->
+  <!-- EN: Guest can't claim bed -->
+  <AlertCantClaimBed>访客租不起床</AlertCantClaimBed>
+  <!-- EN: These guests can't afford to claim a bed:\n\n{0}\nProvide cheaper or free beds or gift the guests some silver.\nFactions with a better relationship will bring more silver. -->
+  <AlertCantClaimBedDesc>这些访客租不起床：\n\n{0}\n提供便宜或免费的床位或为访客提供一些白银。\n关系更好的派系的访客会携带更多的白银。</AlertCantClaimBedDesc>
+  <!-- EN: Not enough guest beds -->
+  <AlertNotEnoughBeds>访客用床不够</AlertNotEnoughBeds>
+  <!-- EN: There are not enough beds for the following pawns:\n\n{0}\nYou should provide more beds for guests. -->
+  <AlertNotEnoughBedsDesc>以下访客没有床位可用：\n\n{0}\n你应该为访客提供更多床铺。</AlertNotEnoughBedsDesc>
+  <!-- EN: Guest has nothing to eat -->
+  <AlertHasNoFood>访客没有食物可吃</AlertHasNoFood>
+  <!-- EN: These guests have nothing to eat:\n\n{0}\nPut some food on sale, set up a nutrient dispenser as a vending machine or gift the guests some silver or rations. You can also allow guests to take food for free.\nFactions with a better relationship will bring more silver. -->
+  <AlertHasNoFoodDesc>这些访客没有食物可吃：\n\n{0}\n拿出一些食物用于出售或为访客提供一些白银、补给。\n关系更好的派系的访客会携带更多的白银。</AlertHasNoFoodDesc>
+  <!-- Settings -->
+  <!-- EN: Disable option limits -->
+  <DisableLimits>禁用选项设置</DisableLimits>
+  <!-- EN: When this option is turned on, you can tweak the settings further than recommended for a fair game. -->
+  <DisableLimitsDesc>启用此选项后，你可以对相关设置进行微调，会破坏游戏平衡。</DisableLimitsDesc>
+  <!-- EN: Disable visitors -->
+  <DisableVisitors>禁用访客</DisableVisitors>
+  <!-- EN: You actually hate visitors and wonder why you even have this mod. -->
+  <DisableVisitorsDesc>你既然讨厌访客，那你为什么装这个Mod？</DisableVisitorsDesc>
+  <!-- EN: Disable guests helping -->
+  <DisableGuestsHelping>禁用访客帮忙</DisableGuestsHelping>
+  <!-- EN: When checked, guests will not perform any work in your colony. -->
+  <DisableGuestsHelpingDesc>启用此选项后，访客不会在殖民的帮忙任何工作。</DisableGuestsHelpingDesc>
+  <!-- EN: Disable guests helping with art and crafting -->
+  <DisableArtAndCraft>禁止访客帮忙艺术和手工</DisableArtAndCraft>
+  <!-- EN: When checked, guests will not perform any artistic or crafting tasks. -->
+  <DisableArtAndCraftDesc>启用此选项后，访客不会帮忙艺术和手工工作。</DisableArtAndCraftDesc>
+  <!-- EN: Disable guests helping with operations -->
+  <DisableOperations>禁止访客帮忙手术</DisableOperations>
+  <!-- EN: When checked, guests will not perform any medical operations. -->
+  <DisableOperationsDesc>启用此选项后，访客不会帮忙手术工作。</DisableOperationsDesc>
+  <!-- EN: Disable guests healing pawns -->
+  <DisableMedical>禁止访客帮忙医疗</DisableMedical>
+  <!-- EN: When checked, guests will not perform any tending work. -->
+  <DisableMedicalDesc>启用此选项后，访客不会帮忙医疗工作。</DisableMedicalDesc>
+  <!-- EN: Disable guests leaving gifts -->
+  <DisableGifts>禁止访客留下礼物</DisableGifts>
+  <!-- EN: When checked, guests will never leave items behind when satisfied. -->
+  <DisableGiftsDesc>启用此选项后，访客心满意足离去时不会留给你谢礼。</DisableGiftsDesc>
+  <!-- EN: Minimum skill for work -->
+  <MinGuestWorkSkill>最低工作技能要求</MinGuestWorkSkill>
+  <!-- EN: The minimum skill a guest needs to have to perform a task when helping out. (recommended: 7) -->
+  <MinGuestWorkSkillDesc>访客帮忙时的最低技能等级要求。（建议：7）</MinGuestWorkSkillDesc>
+  <!-- EN: Guest group size -->
+  <GuestGroupSize>访客团规模</GuestGroupSize>
+  <!-- EN: The size a group of guests can be. (recommended: 1-16) -->
+  <GuestGroupSizeDesc>一队访客的规模。（建议：1-16）</GuestGroupSizeDesc>
+  <!-- EN: Maximum groups within 3 days -->
+  <MaxIncidentsPer3Days>三天最大来访量</MaxIncidentsPer3Days>
+  <!-- EN: The maximum amount of guest groups that can come within 3 days. (recommended: 5) -->
+  <MaxIncidentsPer3DaysDesc>三天内最多可以来访的访客团数量。（建议：5）</MaxIncidentsPer3DaysDesc>
+  <!-- EN: Silver multiplier -->
+  <SilverMultiplier>白银携带乘数</SilverMultiplier>
+  <!-- EN: Scales up how much silver guests bring. Higher faction relationship still means more silver. (recommended: 1) -->
+  <SilverMultiplierDesc>访客携带的白银数量会乘以此项的值。派系关系仍会影响携带的白银数量。（建议：1）</SilverMultiplierDesc>
+  <!-- EN: Disable guests tab -->
+  <DisableGuestsTab>禁用访客标签</DisableGuestsTab>
+  <!-- EN: Hide the guests tab from the main tab bar. -->
+  <DisableGuestsTabDesc>隐藏屏幕下方的访客标签。</DisableGuestsTabDesc>
+  <!-- EN: Enable purchase notification -->
+  <EnableBuyNotification>启用购买通知</EnableBuyNotification>
+  <!-- EN: Receive a message when a guest buys something. Can be reviewed in the message history. -->
+  <EnableBuyNotificationDesc>访客购买东西时会收到一条消息。可以在历史消息记录中查看。</EnableBuyNotificationDesc>
+  <!-- EN: Enable enough friends notification -->
+  <EnableRecruitNotification>启用足够的朋友通知</EnableRecruitNotification>
+  <!-- EN: Receive a message when a guest has enough friends to be recruited. -->
+  <EnableRecruitNotificationDesc>当访客在此地有足够多的朋友可以招募时，会收到一条消息。</EnableRecruitNotificationDesc>
+  <!-- EN: No friendly inventory spill -->
+  <DisableFriendlyGearDrops>友军不再掉落所携带的物品</DisableFriendlyGearDrops>
+  <!-- EN: When a friendly pawn is downed, they will no longer drop their inventory. -->
+  <DisableFriendlyGearDropsDesc>当友军倒地时，不再掉落他们随身携带的物品。</DisableFriendlyGearDropsDesc>
+  <!-- EN: Show guest tab icon -->
+  <UseIcon>允许新访客入住</UseIcon>
+  <!-- EN: Show an icon on the guests tab instead of text -->
+  <UseIconDesc>如果关闭此功能，则不会有新的访客团到达此殖民地。</UseIconDesc>
+  <!-- EN: It is recommended to leave this setting on. -->
+  <Hospitality_RecommendedOn>建议开启此功能。</Hospitality_RecommendedOn>
+  <!-- EN: It is recommended to leave this setting off. -->
+  <Hospitality_RecommendedOff>建议关闭此功能。</Hospitality_RecommendedOff>
+  <!-- EN: It is recommended to leave this setting between {0} and {1}. -->
+  <Hospitality_RecommendedRange>建议将此功能设置在{0}和{1}之间。</Hospitality_RecommendedRange>
+  <!-- EN: Guest -->
+  <TabGuest>访客</TabGuest>
+</LanguageData>

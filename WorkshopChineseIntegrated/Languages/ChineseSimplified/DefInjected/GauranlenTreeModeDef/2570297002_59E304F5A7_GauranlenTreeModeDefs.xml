@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gaubricmaker -->
+  <VDE_Gaubricmaker.label>纺绸树精</VDE_Gaubricmaker.label>
+  <!-- EN: A caste of dryad which specializes in producing a unique shaggy, leather-like material. Together with its Gauranlen tree, this dryad can be sheared for a soft, beautiful, insulative material on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <VDE_Gaubricmaker.description>一个专门负责生产特殊的绒皮状材料的树精品种。与它的母树一起，这种树精可以持续产出一种柔软美观的绝缘织物。然而，它在工作或战斗中的帮助是缓慢且无用的。</VDE_Gaubricmaker.description>
+  
+  <!-- EN: nectarmaker -->
+  <VDE_Nectarmaker.label>甘馐树精</VDE_Nectarmaker.label>
+  <!-- EN: A curious dryad caste specialized in ambrosia production. Together with its Gauranlen tree, this dryad can generate invigorating ambrosia on an ongoing basis. However, it is completely defenseless and requires careful attention against threats. -->
+  <VDE_Nectarmaker.description>一个专门负责生产仙馐果的奇特树精品种。与它的母树一起，这种树精可以持续产出香甜提神的仙馐果。然而，它在工作或战斗中的帮助是缓慢且无用的。</VDE_Nectarmaker.description>
+  
+  <!-- EN: spitter -->
+  <VDE_Spitter.label>酸蚀树精</VDE_Spitter.label>
+  <!-- EN: A dryad caste specialized in territorialism and can launch ranged acid projectiles. Though it can dish out tremendous damage, it is vulnerable in melee due to its oversized mouth. -->
+  <VDE_Spitter.description>一个擅长以喷吐酸液来击退进犯之敌的树精品种。虽然它可以造成巨大的伤害，但其本身很容易受到攻击。</VDE_Spitter.description>
+  
+  <!-- EN: stonedigger -->
+  <VDE_Stonedigger.label>采石树精</VDE_Stonedigger.label>
+  <!-- EN: An extremely easy-going caste of dryad which specializes in finding stone chunks. Absorbs minerals from the ground that help harden its carapace while leaving excessively large pieces aside. -->
+  <VDE_Stonedigger.description>一个专门负责生产石块的悠闲树精品种。这种树精可通过吸收土地中的矿物质来加固自身的硬壳，最终脱落变成大块的碎片。</VDE_Stonedigger.description>
+  
+</LanguageData>

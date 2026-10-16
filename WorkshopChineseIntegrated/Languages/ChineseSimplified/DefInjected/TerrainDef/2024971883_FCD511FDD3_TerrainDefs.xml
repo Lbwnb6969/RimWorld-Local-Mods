@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: null terrain -->
+  <VEF_NullTerrain.label>空地形</VEF_NullTerrain.label>
+  
+  <!-- EN: prefab border (blue) -->
+  <VEF_PrefabBorderBlue.label>预制结构边界（蓝色）</VEF_PrefabBorderBlue.label>
+  
+  <!-- EN: prefab border (green) -->
+  <VEF_PrefabBorderGreen.label>预制结构边界（绿色）</VEF_PrefabBorderGreen.label>
+  
+  <!-- EN: prefab border (red) -->
+  <VEF_PrefabBorderRed.label>预制结构边界（红色）</VEF_PrefabBorderRed.label>
+  
+  <!-- EN: prefab border (white) -->
+  <VEF_PrefabBorderWhite.label>预制结构边界（白色）</VEF_PrefabBorderWhite.label>
+  
+  <!-- EN: prefab border (yellow) -->
+  <VEF_PrefabBorderYellow.label>预制结构边界（黄色）</VEF_PrefabBorderYellow.label>
+  
+</LanguageData>

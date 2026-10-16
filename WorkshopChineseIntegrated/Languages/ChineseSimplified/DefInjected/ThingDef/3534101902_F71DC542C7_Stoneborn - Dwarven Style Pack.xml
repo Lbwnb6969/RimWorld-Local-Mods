@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DV_Dwarven_HallPillar.label>大厅柱子</DV_Dwarven_HallPillar.label>
+    <DV_Dwarven_HallPillar.description>一个巨大的，足以支撑屋顶的矮人柱子。不会阻挡视线和移动并且看起来不错。</DV_Dwarven_HallPillar.description>
+
+    <DV_HallDoor.label>大厅门</DV_HallDoor.label>
+    <DV_HallDoor.description>分隔房间。一扇装饰着矮人风格的雕刻成的石门。这扇大而沉重的门必须与墙体相连才能正常工作。</DV_HallDoor.description>
+
+    <DV_HallDoorTimber.label>木大厅门</DV_HallDoorTimber.label>
+    <DV_HallDoorTimber.description>分隔房间。一扇装饰着矮人风格的质朴木制门。这扇大而沉重的门必须与墙体相连才能正常工作。</DV_HallDoorTimber.description>
+
+</LanguageData>

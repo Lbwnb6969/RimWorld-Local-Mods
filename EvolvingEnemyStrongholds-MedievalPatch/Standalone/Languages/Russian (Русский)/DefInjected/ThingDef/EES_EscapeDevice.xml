@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_EscapeDevice.label>устройство экстренной эвакуации</EES_EscapeDevice.label>
+  <EES_EscapeDevice.description>Используется автоматически, когда разведчик или диверсант не может сбежать. Пока носитель имеет его при себе, оно гарантированно не даёт его захватить или убить, хотя он всё же может быть ранен. Как вообще можно носить такое с собой? Ну, способ всегда найдётся.</EES_EscapeDevice.description>
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extract firstborn gene-seed gland -->
+  <BEWH_AstartesPack.label>提取初代星际战士基因种子腺体</BEWH_AstartesPack.label>
+  <!-- EN: Remove fully grown germ cells from progenoid glands to make an Ascendance Vial of a Firstborn. -->
+  <BEWH_AstartesPack.description>从基因存收腺中取出完全发育的生殖细胞。</BEWH_AstartesPack.description>
+  <!-- EN: Creating gene-seed from progenoid glands. -->
+  <BEWH_AstartesPack.jobString>从基因存收腺中提取基因种子中。</BEWH_AstartesPack.jobString>
+  <!-- EN: {0} has successfully created gene-seed from {1}'s progenoid glands. -->
+  <BEWH_AstartesPack.successfullyRemovedHediffMessage>{0}已成功从{1}的基因存收腺中提取出基因种子。</BEWH_AstartesPack.successfullyRemovedHediffMessage>
+  
+  <!-- EN: extract primaris gene-seed gland -->
+  <BEWH_PrimarisPack.label>提取原铸星际战士基因种子腺体</BEWH_PrimarisPack.label>
+  <!-- EN: Remove fully grown germ cells from the progenoid glands to create a Primaris Ascendance Vial. -->
+  <BEWH_PrimarisPack.description>从基因存收腺中取出完全发育的生殖细胞。</BEWH_PrimarisPack.description>
+  <!-- EN: Creating primaris gene-seed from progenoid glands. -->
+  <BEWH_PrimarisPack.jobString>从基因存收腺中提取基因种子中。</BEWH_PrimarisPack.jobString>
+  <!-- EN: {0} has successfully created primaris gene-seed from {1}'s progenoid glands. -->
+  <BEWH_PrimarisPack.successfullyRemovedHediffMessage>{0}已成功从{1}的基因存收腺中提取出基因种子。</BEWH_PrimarisPack.successfullyRemovedHediffMessage>
+  
+</LanguageData>

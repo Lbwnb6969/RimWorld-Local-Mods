@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Paregoric.label>安神鸦片酊</DankPyon_Paregoric.label>
+  <DankPyon_Paregoric.description>安神鸦片酊是一种混合了草药和矿物质的镇痛治疗药剂，它能增强免疫系统的功能，使流感和昏睡病的治疗万无一失，同时还能促进其他疾病的治疗和一般伤口的愈合。</DankPyon_Paregoric.description>
+  <DankPyon_Paregoric.ingestible.ingestCommandString>服用{0}</DankPyon_Paregoric.ingestible.ingestCommandString>
+  <DankPyon_Paregoric.ingestible.ingestReportString>正在服用{0}。</DankPyon_Paregoric.ingestible.ingestReportString>
+
+
+</LanguageData>

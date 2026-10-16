@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs><QuestScriptDef>
+  <defName>Local_RimDark40K_LostChapterArmory</defName><rootSelectionWeight>0</rootSelectionWeight><rootMinPoints>2000</rootMinPoints><autoAccept>true</autoAccept>
+  <questNameRules><rulesStrings><li>questName->Lost Chapter Armory</li></rulesStrings></questNameRules>
+  <questDescriptionRules><rulesStrings><li>questDescription->A sealed armory is hidden inside an occupied fortress near [map_definite]. Defeat the garrison and recover the complete suit of Astartes wargear.</li></rulesStrings></questDescriptionRules>
+  <root Class="QuestNode_Sequence"><nodes>
+    <li Class="QuestNode_GetMap"/><li Class="Local.RimDark40K.LostArmoryVanilla.QuestNode_ArmoryTierAvailable"><tier>1</tier></li><li Class="Local.RimDark40K.LostArmoryVanilla.QuestNode_ResearchFinished"><research>BEWH_PowerArmorMkVII</research></li>
+    <li Class="Local.RimDark40K.LostArmoryVanilla.QuestNode_SetArmoryStashContents"><tier>1</tier><items><li>BEWH_MkVIIPowerArmor</li><li>BEWH_MkVIIPowerArmorHelmet</li></items></li>
+    <li Class="Local.RimDark40K.LostArmoryVanilla.QuestNode_SetArmoryPoints"><minimum>2000</minimum><maximum>3500</maximum></li>
+    <li Class="QuestNode_GetSiteTile"><storeAs>siteTile</storeAs><preferCloserTiles>true</preferCloserTiles></li>
+    <li Class="QuestNode_GetSitePartDefsByTagsAndFaction"><storeAs>sitePartDefs</storeAs><storeFactionAs>siteFaction</storeFactionAs><sitePartsTags><li><tag>Outpost</tag></li><li><tag>ItemStash</tag></li><li><tag>ItemStashQuestThreat</tag><chance>0.85</chance></li><li><tag>Local_RimDark40K_ArmoryCastle_I</tag></li></sitePartsTags></li>
+    <li Class="QuestNode_GetDefaultSitePartsParams"><tile>$siteTile</tile><faction>$siteFaction</faction><sitePartDefs>$sitePartDefs</sitePartDefs><storeSitePartsParamsAs>sitePartsParams</storeSitePartsParamsAs></li>
+    <li Class="QuestNode_SubScript"><def>Util_GenerateSite</def><parms><hiddenSitePartsPossible>true</hiddenSitePartsPossible></parms></li><li Class="Local.RimDark40K.LostArmoryVanilla.QuestNode_SetArmoryQuality"><items>$generatedItemStashThings</items><tier>1</tier></li><li Class="QuestNode_SpawnWorldObjects"><worldObjects>$site</worldObjects></li><li Class="Local.RimDark40K.LostArmoryVanilla.QuestNode_RegisterArmoryTier"><site>$site</site><items>$generatedItemStashThings</items><tier>1</tier><recoveryTimeoutDays>30</recoveryTimeoutDays></li>
+    <li Class="QuestNode_WorldObjectTimeout"><worldObject>$site</worldObject><isQuestTimeout>true</isQuestTimeout><delayTicks>$(30*60000)</delayTicks><inSignalDisable>site.MapGenerated</inSignalDisable><node Class="QuestNode_End"><outcome>Fail</outcome></node></li>
+    <li Class="QuestNode_AddItemsReward"><items>$generatedItemStashThings</items><inSignalChoiceUsed>site.MapGenerated</inSignalChoiceUsed><generateQuestParts>false</generateQuestParts></li>
+  </nodes></root>
+</QuestScriptDef></Defs>

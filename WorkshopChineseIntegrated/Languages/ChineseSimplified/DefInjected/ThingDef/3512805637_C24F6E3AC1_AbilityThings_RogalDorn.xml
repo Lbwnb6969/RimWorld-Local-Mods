@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raised barricade -->
+  <BEWH_RaisedBarricade.label>临时路障</BEWH_RaisedBarricade.label>
+  <!-- EN: A durable barricade for short-term defense. Will disappear after a limited time. -->
+  <BEWH_RaisedBarricade.description>一种用于临时防御的耐用路障。将在一段时间后消失。</BEWH_RaisedBarricade.description>
+  
+  <!-- EN: raised turret -->
+  <BEWH_RaisedTurret.label>临时炮台</BEWH_RaisedTurret.label>
+  <!-- EN: A heavy, double-barreled turret based on .75 caliber bolter. Will disappear after a limited time. -->
+  <BEWH_RaisedTurret.description>一种装载.75口径爆弹枪的重型双管炮塔。将在一段时间后消失。</BEWH_RaisedTurret.description>
+  
+  <!-- EN: bolter turret -->
+  <BEWH_RaisedTurretTopGun.label>爆弹炮塔</BEWH_RaisedTurretTopGun.label>
+  <!-- EN: Bolter mounted gun. -->
+  <BEWH_RaisedTurretTopGun.description>部署好的爆弹炮塔。</BEWH_RaisedTurretTopGun.description>
+  <!-- EN: Storm Bolter -->
+  <BEWH_RaisedTurretTopGun.verbs.Storm_Bolter.label>风暴爆弹枪</BEWH_RaisedTurretTopGun.verbs.Storm_Bolter.label>
+  
+  <!-- EN: raised wall -->
+  <BEWH_RaisedWall.label>临时墙</BEWH_RaisedWall.label>
+  <!-- EN: A highly durable wall that serves well in defense, but will disappear after a limited time. -->
+  <BEWH_RaisedWall.description>一道坚固耐用、防御力极强的墙，但会在一段时间后消失。</BEWH_RaisedWall.description>
+  
+</LanguageData>

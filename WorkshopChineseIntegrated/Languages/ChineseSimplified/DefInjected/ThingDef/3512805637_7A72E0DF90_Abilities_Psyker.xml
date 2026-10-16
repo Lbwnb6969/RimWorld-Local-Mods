@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psyker bolt -->
+  <BEWH_PsykerBolt.label>灵能飞弹</BEWH_PsykerBolt.label>
+  <!-- EN: A ball of psychic energy unleashed by a psyker. -->
+  <BEWH_PsykerBolt.description>一颗由灵能者发射的灵能子弹。</BEWH_PsykerBolt.description>
+  
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scorpion arrow -->
+  <VFEC_Arrow_Scorpion.label>蝎炮弩箭</VFEC_Arrow_Scorpion.label>
+  
+  <!-- EN: javelin -->
+  <VFEC_Javelin.label>标枪</VFEC_Javelin.label>
+  <!-- EN: A long-tipped throwing spear specifically designed to break armor and shield alike. -->
+  <VFEC_Javelin.description>一种长刃投掷武器，专门用来破坏盾牌和护甲。</VFEC_Javelin.description>
+  <!-- EN: shaft -->
+  <VFEC_Javelin.tools.shaft.label>杆</VFEC_Javelin.tools.shaft.label>
+  <!-- EN: point -->
+  <VFEC_Javelin.tools.point.label>尖头</VFEC_Javelin.tools.point.label>
+  <!-- EN: javelin -->
+  <VFEC_Javelin.verbs.Verb_Shoot.label>标枪</VFEC_Javelin.verbs.Verb_Shoot.label>
+  
+  <!-- EN: javelin -->
+  <VFEC_Javelin_Thrown.label>标枪</VFEC_Javelin_Thrown.label>
+  
+  <!-- EN: scorpion -->
+  <VFEC_Weapon_Scorpion.label>蝎炮</VFEC_Weapon_Scorpion.label>
+  <!-- EN: A ballista-like turret capable of firing rapidly when set up and manned. Light enough to be used as a handheld weapon at the cost of firing speed, very effective against enemy infantry. -->
+  <VFEC_Weapon_Scorpion.description>一种弩炮，在被人部署后可以快速持续开火。它重量不高，在手持形态下依旧可以发射，但是射速更低，适合对抗步兵。</VFEC_Weapon_Scorpion.description>
+  <!-- EN: limb -->
+  <VFEC_Weapon_Scorpion.tools.limb.label>弩背</VFEC_Weapon_Scorpion.tools.limb.label>
+  <!-- EN: scorpion -->
+  <VFEC_Weapon_Scorpion.verbs.Verb_Shoot.label>蝎炮</VFEC_Weapon_Scorpion.verbs.Verb_Shoot.label>
+  
+</LanguageData>

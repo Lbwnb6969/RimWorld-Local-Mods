@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Apparel_Brigandine.label>连身板甲衣</DankPyon_Apparel_Brigandine.label>
+  <DankPyon_Apparel_Brigandine.description>双层盔甲已经被这种保护性极佳(但穿起来同样笨重)的铠甲取代，内部衬有铆接在织物上的小长方钢板，以保护重要器官和四肢。</DankPyon_Apparel_Brigandine.description>
+
+  <DankPyon_Apparel_Breast_Plate.label>护胸甲</DankPyon_Apparel_Breast_Plate.label>
+  <DankPyon_Apparel_Breast_Plate.description>一块坚固的金属锻造成能够包裹躯干的形状，虽然无法保护四肢，但兼具轻便性和保护力。</DankPyon_Apparel_Breast_Plate.description>
+
+  <DankPyon_Apparel_Zweihanders_Cuirass.label>国土佣仆胸甲</DankPyon_Apparel_Zweihanders_Cuirass.label>
+  <DankPyon_Apparel_Zweihanders_Cuirass.description>以复杂的板甲辅以鲜艳的蓬松衣物为特色，国土佣仆胸甲是防护力与华丽设计的完美结合。布料上鲜明的条纹图案凸显其对比的底色，在战场上形成独特而威武的外观特色。坚固金属和醒目织物的组合展现了国土佣仆无畏而大胆的精神。</DankPyon_Apparel_Zweihanders_Cuirass.description>
+
+  <DankPyon_Apparel_Zweihanders_CuirassFloof.label>国土佣仆胸甲(蓬松)</DankPyon_Apparel_Zweihanders_CuirassFloof.label>
+  <DankPyon_Apparel_Zweihanders_CuirassFloof.description>以复杂的板甲辅以鲜艳的蓬松衣物为特色，国土佣仆胸甲是防护力与华丽设计的完美结合。布料上鲜明的条纹图案凸显其对比的底色，在战场上形成独特而威武的外观特色。坚固金属和醒目织物的组合展现了国土佣仆无畏而大胆的精神。</DankPyon_Apparel_Zweihanders_CuirassFloof.description>
+
+  <DankPyon_Apparel_FullPlate.label>连身板甲</DankPyon_Apparel_FullPlate.label>
+  <DankPyon_Apparel_FullPlate.description>很少有人能穿上像连身板甲一样具有保护性的盔甲，它以分层金属板的形式提供最大的保护。精湛工艺打造的连身板甲是贵族、领主和大财主们争相购入的物件，因为它可以有效抵御许多攻击。辉映在抛光表面上的金属光芒告诉敌人，佩戴者不仅富有，而且还是一位战争之王。</DankPyon_Apparel_FullPlate.description>
+
+
+  <DankPyon_Apparel_FullPlateGilded.label>镀金连身板甲</DankPyon_Apparel_FullPlateGilded.label>
+  <DankPyon_Apparel_FullPlateGilded.description>很少有人能穿上像连身板甲一样具有保护性的盔甲，它以分层金属板的形式提供最大的保护。精湛工艺打造的连身板甲是贵族、领主和大财主们争相购入的物件，因为它可以有效抵御许多攻击。辉映在抛光表面上的金色光芒告诉敌人，佩戴者不仅富有，而且还是一位战争之王。</DankPyon_Apparel_FullPlateGilded.description>
+
+  <DankPyon_Apparel_FullPlateNamed.label>铭刻连身板甲</DankPyon_Apparel_FullPlateNamed.label>
+  <DankPyon_Apparel_FullPlateNamed.description>很少有人能穿上像连身板甲一样具有保护性的盔甲，它以分层金属板的形式提供最大的保护。精湛工艺打造的连身板甲是贵族、领主和大财主们争相购入的物件，因为它可以有效抵御许多攻击。辉映在抛光表面上的耀眼光芒告诉敌人，佩戴者不仅富有，而且还是一位战争之王。</DankPyon_Apparel_FullPlateNamed.description>
+
+  <DankPyon_Apparel_Lindwurm.label>林德虫鳞甲</DankPyon_Apparel_Lindwurm.label>
+  <DankPyon_Apparel_Lindwurm.description>使用林德虫鳞片缝制而成的鳞甲。将这件盔甲穿在身上是一种力量的彰显，因为这证明他们杀死了一条危险的林德虫。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这件鳞甲能保护配戴者免受林德虫酸蚀效果影响</DankPyon_Apparel_Lindwurm.description>
+
+</LanguageData>

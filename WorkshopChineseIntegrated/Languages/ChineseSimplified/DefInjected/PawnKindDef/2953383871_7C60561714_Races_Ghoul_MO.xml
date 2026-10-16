@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Ghoul_Stage_One.label>低等尼塔特</DankPyon_Ghoul_Stage_One.label>
+  <DankPyon_Ghoul_Stage_One.labelPlural>低等尼塔特</DankPyon_Ghoul_Stage_One.labelPlural>
+  <DankPyon_Ghoul_Stage_One.labelMale>低等尼塔特</DankPyon_Ghoul_Stage_One.labelMale>
+  <DankPyon_Ghoul_Stage_One.labelMalePlural>低等尼塔特</DankPyon_Ghoul_Stage_One.labelMalePlural>
+  <DankPyon_Ghoul_Stage_One.labelFemale>低等尼塔特</DankPyon_Ghoul_Stage_One.labelFemale>
+  <DankPyon_Ghoul_Stage_One.labelFemalePlural>低等尼塔特</DankPyon_Ghoul_Stage_One.labelFemalePlural>
+
+
+  <!-- Ghoul Stage Two -->
+
+  <DankPyon_Ghoul_Stage_Two.label>尼塔特</DankPyon_Ghoul_Stage_Two.label>
+  <DankPyon_Ghoul_Stage_Two.labelPlural>尼塔特</DankPyon_Ghoul_Stage_Two.labelPlural>
+  <DankPyon_Ghoul_Stage_Two.labelMale>尼塔特</DankPyon_Ghoul_Stage_Two.labelMale>
+  <DankPyon_Ghoul_Stage_Two.labelMalePlural>尼塔特</DankPyon_Ghoul_Stage_Two.labelMalePlural>
+  <DankPyon_Ghoul_Stage_Two.labelFemale>尼塔特</DankPyon_Ghoul_Stage_Two.labelFemale>
+  <DankPyon_Ghoul_Stage_Two.labelFemalePlural>尼塔特</DankPyon_Ghoul_Stage_Two.labelFemalePlural>
+
+  <DankPyon_Ghoul_Stage_Three.label>巨型尼塔特</DankPyon_Ghoul_Stage_Three.label>
+  <DankPyon_Ghoul_Stage_Three.labelPlural>巨型尼塔特</DankPyon_Ghoul_Stage_Three.labelPlural>
+  <DankPyon_Ghoul_Stage_Three.labelMale>巨型尼塔特</DankPyon_Ghoul_Stage_Three.labelMale>
+  <DankPyon_Ghoul_Stage_Three.labelMalePlural>巨型尼塔特</DankPyon_Ghoul_Stage_Three.labelMalePlural>
+  <DankPyon_Ghoul_Stage_Three.labelFemale>巨型尼塔特</DankPyon_Ghoul_Stage_Three.labelFemale>
+  <DankPyon_Ghoul_Stage_Three.labelFemalePlural>巨型尼塔特</DankPyon_Ghoul_Stage_Three.labelFemalePlural>
+
+
+</LanguageData>

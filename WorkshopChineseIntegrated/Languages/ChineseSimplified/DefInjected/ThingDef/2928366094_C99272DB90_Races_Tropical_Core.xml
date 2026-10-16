@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kiwi -->
+  <RG_KiwiBird.label>热带几维鸟</RG_KiwiBird.label>
+  <!-- EN: The miniscule, spherical cousin of the moa. Inferior in every way to their bigger relative. Helpless in the face of danger because of it's lack of flight. -->
+  <RG_KiwiBird.description>常见于边缘世界热带地区的一种几维鸟，与恐鸟亲缘关系较近。由于缺乏飞行能力，遇到危险时会束手无策。</RG_KiwiBird.description>
+  <!-- EN: claws -->
+  <RG_KiwiBird.tools.claws.label>爪</RG_KiwiBird.tools.claws.label>
+  <!-- EN: beak -->
+  <RG_KiwiBird.tools.beak.label>喙</RG_KiwiBird.tools.beak.label>
+  <!-- EN: head -->
+  <RG_KiwiBird.tools.head.label>头</RG_KiwiBird.tools.head.label>
+  
+</LanguageData>

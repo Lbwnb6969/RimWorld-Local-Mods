@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Schematic.label>中世纪图纸</DankPyon_Schematic.label>
+  <DankPyon_Schematic.description>一纸详尽记载着各式技术及其原理的卷轴，阅读这些图解卷轴可能会发现新的进步和隐藏的知识。</DankPyon_Schematic.description>
+
+  <DankPyon_Tale.label>中世纪故事集</DankPyon_Tale.label>
+  <DankPyon_Tale.description>装帧精美，讲述冒险和神话的故事集，每一本书都将带领读者进入遥远的国度和过去的时代。这些书籍由书吏手写，并配有装饰和插图，因其丰富的内容和精湛的制书工艺而备受喜爱。它们既能为读者带来娱乐，亦能传承历史。</DankPyon_Tale.description>
+
+  <DankPyon_Treatise.label>中世纪论着</DankPyon_Treatise.label>
+  <DankPyon_Treatise.description>精心装订的论著书籍，详细写下了各种主题的知识和技巧。每一本书都提供深入的解释和实用的建议，能让读者快速将所学内化。这些论着由专家撰写，通常附有详细的图解，是人们学习和改善自身技能的宝贵资源。</DankPyon_Treatise.description>
+
+
+</LanguageData>

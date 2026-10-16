@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coal Ore -->
+
+  <DankPyon_MineableCoal.label>煤矿</DankPyon_MineableCoal.label>
+  <DankPyon_MineableCoal.description>含有煤块的岩石。</DankPyon_MineableCoal.description>
+
+  <DankPyon_MineableSalt.label>盐矿</DankPyon_MineableSalt.label>
+  <DankPyon_MineableSalt.description>含有盐块的岩石。</DankPyon_MineableSalt.description>
+
+
+  <!-- Resource rocks -->
+
+  <DankPyon_MineableGold.label>金矿</DankPyon_MineableGold.label>
+  <DankPyon_MineableGold.description>含有碎金的岩石。</DankPyon_MineableGold.description>
+
+  <DankPyon_MineableIron.label>铁矿</DankPyon_MineableIron.label>
+  <DankPyon_MineableIron.description>含有碎铁的岩石。</DankPyon_MineableIron.description>
+
+
+  <!-- Gemstone -->
+
+  <DankPyon_MineableCitrine.label>黄水晶矿</DankPyon_MineableCitrine.label>
+  <DankPyon_MineableCitrine.description>含有少量黄水晶的岩石。</DankPyon_MineableCitrine.description>
+
+  <DankPyon_MineableAmber.label>琥珀矿</DankPyon_MineableAmber.label>
+  <DankPyon_MineableAmber.description>含有少量琥珀的岩石。</DankPyon_MineableAmber.description>
+
+  <DankPyon_MineableOnyx.label>玛瑙矿</DankPyon_MineableOnyx.label>
+  <DankPyon_MineableOnyx.description>含有少量玛瑙的岩石。</DankPyon_MineableOnyx.description>
+
+  <DankPyon_MineableEmerald.label>绿宝石矿</DankPyon_MineableEmerald.label>
+  <DankPyon_MineableEmerald.description>含有少量绿宝石的岩石。</DankPyon_MineableEmerald.description>
+
+  <DankPyon_MineableSapphire.label>蓝宝石矿</DankPyon_MineableSapphire.label>
+  <DankPyon_MineableSapphire.description>含有少量蓝宝石的岩石。</DankPyon_MineableSapphire.description>
+
+  <DankPyon_MineableRuby.label>红宝石矿</DankPyon_MineableRuby.label>
+  <DankPyon_MineableRuby.description>含有少量红宝石的岩石。</DankPyon_MineableRuby.description>
+
+
+  <!-- Buildings -->
+
+  <DankPyon_TarPit.label>焦油坑</DankPyon_TarPit.label>
+  <DankPyon_TarPit.description>从地下渗出的天然沥青。\n\n分解以收获资源。</DankPyon_TarPit.description>
+
+  <DankPyon_BeeHive.label>蜂巢</DankPyon_BeeHive.label>
+  <DankPyon_BeeHive.description>秃鹫蜂群的蜂巢，这种蜜蜂起源于傲斯温家族领地，因此又称傲斯温蜂。\n\n分解以获得一只女王蜂。</DankPyon_BeeHive.description>
+
+  <DankPyon_HornetNest.label>大黄蜂巢穴</DankPyon_HornetNest.label>
+  <DankPyon_HornetNest.description>巨型昆虫的巢穴。如果被唤醒，会随着时间的推移产生更多的巨型昆虫和巢穴，以及珍贵的大黄蜂蜂蜜。</DankPyon_HornetNest.description>
+
+  <!-- Golem Rock Generator -->
+
+  <DankPyon_GolemRock_Iron_MapGen.label>不寻常的铁矿堆</DankPyon_GolemRock_Iron_MapGen.label>
+  <DankPyon_GolemRock_Iron_MapGen.description>一处不寻常的铁矿堆，似乎能听到微弱的动静。</DankPyon_GolemRock_Iron_MapGen.description>
+  <DankPyon_GolemRock_Iron_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterLabel>魔像苏醒</DankPyon_GolemRock_Iron_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterLabel>
+  <DankPyon_GolemRock_Iron_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterDescription>一具铁魔像从矿堆中现身，快寻找掩护！</DankPyon_GolemRock_Iron_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterDescription>
+
+  <DankPyon_GolemRock_Silver_MapGen.label>不寻常的白银矿堆</DankPyon_GolemRock_Silver_MapGen.label>
+  <DankPyon_GolemRock_Silver_MapGen.description>一处不寻常的白银矿堆，似乎能听到微弱的动静。</DankPyon_GolemRock_Silver_MapGen.description>
+  <DankPyon_GolemRock_Silver_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterLabel>魔像苏醒</DankPyon_GolemRock_Silver_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterLabel>
+  <DankPyon_GolemRock_Silver_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterDescription>一具白银魔像从矿堆中现身，快寻找掩护！</DankPyon_GolemRock_Silver_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterDescription>
+
+  <DankPyon_GolemRock_Iron_Incident.label>不寻常的铁矿堆</DankPyon_GolemRock_Iron_Incident.label>
+  <DankPyon_GolemRock_Iron_Incident.description>一处不寻常的铁矿堆，从中听不见一丝动静。</DankPyon_GolemRock_Iron_Incident.description>
+
+  <DankPyon_GolemRock_Silver_Incident.label>不寻常的白银矿堆</DankPyon_GolemRock_Silver_Incident.label>
+  <DankPyon_GolemRock_Silver_Incident.description>一处不寻常的白银矿堆，从中听不见一丝动静。</DankPyon_GolemRock_Silver_Incident.description>
+
+  <DankPyon_GolemRock_Gold_Incident.label>不寻常的金矿堆</DankPyon_GolemRock_Gold_Incident.label>
+  <DankPyon_GolemRock_Gold_Incident.description>一处不寻常的金矿堆，从中听不见一丝动静。</DankPyon_GolemRock_Gold_Incident.description>
+
+</LanguageData>

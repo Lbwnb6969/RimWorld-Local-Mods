@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brass ocular -->
+  <VR_BrassOcular.label>黄铜目镜</VR_BrassOcular.label>
+  
+  <!-- EN: clockwork brain -->
+  <VR_ClockworkBrain.label>发条脑</VR_ClockworkBrain.label>
+  
+  <!-- EN: sphere -->
+  <VR_ConstructSphere.label>球体</VR_ConstructSphere.label>
+  
+  <!-- EN: sphere -->
+  <VR_ConstructSphere_Small.label>球体</VR_ConstructSphere_Small.label>
+  
+  <!-- EN: torso -->
+  <VR_ConstructTorso.label>躯干</VR_ConstructTorso.label>
+  
+  <!-- EN: torso -->
+  <VR_ConstructTorsoCanManipulate.label>躯干</VR_ConstructTorsoCanManipulate.label>
+  
+  <!-- EN: harmonic listener -->
+  <VR_HarmonicListener.label>谐波监听器</VR_HarmonicListener.label>
+  
+  <!-- EN: steam circulator -->
+  <VR_SteamCirculator.label>蒸汽循环器</VR_SteamCirculator.label>
+  
+  <!-- EN: dynamo core -->
+  <VR_TonalCore.label>发电核心</VR_TonalCore.label>
+  
+</LanguageData>

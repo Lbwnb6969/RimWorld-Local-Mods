@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: don't care -->
+  <VME_Death_DontCare.label>漠视</VME_Death_DontCare.label>
+  <!-- EN: Death is inevitable, should we lose an ally or slay an enemy it is not to be thought about.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists won't get any mood effects for losing other colonists. -->
+  <VME_Death_DontCare.description>死亡在所难免，我们并不在乎盟友或敌人是否被杀。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 殖民者不会因目睹他人的死亡而获得任何心情。</VME_Death_DontCare.description>
+  
+  <!-- EN: normal -->
+  <VME_Death_Normal.label>普通</VME_Death_Normal.label>
+  <!-- EN: Death is inevitable, an incredibly sad fact of life. -->
+  <VME_Death_Normal.description>死亡在所难免，这也是生活中令人悲痛欲绝的事实。</VME_Death_Normal.description>
+  
+  <!-- EN: troubling -->
+  <VME_Death_Troubling.label>畏惧</VME_Death_Troubling.label>
+  <!-- EN: Death is inevitable, but we prefer not to dwell on it and not be reminded of its reality as much as possible. -->
+  <VME_Death_Troubling.description>死亡在所难免，可我们既不愿沉溺于悲伤中，也不想回忆起生命逝去所带来的那种真切感。</VME_Death_Troubling.description>
+  
+</LanguageData>

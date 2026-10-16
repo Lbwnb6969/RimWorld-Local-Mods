@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Medieval colonies cannot manufacture RimDark weapons or armor. -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="BEWH_MkVIIPowerArmor" or defName="BEWH_MkXPowerArmor" or defName="BEWH_MkXPowerArmorChaplain" or defName="BEWH_LivingSaintArmor" or defName="BEWH_MkIPowerArmor" or defName="BEWH_MkVIIPowerArmorHelmet" or defName="BEWH_MkXPowerArmorHelmet" or defName="BEWH_MkXPowerArmorChaplainHelmet" or defName="BEWH_MkIPowerArmorHelmet" or defName="BEWH_Narthecium" or defName="BEWH_Reductor" or defName="BEWH_AstartesBolter" or defName="BEWH_AstartesChainsword" or defName="BEWH_AstartesPowerSword" or defName="BEWH_ProtoBoltGun" or defName="BEWH_proto-Chainsword"]/recipeMaker</xpath>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="BEWH_MkVIIPowerArmor" or defName="BEWH_MkXPowerArmor" or defName="BEWH_MkXPowerArmorChaplain" or defName="BEWH_LivingSaintArmor" or defName="BEWH_MkIPowerArmor" or defName="BEWH_MkVIIPowerArmorHelmet" or defName="BEWH_MkXPowerArmorHelmet" or defName="BEWH_MkXPowerArmorChaplainHelmet" or defName="BEWH_MkIPowerArmorHelmet" or defName="BEWH_Narthecium" or defName="BEWH_Reductor" or defName="BEWH_AstartesBolter" or defName="BEWH_AstartesChainsword" or defName="BEWH_AstartesPowerSword" or defName="BEWH_ProtoBoltGun" or defName="BEWH_proto-Chainsword"]</xpath>
+    <value>
+      <recipeMaker Inherit="false" IsNull="true" />
+    </value>
+  </Operation>
+</Patch>

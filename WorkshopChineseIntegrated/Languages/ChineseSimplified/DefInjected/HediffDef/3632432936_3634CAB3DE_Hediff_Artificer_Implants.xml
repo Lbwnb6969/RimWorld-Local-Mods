@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: control sublink -->
+  <VR_Artificer_ControlSublinkImplant.label>控制子链</VR_Artificer_ControlSublinkImplant.label>
+  <!-- EN: An implant which increases a mechanitor's control group count and the work speed of a mechanitor's mechs.\n\nThis implant can be installed up to 6 times to increase its effect. -->
+  <VR_Artificer_ControlSublinkImplant.description>一种植入体，可增加机控师的控制组数量并提高其机甲的工作速度。\n\n该植入体最多可安装6次以增强效果。</VR_Artificer_ControlSublinkImplant.description>
+  
+  <!-- EN: mech gestation processor -->
+  <VR_Artificer_MechFormfeederImplant.label>构装体孕育处理器</VR_Artificer_MechFormfeederImplant.label>
+  <!-- EN: An implant which increases the speed at which a mechanitor can produce mechs in a mech gestator. The processor optimizes the behavior of the mechanites in the mech forming tank.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
+  <VR_Artificer_MechFormfeederImplant.description>一种植入体，可提高机控师在构装体孕育舱中生产构装体的速度。处理器会优化构装体成形槽中机械纳米虫的行为。\n\n该植入体可像机控链接一样自行安装。\n\n该植入体最多可安装6次以增强效果。</VR_Artificer_MechFormfeederImplant.description>
+  <!-- EN: An implant which lets a mechanitor gestate new mechs faster. This can be installed up to 6 times to increase the effect. -->
+  <VR_Artificer_MechFormfeederImplant.descriptionShort>一种植入体，可让机控师更快孕育新的构装体。最多可安装6次以增强效果。</VR_Artificer_MechFormfeederImplant.descriptionShort>
+  
+  <!-- EN: construct band node (tuned) -->
+  <VR_ConstructBandNode.label>构装体频带节点（已调谐）</VR_ConstructBandNode.label>
+  <!-- EN: This artificer's bandwidth is being increased thanks to the influence of a band node structure. -->
+  <VR_ConstructBandNode.description>该机巧师的带宽因频带节点结构的影响而提升。</VR_ConstructBandNode.description>
+  
+</LanguageData>

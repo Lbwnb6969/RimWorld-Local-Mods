@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: casino visitors -->
+  <CasinoVisitorGroup.label>赌场访客</CasinoVisitorGroup.label>
+  <!-- EN: Casino visitors arrive -->
+  <CasinoVisitorGroup.letterLabel>赌场访客到达</CasinoVisitorGroup.letterLabel>
+  <!-- EN: A group of visitors has arrived, drawn by word of your casino. They're looking to try their luck at the slot machines. -->
+  <CasinoVisitorGroup.letterText>一群访客慕名前来拜访殖民地开设的赌场。他们想在老虎机上试试自己的手气。</CasinoVisitorGroup.letterText>
+  
+</LanguageData>

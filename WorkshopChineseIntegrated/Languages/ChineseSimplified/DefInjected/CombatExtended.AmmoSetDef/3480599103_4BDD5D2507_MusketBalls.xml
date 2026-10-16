@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: .55 Caliber Ball -->
+  <AmmoSet_55CalBall300mps.label>0.55口径弹(300m/s)</AmmoSet_55CalBall300mps.label>
+  
+  <!-- EN: .55 Caliber Ball -->
+  <AmmoSet_55CalBall450mps.label>0.55口径弹(450m/s)</AmmoSet_55CalBall450mps.label>
+  
+  <!-- EN: .55 Caliber Ball -->
+  <AmmoSet_55CalBall525mps.label>0.55口径弹(525m/s)</AmmoSet_55CalBall525mps.label>
+  
+  <!-- EN: .75 Caliber Ball -->
+  <AmmoSet_75CalBall370mps.label>0.75口径弹(370m/s)</AmmoSet_75CalBall370mps.label>
+  
+  <!-- EN: .75 Caliber Ball -->
+  <AmmoSet_75CalBall500mps.label>0.75口径弹(500m/s)</AmmoSet_75CalBall500mps.label>
+  
+</LanguageData>

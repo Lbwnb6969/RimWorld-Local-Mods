@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Scrapper -->
+  <AM_ScrapRitualBehavior.roles.0.label>拆解者</AM_ScrapRitualBehavior.roles.0.label>
+  <!-- EN: participate -->
+  <AM_ScrapRitualBehavior.spectatorGerund>参加</AM_ScrapRitualBehavior.spectatorGerund>
+  <!-- EN: Spectators -->
+  <AM_ScrapRitualBehavior.spectatorsLabel>观众</AM_ScrapRitualBehavior.spectatorsLabel>
+  <!-- EN: Unable to retrieve materials -->
+  <AM_ScrapRitualBehavior.stages.0.failTriggers.0.desc>找不到所需材料。</AM_ScrapRitualBehavior.stages.0.failTriggers.0.desc>
+  
+</LanguageData>

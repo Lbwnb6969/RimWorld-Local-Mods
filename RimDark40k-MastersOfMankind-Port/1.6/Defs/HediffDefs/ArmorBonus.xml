@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>GW_Ruler_ValdorSpearXpDrain</defName>
+    <label>Spear of Valdor</label>
+    <description>The Apollonian Spear tells truths to this pawn - upon slaying an enemy, they add a portion of the enemy's skills to their own.</description>
+    <isBad>false</isBad>
+    <hediffClass>HediffWithComps</hediffClass>
+    <initialSeverity>0.001</initialSeverity>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.HediffCompProperties_XpOnKill">
+        <isDrainAtRandom>false</isDrainAtRandom>
+        <drainPercent>0.05</drainPercent>
+      </li>
+    </comps>
+  </HediffDef>
+  <ThingDef ParentName="MoteBase">
+    <defName>GW_Ruler_EmperorAuraMote</defName>
+    <thingClass>MoteAttached</thingClass>
+    <altitudeLayer>LightingOverlay</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <solidTime>9999999</solidTime>
+      <needsMaintenance>true</needsMaintenance>
+    </mote>
+    <graphicData>
+      <graphicClass>Graphic_Mote</graphicClass>
+      <texPath>Emperor/Headgear/GW_HRM_Emperor_LaurelsAura</texPath>
+      <shaderType>MoteGlow</shaderType>
+      <color>(1,0.72,0.18,0.20)</color>
+      <drawSize>10</drawSize>
+    </graphicData>
+  </ThingDef>
+  <HediffDef>
+    <defName>GW_Ruler_EmperorAura</defName>
+    <label>Holy Light</label>
+    <description>This pawn has been crowned Emperor. Their sheer radiance inspires others to fight with all their might.</description>
+    <isBad>false</isBad>
+    <hediffClass>HediffWithComps</hediffClass>
+    <initialSeverity>0.001</initialSeverity>
+    <renderNodeProperties>
+      <li Class="PawnRenderNodeProperties">
+        <texPath>Emperor/Headgear/GW_HRM_Emperor_LaurelsAura</texPath>
+        <parentTagDef>ApparelHead</parentTagDef>
+        <drawSize>1.2</drawSize>
+        <useGraphic>true</useGraphic>
+        <shaderTypeDef>MoteGlow</shaderTypeDef>
+        <baseLayer>100</baseLayer>
+        <pawnType>Any</pawnType>
+        <drawData>
+          <defaultData>
+            <layer>20</layer>
+            <offset>(0, 0, 0)</offset>
+          </defaultData>
+          <dataWest>
+            <flip>false</flip>
+          </dataWest>
+          <dataNorth>
+            <layer>75</layer>
+          </dataNorth>
+        </drawData>
+      </li>
+    </renderNodeProperties>
+    <comps>
+      <li Class="HediffCompProperties_GiveAbility">
+        <abilityDef>EmperorLOTDAbility</abilityDef>
+      </li>
+      <li Class="HediffCompProperties_GiveHediffsInRange">
+        <range>5</range>
+        <mote>GW_Ruler_EmperorAuraMote</mote>
+        <targetingParameters>
+          <canTargetBuildings>false</canTargetBuildings>
+          <canTargetAnimals>false</canTargetAnimals>
+          <canTargetMechs>false</canTargetMechs>
+          <canTargetSubhumans>false</canTargetSubhumans>
+        </targetingParameters>
+        <hediff>GW_Ruler_InspiredByHolyLight</hediff>
+        <initialSeverity>1</initialSeverity>
+        <onlyPawnsInSameFaction>true</onlyPawnsInSameFaction>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <minSeverity>1</minSeverity>
+        <statOffsets>
+          <InjuryHealingFactor>2.0</InjuryHealingFactor>
+          <PsychicSensitivity>1</PsychicSensitivity>
+          <MentalBreakThreshold>-0.1</MentalBreakThreshold>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>GW_Ruler_InspiredByHolyLight</defName>
+    <label>inspired by holy light</label>
+    <description>This pawn is inspired by holy light, driving them to greater feats in battle.</description>
+    <isBad>false</isBad>
+    <hediffClass>HediffWithComps</hediffClass>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <comps>
+      <li Class="HediffCompProperties_Disappears">
+        <showRemainingTime>false</showRemainingTime>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <statFactors>
+          <MoveSpeed>1.14</MoveSpeed>
+        </statFactors>
+        <statOffsets>
+          <MeleeHitChance>1</MeleeHitChance>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>GW_Ruler_ValdorShieldBonus</defName>
+    <label>valdor's shield</label>
+    <description>the Shield of the Emperor protects you. His divine grace bestows a personal shield onto you.</description>
+    <isBad>false</isBad>
+    <hediffClass>HediffWithComps</hediffClass>
+    <initialSeverity>0.001</initialSeverity>
+    <comps>
+      <!-- <li Class="VEF.Hediffs.HediffCompProperties_Shield"> -->
+      <!-- <compClass>VEF.Hediffs.HediffComp_Shield</compClass> -->
+      <!-- <graphic> -->
+      <!-- <texPath>Other/ShieldBubble</texPath> -->
+      <!-- <drawSize>(2, 2)</drawSize> -->
+      <!-- <graphicClass>Graphic_Single</graphicClass> -->
+      <!-- <shaderType>MoteGlow</shaderType> -->
+      <!-- </graphic> -->
+      <!-- <maxEnergy>100</maxEnergy> -->
+      <!-- <energyLossPerDamage>0.033</energyLossPerDamage> -->
+      <!-- <energyPerTick>0.1</energyPerTick> -->
+      <!-- <rechargeDelay>60</rechargeDelay> -->
+      <!-- <absorbAttackType>Both</absorbAttackType> -->
+      <!-- <sustainer>BulletShield_Ambience</sustainer> -->
+      <!-- <soundEnded>EnergyShield_Broken</soundEnded> -->
+      <!-- <doDust>false</doDust> -->
+      <!-- <absorbedFleck>ExplosionFlash</absorbedFleck> -->
+      <!-- <damageOnAttack>Melee</damageOnAttack> -->
+      <!-- <damageType>Flame</damageType> -->
+      <!-- <damageAmount>3</damageAmount> -->
+      <!-- </li> -->
+    </comps>
+  </HediffDef>
+  <HediffDef>
+    <defName>GW_Ruler_MalcadorBonus</defName>
+    <label>Wisdom of Malcador</label>
+    <description>Armed with the wits of Malcador the Sigillite, this pawn can negotiate a more desirable deal in trade.</description>
+    <isBad>false</isBad>
+    <hediffClass>HediffWithComps</hediffClass>
+    <initialSeverity>0.001</initialSeverity>
+    <stages>
+      <li>
+        <statFactors>
+          <NegotiationAbility>1.5</NegotiationAbility>
+          <TradePriceImprovement>1.5</TradePriceImprovement>
+        </statFactors>
+      </li>
+    </stages>
+    <comps>
+      <li Class="HediffCompProperties_GiveAbility">
+        <abilityDef>GW_Ruler_MalcadorAbility</abilityDef>
+      </li>
+    </comps>
+  </HediffDef>
+  <HediffDef>
+    <defName>GW_Ruler_MalcadorDebuff</defName>
+    <label>Imposed Will</label>
+    <description>This pawn's mind is being crushed by the will of the Sigillite.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <initialSeverity>0.001</initialSeverity>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <postFactor>0.5</postFactor>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+    <comps>
+      <li Class="HediffCompProperties_Disappears">
+        <disappearsAfterTicks>2500</disappearsAfterTicks>
+        <showRemainingTime>true</showRemainingTime>
+      </li>
+    </comps>
+  </HediffDef>
+</Defs>

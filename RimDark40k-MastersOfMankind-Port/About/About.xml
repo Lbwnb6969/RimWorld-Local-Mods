@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimDark 40k - Masters of Mankind (Independent Port)</name>
+  <author>Original content: Clashgore et al.; local RimDark port</author>
+  <packageId>Local.RimDark.MastersOfMankind</packageId>
+  <modIconPath IgnoreIfNoMatchingField="true">UI/Icons/MastersOfMankindModIcon</modIconPath>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>
+    Independent local port of GrimWorld 40,000 - Masters of Mankind for RimDark 40k.
+    Does not require GrimWorld Framework or GrimWorld Core. Do not enable this together with the original Masters of Mankind mod.
+  </description>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld.Biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+    <li>
+      <packageId>Phonicmas.RimDark.FrameworkCore</packageId>
+      <displayName>RimDark 40k - Framework</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3267464767</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Phonicmas.RimDark.MankindsFinest</packageId>
+      <displayName>RimDark 40k - Mankind's Finest</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3505068525</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>Phonicmas.RimDark.FrameworkCore</li>
+    <li>Phonicmas.RimDark.MankindsFinest</li>
+    <li>Local.RimDark.MankindsFinest.MedievalPatch</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>grimworld.HighestRulers</li>
+  </incompatibleWith>
+</ModMetaData>

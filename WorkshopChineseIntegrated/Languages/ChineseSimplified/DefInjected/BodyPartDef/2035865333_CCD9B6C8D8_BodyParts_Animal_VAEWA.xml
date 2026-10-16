@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mouth -->
+  <VAEWaste_InsectMouth.label>口器</VAEWaste_InsectMouth.label>
+  
+  <!-- EN: stinger -->
+  <VAEWaste_InsectSting.label>螫刺</VAEWaste_InsectSting.label>
+  
+  <!-- EN: tail -->
+  <VAEWaste_InsectTail.label>尾巴</VAEWaste_InsectTail.label>
+  
+  <!-- EN: left pincer -->
+  <VAEWaste_LeftPincer.label>左螯钳</VAEWaste_LeftPincer.label>
+  
+  <!-- EN: right pincer -->
+  <VAEWaste_RightPincer.label>右螯钳</VAEWaste_RightPincer.label>
+  
+  <!-- EN: thorax -->
+  <VAEWaste_Thorax.label>胸</VAEWaste_Thorax.label>
+  
+</LanguageData>

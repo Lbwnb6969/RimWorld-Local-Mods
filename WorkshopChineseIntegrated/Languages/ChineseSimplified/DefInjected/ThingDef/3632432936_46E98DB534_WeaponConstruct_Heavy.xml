@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stake driver -->
+  <VR_Construct_StakeDriver_Heavy.label>桩钉炮</VR_Construct_StakeDriver_Heavy.label>
+  <!-- EN: stake driver -->
+  <VR_Construct_StakeDriver_Heavy.description>桩钉炮</VR_Construct_StakeDriver_Heavy.description>
+  <!-- EN: handle -->
+  <VR_Construct_StakeDriver_Heavy.tools.handle.label>柄</VR_Construct_StakeDriver_Heavy.tools.handle.label>
+  <!-- EN: point -->
+  <VR_Construct_StakeDriver_Heavy.tools.point.label>尖</VR_Construct_StakeDriver_Heavy.tools.point.label>
+  <!-- EN: stake -->
+  <VR_Construct_StakeDriver_Heavy.tools.point.labelNoLocation>桩钉</VR_Construct_StakeDriver_Heavy.tools.point.labelNoLocation>
+  
+  <!-- EN: steam hammer -->
+  <VR_Construct_SteamHammer_Heavy.label>蒸汽锤</VR_Construct_SteamHammer_Heavy.label>
+  <!-- EN: steam hammer -->
+  <VR_Construct_SteamHammer_Heavy.description>蒸汽锤</VR_Construct_SteamHammer_Heavy.description>
+  <!-- EN: handle -->
+  <VR_Construct_SteamHammer_Heavy.tools.handle.label>柄</VR_Construct_SteamHammer_Heavy.tools.handle.label>
+  <!-- EN: head -->
+  <VR_Construct_SteamHammer_Heavy.tools.head.label>锤头</VR_Construct_SteamHammer_Heavy.tools.head.label>
+  
+  <!-- EN: steam sword -->
+  <VR_Construct_SteamSword_Heavy.label>蒸汽剑</VR_Construct_SteamSword_Heavy.label>
+  <!-- EN: steam blade -->
+  <VR_Construct_SteamSword_Heavy.description>蒸汽刃</VR_Construct_SteamSword_Heavy.description>
+  <!-- EN: handle -->
+  <VR_Construct_SteamSword_Heavy.tools.handle.label>柄</VR_Construct_SteamSword_Heavy.tools.handle.label>
+  <!-- EN: point -->
+  <VR_Construct_SteamSword_Heavy.tools.point.label>尖</VR_Construct_SteamSword_Heavy.tools.point.label>
+  <!-- EN: blade -->
+  <VR_Construct_SteamSword_Heavy.tools.point.labelNoLocation>刃</VR_Construct_SteamSword_Heavy.tools.point.labelNoLocation>
+  <!-- EN: edge -->
+  <VR_Construct_SteamSword_Heavy.tools.edge.label>刃口</VR_Construct_SteamSword_Heavy.tools.edge.label>
+  
+</LanguageData>

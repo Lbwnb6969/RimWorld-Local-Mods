@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Combat Extended</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="EES_EscapeDevice"]/statBases</xpath>
+      <value>
+        <Bulk>4</Bulk>
+        <WornBulk>4</WornBulk>
+      </value>
+    </match>
+  </Operation>
+
+</Patch>

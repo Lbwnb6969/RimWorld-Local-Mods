@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Ideo split: {0} -->
+  <VIESAS.IdeoSplit>文化分裂：{0}</VIESAS.IdeoSplit>
+	<!-- EN: As with all big communities, certain traditions in your colony developed in a different way. Some people began to see the old ways as no longer valid in the times you're in, and they decided that the future requires your ideology to adapt. As such, {0} has been found.
+
+{1}
+
+Following people decided to join the new ideology:
+{2}
+
+With a schism come new challenges. You will now have to take care of two unique ideologies in your colony, until one of them dominates the other. -->
+  <VIESAS.IdeoSplitDesc>随着人数不断增多，你殖民地里的某些传统开始朝着不同的方向发展。有些人不再认同旧有的理论，并认为你的文化需要改革以适应未来。因此，{0}被建立了。\n\n{1}\n\n以下这些人决定加入新的文化：\n{2}\n\n这次分裂带来了更多的挑战，你需要管理殖民地里的两种不同的文化，直到其中一种压制住了另一种。
+  </VIESAS.IdeoSplitDesc>
+	<!-- EN: With a schism come new challenges. You will now have to take care of two unique ideologies in your colony, until one of them dominates the other.
+
+Select an option below to decide what to do further with the new ideology. You can configure it or accept the ideology as is and close the window. -->
+  <VIESAS.IdeoSplitDescOptions>这次分裂带来了更多的挑战，你需要管理殖民地里的两种不同的文化，直到其中一种压制住了另一种。\n\n请在下列选项中选择一个，以决定新的文化形态该如何运作。你可以按自己的想法调整它，或保持不变并直接关闭当前窗口。</VIESAS.IdeoSplitDescOptions>
+	<!-- EN: Percentage odds of Schism occuring:  -->
+  <VIESAS.OddsOfSchismToOccur>分裂发生的可能性百分比：</VIESAS.OddsOfSchismToOccur>
+	<!-- EN: Max percentage of low certainty colonists to form new ideo:  -->
+  <VIESAS.PctOfColonistsToTurnToNewIdeology>殖民者认可度较低时加入新文化的最大百分比：</VIESAS.PctOfColonistsToTurnToNewIdeology>
+	<!-- EN: Minimum amount of Colonists in one Ideology for Schism to Occur:  -->
+  <VIESAS.MinimumColonistCountForSchismToOccur>文化发生分裂所需的最少殖民者数量：</VIESAS.MinimumColonistCountForSchismToOccur>
+	<!-- EN: Amount of Memes changed during Schism:  -->
+  <VIESAS.AmountOfMemesChangedDuringSchism>在分裂时改变的模因数量：</VIESAS.AmountOfMemesChangedDuringSchism>
+	<!-- EN: Ideology conversion day interval check:  -->
+  <VIESAS.IdeologyConversionCheckDaysInterval>文化转变判定的天数间隔：</VIESAS.IdeologyConversionCheckDaysInterval>
+	<!-- EN: Meme changed -->
+  <VIESAS.MemeChanged>改变的模因：</VIESAS.MemeChanged>
+	<!-- EN: New meme -->
+  <VIESAS.NewMeme>新的模因：</VIESAS.NewMeme>
+	<!-- EN: {0} forgotten -->
+  <VIESAS.OldIdeoForgotten>{0}已被遗忘</VIESAS.OldIdeoForgotten>
+	<!-- EN: {0} has been forgotten. Nobody on this planet remembers the old ways, and the traditions, culture and creed of that ideology have been lost to progress.
+
+Ideology has vanished due to lack of followers. -->
+  <VIESAS.OldIdeoForgottenDesc>{0}已被彻底遗忘，这颗星球上不再有人还留有这种陈旧传统的记忆。所有与之相关的教条，传统和理念都已被遗弃。
+  
+由于缺乏追随者，该文化已经消失了。
+  </VIESAS.OldIdeoForgottenDesc>
+	<!-- EN: Threshold of certainty of Colonists to join new ideo:  -->
+  <VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>殖民者加入新文化的认可度阈值：</VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>
+
+  <!-- Animal Products -->
+
+	<!-- EN: Gaubric production -->
+  <VDE_GaubricDesc>树精绒绸产出进度</VDE_GaubricDesc>
+	<!-- EN: Neutroamine production -->
+  <VDE_NeutroamineDesc>中性胺产出进度</VDE_NeutroamineDesc>
+	
+	<!-- Gizmos -->
+	
+	<!-- EN: Awaken dryads -->
+  <VDE_Awaken>觉醒树精</VDE_Awaken>
+	<!-- EN: Turn three dryads of a type into an awakened version that is free from the trees. This new awakened dryad will act as a normal animal of the colony in most aspects. -->
+  <VDE_AwakenDesc>将三只同种类的树精融合成不受母树束缚的觉醒树精。觉醒树精的基本习性与普通动物较为相似，战斗型的觉醒树精可以被征召。</VDE_AwakenDesc>
+	<!-- EN: Awakening in {0} -->
+  <VDE_TicksToSpawn>{0}后觉醒</VDE_TicksToSpawn>
+	<!-- EN: Convert to Ambrosia Palm -->
+  <VDE_TurnIntoPalm>转化成仙馐灵树</VDE_TurnIntoPalm>
+	<!-- EN: Evolves the dryad into an ambrosia palm that produces the drug periodically -->
+  <VDE_TurnIntoPalmDesc>将觉醒甘馐树精转化成能够定期结出仙馐果的仙馐灵树。</VDE_TurnIntoPalmDesc>
+	
+</LanguageData>

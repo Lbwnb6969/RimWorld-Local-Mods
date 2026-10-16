@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_UnfinishedHide.label>未完成的生皮</DankPyon_UnfinishedHide.label>
+  <DankPyon_UnfinishedHide.description>一块未完成的生皮。</DankPyon_UnfinishedHide.description>
+
+  <DankPyon_UnfinishedRug.label>未完成的地毯</DankPyon_UnfinishedRug.label>
+  <DankPyon_UnfinishedRug.description>一张未完成的地毯。</DankPyon_UnfinishedRug.description>
+
+  <DankPyon_UnfinishedHideArmor.label>未完成的皮制装备</DankPyon_UnfinishedHideArmor.label>
+  <DankPyon_UnfinishedHideArmor.description>一件未完成的皮制装备。</DankPyon_UnfinishedHideArmor.description>
+
+  <DankPyon_UnfinishedLivingShield.label>未完成的活树盾牌</DankPyon_UnfinishedLivingShield.label>
+  <DankPyon_UnfinishedLivingShield.description>一副未完成的活树盾牌。</DankPyon_UnfinishedLivingShield.description>
+
+  <DankPyon_UnfinishedLinduwrmShield.label>未完成的林德虫盾牌</DankPyon_UnfinishedLinduwrmShield.label>
+  <DankPyon_UnfinishedLinduwrmShield.description>一副未完成的林德虫盾牌。</DankPyon_UnfinishedLinduwrmShield.description>
+
+  <DankPyon_UnfinishedBook.label>未完成的中世纪书籍</DankPyon_UnfinishedBook.label>
+  <DankPyon_UnfinishedBook.description>一本未完成的中世纪书籍。</DankPyon_UnfinishedBook.description>
+
+  <DankPyon_UnfinishedSculpture_Ice.label>未完成的冰雕</DankPyon_UnfinishedSculpture_Ice.label>
+  <DankPyon_UnfinishedSculpture_Ice.description>一个未完成的冰雕塑。</DankPyon_UnfinishedSculpture_Ice.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: holy radiance -->
+  <BEWH_LivingSaintHolyRadiance.stages.holy_radiance.label>神圣光辉</BEWH_LivingSaintHolyRadiance.stages.holy_radiance.label>
+  
+  <!-- EN: holy radiance -->
+  <BEWH_LivingSaintHolyRadianceThought.stages.holy_radiance.label>神圣光辉</BEWH_LivingSaintHolyRadianceThought.stages.holy_radiance.label>
+  <!-- EN: The holy radiance fills me with joy. -->
+  <BEWH_LivingSaintHolyRadianceThought.stages.holy_radiance.description>神圣的光辉使我快乐！</BEWH_LivingSaintHolyRadianceThought.stages.holy_radiance.description>
+  
+</LanguageData>

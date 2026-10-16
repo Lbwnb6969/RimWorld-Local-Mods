@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Dirt.label>土地</Dirt.label>
+  <Dirt.description>标准的土地，跟自然生成的一样</Dirt.description>
+  <Dirt.tools.dirt.label>泥土</Dirt.tools.dirt.label>
+  
+  <GT_SoilTilled.label>膏腴的土地</GT_SoilTilled.label>
+  <GT_SoilTilled.description>处理过的土壤，富含有机质，更适合耕种</GT_SoilTilled.description>
+  <GT_SoilTilled.tools.dirt.label>泥土</GT_SoilTilled.tools.dirt.label>
+  
+</LanguageData>

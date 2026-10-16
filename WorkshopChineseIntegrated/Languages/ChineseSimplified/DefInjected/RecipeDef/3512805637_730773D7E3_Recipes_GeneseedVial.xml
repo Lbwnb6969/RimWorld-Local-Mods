@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make custodes -->
+  <BEWH_MakeCustodes.label>制造禁军</BEWH_MakeCustodes.label>
+  <!-- EN: Implant Custodes genetic material into a patient. -->
+  <BEWH_MakeCustodes.description>植入禁军基因物质。</BEWH_MakeCustodes.description>
+  <!-- EN: Implanting Custodes genetic material. -->
+  <BEWH_MakeCustodes.jobString>植入禁军基因物质中。</BEWH_MakeCustodes.jobString>
+  
+  <!-- EN: make thunder warrior -->
+  <BEWH_MakeThunderWarrior.label>制造雷霆战士</BEWH_MakeThunderWarrior.label>
+  <!-- EN: Implant Thunder Warrior genetic material into a patient. -->
+  <BEWH_MakeThunderWarrior.description>植入雷霆战士基因物质。</BEWH_MakeThunderWarrior.description>
+  <!-- EN: Implanting Thunder Warrior genetic material. -->
+  <BEWH_MakeThunderWarrior.jobString>植入雷霆战士基因物质中。</BEWH_MakeThunderWarrior.jobString>
+  
+</LanguageData>

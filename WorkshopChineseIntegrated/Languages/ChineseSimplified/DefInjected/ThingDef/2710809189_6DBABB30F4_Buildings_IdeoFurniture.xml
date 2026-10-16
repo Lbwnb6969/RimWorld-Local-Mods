@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: restored ancient bed -->
+  <AM_AncientBed.label>修复的远古床</AM_AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Restored to be useable, though a bit uncomfortable. -->
+  <AM_AncientBed.description>古老生锈的单人床。虽然经过修复后可以正常使用，但躺起来仍然有些不舒服。</AM_AncientBed.description>
+  
+  <!-- EN: restored ancient double bed -->
+  <AM_AncientDoubleBed.label>修复的远古双人床</AM_AncientDoubleBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Restored to be useable, though a bit uncomfortable. Fits two people. -->
+  <AM_AncientDoubleBed.description>古老生锈的双人床。虽然经过修复后可以正常使用，但躺起来仍然有些不舒服。适合双人。</AM_AncientDoubleBed.description>
+  
+  <!-- EN: restored ancient fence -->
+  <AM_AncientFence.label>修复的远古围墙</AM_AncientFence.label>
+  <!-- EN: An ancient fence made of reinforced concrete posts joined by concrete panels. -->
+  <AM_AncientFence.description>用钢筋混凝土柱和混凝土板连接而成的远古围墙。</AM_AncientFence.description>
+  
+  <!-- EN: ancient locker bank -->
+  <AM_AncientLockerBank.label>修复的远古储物柜</AM_AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. These have been restored to be at least partially functional. Gives a small comfort bonus to all nearby restored ancient beds. Placing more than one locker bank near the same ancient bed has no effect. -->
+  <AM_AncientLockerBank.description>古老生锈的储物柜，经过修复后已经可以勉强使用了。给旁边所有已修复的远古床提供少量舒适度奖励。在同一个床旁放置多个已修复的远古储物柜不会产生效果。</AM_AncientLockerBank.description>
+  
+  <!-- EN: restored ancient operating table -->
+  <AM_AncientOperatingTable.label>修复的远古手术台</AM_AncientOperatingTable.label>
+  <!-- EN: An ancient bed once used for forgotten surgical operations. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. Uncomfortable but efficient. -->
+  <AM_AncientOperatingTable.description>古老生锈的手术台，经过修复后已经可以勉强使用了。可以增加治疗的成功率。</AM_AncientOperatingTable.description>
+  
+  <!-- EN: ancient razor wire -->
+  <AM_AncientRazorwire.label>修复的远古铁丝网</AM_AncientRazorwire.label>
+  <!-- EN: A piece of ancient razor wire. It has been restored to be useable. Less efficient as cover than a barricade, but easier and less costly to build. -->
+  <AM_AncientRazorwire.description>古老生锈的铁丝网，经过修复后已经可以勉强使用了。虽然掩体效果不如普通的路障，但建造迅速且耗材较少。</AM_AncientRazorwire.description>
+  
+  <!-- EN: baptismal font -->
+  <AM_BaptismalFont.label>洗礼池</AM_BaptismalFont.label>
+  <!-- EN: A sacred basin for cleansing and spiritual rebirth through water rituals. -->
+  <AM_BaptismalFont.description>用于执行洗礼仪式的圣池。</AM_BaptismalFont.description>
+
+  <!-- EN: double stone-framed bedroll -->
+  <AM_DoubleStoneBedroll.label>双人原始睡袋</AM_DoubleStoneBedroll.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <AM_DoubleStoneBedroll.description>放置在地上的双人原始睡袋，在石制框架上铺了舒适的床垫和床单用于休息。</AM_DoubleStoneBedroll.description>
+
+  <!-- EN: eating mat (2x2) -->
+  <AM_EatingMat.label>餐垫（2x2）</AM_EatingMat.label>
+  <!-- EN: A simple woven reed surface used as a low table for eating. -->
+  <AM_EatingMat.description>可充当矮桌用于吃饭的简易编织垫。</AM_EatingMat.description>
+
+  <!-- EN: crude stone table (1x2) -->
+  <AM_Neolithic_StoneTable_1x2c.label>原始石桌（1x2）</AM_Neolithic_StoneTable_1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <AM_Neolithic_StoneTable_1x2c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</AM_Neolithic_StoneTable_1x2c.description>
+  
+  <!-- EN: crude stone table (2x2) -->
+  <AM_Neolithic_StoneTable_2x2c.label>原始石桌（2x2）</AM_Neolithic_StoneTable_2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <AM_Neolithic_StoneTable_2x2c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</AM_Neolithic_StoneTable_2x2c.description>
+  
+  <!-- EN: crude stone table (2x4) -->
+  <AM_Neolithic_StoneTable_2x4c.label>原始石桌（2x4）</AM_Neolithic_StoneTable_2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <AM_Neolithic_StoneTable_2x4c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</AM_Neolithic_StoneTable_2x4c.description>
+  
+  <!-- EN: crude stone table (3x3) -->
+  <AM_Neolithic_StoneTable_3x3c.label>原始石桌（3x3）</AM_Neolithic_StoneTable_3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <AM_Neolithic_StoneTable_3x3c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</AM_Neolithic_StoneTable_3x3c.description>
+  
+  <!-- EN: crude wooden table (1x2) -->
+  <AM_Neolithic_WoodenTable_1x2c.label>原始木桌（1x2）</AM_Neolithic_WoodenTable_1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <AM_Neolithic_WoodenTable_1x2c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</AM_Neolithic_WoodenTable_1x2c.description>
+  
+  <!-- EN: crude wooden table (2x2) -->
+  <AM_Neolithic_WoodenTable_2x2c.label>原始木桌（2x2）</AM_Neolithic_WoodenTable_2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <AM_Neolithic_WoodenTable_2x2c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</AM_Neolithic_WoodenTable_2x2c.description>
+  
+  <!-- EN: crude wooden table (2x4) -->
+  <AM_Neolithic_WoodenTable_2x4c.label>原始木桌（2x4）</AM_Neolithic_WoodenTable_2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <AM_Neolithic_WoodenTable_2x4c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</AM_Neolithic_WoodenTable_2x4c.description>
+  
+  <!-- EN: crude wooden table (3x3) -->
+  <AM_Neolithic_WoodenTable_3x3c.label>原始木桌（3x3）</AM_Neolithic_WoodenTable_3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <AM_Neolithic_WoodenTable_3x3c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</AM_Neolithic_WoodenTable_3x3c.description>
+  
+  <!-- EN: stone-framed bedroll -->
+  <AM_StoneBedroll.label>原始睡袋</AM_StoneBedroll.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <AM_StoneBedroll.description>放置在地上的单人原始睡袋，在石制框架上铺了舒适的床垫和床单用于休息。</AM_StoneBedroll.description>
+  
+</LanguageData>

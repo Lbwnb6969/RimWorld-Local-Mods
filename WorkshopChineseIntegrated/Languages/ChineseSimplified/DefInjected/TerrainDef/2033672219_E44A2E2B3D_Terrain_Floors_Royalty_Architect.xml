@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fine wooden floor -->
+  <VFEArch_FineWoodenFloor.label>精致木地板</VFEArch_FineWoodenFloor.label>
+  <!-- EN: Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct. -->
+  <VFEArch_FineWoodenFloor.description>精致的木质拼花地板，能很好地彰显经济实力与地位。铺设速度较慢。</VFEArch_FineWoodenFloor.description>
+  
+  <!-- EN: birch fine wooden floor -->
+  <VFEArch_FineWoodenFloorBirch.label>精致桦木地板</VFEArch_FineWoodenFloorBirch.label>
+  <!-- EN: Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct. -->
+  <VFEArch_FineWoodenFloorBirch.description>精致的桦木拼花地板，能很好地彰显经济实力与地位。铺设速度较慢。</VFEArch_FineWoodenFloorBirch.description>
+  
+  <!-- EN: mahogany fine wooden floor -->
+  <VFEArch_FineWoodenFloorMahogany.label>精致桃花心木地板</VFEArch_FineWoodenFloorMahogany.label>
+  <!-- EN: Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct. -->
+  <VFEArch_FineWoodenFloorMahogany.description>精致的桃花心木拼花地板，能很好地彰显经济实力与地位。铺设速度较慢。</VFEArch_FineWoodenFloorMahogany.description>
+  
+  <!-- EN: walnut fine wooden floor -->
+  <VFEArch_FineWoodenFloorWalnut.label>精致胡桃木地板</VFEArch_FineWoodenFloorWalnut.label>
+  <!-- EN: Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct. -->
+  <VFEArch_FineWoodenFloorWalnut.description>精致的胡桃木拼花地板，能很好地彰显经济实力与地位。铺设速度较慢。</VFEArch_FineWoodenFloorWalnut.description>
+  
+</LanguageData>

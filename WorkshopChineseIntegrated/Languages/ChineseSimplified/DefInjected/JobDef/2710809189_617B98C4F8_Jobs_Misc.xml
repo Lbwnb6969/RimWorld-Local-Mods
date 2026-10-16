@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_HeartExtraction.reportString>挖出TargetA的心脏。</AM_HeartExtraction.reportString>
+
+  
+  <AM_InstallRelic.reportString>正在将TargetA装入TargetB中。</AM_InstallRelic.reportString>
+  
+  
+  <AM_MergeIntoCorruptedPod.reportString>正在与TargetB融合。</AM_MergeIntoCorruptedPod.reportString>
+
+  
+  <AM_RodeoFalseAttackJob.reportString>正在发起进攻。</AM_RodeoFalseAttackJob.reportString>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decreased -->
+  <VME_AutomationEfficiency_Decreased.label>降低</VME_AutomationEfficiency_Decreased.label>
+  <!-- EN: Advanced machines and automated factories are to be shunned, for they detract from the exquisiteness of artisanal work.\n\n<color=#E5E54C>Stats:</color>\n - Electric work table speed: -50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: -25%. -->
+  <VME_AutomationEfficiency_Decreased.description>我们不需要先进的机械与自动化工厂，因为这些东西会降低手艺工作的精细度。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 电力工作台速度：-50%。\n - 原版机械族扩展工厂速度：-25%。</VME_AutomationEfficiency_Decreased.description>
+  
+  <!-- EN: increased -->
+  <VME_AutomationEfficiency_Increased.label>提高</VME_AutomationEfficiency_Increased.label>
+  <!-- EN: From the woodwork of a simple bow to grand factoriums, a craftmaster knows how to craft with efficiency.\n\n<color=#E5E54C>Stats:</color>\n - Electric work table speed: +50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: +25%. -->
+  <VME_AutomationEfficiency_Increased.description>从简易的木弓到宏伟的工厂，一名工匠知道该如何高效地制作。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 电力工作台速度：+50%。\n - 原版机械族扩展工厂速度：+25%。</VME_AutomationEfficiency_Increased.description>
+  
+</LanguageData>

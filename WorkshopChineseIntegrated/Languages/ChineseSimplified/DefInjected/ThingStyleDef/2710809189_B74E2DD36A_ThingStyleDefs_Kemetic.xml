@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barbed spear -->
+  <AM_Kemetic_BarbedSpear.overrideLabel>荆棘刺矛</AM_Kemetic_BarbedSpear.overrideLabel>
+  
+  <!-- EN: battle axe -->
+  <AM_Kemetic_BattleAxe.overrideLabel>战斧</AM_Kemetic_BattleAxe.overrideLabel>
+  
+  <!-- EN: rasheed carbine -->
+  <AM_Kemetic_Carbine.overrideLabel>拉希德卡宾枪</AM_Kemetic_Carbine.overrideLabel>
+  
+  <!-- EN: flak short kilt -->
+  <AM_Kemetic_FlakPants.overrideLabel>防弹褶裥短裙</AM_Kemetic_FlakPants.overrideLabel>
+
+  <!-- EN: javelin -->
+  <AM_Kemetic_Javelin.overrideLabel>标枪</AM_Kemetic_Javelin.overrideLabel>
+  
+  <!-- EN: khopesh -->
+  <AM_Kemetic_Khopesh.overrideLabel>镰刃剑</AM_Kemetic_Khopesh.overrideLabel>
+  
+  <!-- EN: discoidal mace -->
+  <AM_Kemetic_Mace.overrideLabel>盘锥锤</AM_Kemetic_Mace.overrideLabel>
+  
+  <!-- EN: port said machinegun -->
+  <AM_Kemetic_MachineGun.overrideLabel>卡尔·古斯塔夫冲锋枪</AM_Kemetic_MachineGun.overrideLabel>
+  
+  <!-- EN: palm axe -->
+  <AM_Kemetic_PalmAxe.overrideLabel>埃及斧</AM_Kemetic_PalmAxe.overrideLabel>
+  
+  <!-- EN: short kilt -->
+  <AM_Kemetic_Pants.overrideLabel>褶裥短裙</AM_Kemetic_Pants.overrideLabel>
+
+  <!-- EN: helwan 951 pistol -->
+  <AM_Kemetic_Pistol.overrideLabel>赫勒万951手枪</AM_Kemetic_Pistol.overrideLabel>
+  
+  <!-- EN: misr assault rifle -->
+  <AM_Kemetic_Rifle.overrideLabel>勿斯里突击步枪</AM_Kemetic_Rifle.overrideLabel>
+  
+  <!-- EN: short sword -->
+  <AM_Kemetic_ShortSword.overrideLabel>短剑</AM_Kemetic_ShortSword.overrideLabel>
+  
+  <!-- EN: laser staff -->
+  <AM_Kemetic_Staff.overrideLabel>激光权杖</AM_Kemetic_Staff.overrideLabel>
+  
+  <!-- EN: crude bronze axe -->
+  <AM_Kemetic_TribalAxe.overrideLabel>简易青铜斧</AM_Kemetic_TribalAxe.overrideLabel>
+  
+  <!-- EN: senet board -->
+  <AM_KemeticChessTable.overrideLabel>塞尼特棋桌</AM_KemeticChessTable.overrideLabel>
+
+</LanguageData>

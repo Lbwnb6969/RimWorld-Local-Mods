@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CrudeLimbs.label>粗劣的义肢</CrudeLimbs.label>
+  <CrudeLimbs.description>允许在手工点制作粗劣的肢体替代品，虽然不舒服且无功能，但总比没有好。</CrudeLimbs.description>
+
+
+  <!-- > Artificial Limbs < -->
+
+  <ArtificialLimbs.label>义肢</ArtificialLimbs.label>
+  <ArtificialLimbs.description>允许在手工点制作一般的肢体替代品，仍然非常不精致，但比之前的粗劣义肢好。</ArtificialLimbs.description>
+
+
+  <!-- > Mechanical Limbs < -->
+
+  <MechanicalLimbs.label>机械义肢</MechanicalLimbs.label>
+  <MechanicalLimbs.description>允许在机械锻造桌制作机械肢体替代品，精心制作的四肢有许多滑轮和齿轮。虽然这些是一个很大的改进，但有些人体结构是很难完整重现的。</MechanicalLimbs.description>
+
+
+  <!-- > Ambroisen Limbs < -->
+
+  <AmbroisenLimbs.label>安布鲁瓦兹义肢</AmbroisenLimbs.label>
+  <AmbroisenLimbs.description>允许在机械锻造桌制作安布鲁瓦兹义肢，这是一种工程和工艺令人难以置信的整合运用，使得这些优雅的义肢能与天然肢体相媲美。制作起来相当费时和费资源。</AmbroisenLimbs.description>
+
+
+</LanguageData>

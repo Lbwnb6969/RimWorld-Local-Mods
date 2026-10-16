@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: buckler -->
+  <TA_BucklerShield.label>小圆盾</TA_BucklerShield.label>
+  <!-- EN: An small metal shield, usually paired with a light sword. Too small to offer any meaningful protection from incoming projectiles, the buckler is instead designed to deflect and trap a foe's weaopon in close-quarters combat. -->
+  <TA_BucklerShield.description>一种小型金属盾牌，通常与轻剑配合使用。由于太小而无法有效防御远程投射物，小圆盾的设计目的是在近战中偏转和钳制敌人的武器。</TA_BucklerShield.description>
+  
+</LanguageData>

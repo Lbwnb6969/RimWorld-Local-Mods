@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mini-blunderbuss -->
+  <VR_ConstructGun_MiniBlunderbuss.label>迷你喇叭枪</VR_ConstructGun_MiniBlunderbuss.label>
+  <!-- EN: A compact, short-range blunderbuss designed to be mounted on a light combat construct. -->
+  <VR_ConstructGun_MiniBlunderbuss.description>一种紧凑的短程喇叭枪，设计用于安装在轻型战斗构装体上。</VR_ConstructGun_MiniBlunderbuss.description>
+  <!-- EN: barrel -->
+  <VR_ConstructGun_MiniBlunderbuss.tools.barrel.label>炮管</VR_ConstructGun_MiniBlunderbuss.tools.barrel.label>
+  <!-- EN: mini-blunderbuss -->
+  <VR_ConstructGun_MiniBlunderbuss.verbs.Verb_Shoot.label>迷你喇叭枪</VR_ConstructGun_MiniBlunderbuss.verbs.Verb_Shoot.label>
+  
+</LanguageData>

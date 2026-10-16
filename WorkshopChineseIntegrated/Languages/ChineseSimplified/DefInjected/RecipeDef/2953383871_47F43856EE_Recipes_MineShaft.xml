@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coal Chunks -->
+
+  <DankPyon_MakeStoneChunks_Coal.label>开采煤块 x25</DankPyon_MakeStoneChunks_Coal.label>
+  <DankPyon_MakeStoneChunks_Coal.description>本地下深处开采以获得煤块。</DankPyon_MakeStoneChunks_Coal.description>
+  <DankPyon_MakeStoneChunks_Coal.jobString>正在开采煤块。</DankPyon_MakeStoneChunks_Coal.jobString>
+
+
+  <!-- Stone Chunks: Sandstone -->
+
+  <DankPyon_MakeStoneChunks_Sandstone.label>开采砂岩块</DankPyon_MakeStoneChunks_Sandstone.label>
+  <DankPyon_MakeStoneChunks_Sandstone.description>本地下深处开采以获得岩石块。</DankPyon_MakeStoneChunks_Sandstone.description>
+  <DankPyon_MakeStoneChunks_Sandstone.jobString>正在开采砂岩块。</DankPyon_MakeStoneChunks_Sandstone.jobString>
+
+
+  <!-- Stone Chunks: Granite -->
+
+  <DankPyon_MakeStoneChunks_Granite.label>开采花岗岩块</DankPyon_MakeStoneChunks_Granite.label>
+  <DankPyon_MakeStoneChunks_Granite.description>本地下深处开采以获得岩石块。</DankPyon_MakeStoneChunks_Granite.description>
+  <DankPyon_MakeStoneChunks_Granite.jobString>正在开采花岗岩块。</DankPyon_MakeStoneChunks_Granite.jobString>
+
+
+  <!-- Stone Chunks: Limestone -->
+
+  <DankPyon_MakeStoneChunks_Limestone.label>开采石灰岩块</DankPyon_MakeStoneChunks_Limestone.label>
+  <DankPyon_MakeStoneChunks_Limestone.description>本地下深处开采以获得岩石块。</DankPyon_MakeStoneChunks_Limestone.description>
+  <DankPyon_MakeStoneChunks_Limestone.jobString>正在开采石灰岩块。</DankPyon_MakeStoneChunks_Limestone.jobString>
+
+
+  <!-- Stone Chunks: Slate -->
+
+  <DankPyon_MakeStoneChunks_Slate.label>开采板岩块</DankPyon_MakeStoneChunks_Slate.label>
+  <DankPyon_MakeStoneChunks_Slate.description>本地下深处开采以获得岩石块。</DankPyon_MakeStoneChunks_Slate.description>
+  <DankPyon_MakeStoneChunks_Slate.jobString>正在开采板岩块。</DankPyon_MakeStoneChunks_Slate.jobString>
+
+
+  <!-- Stone Chunks: Marble -->
+
+  <DankPyon_MakeStoneChunks_Marble.label>开采大理石块</DankPyon_MakeStoneChunks_Marble.label>
+  <DankPyon_MakeStoneChunks_Marble.description>本地下深处开采以获得岩石块。</DankPyon_MakeStoneChunks_Marble.description>
+  <DankPyon_MakeStoneChunks_Marble.jobString>正在开采大理石块。</DankPyon_MakeStoneChunks_Marble.jobString>
+
+
+  <!-- Salt -->
+
+  <DankPyon_MakeSalt.label>开采盐</DankPyon_MakeSalt.label>
+  <DankPyon_MakeSalt.description>本地下深处开采以获得盐。</DankPyon_MakeSalt.description>
+  <DankPyon_MakeSalt.jobString>正在开采盐。</DankPyon_MakeSalt.jobString>
+
+  <DankPyon_MakeSaltBulk.label>开采盐 x10</DankPyon_MakeSaltBulk.label>
+  <DankPyon_MakeSaltBulk.description>本地下深处开采以获得盐。</DankPyon_MakeSaltBulk.description>
+  <DankPyon_MakeSaltBulk.jobString>正在开采盐。</DankPyon_MakeSaltBulk.jobString>
+
+
+  <!-- Tar -->
+
+  <DankPyon_MakeTar.label>开采焦油</DankPyon_MakeTar.label>
+  <DankPyon_MakeTar.description>本地下深处开采以获得焦油。</DankPyon_MakeTar.description>
+  <DankPyon_MakeTar.jobString>正在开采焦油。</DankPyon_MakeTar.jobString>
+
+  <DankPyon_MakeTarBulk.label>开采焦油 x5</DankPyon_MakeTarBulk.label>
+  <DankPyon_MakeTarBulk.description>本地下深处开采以获得焦油。</DankPyon_MakeTarBulk.description>
+  <DankPyon_MakeTarBulk.jobString>正在开采焦油。</DankPyon_MakeTarBulk.jobString>
+
+
+  <!-- Gunpowder -->
+
+  <DankPyon_MakeGunpowder.label>开采火药</DankPyon_MakeGunpowder.label>
+  <DankPyon_MakeGunpowder.description>本地下深处开采以获得火药。</DankPyon_MakeGunpowder.description>
+  <DankPyon_MakeGunpowder.jobString>正在开采火药。</DankPyon_MakeGunpowder.jobString>
+
+  <DankPyon_MakeGunpowderBulk.label>开采火药 x5</DankPyon_MakeGunpowderBulk.label>
+  <DankPyon_MakeGunpowderBulk.description>本地下深处开采以获得火药。</DankPyon_MakeGunpowderBulk.description>
+  <DankPyon_MakeGunpowderBulk.jobString>正在开采火药。</DankPyon_MakeGunpowderBulk.jobString>
+
+
+  <!-- Ores -->
+
+  <DankPyon_MakeOre_IronOre.label>开采铁矿石</DankPyon_MakeOre_IronOre.label>
+  <DankPyon_MakeOre_IronOre.description>本地下深处开采以获得铁矿石。</DankPyon_MakeOre_IronOre.description>
+  <DankPyon_MakeOre_IronOre.jobString>正在开采铁矿石。</DankPyon_MakeOre_IronOre.jobString>
+
+  <DankPyon_MakeOre_IronOreBulk.label>开采铁矿石 x5</DankPyon_MakeOre_IronOreBulk.label>
+  <DankPyon_MakeOre_IronOreBulk.description>本地下深处开采以获得铁矿石。</DankPyon_MakeOre_IronOreBulk.description>
+  <DankPyon_MakeOre_IronOreBulk.jobString>正在开采铁矿石。</DankPyon_MakeOre_IronOreBulk.jobString>
+
+  <DankPyon_MakeOre_SilverOre.label>开采银矿石</DankPyon_MakeOre_SilverOre.label>
+  <DankPyon_MakeOre_SilverOre.description>本地下深处开采以获得银矿石。</DankPyon_MakeOre_SilverOre.description>
+  <DankPyon_MakeOre_SilverOre.jobString>正在开采银矿石。</DankPyon_MakeOre_SilverOre.jobString>
+
+  <DankPyon_MakeOre_SilverOreBulk.label>开采银矿石 x5</DankPyon_MakeOre_SilverOreBulk.label>
+  <DankPyon_MakeOre_SilverOreBulk.description>本地下深处开采以获得银矿石。</DankPyon_MakeOre_SilverOreBulk.description>
+  <DankPyon_MakeOre_SilverOreBulk.jobString>正在开采银矿石。</DankPyon_MakeOre_SilverOreBulk.jobString>
+
+
+</LanguageData>

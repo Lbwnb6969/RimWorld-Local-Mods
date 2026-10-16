@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grog dispenser -->
+  <AM_GrogDispenser.label>格罗格酒发酵桶</AM_GrogDispenser.label>
+  <!-- EN: A dispenser of grog, an alcoholic liquor usually made with rum cut with water and often served hot with lemon juice and sugar, as well as other additives. May contain one or more of the following: kerosene, propylene glycol, artificial sweeteners, sulphuric acid, acetone, red dye no. 2, scumm, axle grease, battery acid, pepperoni. This barrel ferments organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes actually drinking grog. Accepts raw food, but not rough plant matter like hay. -->
+  <AM_GrogDispenser.description>用来发酵格罗格酒的大桶。格罗格酒也被称为掺水烈酒，人们常常先会向其中填入肉桂、柠檬汁、糖、蜂蜜等调剂，然后再将其制成热饮。当然，这种酒里也很可能含有煤油、丙二醇、人造甜味剂、硫酸、丙酮、苋菜红染液、油渣、润滑油、电池电解液、意大利辣香肠等成分。比其他的食物生产方法消耗更少的原料和时间，但没人喜欢喝格罗格酒。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从格罗格酒发酵桶中拿取格罗格酒。</AM_GrogDispenser.description>
+  
+</LanguageData>

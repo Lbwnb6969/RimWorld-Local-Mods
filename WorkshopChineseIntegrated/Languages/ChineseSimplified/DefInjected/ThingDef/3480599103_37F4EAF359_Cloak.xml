@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cloak -->
+  <TA_CloakClosed.label>闭合斗篷</TA_CloakClosed.label>
+  <!-- EN: . -->
+  <TA_CloakClosed.description>完全闭合的防风斗篷。</TA_CloakClosed.description>
+  <!-- EN: open up -->
+  <TA_CloakClosed.comps.CompSwitchApparel.Label>展开</TA_CloakClosed.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: cloak -->
+  <TA_CloakOpen.label>展开斗篷</TA_CloakOpen.label>
+  <!-- EN: . -->
+  <TA_CloakOpen.description>完全展开的斗篷，便于活动。</TA_CloakOpen.description>
+  
+  <!-- EN: cloak -->
+  <TA_CloakSemi.label>半开斗篷</TA_CloakSemi.label>
+  <!-- EN: . -->
+  <TA_CloakSemi.description>部分闭合的斗篷，平衡防护与灵活性。</TA_CloakSemi.description>
+  <!-- EN: open up -->
+  <TA_CloakSemi.comps.CompSwitchApparel.Label>展开</TA_CloakSemi.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: kid's cloak -->
+  <TA_KidCloak.label>儿童披风</TA_KidCloak.label>
+  <!-- EN: A cloak -->
+  <TA_KidCloak.description>一件系在脖子上的宽松披风。</TA_KidCloak.description>
+  
+</LanguageData>

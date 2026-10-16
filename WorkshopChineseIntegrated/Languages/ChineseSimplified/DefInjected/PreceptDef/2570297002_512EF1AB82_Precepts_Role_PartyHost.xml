@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: party host -->
+  <VME_IdeoRole_PartyHost.label>聚会主办人</VME_IdeoRole_PartyHost.label>
+  <!-- EN: A most jovial hooligan incapable of understanding that not all times can be party time. A party leader is able to throw an amazing party at any time. However, they will find themselves needing about twice the recreation time as the normal person to be happy on a day-to-day basis. -->
+  <VME_IdeoRole_PartyHost.description>一名十分快乐且游手好闲的聚会主办人，他无法理解为什么不能整天寻欢作乐。聚会主办人能够在任何时候举办一场精彩的聚会。</VME_IdeoRole_PartyHost.description>
+  
+</LanguageData>

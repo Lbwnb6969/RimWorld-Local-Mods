@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_EscapeDevice.label>emergency escape device</EES_EscapeDevice.label>
+  <EES_EscapeDevice.description>Used automatically when a scout or infiltrator fails to flee. As long as the wearer carries one, it is guaranteed to prevent them from being captured or killed, though they may still be wounded. How could anyone carry something like this around? Well, there's always a way.</EES_EscapeDevice.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The {LEADERKIND_label} is equipped with a granite-melting tonal incinerator. It is slow to charge, but when it fires it will annihilate anythign along the firing path. -->
+  <VR_Construct_Colossus.leaderDescription>{LEADERKIND_label}装备可融化混凝土的地狱球炮。它充能缓慢，但一旦开火，爆炸范围内的一切都会被湮灭。</VR_Construct_Colossus.leaderDescription>
+  
+</LanguageData>

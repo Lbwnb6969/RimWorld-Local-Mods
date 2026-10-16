@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Extract_Honey.label>提取烟熏蜂蜜</DankPyon_Extract_Honey.label>
+  <DankPyon_Extract_Honey.description>从烟熏蜜脾中提取蜂蜜。烟熏蜂蜜可以用来制作烟熏蜂蜜酒，但它本身就是一种营养丰富且令人愉​​快的食物。</DankPyon_Extract_Honey.description>
+  <DankPyon_Extract_Honey.jobString>正在提取烟熏蜂蜜。</DankPyon_Extract_Honey.jobString>
+
+  <DankPyon_Extract_HoneyBulk.label>提取烟熏蜂蜜 x5</DankPyon_Extract_HoneyBulk.label>
+  <DankPyon_Extract_HoneyBulk.description>从烟熏蜜脾中提取蜂蜜。烟熏蜂蜜可以用来制作烟熏蜂蜜酒，但它本身就是一种营养丰富且令人愉​​快的食物。</DankPyon_Extract_HoneyBulk.description>
+  <DankPyon_Extract_HoneyBulk.jobString>正在提取烟熏蜂蜜。</DankPyon_Extract_HoneyBulk.jobString>
+
+
+</LanguageData>

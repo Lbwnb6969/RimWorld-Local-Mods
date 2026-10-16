@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Dubs Apparel Tweaks - &#x4EC5;&#x6B96;&#x6C11;&#x8005;&#x517C;&#x5BB9;&#x8865;&#x4E01;</name>
+  <packageId>local.dubsappareltweaks.colonistsonly</packageId>
+  <author>&#x6574;&#x5408;&#x5305;&#x672C;&#x5730;&#x517C;&#x5BB9;&#x8865;&#x4E01;</author>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Dubwise.DubsApparelTweaks</packageId>
+      <displayName>Dubs Apparel Tweaks</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2296697286</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Dubwise.DubsApparelTweaks</li>
+  </loadAfter>
+  <description>&#x4EC5;&#x5141;&#x8BB8; Dubs Apparel Tweaks &#x7684;&#x975E; Drafted &#x8863;&#x7269;&#x9690;&#x85CF;&#x529F;&#x80FD;&#x4F5C;&#x7528;&#x4E8E;&#x6B96;&#x6C11;&#x8005;&#xFF0C;&#x654C;&#x4EBA;&#x548C;&#x5176;&#x4ED6;&#x6D3E;&#x7CFB;&#x5355;&#x4F4D;&#x4FDD;&#x6301;&#x6B63;&#x5E38;&#x663E;&#x793A;&#x3002;</description>
+</ModMetaData>

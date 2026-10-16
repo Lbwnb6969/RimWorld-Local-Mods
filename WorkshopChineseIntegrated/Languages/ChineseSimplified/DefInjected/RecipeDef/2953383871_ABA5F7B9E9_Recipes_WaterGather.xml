@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <DankPyon_Gather_Water.label>从水源处取得水或冰块</DankPyon_Gather_Water.label>
+  <DankPyon_Gather_Water.description>将水装至水袋/凿取冰块。(会依据地形种类产出不同的物品)</DankPyon_Gather_Water.description>
+  <DankPyon_Gather_Water.jobString>正在将水装至水袋/凿取冰块。</DankPyon_Gather_Water.jobString>
+  
+</LanguageData>

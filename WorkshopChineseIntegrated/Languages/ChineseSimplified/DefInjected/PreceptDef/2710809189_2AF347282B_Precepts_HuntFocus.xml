@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sanguophage -->
+  <AM_HuntFocus_Sanguophage.label>赫血种</AM_HuntFocus_Sanguophage.label>
+  <!-- EN: Our purpose is clear: to seek out the cursed sanguophages wherever they may hide.\n\nNormal Sanguophages will be the focus of this precept.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All attacks against a Sanguophage will cause extra 10 burn damage.\n - You'll get extra hunt focus precepts with VE Races - Sanguophage and Alpha Genes. -->
+  <AM_HuntFocus_Sanguophage.description>我们的目标十分明确：将那些被诅咒的血族从阴暗的藏身处里揪出来，再毫不留情地杀死。\n\n此戒律将以赫血种作为狩猎目标。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 所有对赫血种的攻击都将造成额外10点烧伤伤害。\n - 如果你安装了Vanilla Races Expanded - Sanguophage或Alpha Genes，则可以选择其他血族作为狩猎目标。</AM_HuntFocus_Sanguophage.description>
+  
+  <!-- EN: strigoi -->
+  <AM_HuntFocus_Strigoi.label>妖蝠种</AM_HuntFocus_Strigoi.label>
+  <!-- EN: Our purpose is clear: to seek out the cursed sanguophages wherever they may hide.\n\nStrigoi will be the focus of this precept.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All attacks against a Strigoi will cause extra 10 burn damage. -->
+  <AM_HuntFocus_Strigoi.description>我们的目标十分明确：将那些被诅咒的血族从阴暗的藏身处里揪出来，再毫不留情地杀死。\n\n此戒律将以妖蝠种作为狩猎目标。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 所有对妖蝠种的攻击都将造成额外10点烧伤伤害。</AM_HuntFocus_Strigoi.description>
+
+  <!-- EN: ekkimian -->
+  <AM_HuntFocus_Ekkimian.label>尸食种</AM_HuntFocus_Ekkimian.label>
+  <!-- EN: Our purpose is clear: to seek out the cursed sanguophages wherever they may hide.\n\nEkkimian will be the focus of this precept.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All attacks against a Ekkimian will cause extra 10 burn damage. -->
+  <AM_HuntFocus_Ekkimian.description>我们的目标十分明确：将那些被诅咒的血族从阴暗的藏身处里揪出来，再毫不留情地杀死。\n\n此戒律将以尸食种作为狩猎目标。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 所有对尸食种的攻击都将造成额外10点烧伤伤害。</AM_HuntFocus_Ekkimian.description>
+
+  <!-- EN: bruxa -->
+  <AM_HuntFocus_Bruxa.label>魅血种</AM_HuntFocus_Bruxa.label>
+  <!-- EN: Our purpose is clear: to seek out the cursed sanguophages wherever they may hide.\n\nBruxa will be the focus of this precept.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All attacks against a Bruxa will cause extra 10 burn damage. -->
+  <AM_HuntFocus_Bruxa.description>我们的目标十分明确：将那些被诅咒的血族从阴暗的藏身处里揪出来，再毫不留情地杀死。\n\n此戒律将以魅血种作为狩猎目标。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 所有对魅血种的攻击都将造成额外10点烧伤伤害。</AM_HuntFocus_Bruxa.description>
+
+</LanguageData>

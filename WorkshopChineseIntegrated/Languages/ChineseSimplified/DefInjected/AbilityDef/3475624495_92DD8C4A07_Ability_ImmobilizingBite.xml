@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: immobilizing bite -->
+  <DA_ImmobilizingBite.label>僵化叮咬</DA_ImmobilizingBite.label>
+  <!-- EN: Immobilize a humanoid in place for a few seconds. -->
+  <DA_ImmobilizingBite.description>僵化一个类人生物数秒</DA_ImmobilizingBite.description>
+  
+</LanguageData>

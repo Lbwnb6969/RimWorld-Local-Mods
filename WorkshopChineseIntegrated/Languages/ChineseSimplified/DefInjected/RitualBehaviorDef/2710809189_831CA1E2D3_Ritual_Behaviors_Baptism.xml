@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_BaptismBehavior.roles.0.label>演讲者</AM_BaptismBehavior.roles.0.label>
+  <!-- EN: baptized -->
+  <AM_BaptismBehavior.roles.1.label>受洗者</AM_BaptismBehavior.roles.1.label>
+  <!-- EN: participate -->
+  <AM_BaptismBehavior.spectatorGerund>参加</AM_BaptismBehavior.spectatorGerund>
+  <!-- EN: Participants -->
+  <AM_BaptismBehavior.spectatorsLabel>参与者</AM_BaptismBehavior.spectatorsLabel>
+  
+</LanguageData>

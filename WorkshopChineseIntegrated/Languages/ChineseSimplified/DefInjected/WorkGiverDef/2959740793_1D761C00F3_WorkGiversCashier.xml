@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: empty register -->
+  <CashRegister_EmptyRegister.label>清空收银机</CashRegister_EmptyRegister.label>
+  <!-- EN: emptying register -->
+  <CashRegister_EmptyRegister.gerund>清空收银机</CashRegister_EmptyRegister.gerund>
+  <!-- EN: empty register -->
+  <CashRegister_EmptyRegister.verb>清空收银机</CashRegister_EmptyRegister.verb>
+  
+</LanguageData>

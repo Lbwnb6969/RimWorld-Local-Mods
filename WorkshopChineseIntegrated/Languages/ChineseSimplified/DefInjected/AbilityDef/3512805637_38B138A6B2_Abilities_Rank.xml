@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Steel Rain I -->
+  <BEWH_Ability_SteelRain_1.label>钢铁之雨 I</BEWH_Ability_SteelRain_1.label>
+  <!-- EN: Call down a single bolter-equipped drop pods, each carrying a squad of Space Marines. The pods crash onto the battlefield, quickly deploying their deadly occupants to overwhelm enemies with a storm of steel and gunfire. -->
+  <BEWH_Ability_SteelRain_1.description>呼叫一个装有爆弹炮台的空降舱，每个空降舱内均载有一队星际战士。空投舱将坠入战场，迅速部署英勇的星际战士，用钢铁风暴和猛烈炮火压制敌人。</BEWH_Ability_SteelRain_1.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_Ability_SteelRain_1.jobReportString>使用能力：{0}</BEWH_Ability_SteelRain_1.jobReportString>
+  <!-- EN: Steel Rain I -->
+  <BEWH_Ability_SteelRain_1.verbProperties.label>钢铁之雨 I</BEWH_Ability_SteelRain_1.verbProperties.label>
+  <!-- EN: Steel Rain II -->
+  <BEWH_Ability_SteelRain_2.label>钢铁之雨 II</BEWH_Ability_SteelRain_2.label>
+  <!-- EN: Call in two bolter-equipped drop pods, each carrying a Space Marine squad. The pods crash onto the battlefield, quickly deploying their deadly occupants to overwhelm enemies with a storm of steel and gunfire. -->
+  <BEWH_Ability_SteelRain_2.description>呼叫两个装有爆弹炮台的空降舱，每个空降舱内均载有一队星际战士。空投舱将坠入战场，迅速部署英勇的星际战士，用钢铁风暴和猛烈炮火压制敌人。</BEWH_Ability_SteelRain_2.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_Ability_SteelRain_2.jobReportString>使用能力：{0}</BEWH_Ability_SteelRain_2.jobReportString>
+  <!-- EN: Steel Rain II -->
+  <BEWH_Ability_SteelRain_2.verbProperties.label>钢铁之雨 II</BEWH_Ability_SteelRain_2.verbProperties.label>
+  <!-- EN: Inspire -->
+  <BEWH_ChaplainInspire.label>鼓舞</BEWH_ChaplainInspire.label>
+  <!-- EN: The Chaplain rallies his allies with strong, heartfelt words, filling them with an unshakable faith in their common cause. -->
+  <BEWH_ChaplainInspire.description>牧师用坚定而真挚的话语鼓舞盟友，让他们对共同大业充满坚定不移的热枕。</BEWH_ChaplainInspire.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_ChaplainInspire.jobReportString>使用能力：{0}</BEWH_ChaplainInspire.jobReportString>
+  <!-- EN: Inspire -->
+  <BEWH_ChaplainInspire.verbProperties.label>鼓舞</BEWH_ChaplainInspire.verbProperties.label>
+  <!-- EN: Steel Rain III -->
+  <BEWH_ChapterMasterSteelRain.label>钢铁之雨 III</BEWH_ChapterMasterSteelRain.label>
+  <!-- EN: Call down a barrage of bolter-equipped drop pods, each carrying a squad of Space Marines. The pods crash onto the battlefield, quickly deploying their deadly occupants to overwhelm enemies with a storm of steel and gunfire. -->
+  <BEWH_ChapterMasterSteelRain.description>召唤一连串装有爆弹炮台的空降舱，每个空降舱内均载有一队星际战士。空投舱将坠入战场，迅速部署英勇的星际战士，用钢铁风暴和猛烈炮火压制敌人。</BEWH_ChapterMasterSteelRain.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_ChapterMasterSteelRain.jobReportString>使用能力：{0}</BEWH_ChapterMasterSteelRain.jobReportString>
+  <!-- EN: Steel Rain III -->
+  <BEWH_ChapterMasterSteelRain.verbProperties.label>钢铁之雨 III</BEWH_ChapterMasterSteelRain.verbProperties.label>
+  <!-- EN: Raise Legion Standard -->
+  <BEWH_RaiseChapterBanner.label>战旗高扬</BEWH_RaiseChapterBanner.label>
+  <!-- EN: Raise the Legion's sacred banner, inspiring nearby battle brothers with unwavering courage and strength. While the banner is raised, they fight with increased morale and unparalleled determination, embodying the glory of their legion. -->
+  <BEWH_RaiseChapterBanner.description>高举军团圣旗，以坚定勇气激励周边战斗兄弟。当旗帜升起时，他们将以更高的士气和无与伦比的决心战斗，为了军团的荣耀！</BEWH_RaiseChapterBanner.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_RaiseChapterBanner.jobReportString>使用能力：{0}</BEWH_RaiseChapterBanner.jobReportString>
+  <!-- EN: Raise Legion Standard -->
+  <BEWH_RaiseChapterBanner.verbProperties.label>战旗高扬</BEWH_RaiseChapterBanner.verbProperties.label>
+  <!-- StripRanks -->
+  <BEWH_StripRanks.label>降职</BEWH_StripRanks.label>
+  <BEWH_StripRanks.description>对表现不佳或不服从命令的盟友进行降职并重置他们的军衔。</BEWH_StripRanks.description>
+  <BEWH_StripRanks.jobReportString>使用能力：{0}</BEWH_StripRanks.jobReportString>
+  <BEWH_StripRanks.verbProperties.label>降职</BEWH_StripRanks.verbProperties.label>
+  <!-- Quickening -->
+  <BEWH_LibrarianQuickening.label>迅雷神速</BEWH_LibrarianQuickening.label>
+  <BEWH_LibrarianQuickening.description>智库拥有预知未来的能力，这能够大幅提升速度和感知力。凭借超强的反应能力和远见卓识，他能够预判敌人的动向，并以无与伦比的速度发动攻击，在敌人反应过来之前便将其击败。</BEWH_LibrarianQuickening.description>
+  <BEWH_LibrarianQuickening.jobReportString>使用能力：{0}</BEWH_LibrarianQuickening.jobReportString>
+  <BEWH_LibrarianQuickening.verbProperties.label>迅雷神速</BEWH_LibrarianQuickening.verbProperties.label>
+  <!-- Wave of Lethargy -->
+  <BEWH_LibrarianWaveOfLethargy.label>倦怠脉冲</BEWH_LibrarianWaveOfLethargy.label>
+  <BEWH_LibrarianWaveOfLethargy.description>释放一道会使人精疲力竭的精神脉冲，能够吸取路径上所有敌人的力量。受脉冲波及的敌人感官变得迟钝，行动迟缓，无法迅速做出反应，更容易受到后续的攻击。</BEWH_LibrarianWaveOfLethargy.description>
+  <BEWH_LibrarianWaveOfLethargy.jobReportString>使用能力：{0}</BEWH_LibrarianWaveOfLethargy.jobReportString>
+  <BEWH_LibrarianWaveOfLethargy.verbProperties.label>倦怠脉冲</BEWH_LibrarianWaveOfLethargy.verbProperties.label>
+  <!-- Emergency Aid -->
+  <BEWH_ApothecaryEmergencyAid.label>急救</BEWH_ApothecaryEmergencyAid.label>
+  <BEWH_ApothecaryEmergencyAid.description>为倒地或无法行动的盟友提供紧急治疗，使用兴奋剂缓解疼痛，加速伤口愈合。急救能够处理棋子的所有伤口，使其迅速恢复。</BEWH_ApothecaryEmergencyAid.description>
+  <BEWH_ApothecaryEmergencyAid.jobReportString>使用能力：{0}</BEWH_ApothecaryEmergencyAid.jobReportString>
+  <BEWH_ApothecaryEmergencyAid.verbProperties.label>急救</BEWH_ApothecaryEmergencyAid.verbProperties.label>
+  <!-- Inspire -->
+  <!-- Command -->
+  <BEWH_CaptainsOrder.label>连长之令</BEWH_CaptainsOrder.label>
+  <BEWH_CaptainsOrder.description>连长下达一道强大的作战指令，集结附近的盟友，提升他们的战斗力。该指令将提升他们的力量、精准度和士气，使他们能够更加协调地战斗，展现出更加凶猛的战斗力。该效果持续24小时。</BEWH_CaptainsOrder.description>
+  <BEWH_CaptainsOrder.jobReportString>使用能力：{0}</BEWH_CaptainsOrder.jobReportString>
+  <BEWH_CaptainsOrder.verbProperties.label>连长之令</BEWH_CaptainsOrder.verbProperties.label>
+</LanguageData>

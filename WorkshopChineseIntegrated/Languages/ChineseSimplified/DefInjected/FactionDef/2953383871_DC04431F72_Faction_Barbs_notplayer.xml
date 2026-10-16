@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Note that you dont need to make this a base if not wanted, if you want the FactionBase to be the parent and this def to be you faction change the first line to -   <FactionDef ParentName="FactionBase"> and add in <defName>YourFactionName</defName> under that line -->
+
+  <pphhyy_Barbarian_NonPlayerBarbTribe.label>蛮族部落</pphhyy_Barbarian_NonPlayerBarbTribe.label>
+  <pphhyy_Barbarian_NonPlayerBarbTribe.description>这些人已经在这里生存很久很久了。也许他们有些人从科技文明大灾难中存活了下来。总之，部落大多是使用原始的工具和武器，在大地生活的游牧民族。\n\n虽然他们科技明显落后，但顽强的性格、众多的人口、原始武器的战斗技巧，让他们成为值得结交的盟友或危险的敌人。\n\n这个部落偏好战斗来维持地位，这表示要和他们化敌为友比较困难。</pphhyy_Barbarian_NonPlayerBarbTribe.description>
+  <pphhyy_Barbarian_NonPlayerBarbTribe.fixedName>蛮族</pphhyy_Barbarian_NonPlayerBarbTribe.fixedName>
+  <pphhyy_Barbarian_NonPlayerBarbTribe.pawnsPlural>野蛮人</pphhyy_Barbarian_NonPlayerBarbTribe.pawnsPlural>
+  <pphhyy_Barbarian_NonPlayerBarbTribe.pawnSingular>野蛮人</pphhyy_Barbarian_NonPlayerBarbTribe.pawnSingular>
+  <pphhyy_Barbarian_NonPlayerBarbTribe.leaderTitle>督军</pphhyy_Barbarian_NonPlayerBarbTribe.leaderTitle>
+
+
+</LanguageData>

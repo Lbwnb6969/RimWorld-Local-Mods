@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bolt explosion -->
+  <BEWH_Bolt.label>爆矢炸伤</BEWH_Bolt.label>
+  <!-- EN: {0} learned the meaning of "mass-reactive" the hard way. -->
+  <BEWH_Bolt.deathMessage>{0}以一种痛苦的方式明白了“质量反应”的含义。</BEWH_Bolt.deathMessage>
+  
+  <!-- EN: inferno bolt explosion -->
+  <BEWH_BoltInferno.label>炼狱爆矢炸伤</BEWH_BoltInferno.label>
+  <!-- EN: {0} found out what "Inferno" stands for in an Inferno bolt. -->
+  <BEWH_BoltInferno.deathMessage>{0}明白了“炼狱爆矢”中“炼狱”的含义。</BEWH_BoltInferno.deathMessage>
+  
+  <!-- EN: shrapnel explosion -->
+  <BEWH_BoltMetalStorm.label>弹片炸伤</BEWH_BoltMetalStorm.label>
+  <!-- EN: {0} discovered that the air itself can turn into shrapnel. -->
+  <BEWH_BoltMetalStorm.deathMessage>{0}临死前发现空气中的弹片含量超标。</BEWH_BoltMetalStorm.deathMessage>
+  
+</LanguageData>

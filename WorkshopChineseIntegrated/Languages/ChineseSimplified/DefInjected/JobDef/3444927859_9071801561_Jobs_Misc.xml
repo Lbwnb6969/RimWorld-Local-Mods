@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: igniting TargetA with torches. -->
+  <VFEM_IgniteWithTorches.reportString>正在用火把点燃TargetA。</VFEM_IgniteWithTorches.reportString>
+  
+  <!-- EN: taking honey out of TargetA. -->
+  <VFEM2_TakeHoneyOutOfApiary.reportString>正在从TargetA提取蜂蜜</VFEM2_TakeHoneyOutOfApiary.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <VFEM2_TendToApiary.reportString>正在照料TargetA</VFEM2_TendToApiary.reportString>
+  
+</LanguageData>

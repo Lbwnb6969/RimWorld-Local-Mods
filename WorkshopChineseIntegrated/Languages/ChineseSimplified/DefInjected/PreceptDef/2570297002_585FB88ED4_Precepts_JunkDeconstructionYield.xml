@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high -->
+  <VME_JunkDeconstructionYield_High.label>高效</VME_JunkDeconstructionYield_High.label>
+  <!-- EN: To throw away that which could be reused is utterly wasteful, every last shred of leather or fragment of steel can be repurposed.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Deconstructing a building returns 100% of its original materials. This also applies to destroying a building (as long as the building produces resources when destroyed), and when failing to construct it. -->
+  <VME_JunkDeconstructionYield_High.description>浪费是种可耻的行为，每一块碎皮革或钢渣都拥有重复利用的价值。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 拆除建筑可以返还全部的材料。此效果同样适用于被摧毁的建筑与建造失败的建筑。</VME_JunkDeconstructionYield_High.description>
+  
+</LanguageData>

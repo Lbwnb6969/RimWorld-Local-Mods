@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install fleshcrafted arm -->
+  <VME_InstallFleshcraftedArm.label>安装血肉重塑臂</VME_InstallFleshcraftedArm.label>
+  <!-- EN: Install a fleshcrafted arm. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedArm.description>安装血肉重塑臂。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedArm.description>
+  <!-- EN: Installing fleshcrafted arm. -->
+  <VME_InstallFleshcraftedArm.jobString>正在安装血肉重塑臂。</VME_InstallFleshcraftedArm.jobString>
+  
+  <!-- EN: install fleshcrafted ear -->
+  <VME_InstallFleshcraftedEar.label>安装血肉重塑耳</VME_InstallFleshcraftedEar.label>
+  <!-- EN: Install a fleshcrafted ear. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedEar.description>安装血肉重塑耳。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedEar.description>
+  <!-- EN: Installing fleshcrafted ear. -->
+  <VME_InstallFleshcraftedEar.jobString>正在安装血肉重塑耳。</VME_InstallFleshcraftedEar.jobString>
+  
+  <!-- EN: install fleshcrafted eye -->
+  <VME_InstallFleshcraftedEye.label>安装血肉重塑眼</VME_InstallFleshcraftedEye.label>
+  <!-- EN: Install a fleshcrafted eye. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedEye.description>安装血肉重塑眼。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedEye.description>
+  <!-- EN: Installing fleshcrafted eye. -->
+  <VME_InstallFleshcraftedEye.jobString>正在安装血肉重塑眼。</VME_InstallFleshcraftedEye.jobString>
+  
+  <!-- EN: install fleshcrafted finger -->
+  <VME_InstallFleshcraftedFinger.label>安装血肉重塑指</VME_InstallFleshcraftedFinger.label>
+  <!-- EN: Install a fleshcrafted finger. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedFinger.description>安装血肉重塑指。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedFinger.description>
+  <!-- EN: Installing fleshcrafted finger. -->
+  <VME_InstallFleshcraftedFinger.jobString>正在安装血肉重塑指。</VME_InstallFleshcraftedFinger.jobString>
+  
+  <!-- EN: install fleshcrafted foot -->
+  <VME_InstallFleshcraftedFoot.label>安装血肉重塑脚</VME_InstallFleshcraftedFoot.label>
+  <!-- EN: Install a fleshcrafted foot. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedFoot.description>安装血肉重塑脚。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedFoot.description>
+  <!-- EN: Installing fleshcrafted foot. -->
+  <VME_InstallFleshcraftedFoot.jobString>正在安装血肉重塑脚。</VME_InstallFleshcraftedFoot.jobString>
+  
+  <!-- EN: install fleshcrafted hand -->
+  <VME_InstallFleshcraftedHand.label>安装血肉重塑手</VME_InstallFleshcraftedHand.label>
+  <!-- EN: Install a fleshcrafted hand. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedHand.description>安装血肉重塑手。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedHand.description>
+  <!-- EN: Installing fleshcrafted hand. -->
+  <VME_InstallFleshcraftedHand.jobString>正在安装血肉重塑手。</VME_InstallFleshcraftedHand.jobString>
+  
+  <!-- EN: install fleshcrafted heart -->
+  <VME_InstallFleshcraftedHeart.label>安装血肉重塑心脏</VME_InstallFleshcraftedHeart.label>
+  <!-- EN: Install a fleshcrafted heart. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedHeart.description>安装血肉重塑心脏。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedHeart.description>
+  <!-- EN: Installing fleshcrafted heart. -->
+  <VME_InstallFleshcraftedHeart.jobString>正在安装血肉重塑心脏</VME_InstallFleshcraftedHeart.jobString>
+  
+  <!-- EN: install fleshcrafted jaw -->
+  <VME_InstallFleshcraftedJaw.label>安装血肉重塑颌</VME_InstallFleshcraftedJaw.label>
+  <!-- EN: Install a fleshcrafted jaw. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedJaw.description>安装血肉重塑颌。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedJaw.description>
+  <!-- EN: Installing fleshcrafted jaw. -->
+  <VME_InstallFleshcraftedJaw.jobString>正在安装血肉重塑颌。</VME_InstallFleshcraftedJaw.jobString>
+  
+  <!-- EN: install fleshcrafted kidney -->
+  <VME_InstallFleshcraftedKidney.label>安装血肉重塑肾</VME_InstallFleshcraftedKidney.label>
+  <!-- EN: Install a fleshcrafted kidney. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedKidney.description>安装血肉重塑肾。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedKidney.description>
+  <!-- EN: Installing fleshcrafted kidney. -->
+  <VME_InstallFleshcraftedKidney.jobString>正在安装血肉重塑肾。</VME_InstallFleshcraftedKidney.jobString>
+  
+  <!-- EN: install fleshcrafted leg -->
+  <VME_InstallFleshcraftedLeg.label>安装血肉重塑腿</VME_InstallFleshcraftedLeg.label>
+  <!-- EN: Install a fleshcrafted leg. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedLeg.description>安装血肉重塑腿。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedLeg.description>
+  <!-- EN: Installing fleshcrafted leg. -->
+  <VME_InstallFleshcraftedLeg.jobString>正在安装血肉重塑腿。</VME_InstallFleshcraftedLeg.jobString>
+  
+  <!-- EN: install fleshcrafted liver -->
+  <VME_InstallFleshcraftedLiver.label>安装血肉重塑肝</VME_InstallFleshcraftedLiver.label>
+  <!-- EN: Install a fleshcrafted liver. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedLiver.description>安装血肉重塑肝。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedLiver.description>
+  <!-- EN: Installing fleshcrafted liver. -->
+  <VME_InstallFleshcraftedLiver.jobString>正在安装血肉重塑肝。</VME_InstallFleshcraftedLiver.jobString>
+  
+  <!-- EN: install fleshcrafted lung -->
+  <VME_InstallFleshcraftedLung.label>安装血肉重塑肺</VME_InstallFleshcraftedLung.label>
+  <!-- EN: Install a fleshcrafted lung. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedLung.description>正在安装血肉重塑肺。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedLung.description>
+  <!-- EN: Installing fleshcrafted lung. -->
+  <VME_InstallFleshcraftedLung.jobString>正在安装血肉重塑肺。</VME_InstallFleshcraftedLung.jobString>
+  
+  <!-- EN: install fleshcrafted nose -->
+  <VME_InstallFleshcraftedNose.label>安装血肉重塑鼻</VME_InstallFleshcraftedNose.label>
+  <!-- EN: Install a fleshcrafted nose. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedNose.description>安装血肉重塑鼻。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedNose.description>
+  <!-- EN: Installing fleshcrafted nose. -->
+  <VME_InstallFleshcraftedNose.jobString>正在安装血肉重塑鼻。</VME_InstallFleshcraftedNose.jobString>
+  
+  <!-- EN: install fleshcrafted spine -->
+  <VME_InstallFleshcraftedSpine.label>安装血肉重塑脊椎</VME_InstallFleshcraftedSpine.label>
+  <!-- EN: Install a fleshcrafted spine. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedSpine.description>安装血肉重塑脊椎。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedSpine.description>
+  <!-- EN: Installing fleshcrafted spine. -->
+  <VME_InstallFleshcraftedSpine.jobString>正在安装血肉重塑脊椎。</VME_InstallFleshcraftedSpine.jobString>
+  
+  <!-- EN: install fleshcrafted stomach -->
+  <VME_InstallFleshcraftedStomach.label>安装血肉重塑胃</VME_InstallFleshcraftedStomach.label>
+  <!-- EN: Install a fleshcrafted stomach. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedStomach.description>安装血肉重塑胃。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedStomach.description>
+  <!-- EN: Installing fleshcrafted stomach. -->
+  <VME_InstallFleshcraftedStomach.jobString>正在安装血肉重塑胃。</VME_InstallFleshcraftedStomach.jobString>
+  
+  <!-- EN: install fleshcrafted toe -->
+  <VME_InstallFleshcraftedToe.label>安装血肉重塑趾</VME_InstallFleshcraftedToe.label>
+  <!-- EN: Install a fleshcrafted toe. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedToe.description>安装血肉重塑趾。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedToe.description>
+  <!-- EN: Installing fleshcrafted toe. -->
+  <VME_InstallFleshcraftedToe.jobString>正在安装血肉重塑趾。</VME_InstallFleshcraftedToe.jobString>
+  
+  <!-- EN: install fleshcrafted tongue -->
+  <VME_InstallFleshcraftedTongue.label>安装血肉重塑舌</VME_InstallFleshcraftedTongue.label>
+  <!-- EN: Install a fleshcrafted tongue. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedTongue.description>安装血肉重塑舌。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_InstallFleshcraftedTongue.description>
+  <!-- EN: Installing fleshcrafted tongue. -->
+  <VME_InstallFleshcraftedTongue.jobString>正在安装血肉重塑舌。</VME_InstallFleshcraftedTongue.jobString>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accepted -->
+  <VME_AutonomousWeapons_Accepted.label>认可</VME_AutonomousWeapons_Accepted.label>
+  <!-- EN: Automated defenses are a good way to defend our colony. -->
+  <VME_AutonomousWeapons_Accepted.description>自动防卫设施能很好地保卫我们的殖民地。</VME_AutonomousWeapons_Accepted.description>
+  <!-- EN: Automated turret in colony -->
+  <VME_AutonomousWeapons_Accepted.comps.0.description>殖民地有自动炮塔</VME_AutonomousWeapons_Accepted.comps.0.description>
+  
+  <!-- EN: exalted -->
+  <VME_AutonomousWeapons_Exalted.label>高尚</VME_AutonomousWeapons_Exalted.label>
+  <!-- EN: Automated defenses are key to a proper defense of what is ours. -->
+  <VME_AutonomousWeapons_Exalted.description>自动防卫设施对殖民地的防御来说是重中之重。</VME_AutonomousWeapons_Exalted.description>
+  <!-- EN: Automated turret in colony -->
+  <VME_AutonomousWeapons_Exalted.comps.0.description>殖民地有自动炮塔</VME_AutonomousWeapons_Exalted.comps.0.description>
+  
+</LanguageData>

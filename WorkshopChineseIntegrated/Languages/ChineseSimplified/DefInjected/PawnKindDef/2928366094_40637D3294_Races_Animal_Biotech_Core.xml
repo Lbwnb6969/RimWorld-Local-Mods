@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hemolope -->
+  <RG_Hemolope.label>血原羊</RG_Hemolope.label>
+  <!-- EN: hemolope calf -->
+  <RG_Hemolope.lifeStages.hemolope_calf.label>血原羊幼崽</RG_Hemolope.lifeStages.hemolope_calf.label>
+  <!-- EN: hemolope calves -->
+  <RG_Hemolope.lifeStages.hemolope_calf.labelPlural>血原羊幼崽</RG_Hemolope.lifeStages.hemolope_calf.labelPlural>
+  
+</LanguageData>

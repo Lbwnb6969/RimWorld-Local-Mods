@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: graviton maul -->
+  <BEWH_GravitonMaul.label>重力锤</BEWH_GravitonMaul.label>
+  <!-- EN: A heavy maul originally used by Domitar-class Battle-Automata. Built for raw impact, it was designed to smash through armor, structures, and enemy lines with brute force. Far too large and heavy for an unaugmented human to wield effectively, it requires significant strength or mechanical assistance to use in combat. -->
+  <BEWH_GravitonMaul.description>原为多米塔级战斗机器人设计的重型战锤，专为纯粹冲击力打造，能以蛮力粉碎装甲、建筑与敌阵。体积重量远超常人操控极限，需超人体质或机械助力方可投入实战。</BEWH_GravitonMaul.description>
+  <!-- EN: handle -->
+  <BEWH_GravitonMaul.tools.handle.label>锤柄</BEWH_GravitonMaul.tools.handle.label>
+  <!-- EN: head -->
+  <BEWH_GravitonMaul.tools.head.label>锤头</BEWH_GravitonMaul.tools.head.label>
+  
+  <!-- EN: Domitar Battle-Automata -->
+  <BEWH_PerturaboDomitar.label>多米塔级战斗机器人</BEWH_PerturaboDomitar.label>
+  <!-- EN: Heavily armed and brutally efficient, these automata wield Olympia bolters and Graviton mauls. Forged for siege warfare, they are relentless, obedient engines of destruction. A manifestation of Perturabo's cold, calculated wrath. -->
+  <BEWH_PerturaboDomitar.description>重装高效的战斗机器，配备奥林匹亚爆弹枪与重力战锤。专为攻城战铸造，是永不退缩的毁灭引擎，是佩图拉博怒火的化身。</BEWH_PerturaboDomitar.description>
+  <!-- EN: Olympia Bolter -->
+  <BEWH_PerturaboDomitar.comps.Comp_VerbGiver.verbProps.0.label>奥林匹亚爆弹枪</BEWH_PerturaboDomitar.comps.Comp_VerbGiver.verbProps.0.label>
+  <!-- EN: Olympia Bolter mounted on the shoulder. -->
+  <BEWH_PerturaboDomitar.comps.Comp_VerbGiver.verbProps.0.description>机器人肩部搭载的奥林匹亚爆弹枪。</BEWH_PerturaboDomitar.comps.Comp_VerbGiver.verbProps.0.description>
+  <!-- EN: Olympia Bolter -->
+  <BEWH_PerturaboDomitar.comps.Comp_VerbGiver.verbProps.0.visualLabel>奥林匹亚爆弹枪</BEWH_PerturaboDomitar.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+  <!-- EN: left fist -->
+  <BEWH_PerturaboDomitar.tools.left_fist.label>左拳</BEWH_PerturaboDomitar.tools.left_fist.label>
+  <!-- EN: fist -->
+  <BEWH_PerturaboDomitar.tools.left_fist.labelNoLocation>拳头</BEWH_PerturaboDomitar.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <BEWH_PerturaboDomitar.tools.right_fist.label>右拳</BEWH_PerturaboDomitar.tools.right_fist.label>
+  <!-- EN: fist -->
+  <BEWH_PerturaboDomitar.tools.right_fist.labelNoLocation>拳头</BEWH_PerturaboDomitar.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <BEWH_PerturaboDomitar.tools.head.label>头</BEWH_PerturaboDomitar.tools.head.label>
+  <!-- EN: Olympia Bolter -->
+  <BEWH_PerturaboDomitar.verbs.Olympia_Bolter.label>奥林匹亚爆弹枪</BEWH_PerturaboDomitar.verbs.Olympia_Bolter.label>
+  
+</LanguageData>

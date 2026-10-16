@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: {0}'s mental break was cured by {1} -->
+  <CAProtectiveAuraCureMentalBreaks>{0}的精神崩溃已被{1}治愈了。</CAProtectiveAuraCureMentalBreaks>
+  <!-- EN: {0}'s fire was extinguished by {1} -->
+  <CAProtectiveAuraExtinguishFire>{0}纵的火已被{1}扑灭了。</CAProtectiveAuraExtinguishFire>
+  <!-- EN: {0}'s body temperature was regulated by {1} -->
+  <ProtectiveAuraHeatRegulation>{0}的体温已被{1}稳定住了。</ProtectiveAuraHeatRegulation>
+
+  <!-- EN: Protect Spaceship -->
+  <sos2ProtectSpaceship>飞船保护（SOS2适配）</sos2ProtectSpaceship>
+  <!-- EN: Allows the ancient protective aura to transfer incoming heat of the ship to this pawn when enabled. -->
+  <sos2ProtectSpaceshipDesc>启用后，远古守护光环会将积于飞船内的热量转移至此单位体内。</sos2ProtectSpaceshipDesc>
+  
+  <!-- EN: Engage drafted -->
+  <CAengageMelee>执行征召</CAengageMelee>
+  <!-- EN: Allow drafted melee pawns to walk up to and attack hostiles themselves -->
+  <CAengageMeleeDesc>允许被征召的近战单位自行移动至敌方单位面前并发起攻击。</CAengageMeleeDesc>
+
+</LanguageData>

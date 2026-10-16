@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Non buildable banners -->
+
+  <DankPyon_BannerMoonCult.label>旗帜 (影宗)</DankPyon_BannerMoonCult.label>
+  <DankPyon_BannerMoonCult.description>以派系象征物和代表色点缀着的亚麻旗帜。</DankPyon_BannerMoonCult.description>
+
+  <DankPyon_BannerSoren.label>旗帜 (索伦)</DankPyon_BannerSoren.label>
+  <DankPyon_BannerSoren.description>以派系象征物和代表色点缀着的亚麻旗帜。</DankPyon_BannerSoren.description>
+
+  <DankPyon_BannerAmboise.label>旗帜 (昂布瓦兹)</DankPyon_BannerAmboise.label>
+  <DankPyon_BannerAmboise.description>以派系象征物和代表色点缀着的亚麻旗帜。</DankPyon_BannerAmboise.description>
+
+  <DankPyon_BannerHesse.label>旗帜 (黑森)</DankPyon_BannerHesse.label>
+  <DankPyon_BannerHesse.description>以派系象征物和代表色点缀着的亚麻旗帜。</DankPyon_BannerHesse.description>
+
+  <DankPyon_BannerOswin.label>旗帜 (傲斯温)</DankPyon_BannerOswin.label>
+  <DankPyon_BannerOswin.description>以派系象征物和代表色点缀着的亚麻旗帜。</DankPyon_BannerOswin.description>
+
+
+  <!-- Buildable Banners -->
+
+  <DankPyon_BannerPlain.label>普通旗帜</DankPyon_BannerPlain.label>
+  <DankPyon_BannerPlain.description>用亚麻布制成的装饰性旗帜。</DankPyon_BannerPlain.description>
+
+  <DankPyon_BannerCrow.label>旗帜 (渡鸦)</DankPyon_BannerCrow.label>
+  <DankPyon_BannerCrow.description>用亚麻布制成的装饰性旗帜。</DankPyon_BannerCrow.description>
+
+  <DankPyon_BannerArrow.label>旗帜 (利箭)</DankPyon_BannerArrow.label>
+  <DankPyon_BannerArrow.description>用亚麻布制成的装饰性旗帜。</DankPyon_BannerArrow.description>
+
+  <DankPyon_BannerHand.label>旗帜 (圣手)</DankPyon_BannerHand.label>
+  <DankPyon_BannerHand.description>用亚麻布制成的装饰性旗帜。</DankPyon_BannerHand.description>
+
+  <DankPyon_BannerAxe.label>旗帜 (战斧)</DankPyon_BannerAxe.label>
+  <DankPyon_BannerAxe.description>用亚麻布制成的装饰性旗帜。</DankPyon_BannerAxe.description>
+
+  <DankPyon_BannerSun.label>旗帜 (烈日)</DankPyon_BannerSun.label>
+  <DankPyon_BannerSun.description>用亚麻布制成的装饰性旗帜。</DankPyon_BannerSun.description>
+
+  <DankPyon_BannerLindwurm.label>旗帜 (林德虫)</DankPyon_BannerLindwurm.label>
+  <DankPyon_BannerLindwurm.description>用亚麻布制成的装饰性旗帜。</DankPyon_BannerLindwurm.description>
+
+
+</LanguageData>

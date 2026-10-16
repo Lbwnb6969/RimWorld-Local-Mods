@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make grape must -->
+  <VFEM2_Make_Must.label>制作葡萄原浆</VFEM2_Make_Must.label>
+  <!-- EN: Make must from grapes. -->
+  <VFEM2_Make_Must.description>将葡萄榨成原浆</VFEM2_Make_Must.description>
+  <!-- EN: Making must. -->
+  <VFEM2_Make_Must.jobString>正在制作葡萄原浆。</VFEM2_Make_Must.jobString>
+  
+  <!-- EN: make sweetrolls -->
+  <VFEM2_Make_Sweetroll.label>制作甜卷</VFEM2_Make_Sweetroll.label>
+  <!-- EN: Make sweetrolls out of honey and eggs. -->
+  <VFEM2_Make_Sweetroll.description>用蛋和蜂蜜制作甜卷。</VFEM2_Make_Sweetroll.description>
+  <!-- EN: Making sweetrolls. -->
+  <VFEM2_Make_Sweetroll.jobString>正在制作甜卷</VFEM2_Make_Sweetroll.jobString>
+  
+</LanguageData>

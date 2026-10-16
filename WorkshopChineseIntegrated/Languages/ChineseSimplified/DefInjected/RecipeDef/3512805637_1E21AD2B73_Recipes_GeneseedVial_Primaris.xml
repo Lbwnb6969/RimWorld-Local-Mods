@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make chapterless primaris -->
+  <BEWH_MakePrimaris.label>制造原铸星际战士</BEWH_MakePrimaris.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimaris.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimaris.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimaris.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimaris.jobString>
+  
+  <!-- EN: make Dark Angels primaris -->
+  <BEWH_MakePrimarisChapterI.label>制造原铸星际战士（黑暗天使）</BEWH_MakePrimarisChapterI.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterI.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterI.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterI.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterI.jobString>
+  
+  <!-- EN: make Emperor's Children primaris -->
+  <BEWH_MakePrimarisChapterIII.label>制造原铸星际战士（帝皇之子）</BEWH_MakePrimarisChapterIII.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterIII.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterIII.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterIII.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterIII.jobString>
+  
+  <!-- EN: make Iron Warriors primaris -->
+  <BEWH_MakePrimarisChapterIV.label>制造原铸星际战士（钢铁勇士）</BEWH_MakePrimarisChapterIV.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterIV.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterIV.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterIV.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterIV.jobString>
+  
+  <!-- EN: make Blood Angels primaris -->
+  <BEWH_MakePrimarisChapterIX.label>制造原铸星际战士（圣血天使）</BEWH_MakePrimarisChapterIX.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterIX.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterIX.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterIX.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterIX.jobString>
+  
+  <!-- EN: make White Scars primaris -->
+  <BEWH_MakePrimarisChapterV.label>制造原铸星际战士（白色疤痕）</BEWH_MakePrimarisChapterV.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterV.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterV.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterV.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterV.jobString>
+  
+  <!-- EN: make Space Wolves primaris -->
+  <BEWH_MakePrimarisChapterVI.label>制造原铸星际战士（太空野狼）</BEWH_MakePrimarisChapterVI.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterVI.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterVI.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterVI.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterVI.jobString>
+  
+  <!-- EN: make Imperial Fists primaris -->
+  <BEWH_MakePrimarisChapterVII.label>制造原铸星际战士（帝国之拳）</BEWH_MakePrimarisChapterVII.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterVII.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterVII.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterVII.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterVII.jobString>
+  
+  <!-- EN: make Night Lords primaris -->
+  <BEWH_MakePrimarisChapterVIII.label>制造原铸星际战士（午夜领主）</BEWH_MakePrimarisChapterVIII.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterVIII.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterVIII.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterVIII.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterVIII.jobString>
+  
+  <!-- EN: make Iron Hands primaris -->
+  <BEWH_MakePrimarisChapterX.label>制造原铸星际战士（钢铁之手）</BEWH_MakePrimarisChapterX.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterX.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterX.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterX.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterX.jobString>
+  
+  <!-- EN: make World Eaters primaris -->
+  <BEWH_MakePrimarisChapterXII.label>制造原铸星际战士（吞世者）</BEWH_MakePrimarisChapterXII.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterXII.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterXII.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterXII.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterXII.jobString>
+  
+  <!-- EN: make Ultramarines primaris -->
+  <BEWH_MakePrimarisChapterXIII.label>制造原铸星际战士（极限战士）</BEWH_MakePrimarisChapterXIII.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterXIII.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterXIII.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterXIII.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterXIII.jobString>
+  
+  <!-- EN: make Death Guard primaris -->
+  <BEWH_MakePrimarisChapterXIV.label>制造原铸星际战士（死亡守卫）</BEWH_MakePrimarisChapterXIV.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterXIV.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterXIV.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterXIV.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterXIV.jobString>
+  
+  <!-- EN: make Raven Guard primaris -->
+  <BEWH_MakePrimarisChapterXIX.label>制造原铸星际战士（暗鸦守卫）</BEWH_MakePrimarisChapterXIX.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterXIX.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterXIX.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterXIX.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterXIX.jobString>
+  
+  <!-- EN: make Thousand Sons primaris -->
+  <BEWH_MakePrimarisChapterXV.label>制造原铸星际战士（千疮之子）</BEWH_MakePrimarisChapterXV.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterXV.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterXV.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterXV.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterXV.jobString>
+  
+  <!-- EN: make Sons of Horus primaris -->
+  <BEWH_MakePrimarisChapterXVI.label>制造原铸星际战士（荷鲁斯之子）</BEWH_MakePrimarisChapterXVI.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterXVI.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterXVI.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterXVI.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterXVI.jobString>
+  
+  <!-- EN: make Word Bearers primaris -->
+  <BEWH_MakePrimarisChapterXVII.label>制造原铸星际战士（怀言者）</BEWH_MakePrimarisChapterXVII.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterXVII.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterXVII.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterXVII.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterXVII.jobString>
+  
+  <!-- EN: make Salamanders primaris -->
+  <BEWH_MakePrimarisChapterXVIII.label>制造原铸星际战士（火蜥蜴）</BEWH_MakePrimarisChapterXVIII.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterXVIII.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterXVIII.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterXVIII.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterXVIII.jobString>
+  
+  <!-- EN: make Alpha egion primaris -->
+  <BEWH_MakePrimarisChapterXX.label>制造原铸星际战士（阿尔法军团）</BEWH_MakePrimarisChapterXX.label>
+  <!-- EN: Implant Primaris genetic material into a patient. -->
+  <BEWH_MakePrimarisChapterXX.description>植入殖民者原铸星际战士基因物质。</BEWH_MakePrimarisChapterXX.description>
+  <!-- EN: Implanting Primaris genetic material. -->
+  <BEWH_MakePrimarisChapterXX.jobString>植入原铸星际战士基因物质中。</BEWH_MakePrimarisChapterXX.jobString>
+  
+</LanguageData>

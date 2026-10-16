@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: padded coif -->
+  <TA_CoifPadded.label>填充头套</TA_CoifPadded.label>
+  <!-- EN: A padded coif, somewhat protects from cuts but it's really more for wear under a helmet -->
+  <TA_CoifPadded.description>填充头套，能提供一定切割防护，但主要用途是作为头盔内衬。</TA_CoifPadded.description>
+  
+</LanguageData>

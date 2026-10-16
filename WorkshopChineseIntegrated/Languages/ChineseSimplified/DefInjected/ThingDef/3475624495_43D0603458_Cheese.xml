@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: goldfort cheese -->
+  <DA_MealGoldfortCheese.label>金牦乳酪</DA_MealGoldfortCheese.label>
+  <!-- EN: A sharp-tasting wheel of soft cheese, created by a special process of purposely curdling goldilox milk. Its golden rind and soft core which melts in the mouth it is a cheese fit for kings, as well as a versatile ingredient in meals. -->
+  <DA_MealGoldfortCheese.description>一种风味猛烈的轮状软乳酪，由金牦乳汁经特殊的乳凝工艺制成。外表金光闪闪，内里入口即化，简直是皇室专享！它同时也是一种多用途的食材。</DA_MealGoldfortCheese.description>
+  
+  <!-- EN: muffton cheese -->
+  <DA_MealMufftonCheese.label>矮羊乳酪</DA_MealMufftonCheese.label>
+  <!-- EN: A sharp-tasting wheel of cheese, created by a special process of purposely curdling animal milk. It makes for both a tasty treat on its own, as well as a versatile ingredient in meals. -->
+  <DA_MealMufftonCheese.description>一种风味猛烈的轮状乳酪，由特殊的乳凝工艺制成。它本身就是一种美味的食物，同时也是一种多用途的食材。</DA_MealMufftonCheese.description>
+  
+</LanguageData>

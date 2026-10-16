@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ocular warping -->
+  <AM_OcularWarping.label>异目扭曲</AM_OcularWarping.label>
+  <!-- EN: The ocular priest will use one of the colony's ocular dryads to warp a creature into an ocular monster. Depending on the ritual's outcome and the sacrificed creature's body size, a correspondingly stronger ocular monster will be summoned. -->
+  <AM_OcularWarping.description>一场异目扭曲仪式。依据仪式的结果和祭品生物的体型，异目祭司可利用窥视树精和属于殖民地的动物来召唤出强度相应的异目怪物。</AM_OcularWarping.description>
+  <!-- EN: Ocular warping -->
+  <AM_OcularWarping.tipLabelOverride>异目扭曲</AM_OcularWarping.tipLabelOverride>
+  
+</LanguageData>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <LetterDef>
+    <defName>EES_CounterScoutArrived</defName>
+    <color>(204, 155, 125)</color>
+    <flashColor>(255, 155, 95)</flashColor>
+    <flashInterval>16</flashInterval>
+    <bounce>true</bounce>
+    <arriveSound>LetterArrive_BadUrgent</arriveSound>
+    <pauseMode>AnyThreat</pauseMode>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_StrikeFailed</defName>
+    <color>(204, 115, 115)</color>
+    <flashColor>(255, 85, 85)</flashColor>
+    <flashInterval>6</flashInterval>
+    <bounce>true</bounce>
+    <arriveSound>LetterArrive_BadUrgentBig</arriveSound>
+    <pauseMode>MajorThreat</pauseMode>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_SupplyInvaded</defName>
+    <color>(204, 115, 115)</color>
+    <flashColor>(255, 85, 85)</flashColor>
+    <flashInterval>6</flashInterval>
+    <bounce>true</bounce>
+    <arriveSound>LetterArrive_BadUrgentBig</arriveSound>
+    <pauseMode>MajorThreat</pauseMode>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_SupplyEngaged</defName>
+    <color>(204, 115, 115)</color>
+    <flashColor>(255, 85, 85)</flashColor>
+    <flashInterval>6</flashInterval>
+    <bounce>true</bounce>
+    <arriveSound>LetterArrive_BadUrgentBig</arriveSound>
+    <pauseMode>MajorThreat</pauseMode>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_CounterScoutEscaped</defName>
+    <color>(204, 196, 135)</color>
+    <flashColor>(210, 198, 106)</flashColor>
+    <flashInterval>40</flashInterval>
+    <arriveSound>LetterArrive_BadUrgentSmall</arriveSound>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_ScoutFail</defName>
+    <color>(204, 196, 135)</color>
+    <flashColor>(210, 198, 106)</flashColor>
+    <flashInterval>40</flashInterval>
+    <arriveSound>LetterArrive_BadUrgentSmall</arriveSound>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_InfilFail</defName>
+    <color>(204, 196, 135)</color>
+    <flashColor>(210, 198, 106)</flashColor>
+    <flashInterval>40</flashInterval>
+    <arriveSound>LetterArrive_BadUrgentSmall</arriveSound>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_HVTTargetSpawned</defName>
+    <color>(175, 176, 185)</color>
+    <flashColor>(160, 170, 180)</flashColor>
+    <flashInterval>90</flashInterval>
+    <arriveSound>LetterArrive</arriveSound>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_SupplyCaravan</defName>
+    <color>(175, 176, 185)</color>
+    <flashColor>(160, 170, 180)</flashColor>
+    <flashInterval>90</flashInterval>
+    <arriveSound>LetterArrive</arriveSound>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_ScoutSuccess</defName>
+    <color>(120, 176, 216)</color>
+    <flashColor>(106, 179, 231)</flashColor>
+    <flashInterval>90</flashInterval>
+    <arriveSound>LetterArrive_Good</arriveSound>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_InfilSuccess</defName>
+    <color>(120, 176, 216)</color>
+    <flashColor>(106, 179, 231)</flashColor>
+    <flashInterval>90</flashInterval>
+    <arriveSound>LetterArrive_Good</arriveSound>
+  </LetterDef>
+
+  <LetterDef>
+    <defName>EES_StrikeSuccess</defName>
+    <color>(120, 176, 216)</color>
+    <flashColor>(106, 179, 231)</flashColor>
+    <flashInterval>90</flashInterval>
+    <arriveSound>LetterArrive_Good</arriveSound>
+  </LetterDef>
+
+</Defs>

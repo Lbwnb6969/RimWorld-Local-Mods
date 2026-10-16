@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coal Chunks -->
+
+  <DankPyon_Gather_Coal.label>开采煤块 x5</DankPyon_Gather_Coal.label>
+  <DankPyon_Gather_Coal.description>开采地下可用的煤块。</DankPyon_Gather_Coal.description>
+  <DankPyon_Gather_Coal.jobString>正在开采煤块。</DankPyon_Gather_Coal.jobString>
+
+
+  <!-- Salt Chunks -->
+
+  <DankPyon_Gather_Salt.label>开采盐 x5</DankPyon_Gather_Salt.label>
+  <DankPyon_Gather_Salt.description>开采地下可用的盐粒。</DankPyon_Gather_Salt.description>
+  <DankPyon_Gather_Salt.jobString>正在开采盐。</DankPyon_Gather_Salt.jobString>
+
+
+</LanguageData>

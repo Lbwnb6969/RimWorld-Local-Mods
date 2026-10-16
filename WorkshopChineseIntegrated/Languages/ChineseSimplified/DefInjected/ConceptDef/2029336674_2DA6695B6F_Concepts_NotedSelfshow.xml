@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hospitality -->
+  <Hospitality.label>款待</Hospitality.label>
+  <!-- EN: When a group of visitors arrives, they will use your joy facilities, sleep in guest beds and buy items in their allowed area.\n\nIf they enjoyed their visit, this will increase your reputation with their faction. -->
+  <Hospitality.helpText>当一群访客抵达，他们会使用你的娱乐设施，在访客用床上睡觉，并且会在允许的区域内购物。\n\n如果他们对这次拜访感到满意，就会改善你与其所属派系的关系。</Hospitality.helpText>
+  
+</LanguageData>

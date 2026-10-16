@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_MakeRustedSword.label>制作 生锈蛮族单刃剑</pphhyy_Barbarian_MakeRustedSword.label>
+  <pphhyy_Barbarian_MakeRustedSword.description>这把蛮族使用的剑看起来粗制滥造，可能是掠夺而来的。它缺乏护手，而且为单锋，尽管缺乏防御能力，但它勉强算得上是能造成切割伤害的武器。由于蛮族部落缺乏保养武器的技能和习惯，所以除了刀锋以外，其他部位的锈蚀程度都相当严重。</pphhyy_Barbarian_MakeRustedSword.description>
+  <pphhyy_Barbarian_MakeRustedSword.jobString>正在制作生锈蛮族单刃剑。</pphhyy_Barbarian_MakeRustedSword.jobString>
+
+  <pphhyy_Barbarian_MakeRustedClaymore.label>制作 生锈蛮族单刃大剑</pphhyy_Barbarian_MakeRustedClaymore.label>
+  <pphhyy_Barbarian_MakeRustedClaymore.description>一把生锈的单刃大剑，由战场上掠夺来的武器制成。尽管它的结构简陋，但它的大型单刃刀锋能造成惊人的破坏性攻击。</pphhyy_Barbarian_MakeRustedClaymore.description>
+  <pphhyy_Barbarian_MakeRustedClaymore.jobString>正在制作生锈蛮族单刃大剑。</pphhyy_Barbarian_MakeRustedClaymore.jobString>
+
+  <pphhyy_Barbarian_MakeRustedAxe.label>制作 生锈斧头</pphhyy_Barbarian_MakeRustedAxe.label>
+  <pphhyy_Barbarian_MakeRustedAxe.description>一把锈迹斑斑的斧头，由战场上掠夺来的武器制成，虽然斧身已锈蚀不堪，但它在砍下人头时找到了除砍柴以外的另一个新使命。当用来对付无护甲敌人和袭击者时，这是一把毁灭性的武器。</pphhyy_Barbarian_MakeRustedAxe.description>
+  <pphhyy_Barbarian_MakeRustedAxe.jobString>正在制作生锈斧头。</pphhyy_Barbarian_MakeRustedAxe.jobString>
+
+  <pphhyy_Barbarian_MakeRustedBattleAxe.label>制作 生锈战斧</pphhyy_Barbarian_MakeRustedBattleAxe.label>
+  <pphhyy_Barbarian_MakeRustedBattleAxe.description>一把生锈的战斧，由战场上掠夺来的武器制成；设计比一般斧头更为巨大，更注重战斗效率。它是一种致命又卑鄙的武器，即便没有划出一道可怕的割伤，也可能导致敌人感染破伤风。</pphhyy_Barbarian_MakeRustedBattleAxe.description>
+  <pphhyy_Barbarian_MakeRustedBattleAxe.jobString>正在制作生锈战斧。</pphhyy_Barbarian_MakeRustedBattleAxe.jobString>
+
+  <pphhyy_Barbarian_MakeRustedGlaive.label>制作 生锈蛮族大刀</pphhyy_Barbarian_MakeRustedGlaive.label>
+  <pphhyy_Barbarian_MakeRustedGlaive.description>一把生锈的大刀，由战场上掠夺来的武器制成。这种武器非常受到小康阶级族人的喜爱。虽然做工粗糙，但它允许持有者在保持距离的同时以奇特的精确度攻击目标，使它成为一把致命的切割武器。</pphhyy_Barbarian_MakeRustedGlaive.description>
+  <pphhyy_Barbarian_MakeRustedGlaive.jobString>正在制作生锈蛮族大刀。</pphhyy_Barbarian_MakeRustedGlaive.jobString>
+
+  <pphhyy_Barbarian_MakeRustedMace.label>制作 生锈钉锤</pphhyy_Barbarian_MakeRustedMace.label>
+  <pphhyy_Barbarian_MakeRustedMace.description>一把生锈的钉锤，由战场上掠夺来的武器制成。是凿开敌对部族、突袭者或落单骑士盔甲的重要工具。</pphhyy_Barbarian_MakeRustedMace.description>
+  <pphhyy_Barbarian_MakeRustedMace.jobString>正在制作生锈钉锤。</pphhyy_Barbarian_MakeRustedMace.jobString>
+
+  <pphhyy_Barbarian_MakeRustedSkullMace.label>制作 生锈骨锤</pphhyy_Barbarian_MakeRustedSkullMace.label>
+  <pphhyy_Barbarian_MakeRustedSkullMace.description>一把生锈的骨锤，由战场上掠夺来的武器制成。顶部装有一枚由骇然尖刺贯穿的乾枯、灰白的头骨。这种恶魔般的设计能有效激发敌人的恐惧，最重要的是，它可以为那些自认能安然躲在盔甲下的人们送上死亡。</pphhyy_Barbarian_MakeRustedSkullMace.description>
+  <pphhyy_Barbarian_MakeRustedSkullMace.jobString>正在制作生锈骨锤。</pphhyy_Barbarian_MakeRustedSkullMace.jobString>
+
+  <pphhyy_Barbarian_MakeRustedGreatSkullMace.label>制作 生锈强化骨锤</pphhyy_Barbarian_MakeRustedGreatSkullMace.label>
+  <pphhyy_Barbarian_MakeRustedGreatSkullMace.description>一把生锈的强化骨锤，由战场上掠夺来的武器制成。顶部装有一枚由斧刃贯穿的乾枯、灰白的头骨。这种恶魔般的设计能有效激发敌人的恐惧，最重要的是，它可以为那些自认能安然躲在盔甲下的人们送上死亡。</pphhyy_Barbarian_MakeRustedGreatSkullMace.description>
+  <pphhyy_Barbarian_MakeRustedGreatSkullMace.jobString>正在制作生锈强化骨锤。</pphhyy_Barbarian_MakeRustedGreatSkullMace.jobString>
+
+
+</LanguageData>

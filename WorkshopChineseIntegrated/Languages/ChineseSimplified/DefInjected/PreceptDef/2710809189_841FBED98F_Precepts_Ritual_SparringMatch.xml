@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sparring match -->
+  <AM_SparringMatch.label>格斗竞技</AM_SparringMatch.label>
+  <!-- EN: A test of skill and endurance where participants engage in friendly combat. Duelists will use their fists to fights and wounds will (usually) not be serious. -->
+  <AM_SparringMatch.description>一场考验技巧和耐力的切磋性格斗竞技。由于参与者是赤手空拳地相互搏斗，因此不会造成太过严重的伤口（通常而言）。</AM_SparringMatch.description>
+  
+</LanguageData>

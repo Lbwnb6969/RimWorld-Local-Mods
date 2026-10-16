@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Hornets.label>大黄蜂</DankPyon_Hornets.label>
+  <DankPyon_Hornets.description>这些巨大的类昆虫生物生活本地下，当被噪音或费洛蒙吸引时，牠们会钻出地面进行攻击。</DankPyon_Hornets.description>
+  <DankPyon_Hornets.fixedName>大黄蜂</DankPyon_Hornets.fixedName>
+  <DankPyon_Hornets.leaderTitle>大黄蜂后</DankPyon_Hornets.leaderTitle>
+  <DankPyon_Hornets.pawnSingular>昆虫</DankPyon_Hornets.pawnSingular>
+  <DankPyon_Hornets.pawnsPlural>昆虫</DankPyon_Hornets.pawnsPlural>
+  <DankPyon_Hornets.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_Hornets.messageDefendersAttacking>
+
+
+</LanguageData>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Apothecary -->
+  <BEWH_ApothecaryBodyMkVII.label>药剂师</BEWH_ApothecaryBodyMkVII.label>
+  
+  <!-- EN: Apothecary -->
+  <BEWH_ApothecaryBodyMkX.label>药剂师</BEWH_ApothecaryBodyMkX.label>
+  
+  <!-- EN: Apothecary -->
+  <BEWH_ApothecaryHeadMkVII.label>药剂师</BEWH_ApothecaryHeadMkVII.label>
+  
+  <!-- EN: Apothecary -->
+  <BEWH_ApothecaryHeadMkX.label>药剂师</BEWH_ApothecaryHeadMkX.label>
+  
+  <!-- EN: Revered Chaplain -->
+  <BEWH_ChaplainBody.label>牧师</BEWH_ChaplainBody.label>
+  
+  <!-- EN: Master of Sanctity -->
+  <BEWH_ChaplainBody2.label>圣洁之主</BEWH_ChaplainBody2.label>
+  
+  <!-- EN: Revered Chaplain -->
+  <BEWH_ChaplainHead.label>牧师</BEWH_ChaplainHead.label>
+  
+  <!-- EN: Master Of Sanctity -->
+  <BEWH_ChaplainHead2.label>圣洁之主</BEWH_ChaplainHead2.label>
+  
+  <!-- EN: Deathwatch -->
+  <BEWH_DeathwatchBody.label>死亡守望</BEWH_DeathwatchBody.label>
+  
+  <!-- EN: Deathwatch -->
+  <BEWH_DeathwatchHead.label>死亡守望</BEWH_DeathwatchHead.label>
+  
+  <!-- EN: Bulwark -->
+  <BEWH_MkVIIBGBody.label>堡垒</BEWH_MkVIIBGBody.label>
+  
+  <!-- EN: Bulwark -->
+  <BEWH_MkVIIBGHead.label>堡垒</BEWH_MkVIIBGHead.label>
+  
+  <!-- EN: Bladeguard Veteran -->
+  <BEWH_MkVIIBGVeteranBody.label>剑卫老兵</BEWH_MkVIIBGVeteranBody.label>
+  
+  <!-- EN: Bladeguard Veteran -->
+  <BEWH_MkVIIBGVeteranHead.label>剑卫老兵</BEWH_MkVIIBGVeteranHead.label>
+  
+  <!-- EN: Bulwark -->
+  <BEWH_MkXBGBody.label>堡垒</BEWH_MkXBGBody.label>
+  
+  <!-- EN: Bulwark -->
+  <BEWH_MkXBGHead.label>堡垒</BEWH_MkXBGHead.label>
+  
+  <!-- EN: Bladeguard Veteran -->
+  <BEWH_MkXBGVeteranBody.label>剑卫老兵</BEWH_MkXBGVeteranBody.label>
+  
+  <!-- EN: Bladeguard Veteran -->
+  <BEWH_MkXBGVeteranHead.label>剑卫老兵</BEWH_MkXBGVeteranHead.label>
+  
+  <!-- EN: Venerated Champion -->
+  <BEWH_VeneratedChampionBody.label>帝皇冠军</BEWH_VeneratedChampionBody.label>
+  
+  <!-- EN: Venerated Champion -->
+  <BEWH_VeneratedChampionHeadMkVII.label>帝皇冠军</BEWH_VeneratedChampionHeadMkVII.label>
+  
+  <!-- EN: Venerated Champion -->
+  <BEWH_VeneratedChampionHeadMkX.label>帝皇冠军</BEWH_VeneratedChampionHeadMkX.label>
+  
+  <!-- EN: Victrix Guard -->
+  <BEWH_VictrixGuardBody.label>荣耀卫队</BEWH_VictrixGuardBody.label>
+  
+  <!-- EN: Victrix Guard -->
+  <BEWH_VictrixGuardHeadMkVII.label>荣耀卫队</BEWH_VictrixGuardHeadMkVII.label>
+  
+  <!-- EN: Victrix Guard -->
+  <BEWH_VictrixGuardHeadMkX.label>荣耀卫队</BEWH_VictrixGuardHeadMkX.label>
+  
+</LanguageData>

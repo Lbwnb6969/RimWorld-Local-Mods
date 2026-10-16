@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disgusting -->
+  <VME_Scars_Disgusting.label>厌恶</VME_Scars_Disgusting.label>
+  <!-- EN: A body marked with scars is disgusting. -->
+  <VME_Scars_Disgusting.description>身上的疤痕看起来真可怕。</VME_Scars_Disgusting.description>
+  <!-- EN: Faintly scarred -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>少量疤痕</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Scarred -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>一些疤痕</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Heavily scarred -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>许多疤痕</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Extremely scarred -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>大量疤痕</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Innumerable battlefield scars -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>战伤累累</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>
+  
+  <!-- EN: honorable -->
+  <VME_Scars_Honorable.label>推崇</VME_Scars_Honorable.label>
+  <!-- EN: Scars are marks of honor and strength, to be scarred and continue on is nothing short of an incredible act. -->
+  <VME_Scars_Honorable.description>疤痕是荣耀与力量的象征，即使伤痕累累也要继续战斗之人都是伟大的英雄。</VME_Scars_Honorable.description>
+  <!-- EN: Faintly scarred -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>少量疤痕</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Scarred -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>一些疤痕</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Heavily scarred -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>许多疤痕</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Extremely scarred -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>大量疤痕</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Innumerable battlefield scars -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>战伤累累</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>
+  
+</LanguageData>

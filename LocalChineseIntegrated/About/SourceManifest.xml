@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalChineseSources generatedUtc="2026-09-18T04:35:51.2139769Z" duplicateKeysRemoved="5">
+  <Source WorkshopId="AlphaVehicles-AgeOfSail-ChinesePatch" PackageId="Local.AlphaVehicles.AgeOfSail.ChineseSimplified" Name="Alpha Vehicles - Age of Sail - Simplified Chinese" Files="8" />
+  <Source WorkshopId="CaptureExpansion-ChinesePatch" PackageId="Local.CaptureExpansion.ChineseSimplified" Name="Capture Expansion 简体中文补丁" Files="8" />
+  <Source WorkshopId="CastleWallsReborn-ChinesePatch" PackageId="Local.CastleWallsReborn.ChineseSimplified" Name="Castle Walls Reborn - Simplified Chinese" Files="2" />
+  <Source WorkshopId="MedievalThings-Medical-ChinesePatch" PackageId="Local.MThings.Medical.ChineseSimplified" Name="Medieval Things: Medical - Simplified Chinese" Files="8" />
+  <Source WorkshopId="WeaponStats-ChinesePatch" PackageId="Local.WeaponStats.ChineseSimplified" Name="WeaponStats - Simplified Chinese" Files="2" />
+  <Source WorkshopId="AnimalApparel-BasicArmor-ChinesePatch" PackageId="Local.AnimalApparel.BasicArmor.ChineseSimplified" Name="Animal Apparel: Basic Armor - Simplified Chinese" Files="2" />
+  <Source WorkshopId="Progression-Agriculture-ChinesePatch" PackageId="Local.Progression.Agriculture.ChineseSimplified" Name="Progression: Agriculture - Simplified Chinese" Files="11" />
+  <Source WorkshopId="Progression-Production-ChinesePatch" PackageId="Local.Progression.Production.ChineseSimplified" Name="Progression: Production - Simplified Chinese" Files="4" />
+  <Source WorkshopId="Progression-Warfare-ChinesePatch" PackageId="Local.Progression.Warfare.ChineseSimplified" Name="Progression: Warfare - Simplified Chinese" Files="2" />
+  <Source WorkshopId="CastleWallsExpanded-ChinesePatch" PackageId="Local.CastleWallsExpanded.ChineseSimplified" Name="Castle Walls Expanded - Simplified Chinese" Files="3" />
+  <Source WorkshopId="MedievalThings-Geysers-ChinesePatch" PackageId="Local.MThings.Geysers.ChineseSimplified" Name="Medieval Things: Geysers - Simplified Chinese" Files="8" />
+</LocalChineseSources>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: narthecium -->
+  <BEWH_Narthecium.label>基因种子提取器</BEWH_Narthecium.label>
+  <!-- EN: The Narthecium is a special tool used by Adeptus Astartes apothecaries and Primaris apothecaries to retrieve the crucial gene-seed of their fallen battle-brothers so that new Astartes might be raised from among their Chapter's aspirants. Increases the chance of successfully extracting gene-seeds from dead marines by 50%.\nCan be used as a melee weapon. -->
+  <BEWH_Narthecium.description>基因种子提取器是一种特殊工具，由药剂师使用，用于取回阵亡兄弟的基因种子，以便从其战团的有志之士中培养出新的星际战士。该工具可使从死亡星际战士身上成功提取基因种子的几率提高50%。\n可作为近战武器使用。</BEWH_Narthecium.description>
+  <!-- EN: gauntlet -->
+  <BEWH_Narthecium.tools.gauntlet.label>手套</BEWH_Narthecium.tools.gauntlet.label>
+  <!-- EN: drill -->
+  <BEWH_Narthecium.tools.drill.label>钻头</BEWH_Narthecium.tools.drill.label>
+  
+  <!-- EN: reductor -->
+  <BEWH_Reductor.label>基因种子还原器</BEWH_Reductor.label>
+  <!-- EN: The Reductor is a special tool used by apothecaries to retrieve the crucial gene-seed of their fallen brothers so that new Astartes might be raised from among their Chapter's aspirants. This tool also doubles as a close ranged pistol.\n\nIncreases the chance of successfully extracting gene-seeds from dead marines by 50%.\nCan be used as a ranged weapon. -->
+  <BEWH_Reductor.description>基因种子还原器是一种特殊工具，由药剂师使用，用于取回阵亡兄弟的基因种子，以便从其战团的有志之士中培养出新的星际战士。该工具可使从死亡星际战士身上成功提取基因种子的几率提高50%。\n可作为远程武器使用。</BEWH_Reductor.description>
+  <!-- EN: handle -->
+  <BEWH_Reductor.tools.handle.label>握把</BEWH_Reductor.tools.handle.label>
+  <!-- EN: extractor drill -->
+  <BEWH_Reductor.tools.extractor_drill.label>提取钻</BEWH_Reductor.tools.extractor_drill.label>
+  <!-- EN: reductor -->
+  <BEWH_Reductor.verbs.Verb_Shoot.label>减压器</BEWH_Reductor.verbs.Verb_Shoot.label>
+  
+</LanguageData>

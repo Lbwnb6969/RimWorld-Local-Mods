@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: visored burgonet -->
+  <TA_BurgonetVisored_off.label>勃艮第头盔(面甲关闭)</TA_BurgonetVisored_off.label>
+  <!-- EN: . -->
+  <TA_BurgonetVisored_off.description>带面甲的勃艮第头盔，关闭时提供全面防护。</TA_BurgonetVisored_off.description>
+  <!-- EN: close visor -->
+  <TA_BurgonetVisored_off.comps.CompSwitchApparel.Label>关闭面甲</TA_BurgonetVisored_off.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: visored burgonet -->
+  <TA_BurgonetVisored_on.label>勃艮第头盔(面甲开启)</TA_BurgonetVisored_on.label>
+  <!-- EN: . -->
+  <TA_BurgonetVisored_on.description>带面甲的勃艮第头盔，开启时视野更好但防护降低。</TA_BurgonetVisored_on.description>
+  <!-- EN: open visor -->
+  <TA_BurgonetVisored_on.comps.CompSwitchApparel.Label>开启面甲</TA_BurgonetVisored_on.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

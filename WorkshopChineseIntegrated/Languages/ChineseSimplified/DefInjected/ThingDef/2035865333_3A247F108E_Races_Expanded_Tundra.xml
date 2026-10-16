@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megawolverine -->
+  <AEXP_MegaWolverine.label>巨狼獾</AEXP_MegaWolverine.label>
+  <!-- EN: A giant, genetically-engineered predator with massive paws to rip apart prey. Thick fur allows it to survive the coldest of climates, whilst it strength allows it to hunt even the largest of mammals for food. -->
+  <AEXP_MegaWolverine.description>一种经过基因工程改造的巨型捕食者，可以用硕大的双爪撕裂猎物。厚厚的皮毛能使它们在最寒冷的气候条件下生存，强大力量也便于它们捕猎，甚至能以最庞大的哺乳类动物为食。</AEXP_MegaWolverine.description>
+  <!-- EN: left claw -->
+  <AEXP_MegaWolverine.tools.left_claw.label>左爪</AEXP_MegaWolverine.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_MegaWolverine.tools.right_claw.label>右爪</AEXP_MegaWolverine.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_MegaWolverine.tools.head.label>头</AEXP_MegaWolverine.tools.head.label>
+  
+</LanguageData>

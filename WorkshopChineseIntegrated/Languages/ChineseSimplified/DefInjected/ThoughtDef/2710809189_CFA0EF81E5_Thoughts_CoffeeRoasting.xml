@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: masterful coffee roasting -->
+  <AAM_CoffeeRoastingMasterful.stages.masterful_coffee_roasting.label>炉火纯青的咖啡烘焙</AAM_CoffeeRoastingMasterful.stages.masterful_coffee_roasting.label>
+  <!-- EN: The roasting was a profound experience, an unforgettable communion with the sacred art of coffee. -->
+  <AAM_CoffeeRoastingMasterful.stages.masterful_coffee_roasting.description>咖啡烘焙炉火纯青。咖啡豆的烘焙非常完美，我们将永远铭记与神圣咖啡艺术间的沟通。</AAM_CoffeeRoastingMasterful.stages.masterful_coffee_roasting.description>
+  
+  <!-- EN: burnt coffee beans -->
+  <AM_CoffeeRoastingBurnt.stages.burnt_coffee_beans.label>焦糊不堪的咖啡烘焙</AM_CoffeeRoastingBurnt.stages.burnt_coffee_beans.label>
+  <!-- EN: The roasting was an affront to the sacred art of coffee. This desecration will linger in my thoughts. -->
+  <AM_CoffeeRoastingBurnt.stages.burnt_coffee_beans.description>咖啡烘焙焦糊不堪。咖啡豆被完全浪费，这场仪式简直就是在玷污咖啡烘焙的神圣艺术性。</AM_CoffeeRoastingBurnt.stages.burnt_coffee_beans.description>
+  
+  <!-- EN: rich coffee roasting -->
+  <AM_CoffeeRoastingRich.stages.rich_coffee_roasting.label>浓香四溢的咖啡烘焙</AM_CoffeeRoastingRich.stages.rich_coffee_roasting.label>
+  <!-- EN: That was a delightful moment of connection with the art of coffee roasting. It left me feeling renewed. -->
+  <AM_CoffeeRoastingRich.stages.rich_coffee_roasting.description>咖啡烘焙浓香四溢。咖啡豆的烘焙相当顺利，空气中弥漫着浓郁的香气，使我们感到精神焕发。</AM_CoffeeRoastingRich.stages.rich_coffee_roasting.description>
+  
+  <!-- EN: underwhelming coffee roasting -->
+  <AM_CoffeeRoastingUnderwhelming.stages.underwhelming_coffee_roasting.label>效果甚微的咖啡烘焙</AM_CoffeeRoastingUnderwhelming.stages.underwhelming_coffee_roasting.label>
+  <!-- EN: The roasting lacked the care and craft it deserved. It felt hollow and uninspired. -->
+  <AM_CoffeeRoastingUnderwhelming.stages.underwhelming_coffee_roasting.description>咖啡烘焙效果甚微。烘焙过程缺乏应有的细心与技巧，致使咖啡口感平淡且毫无灵感。</AM_CoffeeRoastingUnderwhelming.stages.underwhelming_coffee_roasting.description>
+  
+</LanguageData>

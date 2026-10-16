@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: <color=#d4af37>Talent: Jack-of-all-trades</color> -->
+  <RT_TalentJackOfAllTrades.degreeDatas.colord4af37Talent_Jackofalltradescolor.label>&lt;color=#d4af37>万事通&lt;/color></RT_TalentJackOfAllTrades.degreeDatas.colord4af37Talent_Jackofalltradescolor.label>
+  <!-- EN: [PAWN_nameDef] doesn't really standout, and [PAWN_pronoun] doesn't find anything particularly difficult. -->
+  <RT_TalentJackOfAllTrades.degreeDatas.colord4af37Talent_Jackofalltradescolor.description>[PAWN_nameDef]的各项能力并不突出，但[PAWN_pronoun]也不觉得有什么特别的困难事情。</RT_TalentJackOfAllTrades.degreeDatas.colord4af37Talent_Jackofalltradescolor.description>
+  
+  <!-- EN: <color=#d4af37>Talent: Recruiter</color> -->
+  <RT_TalentRecruiter.degreeDatas.colord4af37Talent_Recruitercolor.label>&lt;color=#d4af37>招聘者&lt;/color></RT_TalentRecruiter.degreeDatas.colord4af37Talent_Recruitercolor.label>
+  <!-- EN: [PAWN_nameDef] is very pursuasive. [PAWN_pronoun] finds it relatively easy to rally people under [PAWN_pronoun] banner. -->
+  <RT_TalentRecruiter.degreeDatas.colord4af37Talent_Recruitercolor.description>[PAWN_nameDef]很有追求。[pawn_pronoun]觉得殖民地打着[pawn_pronoun]的旗号会比较容易凝聚人心。</RT_TalentRecruiter.degreeDatas.colord4af37Talent_Recruitercolor.description>
+  
+  <!-- EN: <color=#d4af37>Talent: Scout</color> -->
+  <RT_TalentScout.degreeDatas.colord4af37Talent_Scoutcolor.label>&lt;color=#d4af37>侦察兵&lt;/color></RT_TalentScout.degreeDatas.colord4af37Talent_Scoutcolor.label>
+  <!-- EN: [PAWN_nameDef] is an expert at scouting out new locations. [PAWN_pronoun] frequently leave the relative safety of the colony to patrol the wilderness. -->
+  <RT_TalentScout.degreeDatas.colord4af37Talent_Scoutcolor.description>[PAWN_nameDef]是一个侦察新地点的专家。[PAWN_pronoun]经常离开相对安全的殖民地去野外巡逻。</RT_TalentScout.degreeDatas.colord4af37Talent_Scoutcolor.description>
+  
+</LanguageData>

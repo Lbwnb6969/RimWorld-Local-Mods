@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: the Turks -->
+  <BA_Turkic_NobleHouse.label>突厥人</BA_Turkic_NobleHouse.label>
+  <!-- EN: the Turks faction inspired by the Medieval 2: Total War faction the Turks. The Turks may very much be relative newcomers to both Anatolia and the Holy Lands, but the impact that they have had upon these realms since they migrated from the steppes east of the Caspian has been profound enough to shake the pillars of the oldest and mightiest neighbouring dynasties. Having seized control of the Abbasid Caliphate from the Buyids, and utterly crushed the Byzantines at Manzikert, the Turks have restored unity to the eastern Islamic region, making them arguably the greatest power Arabia or Persia has seen for centuries.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_NobleHouse.description>突厥派系受《中世纪2：全面战争》中的突厥派系启发。突厥人或许是安纳托利亚和圣地的相对新来者，但自他们从里海以东的草原迁徙而来后，对这些地区产生的影响极为深远，足以撼动周边最古老、最强大王朝的根基。突厥人从布韦希王朝手中夺取了阿拔斯哈里发国的控制权，并在曼齐克特战役中彻底击溃拜占庭人，重建了伊斯兰东部地区的统一，堪称数世纪以来阿拉伯或波斯地区出现的最强大势力。</BA_Turkic_NobleHouse.description>
+  <!-- EN: The Almighty -->
+  <BA_Turkic_NobleHouse.deityPresets.0.nameType.type>全能者</BA_Turkic_NobleHouse.deityPresets.0.nameType.type>
+  <!-- EN: the Turks -->
+  <BA_Turkic_NobleHouse.fixedName>突厥人</BA_Turkic_NobleHouse.fixedName>
+  <!-- EN: Maturidism is a school of theology in Sunni Islam named after Abu Mansur al-Maturidi. It is one of the three creeds of Sunni Islam alongside Ash'arism and Atharism, and prevails in the Hanafi school of jurisprudence.\nal-Maturidi codified and systematized the theological Islamic beliefs already present among the Ḥanafite Muslim theologians of Balkh and Transoxiana under one school of systematic theology;  Abu Hanifa emphasized the use of rationality and theological rationalism regarding the interpretation of the sacred scriptures of Islam.\nMaturidism was originally circumscribed to the region of Transoxiana in Central Asia but it became the predominant theological orientation amongst the Sunnī Muslims of Persia before the Safavid conversion to Shīʿīsm in the 16th century, and the Ahl al-Ra'y (people of reason). It enjoyed a preeminent status in the Ottoman Empire and Mughal India. Outside the old Ottoman and Mughal empires, most Turkic tribes, Hui people, Central Asian, and South Asian Muslims also follow the Maturidi theology. -->
+  <BA_Turkic_NobleHouse.ideoDescription>马图里迪派是逊尼派伊斯兰教中的一个神学学派，以阿布·曼苏尔·马图里迪命名。它与艾什尔里派、传统派并列为逊尼派伊斯兰教的三大教义体系，盛行于哈乃斐法学派中。\n马图里迪将巴尔赫和河中地区哈乃斐派穆斯林神学家已有的伊斯兰神学思想纳入一个系统神学学派并加以编纂和系统化；阿布·哈尼法在解读伊斯兰教神圣经典时，强调理性的运用和神学理性主义。\n马图里迪派最初局限于中亚的河中地区，但在16世纪萨法维王朝皈依什叶派之前，它已成为波斯逊尼派穆斯林的主要神学导向，也是“意见派”（重视理性者）的代表。该学派在奥斯曼帝国和莫卧儿印度享有卓越地位。在昔日的奥斯曼帝国和莫卧儿帝国之外，大多数突厥部落、回族、中亚及南亚的穆斯林也信奉马图里迪派神学。</BA_Turkic_NobleHouse.ideoDescription>
+  <!-- EN: Maturidi Islam -->
+  <BA_Turkic_NobleHouse.ideoName>马图里迪派伊斯兰教</BA_Turkic_NobleHouse.ideoName>
+  <!-- EN: sultan -->
+  <BA_Turkic_NobleHouse.leaderTitle>苏丹</BA_Turkic_NobleHouse.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_Turkic_NobleHouse.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_Turkic_NobleHouse.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <BA_Turkic_NobleHouse.pawnSingular>臣民</BA_Turkic_NobleHouse.pawnSingular>
+  <!-- EN: subjects -->
+  <BA_Turkic_NobleHouse.pawnsPlural>臣民们</BA_Turkic_NobleHouse.pawnsPlural>
+  
+</LanguageData>

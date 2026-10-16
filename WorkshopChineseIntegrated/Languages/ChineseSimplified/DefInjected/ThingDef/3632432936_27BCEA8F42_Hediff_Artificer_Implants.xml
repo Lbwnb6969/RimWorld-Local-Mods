@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: control sublink (standard) -->
+  <VR_Artificer_ControlSublink.label>控制子链（标准）</VR_Artificer_ControlSublink.label>
+  <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis standard-tier sublink can only increase the control group count up to 3. To go higher, a higher-tier sublink implant must be used.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
+  <VR_Artificer_ControlSublink.description>一种神经植入体，为机控师增加一个控制组。此外，该子链会略微提高机控师所控制机械体的工作速度。\n\n该标准级子链最多只能将控制组数量提高到3。要更高，需要更高等级的子链植入体。\n\n可自行安装，无需手术。\n\n该植入体最多可安装3次以增强效果。</VR_Artificer_ControlSublink.description>
+  <!-- EN: Implant sublink -->
+  <VR_Artificer_ControlSublink.comps.CompUsableImplant.useLabel>植入子链</VR_Artificer_ControlSublink.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: control sublink (high) -->
+  <VR_Artificer_ControlSublinkHigh.label>控制子链（高级）</VR_Artificer_ControlSublinkHigh.label>
+  <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis high-tier implant can increase the control group count up to 6.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
+  <VR_Artificer_ControlSublinkHigh.description>一种神经植入体，为机控师增加一个控制组。此外，该子链会略微提高机控师所控制机械体的工作速度。\n\n该高级植入体可将控制组数量提高到6。\n\n可自行安装，无需手术。\n\n该植入体最多可安装3次以增强效果。</VR_Artificer_ControlSublinkHigh.description>
+  <!-- EN: Implant high sublink -->
+  <VR_Artificer_ControlSublinkHigh.comps.CompUsableImplant.useLabel>植入高级子链</VR_Artificer_ControlSublinkHigh.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mech gestation processor -->
+  <VR_Artificer_MechFormfeeder.label>构装体孕育处理器</VR_Artificer_MechFormfeeder.label>
+  <!-- EN: An implant which increases the speed at which a mechanitor can produce mechs in a mech gestator. The processor optimizes the behavior of the mechanites in the mech forming tank.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
+  <VR_Artificer_MechFormfeeder.description>一种植入体，可提高机控师在构装体孕育舱中生产构装体的速度。处理器会优化构装体成形槽中机械纳米虫的行为。\n\n该植入体可像机控链接一样自行安装。\n\n该植入体最多可安装6次以增强效果。</VR_Artificer_MechFormfeeder.description>
+  <!-- EN: Implant {0_label} -->
+  <VR_Artificer_MechFormfeeder.comps.CompUsableImplant.useLabel>植入{0_label}</VR_Artificer_MechFormfeeder.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

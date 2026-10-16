@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Thought_HappyPowder.stages.0.label>快乐粉亢奋</DankPyon_Thought_HappyPowder.stages.0.label>
+  <DankPyon_Thought_HappyPowder.stages.0.description>我感到精神振奋！我们上吧！</DankPyon_Thought_HappyPowder.stages.0.description>
+
+
+  <!-- Happy Powder Addiction -->
+
+  <DankPyon_Withdrawal_HappyPowder.stages.1.label>快乐粉戒断</DankPyon_Withdrawal_HappyPowder.stages.1.label>
+  <DankPyon_Withdrawal_HappyPowder.stages.1.description>老天啊，日子过得又慢又无聊，我感到极度厌烦。</DankPyon_Withdrawal_HappyPowder.stages.1.description>
+
+
+</LanguageData>

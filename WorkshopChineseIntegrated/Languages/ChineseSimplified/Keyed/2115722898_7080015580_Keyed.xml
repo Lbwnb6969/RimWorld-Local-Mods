@@ -1,0 +1,740 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- ===================================	general use		================================= -->
+
+	<!-- EN: Map Designer -->
+  <ZMD_ModName>地图定制</ZMD_ModName>
+	
+<!-- ===================================	general mod settings	================================= -->
+
+	
+	<!-- EN: Reset these settings -->
+  <ZMD_resetPage>重置设定</ZMD_resetPage>
+	<!-- EN: Reset Mountains -->
+  <ZMD_resetMountain>将山体重置为默认值</ZMD_resetMountain>
+	<!-- EN: Reset Things -->
+  <ZMD_resetThings>将杂项重置为默认值</ZMD_resetThings>
+	<!-- EN: Reset Rivers and Beaches -->
+  <ZMD_resetRivers>将河流重置为默认值</ZMD_resetRivers>
+	<!-- EN: Reset Terrain -->
+  <ZMD_resetTerrain>重置地形</ZMD_resetTerrain>
+	<!-- EN: Reset all features to defaults -->
+  <ZMD_resetFeatures>将所有设定重置为默认值</ZMD_resetFeatures>
+	
+	<!-- EN: Angle -->
+  <ZMD_Angle>角度</ZMD_Angle>
+	
+	<!-- EN: {0} tiles -->
+  <ZMD_numTiles>{0}地图格</ZMD_numTiles>
+	<!-- EN: {0} % of map width -->
+  <ZMD_pctOfMap>{0}%地图占比</ZMD_pctOfMap>
+
+<!-- Levels -->
+    <!-- EN: None -->
+  <ZMD_size0>没有</ZMD_size0>
+	<!-- EN: Tiny -->
+  <ZMD_size1>微型</ZMD_size1>
+	<!-- EN: Small -->
+  <ZMD_size2>小型</ZMD_size2>
+	<!-- EN: Average -->
+  <ZMD_size3>中型</ZMD_size3>
+	<!-- EN: Big -->
+  <ZMD_size4>大型</ZMD_size4>
+	<!-- EN: Huge -->
+  <ZMD_size5>超大型</ZMD_size5>
+	<!-- EN: Enormous -->
+  <ZMD_size6>巨型</ZMD_size6>
+
+	<!-- EN: Narrow -->
+  <ZMD_narrow>狭窄</ZMD_narrow>
+	<!-- EN: Wide -->
+  <ZMD_wide>宽阔</ZMD_wide>
+	
+	
+	
+    <!-- Tabs -->
+
+<!-- ===================================	General Tab	   ================================= -->
+
+	<!-- EN: General -->
+  <ZMD_generalTab>一般</ZMD_generalTab>
+	<!-- EN: Get started with a preset, or explore detailed options are available on the other tabs.\n\nAll settings are relative to your base map. A barren rainforest will have more plants than a fertile valley desert; flat maps will always have less hills than mountainous maps with the same settings. -->
+  <ZMD_generalTabInfo>你可以选择预设方案，或者通过其他选项卡设定详细参数。\n\n所有设置都是在预设风格的基础上进行微调的。最贫瘠的雨林也比最富饶的沙漠植被覆盖率高，平原的山体数量总是少于山地的。</ZMD_generalTabInfo>
+	
+	<!-- EN: Presets -->
+  <ZMD_presets>预设</ZMD_presets>
+	
+	<!-- EN: Apply Preset -->
+  <ZMD_applyPreset>应用预设</ZMD_applyPreset>
+	<!-- EN: Reset Everything -->
+  <ZMD_reset>重置所有内容</ZMD_reset>
+	<!-- EN: All settings have been reset. -->
+  <ZMD_resetSuccess>所有设定都已重置。</ZMD_resetSuccess>
+	
+	<!-- EN: None -->
+  <ZMD_presetNone>未选择</ZMD_presetNone>
+	<!-- EN: No preset selected -->
+  <ZMD_presetNoneDesc>未选择预设</ZMD_presetNoneDesc>
+	
+	<!-- EN: Vanilla -->
+  <ZMD_presetVanilla>原版</ZMD_presetVanilla>
+	<!-- EN: Vanilla defaults. -->
+  <ZMD_presetVanillaDesc>原版默认值。</ZMD_presetVanillaDesc>
+	
+	<!-- EN: Fertile valley -->
+  <ZMD_presetFertileValley>肥沃的山谷</ZMD_presetFertileValley>
+	<!-- EN: A secluded valley surrounded by mountains. Higher fertility, more plants, and fewer ruins. -->
+  <ZMD_presetFertileValleyDesc>一个僻静的山谷，四周都是山。更多的沃土，更多的植被，更少的废墟。</ZMD_presetFertileValleyDesc>
+	
+	<!-- EN: Barrens -->
+  <ZMD_presetBarrens>荒原</ZMD_presetBarrens>
+	<!-- EN: A relatively desolate landscape with small, spiky hills. Lower fertility and less plants than normal. Extra steam geysers. -->
+  <ZMD_presetBarrensDesc>相对荒凉的风景与小而尖的山丘。沃土和植被稀少。不过有更多的蒸汽间歇泉。</ZMD_presetBarrensDesc>
+	
+	<!-- EN: This isn't natural -->
+  <ZMD_presetUnnatural>非自然</ZMD_presetUnnatural>
+	<!-- EN: Strange, unnatural mountains littered with ancient dangers. -->
+  <ZMD_presetUnnaturalDesc>奇怪的非自然群山中散布着古老的威胁。</ZMD_presetUnnaturalDesc>
+	
+	<!-- EN: Fishing village -->
+  <ZMD_presetFishingVillage>渔村</ZMD_presetFishingVillage>
+	<!-- EN: Large hills to dig into, but little solid ground otherwise. Swamps may have NO solid ground outside of the mountains! -->
+  <ZMD_presetFishingVillageDesc>大山与沼泽相交错的地带，立足点很少。</ZMD_presetFishingVillageDesc>
+	
+	<!-- EN: Canyon -->
+  <ZMD_presetCanyon>峡谷</ZMD_presetCanyon>
+	<!-- EN: A narrow canyon with several types of rock. If your tile has a river, the river will follow the canyon. -->
+  <ZMD_presetCanyonDesc>岩石种类丰富发峡谷，如果有河流通过的话，河流会沿着峡谷的地形流淌。</ZMD_presetCanyonDesc>
+	
+	<!-- EN: Mod author's choice -->
+  <ZMD_presetZyllesChoice>Mod作者的选择</ZMD_presetZyllesChoice>
+	<!-- EN: I like these settings. Lots of chokepoints and half-closed valleys, with slightly increased fertile soil. -->
+  <ZMD_presetZyllesChoiceDesc>我喜欢这种设置。</ZMD_presetZyllesChoiceDesc>
+
+	<!-- EN: Randomize -->
+  <ZMD_presetRandom>随机</ZMD_presetRandom>
+	<!-- EN: This will randomize settings every time you click "apply". Results may be unpredictable. -->
+  <ZMD_presetRandomDesc>每次单击"应用"时，都会随机设置参数。结果是不可预知的。</ZMD_presetRandomDesc>
+	
+
+	<!-- EN: Show this for new maps -->
+  <ZMD_flagPopup>应用到新地图</ZMD_flagPopup>
+	<!-- EN: You can access these settings any time from Menu -> Options -> Mod Settings -> Map Designer -->
+  <ZMD_flagPopupDesc>你可以随时修改这些设置，路径：菜单 -> 选项 -> Mod选项 -> 地图设计</ZMD_flagPopupDesc>
+	
+	<!-- EN: Limit settings to your home map -->
+  <ZMD_flagHomeMapOnly>此设定仅限于生成玩家基地地图</ZMD_flagHomeMapOnly>
+	<!-- EN: Currently applies to: Mountains\n\nIf checked, these things will be vanilla on quest maps, ai faction bases, and other non-home maps. -->
+  <ZMD_flagHomeMapOnlyDesc>目前适用于：山丘设定\n\n勾选后，该设定只会被应用于生成玩家基地地图，其他类型的地图仍按原版设定生成，例如：任务地图、AI派系基地和其他非玩家基地地图</ZMD_flagHomeMapOnlyDesc>
+ 
+ 	
+<!-- saving and loading -->
+	<!-- EN: Add new config -->
+  <ZMD_addConfig>添加新配置</ZMD_addConfig>
+	<!-- EN: Save -->
+  <ZMD_save>保存</ZMD_save>
+	<!-- EN: Save current settings as   -->
+  <ZMD_saveCurrent>将当前设置另存为</ZMD_saveCurrent>
+	<!-- EN: Apply settings -->
+  <ZMD_applySettings>应用设置</ZMD_applySettings>
+	<!-- EN: Settings saved as {0} -->
+  <ZMD_saveSuccess>设置已保存为{0}</ZMD_saveSuccess>
+	<!-- EN: A config with this name is already saved, delete it first. -->
+  <ZMD_saveFail1>已存在相同名称的设置，请先将其删除。</ZMD_saveFail1>
+	<!-- EN: Your config must have a name. -->
+  <ZMD_saveFail2>您的设置必须命名。</ZMD_saveFail2>
+	<!-- EN: You have too many saved configs, delete some to make room. -->
+  <ZMD_saveFail3>您保存的设置太多，请删除一些以腾出空间。</ZMD_saveFail3>
+	
+	<!-- EN: Managed saved configs -->
+  <ZMD_manageConfigs>管理保存的设置</ZMD_manageConfigs>
+	<!-- EN: Select config -->
+  <ZMD_selConfig>选择设置</ZMD_selConfig>
+	<!-- EN: Apply -->
+  <ZMD_load>应用</ZMD_load>
+	<!-- EN: Applied settings. -->
+  <ZMD_loadSuccess>已应用设置。</ZMD_loadSuccess>
+	<!-- EN: Randomized settings. -->
+  <ZMD_randSuccess>随机设置。</ZMD_randSuccess>
+	<!-- EN: Delete -->
+  <ZMD_delete>删除</ZMD_delete>
+	<!-- EN: Deleted settings:  -->
+  <ZMD_delSuccess>删除设置：</ZMD_delSuccess>
+ 
+<!-- ===================================	Mountains	================================= -->
+
+  <!-- Tabs -->
+	<!-- EN: Mountains -->
+  <ZMD_mountainTab>山体</ZMD_mountainTab>
+	<!-- EN: Settings relating to hills -->
+  <ZMD_mountainTabInfo>与山体有关的设定</ZMD_mountainTabInfo>
+  <!-- Hills -->
+	<!-- EN: Amount -->
+  <ZMD_hillAmountLabel>山体数量</ZMD_hillAmountLabel>
+	<!-- EN: How mountainous your map will be -->
+  <ZMD_hillAmountTooltip>地图上的山体密度</ZMD_hillAmountTooltip>
+	
+	<!-- EN: Very flat -->
+  <ZMD_hillAmount0>非常平坦</ZMD_hillAmount0>
+	<!-- EN: Low -->
+  <ZMD_hillAmount1>少</ZMD_hillAmount1>
+	<!-- EN: Vanilla -->
+  <ZMD_hillAmount2>原版</ZMD_hillAmount2>
+	<!-- EN: High -->
+  <ZMD_hillAmount3>多</ZMD_hillAmount3>
+	<!-- EN: Very high -->
+  <ZMD_hillAmount4>很多</ZMD_hillAmount4>
+	<!-- EN: Almost solid -->
+  <ZMD_hillAmount5>几乎都是山</ZMD_hillAmount5>
+
+	<!-- EN: Size -->
+  <ZMD_hillSizeLabel>山体规模</ZMD_hillSizeLabel>
+	<!-- EN: Size of individual hills. Big hills for maps with 1-2 big mountains, small hills for jagged landscapes with lots of corners. -->
+  <ZMD_hillSizeTooltip>相连山体的规模。“大”意味着连绵不断的山体，“小”意味着山体不连续，呈锯齿状。</ZMD_hillSizeTooltip>
+	<!-- EN: Huge. 1 or 2 large hills. -->
+  <ZMD_hillSize0>巨大，有1-2片巨型山体</ZMD_hillSize0>
+	<!-- EN: Vanilla -->
+  <ZMD_hillSize1>原版</ZMD_hillSize1>
+	<!-- EN: Small -->
+  <ZMD_hillSize2>小</ZMD_hillSize2>
+	<!-- EN: Tiny. Underground bases may not be possible -->
+  <ZMD_hillSize3>很小，基本不可能做山顶洞人。</ZMD_hillSize3>
+	<!-- EN: Very tiny. Each hill may only be a few tiles. -->
+  <ZMD_hillSize4>微型，一处山体可能只有几格。</ZMD_hillSize4>
+
+	<!-- EN: Smoothness -->
+  <ZMD_hillSmoothnessLabel>山体坡度</ZMD_hillSmoothnessLabel>
+	<!-- EN: Very smooth -->
+  <ZMD_hillSmoothness0>光滑</ZMD_hillSmoothness0>
+	<!-- EN: Smooth -->
+  <ZMD_hillSmoothness1>平顺</ZMD_hillSmoothness1>
+	<!-- EN: Vanilla -->
+  <ZMD_hillSmoothness2>原版</ZMD_hillSmoothness2>
+	<!-- EN: Rough -->
+  <ZMD_hillSmoothness3>粗糙</ZMD_hillSmoothness3>
+	<!-- EN: Very rough -->
+  <ZMD_hillSmoothness4>很粗糙</ZMD_hillSmoothness4>
+
+	
+
+<!-- Mountain distribution -->
+	<!-- EN: Arrange hills -->
+  <ZMD_hillArrangement>山体定制</ZMD_hillArrangement>
+	<!-- EN: How hills are positioned on your map. Create customized valleys and mountains. Disable all = vanilla  -->
+  <ZMD_hillArrangementDesc>自行设定山体在地图上的分布情况。禁用所有 = 原版</ZMD_hillArrangementDesc>
+
+	<!-- EN: Natural hill distribution -->
+  <ZMD_flagHillClumping>自然山体分布</ZMD_flagHillClumping>
+	<!-- EN: For small hills. Will make hills vary naturally instead of being evenly distributed. -->
+  <ZMD_flagHillClumpingTooltip>适合小丘陵地图，山体多聚集分布，不会均匀分布。</ZMD_flagHillClumpingTooltip>
+	
+	<!-- EN: Centralized -->
+  <ZMD_flagHillRadial>中心式分布</ZMD_flagHillRadial>
+	<!-- EN: Push the mountains to the edges of your map for a valley, or pull them to the center and build in a solid mountain. -->
+  <ZMD_flagHillRadialTooltip>将山体推向地图边缘，形成山谷；或将山体聚拢在地图中心形成实心山区。</ZMD_flagHillRadialTooltip>
+	<!-- EN: Skew -->
+  <ZMD_hillRadialAmtLabel>偏移</ZMD_hillRadialAmtLabel>
+	<!-- EN: How much difference there is between the center and edges of the map -->
+  <ZMD_hillRadialAmtTooltip>地图中心和边缘的差异性。</ZMD_hillRadialAmtTooltip>
+	<!-- EN: Center size -->
+  <ZMD_hillRadialSizeLabel>中心规模</ZMD_hillRadialSizeLabel>
+	<!-- EN: Push hills just out of the center, or all the way to the edges -->
+  <ZMD_hillRadialSizeTooltip>将山体从中心推向边缘。</ZMD_hillRadialSizeTooltip>
+	
+	<!-- EN: Tightly clustered in the center -->
+  <ZMD_hillRadialAmt0>紧密聚集在中心</ZMD_hillRadialAmt0>
+	<!-- EN: Moderate shift towards center -->
+  <ZMD_hillRadialAmt1>向中心适度移动</ZMD_hillRadialAmt1>
+	<!-- EN: Slightly more in the center -->
+  <ZMD_hillRadialAmt2>中心山体稍多些</ZMD_hillRadialAmt2>
+	<!-- EN: Little to no change -->
+  <ZMD_hillRadialAmt3>较原版几乎无变化</ZMD_hillRadialAmt3>
+	<!-- EN: Slightly more on the edges -->
+  <ZMD_hillRadialAmt4>边缘山体稍多些</ZMD_hillRadialAmt4>
+	<!-- EN: Moderate shift towards edges -->
+  <ZMD_hillRadialAmt5>向边缘适度移动</ZMD_hillRadialAmt5>
+	<!-- EN: Almost entirely around the edges -->
+  <ZMD_hillRadialAmt6>完全围绕在边缘</ZMD_hillRadialAmt6>
+	
+	
+	<!-- EN: Center -->
+  <ZMD_center>中心</ZMD_center>
+	<!-- EN: Edges -->
+  <ZMD_edges>边缘</ZMD_edges>
+	<!-- EN: Direction -->
+  <ZMD_direction>方向</ZMD_direction>
+	<!-- EN: Skew -->
+  <ZMD_skew>偏移</ZMD_skew>
+	<!-- EN: Size -->
+  <ZMD_size>规模</ZMD_size>
+	
+	
+	<!-- EN: Tiny -->
+  <ZMD_hillRadialSize0>微型</ZMD_hillRadialSize0>
+	<!-- EN: Small -->
+  <ZMD_hillRadialSize1>小型</ZMD_hillRadialSize1>
+	<!-- EN: Average -->
+  <ZMD_hillRadialSize2>一般</ZMD_hillRadialSize2>
+	<!-- EN: Big -->
+  <ZMD_hillRadialSize3>大型</ZMD_hillRadialSize3>
+	<!-- EN: To the edge of the map -->
+  <ZMD_hillRadialSize4>几乎延伸到地图边缘</ZMD_hillRadialSize4>
+
+	<!-- EN: Down the middle -->
+  <ZMD_flagHillSplit>对称式分布</ZMD_flagHillSplit>
+	
+	<!-- EN: To one side -->
+  <ZMD_flagHillSide>单边式分布</ZMD_flagHillSide>
+	
+	<!-- EN: Almost even -->
+  <ZMD_hillSideAmt0>几乎均匀分布</ZMD_hillSideAmt0>
+	<!-- EN: Slight shift to one side -->
+  <ZMD_hillSideAmt1>向一侧略微移动</ZMD_hillSideAmt1>
+	<!-- EN: Moderate shift to one side -->
+  <ZMD_hillSideAmt2>向一侧部分移动</ZMD_hillSideAmt2>
+	<!-- EN: Strong shift to one side -->
+  <ZMD_hillSideAmt3>向一侧大幅移动</ZMD_hillSideAmt3>
+
+	<!-- EN: Donut-shaped -->
+  <ZMD_flagHillDonut>甜甜圈式</ZMD_flagHillDonut>
+	<!-- EN: Ring-shaped mountains or valleys -->
+  <ZMD_flagHillDonutTooltip>环形山体或山谷</ZMD_flagHillDonutTooltip>
+	<!-- EN: Distinct ring hill -->
+  <ZMD_hillDonutAmt0>明显的环形山体</ZMD_hillDonutAmt0>
+	<!-- EN: Broken ring hill -->
+  <ZMD_hillDonutAmt1>破碎的环形山体</ZMD_hillDonutAmt1>
+	<!-- EN: Slight ring hill -->
+  <ZMD_hillDonutAmt2>不明显的环形山体</ZMD_hillDonutAmt2>
+	<!-- EN: Little to no change -->
+  <ZMD_hillDonutAmt3>几乎没有变化</ZMD_hillDonutAmt3>
+	<!-- EN: Slight ring valley -->
+  <ZMD_hillDonutAmt4>不明显的环形山谷</ZMD_hillDonutAmt4>
+	<!-- EN: Partial ring valley -->
+  <ZMD_hillDonutAmt5>破碎的环形山谷</ZMD_hillDonutAmt5>
+	<!-- EN: Distinct ring valley -->
+  <ZMD_hillDonutAmt6>明显的环形山谷</ZMD_hillDonutAmt6>
+	
+	
+	
+  <!-- Misc settings -->
+  
+	<!-- EN: Allow caves -->
+  <ZMD_flagCaves>允许生成洞穴</ZMD_flagCaves>
+	<!-- EN: Unchecking this prevents caves from ever spawning, even on tiles with mountains or large hills. -->
+  <ZMD_flagCavesTooltip>取消该选项后可防止洞穴产生，即使高地、山脉也是如此。</ZMD_flagCavesTooltip>
+	
+	<!-- EN: Ensure exit -->
+  <ZMD_flagMtnExit>确保出口</ZMD_flagMtnExit>
+	<!-- EN: For very mountainous maps. Guarantees a clear path to the center of the map. -->
+  <ZMD_flagMtnExitTooltip>对于非常多山的地图。确保生成有通往地图中心的清晰路径。</ZMD_flagMtnExitTooltip>
+	<!-- EN: Number of exits -->
+  <ZMD_numMtnExit>出口数</ZMD_numMtnExit>
+	
+	
+	
+<!-- ===================================	Things	================================= -->
+    <!-- Tabs -->
+
+	<!-- EN: Things -->
+  <ZMD_thingsTab>杂项</ZMD_thingsTab>
+	<!-- EN: Ore density, etc -->
+  <ZMD_thingsTabInfo>矿石密度，等</ZMD_thingsTabInfo>
+	
+	<!-- EN: Classic -->
+  <ZMD_thingsClassic>原版</ZMD_thingsClassic>
+	<!-- EN: DLC and Mods -->
+  <ZMD_thingsDlcAndMods>DLC和Mod</ZMD_thingsDlcAndMods>
+	<!-- EN: Royalty -->
+  <ZMD_thingsRoyalty>皇权</ZMD_thingsRoyalty>
+	<!-- EN: Ideology -->
+  <ZMD_thingsIdeology>文化</ZMD_thingsIdeology>
+	<!-- EN: Biotech -->
+  <ZMD_thingsBiotech>生物技术</ZMD_thingsBiotech>
+	<!-- EN: Medieval Overhaul -->
+  <ZMD_thingsMedievalOverhaul>中世纪大修</ZMD_thingsMedievalOverhaul>
+	<!-- <ZMD_thingsVPE>Vanilla Expanded</ZMD_thingsVPE> -->
+	
+	<!-- EN: Missing a mod that adds map stuff? Let me know on Steam or Discord! -->
+  <ZMD_thingsMissing>有遗漏新增地图类型的Mod？请务必通过steam或Discord反馈给我！</ZMD_thingsMissing>
+	
+  <!-- Densities -->
+	<!-- EN: Plants -->
+  <ZMD_densityPlant>植被密度</ZMD_densityPlant>
+	<!-- EN: Animals -->
+  <ZMD_densityAnimal>动物密度</ZMD_densityAnimal>
+	<!-- EN: Ruins -->
+  <ZMD_densityRuins>废墟密度</ZMD_densityRuins>
+	<!-- EN: Ancient dangers -->
+  <ZMD_densityDanger>远古威胁密度</ZMD_densityDanger>
+	<!-- EN: NOTE: Ancient dangers will not spawn on completely flat maps -->
+  <ZMD_densityDangerTooltip>注：远古威胁不会生成在完全平坦的地图上</ZMD_densityDangerTooltip>
+	<!-- EN: Steam geysers -->
+  <ZMD_densityGeyser>蒸汽间歇泉密度</ZMD_densityGeyser>
+	<!-- EN: Ore -->
+  <ZMD_densityOre>矿物密度</ZMD_densityOre>
+	<!-- EN: Anima trees:  -->
+  <ZMD_animaCount>仙树数量：</ZMD_animaCount>
+	<!-- EN: Rock chunks -->
+  <ZMD_flagRockChunks>允许石块</ZMD_flagRockChunks>
+	<!-- EN: If disabled, new maps will have NO chunks. -->
+  <ZMD_flagRockChunksTooltip>如果禁用，新地图将不会生成石块。</ZMD_flagRockChunksTooltip>
+	
+	<!-- EN: Choose ore types ... -->
+  <ZMD_chooseOreTypes>选择矿物类型</ZMD_chooseOreTypes>
+	<!-- EN: Reset ore -->
+  <ZMD_resetOreTypes>重置矿物</ZMD_resetOreTypes>
+
+	<!-- EN: None -->
+  <ZMD_density0>无</ZMD_density0>
+	<!-- EN: Very few -->
+  <ZMD_density1>非常低</ZMD_density1>
+	<!-- EN: Less than average -->
+  <ZMD_density2>低</ZMD_density2>
+	<!-- EN: Average amount -->
+  <ZMD_density3>平均</ZMD_density3>
+	<!-- EN: More than average -->
+  <ZMD_density4>高</ZMD_density4>
+	<!-- EN: A lot more -->
+  <ZMD_density5>很高</ZMD_density5>
+	<!-- EN: Max amount -->
+  <ZMD_density6>极高</ZMD_density6>
+	
+<!-- Ideology -->
+	<!-- EN: Road debris -->
+  <ZMD_flagRoadDebris>路旁残骸</ZMD_flagRoadDebris>
+	<!-- EN: Rusted cars and tanks -->
+  <ZMD_flagRoadDebrisTooltip>生锈的汽车和坦克</ZMD_flagRoadDebrisTooltip>
+	<!-- EN: Cave debris -->
+  <ZMD_flagCaveDebris>山洞残骸</ZMD_flagCaveDebris>
+	<!-- EN: Ancient beds, sometimes with old uniforms or scattered documents -->
+  <ZMD_flagCaveDebrisTooltip>远古床，可能还有发霉的制服或散落的文件</ZMD_flagCaveDebrisTooltip>
+	<!-- EN: Ancient utility buildings -->
+  <ZMD_flagAncientUtilityBuilding>远古公共建筑</ZMD_flagAncientUtilityBuilding>
+	<!-- EN: Ancient power stations, sometimes including fences or buildings -->
+  <ZMD_flagAncientUtilityBuildingTooltip>远古发电站，有时还附带栅栏或建筑物</ZMD_flagAncientUtilityBuildingTooltip>
+	<!-- EN: Ancient turrets -->
+  <ZMD_flagAncientTurret>远古炮塔</ZMD_flagAncientTurret>
+	<!-- EN: Ancient mechs -->
+  <ZMD_flagAncientMechs>远古机械</ZMD_flagAncientMechs>
+	<!-- EN: Ancient landing pads -->
+  <ZMD_flagAncientLandingPad>远古空投舱</ZMD_flagAncientLandingPad>
+	<!-- EN: Ancient fences -->
+  <ZMD_flagAncientFences>远古栅栏</ZMD_flagAncientFences>
+	
+	<!-- EN: Mechanoid remains -->
+  <ZMD_countMechanoidRemains>机械类遗迹</ZMD_countMechanoidRemains>
+	<!-- EN: Ancient junk clusters -->
+  <ZMD_densityAncientJunkClusters>远古垃圾场</ZMD_densityAncientJunkClusters>
+	<!-- EN: Ancient pipline -->
+  <ZMD_densityAncientPipelineSection>远古管道</ZMD_densityAncientPipelineSection>
+	
+<!-- Biotech -->
+	<!-- EN: Ancient exostrider remains -->
+  <ZMD_countAncientExostriderRemains>远古重炮机兽躯体</ZMD_countAncientExostriderRemains>
+	<!-- EN: Ancient polllution junk -->
+  <ZMD_densityAncientPollutionJunk>远古污染废料</ZMD_densityAncientPollutionJunk>
+	<!-- EN: Pollux trees -->
+  <ZMD_densityPoluxTrees>粹树</ZMD_densityPoluxTrees>
+	<!-- EN: Pollution level -->
+  <ZMD_pollutionLevel>污染水平</ZMD_pollutionLevel>
+
+<!-- Medieval Overhaul -->
+	<!-- EN: Battlefield remains -->
+  <ZMD_densityMOBattlefield>战场遗迹</ZMD_densityMOBattlefield>
+	<!-- EN: Tar pits -->
+  <ZMD_densityMOTarPit>沥青池</ZMD_densityMOTarPit>
+	<!-- EN: Bee hives -->
+  <ZMD_densityMOBeeHive>蜂巢</ZMD_densityMOBeeHive>
+	<!-- EN: Hornets -->
+  <ZMD_densityMOHornet>大黄蜂</ZMD_densityMOHornet>
+
+<!-- Vanilla Power Expanded -->
+	<!-- EN: Chemfuel ponds -->
+  <ZMD_VPE_chemfuelPonds>油田</ZMD_VPE_chemfuelPonds>
+	<!-- EN: Helixien vents -->
+  <ZMD_VPE_helixienVents>气田</ZMD_VPE_helixienVents>
+
+
+	
+<!-- ===================================	Rivers	================================= -->
+	
+	<!-- EN: Rivers and Beaches -->
+  <ZMD_riverTab>河流</ZMD_riverTab>
+	
+	<!-- EN: River size -->
+  <ZMD_sizeRiver>河流大小</ZMD_sizeRiver>
+	
+	<!-- EN: River banks -->
+  <ZMD_flagRiverBeach>河岸</ZMD_flagRiverBeach>
+	<!-- EN: River bank size -->
+  <ZMD_riverBeachSize>河岸大小</ZMD_riverBeachSize>
+	
+	<!-- EN: Pick river direction -->
+  <ZMD_flagRiverDir>设定河流方向</ZMD_flagRiverDir>
+	
+	<!-- EN: River style -->
+  <ZMD_riverStyle>河流类型</ZMD_riverStyle>
+	<!-- EN: Vanilla -->
+  <ZMD_riverStyleVanilla>原版</ZMD_riverStyleVanilla>
+	<!-- EN: Normal river -->
+  <ZMD_riverStyleVanillaDesc>正常河流</ZMD_riverStyleVanillaDesc>
+	<!-- EN: Spring -->
+  <ZMD_riverStyleSpring>源头</ZMD_riverStyleSpring>
+	<!-- EN: Rivers starts near the middle of the map and continues to the edge -->
+  <ZMD_riverStyleSpringDesc>河流源于地图中间，一直流到边缘</ZMD_riverStyleSpringDesc>
+	<!-- EN: Canal -->
+  <ZMD_riverStyleCanal>运河</ZMD_riverStyleCanal>
+	<!-- EN: Perfectly straight rivers -->
+  <ZMD_riverStyleCanalDesc>完全笔直的河流</ZMD_riverStyleCanalDesc>
+	<!-- EN: Confluence -->
+  <ZMD_riverStyleConfluence>汇集</ZMD_riverStyleConfluence>
+	<!-- EN: Two rivers merge into one -->
+  <ZMD_riverStyleConfluenceDesc>两条河流融为一体</ZMD_riverStyleConfluenceDesc>
+	<!-- EN: Fork -->
+  <ZMD_riverStyleFork>分叉</ZMD_riverStyleFork>
+	<!-- EN: One river splits into two -->
+  <ZMD_riverStyleForkDesc>一条河流一分为二</ZMD_riverStyleForkDesc>
+	<!-- EN: Oxbow -->
+  <ZMD_riverStyleOxbow>牛轭湖</ZMD_riverStyleOxbow>
+	<!-- EN: A winding river with big, smooth loops -->
+  <ZMD_riverStyleOxbowDesc>蜿蜒的河流，有大而光滑的环形河道</ZMD_riverStyleOxbowDesc>
+	<!-- EN: Island -->
+  <ZMD_riverStyleIsland>河心岛</ZMD_riverStyleIsland>
+	<!-- EN: A river that splits to make an island, then joins back into one on the other side -->
+  <ZMD_riverStyleIslandDesc>一条河流分叉后又重新汇集，形成河心岛</ZMD_riverStyleIslandDesc>
+	
+	
+	<!-- EN: Customize river position -->
+  <ZMD_riverPosition>自定义河流位置</ZMD_riverPosition>
+	<!-- EN: North -->
+  <ZMD_north>北</ZMD_north>
+	<!-- EN: South -->
+  <ZMD_south>南</ZMD_south>
+	<!-- EN: East -->
+  <ZMD_east>东</ZMD_east>
+	<!-- EN: West -->
+  <ZMD_west>西</ZMD_west>
+	<!-- EN: Relative -->
+  <ZMD_riverLocRel>相对</ZMD_riverLocRel>
+	<!-- EN: Location is relative to the vanilla position -->
+  <ZMD_riverLocRelDesc>位置相对原版做微调</ZMD_riverLocRelDesc>
+	<!-- EN: Absolute -->
+  <ZMD_riverLocAbs>绝对</ZMD_riverLocAbs>
+	<!-- EN: Exactly where you put it, no randomness -->
+  <ZMD_riverLocAbsDesc>位置完全按你所想，无随机</ZMD_riverLocAbsDesc>
+	
+	
+	<!-- Beaches -->
+	
+	<!-- EN: Coast direction -->
+  <ZMD_coastDir>海岸方向</ZMD_coastDir>
+	<!-- EN: Vanilla -->
+  <ZMD_coastDirVanilla>原版</ZMD_coastDirVanilla>		<!-- whatever direction the coast would normally be on that tile -->
+	
+	<!-- EN: Beach terrain -->
+  <ZMD_coastTerr>海滩地形</ZMD_coastTerr>
+	<!-- EN: Vanilla -->
+  <ZMD_coastTerrVanilla>原版</ZMD_coastTerrVanilla>	<!-- sand for most biomes, ice for sea ice -->
+	
+	
+<!-- ===================================	Odyssey	================================= -->
+<!-- EN: Odyssey -->
+  <ZMD_odysseyTab>奥德赛</ZMD_odysseyTab>
+<!-- EN: Enable or disable special features. This will apply only to your home map.\n\nYou can select max 1 from each category. Some features are part of multiple categories. Selected features will override any vanilla features of the tile, including the vanilla features: Caves, Coast, Mountains, River, Underground cave.\n\nRiver features require a pre-existing river, and the river delta also requires a pre-existing coast. -->
+  <ZMD_odysseyTabInfo>启用或禁用特殊地貌。此设置仅对你的基地地图生效。\n\n你最多可以从每个类别中选择1项。部分地貌同属多个类别。选定的地貌将覆盖该地图格的任何原版地貌（包括：洞穴、海岸、山脉、河流、地下洞穴）。\n\n河流类地貌要求该地图上已存在河流，河流三角洲则还要求该地图已存在海岸。</ZMD_odysseyTabInfo>
+<!-- EN: THIS TAB IS IN BETA -->
+  <ZMD_betaWarning>此选项卡功能处于测试阶段</ZMD_betaWarning>
+<!-- EN: Opt into the beta -->
+  <ZMD_flagOdyBeta>参与测试</ZMD_flagOdyBeta>
+<!-- EN: If opted out, the code to change your map is disabled.\n\nKNOWN ISSUES:\n
+1. Selected features may not save if you restart Rimworld\n
+2. Selected features may not be correctly limited to home tile\n
+3. When used with Map Preview, any tiles you preview before generating your home map may be treated as a "home" tile with added features. Even if you opt out of the beta after previewing.\n
+4. Some combinations of features may be incompatible, even if the combo is selectable. -->
+  <ZMD_flagOdyBetaDesc>如果选择不参与，修改地图的功能将被禁用。\n\n已知问题：\n
+1. 所选地貌可能在重启游戏后无法保存。\n
+2. 所选地貌可能无法被正确限制生效在基地地图。\n
+3. 当与“地形预览”模组同时使用时，你在生成基地地图前预览过的任何地图格都可能被视为添加了“home”标记的地图格。即使你在预览后选择退出测试也是如此。\n
+4. 某些地貌组合可能互不兼容，即使该组合可以被选中。</ZMD_flagOdyBetaDesc>
+<!-- EN: Categories:  -->
+  <ZMD_categories>类别：</ZMD_categories>
+<!-- EN: Disable All -->
+  <ZMD_disableMutators>全部禁用</ZMD_disableMutators>
+
+
+
+<!-- ===================================	Features	================================= -->
+    <!-- Tabs -->
+
+	<!-- EN: Map Features -->
+  <ZMD_featureTab>地图特征</ZMD_featureTab>
+	<!-- EN: Add a special feature to only your home map. These will not spawn on other maps, like quest maps. -->
+  <ZMD_featureTabInfo>仅向玩家基地地图添加特殊特征。这些特征不会在其他地图上生成，如任务地图。</ZMD_featureTabInfo>
+	
+  <!-- Features -->
+  <!-- EN: Select feature -->
+  <ZMD_selectFeature>选择特征</ZMD_selectFeature>
+  
+  <!-- EN: No added feature -->
+  <ZMD_featureNone>未添加特征</ZMD_featureNone>
+  <!-- EN: Baseline map. -->
+  <ZMD_featureNoneInfo>基础地图。</ZMD_featureNoneInfo>
+  
+  <!-- EN: Perfectly round islands -->
+  <ZMD_featurePRI>完美圆岛</ZMD_featurePRI>
+  <!-- EN: Your map is one or more perfectly round islands, surrounded by shallow water. Trade caravans, raids and wild animals will still enter normally from the sides. -->
+  <ZMD_featurePRIInfo>你的基地地图由一个或多个完美的圆形岛屿所组成，它们被浅水包围。贸易商队、突袭和野生动物仍将正常从地图边缘进入。</ZMD_featurePRIInfo>
+  
+  <!-- EN: Natural Lake -->
+  <ZMD_featureLake>天然湖</ZMD_featureLake>
+  <!-- EN: A natural lake.\nMountains can spawn inside the lake by default. You can use the "Central hill distribution" option on the Mountains tab to prevent this, or to create a mountain island in the center. -->
+  <ZMD_featureLakeInfo>一个天然湖泊。\n默认情况下，山体可以在湖中生成。您可以通过调节“山体”选项卡的相关选项来防止出现这种情况。</ZMD_featureLakeInfo>
+  
+  <!-- EN: Natural islands -->
+  <ZMD_featureNI>天然岛</ZMD_featureNI>
+  <!-- EN: A natural island, surrounded by a mix of shallow and deep water. Trade caravans, raids and wild animals will still enter normally from the sides, and will path over any passable water. -->
+  <ZMD_featureNiInfo>一个天然的岛屿，周围有浅水和深水。贸易商队、袭击和野生动物仍将从两侧正常进入，并能通过任何可通行的水域。</ZMD_featureNiInfo>
+  
+  <!-- Perfectly Round Islands -->
+  <!-- EN: Island style -->
+  <ZMD_priIslandStyle>岛屿类型</ZMD_priIslandStyle>
+  <!-- EN: Island size -->
+  <ZMD_priIslandSizeLabel>岛屿规模</ZMD_priIslandSizeLabel>
+  <!-- EN: Beach size -->
+  <ZMD_priBeachSizeLabel>海滩规模</ZMD_priBeachSizeLabel>
+  <!-- EN: Single island -->
+  <ZMD_priSingleLabel>孤岛</ZMD_priSingleLabel>
+  <!-- EN: A single large circular island. -->
+  <ZMD_priSingleDesc>一个巨大的圆形岛屿。</ZMD_priSingleDesc>
+  <!-- EN: Multiple islands -->
+  <ZMD_priMultiLabel>群岛</ZMD_priMultiLabel>
+  <!-- EN: Multiple randomly placed islands, biggest in the middle. -->
+  <ZMD_priMultiDesc>多个随机生成的岛屿，中间的最大。</ZMD_priMultiDesc>
+  
+  <!-- Lakes -->
+  
+  <!-- EN: Lake size: {0} % of map -->
+  <ZMD_lakeSize>湖泊规模：{0}%</ZMD_lakeSize>
+  <!-- EN: Roundness -->
+  <ZMD_lakeRoundness>湖泊形状</ZMD_lakeRoundness>
+  <!-- EN: Lake beach size -->
+  <ZMD_lakeBeachSize>湖滩规模</ZMD_lakeBeachSize>
+  <!-- EN: Lake depth -->
+  <ZMD_lakeDepth>湖水深度</ZMD_lakeDepth>
+  <!-- EN: Salt water -->
+  <ZMD_flagLakeSalty>咸水湖</ZMD_flagLakeSalty>		<!-- same label is now used for both the Lake and Round Island features -->
+  <!-- EN: Shore terrain -->
+  <ZMD_lakeShore>湖岸地形</ZMD_lakeShore>
+  
+  <!-- EN: Very shallow -->
+  <ZMD_lakeDepth0>非常浅</ZMD_lakeDepth0>
+  <!-- EN: Shallow -->
+  <ZMD_lakeDepth1>浅</ZMD_lakeDepth1>
+  <!-- EN: Average -->
+  <ZMD_lakeDepth2>一般</ZMD_lakeDepth2>
+  <!-- EN: Deep -->
+  <ZMD_lakeDepth3>深</ZMD_lakeDepth3>
+  <!-- EN: Very deep -->
+  <ZMD_lakeDepth4>非常深</ZMD_lakeDepth4>
+
+  <!-- EN: Perfectly round -->
+  <ZMD_lakeRoundness0>完美圆形</ZMD_lakeRoundness0>
+  <!-- EN: Mostly round -->
+  <ZMD_lakeRoundness1>大体是圆形</ZMD_lakeRoundness1>
+  <!-- EN: Average -->
+  <ZMD_lakeRoundness2>有点圆</ZMD_lakeRoundness2>
+  <!-- EN: Somewhat blobular -->
+  <ZMD_lakeRoundness3>不怎么圆</ZMD_lakeRoundness3>
+  <!-- EN: Shapeless -->
+  <ZMD_lakeRoundness4>无固定形状</ZMD_lakeRoundness4>
+
+<!-- Natural Islands -->
+	 
+  <!-- EN: Island Smoothness -->
+  <ZMD_niRoundness>岛屿轮廓平滑度</ZMD_niRoundness>
+  <!-- EN: Geometrically perfect -->
+  <ZMD_niRoundness0>完美几何体</ZMD_niRoundness0>
+  <!-- EN: Mostly geometric -->
+  <ZMD_niRoundness1>接近几何体</ZMD_niRoundness1>
+  <!-- EN: Average -->
+  <ZMD_niRoundness2>一般</ZMD_niRoundness2>
+  <!-- EN: Somewhat blobular -->
+  <ZMD_niRoundness3>不怎么规则</ZMD_niRoundness3>
+  <!-- EN: Shapeless -->
+  <ZMD_niRoundness4>无固定形状</ZMD_niRoundness4>
+  
+  <!-- EN: Style -->
+  <ZMD_niStyle>样式</ZMD_niStyle>
+  <!-- EN: Select Style -->
+  <ZMD_niSelStyle>选择样式</ZMD_niSelStyle>
+  <!-- EN: Round -->
+  <ZMD_niStyleRound>圆形的</ZMD_niStyleRound>
+  <!-- EN: Square -->
+  <ZMD_niStyleSquare>方形</ZMD_niStyleSquare>
+  <!-- EN: Square Ring -->
+  <ZMD_niStyleSquareRing>方形环</ZMD_niStyleSquareRing>
+  <!-- EN: Ring -->
+  <ZMD_niStyleRing>圆环</ZMD_niStyleRing>
+  
+  <!-- EN: Water depth -->
+  <ZMD_niWaterDepth>水深</ZMD_niWaterDepth>
+  <!-- EN: WARNING: Too much deep water can create unpathable islands! -->
+  <ZMD_niWaterDepthWarning>警告：深水过多会生成难以居住的岛屿！</ZMD_niWaterDepthWarning>
+
+
+<!-- ===================================	Terrain	================================= -->
+
+    <!-- Tabs -->
+
+	<!-- EN: Terrain -->
+  <ZMD_terrainTab>地形</ZMD_terrainTab>
+	<!-- EN: Fertility, water levels, and rock types.\n\nTurning up water levels will increase size and number of marshes and lakes, but will NOT add new lakes to biomes that don't otherwise have them. -->
+  <ZMD_terrainTabInfo>肥沃度、水位和岩石类型。\n\n提高水位将增加沼泽和湖泊的规模及数量，但不会在没有湖泊的s生态群落生成新的湖泊。</ZMD_terrainTabInfo>
+	
+	<!-- EN: Rock types per map -->
+  <ZMD_rockTypeRange>每个地图的岩石类型</ZMD_rockTypeRange>
+	<!-- EN: Allow biome-specific rocks, such as solid ice, to spawn in any biome. -->
+  <ZMD_flagBiomeRocks>允许特定生态群落的岩石（如坚冰）在任何生态群落生成。</ZMD_flagBiomeRocks>
+	<!-- EN: This can drastically change game balance in some biomes. -->
+  <ZMD_flagBiomeRocksTooltip>这会彻底改变某些生态群落的游戏平衡。</ZMD_flagBiomeRocksTooltip>
+	<!-- EN: Allow space ruckss, such as vacstone, to spawn on the planet's surface. -->
+  <ZMD_flagSpaceRocks>允许太空岩石（如真空岩）在星球地表生成。</ZMD_flagSpaceRocks>
+	<!-- EN: Allow space ruckss, such as vacstone, to spawn on the planet's surface. -->
+  <ZMD_flagSpaceTooltip>允许太空岩石（如真空岩）在星球地表生成。</ZMD_flagSpaceTooltip>
+	
+	<!-- EN: Allow all rock types -->
+  <ZMD_allRockTypes>允许所有岩石类型</ZMD_allRockTypes>
+	<!-- EN: Disable all rock types -->
+  <ZMD_noRockTypes>禁用所有岩石类型</ZMD_noRockTypes>
+	<!-- EN: No rocks are allowed! Please enable at least one type.\nIf you leave all types disabled, maps will spawn with random rock types. -->
+  <ZMD_noRockWarning>未允许任何岩石类型！请至少启用一种。\n如果保持全部禁用，地图将随机生成岩石类型。</ZMD_noRockWarning>
+	<!-- EN: No color found for this rock! -->
+  <ZMD_noColorFound>未找到此岩石的颜色！</ZMD_noColorFound>
+	<!-- EN: Choose rock types ... -->
+  <ZMD_chooseRockTypes>选择岩石类型...</ZMD_chooseRockTypes>
+	
+	<!-- EN: Fertility: {0} %:  -->
+  <ZMD_terrainFertAmt>肥沃度：{0}%</ZMD_terrainFertAmt>
+	
+	<!-- EN: Water level: {0} %:  -->
+  <ZMD_terrainWaterAmt>水位：{0}%</ZMD_terrainWaterAmt>
+	<!-- EN: Size and number of lakes etc. Does not affect rivers, coastlines, or other features. -->
+  <ZMD_terrainWaterTooltip>湖泊的规模和数量等。不影响河流、海岸线或其他因素。</ZMD_terrainWaterTooltip>
+	
+	<!-- EN: All non-buildable terrain counts as water -->
+  <ZMD_flagTerrainWater>所有不能支撑建筑的地形都被统计为水域</ZMD_flagTerrainWater>
+	<!-- EN: All terrains without heavy affordance count as water. Includes mud, marsh, soft sand -->
+  <ZMD_flagTerrainWaterTooltip>所有不能支持重型的地形都算作水。包括泥地、沼泽、软沙</ZMD_flagTerrainWaterTooltip>
+	
+	
+	
+<!-- ===================================	Beta	================================= -->
+    <!-- Tabs -->
+
+	<!-- EN: Beta -->
+  <ZMD_betaTab>测试</ZMD_betaTab>
+	<!-- EN: WARNING! These options are for development. They might be mislabeled, might do nothing, and will probably spam the error log.\n\n If there are issues, please report with the error log. If these work, please report that also. -->
+  <ZMD_betaTabInfo>警告！这些选项用于MOD开发。它们可能报错或无效，如有异常请反馈。</ZMD_betaTabInfo>
+
+</LanguageData>

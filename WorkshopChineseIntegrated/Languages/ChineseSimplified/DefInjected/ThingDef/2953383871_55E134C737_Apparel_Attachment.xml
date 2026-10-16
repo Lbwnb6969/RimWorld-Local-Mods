@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hood Base -->
+
+  <DankPyon_Headgear_WolfTimber.label>森林狼兜帽</DankPyon_Headgear_WolfTimber.label>
+  <DankPyon_Headgear_WolfTimber.description>用狼皮革缝制的保暖结实兜帽，可以戴在头盔外面。将皮草作为战利品佩戴在身上是一种力量的彰显。</DankPyon_Headgear_WolfTimber.description>
+
+  <DankPyon_Headgear_WolfArctic.label>北极狼兜帽</DankPyon_Headgear_WolfArctic.label>
+  <DankPyon_Headgear_WolfArctic.description>用狼皮革缝制的保暖结实兜帽，可以戴在头盔外面。将皮草作为战利品佩戴在身上是一种力量的彰显。</DankPyon_Headgear_WolfArctic.description>
+
+  <DankPyon_Headgear_BearGrizzly.label>熊皮兜帽</DankPyon_Headgear_BearGrizzly.label>
+  <DankPyon_Headgear_BearGrizzly.description>用熊皮革缝制的保暖结实兜帽，可以戴在头盔外面。将皮草作为战利品佩戴在身上是一种力量的彰显。</DankPyon_Headgear_BearGrizzly.description>
+
+  <DankPyon_Headgear_BearPolar.label>北极熊兜帽</DankPyon_Headgear_BearPolar.label>
+  <DankPyon_Headgear_BearPolar.description>用熊皮革缝制的保暖结实兜帽，可以戴在头盔外面。将皮草作为战利品佩戴在身上是一种力量的彰显。</DankPyon_Headgear_BearPolar.description>
+
+
+  <!-- Armor Attachment Base -->
+
+  <DankPyon_Apparel_DirewolfPelt.label>恐狼披肩</DankPyon_Apparel_DirewolfPelt.label>
+  <DankPyon_Apparel_DirewolfPelt.description>用恐狼皮革缝制的保暖结实披肩。将皮草作为战利品佩戴在身上是一种力量的彰显，因为这证明他们杀死了一头凶猛的恐狼。这件披肩上完整保留着野兽狰狞又鲜活的头颅标本，在威吓对方的同时亦能为穿戴者带来自信。</DankPyon_Apparel_DirewolfPelt.description>
+
+  <DankPyon_Apparel_HyenaPelt.label>鬣狗披肩</DankPyon_Apparel_HyenaPelt.label>
+  <DankPyon_Apparel_HyenaPelt.description>用鬣狗皮革缝制的保暖结实披肩。将皮草作为战利品佩戴在身上是一种力量的彰显，因为这证明他们杀死了一头狡诈的鬣狗。这件披肩上完整保留着野兽狰狞又鲜活的头颅标本，在威吓对方的同时亦能为穿戴者带来自信。</DankPyon_Apparel_HyenaPelt.description>
+
+  <DankPyon_Apparel_LindwurmCloak.label>林德虫斗篷</DankPyon_Apparel_LindwurmCloak.label>
+  <DankPyon_Apparel_LindwurmCloak.description>用林德虫鳞片缝制的斗篷。将这件斗篷穿在身上是一种力量的彰显，因为这证明他们杀死了一条危险的林德虫。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这件斗篷能保护配戴者免受林德虫酸蚀效果影响。</DankPyon_Apparel_LindwurmCloak.description>
+
+  <DankPyon_Apparel_FurCloak.label>巨魔毛皮斗篷</DankPyon_Apparel_FurCloak.label>
+  <DankPyon_Apparel_FurCloak.description>用巨魔厚毛皮缝制而成的保暖斗篷。将这件斗篷穿在身上是一种力量的彰显，因为这证明他们杀死了一头巨魔。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这件斗篷能保护配戴者免受目眩效果影响。</DankPyon_Apparel_FurCloak.description>
+
+  <DankPyon_Apparel_BonePlating.label>巨魔骨制肩甲</DankPyon_Apparel_BonePlating.label>
+  <DankPyon_Apparel_BonePlating.description>用巨魔骨头制成的特殊肩甲。将这件肩甲穿在身上是一种力量的彰显，因为这证明他们杀死了一头巨魔。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这件肩甲能保护配戴者免受目眩效果影响。</DankPyon_Apparel_BonePlating.description>
+
+  <DankPyon_Apparel_AdditionalFurPadding.label>衬垫巨魔毛皮斗篷</DankPyon_Apparel_AdditionalFurPadding.label>
+  <DankPyon_Apparel_AdditionalFurPadding.description>用巨魔厚毛皮和恐狼皮革缝制而成的加厚衬垫斗篷。将这件肩甲穿在身上是一种力量的彰显，因为这证明他们杀死了一头巨魔。这件斗篷额外的衬垫能减缓穿戴者所受到的伤害。</DankPyon_Apparel_AdditionalFurPadding.description>
+
+  <DankPyon_Apparel_RunesAndSigils.label>符文印记</DankPyon_Apparel_RunesAndSigils.label>
+  <DankPyon_Apparel_RunesAndSigils.description>饰有神秘符文和记号的魔法服饰，可稳固穿戴者的心灵。</DankPyon_Apparel_RunesAndSigils.description>
+
+</LanguageData>

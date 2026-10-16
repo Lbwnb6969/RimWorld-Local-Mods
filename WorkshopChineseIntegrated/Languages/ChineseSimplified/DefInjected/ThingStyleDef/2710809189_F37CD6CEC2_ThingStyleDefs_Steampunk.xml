@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aviator hat -->
+  <AM_SteampunkRevival_AviatorHat.overrideLabel>飞行员帽</AM_SteampunkRevival_AviatorHat.overrideLabel>
+  
+  <!-- EN: rapier -->
+  <AM_SteampunkRevival_Gladius.overrideLabel>刺剑</AM_SteampunkRevival_Gladius.overrideLabel>
+  
+  <!-- EN: steampunk goggles -->
+  <AM_SteampunkRevival_Goggles.overrideLabel>蒸汽朋克护目镜</AM_SteampunkRevival_Goggles.overrideLabel>
+  
+  <!-- EN: flat cap -->
+  <AM_SteampunkRevival_Tuque.overrideLabel>平顶圆帽</AM_SteampunkRevival_Tuque.overrideLabel>
+  
+</LanguageData>

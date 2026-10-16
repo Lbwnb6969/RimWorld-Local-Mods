@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Book -->
+  <VBE.Book>书籍</VBE.Book>
+	<!-- EN: Read {0} -->
+  <VBE.ReadBook>读书</VBE.ReadBook>
+	
+	<!-- EN: Can't read: This skillbook is not sufficient. -->
+  <VBE.CantReadSkillBookTooSimple>无法阅读：该技能书的知识不足。</VBE.CantReadSkillBookTooSimple>
+
+	<!-- EN: Read newspaper -->
+  <VBE.ReadNewsPaper>读报</VBE.ReadNewsPaper>
+	<!-- EN: Relevant until:  -->
+  <VBE.NewspaperRelevantUntil>过时于：</VBE.NewspaperRelevantUntil>
+	<!-- EN: Can't read: This newspaper is out of date. -->
+  <VBE.CantReadNewsPaperExpired>无法阅读：该报纸已经过时。</VBE.CantReadNewsPaperExpired>
+
+	<!-- EN: Read {0} -->
+  <VBE.ReadBlueprint>读蓝图</VBE.ReadBlueprint>
+	<!-- EN: Can't read: This technology is already known. -->
+  <VBE.CantReadBlueprintAlreadyResearched>无法阅读：该科技已拥有。</VBE.CantReadBlueprintAlreadyResearched>
+	<!-- EN: Can't read: This technology is too advanced. -->
+  <VBE.CantReadBlueprintTooAdvanced>无法阅读：该科技过于先进。</VBE.CantReadBlueprintTooAdvanced>
+	<!-- EN: Can't read: This blueprint is already used. -->
+  <VBE.CantReadBlueprintUsed>无法阅读：该蓝图已被应用。</VBE.CantReadBlueprintUsed>
+
+	<!-- EN: Read map -->
+  <VBE.ReadMap>读地图</VBE.ReadMap>
+	<!-- EN: Can't read: This map is already used -->
+  <VBE.CantReadMapUsed>无法阅读：已被应用。</VBE.CantReadMapUsed>
+	<!-- EN: New location found -->
+  <VBE.LocationsOpened>发现新地点</VBE.LocationsOpened>
+	<!-- EN: Reading the map has unlocked a new location. -->
+  <VBE.LocationsOpenedDesc>阅读该地图让你发现了一个新地点。</VBE.LocationsOpenedDesc>
+	
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extinguished fire -->
+  <VME_Firefighting_Abhorrent.stages.extinguished_fire.label>灭火</VME_Firefighting_Abhorrent.stages.extinguished_fire.label>
+  <!-- EN: I had to extinguish fire. What a violation of the spirits. -->
+  <VME_Firefighting_Abhorrent.stages.extinguished_fire.description>我不得不扑灭了这些火焰。这实在是有违我的文化信仰。</VME_Firefighting_Abhorrent.stages.extinguished_fire.description>
+  
+  <!-- EN: extinguished fire -->
+  <VME_Firefighting_Preferred.stages.extinguished_fire.label>灭火</VME_Firefighting_Preferred.stages.extinguished_fire.label>
+  <!-- EN: I extinguished a fire. What an exhilarating experience! -->
+  <VME_Firefighting_Preferred.stages.extinguished_fire.description>我成功扑灭了这些火焰。多么令人激动的体验啊！</VME_Firefighting_Preferred.stages.extinguished_fire.description>
+  
+</LanguageData>

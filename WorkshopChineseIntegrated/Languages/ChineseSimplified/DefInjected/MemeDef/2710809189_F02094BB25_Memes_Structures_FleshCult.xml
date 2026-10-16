@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flesh cult -->
+  <AM_Structure_FleshCult.label>血肉邪教</AM_Structure_FleshCult.label>
+  <!-- EN: We worship the pulsating flesh and the twisted abominations it births. Our devotees revel in the putrid embrace of decaying sinew and the writhing tendrils of fleshbeasts. Let the screams of the damned be our hymns, and the stench of decay our incense, as we embrace the primordial chaos of the flesh. -->
+  <AM_Structure_FleshCult.description>我们崇拜那不断脉动的血肉，以及由它而生的扭曲怪物。我们狂热的信徒们醉心于腐坏肌腱的恶臭拥抱与血肉兽扭来扭去的触手。当我们投身于血肉的原始混沌时，让可憎尖叫成为我们的圣歌，让脓腐臭气化作我们的熏香。</AM_Structure_FleshCult.description>
+  <!-- EN:
+    <li>memeAdjective->bloodsoaked</li>
+    <li>memeAdjective->visceral</li>
+    <li>memeAdjective->fleshy</li>
+    <li>memeAdjective->tumorous</li>
+    <li>memeLeaderNoun->fleshprophet</li>
+    <li>memeLeaderNoun->sanguimancer</li>
+    <li>memeMoralist->gorepriest</li>
+    <li>memeMoralist->tendrilith</li>
+    <li>memeMoralist->fleshbinder</li>
+    <li>memeMoralist->rotseer</li>
+  -->
+  <AM_Structure_FleshCult.generalRules.rulesStrings>  
+    <li>memeAdjective->血浸</li>
+    <li>memeAdjective->内脏</li>
+    <li>memeAdjective->血肉</li>
+    <li>memeAdjective->肿胀</li>
+    <li>memeLeaderNoun->血肉先知</li>
+    <li>memeLeaderNoun->血腐神使</li>
+    <li>memeMoralist->血淋祭司</li>
+    <li>memeMoralist->触手圣人</li>
+    <li>memeMoralist->血肉谐者</li>
+    <li>memeMoralist->腐臭预言者</li>
+  </AM_Structure_FleshCult.generalRules.rulesStrings>
+  <!-- EN: fleshy -->
+  <AM_Structure_FleshCult.symbolPacks.0.adjective>血肉</AM_Structure_FleshCult.symbolPacks.0.adjective>
+  <!-- EN: flesh devotee -->
+  <AM_Structure_FleshCult.symbolPacks.0.member>血肉狂徒</AM_Structure_FleshCult.symbolPacks.0.member>
+  <!-- EN: flesh cult -->
+  <AM_Structure_FleshCult.symbolPacks.0.theme>血肉邪教</AM_Structure_FleshCult.symbolPacks.0.theme>
+  <!-- EN: flesh chamber -->
+  <AM_Structure_FleshCult.worshipRoomLabel>血肉圣堂</AM_Structure_FleshCult.worshipRoomLabel>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: akinci apparel -->
+  <BA_Akinci_Apparel.label>阿金基服饰</BA_Akinci_Apparel.label>
+  
+  <!-- EN: deli apparel -->
+  <BA_Deli_Apparel.label>德利服饰</BA_Deli_Apparel.label>
+  
+  <!-- EN: turkic militia apparel -->
+  <BA_Militia_Apparel.label>突厥民兵服饰</BA_Militia_Apparel.label>
+  
+  <!-- EN: turban -->
+  <BA_Sarik.label>头巾</BA_Sarik.label>
+  
+  <!-- EN: sipahi apparel -->
+  <BA_Sipahi_Apparel.label>西帕希服饰</BA_Sipahi_Apparel.label>
+  
+  <!-- EN: sipahi apparel nomad -->
+  <BA_Sipahi_Apparel_Nomad.label>游牧西帕希服饰</BA_Sipahi_Apparel_Nomad.label>
+  
+  <!-- EN: turkic axe -->
+  <BA_Turkic_Axe.label>突厥战斧</BA_Turkic_Axe.label>
+  
+  <!-- EN: turkic bow -->
+  <BA_Turkic_Bow.label>突厥复合弓</BA_Turkic_Bow.label>
+  
+  <!-- EN: turkic gun -->
+  <BA_Turkic_Gun.label>突厥火绳枪</BA_Turkic_Gun.label>
+  
+  <!-- EN: turkic halberd -->
+  <BA_Turkic_Halberd.label>突厥戟</BA_Turkic_Halberd.label>
+  
+  <!-- EN: turkic lance -->
+  <BA_Turkic_Lance.label>突厥骑枪</BA_Turkic_Lance.label>
+  
+  <!-- EN: turkic mace -->
+  <BA_Turkic_Mace.label>突厥钉头锤</BA_Turkic_Mace.label>
+  
+  <!-- EN: turkic saber -->
+  <BA_Turkic_Saber.label>突厥军刀</BA_Turkic_Saber.label>
+  
+  <!-- EN: turkic spear -->
+  <BA_Turkic_Spear.label>突厥长矛</BA_Turkic_Spear.label>
+  
+  <!-- EN: turkic yatagan -->
+  <BA_Turkic_Yatagan.label>突厥雅塔甘弯刀</BA_Turkic_Yatagan.label>
+  
+</LanguageData>

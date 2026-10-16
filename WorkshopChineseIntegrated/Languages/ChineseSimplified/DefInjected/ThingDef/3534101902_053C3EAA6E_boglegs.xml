@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_MuckPool.label>污秽</DV_MuckPool.label>
+    
+    <DV_Proj_Muck.label>污秽</DV_Proj_Muck.label>
+
+    <DV_Handwear_KnuckleDusters.label>指虎</DV_Handwear_KnuckleDusters.label>
+    <DV_Handwear_KnuckleDusters.description>一对金属指虎。它们能将集中力量到更小的区域，从而造成更大的伤害。</DV_Handwear_KnuckleDusters.description>
+    
+    <DV_TongoTable.label>通戈桌</DV_TongoTable.label><!-- 星际迷航 -->
+    <DV_TongoTable.description>为了玩通戈而设计的桌子。一种复杂的，战略性的，涉及失去银子的风险来参与到诸如对抗或撤退等冒险的游戏。\n\n这个游戏起源于阿瓦伊斯，沼兽种的母星，并且它的复杂程度导致乃至今日都没有能够正确的玩它的计算机。\n\n此建筑需要相邻的椅子或凳子来使用。\n\n\n\n在给定的回合中，玩家可以“对抗”、“躲避”、“获得”或“撤退”。每个企业都有一个“风险”金额、一个“买入”金额和一个“卖出”金额，其中风险金额等于卖出金额减去买入金额。玩家可以采取的其他可能行动包括“将保证金索引”、“将交易所索引”、“利用买入”和“转换储备金”。（DS9：“改变主意")\n\n可能的通戈手包括“完整财团”和“完全垄断”（后者高于前者）。（DS9：“改变主意"\n\n根据 Jadzia Dax 的说法，tongo 的关键是“当你确定自己比其他玩家处于更好的位置时，要面对。如果你的牌与掷骰子相匹配，那么你就赢了。（DS9：《子午线》）根据夸克的说法，tongo 不仅仅是“数字运算”;当时还没有一台计算机可以掌握游戏。（DS9：“改变主意")\n————星际迷航维基</DV_TongoTable.description>
+</LanguageData>

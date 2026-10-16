@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Ghoul_Stage_One.label>低等尼塔特</DankPyon_Ghoul_Stage_One.label>
+  <DankPyon_Ghoul_Stage_One.description>低等尼塔特的外观就像一具复活的尸体，对人肉有着贪得无厌的慾望。传说中，牠们特别喜欢潜伏在墓地和被遗弃的旷野。</DankPyon_Ghoul_Stage_One.description>
+  <DankPyon_Ghoul_Stage_One.tools.0.label>左爪</DankPyon_Ghoul_Stage_One.tools.0.label>
+  <DankPyon_Ghoul_Stage_One.tools.1.label>右爪</DankPyon_Ghoul_Stage_One.tools.1.label>
+  <DankPyon_Ghoul_Stage_One.tools.3.label>头</DankPyon_Ghoul_Stage_One.tools.3.label>
+
+
+  <!-- Ghoul Stage Two -->
+
+  <DankPyon_Ghoul_Stage_Two.label>尼塔特</DankPyon_Ghoul_Stage_Two.label>
+  <DankPyon_Ghoul_Stage_Two.description>这种尼塔特头上长着角，对人肉也有着贪得无厌的慾望，但比低等尼塔特更具危险性。传说中，牠们特别喜欢潜伏在墓地和被遗弃的旷野。</DankPyon_Ghoul_Stage_Two.description>
+  <DankPyon_Ghoul_Stage_Two.tools.0.label>左爪</DankPyon_Ghoul_Stage_Two.tools.0.label>
+  <DankPyon_Ghoul_Stage_Two.tools.1.label>右爪</DankPyon_Ghoul_Stage_Two.tools.1.label>
+  <DankPyon_Ghoul_Stage_Two.tools.3.label>头</DankPyon_Ghoul_Stage_Two.tools.3.label>
+
+  <DankPyon_Ghoul_Stage_Three.label>巨型尼塔特</DankPyon_Ghoul_Stage_Three.label>
+  <DankPyon_Ghoul_Stage_Three.description>传闻尼塔特在不断食用人肉后能够进化为巨型尼塔特，成长到了令人难以置信的体型，对人肉贪得无厌的欲望使它们演化出将人类一口吞下的能力，学者们至今仍无法确定巨型尼塔特这样做是出于偏好、生理需求或是某种未知的实用主义…。</DankPyon_Ghoul_Stage_Three.description>
+  <!--   <DankPyon_Ghoul_Stage_Three.comps.0.letterLabel>DankPyon_TrollSwallLabel</DankPyon_Ghoul_Stage_Three.comps.0.letterLabel>
+  <DankPyon_Ghoul_Stage_Three.comps.0.letterText>DankPyon_TrollSwallowDesc</DankPyon_Ghoul_Stage_Three.comps.0.letterText> -->
+  <DankPyon_Ghoul_Stage_Three.tools.0.label>左爪</DankPyon_Ghoul_Stage_Three.tools.0.label>
+  <DankPyon_Ghoul_Stage_Three.tools.1.label>右爪</DankPyon_Ghoul_Stage_Three.tools.1.label>
+  <DankPyon_Ghoul_Stage_Three.tools.3.label>嘴</DankPyon_Ghoul_Stage_Three.tools.3.label>
+  <DankPyon_Ghoul_Stage_Three.tools.4.label>头</DankPyon_Ghoul_Stage_Three.tools.4.label>
+
+</LanguageData>

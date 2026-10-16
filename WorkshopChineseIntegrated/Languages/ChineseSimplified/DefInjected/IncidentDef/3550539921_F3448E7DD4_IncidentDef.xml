@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: snaptoad sighting -->
+    <DA_SnaptoadSpawn.label>巨蟾目击事件</DA_SnaptoadSpawn.label>
+
+    <!-- EN: snaptoad froglet sighting -->
+    <DA_SnaptoadFrogletSpawn.label>幼年巨蟾目击事件</DA_SnaptoadFrogletSpawn.label>
+
+    <!-- EN: silvery mole spawn -->
+    <DA_SilveryMoleSpawn.label>银毛鼹鼠目击事件</DA_SilveryMoleSpawn.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: karabal -->
+  <DA_Karabal.label>卡拉巴</DA_Karabal.label>
+  <!-- EN: karabal puppy -->
+  <DA_Karabal.lifeStages.karabal_puppy.label>卡拉巴幼崽</DA_Karabal.lifeStages.karabal_puppy.label>
+  <!-- EN: karabal puppies -->
+  <DA_Karabal.lifeStages.karabal_puppy.labelPlural>卡拉巴幼崽们</DA_Karabal.lifeStages.karabal_puppy.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_PsychicShrineDrone.label>呪術祭壇のドローン</EES_PsychicShrineDrone.label>
+  <EES_PsychicShrineDrone.description>近隣の部族の呪術祭壇がこの地域にサイキックドローンを発信しています。{0}の入植者の精神が徐々に蝕まれます。祭壇を破壊するまで続きます。</EES_PsychicShrineDrone.description>
+  <EES_PsychicShrineDrone.endMessage>呪術祭壇のサイキックドローンが止みました。</EES_PsychicShrineDrone.endMessage>
+  <EES_PsychicShrineDrone.letterText>近隣の呪術祭壇が{0}の入植者を狙ったサイキックドローンを発信しています。</EES_PsychicShrineDrone.letterText>
+</LanguageData>

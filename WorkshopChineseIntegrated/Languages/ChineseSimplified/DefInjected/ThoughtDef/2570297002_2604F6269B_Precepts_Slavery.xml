@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suffered slavery -->
+  <VME_Slavery_Forbidden_HasBeenASlave.stages.suffered_slavery.label>受到奴役</VME_Slavery_Forbidden_HasBeenASlave.stages.suffered_slavery.label>
+  
+  <!-- EN: unemancipated slaves in colony -->
+  <VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.label>殖民地有未解放的奴隶</VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.label>
+  <!-- EN: There are slaves in the colony. We should emancipate them as soon as possible. -->
+  <VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.description>殖民地里有几名可怜的奴隶。我们应该尽快解放他们。</VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.description>
+  
+</LanguageData>

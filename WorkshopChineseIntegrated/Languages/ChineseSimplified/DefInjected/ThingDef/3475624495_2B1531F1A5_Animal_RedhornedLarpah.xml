@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <DA_Mote_RedFumes.label>微粒</DA_Mote_RedFumes.label>
+  
+  <!-- EN: red-horned larpah -->
+  <DA_RedhornedLarpah.label>红角拉法</DA_RedhornedLarpah.label>
+  <!-- EN: An elusive and deceitful creature, the red-horned larpah is a large leporidae with tall brown antlers protruding from it's head. While it may look gentle, larpah's apperence belies its predatory, fierce nature. As they grow older, a thick layer of dried blood from past battles coats their horns, earning them the moniker of "red-horned".\n\nDeadly and tough for its size, its aggressiveness rarely discourages hunters from trying their luck at slaying the beast for its durable pelt and valuable antlers, which can be turned into a powerful mixture. -->
+  <DA_RedhornedLarpah.description>一种狡诈的动物，红角拉法是一种大型的兔子，有着突出的长棕角。温和的外表不过是其掠食天性的伪装。随着年龄渐长，棕角上的血污逐渐为其赢得了红角拉法的昵称。\n\n尽管在同等体型内有着压倒性优势，猎人们可不会被吓跑，他们会狩猎红角拉法以获取珍贵的皮毛和角，后者可用于制作一种强力的药剂。</DA_RedhornedLarpah.description>
+  <!-- EN: horn -->
+  <DA_RedhornedLarpah.tools.horn.label>角</DA_RedhornedLarpah.tools.horn.label>
+  
+  <!-- EN: scarlet scent -->
+  <DA_ScarletScent.label>猩红香氛</DA_ScarletScent.label>
+  <!-- EN: A red mixture of bone marrow extracted from the antlers of a larpah and several herbs. It is consumed by burning the concoction and inhaling the fumes, which drastically increase one's abilities and strength.\n\nWhile the powerful drug is non-addictive, it can lead to a uncontrollable frenzy. -->
+  <DA_ScarletScent.description>一种用拉法的红角骨髓和数种草药混合而成的红色混合物。通过焚烧并吸入烟气，能极大增强使用者的能力和力量。\n\n尽管这种强效的药物不会上瘾，但它可能会导致不受控的狂怒。</DA_ScarletScent.description>
+  <!-- EN: Inhale {0} -->
+  <DA_ScarletScent.ingestible.ingestCommandString>吸入{0}</DA_ScarletScent.ingestible.ingestCommandString>
+  <!-- EN: Inhaling {0}. -->
+  <DA_ScarletScent.ingestible.ingestReportString>吸入{0}</DA_ScarletScent.ingestible.ingestReportString>
+  
+  <!-- EN: unfinished scarlet scent -->
+  <DA_UnfinishedScarlentScent.label>未完成的猩红香氛</DA_UnfinishedScarlentScent.label>
+  <!-- EN: Unfinished scarlet scent that is still in the mixing process. -->
+  <DA_UnfinishedScarlentScent.description>还在混合中的猩红香氛。</DA_UnfinishedScarlentScent.description>
+  
+</LanguageData>

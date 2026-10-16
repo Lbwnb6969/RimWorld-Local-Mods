@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wheellock hand mortar -->
+  <TA_WheellockHandMortar.label>轮燧手炮</TA_WheellockHandMortar.label>
+  <!-- EN: . -->
+  <TA_WheellockHandMortar.description>采用轮式击发机构的手持迫击炮，可发射小型爆炸物。</TA_WheellockHandMortar.description>
+  <!-- EN: stock -->
+  <TA_WheellockHandMortar.tools.stock.label>炮托</TA_WheellockHandMortar.tools.stock.label>
+  <!-- EN: barrel -->
+  <TA_WheellockHandMortar.tools.barrel.label>炮管</TA_WheellockHandMortar.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <TA_WheellockHandMortar.tools.muzzle.label>炮口</TA_WheellockHandMortar.tools.muzzle.label>
+  <!-- EN: wheellock hand mortar -->
+  <TA_WheellockHandMortar.verbs.Verb_ShootCE.label>轮燧手炮射击</TA_WheellockHandMortar.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

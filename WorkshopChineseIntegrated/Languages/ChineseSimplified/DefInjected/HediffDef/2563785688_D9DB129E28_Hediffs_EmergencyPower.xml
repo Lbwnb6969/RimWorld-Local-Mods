@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: emergency power -->
+  <TabulaRasa_EmergencyPower.label>后备能源</TabulaRasa_EmergencyPower.label>
+  <!-- EN: Extremely low energy, only running on emergency reserves. Without additional energy soon, the pawn will not be able to get back up. -->
+  <TabulaRasa_EmergencyPower.description>此单位因能量不足而启动了作为应急手段的后备能源。如果得不到及时补充，很快便会永久关机。</TabulaRasa_EmergencyPower.description>
+  <!-- EN: minor -->
+  <TabulaRasa_EmergencyPower.stages.minor.label>较轻</TabulaRasa_EmergencyPower.stages.minor.label>
+  <!-- EN: moderate -->
+  <TabulaRasa_EmergencyPower.stages.moderate.label>中等</TabulaRasa_EmergencyPower.stages.moderate.label>
+  <!-- EN: severe -->
+  <TabulaRasa_EmergencyPower.stages.severe.label>严重</TabulaRasa_EmergencyPower.stages.severe.label>
+  <!-- EN: extreme -->
+  <TabulaRasa_EmergencyPower.stages.extreme.label>极重</TabulaRasa_EmergencyPower.stages.extreme.label>
+  
+</LanguageData>

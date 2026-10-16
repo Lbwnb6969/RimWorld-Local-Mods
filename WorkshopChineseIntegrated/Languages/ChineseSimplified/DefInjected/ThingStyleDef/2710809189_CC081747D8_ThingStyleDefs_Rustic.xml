@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crude polearm -->
+  <AM_Rustic_Ikwa.overrideLabel>土制战斧</AM_Rustic_Ikwa.overrideLabel>
+  
+  <!-- EN: mallet -->
+  <AM_Rustic_Mace.overrideLabel>大锤</AM_Rustic_Mace.overrideLabel>
+  
+  <!-- EN: partisan -->
+  <AM_Rustic_Spear.overrideLabel>阔头枪</AM_Rustic_Spear.overrideLabel>
+  
+</LanguageData>

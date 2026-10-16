@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decreased -->
+  <AM_FertilityIssue_Decreased.label>降低</AM_FertilityIssue_Decreased.label>
+  <!-- EN: While the drive for reproduction is natural, we must temper our urges. The unchecked spread of life can overwhelm our resources and disrupt the balance. -->
+  <AM_FertilityIssue_Decreased.description>尽管繁衍欲望的产生是很正常的事情，但我们必须加以节制。肆意孕育生命只会耗尽我们的资源和扰乱自然平衡。</AM_FertilityIssue_Decreased.description>
+  
+  <!-- EN: increased -->
+  <AM_FertilityIssue_Increased.label>提高</AM_FertilityIssue_Increased.label>
+  <!-- EN: We believe in the boundless potential of life. Our efforts to enhance fertility will ensure that the future is abundant with new beginnings. -->
+  <AM_FertilityIssue_Increased.description>我们坚信生命的潜力是无穷的。通过尽可能地提高生育能力，我们将确保未来始于稳固的新开端。</AM_FertilityIssue_Increased.description>
+  <!-- EN: a child was born -->
+  <AM_FertilityIssue_Increased.comps.0.eventLabel>新生儿</AM_FertilityIssue_Increased.comps.0.eventLabel>
+  
+  <!-- EN: normal -->
+  <AM_FertilityIssue_Normal.label>普通</AM_FertilityIssue_Normal.label>
+  <!-- EN: We respect the natural rhythms of life. -->
+  <AM_FertilityIssue_Normal.description>我们尊重生命的自然规律。</AM_FertilityIssue_Normal.description>
+  
+</LanguageData>

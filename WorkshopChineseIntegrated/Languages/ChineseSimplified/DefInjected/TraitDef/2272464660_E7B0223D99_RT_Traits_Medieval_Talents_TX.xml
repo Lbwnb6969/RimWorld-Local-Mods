@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: <color=#ff6fff>No Talent</color> -->
+  <RT_TalentNoTalent.degreeDatas.colorff6fffNo_Talentcolor.label>&lt;color=#ff6fff>没有天赋&lt;/color></RT_TalentNoTalent.degreeDatas.colorff6fffNo_Talentcolor.label>
+  <!-- EN: [PAWN_nameDef] has no talent. None whatsoever -->
+  <RT_TalentNoTalent.degreeDatas.colorff6fffNo_Talentcolor.description>[PAWN_nameDef]没有天赋。什么都不会。</RT_TalentNoTalent.degreeDatas.colorff6fffNo_Talentcolor.description>
+  
+</LanguageData>

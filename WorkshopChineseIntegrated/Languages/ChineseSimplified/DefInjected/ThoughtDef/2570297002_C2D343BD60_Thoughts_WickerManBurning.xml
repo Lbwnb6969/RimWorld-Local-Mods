@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: glorious wicker man burning -->
+  <VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.label>充满荣耀的柳条人火刑</VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.label>
+  <!-- EN: We will forever remember the thrashing of the prisoner, the frightened crescendo of screams as another soul was consumed by the holy flames. -->
+  <VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.description>那次柳条人火刑简直太棒了！我们将永远铭记囚犯所遭受的痛苦，被圣火所吞噬的灵魂发出的惊恐尖叫声将长久回荡在我们的脑海中。</VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.description>
+  
+  <!-- EN: good wicker man burning -->
+  <VME_GoodWickerManBurning.stages.good_wicker_man_burning.label>令人满意的柳条人火刑</VME_GoodWickerManBurning.stages.good_wicker_man_burning.label>
+  <!-- EN: The anguished cries of the prisoner will resonate with us for a long time, another soul consumed by the flames. -->
+  <VME_GoodWickerManBurning.stages.good_wicker_man_burning.description>那次柳条人火刑令人满意。囚犯痛苦的哀号会在很长一段时间里引起我们的共鸣。啊...又一个被火焰所吞噬的灵魂。</VME_GoodWickerManBurning.stages.good_wicker_man_burning.description>
+  
+  <!-- EN: lackluster wicker man burning -->
+  <VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.label>枯燥乏味的柳条人火刑</VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.label>
+  <!-- EN: The prisoner just burned to death too fast, and the fire didn't even lift our spirits much. -->
+  <VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.description>那次柳条人火刑实在是枯燥乏味。囚犯们很快就被烧死了，火焰甚至没能让我们重新振作起来。</VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.description>
+  
+  <!-- EN: terrible wicker man burning -->
+  <VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.label>糟糕的柳条人火刑</VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.label>
+  <!-- EN: The whole ritual smelled like rotten bacon. And, inexplicably the prisoner kept shouting "No! Not the bees!". What was that all about? -->
+  <VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.description>那次柳条人火刑实在是太糟糕了！着火的囚犯们不停地挣扎着摇晃笼子，并散发出腐烂熏肉般的味道。</VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.description>
+  
+</LanguageData>

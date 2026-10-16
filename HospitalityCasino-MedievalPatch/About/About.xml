@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Hospitality: Casino - Medieval Compatibility Patch</name>
+  <author>Local compatibility patch</author>
+  <packageId>Local.HospitalityCasino.MedievalPatch</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Medieval technology and recipe compatibility for Hospitality: Casino.</description>
+  <modDependencies>
+    <li>
+      <packageId>Adamas.HospitalityCasino</packageId>
+      <displayName>Hospitality: Casino</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2939292644</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>DankPyon.Medieval.Overhaul</packageId>
+      <displayName>Medieval Overhaul</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3219596926</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Adamas.HospitalityCasino</li>
+    <li>DankPyon.Medieval.Overhaul</li>
+  </loadAfter>
+</ModMetaData>

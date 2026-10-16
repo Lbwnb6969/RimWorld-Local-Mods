@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neo amanita -->
+  <RG_NeoAmanita.label>新生鹅膏菌</RG_NeoAmanita.label>
+  <!-- EN: A genetically engineered version of the common amanita to be save for human consumption growing in clusters. It grows exclusively in tropical regions. -->
+  <RG_NeoAmanita.description>放心吧，这种经过基因工程改造的鹅膏菌既无毒又美味，吃下去后也不必担心会看到五彩小人。只能在热带地区中生长。</RG_NeoAmanita.description>
+  
+  <!-- EN: oxalis -->
+  <RG_Plant_Oxalis.label>酢浆草</RG_Plant_Oxalis.label>
+  <!-- EN: A small purple flower which grows in large clusters. -->
+  <RG_Plant_Oxalis.description>一种长成一大簇的紫色小花。</RG_Plant_Oxalis.description>
+  
+  <!-- EN: plumeria -->
+  <RG_Plant_Plumeria.label>鸡蛋花</RG_Plant_Plumeria.label>
+  <!-- EN: A soft	velvety flower which grows in large clusters. -->
+  <RG_Plant_Plumeria.description>一种长成一大簇的软绒小花。</RG_Plant_Plumeria.description>
+  
+  <!-- EN: palm tree -->
+  <RG_Plant_TallPalmTree.label>棕榈树</RG_Plant_TallPalmTree.label>
+  <!-- EN: A tropical tree with a long naked trunk topped by a cluster of very broad leaves. Unfortunately, this variety doesn't produce any edible coconuts. -->
+  <RG_Plant_TallPalmTree.description>一种热带树木，有长而裸露的树干，顶部有一簇非常宽大的树叶。这个品种不会产生椰子。</RG_Plant_TallPalmTree.description>
+  
+  <!-- EN: tidalis -->
+  <RG_Plant_Tidalis.label>雨林常春藤</RG_Plant_Tidalis.label>
+  <!-- EN: A genetically altered version of common ivy crossed with a tropical flower adapted to thrive in tropical areas. -->
+  <RG_Plant_Tidalis.description>将普通常春藤与某种热带花朵杂交后创造出的基因工程改造植物。</RG_Plant_Tidalis.description>
+  
+  <!-- EN: dwarf palm tree -->
+  <RG_Plant_TreeDwarfPalm.label>矮棕榈树</RG_Plant_TreeDwarfPalm.label>
+  <!-- EN: A short tropical tree with a naked trunk topped by a cluster of very broad leaves. -->
+  <RG_Plant_TreeDwarfPalm.description>一种热带树木，有矮而裸露的树干，顶部有一簇非常宽大的树叶。</RG_Plant_TreeDwarfPalm.description>
+  
+  <!-- EN: brambles -->
+  <RG_Plant_TropicalBrambles.label>荆棘</RG_Plant_TropicalBrambles.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <RG_Plant_TropicalBrambles.description>布满叶子的缠结带棘的小灌木。从上面走过时速度会变慢一点点。</RG_Plant_TropicalBrambles.description>
+  
+  <!-- EN: chokevine -->
+  <RG_Plant_TropicalChokevine.label>勒藤</RG_Plant_TropicalChokevine.label>
+  <!-- EN: Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatly slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark. -->
+  <RG_Plant_TropicalChokevine.description>缠结带棘且依附在地面上大量生长的藤本植物。许多部落都不约而同地创造出了勒藤会在晚上掐死小孩的故事，以此来警示孩子们要在天黑前乖乖回家。</RG_Plant_TropicalChokevine.description>
+  
+  <!-- EN: fern -->
+  <RG_Plant_TropicalFern.label>蕨草</RG_Plant_TropicalFern.label>
+  <!-- EN: A short shrub with long, fine leaves. Grows in tropical areas. -->
+  <RG_Plant_TropicalFern.description>生长在热带地区的矮小灌木，叶子又长又细。</RG_Plant_TropicalFern.description>
+  
+  <!-- EN: ivy -->
+  <RG_Plant_TropicalIvy.label>常春藤</RG_Plant_TropicalIvy.label>
+  <!-- EN: Wild ivy with leafs that grows in patches of leaves in areas of tropical temperatures. -->
+  <RG_Plant_TropicalIvy.description>生长在热带地区的野生常春藤。</RG_Plant_TropicalIvy.description>
+  
+</LanguageData>

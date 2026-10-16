@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_IntelData_T1Core.label>情報データ(ティア1)</EES_IntelData_T1Core.label>
+  <EES_IntelData_T1Core.description>敵前哨基地の配置・戦力・施設を記録した暗号化データコア。低ティア(T1〜T5)の拠点を遠隔偵察できる。エキゾチック商人からのみ入手可能で、製作はできない。</EES_IntelData_T1Core.description>
+  <EES_IntelData_T2Core.label>情報データ(ティア2)</EES_IntelData_T2Core.label>
+  <EES_IntelData_T2Core.description>敵前哨基地の配置・戦力・施設を記録した高密度の暗号化データコア。中ティア(T1〜T8)の拠点まで遠隔偵察できる。エキゾチック商人からのみ入手可能で、製作はできない。</EES_IntelData_T2Core.description>
+  <EES_IntelData_T3Core.label>情報データ(ティア3)</EES_IntelData_T3Core.label>
+  <EES_IntelData_T3Core.description>敵前哨基地の配置・戦力・施設を記録した最高級の暗号化データコア。高ティア(T1〜T12)の拠点まで遠隔偵察できる。エキゾチック商人からごく稀にのみ入手可能で、製作はできない。</EES_IntelData_T3Core.description>
+</LanguageData>

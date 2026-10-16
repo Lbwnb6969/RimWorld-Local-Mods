@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpha perpetual -->
+  <BEWH_PerpetualAlpha.label>Ⅲ级永生者</BEWH_PerpetualAlpha.label>
+  <!-- EN: Carriers of this gene are trully immortal, they do not age and able to eventually regenerate from nearly any wound, no matter how devastating, due to their rapid and efficient cellular regeneration. -->
+  <BEWH_PerpetualAlpha.description>此基因的携带者做到了真正的永生。他们不会衰老，并且由于其强大的细胞再生能力，他们几乎能够从任何伤势中恢复，无论伤势多么严重。</BEWH_PerpetualAlpha.description>
+  <!-- EN: Will resurrect from most lethal injuries within half a day. -->
+  <BEWH_PerpetualAlpha.customEffectDescriptions.0>能够在半天内从大部分致命伤害中恢复。</BEWH_PerpetualAlpha.customEffectDescriptions.0>
+  <!-- EN: Greatly enhanced self healing capabilities, including healing permanent wounds and restoration of lost limbs. -->
+  <BEWH_PerpetualAlpha.customEffectDescriptions.1>拥有极强的再生能力，能够治愈永久性伤口和修复失去的肢体。</BEWH_PerpetualAlpha.customEffectDescriptions.1>
+  
+  <!-- EN: beta perpetual -->
+  <BEWH_PerpetualBeta.label>Ⅱ级永生者</BEWH_PerpetualBeta.label>
+  <!-- EN: Carriers of this gene are functionally immortal, they do not age and able to recover from severe injuries due to their rapid and efficient cellular regeneration. -->
+  <BEWH_PerpetualBeta.description>此基因的携带者做到了生物学意义上的永生。他们不会衰老，并且由于其强大的细胞再生能力，能够从严重的伤势中恢复。</BEWH_PerpetualBeta.description>
+  <!-- EN: Will resurrect from most lethal injuries after 1-2 days. -->
+  <BEWH_PerpetualBeta.customEffectDescriptions.0>能够在1~2天后从大部分致命伤害中恢复。O</BEWH_PerpetualBeta.customEffectDescriptions.0>
+  <!-- EN: Enhanced self healing capabilities, including healing permanent wounds and restoration of lost limbs. -->
+  <BEWH_PerpetualBeta.customEffectDescriptions.1>拥有较强的再生能力，能够治愈永久性伤口和修复失去的肢体。</BEWH_PerpetualBeta.customEffectDescriptions.1>
+  
+  <!-- EN: gamma perpetual -->
+  <BEWH_PerpetualGamma.label>Ⅰ级永生者</BEWH_PerpetualGamma.label>
+  <!-- EN: Carriers of this gene are effectively immortal, they do not age and can eventually recover from most injuries due to their rapid and efficient cellular regeneration. -->
+  <BEWH_PerpetualGamma.description>此基因的携带者应该实际上是永生的。他们不会衰老，并且由于其强大的细胞再生能力，能够从大部分伤势中恢复。</BEWH_PerpetualGamma.description>
+  <!-- EN: Will resurrect from most lethal injuries after 3-4 days. -->
+  <BEWH_PerpetualGamma.customEffectDescriptions.0>能够在3~4天后从大部分致命伤害中恢复。</BEWH_PerpetualGamma.customEffectDescriptions.0>
+  <!-- EN: Self healing capabilities, including healing permanent wounds and restoration of lost limbs. -->
+  <BEWH_PerpetualGamma.customEffectDescriptions.1>拥有再生能力，能够治愈永久性伤口和修复失去的肢体。</BEWH_PerpetualGamma.customEffectDescriptions.1>
+  
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol warmth -->
+  <VFEM2_Inebriated.stages.alcohol_warmth.label>醉酒（暖和）</VFEM2_Inebriated.stages.alcohol_warmth.label>
+  <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+  <VFEM2_Inebriated.stages.alcohol_warmth.description>喝了点酒后，我感觉轻松了一些。还蛮不错的。</VFEM2_Inebriated.stages.alcohol_warmth.description>
+  <!-- EN: quite inebriated -->
+  <VFEM2_Inebriated.stages.quite_inebriated.label>醉酒（微醺）</VFEM2_Inebriated.stages.quite_inebriated.label>
+  <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+  <VFEM2_Inebriated.stages.quite_inebriated.description>我感觉有点晕晕的！这可真是令人心情愉悦啊。</VFEM2_Inebriated.stages.quite_inebriated.description>
+  <!-- EN: drunk -->
+  <VFEM2_Inebriated.stages.drunk.label>醉酒（飘飘然）</VFEM2_Inebriated.stages.drunk.label>
+  <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+  <VFEM2_Inebriated.stages.drunk.description>我感觉如此的不羁和无所畏惧！这真是段美好的时光！</VFEM2_Inebriated.stages.drunk.description>
+  <!-- EN: hammered -->
+  <VFEM2_Inebriated.stages.hammered.label>醉酒（断片）</VFEM2_Inebriated.stages.hammered.label>
+  <!-- EN: Wooo! What's going on? -->
+  <VFEM2_Inebriated.stages.hammered.description>哇哦！发生...什么事了？</VFEM2_Inebriated.stages.hammered.description>
+  
+</LanguageData>

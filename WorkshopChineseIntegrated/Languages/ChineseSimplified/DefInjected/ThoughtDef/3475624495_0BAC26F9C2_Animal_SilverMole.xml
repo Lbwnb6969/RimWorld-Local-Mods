@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate cooked white truffle -->
+  <DA_AteCookedWhiteTruffle.stages.ate_cooked_white_truffle.label>吃了烹饪过的白松茸</DA_AteCookedWhiteTruffle.stages.ate_cooked_white_truffle.label>
+  <!-- EN: I ate a delicate white mushroom. The sublime taste accompanies my food perfectly. -->
+  <DA_AteCookedWhiteTruffle.stages.ate_cooked_white_truffle.description>我吃了一顿极好的白松茸，这绝赞的味道和我的食物完美地搭配在了一起。</DA_AteCookedWhiteTruffle.stages.ate_cooked_white_truffle.description>
+  
+  <!-- EN: ate raw white truffle -->
+  <DA_AteWhiteTruffle.stages.ate_raw_white_truffle.label>吃了生的白松茸。</DA_AteWhiteTruffle.stages.ate_raw_white_truffle.label>
+  <!-- EN: I ate a delicate white mushroom. While it would taste much better cooked and prepared, it tasted very good by itself. -->
+  <DA_AteWhiteTruffle.stages.ate_raw_white_truffle.description>我吃了一顿极好的白松茸，尽管烹饪后可能更好吃，但它本身已经很不错了。</DA_AteWhiteTruffle.stages.ate_raw_white_truffle.description>
+  
+</LanguageData>

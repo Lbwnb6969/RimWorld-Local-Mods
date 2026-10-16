@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: goldilox -->
+  <DA_Goldilox.label>金牦</DA_Goldilox.label>
+  <!-- EN: Tales are told of a gleaming giant gilding the very earth it walks upon, making a king out of the poorest serf with the treasure left in its wake. Many such myths surround the fabled goldilox, a legendary beast who roams the world. While peaceful by nature, goldilox is a fierce defender, trampling any who incur its wrath beneath golden hooves.\n\nThe few who ever managed to tame the beast were rewarded with a rich and creamy milk, and its glistening wool rumored to be made out of genuine gold. -->
+  <DA_Goldilox.description>传说有一个闪闪发光的巨人把它走过的土地都镀金了，能把最贫穷的农奴变成了国王。许多类似这样的神话都围绕着传说中的金牦，一只漫游世界的传奇野兽。虽然生性平和，但金牦是一个凶猛的捍卫者，它会用它的金蹄践踏任何招致它愤怒的人。驯服这头野兽的人得到了丰厚而柔滑的牛奶作为奖励，据说它闪闪发光的毛是用真金制成的。</DA_Goldilox.description>
+  <!-- EN: horn -->
+  <DA_Goldilox.tools.horn.label>角</DA_Goldilox.tools.horn.label>
+  <!-- EN: head -->
+  <DA_Goldilox.tools.head.label>头</DA_Goldilox.tools.head.label>
+  
+  <!-- EN: regal milk -->
+  <DA_RegalMilk.label>皇家乳汁</DA_RegalMilk.label>
+  <!-- EN: The rich and creamy milk of a goldilox. While it taste better raw, it still maintain some of its flavors when cooked. -->
+  <DA_RegalMilk.description>金牦丰厚而柔滑的乳汁。尽管生食更佳，但烹饪后也能保留一点原味。</DA_RegalMilk.description>
+  
+</LanguageData>

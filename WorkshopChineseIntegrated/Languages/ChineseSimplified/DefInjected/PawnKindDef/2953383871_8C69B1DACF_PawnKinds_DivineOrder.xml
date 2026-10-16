@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: champion -->
+  <BotchJob_DivineOrderChampion.label>冠军</BotchJob_DivineOrderChampion.label>
+  <BotchJob_DivineOrderChampion.labelPlural>冠军</BotchJob_DivineOrderChampion.labelPlural>
+  
+  <!-- EN: commoner -->
+  <BotchJob_DivineOrderCommoner.label>平民</BotchJob_DivineOrderCommoner.label>
+  <BotchJob_DivineOrderCommoner.labelPlural>平民</BotchJob_DivineOrderCommoner.labelPlural>
+  
+  <!-- EN: conscript -->
+  <BotchJob_DivineOrderConscript.label>被征募者</BotchJob_DivineOrderConscript.label>
+  <BotchJob_DivineOrderConscript.labelPlural>被征募者</BotchJob_DivineOrderConscript.labelPlural>
+  
+  <!-- EN: crusader -->
+  <BotchJob_DivineOrderCrusader.label>十字军战士</BotchJob_DivineOrderCrusader.label>
+  <BotchJob_DivineOrderCrusader.labelPlural>十字军战士</BotchJob_DivineOrderCrusader.labelPlural>
+  
+  <!-- EN: fighter -->
+  <BotchJob_DivineOrderFighter.label>战士</BotchJob_DivineOrderFighter.label>
+  <BotchJob_DivineOrderFighter.labelPlural>战士</BotchJob_DivineOrderFighter.labelPlural>
+  
+  <!-- EN: herald -->
+  <BotchJob_DivineOrderHerald.label>传令官</BotchJob_DivineOrderHerald.label>
+  <BotchJob_DivineOrderHerald.labelPlural>传令官</BotchJob_DivineOrderHerald.labelPlural>
+  
+  <!-- EN: inquisitor -->
+  <BotchJob_DivineOrderInquisitor.label>审判官</BotchJob_DivineOrderInquisitor.label>
+  <BotchJob_DivineOrderInquisitor.labelPlural>审判官</BotchJob_DivineOrderInquisitor.labelPlural>
+  
+  <!-- EN: knight -->
+  <BotchJob_DivineOrderKnight.label>骑士</BotchJob_DivineOrderKnight.label>
+  <BotchJob_DivineOrderKnight.labelPlural>骑士</BotchJob_DivineOrderKnight.labelPlural>
+  
+  <!-- EN: merchant -->
+  <BotchJob_DivineOrderMerchant.label>商人</BotchJob_DivineOrderMerchant.label>
+  <BotchJob_DivineOrderMerchant.labelPlural>商人</BotchJob_DivineOrderMerchant.labelPlural>
+  
+  <!-- EN: scout -->
+  <BotchJob_DivineOrderScout.label>侦察兵</BotchJob_DivineOrderScout.label>
+  <BotchJob_DivineOrderScout.labelPlural>侦察兵</BotchJob_DivineOrderScout.labelPlural>
+  
+  <!-- EN: sharpshooter -->
+  <BotchJob_DivineOrderSharpshooter.label>神射手</BotchJob_DivineOrderSharpshooter.label>
+  <BotchJob_DivineOrderSharpshooter.labelPlural>神射手</BotchJob_DivineOrderSharpshooter.labelPlural>
+  
+  <!-- EN: standard bearer -->
+  <BotchJob_DivineOrderStandardBearer.label>旗手</BotchJob_DivineOrderStandardBearer.label>
+  <BotchJob_DivineOrderStandardBearer.labelPlural>旗手</BotchJob_DivineOrderStandardBearer.labelPlural>
+
+  <BotchJob_DivineOrderDefector.label>叛逃者</BotchJob_DivineOrderDefector.label>
+  <BotchJob_DivineOrderDefector.labelPlural>叛逃者</BotchJob_DivineOrderDefector.labelPlural>
+
+</LanguageData>

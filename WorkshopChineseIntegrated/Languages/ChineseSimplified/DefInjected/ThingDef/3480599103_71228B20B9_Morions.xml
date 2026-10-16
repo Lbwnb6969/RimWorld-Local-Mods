@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cabasset -->
+  <TA_Cabasset.label>轻盔</TA_Cabasset.label>
+  <!-- EN: . -->
+  <TA_Cabasset.description>西班牙风格的轻型头盔，带有高耸的盔顶。</TA_Cabasset.description>
+  
+  <!-- EN: morion -->
+  <TA_Morion.label>西班牙盔</TA_Morion.label>
+  <!-- EN: . -->
+  <TA_Morion.description>16世纪西班牙军队的标志性头盔，带有独特的波浪形盔檐。</TA_Morion.description>
+  
+</LanguageData>

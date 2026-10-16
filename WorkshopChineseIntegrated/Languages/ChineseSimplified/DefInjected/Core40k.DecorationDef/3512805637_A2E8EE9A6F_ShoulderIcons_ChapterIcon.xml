@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Dark Angels -->
+  <BEWH_ChapterIconI.label>黑暗天使</BEWH_ChapterIconI.label>
+  <!-- EN: Legion icon of the Dark Angels. -->
+  <BEWH_ChapterIconI.description>黑暗天使</BEWH_ChapterIconI.description>
+  
+  <!-- EN: Emperor's Children -->
+  <BEWH_ChapterIconIII.label>帝皇之子</BEWH_ChapterIconIII.label>
+  <!-- EN: Legion icon of the Emperor's Children. -->
+  <BEWH_ChapterIconIII.description>帝皇之子</BEWH_ChapterIconIII.description>
+  
+  <!-- EN: Iron Warriors -->
+  <BEWH_ChapterIconIV.label>钢铁勇士</BEWH_ChapterIconIV.label>
+  <!-- EN: Legion icon of the Iron Warriors. -->
+  <BEWH_ChapterIconIV.description>钢铁勇士徽章</BEWH_ChapterIconIV.description>
+  
+  <!-- EN: Blood Angels -->
+  <BEWH_ChapterIconIX.label>圣血天使</BEWH_ChapterIconIX.label>
+  <!-- EN: Legion icon of the Blood Angels. -->
+  <BEWH_ChapterIconIX.description>圣血天使徽章</BEWH_ChapterIconIX.description>
+  
+  <!-- EN: White Scars -->
+  <BEWH_ChapterIconV.label>白色疤痕</BEWH_ChapterIconV.label>
+  <!-- EN: Legion icon of the White Scars. -->
+  <BEWH_ChapterIconV.description>白色疤痕徽章</BEWH_ChapterIconV.description>
+  
+  <!-- EN: Space Wolves -->
+  <BEWH_ChapterIconVI.label>太空野狼</BEWH_ChapterIconVI.label>
+  <!-- EN: Legion icon of the Space Wolves. -->
+  <BEWH_ChapterIconVI.description>太空野狼徽章</BEWH_ChapterIconVI.description>
+  
+  <!-- EN: Imperial Fists -->
+  <BEWH_ChapterIconVII.label>帝国之拳</BEWH_ChapterIconVII.label>
+  <!-- EN: Legion icon of the Imperial Fists. -->
+  <BEWH_ChapterIconVII.description>帝国之拳徽章</BEWH_ChapterIconVII.description>
+  
+  <!-- EN: Night Lords -->
+  <BEWH_ChapterIconVIII.label>午夜领主</BEWH_ChapterIconVIII.label>
+  <!-- EN: Legion icon of the Night Lords. -->
+  <BEWH_ChapterIconVIII.description>午夜领主徽章</BEWH_ChapterIconVIII.description>
+  
+  <!-- EN: Iron Hands -->
+  <BEWH_ChapterIconX.label>钢铁之手</BEWH_ChapterIconX.label>
+  <!-- EN: Legion icon of the Iron Hands. -->
+  <BEWH_ChapterIconX.description>钢铁之手徽章</BEWH_ChapterIconX.description>
+  
+  <!-- EN: World Eaters -->
+  <BEWH_ChapterIconXII.label>吞世者</BEWH_ChapterIconXII.label>
+  <!-- EN: Legion icon of the World Eaters. -->
+  <BEWH_ChapterIconXII.description>吞世者徽章</BEWH_ChapterIconXII.description>
+  
+  <!-- EN: Ultramarines -->
+  <BEWH_ChapterIconXIII.label>极限战士</BEWH_ChapterIconXIII.label>
+  <!-- EN: Legion icon of the Ultramarines. -->
+  <BEWH_ChapterIconXIII.description>极限战士徽章</BEWH_ChapterIconXIII.description>
+  
+  <!-- EN: Death Guard -->
+  <BEWH_ChapterIconXIV.label>死亡守卫</BEWH_ChapterIconXIV.label>
+  <!-- EN: Legion icon of the Death Guard. -->
+  <BEWH_ChapterIconXIV.description>死亡守卫徽章</BEWH_ChapterIconXIV.description>
+  
+  <!-- EN: Raven Guard -->
+  <BEWH_ChapterIconXIX.label>暗鸦守卫</BEWH_ChapterIconXIX.label>
+  <!-- EN: Legion icon of the Raven Guard. -->
+  <BEWH_ChapterIconXIX.description>暗鸦守卫徽章</BEWH_ChapterIconXIX.description>
+  
+  <!-- EN: Thousand Sons -->
+  <BEWH_ChapterIconXV.label>千疮之子</BEWH_ChapterIconXV.label>
+  <!-- EN: Legion icon of the Thousand Sons. -->
+  <BEWH_ChapterIconXV.description>千疮之子徽章</BEWH_ChapterIconXV.description>
+  
+  <!-- EN: Sons of Horus -->
+  <BEWH_ChapterIconXVI.label>荷鲁斯之子</BEWH_ChapterIconXVI.label>
+  <!-- EN: Legion icon of the Sons of Horus. -->
+  <BEWH_ChapterIconXVI.description>荷鲁斯之子徽章</BEWH_ChapterIconXVI.description>
+  
+  <!-- EN: Word Bearers -->
+  <BEWH_ChapterIconXVII.label>怀言者</BEWH_ChapterIconXVII.label>
+  <!-- EN: Legion icon of the Word Bearers. -->
+  <BEWH_ChapterIconXVII.description>怀言者徽章</BEWH_ChapterIconXVII.description>
+  
+  <!-- EN: Salamanders -->
+  <BEWH_ChapterIconXVIII.label>火蜥蜴</BEWH_ChapterIconXVIII.label>
+  <!-- EN: Legion icon of the Salamanders. -->
+  <BEWH_ChapterIconXVIII.description>火蜥蜴徽章</BEWH_ChapterIconXVIII.description>
+  
+  <!-- EN: Alpha Legion -->
+  <BEWH_ChapterIconXX.label>阿尔法军团</BEWH_ChapterIconXX.label>
+  <!-- EN: Legion icon of the Alpha Legion. -->
+  <BEWH_ChapterIconXX.description>阿尔法军团徽章</BEWH_ChapterIconXX.description>
+  
+</LanguageData>

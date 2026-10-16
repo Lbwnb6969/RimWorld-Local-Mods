@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: battering ram -->
+  <RimSiege_BatteringRam.label>攻城冲车</RimSiege_BatteringRam.label>
+  <!-- EN: A wheeled ram under a wooden roof. A crew shelters beneath it and drives the iron head into a door or wall. Slow, but no wall likes it. -->
+  <RimSiege_BatteringRam.description>一种带有木制顶棚的轮式冲车。操作人员在下方掩护，驱动铁头撞击门或城墙。速度缓慢，但没有哪堵墙喜欢它。</RimSiege_BatteringRam.description>
+  
+  <!-- EN: siege tower -->
+  <RimSiege_SiegeTower.label>攻城塔</RimSiege_SiegeTower.label>
+  <!-- EN: A tall wooden tower on wheels. A crew pushes it up to the rampart; once docked, the drawbridge drops and the attackers pour over the wall. The wall stays standing - they come over the top. -->
+  <RimSiege_SiegeTower.description>一种带轮子的高大木制塔楼。操作人员将其推至城墙边；一旦靠拢，吊桥落下，攻击者涌过城墙。城墙仍然屹立——他们从上方越过去。</RimSiege_SiegeTower.description>
+  
+</LanguageData>

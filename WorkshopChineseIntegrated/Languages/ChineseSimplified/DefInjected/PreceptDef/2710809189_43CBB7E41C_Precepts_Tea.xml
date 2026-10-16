@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_TeaDrinking_Required.label>必要</AM_TeaDrinking_Required.label>
+  
+  <AM_TeaDrinking_Required.description>饮茶可不只是单纯地喝饮料而已；这一传统的静谧时刻能让我们沉心深思。对我们而言，饮茶是每个人都应尽到的神圣职责。\n\n&lt;color=#E5E54C&gt;解锁需求：&lt;/color&gt;\n - 饮茶需求。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 当殖民者拥有“合理的期望”及以上时，此戒律新增的饮茶需求才会显示。\n- 精神茶可以满足0.15饮茶需求值，普通的茶可以满足0.4饮茶需求值，特制的茶（源自Vanilla Brewing Expanded - Coffees and Teas）可以满足0.5饮茶需求值。</AM_TeaDrinking_Required.description>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DV_PirateKeshig.label>怯薛部落</DV_PirateKeshig.label>
+  <DV_PirateKeshig.description>一个由野蛮、天生铠甲的怯薛战士组成的紧密联盟。虽然对外来很者警惕，但他们对外交接触保持中立，甚至允许贸易。无论是为了掠夺和偷窃，还是为了维护自己的权力，他们都会毫不犹豫地率领熟练的战士发起入侵。\n\n怯薛是在一个强大帝国的控制下作为一支临时入侵部队诞生的，他们现在以征服为生，同时仍然坚持他们的荣誉和忠诚信仰。</DV_PirateKeshig.description>
+  <DV_PirateKeshig.leaderTitle>可汗</DV_PirateKeshig.leaderTitle>
+  <DV_PirateKeshig.pawnSingular>怯薛</DV_PirateKeshig.pawnSingular>
+  <DV_PirateKeshig.pawnsPlural>怯薛</DV_PirateKeshig.pawnsPlural>
+  <DV_PirateKeshig.ideoName>力之真理</DV_PirateKeshig.ideoName>
+  <DV_PirateKeshig.ideoDescription>卡洛穆：战争的始作俑者，我们的神由精钢铸成，将我们带入战场，带领我们征服普林斯普斯。但是，一旦成功，我们的创造者就想毁灭我们，收割我们。于是我们逃跑了，米夫勒克就在我们逃跑后的和平中诞生了。现在，众神跳着优美的华尔兹，我们的萨满与他们交流，寻求建议和祝福。我们袭击和摧毁他人，以夺回自己的家园。没有领地，我们什么都不是。</DV_PirateKeshig.ideoDescription>
+  <DV_PirateKeshig.deityPresets.0.nameType.name>卡洛穆</DV_PirateKeshig.deityPresets.0.nameType.name>
+  <DV_PirateKeshig.deityPresets.0.nameType.type>战争使者</DV_PirateKeshig.deityPresets.0.nameType.type>
+  <DV_PirateKeshig.deityPresets.1.nameType.name>米夫勒克</DV_PirateKeshig.deityPresets.1.nameType.name>
+  <DV_PirateKeshig.deityPresets.1.nameType.type>和平使者</DV_PirateKeshig.deityPresets.1.nameType.type>
+</LanguageData>

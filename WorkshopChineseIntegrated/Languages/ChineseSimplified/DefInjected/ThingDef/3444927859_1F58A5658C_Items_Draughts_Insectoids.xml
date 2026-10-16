@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: royal jelly draught -->
+  <VFEM2_RoyalJellyDraught.label>王胶灵药</VFEM2_RoyalJellyDraught.label>
+  <!-- EN: A shimmering golden liquid. When the user drinks it, it significantly improves their immunity gain speed, enhancing their body's natural defenses against diseases and infections. Additionally, this draught boosts the user's consciousness and movement speed, sharpening their mental alertness and enhancing their physical agility. Upon consumption, it also lowers the progress of any ongoing infections by 5%. -->
+  <VFEM2_RoyalJellyDraught.description>一瓶荧光灿灿的金色液体。被喝下时会极大提升服用者的免疫获得速度。除此之外它还能强化服用者的身心，增加意识和移动速度。它被服下的瞬间还会降低服用者体内所有疾病5%的感染进度。</VFEM2_RoyalJellyDraught.description>
+  <!-- EN: Use {0_label} -->
+  <VFEM2_RoyalJellyDraught.comps.CompUsable.useLabel>服用{0_label}</VFEM2_RoyalJellyDraught.comps.CompUsable.useLabel>
+  <!-- EN: Ingest {0} -->
+  <VFEM2_RoyalJellyDraught.ingestible.ingestCommandString>服用{0}</VFEM2_RoyalJellyDraught.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <VFEM2_RoyalJellyDraught.ingestible.ingestReportString>正在服用{0}</VFEM2_RoyalJellyDraught.ingestible.ingestReportString>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acceptable -->
+  <BEWH_Psyker_Acceptable.label>认可</BEWH_Psyker_Acceptable.label>
+  <!-- EN: To be a psyker is acceptable. -->
+  <BEWH_Psyker_Acceptable.description>成为一位灵能者是可以接受的。</BEWH_Psyker_Acceptable.description>
+  
+  <!-- EN: horrible -->
+  <BEWH_Psyker_Horrible.label>厌恶</BEWH_Psyker_Horrible.label>
+  <!-- EN: It is a horrible thing to be a psyker. -->
+  <BEWH_Psyker_Horrible.description>成为一位灵能者是十分可怕的。</BEWH_Psyker_Horrible.description>
+  
+  <!-- EN: respected -->
+  <BEWH_Psyker_Respected.label>推崇</BEWH_Psyker_Respected.label>
+  <!-- EN: Being a psyker is something deserving of respect. -->
+  <BEWH_Psyker_Respected.description>成为一位灵能者是值得尊敬的。</BEWH_Psyker_Respected.description>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recycle apparel -->
+  <DoBillsRecycleApparel.label>分解回收衣物</DoBillsRecycleApparel.label>
+  <!-- EN: recycling at -->
+  <DoBillsRecycleApparel.gerund>分解回收衣物于</DoBillsRecycleApparel.gerund>
+  <!-- EN: recycle -->
+  <DoBillsRecycleApparel.verb>分解回收</DoBillsRecycleApparel.verb>
+  
+</LanguageData>

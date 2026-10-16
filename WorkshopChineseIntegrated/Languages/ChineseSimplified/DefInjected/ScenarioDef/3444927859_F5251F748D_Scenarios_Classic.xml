@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Kingdom -->
+  <VFEM2_NewKingdom.label>新王国</VFEM2_NewKingdom.label>
+  <!-- EN: Oppression breeds defiance. For years, your village toiled under the weight of crushing taxes and hunger while the lord’s knights took everything: grain, livestock, even your last scraps of dignity. When they seized your final stores of food, desperation turned to rage.\n\nArmed with nothing but fury, you march upon the castle where the lord and his knights hide behind stone walls. You are weak, but sheer numbers and resolve may turn the tide. Should you triumph, the castle’s wealth and security could be yours.\n\nBut not all believe in victory. Some whisper of escape, of slipping away before the slaughter begins. Beyond the walls lies an uncertain world, one that promises danger but also the chance for a new life. Will you fight to take the castle, or flee and forge your own path?\nNote: Since you start around an enemy castle, this is a difficult scenario.\n     -->
+  <VFEM2_NewKingdom.description>哪里有压迫哪里就有反抗。你们的村庄为领主辛勤工作了多年，但你们的主子依旧用苛捐杂税搜刮走了一切：粮食，牲口，以及为人的最后一丝尊严。当他们踹开你们最后一间粮仓的大门后，绝望最终化为了愤怒。\n\n在怒火的驱使下，你们浩浩荡荡地向领主的城堡进发。你们手无寸铁，但有着人数的优势。如果你能打胜这一战，这个森严的城堡和其中的财富就都归你所有。\n\n但并不是所有人都有这等信心。有些人劝说你放弃，有些人想在屠杀开始前悄悄溜走。尽管危险重重，但在高墙的另一侧有一个新世界在等着你们，让你们有机会翻身做人。你是要血战夺下这座城堡，还是转头离开另寻他路？\n\n注意：你开局会位于一座敌对的城堡旁边，这是个高难度的剧本。</VFEM2_NewKingdom.description>
+  <!-- EN: Oppression breeds defiance. For years, your village toiled under the weight of crushing taxes and hunger while the lord’s knights took everything: grain, livestock, even your last scraps of dignity. When they seized your final stores of food, desperation turned to rage.\n\nArmed with nothing but fury, you march upon the castle where the lord and his knights hide behind stone walls. You are weak, but sheer numbers and resolve may turn the tide. Should you triumph, the castle’s wealth and security could be yours.\n\nBut not all believe in victory. Some whisper of escape, of slipping away before the slaughter begins. Beyond the walls lies an uncertain world, one that promises danger but also the chance for a new life. Will you fight to take the castle, or flee and forge your own path?\nNote: Since you start around an enemy castle, this is a difficult scenario.\n     -->
+  <VFEM2_NewKingdom.scenario.description>哪里有压迫哪里就有反抗。你们的村庄为领主辛勤工作了多年，但你们的主子依旧用苛捐杂税搜刮走了一切：粮食，牲口，以及为人的最后一丝尊严。当他们踹开你们最后一间粮仓的大门后，绝望最终化为了愤怒。\n\n在怒火的驱使下，你们浩浩荡荡地向领主的城堡进发。你们手无寸铁，但有着人数的优势。如果你能打胜这一战，这个森严的城堡和其中的财富就都归你所有。\n\n但并不是所有人都有这等信心。有些人劝说你放弃，有些人想在屠杀开始前悄悄溜走。尽管危险重重，但在高墙的另一侧有一个新世界在等着你们，让你们有机会翻身做人。你是要血战夺下这座城堡，还是转头离开另寻他路？\n\n注意：你开局会位于一座敌对的城堡旁边，这是个高难度的剧本。</VFEM2_NewKingdom.scenario.description>
+  <!-- EN: New Kingdom -->
+  <VFEM2_NewKingdom.scenario.name>新王国</VFEM2_NewKingdom.scenario.name>
+  <!-- EN: Oppression breeds defiance. For years, your village toiled under the weight of crushing taxes and hunger while the lord’s knights took everything: grain, livestock, even your last scraps of dignity. When they seized your final stores of food, desperation turned to rage. -->
+  <VFEM2_NewKingdom.scenario.parts.GameStartDialog.text>哪里有压迫哪里就有反抗。你们的村庄为领主辛勤工作了多年，但你们的主子依旧用苛捐杂税搜刮走了一切：粮食，牲口，以及为人的最后一丝尊严。当他们踹开你们最后一间粮仓的大门后，绝望最终化为了愤怒。</VFEM2_NewKingdom.scenario.parts.GameStartDialog.text>
+  <!-- EN: A group of peasants, rebelling against oppressing knights. A classic VFE - Medieval 2 experience. -->
+  <VFEM2_NewKingdom.scenario.summary>一群反抗封建领主压迫的农民。经典的原版中世纪派系扩展2游戏体验。</VFEM2_NewKingdom.scenario.summary>
+  
+</LanguageData>

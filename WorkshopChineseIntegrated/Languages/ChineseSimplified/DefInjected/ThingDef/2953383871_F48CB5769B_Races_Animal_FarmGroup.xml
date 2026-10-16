@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pigs -->
+
+  <DankPyon_Hampshire.label>汉普郡猪</DankPyon_Hampshire.label>
+  <DankPyon_Hampshire.description>汉普郡猪是一种强壮的猪种，通常由于其精瘦的肉质和味道而被受好评。牠们是一种高效的产肉来源，而且容易饲养，因为牠们几乎什么都吃。</DankPyon_Hampshire.description>
+  <DankPyon_Hampshire.tools.1.label>头</DankPyon_Hampshire.tools.1.label>
+
+  <DankPyon_Gloucestershire.label>格洛斯特郡猪</DankPyon_Gloucestershire.label>
+  <DankPyon_Gloucestershire.description>格洛斯特郡猪在牧场上放牧成长，它们是优秀的觅食者，这使牠们以其高品质的肉质而闻名。牠们是一种高效的产肉来源，而且容易饲养，因为牠们几乎什么都吃。</DankPyon_Gloucestershire.description>
+  <DankPyon_Gloucestershire.tools.1.label>头</DankPyon_Gloucestershire.tools.1.label>
+
+  <DankPyon_NorthernBoar.label>北方野猪</DankPyon_NorthernBoar.label>
+  <DankPyon_NorthernBoar.description>这种长毛的杂食动物是逃跑的家猪的后代，并逐渐演化适应北方危险的森林生活。牠的獠牙使牠成为比祖先还要优秀的战士。不幸的是，牠不太温驯，无法接受复杂的训练。</DankPyon_NorthernBoar.description>
+  <DankPyon_NorthernBoar.tools.0.label>獠牙</DankPyon_NorthernBoar.tools.0.label>
+  <DankPyon_NorthernBoar.tools.2.label>头</DankPyon_NorthernBoar.tools.2.label>
+
+
+  <!-- Cows -->
+
+  <DankPyon_Ravelder.label>拉威德牛</DankPyon_Ravelder.label>
+  <DankPyon_Ravelder.description>拉威德牛是一种被驯化的大型偶蹄目动物，几千年来一直被人类所饲养着，能够生产大量的牛奶、肉和皮革。牠们是非常温和的动物，无论受到多少伤害都不会反击。牠们大多数都非常适应农场生活，以至于无法独立在野外生存。</DankPyon_Ravelder.description>
+  <DankPyon_Ravelder.tools.1.label>头</DankPyon_Ravelder.tools.1.label>
+  <DankPyon_Ravelder.tools.2.label>左蹄</DankPyon_Ravelder.tools.2.label>
+  <DankPyon_Ravelder.tools.3.label>右蹄</DankPyon_Ravelder.tools.3.label>
+
+  <DankPyon_Angus.label>安格斯牛</DankPyon_Angus.label>
+  <DankPyon_Angus.description>安格斯是一种被驯化的大型偶蹄目动物，牠们拥有比一般的牛还要均匀的大理石状脂肪分布纹路，被饲养来生产大量的牛奶、肉和皮革。牠们是非常温和的动物，无论受到多少伤害都不会反击。牠们大多数都非常适应农场生活，以至于无法独立在野外生存。</DankPyon_Angus.description>
+  <DankPyon_Angus.tools.1.label>头</DankPyon_Angus.tools.1.label>
+  <DankPyon_Angus.tools.2.label>左蹄</DankPyon_Angus.tools.2.label>
+  <DankPyon_Angus.tools.3.label>右蹄</DankPyon_Angus.tools.3.label>
+
+
+</LanguageData>

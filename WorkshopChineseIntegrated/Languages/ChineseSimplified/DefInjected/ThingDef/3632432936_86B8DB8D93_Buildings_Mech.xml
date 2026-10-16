@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construct band node -->
+  <VR_ConstructBandNode.label>构装体频带节点</VR_ConstructBandNode.label>
+  <!-- EN: A mechanoid-band signal amplifier. Band nodes must be tuned to a specific mechanitor. This will add 1 bandwidth to that mechanitor's total bandwidth, allowing them to control more mechanoids.\n\nOnce a band node is constructed, it can be quickly tuned to a mechanitor. However, retuning a band node to a different mechanitor takes significantly longer. -->
+  <VR_ConstructBandNode.description>一种机械体频带信号放大器。频带节点必须调谐到特定机控师。这会为该机控师的总带宽增加1点，使其能控制更多机械体。\n\n频带节点建成后可快速调谐到某位机控师，但重新调谐到另一位机控师需要更长时间。</VR_ConstructBandNode.description>
+  
+  <!-- EN: large construct gestator -->
+  <VR_LargeMechGestator_Steam.label>大型构装体孕育舱</VR_LargeMechGestator_Steam.label>
+  <!-- EN: A tank of mechanite-rich fluid with support tubes for feeding in materials and nutrients. Mechanitors can use it to produce new mechanoids or to resurrect dead mechanoids. This tier of mech gestator is capable of generating medium, heavy, and ultraheavy mechs.\n\nThe process uses harsh chemicals which are stored in toxic wastepacks. Haulers must remove the wastepacks from time to time. -->
+  <VR_LargeMechGestator_Steam.description>一个充满机械纳米虫液体的储罐，带有用于输入材料和营养的支撑管。机控师可用其制造新的机械体或复活死亡的机械体。这一等级的孕育舱能够生成中型、重型和超重型机甲。\n\n该过程使用强腐蚀性化学品，储存在有毒废料包中。搬运者需不时清理这些废料包。</VR_LargeMechGestator_Steam.description>
+  
+  <!-- EN: construct booster -->
+  <VR_MechBooster_Steam.label>构装体增幅器</VR_MechBooster_Steam.label>
+  <!-- EN: A remote energy and enhancement device. Any friendly constructs in its effect radius will move and work faster. -->
+  <VR_MechBooster_Steam.description>一种远程能量与强化装置。处于其作用半径内的友方构装体将移动更快、工作更快。</VR_MechBooster_Steam.description>
+  
+  <!-- EN: mech gestator -->
+  <VR_MechGestator_Steam.label>构装体孕育舱</VR_MechGestator_Steam.label>
+  <!-- EN: A tank of mechanite-rich fluid with support tubes for feeding in materials and nutrients. Mechanitors can use it to produce new mechanoids or to resurrect dead mechanoids. This basic type of mech gestator is only capable of generating light-weight mechs.\n\nThe process uses harsh chemicals which are stored in toxic wastepacks. Haulers must remove the wastepacks from time to time. -->
+  <VR_MechGestator_Steam.description>一个充满机械纳米虫液体的储罐，带有用于输入材料和营养的支撑管。机控师可用其制造新的机械体或复活死亡的机械体。此基础型孕育舱只能生成轻型机甲。\n\n该过程使用强腐蚀性化学品，储存在有毒废料包中。搬运者需不时清理这些废料包。</VR_MechGestator_Steam.description>
+  
+  <!-- EN: soulcore encoder -->
+  <VR_SubcoreEncoder_Steam.label>魂核编码器</VR_SubcoreEncoder_Steam.label>
+  <!-- EN: A work station where an artificer can produce basic-tier soulcores and implants. Soulcores are the essence of life for constructs, and one is required to produce any construct. Basic soulcores can only be used in simple basic-tier mechs.\n\nHigher tier soulcores can be created by building a harmonic sampler or a tonal transcriber. -->
+  <VR_SubcoreEncoder_Steam.description>一个机巧师可制作基础级魂核和植入体的工作站。魂核是构装体的生命精华，制造任何构装体都需要一个。基础魂核只能用于简单的基础级构装体。\n\n更高等级的魂核可通过建造谐波采样器或调音转录器来制作。</VR_SubcoreEncoder_Steam.description>
+  
+  <!-- EN: tonal transcriber -->
+  <VR_SubcoreRipscanner_Steam.label>调音转录器</VR_SubcoreRipscanner_Steam.label>
+  <!-- EN: A pod with thousands of tissue probe injectors and an ultra-high-power vaporizing brain scanner. Once a person is inserted, the device will insert the probes into their body through the skin while the ripscanner chews through the brain, reading the reflected radiation and destroying the brain in the process. Ripscanning the mind generates a neuro-psychic pattern that the scanner can analog-transfer to a new high-tier mechanoid subcore.\n\nSubcores are mechanoid brains and producing any mechanoid requires one. High-tier subcores produced by this ripscanner can only power high-tier mechanoids. -->
+  <VR_SubcoreRipscanner_Steam.description>一个装有成千上万组织探针注射器和超高功率汽化脑扫描器的舱体。将人置入后，装置会将探针经皮注入体内，同时撕裂扫描器会吞噬大脑，读取反射辐射并在此过程中摧毁大脑。对心智进行撕裂扫描会产生一种神经-灵能模式，扫描器可将其模拟转移到新的高级机械体子核中。\n\n子核是机械体的大脑，制造任何机械体都需要一个。该撕裂扫描器产生的高级子核只能驱动高级机械体。</VR_SubcoreRipscanner_Steam.description>
+  
+  <!-- EN: harmonic sampler -->
+  <VR_SubcoreSoftscanner_Steam.label>谐波采样器</VR_SubcoreSoftscanner_Steam.label>
+  <!-- EN: A pod with thousands of tiny tissue probes and a high-energy brain scanner. Once a person is inserted, the system uses the probes and scanner to sense a neuro-psychic pattern that it can analog-transfer to a new standard-tier mechanoid subcore. The person will be left temporarily sick, but unharmed.\n\nSubcores are mechanoid brains and producing any mechanoid requires one. Standard-tier subcores produced by this softscanner can only power standard-tier mechanoids.\n\nHigher tier subcores can be created by building a subcore ripscanner. -->
+  <VR_SubcoreSoftscanner_Steam.description>一个装有成千上万微型组织探针和高能脑扫描器的舱体。将人置入后，系统使用探针和扫描器感知一种神经-灵能模式，并将其模拟转移到新的标准级机械体子核中。此人会暂时生病，但不会受伤。\n\n子核是机械体的大脑，制造任何机械体都需要一个。该柔性扫描器产生的标准级子核只能驱动标准级机械体。\n\n更高等级的子核可通过建造子核撕裂扫描器来制作。</VR_SubcoreSoftscanner_Steam.description>
+  
+</LanguageData>

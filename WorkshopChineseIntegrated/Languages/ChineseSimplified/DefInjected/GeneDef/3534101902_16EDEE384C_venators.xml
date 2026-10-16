@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_Farsighted.label>远视</DV_Farsighted.label>
+    <DV_Farsighted.description>这种基因的携带者有着一双适应性很强的能很好地观察远距离的眼睛，简直是天生的望远镜。虽然他们在远距离射击时的准确度会提高，在短距离交战时却很费力并很难瞄准近处的对象。</DV_Farsighted.description>
+
+    <DV_HunterInstincts.label>猎手本能</DV_HunterInstincts.label>
+    <DV_HunterInstincts.description>这种基因的携带者在基因上更适合狩猎和屠宰野生动物，允许他们从尸体上采集更多的肉，而且他们做的更快。</DV_HunterInstincts.description>
+
+    <DV_ParalyzingFangs.label>瘫痪尖牙</DV_ParalyzingFangs.label>
+    <DV_ParalyzingFangs.description>这种基因的携带者在下颌附近有着一组独特的分泌毒液的腺体 那连接着他们的犬齿；受到命令后他们会释放一种神经毒素到所咬住的目标，暂时瘫痪它们。</DV_ParalyzingFangs.description>
+
+    <DV_FacePlating.label>面部外壳</DV_FacePlating.label>
+    <DV_FacePlating.description>这种基因的携带者形成了可以抵御一点肘击和武器的面部骨骼。</DV_FacePlating.description>
+
+    <DV_Ears_Downturned.label>扩耳</DV_Ears_Downturned.label>
+    <DV_Ears_Downturned.description>这种基因的携带者有着延长的并会以各种方式生长的耳朵。</DV_Ears_Downturned.description>
+
+    <Skin_RedGray.label>灰红皮肤</Skin_RedGray.label>
+    <Skin_RedGray.description>这种基因的携带者会生产一种将他们的皮肤转变为灰红色的色素。</Skin_RedGray.description>
+
+    <Skin_BlueGray.label>灰蓝皮肤</Skin_BlueGray.label>
+    <Skin_BlueGray.description>这种基因的携带者会生产一种将他们的皮肤转变为灰紫色的色素。</Skin_BlueGray.description>
+
+    <Skin_PurpleGray.label>灰紫皮肤</Skin_PurpleGray.label>
+    <Skin_PurpleGray.description>这种基因的携带者会生产一种将他们的皮肤转变为灰蓝色的色素。</Skin_PurpleGray.description>
+
+    <Skin_YellowGray.label>灰黄皮肤</Skin_YellowGray.label>
+    <Skin_YellowGray.description>这种基因的携带者会生产一种将他们的皮肤转变为灰黄色的色素。</Skin_YellowGray.description>
+
+    <Skin_BrownGray.label>灰棕皮肤</Skin_BrownGray.label>
+    <Skin_BrownGray.description>这种基因的携带者会生产一种将他们的皮肤转变为灰棕色的色素。</Skin_BrownGray.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: apparel recycling -->
+  <ApparelRecycling.label>衣物回收</ApparelRecycling.label>
+  <!-- EN: Learn how to recycle old apparel into valuable materials. -->
+  <ApparelRecycling.description>学习如何把旧衣物分解，回收有用的原材料。</ApparelRecycling.description>
+  
+</LanguageData>

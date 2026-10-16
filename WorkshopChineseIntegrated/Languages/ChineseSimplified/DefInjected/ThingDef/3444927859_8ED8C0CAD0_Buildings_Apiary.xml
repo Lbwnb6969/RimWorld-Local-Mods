@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: apiary -->
+  <VFEM2_Apiary.label>蜂箱</VFEM2_Apiary.label>
+  <!-- EN: A wooden box-like structure with a series of shelves, lattices, and chambers. When placed near flowers the apiary will naturally attract wild bees which will make it their new home. Over time these bees will produce honey which can be harvested and eaten directly, or later fermented into mead. -->
+  <VFEM2_Apiary.description>一个装有密集格子的木箱。当放在花朵附近时会自然吸引野蜂在此筑巢。蜜蜂会在这里不断生产蜂蜜，蜂蜜可以被直接食用或者被发酵成蜜酒。</VFEM2_Apiary.description>
+  
+</LanguageData>

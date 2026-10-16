@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: divine order banner -->
+  <BotchJob_DivineOrderBanner.label>神圣秩序旗帜</BotchJob_DivineOrderBanner.label>
+  <!-- EN: A banner displaying the insignia of the Divine Order. -->
+  <BotchJob_DivineOrderBanner.description>展示着神圣秩序徽章的旗帜。</BotchJob_DivineOrderBanner.description>
+  
+  <!-- EN: sacred tablet pedestal -->
+  <BotchJob_SacredTabletPedestal.label>神圣牌匾基座</BotchJob_SacredTabletPedestal.label>
+  <!-- EN: A decorative pedestal displaying a sacred tablet. -->
+  <BotchJob_SacredTabletPedestal.description>一个装饰性的基座，展示着一块神圣的牌匾。</BotchJob_SacredTabletPedestal.description>
+  
+</LanguageData>

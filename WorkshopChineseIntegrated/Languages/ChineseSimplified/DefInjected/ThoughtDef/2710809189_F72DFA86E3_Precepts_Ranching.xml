@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no cattle -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.no_cattle.label>没有牛类动物</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.no_cattle.label>
+  <!-- EN: We have no cattle at all! What kind of cowboys are we? -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.no_cattle.description>我们现在连一头牛都没有，这还算哪门子的牛仔？</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.no_cattle.description>
+  <!-- EN: scarce cattle -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.scarce_cattle.label>缺少牛类动物</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.scarce_cattle.label>
+  <!-- EN: Our herd is pitifully small. Without cattle, this doesn’t feel like a real ranch. -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.scarce_cattle.description>我们的牧群规模小的可怜。如果没有牛，那就完全没有牧场的感觉了。</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.scarce_cattle.description>
+  <!-- EN: few cattle -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.few_cattle.label>较少牛类动物</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.few_cattle.label>
+  <!-- EN: We have too few cattle to call this a proper ranch. It feels wrong. -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.few_cattle.description>我们的牛还是太少了，很难称得上是像样的牧场。这给人的感觉很不对劲。</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.few_cattle.description>
+  <!-- EN: some cattle -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.some_cattle.label>一些牛类动物</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.some_cattle.label>
+  <!-- EN: It’s good to have cattle here, but the herd is far from what it could be. -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.some_cattle.description>很高兴看到我们有了不少牛，但牧群的规模显然还能变得更大。</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.some_cattle.description>
+  <!-- EN: lots of cattle -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.lots_of_cattle.label>很多牛类动物</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.lots_of_cattle.label>
+  <!-- EN: Our herd is growing strong. The ranch is shaping up nicely. -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.lots_of_cattle.description>我们的牧场现在发展得很好，牧群也长得膘肥体壮。</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.lots_of_cattle.description>
+  <!-- EN: tons of cattle -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.tons_of_cattle.label>大量牛类动物</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.tons_of_cattle.label>
+  <!-- EN: The herd is thriving, and the ranch feels alive. This is the way ranching is meant to be. -->
+  <AM_Ranching_CattleCentered_CattleMassPerCapita.stages.tons_of_cattle.description>我们的牧群繁荣无比，牧场也因此变得富有生气了。这才称得上是真正的牧场。</AM_Ranching_CattleCentered_CattleMassPerCapita.stages.tons_of_cattle.description>
+  
+  <!-- EN: no pen markers around -->
+  <AM_Ranching_CattleCentered_Pens.stages.no_pen_markers_around.label>附近没有畜栏</AM_Ranching_CattleCentered_Pens.stages.no_pen_markers_around.label>
+  <!-- EN: There are no pens in our colony. It's peaceful, but something feels missing. -->
+  <AM_Ranching_CattleCentered_Pens.stages.no_pen_markers_around.description>我们的殖民地里没有畜栏。虽然一切都很平和，但总觉得缺了点什么。</AM_Ranching_CattleCentered_Pens.stages.no_pen_markers_around.description>
+  <!-- EN: pen marker around -->
+  <AM_Ranching_CattleCentered_Pens.stages.pen_marker_around.label>附近有畜栏</AM_Ranching_CattleCentered_Pens.stages.pen_marker_around.label>
+  <!-- EN: We have a pen marker set up. It's a good start to raising and caring for cattle. -->
+  <AM_Ranching_CattleCentered_Pens.stages.pen_marker_around.description>我们的殖民地里设立了畜栏。条件充足，是时候养一些牛了。</AM_Ranching_CattleCentered_Pens.stages.pen_marker_around.description>
+  <!-- EN: pen markers around -->
+  <AM_Ranching_CattleCentered_Pens.stages.pen_markers_around.label>附近有畜栏</AM_Ranching_CattleCentered_Pens.stages.pen_markers_around.label>
+  <!-- EN: Our pens are ready, and the ranch feels complete with cattle being raised properly. -->
+  <AM_Ranching_CattleCentered_Pens.stages.pen_markers_around.description>我们的殖民地里设立了多个畜栏。我们的牛养得很好，牧场看起来也相当完善。</AM_Ranching_CattleCentered_Pens.stages.pen_markers_around.description>
+  
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <DankPyon_SawTable.label>电力锯木台</DankPyon_SawTable.label>
+  <!-- EN: A table saw for turning logs into planks.\n(Medieval Overhaul) -->
+  <DankPyon_SawTable.description>将原木锯成木板的平台，平台上的圆锯需要电力才能驱动。</DankPyon_SawTable.description>
+
+  <!-- EN: blast furnace -->
+  <DankPyon_BlastFurnace.label>电力冶炼炉</DankPyon_BlastFurnace.label>
+  <!-- EN: A large blast furnace used to refine scrap and raw resources. Generates strong heat.\n(Medieval Overhaul) -->
+  <DankPyon_BlastFurnace.description>一种大型电力钢炉，能自动将原矿冶炼成金属锭。加工时会产生大量的热能。</DankPyon_BlastFurnace.description>
+
+  <!-- EN: cloth spinner -->
+  <DankPyon_ClothSpinner.label>电力纺纱机</DankPyon_ClothSpinner.label>
+  <!-- EN: An automatic device to spin cloth from thread.\n(Medieval Overhaul) -->
+  <DankPyon_ClothSpinner.description>一种电动纺纱装置，能自动将原棉加工成织物。</DankPyon_ClothSpinner.description>
+  
+  <!-- EN: tanning drum -->
+  <DankPyon_TanningDrum.label>电力制革机</DankPyon_TanningDrum.label>
+  <!-- EN: A mechanical drum for treating raw hides to become soft and beautiful leathers.\n(Medieval Overhaul) -->
+  <DankPyon_TanningDrum.description>一种电动式的转鼓，能自动将生皮软化并鞣制加工成有用的皮革。</DankPyon_TanningDrum.description>
+  
+</LanguageData>

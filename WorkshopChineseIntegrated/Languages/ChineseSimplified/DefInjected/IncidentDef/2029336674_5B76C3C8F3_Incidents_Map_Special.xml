@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: happy guest joins -->
+  <HappyGuestJoins.label>满意的访客加入</HappyGuestJoins.label>
+  
+  <!-- EN: visitor group -->
+  <VisitorGroup.label>访客团</VisitorGroup.label>
+  
+  <!-- EN: visitor group max -->
+  <VisitorGroupMax.label>大型访客团</VisitorGroupMax.label>
+  
+  <!-- EN: visitor group (select faction) -->
+  <VisitorGroupSelectFaction.label>访客团（选择派系）</VisitorGroupSelectFaction.label>
+  
+  <!-- EN: visitor group spacer cruise -->
+  <VisitorGroupSpacerCruise.label>访客团来访（在外游荡）</VisitorGroupSpacerCruise.label>
+  
+  <!-- EN: visitor group spacer luxury -->
+  <VisitorGroupSpacerLuxury.label>访客团来访（豪华）</VisitorGroupSpacerLuxury.label>
+  
+</LanguageData>

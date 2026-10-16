@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deathstinger apiary -->
+  <SV_DeathstingerApiary.label>大黄蜂蜂箱</SV_DeathstingerApiary.label>
+  <!-- EN: An apiary occupied by deathstingers. It is less dangerous than a natural hive, whilst also being much slower at producing honey. Deathstinger drones will protect it to the best of their ability, swarming and stinging anything that stays in their territory for too long.\n\nDeathstingers can reproduce and quickly breed without a queen, making them a common and dangerous pest.\n(Medieval Overhaul : Hornetkeeping) -->
+  <SV_DeathstingerApiary.description>人工饲养的大黄蜂蜂箱，经过驯化因此危险性较低，但产蜜速度较野生蜂群缓慢。雄蜂会将蜂箱四周逗留过久的生物视为入侵者并群起围攻。\n\n与世人认知相悖，这种大而凶恶的黄蜂即便缺少蜂后也能迅速繁衍，使其成为一种广泛且极具威胁性的害虫。</SV_DeathstingerApiary.description>
+  <!-- EN: Meat -->
+  <SV_DeathstingerApiary.comps.CompRefuelableCustom.fuelGizmoLabel>生肉</SV_DeathstingerApiary.comps.CompRefuelableCustom.fuelGizmoLabel>
+  
+  <!-- EN: Mote -->
+  <SV_DeathstingerSwarm.label>TODO</SV_DeathstingerSwarm.label>
+  
+</LanguageData>

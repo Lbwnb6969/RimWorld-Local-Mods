@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Browsing wares. -->
+  <Storefront_BrowseItems.reportString>浏览商品。</Storefront_BrowseItems.reportString>
+  
+  <!-- EN: Buying TargetA. -->
+  <Storefront_BuyItem.reportString>购买TargetA。</Storefront_BuyItem.reportString>
+  
+</LanguageData>

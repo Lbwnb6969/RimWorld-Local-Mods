@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hornet mead -->
+  <SV_HornetMead.label>大黄蜂蜜酒</SV_HornetMead.label>
+  <!-- EN: Fermented hornet honey, a very strong and intoxicating alcohol. The potency is such that one drink can almost lead to a direct black out. Originating from the northern lands, it was brewed to keep oneself warm during the harsh winters.\n(Medieval Overhaul : Hornetkeeping) -->
+  <SV_HornetMead.description>使用大黄蜂蜂蜜酿造而成的蜜酒，风味强烈而醉人，几乎只要一杯就能使人当场断片。这种蜜酒源于北方，最初是为抵御严冬而酿制，能够温暖饮用者的身心。</SV_HornetMead.description>
+  <!-- EN: Drink {0} -->
+  <SV_HornetMead.ingestible.ingestCommandString>饮用{0}</SV_HornetMead.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <SV_HornetMead.ingestible.ingestReportString>正在饮用{0}。</SV_HornetMead.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <SV_HornetMead.tools.bottle.label>瓶身</SV_HornetMead.tools.bottle.label>
+  <!-- EN: neck -->
+  <SV_HornetMead.tools.neck.label>瓶颈</SV_HornetMead.tools.neck.label>
+  
+</LanguageData>

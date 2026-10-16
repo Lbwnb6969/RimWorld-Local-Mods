@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cobblestone wall ({0}) -->
+  <VFEM2_CobblestoneWall_.label>卵石墙（{0}）</VFEM2_CobblestoneWall_.label>
+  <!-- EN: An impassable wall made out of big rock chunks. -->
+  <VFEM2_CobblestoneWall_.description>一面无法通过的墙。由大块卵石堆积建成。</VFEM2_CobblestoneWall_.description>
+  
+</LanguageData>

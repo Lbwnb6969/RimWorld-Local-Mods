@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallMechanicalMedHand.label>安装 机械手</InstallMechanicalMedHand.label>
+  <InstallMechanicalMedHand.description>安装 机械手。</InstallMechanicalMedHand.description>
+  <InstallMechanicalMedHand.jobString>正在安装 机械手。</InstallMechanicalMedHand.jobString>
+
+  <InstallMechanicalMedArm.label>安装 机械手臂</InstallMechanicalMedArm.label>
+  <InstallMechanicalMedArm.description>安装 机械手臂。</InstallMechanicalMedArm.description>
+  <InstallMechanicalMedArm.jobString>正在安装 机械手臂。</InstallMechanicalMedArm.jobString>
+
+  <InstallMechanicalMedLeg.label>安装 机械腿</InstallMechanicalMedLeg.label>
+  <InstallMechanicalMedLeg.description>安装 机械腿。</InstallMechanicalMedLeg.description>
+  <InstallMechanicalMedLeg.jobString>正在安装 机械腿。</InstallMechanicalMedLeg.jobString>
+
+  <InstallMechanicalMedFoot.label>安装 机械脚</InstallMechanicalMedFoot.label>
+  <InstallMechanicalMedFoot.description>安装 机械脚。</InstallMechanicalMedFoot.description>
+  <InstallMechanicalMedFoot.jobString>正在安装 机械脚。</InstallMechanicalMedFoot.jobString>
+
+  <InstallMechanicalMedFinger.label>安装 机械指</InstallMechanicalMedFinger.label>
+  <InstallMechanicalMedFinger.description>安装 机械指。</InstallMechanicalMedFinger.description>
+  <InstallMechanicalMedFinger.jobString>正在安装 机械指。</InstallMechanicalMedFinger.jobString>
+
+  <InstallMechanicalMedToe.label>安装 机械趾</InstallMechanicalMedToe.label>
+  <InstallMechanicalMedToe.description>安装 机械趾。</InstallMechanicalMedToe.description>
+  <InstallMechanicalMedToe.jobString>正在安装 机械趾。</InstallMechanicalMedToe.jobString>
+
+  <InstallMechanicalMedNose.label>安装 机械鼻</InstallMechanicalMedNose.label>
+  <InstallMechanicalMedNose.description>安装 机械鼻。</InstallMechanicalMedNose.description>
+  <InstallMechanicalMedNose.jobString>正在安装 机械鼻。</InstallMechanicalMedNose.jobString>
+
+  <InstallMechanicalMedEye.label>安装 机械眼</InstallMechanicalMedEye.label>
+  <InstallMechanicalMedEye.description>安装 机械眼。</InstallMechanicalMedEye.description>
+  <InstallMechanicalMedEye.jobString>正在安装 机械眼。</InstallMechanicalMedEye.jobString>
+
+  <InstallMechanicalMedEar.label>安装 机械耳</InstallMechanicalMedEar.label>
+  <InstallMechanicalMedEar.description>安装 机械耳。</InstallMechanicalMedEar.description>
+  <InstallMechanicalMedEar.jobString>正在安装 机械耳。</InstallMechanicalMedEar.jobString>
+
+
+</LanguageData>

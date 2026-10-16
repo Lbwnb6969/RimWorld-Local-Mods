@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_ChangeCageTopGraphic>更换顶部外观</CE_ChangeCageTopGraphic>
+  <CE_ChangeCageTopGraphicDesc>循环切换此囚笼的顶部外观变体。</CE_ChangeCageTopGraphicDesc>
+  <CE_RestrainToBed>束缚到床上</CE_RestrainToBed>
+  <CE_RequiresWalls>左右相邻格都必须有墙。</CE_RequiresWalls>
+  <CE_StripHeldEntity>正在剥除 {0} 的装备</CE_StripHeldEntity>
+  <CE_ActivateGuillotine>启动断头台</CE_ActivateGuillotine>
+  <CE_ActivateGuillotineDesc>命令一名狱卒处决关押在断头台上的囚犯。</CE_ActivateGuillotineDesc>
+  <CE_ActivateGuillotineNoVictim>断头台上没有关押囚犯。</CE_ActivateGuillotineNoVictim>
+  <CE_ActivateGuillotineConfirm>要命令狱卒处决 {0} 吗？这会杀死对方。</CE_ActivateGuillotineConfirm>
+  <CE_CancelGuillotine>取消处决</CE_CancelGuillotine>
+  <CE_CancelGuillotineDesc>取消此断头台上已排队的处决命令。</CE_CancelGuillotineDesc>
+  <LetterEscapingFromHoldingPlatform>以下囚犯已逃脱束缚：\n\n{0}\n\n建造更坚固的收容室来阻止囚犯逃脱。坚固的墙壁和门、良好的照明以及特殊的收容设备都能提高收容强度，从而降低囚犯逃脱的可能性。</LetterEscapingFromHoldingPlatform>
+  <TransferEntityDesc>将被收容的囚犯转移到另一座收容平台。</TransferEntityDesc>
+  <CancelTransferDesc>取消转移此囚犯的操作。</CancelTransferDesc>
+</LanguageData>

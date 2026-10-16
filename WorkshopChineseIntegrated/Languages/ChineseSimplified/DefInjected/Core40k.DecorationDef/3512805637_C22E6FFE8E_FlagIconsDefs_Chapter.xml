@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Dark Angels -->
+  <BEWH_FlagIconI.label>黑暗天使</BEWH_FlagIconI.label>
+  <!-- EN: Legion insignia of the Dark Angels. -->
+  <BEWH_FlagIconI.description>黑暗天使徽章</BEWH_FlagIconI.description>
+  
+  <!-- EN: Emperor's Children -->
+  <BEWH_FlagIconIII.label>帝皇之子</BEWH_FlagIconIII.label>
+  <!-- EN: Legion insignia of the Emperor's Children. -->
+  <BEWH_FlagIconIII.description>帝皇之子徽章</BEWH_FlagIconIII.description>
+  
+  <!-- EN: Iron Warriors -->
+  <BEWH_FlagIconIV.label>钢铁勇士</BEWH_FlagIconIV.label>
+  <!-- EN: Legion insignia of the Iron Warriors. -->
+  <BEWH_FlagIconIV.description>钢铁勇士徽章</BEWH_FlagIconIV.description>
+  
+  <!-- EN: Blood Angels -->
+  <BEWH_FlagIconIX.label>圣血天使</BEWH_FlagIconIX.label>
+  <!-- EN: Legion insignia of the Blood Angels. -->
+  <BEWH_FlagIconIX.description>圣血天使徽章</BEWH_FlagIconIX.description>
+  
+  <!-- EN: White Scars -->
+  <BEWH_FlagIconV.label>白色疤痕</BEWH_FlagIconV.label>
+  <!-- EN: Legion insignia of the White Scars. -->
+  <BEWH_FlagIconV.description>白色疤痕徽章</BEWH_FlagIconV.description>
+  
+  <!-- EN: Space Wolves -->
+  <BEWH_FlagIconVI.label>太空野狼</BEWH_FlagIconVI.label>
+  <!-- EN: Legion insignia of the Space Wolves. -->
+  <BEWH_FlagIconVI.description>太空野狼徽章</BEWH_FlagIconVI.description>
+  
+  <!-- EN: Imperial Fists -->
+  <BEWH_FlagIconVII.label>帝国之拳</BEWH_FlagIconVII.label>
+  <!-- EN: Legion insignia of the Imperial Fists. -->
+  <BEWH_FlagIconVII.description>帝国之拳徽章</BEWH_FlagIconVII.description>
+  
+  <!-- EN: Night Lords -->
+  <BEWH_FlagIconVIII.label>午夜领主</BEWH_FlagIconVIII.label>
+  <!-- EN: Legion insignia of the Night Lords. -->
+  <BEWH_FlagIconVIII.description>午夜领主徽章</BEWH_FlagIconVIII.description>
+  
+  <!-- EN: Iron Hands -->
+  <BEWH_FlagIconX.label>钢铁之手</BEWH_FlagIconX.label>
+  <!-- EN: Legion insignia of the Iron Hands. -->
+  <BEWH_FlagIconX.description>钢铁之手徽章</BEWH_FlagIconX.description>
+  
+  <!-- EN: World Eaters -->
+  <BEWH_FlagIconXII.label>吞世者</BEWH_FlagIconXII.label>
+  <!-- EN: Legion insignia of the World Eaters. -->
+  <BEWH_FlagIconXII.description>吞世者徽章</BEWH_FlagIconXII.description>
+  
+  <!-- EN: Ultramarines -->
+  <BEWH_FlagIconXIII.label>极限战士</BEWH_FlagIconXIII.label>
+  <!-- EN: Legion insignia of the Ultramarines. -->
+  <BEWH_FlagIconXIII.description>极限战士徽章</BEWH_FlagIconXIII.description>
+  
+  <!-- EN: Death Guard -->
+  <BEWH_FlagIconXIV.label>死亡守卫</BEWH_FlagIconXIV.label>
+  <!-- EN: Legion insignia of the Death Guard. -->
+  <BEWH_FlagIconXIV.description>死亡守卫徽章</BEWH_FlagIconXIV.description>
+  
+  <!-- EN: Raven Guard -->
+  <BEWH_FlagIconXIX.label>暗鸦守卫</BEWH_FlagIconXIX.label>
+  <!-- EN: Legion insignia of the Raven Guard. -->
+  <BEWH_FlagIconXIX.description>暗鸦守卫徽章</BEWH_FlagIconXIX.description>
+  
+  <!-- EN: Thousand Sons -->
+  <BEWH_FlagIconXV.label>千疮之子</BEWH_FlagIconXV.label>
+  <!-- EN: Legion insignia of the Thousand Sons. -->
+  <BEWH_FlagIconXV.description>千疮之子徽章</BEWH_FlagIconXV.description>
+  
+  <!-- EN: Sons of Horus -->
+  <BEWH_FlagIconXVI.label>荷鲁斯之子</BEWH_FlagIconXVI.label>
+  <!-- EN: Legion insignia of the Sons of Horus. -->
+  <BEWH_FlagIconXVI.description>荷鲁斯之子徽章</BEWH_FlagIconXVI.description>
+  
+  <!-- EN: Word Bearers -->
+  <BEWH_FlagIconXVII.label>怀言者</BEWH_FlagIconXVII.label>
+  <!-- EN: Legion insignia of the Word Bearers. -->
+  <BEWH_FlagIconXVII.description>怀言者徽章</BEWH_FlagIconXVII.description>
+  
+  <!-- EN: Salamanders -->
+  <BEWH_FlagIconXVIII.label>火蜥蜴</BEWH_FlagIconXVIII.label>
+  <!-- EN: Legion insignia of the Salamanders. -->
+  <BEWH_FlagIconXVIII.description>火蜥蜴徽章</BEWH_FlagIconXVIII.description>
+  
+  <!-- EN: Alpha Legion -->
+  <BEWH_FlagIconXX.label>阿尔法军团</BEWH_FlagIconXX.label>
+  <!-- EN: Legion insignia of the Alpha Legion. -->
+  <BEWH_FlagIconXX.description>阿尔法军团徽章</BEWH_FlagIconXX.description>
+  
+</LanguageData>

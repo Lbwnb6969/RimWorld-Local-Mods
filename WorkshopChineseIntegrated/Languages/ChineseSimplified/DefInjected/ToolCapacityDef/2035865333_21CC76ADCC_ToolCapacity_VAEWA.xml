@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: toxflu bite -->
+  <VAEWaste_FluBite.label>污毒流感撕咬</VAEWaste_FluBite.label>
+  
+  <!-- EN: toxflu claws -->
+  <VAEWaste_FluClaws.label>污毒流感爪</VAEWaste_FluClaws.label>
+  
+  <!-- EN: ripping bite -->
+  <VAEWaste_RippingBite.label>撕咬</VAEWaste_RippingBite.label>
+  
+  <!-- EN: toxic sting -->
+  <VAEWaste_Sting.label>剧毒螫刺</VAEWaste_Sting.label>
+  
+</LanguageData>

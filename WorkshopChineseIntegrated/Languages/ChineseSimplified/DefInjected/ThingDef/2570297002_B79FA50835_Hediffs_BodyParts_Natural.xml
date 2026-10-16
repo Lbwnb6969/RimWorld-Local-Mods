@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleshcrafted arm -->
+  <VME_FleshcraftedArm.label>血肉重塑臂</VME_FleshcraftedArm.label>
+  <!-- EN: A biological human arm, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedArm.description>用尸体重塑出的生物改造手臂。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedArm.description>
+  
+  <!-- EN: fleshcrafted ear -->
+  <VME_FleshcraftedEar.label>血肉重塑耳</VME_FleshcraftedEar.label>
+  <!-- EN: A biological human ear, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedEar.description>用尸体重塑出的生物改造耳朵。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedEar.description>
+  
+  <!-- EN: fleshcrafted eye -->
+  <VME_FleshcraftedEye.label>血肉重塑眼</VME_FleshcraftedEye.label>
+  <!-- EN: A biological human eye, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedEye.description>用尸体重塑出的生物改造眼睛。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedEye.description>
+  
+  <!-- EN: fleshcrafted finger -->
+  <VME_FleshcraftedFinger.label>血肉重塑指</VME_FleshcraftedFinger.label>
+  <!-- EN: A biological human finger, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedFinger.description>用尸体重塑出的生物改造手指。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedFinger.description>
+  
+  <!-- EN: fleshcrafted foot -->
+  <VME_FleshcraftedFoot.label>血肉重塑脚</VME_FleshcraftedFoot.label>
+  <!-- EN: A biological human foot, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedFoot.description>用尸体重塑出的生物改造脚。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedFoot.description>
+  
+  <!-- EN: fleshcrafted hand -->
+  <VME_FleshcraftedHand.label>血肉重塑手</VME_FleshcraftedHand.label>
+  <!-- EN: A biological human hand, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedHand.description>用尸体重塑出的生物改造手。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedHand.description>
+  
+  <!-- EN: fleshcrafted heart -->
+  <VME_FleshcraftedHeart.label>血肉重塑心脏</VME_FleshcraftedHeart.label>
+  <!-- EN: A biological human heart, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedHeart.description>用尸体重塑出的生物改造心脏。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedHeart.description>
+  
+  <!-- EN: fleshcrafted jaw -->
+  <VME_FleshcraftedJaw.label>血肉重塑颌</VME_FleshcraftedJaw.label>
+  <!-- EN: A biological human jaw, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedJaw.description>用尸体重塑出的生物改造下颌。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedJaw.description>
+  
+  <!-- EN: fleshcrafted kidney -->
+  <VME_FleshcraftedKidney.label>血肉重塑肾</VME_FleshcraftedKidney.label>
+  <!-- EN: A biological human kidney, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedKidney.description>用尸体重塑出的生物改造肾脏。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedKidney.description>
+  
+  <!-- EN: fleshcrafted leg -->
+  <VME_FleshcraftedLeg.label>血肉重塑腿</VME_FleshcraftedLeg.label>
+  <!-- EN: A biological human leg, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedLeg.description>用尸体重塑出的生物改造腿。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedLeg.description>
+  
+  <!-- EN: fleshcrafted liver -->
+  <VME_FleshcraftedLiver.label>血肉重塑肝</VME_FleshcraftedLiver.label>
+  <!-- EN: A biological human liver, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedLiver.description>用尸体重塑出的生物改造肝脏。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedLiver.description>
+  
+  <!-- EN: fleshcrafted lung -->
+  <VME_FleshcraftedLung.label>血肉重塑肺</VME_FleshcraftedLung.label>
+  <!-- EN: A biological human lung, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedLung.description>用尸体重塑出的生物改造肺。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedLung.description>
+  
+  <!-- EN: fleshcrafted nose -->
+  <VME_FleshcraftedNose.label>血肉重塑鼻</VME_FleshcraftedNose.label>
+  <!-- EN: A biological human nose, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedNose.description>用尸体重塑出的生物改造鼻子。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedNose.description>
+  
+  <!-- EN: fleshcrafted spine -->
+  <VME_FleshcraftedSpine.label>血肉重塑脊椎</VME_FleshcraftedSpine.label>
+  <!-- EN: A biological human spine, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedSpine.description>用尸体重塑出的生物改造脊椎。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedSpine.description>
+  
+  <!-- EN: fleshcrafted stomach -->
+  <VME_FleshcraftedStomach.label>血肉重塑胃</VME_FleshcraftedStomach.label>
+  <!-- EN: A biological human stomach, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedStomach.description>用尸体重塑出的生物改造胃。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedStomach.description>
+  
+  <!-- EN: fleshcrafted toe -->
+  <VME_FleshcraftedToe.label>血肉重塑趾</VME_FleshcraftedToe.label>
+  <!-- EN: A biological human toe, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedToe.description>用尸体重塑出的生物改造脚趾。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedToe.description>
+  
+  <!-- EN: fleshcrafted tongue -->
+  <VME_FleshcraftedTongue.label>血肉重塑舌</VME_FleshcraftedTongue.label>
+  <!-- EN: A biological human tongue, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedTongue.description>用尸体重塑出的生物改造舌头。可以安全地装在信仰血肉重塑文化的殖民者身上，但其他人则会因排异反应而造成感染。</VME_FleshcraftedTongue.description>
+  
+</LanguageData>

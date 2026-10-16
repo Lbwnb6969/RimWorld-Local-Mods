@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astartes -->
+  <BEWH_AstartesRankCategory.label>阿斯塔特</BEWH_AstartesRankCategory.label>
+  <!-- EN: Ranks of the Astartes. -->
+  <BEWH_AstartesRankCategory.description>阿斯塔特的军衔。</BEWH_AstartesRankCategory.description>
+  
+  <!-- EN: primarch -->
+  <BEWH_PrimarchRankCategory.label>基因原体</BEWH_PrimarchRankCategory.label>
+  <!-- EN: Ranks of the Primarchs. -->
+  <BEWH_PrimarchRankCategory.description>基因原体的军衔。</BEWH_PrimarchRankCategory.description>
+  
+  <!-- EN: thunder warrior -->
+  <BEWH_ThunderWarriorRankCategory.label>雷霆战士</BEWH_ThunderWarriorRankCategory.label>
+  <!-- EN: Ranks of the Thunder Warriors. -->
+  <BEWH_ThunderWarriorRankCategory.description>雷霆战士的军衔。</BEWH_ThunderWarriorRankCategory.description>
+  
+</LanguageData>

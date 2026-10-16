@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <VME_Power_Desired.label>渴望</VME_Power_Desired.label>
+  <!-- EN: Craving to be one of the powerful elite is a very understandable desire and should not be looked down upon. -->
+  <VME_Power_Desired.description>渴望成为权贵是十分正常的想法，我们理应对此报以正确的态度。</VME_Power_Desired.description>
+  <!-- EN: Leader and moralist -->
+  <VME_Power_Desired.comps.0.thoughtStageDescriptions.0>领袖与传道者</VME_Power_Desired.comps.0.thoughtStageDescriptions.0>
+  
+  <!-- EN: exalted -->
+  <VME_Power_Exalted.label>高尚</VME_Power_Exalted.label>
+  <!-- EN: I am righteousness! I am no simple king, I have ascended to that of a god! Bow before me or atone with your life. -->
+  <VME_Power_Exalted.description>吾即是正义！吾已从平庸之王升格到了神明的宝座上！汝等要么臣服于吾，要么就用生命来赎罪。</VME_Power_Exalted.description>
+  <!-- EN: Leader -->
+  <VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>领袖</VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>
+  
+  <!-- EN: preferred -->
+  <VME_Power_Preferred.label>喜好</VME_Power_Preferred.label>
+  <!-- EN: It’s unthinkable to be considered a commoner. I want people to take my word seriously and put forth great effort not to disappoint me. -->
+  <VME_Power_Preferred.description>被别人当作平民简直是无法想象的事。我希望人们认真听从我的话语，并努力不让我失望。</VME_Power_Preferred.description>
+  <!-- EN: Any ideo role -->
+  <VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>任意文化职位</VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>
+  
+</LanguageData>

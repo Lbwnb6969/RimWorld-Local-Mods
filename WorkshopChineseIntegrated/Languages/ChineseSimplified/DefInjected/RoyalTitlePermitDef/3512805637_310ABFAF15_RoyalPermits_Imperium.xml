@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: call custodes -->
+  <BEWH_CallCustodes.label>呼叫禁军支援</BEWH_CallCustodes.label>
+  <!-- EN: Call 2 custodes to aid you in battle. -->
+  <BEWH_CallCustodes.description>呼叫两位禁军协助你作战。</BEWH_CallCustodes.description>
+  
+  <!-- EN: call laborer gang -->
+  <BEWH_CallLaborerGang.label>呼叫工人团</BEWH_CallLaborerGang.label>
+  <!-- EN: Call a group of 8 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <BEWH_CallLaborerGang.description>呼叫一队（8人）工人来为你工作4天时间。这些工人只能完成一般的劳动任务，你可以像普通殖民者一样控制他们，在此期间你需要保证他们的安全。</BEWH_CallLaborerGang.description>
+  
+  <!-- EN: call laborer team -->
+  <BEWH_CallLaborerTeam.label>呼叫劳工队</BEWH_CallLaborerTeam.label>
+  <!-- EN: Call a group of 4 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <BEWH_CallLaborerTeam.description>呼叫一队（4人）工人来为你工作4天时间。这些工人只能完成一般的劳动任务，你可以像普通殖民者一样控制他们，在此期间你需要保证他们的安全。</BEWH_CallLaborerTeam.description>
+  
+  <!-- EN: call localized exterminatus -->
+  <BEWH_CallLocalExterminatus.label>呼叫灭绝令</BEWH_CallLocalExterminatus.label>
+  <!-- EN: Call a last resort, devastating bombardment salvo at target location. -->
+  <BEWH_CallLocalExterminatus.description>请求下达灭绝令，对目标地点发动毁灭性的轰炸。</BEWH_CallLocalExterminatus.description>
+  
+  <!-- EN: call orbital bombardment -->
+  <BEWH_CallOrbitalBombardment.label>呼叫轨道打击</BEWH_CallOrbitalBombardment.label>
+  <!-- EN: Call a single-impact aerodrone strike at a target position. -->
+  <BEWH_CallOrbitalBombardment.description>呼叫对目标地点进行一轮大规模轨道打击。</BEWH_CallOrbitalBombardment.description>
+  
+  <!-- EN: call primaris marine tactical squad -->
+  <BEWH_CallPrimarisMarines.label>呼叫原铸星际战士支援</BEWH_CallPrimarisMarines.label>
+  <!-- EN: Call a tactical squad consisting of 4 primaris marines. -->
+  <BEWH_CallPrimarisMarines.description>呼叫一支战术小队（4名原铸星际战士）来协助你战斗。</BEWH_CallPrimarisMarines.description>
+  
+  <!-- EN: call space marine tactical squad -->
+  <BEWH_CallSpaceMarines.label>呼叫星际战士支援</BEWH_CallSpaceMarines.label>
+  <!-- EN: Call a tactical squad consisting of 4 space marines. -->
+  <BEWH_CallSpaceMarines.description>呼叫一支战术小队（4名初代星际战士）来协助你战斗。</BEWH_CallSpaceMarines.description>
+  
+  <!-- EN: call transport shuttle -->
+  <BEWH_CallTransportShuttle.label>呼叫穿梭机</BEWH_CallTransportShuttle.label>
+  <!-- EN: Call a shuttle for your own use. It will transport colonists, items, and animals anywhere you like within 70 world tiles. -->
+  <BEWH_CallTransportShuttle.description>呼叫一个穿梭机给你自己使用。它能把殖民者、物品和动物运输到任何你喜欢的地方（70格以内）。</BEWH_CallTransportShuttle.description>
+  
+  <!-- EN: food drop -->
+  <BEWH_FoodDrop.label>空投-食物</BEWH_FoodDrop.label>
+  <!-- EN: Call for a drop of 40 packaged survival meals. -->
+  <BEWH_FoodDrop.description>呼叫一份包含40x包装食品的空投。</BEWH_FoodDrop.description>
+  
+  <!-- EN: glitter medicine drop -->
+  <BEWH_GlitterMedDrop.label>空投-闪耀世界医药</BEWH_GlitterMedDrop.label>
+  <!-- EN: Call for a drop of 25 glitterworld medicine. -->
+  <BEWH_GlitterMedDrop.description>呼叫一份包含25x闪耀世界医药的空投。</BEWH_GlitterMedDrop.description>
+  
+  <!-- EN: steel drop -->
+  <BEWH_SteelDrop.label>空投-钢铁</BEWH_SteelDrop.label>
+  <!-- EN: Call for a drop of 400 steel. -->
+  <BEWH_SteelDrop.description>呼叫一份包含400x钢铁的空投。</BEWH_SteelDrop.description>
+  
+  <!-- EN: trade with caravans -->
+  <TradeCaravan.label>与商队贸易</TradeCaravan.label>
+  
+  <!-- EN: trade with orbital traders -->
+  <TradeOrbital.label>与轨道商人贸易</TradeOrbital.label>
+  
+  <!-- EN: trade with settlements -->
+  <TradeSettlement.label>与定居点贸易</TradeSettlement.label>
+  
+</LanguageData>

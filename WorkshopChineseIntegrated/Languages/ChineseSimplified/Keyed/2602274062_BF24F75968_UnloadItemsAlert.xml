@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Unload items -->
+  <DropItemAlert>卸载货物</DropItemAlert>
+	<!-- EN: Start unloading items from all colonists and animals. -->
+  <DropItemDesc>开始卸载殖民者与动物携带的所有货物。</DropItemDesc>
+</LanguageData>

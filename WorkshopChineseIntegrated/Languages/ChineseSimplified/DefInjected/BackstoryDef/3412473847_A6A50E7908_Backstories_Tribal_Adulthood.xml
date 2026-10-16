@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was believed to have supernatural powers that allowed [PAWN_objective] to tame any animal. [PAWN_pronoun] was often called upon when dangerous creatures were spotted near [PAWN_possessive] village in order to soothe the wild beasts. -->
+  <Shenanigans_Tribal_BeastMaster.description>[PAWN_nameDef]被认为拥有超自然的力量，人们都觉得[PAWN_objective]可以驯服任何动物。当危险的生物在[PAWN_possessive]村庄附近出现时，[PAWN_pronoun]经常会被派去安抚这些野兽。</Shenanigans_Tribal_BeastMaster.description>
+  <!-- EN: Beast master -->
+  <Shenanigans_Tribal_BeastMaster.title>兽主</Shenanigans_Tribal_BeastMaster.title>
+  <!-- EN: Beast master -->
+  <Shenanigans_Tribal_BeastMaster.titleShort>兽主</Shenanigans_Tribal_BeastMaster.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] crafted bows for [PAWN_possessive] tribe to hunt with. Naturally, to make the best bows, [PAWN_nameDef] had to become skilled at using them. [PAWN_pronoun] often found [PAWN_objective]self teaching the children of the tribe how to shoot their very first arrows. -->
+  <Shenanigans_Tribal_Bowyer.description>[PAWN_nameDef]为[PAWN_possessive]部落制作弓箭以供狩猎。当然，要想制作出最好的弓箭，[PAWN_nameDef]自己也必须是用弓好手。许多部落孩子的第一支箭都是在他指导下射出的。</Shenanigans_Tribal_Bowyer.description>
+  <!-- EN: Bowyer -->
+  <Shenanigans_Tribal_Bowyer.title>弓匠</Shenanigans_Tribal_Bowyer.title>
+  <!-- EN: Bowyer -->
+  <Shenanigans_Tribal_Bowyer.titleShort>弓匠</Shenanigans_Tribal_Bowyer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was kept as a slave by a small but vicious tribe. The extreme abuse [PAWN_pronoun] suffered made [PAWN_objective] withdrawn and utterly incapable of fighting back. No one thought [PAWN_pronoun] would ever attempt an escape until, one day, [PAWN_pronoun] did. -->
+  <Shenanigans_Tribal_BrokenSlave.description>[PAWN_nameDef]被一个不大但残忍的部落当作奴隶。极端的虐待使[PAWN_objective]崩溃了，不再反抗。没有人认为[PAWN_pronoun]会逃跑，直到有一天，[PAWN_pronoun]真的逃跑了。</Shenanigans_Tribal_BrokenSlave.description>
+  <!-- EN: Broken slave -->
+  <Shenanigans_Tribal_BrokenSlave.title>崩溃的奴隶</Shenanigans_Tribal_BrokenSlave.title>
+  <!-- EN: Slave -->
+  <Shenanigans_Tribal_BrokenSlave.titleShort>奴隶</Shenanigans_Tribal_BrokenSlave.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for keeping track of counting the days for [PAWN_possessive] tribe. [PAWN_possessive] job involved tracking lunar cycles, studying constellations, and predicting the optimal growing seasons. -->
+  <Shenanigans_Tribal_CalendarKeeper.description>[PAWN_nameDef]负责为[PAWN_possessive]部落记录天数。[PAWN_possessive]工作包括追踪月相、研究星座和预测最佳的种植季节。</Shenanigans_Tribal_CalendarKeeper.description>
+  <!-- EN: Calendar keeper -->
+  <Shenanigans_Tribal_CalendarKeeper.title>历官</Shenanigans_Tribal_CalendarKeeper.title>
+  <!-- EN: Calendar keeper -->
+  <Shenanigans_Tribal_CalendarKeeper.titleShort>历官</Shenanigans_Tribal_CalendarKeeper.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was taken prisoner during one of [PAWN_possessive] tribe’s raids on a neighbouring village. [PAWN_possessive] captors showed [PAWN_objective] remarkable kindness, and [PAWN_nameDef] was soon consumed with regret for [PAWN_possessive] violent ways. [PAWN_nameDef] took up the hobby of tending to flowers, wanting to bring happiness and beauty to the world instead of destruction. -->
+  <Shenanigans_Tribal_CapturedPillager.description>[PAWN_nameDef]在[PAWN_possessive]部落对邻近村庄的袭击中被俘。对方对[PAWN_objective]表现出了极大的善意，[PAWN_nameDef]很快对自己的暴力感到后悔。[PAWN_nameDef]开始养花，想要给世界带来幸福和美丽而不是破坏。</Shenanigans_Tribal_CapturedPillager.description>
+  <!-- EN: Captured pillager -->
+  <Shenanigans_Tribal_CapturedPillager.title>被俘掠夺者</Shenanigans_Tribal_CapturedPillager.title>
+  <!-- EN: Pacifist -->
+  <Shenanigans_Tribal_CapturedPillager.titleShort>和平者</Shenanigans_Tribal_CapturedPillager.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] painted the stories of [PAWN_possessive] tribe on the walls of the cave system that they dwelt in. From commemorating marriages, births, and deaths, memorializing great hunts, and depicting important aspects of the tribe’s belief system, [PAWN_nameDef] was kept busy and seldom had a chance to wander outside. -->
+  <Shenanigans_Tribal_CavePainter.description>[PAWN_nameDef]在部落居住的洞穴系统的墙上画下了[PAWN_possessive]部落的故事。从纪念婚姻、出生、死亡，到纪念伟大的狩猎，以及描绘部落信仰体系的重要概念，[PAWN_nameDef]一直忙个不停，很少有机会外出。</Shenanigans_Tribal_CavePainter.description>
+  <!-- EN: Cave painter -->
+  <Shenanigans_Tribal_CavePainter.title>洞画家</Shenanigans_Tribal_CavePainter.title>
+  <!-- EN: Cave painter -->
+  <Shenanigans_Tribal_CavePainter.titleShort>洞画家</Shenanigans_Tribal_CavePainter.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] hunted for food for [PAWN_possessive] tribe using a large club. [PAWN_pronoun] refused to use a bow and arrow like the other hunters, much preferring to bludgeon things to death. -->
+  <Shenanigans_Tribal_ClubHunter.description>[PAWN_nameDef]使用大棒为[PAWN_possessive]部落狩猎食物。[PAWN_pronoun]拒绝像其他猎人那样使用弓箭，更喜欢用大棒将猎物击昏。</Shenanigans_Tribal_ClubHunter.description>
+  <!-- EN: Club hunter -->
+  <Shenanigans_Tribal_ClubHunter.title>大棒猎人</Shenanigans_Tribal_ClubHunter.title>
+  <!-- EN: Club hunter -->
+  <Shenanigans_Tribal_ClubHunter.titleShort>大棒猎人</Shenanigans_Tribal_ClubHunter.titleShort>
+  
+  <!-- EN: After surviving a battle that turned into a massacre, something in [PAWN_nameDef] simply snapped. [PAWN_pronoun] would constantly mutter to [PAWN_objective]self, get into fights with inanimate objects, and scream at random. Sometimes, [PAWN_nameDef] would attempt to injure [PAWN_objective]self, always eerily silent as [PAWN_pronoun] did so. -->
+  <Shenanigans_Tribal_CrazedWarrior.description>在一场最终演变成大屠杀的战斗中幸存下来后，[PAWN_nameDef]心中的某部分就崩溃了。[PAWN_pronoun]会不断地自言自语，与无生命物体打架，毫无预兆地尖叫。有时，[PAWN_nameDef]会试图伤害[PAWN_objective]自己，而且不发出一点声音，令人毛骨悚然。</Shenanigans_Tribal_CrazedWarrior.description>
+  <!-- EN: Crazed warrior -->
+  <Shenanigans_Tribal_CrazedWarrior.title>发疯战士</Shenanigans_Tribal_CrazedWarrior.title>
+  <!-- EN: Crazed warrior -->
+  <Shenanigans_Tribal_CrazedWarrior.titleShort>发疯战士</Shenanigans_Tribal_CrazedWarrior.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]’s homeland was struck by a terrible famine. Many members of [PAWN_possessive] tribe starved to death, and a few even turned to cannibalism. To keep [PAWN_objective]self alive, [PAWN_nameDef] scavenged for roots, insects, and even carrion. -->
+  <Shenanigans_Tribal_DesperateScavenger.description>可怕的饥荒席卷了[PAWN_nameDef]的家园。许多部落的成员饿死，甚至有几个人开始吃人肉。为了生存，[PAWN_nameDef]吃根茎、昆虫，甚至动物腐肉。</Shenanigans_Tribal_DesperateScavenger.description>
+  <!-- EN: Desperate scavenger -->
+  <Shenanigans_Tribal_DesperateScavenger.title>绝望的食腐者</Shenanigans_Tribal_DesperateScavenger.title>
+  <!-- EN: Scavenger -->
+  <Shenanigans_Tribal_DesperateScavenger.titleShort>食腐者</Shenanigans_Tribal_DesperateScavenger.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was the sole survivor of another tribe’s raid on [PAWN_possessive] village. Taken prisoner, [PAWN_pronoun] was intended as a sacrifice to appease the enemy’s bloodthirsty god. Through strength, cunning, and luck, [PAWN_nameDef] made a daring escape. -->
+  <Shenanigans_Tribal_EscapedSacrifice.description>另一个部落袭击了[PAWN_possessive]村庄，[PAWN_nameDef]是唯一活口。被俘后，[PAWN_pronoun]被当作祭品，以安抚敌人嗜血的神。[PAWN_nameDef]凭借力量、急智和运气，勇敢地逃跑了。</Shenanigans_Tribal_EscapedSacrifice.description>
+  <!-- EN: Escaped sacrifice -->
+  <Shenanigans_Tribal_EscapedSacrifice.title>逃跑祭品</Shenanigans_Tribal_EscapedSacrifice.title>
+  <!-- EN: Escapee -->
+  <Shenanigans_Tribal_EscapedSacrifice.titleShort>逃脱者</Shenanigans_Tribal_EscapedSacrifice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] enjoyed the prestige and power that came from being [PAWN_possessive] tribe’s witch doctor. [PAWN_nameDef] would invent fake ailments that [PAWN_pronoun] would claim [PAWN_pronoun] "knew" tribe members were suffering from in order to keep [PAWN_possessive] place of importance secure. In most cases, [PAWN_nameDef] would prescribe useless placebo herbs. Other times, [PAWN_pronoun] used mild poisons to make [PAWN_possessive] lies seem more legitimate. -->
+  <Shenanigans_Tribal_FraudulentWitchDoctor.description>[PAWN_nameDef]很享受作为部落巫医的声望和权力。[PAWN_nameDef]会编造一些虚假的疾病，然后声称[PAWN_pronoun]“知道”部落成员正在遭受这些疾病的折磨，以保持[PAWN_possessive]重要地位。大多数情况下，[PAWN_nameDef]会开出无用的安慰剂草药。在其他时候，[PAWN_nameDef]会使用弱效毒药，以使[PAWN_possessive]谎言看起来更加真实。</Shenanigans_Tribal_FraudulentWitchDoctor.description>
+  <!-- EN: Fraudulent witch doctor -->
+  <Shenanigans_Tribal_FraudulentWitchDoctor.title>骗子巫医</Shenanigans_Tribal_FraudulentWitchDoctor.title>
+  <!-- EN: Witch doctor -->
+  <Shenanigans_Tribal_FraudulentWitchDoctor.titleShort>巫医</Shenanigans_Tribal_FraudulentWitchDoctor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled far and wide, trading the furs of the creatures [PAWN_possessive] tribe hunted for other goods. [PAWN_pronoun] was skilled with words, and was always able to make a favourable deal. -->
+  <Shenanigans_Tribal_FurTrader.description>[PAWN_nameDef]走遍天涯海角，用[PAWN_possessive]部落狩猎的动物皮毛交换其他商品。[PAWN_pronoun]擅长言辞，总是能够达成有利的交易。</Shenanigans_Tribal_FurTrader.description>
+  <!-- EN: Fur trader -->
+  <Shenanigans_Tribal_FurTrader.title>毛皮商</Shenanigans_Tribal_FurTrader.title>
+  <!-- EN: Fur trader -->
+  <Shenanigans_Tribal_FurTrader.titleShort>毛皮商</Shenanigans_Tribal_FurTrader.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was guilty of what [PAWN_possessive] tribe considered to be the worst crime possible: killing a member of one’s own family. [PAWN_nameDef] was to be put to death, but escaped and fled as far as [PAWN_pronoun] could. -->
+  <Shenanigans_Tribal_Kinslayer.description>[PAWN_nameDef]犯下了[PAWN_possessive]部落认为最严重的罪行：杀害自己的家庭成员。[PAWN_nameDef]本应被处死但逃脱了，尽可能远离了部落。</Shenanigans_Tribal_Kinslayer.description>
+  <!-- EN: Kinslayer -->
+  <Shenanigans_Tribal_Kinslayer.title>弑亲者</Shenanigans_Tribal_Kinslayer.title>
+  <!-- EN: Kinslayer -->
+  <Shenanigans_Tribal_Kinslayer.titleShort>弑亲者</Shenanigans_Tribal_Kinslayer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] watched for danger while the rest of [PAWN_possessive] tribe went about their business. While standing guard, [PAWN_nameDef] would practice [PAWN_possessive] marksmanship, attempting to shoot specific leaves from trees. [PAWN_pronoun] was often scolded for wasting arrows, but always managed to charm [PAWN_possessive] way out of trouble. -->
+  <Shenanigans_Tribal_Lookout.description>部落的其他成员忙于日常事务时，[PAWN_nameDef]负责警惕危险。在站岗时，[PAWN_nameDef]会练习射击技巧，尝试射中树上的特定叶子。[PAWN_pronoun]经常因为浪费箭矢被骂，但总是能够用[PAWN_possessive]魅力化解麻烦。</Shenanigans_Tribal_Lookout.description>
+  <!-- EN: Lookout -->
+  <Shenanigans_Tribal_Lookout.title>瞭望人</Shenanigans_Tribal_Lookout.title>
+  <!-- EN: Lookout -->
+  <Shenanigans_Tribal_Lookout.titleShort>瞭望人</Shenanigans_Tribal_Lookout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carried messages to and from [PAWN_possessive] tribe’s village. [PAWN_pronoun] got to meet many different people, and always tried to find the time to chat and get to know them better. -->
+  <Shenanigans_Tribal_Messenger.description>[PAWN_nameDef]负责为[PAWN_possessive]部落的村庄传递消息。[PAWN_pronoun]会遇到许多不同的人，并且总是尽力找时间与他们聊天，与他们熟络。</Shenanigans_Tribal_Messenger.description>
+  <!-- EN: Messenger -->
+  <Shenanigans_Tribal_Messenger.title>信使</Shenanigans_Tribal_Messenger.title>
+  <!-- EN: Messenger -->
+  <Shenanigans_Tribal_Messenger.titleShort>信使</Shenanigans_Tribal_Messenger.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carved large stone monuments to honour [PAWN_possessive] tribe’s ancestors. [PAWN_nameDef] preferred to work in silent solitude, and hated when others tried to speak to [PAWN_objective] while [PAWN_pronoun] worked. -->
+  <Shenanigans_Tribal_MonumentCarver.description>[PAWN_nameDef]雕刻大型石碑，以纪念[PAWN_possessive]部落祖先。[PAWN_nameDef]喜欢静静地独自工作，讨厌别人在工作时打扰[PAWN_objective]。</Shenanigans_Tribal_MonumentCarver.description>
+  <!-- EN: Monument carver -->
+  <Shenanigans_Tribal_MonumentCarver.title>纪念碑雕工</Shenanigans_Tribal_MonumentCarver.title>
+  <!-- EN: Carver -->
+  <Shenanigans_Tribal_MonumentCarver.titleShort>雕工</Shenanigans_Tribal_MonumentCarver.titleShort>
+  
+  <!-- EN: While the rest of [PAWN_possessive] tribe slept, [PAWN_nameDef] kept watch for danger lurking in the night. [PAWN_pronoun] spent so much time in quiet darkness, that [PAWN_pronoun] found the hustle and bustle of the day time to be unbearable. -->
+  <Shenanigans_Tribal_NightWatch.description>当部落的其他成员睡觉时，[PAWN_nameDef]在夜晚警惕着潜藏的危险。[PAWN_pronoun]在寂静的黑暗中度过了太多时间，以至于[PAWN_pronoun]难以忍受白天的喧嚣。</Shenanigans_Tribal_NightWatch.description>
+  <!-- EN: Night watch -->
+  <Shenanigans_Tribal_NightWatch.title>守夜人</Shenanigans_Tribal_NightWatch.title>
+  <!-- EN: Lookout -->
+  <Shenanigans_Tribal_NightWatch.titleShort>守夜人</Shenanigans_Tribal_NightWatch.titleShort>
+  
+  <!-- EN: After a famine, [PAWN_nameDef]’s tribe lacked any animals that could help them plough their fields. Determined not to allow [PAWN_possessive] people to starve any longer, [PAWN_nameDef] used all of [PAWN_possessive] strength to pull the ploughs [PAWN_objective]self. -->
+  <Shenanigans_Tribal_PloughPuller.description>在饥荒之后，[PAWN_nameDef]的部落缺乏能够帮他们耕种田地的动物。[PAWN_nameDef]决心不让[PAWN_possessive]人民再挨饿，于是亲自下田拉犁。</Shenanigans_Tribal_PloughPuller.description>
+  <!-- EN: Plough puller -->
+  <Shenanigans_Tribal_PloughPuller.title>拉犁人</Shenanigans_Tribal_PloughPuller.title>
+  <!-- EN: Plough puller -->
+  <Shenanigans_Tribal_PloughPuller.titleShort>拉犁人</Shenanigans_Tribal_PloughPuller.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] recorded important information relating to trade using clay tablets and small knotted ropes. [PAWN_pronoun] kept track of numbers and values and helped to resolve disputes. -->
+  <Shenanigans_Tribal_RecordKeeper.description>[PAWN_nameDef]使用粘土板和小结绳记录重要的贸易资料。[PAWN_pronoun]跟踪数字和价格，并帮助解决争端。</Shenanigans_Tribal_RecordKeeper.description>
+  <!-- EN: Record keeper -->
+  <Shenanigans_Tribal_RecordKeeper.title>记录者</Shenanigans_Tribal_RecordKeeper.title>
+  <!-- EN: Record keeper -->
+  <Shenanigans_Tribal_RecordKeeper.titleShort>记录者</Shenanigans_Tribal_RecordKeeper.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]’s tribe believed that a bountiful harvest could be ensured by performing ceremonial dances. To learn to perform these complex dances properly, [PAWN_nameDef] had to spend most of [PAWN_possessive] time practicing, leaving little room for developing other skills. -->
+  <Shenanigans_Tribal_SacredDancer.description>[PAWN_nameDef]的部落相信仪式舞蹈可以确保丰收。为了正确地学习这些复杂的舞蹈，[PAWN_nameDef]不得不花费大部分时间练习，几乎没有时间发展其他技能。</Shenanigans_Tribal_SacredDancer.description>
+  <!-- EN: Sacred dancer -->
+  <Shenanigans_Tribal_SacredDancer.title>神圣舞者</Shenanigans_Tribal_SacredDancer.title>
+  <!-- EN: Dancer -->
+  <Shenanigans_Tribal_SacredDancer.titleShort>舞者</Shenanigans_Tribal_SacredDancer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] would occasionally feel… strange. As though something far away was affecting [PAWN_possessive] thoughts. A wise elder told [PAWN_objective] that [PAWN_pronoun] had the ability to hear the spirit world. Members of [PAWN_nameDef]’s tribe would ask [PAWN_objective] for advice from the spirits, which [PAWN_pronoun] tried [PAWN_possessive] best to give. -->
+  <Shenanigans_Tribal_SpiritSpeaker.description>[PAWN_nameDef]偶尔会有奇怪的感觉，仿佛遥远的事物正在影响[PAWN_possessive]思想。一位智慧的长者告诉[PAWN_objective]，[PAWN_pronoun]有能力听到灵界的声音。[PAWN_nameDef]的部落成员会向[PAWN_objective]寻求灵界的建议，[PAWN_pronoun]尽力给予他们。</Shenanigans_Tribal_SpiritSpeaker.description>
+  <!-- EN: Spirit speaker -->
+  <Shenanigans_Tribal_SpiritSpeaker.title>通灵者</Shenanigans_Tribal_SpiritSpeaker.title>
+  <!-- EN: Spirit speaker -->
+  <Shenanigans_Tribal_SpiritSpeaker.titleShort>通灵者</Shenanigans_Tribal_SpiritSpeaker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was an essential part of any hunting party for [PAWN_possessive] uncanny ability to track prey over long distances, even in the most unfavourable conditions. -->
+  <Shenanigans_Tribal_Tracker.description>[PAWN_nameDef]是任何狩猎队伍中不可或缺的一部分，因为[PAWN_possessive]具有超凡的追踪猎物的本领，即使在最差的条件下也能追踪很远的距离。</Shenanigans_Tribal_Tracker.description>
+  <!-- EN: Tracker -->
+  <Shenanigans_Tribal_Tracker.title>追踪者</Shenanigans_Tribal_Tracker.title>
+  <!-- EN: Tracker -->
+  <Shenanigans_Tribal_Tracker.titleShort>追踪者</Shenanigans_Tribal_Tracker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended to [PAWN_possessive] tribe’s sacred tree, meditating beneath it in order to commune with it and ascertain its needs. [PAWN_nameDef]’s tree-assigned duties included keeping the area around it clear of any man-made structures, bringing it water during the dry months, and encouraging pest-eating creatures to live near it. -->
+  <Shenanigans_Tribal_TreeTender.description>[PAWN_nameDef]负责照顾部落的圣树，在树下冥想，以便与它交流并了解它的需求。圣树给[PAWN_nameDef]的职责包括保持其周围区域没有人工建筑物，在干燥的月份给它浇水，并鼓励吃害虫的生物在附近生活。</Shenanigans_Tribal_TreeTender.description>
+  <!-- EN: Sacred tree tender -->
+  <Shenanigans_Tribal_TreeTender.title>圣树照料者</Shenanigans_Tribal_TreeTender.title>
+  <!-- EN: Tree tender -->
+  <Shenanigans_Tribal_TreeTender.titleShort>圣树照料者</Shenanigans_Tribal_TreeTender.titleShort>
+  
+  <!-- EN: With the aid of hallucinogenic plants, [PAWN_nameDef] helped to guide members of [PAWN_possessive] tribe on their spiritual journeys. -->
+  <Shenanigans_Tribal_VisionGuide.description>在致幻植物的帮助下，[PAWN_nameDef]帮助[PAWN_possessive]部落成员进行他们的精神之旅。</Shenanigans_Tribal_VisionGuide.description>
+  <!-- EN: Vision guide -->
+  <Shenanigans_Tribal_VisionGuide.title>灵视向导</Shenanigans_Tribal_VisionGuide.title>
+  <!-- EN: Vision guide -->
+  <Shenanigans_Tribal_VisionGuide.titleShort>灵视向导</Shenanigans_Tribal_VisionGuide.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] had the job of hauling waste away from [PAWN_possessive] tribe’s homes and living areas. Many members of the tribe considered [PAWN_nameDef] to be dirty because of this, and refused to speak to [PAWN_objective]. -->
+  <Shenanigans_Tribal_WasteHauler.description>[PAWN_nameDef]的工作是将废物从[PAWN_possessive]部落的住宅和生活区运走。也因此，部落中的许多成员认为[PAWN_nameDef]很脏，并拒绝与[PAWN_objective]说话。</Shenanigans_Tribal_WasteHauler.description>
+  <!-- EN: Waste hauler -->
+  <Shenanigans_Tribal_WasteHauler.title>废物清运工</Shenanigans_Tribal_WasteHauler.title>
+  <!-- EN: Waste hauler -->
+  <Shenanigans_Tribal_WasteHauler.titleShort>废物清运工</Shenanigans_Tribal_WasteHauler.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] collected water from the river that flowed near [PAWN_possessive] tribe’s village, carrying water in large, heavy containers to wherever it was needed. -->
+  <Shenanigans_Tribal_WaterCarrier.description>[PAWN_nameDef]从部落村庄附近的河流中取水，将水装在大型、沉重的容器中运送到需要的地方。</Shenanigans_Tribal_WaterCarrier.description>
+  <!-- EN: Water carrier -->
+  <Shenanigans_Tribal_WaterCarrier.title>运水工</Shenanigans_Tribal_WaterCarrier.title>
+  <!-- EN: Water carrier -->
+  <Shenanigans_Tribal_WaterCarrier.titleShort>运水工</Shenanigans_Tribal_WaterCarrier.titleShort>
+  
+</LanguageData>

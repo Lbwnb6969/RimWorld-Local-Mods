@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Lord General -->
+  <BEWH_NPCTitle1.label>领主将军</BEWH_NPCTitle1.label>
+  <!-- EN: Lord General is the highest rank available inside the General Staff of the Imperial Guard, and one with a multitude of official designations. -->
+  <BEWH_NPCTitle1.description>领主将军是帝国卫队总参谋部内最高军衔，拥有多种官方称谓。</BEWH_NPCTitle1.description>
+  
+  <!-- EN: Warmaster -->
+  <BEWH_NPCTitle2.label>战帅</BEWH_NPCTitle2.label>
+  <!-- EN: Warmaster is a special military rank of the Imperium and the Imperial Guard. Warmasters are created when a Crusade is being planned and resources from multiple sectors are needed. -->
+  <BEWH_NPCTitle2.description>战帅是帝国与帝国卫队的特殊军衔。当计划发动远征并需整合多星区资源时，便会设立此职。</BEWH_NPCTitle2.description>
+  
+  <!-- EN: Lord Commander -->
+  <BEWH_NPCTitle3.label>领主指挥官</BEWH_NPCTitle3.label>
+  <!-- EN: Occasionally referenced as Lord Militant Commander and also referred to as Lord High Admiral, a Lord Commander of the Imperial Navy has jurisdiction over the Imperial Navy in a Segmentum of the Imperium. -->
+  <BEWH_NPCTitle3.description>帝国海军领主指挥官（亦称战争领主或海军元帅）统辖着帝国某个星域内的海军部队。</BEWH_NPCTitle3.description>
+  
+  <!-- EN: Emperor -->
+  <BEWH_NPCTitle4.label>帝皇</BEWH_NPCTitle4.label>
+  <!-- EN: The God Emperor himself. -->
+  <BEWH_NPCTitle4.description>帝皇本人。</BEWH_NPCTitle4.description>
+  
+  <!-- EN: Associate -->
+  <BEWH_Title1.label>协理官</BEWH_Title1.label>
+  <!-- EN: The title of associate is used by the Imperium to signify a fully-respected individual. The title is offered to outsiders who act with honor in the eyes of the Imperium. -->
+  <BEWH_Title1.description>帝国授予“协理官”头衔予受尊敬的外界人士，表彰其以帝国标准行事的荣誉。</BEWH_Title1.description>
+  
+  <!-- EN: Honorary Citizen -->
+  <BEWH_Title2.label>荣誉公民</BEWH_Title2.label>
+  <!-- EN: The title of honorary citizen is used by the Imperium to signify a fully-respected individual with trading rights within the Imperium. The title is offered to outsiders who act with honor in the eyes of the Imperium. -->
+  <BEWH_Title2.description>此头衔授予受帝国敬重的外界人士，赋予其在帝国内的贸易特权。</BEWH_Title2.description>
+  
+  <!-- EN: Honorary Sergeant -->
+  <BEWH_Title3.label>荣誉军士</BEWH_Title3.label>
+  <!-- EN: The title of honorary Sergeant is used by the Imperium to signify a fully-respected individual with trading and military rights within the Imperium. The title is offered to outsiders who act with honor in the eyes of the Imperium. -->
+  <BEWH_Title3.description>此头衔授予受敬重的外界人士，赋予其在帝国内的贸易权与军事通行权。</BEWH_Title3.description>
+  
+  <!-- EN: Honorary Lieutenant -->
+  <BEWH_Title4.label>荣誉副官</BEWH_Title4.label>
+  <!-- EN: The title of honorary Lieutenant is used by the Imperium to signify an individual whose military and economic prowess has useful to the Imperium and has warranted a promotion. The title is offered to outsiders who act with honor in the eyes of the Imperium. -->
+  <BEWH_Title4.description>此头衔授予军事与经济才能受帝国关注并亟需的外界人士。</BEWH_Title4.description>
+  
+  <!-- EN: Honorary Captain -->
+  <BEWH_Title5.label>荣誉连长</BEWH_Title5.label>
+  <!-- EN: The title of honorary captain is used by the Imperium to signify an individual whose military and economic prowess has seen its usefulness. The title is offered to outsiders who act with honor in the eyes of the Imperium. -->
+  <BEWH_Title5.description>此头衔授予其军事经济才能已被证实对帝国有价值的外界人士。</BEWH_Title5.description>
+  
+  <!-- EN: Honorary Major -->
+  <BEWH_Title6.label>荣誉少校</BEWH_Title6.label>
+  <!-- EN: The title of honorary major is used by the Imperium to signify an individual whose military and economic prowess has useful to the Imperium and has warranted a promotion. The title is offered to outsiders who act with honor in the eyes of the Imperium. -->
+  <BEWH_Title6.description>此头衔授予其才能对帝国卓有贡献并值得晋升的外界人士。</BEWH_Title6.description>
+  
+  <!-- EN: Honorary General -->
+  <BEWH_Title7.label>荣誉将军</BEWH_Title7.label>
+  <!-- EN: The title of honorary General is used by the Imperium to signify an individual whose military and economic prowess has proven important to the Imperium and has warranted a promotion. The title is offered to outsiders who act with honor in the eyes of the Imperium. -->
+  <BEWH_Title7.description>此头衔授予其军事经济才能对帝国至关重要并值得擢升的外界人士。</BEWH_Title7.description>
+  
+</LanguageData>

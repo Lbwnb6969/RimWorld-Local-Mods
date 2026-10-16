@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: trap melee hits -->
+  <VFES_TrapMeleeHits.label>陷阱伤害次数</VFES_TrapMeleeHits.label>
+  <!-- EN: How many times does this trap hit its targets.\n\nThe total trap damage is spread evenly across all the hits. -->
+  <VFES_TrapMeleeHits.description>此陷阱对目标造成的伤害次数。\n\n陷阱的总伤害会平均分摊至所有的伤害次数上。</VFES_TrapMeleeHits.description>
+  
+</LanguageData>

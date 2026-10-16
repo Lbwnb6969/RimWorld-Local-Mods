@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Production tab -->
+  <O21_Concept_AutomatedProduction.label>生产</O21_Concept_AutomatedProduction.label>
+  <!-- EN: To make automated producers work, select the building and open the Production tab. Here you can tell it what recipe it uses, this can vary from mining, crafting to even creating new pawns depending on the building. The repeat and cancel buttons should be fairly self-explanitory. -->
+  <O21_Concept_AutomatedProduction.helpText>若想使自动化生产者工作，请选择建筑并打开「生产」选项卡。你可以在这里为其制定使用的配方，采矿、制作甚至是制造新的殖民者，这些会因建筑的不同而有所差异。「重复」和「取消」按钮的功能不言自明。</O21_Concept_AutomatedProduction.helpText>
+  
+</LanguageData>

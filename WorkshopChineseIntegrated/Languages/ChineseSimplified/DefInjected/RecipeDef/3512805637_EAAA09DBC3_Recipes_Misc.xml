@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make raw gestational slurry -->
+  <BEWH_MakeRawGestationalSlurry.label>制作原始培育液</BEWH_MakeRawGestationalSlurry.label>
+  <!-- EN: Make a raw gestational slurry. -->
+  <BEWH_MakeRawGestationalSlurry.description>制作原始培育液。</BEWH_MakeRawGestationalSlurry.description>
+  <!-- EN: Making raw gestational slurry. -->
+  <BEWH_MakeRawGestationalSlurry.jobString>制作原始培育液中。</BEWH_MakeRawGestationalSlurry.jobString>
+  
+  <!-- EN: make raw gestational slurry -->
+  <BEWH_MakeRawGestationalSlurryRefined.label>制作原始培育液（精炼配方）</BEWH_MakeRawGestationalSlurryRefined.label>
+  <!-- EN: Make a raw gestational slurry. -->
+  <BEWH_MakeRawGestationalSlurryRefined.description>制作原始培育液。</BEWH_MakeRawGestationalSlurryRefined.description>
+  <!-- EN: Making raw gestational slurry. -->
+  <BEWH_MakeRawGestationalSlurryRefined.jobString>制作原始培育液中。</BEWH_MakeRawGestationalSlurryRefined.jobString>
+  
+  <!-- EN: make rubicon surgery kit -->
+  <BEWH_MakeRubiconSurgeryKit.label>制作原铸手术医疗包</BEWH_MakeRubiconSurgeryKit.label>
+  <!-- EN: Make a rubicon surgery kit. -->
+  <BEWH_MakeRubiconSurgeryKit.description>制作原铸手术医疗包。</BEWH_MakeRubiconSurgeryKit.description>
+  <!-- EN: Making rubicon surgery kit. -->
+  <BEWH_MakeRubiconSurgeryKit.jobString>制作原铸手术医疗包中。</BEWH_MakeRubiconSurgeryKit.jobString>
+  
+  <!-- EN: make rubicon surgery kit -->
+  <BEWH_MakeRubiconSurgeryKitRefined.label>制作原铸手术医疗包（精炼配方）</BEWH_MakeRubiconSurgeryKitRefined.label>
+  <!-- EN: Make a rubicon surgery kit. -->
+  <BEWH_MakeRubiconSurgeryKitRefined.description>制作原铸手术医疗包。</BEWH_MakeRubiconSurgeryKitRefined.description>
+  <!-- EN: Making rubicon surgery kit. -->
+  <BEWH_MakeRubiconSurgeryKitRefined.jobString>制作原铸手术医疗包中。</BEWH_MakeRubiconSurgeryKitRefined.jobString>
+  
+</LanguageData>

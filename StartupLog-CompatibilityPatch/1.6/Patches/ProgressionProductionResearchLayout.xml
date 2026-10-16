@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="Ferny_ElectricSmelter"]/researchViewX</xpath>
+    <value>
+      <researchViewX>5.00</researchViewX>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="Ferny_ElectricSmelter"]/researchViewY</xpath>
+    <value>
+      <researchViewY>3.00</researchViewY>
+    </value>
+  </Operation>
+</Patch>

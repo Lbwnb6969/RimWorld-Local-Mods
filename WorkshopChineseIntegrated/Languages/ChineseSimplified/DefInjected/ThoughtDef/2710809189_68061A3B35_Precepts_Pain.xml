@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no pain -->
+  <AM_Pain_Required.stages.no_pain.label>缺少疼痛</AM_Pain_Required.stages.no_pain.label>
+  <!-- EN: There is no life without pain. We can't experience life to its fullest while being tainted by comfort. -->
+  <AM_Pain_Required.stages.no_pain.description>没有疼痛的生命是不完整的。沉溺于舒适中让我无法体验生活的全部意义。</AM_Pain_Required.stages.no_pain.description>
+  <!-- EN: minor pain -->
+  <AM_Pain_Required.stages.minor_pain.label>轻微疼痛</AM_Pain_Required.stages.minor_pain.label>
+  <!-- EN: The pain grounds me. I appreciate it. -->
+  <AM_Pain_Required.stages.minor_pain.description>疼痛让我脚踏实地。我很感激它。</AM_Pain_Required.stages.minor_pain.description>
+  <!-- EN: serious pain -->
+  <AM_Pain_Required.stages.serious_pain.label>严重疼痛</AM_Pain_Required.stages.serious_pain.label>
+  <!-- EN: The pain cleanses me. I like it. -->
+  <AM_Pain_Required.stages.serious_pain.description>疼痛洗涤了我。我很喜欢它。</AM_Pain_Required.stages.serious_pain.description>
+  <!-- EN: intense pain -->
+  <AM_Pain_Required.stages.intense_pain.label>剧烈疼痛</AM_Pain_Required.stages.intense_pain.label>
+  <!-- EN: The pain purifies me. I need it! -->
+  <AM_Pain_Required.stages.intense_pain.description>疼痛净化了我。我很需要它！</AM_Pain_Required.stages.intense_pain.description>
+  <!-- EN: mind-shattering pain -->
+  <AM_Pain_Required.stages.mindshattering_pain.label>撕心裂肺的疼痛</AM_Pain_Required.stages.mindshattering_pain.label>
+  <!-- EN: The pain makes me sublime! I wish to become it! -->
+  <AM_Pain_Required.stages.mindshattering_pain.description>疼痛升华了我！我渴望成为它！</AM_Pain_Required.stages.mindshattering_pain.description>
+  
+  <!-- EN: no pain -->
+  <AM_Pain_Required_Masochist.stages.no_pain.label>缺少疼痛</AM_Pain_Required_Masochist.stages.no_pain.label>
+  <!-- EN: Why does nothing hurt?! I feel hollow, numb, incomplete. I need pain. I need it so badly. -->
+  <AM_Pain_Required_Masochist.stages.no_pain.description>为什么我一点疼痛都感觉不到？这让我变得空洞、麻木且不完整。我需要疼痛...我真的非常需要它...</AM_Pain_Required_Masochist.stages.no_pain.description>
+  
+</LanguageData>

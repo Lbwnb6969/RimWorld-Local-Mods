@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cleansing blast -->
+  <BotchJob_DivineOrderCleansingBlast.label>净化洗礼</BotchJob_DivineOrderCleansingBlast.label>
+  <!-- EN: {0} has been cleansed. -->
+  <BotchJob_DivineOrderCleansingBlast.deathMessage>{0}已被净化。</BotchJob_DivineOrderCleansingBlast.deathMessage>
+
+  <BotchJob_DivineOrderStaffBlast.label>神圣审判</BotchJob_DivineOrderStaffBlast.label>
+  <BotchJob_DivineOrderStaffBlast.deathMessage>{0}已被神圣之光焚毁。</BotchJob_DivineOrderStaffBlast.deathMessage>
+
+</LanguageData>

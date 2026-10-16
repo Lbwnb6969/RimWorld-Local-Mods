@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: emmène TargetA vers l'aire de récupération. -->
+  <RimJoust_CarryToRecovery.reportString>正将{TargetA}送往休息区。</RimJoust_CarryToRecovery.reportString>
+  
+  <!-- EN: participe à une joute. -->
+  <RimJoust_JoustPass.reportString>正在进行比武冲刺。</RimJoust_JoustPass.reportString>
+  
+  <!-- EN: regarde la joute. -->
+  <RimJoust_WatchJoust.reportString>正在观看比武。</RimJoust_WatchJoust.reportString>
+  
+</LanguageData>

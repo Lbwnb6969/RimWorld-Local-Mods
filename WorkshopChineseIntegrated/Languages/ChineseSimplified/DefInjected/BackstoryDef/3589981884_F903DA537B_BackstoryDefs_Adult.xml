@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] hunted and trapped along the borders of Ruthenia, trading pelts for salt and iron. [PAWN_pronoun] learned stealth and patience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Basic_Border_Trapper.description>[PAWN_nameDef] 在鲁塞尼亚边境狩猎设陷阱，用兽皮换取盐与铁器。[PAWN_pronoun] 学会了潜行与耐心。</BA_Polish_Adult_Basic_Border_Trapper.description>
+  <!-- EN: Border Trapper -->
+  <BA_Polish_Adult_Basic_Border_Trapper.title>边境陷阱猎手</BA_Polish_Adult_Basic_Border_Trapper.title>
+  <!-- EN: Trapper -->
+  <BA_Polish_Adult_Basic_Border_Trapper.titleShort>陷阱猎手</BA_Polish_Adult_Basic_Border_Trapper.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fished the quiet lakes of Mazovia, learning to mend nets and read ripples on the water. The solitude taught [PAWN_objective] patience and calm.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Basic_Mazovian_Fisherman.description>[PAWN_nameDef] 在马佐维亚宁静的湖泊中捕鱼，学会了修补渔网与解读水面涟漪。孤独教会了[PAWN_objective] 耐心与沉静。</BA_Polish_Adult_Basic_Mazovian_Fisherman.description>
+  <!-- EN: Mazovian Fisherman -->
+  <BA_Polish_Adult_Basic_Mazovian_Fisherman.title>马佐维亚渔夫</BA_Polish_Adult_Basic_Mazovian_Fisherman.title>
+  <!-- EN: Fisherman -->
+  <BA_Polish_Adult_Basic_Mazovian_Fisherman.titleShort>渔夫</BA_Polish_Adult_Basic_Mazovian_Fisherman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] labored in the salt mines of Wieliczka, chipping at rock and brine in the dim light of torches. The work hardened [PAWN_objective] body and will.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Basic_Salt_Miner.description>[PAWN_nameDef] 在维利奇卡盐矿劳作，在火把的昏暗光线中凿击岩石与盐卤。这份工作锤炼了[PAWN_objective] 的体魄与意志。</BA_Polish_Adult_Basic_Salt_Miner.description>
+  <!-- EN: Wieliczka Salt Miner -->
+  <BA_Polish_Adult_Basic_Salt_Miner.title>维利奇卡盐矿工人</BA_Polish_Adult_Basic_Salt_Miner.title>
+  <!-- EN: Miner -->
+  <BA_Polish_Adult_Basic_Salt_Miner.titleShort>矿工</BA_Polish_Adult_Basic_Salt_Miner.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] herded goats in the Tatra Mountains, learning to survive harsh winds and rocky cliffs. [PAWN_pronoun] became nimble and sure-footed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Basic_Serpent_Herder.description>[PAWN_nameDef] 在塔特拉山脉放牧山羊，学会了在狂风与悬崖峭壁中求生。[PAWN_pronoun] 变得敏捷而脚步稳健。</BA_Polish_Adult_Basic_Serpent_Herder.description>
+  <!-- EN: Tatra Goat Herder -->
+  <BA_Polish_Adult_Basic_Serpent_Herder.title>塔特拉山羊牧人</BA_Polish_Adult_Basic_Serpent_Herder.title>
+  <!-- EN: Goatherd -->
+  <BA_Polish_Adult_Basic_Serpent_Herder.titleShort>山羊牧人</BA_Polish_Adult_Basic_Serpent_Herder.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked the fertile lands along the Vistula River. Long days plowing and harvesting under cold winds made [PAWN_objective] sturdy and resilient.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Basic_Vistula_Farmer.description>[PAWN_nameDef] 在维斯瓦河沿岸的肥沃土地上耕作。在寒风中终日耕种与收割，让[PAWN_objective] 变得健壮而坚韧。</BA_Polish_Adult_Basic_Vistula_Farmer.description>
+  <!-- EN: Farmer of the Vistula -->
+  <BA_Polish_Adult_Basic_Vistula_Farmer.title>维斯瓦河农夫</BA_Polish_Adult_Basic_Vistula_Farmer.title>
+  <!-- EN: Farmer -->
+  <BA_Polish_Adult_Basic_Vistula_Farmer.titleShort>农夫</BA_Polish_Adult_Basic_Vistula_Farmer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived in dense Polish forests, gathering berries and mushrooms to survive the long winters. [PAWN_pronoun] learned to read the forest like a book.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Basic_Woodland_Forager.description>[PAWN_nameDef] 居住在茂密的波兰森林中，靠采集浆果与蘑菇度过漫长冬季。[PAWN_pronoun] 学会了对森林了如指掌。</BA_Polish_Adult_Basic_Woodland_Forager.description>
+  <!-- EN: Woodland Forager -->
+  <BA_Polish_Adult_Basic_Woodland_Forager.title>林地采集者</BA_Polish_Adult_Basic_Woodland_Forager.title>
+  <!-- EN: Forager -->
+  <BA_Polish_Adult_Basic_Woodland_Forager.titleShort>采集者</BA_Polish_Adult_Basic_Woodland_Forager.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led a unit of the royal druzhina, blending tactical acumen with personal valor on the battlefield.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Druzina_Captain.description>[PAWN_nameDef] 率领一支王室亲兵队，在战场上将战术智慧与个人勇气融为一体。</BA_Polish_Adult_Druzina_Captain.description>
+  <!-- EN: Druzina Captain -->
+  <BA_Polish_Adult_Druzina_Captain.title>亲兵队队长</BA_Polish_Adult_Druzina_Captain.title>
+  <!-- EN: Captain -->
+  <BA_Polish_Adult_Druzina_Captain.titleShort>队长</BA_Polish_Adult_Druzina_Captain.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] specialized in reconnaissance and intelligence, moving unseen and reporting the enemy's every move.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Druzina_Scout.description>[PAWN_nameDef] 专精侦察与情报工作，潜行移动并汇报敌军的一举一动。</BA_Polish_Adult_Druzina_Scout.description>
+  <!-- EN: Druzina Scout -->
+  <BA_Polish_Adult_Druzina_Scout.title>亲兵队斥候</BA_Polish_Adult_Druzina_Scout.title>
+  <!-- EN: Scout -->
+  <BA_Polish_Adult_Druzina_Scout.titleShort>斥候</BA_Polish_Adult_Druzina_Scout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived decades of campaigns, earning renown for wisdom, endurance, and unwavering loyalty.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Druzina_Veteran.description>[PAWN_nameDef] 历经数十年征战存活下来，凭借智慧、坚韧与坚定的忠诚赢得声誉。</BA_Polish_Adult_Druzina_Veteran.description>
+  <!-- EN: Veteran Druzina -->
+  <BA_Polish_Adult_Druzina_Veteran.title>亲兵队老兵</BA_Polish_Adult_Druzina_Veteran.title>
+  <!-- EN: Veteran -->
+  <BA_Polish_Adult_Druzina_Veteran.titleShort>老兵</BA_Polish_Adult_Druzina_Veteran.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in the royal druzhina, mastering both blade and strategy, and earning respect among nobles and soldiers alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Druzina_Warrior.description>[PAWN_nameDef] 效力于王室亲兵队，精通刀剑与战略，赢得了贵族与士兵的共同尊敬。</BA_Polish_Adult_Druzina_Warrior.description>
+  <!-- EN: Druzina Warrior -->
+  <BA_Polish_Adult_Druzina_Warrior.title>亲兵队战士</BA_Polish_Adult_Druzina_Warrior.title>
+  <!-- EN: Druzina -->
+  <BA_Polish_Adult_Druzina_Warrior.titleShort>亲兵</BA_Polish_Adult_Druzina_Warrior.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] charted stars to predict harvests and wars, believing fate hid among the constellations.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Educated_Astrologer.description>[PAWN_nameDef] 通过观星预测收成与战争，坚信命运潜藏在星座之中。</BA_Polish_Adult_Educated_Astrologer.description>
+  <!-- EN: Astrologer of Kraków -->
+  <BA_Polish_Adult_Educated_Astrologer.title>克拉科夫占星家</BA_Polish_Adult_Educated_Astrologer.title>
+  <!-- EN: Astrologer -->
+  <BA_Polish_Adult_Educated_Astrologer.titleShort>占星家</BA_Polish_Adult_Educated_Astrologer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied at the Kraków Academy, debating philosophy and astronomy beneath candlelight.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Educated_Krakow_Scholar.description>[PAWN_nameDef] 在克拉科夫学院求学，在烛光下辩论哲学与天文学。</BA_Polish_Adult_Educated_Krakow_Scholar.description>
+  <!-- EN: Scholar of Kraków -->
+  <BA_Polish_Adult_Educated_Krakow_Scholar.title>克拉科夫学者</BA_Polish_Adult_Educated_Krakow_Scholar.title>
+  <!-- EN: Scholar -->
+  <BA_Polish_Adult_Educated_Krakow_Scholar.titleShort>学者</BA_Polish_Adult_Educated_Krakow_Scholar.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] practiced the healing arts using herbs, steel, and faith in equal measure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Educated_Polish_Doctor.description>[PAWN_nameDef] 运用草药、医疗器械与信仰，三者并重地践行医术。</BA_Polish_Adult_Educated_Polish_Doctor.description>
+  <!-- EN: Physician of Poznań -->
+  <BA_Polish_Adult_Educated_Polish_Doctor.title>波兹南医师</BA_Polish_Adult_Educated_Polish_Doctor.title>
+  <!-- EN: Physician -->
+  <BA_Polish_Adult_Educated_Polish_Doctor.titleShort>医师</BA_Polish_Adult_Educated_Polish_Doctor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] governed a small Polish town, balancing merchants' greed and peasants' anger.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Governing_Town_Mayor.description>[PAWN_nameDef] 治理一座波兰小镇，平衡商人的贪婪与农民的不满。</BA_Polish_Adult_Governing_Town_Mayor.description>
+  <!-- EN: Town Mayor -->
+  <BA_Polish_Adult_Governing_Town_Mayor.title>城镇市长</BA_Polish_Adult_Governing_Town_Mayor.title>
+  <!-- EN: Mayor -->
+  <BA_Polish_Adult_Governing_Town_Mayor.titleShort>市长</BA_Polish_Adult_Governing_Town_Mayor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] governed a Polish province on the king's behalf, balancing ambition and loyalty in equal measure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Governing_Voivode.description>[PAWN_nameDef] 代表国王治理波兰一个省份，平衡野心与忠诚，两者不偏不倚。</BA_Polish_Adult_Governing_Voivode.description>
+  <!-- EN: Voivode of Lesser Poland -->
+  <BA_Polish_Adult_Governing_Voivode.title>小波兰省督</BA_Polish_Adult_Governing_Voivode.title>
+  <!-- EN: Voivode -->
+  <BA_Polish_Adult_Governing_Voivode.titleShort>省督</BA_Polish_Adult_Governing_Voivode.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded a small unit of hajduks, coordinating maneuvers and maintaining discipline under harsh conditions.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Brigadier.description>[PAWN_nameDef] 指挥一支小型哈伊杜克部队，在艰苦条件下协调战术动作并维持纪律。</BA_Polish_Adult_Hajduk_Brigadier.description>
+  <!-- EN: Hajduk Brigadier -->
+  <BA_Polish_Adult_Hajduk_Brigadier.title>哈伊杜克小队指挥官</BA_Polish_Adult_Hajduk_Brigadier.title>
+  <!-- EN: Brigadier -->
+  <BA_Polish_Adult_Hajduk_Brigadier.titleShort>小队指挥官</BA_Polish_Adult_Hajduk_Brigadier.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed supplies, cooked meals, and maintained camp defenses, keeping the unit operational between battles.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Campmaster.description>[PAWN_nameDef] 管理补给、烹饪食物并维护营地防御，确保部队在战役间隙保持战斗力。</BA_Polish_Adult_Hajduk_Campmaster.description>
+  <!-- EN: Hajduk Campmaster -->
+  <BA_Polish_Adult_Hajduk_Campmaster.title>哈伊杜克营地主管</BA_Polish_Adult_Hajduk_Campmaster.title>
+  <!-- EN: Campmaster -->
+  <BA_Polish_Adult_Hajduk_Campmaster.titleShort>营地主管</BA_Polish_Adult_Hajduk_Campmaster.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] maintained siege engines and fortifications, blending combat readiness with technical skill.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Engineer.description>[PAWN_nameDef] 维护攻城器械与防御工事，将战斗准备状态与技术技能相结合。</BA_Polish_Adult_Hajduk_Engineer.description>
+  <!-- EN: Hajduk Engineer -->
+  <BA_Polish_Adult_Hajduk_Engineer.title>哈伊杜克工程师</BA_Polish_Adult_Hajduk_Engineer.title>
+  <!-- EN: Engineer -->
+  <BA_Polish_Adult_Hajduk_Engineer.titleShort>工程师</BA_Polish_Adult_Hajduk_Engineer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a foot soldier, trained in close combat and ranged skirmishes, enduring long campaigns with grit and resilience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Footman.description>[PAWN_nameDef] 担任步兵，接受近战与远程突袭训练，凭借毅力与坚韧承受漫长战役。</BA_Polish_Adult_Hajduk_Footman.description>
+  <!-- EN: Hajduk Footman -->
+  <BA_Polish_Adult_Hajduk_Footman.title>哈伊杜克步兵</BA_Polish_Adult_Hajduk_Footman.title>
+  <!-- EN: Footman -->
+  <BA_Polish_Adult_Hajduk_Footman.titleShort>步兵</BA_Polish_Adult_Hajduk_Footman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] specialized in ranged combat, taking careful aim to protect comrades from afar.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Marksman.description>[PAWN_nameDef] 专精远程作战，精准瞄准以从远处保护战友。</BA_Polish_Adult_Hajduk_Marksman.description>
+  <!-- EN: Hajduk Marksman -->
+  <BA_Polish_Adult_Hajduk_Marksman.title>哈伊杜克神射手</BA_Polish_Adult_Hajduk_Marksman.title>
+  <!-- EN: Marksman -->
+  <BA_Polish_Adult_Hajduk_Marksman.titleShort>神射手</BA_Polish_Adult_Hajduk_Marksman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended wounds on the battlefield, keeping comrades alive through skillful medicine and steady nerves.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Medic.description>[PAWN_nameDef] 在战场治疗伤员，凭借精湛医术与沉稳心态挽救战友生命。</BA_Polish_Adult_Hajduk_Medic.description>
+  <!-- EN: Hajduk Medic -->
+  <BA_Polish_Adult_Hajduk_Medic.title>哈伊杜克医护兵</BA_Polish_Adult_Hajduk_Medic.title>
+  <!-- EN: Medic -->
+  <BA_Polish_Adult_Hajduk_Medic.titleShort>医护兵</BA_Polish_Adult_Hajduk_Medic.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] specialized in reconnaissance and skirmishes, moving ahead of the main army to gather intelligence and report enemy positions.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Scout.description>[PAWN_nameDef] 专精侦察与突袭，先于主力部队行动以收集情报并汇报敌军位置。</BA_Polish_Adult_Hajduk_Scout.description>
+  <!-- EN: Hajduk Scout -->
+  <BA_Polish_Adult_Hajduk_Scout.title>哈伊杜克斥候</BA_Polish_Adult_Hajduk_Scout.title>
+  <!-- EN: Scout -->
+  <BA_Polish_Adult_Hajduk_Scout.titleShort>斥候</BA_Polish_Adult_Hajduk_Scout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] moved ahead of the army, gathering intelligence on enemy movements and terrain.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Scout_2.description>[PAWN_nameDef] 先于军队行动，收集敌军动向与地形情报。</BA_Polish_Adult_Hajduk_Scout_2.description>
+  <!-- EN: Hajduk Scout -->
+  <BA_Polish_Adult_Hajduk_Scout_2.title>哈伊杜克斥候</BA_Polish_Adult_Hajduk_Scout_2.title>
+  <!-- EN: Scout -->
+  <BA_Polish_Adult_Hajduk_Scout_2.titleShort>斥候</BA_Polish_Adult_Hajduk_Scout_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived countless campaigns, becoming a seasoned soldier capable of leading small units and mentoring recruits.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Veteran.description>[PAWN_nameDef] 历经无数战役存活下来，成为经验丰富的士兵，能够带领小型部队并指导新兵。</BA_Polish_Adult_Hajduk_Veteran.description>
+  <!-- EN: Hajduk Veteran -->
+  <BA_Polish_Adult_Hajduk_Veteran.title>哈伊杜克老兵</BA_Polish_Adult_Hajduk_Veteran.title>
+  <!-- EN: Veteran -->
+  <BA_Polish_Adult_Hajduk_Veteran.titleShort>老兵</BA_Polish_Adult_Hajduk_Veteran.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] excelled in melee combat, charging into battle with courage and resilience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hajduk_Warrior.description>[PAWN_nameDef] 擅长近战，凭借勇气与坚韧投身战场冲锋。</BA_Polish_Adult_Hajduk_Warrior.description>
+  <!-- EN: Hajduk Warrior -->
+  <BA_Polish_Adult_Hajduk_Warrior.title>哈伊杜克战士</BA_Polish_Adult_Hajduk_Warrior.title>
+  <!-- EN: Warrior -->
+  <BA_Polish_Adult_Hajduk_Warrior.titleShort>战士</BA_Polish_Adult_Hajduk_Warrior.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] balanced battlefield command with negotiation, securing alliances and loyalty among nobles and foreign powers alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hetman_Diplomat.description>[PAWN_nameDef] 平衡战场指挥与谈判事务，争取贵族与外国势力的联盟及忠诚。</BA_Polish_Adult_Hetman_Diplomat.description>
+  <!-- EN: Diplomatic Hetman -->
+  <BA_Polish_Adult_Hetman_Diplomat.title>外交盖特曼</BA_Polish_Adult_Hetman_Diplomat.title>
+  <!-- EN: Hetman -->
+  <BA_Polish_Adult_Hetman_Diplomat.titleShort>盖特曼</BA_Polish_Adult_Hetman_Diplomat.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] orchestrated campaigns with brilliant strategy, anticipating enemy movements and ensuring victory through careful planning.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hetman_Strategist.description>[PAWN_nameDef] 以卓越战略策划战役，预判敌军动向并通过周密计划确保胜利。</BA_Polish_Adult_Hetman_Strategist.description>
+  <!-- EN: Strategic Hetman -->
+  <BA_Polish_Adult_Hetman_Strategist.title>战略盖特曼</BA_Polish_Adult_Hetman_Strategist.title>
+  <!-- EN: Hetman -->
+  <BA_Polish_Adult_Hetman_Strategist.titleShort>盖特曼</BA_Polish_Adult_Hetman_Strategist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived countless campaigns, earning renown for wisdom, endurance, and unwavering leadership in both war and council.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hetman_Veteran.description>[PAWN_nameDef] 历经无数战役存活下来，凭借战争与议事中的智慧、坚韧及坚定领导力赢得声誉。</BA_Polish_Adult_Hetman_Veteran.description>
+  <!-- EN: Veteran Hetman -->
+  <BA_Polish_Adult_Hetman_Veteran.title>老兵盖特曼</BA_Polish_Adult_Hetman_Veteran.title>
+  <!-- EN: Hetman -->
+  <BA_Polish_Adult_Hetman_Veteran.titleShort>盖特曼</BA_Polish_Adult_Hetman_Veteran.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led troops with unmatched ferocity, turning the tide of battles through personal valor and martial skill.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hetman_Warlord.description>[PAWN_nameDef] 以无与伦比的勇猛率军，凭借个人勇气与武艺扭转战局。</BA_Polish_Adult_Hetman_Warlord.description>
+  <!-- EN: Warlord Hetman -->
+  <BA_Polish_Adult_Hetman_Warlord.title>军阀盖特曼</BA_Polish_Adult_Hetman_Warlord.title>
+  <!-- EN: Hetman -->
+  <BA_Polish_Adult_Hetman_Warlord.titleShort>盖特曼</BA_Polish_Adult_Hetman_Warlord.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] maintained and crafted armor, weapons, and equipment for the cavalry, blending technical skill with battlefield experience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Armorer.description>[PAWN_nameDef] 为骑兵维护并打造甲胄、武器与装备，融合技术技能与战场经验。</BA_Polish_Adult_Hussar_Armorer.description>
+  <!-- EN: Hussar Armorer -->
+  <BA_Polish_Adult_Hussar_Armorer.title>胡萨尔骑兵军械师</BA_Polish_Adult_Hussar_Armorer.title>
+  <!-- EN: Armorer -->
+  <BA_Polish_Adult_Hussar_Armorer.titleShort>军械师</BA_Polish_Adult_Hussar_Armorer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] maintained their armor and weapons meticulously, crafting and improving gear for themselves and comrades.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Artisan.description>[PAWN_nameDef] 精心维护自身甲械，并为自己与战友打造改进装备。</BA_Polish_Adult_Hussar_Artisan.description>
+  <!-- EN: Hussar Artisan -->
+  <BA_Polish_Adult_Hussar_Artisan.title>胡萨尔骑兵工匠</BA_Polish_Adult_Hussar_Artisan.title>
+  <!-- EN: Artisan -->
+  <BA_Polish_Adult_Hussar_Artisan.titleShort>工匠</BA_Polish_Adult_Hussar_Artisan.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained new recruits in mounted combat and horse handling, ensuring readiness and skill for battle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Cavalry_Trainer.description>[PAWN_nameDef] 训练新兵骑战与驭马技能，确保其具备战斗准备状态与实战能力。</BA_Polish_Adult_Hussar_Cavalry_Trainer.description>
+  <!-- EN: Hussar Cavalry Trainer -->
+  <BA_Polish_Adult_Hussar_Cavalry_Trainer.title>胡萨尔骑兵教练</BA_Polish_Adult_Hussar_Cavalry_Trainer.title>
+  <!-- EN: Trainer -->
+  <BA_Polish_Adult_Hussar_Cavalry_Trainer.titleShort>教练</BA_Polish_Adult_Hussar_Cavalry_Trainer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led a squadron of hussars, coordinating maneuvers and maintaining discipline with authority and charisma.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Commander.description>[PAWN_nameDef] 率领一支胡萨尔骑兵中队，凭借权威与魅力协调战术动作并维持纪律。</BA_Polish_Adult_Hussar_Commander.description>
+  <!-- EN: Hussar Commander -->
+  <BA_Polish_Adult_Hussar_Commander.title>胡萨尔骑兵指挥官</BA_Polish_Adult_Hussar_Commander.title>
+  <!-- EN: Commander -->
+  <BA_Polish_Adult_Hussar_Commander.titleShort>指挥官</BA_Polish_Adult_Hussar_Commander.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carried messages across territories swiftly and safely, combining riding skill with keen awareness of surroundings.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Courier.description>[PAWN_nameDef] 快速安全地跨区域传递消息，融合精湛骑术与敏锐的环境洞察力。</BA_Polish_Adult_Hussar_Courier.description>
+  <!-- EN: Hussar Courier -->
+  <BA_Polish_Adult_Hussar_Courier.title>胡萨尔骑兵信使</BA_Polish_Adult_Hussar_Courier.title>
+  <!-- EN: Courier -->
+  <BA_Polish_Adult_Hussar_Courier.titleShort>信使</BA_Polish_Adult_Hussar_Courier.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] represented the cavalry in noble courts, negotiating alliances and maintaining morale through charm and tact.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Diplomat.description>[PAWN_nameDef] 在贵族宫廷代表骑兵，凭借魅力与圆滑协商联盟并维持士气。</BA_Polish_Adult_Hussar_Diplomat.description>
+  <!-- EN: Hussar Diplomat -->
+  <BA_Polish_Adult_Hussar_Diplomat.title>胡萨尔骑兵外交官</BA_Polish_Adult_Hussar_Diplomat.title>
+  <!-- EN: Diplomat -->
+  <BA_Polish_Adult_Hussar_Diplomat.titleShort>外交官</BA_Polish_Adult_Hussar_Diplomat.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] moved with the cavalry, tending wounds and illnesses on the battlefield while keeping morale high.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Field_Healer.description>[PAWN_nameDef] 随骑兵行动，在战场治疗伤病并维持高昂士气。</BA_Polish_Adult_Hussar_Field_Healer.description>
+  <!-- EN: Hussar Field Healer -->
+  <BA_Polish_Adult_Hussar_Field_Healer.title>胡萨尔骑兵战地医师</BA_Polish_Adult_Hussar_Field_Healer.title>
+  <!-- EN: Healer -->
+  <BA_Polish_Adult_Hussar_Field_Healer.titleShort>医师</BA_Polish_Adult_Hussar_Field_Healer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended to battlefield wounds, combining knowledge of medicine with swift mobility to save comrades.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Healer.description>[PAWN_nameDef] 治疗战场伤员，融合医术知识与迅捷机动性挽救战友。</BA_Polish_Adult_Hussar_Healer.description>
+  <!-- EN: Hussar Healer -->
+  <BA_Polish_Adult_Hussar_Healer.title>胡萨尔骑兵医师</BA_Polish_Adult_Hussar_Healer.title>
+  <!-- EN: Healer -->
+  <BA_Polish_Adult_Hussar_Healer.titleShort>医师</BA_Polish_Adult_Hussar_Healer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] excelled in mounted combat, charging into enemy lines with lance and saber, a true embodiment of battlefield valor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Lancer.description>[PAWN_nameDef] 擅长骑战，手持长矛与军刀冲入敌军阵线，是战场勇气的真正化身。</BA_Polish_Adult_Hussar_Lancer.description>
+  <!-- EN: Hussar Lancer -->
+  <BA_Polish_Adult_Hussar_Lancer.title>胡萨尔枪骑兵</BA_Polish_Adult_Hussar_Lancer.title>
+  <!-- EN: Lancer -->
+  <BA_Polish_Adult_Hussar_Lancer.titleShort>枪骑兵</BA_Polish_Adult_Hussar_Lancer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rode ahead of the main army, gathering intelligence and reporting enemy positions with skill and speed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Scout.description>[PAWN_nameDef] 先于主力部队骑行，凭借技能与速度收集情报并汇报敌军位置。</BA_Polish_Adult_Hussar_Scout.description>
+  <!-- EN: Hussar Scout -->
+  <BA_Polish_Adult_Hussar_Scout.title>胡萨尔骑兵斥候</BA_Polish_Adult_Hussar_Scout.title>
+  <!-- EN: Scout -->
+  <BA_Polish_Adult_Hussar_Scout.titleShort>斥候</BA_Polish_Adult_Hussar_Scout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] combined cavalry speed with technical skill, assisting in siege operations and battlefield engineering.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Siege_Specialist.description>[PAWN_nameDef] 融合骑兵速度与技术技能，协助攻城行动与战场工程作业。</BA_Polish_Adult_Hussar_Siege_Specialist.description>
+  <!-- EN: Hussar Siege Specialist -->
+  <BA_Polish_Adult_Hussar_Siege_Specialist.title>胡萨尔骑兵攻城专家</BA_Polish_Adult_Hussar_Siege_Specialist.title>
+  <!-- EN: Siege Specialist -->
+  <BA_Polish_Adult_Hussar_Siege_Specialist.titleShort>攻城专家</BA_Polish_Adult_Hussar_Siege_Specialist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] excelled in hit-and-run tactics, harassing enemies with ranged weapons before retreating swiftly on horseback.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Hussar_Skirmisher.description>[PAWN_nameDef] 擅长袭扰战术，用远程武器骚扰敌军后骑乘快速撤退。</BA_Polish_Adult_Hussar_Skirmisher.description>
+  <!-- EN: Hussar Skirmisher -->
+  <BA_Polish_Adult_Hussar_Skirmisher.title>胡萨尔骑兵袭扰兵</BA_Polish_Adult_Hussar_Skirmisher.title>
+  <!-- EN: Skirmisher -->
+  <BA_Polish_Adult_Hussar_Skirmisher.titleShort>袭扰兵</BA_Polish_Adult_Hussar_Skirmisher.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] patrolled the Polish–Teutonic borderlands, fighting raiders and keeping watch over frozen fields.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Military_Border_Guard.description>[PAWN_nameDef] 在波-条边境地区巡逻，抗击劫掠者并守卫冰封的田野。</BA_Polish_Adult_Military_Border_Guard.description>
+  <!-- EN: Border Guard -->
+  <BA_Polish_Adult_Military_Border_Guard.title>边境守卫</BA_Polish_Adult_Military_Border_Guard.title>
+  <!-- EN: Guard -->
+  <BA_Polish_Adult_Military_Border_Guard.titleShort>守卫</BA_Polish_Adult_Military_Border_Guard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to ride and shoot with deadly grace, a skill prized in border skirmishes and raids.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Military_Horse_Archer.description>[PAWN_nameDef] 练就了致命而优雅的骑射技艺，这项技能在边境突袭与劫掠战中备受珍视。</BA_Polish_Adult_Military_Horse_Archer.description>
+  <!-- EN: Polish Horse Archer -->
+  <BA_Polish_Adult_Military_Horse_Archer.title>波兰弓骑兵</BA_Polish_Adult_Military_Horse_Archer.title>
+  <!-- EN: Archer -->
+  <BA_Polish_Adult_Military_Horse_Archer.titleShort>弓兵</BA_Polish_Adult_Military_Horse_Archer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] marched beneath the Piast banners, spear in hand, fighting for land and bread.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Military_Piast_Footman.description>[PAWN_nameDef] 手持长矛，在皮亚斯特王朝的旗帜下进军，为土地与生计而战。</BA_Polish_Adult_Military_Piast_Footman.description>
+  <!-- EN: Piast Footman -->
+  <BA_Polish_Adult_Military_Piast_Footman.title>皮亚斯特步兵</BA_Polish_Adult_Military_Piast_Footman.title>
+  <!-- EN: Footman -->
+  <BA_Polish_Adult_Military_Piast_Footman.titleShort>步兵</BA_Polish_Adult_Military_Piast_Footman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived the brutal wars against the Teutonic Order, hardened by battle and scarred by faith.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Military_Teutonic_War_Veteran.description>[PAWN_nameDef] 在对抗条顿骑士团的残酷战争中存活下来，经战火锤炼，因信仰留下伤痕。</BA_Polish_Adult_Military_Teutonic_War_Veteran.description>
+  <!-- EN: Teutonic War Veteran -->
+  <BA_Polish_Adult_Military_Teutonic_War_Veteran.title>条顿战争老兵</BA_Polish_Adult_Military_Teutonic_War_Veteran.title>
+  <!-- EN: Veteran -->
+  <BA_Polish_Adult_Military_Teutonic_War_Veteran.titleShort>老兵</BA_Polish_Adult_Military_Teutonic_War_Veteran.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served a Voivode directly, commanding troops and enforcing the ruler's will through discipline and steel.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Military_Voivode_Commander.description>[PAWN_nameDef] 直接效力于省督，指挥部队并以纪律与武力执行统治者的意志。</BA_Polish_Adult_Military_Voivode_Commander.description>
+  <!-- EN: Voivode's Commander -->
+  <BA_Polish_Adult_Military_Voivode_Commander.title>省督指挥官</BA_Polish_Adult_Military_Voivode_Commander.title>
+  <!-- EN: Commander -->
+  <BA_Polish_Adult_Military_Voivode_Commander.titleShort>指挥官</BA_Polish_Adult_Military_Voivode_Commander.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained in the stables of Polish knights, tending warhorses and dreaming of armor and glory.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Military_Winged_Squire.description>[PAWN_nameDef] 在波兰骑士的马厩中接受训练，照料战马，心中怀揣着铠甲与荣耀的梦想。</BA_Polish_Adult_Military_Winged_Squire.description>
+  <!-- EN: Winged Squire -->
+  <BA_Polish_Adult_Military_Winged_Squire.title>翼骑兵侍从</BA_Polish_Adult_Military_Winged_Squire.title>
+  <!-- EN: Squire -->
+  <BA_Polish_Adult_Military_Winged_Squire.titleShort>侍从</BA_Polish_Adult_Military_Winged_Squire.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled over borderlands between Poland and Lithuania, facing both raids and politics.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Nobility_Baron.description>[PAWN_nameDef] 统治着波兰与立陶宛之间的边境地区，既要应对劫掠侵袭，又要周旋于政治纷争。</BA_Polish_Adult_Nobility_Baron.description>
+  <!-- EN: Baron of the Border -->
+  <BA_Polish_Adult_Nobility_Baron.title>边境男爵</BA_Polish_Adult_Nobility_Baron.title>
+  <!-- EN: Baron -->
+  <BA_Polish_Adult_Nobility_Baron.titleShort>男爵</BA_Polish_Adult_Nobility_Baron.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led armies under the royal banner, commanding soldiers with iron resolve.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Nobility_Hetman.description>[PAWN_nameDef] 在王室旗帜下率领大军，以钢铁般的决心指挥士兵。</BA_Polish_Adult_Nobility_Hetman.description>
+  <!-- EN: Polish Hetman -->
+  <BA_Polish_Adult_Nobility_Hetman.title>波兰盖特曼</BA_Polish_Adult_Nobility_Hetman.title>
+  <!-- EN: Hetman -->
+  <BA_Polish_Adult_Nobility_Hetman.titleShort>盖特曼</BA_Polish_Adult_Nobility_Hetman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] inherited a coat of arms and acres of land, proud of blood and burden alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Nobility_Polish_Szlachcic.description>[PAWN_nameDef] 继承了家族纹章与大片土地，既为自身血统自豪，也坦然承担贵族的责任。</BA_Polish_Adult_Nobility_Polish_Szlachcic.description>
+  <!-- EN: Szlachcic -->
+  <BA_Polish_Adult_Nobility_Polish_Szlachcic.title>波兰贵族</BA_Polish_Adult_Nobility_Polish_Szlachcic.title>
+  <!-- EN: Noble -->
+  <BA_Polish_Adult_Nobility_Polish_Szlachcic.titleShort>贵族</BA_Polish_Adult_Nobility_Polish_Szlachcic.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] debated laws and taxes at local sejmiks, mastering eloquence and argument.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Nobility_Sejmik_Representative.description>[PAWN_nameDef] 在地方议会上就法律与税收议题展开辩论，练就了出色的口才与辩论技巧。</BA_Polish_Adult_Nobility_Sejmik_Representative.description>
+  <!-- EN: Sejmik Representative -->
+  <BA_Polish_Adult_Nobility_Sejmik_Representative.title>地方议会议员</BA_Polish_Adult_Nobility_Sejmik_Representative.title>
+  <!-- EN: Deputy -->
+  <BA_Polish_Adult_Nobility_Sejmik_Representative.titleShort>议员</BA_Polish_Adult_Nobility_Sejmik_Representative.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was crowned beneath the golden arches of Wawel Cathedral, taking the oaths of kingship before lords and priests alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Ruler_Crowned_in_Krakow.description>[PAWN_nameDef] 在瓦维尔大教堂的金拱之下加冕，在贵族与祭司的共同见证下宣誓就任王权。</BA_Polish_Adult_Ruler_Crowned_in_Krakow.description>
+  <!-- EN: Crowned in Kraków -->
+  <BA_Polish_Adult_Ruler_Crowned_in_Krakow.title>克拉科夫加冕君主</BA_Polish_Adult_Ruler_Crowned_in_Krakow.title>
+  <!-- EN: King -->
+  <BA_Polish_Adult_Ruler_Crowned_in_Krakow.titleShort>国王</BA_Polish_Adult_Ruler_Crowned_in_Krakow.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled in the Polish–Lithuanian borderlands, navigating delicate alliances between faiths, tongues, and noble factions while defending the realm's fragile peace.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Ruler_Grand_Duke_Lithuanian_Union.description>[PAWN_nameDef] 统治着波立边境地区，在不同信仰、族群与贵族派系间维系着微妙的联盟，同时守护着王国脆弱的和平。</BA_Polish_Adult_Ruler_Grand_Duke_Lithuanian_Union.description>
+  <!-- EN: Grand Duke of the Union -->
+  <BA_Polish_Adult_Ruler_Grand_Duke_Lithuanian_Union.title>联合大公</BA_Polish_Adult_Ruler_Grand_Duke_Lithuanian_Union.title>
+  <!-- EN: Grand Duke -->
+  <BA_Polish_Adult_Ruler_Grand_Duke_Lithuanian_Union.titleShort>大公</BA_Polish_Adult_Ruler_Grand_Duke_Lithuanian_Union.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sat upon the throne of the Polish Crown, commanding magnates and peasants alike. [PAWN_pronoun] was both shepherd and sword of the kingdom.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Ruler_King_of_Corona_Regni.description>[PAWN_nameDef] 端坐于波兰王冠宝座之上，对贵族与农夫一视同仁地发号施令。[PAWN_pronoun] 既是王国的守护者，也是王国的利剑。</BA_Polish_Adult_Ruler_King_of_Corona_Regni.description>
+  <!-- EN: King of the Polish Crown -->
+  <BA_Polish_Adult_Ruler_King_of_Corona_Regni.title>波兰王冠国王</BA_Polish_Adult_Ruler_King_of_Corona_Regni.title>
+  <!-- EN: King -->
+  <BA_Polish_Adult_Ruler_King_of_Corona_Regni.titleShort>国王</BA_Polish_Adult_Ruler_King_of_Corona_Regni.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled as a Piast duke, a descendant of ancient Slavic kings. [PAWN_pronoun] governed provinces torn between loyalty and rebellion, holding together the fragile unity of Poland.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Ruler_Piast_Duke.description>[PAWN_nameDef] 作为皮亚斯特王朝的公爵统治一方，是古斯拉夫国王的后裔。[PAWN_pronoun] 治理着那些深陷忠诚与叛乱纷争的省份，竭力维系着波兰脆弱的统一。</BA_Polish_Adult_Ruler_Piast_Duke.description>
+  <!-- EN: Duke of the Piasts -->
+  <BA_Polish_Adult_Ruler_Piast_Duke.title>皮亚斯特公爵</BA_Polish_Adult_Ruler_Piast_Duke.title>
+  <!-- EN: Duke -->
+  <BA_Polish_Adult_Ruler_Piast_Duke.titleShort>公爵</BA_Polish_Adult_Ruler_Piast_Duke.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled the marshlands of Masovia, where loyalty was bought with bread and land, not oaths.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Ruler_Ruler_of_Masovia.description>[PAWN_nameDef] 统治着马佐维亚的沼泽地区，在这片土地上，忠诚并非源于誓言，而是用面包与土地换来的。</BA_Polish_Adult_Ruler_Ruler_of_Masovia.description>
+  <!-- EN: Duke of Masovia -->
+  <BA_Polish_Adult_Ruler_Ruler_of_Masovia.title>马佐维亚公爵</BA_Polish_Adult_Ruler_Ruler_of_Masovia.title>
+  <!-- EN: Duke -->
+  <BA_Polish_Adult_Ruler_Ruler_of_Masovia.titleShort>公爵</BA_Polish_Adult_Ruler_Ruler_of_Masovia.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led the fragmented duchies of Poland through fire and blood, uniting them by conquest rather than coronation.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Ruler_Warlord_of_Poland.description>[PAWN_nameDef] 率领分裂的波兰诸公国历经战火洗礼，并非通过加冕，而是以征服的方式将它们统一起来。</BA_Polish_Adult_Ruler_Warlord_of_Poland.description>
+  <!-- EN: Warlord of Poland -->
+  <BA_Polish_Adult_Ruler_Warlord_of_Poland.title>波兰军阀</BA_Polish_Adult_Ruler_Warlord_of_Poland.title>
+  <!-- EN: Warlord -->
+  <BA_Polish_Adult_Ruler_Warlord_of_Poland.titleShort>军阀</BA_Polish_Adult_Ruler_Warlord_of_Poland.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] maintained and crafted their armor and weapons, blending craftsmanship with battlefield experience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Rycerz_Artisan.description>[PAWN_nameDef] 维护并打造自己的甲胄与武器，将精湛的工艺与战场经验融为一体。</BA_Polish_Adult_Rycerz_Artisan.description>
+  <!-- EN: Rycerz Artisan -->
+  <BA_Polish_Adult_Rycerz_Artisan.title>波兰骑士工匠</BA_Polish_Adult_Rycerz_Artisan.title>
+  <!-- EN: Artisan -->
+  <BA_Polish_Adult_Rycerz_Artisan.titleShort>工匠</BA_Polish_Adult_Rycerz_Artisan.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led troops in battle with strategic brilliance, ensuring the honor and safety of their forces.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Rycerz_Cavalry_Commander.description>[PAWN_nameDef] 以卓越的战略才能率领部队作战，确保部队的荣誉与安全。</BA_Polish_Adult_Rycerz_Cavalry_Commander.description>
+  <!-- EN: Cavalry Commander -->
+  <BA_Polish_Adult_Rycerz_Cavalry_Commander.title>波兰骑士骑兵指挥官</BA_Polish_Adult_Rycerz_Cavalry_Commander.title>
+  <!-- EN: Commander -->
+  <BA_Polish_Adult_Rycerz_Cavalry_Commander.titleShort>指挥官</BA_Polish_Adult_Rycerz_Cavalry_Commander.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] represented their house at courts, negotiating alliances and maintaining prestige with charm and tact.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Rycerz_Diplomat.description>[PAWN_nameDef] 在宫廷中代表家族，凭借魅力与圆滑的手腕协商联盟，维系家族声望。</BA_Polish_Adult_Rycerz_Diplomat.description>
+  <!-- EN: Rycerz Diplomat -->
+  <BA_Polish_Adult_Rycerz_Diplomat.title>波兰骑士外交官</BA_Polish_Adult_Rycerz_Diplomat.title>
+  <!-- EN: Diplomat -->
+  <BA_Polish_Adult_Rycerz_Diplomat.titleShort>外交官</BA_Polish_Adult_Rycerz_Diplomat.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] excelled in mounted combat, charging into battle with lance and saber, upholding honor and valor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Rycerz_Lancer.description>[PAWN_nameDef] 擅长骑战，手持长矛与军刀冲入战场，坚守荣誉与勇气。</BA_Polish_Adult_Rycerz_Lancer.description>
+  <!-- EN: Rycerz Lancer -->
+  <BA_Polish_Adult_Rycerz_Lancer.title>波兰骑士枪骑兵</BA_Polish_Adult_Rycerz_Lancer.title>
+  <!-- EN: Lancer -->
+  <BA_Polish_Adult_Rycerz_Lancer.titleShort>枪骑兵</BA_Polish_Adult_Rycerz_Lancer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] patrolled borders and forests, scouting enemy movements and guiding troops safely through dangerous terrain.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Rycerz_Scout.description>[PAWN_nameDef] 在边境与森林中巡逻，侦察敌军动向，并引导部队安全穿越危险地形。</BA_Polish_Adult_Rycerz_Scout.description>
+  <!-- EN: Rycerz Scout -->
+  <BA_Polish_Adult_Rycerz_Scout.title>波兰骑士斥候</BA_Polish_Adult_Rycerz_Scout.title>
+  <!-- EN: Scout -->
+  <BA_Polish_Adult_Rycerz_Scout.titleShort>斥候</BA_Polish_Adult_Rycerz_Scout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed local trade and resources, applying both intellectual insight and practical skills in agriculture and production.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Sejmik_Economist.description>[PAWN_nameDef] 管理地方贸易与资源，将知识见解与农业、生产领域的实用技能相结合。</BA_Polish_Adult_Sejmik_Economist.description>
+  <!-- EN: Sejmik Economist -->
+  <BA_Polish_Adult_Sejmik_Economist.title>地方议会经济学家</BA_Polish_Adult_Sejmik_Economist.title>
+  <!-- EN: Economist -->
+  <BA_Polish_Adult_Sejmik_Economist.titleShort>经济学家</BA_Polish_Adult_Sejmik_Economist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] drafted local laws and regulations, combining analytical thought with persuasive debate.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Sejmik_Lawmaker.description>[PAWN_nameDef] 起草地方法律法规，将分析思维与具有说服力的辩论相结合。</BA_Polish_Adult_Sejmik_Lawmaker.description>
+  <!-- EN: Sejmik Lawmaker -->
+  <BA_Polish_Adult_Sejmik_Lawmaker.title>地方议会议法者</BA_Polish_Adult_Sejmik_Lawmaker.title>
+  <!-- EN: Lawmaker -->
+  <BA_Polish_Adult_Sejmik_Lawmaker.titleShort>立法者</BA_Polish_Adult_Sejmik_Lawmaker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] oversaw local militias and ensured order during sejmik sessions, combining combat readiness with organizational skill.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Sejmik_Marshal.description>[PAWN_nameDef] 监管地方民兵，并在地方议会召开期间维持秩序，将战斗准备状态与组织能力相结合。</BA_Polish_Adult_Sejmik_Marshal.description>
+  <!-- EN: Sejmik Marshal -->
+  <BA_Polish_Adult_Sejmik_Marshal.title>地方议会元帅</BA_Polish_Adult_Sejmik_Marshal.title>
+  <!-- EN: Marshal -->
+  <BA_Polish_Adult_Sejmik_Marshal.titleShort>元帅</BA_Polish_Adult_Sejmik_Marshal.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] produced tools, weapons, and practical items for their community, blending skillful hands with local knowledge.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Soljyts_Craftsman.description>[PAWN_nameDef] 为社区制作工具、武器与实用物品，将灵巧的手艺与当地知识相结合。</BA_Polish_Adult_Soljyts_Craftsman.description>
+  <!-- EN: Soljyts Craftsman -->
+  <BA_Polish_Adult_Soljyts_Craftsman.title>索利特工匠</BA_Polish_Adult_Soljyts_Craftsman.title>
+  <!-- EN: Craftsman -->
+  <BA_Polish_Adult_Soljyts_Craftsman.titleShort>工匠</BA_Polish_Adult_Soljyts_Craftsman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed fields and livestock, ensuring the survival and prosperity of their family and village.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Soljyts_Farmer.description>[PAWN_nameDef] 打理田地与牲畜，保障家族与村庄的生存与繁荣。</BA_Polish_Adult_Soljyts_Farmer.description>
+  <!-- EN: Soljyts Farmer -->
+  <BA_Polish_Adult_Soljyts_Farmer.title>索利特农夫</BA_Polish_Adult_Soljyts_Farmer.title>
+  <!-- EN: Farmer -->
+  <BA_Polish_Adult_Soljyts_Farmer.titleShort>农夫</BA_Polish_Adult_Soljyts_Farmer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a local foot soldier, defending lands and community with basic weapon skills and courage.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Soljyts_Footman.description>[PAWN_nameDef] 担任地方步兵，凭借基础武器技能与勇气保卫土地与社区。</BA_Polish_Adult_Soljyts_Footman.description>
+  <!-- EN: Soljyts Footman -->
+  <BA_Polish_Adult_Soljyts_Footman.title>索利特步兵</BA_Polish_Adult_Soljyts_Footman.title>
+  <!-- EN: Footman -->
+  <BA_Polish_Adult_Soljyts_Footman.titleShort>步兵</BA_Polish_Adult_Soljyts_Footman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended to the sick and wounded in their village, learning practical medicine and remedies through experience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Soljyts_Healer.description>[PAWN_nameDef] 照料村庄中的伤病者，通过经验掌握实用医术与药剂配方。</BA_Polish_Adult_Soljyts_Healer.description>
+  <!-- EN: Soljyts Healer -->
+  <BA_Polish_Adult_Soljyts_Healer.title>索利特医者</BA_Polish_Adult_Soljyts_Healer.title>
+  <!-- EN: Healer -->
+  <BA_Polish_Adult_Soljyts_Healer.titleShort>医者</BA_Polish_Adult_Soljyts_Healer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] patrolled borders and nearby forests, gathering intelligence and guiding armies or travelers safely.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Soljyts_Scout.description>[PAWN_nameDef] 在边境及周边森林巡逻，收集情报并引导军队或旅行者安全通行。</BA_Polish_Adult_Soljyts_Scout.description>
+  <!-- EN: Soljyts Scout -->
+  <BA_Polish_Adult_Soljyts_Scout.title>索利特斥候</BA_Polish_Adult_Soljyts_Scout.title>
+  <!-- EN: Scout -->
+  <BA_Polish_Adult_Soljyts_Scout.titleShort>斥候</BA_Polish_Adult_Soljyts_Scout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] governed a district with authority, overseeing taxation, law enforcement, and local administration with sharp intellect.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Starost_Administrator.description>[PAWN_nameDef] 凭借卓越才智权威治理一个行政区，监管税收、执法与地方行政事务。</BA_Polish_Adult_Starost_Administrator.description>
+  <!-- EN: Starost Administrator -->
+  <BA_Polish_Adult_Starost_Administrator.title>行政长官管理员</BA_Polish_Adult_Starost_Administrator.title>
+  <!-- EN: Administrator -->
+  <BA_Polish_Adult_Starost_Administrator.titleShort>管理员</BA_Polish_Adult_Starost_Administrator.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed district resources, trade, and agriculture, ensuring prosperity and sustainability for both nobles and peasants.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Starost_Economist.description>[PAWN_nameDef] 管理行政区的资源、贸易与农业，保障贵族与农夫双方的繁荣与可持续发展。</BA_Polish_Adult_Starost_Economist.description>
+  <!-- EN: Starost Economist -->
+  <BA_Polish_Adult_Starost_Economist.title>行政长官经济学家</BA_Polish_Adult_Starost_Economist.title>
+  <!-- EN: Economist -->
+  <BA_Polish_Adult_Starost_Economist.titleShort>经济学家</BA_Polish_Adult_Starost_Economist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] oversaw district health, tending the sick and wounded while promoting hygiene and remedies in the communities.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Starost_Healer.description>[PAWN_nameDef] 监管行政区的医疗卫生，照料伤病者并在社区中推广卫生知识与治疗方法。</BA_Polish_Adult_Starost_Healer.description>
+  <!-- EN: Starost Healer -->
+  <BA_Polish_Adult_Starost_Healer.title>行政长官医者</BA_Polish_Adult_Starost_Healer.title>
+  <!-- EN: Healer -->
+  <BA_Polish_Adult_Starost_Healer.titleShort>医者</BA_Polish_Adult_Starost_Healer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] presided over legal matters in the district, mediating disputes and maintaining law with fairness and authority.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Starost_Justice.description>[PAWN_nameDef] 主持行政区的法律事务，以公正与权威调解纠纷、维护法律秩序。</BA_Polish_Adult_Starost_Justice.description>
+  <!-- EN: Starost of Justice -->
+  <BA_Polish_Adult_Starost_Justice.title>行政长官司法官</BA_Polish_Adult_Starost_Justice.title>
+  <!-- EN: Justice -->
+  <BA_Polish_Adult_Starost_Justice.titleShort>司法官</BA_Polish_Adult_Starost_Justice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] organized the district’s militia, defending lands and villages while ensuring order and discipline.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Starost_Military.description>[PAWN_nameDef] 组织行政区的民兵力量，保卫土地与村庄，同时确保部队的秩序与纪律。</BA_Polish_Adult_Starost_Military.description>
+  <!-- EN: Starost Commander -->
+  <BA_Polish_Adult_Starost_Military.title>行政长官指挥官</BA_Polish_Adult_Starost_Military.title>
+  <!-- EN: Commander -->
+  <BA_Polish_Adult_Starost_Military.titleShort>指挥官</BA_Polish_Adult_Starost_Military.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was handpicked for marksmanship, excelling in ranged combat and battlefield accuracy under pressure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Elite_Rifleman.description>[PAWN_nameDef] 因射击技艺出众被精心挑选，在远程作战中表现卓越，即便身处压力之下也能保持战场精准度。</BA_Polish_Adult_Strzelcy_Elite_Rifleman.description>
+  <!-- EN: Strzelcy Elite Rifleman -->
+  <BA_Polish_Adult_Strzelcy_Elite_Rifleman.title>波兰精英射手</BA_Polish_Adult_Strzelcy_Elite_Rifleman.title>
+  <!-- EN: Elite Rifleman -->
+  <BA_Polish_Adult_Strzelcy_Elite_Rifleman.titleShort>精英射手</BA_Polish_Adult_Strzelcy_Elite_Rifleman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] combined battlefield duties with knowledge of fortifications and rudimentary artillery.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Engineer.description>[PAWN_nameDef] 将战场职责与防御工事及基础火炮知识相结合。</BA_Polish_Adult_Strzelcy_Engineer.description>
+  <!-- EN: Strzelcy Engineer -->
+  <BA_Polish_Adult_Strzelcy_Engineer.title>波兰射手工程师</BA_Polish_Adult_Strzelcy_Engineer.title>
+  <!-- EN: Engineer -->
+  <BA_Polish_Adult_Strzelcy_Engineer.titleShort>工程师</BA_Polish_Adult_Strzelcy_Engineer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led skirmish squads, maintaining morale, coordinating attacks, and ensuring tactical superiority on the field.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Field_Officer.description>[PAWN_nameDef] 率领突袭小队，维持士气、协调进攻，并确保在战场上的战术优势。</BA_Polish_Adult_Strzelcy_Field_Officer.description>
+  <!-- EN: Strzelcy Field Officer -->
+  <BA_Polish_Adult_Strzelcy_Field_Officer.title>波兰射手战地军官</BA_Polish_Adult_Strzelcy_Field_Officer.title>
+  <!-- EN: Field Officer -->
+  <BA_Polish_Adult_Strzelcy_Field_Officer.titleShort>战地军官</BA_Polish_Adult_Strzelcy_Field_Officer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] specialized in mounted sharpshooting, combining precision with mobility to eliminate high-value targets.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Horse_Sniper.description>[PAWN_nameDef] 专精骑乘精准射击，将精准度与机动性相结合，专门消灭高价值目标。</BA_Polish_Adult_Strzelcy_Horse_Sniper.description>
+  <!-- EN: Strzelcy Horse Sniper -->
+  <BA_Polish_Adult_Strzelcy_Horse_Sniper.title>波兰骑乘狙击手</BA_Polish_Adult_Strzelcy_Horse_Sniper.title>
+  <!-- EN: Horse Sniper -->
+  <BA_Polish_Adult_Strzelcy_Horse_Sniper.titleShort>骑乘狙击手</BA_Polish_Adult_Strzelcy_Horse_Sniper.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] specialized in long-range shooting, picking off high-value targets with precision and patience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Marksman.description>[PAWN_nameDef] 专精远程射击，凭借精准度与耐心逐个消灭高价值目标。</BA_Polish_Adult_Strzelcy_Marksman.description>
+  <!-- EN: Strzelcy Marksman -->
+  <BA_Polish_Adult_Strzelcy_Marksman.title>波兰神射手</BA_Polish_Adult_Strzelcy_Marksman.title>
+  <!-- EN: Marksman -->
+  <BA_Polish_Adult_Strzelcy_Marksman.titleShort>神射手</BA_Polish_Adult_Strzelcy_Marksman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] treated wounded comrades on and off the battlefield, keeping the unit operational during extended campaigns.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Medic.description>[PAWN_nameDef] 在战场内外治疗受伤战友，确保部队在长期战役中保持战斗力。</BA_Polish_Adult_Strzelcy_Medic.description>
+  <!-- EN: Strzelcy Medic -->
+  <BA_Polish_Adult_Strzelcy_Medic.title>波兰射手医护兵</BA_Polish_Adult_Strzelcy_Medic.title>
+  <!-- EN: Medic -->
+  <BA_Polish_Adult_Strzelcy_Medic.titleShort>医护兵</BA_Polish_Adult_Strzelcy_Medic.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded a squad of strzelcy, coordinating volleys and maintaining morale during skirmishes.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Officer.description>[PAWN_nameDef] 指挥一支射手小队，协调齐射战术，并在突袭战中维持士气。</BA_Polish_Adult_Strzelcy_Officer.description>
+  <!-- EN: Strzelcy Officer -->
+  <BA_Polish_Adult_Strzelcy_Officer.title>波兰射手军官</BA_Polish_Adult_Strzelcy_Officer.title>
+  <!-- EN: Officer -->
+  <BA_Polish_Adult_Strzelcy_Officer.titleShort>军官</BA_Polish_Adult_Strzelcy_Officer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained extensively with firearms, providing accurate volleys in the heat of battle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Rifleman.description>[PAWN_nameDef] 接受了大量火器训练，在激烈的战斗中能发起精准齐射。</BA_Polish_Adult_Strzelcy_Rifleman.description>
+  <!-- EN: Strzelcy Rifleman -->
+  <BA_Polish_Adult_Strzelcy_Rifleman.title>波兰射手</BA_Polish_Adult_Strzelcy_Rifleman.title>
+  <!-- EN: Rifleman -->
+  <BA_Polish_Adult_Strzelcy_Rifleman.titleShort>射手</BA_Polish_Adult_Strzelcy_Rifleman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] combined reconnaissance with battlefield medicine, aiding wounded comrades while scouting enemy positions.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Scout_Medic.description>[PAWN_nameDef] 将侦察任务与战地医疗相结合，在侦察敌军位置的同时救助受伤战友。</BA_Polish_Adult_Strzelcy_Scout_Medic.description>
+  <!-- EN: Strzelcy Scout Medic -->
+  <BA_Polish_Adult_Strzelcy_Scout_Medic.title>波兰射手侦察医护兵</BA_Polish_Adult_Strzelcy_Scout_Medic.title>
+  <!-- EN: Scout Medic -->
+  <BA_Polish_Adult_Strzelcy_Scout_Medic.titleShort>侦察医护兵</BA_Polish_Adult_Strzelcy_Scout_Medic.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] operated firearms and early artillery during sieges, combining technical skill with battlefield awareness.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Siege_Gunner.description>[PAWN_nameDef] 在攻城战中操作火器与早期火炮，融合技术技能与战场洞察力。</BA_Polish_Adult_Strzelcy_Siege_Gunner.description>
+  <!-- EN: Strzelcy Siege Gunner -->
+  <BA_Polish_Adult_Strzelcy_Siege_Gunner.title>波兰射手攻城炮手</BA_Polish_Adult_Strzelcy_Siege_Gunner.title>
+  <!-- EN: Siege Gunner -->
+  <BA_Polish_Adult_Strzelcy_Siege_Gunner.titleShort>攻城炮手</BA_Polish_Adult_Strzelcy_Siege_Gunner.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] moved quickly across the battlefield, harassing the enemy with ranged attacks and tactical maneuvers.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Skirmisher.description>[PAWN_nameDef] 在战场上快速机动，通过远程攻击与战术动作骚扰敌军。</BA_Polish_Adult_Strzelcy_Skirmisher.description>
+  <!-- EN: Strzelcy Skirmisher -->
+  <BA_Polish_Adult_Strzelcy_Skirmisher.title>波兰射手袭扰兵</BA_Polish_Adult_Strzelcy_Skirmisher.title>
+  <!-- EN: Skirmisher -->
+  <BA_Polish_Adult_Strzelcy_Skirmisher.titleShort>袭扰兵</BA_Polish_Adult_Strzelcy_Skirmisher.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] set ambushes, traps, and fortifications, using clever tactics to control the battlefield.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Strzelcy_Trap_Specialist.description>[PAWN_nameDef] 布设伏击、陷阱与防御工事，运用巧妙战术掌控战场局势。</BA_Polish_Adult_Strzelcy_Trap_Specialist.description>
+  <!-- EN: Strzelcy Trap Specialist -->
+  <BA_Polish_Adult_Strzelcy_Trap_Specialist.title>波兰射手陷阱专家</BA_Polish_Adult_Strzelcy_Trap_Specialist.title>
+  <!-- EN: Trap Specialist -->
+  <BA_Polish_Adult_Strzelcy_Trap_Specialist.titleShort>陷阱专家</BA_Polish_Adult_Strzelcy_Trap_Specialist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] pursued the arts and craftsmanship, sponsoring works and creating objects of beauty to display prestige.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Szlachta_Artisan.description>[PAWN_nameDef] 投身艺术与工艺领域，赞助艺术创作并亲手打造精美器物以彰显声望。</BA_Polish_Adult_Szlachta_Artisan.description>
+  <!-- EN: Szlachta Artisan -->
+  <BA_Polish_Adult_Szlachta_Artisan.title>波兰贵族工匠</BA_Polish_Adult_Szlachta_Artisan.title>
+  <!-- EN: Artisan -->
+  <BA_Polish_Adult_Szlachta_Artisan.titleShort>工匠</BA_Polish_Adult_Szlachta_Artisan.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] took personal interest in estate management and agriculture, overseeing crops and livestock to ensure prosperity.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Szlachta_Farmer.description>[PAWN_nameDef] 对庄园管理与农业抱有浓厚兴趣，亲自监管农作物与牲畜以保障繁荣。</BA_Polish_Adult_Szlachta_Farmer.description>
+  <!-- EN: Szlachta Farmer -->
+  <BA_Polish_Adult_Szlachta_Farmer.title>波兰贵族农夫</BA_Polish_Adult_Szlachta_Farmer.title>
+  <!-- EN: Farmer -->
+  <BA_Polish_Adult_Szlachta_Farmer.titleShort>农夫</BA_Polish_Adult_Szlachta_Farmer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed estates and presided over local affairs, wielding influence and charm to maintain their family's status.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Szlachta_Lord.description>[PAWN_nameDef] 管理庄园并主持地方事务，凭借影响力与个人魅力维系家族地位。</BA_Polish_Adult_Szlachta_Lord.description>
+  <!-- EN: Szlachta Lord -->
+  <BA_Polish_Adult_Szlachta_Lord.title>波兰贵族领主</BA_Polish_Adult_Szlachta_Lord.title>
+  <!-- EN: Lord -->
+  <BA_Polish_Adult_Szlachta_Lord.titleShort>领主</BA_Polish_Adult_Szlachta_Lord.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied philosophy, law, and history, advising fellow nobles and influencing policy through intellect.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Szlachta_Scholar.description>[PAWN_nameDef] 钻研哲学、法律与历史，凭借才智为其他贵族提供建议并影响政策制定。</BA_Polish_Adult_Szlachta_Scholar.description>
+  <!-- EN: Szlachta Scholar -->
+  <BA_Polish_Adult_Szlachta_Scholar.title>波兰贵族学者</BA_Polish_Adult_Szlachta_Scholar.title>
+  <!-- EN: Scholar -->
+  <BA_Polish_Adult_Szlachta_Scholar.titleShort>学者</BA_Polish_Adult_Szlachta_Scholar.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained in swordplay and mounted combat, defending family lands and honor when diplomacy failed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Szlachta_Warrior.description>[PAWN_nameDef] 接受剑术与骑战训练，在外交手段失效时保卫家族土地与荣誉。</BA_Polish_Adult_Szlachta_Warrior.description>
+  <!-- EN: Szlachta Warrior -->
+  <BA_Polish_Adult_Szlachta_Warrior.title>波兰贵族战士</BA_Polish_Adult_Szlachta_Warrior.title>
+  <!-- EN: Warrior -->
+  <BA_Polish_Adult_Szlachta_Warrior.titleShort>战士</BA_Polish_Adult_Szlachta_Warrior.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled between Gdańsk and Kraków trading amber for salt and silk, learning the art of persuasion.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Traveller_Amber_Trader.description>[PAWN_nameDef] 往返于格但斯克与克拉科夫之间，以琥珀换取盐与丝绸，练就了说服的艺术。</BA_Polish_Adult_Traveller_Amber_Trader.description>
+  <!-- EN: Amber Road Trader -->
+  <BA_Polish_Adult_Traveller_Amber_Trader.title>琥珀之路商人</BA_Polish_Adult_Traveller_Amber_Trader.title>
+  <!-- EN: Trader -->
+  <BA_Polish_Adult_Traveller_Amber_Trader.titleShort>商人</BA_Polish_Adult_Traveller_Amber_Trader.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] played lute and sang ballads from Kraków to Lublin, exchanging tunes for bread and stories for coin.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Traveller_Gypsy_Minstrel.description>[PAWN_nameDef] 弹奏鲁特琴，在从克拉科夫到卢布林的旅程中吟唱民谣，以乐曲换取面包，以故事赚取钱币。</BA_Polish_Adult_Traveller_Gypsy_Minstrel.description>
+  <!-- EN: Wandering Minstrel -->
+  <BA_Polish_Adult_Traveller_Gypsy_Minstrel.title>流浪民谣歌手</BA_Polish_Adult_Traveller_Gypsy_Minstrel.title>
+  <!-- EN: Minstrel -->
+  <BA_Polish_Adult_Traveller_Gypsy_Minstrel.titleShort>歌手</BA_Polish_Adult_Traveller_Gypsy_Minstrel.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] guarded traders crossing Ruthenia, wielding a spear and hard eyes trained by experience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Traveller_Merchant_Guard.description>[PAWN_nameDef] 护送穿越鲁塞尼亚的商人，手持长矛，那双经经验磨砺出的锐利眼眸时刻警惕。</BA_Polish_Adult_Traveller_Merchant_Guard.description>
+  <!-- EN: Merchant Guard -->
+  <BA_Polish_Adult_Traveller_Merchant_Guard.title>商人护卫</BA_Polish_Adult_Traveller_Merchant_Guard.title>
+  <!-- EN: Guard -->
+  <BA_Polish_Adult_Traveller_Merchant_Guard.titleShort>护卫</BA_Polish_Adult_Traveller_Merchant_Guard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] wandered across Poland's dusty roads to pray before the Black Madonna, surviving on faith and charity.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Traveller_Pilgrim_Czestochowa.description>[PAWN_nameDef] 跋涉在波兰尘土飞扬的道路上，前往琴斯托霍瓦朝拜黑圣母，依靠信仰与他人的施舍生存。</BA_Polish_Adult_Traveller_Pilgrim_Czestochowa.description>
+  <!-- EN: Pilgrim of Częstochowa -->
+  <BA_Polish_Adult_Traveller_Pilgrim_Czestochowa.title>琴斯托霍瓦朝圣者</BA_Polish_Adult_Traveller_Pilgrim_Czestochowa.title>
+  <!-- EN: Pilgrim -->
+  <BA_Polish_Adult_Traveller_Pilgrim_Czestochowa.titleShort>朝圣者</BA_Polish_Adult_Traveller_Pilgrim_Czestochowa.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ferried goods down the Vistula, mastering the current and avoiding river raiders.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Traveller_River_Boatman.description>[PAWN_nameDef] 沿维斯瓦河运送货物，熟练掌控水流，躲避河道劫掠者。</BA_Polish_Adult_Traveller_River_Boatman.description>
+  <!-- EN: Vistula Boatman -->
+  <BA_Polish_Adult_Traveller_River_Boatman.title>维斯瓦河船夫</BA_Polish_Adult_Traveller_River_Boatman.title>
+  <!-- EN: Boatman -->
+  <BA_Polish_Adult_Traveller_River_Boatman.titleShort>船夫</BA_Polish_Adult_Traveller_River_Boatman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed village affairs with authority and diplomacy, overseeing taxation, labor, and local disputes.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Wojt_Administrator.description>[PAWN_nameDef] 凭借权威与外交手腕管理村庄事务，监管税收、劳役与地方纠纷。</BA_Polish_Adult_Wojt_Administrator.description>
+  <!-- EN: Wojt Administrator -->
+  <BA_Polish_Adult_Wojt_Administrator.title>乡村长官管理员</BA_Polish_Adult_Wojt_Administrator.title>
+  <!-- EN: Administrator -->
+  <BA_Polish_Adult_Wojt_Administrator.titleShort>管理员</BA_Polish_Adult_Wojt_Administrator.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ensured the prosperity of village lands, advising on crop rotation, livestock, and sustainable farming.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Wojt_Agronomist.description>[PAWN_nameDef] 为村庄土地的繁荣提供保障，就作物轮作、牲畜养殖与可持续农业提供建议。</BA_Polish_Adult_Wojt_Agronomist.description>
+  <!-- EN: Wojt Agronomist -->
+  <BA_Polish_Adult_Wojt_Agronomist.title>乡村长官农学家</BA_Polish_Adult_Wojt_Agronomist.title>
+  <!-- EN: Agronomist -->
+  <BA_Polish_Adult_Wojt_Agronomist.titleShort>农学家</BA_Polish_Adult_Wojt_Agronomist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] combined management of village affairs with practical skills, producing tools and organizing repairs efficiently.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Wojt_Craftsman.description>[PAWN_nameDef] 将村庄事务管理与实用技能相结合，制作工具并高效组织修缮工作。</BA_Polish_Adult_Wojt_Craftsman.description>
+  <!-- EN: Wojt Craftsman -->
+  <BA_Polish_Adult_Wojt_Craftsman.title>乡村长官工匠</BA_Polish_Adult_Wojt_Craftsman.title>
+  <!-- EN: Craftsman -->
+  <BA_Polish_Adult_Wojt_Craftsman.titleShort>工匠</BA_Polish_Adult_Wojt_Craftsman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] presided over local disputes and minor crimes, mediating conflicts with wisdom and fairness.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Wojt_Justice.description>[PAWN_nameDef] 主持地方纠纷与轻微犯罪案件的处理，以智慧与公正调解冲突。</BA_Polish_Adult_Wojt_Justice.description>
+  <!-- EN: Wojt of Justice -->
+  <BA_Polish_Adult_Wojt_Justice.title>乡村长官司法官</BA_Polish_Adult_Wojt_Justice.title>
+  <!-- EN: Justice -->
+  <BA_Polish_Adult_Wojt_Justice.titleShort>司法官</BA_Polish_Adult_Wojt_Justice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] oversaw village health, tending to the sick and wounded while advising on hygiene and remedies.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Polish_Adult_Wojt_Medic.description>[PAWN_nameDef] 监管村庄医疗卫生，照料伤病者并就卫生知识与治疗方法提供建议。</BA_Polish_Adult_Wojt_Medic.description>
+  <!-- EN: Wojt Medic -->
+  <BA_Polish_Adult_Wojt_Medic.title>乡村长官医者</BA_Polish_Adult_Wojt_Medic.title>
+  <!-- EN: Medic -->
+  <BA_Polish_Adult_Wojt_Medic.titleShort>医者</BA_Polish_Adult_Wojt_Medic.titleShort>
+  
+</LanguageData>

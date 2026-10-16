@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Joust messages -->
+	<!-- EN: To the joust! {0} vs {1} -->
+  <RimJoust.JoustStarted>比武开始！{0} vs {1}</RimJoust.JoustStarted>
+	<!-- EN: Place a flag A AND a flag B on the map first (Architect → Misc). -->
+  <RimJoust.NeedFlagsPlaced>请先在地图上放置旗帜A和旗帜B（建筑→杂项）。</RimJoust.NeedFlagsPlaced>
+	<!-- EN: The 2 knights must be on the same map. -->
+  <RimJoust.PawnsNeedSameMap>两名骑士必须在同一地图上。</RimJoust.PawnsNeedSameMap>
+	<!-- EN: {0} takes the blow and holds in the saddle! -->
+  <RimJoust.HitButHeldOn>{0}承受了冲击，仍然稳坐马鞍！</RimJoust.HitButHeldOn>
+	<!-- EN: {0} has been unhorsed! -->
+  <RimJoust.Unhorsed>{0}被掀下马！</RimJoust.Unhorsed>
+	<!-- EN: TO THE JOUST! -->
+  <RimJoust.JoustGo>上场比武！</RimJoust.JoustGo>
+	<!-- EN: Glory to Lord {0}! -->
+  <RimJoust.CeremonyHail>荣耀归于领主{0}！</RimJoust.CeremonyHail>
+	<!-- EN: Glory to the lord! -->
+  <RimJoust.CeremonyHailNoName>荣耀归于领主！</RimJoust.CeremonyHailNoName>
+	<!-- EN: {0} swears fealty! -->
+  <RimJoust.OathHail>{0}宣誓效忠！</RimJoust.OathHail>
+	<!-- EN: I swear fealty! -->
+  <RimJoust.Oath1>我宣誓效忠！</RimJoust.Oath1>
+	<!-- EN: My lance is yours! -->
+  <RimJoust.Oath2>我的长枪为你而战！</RimJoust.Oath2>
+	<!-- EN: For honor and glory! -->
+  <RimJoust.Oath3>为了荣誉和荣耀！</RimJoust.Oath3>
+	<!-- EN: I shall fight with honor! -->
+  <RimJoust.Oath4>我将以荣誉而战！</RimJoust.Oath4>
+
+	<!-- Crowning the Queen of Love and Beauty -->
+	<!-- EN: Queen of Love and Beauty -->
+  <RimJoust.CoronationTitle>边缘世界掌管爱与美的女王</RimJoust.CoronationTitle>
+	<!-- EN: Scandal -->
+  <RimJoust.CoronationScandalTag>丑闻</RimJoust.CoronationScandalTag>
+	<!-- EN: Continue -->
+  <RimJoust.CoronationClose>继续</RimJoust.CoronationClose>
+	<!-- EN: {0} rides to the rail and lays the wreath of flowers in {1}'s lap. {1} is named queen of love and beauty, just as everyone hoped. A good day for the two of them. -->
+  <RimJoust.CoronationWife>{0}策马来到围栏前，将花环放在{1}的膝上。{1}被加冕为边缘世界掌管爱与美的女王，正如众人所愿。这对他们来说是美好的一天。</RimJoust.CoronationWife>
+	<!-- EN: With no one in particular to honor, {0} crowns {1} queen of love and beauty. It is {1} who caught {0}'s eye, more than anyone else. -->
+  <RimJoust.CoronationAdmire>由于没有特定的人需要致敬，{0}加冕{1}为边缘世界掌管爱与美的女王。{1}吸引了{0}的目光，胜过其他任何人。</RimJoust.CoronationAdmire>
+	<!-- EN: {0} rides slowly past {1}... and lays the wreath in {2}'s lap instead. The whole field falls silent. {1} says nothing, but {1} will not forget this. Some things cannot be undone. -->
+  <RimJoust.CoronationScandal>{0}缓缓策马经过{1}……却将花环放在了{2}的膝上。全场一片寂静。{1}一言不发，但她不会忘记这件事。有些事覆水难收。</RimJoust.CoronationScandal>
+	<!-- EN: {0} loses their nerve and forfeits. {1} wins without even charging. -->
+  <RimJoust.Forfeit>{0}失去勇气而认输。{1}不战而胜。</RimJoust.Forfeit>
+	<!-- EN: {0} stops jousting and goes for the maim! -->
+  <RimJoust.BloodlustMaim>{0}不再比武，转而追求致残！</RimJoust.BloodlustMaim>
+	<!-- EN: {0} aims to kill! -->
+  <RimJoust.PsychopathKill>{0}意图杀人！</RimJoust.PsychopathKill>
+
+	<!-- Tournament -->
+	<!-- EN: A tournament is already underway. -->
+  <RimJoust.TournamentAlreadyRunning>锦标赛正在进行中。</RimJoust.TournamentAlreadyRunning>
+	<!-- EN: Not so fast, you just held one. Next tournament possible in {0} days. -->
+  <RimJoust.TournamentCooldown>别急，你刚举办过一次。{0}天后才能举行下一次锦标赛。</RimJoust.TournamentCooldown>
+	<!-- EN: Next tournament in {0} days. -->
+  <RimJoust.TournamentCooldownGizmo>下次锦标赛在{0}天后</RimJoust.TournamentCooldownGizmo>
+	<!-- EN: A tournament needs at least 2 knights. -->
+  <RimJoust.TournamentNeedTwo>锦标赛至少需要2名骑士。</RimJoust.TournamentNeedTwo>
+	<!-- EN: Not enough ready knights. You need at least 2 mounted colonists (ready right now: {0}). Mount more colonists, or enter some visitors. The lance is handed to them automatically. -->
+  <RimJoust.NotEnoughKnights>可参赛的骑士不足。至少需要2名骑马的殖民者（当前就绪：{0}）。让更多殖民者骑马，或让一些访客参赛。长枪会自动发放给他们。</RimJoust.NotEnoughKnights>
+	<!-- EN: The tournament begins! {0} knights compete for glory. -->
+  <RimJoust.TournamentStarted>锦标赛开始！{0}名骑士为荣耀而战。</RimJoust.TournamentStarted>
+	<!-- EN: {0} unhorses {1} and advances to the next round! -->
+  <RimJoust.TournamentBoutWon>{0}将{1}掀下马，晋级下一轮！</RimJoust.TournamentBoutWon>
+	<!-- EN: {0} advances unopposed (no opponent this round). -->
+  <RimJoust.TournamentBye>{0}无人对战，直接晋级（本轮无对手）。</RimJoust.TournamentBye>
+	<!-- EN: Tournament round {0}: {1} knights still in the lists. -->
+  <RimJoust.TournamentNewRound>锦标赛第{0}轮：还有{1}名骑士仍在赛场上。</RimJoust.TournamentNewRound>
+	<!-- EN: Tournament cancelled: a list with a flag A and a flag B is required. -->
+  <RimJoust.TournamentAborted>锦标赛取消：需要一条带有旗帜A和旗帜B的赛道。</RimJoust.TournamentAborted>
+	<!-- EN: The tournament is called off. Knights are released, lances taken back, bets refunded. No cooldown, start again whenever you want. -->
+  <RimJoust.TournamentCancelled>锦标赛取消。骑士们被解除参赛，长枪被收回，赌注全额退还。无冷却时间，随时可以重新开始。</RimJoust.TournamentCancelled>
+	<!-- EN: Call off tournament -->
+  <RimJoust.CancelTournamentLabel>取消锦标赛</RimJoust.CancelTournamentLabel>
+	<!-- EN: Cancel the tournament in progress. Everyone is released, mod-given lances are taken back and bets are refunded. Use this if the tournament gets stuck. No cooldown afterwards. -->
+  <RimJoust.CancelTournamentDesc>取消进行中的锦标赛。所有人被解除参赛，模组发放的长枪被收回，赌注全额退还。如果锦标赛卡住，可以使用此功能。之后无冷却时间。</RimJoust.CancelTournamentDesc>
+	<!-- EN: Call off the tournament in progress? Everyone goes home, bets are refunded. -->
+  <RimJoust.CancelTournamentConfirm>取消进行中的锦标赛？所有人各回各家，赌注全额退还。</RimJoust.CancelTournamentConfirm>
+	<!-- EN: The tournament ends with no champion: no one left in the saddle. -->
+  <RimJoust.TournamentNoChampion>锦标赛结束，没有冠军：无人留在马鞍上。</RimJoust.TournamentNoChampion>
+	<!-- EN: Tournament without a champion -->
+  <RimJoust.TournamentNoChampionLetterLabel>无冠军的锦标赛</RimJoust.TournamentNoChampionLetterLabel>
+	<!-- EN: Tournament champion -->
+  <RimJoust.TournamentChampionLetterLabel>锦标赛冠军</RimJoust.TournamentChampionLetterLabel>
+	<!-- EN: {0} won the jousting tournament! Beat every challenger and got crowned champion while the crowd cheered. People will remember this one for a long time. -->
+  <RimJoust.TournamentChampionLetterText>{0}赢得了比武锦标赛！击败了所有挑战者，在人群欢呼中被加冕为冠军。人们会记住这一刻很长时间。</RimJoust.TournamentChampionLetterText>
+	<!-- EN: Queen of Love and Beauty -->
+  <RimJoust.QueenLetterLabel>边缘世界掌管爱与美的女王</RimJoust.QueenLetterLabel>
+	<!-- EN: {0}, the tournament champion, crowns {1} queen of love and beauty. The crowd cheers as the knight lays down a crown of flowers to honor her. It is a big honor, and it brings the two of them closer. -->
+  <RimJoust.QueenLetterText>锦标赛冠军{0}加冕{1}为边缘世界掌管爱与美的女王。当骑士献上花冠向她致敬时，人群欢呼。这是莫大的荣誉，也让两人的关系更加亲密。</RimJoust.QueenLetterText>
+	<!-- EN: A champion arrives -->
+  <RimJoust.ChampionArrivesLabel>冠军到来</RimJoust.ChampionArrivesLabel>
+	<!-- EN: {0}, a champion from {1}, shows up at your colony. He wants to test your knights in the joust. Enter him in your next tournament if you have someone good enough to stay in the saddle. He looks really good with a lance. -->
+  <RimJoust.ChampionArrivesText>来自{1}的冠军{0}出现在你的殖民地。他想在比武中考验你的骑士。如果你有足够厉害的骑士能留在马鞍上，就在下次锦标赛中让他参赛。他看起来非常擅长使用长枪。</RimJoust.ChampionArrivesText>
+	<!-- EN: A house comes to compete -->
+  <RimJoust.DelegationArrivesLabel>一个家族前来比武</RimJoust.DelegationArrivesLabel>
+	<!-- EN: A delegation of {1} knights from {0} turns up to test themselves against yours. They will hang around near your colony for a while. Select them and enter them in your next tournament while they are here, good for filling out the bracket. -->
+  <RimJoust.DelegationArrivesText>来自{0}的{1}名骑士代表团前来与你的骑士一较高下。他们会在你的殖民地附近逗留一段时间。趁他们在这里时，选择他们并让他们参加你的下一次锦标赛，很适合填满参赛名单。</RimJoust.DelegationArrivesText>
+	<!-- EN: Jousting tournaments -->
+  <RimJoust.IntroLetterLabel>比武锦标赛</RimJoust.IntroLetterLabel>
+	<!-- EN: How to hold a jousting tournament:\n\n1. Put a flag A and a flag B at each end of the lists, with a list barrier between them if you can.\n2. Mount your colonists (Giddy-Up). They get a jousting lance automatically when the tournament starts.\n3. Optional: assign some squires and place a recovery area and a dead spot. Squires drag the wounded and the dead off the lists for you.\n4. Click a flag and pick "Hold tournament".\n\nThe winner becomes champion and crowns a Queen of Love and Beauty. Careful, a joust can kill.\n\nFor the details, the "Guide" button on a flag opens a full guide (also in the mod options). -->
+  <RimJoust.IntroLetterText>如何举办比武锦标赛：\n\n1. 在赛道两端各放置一面旗帜A和旗帜B，如果可能，在中间放置赛道栏。\n2. 让殖民者骑上马（Giddy-Up）。锦标赛开始时他们会自动获得比武长枪。\n3. 可选：指派一些侍从，放置恢复区和阵亡点。侍从会为你将伤员和阵亡者拖离赛道。\n4. 点击一面旗帜并选择「举办锦标赛」。\n\n获胜者将成为冠军，并加冕一位边缘世界掌管爱与美的女王。注意，比武可能致命。\n\n详细信息请点击旗帜上的「指南」按钮，会打开完整指南（也可在模组选项中找到）。</RimJoust.IntroLetterText>
+
+	<!-- Mod settings -->
+	<!-- EN: Set how dangerous jousts are. Changes apply right away, no restart. -->
+  <RimJoust.Settings.Intro>设置比武的危险程度。更改立即生效，无需重启。</RimJoust.Settings.Intro>
+	<!-- EN: Lance damage -->
+  <RimJoust.Settings.LanceDamage>长枪伤害</RimJoust.Settings.LanceDamage>
+	<!-- EN: Unhorse chance per pass -->
+  <RimJoust.Settings.DismountChance>每次冲刺落马几率</RimJoust.Settings.DismountChance>
+	<!-- EN: Dangerous hit risk -->
+  <RimJoust.Settings.DangerousHitChance>高危命中风险</RimJoust.Settings.DangerousHitChance>
+	<!-- EN: (chance a blow hits the head or organs, so coma, bad injury or death) -->
+  <RimJoust.Settings.DangerousHitHint>（击中头部或器官的几率，可能导致昏迷、重伤或死亡）</RimJoust.Settings.DangerousHitHint>
+	<!-- EN: Fall damage -->
+  <RimJoust.Settings.FallDamage>坠落伤害</RimJoust.Settings.FallDamage>
+	<!-- EN: Grand melee damage (lower means fewer fractures) -->
+  <RimJoust.Settings.MeleeDamage>大混战伤害（数值越低骨折越少）</RimJoust.Settings.MeleeDamage>
+	<!-- EN: Arena: {0} (+1) -->
+  <RimJoust.ArenaRadiusPlus>竞技场：{0}（+1）</RimJoust.ArenaRadiusPlus>
+	<!-- EN: Arena: {0} (-1) -->
+  <RimJoust.ArenaRadiusMinus>竞技场：{0}（-1）</RimJoust.ArenaRadiusMinus>
+	<!-- EN: Adjust the melee arena radius around this post. The white outline shows the boundary in real time while the post is selected: fighters who cross it are herded back to the center, and the crowd settles just outside it. -->
+  <RimJoust.ArenaRadiusDesc>调整此立柱周围的大混战竞技场半径。选中立柱时，白色轮廓会实时显示边界：越过边界的战斗者会被驱赶回中心，观众则聚集在边界外侧。</RimJoust.ArenaRadiusDesc>
+	<!-- EN: Arena: auto -->
+  <RimJoust.ArenaRadiusAuto>竞技场：自动</RimJoust.ArenaRadiusAuto>
+	<!-- EN: Detects the enclosure around the post (railings, walls, doors) and fits the arena to its exact shape, rectangles included. The white outline shows the covered surface while the post is selected. The + and - buttons switch back to circle mode. Needs a closed enclosure: if it leaks somewhere, the button will tell you. -->
+  <RimJoust.ArenaRadiusAutoDesc>检测立柱周围的围栏（栏杆、墙壁、门），并将竞技场调整到完全匹配其形状，包括矩形在内。选中立柱时，白色轮廓会显示覆盖的区域。+ 和 - 按钮切换回圆形模式。需要一个封闭的围栏：如果某个地方漏风，按钮会提示你。</RimJoust.ArenaRadiusAutoDesc>
+	<!-- EN: The arena is not enclosed (or is wider than {0} cells). Surround the post with railings or walls, with a door to get in, then try again. -->
+  <RimJoust.ArenaNotEnclosed>竞技场未封闭（或宽度超过{0}格）。用栏杆或墙壁围绕立柱，并留一道门出入，然后重试。</RimJoust.ArenaNotEnclosed>
+	<!-- EN: Arena fitted to the enclosure: {0} cells covered. -->
+  <RimJoust.ArenaAutoFit>竞技场已匹配围栏：覆盖{0}格。</RimJoust.ArenaAutoFit>
+	<!-- EN: Cooldown between tournaments (days, 0 = none) -->
+  <RimJoust.Settings.TournamentCooldown>锦标赛冷却时间（天，0=无冷却）</RimJoust.Settings.TournamentCooldown>
+	<!-- EN: Character trait effects -->
+  <RimJoust.Settings.TraitEffects>人物特性效果</RimJoust.Settings.TraitEffects>
+	<!-- EN: When checked, jousters' traits matter: a brawler unhorses harder, a tough one holds the saddle better, a nimble one dodges, a wimp may forfeit, a bloodlust or psychopath knight may try to wound or kill, and post-tournament mood depends on character. -->
+  <RimJoust.Settings.TraitEffectsHint>勾选后，比武者的特性会起作用：好斗者更容易将人掀下马，坚韧者更能稳坐马鞍，灵活者会闪避，懦弱者可能认输，嗜血或精神病态者可能试图伤害或杀死对手，锦标赛后的心情取决于人物性格。</RimJoust.Settings.TraitEffectsHint>
+	<!-- EN: Open windows automatically -->
+  <RimJoust.Settings.AutoPopups>自动打开窗口</RimJoust.Settings.AutoPopups>
+	<!-- EN: When checked, the tournament board opens when a tournament starts and the coronation window opens at the end. Uncheck if you'd rather just get the letters: everything stays reachable from the flag and the journal. -->
+  <RimJoust.Settings.AutoPopupsHint>勾选后，锦标赛开始时自动打开锦标赛面板，结束时自动打开加冕窗口。如果只想收到信件，取消勾选：一切仍可通过旗帜和任务访问。</RimJoust.Settings.AutoPopupsHint>
+	<!-- EN: Reset to defaults -->
+  <RimJoust.Settings.Reset>重置为默认值</RimJoust.Settings.Reset>
+
+	<!-- Brutal fall -->
+	<!-- EN: Recovers in ~{0} in-game h -->
+  <RimJoust.RecoverIn>约{0}时后恢复</RimJoust.RecoverIn>
+
+	<!-- Joust markers -->
+	<!-- EN: Hide marker -->
+  <RimJoust.HideSpotLabel>隐藏标记</RimJoust.HideSpotLabel>
+	<!-- EN: Hides this marker's graphic. The flag or post is still there and still works, you just don't see it anymore. Useful once your lists are set up, or for screenshots. Select several markers to hide them all at once. -->
+  <RimJoust.HideSpotDesc>隐藏此标记的图形。旗帜或站位仍在原处且依然有效，只是不再显示。赛道设置好后或需要截图时很有用。选择多个标记可一次性隐藏。</RimJoust.HideSpotDesc>
+
+	<!-- Guest knights -->
+	<!-- EN: Enter in tournament -->
+  <RimJoust.EnrollGuestLabel>参加锦标赛</RimJoust.EnrollGuestLabel>
+	<!-- EN: Jousting skill too low ({0}). Needs at least {1} to joust. -->
+  <RimJoust.EnrollGuestTooWeak>比武技能过低（{0}）。至少需要{1}才能参赛。</RimJoust.EnrollGuestTooWeak>
+	<!-- EN: Enters this visitor from another faction as a guest knight. When the tournament starts they get a lance and a mount, then joust along with your colonists. Select several visitors to enter more than one. -->
+  <RimJoust.EnrollGuestDesc>让来自其他派系的访客作为客座骑士参赛。锦标赛开始时，他们会获得长枪和坐骑，与你的殖民者一同比武。选择多名访客可让多人参赛。</RimJoust.EnrollGuestDesc>
+	<!-- EN: Hold tournament -->
+  <RimJoust.StartTournamentLabel>举办锦标赛</RimJoust.StartTournamentLabel>
+	<!-- EN: Starts a jousting tournament. All your mounted colonists, plus any guest knights you entered, fight in single elimination until one is crowned champion. The lance is handed out automatically. You need flags A and B placed. -->
+  <RimJoust.StartTournamentDesc>开始一场比武锦标赛。所有骑马的殖民者，加上你报名参赛的客座骑士，进行单败淘汰赛，直到一人被加冕为冠军。长枪会自动发放。你需要已放置旗帜A和B。</RimJoust.StartTournamentDesc>
+	<!-- EN: View results -->
+  <RimJoust.ViewResultsLabel>查看结果</RimJoust.ViewResultsLabel>
+	<!-- EN: Reopen the last tournament board with the champion, the Queen of Love and Beauty, the bracket and the journal. -->
+  <RimJoust.ViewResultsDesc>重新打开上次的锦标赛面板，显示冠军、边缘世界掌管爱与美的女王、赛程表和日志。</RimJoust.ViewResultsDesc>
+
+	<!-- Tournament board -->
+	<!-- EN: Tournament board -->
+  <RimJoust.BoardGizmoLabel>锦标赛面板</RimJoust.BoardGizmoLabel>
+	<!-- EN: Show the current tournament: ongoing bout, knights in the lists, advancing, and eliminated. -->
+  <RimJoust.BoardGizmoDesc>显示当前锦标赛：进行中的对决、赛场上的骑士、晋级者和淘汰者。</RimJoust.BoardGizmoDesc>
+	<!-- EN: Jousting tournament, round {0} -->
+  <RimJoust.BoardTitle>比武锦标赛，第{0}轮</RimJoust.BoardTitle>
+	<!-- EN: {0} entrants · {1} still in · {2} out -->
+  <RimJoust.BoardSubline>{0}名参赛者·{1}名仍在·{2}名淘汰</RimJoust.BoardSubline>
+	<!-- EN: {0} w. -->
+  <RimJoust.BoardWins>{0}胜</RimJoust.BoardWins>
+	<!-- EN: Current bout -->
+  <RimJoust.BoardCurrentBout>当前对决</RimJoust.BoardCurrentBout>
+	<!-- EN: In the lists this round ({0}) -->
+  <RimJoust.BoardWaiting>本轮赛场中（{0}）</RimJoust.BoardWaiting>
+	<!-- EN: Advancing to next round ({0}) -->
+  <RimJoust.BoardAdvanced>晋级下一轮（{0}）</RimJoust.BoardAdvanced>
+	<!-- EN: Eliminated ({0}) -->
+  <RimJoust.BoardEliminated>已淘汰（{0}）</RimJoust.BoardEliminated>
+	<!-- EN: — -->
+  <RimJoust.BoardNobody>—</RimJoust.BoardNobody>
+	<!-- EN: (dead) -->
+  <RimJoust.DeadTag>（已死亡）</RimJoust.DeadTag>
+	<!-- EN: Jousting tournament finished -->
+  <RimJoust.BoardTitleFinished>比武锦标赛已结束</RimJoust.BoardTitleFinished>
+	<!-- EN: Champion -->
+  <RimJoust.BoardChampionSection>冠军</RimJoust.BoardChampionSection>
+
+	<!-- Board tabs -->
+	<!-- EN: Overview -->
+  <RimJoust.TabOverview>概览</RimJoust.TabOverview>
+	<!-- EN: Bracket -->
+  <RimJoust.TabBracket>赛程表</RimJoust.TabBracket>
+	<!-- EN: Journal -->
+  <RimJoust.TabJournal>日志</RimJoust.TabJournal>
+	<!-- EN: Hall of fame -->
+  <RimJoust.TabHall>名人堂</RimJoust.TabHall>
+
+	<!-- Hall of fame -->
+	<!-- EN: No finished tournaments yet. Win one and history begins. -->
+  <RimJoust.HallEmpty>还没有完成过锦标赛。赢下一场，历史就此开始。</RimJoust.HallEmpty>
+	<!-- EN: Titles -->
+  <RimJoust.HallTitles>头衔</RimJoust.HallTitles>
+	<!-- EN: {0} title(s) -->
+  <RimJoust.HallTitleCount>{0}个头衔</RimJoust.HallTitleCount>
+	<!-- EN: Past tournaments ({0}) -->
+  <RimJoust.HallHistory>过去的锦标赛（{0}）</RimJoust.HallHistory>
+	<!-- EN: Queen: {0} -->
+  <RimJoust.HallQueen>女王：{0}</RimJoust.HallQueen>
+	<!-- EN: {0} knights, {1} rounds -->
+  <RimJoust.HallMeta>{0}名骑士，{1}轮</RimJoust.HallMeta>
+
+	<!-- Grand melee -->
+	<!-- EN: Start melee -->
+  <RimJoust.MeleeStartLabel>开始大混战</RimJoust.MeleeStartLabel>
+	<!-- EN: Start a grand melee here. Every colonist tagged as a jouster fights, on foot, last one standing wins. Everyone gets a blunted tourney mace for the fight and their own weapon back afterwards. Down does not mean dead, but bring bandages anyway. -->
+  <RimJoust.MeleeStartDesc>在此开始一场大混战。所有被标记为比武骑士的殖民者徒步参战，最后站着的人获胜。每个人都会获得一把钝化的比武钉头锤用于战斗，之后取回自己的武器。倒下并不意味着死亡，但最好还是带上绷带。</RimJoust.MeleeStartDesc>
+	<!-- EN: Cancel melee -->
+  <RimJoust.MeleeCancelLabel>取消大混战</RimJoust.MeleeCancelLabel>
+	<!-- EN: Call off the melee in progress. Everyone stops fighting and goes home. -->
+  <RimJoust.MeleeCancelDesc>取消进行中的大混战。所有人停止战斗，各回各家。</RimJoust.MeleeCancelDesc>
+	<!-- EN: Tag at least 2 colonists as jousters first (toggle on the colonist, same tag as the tournament). -->
+  <RimJoust.MeleeNeedFighters>请先将至少2名殖民者标记为比武骑士（在殖民者身上切换，与锦标赛相同的标记）。</RimJoust.MeleeNeedFighters>
+	<!-- EN: A jousting tournament is in progress. -->
+  <RimJoust.MeleeBlockedByTournament>比武锦标赛正在进行中。</RimJoust.MeleeBlockedByTournament>
+	<!-- EN: The grand melee begins: {0} fighters take the field! -->
+  <RimJoust.MeleeStarted>大混战开始：{0}名战士入场！</RimJoust.MeleeStarted>
+	<!-- EN: Lay on! -->
+  <RimJoust.MeleeFight>开战！</RimJoust.MeleeFight>
+	<!-- EN: {0} is down. {1} still standing. -->
+  <RimJoust.MeleeEliminated>{0}倒下了。还有{1}人站着。</RimJoust.MeleeEliminated>
+	<!-- EN: {0} is the last one standing and wins the grand melee! -->
+  <RimJoust.MeleeWinner>{0}是最后一个站着的人，赢得了大混战！</RimJoust.MeleeWinner>
+	<!-- EN: The melee is called off. -->
+  <RimJoust.MeleeCancelled>大混战已取消。</RimJoust.MeleeCancelled>
+
+	<!-- Archery contest -->
+	<!-- EN: Start archery contest -->
+  <RimJoust.ArcheryStartLabel>开始射箭比赛</RimJoust.ArcheryStartLabel>
+	<!-- EN: Start an archery contest here. Every colonist tagged as a jouster lines up, gets a loaner recurve bow, and shoots three volleys at the butt. Most hits wins, shooting skill breaks ties. Keep the firing lane clear, stray arrows do not ask first. -->
+  <RimJoust.ArcheryStartDesc>在此开始一场射箭比赛。所有被标记为比武骑士的殖民者列队，获得一把借用反曲弓，向靶子射出三轮齐射。命中最多者获胜，射击技能决定平局。请保持射击通道畅通，流矢可不会先打招呼。</RimJoust.ArcheryStartDesc>
+	<!-- EN: Cancel contest -->
+  <RimJoust.ArcheryCancelLabel>取消比赛</RimJoust.ArcheryCancelLabel>
+	<!-- EN: Call off the archery contest. Everyone gets their own weapon back and goes home. -->
+  <RimJoust.ArcheryCancelDesc>取消射箭比赛。所有人取回自己的武器，各回各家。</RimJoust.ArcheryCancelDesc>
+	<!-- EN: Place an archery butt first, 10 to 20 cells from the flag, with a clear lane between them. -->
+  <RimJoust.ArcheryNeedTarget>请先放置一个射箭靶，距离旗帜10到20格，两者之间保持一条畅通的通道。</RimJoust.ArcheryNeedTarget>
+	<!-- EN: Tag at least 2 colonists as jousters first (toggle on the colonist). -->
+  <RimJoust.ArcheryNeedFighters>请先将至少2名殖民者标记为比武骑士（在殖民者身上切换）。</RimJoust.ArcheryNeedFighters>
+	<!-- EN: Another tournament event is in progress. -->
+  <RimJoust.EventBlocked>另一项锦标赛活动正在进行中。</RimJoust.EventBlocked>
+	<!-- EN: The archery contest begins: {0} archers at the line! -->
+  <RimJoust.ArcheryStarted>射箭比赛开始：{0}名弓箭手就位！</RimJoust.ArcheryStarted>
+	<!-- EN: Volley {0} of {1}! -->
+  <RimJoust.ArcheryVolley>第{0}轮齐射，共{1}轮！</RimJoust.ArcheryVolley>
+	<!-- EN: After volley {0}: {1} leads with {2} hit(s). -->
+  <RimJoust.ArcheryStandings>第{0}轮齐射后：{1}以{2}次命中领先。</RimJoust.ArcheryStandings>
+	<!-- EN: {0} wins the archery contest with {1} hit(s)! -->
+  <RimJoust.ArcheryWinner>{0}以{1}次命中赢得射箭比赛！</RimJoust.ArcheryWinner>
+	<!-- EN: Final tally: {0} -->
+  <RimJoust.ArcheryScores>最终统计：{0}</RimJoust.ArcheryScores>
+	<!-- EN: The archery contest is called off. -->
+  <RimJoust.ArcheryCancelled>射箭比赛已取消。</RimJoust.ArcheryCancelled>
+	<!-- EN: The archery butt is gone. Hard to score hits on thin air. -->
+  <RimJoust.ArcheryTargetGone>射箭靶不见了。很难对空气得分。</RimJoust.ArcheryTargetGone>
+	<!-- EN: Cannot line up all the archers: the shooting line is blocked, or the butt is too far (23 cells max from every spot on the line, with clear sight). -->
+  <RimJoust.ArcheryLaneBlocked>无法让所有弓箭手列队：射击线被阻挡，或者靶子太远（线上每个位置到靶子的最远距离为23格，且视线畅通）。</RimJoust.ArcheryLaneBlocked>
+
+	<!-- Grand tournament -->
+	<!-- EN: Hold a GRAND tournament -->
+  <RimJoust.GrandStartLabel>举办盛大锦标赛</RimJoust.GrandStartLabel>
+	<!-- EN: Three events back to back: the joust, the archery contest, then the grand melee. Every event awards points by ranking, and the total crowns the grand champion. Mounted colonists compete, same as a tournament (and if you tagged jousters, only they enter). Needs the lists (flags A and B), the melee trophy post, the archery line and its butt, all on this map. -->
+  <RimJoust.GrandStartDesc>三项活动连续进行：比武、射箭比赛，然后是大混战。每项活动按名次给予积分，总分最高者加冕为总冠军。骑马的殖民者参赛，与锦标赛相同（如果你标记了比武骑士，则只有他们会参赛）。需要赛道（旗帜A和B）、大混战奖杯立柱、射箭线和靶子，全部都在本地图上。</RimJoust.GrandStartDesc>
+	<!-- EN: Missing for a grand tournament: {0}. -->
+  <RimJoust.GrandMissing>举办盛大锦标赛缺少：{0}。</RimJoust.GrandMissing>
+	<!-- EN: the lists (flags A and B) -->
+  <RimJoust.GrandNeedLists>赛道（旗帜A和B）</RimJoust.GrandNeedLists>
+	<!-- EN: the melee trophy post -->
+  <RimJoust.GrandNeedMelee>大混战奖杯立柱</RimJoust.GrandNeedMelee>
+	<!-- EN: the archery line and its butt -->
+  <RimJoust.GrandNeedArchery>射箭线和靶子</RimJoust.GrandNeedArchery>
+	<!-- EN: The grand tournament begins: {0} knights, three events. Chroniclers, sharpen your quills. -->
+  <RimJoust.GrandStarted>盛大锦标赛开始：{0}名骑士，三项活动。编年史家们，磨尖你们的羽毛笔。</RimJoust.GrandStarted>
+	<!-- EN: {0} wins the jousting event! -->
+  <RimJoust.GrandJoustEventWon>{0}赢得了比武项目！</RimJoust.GrandJoustEventWon>
+	<!-- EN: The jousting event is over. Next event: archery. The contenders catch their breath. -->
+  <RimJoust.GrandNextArchery>比武项目结束。下一个项目：射箭。参赛者们喘息片刻。</RimJoust.GrandNextArchery>
+	<!-- EN: Final event: the grand melee. Let the maces do the talking. -->
+  <RimJoust.GrandNextMelee>最后一项：大混战。让钉头锤来说话。</RimJoust.GrandNextMelee>
+	<!-- EN: Not enough contenders standing, or no usable archery range: the archery event is skipped. -->
+  <RimJoust.GrandSkipArchery>站着的参赛者不足，或没有可用的射箭场地：射箭项目被跳过。</RimJoust.GrandSkipArchery>
+	<!-- EN: Not enough contenders standing: the melee is skipped. -->
+  <RimJoust.GrandSkipMelee>站着的参赛者不足：大混战被跳过。</RimJoust.GrandSkipMelee>
+	<!-- EN: Grand champion -->
+  <RimJoust.GrandChampionLetterLabel>总冠军</RimJoust.GrandChampionLetterLabel>
+	<!-- EN: {0} wins the Grand Tournament! Three events, many bruises, and one name everyone will remember. -->
+  <RimJoust.GrandChampionLetterText>{0}赢得了盛大锦标赛！三项活动，许多瘀伤，一个所有人都将记住的名字。</RimJoust.GrandChampionLetterText>
+	<!-- EN: Overall standings: -->
+  <RimJoust.GrandStandingsHeader>总排名：</RimJoust.GrandStandingsHeader>
+	<!-- EN: Cancel grand tournament -->
+  <RimJoust.GrandCancelLabel>取消盛大锦标赛</RimJoust.GrandCancelLabel>
+	<!-- EN: Call off the grand tournament and whatever event is running. Everyone is released and gets their gear back. -->
+  <RimJoust.GrandCancelDesc>取消盛大锦标赛及正在进行的任何活动。所有人被解除参赛并取回自己的装备。</RimJoust.GrandCancelDesc>
+	<!-- EN: Cancel the grand tournament in progress? -->
+  <RimJoust.GrandCancelConfirm>取消进行中的盛大锦标赛？</RimJoust.GrandCancelConfirm>
+	<!-- EN: The grand tournament is called off. -->
+  <RimJoust.GrandCancelled>盛大锦标赛已取消。</RimJoust.GrandCancelled>
+	<!-- EN: Grand tournament -->
+  <RimJoust.HallGrandTag>盛大锦标赛</RimJoust.HallGrandTag>
+
+	<!-- Champion letter recap -->
+	<!-- EN: How the tournament went: -->
+  <RimJoust.RecapTitle>锦标赛的经过：</RimJoust.RecapTitle>
+	<!-- EN: Round {0} -->
+  <RimJoust.RecapRound>第{0}轮</RimJoust.RecapRound>
+	<!-- EN: Final -->
+  <RimJoust.RecapFinal>决赛</RimJoust.RecapFinal>
+	<!-- EN: {0} unhorsed {1} -->
+  <RimJoust.RecapBout>{0}将{1}掀下马</RimJoust.RecapBout>
+	<!-- EN: {0} advanced unopposed -->
+  <RimJoust.RecapBye>{0}无人对战，直接晋级</RimJoust.RecapBye>
+
+	<!-- Elimination bracket -->
+	<!-- EN: (bye) -->
+  <RimJoust.BracketBye>（轮空）</RimJoust.BracketBye>
+	<!-- EN: No bouts yet. -->
+  <RimJoust.BracketEmpty>尚无对决。</RimJoust.BracketEmpty>
+	<!-- EN: Advancing -->
+  <RimJoust.LegendAdvanced>晋级</RimJoust.LegendAdvanced>
+	<!-- EN: Live -->
+  <RimJoust.LegendLive>进行中</RimJoust.LegendLive>
+	<!-- EN: Out / dead -->
+  <RimJoust.LegendEliminated>淘汰/死亡</RimJoust.LegendEliminated>
+	<!-- EN: Click to locate this knight. -->
+  <RimJoust.LocateTip>点击定位此骑士。</RimJoust.LocateTip>
+
+	<!-- Results screen -->
+	<!-- EN: Tournament champion -->
+  <RimJoust.ResultsChampion>锦标赛冠军</RimJoust.ResultsChampion>
+	<!-- EN: Queen of Love and Beauty: {0} -->
+  <RimJoust.ResultsQueen>边缘世界掌管爱与美的女王：{0}</RimJoust.ResultsQueen>
+
+	<!-- Event journal -->
+	<!-- EN: No events yet. -->
+  <RimJoust.JournalEmpty>尚无事件。</RimJoust.JournalEmpty>
+	<!-- EN: The tournament begins: {0} knights entered. -->
+  <RimJoust.LogTournamentStart>锦标赛开始：{0}名骑士参赛。</RimJoust.LogTournamentStart>
+	<!-- EN: Round {0}: {1} faces {2}. -->
+  <RimJoust.LogBoutStart>第{0}轮：{1}对阵{2}。</RimJoust.LogBoutStart>
+	<!-- EN: Round {0}: {1} unhorsed {2}. -->
+  <RimJoust.LogBoutResult>第{0}轮：{1}将{2}掀下马。</RimJoust.LogBoutResult>
+	<!-- EN: {0} gets a bye this round (no opponent). -->
+  <RimJoust.LogBye>{0}本轮轮空（无对手）。</RimJoust.LogBye>
+	<!-- EN: Round {0}: {1} jousters still in the running. -->
+  <RimJoust.LogNewRound>第{0}轮：还有{1}名比武者在竞争中。</RimJoust.LogNewRound>
+	<!-- EN: {0} wins the tournament! -->
+  <RimJoust.LogChampion>{0}赢得了锦标赛！</RimJoust.LogChampion>
+	<!-- EN: {0} crowns {1} Queen of Love and Beauty. -->
+  <RimJoust.LogQueen>{0}加冕{1}为边缘世界掌管爱与美的女王。</RimJoust.LogQueen>
+	<!-- EN: Round {0}: {1} wins, {2} forfeited. -->
+  <RimJoust.LogForfeit>第{0}轮：{1}获胜，{2}弃权。</RimJoust.LogForfeit>
+
+	<!-- Squire -->
+	<!-- EN: Tournament squire -->
+  <RimJoust.SquireToggleLabel>锦标赛侍从</RimJoust.SquireToggleLabel>
+	<!-- EN: Mark this colonist as a squire. During a tournament squires pick up unhorsed knights and carry them to the recovery area, so the list is clear for the next bout. -->
+  <RimJoust.SquireToggleDesc>将此殖民者标记为侍从。锦标赛期间，侍从会拾取落马的骑士并将其抬到恢复区，以便赛道为下一场对决清空。</RimJoust.SquireToggleDesc>
+	<!-- EN: Tournament jouster -->
+  <RimJoust.JousterToggleLabel>锦标赛比武骑士</RimJoust.JousterToggleLabel>
+	<!-- EN: Marks this colonist as a jouster. When you start a tournament, only the colonists you marked (and mounted) take part. If you mark no one, all your mounted colonists joust by default. The lance is handed to them automatically, no crafting needed. -->
+  <RimJoust.JousterToggleDesc>将此殖民者标记为比武骑士。当你开始锦标赛时，只有你标记过（且骑上马）的殖民者会参赛。如果不标记任何人，所有骑马的殖民者默认都会参赛。长枪会自动发放给他们，无需制作。</RimJoust.JousterToggleDesc>
+
+	<!-- Bets -->
+	<!-- EN: Bets -->
+  <RimJoust.BetHeader>下注</RimJoust.BetHeader>
+	<!-- EN: Silver: {0} -->
+  <RimJoust.BetSilver>白银：{0}</RimJoust.BetSilver>
+	<!-- EN: Waiting for the next bout... -->
+  <RimJoust.BetWaiting>等待下一场对决……</RimJoust.BetWaiting>
+	<!-- EN: Bet: {0} on {1} (x{2}) -->
+  <RimJoust.BetActive>下注：{0}押{1}（x{2}）</RimJoust.BetActive>
+	<!-- EN: Bet placed: {0} on {1} (x{2}). -->
+  <RimJoust.BetPlaced>已下注：{0}押{1}（x{2}）。</RimJoust.BetPlaced>
+	<!-- EN: Bet won! {0} takes it, you rake in {1} silver. -->
+  <RimJoust.BetWon>赌赢了！{0}获胜，你赢取{1}白银。</RimJoust.BetWon>
+	<!-- EN: Bet lost. {0} silver gone. -->
+  <RimJoust.BetLost>赌输了。失去{0}白银。</RimJoust.BetLost>
+	<!-- EN: You already have a bet running. -->
+  <RimJoust.BetAlready>你已有下注在进行。</RimJoust.BetAlready>
+	<!-- EN: No bout running right now. -->
+  <RimJoust.BetNoBout>当前没有进行中的对决。</RimJoust.BetNoBout>
+	<!-- EN: No guest knight in this bout, nothing to bet on. -->
+  <RimJoust.BetNoGuest>此场对决中没有客座骑士，无法下注。</RimJoust.BetNoGuest>
+	<!-- EN: Too late, they're charging. Bets are closed. -->
+  <RimJoust.BetClosed>太晚了，他们已经开始冲锋。下注已关闭。</RimJoust.BetClosed>
+	<!-- EN: Not enough silver (you need {0}). -->
+  <RimJoust.BetNeedSilver>白银不足（你需要{0}）。</RimJoust.BetNeedSilver>
+
+	<!-- Guide -->
+	<!-- EN: Guide -->
+  <RimJoust.GuideGizmoLabel>指南</RimJoust.GuideGizmoLabel>
+	<!-- EN: Opens the tournament guide: how to lay out the lists, hold a tournament, the roles, betting and the crowning. -->
+  <RimJoust.GuideGizmoDesc>打开锦标赛指南：如何布置赛道、举办锦标赛、角色、下注和加冕。</RimJoust.GuideGizmoDesc>
+	<!-- EN: Role buttons on colonists -->
+  <RimJoust.RoleGizmosLabel>殖民者角色按钮</RimJoust.RoleGizmosLabel>
+	<!-- EN: Shows or hides the Jouster, Squire and Enter buttons on pawns. Turn it off if you don't want those buttons stuck on every colonist between tournaments. Turn it back on when you set up a tournament. -->
+  <RimJoust.RoleGizmosDesc>显示或隐藏殖民者身上的比武骑士、侍从和报名按钮。如果不想在锦标赛间隔期间这些按钮贴在每个殖民者身上，可以关闭。设置锦标赛时再重新打开。</RimJoust.RoleGizmosDesc>
+	<!-- EN: Visiting knights -->
+  <RimJoust.GuestArrivalsLabel>来访骑士</RimJoust.GuestArrivalsLabel>
+	<!-- EN: Lets foreign knights (a lone champion and whole house delegations) come to challenge your colony. They only show up once you have placed a set of lists. Turn it off if you don't want visiting jousters. -->
+  <RimJoust.GuestArrivalsDesc>允许外来骑士（孤身冠军和整个家族代表团）前来挑战你的殖民地。只有在你布置好赛道后，他们才会出现。如果不想有来访的比武骑士，可以关闭。</RimJoust.GuestArrivalsDesc>
+	<!-- EN: Open the tournament guide -->
+  <RimJoust.Settings.OpenGuide>打开锦标赛指南</RimJoust.Settings.OpenGuide>
+	<!-- EN: Tournament guide -->
+  <RimJoust.Guide.Title>比武锦标赛指南</RimJoust.Guide.Title>
+
+	<!-- EN: Laying out the lists -->
+  <RimJoust.Guide.ListsTitle>布置赛道</RimJoust.Guide.ListsTitle>
+	<!-- EN: A joust is run down the lists: a straight lane between two flags.\n\n- Place a flag A and a flag B (Architect → Misc) at each end, on the same map. Use clearly different colors so you don't mix them up.\n- A list barrier down the middle helps the horses charge straight.\n- You can add a recovery area and a dead spot: squires use them to clear fallen knights.\n\nOnce the lists are laid out you never touch them again. The "Hide marker" button on a flag hides the marker for clean screenshots without breaking anything. -->
+  <RimJoust.Guide.ListsBody>比武在赛道上进行：两面旗帜之间的一条直线通道。\n\n- 在同一地图的两端各放置旗帜A和旗帜B（建筑师→杂项）。使用明显不同的颜色以免混淆。\n- 中间的赛道栏有助于马匹直线冲锋。\n- 可以添加恢复区和阵亡点：侍从用它们来清理落马的骑士。\n\n赛道一旦布置好，就无需再动。「隐藏标记」按钮可以隐藏旗帜标记，以便截图干净整洁，且不影响功能。</RimJoust.Guide.ListsBody>
+
+	<!-- EN: The roles: jouster and squire -->
+  <RimJoust.Guide.RolesTitle>角色：比武骑士和侍从</RimJoust.Guide.RolesTitle>
+	<!-- EN: Select a colonist to see their role buttons.\n\nJouster: you pick who takes part in the tournament. If you mark no one, all your mounted colonists joust by default. Handy to enter only your best.\n\nSquire: during a tournament they pick up fallen knights and carry them to the recovery area, clearing the lists between bouts. They need a recovery area placed so they know where to take them. -->
+  <RimJoust.Guide.RolesBody>选择一名殖民者即可看到他们的角色按钮。\n\n比武骑士：你选择谁参加锦标赛。如果不标记任何人，所有骑马的殖民者默认都会参赛。方便只让最好的骑士上场。\n\n侍从：锦标赛期间，他们拾取落马的骑士并抬到恢复区，在比赛间隙清理赛道。他们需要一个已放置的恢复区才能知道送往何处。</RimJoust.Guide.RolesBody>
+
+	<!-- EN: Holding a tournament -->
+  <RimJoust.Guide.StartTitle>举办锦标赛</RimJoust.Guide.StartTitle>
+	<!-- EN: 1. Mount your jousters (Giddy-Up). Any mount will do.\n2. If you like, enter visitors from other factions as guest knights.\n3. Click a flag and pick "Hold tournament".\n\nThe jousting lance is handed out automatically at the start and taken back at the end: nothing to craft. You need at least two ready jousters to start. -->
+  <RimJoust.Guide.StartBody>1. 让比武骑士骑上马（Giddy-Up）。任何坐骑都可以。\n2. 如果愿意，让其他派系的访客作为客座骑士参赛。\n3. 点击一面旗帜并选择「举办锦标赛」。\n\n比武长枪会在开始时自动发放，结束时收回：无需制作。至少需要两名就绪的比武骑士才能开始。</RimJoust.Guide.StartBody>
+
+	<!-- EN: During the tournament -->
+  <RimJoust.Guide.DuringTitle>锦标赛期间</RimJoust.Guide.DuringTitle>
+	<!-- EN: Knights ride single elimination. On each pass a lance blow can unhorse the other rider: armor, shield, the jouster's skill (a mix of Melee for the strike and Animals for handling the mount) and traits all matter.\n\nOpen the tournament board to follow the current bout, the bracket and the journal. If a guest knight is in a bout, you can wager silver on it.\n\nIt stays dangerous: a blow can badly wound, or even kill. -->
+  <RimJoust.Guide.DuringBody>骑士进行单败淘汰赛。每次冲刺中，长枪的冲击可能将对方骑手掀下马：护甲、盾牌、比武者的技能（近战用于攻击，动物用于操控坐骑）以及特性都很重要。\n\n打开锦标赛面板查看当前对决、赛程表和日志。如果某场对决中有客座骑士，你可以下注白银。\n\n这仍然很危险：一击可能造成重伤，甚至死亡。</RimJoust.Guide.DuringBody>
+
+	<!-- EN: Champion and queen -->
+  <RimJoust.Guide.AfterTitle>冠军和王后</RimJoust.Guide.AfterTitle>
+	<!-- EN: The last one in the saddle is crowned champion. They then name a Queen of Love and Beauty and lay a crown of flowers in her lap.\n\nMost often they crown the one they love. But if they admire someone else far more, it can turn into a scandal, and the passed-over one will not forget. A window tells you who is crowned and why. -->
+  <RimJoust.Guide.AfterBody>最后一个留在马鞍上的人被加冕为冠军。然后他们会指定一位边缘世界掌管爱与美的女王，将花冠放在她的膝上。\n\n大多数情况下，他们会加冕自己所爱的人。但如果他们更仰慕另一个人，就可能变成丑闻，被冷落的人不会忘记。一个窗口会告诉你谁被加冕以及原因。</RimJoust.Guide.AfterBody>
+
+	<!-- EN: The grand melee -->
+  <RimJoust.Guide.MeleeTitle>大混战</RimJoust.Guide.MeleeTitle>
+	<!-- EN: One rule: last one standing.\n\n- Place the melee trophy post (Architect → Misc) in the middle of a clear ground, ideally fenced in with a door.\n- Select the post: the white outline shows the arena boundary. The "Arena: auto" button fits it to your enclosure, the + and - buttons set a circle by hand. Fighters who leave are herded back to the center.\n- Click "Start melee": colonists tagged as jousters dismount, get a blunted tourney mace (their own weapon comes back afterwards), form a circle, and at the horn everyone fights everyone.\n\nDown means out, not dead: maces make bruises, not holes. The "Grand melee damage" slider in the options sets the brutality, and the crowd settles around the arena on its own. -->
+  <RimJoust.Guide.MeleeBody>规则只有一条：最后一个站着的人获胜。\n\n- 在空旷场地的中央放置大混战奖杯立柱（建筑师→杂项），最好用围栏围起来并留一道门。\n- 选中立柱：白色轮廓显示竞技场边界。「竞技场：自动」按钮会将竞技场匹配到你的围栏，+ 和 - 按钮手动设置圆形。离开竞技场的战斗者会被赶回中心。\n- 点击「开始大混战」：被标记为比武骑士的殖民者下马，获得一把钝化的比武钉头锤（之后取回自己的武器），围成一圈，号角响起后所有人混战。\n\n倒下意味着出局，而非死亡：钉头锤造成瘀伤，而不是伤口。选项中的「大混战伤害」滑块设置残酷程度，观众会自动聚集在竞技场周围。</RimJoust.Guide.MeleeBody>
+
+	<!-- EN: The archery contest -->
+  <RimJoust.Guide.ArcheryTitle>射箭比赛</RimJoust.Guide.ArcheryTitle>
+	<!-- EN: - Place the archery line flag, and the butt 10-20 cells across from it, with a clear lane between them. Nothing precious or alive behind the butt: stray arrows do not ask first.\n- Click the flag: colonists tagged as jousters line up, each gets a loaner recurve bow (fairness first, we test the archer, not the arsenal), and shoot three volleys at the butt.\n\nEvery hit counts, with the shooter's name popping above the target. Most hits wins, Shooting skill breaks ties. Black eyes and bad arms cost accuracy, as they should. The crowd watches politely behind the line, never downrange. -->
+  <RimJoust.Guide.ArcheryBody>- 放置射箭线旗帜，在对面10-20格处放置靶子，两者之间保持一条畅通的通道。靶子后面不要有任何贵重或活的东西：流矢可不会先打招呼。\n- 点击旗帜：被标记为比武骑士的殖民者列队，每人获得一把借用反曲弓（公平第一，我们考验的是射手，而不是武器库），向靶子射出三轮齐射。\n\n每次命中都算数，射手名字会出现在靶子上方。命中最多者获胜，射击技能打破平局。乌青的眼眶和受伤的手臂会降低精准度，这是理所当然的。观众在线后礼貌观看，绝不下到射程内。</RimJoust.Guide.ArcheryBody>
+
+	<!-- EN: The Grand Tournament -->
+  <RimJoust.Guide.GrandTitle>盛大锦标赛</RimJoust.Guide.GrandTitle>
+	<!-- EN: Three events back to back, like in the chronicles: the joust, the archery contest, then the grand melee.\n\n- You need the full setup on the same map: the lists (flags A and B), the melee trophy post, the archery line and its butt.\n- Mount your knights and click "Hold a GRAND tournament" on a lists flag. Mounted colonists compete, same as a regular tournament.\n\nEvery event awards points by ranking. The wounded fight on as long as they can stand; anyone down skips the event. At the end, the total crowns the grand champion: a letter with the overall standings, honors, the Queen of Love and Beauty, and a "Grand tournament" entry in the hall of fame. -->
+  <RimJoust.Guide.GrandBody>三项活动连续进行，如同编年史中记载：比武、射箭比赛，然后是大混战。\n\n- 你需要在同一张地图上有完整的设施：赛道（旗帜A和B）、大混战奖杯立柱、射箭线和靶子。\n- 让你的骑士骑上马，在赛道旗帜上点击「举办盛大锦标赛」。骑马的殖民者参赛，与普通锦标赛相同。\n\n每项活动按名次给予积分。伤员只要还能站着就会继续战斗；倒下的任何人跳过该活动。最后，总分最高者加冕为总冠军：一封包含总排名、荣誉、边缘世界掌管爱与美的女王，以及名人堂中「盛大锦标赛」词条的信件。</RimJoust.Guide.GrandBody>
+
+	<!-- EN: Settings and danger -->
+  <RimJoust.Guide.SafetyTitle>设置与危险度</RimJoust.Guide.SafetyTitle>
+	<!-- EN: In the mod options you can set lance damage, unhorse chance, dangerous hit risk, fall damage, grand melee damage and the cooldown between tournaments.\n\nTrait effects (brawler, tough, nimble, wimp, bloodlust, psychopath...) can be turned on or off.\n\nJousting uses no skill of its own: it leans on your Melee (the lance strike) and your Animals (handling the mount). The melee is pure Melee, and the archery contest pure Shooting. To make better champions, train all of it, at the quintain or in tournaments. -->
+  <RimJoust.Guide.SafetyBody>在模组选项中，你可以设置长枪伤害、落马几率、危险命中风险、坠落伤害、大混战伤害和锦标赛冷却时间。\n\n特性效果（好斗者、坚韧者、灵活者、懦弱者、嗜血者、精神病态者……）可以开启或关闭。\n\n比武没有独立的技能：它依赖于你的近战（长枪攻击）和动物（操控坐骑）。大混战纯粹考验近战，射箭比赛纯粹考验射击。要培养更好的比武骑士，可以在训练假人练习或参加锦标赛来训练所有相关技能。</RimJoust.Guide.SafetyBody>
+
+	<!-- Quintain -->
+	<!-- EN: Train at the quintain -->
+  <RimJoust.TrainQuintain>在训练假人练习</RimJoust.TrainQuintain>
+	<!-- EN: Train at the quintain (must be mounted) -->
+  <RimJoust.TrainQuintainNeedMount>在训练假人练习（必须骑乘）</RimJoust.TrainQuintainNeedMount>
+	<!-- EN: {0} takes the sandbag full on and falls off the horse! -->
+  <RimJoust.QuintainUnhorsed>{0}被沙袋正面击中，摔下马来！</RimJoust.QuintainUnhorsed>
+
+</LanguageData>

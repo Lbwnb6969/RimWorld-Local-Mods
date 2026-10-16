@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+	
+
+	<!-- Mod Settings -->
+
+	
+	<EFF_ErinsFluffyFaunaSpawnMultiplier>Erin的毛茸茸动物生成倍率</EFF_ErinsFluffyFaunaSpawnMultiplier>
+	<EFF_ErinsFluffyFaunaSpawnMultiplierTooltip>>此倍率将影响本MOD所有动物的生成概率（即常见度）。例如设为0.5时，MOD动物的生成量将为默认值（1）的一半；设为2时则生成量为默认的两倍。仅影响野生动物生成。</EFF_ErinsFluffyFaunaSpawnMultiplierTooltip>
+	<EFF_Reset>重置</EFF_Reset>
+	<EFF_DisableAnimal>禁用 {0}</EFF_DisableAnimal>
+	
+	<EFF_AnimalsSearch>搜索:</EFF_AnimalsSearch>
+
+
+
+
+
+
+
+
+
+
+
+
+</LanguageData>

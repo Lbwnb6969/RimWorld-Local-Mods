@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sowed plants outside -->
+  <AM_PlantSowing_Inside_SowedPlantOutside.stages.sowed_plants_outside.label>在室外种植植物</AM_PlantSowing_Inside_SowedPlantOutside.stages.sowed_plants_outside.label>
+  <!-- EN: I sowed a plant outside. We should grow our crops safely beneath the earth. -->
+  <AM_PlantSowing_Inside_SowedPlantOutside.stages.sowed_plants_outside.description>我在室外种植了植物。我们本该在地下和室内安全地种植它们的。</AM_PlantSowing_Inside_SowedPlantOutside.stages.sowed_plants_outside.description>
+  
+</LanguageData>

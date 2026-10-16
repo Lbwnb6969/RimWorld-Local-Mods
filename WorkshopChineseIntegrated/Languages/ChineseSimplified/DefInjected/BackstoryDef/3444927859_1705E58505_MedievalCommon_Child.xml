@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood slipping through alleys and shadows, avoiding the attention of adults and bullies. The streets taught [PAWN_pronoun] how to move silently and blend into crowds. While stealthy and clever, [PAWN_pronoun] lacked trust in others and avoided forming connections. -->
+  <VFEM_AlleySneak128.description>[PAWN_nameDef]大部分童年时光都在小巷和阴影中穿梭，躲避成人和恶霸的注意。街头教会了[PAWN_pronoun]如何悄无声息地行动并融入人群。尽管机敏且狡黠，[PAWN_pronoun]却缺乏对他人的信任，并尽量避免建立联系。</VFEM_AlleySneak128.description>
+  <!-- EN: alley sneak -->
+  <VFEM_AlleySneak128.title>小巷潜行者</VFEM_AlleySneak128.title>
+  <!-- EN: sneak -->
+  <VFEM_AlleySneak128.titleShort>潜行者</VFEM_AlleySneak128.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood kneading dough and tending ovens in the family bakery. [PAWN_pronoun] developed a keen sense of timing and a knack for crafting simple but satisfying meals. The early mornings and long hours left [PAWN_pronoun] with a strong work ethic but little free time. -->
+  <VFEM_BakersChild109.description>[PAWN_nameDef]的童年时光大多用于揉面团和照看家族烘焙坊的烤炉。[PAWN_pronoun]练就了精准的时间掌控能力，并擅长制作简单而美味的食物。清晨的辛勤劳作和漫长的工作时间塑造了[PAWN_pronoun]强烈的职业道德观，但却留下了很少的空闲时间。</VFEM_BakersChild109.description>
+  <!-- EN: baker's child -->
+  <VFEM_BakersChild109.title>面包师之子</VFEM_BakersChild109.title>
+  <!-- EN: baker -->
+  <VFEM_BakersChild109.titleShort>面包师</VFEM_BakersChild109.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years sitting in muddy streets, pleading for coins or scraps of food. The life taught [PAWN_pronoun] how to read people’s emotions and appeal to their sympathies, but it also made [PAWN_pronoun] deeply wary of rejection. Begging for survival left [PAWN_pronoun] resourceful but mistrusted. -->
+  <VFEM_BeggarChild126.description>[PAWN_nameDef]童年时光大多是在泥泞的街道上度过，向路人乞讨硬币或食物残渣。这种生活让[PAWN_pronoun]学会了揣摩他人的情绪并激发他们的同情心，但也使[PAWN_pronoun]对被拒绝充满戒备。乞讨为生让[PAWN_pronoun]变得机敏而谨慎。</VFEM_BeggarChild126.description>
+  <!-- EN: beggar child -->
+  <VFEM_BeggarChild126.title>乞丐之子</VFEM_BeggarChild126.title>
+  <!-- EN: beggar -->
+  <VFEM_BeggarChild126.titleShort>乞丐</VFEM_BeggarChild126.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years in a smoky forge, assisting [PAWN_possessive] family with small tasks like pumping bellows and carrying coal. The heat and noise became a constant part of [PAWN_possessive] life, and [PAWN_pronoun] began to understand the basics of crafting and hard work. Though the work was tiring, it sparked an appreciation for precision and skill. -->
+  <VFEM_BlacksmithsApprentice103.description>[PAWN_nameDef]的童年是在烟雾弥漫的铁匠铺中度过的，协助家人完成诸如拉风箱、搬运煤炭等简单任务。高温和噪音成为[PAWN_pronoun]生活的一部分，[PAWN_pronoun]也逐渐掌握了基础的锻造技艺和辛勤工作的意义。尽管工作繁重，但它激发了[PAWN_pronoun]对精准和技艺的欣赏。</VFEM_BlacksmithsApprentice103.description>
+  <!-- EN: blacksmith's apprentice -->
+  <VFEM_BlacksmithsApprentice103.title>铁匠学徒</VFEM_BlacksmithsApprentice103.title>
+  <!-- EN: apprentice -->
+  <VFEM_BlacksmithsApprentice103.titleShort>学徒</VFEM_BlacksmithsApprentice103.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up learning the sagas and legends of [PAWN_possessive] ancestors, memorizing the stories that bound the clan together. [PAWN_pronoun] developed a gift for storytelling and inspiring others with words. Though not a warrior, [PAWN_pronoun] played an important role in preserving [PAWN_possessive] people’s history and culture. -->
+  <VFEM_ClanStoryteller140.description>[PAWN_nameDef]从小便学习祖先的传奇故事，并牢记那些将部族团结在一起的传说。[PAWN_pronoun]拥有出色的讲述能力，擅长用言语激励他人。尽管[PAWN_pronoun]并非战士，但在保护部族的历史和文化方面起到了重要作用。</VFEM_ClanStoryteller140.description>
+  <!-- EN: clan storyteller -->
+  <VFEM_ClanStoryteller140.title>部族说书人</VFEM_ClanStoryteller140.title>
+  <!-- EN: storyteller -->
+  <VFEM_ClanStoryteller140.titleShort>说书人</VFEM_ClanStoryteller140.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] started working in the fields as soon as [PAWN_pronoun] could carry a tool, spending long days planting and harvesting. The grueling work made [PAWN_pronoun] strong and resilient but left little time for play or education. Despite the hardships, [PAWN_pronoun] grew to appreciate the rewards of hard work. -->
+  <VFEM_EarlyLaborer115.description>[PAWN_nameDef]从能拿起工具的年纪起，便开始在田地里劳作，度过漫长的日子播种和收割。艰苦的劳动让[PAWN_pronoun] 变得强壮和坚韧，但也剥夺了[PAWN_pronoun]的玩耍和学习时间。尽管生活艰辛，[PAWN_pronoun]仍然学会了欣赏辛勤工作的回报。</VFEM_EarlyLaborer115.description>
+  <!-- EN: early laborer -->
+  <VFEM_EarlyLaborer115.title>童工</VFEM_EarlyLaborer115.title>
+  <!-- EN: laborer -->
+  <VFEM_EarlyLaborer115.titleShort>童工</VFEM_EarlyLaborer115.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up working the fields with [PAWN_possessive] family, planting crops and tending to livestock. [PAWN_pronoun] became skilled at using simple tools and understanding the rhythms of the seasons. The hard labor instilled a strong work ethic but left little time for formal learning. -->
+  <VFEM_FarmersChild104.description>[PAWN_nameDef]在田地里与家人一同耕作，种植作物并照料牲畜。[PAWN_pronoun] 熟练掌握了使用简单工具的技巧，并理解季节更替的规律。辛勤的劳动塑造了[PAWN_pronoun] 强烈的职业道德观，但却缺乏正式的教育机会。</VFEM_FarmersChild104.description>
+  <!-- EN: farmer's child -->
+  <VFEM_FarmersChild104.title>农夫之子</VFEM_FarmersChild104.title>
+  <!-- EN: farmhand -->
+  <VFEM_FarmersChild104.titleShort>农工</VFEM_FarmersChild104.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up on a Viking farmstead, helping tend to livestock and till the soil during the short growing seasons. [PAWN_pronoun] learned the cycles of planting and harvest while preparing for the colder months. Life on the farm taught [PAWN_pronoun] hard work and how to endure nature’s challenges. -->
+  <VFEM_FarmsteadHand138.description>[PAWN_nameDef]在维京农庄长大，帮助照料牲畜并在短暂的生长季节里耕种土地。[PAWN_pronoun]学会了播种和收获的周期，同时也为寒冷的冬季做准备。农场生活教会了[PAWN_pronoun]勤劳和如何面对大自然的挑战。</VFEM_FarmsteadHand138.description>
+  <!-- EN: farmstead hand -->
+  <VFEM_FarmsteadHand138.title>农庄帮手</VFEM_FarmsteadHand138.title>
+  <!-- EN: farmhand -->
+  <VFEM_FarmsteadHand138.titleShort>农工</VFEM_FarmsteadHand138.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent hours sitting by the fields, keeping an eye out for crows, rabbits, or anything else that might harm the crops. [PAWN_pronoun] learned patience and vigilance, but the solitary work left [PAWN_pronoun] starved for human interaction. [PAWN_pronoun] grew resourceful, using simple tools to ward off pests and predators. -->
+  <VFEM_FieldWatcher117.description>[PAWN_nameDef]经常坐在田地旁，警惕着乌鸦、兔子或其他可能破坏庄稼的生物。[PAWN_pronoun]学会了耐心和警觉，但这份孤独的工作让[PAWN_pronoun]渴望与人交流。[PAWN_pronoun]变得机智，利用简单的工具驱赶害虫和捕食者。</VFEM_FieldWatcher117.description>
+  <!-- EN: field watcher -->
+  <VFEM_FieldWatcher117.title>田中守望者</VFEM_FieldWatcher117.title>
+  <!-- EN: watcher -->
+  <VFEM_FieldWatcher117.titleShort>守望者</VFEM_FieldWatcher117.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years helping in the fields, learning to plant and harvest crops. The work was repetitive but rewarding, teaching [PAWN_pronoun] the value of patience and effort. [PAWN_pronoun] grew up strong and practical, with a deep appreciation for the land. -->
+  <VFEM_FieldWorker131.description>[PAWN_nameDef]早年在田野中帮忙，学习如何种植并收获庄稼。这项工作虽然重复但报酬丰厚，教会了[PAWN_pronoun]耐心和努力的价值。[PAWN_pronoun]长成一个强壮实干的人，同时深深爱着土地。</VFEM_FieldWorker131.description>
+  <!-- EN: field worker -->
+  <VFEM_FieldWorker131.title>田野工人</VFEM_FieldWorker131.title>
+  <!-- EN: worker -->
+  <VFEM_FieldWorker131.titleShort>工人</VFEM_FieldWorker131.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] youth casting nets and hauling in fish alongside [PAWN_possessive] family. The smell of salt and the sound of water became second nature to [PAWN_objective], as did a knack for patience and a steady hand. Life on the water left [PAWN_pronoun] with a practical mindset and the ability to adapt to challenges. -->
+  <VFEM_FishermansChild105.description>[PAWN_nameDef]童年时光是在家人身边撒网捕鱼度过的。[PAWN_pronoun]熟悉了海水的气息与浪涛的声音，同时也锻炼出了耐心与稳定的手法。水上的生活培养了[PAWN_pronoun]实用的思维方式和适应挑战的能力。</VFEM_FishermansChild105.description>
+  <!-- EN: fisherman’s child -->
+  <VFEM_FishermansChild105.title>渔夫之子</VFEM_FishermansChild105.title>
+  <!-- EN: fisher -->
+  <VFEM_FishermansChild105.titleShort>渔夫</VFEM_FishermansChild105.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood fishing along the rocky fjords, learning to handle nets and row longboats in icy waters. The life taught [PAWN_pronoun] resilience and respect for the sea’s power. Though the work was cold and grueling, [PAWN_pronoun] grew up strong and capable in harsh conditions. -->
+  <VFEM_FjordFisher136.description>[PAWN_nameDef]在多岩的峡湾水域度过了童年，学习如何在冰冷的水域中撒网捕鱼，并划着长舟前行。这种生活教会了[PAWN_pronoun]坚韧不拔，并对大海的威力心生敬畏。尽管劳作寒冷而艰辛，[PAWN_pronoun]在恶劣环境中成长为强壮而能干的人。</VFEM_FjordFisher136.description>
+  <!-- EN: fjord fisher -->
+  <VFEM_FjordFisher136.title>峡湾渔夫</VFEM_FjordFisher136.title>
+  <!-- EN: fisher -->
+  <VFEM_FjordFisher136.titleShort>渔夫</VFEM_FjordFisher136.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood scouring the woods for berries, herbs, and mushrooms to help feed the village. [PAWN_pronoun] learned to identify edible plants and navigate dense forests with ease. Though [PAWN_pronoun] rarely interacted with others, [PAWN_pronoun] became deeply attuned to nature. -->
+  <VFEM_ForestForager111.description>[PAWN_nameDef]的童年在森林中度过，四处寻找浆果、草药和蘑菇，以帮助村庄度过难关。[PAWN_pronoun]学会了辨认可食用的植物，并能轻松穿行于茂密的森林。尽管[PAWN_pronoun]很少与他人交流，[PAWN_pronoun]却对大自然有着深刻的理解。</VFEM_ForestForager111.description>
+  <!-- EN: forest forager -->
+  <VFEM_ForestForager111.title>森林采集者</VFEM_ForestForager111.title>
+  <!-- EN: forager -->
+  <VFEM_ForestForager111.titleShort>采集者</VFEM_ForestForager111.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up tending the hearth and helping prepare meals for the family. [PAWN_pronoun] learned the basics of cooking and the importance of keeping the fire burning through the night. Though the work was simple, it taught [PAWN_pronoun] the value of care and consistency. -->
+  <VFEM_HearthKeeper134.description>[PAWN_nameDef]在成长过程中负责照看石炉，并帮助家人准备餐食。[PAWN_pronoun]学会了烹饪的基础知识，并理解了保持炉火不熄的重要性。尽管这些工作简单，但它们教会了[PAWN_pronoun]关怀和坚持的价值。</VFEM_HearthKeeper134.description>
+  <!-- EN: hearth keeper -->
+  <VFEM_HearthKeeper134.title>石炉守护者</VFEM_HearthKeeper134.title>
+  <!-- EN: keeper -->
+  <VFEM_HearthKeeper134.titleShort>守炉者</VFEM_HearthKeeper134.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] followed [PAWN_possessive] family through the forests, learning to track animals and use a bow. [PAWN_pronoun] grew up attuned to the wilderness, with sharp instincts and steady hands. While skilled at survival, [PAWN_pronoun] spent little time with other children and was often solitary. -->
+  <VFEM_HuntersChild108.description>[PAWN_nameDef]跟随家人在森林中成长，学习追踪动物并使用弓箭。[PAWN_pronoun]在大自然中培养了敏锐的直觉和稳定的双手。虽然精通生存技能，[PAWN_pronoun]却很少与其他孩子交往，往往是独自一人。</VFEM_HuntersChild108.description>
+  <!-- EN: hunter's child -->
+  <VFEM_HuntersChild108.title>猎人之子</VFEM_HuntersChild108.title>
+  <!-- EN: hunter -->
+  <VFEM_HuntersChild108.titleShort>猎人</VFEM_HuntersChild108.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised on tales of far-off lands and spent [PAWN_possessive] youth rowing Viking longboats. [PAWN_pronoun] gained strength and endurance from the endless paddling while learning the rhythms of the sea. Though not yet a raider, [PAWN_pronoun] was well-prepared for a life of exploration and adventure. -->
+  <VFEM_LongboatPaddler139.description>[PAWN_nameDef]从小听着遥远土地的传说，并在童年时划着维京长船前行。[PAWN_pronoun]在无尽的划桨中锻炼了力量和耐力，同时学会了海洋的节奏。虽然尚未成为掠夺者，[PAWN_pronoun]已为探索与冒险的生活做好了充分准备。</VFEM_LongboatPaddler139.description>
+  <!-- EN: longboat paddler -->
+  <VFEM_LongboatPaddler139.title>长船划手</VFEM_LongboatPaddler139.title>
+  <!-- EN: paddler -->
+  <VFEM_LongboatPaddler139.titleShort>划手</VFEM_LongboatPaddler139.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood helping traders set up their stalls, haul goods, and haggle with customers. The bustling marketplace taught [PAWN_pronoun] how to read people and bargain effectively. Though quick-witted, [PAWN_pronoun] had little time for physical labor outside the market. -->
+  <VFEM_MarketHelper118.description>[PAWN_nameDef]的童年是在集市中度过的，帮助商人搭建摊位、搬运货物，并与顾客讨价还价。熙熙攘攘的市场教会了[PAWN_pronoun]读懂人心并进行有效的谈判。尽管[PAWN_pronoun]头脑灵活，但在市场之外很少从事体力劳动。</VFEM_MarketHelper118.description>
+  <!-- EN: market helper -->
+  <VFEM_MarketHelper118.title>集市助手</VFEM_MarketHelper118.title>
+  <!-- EN: helper -->
+  <VFEM_MarketHelper118.titleShort>助手</VFEM_MarketHelper118.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up around the constant hum of the mill, helping [PAWN_possessive] family grind grain into flour. [PAWN_pronoun] learned the importance of precision and efficiency, keeping the machinery running smoothly. [PAWN_pronoun] also gained a knack for basic problem-solving when repairs were needed. -->
+  <VFEM_MillersChild107.description>[PAWN_nameDef]在磨坊的嗡嗡声中长大，帮助[PAWN_possessive]家人将谷物磨成面粉。[PAWN_pronoun]学会了精准和高效的重要性，确保机器运转顺畅。[PAWN_pronoun]还在维修时培养了基本的解决问题的能力。</VFEM_MillersChild107.description>
+  <!-- EN: miller's child -->
+  <VFEM_MillersChild107.title>磨坊工之子</VFEM_MillersChild107.title>
+  <!-- EN: miller -->
+  <VFEM_MillersChild107.titleShort>磨坊工</VFEM_MillersChild107.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was shunned by the other children in [PAWN_possessive] village for reasons [PAWN_pronoun] never fully understood. Forced to fend for [PAWN_objective], [PAWN_pronoun] spent [PAWN_possessive] days alone in the wilderness or on the village outskirts. [PAWN_pronoun] developed a deep sense of independence and distrust of others. -->
+  <VFEM_Outcast122.description>[PAWN_nameDef]被村里的其他孩子排斥，其原因[PAWN_pronoun]从未完全理解。被迫独自谋生，[PAWN_pronoun]经常独自待在荒野或村庄的边缘。[PAWN_pronoun]培养了极强的独立性，并对他人充满不信任。</VFEM_Outcast122.description>
+  <!-- EN: outcast -->
+  <VFEM_Outcast122.title>被放逐者</VFEM_Outcast122.title>
+  <!-- EN: outcast -->
+  <VFEM_Outcast122.titleShort>放逐者</VFEM_Outcast122.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] turned to petty theft as a way to survive in a world that had little use for [PAWN_objective]. [PAWN_pronoun] quickly learned to move unseen and snatch valuables without getting caught. While skilled at stealing, [PAWN_pronoun] earned a reputation for dishonesty and was never trusted by others. -->
+  <VFEM_Pickpocket123.description>[PAWN_nameDef]为了在这个对[PAWN_objective]毫无用处的世界中生存，不得不转向小偷小摸。[PAWN_pronoun]很快学会了悄无声息地行动，并在不被发现的情况下窃取贵重物品。尽管偷窃技艺精湛，[PAWN_pronoun]也因此声名狼藉，始终不被他人信任。</VFEM_Pickpocket123.description>
+  <!-- EN: pickpocket -->
+  <VFEM_Pickpocket123.title>扒手</VFEM_Pickpocket123.title>
+  <!-- EN: thief -->
+  <VFEM_Pickpocket123.titleShort>扒手</VFEM_Pickpocket123.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] loved wandering the woods and hills near the village, discovering hidden streams and climbing trees. [PAWN_pronoun] often returned with scratched knees and pockets full of interesting stones or berries. Though more playful than productive, [PAWN_pronoun] grew up with a keen sense of adventure and a connection to nature. -->
+  <VFEM_PlayfulExplorer133.description>[PAWN_nameDef]喜欢在村庄附近的森林和丘陵中漫步，发现隐藏的小溪并攀爬树木。[PAWN_pronoun]经常带着擦伤的膝盖和口袋里装满有趣的石头或浆果回来。虽然更爱玩耍而非劳动，[PAWN_pronoun]却因此培养了敏锐的冒险精神和对自然的亲近感。</VFEM_PlayfulExplorer133.description>
+  <!-- EN: playful explorer -->
+  <VFEM_PlayfulExplorer133.title>贪玩的探险家</VFEM_PlayfulExplorer133.title>
+  <!-- EN: explorer -->
+  <VFEM_PlayfulExplorer133.titleShort>探险家</VFEM_PlayfulExplorer133.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood watching the world from the edges, unnoticed but always attentive. [PAWN_pronoun] learned to listen, read emotions, and predict behavior, skills that [PAWN_pronoun] used to avoid trouble and gain favor. While [PAWN_pronoun] excelled at understanding others, [PAWN_pronoun] avoided physical labor whenever possible. -->
+  <VFEM_QuietObserver114.description>[PAWN_nameDef]的童年是在角落观察世界度过的，虽然无人注意，但始终细心观察。[PAWN_pronoun]学会了倾听、解读情绪并预测行为，这些技能帮助[PAWN_pronoun]规避麻烦并赢得好感。虽然擅长理解他人，[PAWN_pronoun]却总是尽可能避免体力劳动。</VFEM_QuietObserver114.description>
+  <!-- EN: quiet observer -->
+  <VFEM_QuietObserver114.title>沉默的观察者</VFEM_QuietObserver114.title>
+  <!-- EN: observer -->
+  <VFEM_QuietObserver114.titleShort>观察者</VFEM_QuietObserver114.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was tasked with clearing vermin from food stores and homes, often wading into the dirtiest corners of the village. [PAWN_pronoun] developed quick reflexes and an uncanny knack for traps, but the work left [PAWN_pronoun] isolated and avoided by others. The smell of [PAWN_possessive] trade lingered wherever [PAWN_pronoun] went. -->
+  <VFEM_RatCatcher124.description>[PAWN_nameDef]的任务是清除粮仓和民居中的害虫，经常不得不深入村庄最肮脏的角落。[PAWN_pronoun]练就了敏捷的反应能力和布设陷阱的独特技巧，但这份工作让[PAWN_pronoun]被他人疏远。[PAWN_pronoun]无论走到哪里，身上总带着挥之不去的异味。</VFEM_RatCatcher124.description>
+  <!-- EN: rat catcher -->
+  <VFEM_RatCatcher124.title>捕鼠人</VFEM_RatCatcher124.title>
+  <!-- EN: rat catcher -->
+  <VFEM_RatCatcher124.titleShort>捕鼠人</VFEM_RatCatcher124.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent endless hours by the river, catching fish with traps and nets. [PAWN_pronoun] became skilled at spotting fish and understanding the flow of water, skills that kept [PAWN_objective] well-fed even in lean times. Life by the river gave [PAWN_pronoun] a practical outlook but limited [PAWN_possessive] social skills. -->
+  <VFEM_RiverWader112.description>[PAWN_nameDef]在河边度过了无数个小时，利用陷阱和渔网捕捉鱼类。[PAWN_pronoun]熟练掌握了识别鱼类和理解水流的技巧，使得即便在物资匮乏的时期也能养活自己。河畔的生活让[PAWN_pronoun]变得务实，但却限制了[PAWN_possessive]社交能力。</VFEM_RiverWader112.description>
+  <!-- EN: river wader -->
+  <VFEM_RiverWader112.title>涉水渔人</VFEM_RiverWader112.title>
+  <!-- EN: river wader -->
+  <VFEM_RiverWader112.titleShort>涉水渔人</VFEM_RiverWader112.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was the smallest and weakest of [PAWN_possessive] peers, often picked on by others. To survive, [PAWN_pronoun] learned to think fast and avoid direct conflicts, relying on cunning to outsmart [PAWN_possessive] tormentors. Though quick and clever, [PAWN_pronoun] grew up mistrustful and fiercely independent. -->
+  <VFEM_RuntOfThePack130.description>[PAWN_nameDef]是同龄人中最弱小的，经常被其他人欺负。为了生存，[PAWN_pronoun]学会了快速思考并避免直接冲突，依靠聪明才智智胜欺凌者。尽管机敏聪慧，[PAWN_pronoun]却变得多疑且极度独立。</VFEM_RuntOfThePack130.description>
+  <!-- EN: runt of the pack -->
+  <VFEM_RuntOfThePack130.title>弱小孩子</VFEM_RuntOfThePack130.title>
+  <!-- EN: runt -->
+  <VFEM_RuntOfThePack130.titleShort>弱者</VFEM_RuntOfThePack130.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] collected broken tools, discarded wood, and other castoffs, turning them into makeshift toys or tools. Though often teased for [PAWN_possessive] peculiar habits, [PAWN_pronoun] became adept at finding value in things others overlooked. [PAWN_pronoun] gained practical skills but struggled to connect with others. -->
+  <VFEM_ScrapHoarder127.description>[PAWN_nameDef]收集破损的工具、废弃的木材和其他丢弃物，并将它们制作成临时的玩具或工具。尽管因这种怪异的习惯而常被嘲笑，[PAWN_pronoun]却擅长在被他人忽视的物品中发现价值。[PAWN_pronoun]因此掌握了实用技能，但难以与他人建立联系。</VFEM_ScrapHoarder127.description>
+  <!-- EN: scrap hoarder -->
+  <VFEM_ScrapHoarder127.title>废品收藏家</VFEM_ScrapHoarder127.title>
+  <!-- EN: hoarder -->
+  <VFEM_ScrapHoarder127.titleShort>囤积者</VFEM_ScrapHoarder127.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood helping [PAWN_possessive] family tend sheep on the hillsides near the village. [PAWN_pronoun] learned patience, vigilance, and a deep understanding of animal behavior. The quiet life also gave [PAWN_pronoun] plenty of time to dream and observe the world around [PAWN_objective]. -->
+  <VFEM_ShepherdsChild102.description>[PAWN_nameDef]的童年是在村庄附近的山坡上帮助家人放羊度过的。[PAWN_pronoun]学会了耐心、警觉，以及对动物行为的深刻理解。宁静的生活也让 [PAWN_pronoun]有充足的时间思考和观察周围的世界。</VFEM_ShepherdsChild102.description>
+  <!-- EN: shepherd's child -->
+  <VFEM_ShepherdsChild102.title>牧羊人之子</VFEM_ShepherdsChild102.title>
+  <!-- EN: shepherd -->
+  <VFEM_ShepherdsChild102.titleShort>牧羊人</VFEM_ShepherdsChild102.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was trained from a young age to carry shields and assist warriors during raids and battles. [PAWN_pronoun] learned to endure heavy loads and follow commands, watching closely as the older fighters honed their skills. The experience prepared [PAWN_pronoun] for a life of conflict and loyalty to [PAWN_possessive] clan. -->
+  <VFEM_ShieldBearer137.description>[PAWN_nameDef]从小接受训练，负责扛盾牌并在突袭和战斗中协助战士。[PAWN_pronoun]学会了忍受沉重的负担并服从命令，同时观察年长的战士如何磨练自己的技艺。这段经历让 [PAWN_pronoun]为充满冲突的生活做好了准备，并对自己的部族忠心耿耿。</VFEM_ShieldBearer137.description>
+  <!-- EN: shield bearer -->
+  <VFEM_ShieldBearer137.title>盾卫</VFEM_ShieldBearer137.title>
+  <!-- EN: shield bearer -->
+  <VFEM_ShieldBearer137.titleShort>盾卫</VFEM_ShieldBearer137.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the stables, helping care for horses and keeping the stalls clean. [PAWN_pronoun] learned the basics of animal care and the value of steady, dependable work. While comfortable around animals, [PAWN_pronoun] often struggled to relate to [PAWN_possessive] peers. -->
+  <VFEM_StablehandsChild110.description>[PAWN_nameDef]在马厩中长大，帮助照料马匹并清理马厩。[PAWN_pronoun]学会了基础的动物护理知识，并理解了稳定可靠的工作价值。虽然 [PAWN_pronoun]对动物很有亲和力，但在人际交往方面却显得笨拙。</VFEM_StablehandsChild110.description>
+  <!-- EN: stablehand's child -->
+  <VFEM_StablehandsChild110.title>马夫之子</VFEM_StablehandsChild110.title>
+  <!-- EN: stablehand -->
+  <VFEM_StablehandsChild110.titleShort>马夫</VFEM_StablehandsChild110.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] performed in the village square as a juggler, singer, or storyteller, hoping to earn coins or scraps of food. [PAWN_pronoun] learned how to capture an audience’s attention and bring joy to others, even when times were tough. While talented in performance, [PAWN_pronoun] struggled with practical skills outside the arts. -->
+  <VFEM_StreetEntertainer120.description>[PAWN_nameDef]曾在村庄广场上表演杂耍、歌唱或讲故事，希望能赚取硬币或换取一点食物。[PAWN_pronoun]学会了如何吸引观众的注意力，并在艰难时期带给他人欢乐。尽管表演才华出众，[PAWN_pronoun]却在艺术之外的实际技能上表现欠佳。</VFEM_StreetEntertainer120.description>
+  <!-- EN: street entertainer -->
+  <VFEM_StreetEntertainer120.title>街头艺人</VFEM_StreetEntertainer120.title>
+  <!-- EN: entertainer -->
+  <VFEM_StreetEntertainer120.titleShort>艺人</VFEM_StreetEntertainer120.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up scavenging through garbage and refuse, searching for anything [PAWN_pronoun] could eat or sell. The harsh life taught [PAWN_pronoun] how to survive with very little but left [PAWN_pronoun] mistrusting of others. [PAWN_pronoun] became quick on [PAWN_possessive] feet to avoid confrontations over scraps. -->
+  <VFEM_StreetScavenger121.description>[PAWN_nameDef]在垃圾堆和废料中寻找可以吃或卖的东西。[PAWN_pronoun]在艰难的生活中学会了如何用最少的资源生存，但也因此对他人充满戒心。[PAWN_pronoun]变得行动敏捷，以便在争夺食物时避开冲突。</VFEM_StreetScavenger121.description>
+  <!-- EN: street scavenger -->
+  <VFEM_StreetScavenger121.title>街头拾荒者</VFEM_StreetScavenger121.title>
+  <!-- EN: scavenger -->
+  <VFEM_StreetScavenger121.titleShort>拾荒者</VFEM_StreetScavenger121.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was known for causing mischief and stirring up chaos, often at the expense of others. [PAWN_pronoun] enjoyed playing pranks, picking fights, and pushing boundaries wherever possible. Though disliked by adults and peers alike, [PAWN_pronoun] developed sharp wits and quick reflexes to avoid punishment. -->
+  <VFEM_Troublemaker125.description>[PAWN_nameDef]以制造混乱和捣乱而闻名，往往让他人吃亏。[PAWN_pronoun]喜欢恶作剧、挑衅斗殴，并不断挑战规则。尽管无论是大人还是同龄人都不喜欢 [PAWN_pronoun]，[PAWN_pronoun]却因此培养了敏锐的机智和快速的反应能力，以躲避惩罚。</VFEM_Troublemaker125.description>
+  <!-- EN: troublemaker -->
+  <VFEM_Troublemaker125.title>惹事精</VFEM_Troublemaker125.title>
+  <!-- EN: troublemaker -->
+  <VFEM_Troublemaker125.titleShort>惹事精</VFEM_Troublemaker125.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent much of [PAWN_possessive] childhood collecting firewood, herbs, and other necessities for the village. The long days outdoors gave [PAWN_pronoun] an eye for useful plants and a steady hand for simple tools. [PAWN_pronoun] grew up practical and capable, well-suited to life in the countryside. -->
+  <VFEM_VillageGatherer135.description>[PAWN_nameDef]的童年大部分时间都花在收集柴火、草药和其他村庄必需品上。漫长的户外劳作让[PAWN_pronoun]对有用的植物有敏锐的洞察力，并锻炼了使用简单工具的稳定手法。[PAWN_pronoun]因此成长为一个务实且能干的人，非常适应乡村生活。</VFEM_VillageGatherer135.description>
+  <!-- EN: village gatherer -->
+  <VFEM_VillageGatherer135.title>乡村采集者</VFEM_VillageGatherer135.title>
+  <!-- EN: gatherer -->
+  <VFEM_VillageGatherer135.titleShort>采集者</VFEM_VillageGatherer135.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood running errands and helping with small tasks around the village. Whether delivering goods, fetching water, or mending fences, [PAWN_pronoun] was always willing to lend a hand. These simple chores instilled [PAWN_pronoun] with a strong work ethic and practical skills. -->
+  <VFEM_VillageHelper132.description>[PAWN_nameDef]的童年是在村庄里跑腿和帮忙做各种琐事中度过的。无论是送货、取水，还是修补围栏，[PAWN_pronoun]总是乐于助人。这些简单的杂务培养了[PAWN_pronoun]的勤劳品质和实用技能。</VFEM_VillageHelper132.description>
+  <!-- EN: village helper -->
+  <VFEM_VillageHelper132.title>乡村帮工</VFEM_VillageHelper132.title>
+  <!-- EN: helper -->
+  <VFEM_VillageHelper132.titleShort>帮工</VFEM_VillageHelper132.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was often tasked with delivering messages and small packages between villagers. [PAWN_pronoun] spent countless hours running along dirt paths, learning the fastest routes and how to avoid danger. The constant movement made [PAWN_pronoun] quick and agile but left little time for rest or study. -->
+  <VFEM_VillageRunner116.description>[PAWN_nameDef]经常被派去在村民之间传递消息和小型包裹。[PAWN_pronoun]花费无数小时奔跑在泥泞小路上，学会了最快的路径以及如何避开危险。不断的奔波让[PAWN_pronoun]变得迅捷敏捷，但几乎没有时间休息或学习。</VFEM_VillageRunner116.description>
+  <!-- EN: village runner -->
+  <VFEM_VillageRunner116.title>乡村信使</VFEM_VillageRunner116.title>
+  <!-- EN: runner -->
+  <VFEM_VillageRunner116.titleShort>信使</VFEM_VillageRunner116.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was blamed for every broken tool, missing coin, or spoiled crop in the village, often regardless of [PAWN_possessive] involvement. The constant accusations taught [PAWN_pronoun] how to endure hardship and avoid confrontations. [PAWN_pronoun] grew to be resourceful but deeply mistrustful of authority. -->
+  <VFEM_VillageScapegoat129.description>[PAWN_nameDef]经常被指责为村庄里所有坏事的罪魁祸首，无论[PAWN_pronoun]是否真的涉及其中。不断的指控让[PAWN_pronoun]学会了承受苦难并避免冲突。[PAWN_pronoun]因此变得足智多谋，但对权威极度不信任。</VFEM_VillageScapegoat129.description>
+  <!-- EN: village scapegoat -->
+  <VFEM_VillageScapegoat129.title>乡村替罪羊</VFEM_VillageScapegoat129.title>
+  <!-- EN: scapegoat -->
+  <VFEM_VillageScapegoat129.titleShort>替罪羊</VFEM_VillageScapegoat129.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up as a street child in a small village, surviving by stealing scraps and begging from passersby. [PAWN_pronoun] quickly learned to navigate crowded markets and avoid the watchful eyes of the guards. Though [PAWN_pronoun] lacked formal education, [PAWN_pronoun] became clever and resourceful. -->
+  <VFEM_VillageUrchin101.description>[PAWN_nameDef]在一个小村庄里作为街头流浪儿长大，靠偷窃食物残渣或向路人乞讨生存。[PAWN_pronoun]很快学会了如何穿梭于拥挤的集市，并避开警卫的监视。尽管缺乏正式教育，[PAWN_pronoun]却因此变得机智而足智多谋。</VFEM_VillageUrchin101.description>
+  <!-- EN: village urchin -->
+  <VFEM_VillageUrchin101.title>乡村流浪儿</VFEM_VillageUrchin101.title>
+  <!-- EN: urchin -->
+  <VFEM_VillageUrchin101.titleShort>流浪儿</VFEM_VillageUrchin101.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up lending a hand wherever [PAWN_pronoun] could, moving from farm to farm doing odd jobs. From tending crops to mending fences, [PAWN_pronoun] learned a little bit of everything but mastered none. Constantly on the move, [PAWN_pronoun] never formed close friendships but gained practical skills. -->
+  <VFEM_WanderingHelper113.description>[PAWN_nameDef]在童年时期四处帮忙，从一个农场到另一个农场，做各种零工。从耕种到修补围栏，[PAWN_pronoun]学到了许多技能，但并未专精任何一项。不断的迁徙让[PAWN_pronoun]难以建立深厚的友谊，但获得了丰富的实用经验。</VFEM_WanderingHelper113.description>
+  <!-- EN: wandering helper -->
+  <VFEM_WanderingHelper113.title>流浪帮工</VFEM_WanderingHelper113.title>
+  <!-- EN: helper -->
+  <VFEM_WanderingHelper113.titleShort>帮工</VFEM_WanderingHelper113.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for keeping the village well clean and drawing water for the community. [PAWN_pronoun] grew strong from hauling heavy buckets and learned to maintain the mechanisms that made the work easier. The repetitive work left [PAWN_pronoun] with little variety but a dependable skill set. -->
+  <VFEM_WellTender119.description>[PAWN_nameDef]负责保持村庄水井的清洁，并为村民们打水。[PAWN_pronoun]在搬运沉重的水桶过程中变得力大无穷，并学会了如何维护水井的运作机制。虽然这项工作单调乏味，但也让[PAWN_pronoun]掌握了一项稳定而可靠的技能。</VFEM_WellTender119.description>
+  <!-- EN: well tender -->
+  <VFEM_WellTender119.title>水井维护工</VFEM_WellTender119.title>
+  <!-- EN: well tender -->
+  <VFEM_WellTender119.titleShort>水井工</VFEM_WellTender119.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up helping [PAWN_possessive] family cut trees and haul logs from the nearby forest. [PAWN_pronoun] quickly learned to handle axes and saws, developing both strength and skill. Though accustomed to hard labor, [PAWN_pronoun] rarely had time for anything beyond work and rest. -->
+  <VFEM_WoodcuttersChild106.description>[PAWN_nameDef]从小就帮家人砍伐树木，并从附近的森林中搬运木材。[PAWN_pronoun]很快学会了如何使用斧头和锯子，锻炼出了强健的体魄和熟练的技巧。尽管习惯了繁重的体力劳动，[PAWN_pronoun]却几乎没有时间做其他事情。</VFEM_WoodcuttersChild106.description>
+  <!-- EN: woodcutter's child -->
+  <VFEM_WoodcuttersChild106.title>伐木工之子</VFEM_WoodcuttersChild106.title>
+  <!-- EN: woodcutter -->
+  <VFEM_WoodcuttersChild106.titleShort>伐木工</VFEM_WoodcuttersChild106.titleShort>
+  
+</LanguageData>

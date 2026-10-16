@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sauropod with tail spikes -->
+  <RG_SauropodWithTailSpikes.label>带尾刺蜥脚亚目</RG_SauropodWithTailSpikes.label>
+  <!-- EN: left lung -->
+  <RG_SauropodWithTailSpikes.corePart.parts.left_lung.customLabel>左肺</RG_SauropodWithTailSpikes.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <RG_SauropodWithTailSpikes.corePart.parts.right_lung.customLabel>右肺</RG_SauropodWithTailSpikes.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <RG_SauropodWithTailSpikes.corePart.parts.left_kidney.customLabel>左肾</RG_SauropodWithTailSpikes.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <RG_SauropodWithTailSpikes.corePart.parts.right_kidney.customLabel>右肾</RG_SauropodWithTailSpikes.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <RG_SauropodWithTailSpikes.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</RG_SauropodWithTailSpikes.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <RG_SauropodWithTailSpikes.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</RG_SauropodWithTailSpikes.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <RG_SauropodWithTailSpikes.corePart.parts.front_left_leg.customLabel>左前腿</RG_SauropodWithTailSpikes.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left foot -->
+  <RG_SauropodWithTailSpikes.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>左前足</RG_SauropodWithTailSpikes.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <!-- EN: front right leg -->
+  <RG_SauropodWithTailSpikes.corePart.parts.front_right_leg.customLabel>右前腿</RG_SauropodWithTailSpikes.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right foot -->
+  <RG_SauropodWithTailSpikes.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>右前足</RG_SauropodWithTailSpikes.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <!-- EN: rear left leg -->
+  <RG_SauropodWithTailSpikes.corePart.parts.rear_left_leg.customLabel>左后腿</RG_SauropodWithTailSpikes.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left foot -->
+  <RG_SauropodWithTailSpikes.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>左后足</RG_SauropodWithTailSpikes.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <!-- EN: rear right leg -->
+  <RG_SauropodWithTailSpikes.corePart.parts.rear_right_leg.customLabel>右后腿</RG_SauropodWithTailSpikes.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right foot -->
+  <RG_SauropodWithTailSpikes.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>右后足</RG_SauropodWithTailSpikes.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  
+</LanguageData>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bipedal animal -->
+  <DA_BipedalAnimalWithClaws.label>两足动物</DA_BipedalAnimalWithClaws.label>
+  <!-- EN: left lung -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.left_lung.customLabel>左肺</DA_BipedalAnimalWithClaws.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.right_lung.customLabel>右肺</DA_BipedalAnimalWithClaws.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.left_kidney.customLabel>左肾</DA_BipedalAnimalWithClaws.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.right_kidney.customLabel>右肾</DA_BipedalAnimalWithClaws.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</DA_BipedalAnimalWithClaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</DA_BipedalAnimalWithClaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.front_left_leg.customLabel>左前肢</DA_BipedalAnimalWithClaws.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left leg first claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>左前首爪</DA_BipedalAnimalWithClaws.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!-- EN: front left leg second claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>左前次爪</DA_BipedalAnimalWithClaws.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!-- EN: front left leg third claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>左前三爪</DA_BipedalAnimalWithClaws.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!-- EN: front right leg -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.front_right_leg.customLabel>右前肢</DA_BipedalAnimalWithClaws.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right leg first claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>右前首爪</DA_BipedalAnimalWithClaws.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!-- EN: front right leg second claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>右前次爪</DA_BipedalAnimalWithClaws.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!-- EN: front right leg third claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>右前三爪</DA_BipedalAnimalWithClaws.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!-- EN: rear left leg -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.rear_left_leg.customLabel>左后肢</DA_BipedalAnimalWithClaws.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left leg first claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>左后首爪</DA_BipedalAnimalWithClaws.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!-- EN: rear left leg second claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>左后次爪</DA_BipedalAnimalWithClaws.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!-- EN: rear left leg third claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>左后三爪</DA_BipedalAnimalWithClaws.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!-- EN: rear right leg -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.rear_right_leg.customLabel>右后肢</DA_BipedalAnimalWithClaws.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right leg first claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>右后首爪</DA_BipedalAnimalWithClaws.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!-- EN: rear right leg second claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>右后次爪</DA_BipedalAnimalWithClaws.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!-- EN: rear right leg third claw -->
+  <DA_BipedalAnimalWithClaws.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>右后三爪</DA_BipedalAnimalWithClaws.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  
+  <!-- EN: bipedal animal -->
+  <DA_BipedalAnimalWithClawsAndTail.label>两足动物</DA_BipedalAnimalWithClawsAndTail.label>
+  <!-- EN: left lung -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.left_lung.customLabel>左肺</DA_BipedalAnimalWithClawsAndTail.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.right_lung.customLabel>右肺</DA_BipedalAnimalWithClawsAndTail.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.left_kidney.customLabel>左肾</DA_BipedalAnimalWithClawsAndTail.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.right_kidney.customLabel>右肾</DA_BipedalAnimalWithClawsAndTail.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</DA_BipedalAnimalWithClawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</DA_BipedalAnimalWithClawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_left_leg.customLabel>左前肢</DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left leg first claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>左前首爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!-- EN: front left leg second claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>左前次爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!-- EN: front left leg third claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>左前三爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!-- EN: front right leg -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_right_leg.customLabel>右前肢</DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right leg first claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>右前首爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!-- EN: front right leg second claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>右前次爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!-- EN: front right leg third claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>右前三爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!-- EN: rear left leg -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_left_leg.customLabel>左后肢</DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left leg first claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>左后首爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!-- EN: rear left leg second claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>左后次爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!-- EN: rear left leg third claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>左后三爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!-- EN: rear right leg -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_right_leg.customLabel>右后肢</DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right leg first claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>右后首爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!-- EN: rear right leg second claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>右后次爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!-- EN: rear right leg third claw -->
+  <DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>右后三爪</DA_BipedalAnimalWithClawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: glorious bonfire -->
+  <VME_GloriousBonfire.stages.glorious_bonfire.label>充满荣耀的篝火集会</VME_GloriousBonfire.stages.glorious_bonfire.label>
+  <!-- EN: It was super fun and we really connected with each other with the shared experience. -->
+  <VME_GloriousBonfire.stages.glorious_bonfire.description>那场篝火集会充满荣耀！每个人都意犹未尽，我们分享了彼此的经验，并真正地联系在了一起。</VME_GloriousBonfire.stages.glorious_bonfire.description>
+  
+  <!-- EN: good bonfire -->
+  <VME_GoodBonfire.stages.good_bonfire.label>令人满意的篝火集会</VME_GoodBonfire.stages.good_bonfire.label>
+  <!-- EN: The flames rose and crackled majestically over the settlement, and it lifted all our spirits considerably. -->
+  <VME_GoodBonfire.stages.good_bonfire.description>那场篝火集会令人满意。熊熊燃烧的烈火使我们每个人的精神都振奋了起来。</VME_GoodBonfire.stages.good_bonfire.description>
+  
+  <!-- EN: lackluster bonfire -->
+  <VME_LacklusterBonfire.stages.lackluster_bonfire.label>枯燥乏味的篝火集会</VME_LacklusterBonfire.stages.lackluster_bonfire.label>
+  <!-- EN: We were expecting a wondrous conflagration, and instead we got an oversized campfire. At least it was kinda entertaining. -->
+  <VME_LacklusterBonfire.stages.lackluster_bonfire.description>那场篝火集会枯燥乏味。我们本以为会有一场美妙的火灾，结果却只是一堆大号的营火。不过至少还有点意思。</VME_LacklusterBonfire.stages.lackluster_bonfire.description>
+  
+  <!-- EN: terrible bonfire -->
+  <VME_TerribleBonfire.stages.terrible_bonfire.label>糟糕的篝火集会</VME_TerribleBonfire.stages.terrible_bonfire.label>
+  <!-- EN: Some pathetic little flames drifted around, and they went away too soon. "Bon" fire? More like "Lame" fire. -->
+  <VME_TerribleBonfire.stages.terrible_bonfire.description>那场篝火集会非常糟糕！我看到一些微小的火花四处迸射，篝火很快就被烧干净了。真是没劲。</VME_TerribleBonfire.stages.terrible_bonfire.description>
+  
+</LanguageData>

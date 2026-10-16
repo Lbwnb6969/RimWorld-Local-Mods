@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wastedeer -->
+  <VAEWaste_Wastedeer.label>废土鹿</VAEWaste_Wastedeer.label>
+  <!-- EN: The Wastedeer is a unique creature adapted to thrive in the most polluted of environments. With two heads, it is capable of detecting and avoiding danger from all directions. Its mutated form has allowed it to survive in even the harshest of conditions, making it a symbol of resilience in a world ravaged by toxins. Despite its unusual appearance, the wastedeer is a graceful and nimble creature, easily navigating the treacherous terrain of the wasteland. Though it may not pose a direct threat, its presence serves as a reminder of the dangers of a world overrun by pollution. -->
+  <VAEWaste_Wastedeer.description>已对污染和毒素产生抗性的突变生物。废土鹿身手矫健，能借助两颗头来快速感知周围环境中的危险，即使在污染最严重的地区里也能顽强生存、自由穿行。它们不仅被视为饱受污染侵蚀的世界再次焕发生机的象征，同时也是对那些已有污染迹象的世界的一种警示。\n\n废土鹿的肉有毒，请三思而后食。</VAEWaste_Wastedeer.description>
+  <!-- EN: left hoof -->
+  <VAEWaste_Wastedeer.tools.left_hoof.label>左蹄</VAEWaste_Wastedeer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <VAEWaste_Wastedeer.tools.right_hoof.label>右蹄</VAEWaste_Wastedeer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <VAEWaste_Wastedeer.tools.teeth.label>牙齿</VAEWaste_Wastedeer.tools.teeth.label>
+  <!-- EN: head -->
+  <VAEWaste_Wastedeer.tools.head.label>头</VAEWaste_Wastedeer.tools.head.label>
+  
+</LanguageData>

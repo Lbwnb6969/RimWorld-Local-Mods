@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sell -->
+  <Storefront_Sell.label>售卖</Storefront_Sell.label>
+  <!-- EN: selling -->
+  <Storefront_Sell.gerund>售卖</Storefront_Sell.gerund>
+  <!-- EN: sell -->
+  <Storefront_Sell.verb>售卖</Storefront_Sell.verb>
+  
+  <!-- EN: stand by -->
+  <Storefront_StandBy.label>看管店铺</Storefront_StandBy.label>
+  <!-- EN: standing by -->
+  <Storefront_StandBy.gerund>看管店铺于</Storefront_StandBy.gerund>
+  <!-- EN: stand by -->
+  <Storefront_StandBy.verb>看管店铺</Storefront_StandBy.verb>
+  
+</LanguageData>

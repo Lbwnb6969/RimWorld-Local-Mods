@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: newspaper -->
+  <VBE_Newspaper.label>报纸</VBE_Newspaper.label>
+  <!-- EN: A perishable newspaper. Reading it will provide colonists with joy.\n\nOut of date newspaper cannot be read and needs to be cleaned up. -->
+  <VBE_Newspaper.description>一套有时限的报纸。阅读会产生愉快感。\n\n过期报纸无法被阅读，需要清理。</VBE_Newspaper.description>
+  
+</LanguageData>

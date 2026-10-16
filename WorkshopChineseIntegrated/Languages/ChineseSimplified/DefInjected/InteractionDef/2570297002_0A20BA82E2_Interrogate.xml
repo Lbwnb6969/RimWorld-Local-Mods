@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attempt interrogation -->
+  <VFEA_InterrogatePrisoner.label>试图审讯</VFEA_InterrogatePrisoner.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] demanded [information] from [RECIPIENT_nameDef].</li>
+    <li>information->information</li>
+    <li>information->knowledge</li>
+    <li>information->intelligence</li>
+  -->
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]要求[RECIPIENT_nameDef]提供[information]。</li>
+    <li>information->信息</li>
+    <li>information->技术知识</li>
+    <li>information->情报</li>
+  </VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

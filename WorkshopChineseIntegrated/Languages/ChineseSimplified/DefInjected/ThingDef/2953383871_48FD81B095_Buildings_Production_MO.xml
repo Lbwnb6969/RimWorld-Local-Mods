@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_MiningSpot.label>采矿点</DankPyon_MiningSpot.label>
+  <DankPyon_MiningSpot.description>能采到矿物的地点。由于缺乏工具，这里的生产速度很慢。</DankPyon_MiningSpot.description>
+
+  <DankPyon_DiggingSpot.label>掘土点</DankPyon_DiggingSpot.label>
+  <DankPyon_DiggingSpot.description>能挖掘到粘土等资源的地点。由于缺乏工具，这里的生产速度很慢。</DankPyon_DiggingSpot.description>
+
+  <DankPyon_ResearchingSpot.label>研究点</DankPyon_ResearchingSpot.label>
+  <DankPyon_ResearchingSpot.description>进行简单研究的地点。由于缺乏工具，这里的研究速度很慢。</DankPyon_ResearchingSpot.description>
+
+  <DankPyon_StonecuttingSpot.label>石材加工点</DankPyon_StonecuttingSpot.label>
+  <DankPyon_StonecuttingSpot.description>加工石材的地点。由于缺乏工具，这里的生产速度很慢。</DankPyon_StonecuttingSpot.description>
+
+  <DankPyon_ButchersBlock.label>屠宰砧</DankPyon_ButchersBlock.label>
+  <DankPyon_ButchersBlock.description>用于屠宰生物的木桩。</DankPyon_ButchersBlock.description>
+
+  <DankPyon_Well.label>井</DankPyon_Well.label>
+  <DankPyon_Well.description>为取水而在地面上挖凿出的一个坚固小洞。</DankPyon_Well.description>
+
+  <DankPyon_WaterSpot.label>凿冰/取水点</DankPyon_WaterSpot.label>
+  <DankPyon_WaterSpot.description>能取得水或冰块的地点，需要放在水或冰盖地形上。由于缺乏工具，这里的生产速度很慢。</DankPyon_WaterSpot.description>
+
+  <DankPyon_StoneOven.label>烤炉</DankPyon_StoneOven.label>
+  <DankPyon_StoneOven.description>带有石制炉灶的烹饪台，专为烘烤食物而设计。</DankPyon_StoneOven.description>
+
+  <DankPyon_StoneOvenLarge.label>大型烤炉</DankPyon_StoneOvenLarge.label>
+  <DankPyon_StoneOvenLarge.description>带有大型石制炉灶的烹饪台，专为烘烤食物而设计。</DankPyon_StoneOvenLarge.description>
+
+  <DankPyon_Grill.label>炙烤架</DankPyon_Grill.label>
+  <DankPyon_Grill.description>用于炙烤的烤架，以木材为燃料。</DankPyon_Grill.description>
+
+  <DankPyon_StewPot.label>炖锅</DankPyon_StewPot.label>
+  <DankPyon_StewPot.description>可以煮出美味炖菜及汤品的大型金属锅。</DankPyon_StewPot.description>
+
+  <DankPyon_Millstone.label>石磨</DankPyon_Millstone.label>
+  <DankPyon_Millstone.description>用于研磨植物的小圆石。</DankPyon_Millstone.description>
+
+  <DankPyon_Trestle.label>锯木台</DankPyon_Trestle.label>
+  <DankPyon_Trestle.description>将原木锯成木板的简单平台。</DankPyon_Trestle.description>
+
+  <DankPyon_Workbench.label>工作台</DankPyon_Workbench.label>
+  <DankPyon_Workbench.description>配有制作工具和设计工具的工作台。</DankPyon_Workbench.description>
+
+  <DankPyon_JewelryBench.label>珠宝加工桌</DankPyon_JewelryBench.label>
+  <DankPyon_JewelryBench.description>配有制作工具和设计工具的珠宝加工台。</DankPyon_JewelryBench.description>
+
+  <DankPyon_CleaningBench.label>清理工作桌</DankPyon_CleaningBench.label>
+  <DankPyon_CleaningBench.description>用于清理准备展示的战利品的桌子。</DankPyon_CleaningBench.description>
+
+  <DankPyon_AlchemyBench.label>炼金工作桌</DankPyon_AlchemyBench.label>
+  <DankPyon_AlchemyBench.description>一张厚重的桌子，表面固定着一层厚皮革。摆满了各式各样的装置和小机件，它对未曾接受教育的人来说毫无用处，但对娴熟禁忌之术的行家来说却非常实用。一名有抱负的炼金术士能在此混合材料及准备特定的奇特试剂——这有他所需的一切。</DankPyon_AlchemyBench.description>
+
+  <DankPyon_Book_ScribeTable.label>抄写台</DankPyon_Book_ScribeTable.label>
+  <DankPyon_Book_ScribeTable.description>一张配有墨水、羽毛笔和羊皮纸的木桌，用于制作手抄本和卷轴。</DankPyon_Book_ScribeTable.description>
+
+  <DankPyon_AdvancedResearchBench.label>高级研究桌</DankPyon_AdvancedResearchBench.label>
+  <DankPyon_AdvancedResearchBench.description>更先进的技术诞生于更聪明的头脑，因此，简单的研究桌必须升级以满足创新发明家和研究人员的需求。从工程学到炼金术，先进的研究桌让殖民地能够将其技术推向先进战争和医学的新时代。</DankPyon_AdvancedResearchBench.description>
+
+  <!-- Gardening Box -->
+
+  <DankPyon_Post.label>爬藤架</DankPyon_Post.label>
+  <DankPyon_Post.description>一座能让爬藤植物顺利蔓生的支撑架。</DankPyon_Post.description>
+
+  <DankPyon_SpinningWheel.label>纺车</DankPyon_SpinningWheel.label>
+  <DankPyon_SpinningWheel.description>一种将原棉加工成织物的滚动装置。</DankPyon_SpinningWheel.description>
+
+  <DankPyon_Furnace.label>熔炉</DankPyon_Furnace.label>
+  <DankPyon_Furnace.description>用于提炼废品及原材料的大型石炉，也能借由高温燃烧作用火化分解尸体。会产生少量的热。</DankPyon_Furnace.description>
+
+  <DankPyon_Anvil.label>铁砧</DankPyon_Anvil.label>
+  <DankPyon_Anvil.description>一种大型金属加工工具，具有平坦的顶面，用于敲击金属锻造出武器和盔甲等。</DankPyon_Anvil.description>
+
+
+  <!-- Mine Shaft -->
+
+  <DankPyon_MineShaft.label>矿井</DankPyon_MineShaft.label>
+  <DankPyon_MineShaft.description>一个垂直矿坑，上方搭载了坚固的平台及原始升降梯。可用于挖掘资源。</DankPyon_MineShaft.description>
+
+  <DankPyon_GardeningBox.label>种植箱</DankPyon_GardeningBox.label>
+  <DankPyon_GardeningBox.description>一个装满泥土的盒子，用来种植植物。</DankPyon_GardeningBox.description>
+
+  <DankPyon_Apiary.label>傲斯温蜂箱</DankPyon_Apiary.label>
+  <DankPyon_Apiary.description>一个木制的箱子，用来容纳傲斯温蜂以生产蜂蜜和蜡。</DankPyon_Apiary.description>
+  <DankPyon_Apiary.comps.CompRefuelableCustom.fuelGizmoLabel>生肉</DankPyon_Apiary.comps.CompRefuelableCustom.fuelGizmoLabel>
+
+  <DankPyon_SlopPot.label>泔水锅</DankPyon_SlopPot.label>
+  <DankPyon_SlopPot.description>一口大型的泔水锅，这锅五味杂陈的大杂烩仿如您生活的写照。\n殖民者会在饥饿时自动取用锅内的餐点。</DankPyon_SlopPot.description>
+
+  <DankPyon_SlopPot_Stew.label>炖肉锅</DankPyon_SlopPot_Stew.label>
+  <DankPyon_SlopPot_Stew.description>一口大型的炖肉锅，浓郁肉汤是您劳累生活的绝佳补药—只要您不在意那些肉块的来源。\n殖民者会在饥饿时自动取用锅内的餐点。</DankPyon_SlopPot_Stew.description>
+
+  <DankPyon_SlopPot_Fondue.label>融浆火锅</DankPyon_SlopPot_Fondue.label>
+  <DankPyon_SlopPot_Fondue.description>一口大型的融浆火锅，将历代风味融合成一场永恒的烹饪之旅。\n殖民者会在饥饿时自动取用锅内的餐点。</DankPyon_SlopPot_Fondue.description>
+
+  <DankPyon_MendingBench.label>修补桌</DankPyon_MendingBench.label>
+  <DankPyon_MendingBench.description>用于修补物品的工作台，工作时会消耗修补零件，需要及时补充。</DankPyon_MendingBench.description>
+
+</LanguageData>

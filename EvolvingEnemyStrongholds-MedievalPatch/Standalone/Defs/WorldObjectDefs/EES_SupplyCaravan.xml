@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <WorldObjectDef>
+    <defName>EES_SupplyCaravan</defName>
+    <label>supply caravan</label>
+    <description>A supply caravan carrying cargo to a nearby stronghold. Intercept it before it arrives to seize the cargo and temporarily weaken the destination's defenses.</description>
+    <worldObjectClass>EvolvingEnemyStrongholds.WorldObject_EESSupplyCaravan</worldObjectClass>
+    <texture>World/WorldObjects/Caravan</texture>
+    <useDynamicDrawer>true</useDynamicDrawer>
+    <expandingIcon>true</expandingIcon>
+    <expandingIconTexture>World/WorldObjects/Expanding/Caravan</expandingIconTexture>
+    <expandingIconPriority>90</expandingIconPriority>
+    <expandMore>true</expandMore>
+    <allowCaravanIncidentsWhichGenerateMap>false</allowCaravanIncidentsWhichGenerateMap>
+  </WorldObjectDef>
+  <WorldObjectDef>
+    <defName>EES_RebuildConvoy</defName>
+    <label>rebuild convoy</label>
+    <description>A convoy carrying builders and materials to reconstruct a destroyed stronghold. Intercept and destroy it to permanently cancel the reconstruction.</description>
+    <worldObjectClass>EvolvingEnemyStrongholds.WorldObject_EESRebuildConvoy</worldObjectClass>
+    <texture>World/WorldObjects/Caravan</texture>
+    <useDynamicDrawer>true</useDynamicDrawer>
+    <expandingIcon>true</expandingIcon>
+    <expandingIconTexture>World/WorldObjects/Expanding/Caravan</expandingIconTexture>
+    <expandingIconPriority>90</expandingIconPriority>
+    <expandMore>true</expandMore>
+    <allowCaravanIncidentsWhichGenerateMap>false</allowCaravanIncidentsWhichGenerateMap>
+  </WorldObjectDef>
+  <WorldObjectDef>
+    <defName>EES_SupplyEncounter</defName>
+    <label>supply caravan encounter</label>
+    <description>An encounter with a supply caravan.</description>
+    <worldObjectClass>EvolvingEnemyStrongholds.MapParent_EESSupplyBattle</worldObjectClass>
+    <texture>World/WorldObjects/Ambush</texture>
+    <expandingIcon>true</expandingIcon>
+    <expandingIconTexture>World/WorldObjects/Expanding/Ambush</expandingIconTexture>
+    <expandingIconPriority>80</expandingIconPriority>
+    <expandMore>true</expandMore>
+    <isTempIncidentMapOwner>true</isTempIncidentMapOwner>
+    <IncidentTargetTags>
+      <li>Map_TempIncident</li>
+    </IncidentTargetTags>
+    <comps>
+      <li Class="WorldObjectCompProperties_FormCaravan" />
+      <li Class="WorldObjectCompProperties_TimedDetectionRaids" />
+    </comps>
+  </WorldObjectDef>
+
+</Defs>

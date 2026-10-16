@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Default.label>默认</Default.label>
+  <Biome.label>生物群系</Biome.label>
+  <Temperature.label>温度</Temperature.label>
+  <Elevation.label>海拔</Elevation.label>
+  <Rainfall.label>降雨量</Rainfall.label>
+  <GrowingPeriod.label>生长期</GrowingPeriod.label>
+  <AnimalCommonality.label>动物常见度</AnimalCommonality.label>
+  <PlantCommonality.label>植物常见度</PlantCommonality.label>
+  <Features.label>地貌</Features.label>
+
+</LanguageData>

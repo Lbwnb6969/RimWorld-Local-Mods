@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Leather Boots -->
+
+  <DankPyon_Footwear_BootsLeather.label>皮靴</DankPyon_Footwear_BootsLeather.label>
+  <DankPyon_Footwear_BootsLeather.description>使用鞣制皮革缝制以贴合脚部。提供最低限度的保护。穿上皮靴能增加移动速度。</DankPyon_Footwear_BootsLeather.description>
+
+
+  <!-- Splinted Boots -->
+
+  <DankPyon_Footwear_BootsSplinted.label>条板靴</DankPyon_Footwear_BootsSplinted.label>
+  <DankPyon_Footwear_BootsSplinted.description>内衬由相互重叠的金属板组成，可能会稍微限制脚的运动。穿上条板靴会降低移动速度。</DankPyon_Footwear_BootsSplinted.description>
+
+
+  <!-- Plate Boots -->
+
+  <DankPyon_Footwear_BootsPlate.label>板甲靴</DankPyon_Footwear_BootsPlate.label>
+  <DankPyon_Footwear_BootsPlate.description>一双精心打造的板靴。提供与其成本相符的保护。穿上板甲靴会降低移动速度。</DankPyon_Footwear_BootsPlate.description>
+
+
+</LanguageData>

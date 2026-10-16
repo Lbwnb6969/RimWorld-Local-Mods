@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: common -->
+  <AnimalTrait_Common.label>普通</AnimalTrait_Common.label>
+  <!-- EN: This is a baseline animal with no special traits. -->
+  <AnimalTrait_Common.description>寻常的动物，没有特性。</AnimalTrait_Common.description>
+  
+</LanguageData>

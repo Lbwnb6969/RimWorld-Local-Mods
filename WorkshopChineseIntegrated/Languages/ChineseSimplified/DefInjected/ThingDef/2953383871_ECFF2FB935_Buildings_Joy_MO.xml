@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dankpyon_CupAndDice.label>骰子游戏</Dankpyon_CupAndDice.label>
+  <Dankpyon_CupAndDice.description>中世纪的博弈游戏。用一个皮制的杯子当骰盅，再加上几颗骰子即可游玩。</Dankpyon_CupAndDice.description>
+
+  <DankPyon_Tarocco.label>塔罗科扑克牌桌</DankPyon_Tarocco.label>
+  <DankPyon_Tarocco.description>专为玩牌类赌博游戏而设计的桌子，通常是塔罗科扑克牌。这是一种测试心理战和运气的游戏。\n\n此建筑物需要在旁放置椅子或凳子才能使用。</DankPyon_Tarocco.description>
+
+  <DankPyon_RimWar.label>边缘战争游戏</DankPyon_RimWar.label>
+  <DankPyon_RimWar.description>用于模拟战争游戏的一张柔软覆材、桌缘突起的桌子。这是一种测试您的战略技能和运气的游戏。</DankPyon_RimWar.description>
+
+
+</LanguageData>

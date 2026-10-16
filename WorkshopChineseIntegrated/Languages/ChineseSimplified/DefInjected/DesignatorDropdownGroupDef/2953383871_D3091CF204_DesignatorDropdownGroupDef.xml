@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- DesignatorDropdownGroupDef>
+    <defName>DankPyon_Barrels</defName>
+    <label>barrels</label>
+  </DesignatorDropdownGroupDef -->
+
+  <DankPyon_Beverages.label>饮品</DankPyon_Beverages.label>
+  <DankPyon_ScribeTools.label>抄写用品</DankPyon_ScribeTools.label>
+  <DankPyon_ResearchTools.label>研究用具</DankPyon_ResearchTools.label>
+  <DankPyon_Sack.label>麻布袋</DankPyon_Sack.label>
+  <DankPyon_Candles.label>蜡烛</DankPyon_Candles.label>
+  <DankPyon_Candle.label>一支蜡烛</DankPyon_Candle.label>
+  <DankPyon_IngotStack1x1c.label>金属锭堆(1x1)</DankPyon_IngotStack1x1c.label>
+  <DankPyon_IngotStack1x2c.label>金属锭堆(1x2)</DankPyon_IngotStack1x2c.label>
+  <DankPyon_IngotStack2x2c.label>金属锭堆(2x2)</DankPyon_IngotStack2x2c.label>
+  <DankPyon_Bale1x2c.label>草捆(1x2)</DankPyon_Bale1x2c.label>
+  <DankPyon_Bale2x2c.label>草捆(2x2)</DankPyon_Bale2x2c.label>
+  <DankPyon_Pile1x2c.label>草堆(1x2)</DankPyon_Pile1x2c.label>
+
+
+  <!-- Floors -->
+
+  <DankPyon_Floor_RusticWoodFloor.label>质朴木地板</DankPyon_Floor_RusticWoodFloor.label>
+  <DankPyon_Floor_Cobblestone.label>中世纪鹅卵石地砖</DankPyon_Floor_Cobblestone.label>
+  <DankPyon_Floor_HerringboneTile.label>中世纪人字拼地砖</DankPyon_Floor_HerringboneTile.label>
+  <DankPyon_Floor_WindmillTile.label>中世纪风车拼地砖</DankPyon_Floor_WindmillTile.label>
+  <DankPyon_Floor_CobblestoneTile.label>中世纪横贴地砖</DankPyon_Floor_CobblestoneTile.label>
+  <DankPyon_Floor_VersaillesTile.label>中世纪几何地砖</DankPyon_Floor_VersaillesTile.label>
+  <DankPyon_Floor_RuinedStoneTile.label>中世纪破损地砖</DankPyon_Floor_RuinedStoneTile.label>
+
+
+  <!-- Ceramic Floors -->
+
+  <DankPyon_Floor_Lys.label>百合花饰地砖</DankPyon_Floor_Lys.label>
+  <DankPyon_Floor_DiamondLys.label>菱纹百合花饰地砖</DankPyon_Floor_DiamondLys.label>
+  <DankPyon_Floor_CircleLys.label>圆形百合花饰地砖</DankPyon_Floor_CircleLys.label>
+  <DankPyon_Floor_CheckeredLysStar.label>棋盘式百合花饰地砖</DankPyon_Floor_CheckeredLysStar.label>
+
+
+</LanguageData>

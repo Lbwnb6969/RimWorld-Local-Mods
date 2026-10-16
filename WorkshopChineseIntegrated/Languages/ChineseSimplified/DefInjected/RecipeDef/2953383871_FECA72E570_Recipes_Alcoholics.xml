@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abstract -->
+
+  <DankPyon_Make_MincedApple.label>制作苹果碎</DankPyon_Make_MincedApple.label>
+  <DankPyon_Make_MincedApple.description>制作苹果碎。</DankPyon_Make_MincedApple.description>
+  <DankPyon_Make_MincedApple.jobString>正在制作苹果碎。</DankPyon_Make_MincedApple.jobString>
+
+  <DankPyon_Make_JuiceAppleUnfermented.label>发酵苹果汁</DankPyon_Make_JuiceAppleUnfermented.label>
+  <DankPyon_Make_JuiceAppleUnfermented.description>发酵苹果汁。</DankPyon_Make_JuiceAppleUnfermented.description>
+  <DankPyon_Make_JuiceAppleUnfermented.jobString>正在发酵苹果汁。</DankPyon_Make_JuiceAppleUnfermented.jobString>
+
+  <DankPyon_Make_WortAle.label>制作麦芽浆</DankPyon_Make_WortAle.label>
+  <DankPyon_Make_WortAle.description>熬煮啤酒花以制作麦芽浆。麦芽浆经过发酵后才能酿造为麦酒。</DankPyon_Make_WortAle.description>
+  <DankPyon_Make_WortAle.jobString>正在制作麦芽浆。</DankPyon_Make_WortAle.jobString>
+
+  <DankPyon_MakeMustWine.label>制作葡萄浆</DankPyon_MakeMustWine.label>
+  <DankPyon_MakeMustWine.description>压榨葡萄以制成葡萄浆。葡萄浆经过发酵后才能酿造为葡萄酒。</DankPyon_MakeMustWine.description>
+  <DankPyon_MakeMustWine.jobString>正在制作葡萄原浆。</DankPyon_MakeMustWine.jobString>
+
+  <DankPyon_MakeMustMulberry.label>制作桑葚浆</DankPyon_MakeMustMulberry.label>
+  <DankPyon_MakeMustMulberry.description>压榨桑葚以制成桑葚浆。桑葚浆经过发酵后才能酿造为桑葚酒。</DankPyon_MakeMustMulberry.description>
+  <DankPyon_MakeMustMulberry.jobString>正在制作桑葚浆。</DankPyon_MakeMustMulberry.jobString>
+
+  <DankPyon_MakeMustGriffon.label>制作狮鹫莓浆</DankPyon_MakeMustGriffon.label>
+  <DankPyon_MakeMustGriffon.description>压榨狮鹫莓以制成狮鹫莓浆。狮鹫莓浆经过发酵后才能酿造为狮鹫莓酒。</DankPyon_MakeMustGriffon.description>
+  <DankPyon_MakeMustGriffon.jobString>正在制作狮鹫莓浆。</DankPyon_MakeMustGriffon.jobString>
+
+</LanguageData>

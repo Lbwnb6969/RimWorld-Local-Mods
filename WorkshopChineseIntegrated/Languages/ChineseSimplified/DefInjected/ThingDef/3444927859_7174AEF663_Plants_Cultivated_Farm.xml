@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grape plant -->
+  <VFEM2_Plant_Grape.label>葡萄</VFEM2_Plant_Grape.label>
+  <!-- EN: A medium-sized vine that yields grapes when harvested - an essential ingredient in the production of wine that also tastes nice when eaten raw. Takes a long time to initially grow but can be harvested repeatedly in a single lifespan. -->
+  <VFEM2_Plant_Grape.description>中型蔓生植物，成熟后可收获葡萄。葡萄可用于酿造葡萄酒，生吃也很美味。生长周期漫长，但成熟后可以在其生命周期内重复收获。</VFEM2_Plant_Grape.description>
+  
+</LanguageData>

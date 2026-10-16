@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: middle accessory -->
+  <MiddleExtra.label>夹层配件</MiddleExtra.label>
+  
+  <!-- EN: skin accessory -->
+  <OnSkinExtra.label>贴身配件</OnSkinExtra.label>
+  
+  <!-- EN: head accessory -->
+  <OverheadExtra.label>头部配件</OverheadExtra.label>
+  
+  <!-- EN: outer accessory -->
+  <ShellExtra.label>外套配件</ShellExtra.label>
+  
+</LanguageData>

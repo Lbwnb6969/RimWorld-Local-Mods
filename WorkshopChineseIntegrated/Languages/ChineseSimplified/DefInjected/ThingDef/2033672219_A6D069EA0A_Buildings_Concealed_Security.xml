@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concealed turret bullet -->
+  <VFES_Bullet_ConcealedTurret.label>潜匿机枪塔子弹</VFES_Bullet_ConcealedTurret.label>
+  
+  <!-- EN: concealed barrier -->
+  <VFES_ConcealedBarrier.label>潜匿路障</VFES_ConcealedBarrier.label>
+  <!-- EN: A retractable, waist-high barrier for use as cover from incoming shots. It provides strong cover while deployed and is almost invisible when submerged. Barricades will block certain kinds of animals the same way that fences do. Requires power. -->
+  <VFES_ConcealedBarrier.description>一种齐腰高的可升降式障碍物，用于阻挡射入的子弹。当它升起时，能提供比其他低矮的物体更好的掩护；当它降下时，则不会被主动索敌。路障会像栅栏一样阻挡部分动物。需要通电才能正常运作。</VFES_ConcealedBarrier.description>
+  
+  <!-- EN: concealed turret gun -->
+  <VFES_Gun_ConcealedTurret.label>潜匿机枪</VFES_Gun_ConcealedTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <VFES_Gun_ConcealedTurret.description>安装在炮塔上的简易自动机枪。</VFES_Gun_ConcealedTurret.description>
+  <!-- EN: concealed turret gun -->
+  <VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>潜匿机枪</VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: concealed turret -->
+  <VFES_Turret_Concealed.label>潜匿机枪塔</VFES_Turret_Concealed.label>
+  <!-- EN: A compact automatic turret equipped with retractable armor plating and a submersion mechanism. It is capable of submerging into the ground, becoming impossible to target. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_Concealed.description>一种紧凑的可升降式自动机枪塔，带有收缩自如的装甲板。当它升起时，能向来犯的敌人开火；当它降下时，则不会被主动索敌。长期使用后需要大量的钢铁维护炮管。受损严重时可能会爆炸。由于是人工智能来运行无法被直接控制，所以要小心友军误伤。</VFES_Turret_Concealed.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_Concealed.comps.CompRefuelable.fuelGizmoLabel>炮管耐久度</VFES_Turret_Concealed.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>更换炮管前剩余射击次数</VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>需要新的炮管</VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

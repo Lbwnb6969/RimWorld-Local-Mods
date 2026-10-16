@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <VME_KillingWithFire_Abhorrent.label>厌恶</VME_KillingWithFire_Abhorrent.label>
+  <!-- EN: Watching a person burn to dead without trying to help is horrible, and should be avoided at all costs. -->
+  <VME_KillingWithFire_Abhorrent.description>我们无法眼睁睁地看着一个人被火焰吞噬殆尽。</VME_KillingWithFire_Abhorrent.description>
+  
+  <!-- EN: preferred -->
+  <VME_KillingWithFire_Preferred.label>喜好</VME_KillingWithFire_Preferred.label>
+  <!-- EN: To watch my enemies be burnt in sacred fire elates our kind like nothing else can. -->
+  <VME_KillingWithFire_Preferred.description>看着敌人被神圣之火焚烧使我们感到无比兴奋。</VME_KillingWithFire_Preferred.description>
+  
+</LanguageData>

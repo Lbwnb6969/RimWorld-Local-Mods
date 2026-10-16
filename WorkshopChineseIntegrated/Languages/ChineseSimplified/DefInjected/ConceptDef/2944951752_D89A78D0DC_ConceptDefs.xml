@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GUC_Animal_Handling.label>Giddy-up: 动物技能</GUC_Animal_Handling.label>
+  <GUC_Animal_Handling.helpText>殖民者的动物技能会影响使用坐骑的效率。技能高或低于最低驯兽要求时，每等将增益/减益2%移动速度和0.5%射击精度。可以在模组设置中调整数值。</GUC_Animal_Handling.helpText>
+
+  <BM_Mounting.label>Giddy-up!:如何骑乘</BM_Mounting.label>
+  <BM_Mounting.helpText>要骑乘动物进行战斗，选择【徵招】的殖民者，并右键一只已驯服的动物，然后点击“骑乘”。 </BM_Mounting.helpText>
+
+  <BM_Enemy_Mounting.label>Giddy-up!:敌方骑手</BM_Enemy_Mounting.label>
+  <BM_Enemy_Mounting.helpText>敌人也会骑乘动物。使用坐骑的机率，以及从哪里获得坐骑（来自当前殖民地生态的野生动物，随机任何生态的野生动物，或非野生动物）可以在模组选项中配置。拥有高等驯兽的敌方有更大的机会使用稀有坐骑</BM_Enemy_Mounting.helpText>
+
+
+</LanguageData>

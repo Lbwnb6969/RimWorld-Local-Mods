@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <RimSiege_ManTrebuchetJob.reportString>正在操作投石机。</RimSiege_ManTrebuchetJob.reportString>
+  
+  
+  <RimSiege_PushSiegeEngine.reportString>正在推动攻城器械。</RimSiege_PushSiegeEngine.reportString>
+  
+  
+  <RimSiege_SapJob.reportString>正在埋设炸药以破坏城墙。</RimSiege_SapJob.reportString>
+  
+<RimSiege_ExecuteCaptainJob.reportString>正在处决 TargetA。</RimSiege_ExecuteCaptainJob.reportString><RimSiege_ExecutionCeremonyJob.reportString>正在把 TargetA 带到断头台。</RimSiege_ExecutionCeremonyJob.reportString><RimSiege_TrebuchetExecutionJob.reportString>正在将 TargetA 装上投石机。</RimSiege_TrebuchetExecutionJob.reportString><RimSiege_WatchExecutionJob.reportString>正在观看处决。</RimSiege_WatchExecutionJob.reportString></LanguageData>

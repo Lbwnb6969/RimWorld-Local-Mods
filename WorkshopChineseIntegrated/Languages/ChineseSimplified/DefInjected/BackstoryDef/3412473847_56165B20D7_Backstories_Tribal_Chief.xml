@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: As the firstborn of [PAWN_possessive] tribe’s chief, [PAWN_nameDef]’s training as the tribe’s future leader began almost from birth. [PAWN_pronoun] was taught that a wise leader must always carefully listen to what [PAWN_possessive] people want, but never lose sight of what they need. -->
+  <Shenanigans_Tribal_ChildChief.description>作为部落首领的长子，[PAWN_nameDef]从出生起就开始接受训练，为接任部落领袖做准备。[PAWN_pronoun]学到，一个明智的领导者必须始终认真倾听人民的期盼，同时也要注意保障他们的基本生活所需。</Shenanigans_Tribal_ChildChief.description>
+  <!-- EN: Child of the chief -->
+  <Shenanigans_Tribal_ChildChief.title>酋长之子</Shenanigans_Tribal_ChildChief.title>
+  <!-- EN: Future chief -->
+  <Shenanigans_Tribal_ChildChief.titleShort>预备酋长</Shenanigans_Tribal_ChildChief.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was next in line to become the chief of [PAWN_possessive] tribe. [PAWN_pronoun] performed many of the duties that a chief would, such as resolving disputes and assisting in performing important ceremonies. [PAWN_nameDef] was very well-liked, and almost everyone agreed that [PAWN_pronoun] would be a wonderful leader. -->
+  <Shenanigans_Tribal_FutureChief.description>[PAWN_nameDef]是部落首领的下一任继承人。[PAWN_pronoun]履行了许多首领的职责，比如解决争端和协助进行重要的仪式。[PAWN_nameDef]非常受欢迎，几乎每个人都认为[PAWN_pronoun]会是一个出色的领导者。</Shenanigans_Tribal_FutureChief.description>
+  <!-- EN: Future chief -->
+  <Shenanigans_Tribal_FutureChief.title>预备酋长</Shenanigans_Tribal_FutureChief.title>
+  <!-- EN: Future chief -->
+  <Shenanigans_Tribal_FutureChief.titleShort>预备酋长</Shenanigans_Tribal_FutureChief.titleShort>
+  
+</LanguageData>

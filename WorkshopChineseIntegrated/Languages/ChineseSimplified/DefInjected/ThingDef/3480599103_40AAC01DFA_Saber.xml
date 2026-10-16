@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: saber -->
+  <TA_SteppeSaber.label>草原马刀</TA_SteppeSaber.label>
+  <!-- EN: . -->
+  <TA_SteppeSaber.description>草原骑兵使用的弯刀，适合马上劈砍。</TA_SteppeSaber.description>
+  <!-- EN: handle -->
+  <TA_SteppeSaber.tools.handle.label>刀柄</TA_SteppeSaber.tools.handle.label>
+  <!-- EN: point -->
+  <TA_SteppeSaber.tools.point.label>刀尖</TA_SteppeSaber.tools.point.label>
+  <!-- EN: edge -->
+  <TA_SteppeSaber.tools.edge.label>刀刃</TA_SteppeSaber.tools.edge.label>
+  
+</LanguageData>

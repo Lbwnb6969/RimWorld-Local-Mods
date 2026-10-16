@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Biotech -->
+  <VR_BiotechResearchTab.label>生物科技</VR_BiotechResearchTab.label>
+  <!-- EN: Unlock fantasy biotech technologies by researching at a research bench. You can only have one active project at a time. -->
+  <VR_BiotechResearchTab.generalDescription>在研究台上研究以解锁奇幻生物科技技术。一次只能进行一个研究项目。</VR_BiotechResearchTab.generalDescription>
+  <!-- EN: Medieval biotech research projects -->
+  <VR_BiotechResearchTab.generalTitle>中世纪生物科技研究项目</VR_BiotechResearchTab.generalTitle>
+  
+</LanguageData>

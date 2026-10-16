@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Caravan Adventures - Whispers -->
+  <CA_Story_TheTree_QuestName>远行大冒险 - 神秘低语</CA_Story_TheTree_QuestName>
+  <!-- EN: Creepy whispers echo around the village. They seem to be coming from the direction of the anima tree. -->
+  <CA_Story_TheTree_QuestDesc>令人不寒而栗的神秘低语在整个殖民地中回荡。声音的源头似乎是从仙树方向传来的。</CA_Story_TheTree_QuestDesc>
+
+  <!-- EN: Talk... -->
+  <CA_Start_Begin>交谈...</CA_Start_Begin>
+  <!-- EN: The mysterious tree speaks... -->
+  <Story_Start_Dia1_Title>这棵神秘的树居然开口讲话了...</Story_Start_Dia1_Title>
+	<!-- EN: Listen human, the ancient creature awoke. We may all perish unless we empower a savior to gather the ancient spells in order to battle the creature when it is ready to strike. -->
+  <Story_Start_Dia1>人类——请听好——某个古老的存在已然苏醒——除非吾等授予一名救世主——收集远古能力的使命——以便在其发动袭击时——拥有足够的实力与之抗衡——否则万物生灵都将消亡殆尽——</Story_Start_Dia1>
+	<!-- EN: Wha... me? -->
+  <Story_Start_Dia1_GuessMe>您说的救世主...不会是我吧？</Story_Start_Dia1_GuessMe>
+	<!-- EN: Yes, you have the potential that is required to wield the power of the ancient scrolls. Start the journey, acquire the spells and save this planet from doom. Do you accept the Ancient Gift? -->
+  <Story_Start_Dia1_Me>然也——汝有驱使远古卷轴之力——踏上旅程——掌握能力——于将至的灾厄中拯救星球——汝可愿意接受这份远古天赋？</Story_Start_Dia1_Me>
+	<!-- EN: Guess I don't have much of a choice, I accept. -->
+  <Story_Start_Dia1_Me_NoChoice>我猜，没有更多的选择了？好吧，我接受这份使命。</Story_Start_Dia1_Me_NoChoice>
+	<!-- EN: Sorry, I can't, but there may be someone better suited... -->
+  <Story_Start_Dia1_Me_SomeoneBetter>抱歉，我实在做不到...我想可能会有比我更合适的人选...</Story_Start_Dia1_Me_SomeoneBetter>
+	<!-- EN: The location of the first spell will reveal itself to you soon. Good luck on your journey, chosen one. -->
+  <Story_Start_Dia1_Me_End_Accepted>首个能力的位置即将揭示——愿汝一路顺风——天选之人——</Story_Start_Dia1_Me_End_Accepted>
+	<!-- EN: We hope you are right. -->
+  <Story_Start_Dia1_Me_End_Denied>愿汝言是也——</Story_Start_Dia1_Me_End_Denied>
+	<!-- EN: Bye. -->
+  <Story_Start_Dia1_Me_End_Bye>再会。</Story_Start_Dia1_Me_End_Bye>
+	<!-- EN: The ancient gift was already granted, don't disturb me any longer. -->
+  <Story_Start_Dia1_Me_End_GiftAlreadyRecieved>远古天赋已赠与汝——既如此——毋再扰——</Story_Start_Dia1_Me_End_GiftAlreadyRecieved>
+	<!-- EN: {0} can't fulfill {1} duty, that's why I would like to take on the gift. -->
+  <Story_Start_Dia1_1_Neg_Option2>{0}说无法承担{1}使命，因此我想代其接受这份远古天赋。</Story_Start_Dia1_1_Neg_Option2>
+	<!-- EN: So be it. Now leave. -->
+  <Story_Start_Dia1_2_Neg>但愿如此——若无事——毋再扰——</Story_Start_Dia1_2_Neg>
+	<!-- EN: Thank you! -->
+  <Story_Start_Dia1_2_Neg_Option1>非常感谢！</Story_Start_Dia1_2_Neg_Option1>
+
+  <!-- EN: Received ancient gift -->
+  <CA_Story_ReceivedGiftLetterTitle>获得远古天赋</CA_Story_ReceivedGiftLetterTitle>
+  <!-- EN: {0} has been granted the ancient gift. {0} also started to remember 2 spells that {1} never knew before. You can find more info in {0}'s health tab. -->
+  <CA_Story_ReceivedGiftLetterDesc>{0}已被授予远古天赋。{0}记住了2个{1}之前从未接触过的心灵能力。你可以在{0}的健康选项卡中了解更多信息。</CA_Story_ReceivedGiftLetterDesc>
+
+  <!-- EN: Help me contact the ancient machines below the planet's surface. -->
+  <CA_Story_Start_EnableAncientMachines>请帮我连通星球地表下的远古机械装置。</CA_Story_Start_EnableAncientMachines>
+  <!-- EN: As you wish... hmmm, the machines have become active again and continue fulfilling their work. -->
+  <CA_Story_Start_MachinesEnabled>如汝所愿——嗯——机械装置已再次运转——有条不紊——完成工作——</CA_Story_Start_MachinesEnabled>
+  <!-- EN: As you wish... hmmm, the machines have become dormant and remain inactive. -->
+  <CA_Story_Start_MachinesDisabled>如汝所愿——嗯——机械装置已休眠停机——不再活动——</CA_Story_Start_MachinesDisabled>
+  <!-- EN: Bye. -->
+  <CA_Story_Start_Bye>再会。</CA_Story_Start_Bye>
+
+  <!-- EN: {0} denied the ancient gift. Accept the gift with a pawn of your choice to continue the story. You can reach out to any anima tree you may find. -->
+  <CA_Story_DeniedGift>{0}没有接受远古天赋。你可以选择另一个殖民者来接受天赋并继续这个故事。与任意一颗仙树交谈来进行交互。</CA_Story_DeniedGift>
+</LanguageData>

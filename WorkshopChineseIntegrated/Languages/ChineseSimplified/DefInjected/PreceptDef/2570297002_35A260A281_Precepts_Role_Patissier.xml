@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pâtissier -->
+  <VME_IdeoRole_Patissier.label>甜点师</VME_IdeoRole_Patissier.label>
+  <!-- EN: A talented and epicurious provisioner of all things sweet. Capable of deftly altering any variety of meal into a most tantalizing dessert. Remarkably swift at cooking regardless of meal type.\n\n<color=#E5E54C>Stats:</color>\n - The pâtissier receives a +20% Cooking speed bonus. -->
+  <VME_IdeoRole_Patissier.description>一位天赋异禀且喜好寻欢作乐的甜点师，能够熟练地将各种食物转化成美味诱人的甜点。不论是什么菜式，他都能烹饪得非常迅速。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 甜点师的烹饪速度+20%。</VME_IdeoRole_Patissier.description>
+  
+</LanguageData>

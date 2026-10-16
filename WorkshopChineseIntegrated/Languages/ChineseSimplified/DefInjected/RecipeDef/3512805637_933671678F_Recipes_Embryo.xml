@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make primarch embryo -->
+  <BEWH_MakePrimarchEmbryo.label>制作基因原体胚胎</BEWH_MakePrimarchEmbryo.label>
+  <!-- EN: Make a primarch embryo. -->
+  <BEWH_MakePrimarchEmbryo.description>制作基因原体胚胎。</BEWH_MakePrimarchEmbryo.description>
+  <!-- EN: Making primarch embryo. -->
+  <BEWH_MakePrimarchEmbryo.jobString>制作基因原体胚胎中。</BEWH_MakePrimarchEmbryo.jobString>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armet -->
+  <TA_Armet.label>全罩盔</TA_Armet.label>
+  <!-- EN: Fully enclosed helmet with reinforced forehead plate, shaped to closely fit the wearer's head, providing exelent protection. -->
+  <TA_Armet.description>带加固前额板的完全封闭式头盔，紧密贴合佩戴者头部，提供极佳防护。</TA_Armet.description>
+  <!-- EN: open visor -->
+  <TA_Armet.comps.CompSwitchApparel.Label>开面甲</TA_Armet.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: armet -->
+  <TA_ArmetUp.label>全罩盔(闭面)</TA_ArmetUp.label>
+  <!-- EN: Fully enclosed helmet with reinforced forehead plate, shaped to closely fit the wearer's head, providing exelent protection. -->
+  <TA_ArmetUp.description>带加固前额板的完全封闭式头盔，紧密贴合佩戴者头部，提供极佳防护。</TA_ArmetUp.description>
+  <!-- EN: close visor -->
+  <TA_ArmetUp.comps.CompSwitchApparel.Label>闭面甲</TA_ArmetUp.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

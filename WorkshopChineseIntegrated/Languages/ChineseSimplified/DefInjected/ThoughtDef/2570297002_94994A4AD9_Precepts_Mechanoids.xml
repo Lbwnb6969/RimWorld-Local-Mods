@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mechanoid destroyed -->
+  <VME_Mechanoids_Despised.stages.mechanoid_destroyed.label>机械族损毁</VME_Mechanoids_Despised.stages.mechanoid_destroyed.label>
+  <!-- EN: I have destroyed a mechanoid being, this is a victory! -->
+  <VME_Mechanoids_Despised.stages.mechanoid_destroyed.description>我干掉了一只恶心的机械族，这是一场小小的胜利！</VME_Mechanoids_Despised.stages.mechanoid_destroyed.description>
+  
+  <!-- EN: mechanoid destroyed -->
+  <VME_Mechanoids_Exalted.stages.mechanoid_destroyed.label>机械族损毁</VME_Mechanoids_Exalted.stages.mechanoid_destroyed.label>
+  <!-- EN: I have destroyed a mechanoid being, this will anger the gods. -->
+  <VME_Mechanoids_Exalted.stages.mechanoid_destroyed.description>我杀死了一只神圣的机械族...这会触怒神明们的。</VME_Mechanoids_Exalted.stages.mechanoid_destroyed.description>
+  
+</LanguageData>

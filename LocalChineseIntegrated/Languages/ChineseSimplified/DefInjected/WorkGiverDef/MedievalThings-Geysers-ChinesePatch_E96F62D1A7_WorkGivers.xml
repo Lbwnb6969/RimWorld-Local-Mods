@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MThingsGeysers_DoBillsStove.label>在石制炊锅烹饪</MThingsGeysers_DoBillsStove.label>
+  <MThingsGeysers_DoBillsStove.verb>烹饪</MThingsGeysers_DoBillsStove.verb>
+  <MThingsGeysers_DoBillsStove.gerund>在石制炊锅烹饪</MThingsGeysers_DoBillsStove.gerund>
+  <MThingsGeysers_DoBillsSmithy.label>在烟熏锻炉锻造</MThingsGeysers_DoBillsSmithy.label>
+  <MThingsGeysers_DoBillsSmithy.verb>锻造</MThingsGeysers_DoBillsSmithy.verb>
+  <MThingsGeysers_DoBillsSmithy.gerund>在烟熏锻炉锻造</MThingsGeysers_DoBillsSmithy.gerund>
+  <MThingsGeysers_DoBillsChargeforge.label>在炭化熔炉处理物质</MThingsGeysers_DoBillsChargeforge.label>
+  <MThingsGeysers_DoBillsChargeforge.verb>处理</MThingsGeysers_DoBillsChargeforge.verb>
+  <MThingsGeysers_DoBillsChargeforge.gerund>在炭化熔炉处理物质</MThingsGeysers_DoBillsChargeforge.gerund>
+  <MThingsGeysers_DoBillsStonebrewery.label>在石制酿酒坊酿造</MThingsGeysers_DoBillsStonebrewery.label>
+  <MThingsGeysers_DoBillsStonebrewery.verb>酿造</MThingsGeysers_DoBillsStonebrewery.verb>
+  <MThingsGeysers_DoBillsStonebrewery.gerund>在石制酿酒坊酿造</MThingsGeysers_DoBillsStonebrewery.gerund>
+  <MThingsGeysers_ExtractMagicyte.label>从魔晶石采集器提取魔晶石</MThingsGeysers_ExtractMagicyte.label>
+  <MThingsGeysers_ExtractMagicyte.verb>提取魔晶石</MThingsGeysers_ExtractMagicyte.verb>
+  <MThingsGeysers_ExtractMagicyte.gerund>从魔晶石采集器提取魔晶石</MThingsGeysers_ExtractMagicyte.gerund>
+</LanguageData>

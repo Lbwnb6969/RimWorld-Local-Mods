@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: toxbear -->
+  <VAEWaste_Toxbear.label>污毒熊</VAEWaste_Toxbear.label>
+  <!-- EN: The Toxbear is a monstrous and deadly creature born from a polluted environment. Standing at an immense size, this mutated bear is a force to be reckoned with. With no natural predators, it roams and hunts at will, leaving destruction in its wake. Its aggressive behavior is fueled by cancerous growth around its head, making it nearly impervious to damage.\n\nAs the growth puts pressure on its brain, the Toxbear becomes increasingly violent, eventually turning completely rabid. Not long after that, toxbears are known to try and scratch their own brains out, resulting in their violent demise. -->
+  <VAEWaste_Toxbear.description>已对污染和毒素产生抗性的突变生物。污毒熊身材壮硕、体型庞大，是废土中最恐怖最致命的存在之一。由于缺少天敌，你常能看到它们大摇大摆地四处徘徊与捕猎，其所经之处会被破坏得满目疮痍。污毒熊头部周围肆意增殖扩散的癌细胞使它们变得极为好斗，长此以往还将彻底陷入狂暴状态。为了减轻癌细胞带来的痛苦，它们会一直用巨大的爪子抓挠头部，直至因大脑破裂而死亡为止。\n\n污毒熊的肉有毒，请三思而后食。</VAEWaste_Toxbear.description>
+  <!-- EN: left claw -->
+  <VAEWaste_Toxbear.tools.left_claw.label>左爪</VAEWaste_Toxbear.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VAEWaste_Toxbear.tools.right_claw.label>右爪</VAEWaste_Toxbear.tools.right_claw.label>
+  <!-- EN: head -->
+  <VAEWaste_Toxbear.tools.head.label>头</VAEWaste_Toxbear.tools.head.label>
+  
+</LanguageData>

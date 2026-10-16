@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. If the ritual is boring or better, it will reward all participants with the Plague. -->
+  <VME_PlagueFestivalRitualOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。如果仪式结果为“无聊的”及以上，所有参与者都将患上慈父赐予的瘟疫。</VME_PlagueFestivalRitualOutcome.description>
+  <!-- EN: moral guide present -->
+  <VME_PlagueFestivalRitualOutcome.comps.2.label>传道者出席</VME_PlagueFestivalRitualOutcome.comps.2.label>
+  <!-- EN: participant count -->
+  <VME_PlagueFestivalRitualOutcome.comps.3.label>参与者数量</VME_PlagueFestivalRitualOutcome.comps.3.label>
+  <!-- EN: started at altar -->
+  <VME_PlagueFestivalRitualOutcome.comps.4.label>由祭坛开始仪式</VME_PlagueFestivalRitualOutcome.comps.4.label>
+  <!-- EN: an altar -->
+  <VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>一座祭坛</VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>
+  <!-- EN: Terrible -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>糟糕的</VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the killing technique was botched. The corpse laid there, inert, and no holy miasma was liberated from it. What a waste of time! -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>{0}真是太糟糕了！演讲者结结巴巴，语无伦次，献祭的手法也搞砸了。尸体一动不动地躺在那里，没有一丝神圣的瘴气从里面出来。真是浪费时间！</VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>无聊的</VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech was repetitive and the killing technique was noticeably flawed. However the blessed plague is now among us. -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>{0}非常无聊。演讲者的演讲重复而啰嗦，献祭手法也明显有缺陷。然而运的是，慈父赐予的瘟疫终于降临到了我们之中。</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>令人满意的</VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, and a holy miasma was liberated from the corpse, bathing us all in a sacred plague wind. -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>{0}令人满意。演讲者的那番话语很有意义，一股神圣的瘴气从尸体中解放出来，使我们沐浴在一股神圣的瘟疫之风中。</VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>
+  <!-- EN: Spectacular -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>引人入胜的</VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy and a sacred plague wind wafted from the animal's corpse, blessing us. -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>{0}引人入胜！演讲使信徒们陷入了狂热之中，神圣的瘟疫之风从动物的尸体上吹来，这是慈父赐予我们的伟大恩赐！</VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>
+  
+</LanguageData>

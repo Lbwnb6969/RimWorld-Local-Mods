@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make decorative flags (1x2) -->
+  <Make_Tav_Dec2x1Flags.label>制作装饰彩旗（1x2）</Make_Tav_Dec2x1Flags.label>
+  <!-- EN: Craft an banner of hanging flags. -->
+  <Make_Tav_Dec2x1Flags.description>制作一组五颜六色的悬挂彩旗。</Make_Tav_Dec2x1Flags.description>
+  <!-- EN: Making decor. -->
+  <Make_Tav_Dec2x1Flags.jobString>正在制作装饰彩旗（1x2）。</Make_Tav_Dec2x1Flags.jobString>
+  
+  <!-- EN: make decorative flags (1x3) -->
+  <Make_Tav_Dec3x1Flags.label>制作装饰彩旗（1x3）</Make_Tav_Dec3x1Flags.label>
+  <!-- EN: Craft an banner of hanging flags. -->
+  <Make_Tav_Dec3x1Flags.description>制作一组五颜六色的悬挂彩旗。</Make_Tav_Dec3x1Flags.description>
+  <!-- EN: Making decor. -->
+  <Make_Tav_Dec3x1Flags.jobString>正在制作装饰彩旗（1x3）。</Make_Tav_Dec3x1Flags.jobString>
+  
+  <!-- EN: make decorative flags (1x4) -->
+  <Make_Tav_Dec4x1Flags.label>制作装饰彩旗（1x4）</Make_Tav_Dec4x1Flags.label>
+  <!-- EN: Craft an banner of hanging flags. -->
+  <Make_Tav_Dec4x1Flags.description>制作一组五颜六色的悬挂彩旗。</Make_Tav_Dec4x1Flags.description>
+  <!-- EN: Making decor. -->
+  <Make_Tav_Dec4x1Flags.jobString>正在制作装饰彩旗（1x4）。</Make_Tav_Dec4x1Flags.jobString>
+  
+  <!-- EN: make trophy -->
+  <Make_Tav_DecTrophy.label>制作狩猎战利品</Make_Tav_DecTrophy.label>
+  <!-- EN: Create a wall-mounted trophy from various materials. -->
+  <Make_Tav_DecTrophy.description>用各种材料制作壁挂狩猎战利品。</Make_Tav_DecTrophy.description>
+  <!-- EN: Making decor. -->
+  <Make_Tav_DecTrophy.jobString>正在制作狩猎战利品。</Make_Tav_DecTrophy.jobString>
+  
+  <!-- EN: make kitchen accessory -->
+  <Make_Tav_KitchenAdd.label>制作厨房装饰品</Make_Tav_KitchenAdd.label>
+  <!-- EN: Create a decorative kitchen accessory. -->
+  <Make_Tav_KitchenAdd.description>制作厨房装饰品。</Make_Tav_KitchenAdd.description>
+  <!-- EN: Making decor. -->
+  <Make_Tav_KitchenAdd.jobString>正在制作厨房装饰品。</Make_Tav_KitchenAdd.jobString>
+  
+  <!-- EN: make round decorated rug (2x2) -->
+  <Make_Tav_RugA.label>制作精致圆形地毯</Make_Tav_RugA.label>
+  <!-- EN: Weave a round decorated rug from padding. -->
+  <Make_Tav_RugA.description>用软垫制作精致圆形地毯。</Make_Tav_RugA.description>
+  <!-- EN: Weaving a rug. -->
+  <Make_Tav_RugA.jobString>正在制作精致圆形地毯。</Make_Tav_RugA.jobString>
+  
+  <!-- EN: make round rug (2x2) -->
+  <Make_Tav_RugB.label>制作乡野圆形地毯</Make_Tav_RugB.label>
+  <!-- EN: Weave a round rug from fabric. -->
+  <Make_Tav_RugB.description>用织物制作乡野圆形地毯。</Make_Tav_RugB.description>
+  <!-- EN: Weaving a rug. -->
+  <Make_Tav_RugB.jobString>正在制作乡野圆形地毯。</Make_Tav_RugB.jobString>
+  
+  <!-- EN: make long rug (4x2) -->
+  <Make_Tav_RugSquare4X2A.label>制作乡野大型地毯</Make_Tav_RugSquare4X2A.label>
+  <!-- EN: Weave a long rectangular rug from fabric. -->
+  <Make_Tav_RugSquare4X2A.description>用织物制作乡野大型地毯。</Make_Tav_RugSquare4X2A.description>
+  <!-- EN: Weaving a rug. -->
+  <Make_Tav_RugSquare4X2A.jobString>正在制作乡野大型地毯。</Make_Tav_RugSquare4X2A.jobString>
+  
+  <!-- EN: make square decorated rug (2x2) -->
+  <Make_Tav_RugSquareA.label>制作精制地毯</Make_Tav_RugSquareA.label>
+  <!-- EN: Weave a square decorated rug from padding. -->
+  <Make_Tav_RugSquareA.description>用软垫制作精制地毯。</Make_Tav_RugSquareA.description>
+  <!-- EN: Weaving a rug. -->
+  <Make_Tav_RugSquareA.jobString>正在制作精制地毯。</Make_Tav_RugSquareA.jobString>
+  
+  <!-- EN: make square rug (2x2) -->
+  <Make_Tav_RugSquareB.label>制作乡野地毯</Make_Tav_RugSquareB.label>
+  <!-- EN: Weave a square rug from fabric. -->
+  <Make_Tav_RugSquareB.description>用织物制作乡野地毯。</Make_Tav_RugSquareB.description>
+  <!-- EN: Weaving a rug. -->
+  <Make_Tav_RugSquareB.jobString>正在制作乡野地毯。</Make_Tav_RugSquareB.jobString>
+  
+  <!-- EN: make straw rug (1x1) -->
+  <Make_Tav_StrawRugA.label>制作干草地毯</Make_Tav_StrawRugA.label>
+  <!-- EN: Weave a simple straw rug. -->
+  <Make_Tav_StrawRugA.description>用干草制作地毯。</Make_Tav_StrawRugA.description>
+  <!-- EN: Weaving a rug. -->
+  <Make_Tav_StrawRugA.jobString>正在制作干草地毯。</Make_Tav_StrawRugA.jobString>
+  
+  <!-- EN: make padding -->
+  <TavMake_Padding.label>制作软垫</TavMake_Padding.label>
+  <!-- EN: Combine various types of wool to create soft padding for insulation and comfort. -->
+  <TavMake_Padding.description>用混合毛料制作既保暖又舒适的软垫。</TavMake_Padding.description>
+  <!-- EN: Making padding. -->
+  <TavMake_Padding.jobString>正在制作软垫。</TavMake_Padding.jobString>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: destroyed merchant's guild camp -->
+  <VFEM2_DestroyedMerchantGuildCamp.label>被毁的行商营地</VFEM2_DestroyedMerchantGuildCamp.label>
+  <!-- EN: A destroyed camp. -->
+  <VFEM2_DestroyedMerchantGuildCamp.description>被毁的行商营地。</VFEM2_DestroyedMerchantGuildCamp.description>
+  
+  <!-- EN: merchant's guild -->
+  <VFEM2_MerchantGuildCaravan.label>行商公会</VFEM2_MerchantGuildCaravan.label>
+  <!-- EN: A group of traveling people. -->
+  <VFEM2_MerchantGuildCaravan.description>一群旅行中的商人。</VFEM2_MerchantGuildCaravan.description>
+  <!-- EN: You are about to attack the Merchants' Guild, which will make that faction hostile. Are you sure you want to do that? -->
+  <VFEM2_MerchantGuildCaravan.attackConfirmationMessage>你即将对行商公会发起攻击，这会使该派系与你敌对，你确定要这么做吗？</VFEM2_MerchantGuildCaravan.attackConfirmationMessage>
+  
+</LanguageData>

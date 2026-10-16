@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Uch Beylik -->
+  <BA_UchBeg.label>边境贝伊领</BA_UchBeg.label>
+  <!-- EN: You were never fully of the city, nor wholly of the steppe. Your people roamed with the herds, yet returned to the markets and mosques when the seasons allowed. Now, the frontier calls. You have gathered your kin and chosen to settle on the edge of the empire, armed with steel and the stubborn will of the steppe. This is the place where order ends, and opportunity begins.\nNote: Standard Rimworld experience with Turkish settlers.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_UchBeg.description>你既非完全属于城市，亦非彻底扎根草原。你的族人曾随牧群迁徙，却在季节轮转时重返市集与清真寺。如今，边疆的召唤响起。你召集族人，决意定居于帝国边缘，以钢铁为刃，以草原般坚韧的意志为盾。此地是秩序终结之处，亦是机遇起始之所。</BA_UchBeg.description>
+  <!-- EN: You were never fully of the city, nor wholly of the steppe. Your people roamed with the herds, yet returned to the markets and mosques when the seasons allowed. Now, the frontier calls. You have gathered your kin and chosen to settle on the edge of the empire, armed with steel and the stubborn will of the steppe. This is the place where order ends, and opportunity begins.\nNote: Standard Rimworld experience with Turkish settlers. -->
+  <BA_UchBeg.scenario.description>你既非完全属于城市，亦非彻底扎根草原。你的族人曾随牧群迁徙，却在季节轮转时重返市集与清真寺。如今，边疆的召唤响起。你召集族人，决意定居于帝国边缘，以钢铁为刃，以草原般坚韧的意志为盾。此地是秩序终结之处，亦是机遇起始之所。</BA_UchBeg.scenario.description>
+  <!-- EN: Uch Beylik -->
+  <BA_UchBeg.scenario.name>边境贝伊领</BA_UchBeg.scenario.name>
+  <!-- EN: After days of traveling across the endless steppe, you and your kin finally found a place to settle. You immediately sent a messenger to the Sultan, announcing your new domicile. Far from the capital, you are free to do as you wish here. Yet the locals are uneasy, their eyes filled with suspicion at your arrival.\nWith horses at your side and tents turned into homes, you begin to carve out a place for your kin. Half nomad, half settled, you will forge a beylik at the edge of the world. -->
+  <BA_UchBeg.scenario.parts.GameStartDialog.text>穿越无尽草原多日后，你与族人终于寻得定居之所。你即刻遣使觐见苏丹，宣告新领地的建立。远离都城，你在此可随心所欲。然而当地人却满心不安，他们的目光中充满对你到来的猜忌。以战马为伴，以帐篷为家，你开始为族人开拓生存空间。半是游牧，半是定居，你将在世界边缘铸就属于自己的贝伊领。</BA_UchBeg.scenario.parts.GameStartDialog.text>
+  <!-- EN: Three Turkish half-nomadic settlers. -->
+  <BA_UchBeg.scenario.summary>三名突厥半游牧定居者</BA_UchBeg.scenario.summary>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: close helmet -->
+  <TA_CloseHelmet_off.label>闭式头盔(面甲关闭)</TA_CloseHelmet_off.label>
+  <!-- EN: . -->
+  <TA_CloseHelmet_off.description>全封闭式金属头盔，提供全面防护但视野受限。</TA_CloseHelmet_off.description>
+  <!-- EN: close visor -->
+  <TA_CloseHelmet_off.comps.CompSwitchApparel.Label>关闭面甲</TA_CloseHelmet_off.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: close helmet -->
+  <TA_CloseHelmet_on.label>闭式头盔(面甲开启)</TA_CloseHelmet_on.label>
+  <!-- EN: . -->
+  <TA_CloseHelmet_on.description>全封闭式金属头盔，面甲开启时视野较好但防护降低。</TA_CloseHelmet_on.description>
+  <!-- EN: open visor -->
+  <TA_CloseHelmet_on.comps.CompSwitchApparel.Label>开启面甲</TA_CloseHelmet_on.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

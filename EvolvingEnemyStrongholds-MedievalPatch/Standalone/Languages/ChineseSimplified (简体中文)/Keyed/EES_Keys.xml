@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EES.Scout.TabLabel>侦察</EES.Scout.TabLabel>
+  <EES.Scout.NoData>(无数据)</EES.Scout.NoData>
+  <EES.Scout.NotScouted>(需要侦察)</EES.Scout.NotScouted>
+  <EES.Scout.TierOnly>等级: T{0}  (其他情报需要侦察)</EES.Scout.TierOnly>
+  <EES.Scout.NotScoutedDesc>该据点的实力、设施与防御只能通过侦察揭示。\n\n派遣远行队前往侦察，或不侦察直接进攻——后者会提升警戒度(直接强攻惩罚)。</EES.Scout.NotScoutedDesc>
+
+  <EES.Scout.TierRole>等级 {0}  ·  {1}</EES.Scout.TierRole>
+  <EES.Scout.TierHdr>等级 {0}</EES.Scout.TierHdr>
+  <EES.Scout.Hdr.Strength>实力</EES.Scout.Hdr.Strength>
+  <EES.Scout.Hdr.Defense>防御</EES.Scout.Hdr.Defense>
+  <EES.Scout.Hdr.Loot>预期战利品</EES.Scout.Hdr.Loot>
+  <EES.Scout.Hdr.Facilities>特殊情况</EES.Scout.Hdr.Facilities>
+  <EES.Scout.Hdr.Scouted>侦察</EES.Scout.Hdr.Scouted>
+
+  <EES.Scout.Mil>  军事力量: {0}</EES.Scout.Mil>
+  <EES.Scout.Fort>  防御工事: {0}</EES.Scout.Fort>
+  <EES.Scout.Supply>  补给: {0}</EES.Scout.Supply>
+  <EES.Scout.Alert>  警戒度: {0}</EES.Scout.Alert>
+  <EES.Scout.DedicatedNote>该前哨站由外部模组生成。EES仅应用守军、指挥官与警戒度，炮塔、金库与防御设施由该模组管理。</EES.Scout.DedicatedNote>
+
+  <EES.Scout.Turrets>  直射炮塔: 约{0}</EES.Scout.Turrets>
+  <EES.Scout.Mortars>  迫击炮: {0}</EES.Scout.Mortars>
+  <EES.Scout.NoDefense>  无防御设施</EES.Scout.NoDefense>
+
+  <EES.Scout.VaultValueEst>  &lt;color=#FFD24A&gt;金库估计价值: 约{0}白银&lt;/color&gt;</EES.Scout.VaultValueEst>
+  <EES.Scout.VaultValueExact>  &lt;color=#FFD24A&gt;金库确认价值: {0}白银&lt;/color&gt;</EES.Scout.VaultValueExact>
+  <EES.Scout.Silver>  白银: 约{0}</EES.Scout.Silver>
+  <EES.Scout.Resources>  资源/零部件: 黄金、玻璃钢、零部件等(随等级/科技提升)</EES.Scout.Resources>
+  <EES.Scout.RoleLoot>  角色专属战利品</EES.Scout.RoleLoot>
+  <EES.Scout.LegendaryT7>  &lt;color=#FFD24A&gt;★传说级/独特武器 x1 + 传说级护甲 x1&lt;/color&gt;</EES.Scout.LegendaryT7>
+  <EES.Scout.LegendaryT6>  &lt;color=#FFD24A&gt;★以下之一: 传说级武器 · 独特武器 · 传说级护甲&lt;/color&gt;</EES.Scout.LegendaryT6>
+
+  <EES.Scout.Fac.None>  (无特殊设施)</EES.Scout.Fac.None>
+  <EES.Scout.Fac.Comms>通信室(摧毁可阻止增援)</EES.Scout.Fac.Comms>
+  <EES.Scout.Fac.Ammo>弹药库</EES.Scout.Fac.Ammo>
+  <EES.Scout.Fac.Mortar>迫击炮阵地</EES.Scout.Fac.Mortar>
+  <EES.Scout.Fac.Prison>牢房(关押囚犯)</EES.Scout.Fac.Prison>
+  <EES.Scout.Fac.Commander>指挥官在场</EES.Scout.Fac.Commander>
+  <EES.Scout.Fac.Elite>精锐部队驻扎</EES.Scout.Fac.Elite>
+  <EES.Scout.Fac.Zone>{0}守卫驻扎</EES.Scout.Fac.Zone>
+  <EES.Scout.Fac.Pursuer>追击队就绪</EES.Scout.Fac.Pursuer>
+  <EES.Scout.Fac.Herald>传令队驻扎</EES.Scout.Fac.Herald>
+  <EES.Scout.Fac.Disruptor>扰乱组潜伏</EES.Scout.Fac.Disruptor>
+  <EES.Scout.Fac.Assault>强袭队待命</EES.Scout.Fac.Assault>
+  <EES.Scout.Fac.Mechs>驻扎机械体 {0} 台</EES.Scout.Fac.Mechs>
+  <EES.Role.CryoBarracks>休眠兵营</EES.Role.CryoBarracks>
+  <EES.Scout.CryoSign>侦测到低温休眠反应(规模不明)</EES.Scout.CryoSign>
+  <EES_Letter_CryoWake>休眠兵营苏醒</EES_Letter_CryoWake>
+  <EES.Cryo.WakeText>{0}的休眠预备部队正从低温休眠中苏醒并加入战斗!</EES.Cryo.WakeText>
+  <EES.Role.ArtilleryBase>炮击基地</EES.Role.ArtilleryBase>
+  <EES.Role.PsychicShrine>巫术祭坛</EES.Role.PsychicShrine>
+  <EES.Role.JammingStation>干扰基地</EES.Role.JammingStation>
+  <EES.Scout.Fac.Artillery>正在进行远程炮击</EES.Scout.Fac.Artillery>
+  <EES.Scout.Fac.Shrine>正在发射心灵波动</EES.Scout.Fac.Shrine>
+  <EES.Scout.Fac.Jamming>正在进行大范围干扰</EES.Scout.Fac.Jamming>
+  <EES_Letter_ArtyWarn>炮击基地警报</EES_Letter_ArtyWarn>
+  <EES.Arty.WarnText>发现炮击基地: {0}({1})。\n\n3天后将开始对殖民地进行远程炮击。摧毁该基地或其全部迫击炮即可停止炮击。</EES.Arty.WarnText>
+  <EES_Letter_ShrineWarn>巫术祭坛警告</EES_Letter_ShrineWarn>
+  <EES.Shrine.WarnText>发现巫术祭坛：{0}（{1}）。
+
+3天后心灵波动将开始影响你的殖民地。摧毁祭坛即可立刻停止。</EES.Shrine.WarnText>
+  <EES_Letter_JamWarn>干扰据点警告</EES_Letter_JamWarn>
+  <EES.Jam.WarnText>发现干扰据点：{0}（{1}）。
+
+3天后该势力据点的侦察将变得困难，通讯拦截与精确打击也会被封锁。摧毁据点即可解除。</EES.Jam.WarnText>
+  <EES_Letter_JamStart>干扰开始</EES_Letter_JamStart>
+  <EES.Jam.StartText>{0}的干扰据点已开始运作。
+
+该势力据点的侦察成功率下降，且无法使用通讯拦截与精确打击。摧毁据点即可解除。</EES.Jam.StartText>
+  <EES_Letter_ArtyVolley>炮击来袭</EES_Letter_ArtyVolley>
+  <EES.Arty.VolleyText>从{0}发射的炮弹正落向殖民地!</EES.Arty.VolleyText>
+  <EES.Arty.SilencedMsg>{0}: 迫击炮已全部被摧毁,炮击永久停止。</EES.Arty.SilencedMsg>
+  <EES_Letter_ShrineStart>心灵波动</EES_Letter_ShrineStart>
+  <EES.Shrine.StartText>附近的巫术祭坛({0},{1})开始向殖民地发射持续的心灵波动。在摧毁祭坛之前不会停止。</EES.Shrine.StartText>
+  <EES.Shrine.EndMsg>心灵波动已停止。</EES.Shrine.EndMsg>
+  <EES.Jam.Blocked>敌方干扰基地正在干扰通讯</EES.Jam.Blocked>
+  <EES.Set.Hdr.Emitters>威胁发射据点</EES.Set.Hdr.Emitters>
+  <EES.Set.ThreatEmitters>启用威胁发射据点 (高难度)</EES.Set.ThreatEmitters>
+  <EES.Set.ThreatStartDay>威胁发射据点开始出现的天数</EES.Set.ThreatStartDay>
+  <EES.Set.ThreatEmitters.Tip>启用炮击基地、巫术祭坛和干扰基地的出现与效果。关闭后将停止新出现和所有发射效果。</EES.Set.ThreatEmitters.Tip>
+  <EES.Set.EmitterSpawnDays>威胁发射据点生成周期</EES.Set.EmitterSpawnDays>
+  <EES.Set.ArtyVolleyDays>炮击间隔</EES.Set.ArtyVolleyDays>
+  <EES.Set.ArtyVolleyDays.Tip>炮击基地轰击殖民地的间隔(天)。</EES.Set.ArtyVolleyDays.Tip>
+  <EES.Rebuild.DestLabel>被摧毁的据点旧址</EES.Rebuild.DestLabel>
+  <EES_Letter_RebuildDepart>重建车队出发</EES_Letter_RebuildDepart>
+  <EES.Rebuild.DepartText>{0}派出了车队以重建被摧毁的据点。\n\n在其到达前拦截并击溃,即可永久取消该旧址的重建。若置之不理,据点将以削弱状态复活并再次成长。</EES.Rebuild.DepartText>
+  <EES_Letter_RebuildDone>据点已重建</EES_Letter_RebuildDone>
+  <EES.Rebuild.DoneText>{0}在旧址上重建了据点({1})。它以削弱状态开始,但会随时间再次成长。</EES.Rebuild.DoneText>
+  <EES.Rebuild.CancelMsg>重建车队已被消灭,该旧址的重建被永久取消。</EES.Rebuild.CancelMsg>
+  <EES.Set.Hdr.Rebuild>重建车队</EES.Set.Hdr.Rebuild>
+  <EES.Set.Rebuild>启用重建车队</EES.Set.Rebuild>
+  <EES.Set.Rebuild.Tip>各派系会派出车队重建被玩家摧毁的据点。拦截并击溃车队即可永久取消重建。</EES.Set.Rebuild.Tip>
+  <EES.Set.RebuildDelay>重建出发延迟</EES.Set.RebuildDelay>
+  <EES.Set.RebuildWD>与 World Domination 并用</EES.Set.RebuildWD>
+  <EES.Set.RebuildWD.Tip>启用 World Domination 模组时,重建车队默认关闭(避免与 WD 的废墟/再定居系统重叠)。开启此项可并用。</EES.Set.RebuildWD.Tip>
+
+  <EES.Scout.Date.Done>已侦察</EES.Scout.Date.Done>
+  <EES.Scout.Date.DaysAgo>{0}天前</EES.Scout.Date.DaysAgo>
+  <EES.Scout.Date.Full>{0} ({1})</EES.Scout.Date.Full>
+
+  <EES.Alert.None>无</EES.Alert.None>
+  <EES.Alert.Low>低</EES.Alert.Low>
+  <EES.Alert.Medium>中</EES.Alert.Medium>
+  <EES.Alert.High>高</EES.Alert.High>
+
+  <EES.Role.Generic>据点</EES.Role.Generic>
+  <EES.Role.CommandFortress>指挥要塞</EES.Role.CommandFortress>
+  <EES.Role.MilitaryBase>军事基地</EES.Role.MilitaryBase>
+  <EES.Role.Garrison>驻防地</EES.Role.Garrison>
+  <EES.Role.AmmoDepot>弹药库</EES.Role.AmmoDepot>
+  <EES.Role.MortarBattery>迫击炮阵地</EES.Role.MortarBattery>
+  <EES.Role.PrisonCamp>战俘营</EES.Role.PrisonCamp>
+  <EES.Role.ResearchOutpost>研究前哨站</EES.Role.ResearchOutpost>
+  <EES.Role.TreasureVault>宝库</EES.Role.TreasureVault>
+  <EES.Role.Outpost>前哨站</EES.Role.Outpost>
+  <EES.Role.SupplyDepot>补给站</EES.Role.SupplyDepot>
+  <EES.Role.TrainingCamp>训练营</EES.Role.TrainingCamp>
+  <EES.Role.BlackMarketHub>黑市枢纽</EES.Role.BlackMarketHub>
+  <EES.Role.NobleEstate>贵族庄园</EES.Role.NobleEstate>
+  <EES.Role.MechanoidRelay>机械族中继站</EES.Role.MechanoidRelay>
+  <EES.Role.InsectHive>虫族巢穴</EES.Role.InsectHive>
+  <EES.Role.ThrumboRanch>敲击兽牧场</EES.Role.ThrumboRanch>
+  <EES.Role.AlphaThrumboRanch>阿尔法敲击兽牧场</EES.Role.AlphaThrumboRanch>
+  <EES.Role.PollutedOutpost>受污染的前哨站</EES.Role.PollutedOutpost>
+  <EES.Role.Battlefield>战场</EES.Role.Battlefield>
+  <EES.Role.Mine>矿场</EES.Role.Mine>
+  <EES.Role.FakeOutpostInsect>假前哨站(虫群)</EES.Role.FakeOutpostInsect>
+  <EES.Role.FakeOutpostMech>假前哨站(机械族)</EES.Role.FakeOutpostMech>
+  <EES.Role.FakeOutpostEntity>假前哨站(实体)</EES.Role.FakeOutpostEntity>
+
+  <EES.Action.ScoutLabel>EES侦察: {0}</EES.Action.ScoutLabel>
+  <EES.Common.SuccessChance>成功率 {0}</EES.Common.SuccessChance>
+  <EES.Action.ScoutLabelChance>EES侦察: {0} (成功率 {1})</EES.Action.ScoutLabelChance>
+  <EES.Action.ScoutReport>EES侦察中: {0}</EES.Action.ScoutReport>
+  <EES.Gizmo.ScoutLabel>侦察</EES.Gizmo.ScoutLabel>
+  <EES.Gizmo.ScoutDescSuffix>\n\n派遣远行队尝试侦察(成功率 {0})。失败时会被发现——警戒度提升且关系恶化(-25)。</EES.Gizmo.ScoutDescSuffix>
+  <EES.Scout.PartyWarn>单人侦察效果最佳。携带的成员越多，被发现的概率越高，效率越低。\n\n此队伍的成功率: {0}\n\n仍以此队伍进行侦察吗?</EES.Scout.PartyWarn>
+  <EES.Scout.HopelessWarn>以当前的研究水平，侦察{0}级据点几乎不可能成功(成功率 {1})。失败会被发现——警戒度提升且关系恶化(-25)。仍要侦察吗?</EES.Scout.HopelessWarn>
+  <EES.Debug.InstantScout>[上帝模式] 即时侦察(传送)</EES.Debug.InstantScout>
+  <EES.Debug.InstantInfiltrate>[上帝模式] 即时潜入成功(破坏)</EES.Debug.InstantInfiltrate>
+
+  <EES.CanScout.Disabled>侦察系统已禁用</EES.CanScout.Disabled>
+  <EES.CanScout.NoData>无数据</EES.CanScout.NoData>
+  <EES.CanScout.AlreadyScouted>已侦察(情报已获取)</EES.CanScout.AlreadyScouted>
+  <EES.CanScout.Cooldown>侦察重试冷却 {0}</EES.CanScout.Cooldown>
+  <EES.CanScout.Blind>侦察者无法视物(视觉效率0%)</EES.CanScout.Blind>
+
+  <EES.Msg.Success>[EES] 侦察成功: 已获取{0}的完整情报</EES.Msg.Success>
+  <EES.Msg.Fail>[EES] 侦察被发现! {0} — 警戒度提升且关系恶化。侦察者损失: {1}</EES.Msg.Fail>
+
+  <EES.Reinf.Active>[EES] {0}的通信室正在运作——增援约每{1}到达一次。摧毁通信室即可切断增援。</EES.Reinf.Active>
+  <EES.Reinf.Wave>[EES] 敌方增援已到达! ({0})</EES.Reinf.Wave>
+  <EES.Reinf.BlockedCmd>[EES] 指挥官已被击杀——敌方增援被切断。</EES.Reinf.BlockedCmd>
+  <EES.Reinf.Countdown>增援到达倒计时: {0}</EES.Reinf.Countdown>
+  <EES.Reinf.CountdownDesc>该据点的通信室正在呼叫增援。计时结束时，下一波将从地图边缘进入。
+
+摧毁通信室(或击杀指挥官)即可切断增援。</EES.Reinf.CountdownDesc>
+  <EES.Cmd.Killed>[EES] 敌方指挥官已被击杀! 守军士气崩溃。</EES.Cmd.Killed>
+  <EES.Vault.Value>[EES] {0}的宝库价值: 约{1}白银的战利品。</EES.Vault.Value>
+  <EES.Traps.Cleared>[EES] 据点已清剿 — 已解除{0}个隐藏的敌方陷阱。可安全收取战利品。</EES.Traps.Cleared>
+  <EES.Cmd.Resurrect>[EES] 狂热煽动者复活了{0}名倒下的守军!</EES.Cmd.Resurrect>
+  <EES.Cmd.Rally>[EES] 狂热煽动者使{0}名失能的守军重新站起!</EES.Cmd.Rally>
+  <EES.Cmd.ResearchCore>[EES] 研究主管之死产出了一枚科技核心。</EES.Cmd.ResearchCore>
+
+  <EES.BuyIntel.Label>购买情报</EES.BuyIntel.Label>
+  <EES.BuyIntel.Desc>消耗一枚情报数据核心，远程揭示该据点的信息(无需远行队，无风险)。\n\n会优先使用能覆盖目标等级的最低等级核心。</EES.BuyIntel.Desc>
+  <EES.BuyIntel.Done>[EES] 已获取{0}的情报——消耗了{1}。</EES.BuyIntel.Done>
+  <EES.BuyIntel.NoItem>没有能覆盖该等级(T{0})的情报数据核心。可向奇异物品商人购买。</EES.BuyIntel.NoItem>
+  <EES.BuyIntel.TooHigh>该等级无法用情报数据核心获取(最高T12)。</EES.BuyIntel.TooHigh>
+
+  <EES.Action.InfiltrateLabel>EES潜入: {0}</EES.Action.InfiltrateLabel>
+  <EES.Action.InfiltrateLabelChance>EES潜入: {0} (成功率 {1})</EES.Action.InfiltrateLabelChance>
+  <EES.Action.InfiltrateReport>EES潜入中: {0}</EES.Action.InfiltrateReport>
+  <EES.Gizmo.InfiltrateLabel>潜入</EES.Gizmo.InfiltrateLabel>
+  <EES.Gizmo.InfiltrateDesc>派遣潜入小队(最多3人中的{1}人)破坏敌方炮塔(成功率 {0})。\n\n主要属性=移动速度，次要=射击+格斗(合计40为上限)，权重60:40。成员越多成功率越高(2人=+5%，3人=+15%)。4人及以上则无法潜入。\n\n成功时: 警戒度大幅下降，炮塔永久失效。失败时: 每名参与者各自被俘/击杀，且关系恶化(-25)。\n\n注: 只能潜入已侦察过的据点。</EES.Gizmo.InfiltrateDesc>
+  <EES.Gizmo.InfiltrateDescLocked>派遣潜入小队(最多3人中的{0}人)破坏敌方炮塔。\n\n主要属性=移动速度，次要=射击+格斗(合计40为上限)，权重60:40。成员越多成功率越高(2人=+5%，3人=+15%)。4人及以上则无法潜入。\n\n成功时: 警戒度大幅下降，炮塔永久失效。失败时: 每名参与者各自被俸/击杀，且关系恶化(-25)。\n\n注: 只能潜入已侦察过的据点。成功率将在侦察完成后显示。</EES.Gizmo.InfiltrateDescLocked>
+  <EES.Infil.Success>[EES] 潜入成功: 在{0}破坏了{1}座炮塔!</EES.Infil.Success>
+  <EES.Infil.FakeEmpty>[EES] {0}: 炮塔破坏成功了，但那里空无一人。</EES.Infil.FakeEmpty>
+  <EES.Infil.FailParty>[EES] 潜入被发现! {0} — {1}。关系恶化。</EES.Infil.FailParty>
+  <EES.Infil.FateLine>{0} {1}</EES.Infil.FateLine>
+  <EES.Infil.TooMany>潜入小队最多{0}人。将队伍减至{0}人或以下方可潜入。</EES.Infil.TooMany>
+  <EES.Infil.NeedScout>潜入前必须先侦察该据点。</EES.Infil.NeedScout>
+  <EES.Infil.DedicatedBase>该前哨站由外部模组生成，没有可破坏的炮塔，因此无法潜入。</EES.Infil.DedicatedBase>
+  <EES.Infil.NoAgent>远行队中没有可用于潜入的特工(殖民者)。</EES.Infil.NoAgent>
+  <EES.Infil.AlreadyDone>该据点已被潜入(无法再次潜入)。</EES.Infil.AlreadyDone>
+  <EES.Infil.TierTooHigh>该等级(T13)无法潜入。</EES.Infil.TierTooHigh>
+  <EES.Infil.Fate.Dead>死亡</EES.Infil.Fate.Dead>
+  <EES.Infil.Fate.Captured>被俘</EES.Infil.Fate.Captured>
+  <EES.Infil.Fate.Wounded>负伤但逃脱</EES.Infil.Fate.Wounded>
+  <EES.Infil.Fate.Escaped>毫发无伤地逃脱</EES.Infil.Fate.Escaped>
+  <EES.Infil.Fate.Device>紧急逃脱(使用了装置)</EES.Infil.Fate.Device>
+  <EES.Scout.Sabotaged>  &lt;color=#FF7A4A&gt;└ {0}座直射炮塔已被破坏(已计入上方)&lt;/color&gt;</EES.Scout.Sabotaged>
+  <EES.Scout.SabotagedMortar>  &lt;color=#FF7A4A&gt;└ {0}座迫击炮已被破坏(已计入上方)&lt;/color&gt;</EES.Scout.SabotagedMortar>
+  <EES.Intel.Sabotaged>因潜入破坏，{0}座炮塔已失效</EES.Intel.Sabotaged>
+
+  <EES.Intercept.MenuLabel>EES 拦截敌方据点通信</EES.Intercept.MenuLabel>
+  <EES.Intercept.NoPower>无电力</EES.Intercept.NoPower>
+  <EES.Intercept.Unreachable>无法到达</EES.Intercept.Unreachable>
+  <EES.Intercept.BadTarget>不是EES据点(请选择敌对/中立/盟友的前哨站)。</EES.Intercept.BadTarget>
+  <EES.Intercept.Started>[EES] 拦截开始: {0}(操作者: {1})。约4小时后出结果。</EES.Intercept.Started>
+  <EES.Intercept.Success>[EES] 拦截成功: 已获取{0}的完整情报。</EES.Intercept.Success>
+  <EES_Letter_InterceptRaid>拦截被侦测——报复</EES_Letter_InterceptRaid>
+  <EES.Intercept.RaidText>你的拦截被侦测到了。{0}勃然大怒，立即袭击你的殖民地。</EES.Intercept.RaidText>
+  <EES_Letter_InterceptMech>拦截被侦测——机械族信号被转接</EES_Letter_InterceptMech>
+  <EES.Intercept.MechText>你的拦截被侦测到了。{0}将一段拦截到的机械族信号转接到你的殖民地——机械族正在空降。</EES.Intercept.MechText>
+  <EES.Strike.MenuLabel>对敌方据点精密打击</EES.Strike.MenuLabel>
+  <EES.Strike.Started>[EES] 精密打击开始: {0}(操作者: {1})。约4小时后出结果。</EES.Strike.Started>
+  <EES_Letter_StrikeFailed>精密打击失败——强制电路短路</EES_Letter_StrikeFailed>
+  <EES.Strike.FailText>对{0}的远程精密打击失败了。敌方反向入侵了你的电网，强制使{1}处电线发生短路（滋滋）——即使是地埋电线也无法幸免。</EES.Strike.FailText>
+
+  <EES.DebugGizmo.Role>EES角色: {0}</EES.DebugGizmo.Role>
+  <EES.DebugGizmo.RoleDesc>[上帝模式] 直接指定该据点的角色(影响设施、主题建筑、战利品与指挥官出现率)。下次进入该据点地图时生效。</EES.DebugGizmo.RoleDesc>
+
+  <EES.Cmd.Type.Commander>指挥官</EES.Cmd.Type.Commander>
+  <EES.Cmd.Type.Marksman>神射手</EES.Cmd.Type.Marksman>
+  <EES.Cmd.Type.Comms>通信官</EES.Cmd.Type.Comms>
+  <EES.Cmd.Type.Defense>防卫官</EES.Cmd.Type.Defense>
+  <EES.Cmd.Type.Fanatic>狂热煽动者</EES.Cmd.Type.Fanatic>
+  <EES.Cmd.Type.Security>保安主管</EES.Cmd.Type.Security>
+  <EES.Cmd.Type.Assault>突击队长</EES.Cmd.Type.Assault>
+  <EES.Cmd.Type.Engineer>工兵指挥官</EES.Cmd.Type.Engineer>
+  <EES.Cmd.Type.Research>研究主管</EES.Cmd.Type.Research>
+  <EES.Cmd.Type.Warlord>军阀</EES.Cmd.Type.Warlord>
+  <EES.Cmd.Type.Observer>观测官</EES.Cmd.Type.Observer>
+  <EES.Power.Cut>[EES] 据点的发电机被摧毁——其供电炮塔停止运作。</EES.Power.Cut>
+  <EES.Prisoner.Held>正关押{0}名被俘侦察者——攻击该据点以解救他们。</EES.Prisoner.Held>
+
+  <EES.Emitter.Inspect>{0} — 在被摧毁之前会持续向殖民地发射威胁。</EES.Emitter.Inspect>
+  <EES.Emitter.AlertLabel>威胁发射据点 {0}处</EES.Emitter.AlertLabel>
+  <EES.Emitter.AlertEntry>{0} — {1}（所属：{2}）</EES.Emitter.AlertEntry>
+  <EES.Emitter.AlertDesc>这些据点在被摧毁之前会持续向殖民地发射威胁。点击条目即可跳转到该据点。
+
+所属势力可能因战争或征服而改变。若与最初通知中标注的势力不同，此处显示的势力才是当前的所有者。</EES.Emitter.AlertDesc>
+
+  <!-- 赎金谈判（通讯台派系对话） -->
+  <EES.Ransom.Option>赎回被俘侦察者（{0}人）</EES.Ransom.Option>
+  <EES.Ransom.Intro>你的人在我们手上。只要付得起价钱，就放人。</EES.Ransom.Intro>
+  <EES.Ransom.Entry>{0}（关押于{1}）— 赎金 白银{2}</EES.Ransom.Entry>
+  <EES.Ransom.Paid>已支付赎金白银{1}。{0}即将归来。</EES.Ransom.Paid>
+
+  <!-- 补给商队 -->
+  <EES.Set.Hdr.Supply>补给商队</EES.Set.Hdr.Supply>
+  <EES.Set.Supply>出现补给商队</EES.Set.Supply>
+  <EES.Set.Supply.Tip>前往敌对据点的补给商队会定期出现在周边。拦截可夺取货物，并使目的地据点暂时弱化。</EES.Set.Supply.Tip>
+  <EES.Set.SupplyDays>出现判定周期</EES.Set.SupplyDays>
+  <EES.Set.SupplyMax>同时存在上限</EES.Set.SupplyMax>
+  <EES.Set.SupplyLetter>补给商队侦测通知</EES.Set.SupplyLetter>
+  <EES.Set.SupplyLetter.Tip>补给商队出现在世界地图时显示通知信件。关闭后将悄然出现，需自行在世界地图上发现。默认: 开启。</EES.Set.SupplyLetter.Tip>
+  <EES.Supply.Inspect.Dest>目的地：{0}——约{1}后抵达</EES.Supply.Inspect.Dest>
+  <EES.Supply.Inspect.Escort>护卫规模估计：约{0}人</EES.Supply.Inspect.Escort>
+  <EES.Supply.Intercept>拦截补给商队</EES.Supply.Intercept>
+  <EES.Supply.Intercept.No>无法拦截——在抵达前追不上</EES.Supply.Intercept.No>
+  <EES.Supply.Intercept.Now>立即交战</EES.Supply.Intercept.Now>
+  <EES.Supply.Intercept.Wait>伏击就绪——等待补给商队抵达</EES.Supply.Intercept.Wait>
+  <EES.Supply.Intercept.Cancel>取消拦截</EES.Supply.Intercept.Cancel>
+  <EES.Supply.Intercept.Canceled>已取消拦截——补给商队经过时不会交战。</EES.Supply.Intercept.Canceled>
+  <EES.Supply.Intercept.WorldWarAlly>世界大战中属于同一阵营——无法拦截</EES.Supply.Intercept.WorldWarAlly>
+  <EES.Supply.Intercept.WorldWarNeutral>世界大战中的中立国——无法拦截其他派系的补给商队</EES.Supply.Intercept.WorldWarNeutral>
+  <EES.Supply.Intercept.Overlap>与据点重叠——待其离开后方可拦截</EES.Supply.Intercept.Overlap>  <EES.Supply.Intercept.Ordered>正前往拦截点——切断补给商队。</EES.Supply.Intercept.Ordered>
+  <EES_Letter_SupplyCaravan>侦测到补给商队</EES_Letter_SupplyCaravan>
+  <EES.Supply.Letter.Text>{0}的补给商队正前往{1}。在其抵达前拦截，可夺取货物并暂时削弱目的地据点。</EES.Supply.Letter.Text>
+  <EES_Letter_SupplyInvaded>补给商队闯入！</EES_Letter_SupplyInvaded>
+  <EES.Supply.Invaded.Text>敌方补给商队进入了我方区域。歼灭其护卫队即可夺取货物并削弱目的地据点。</EES.Supply.Invaded.Text>
+  <EES_Letter_SupplyEngaged>拦截补给商队</EES_Letter_SupplyEngaged>
+  <EES.Supply.Engaged.Text>追上了补给商队。护卫队正在保卫货物。</EES.Supply.Engaged.Text>
+  <EES.Supply.Arrived>补给商队已抵达{0}。</EES.Supply.Arrived>
+  <EES.Supply.Missed>补给商队溜走了——拦截已解除。</EES.Supply.Missed>
+  <EES.Supply.Cut>{0}的补给已被切断——防御将暂时弱化。</EES.Supply.Cut>
+  <EES.Supply.CutInspect>补给中断——剩余{0}</EES.Supply.CutInspect>
+  <EES.Scout.SupplyCut>补给中断——直射炮塔-{0}、迫击炮-{1}已生效（剩余{2}）</EES.Scout.SupplyCut>
+
+  <EES.Casualty.NoCaravan>无(无远行队)</EES.Casualty.NoCaravan>
+  <EES.Casualty.AllEscaped>全员安全逃脱</EES.Casualty.AllEscaped>
+  <EES.Casualty.Summary>负伤 {0} / 被俘 {1} / 死亡 {2}</EES.Casualty.Summary>
+  <EES.Casualty.DeviceNote> (使用了紧急逃脱装置 x{0})</EES.Casualty.DeviceNote>
+
+  <EES.Intel.Faction>派系: {0} ({1})</EES.Intel.Faction>
+  <EES.Intel.TierOnly>等级: T{0}(其他情报未侦察)</EES.Intel.TierOnly>
+  <EES.Intel.NotScouted>情报: 未侦察(侦察以揭示完整情报)</EES.Intel.NotScouted>
+  <EES.Intel.ScoutedHeader>── 已侦察 ──</EES.Intel.ScoutedHeader>
+  <EES.Intel.TierRole>等级: T{0} / 角色: {1}</EES.Intel.TierRole>
+  <EES.Intel.PawnsAlert>估计兵力: {0} / 警戒度: {1}</EES.Intel.PawnsAlert>
+  <EES.Intel.Defense>防御: 防御工事 {0}/100 / 补给 {1}</EES.Intel.Defense>
+  <EES.Intel.Commander>指挥官: {0} / 战利品: {1}</EES.Intel.Commander>
+  <EES.Intel.Military>军事力量: {0}</EES.Intel.Military>
+  <EES.Intel.PawnRange>{0}-{1}人</EES.Intel.PawnRange>
+  <EES.Common.Yes>有</EES.Common.Yes>
+  <EES.Common.No>无</EES.Common.No>
+  <EES.Common.Unknown>?</EES.Common.Unknown>
+  <EES.Common.Generic>通用</EES.Common.Generic>
+
+  <EES.Set.Hdr.Basic>── 基础 (等级·成长) ──</EES.Set.Hdr.Basic>
+  <EES.Set.MaxTier>最高等级</EES.Set.MaxTier>
+  <EES.Set.Growth>成长速度</EES.Set.Growth>
+  <EES.Set.LootValue>战利品 / 金库价值</EES.Set.LootValue>
+  <EES.Set.LegendaryTier>传说级装备出现等级</EES.Set.LegendaryTier>
+  <EES.Set.Hdr.Turret>── 炮塔 / 特殊设施 ──</EES.Set.Hdr.Turret>
+  <EES.Set.TurretDensity>炮塔密度</EES.Set.TurretDensity>
+  <EES.Set.Hdr.Combat>── 守军 / 战斗点数 ──</EES.Set.Hdr.Combat>
+  <EES.Set.MilMul>守军军事力量</EES.Set.MilMul>
+  <EES.Set.MilPerTier>每等级战斗点数</EES.Set.MilPerTier>
+  <EES.Set.AlertMil>每警戒度战斗点数</EES.Set.AlertMil>
+  <EES.Set.PerAlert>警戒度</EES.Set.PerAlert>
+  <EES.Set.Facility>特殊设施出现率</EES.Set.Facility>
+  <EES.Set.Hdr.Scout>── 侦察 / 潜入 / 拦截 ──</EES.Set.Hdr.Scout>
+  <EES.Set.ScoutSuccess>侦察成功率</EES.Set.ScoutSuccess>
+  <EES.Set.InfiltrateSuccess>潜入成功率</EES.Set.InfiltrateSuccess>
+  <EES.Set.Sabotage>潜入破坏量</EES.Set.Sabotage>
+  <EES.Set.PreventDeath>防止死亡(侦察/潜入)</EES.Set.PreventDeath>
+  <EES.Set.PreventDeath.Tip>开启时，侦察/潜入失败时侦察者/特工绝不会死亡(死亡率0%)。死亡的概率将转化为被俘/受伤/逃脱(仍可能被俘)。开启期间，商人不会出售"紧急逃脱装置"。默认: 关闭。</EES.Set.PreventDeath.Tip>
+  <EES.Set.ScoutUnlockHigh>解锁高等级侦察</EES.Set.ScoutUnlockHigh>
+  <EES.Set.ScoutUnlockHigh.Tip>开启时，8级以上据点的侦察准入门槛将被移除。即使完全没有研究，成功率也不会降至0%(最低6%)。同时适用于侦察、拦截与精密打击。失败时的暴露率不变，7级及以下与后期的成功率也保持原样。默认: 关闭。</EES.Set.ScoutUnlockHigh.Tip>
+  <EES.Set.InterceptCd>拦截冷却</EES.Set.InterceptCd>
+  <EES.Set.InterceptMech>拦截时机械信号转接概率(T9+)</EES.Set.InterceptMech>
+  <EES.Set.Days>天</EES.Set.Days>
+  <EES.Set.Hours>小时</EES.Set.Hours>
+  <EES.Set.Hdr.Ambush>── 伏击(未侦察强攻) ──</EES.Set.Hdr.Ambush>
+  <EES.Set.AmbushSize>伏击规模(占据点战力)</EES.Set.AmbushSize>
+  <EES.Set.AmbushMax>伏击最大点数</EES.Set.AmbushMax>
+  <EES.Set.AmbushAlert>伏击警戒度缩放</EES.Set.AmbushAlert>
+  <EES.Set.Hdr.Reinforce>── 增援 ──</EES.Set.Hdr.Reinforce>
+  <EES.Set.ReinInterval>增援间隔</EES.Set.ReinInterval>
+  <EES.Set.ReinSize>增援规模(占据点战力)</EES.Set.ReinSize>
+  <EES.Set.Hdr.Toggles>── 功能开关 ──</EES.Set.Hdr.Toggles>
+  <EES.Set.WDTierSync>由 EES 生成 World Domination 据点</EES.Set.WDTierSync>
+  <EES.WD.InspectTier>EES 等级：T{0}（WD 战力 {1}）</EES.WD.InspectTier>
+  <EES.Set.WDTierSync.Tip>安装 World Domination 时，EES 接管 WD 据点的前哨基地生成与等级。将生成 EES 基地而非 WD 的 KCSG 布局，等级根据各据点的 WD 发展度(strength)换算到 EES 等级(T1~13，受势力时代上限约束)显示。World Domination 的世界模拟(战争、扩张、突袭)照常运作。关闭则保留 WD 原版基地与等级。默认：开启。</EES.Set.WDTierSync.Tip>
+  <EES.Set.TierAmmo>CE按等级弹药(步枪/炮塔)</EES.Set.TierAmmo>
+  <EES.Set.TierAmmo.Tip>CE整合开启时，守军步枪与CE炮塔装填的弹种按据点等级差异化。低等级以FMJ、HP为主，等级越高AP → 燃烧弹 → 高爆弹的比重越大。手枪、冲锋枪、发射器等保持CE默认配给。默认: 开启。</EES.Set.TierAmmo.Tip>
+  <EES.Set.WealthScale>随玩家财富缩放</EES.Set.WealthScale>
+  <EES.Set.WealthScale.Tip>开启时，殖民地财富会小幅加速据点成长进度(财富越多据点成长略快)。成长的核心始终是研究阶段，财富仅是辅助加速。关闭则完全不考虑财富。默认: 开启。</EES.Set.WealthScale.Tip>
+  <EES.Set.ResearchScale>随玩家研究缩放</EES.Set.ResearchScale>
+  <EES.Set.ResearchScale.Tip>开启时，玩家的研究阶段(电力、机械加工、精密制造等时代关口)是据点成长进度的核心。关闭则不考虑研究——据点仅靠天数/财富极缓慢成长，侦察成功率估算也只使用经过天数。默认: 开启。</EES.Set.ResearchScale.Tip>
+  <EES.Set.AllowMortars>允许迫击炮</EES.Set.AllowMortars>
+  <EES.Set.AllowMortars.Tip>关闭后据点不再布置迫击炮(即使拥有迫击炮阵地设施也为0门)。侦察页签/侦察报告的估算同样显示为0。开启时，拥有迫击炮阵地的据点(T6+)按等级布置相应数量。默认: 开启。</EES.Set.AllowMortars.Tip>
+  <EES.Set.AlertSystem>警戒系统</EES.Set.AlertSystem>
+  <EES.Set.AlertSystem.Tip>管理各据点的警戒度(0~5)。攻击据点会提升其警戒度并向同势力邻近据点扩散，随时间自然衰减。警戒度越高守军与伏击规模越大(即下方"每警戒度战斗点数"倍率)。关闭后警戒度不再上升。默认: 开启。</EES.Set.AlertSystem.Tip>
+  <EES.Set.Scouting>侦察</EES.Set.Scouting>
+  <EES.Set.Scouting.Tip>侦察、潜入与通讯拦截系统的总开关。关闭后据点的侦察/潜入指令消失，攻击未侦察据点的伏击惩罚也不再触发。默认: 开启。</EES.Set.Scouting.Tip>
+  <EES.Set.Reinforcements>增援</EES.Set.Reinforcements>
+  <EES.Set.Reinforcements.Tip>攻打据点期间，只要其通讯室与指挥官仍在，外部增援会定期抵达(间隔/规模见下方滑条)。摧毁通讯室或击杀指挥官可切断增援。关闭后不再有增援。默认: 开启。</EES.Set.Reinforcements.Tip>
+  <EES.Set.Commanders>指挥官</EES.Set.Commanders>
+  <EES.Set.Commanders.Tip>高等级据点会配置指挥官(10种类型——强化守军的光环、专属装备、存活期间维持增援等)。关闭后不再生成指挥官。默认: 开启。</EES.Set.Commanders.Tip>
+  <EES.Set.DisableBattlefield>禁用战场(四方混战)</EES.Set.DisableBattlefield>
+  <EES.Set.DisableBattlefield.Tip>开启后战场(Battlefield)前哨站将不再出现。战场是多势力四方混战的持续袭击，性能开销很大。默认=关闭(战场会出现)。</EES.Set.DisableBattlefield.Tip>
+  <EES.Set.CEIntegration>CE整合(CE启用时)</EES.Set.CEIntegration>
+  <EES.Set.CEIntegration.Tip>使用 Combat Extended 时 EES 全部 CE 整合的总开关——守军弹药保障、机枪手编成、CE炮塔弹匣装填与有人炮塔的备用弹药、弹药库CE战利品、高等级CE强化墙/强化门等。未安装CE时无论此设置如何都自动停用。默认: 开启。</EES.Set.CEIntegration.Tip>
+  <EES.Set.DebugLog>[开发] 详细日志</EES.Set.DebugLog>
+  <EES.Set.DebugLog.Tip>向游戏日志输出用于开发与问题诊断的详细信息。仅在报告bug时开启。默认: 关闭。</EES.Set.DebugLog.Tip>
+  <EES.Set.Tab.Values>数值设置</EES.Set.Tab.Values>
+  <EES.Set.Tab.Blacklist>势力黑名单</EES.Set.Tab.Blacklist>
+  <EES.Set.Blacklist.Desc>被勾选的势力将不应用EES系统(等级、侦察/潜入、指挥官、警戒度、伏击、战利品、据点生成)。仅显示会建立定居点的势力。</EES.Set.Blacklist.Desc>
+  <EES.Set.Reset>默认</EES.Set.Reset>
+  <EES.Set.Tab.TurretBL>炮塔黑名单</EES.Set.Tab.TurretBL>
+  <EES.Set.TurretBL.RaceHdr>模组种族关联炮塔(按势力)</EES.Set.TurretBL.RaceHdr>
+  <EES.Set.TurretBL.RaceDesc>被勾选的炮塔不会布置在该势力的据点中。若某势力的炮塔全部勾选，则该势力改用原版炮塔。</EES.Set.TurretBL.RaceDesc>
+  <EES.Set.TurretBL.ModHdr>模组新增炮塔</EES.Set.TurretBL.ModHdr>
+  <EES.Set.TurretBL.ModDesc>被勾选的炮塔不会布置在任何据点中。原版炮塔不受影响。</EES.Set.TurretBL.ModDesc>
+  <EES.Set.TurretBL.None>(没有对应的模组炮塔)</EES.Set.TurretBL.None>
+
+  <EES.Observer.Target>观测官将{0}标记为目标。</EES.Observer.Target>
+  <EES.Observer.Countdown>下次目标指定: {0}</EES.Observer.Countdown>
+  <EES.Observer.CountdownDesc>观测官会定期将你队伍中的一人指定为目标。除射手外的所有敌人都会集火该目标。击杀指挥官(观测官)即可停止。</EES.Observer.CountdownDesc>
+  <EES.Observer.CountdownDescTarget>观测官已将{0}指定为目标。除射手外的所有敌人都会集火。击杀指挥官(观测官)即可停止。</EES.Observer.CountdownDescTarget>
+  <EES.Battlefield.Countdown>下次战场增援: {0}</EES.Battlefield.Countdown>
+  <EES.Battlefield.CountdownDesc>增援即将抵达: {0}。四方混战 — 前哨站、敌对势力、第三势力与你混战。</EES.Battlefield.CountdownDesc>
+  <EES.Battlefield.Wave.C>敌对势力(进攻前哨站)</EES.Battlefield.Wave.C>
+  <EES.Battlefield.Wave.D>第三势力(包围外墙，不进入)</EES.Battlefield.Wave.D>
+  <EES.Battlefield.Wave.B>前哨站增援(中央空降)</EES.Battlefield.Wave.B>
+  <EES.Group.PursuerAssault>{0}的追击队开始追击你！</EES.Group.PursuerAssault>
+  <EES.Group.ZoneRelease>{0}的守卫离开岗位追击！</EES.Group.ZoneRelease>
+  <EES.Group.PursuerAssaultAlly>{0}的追击队出击追捕入侵者！</EES.Group.PursuerAssaultAlly>
+  <EES.Group.ZoneReleaseAlly>{0}的守卫离开岗位追击入侵者！</EES.Group.ZoneReleaseAlly>
+  <EES.Group.HeraldRetreat>{0}的传令队带着情报撤退。(警戒提升)</EES.Group.HeraldRetreat>
+  <EES.Group.HeraldKilled>{0}的传令队被全歼，阻止了情报泄露。</EES.Group.HeraldKilled>
+  <EES.Group.HeraldRetreatAttempt>{0}的传令队试图撤退！</EES.Group.HeraldRetreatAttempt>
+  <EES.Group.HeraldDrop>{0}的传令队传递了情报——增援部队空降至基地中央！（{1}）</EES.Group.HeraldDrop>
+  <EES.Group.GroupFlee>{0}的部分部队因士气低落撤退。</EES.Group.GroupFlee>
+  <EES.Assault.SettlementWarning>敌人已查明你的定居点位置。强袭即将到来，请做好防御准备。</EES.Assault.SettlementWarning>
+  <EES.Assault.WalkInLate>强袭似乎失败了。强袭队正徒步追击你。</EES.Assault.WalkInLate>
+
+  <!-- 反侦察 + HVT悬赏 (2026-07-03) -->
+  <EES.Set.Hdr.CScout>反侦察</EES.Set.Hdr.CScout>
+  <EES.Set.CScout>敌方侦察兵</EES.Set.CScout>
+  <EES.Set.CScout.Tip>高阶(T6+)敌对据点会派遣隐身侦察兵潜入你的定居点。放跑他们会招来针对性袭击；活捉可审讯获取其据点的侦察情报。</EES.Set.CScout.Tip>
+  <EES.Set.CScoutDays>派遣判定周期</EES.Set.CScoutDays>
+  <EES.Set.Hdr.HVT>悬赏</EES.Set.Hdr.HVT>
+  <EES.Set.HVT>指挥官悬赏任务</EES.Set.HVT>
+  <EES.Set.HVT.Tip>第三方势力会悬赏敌对据点的指挥官。在期限内击杀指挥官或摧毁据点即可三选一领取奖励。</EES.Set.HVT.Tip>
+  <EES.Set.HVTDays>发布判定周期</EES.Set.HVTDays>
+  <EES_Letter_CounterScoutArrived>敌方侦察队潜入</EES_Letter_CounterScoutArrived>
+  <EES.CScout.Arrived.Text>{0}的侦察队已潜入，并在地图{1}外缘某处驻扎。他们处于隐身状态，确切位置未知 — 靠近时会现出原形。\n\n侦察队不会移动，观察约一天后便会撤离。请在此之前搜索{1}外缘，将其击杀或俘虏。若其活着逃脱，定居点的情报将落入敌手。</EES.CScout.Arrived.Text>
+  <EES.Dir.N>北部</EES.Dir.N>
+  <EES.Dir.NE>东北部</EES.Dir.NE>
+  <EES.Dir.E>东部</EES.Dir.E>
+  <EES.Dir.SE>东南部</EES.Dir.SE>
+  <EES.Dir.S>南部</EES.Dir.S>
+  <EES.Dir.SW>西南部</EES.Dir.SW>
+  <EES.Dir.W>西部</EES.Dir.W>
+  <EES.Dir.NW>西北部</EES.Dir.NW>
+  <EES.CScout.Revealed>{0}发现了隐身的敌方侦察兵！侦察兵正试图逃跑。</EES.CScout.Revealed>
+  <EES.CScout.Captured>审讯侦察兵{0}: 获得了{1}的内部情报。(侦察情报 +1)</EES.CScout.Captured>
+  <EES.CScout.CapturedNoIntel>活捉了侦察兵{0}，但没能问出其据点的情报。</EES.CScout.CapturedNoIntel>
+  <EES_Letter_CounterScoutEscaped>侦察队逃脱</EES_Letter_CounterScoutEscaped>
+  <EES.CScout.Escaped.Text>{0}的侦察队带着定居点情报逃走了。\n\n预计不久后会有基于该情报的针对性袭击。</EES.CScout.Escaped.Text>
+  <EES_Letter_CounterScoutRaid>针对性袭击</EES_Letter_CounterScoutRaid>
+  <EES.CScout.Raid.Text>{0}利用侦察获得的定居点情报发动了袭击。兵力比平时更强。</EES.CScout.Raid.Text>
+  <EES.HVT.Name>悬赏: {0}的指挥官</EES.HVT.Name>
+  <EES.HVT.Desc>{0}悬赏摧毁由效力于敌对势力{1}的指挥官({2})统领的据点。\n\n目标据点等级: {3}\n{4}\n\n接受后，委托方将提供位于殖民地附近的目标前哨基地坐标。摧毁该前哨基地即算完成，奖励将由空投舱送达。接受后须在15天内完成。</EES.HVT.Desc>
+  <EES.HVT.DirtyWarn>\n\n警告：{0}目前与你并非敌对。执行此委托将使你与{0}的关系破裂并转为敌对。作为代价，赏金已大幅上浮。</EES.HVT.DirtyWarn>
+  <EES.HVT.GoodwillBonus>\n\n完成后，{0}将额外提升对你的好感度{1}点。</EES.HVT.GoodwillBonus>
+  <EES.HVT.TruceNotice>\n\n委托方{0}与我们永久敌对——完成此悬赏后，{0}将在{1}天内停止袭击，以此代替好感度报酬。（再次完成时期限刷新，不会叠加）</EES.HVT.TruceNotice>
+  <EES.HVT.TruceStart>{0}依约在{1}天内停止袭击。</EES.HVT.TruceStart>
+  <EES_Letter_HVTReward>悬赏支付</EES_Letter_HVTReward>
+  <EES.HVT.RewardLetter.Text>{0}送来了承诺的悬赏金。</EES.HVT.RewardLetter.Text>
+  <EES.HVT.Variant.Scouted>委托方已完成事前侦察——据点情报开局即公开。</EES.HVT.Variant.Scouted>
+  <EES.HVT.Variant.Insider>有内应协助——据点情报公开，部分防御炮塔已被提前瘫痪。(报酬 -10%)</EES.HVT.Variant.Insider>
+  <EES.HVT.Variant.HighAlert>目标戒备森严——守军兵力已被加强。(报酬 +30%)</EES.HVT.Variant.HighAlert>
+  <EES_Letter_HVTTargetSpawned>已收到悬赏目标坐标</EES_Letter_HVTTargetSpawned>
+  <EES.HVT.SpawnLetter.Text>委托方送来了目标前哨基地"{0}"的坐标。摧毁这座由指挥官({1})统领的据点即可领取赏金。</EES.HVT.SpawnLetter.Text>
+
+  <!-- 侦察·渗透结果通知方式 (2026-07-05) -->
+  <EES.Set.ScoutNotify.Msg>侦察·渗透结果通知: 简易消息</EES.Set.ScoutNotify.Msg>
+  <EES.Set.ScoutNotify.Msg.Tip>将侦察·渗透的成功/败露结果显示为屏幕上方的简易消息。（原有方式）</EES.Set.ScoutNotify.Msg.Tip>
+  <EES.Set.ScoutNotify.Letter>侦察·渗透结果通知: 右侧信件</EES.Set.ScoutNotify.Letter>
+  <EES.Set.ScoutNotify.Letter.Tip>将侦察·渗透结果显示为屏幕右侧的信件。装有 Event Image Popup 模组时还会显示事件图片。</EES.Set.ScoutNotify.Letter.Tip>
+  <EES_Letter_ScoutSuccess>侦察成功</EES_Letter_ScoutSuccess>
+  <EES.Ltr.ScoutSuccess.Text>已获取{0}的全部情报。</EES.Ltr.ScoutSuccess.Text>
+  <EES_Letter_ScoutFail>侦察败露</EES_Letter_ScoutFail>
+  <EES.Ltr.ScoutFail.Text>对{0}的侦察已败露。据点警戒加强，关系恶化。\n\n侦察兵伤亡: {1}</EES.Ltr.ScoutFail.Text>
+  <EES_Letter_InfilSuccess>渗透成功</EES_Letter_InfilSuccess>
+  <EES.Ltr.InfilSuccess.Text>已破坏{0}的{1}座防御炮塔。</EES.Ltr.InfilSuccess.Text>
+  <EES.Ltr.InfilFake.Text>{0}: 炮塔破坏成功，但那里空无一人。</EES.Ltr.InfilFake.Text>
+  <EES_Letter_InfilFail>渗透败露</EES_Letter_InfilFail>
+  <EES.Ltr.InfilFail.Text>对{0}的渗透已败露。关系恶化。\n\n特工: {1}</EES.Ltr.InfilFail.Text>
+  <EES_Letter_StrikeSuccess>精确打击成功</EES_Letter_StrikeSuccess>
+  <EES.Ltr.StrikeSuccess.Text>通过通讯台的远程精确打击瘫痪了{0}的{1}座防御炮塔。</EES.Ltr.StrikeSuccess.Text>
+  <EES.Ltr.StrikeFake.Text>{0}: 远程打击命中了目标，但那里空无一人。</EES.Ltr.StrikeFake.Text>
+  <EES.Strike.SabSuccess>[EES] 精确打击成功: 远程瘫痪{0}的{1}座炮塔！</EES.Strike.SabSuccess>
+  <EES.Strike.SabFake>[EES] {0}: 远程打击成功，但那里空无一人。</EES.Strike.SabFake>
+  <EES.Supply.PodDropFallback>着陆演出失败,乘员与货物已直接卸载到现场。(无损失)</EES.Supply.PodDropFallback>
+
+  <!-- ===== 普通前哨站层级下降 (RimPacts 世界大战后期阶段, 2026-08-23) ===== -->
+  <EES.Outpost.Unavailable>EES 尚未就绪。</EES.Outpost.Unavailable>
+  <EES.Outpost.NotTargetPlayer>不是前哨站。</EES.Outpost.NotTargetPlayer>
+  <EES.Outpost.NotTarget>EES 不管理该定居点。</EES.Outpost.NotTarget>
+  <EES.Outpost.IsPuppet>这是傀儡国前哨站。</EES.Outpost.IsPuppet>
+  <EES.Outpost.TierFixed>该前哨站的层级已固定。</EES.Outpost.TierFixed>
+  <EES.Outpost.AtFloor>已是最低层级(T{0})。无法继续下降。</EES.Outpost.AtFloor>
+  <EES.Outpost.NoTargets>没有可以降低层级的前哨站。</EES.Outpost.NoTargets>
+
+  <!-- ===== 傀儡国前哨站 (RimPacts 联动, 2026-08-05) ===== -->
+  <EES.CanScout.Puppet>这是我们自己傀儡国的前哨站。</EES.CanScout.Puppet>
+  <EES.CanScout.WorldWarAlly>在世界大战中属于同一阵营。</EES.CanScout.WorldWarAlly>
+  <EES.CanScout.WorldWarNeutral>世界大战中的中立国无法干涉其他派系。</EES.CanScout.WorldWarNeutral>
+  <EES.Puppet.NotOutpost>不是傀儡国前哨站。</EES.Puppet.NotOutpost>
+  <EES.Puppet.NeedSilver>白银不足（需要 {0}）。</EES.Puppet.NeedSilver>
+  <EES.Puppet.OwnOutpost>我方僀儒国的前哨站（无需侦察）</EES.Puppet.OwnOutpost>
+  <EES.Puppet.AtCap>已达该时代上限(T{0})。晋升傀儡国后可以继续提升。</EES.Puppet.AtCap>
+  <EES.Puppet.AtFloor>已是最低层级(T{0})。无法继续下降。</EES.Puppet.AtFloor>
+  <EES.Puppet.RoleUnavailable>目前没有可指定的职能。</EES.Puppet.RoleUnavailable>
+  <EES.Puppet.MortarAlready>已经有迫击炮阵地了。</EES.Puppet.MortarAlready>
+  <EES.Puppet.MortarTierLow>需要 T{0} 或更高。</EES.Puppet.MortarTierLow>
+  <EES.Puppet.BadPlan>守备队配置数值无效。</EES.Puppet.BadPlan>
+  <EES.Puppet.AssaultTechLow>突击队需要太空时代及以上的阵营。</EES.Puppet.AssaultTechLow>
+  <EES.Puppet.CommanderTechLow>该指挥官需要{0}时代及以上的阵营。</EES.Puppet.CommanderTechLow>
+  <EES.Puppet.Gizmo.UpgradeLabel>前哨站 T{0}/{1}</EES.Puppet.Gizmo.UpgradeLabel>
+  <EES.Puppet.Gizmo.UpgradeDesc>消耗白银 {1} · 下一层级 T{0}\n\n即使不花费，距自动晋升还有 {2}。</EES.Puppet.Gizmo.UpgradeDesc>
+  <EES.Puppet.Gizmo.UpgradeDescCap>已达该时代上限(T{0})。晋升傀儡国后可以继续提升。</EES.Puppet.Gizmo.UpgradeDescCap>
+  <EES.Puppet.Gizmo.RoleLabel>职能: {0}</EES.Puppet.Gizmo.RoleLabel>
+  <EES.Puppet.Gizmo.RoleDesc>设定该前哨站的职能。下次进入其地图时生效。</EES.Puppet.Gizmo.RoleDesc>
+  <EES.Puppet.Gizmo.CommanderLabel>指挥官: {0}</EES.Puppet.Gizmo.CommanderLabel>
+  <EES.Puppet.Gizmo.CommanderDesc>设定该前哨站的指挥官类型。下次进入其地图时生效。</EES.Puppet.Gizmo.CommanderDesc>
+  <EES.Puppet.Msg.Upgraded>{0} 前哨站 → T{1}</EES.Puppet.Msg.Upgraded>
+  <EES.Puppet.Msg.RoleSet>{0} 职能 → {1}</EES.Puppet.Msg.RoleSet>
+  <EES.Puppet.Msg.CommanderSet>{0} 指挥官 → {1}</EES.Puppet.Msg.CommanderSet>
+  <EES.Scout.Feature>  特性：{0}（{1}）</EES.Scout.Feature>
+  <EES.Feature.None>无</EES.Feature.None>
+  <EES.Feature.HillFort>山地要塞</EES.Feature.HillFort>
+  <EES.Feature.HillFort.Desc>军力 +5%，城防 +12，收益系数 +0.02</EES.Feature.HillFort.Desc>
+  <EES.Feature.WarCollege>战争学院</EES.Feature.WarCollege>
+  <EES.Feature.WarCollege.Desc>军力 +12%，城防 +4，补给 +8，收益系数 +0.04</EES.Feature.WarCollege.Desc>
+  <EES.Feature.MerchantQuarter>商贸区</EES.Feature.MerchantQuarter>
+  <EES.Feature.MerchantQuarter.Desc>补给 +30，收益系数 +0.18</EES.Feature.MerchantQuarter.Desc>
+  <EES.Feature.GranaryNetwork>粮仓网络</EES.Feature.GranaryNetwork>
+  <EES.Feature.GranaryNetwork.Desc>军力 +3%，城防 +2，补给 +45，收益系数 +0.10；新守军口粮最多 +15%</EES.Feature.GranaryNetwork.Desc>
+  <EES.Feature.SacredKeep>圣所城堡</EES.Feature.SacredKeep>
+  <EES.Feature.SacredKeep.Desc>军力 +7%，城防 +8，补给 +10，收益系数 +0.08</EES.Feature.SacredKeep.Desc>
+  <EES.Feature.Arsenal>军械库</EES.Feature.Arsenal>
+  <EES.Feature.Arsenal.Desc>军力 +4%，城防 +4，补给 +10，收益系数 +0.06；部分新守军武器升一档（最高极佳），原有弹药最多 +15%</EES.Feature.Arsenal.Desc>
+  <EES.Feature.WatchNetwork>瞭望网络</EES.Feature.WatchNetwork>
+  <EES.Feature.WatchNetwork.Desc>军力 +3%，城防 +6，补给 +4，收益系数 +0.02；正常增援间隔缩短 10%，仍受通讯与人数限制</EES.Feature.WatchNetwork.Desc>
+  <EES.Feature.VeteranGarrison>老兵驻地</EES.Feature.VeteranGarrison>
+  <EES.Feature.VeteranGarrison.Desc>军力 +8%，城防 +2，补给 +2，收益系数 +0.04；新守军射击、近战各 +1（最高20级）</EES.Feature.VeteranGarrison.Desc>
+  <EES.Feature.FieldInfirmary>野战医所</EES.Feature.FieldInfirmary>
+  <EES.Feature.FieldInfirmary.Desc>军力 +1%，补给 +12，收益系数 +0.05；新守军医疗 +2（最高20级），部分携带2份草药</EES.Feature.FieldInfirmary.Desc>
+  <EES.Feature.ArtisansGuild>工匠行会</EES.Feature.ArtisansGuild>
+  <EES.Feature.ArtisansGuild.Desc>军力 +2%，城防 +6，补给 +10，收益系数 +0.03；新守军建造 +2（最高20级），基地所属门墙与炮塔耐久 +6%</EES.Feature.ArtisansGuild.Desc>
+  <EES.Feature.ArtisansGuild.DefenseEffect>工匠行会：最大耐久 ×1.06</EES.Feature.ArtisansGuild.DefenseEffect>
+</LanguageData>

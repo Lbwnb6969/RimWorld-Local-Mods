@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_IntelData_T1Core.label>初级密报卷宗</EES_IntelData_T1Core.label>
+  <EES_IntelData_T1Core.description>由商路记录、哨探口供和手绘地图汇成的封蜡卷宗，可用于掌握小型敌方据点的守备情报。</EES_IntelData_T1Core.description>
+  <EES_IntelData_T2Core.label>战略密报卷宗</EES_IntelData_T2Core.label>
+  <EES_IntelData_T2Core.description>经过多名密探交叉核对的战略卷宗，记载了成熟城堡的道路、库房和防御部署。</EES_IntelData_T2Core.description>
+  <EES_IntelData_T3Core.label>绝密要塞图册</EES_IntelData_T3Core.label>
+  <EES_IntelData_T3Core.description>以暗号和密封图页记录的最高级军情，足以揭示大型要塞的关键结构与守军动向。</EES_IntelData_T3Core.description>
+  <EES_EscapeDevice.label>烟幕逃生腰包</EES_EscapeDevice.label>
+  <EES_EscapeDevice.description>装有烟雾罐、抓钩、绳索和伪造路引的隐蔽腰包。训练有素的密探可借它制造混乱并脱离追捕。</EES_EscapeDevice.description>
+</LanguageData>

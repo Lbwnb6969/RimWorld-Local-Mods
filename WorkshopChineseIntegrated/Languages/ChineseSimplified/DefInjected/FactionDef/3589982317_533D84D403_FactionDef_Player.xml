@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Uch Beg Adventure -->
+  <BA_MedievalPlayer_Akinci.label>新乌奇贝伊冒险</BA_MedievalPlayer_Akinci.label>
+  <!-- EN: A small beylik in the frontier.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_MedievalPlayer_Akinci.description>边境的一个小贝伊国。</BA_MedievalPlayer_Akinci.description>
+  <!-- EN: leader -->
+  <BA_MedievalPlayer_Akinci.leaderTitle>领袖</BA_MedievalPlayer_Akinci.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_MedievalPlayer_Akinci.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_MedievalPlayer_Akinci.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <BA_MedievalPlayer_Akinci.pawnSingular>臣民</BA_MedievalPlayer_Akinci.pawnSingular>
+  <!-- EN: subjects -->
+  <BA_MedievalPlayer_Akinci.pawnsPlural>臣民们</BA_MedievalPlayer_Akinci.pawnsPlural>
+  <!-- EN: Influence -->
+  <BA_MedievalPlayer_Akinci.royalFavorLabel>影响力</BA_MedievalPlayer_Akinci.royalFavorLabel>
+  
+  <!-- EN: New Janissary Deserter -->
+  <BA_MedievalPlayer_Janissary.label>新耶尼切里逃兵</BA_MedievalPlayer_Janissary.label>
+  <!-- EN: A deserter's camp\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_MedievalPlayer_Janissary.description>一个逃兵营地</BA_MedievalPlayer_Janissary.description>
+  <!-- EN: leader -->
+  <BA_MedievalPlayer_Janissary.leaderTitle>领袖</BA_MedievalPlayer_Janissary.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_MedievalPlayer_Janissary.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_MedievalPlayer_Janissary.messageDefendersAttacking>
+  <!-- EN: deserter -->
+  <BA_MedievalPlayer_Janissary.pawnSingular>逃兵</BA_MedievalPlayer_Janissary.pawnSingular>
+  <!-- EN: deserters -->
+  <BA_MedievalPlayer_Janissary.pawnsPlural>逃兵们</BA_MedievalPlayer_Janissary.pawnsPlural>
+  <!-- EN: Influence -->
+  <BA_MedievalPlayer_Janissary.royalFavorLabel>影响力</BA_MedievalPlayer_Janissary.royalFavorLabel>
+  
+</LanguageData>

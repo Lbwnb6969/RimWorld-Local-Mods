@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A ritualistic prisoner sacrifice. The organizer will give a speech to excite the crowd, then cut open the prisoner's chest and tear out their still-beating heart. Once the prisoner is dead, the organizer will raise the heart toward the heavens and speak the finishing words. -->
+  <AM_HeartExtraction.descOverride>一种囚犯献祭仪式。组织者将发表演讲来激励观众，然后剖开囚犯的胸部，将其仍在跳动的心脏挖出。囚犯死亡之后，组织者将心脏高举向天空，并开始结束仪式。</AM_HeartExtraction.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <AM_HeartExtraction.ritualExpectedDesc>每年{DATE}，{MEMBERS}可以有一个特别的庆祝活动。</AM_HeartExtraction.ritualExpectedDesc>
+  <!-- EN: heart extraction -->
+  <AM_HeartExtraction.shortDescOverride>挖心祭祀仪式</AM_HeartExtraction.shortDescOverride>
+  
+</LanguageData>

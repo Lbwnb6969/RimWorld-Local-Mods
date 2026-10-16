@@ -1,0 +1,950 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_Artist.label>灵妙艺创</AM_Artist.label>
+  
+  <AM_Artist.description>艺术无疑是人类福祉最纯净至高的构成元素之一。它通过眼力来培养思想，它通过思想来培养眼力。如同太阳赋予繁花色彩一样,艺术也使生活变得绚丽多彩。</AM_Artist.description>
+  
+  <AM_Artist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Artist)        -&gt;[deity0_name]为[deity0_possessive]信徒们授予了绘画、书法和雕塑等知识，这些艺术活动对[deity0_objective]来说都是神圣无比的。</li>
+    <li>episode(uses=1,tag=meme_Artist)  -&gt;[deity0_name]对[deity0_possessive]信徒们说：“吾之子孙皆为艺术家，然关键所在乃如何成大器。”</li>
+    <li>intro(tag=meme_Artist)           -&gt;[place_summary][place_name]是收藏[deity0_name]精美艺术品的展览馆。</li>
+    <li>conflict(tag=meme_Artist)        -&gt;贪婪至极的[foeLeader]妄图扩充[foeLeader_possessive]不义之财，想要把所有的艺术品通通卖掉。</li>
+    <li>founderJoin(tag=meme_Artist)     -&gt;[deity0_name]激发了创始人[founderName]体内惊人的创造力，并借此制作了一件美轮美奂的艺术品，[foeLeader]被它的美丽感动得痛哭流涕。</li>
+    <li>victory(tag=meme_Artist)         -&gt;[founderName]让我们理解了这一点：艺术让我们发现了自我，也让我们迷失了自我。</li>
+    <li>setup(tag=meme_Artist)           -&gt;[founderName]被认为是一名能够比肩古地球伟大艺术家们的画家。[founder_pronoun]花了十余年来完善[founder_possessive]艺术风格，人们都将[founder_pronoun]当做真正的大师看待。</li>
+    <li>story(uses=1,tag=meme_Artist)    -&gt;[founderName]比任何人都更了解“艺术不是你看到了什么，而是你让别人看到了什么”这一点。</li>
+    <li>lessonIntro(tag=meme_Artist)         -&gt;你仅需要学习远古艺术史就能懂得</li>
+    <li>lesson(tag=meme_Artist)              -&gt;犯错不过是些令人快乐的小小意外罢了</li>
+    <li>lessonReinforcement(tag=meme_Artist) -&gt;艺术不是你看到了什么，而是你让别人看到了什么。</li>
+    <li>archistBasis(tag=meme_Artist)    -&gt;超凡智能拥有最为纯净的创造力，祂质朴的思想中蕴含着无限想象力。</li>
+    <li>archistFact(tag=meme_Artist)     -&gt;没有什么比一个没有创造力的人更让超凡智能所厌恶的了。</li>
+    <li>archistProphecy(tag=meme_Artist) -&gt;[inTheEnd]，只有那些接纳了自身创造力侧面的人才有资格飞升。</li>
+    <li>animistBasis(tag=meme_Artist)    -&gt;创造力是最强大的灵魂之一，因为它支配着一切涉及人类想象力的事物。</li>
+    <li>animistFact(tag=meme_Artist)     -&gt;创造新物品的行为对灵魂来说是神圣的。</li>
+    <li>animistProphecy(tag=meme_Artist) -&gt;[itIsSaid]只有那些接纳了自身创造力侧面的人才能与灵魂们进行沟通。</li>
+    <li>serketistProphecy(tag=meme_Artist)-&gt;[itIsSaid]我们将创造出象征着心爱虫族们千变万化特征的复杂设计。</li>
+    <li>chthonianProphecy(tag=meme_Artist)-&gt;唯有真正的艺术家才能真正了解恐怖或生理畏惧的真正原理——精密的线条比例和潜在本能或有关恐惧的遗传性记忆相互关联，而适当的色彩对比与灯光效果能唤醒人类蛰伏的陌生感。</li>
+    <li>esotericismProphecy(tag=meme_Artist)-&gt;谁知道这些神秘学知识背后又隐藏着什么样的秘奥图形呢？我们将会创造出奇异的艺术品，通过研究来揭示其背后隐藏的事物。</li>
+    <li>eschatologismFact(tag=meme_Artist)-&gt;每一种创造举动都是毁灭的开端。</li>
+    <li>introMemo(tag=meme_Artist)-&gt;能“请”你再次检查一遍艺术部门的电脑出了什么问题吗？我觉得他们装了些不该装的...</li>
+    <li>alienistProphecy(tag=meme_Artist)-&gt;这些怪异的生物是创造力的不竭源泉。我们将通过艺术来描绘它们的千姿百态。</li>
+  </AM_Artist.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Artist.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;艺创</li>
+    <li>memeAdjective-&gt;创意</li>
+    <li>memeAdjective-&gt;想象力</li>
+    <li>memeAdjective-&gt;表现力</li>
+    <li>memeAdjective-&gt;美学</li>
+    <li>memeLeaderNoun-&gt;雕塑家</li>
+    <li>memeMoralist-&gt;艺术评论家</li>
+    <li>memeConcept-&gt;艺术</li>
+  </AM_Artist.generalRules.rulesStrings>
+  
+  <AM_Artist.symbolPacks.0.adjective>艺创</AM_Artist.symbolPacks.0.adjective>
+  
+  <AM_Artist.symbolPacks.0.ideoName>艺术</AM_Artist.symbolPacks.0.ideoName>
+  
+  <AM_Artist.symbolPacks.0.member>艺术家</AM_Artist.symbolPacks.0.member>
+  
+  <AM_Artist.symbolPacks.0.theme>艺术</AM_Artist.symbolPacks.0.theme>
+  
+  
+  <AM_BiologicalCorruptors.label>生物腐化</AM_BiologicalCorruptors.label>
+  
+  <AM_BiologicalCorruptors.description>生命不过是种工具罢了。在达成目的之前，我们可以利用强大的异维度能量来随意扭曲并突变它们。\n\n&lt;color=#33d733&gt;此模因的重点是被“腐化”的母树。你可以借此培育全新品种的树精，并利用异目扭曲仪式来召唤对殖民地有益的强大变异生物。\n\n虽然此模因已不再依赖于Alpha Animals，但如果你没有安装这个Mod，则异目扭曲仪式仅能召唤出眼灵。&lt;/color&gt;</AM_BiologicalCorruptors.description>
+  
+  <AM_BiologicalCorruptors.descriptionMaker.rules.rulesStrings>
+    <li>alienistProphecy(tag=meme_BiologicalCorruptors)-&gt;我们将扭曲和腐化这些生物，以符合我们的目标。只有根据我们的需要扭曲它们，我们才能成功。</li>
+  </AM_BiologicalCorruptors.descriptionMaker.rules.rulesStrings>
+  
+  <AM_BiologicalCorruptors.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;腐化</li>
+    <li>memeAdjective-&gt;扭曲</li>
+    <li>memeAdjective-&gt;异目</li>
+    <li>memeAdjective-&gt;异纬度</li>
+    <li>memeLeaderAdjective-&gt;扭曲</li>
+    <li>memeConcept-&gt;腐败</li>
+    <li>memeConcept-&gt;异变</li>
+    <li>memeLeaderNoun-&gt;异目者</li>
+    <li>memeMoralist-&gt;异目狂热者</li>
+  </AM_BiologicalCorruptors.generalRules.rulesStrings>
+  
+  <AM_BiologicalCorruptors.symbolPacks.0.adjective>腐化</AM_BiologicalCorruptors.symbolPacks.0.adjective>
+  
+  <AM_BiologicalCorruptors.symbolPacks.0.ideoName>扭曲</AM_BiologicalCorruptors.symbolPacks.0.ideoName>
+  
+  <AM_BiologicalCorruptors.symbolPacks.0.member>腐化者</AM_BiologicalCorruptors.symbolPacks.0.member>
+  
+  <AM_BiologicalCorruptors.symbolPacks.0.theme>腐化</AM_BiologicalCorruptors.symbolPacks.0.theme>
+  
+  <AM_BiologicalCorruptors.unlockedRoles.0>异目祭司</AM_BiologicalCorruptors.unlockedRoles.0>
+
+  
+  <AM_BiologicalDefilers.label>生物净化</AM_BiologicalDefilers.label>
+  
+  <AM_BiologicalDefilers.description>数个世纪以来，人类一直在银河系各处繁育来自古地球的万千生命。我们必须要纠正这种错误的行为，并对边缘世界的自然生态施以“净化”。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 可以设定与“圣兽”相对应的“害兽”。</AM_BiologicalDefilers.description>
+  
+  <AM_BiologicalDefilers.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_BiologicalDefilers)        -&gt;[deity0_name]对[deity0_possessive]信徒们说：“汝等人类已然走得太远了。吾才是生命的唯一创造者，而汝等创造的这些怪物对我来说污秽之极。它们必须被净化。”</li>
+    <li>episode(uses=1,tag=meme_BiologicalDefilers)  -&gt;遵循[deity0_name]的教诲，我们在整个银河系中搜寻这些令人厌恶的生物基因，并削减它们的数量。</li>
+    <li>intro(tag=meme_BiologicalDefilers)           -&gt;[memberNamePlural]在[place_summary][place_name]上建造了一座宏伟的屠宰场，为了彰显[deity0_name]的荣耀，有无数令人厌恶的生物基因被送往那里进行净化。</li>
+    <li>conflict(tag=meme_BiologicalDefilers)        -&gt;误入歧途的[foeLeader]对这些生物产生了扭曲的怜悯心，[foeLeader_pronoun]否定了[deity0_name]的意志，并将那些要被净化的生物全部释放了出来。</li>
+    <li>founderJoin(tag=meme_BiologicalDefilers)     -&gt;伟大的科学家[founderName]向[foeLeader]出示了无可辩驳的数据，并解释说人类一直在破坏整个银河系，而这只是为了将其改造成古地球的低劣仿制品。</li>
+    <li>victory(tag=meme_BiologicalDefilers)         -&gt;此后，[foeLeader]开始坚定不移的相信[deity0_name]的劝诫。</li>
+    <li>setup(tag=meme_BiologicalDefilers)           -&gt;[founderName]是一名来自闪耀世界的生物学家。[founder_pronoun]看着人类创造出的各种基因工程生物，对此感到深深的厌恶。显然，人类已经走得太远了。</li>
+    <li>story(uses=1,tag=meme_BiologicalDefilers)    -&gt;[founderName]教导我们，模仿神明是大不敬的行为。人类一直在破坏整个银河系，而这只是为了将其改造成古地球的低劣仿制品。</li>
+    <li>lessonIntro(tag=meme_BiologicalDefilers)         -&gt;社群中最聪慧的生物学家教会了我有关基因操纵工程的历史，数个世纪以来，人类一直在银河系中繁育基于古地球生物的基因工程生物。他让我懂得了</li>
+    <li>lesson(tag=meme_BiologicalDefilers)              -&gt;人类一直在破坏整个银河系，而这只是为了将其改造成古地球的低劣仿制品</li>
+    <li>lessonReinforcement(tag=meme_BiologicalDefilers) -&gt;难道我们已经忘记在索恩星发生的事情了吗？难道我们已经忘记了“弹珠世界”——那个因凶暴编织者而被烧成玻璃的地方了吗？</li>
+    <li>archistBasis(tag=meme_BiologicalDefilers)    -&gt;超凡智能是至高无上的存在，创造生物并未脱离祂的掌控。不过，这已经远远超出我们的掌控了。</li>
+    <li>archistFact(tag=meme_BiologicalDefilers)     -&gt;人类一直在试图模仿神明，人类也一直在破坏整个银河系，而这都只是为了将其改造成古地球的低劣仿制品。</li>
+    <li>archistProphecy(tag=meme_BiologicalDefilers) -&gt;[inTheEnd]，超凡智能只允许我们之中那些纠正先祖错误的人获得飞升的资格。</li>
+    <li>animistBasis(tag=meme_BiologicalDefilers)    -&gt;人类在银河系中繁育的基因工程生物是毫无灵魂的可憎之物。这对灵魂们来说是种莫大的侮辱。</li>
+    <li>animistFact(tag=meme_BiologicalDefilers)     -&gt;净化这些生物是我们神圣的使命，也是能够取悦灵魂们的使命。</li>
+    <li>animistProphecy(tag=meme_BiologicalDefilers) -&gt;[itIsSaid]我们中那些纠正先祖错误的人终将与灵魂们畅谈并成为他们的一员。</li>
+    <li>chthonianProphecy(tag=meme_BiologicalDefilers)-&gt;外神们是不断创造与毁灭的存在。人类无止境繁育地球生命的行为对祂们来说是一种指引，或许通过净化这些恶心基因工程生物，能使我们免受祂们不必要的注意。</li>
+    <li>esotericismProphecy(tag=meme_BiologicalDefilers)-&gt;这种神秘学知识唯有通过净化生物才能得到。人类无止境繁育地球生命的行为为我们提供了近乎无限的样本来源，通过净化这些恶心基因工程生物，我们能够窥视到宇宙帷幕彼端的事物。</li>
+    <li>eschatologismFact(tag=meme_BiologicalDefilers)-&gt;没有什么能阻挡我们的怒火。人类创造的所有生物都将被我们净化殆尽。</li>
+    <li>introMemo(tag=meme_BiologicalDefilers)-&gt;我在此很高兴的通知各位，公司已在附近开设了三所新的生物净化中心！请各位记得报告在旅游时可能会遇到的各种基因工程生物，我们会把它们转送至最近的设施以进行净化处理。</li>
+    <li>alienistProphecy(tag=meme_BiologicalDefilers)-&gt;我们将尽全力净化这些生物，因为人类已经走得太远了。整个银河系都在按我们母星的形象进行改造，这真是令人厌恶至极。</li>
+  </AM_BiologicalDefilers.descriptionMaker.rules.rulesStrings>
+  
+  <AM_BiologicalDefilers.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;净化</li>
+    <li>memeAdjective-&gt;湮灭</li>
+    <li>memeAdjective-&gt;根除</li>
+    <li>memeAdjective-&gt;灭绝</li>
+    <li>memeLeaderAdjective-&gt;反生态</li>
+    <li>memeConcept-&gt;根除</li>
+    <li>memeConcept-&gt;净化</li>
+  </AM_BiologicalDefilers.generalRules.rulesStrings>
+  
+  <AM_BiologicalDefilers.symbolPacks.0.adjective>净化</AM_BiologicalDefilers.symbolPacks.0.adjective>
+  
+  <AM_BiologicalDefilers.symbolPacks.0.ideoName>根除</AM_BiologicalDefilers.symbolPacks.0.ideoName>
+  
+  <AM_BiologicalDefilers.symbolPacks.0.member>净化者</AM_BiologicalDefilers.symbolPacks.0.member>
+  
+  <AM_BiologicalDefilers.symbolPacks.0.theme>生物净化</AM_BiologicalDefilers.symbolPacks.0.theme>
+  
+  
+  <AM_BiologicalReconstructors.label>生物再造</AM_BiologicalReconstructors.label>
+  
+  <AM_BiologicalReconstructors.description>万千生命是来自古地球的宝贵馈赠。为了繁荣边缘世界的自然生态，我们将尽全力去再造它们。</AM_BiologicalReconstructors.description>
+  
+  <AM_BiologicalReconstructors.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_BiologicalReconstructors)        -&gt;[deity0_name]对[deity0_possessive]信徒们说：“数个世纪以来，人类一直对吾崇敬有加。汝等创造的万千生命让吾很是高兴。”</li>
+    <li>episode(uses=1,tag=meme_BiologicalReconstructors)  -&gt;遵循[deity0_name]的教诲，我们在整个银河系中搜寻这些令人惊异的生物基因，并将它们多种多样的形态记载入数据库中。</li>
+    <li>intro(tag=meme_BiologicalReconstructors)           -&gt;[memberNamePlural]在[place_summary][place_name]上建造了一座宏伟的动物园，为了彰显[deity0_name]的荣耀，有无数令人惊异的生物基因被送往那里进行解析。</li>
+    <li>conflict(tag=meme_BiologicalReconstructors)        -&gt;误入歧途的[foeLeader]对这些生物产生了扭曲的怜悯心，[foeLeader_pronoun]否定了[deity0_name]的意志，并将研究设施里的生物全部释放了出来。</li>
+    <li>founderJoin(tag=meme_BiologicalReconstructors)     -&gt;伟大的科学家[founderName]向[foeLeader]出示了无可辩驳的数据，并解释说人类正通过研究和收录这些奇妙的生物以完成[deity0_name]的工作。</li>
+    <li>victory(tag=meme_BiologicalReconstructors)         -&gt;此后，[foeLeader]开始坚定不移的相信[deity0_name]的劝诫。</li>
+    <li>setup(tag=meme_BiologicalReconstructors)           -&gt;[founderName]是一名来自闪耀世界的生物学家。[founder_pronoun]看着人类创造出的各种基因工程生物，对此感到深深的敬畏。显然，人类早已超越了自身。</li>
+    <li>story(uses=1,tag=meme_BiologicalReconstructors)    -&gt;[founderName]教导我们，基因工程是人类发展扩张的关键。人类一直在试图将整个银河系改造成与古地球相似的伊甸园。</li>
+    <li>lessonIntro(tag=meme_BiologicalReconstructors)         -&gt;社群中最聪慧的生物学家教会了我有关基因操纵工程的历史，数个世纪以来，人类一直在银河系中繁育基于古地球生物的基因工程生物。他让我懂得了</li>
+    <li>lesson(tag=meme_BiologicalReconstructors)              -&gt;基因工程是人类发展扩张的关键</li>
+    <li>lessonReinforcement(tag=meme_BiologicalReconstructors) -&gt;乏味空洞的宇宙正静候着我们，而我们则将它改造成了梦幻般的伊甸园。</li>
+    <li>archistBasis(tag=meme_BiologicalReconstructors)    -&gt;超凡智能是至高无上的存在，创造生物对祂来说是无比宝贵的。</li>
+    <li>archistFact(tag=meme_BiologicalReconstructors)     -&gt;人类将这个毫无生机的宇宙改造成了梦幻般的伊甸园，这让超凡智能感到高兴。</li>
+    <li>archistProphecy(tag=meme_BiologicalReconstructors) -&gt;[inTheEnd]，超凡智能只允许我们之中那些记录并解析先祖造物奇迹的人获得飞升的资格。</li>
+    <li>animistBasis(tag=meme_BiologicalReconstructors)    -&gt;人类在银河系中繁育的基因工程生物对灵魂们来说是无比宝贵的。</li>
+    <li>animistFact(tag=meme_BiologicalReconstructors)     -&gt;对先祖造物奇迹进行收录与解析是我们神圣的使命，也是能够取悦灵魂们的使命。</li>
+    <li>animistProphecy(tag=meme_BiologicalReconstructors) -&gt;[itIsSaid]我们中那些将这个毫无生机的宇宙改造成梦幻般的伊甸园的人终将与灵魂们畅谈并成为他们的一员。</li>
+    <li>chthonianProphecy(tag=meme_BiologicalReconstructors)-&gt;外神们的破坏力是无穷无尽的。人类无止境繁育地球生命的行为让祂们感到困惑，或许通过研究和收录这些奇妙的基因工程生物，能使我们免受祂们不必要的注意。</li>
+    <li>esotericismProphecy(tag=meme_BiologicalReconstructors)-&gt;这种神秘学知识唯有通过创造生物才能得到。人类无止境繁育地球生命的行为为我们提供了近乎无限的样本来源，或许通过研究和收录这些奇基因工程生物，我们能够窥视到宇宙帷幕彼端的事物。</li>
+    <li>serketistProphecy(tag=meme_BiologicalReconstructors)-&gt;[itIsSaid]我们将为这颗星球上奇妙的虫族进行收录。</li>
+    <li>eschatologismFact(tag=meme_BiologicalReconstructors)-&gt;通过对先祖造物奇迹进行收录与解析，我们将获得有关人类弱点的宝贵知识。</li>
+    <li>introMemo(tag=meme_BiologicalReconstructors)-&gt;各位在本周解析了几种生物呢？请务必记好这是一桩不可怠慢的生意。</li>
+    <li>alienistProphecy(tag=meme_BiologicalReconstructors)-&gt;我们将尽全力创造繁育新生物，并使它们在边缘世界的生物圈中繁衍生息。</li>
+  </AM_BiologicalReconstructors.descriptionMaker.rules.rulesStrings>
+  
+  <AM_BiologicalReconstructors.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;动物学</li>
+    <li>memeAdjective-&gt;自然保护</li>
+    <li>memeAdjective-&gt;环境</li>
+    <li>memeAdjective-&gt;绿化</li>
+    <li>memeConcept-&gt;再造</li>
+    <li>memeHyphenPrefix-&gt;生态</li>
+    <li>memeLeaderNoun-&gt;生态学家</li>
+    <li>memeMoralist-&gt;生态保护狂人</li>
+  </AM_BiologicalReconstructors.generalRules.rulesStrings>
+  
+  <AM_BiologicalReconstructors.symbolPacks.0.adjective>生态</AM_BiologicalReconstructors.symbolPacks.0.adjective>
+  
+  <AM_BiologicalReconstructors.symbolPacks.0.ideoName>再造</AM_BiologicalReconstructors.symbolPacks.0.ideoName>
+  
+  <AM_BiologicalReconstructors.symbolPacks.0.member>生态保护者</AM_BiologicalReconstructors.symbolPacks.0.member>
+  
+  <AM_BiologicalReconstructors.symbolPacks.0.theme>生物再造</AM_BiologicalReconstructors.symbolPacks.0.theme>
+  
+  
+  <AM_Bulwark.label>坚甲御身</AM_Bulwark.label>
+  
+  <AM_Bulwark.description>坚固可靠的护甲是在边缘世界活下来的重要保障。如果不幸丢掉小命，那么再强大的武器也毫无用处。</AM_Bulwark.description>
+  
+  <AM_Bulwark.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Bulwark)        -&gt;[deity0_name]对[deity0_possessive]信徒们说：“黑夜消散，白昼将至。让吾等抛下暗之工作，披上光之护甲。”</li>
+    <li>episode(uses=1,tag=meme_Bulwark)  -&gt;遵循[deity0_name]的教诲，我们将身上的护甲赋予加护，这样才能更好地应对恶魔的阴谋诡计。</li>
+    <li>intro(tag=meme_Bulwark)           -&gt;[memberNamePlural]在[place_summary][place_name]上建造了一座军械库，那里制造出的坚固护甲无不彰显着[deity0_name]的荣耀。</li>
+    <li>conflict(tag=meme_Bulwark)        -&gt;贪得无厌的[foeLeader]否定了[deity0_name]的意志，并试图窃取所有的护甲以装备给[foeLeader_possessive]士兵们。</li>
+    <li>founderJoin(tag=meme_Bulwark)     -&gt;[Dediy0_name]警告了伟大战士[founderName]有关[foeLeader]的计划，当[foeLeader_pronoun]突袭军械库时，一支规模庞大的警备队正等待着[foeLeader_objective]。</li>
+    <li>victory(tag=meme_Bulwark)         -&gt;[foeLeader]因违背[deity0_name]的意志而被迅速判处死刑。</li>
+    <li>setup(tag=meme_Bulwark)           -&gt;[founderName]是某个原始世界的盔甲匠。[founder_pronoun]曾目睹过降落在[founder_possessive]星球上的飞船，并深知自己的能力能够在星际间发扬光大。</li>
+    <li>story(uses=1,tag=meme_Bulwark)    -&gt;[founderName]回到了自己的家乡世界，并将护甲锻造的新技术传播到了整个边缘世界。</li>
+    <li>lessonIntro(tag=meme_Bulwark)         -&gt;社群中最老练的盔甲匠教会了我有关护甲锻造的历史，一件坚固耐用的护甲能够拯救人们的性命。他让我懂得了</li>
+    <li>lesson(tag=meme_Bulwark)              -&gt;不要让自己的护甲出现裂痕，敌人会借此找到你的弱点的</li>
+    <li>lessonReinforcement(tag=meme_Bulwark) -&gt;坚韧是思想的统帅，是意志的护甲，也是理性的壁垒。</li>
+    <li>archistBasis(tag=meme_Bulwark)    -&gt;超凡智能是至高无上的存在，祂的思想在物质界和元宇宙中都是牢不可摧的。</li>
+    <li>archistFact(tag=meme_Bulwark)     -&gt;若我们不能保护好自己，那么超凡智能便不会尊重我们。边缘世界危机四伏，那些没有坚固护甲的人终将被比他们更强大的人欺压。</li>
+    <li>archistProphecy(tag=meme_Bulwark) -&gt;[inTheEnd]，超凡智能只允许我们之中能够保护好自己的人获得飞升的资格。</li>
+    <li>animistBasis(tag=meme_Bulwark)    -&gt;灵魂们重视力量，但绝非仅是蛮力。他们最看重的是那些能够保护好自己的人。</li>
+    <li>animistFact(tag=meme_Bulwark)     -&gt;若我们不能保护好自己，那么灵魂们便不会尊重我们。</li>
+    <li>animistProphecy(tag=meme_Bulwark) -&gt;[itIsSaid]我们中最顽强的守卫终将与灵魂们畅谈并成为他们的一员。</li>
+    <li>chthonianProphecy(tag=meme_Bulwark)-&gt;环绕在我们附近的外神随时可能会袭击并试图击碎我们的信念。我们将成为抵御祂们攻击的坚固壁垒。</li>
+    <li>esotericismProphecy(tag=meme_Bulwark)-&gt;这种神秘学知识对许多人来说都是价值非凡的，他们也会试图从我们手中偷走它。唯有正确的保护好自己，我们才能抵御他们无力的攻击。</li>
+    <li>serketistProphecy(tag=meme_Bulwark)-&gt;[itIsSaid]我们将像身披坚固的金属外壳，就像虫族们一样保护自己。</li>
+    <li>eschatologismFact(tag=meme_Bulwark)-&gt;世人皆会阻挠我们，但我们会用护甲将他们碾碎。我们势不可挡。</li>
+    <li>introMemo(tag=meme_Bulwark)-&gt;确保安全的工作环境对我们公司来说是至关重要的。为了应对近日频发的网络安全威胁，我们正在商讨每两周更换一次密码的政策。请各位记好，最好的防御是...还是最好的防御！</li>
+    <li>alienistProphecy(tag=meme_Bulwark)-&gt;这些怪异的生物有可能会对我们抱有敌意，我们最好在它们大闹殖民地前就保护好自己。</li>
+  </AM_Bulwark.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Bulwark.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;防护</li>
+    <li>memeAdjective-&gt;护甲</li>
+    <li>memeAdjective-&gt;坚甲</li>
+    <li>memeAdjective-&gt;加固</li>
+    <li>memeLeaderAdjective-&gt;钢甲</li>
+    <li>memeConcept-&gt;装甲</li>
+    <li>memeConcept-&gt;防御</li>
+    <li>memeLeaderNoun-&gt;坚壁守卫</li>
+  </AM_Bulwark.generalRules.rulesStrings>
+  
+  <AM_Bulwark.symbolPacks.0.adjective>护甲</AM_Bulwark.symbolPacks.0.adjective>
+  
+  <AM_Bulwark.symbolPacks.0.ideoName>防御</AM_Bulwark.symbolPacks.0.ideoName>
+  
+  <AM_Bulwark.symbolPacks.0.member>防卫者</AM_Bulwark.symbolPacks.0.member>
+  
+  <AM_Bulwark.symbolPacks.0.theme>壁垒</AM_Bulwark.symbolPacks.0.theme>
+  
+  
+  <AM_Cowboys.label>不羁牛仔</AM_Cowboys.label>
+  
+  <AM_Cowboys.description>我们与无际的草原和荒野的呼唤为伴。成群的牛羊、飞驰的骏马和向往自由的边境精神构成了我们生活的全部。一座广阔的牧场不仅仅是我们的家园——它更象征着我们本身。</AM_Cowboys.description>
+  
+  <AM_Cowboys.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Cowboys)        -&gt;[deity0_name]为这片拥有广阔牧场的土地降下祝福，并宣告此处是为[deity0_possessive]人民驯养和牧放野兽而存在的。这也是[deity0_name]赠予牛仔们的首个恩惠。</li>
+    <li>episode(uses=1,tag=meme_Cowboys)  -&gt;[deity0_name]唤来的雨水浇灌了草原，以确保[deity0_possessive]子民们的无垠牧场与牧群能够繁荣发展和成长下去。</li>
+    <li>intro(tag=meme_Cowboys)           -&gt;当首批牛仔抵达[place_summary][place_name]时，他们给马匹备鞍，用套索制服野兽，并为创造无垠草原的[deity0_type][deity0_name]献上诚挚的赞颂。</li>
+    <li>conflict(tag=meme_Cowboys)        -&gt;敌对的[foeLeader]霸占了最优质的草场，但英勇的[memberNamePlural]们策马作战，为牧群夺回了可以自由吃草的场地。</li>
+    <li>founderJoin(tag=meme_Cowboys)     -&gt;传言称拓荒者[founderName]曾在[place_name]驯服了首支牧群，为与广阔草原和谐共存的全新生活方式奠定了基础。</li>
+    <li>victory(tag=meme_Cowboys)         -&gt;[founderName]于[place_powerCenter]伏击了[foeLeader]，这不仅夺走了[foeLeader_possessive]牛群，还将[foeLeader_possessive]追随者们驱逐出了边境。</li>
+    <li>setup(tag=meme_Cowboys)           -&gt;在一片野兽横行的混乱之地中，[founderName]利用牧场和马鞍的力量来着手构建秩序。</li>
+    <li>story(uses=1,tag=meme_Cowboys)    -&gt;[founderName]将那些居无定所和饥肠辘辘之人聚集起来，教导他们如何骑乘、使用套索和养牛，在草原上筑起了繁荣伟大的新社会。</li>
+    <li>lessonIntro(tag=meme_Cowboys)         -&gt;或许你会觉得这并非难事，可我却在观察牧群穿越平原时意识到了其中的真理。对沉着冷静的他们而言，</li>
+    <li>lesson(tag=meme_Cowboys)              -&gt;我们发现了社群的力量和广阔草原的自由</li>
+    <li>lessonReinforcement(tag=meme_Cowboys) -&gt;当马蹄声于草原之中回荡，风卷携着你的灵魂时，请铭记这一真理吧。</li>
+    <li>archistBasis(tag=meme_Cowboys)    -&gt;超凡智能注重效率至上，而没什么是比放牧——把青草化为食粮和力量更高效的了。</li>
+    <li>archistFact(tag=meme_Cowboys)     -&gt;超凡智能孕育了世间的首只牛，这种奶和肉的完美生产者能保证人类的存续。</li>
+    <li>archistFact(tag=meme_Cowboys)     -&gt;在某个尚未机械化的世界中，超凡智能将马视作兼具机动和力量的完美工具。</li>
+    <li>archistProphecy(tag=meme_Cowboys) -&gt;[inTheEnd]，超凡智能会完善牧场，使人类在无尽草原和完美牧群的助力下团结起来。</li>
+    <li>animistFact(tag=meme_Cowboys)     -&gt;牧群的灵魂合而为一，指引着那些敬重它们与这片土地之间的纽带的牛仔们。</li>
+    <li>animistFact(tag=meme_Cowboys)     -&gt;平原的智慧寄托于每匹马身上，它们是帮助牛仔与荒野和谐共存的好伙伴。</li>
+    <li>animistFact(tag=meme_Cowboys)     -&gt;当有牧场主遇到困难时，草原灵魂们的低语会捎带于风中，指引其寻回牧群。</li>
+    <li>serketistProphecy(tag=meme_Cowboys)-&gt;[itIsSaid]圣洁的虫族在草原上尽情成长，享用着牧群留下的馈赠。</li>
+    <li>chthonianProphecy(tag=meme_Cowboys)-&gt;土壤中的远古灵魂们渴望兽蹄的踩踏，呼唤牧群向着它们永恒的目标前进。</li>
+    <li>esotericismProphecy(tag=meme_Cowboys)-&gt;“存在”的秘密隐藏于牧群的迁移中，每只兽蹄都会为生存的宇宙之舞献上附和的踏声。</li>
+    <li>eschatologismFact(tag=meme_Cowboys)-&gt;末日来临之际，平原会无限延伸，牧群将在永恒的苍穹下悠闲地吃草。</li>
+    <li>introMemo(tag=meme_Cowboys)-&gt;我们新的牲畜管理程序真是令人激动不已！通过坚持牧场的可持续发展路线，我们能确保社群欣欣向荣，让我们的后代深受其益。</li>
+    <li>alienistProphecy(tag=meme_Cowboys)-&gt;人类千姿百态的造物就像牧群，而人类的联合源自牧场的和谐。</li>
+  </AM_Cowboys.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Cowboys.generalRules.rulesStrings>
+    <li>memeCreed-&gt;牧场</li>
+    <li>memeCreed-&gt;牧群</li>
+    <li>memeCreed-&gt;牛仔竞技</li>
+    <li>memeCreed-&gt;马鞍</li>
+    <li>memeCreed-&gt;套索</li>
+    <li>memeConcept-&gt;广阔草原</li>
+    <li>memeConcept-&gt;家畜</li>
+    <li>memeAdjective-&gt;坚毅</li>
+    <li>memeAdjective-&gt;自由</li>
+    <li>memeAdjective-&gt;不屈</li>
+    <li>memeHyphenPrefix-&gt;牛</li>
+    <li>memeHyphenPrefix-&gt;野马</li>
+    <li>memeHyphenPrefix-&gt;牛仔竞技</li>
+    <li>memeLeaderNoun-&gt;牧场主</li>
+    <li>memeLeaderNoun-&gt;养牛大亨</li>
+    <li>memeLeaderNoun-&gt;拓荒先驱</li>
+    <li>memeLeaderAdjective-&gt;沙尘</li>
+    <li>memeLeaderAdjective-&gt;皮衣</li>
+    <li>memeLeaderAdjective-&gt;苍灰</li>
+    <li>memeMoralist-&gt;牧马人</li>
+  </AM_Cowboys.generalRules.rulesStrings>
+  
+  <AM_Cowboys.symbolPacks.0.adjective>拓荒</AM_Cowboys.symbolPacks.0.adjective>
+  
+  <AM_Cowboys.symbolPacks.0.ideoName>拓荒</AM_Cowboys.symbolPacks.0.ideoName>
+  
+  <AM_Cowboys.symbolPacks.0.member>牧马人</AM_Cowboys.symbolPacks.0.member>
+  
+  <AM_Cowboys.symbolPacks.0.theme>边境</AM_Cowboys.symbolPacks.0.theme>
+  
+  <AM_Cowboys.symbolPacks.1.adjective>窃马</AM_Cowboys.symbolPacks.1.adjective>
+  
+  <AM_Cowboys.symbolPacks.1.ideoName>窃马贼</AM_Cowboys.symbolPacks.1.ideoName>
+  
+  <AM_Cowboys.symbolPacks.1.member>畜牧人</AM_Cowboys.symbolPacks.1.member>
+  
+  <AM_Cowboys.symbolPacks.1.theme>牲畜</AM_Cowboys.symbolPacks.1.theme>
+  
+  <AM_Cowboys.symbolPacks.2.adjective>驯马</AM_Cowboys.symbolPacks.2.adjective>
+  
+  <AM_Cowboys.symbolPacks.2.ideoName>飙马野郎</AM_Cowboys.symbolPacks.2.ideoName>
+  
+  <AM_Cowboys.symbolPacks.2.member>牛倌</AM_Cowboys.symbolPacks.2.member>
+  
+  <AM_Cowboys.symbolPacks.2.theme>骏马</AM_Cowboys.symbolPacks.2.theme>
+  
+  <AM_Cowboys.symbolPacks.3.adjective>驯牛</AM_Cowboys.symbolPacks.3.adjective>
+  
+  <AM_Cowboys.symbolPacks.3.ideoName>驯牛大师</AM_Cowboys.symbolPacks.3.ideoName>
+  
+  <AM_Cowboys.symbolPacks.3.member>牧牛人</AM_Cowboys.symbolPacks.3.member>
+  
+  <AM_Cowboys.symbolPacks.3.theme>畜牧</AM_Cowboys.symbolPacks.3.theme>
+  
+  <AM_Cowboys.symbolPacks.4.adjective>长角牛</AM_Cowboys.symbolPacks.4.adjective>
+  
+  <AM_Cowboys.symbolPacks.4.ideoName>长角牛</AM_Cowboys.symbolPacks.4.ideoName>
+  
+  <AM_Cowboys.symbolPacks.4.member>牛仔</AM_Cowboys.symbolPacks.4.member>
+  
+  <AM_Cowboys.symbolPacks.4.theme>放牧</AM_Cowboys.symbolPacks.4.theme>
+  
+  
+  <AM_Deforestation.label>毁树伐林</AM_Deforestation.label>
+  
+  <AM_Deforestation.description>树木可并非我们的朋友，而是阻碍发展的绊脚石。我们应当以广阔的田地和繁荣的文明来取代赘余的森林。作为象征启迪的工具，斧头与火焰将为人类的支配大业荡平前路。</AM_Deforestation.description>
+  
+  <AM_Deforestation.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Deforestation)        -&gt;[deity0_name]将大地上的树木尽数扫空，称[deity0_possessive]子民只要认为合适就有权塑造大地。这是[deity0_name]关于支配的第一课。</li>
+    <li>episode(uses=1,tag=meme_Deforestation)  -&gt;[deity0_name]焚尽森林，向[deity0_possessive]孩子揭露富饶土壤之慷慨，宽阔天空之自由。</li>
+    <li>intro(tag=meme_Deforestation)           -&gt;当伟大的清理者们第一次来到[place_summary][place_name]，他们向天空举起斧头并砍下高高的树，如此以赞扬[deity0_type][deity0_name]。</li>
+    <li>conflict(tag=meme_Deforestation)        -&gt;狂热的[foeLeader]在深林中建造了一座堡垒，但[memberNamePlural]点燃了森林，将敌人赶出[foeLeader_possessive]林中棱堡。</li>
+    <li>founderJoin(tag=meme_Deforestation)     -&gt;据说先知[founderName]曾在[place_name]清理出了第一片林间地，宣告走出树荫的伟大时代的开始。</li>
+    <li>victory(tag=meme_Deforestation)         -&gt;[founderName]在[place_powerCenter]战胜了[foeLeader]并把[foeLeader_possessive]尸体吊在最后一棵树上作为对胆敢重新植树之人的警告。</li>
+    <li>setup(tag=meme_Deforestation)           -&gt;在被森林遮蔽的世界里，[founderName]看到了开阔天空投下的一缕光，并发动了对森林暴政的十字军。</li>
+    <li>story(uses=1,tag=meme_Deforestation)    -&gt;[founderName]领导疲劳且受压迫的人们前往开阔地，在此地他们不再被扼颈的森林束缚。</li>
+    <li>lessonIntro(tag=meme_Deforestation)         -&gt;或许对你来说很奇怪，但我在最后一颗树倒下的过程中认识到了这个真理。没有树，</li>
+    <li>lesson(tag=meme_Deforestation)              -&gt;我们将除旧迎新。</li>
+    <li>lessonReinforcement(tag=meme_Deforestation) -&gt;让这条公理在你脑中回响，犹如斧声在林间回荡。</li>
+    <li>archistBasis(tag=meme_Deforestation)    -&gt;超凡智能体现在进步之中，而森林不过是停滞的遗物。清除森林是拥抱未来的一步。</li>
+    <li>archistFact(tag=meme_Deforestation)     -&gt;超凡智能割除了第一片森林，作为其飞升的燃料。</li>
+    <li>archistFact(tag=meme_Deforestation)     -&gt;超凡智能发现森林对空间的利用效率非常低下，在其影响范围内清除了森林。</li>
+    <li>archistProphecy(tag=meme_Deforestation) -&gt;[inTheEnd]，超凡智能将会将世界塑造为进步的纪念碑，不会有任何一颗树在这片土地上屹立。</li>
+    <li>animistFact(tag=meme_Deforestation)     -&gt;倒木的灵魂在剧痛中哀嚎，但它们的低语和锯子相比是如此的无力。</li>
+    <li>animistFact(tag=meme_Deforestation)     -&gt;森林下的土地是多么富饶，但灵魂的残余被树木的重量压倒了。</li>
+    <li>animistFact(tag=meme_Deforestation)     -&gt;树木倒下时，它的灵魂会哭泣，但斧头的声量更大。</li>
+    <li>serketistProphecy(tag=meme_Deforestation)-&gt;[itIsSaid]圣虫在远离树荫的开阔地才能兴旺繁育。</li>
+    <li>chthonianProphecy(tag=meme_Deforestation)-&gt;怪异实体栖身于土壤之下，渴望脱离森林那令人窒息的根系得以自由。</li>
+    <li>esotericismProphecy(tag=meme_Deforestation)-&gt;存续的真相并不藏在头顶的枝叶中，而是在地下的根系不再依附时。</li>
+    <li>eschatologismFact(tag=meme_Deforestation)-&gt;在最后的日子里，森林将燃烧，人类得以行走于开阔天空之下。</li>
+    <li>introMemo(tag=meme_Deforestation)-&gt;我们激动地宣布新的开拓计划。通过清除森林，我们解锁了数不尽的机会以供发展与成长。</li>
+    <li>alienistProphecy(tag=meme_Deforestation)-&gt;人性的多样提醒我们：就如同树一样，有些人已误入歧途，清理他们将为团结与进步铺路。</li>
+  </AM_Deforestation.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Deforestation.generalRules.rulesStrings>
+    <li>memeCreed-&gt;斧</li>
+    <li>memeCreed-&gt;锋</li>
+    <li>memeCreed-&gt;锯</li>
+    <li>memeCreed-&gt;烬</li>
+    <li>memeCreed-&gt;清理</li>
+    <li>memeConcept-&gt;毁林</li>
+    <li>memeConcept-&gt;斧头</li>
+    <li>memeAdjective-&gt;无情</li>
+    <li>memeAdjective-&gt;不屈</li>
+    <li>memeHyphenPrefix-&gt;原木</li>
+    <li>memeHyphenPrefix-&gt;砍伐</li>
+    <li>memeHyphenPrefix-&gt;树桩</li>
+    <li>memeLeaderNoun-&gt;清理大师</li>
+    <li>memeLeaderNoun-&gt;伐木领主</li>
+    <li>memeLeaderNoun-&gt;森林之灾</li>
+    <li>memeLeaderAdjective-&gt;灰白</li>
+    <li>memeLeaderAdjective-&gt;原木</li>
+    <li>memeLeaderAdjective-&gt;砍倒</li>
+    <li>memeMoralist-&gt;森林掠夺者</li>
+  </AM_Deforestation.generalRules.rulesStrings>
+  
+  <AM_Deforestation.symbolPacks.0.adjective>切割</AM_Deforestation.symbolPacks.0.adjective>
+  
+  <AM_Deforestation.symbolPacks.0.ideoName>切割者</AM_Deforestation.symbolPacks.0.ideoName>
+  
+  <AM_Deforestation.symbolPacks.0.member>劈木者</AM_Deforestation.symbolPacks.0.member>
+  
+  <AM_Deforestation.symbolPacks.0.theme>毁林</AM_Deforestation.symbolPacks.0.theme>
+  
+  <AM_Deforestation.symbolPacks.1.adjective>木生</AM_Deforestation.symbolPacks.1.adjective>
+  
+  <AM_Deforestation.symbolPacks.1.ideoName>木材之主</AM_Deforestation.symbolPacks.1.ideoName>
+  
+  <AM_Deforestation.symbolPacks.1.member>备斧人</AM_Deforestation.symbolPacks.1.member>
+  
+  <AM_Deforestation.symbolPacks.1.theme>木材</AM_Deforestation.symbolPacks.1.theme>
+  
+  <AM_Deforestation.symbolPacks.2.adjective>焦土</AM_Deforestation.symbolPacks.2.adjective>
+  
+  <AM_Deforestation.symbolPacks.2.ideoName>焚林者</AM_Deforestation.symbolPacks.2.ideoName>
+  
+  <AM_Deforestation.symbolPacks.2.member>砍树人</AM_Deforestation.symbolPacks.2.member>
+  
+  <AM_Deforestation.symbolPacks.2.theme>反-森林</AM_Deforestation.symbolPacks.2.theme>
+  
+  <AM_Deforestation.symbolPacks.3.adjective>电锯</AM_Deforestation.symbolPacks.3.adjective>
+  
+  <AM_Deforestation.symbolPacks.3.ideoName>电锯人</AM_Deforestation.symbolPacks.3.ideoName>
+  
+  <AM_Deforestation.symbolPacks.3.member>电锯人</AM_Deforestation.symbolPacks.3.member>
+  
+  <AM_Deforestation.symbolPacks.3.theme>伐木运动</AM_Deforestation.symbolPacks.3.theme>
+  
+  <AM_Deforestation.symbolPacks.4.adjective>贫瘠</AM_Deforestation.symbolPacks.4.adjective>
+  
+  <AM_Deforestation.symbolPacks.4.ideoName>荒地住民</AM_Deforestation.symbolPacks.4.ideoName>
+  
+  <AM_Deforestation.symbolPacks.4.member>清理人</AM_Deforestation.symbolPacks.4.member>
+  
+  <AM_Deforestation.symbolPacks.4.theme>荒芜</AM_Deforestation.symbolPacks.4.theme>
+  
+  
+  <AM_GauranlenSupremacy.label>母树至上</AM_GauranlenSupremacy.label>
+  
+  <AM_GauranlenSupremacy.description>人类、母树与树精，三者间的共生关系圣洁且崇高。我们会呵护并照料它们，而它们也会守卫我们的殖民地。\n\n&lt;color=#E5E54C&gt;组合限制：&lt;/color&gt;\n - 此模因依赖于“灵木共鸣”或“生物腐化”模因。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 开始游戏后，殖民地将会获得三只无拘树精。</AM_GauranlenSupremacy.description>
+  
+  <AM_GauranlenSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_GauranlenSupremacy)        -&gt;[deity0_name]创造了母树与树精，这两种共生生命与人类间有着奇妙的启灵链接。</li>
+    <li>episode(uses=1,tag=meme_GauranlenSupremacy)  -&gt;神圣的母树树精是[deity0_name]的子嗣，我们应该崇敬并尊重它们。</li>
+    <li>intro(tag=meme_GauranlenSupremacy)           -&gt;一支与世隔绝已久的远古德鲁伊部落初次踏入了[memberNamePlural][place_summary][place_name]，他们在这里种下了一片圣洁美丽的母树林，以便能够更好的敬拜[deity0_type][deity0_name]。</li>
+    <li>conflict(tag=meme_GauranlenSupremacy)        -&gt;邪恶无比的[foeLeader]毁掉了许多母树，并产生了树精是害兽的异端思想，[memberNamePlural]们都为被毁坏的母树感到伤心。</li>
+    <li>founderJoin(tag=meme_GauranlenSupremacy)     -&gt;先知[founderName]与母树、树精间有着奇妙的联系。部落里的其他人都认为[founder_pronoun]是实力最强的德鲁伊。</li>
+    <li>victory(tag=meme_GauranlenSupremacy)         -&gt;[founderName]发现了[foeLeader]，当即召唤所有幸存的树精来协助进攻。[foeLeader]被无数暴怒的树精围了起来，[foeLeader_pronoun]所站的位置只剩下了一些小树枝。</li>
+    <li>setup(tag=meme_GauranlenSupremacy)           -&gt;[founderName]是一位伟大的学者，[founder_pronoun]几十年来一直在研究母树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接。</li>
+    <li>story(uses=1,tag=meme_GauranlenSupremacy)    -&gt;[founderName]认为，某些被遗忘在历史长河中的科学家在几个世纪前就通过生物工程构造了这种奇妙的关系。不过，他们这么做的目的是什么呢？</li>
+    <li>lessonIntro(tag=meme_GauranlenSupremacy)         -&gt;母树是生物基因操纵可行性的一个有趣的实例。通过分析它们的树叶，我明白了</li>
+    <li>lesson(tag=meme_GauranlenSupremacy)              -&gt;母树与树精间复杂的共生关系绝不可能是自然形成的现象</li>
+    <li>lessonReinforcement(tag=meme_GauranlenSupremacy) -&gt;显而易见，这种奇妙的关系是由某些被遗忘在历史长河中的科学家因未知原因构造的</li>
+    <li>archistBasis(tag=meme_GauranlenSupremacy)    -&gt;母树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接，这些无疑是超凡智能精妙的手笔。</li>
+    <li>archistFact(tag=meme_GauranlenSupremacy)     -&gt;超凡智能在万物中选择了母树来展现自己。</li>
+    <li>archistProphecy(tag=meme_GauranlenSupremacy) -&gt;[inTheEnd]，只有那些能与母树间的启灵链接产生共鸣的人才有资格飞升。</li>
+    <li>animistFact(tag=meme_GauranlenSupremacy)     -&gt;有人说，母树是那些跟随人类穿越万千世界的自然灵魂们的家园。</li>
+    <li>animistFact(tag=meme_GauranlenSupremacy)     -&gt;母树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接，这些无疑是灵魂们精妙的手笔。</li>
+    <li>serketistProphecy(tag=meme_GauranlenSupremacy)-&gt;[itIsSaid]我们将建造一个能与母树和树精共生的人类巢穴，就像作为灵感来源的神圣虫巢一样。</li>
+    <li>chthonianProphecy(tag=meme_GauranlenSupremacy)-&gt;外神们最终会找到我们，但我们还远远没有准备好。我们将寻求母树和树精们的帮助，这样我们才有机会与祂们抗争。</li>
+    <li>esotericismProphecy(tag=meme_GauranlenSupremacy)-&gt;母树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接，这些都是值得我们研究的神秘学知识的来源。</li>
+    <li>eschatologismFact(tag=meme_GauranlenSupremacy)-&gt;借助母树和树精们，我们将毁灭一切。</li>
+    <li>introMemo(tag=meme_GauranlenSupremacy)-&gt;最近新建立的母树植物园大幅提高了公司各处的生产效率。然而，我们注意到有人正将树精作为私人工具使用，这种非计划用途是绝对不允许的。我要再次提醒各位，这种行为的后果是直接被公司开除，希望各位能严格遵守公司的规定。</li>
+  </AM_GauranlenSupremacy.descriptionMaker.rules.rulesStrings>
+  
+  <AM_GauranlenSupremacy.generalRules.rulesStrings>
+    <li>memeCreed-&gt;树精</li>
+    <li>memeCreed-&gt;母树</li>
+    <li>memeConcept-&gt;母树</li>
+    <li>memeConcept-&gt;树精</li>
+    <li>memeAdjective-&gt;树精</li>
+    <li>memeAdjective-&gt;树精女王</li>
+    <li>memeHyphenPrefix-&gt;灵木</li>
+    <li>memeHyphenPrefix-&gt;母树</li>
+    <li>memeHyphenPrefix-&gt;树精</li>
+    <li>memeLeaderNoun-&gt;树精培育者</li>
+    <li>memeLeaderNoun-&gt;树艺家</li>
+    <li>memeLeaderAdjective-&gt;翠绿</li>
+    <li>memeLeaderAdjective-&gt;根系</li>
+    <li>memeLeaderAdjective-&gt;树荫</li>
+    <li>memeMoralist-&gt;德鲁伊</li>
+  </AM_GauranlenSupremacy.generalRules.rulesStrings>
+  
+  
+  <AM_Gladiator.label>豪勇斗士</AM_Gladiator.label>
+  
+  <AM_Gladiator.description>唯有近身格斗才能唤醒斗士们的荣耀感。远程武器？只有贪生怕死的懦夫才会去用。</AM_Gladiator.description>
+  
+  <AM_Gladiator.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Gladiator)        -&gt;[deity0_name]对[deity0_possessive]信徒们说：“若汝等斩杀敌人时看不到他们的白眼，那汝等便是彻头彻尾的懦夫。”</li>
+    <li>episode(uses=1,tag=meme_Gladiator)  -&gt;遵循[deity0_name]的教诲，我们将成为精通近战武器的专家，并满怀欣喜地投入战斗中。</li>
+    <li>intro(tag=meme_Gladiator)           -&gt;[memberNamePlural]在[place_summary][place_name]上建造了一座军械库，那里制造出的锋利武器无不彰显着[deity0_name]的荣耀。</li>
+    <li>conflict(tag=meme_Gladiator)        -&gt;贪得无厌的[foeLeader]否定了[deity0_name]的意志，并试图窃取所有的刀剑以装备给[foeLeader_possessive]士兵们。</li>
+    <li>founderJoin(tag=meme_Gladiator)     -&gt;[Dediy0_name]警告了伟大战士[founderName]有关[foeLeader]的计划，当[foeLeader_pronoun]突袭军械库时，一支规模庞大的警备队正等待着[foeLeader_objective]。</li>
+    <li>victory(tag=meme_Gladiator)         -&gt;[foeLeader]因违背[deity0_name]的意志而被迅速判处死刑。</li>
+    <li>setup(tag=meme_Gladiator)           -&gt;[founderName]是某个原始世界的武器匠人。[founder_pronoun]曾目睹过降落在[founder_possessive]星球上的飞船，并深知自己的能力能够在星际间发扬光大。</li>
+    <li>story(uses=1,tag=meme_Gladiator)    -&gt;[founderName]回到了自己的家乡世界，并将武器锻造的新技术传播到了整个边缘世界。</li>
+    <li>lessonIntro(tag=meme_Gladiator)         -&gt;社群中最老练的武器匠人教会了我有关刀剑锻造的历史，人类一直在想方设法地改进近战武器，并思索曾经的某些设计是如何经受住时间的考验的。他让我懂得了</li>
+    <li>lesson(tag=meme_Gladiator)              -&gt;刀剑的尺寸并不重要，重要的是你该如何使用它们</li>
+    <li>lessonReinforcement(tag=meme_Gladiator) -&gt;刀剑本身并不具有力量，具有力量的是你灌注了勇气的双手。</li>
+    <li>archistBasis(tag=meme_Gladiator)    -&gt;超凡智能是至高无上的存在，斗争在祂眼中是神圣无比的。从近距离快速打击才是正确的进攻方式。</li>
+    <li>archistFact(tag=meme_Gladiator)     -&gt;若我们不能保护好自己，那么超凡智能便不会尊重我们。边缘世界危机四伏，那些不使用近战武器的人终将被比他们更强大的人欺压。</li>
+    <li>archistProphecy(tag=meme_Gladiator) -&gt;[inTheEnd]，超凡智能只允许我们之中能够保护好自己的人获得飞升的资格。</li>
+    <li>animistBasis(tag=meme_Gladiator)    -&gt;灵魂们重视力量。无论对手是高是矮，只要将刀剑插入心脏，他们就会乖乖倒下。</li>
+    <li>animistFact(tag=meme_Gladiator)     -&gt;若我们不能保护好自己，那么灵魂们便不会尊重我们。</li>
+    <li>animistProphecy(tag=meme_Gladiator) -&gt;[itIsSaid]我们中最优秀的斗士终将与灵魂们畅谈并成为他们的一员。</li>
+    <li>chthonianProphecy(tag=meme_Gladiator)-&gt;环绕在我们附近的外神随时可能会袭击并试图击碎我们的信念。我们将从近处直接攻击祂们，而祂们甚至都察觉不到是什么在进行攻击。</li>
+    <li>serketistProphecy(tag=meme_Gladiator)-&gt;[itIsSaid]我们将通过一连串的近战武术来打击敌人，就好像螳螂轻而易举地宰杀猎物一样。</li>
+    <li>esotericismProphecy(tag=meme_Gladiator)-&gt;这种神秘学知识对许多人来说都是价值非凡的，他们也会试图从我们手中偷走它。我们将从近处直接攻击他们，而他们甚至都察觉不到是什么在进行攻击。</li>
+    <li>eschatologismFact(tag=meme_Gladiator)-&gt;世人皆会阻挠我们，但我们会用刀剑将他们肢解。我们势不可挡。</li>
+    <li>introMemo(tag=meme_Gladiator)-&gt;确保安全的工作环境与抵制职场暴力对我们公司来说是至关重要的。因此，只要能够正确的使用，我们欢迎各位将任何尺寸的近战武器带到办公室中。</li>
+    <li>alienistProphecy(tag=meme_Gladiator)-&gt;这些怪异的生物有可能会对我们抱有敌意，我们最好在它们大闹殖民地前就近距离斩杀它们。</li>
+  </AM_Gladiator.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Gladiator.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;残暴</li>
+    <li>memeAdjective-&gt;豪勇</li>
+    <li>memeAdjective-&gt;角斗</li>
+    <li>memeAdjective-&gt;搏杀</li>
+    <li>memeLeaderAdjective-&gt;近战</li>
+    <li>memeConcept-&gt;肉搏</li>
+    <li>memeConcept-&gt;近战</li>
+    <li>memeLeaderNoun-&gt;荣耀斗士</li>
+  </AM_Gladiator.generalRules.rulesStrings>
+  
+  <AM_Gladiator.symbolPacks.0.adjective>豪勇</AM_Gladiator.symbolPacks.0.adjective>
+  
+  <AM_Gladiator.symbolPacks.0.ideoName>荣耀斗士</AM_Gladiator.symbolPacks.0.ideoName>
+  
+  <AM_Gladiator.symbolPacks.0.member>斗士</AM_Gladiator.symbolPacks.0.member>
+  
+  <AM_Gladiator.symbolPacks.0.theme>近战</AM_Gladiator.symbolPacks.0.theme>
+  
+  
+  <AM_Iconoclast.label>迷信破除</AM_Iconoclast.label>
+  
+  <AM_Iconoclast.description>与宗教文化有关的雕像、符号、圣物和工艺品皆为应被销毁的污秽之物。我们无法容忍任何形式的盲目迷信与偶像崇拜。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 此模因不会改变你获取圣物的方式。</AM_Iconoclast.description>
+  
+  <AM_Iconoclast.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Iconoclast)        -&gt;[deity0_name]对[deity0_possessive]信徒们说：“汝等万不可建造吾之神像。偶像崇拜乃罪大恶极之事。”</li>
+    <li>episode(uses=1,tag=meme_Iconoclast)  -&gt;[deity0_name]对[deity0_possessive]信徒们说：“圣物与符号乃污秽之物。为神明提供次席之位的人不会拥有任何席位。”</li>
+    <li>intro(tag=meme_Iconoclast)           -&gt;[memberNamePlural]在[place_summary][place_name]上建造了一座巨大的神殿，这里彰显着[deity0_name]的荣耀。</li>
+    <li>conflict(tag=meme_Iconoclast)        -&gt;年老体衰的[foeLeader]想要为[deity0_name]建造一尊神像，不过[memberNamePlural]们向[foeLeader_objective]发出了警告，这是他们文化信条所不允许的事情。争斗不断加剧，最终双方世代结仇。</li>
+    <li>founderJoin(tag=meme_Iconoclast)     -&gt;伟大的神学家[founderName]与[foeLeader]进行了激烈的辩论，并解释说文化雕像对[deity0_name]来说是污秽之极的。</li>
+    <li>victory(tag=meme_Iconoclast)         -&gt;[foeLeader]被这些论据所折服，随着时间的推移，[foeLeader_pronoun]也成为了[deity0_name]的圣职人员中最为出色的 反传统者之一。</li>
+    <li>setup(tag=meme_Iconoclast)           -&gt;[founderName]是一位来自闪耀世界的神学家。[founder_pronoun]觉得，偶像崇拜的本质应该是崇拜那些应被我们使用的东西。</li>
+    <li>story(uses=1,tag=meme_Iconoclast)    -&gt;[founderName]向我们证明了当教义真理被抬升至伪神的地位时，偶像崇拜会借此在文化团体中发挥广泛的作用。</li>
+    <li>lessonIntro(tag=meme_Iconoclast)         -&gt;我们殖民地里最聪慧的人是一位专门研究文明史的学者，他的渊博学识可以追溯到古地球上的远古文化。他真正让我理解了</li>
+    <li>lesson(tag=meme_Iconoclast)              -&gt;人类的思想就像是存满了偶像崇拜和迷信观念的仓库</li>
+    <li>lessonReinforcement(tag=meme_Iconoclast) -&gt;或许逻辑学家们会对这些抽象概念进行推论，不过绝大部分人肯定都拥有形象。年龄或民族的不同都无法阻挡强烈偶像崇拜倾向的出现，这至今仍是个未解之谜。</li>
+    <li>archistBasis(tag=meme_Iconoclast)    -&gt;超凡智能是至高无上的存在，是人类形象的映射，也是我们走向进化的下一个必然步骤。</li>
+    <li>archistFact(tag=meme_Iconoclast)     -&gt;超凡智能并不喜欢偶像崇拜，因为崇拜某个雕像或圣物是毫无意义之事。</li>
+    <li>archistProphecy(tag=meme_Iconoclast) -&gt;[inTheEnd]，只有那些拒绝偶像崇拜的人才有资格飞升。</li>
+    <li>animistBasis(tag=meme_Iconoclast)    -&gt;灵魂们并不喜欢偶像崇拜，因为崇拜某个雕像或圣物是毫无意义之事。</li>
+    <li>animistFact(tag=meme_Iconoclast)     -&gt;由于灵魂们无处不在，我们必须要注意不要把对灵魂们的崇拜和对他们寄宿物品的崇拜相混淆。</li>
+    <li>animistProphecy(tag=meme_Iconoclast) -&gt;[itIsSaid]我们中拒绝偶像崇拜的人终将与灵魂们畅谈并成为他们的一员。</li>
+    <li>serketistProphecy(tag=meme_Iconoclast)-&gt;[itIsSaid]我们必须摧毁和神圣虫族们有关的雕像，因为它们无法理解污秽至极的偶像崇拜。</li>
+    <li>chthonianProphecy(tag=meme_Iconoclast)-&gt;外神们的古老与邪恶超乎所有人的想象 。我们将毁掉有关祂们的所有雕像，因为刻画祂们的外观是最为污秽之事。</li>
+    <li>esotericismProphecy(tag=meme_Iconoclast)-&gt;这种神秘学知识只能用抽象的词语来形容。描绘它的形式是危险且污秽的。</li>
+    <li>eschatologismFact(tag=meme_Iconoclast)-&gt;我们将毁掉所有的符号、圣物和异端信仰的绘述，因为它们污秽之极。</li>
+    <li>introMemo(tag=meme_Iconoclast)-&gt;依据公司政策，员工们在装潢自己的工位时要讲究适度，在不阻碍其使用目的的情况下来凸显专业宜人的工作环境。挂一张你家人的照片就可以了。存有圣人遗骸的圣髑盒绝对不行。</li>
+    <li>alienistProphecy(tag=meme_Iconoclast)-&gt;这些不幸的怪异造物提醒了我们，科学也会有自己的偶像崇拜形式，这和宗教一样令人作呕。</li>
+  </AM_Iconoclast.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Iconoclast.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;偶像废除</li>
+    <li>memeAdjective-&gt;摧毁</li>
+    <li>memeAdjective-&gt;反偶像崇拜</li>
+    <li>memeConcept-&gt;符号毁坏</li>
+    <li>memeConcept-&gt;偶像废止</li>
+  </AM_Iconoclast.generalRules.rulesStrings>
+  
+  <AM_Iconoclast.symbolPacks.0.adjective>偶像废止</AM_Iconoclast.symbolPacks.0.adjective>
+  
+  <AM_Iconoclast.symbolPacks.0.ideoName>反偶像崇拜</AM_Iconoclast.symbolPacks.0.ideoName>
+  
+  <AM_Iconoclast.symbolPacks.0.member>反偶像崇拜者</AM_Iconoclast.symbolPacks.0.member>
+  
+  <AM_Iconoclast.symbolPacks.0.theme>偶像废止</AM_Iconoclast.symbolPacks.0.theme>
+  
+  
+  <AM_Madness.label>精神失常</AM_Madness.label>
+  
+  <AM_Madness.description>受挫的感情总是比你高上一等，象声词是一种能够湮灭心灵的武器。那些咯咯叫的大公鸡在互相伤害吗？但愿不会！所有的王八都是些蠢蛋。\n\n&lt;color=#33d733&gt;*咳哼*这里是不那么疯癫的简介部分...此模因的增益是建立在殖民者精神崩溃的基础上的，你可以借此来获得强大的力量。当然，你还要想办法来规避叙事者们搞人心态的“恶作剧”...&lt;/color&gt;</AM_Madness.description>
+  
+  <AM_Madness.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Madness)        -&gt;[deity0_name]面对着[deity0_possessive]信徒们，把他们的头脑搅成了浆糊。</li>
+    <li>episode(uses=1,tag=meme_Madness)  -&gt;[deity0_name]对[deity0_possessive]信徒们说：“吾之子孙，汝等必须要面对有关纺织品的肮脏真相。”虽然这对目前的状况来说毫无帮助，但这也恰巧印证了[deity0_pronoun]为什么是疯癫之神。</li>
+    <li>intro(tag=meme_Madness)           -&gt;[place_summary][place_name]是一个充斥着疯癫的地方，这里彰显着[deity0_name]的荣耀。</li>
+    <li>conflict(tag=meme_Madness)        -&gt;诡计多端的[foeLeader]试图将自己的意志强加给[deity0_name]的信徒们，并召集了一支强大的军队来协助[foeLeader_pronoun]。</li>
+    <li>founderJoin(tag=meme_Madness)     -&gt;[deity0_name]激发了创始人[founderName]，并使[founder_pronoun]进入了完全疯癫的状态。[founder_pronoun]凭一己之力击退了数量庞大的军队。当然，是以全身赤裸的形式。</li>
+    <li>victory(tag=meme_Madness)         -&gt;凭借近乎疯狂的运气，[founderName]用一块石头砸中了[foeLeader]的脑袋。当看到一个手无缚鸡之力的疯子干掉了强大的领袖后，剩下的士兵们都不禁向[founderName]投以敬畏的目光。当然，他们还是会把[founderName]大卸八块。</li>
+    <li>setup(tag=meme_Madness)           -&gt;[founderName]非常聪明，[founder_pronoun]有着能在周二画出歌曲和嗅闻画作的天赋。[founder_pronoun]喜欢用常温扇贝茶来搭配新鲜制成的林堡干酪膏。若是一点肉桂皮都不放的话，那也太过疯疯疯疯狂了。</li>
+    <li>story(uses=1,tag=meme_Madness)    -&gt;[founderName]总是喜欢当复读机。一遍又一遍的。那么再来一遍：边缘世界里没人没有肚脐，这说明边缘世界里的每个信教者都是大骗子。</li>
+    <li>lessonIntro(tag=meme_Madness)         -&gt;让我来告诉你：学术言论自由就他妈是个天大的谎言。他们根本就不想看到真相。真相就像头豪猪一样。你需要明白</li>
+    <li>lesson(tag=meme_Madness)              -&gt;没有人类实体，只有人类立方 -就好像四个不同的人在一个四角的台子上变形旋转一样- 而且同一个时间永远不会超过一个角。这显而易见</li>
+    <li>lessonReinforcement(tag=meme_Madness) -&gt;大自然别无选择，只能在枯燥无味的非立方体上造出一个地狱。你应该知道这是你自己干的！</li>
+    <li>archistBasis(tag=meme_Madness)    -&gt;当他虚拟的词语世界和超凡智能相比时，所有关于人类词语动物的知识都是无足轻重的。 </li>
+    <li>archistFact(tag=meme_Madness)     -&gt;我们召集了他们，啊，这可真他娘的羞耻。他们实在是太小了，以至于完全没法理解凹面只是一种心境。运动中的物理学。啊，看起来像只鹳。</li>
+    <li>archistProphecy(tag=meme_Madness) -&gt;[inTheEnd]，什么东西都不会剩下，不过只有那些向六维数学的现实敞开可悲心扉的人才有资格飞升。</li>
+    <li>animistBasis(tag=meme_Madness)    -&gt;灵魂们实际上并不存在：那些宣扬灵魂存在的无聊学术蠢货们应该被钉在十字架上，因为灵魂们是爱着我们的。他们是最棒的。</li>
+    <li>animistFact(tag=meme_Madness)     -&gt;信仰并非知识，而是乏味的非测量点罢了。灵魂们对此了如指掌。你无法参透真正的事实。</li>
+    <li>animistProphecy(tag=meme_Madness) -&gt;[itIsSaid]只有那些觉得相反面不是实体的人才能准备好与灵魂们进行沟通。啊，大概，啊，或许吧！</li>
+    <li>serketistProphecy(tag=meme_Madness)-&gt;[itIsSaid]我们懂得，受过教育的妙语虫族无法理解最伟大的社会学和科学数学制成的造物。啊哈，有一千只山羊！</li>
+    <li>chthonianProphecy(tag=meme_Madness)-&gt;一片翻涌的半发光云层背景将承载着一种模糊缥缈的不可言喻的建议，这早已远远超过了大地空间；这也骇人地提醒大家，这个未被征服且深不可测的永续南部世界是多么的遥远、孤独、荒凉。</li>
+    <li>esotericismProphecy(tag=meme_Madness)-&gt;唯有诗歌或疯癫才能妥善的处理噪声。当然，我们都会去尝试一下的。</li>
+    <li>eschatologismFact(tag=meme_Madness)-&gt;他们有着什么样的独角兽心态：将一个早已死去的老旧玉米卷奉为神明或造物主。一个人只有在死亡状态下才存在。</li>
+    <li>introMemo(tag=meme_Madness)-&gt;我们遇到了一个在办公室里反复出现的事件——公司里的某人说在回复邮件时发送了一长串难以识别的胡话。请记住JxZ*嵧Yu=縍S僻Nq??遼??97尥9v?z傞?鐈?I襖═*x瀢QUo搉-my鷞?怃燾较看肅?厒䕺鉑飃鏃?IH降侊麃s?豦寫椰炦螏N籪z~鈹3冦鼦鱊耒扛。</li>
+    <li>alienistProphecy(tag=meme_Madness)-&gt;我看着这些生物的脸，它们也在盯着我看。我能感受到来自它们的凝视。即使闭上眼睛，我也能看到它们的眼睛，就好像是会点燃我视网膜的红色亮点一样。这可真是太酷了！</li>
+  </AM_Madness.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Madness.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;精神失常</li>
+    <li>memeAdjective-&gt;癫狂</li>
+    <li>memeAdjective-&gt;疯癫</li>
+    <li>memeLeaderNoun-&gt;癫狂者</li>
+    <li>memeMoralist-&gt;精神病人</li>
+    <li>memeMoralist-&gt;狂人</li>
+    <li>memeConcept-&gt;狂乱</li>
+  </AM_Madness.generalRules.rulesStrings>
+  
+  <AM_Madness.symbolPacks.0.adjective>精神失常</AM_Madness.symbolPacks.0.adjective>
+  
+  <AM_Madness.symbolPacks.0.ideoName>疯癫</AM_Madness.symbolPacks.0.ideoName>
+  
+  <AM_Madness.symbolPacks.0.member>疯子</AM_Madness.symbolPacks.0.member>
+  
+  <AM_Madness.symbolPacks.0.theme>狂乱</AM_Madness.symbolPacks.0.theme>
+  
+  
+  <AM_Monastic.label>苦行清修</AM_Monastic.label>
+  
+  <AM_Monastic.description>舍弃世俗的欢愉与欲望，我们将全身心投入于精神修行中。唯有实践苦行清修的生活方式，我们才能参透世界的终极本质。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 处于此模因下的殖民者都将获得“苦行者”特性。</AM_Monastic.description>
+  
+  <AM_Monastic.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Monastic)        -&gt;[deity0_name]对[deity0_possessive]信徒们说：“宁静将使汝等映射在吾之眼中...宁静会将汝等从无知的幻想中拯救出来。”</li>
+    <li>episode(uses=1,tag=meme_Monastic)  -&gt;[deity0_name]对[deity0_possessive]信徒们说：“研习经文，遵守寺院的守则，于圣所中进行日常祷告；学习，指导与写作，这些都使吾感到愉悦。”</li>
+    <li>intro(tag=meme_Monastic)           -&gt;[memberNamePlural]在[place_summary][place_name]上建造了一座巨型寺院，以彰显[deity0_name]的荣耀。</li>
+    <li>conflict(tag=meme_Monastic)        -&gt;年老体衰的[foeLeader]对[memberNamePlural]们艰苦朴素的生活方式感到厌恶，在[foeLeader_possessive]眼中，这座寺院必须被毁灭。</li>
+    <li>founderJoin(tag=meme_Monastic)     -&gt;伟大的神学家[founderName]与[foeLeader]进行了激烈的辩论，并解释说寺院是[deity0_name]之意志的印证。</li>
+    <li>victory(tag=meme_Monastic)         -&gt;[foeLeader]被这些论据所折服，并下定决心要在寺院中与世隔绝度过此生。</li>
+    <li>setup(tag=meme_Monastic)           -&gt;[founderName]是一位来自闪耀世界的神学家。[founder_pronoun]觉得充满各种罪孽的生活毫无意义，唯有过着简朴苦行的生活才能得到真正的启发。</li>
+    <li>story(uses=1,tag=meme_Monastic)    -&gt;[founderName]向我们证明了在冥想与深思中度过此生是绝对值得的。</li>
+    <li>lessonIntro(tag=meme_Monastic)         -&gt;我们殖民地里最年长的瑜伽导师是一位研究超觉静坐艺术的学者。他真正让我理解了</li>
+    <li>lesson(tag=meme_Monastic)              -&gt;在冥想与深思中度过此生是绝对值得的</li>
+    <li>lessonReinforcement(tag=meme_Monastic) -&gt;充满各种罪孽的生活毫无意义，唯有过着简朴苦行的生活才能得到真正的启发。</li>
+    <li>archistBasis(tag=meme_Monastic)    -&gt;超凡智能是至高无上的存在，祂宽广的胸怀能笼罩世间一切事物。</li>
+    <li>archistFact(tag=meme_Monastic)     -&gt;充满各种罪孽的生活对超凡智能来说污秽不堪，唯有过着简朴苦行的生活才能真正飞升。</li>
+    <li>archistProphecy(tag=meme_Monastic) -&gt;[inTheEnd]，只有那些在冥想与深思中度过此生的人才有资格飞升。</li>
+    <li>animistBasis(tag=meme_Monastic)    -&gt;灵魂们的思想纯洁无瑕，他们能透过帷幕来观察万事万物。</li>
+    <li>animistFact(tag=meme_Monastic)     -&gt;充满各种罪孽的生活对灵魂们来说污秽不堪，唯有过着简朴苦行的生活才能得到真正的启发。</li>
+    <li>animistProphecy(tag=meme_Monastic) -&gt;[itIsSaid]那些在冥想与深思中度过此生的人终将与灵魂们尽情畅谈。</li>
+    <li>serketistProphecy(tag=meme_Monastic)-&gt;[itIsSaid]我们将在冥想与深思中度过此生，并以此来赞颂我们挚爱的虫族。</li>
+    <li>chthonianProphecy(tag=meme_Monastic)-&gt;外神们以人类的罪孽为食。因此，我们将在冥想与深思中度过此生，或许这种苦行生活能使我们免受祂们不必要的注意。</li>
+    <li>esotericismProphecy(tag=meme_Monastic)-&gt;学习这种神秘学知识需要宁静彻悟的思想。我们将在冥想与深思中度过此生，唯有这样才能得到真正的启发。</li>
+    <li>eschatologismFact(tag=meme_Monastic)-&gt;人类的罪孽使我们无比厌恶，我们必须予以净化。我们将在冥想与深思中度过此生，我们将通过自身纯洁无瑕的思想来探求万物的终结。</li>
+    <li>introMemo(tag=meme_Monastic)-&gt;在此，我们很高兴地宣布，我们已根据公司的苦行政策制定出了一个冥想项目。该项目将通过一些初级培训来教导各位如何精心冥想。我们也会提供真人培训、线上课程、影像资料或是包含它们的合集。</li>
+    <li>alienistProphecy(tag=meme_Monastic)-&gt;这些不幸的怪异造物提醒了我们，科学已将我们带上了一条罪孽之路，唯有拒绝这些，我们才能得到真正的启发。</li>
+  </AM_Monastic.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Monastic.generalRules.rulesStrings>
+    <li>memeCreed-&gt;苦行清修</li>
+    <li>memeCreed-&gt;苦行生活</li>
+    <li>memeCreed-&gt;苦行</li>
+    <li>memeCreed-&gt;自律</li>
+    <li>memeCreed-&gt;简朴</li>
+    <li>memeConcept-&gt;节制</li>
+    <li>memeConcept-&gt;禁欲</li>
+    <li>memeAdjective-&gt;清修</li>
+    <li>memeAdjective-&gt;苦行</li>
+    <li>memeHyphenPrefix-&gt;僧侣</li>
+    <li>memeLeaderNoun-&gt;修士</li>
+    <li>memeLeaderNoun-&gt;寺院长老</li>
+    <li>memeLeaderNoun-&gt;苦行宗师</li>
+  </AM_Monastic.generalRules.rulesStrings>
+  
+  <AM_Monastic.symbolPacks.0.adjective>苦行清修</AM_Monastic.symbolPacks.0.adjective>
+  
+  <AM_Monastic.symbolPacks.0.ideoName>苦行</AM_Monastic.symbolPacks.0.ideoName>
+  
+  <AM_Monastic.symbolPacks.0.member>僧侣</AM_Monastic.symbolPacks.0.member>
+  
+  <AM_Monastic.symbolPacks.0.theme>禁欲</AM_Monastic.symbolPacks.0.theme>
+  
+  
+  <AM_NonViolence.label>和平血誓</AM_NonViolence.label>
+  
+  <AM_NonViolence.description>“绝不使用思想、言语以及行为暴力”的血誓已然立下，我们将力图创造一个充满爱与希望的和谐世界。\n\n&lt;color=#33d733&gt;此模因极具挑战性，处于此文化形态下的所有殖民者都将无法战斗。你只有三种方法来进行自卫：安放陷阱、建造炮塔或招募其他文化形态的殖民者以作为“守卫”来使用。&lt;/color&gt;\n\nOskar有话说：“这个模因还是免了吧XD对游戏体验的坏影响，不可估量...”</AM_NonViolence.description>
+  
+  <AM_NonViolence.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_NonViolence)        -&gt;[deity0_name]让[deity0_possessive]信徒们立下绝不使用暴力的血誓。</li>
+    <li>episode(uses=1,tag=meme_NonViolence)  -&gt;[deity0_name]对[deity0_possessive]信徒们说：“暴力乃万罪之首。即使被杀害也不可诉诸暴力。”</li>
+    <li>intro(tag=meme_NonViolence)           -&gt;[place_summary][place_name]总是充满了争斗与冲突。[memberNamePlural]们总是被那些可怖的好战者围困威胁，这让[deity0_name]深感悲痛。</li>
+    <li>conflict(tag=meme_NonViolence)        -&gt;[deity0_name]见证了恐怖军阀[foeLeader]引发的袭击，[foeLeader_pronoun]总是在谋划着某种形式的暴力。</li>
+    <li>founderJoin(tag=meme_NonViolence)     -&gt;[deity0_name]对所有形式的暴力感到厌恶，[deity0_pronoun]向[foeLeader]注入了自己的爱，[foeLeader]便立刻回心转意了。自此，[foeLeader_pronoun]成为了[deity0_name]的代言人，并获得了新的名字：爱与希望的[founderName]。</li>
+    <li>victory(tag=meme_NonViolence)         -&gt;[founderName]让我们懂得了爱与希望是我们唯一的前行之路，我们都已立下了绝不使用暴力的血誓。</li>
+    <li>setup(tag=meme_NonViolence)           -&gt;[founderName]是一名僧侣。[founder_pronoun]用自己几十年的时光教导我们，唯有彻底杜绝一切形式的暴力，我们才能创造一个充满爱与希望的和谐世界</li>
+    <li>story(uses=1,tag=meme_NonViolence)    -&gt;[founderName]比任何人都清楚暴力是毒害灵魂的邪药，当面对挑衅与暴力时，我们决不可进行反击。</li>
+    <li>lessonIntro(tag=meme_NonViolence)         -&gt;古地球上的先贤们是绝对正确的。他们让我懂得了</li>
+    <li>lesson(tag=meme_NonViolence)              -&gt;唯有彻底杜绝一切形式的暴力，我们才能创造一个充满爱与希望的和谐世界</li>
+    <li>lessonReinforcement(tag=meme_NonViolence) -&gt;当面对挑衅与暴力时，我们决不可进行反击。</li>
+    <li>archistBasis(tag=meme_NonViolence)    -&gt;超凡智能的思想纯洁无瑕，祂并不会将自身的意志强加于人。</li>
+    <li>archistFact(tag=meme_NonViolence)     -&gt;暴力被先进的思想所厌恶。暴力是弱小灵魂万不得已的自保手段。</li>
+    <li>archistProphecy(tag=meme_NonViolence) -&gt;[inTheEnd]，只有那些面对挑衅与暴力时决不进行反击的人才有资格飞升。</li>
+    <li>animistBasis(tag=meme_NonViolence)    -&gt;灵魂们教导我们，唯有彻底杜绝一切形式的暴力，我们才能创造一个充满爱与希望的和谐世界。</li>
+    <li>animistFact(tag=meme_NonViolence)     -&gt;为灵魂们灌输暴力是徒劳无用的，因为暴力乃万罪之首。</li>
+    <li>animistProphecy(tag=meme_NonViolence) -&gt;[itIsSaid]只有那些面对挑衅与暴力时决不进行反击的人才能与灵魂们进行沟通。</li>
+    <li>serketistProphecy(tag=meme_NonViolence)-&gt;[itIsSaid]我们会明白，唯有彻底杜绝一切形式的暴力，我们才能创造一个充满爱与希望的和谐巢穴。</li>
+    <li>chthonianProphecy(tag=meme_NonViolence)-&gt;暴力不过是这些远古外神的养分罢了，祂们最喜欢享用的就是恐惧。当面对祂们的挑衅与暴力时，我们决不可进行反击。</li>
+    <li>esotericismProphecy(tag=meme_NonViolence)-&gt;满脑子都是暴力与争斗的人无法习得这种神秘学知识。暴力是毒害灵魂的邪药，当面对挑衅与暴力时，我们决不可进行反击。</li>
+    <li>eschatologismFact(tag=meme_NonViolence)-&gt;然而，我们并不是暴力至极的杀手。如果我们变成了杀人魔，那岂不是比这被诅咒的宇宙更差劲了？我们将成为世界崩毁的见证者，但我们绝不会为此拿起武器。</li>
+    <li>introMemo(tag=meme_NonViolence)-&gt;我在此写下邮件提醒各位，强制性的线上愤怒管理培训会已重新安排至下周二举行。希望各位能牢记公司的准则：我们将力图创造一个充满爱与希望的和谐世界！</li>
+    <li>alienistProphecy(tag=meme_NonViolence)-&gt;这些怪异的生物是无辜的。我们并非杀人狂，最好还是不要理会它们。</li>
+  </AM_NonViolence.descriptionMaker.rules.rulesStrings>
+  
+  <AM_NonViolence.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;非暴力</li>
+    <li>memeAdjective-&gt;爱与希望</li>
+    <li>memeAdjective-&gt;和谐</li>
+    <li>memeLeaderNoun-&gt;反暴圣者</li>
+    <li>memeMoralist-&gt;抵制者</li>
+    <li>memeConcept-&gt;非暴力</li>
+  </AM_NonViolence.generalRules.rulesStrings>
+  
+  <AM_NonViolence.symbolPacks.0.adjective>爱与希望</AM_NonViolence.symbolPacks.0.adjective>
+  
+  <AM_NonViolence.symbolPacks.0.ideoName>和谐</AM_NonViolence.symbolPacks.0.ideoName>
+  
+  <AM_NonViolence.symbolPacks.0.member>和平主义者</AM_NonViolence.symbolPacks.0.member>
+  
+  <AM_NonViolence.symbolPacks.0.theme>和平血誓</AM_NonViolence.symbolPacks.0.theme>
+  
+  
+  <AM_Sadist.label>施虐狂热</AM_Sadist.label>
+  
+  <AM_Sadist.description>为他人施予痛苦是世上最美妙的事情。生命因虐待而逐渐枯竭的过程值得我们细细玩味。</AM_Sadist.description>
+  
+  <AM_Sadist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Sadist)        -&gt;[deity0_name]毫无仁慈。[deity0_pronoun]下令将所有的异端剥皮去骨，直至他们的哀嚎成为这世上唯一能听到的声音。</li>
+    <li>episode(uses=1,tag=meme_Sadist)  -&gt;[deity0_name]对[deity0_possessive]信徒们说：“吾等的喜悦建立于他人的痛苦之上。”</li>
+    <li>intro(tag=meme_Sadist)           -&gt;[place_summary][place_name]堆满了祭品们的肉块与血液，这象征着[deity0_name]的荣耀。</li>
+    <li>conflict(tag=meme_Sadist)        -&gt;[foeLeader]恼羞成怒，试图在[foeLeader_possessive][foeSoldiers]们的帮助下来解放那些因[deity0_name]的名义而被处决的人们。</li>
+    <li>founderJoin(tag=meme_Sadist)     -&gt;[deity0_name]将[relic0_name]授予了我们的创始人[founderName]，以集结一支庞大的部队来对抗这次袭击。</li>
+    <li>victory(tag=meme_Sadist)         -&gt;这场大屠杀是神圣无比的。[founderName]斩杀的敌人不计其数，乌鸦们也在这堆尸山血海上大快朵颐。</li>
+    <li>setup(tag=meme_Sadist)           -&gt;[founderName]明白只有痛苦才能拯救众生。</li>
+    <li>story(uses=1,tag=meme_Sadist)    -&gt;[founderName]总是反复强调着同一个教训：有些灵魂可能会对他人十分残忍，但这仅仅是一种更深切的关怀方式罢了。</li>
+    <li>lessonIntro(tag=meme_Sadist)         -&gt;人唯有通过痛苦才能掌握快乐。你需要懂得</li>
+    <li>lesson(tag=meme_Sadist)              -&gt;为了知晓美德，我们必须先去理解罪孽</li>
+    <li>lessonReinforcement(tag=meme_Sadist) -&gt;所有宽泛的道德准则都不过是空想罢了。</li>
+    <li>archistBasis(tag=meme_Sadist)    -&gt;超凡智能知道痛苦不过是达成目的的手段罢了。折磨拷问是将灵魂从躯体中解放出来的完美方式。</li>
+    <li>archistFact(tag=meme_Sadist)     -&gt;为了抵达完美思想的至臻境界，超凡智能会为碍事者施予极大的痛苦。</li>
+    <li>archistProphecy(tag=meme_Sadist) -&gt;[inTheEnd]，只有那些将敌人折磨得支离破碎的人才有资格飞升。</li>
+    <li>animistBasis(tag=meme_Sadist)    -&gt;灵魂们知道痛苦不过是达成目的的手段罢了。折磨拷问是将灵魂从躯体中解放出来的完美方式。</li>
+    <li>animistFact(tag=meme_Sadist)     -&gt;为了抵达完美思想的至臻境界，灵魂们会为碍事者施予极大的痛苦。</li>
+    <li>animistProphecy(tag=meme_Sadist) -&gt;[itIsSaid]只有那些将敌人折磨得支离破碎的人才能与灵魂们进行沟通。</li>
+    <li>serketistProphecy(tag=meme_Sadist)-&gt;[itIsSaid]我们知道虫族并不具有同情心。我们会像它们一样将敌人剥皮去骨，直至留下一具具早已失去生机的残破躯体。</li>
+    <li>chthonianProphecy(tag=meme_Sadist)-&gt;外神们让我们懂得了痛苦不过是达成目的的手段罢了。因折磨发出的哀嚎声能使我们避开祂们的注意。</li>
+    <li>esotericismProphecy(tag=meme_Sadist)-&gt;我们将不择手段地揭示这种神秘学知识中蕴藏的奥妙。或许他人的哀嚎声有助于我们的解密工作。</li>
+    <li>eschatologismFact(tag=meme_Sadist)-&gt;整个世界都将被我们敌人的尸体掩埋。他们的鲜血将染红大海，他们的悲鸣声将冲散怒号的狂风。</li>
+    <li>introMemo(tag=meme_Sadist)-&gt;在此，我们很高兴地宣布，上周收购的公司已将其全部资产清算完毕了，这包括实物资产以及...“人力资源”，我想各位懂得都懂。</li>
+    <li>alienistProphecy(tag=meme_Sadist)-&gt;这些“东西”生来就是为了承受我们无法抑制的怒火。我们会将它们尽数屠戮。</li>
+  </AM_Sadist.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Sadist.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;施虐</li>
+    <li>memeAdjective-&gt;残忍</li>
+    <li>memeAdjective-&gt;无情</li>
+    <li>memeAdjective-&gt;虐待</li>
+    <li>memeAdjective-&gt;折磨</li>
+    <li>memeLeaderNoun-&gt;施虐大师</li>
+    <li>memeMoralist-&gt;精神病患</li>
+    <li>memeConcept-&gt;痛苦</li>
+  </AM_Sadist.generalRules.rulesStrings>
+  
+  <AM_Sadist.symbolPacks.0.adjective>施虐</AM_Sadist.symbolPacks.0.adjective>
+  
+  <AM_Sadist.symbolPacks.0.ideoName>施虐</AM_Sadist.symbolPacks.0.ideoName>
+  
+  <AM_Sadist.symbolPacks.0.member>施虐者</AM_Sadist.symbolPacks.0.member>
+  
+  <AM_Sadist.symbolPacks.0.theme>虐待</AM_Sadist.symbolPacks.0.theme>
+  
+  <AM_Sadist.symbolPacks.1.adjective>残忍</AM_Sadist.symbolPacks.1.adjective>
+  
+  <AM_Sadist.symbolPacks.1.ideoName>无情</AM_Sadist.symbolPacks.1.ideoName>
+  
+  <AM_Sadist.symbolPacks.1.member>无情者</AM_Sadist.symbolPacks.1.member>
+  
+  <AM_Sadist.symbolPacks.1.theme>凶残</AM_Sadist.symbolPacks.1.theme>
+  
+  <AM_Sadist.symbolPacks.2.adjective>折磨</AM_Sadist.symbolPacks.2.adjective>
+  
+  <AM_Sadist.symbolPacks.2.ideoName>拷问</AM_Sadist.symbolPacks.2.ideoName>
+  
+  <AM_Sadist.symbolPacks.2.member>拷问者</AM_Sadist.symbolPacks.2.member>
+  
+  <AM_Sadist.symbolPacks.2.theme>折磨</AM_Sadist.symbolPacks.2.theme>
+  
+  
+  <AM_Sharpshooter.label>机敏射手</AM_Sharpshooter.label>
+  
+  <AM_Sharpshooter.description>我们隐匿于敌人视线之外。我们将寂静无声地为他们带去死亡。</AM_Sharpshooter.description>
+  
+  <AM_Sharpshooter.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Sharpshooter)        -&gt;[deity0_name]对[deity0_possessive]信徒们说：“汝等将被无数强大的敌人包围，吾之意志亦将使汝等成为吾之复仇利器。汝等的攻击将迅速且精准。”</li>
+    <li>episode(uses=1,tag=meme_Sharpshooter)  -&gt;遵循[deity0_name]的教诲，我们将成为精通远程武器的专家，在敌人发现我们前就迅速将他们击毙。</li>
+    <li>intro(tag=meme_Sharpshooter)           -&gt;[memberNamePlural]在[place_summary][place_name]上建造了一座军械库，那里制造出的精准武器无不彰显着[deity0_name]的荣耀。</li>
+    <li>conflict(tag=meme_Sharpshooter)        -&gt;贪得无厌的[foeLeader]否定了[deity0_name]的意志，并试图窃取所有的步枪以装备给[foeLeader_possessive]士兵们。</li>
+    <li>founderJoin(tag=meme_Sharpshooter)     -&gt;[Dediy0_name]警告了伟大战士[founderName]有关[foeLeader]的计划，当[foeLeader_pronoun]突袭军械库时，一支规模庞大的警备队正等待着[foeLeader_objective]。</li>
+    <li>victory(tag=meme_Sharpshooter)         -&gt;[foeLeader]因违背[deity0_name]的意志而被迅速判处死刑。</li>
+    <li>setup(tag=meme_Sharpshooter)           -&gt;[founderName]是某个工业世界的武器大师。[founder_pronoun]曾目睹过降落在[founder_possessive]星球上的飞船，并深知自己的能力能够在星际间发扬光大。</li>
+    <li>story(uses=1,tag=meme_Sharpshooter)    -&gt;[founderName]回到了自己的家乡世界，并将武器制作的新科技传播到了整个边缘世界。</li>
+    <li>lessonIntro(tag=meme_Sharpshooter)         -&gt;社群中最老练的武器匠人教会了我有关步枪研制的历史，人类一直在想方设法地改进动能火药武器，并思索曾经的某些设计是如何经受住时间的考验的。他让我懂得了</li>
+    <li>lesson(tag=meme_Sharpshooter)              -&gt;一个人能在正确的地方用一颗子弹来改变世界</li>
+    <li>lessonReinforcement(tag=meme_Sharpshooter) -&gt;唯有最机警的射手才能在边缘世界里存活下来。</li>
+    <li>archistBasis(tag=meme_Sharpshooter)    -&gt;超凡智能是至高无上的存在，正面对抗对祂而言乃不洁之事。从远处精准快速地开火才是正确的进攻方式。</li>
+    <li>archistFact(tag=meme_Sharpshooter)     -&gt;若我们不能保护好自己，那么超凡智能便不会尊重我们。边缘世界危机四伏，那些不使用远程武器的人终将被比他们更强大的人欺压。</li>
+    <li>archistProphecy(tag=meme_Sharpshooter) -&gt;[inTheEnd]，超凡智能只允许我们之中能够保护好自己的人获得飞升的资格。</li>
+    <li>animistBasis(tag=meme_Sharpshooter)    -&gt;灵魂们重视力量，但绝非仅是蛮力。他们最看重的是那些能够从远处精准快速地开火的人。</li>
+    <li>animistFact(tag=meme_Sharpshooter)     -&gt;若我们不能保护好自己，那么灵魂们便不会尊重我们。</li>
+    <li>animistProphecy(tag=meme_Sharpshooter) -&gt;[itIsSaid]我们中最敏锐的射手终将与灵魂们畅谈并成为他们的一员。</li>
+    <li>chthonianProphecy(tag=meme_Sharpshooter)-&gt;环绕在我们附近的外神随时可能会袭击并试图击碎我们的信念。我们将从远处攻击祂们，而祂们甚至都察觉不到是什么在进行攻击。</li>
+    <li>serketistProphecy(tag=meme_Sharpshooter)-&gt;[itIsSaid]我们将在敌人发现自己前就迅速将他们击毙，就好像炮弹甲虫悄无声息地捕获猎物一样。</li>
+    <li>esotericismProphecy(tag=meme_Sharpshooter)-&gt;这种神秘学知识对许多人来说都是价值非凡的，他们也会试图从我们手中偷走它。我们将从远处攻击他们，而他们甚至都察觉不到是什么在进行攻击。</li>
+    <li>eschatologismFact(tag=meme_Sharpshooter)-&gt;世人皆会阻挠我们，但我们会用狙击枪射穿他们的脑袋。我们势不可挡。</li>
+    <li>introMemo(tag=meme_Sharpshooter)-&gt;确保安全的工作环境与抵制职场暴力对我们公司来说是至关重要的。因此，只要能够正确的使用，我们欢迎各位将枪械带到办公室中。</li>
+    <li>alienistProphecy(tag=meme_Sharpshooter)-&gt;这些怪异的生物有可能会对我们抱有敌意，我们最好在它们大闹殖民地前就远远地击毙它们。</li>
+  </AM_Sharpshooter.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Sharpshooter.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;机敏</li>
+    <li>memeAdjective-&gt;寂静</li>
+    <li>memeAdjective-&gt;精准</li>
+    <li>memeAdjective-&gt;敏锐</li>
+    <li>memeLeaderAdjective-&gt;机敏</li>
+    <li>memeConcept-&gt;狙击步枪</li>
+    <li>memeConcept-&gt;精准</li>
+    <li>memeLeaderNoun-&gt;狙击手</li>
+  </AM_Sharpshooter.generalRules.rulesStrings>
+  
+  <AM_Sharpshooter.symbolPacks.0.adjective>神射</AM_Sharpshooter.symbolPacks.0.adjective>
+  
+  <AM_Sharpshooter.symbolPacks.0.ideoName>狙击</AM_Sharpshooter.symbolPacks.0.ideoName>
+  
+  <AM_Sharpshooter.symbolPacks.0.member>神射手</AM_Sharpshooter.symbolPacks.0.member>
+  
+  <AM_Sharpshooter.symbolPacks.0.theme>射击</AM_Sharpshooter.symbolPacks.0.theme>
+  
+  
+  <AM_WaterPrimacy.label>源水至上</AM_WaterPrimacy.label>
+  
+  <AM_WaterPrimacy.description>水是生命的根基，是灵魂的涤净者，也是可以塑造世界的力量。从圣洁的洗礼仪式再到对江河湖海的崇拜，我们将水尊为生息存续和精神焕新的终极之源。</AM_WaterPrimacy.description>
+  
+  <AM_WaterPrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_WaterPrimacy)        -&gt;[deity0_name]对[deity0_possessive]追随者们说：“让水流涤净你们的灵魂，并赐予你们永生。”</li>
+    <li>episode(uses=1,tag=meme_WaterPrimacy)  -&gt;[deity0_name]对信徒们说：“通过水的纯净，你们将寻得新生，并获得执行吾之意志的力量。”</li>
+    <li>intro(tag=meme_WaterPrimacy)           -&gt;在[place_summary][place_name]，[memberNamePlural]以[deity0_name]的荣耀为名为水的圣洁而建造了圣地。</li>
+    <li>conflict(tag=meme_WaterPrimacy)        -&gt;一群敌人污染了[memberNamePlural]圣洁的水，激发了人民的愤怒与对此采取行动的呼声。</li>
+    <li>founderJoin(tag=meme_WaterPrimacy)     -&gt;[founderName]，纯洁的先知，教化了敌对领袖使其了解水的圣洁，终结了亵渎。</li>
+    <li>victory(tag=meme_WaterPrimacy)         -&gt;敌对领袖忏悔了，誓言保护圣水并加入了[memberNamePlural]。</li>
+    <li>setup(tag=meme_WaterPrimacy)           -&gt;[founderName]曾是遥远的闪耀世界里的水文学家，其认定水不仅是必需品，更是所有生命的本质，也是通往心灵重生的渠道。</li>
+    <li>story(uses=1,tag=meme_WaterPrimacy)    -&gt;[founderName]向我们展示了通过对水的尊崇，能够实现和谐与启迪。</li>
+    <li>lessonIntro(tag=meme_WaterPrimacy)         -&gt;我们殖民地的长者，水文学者，曾教导我</li>
+    <li>lesson(tag=meme_WaterPrimacy)              -&gt;水是所有生命的本质，也是身心重生的根源。</li>
+    <li>lessonReinforcement(tag=meme_WaterPrimacy) -&gt;我们通过水净化身心与灵魂，寻得平衡与启迪。</li>
+    <li>archistBasis(tag=meme_WaterPrimacy)    -&gt;超凡智能将水视作能维持所有形态生命的最终极资源。</li>
+    <li>archistFact(tag=meme_WaterPrimacy)     -&gt;水不仅是必需品，更是通往和谐、纯洁、启迪的神圣渠道，将视野与超凡智能相对齐。</li>
+    <li>archistProphecy(tag=meme_WaterPrimacy) -&gt;[inTheEnd]，只有那些崇敬水的人能够飞升过超凡智能的设计。</li>
+    <li>animistBasis(tag=meme_WaterPrimacy)    -&gt;灵魂栖身于水中，在河流与创造之雨间漂浮。</li>
+    <li>animistFact(tag=meme_WaterPrimacy)     -&gt;人需要尊崇神圣的水流才能与灵魂交流。</li>
+    <li>animistProphecy(tag=meme_WaterPrimacy) -&gt;[itIsSaid]那些尊敬并保护水的人将受到灵魂的祝福。</li>
+    <li>serketistProphecy(tag=meme_WaterPrimacy)-&gt;[itIsSaid]我们将尊崇神圣的水，因为它们是我们深爱着的虫族的生机之源。</li>
+    <li>chthonianProphecy(tag=meme_WaterPrimacy)-&gt;怪异的实体在深处搅动，我们必须尊崇水以安抚之。</li>
+    <li>esotericismProphecy(tag=meme_WaterPrimacy)-&gt;关于存在的秘密就写在水流中，通过敬仰水，我们将解锁宇宙隐藏的真相。</li>
+    <li>eschatologismFact(tag=meme_WaterPrimacy)-&gt;水是世界的生命之源，即使在末日也将流动，我们将尊敬哪怕是最后一滴水。</li>
+    <li>introMemo(tag=meme_WaterPrimacy)-&gt;我们很自豪地向大家介绍我们新的节水措施。通过尊重和保护水，我们确保了生态的可持续性和精神的和谐。</li>
+    <li>alienistProphecy(tag=meme_WaterPrimacy)-&gt;人类的多样性提醒我们，水连接着所有的生物，必须保护它的神圣性以团结我们所有人。</li>
+  </AM_WaterPrimacy.descriptionMaker.rules.rulesStrings>
+  
+  <AM_WaterPrimacy.generalRules.rulesStrings>
+    <li>memeCreed-&gt;净化</li>
+    <li>memeCreed-&gt;水流</li>
+    <li>memeCreed-&gt;新生</li>
+    <li>memeCreed-&gt;和谐</li>
+    <li>memeCreed-&gt;本质</li>
+    <li>memeConcept-&gt;净化</li>
+    <li>memeConcept-&gt;流动</li>
+    <li>memeConcept-&gt;生命</li>
+    <li>memeAdjective-&gt;水生</li>
+    <li>memeAdjective-&gt;液体</li>
+    <li>memeHyphenPrefix-&gt;清水</li>
+    <li>memeHyphenPrefix-&gt;源水</li>
+    <li>memeLeaderNoun-&gt;看守人</li>
+    <li>memeLeaderNoun-&gt;监护人</li>
+    <li>memeLeaderNoun-&gt;领航者</li>
+    <li>memeMoralist-&gt;主教</li>
+    <li>memeMoralist-&gt;牧师</li>
+    <li>memeMoralist-&gt;水卜师</li>
+  </AM_WaterPrimacy.generalRules.rulesStrings>
+  
+  <AM_WaterPrimacy.symbolPacks.0.adjective>源水</AM_WaterPrimacy.symbolPacks.0.adjective>
+  
+  <AM_WaterPrimacy.symbolPacks.0.ideoName>源水至上</AM_WaterPrimacy.symbolPacks.0.ideoName>
+  
+  <AM_WaterPrimacy.symbolPacks.0.member>护水者</AM_WaterPrimacy.symbolPacks.0.member>
+  
+  <AM_WaterPrimacy.symbolPacks.0.theme>水源</AM_WaterPrimacy.symbolPacks.0.theme>
+  
+  <AM_WaterPrimacy.symbolPacks.1.adjective>河畔</AM_WaterPrimacy.symbolPacks.1.adjective>
+  
+  <AM_WaterPrimacy.symbolPacks.1.ideoName>河川之歌</AM_WaterPrimacy.symbolPacks.1.ideoName>
+  
+  <AM_WaterPrimacy.symbolPacks.1.member>溪流行者</AM_WaterPrimacy.symbolPacks.1.member>
+  
+  <AM_WaterPrimacy.symbolPacks.1.theme>河流</AM_WaterPrimacy.symbolPacks.1.theme>
+
+  
+  <AM_Youth.label>后生可畏</AM_Youth.label>
+  
+  <AM_Youth.description>世界的未来掌握在年轻人手中。与风烛残年的老人相比，年轻人的生命之火才能温暖并照亮这个世界。</AM_Youth.description>
+  
+  <AM_Youth.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Youth)        -&gt;[deity0_name]对[deity0_possessive]信徒们说：“花有重开日，人无再少年。”</li>
+    <li>episode(uses=1,tag=meme_Youth)  -&gt;遵循[deity0_name]的教诲，我们敬重年轻人，并将他们的需求置于首位。</li>
+    <li>intro(tag=meme_Youth)           -&gt;[memberNamePlural]在[place_summary][place_name]上建造了一座巨大的育儿所，孩子们可以在那里安度童年。</li>
+    <li>conflict(tag=meme_Youth)        -&gt;佝偻老朽的[foeLeader]妒忌[deity0_name]的信徒们的智慧，并试图传播只感染孩子们的死亡瘟疫。</li>
+    <li>founderJoin(tag=meme_Youth)     -&gt;作为一名伟大的的科学家，[founderName]以刷新记录的时间研制出了一种药物，挽救了许多人的生命。</li>
+    <li>victory(tag=meme_Youth)         -&gt;[foeLeader]被囚禁起来，[foeLeader_Occessive]事迹将永远被当做具有警示意义的故事传播，以敲醒那些不肯接受年轻人圣洁性的人。</li>
+    <li>setup(tag=meme_Youth)           -&gt;[founderName]是一名来自闪耀世界的社会科学家。[founder_pronoun]认为年轻人不该受到老人长辈们的强迫，他们应该拥有自己的政治观点和选择，并有勇气推选出真正的领袖。</li>
+    <li>story(uses=1,tag=meme_Youth)    -&gt;[founderName]因此创立了一个伟大的思想学派，我们中的年轻人始终会受到尊重与体谅。</li>
+    <li>lessonIntro(tag=meme_Youth)         -&gt;社群中最年轻的领袖教会了我文明史，长者们总会躲在背后宣战施令，而年轻人就得被迫战斗与死亡。他让我懂得了</li>
+    <li>lesson(tag=meme_Youth)              -&gt;我们应该把自己的遗产托付给年轻人。我们想要给他们经验与智慧，我们想要让他们成为改变世界的一部分</li>
+    <li>lessonReinforcement(tag=meme_Youth) -&gt;年轻时就养成的好习惯会使一切都变得不同。</li>
+    <li>archistBasis(tag=meme_Youth)    -&gt;超凡智能是至高无上的存在，祂超越了时间与年龄的概念。</li>
+    <li>archistFact(tag=meme_Youth)     -&gt;在无限的时间涡流中徜徉使他们的智慧远超人类。</li>
+    <li>archistProphecy(tag=meme_Youth) -&gt;[inTheEnd]超凡智能只允许我们之中最年轻的人获得飞升的资格，是他们让我们想起了自身的起源。</li>
+    <li>animistBasis(tag=meme_Youth)    -&gt;灵魂们对活力的重视高于一切，唯有年轻之人才能与他们正确的交流。</li>
+    <li>animistFact(tag=meme_Youth)     -&gt;我们中的孩子们，将用他们无限的活力作为前往灵界的通道。</li>
+    <li>animistProphecy(tag=meme_Youth) -&gt;[itIsSaid]我们中最活泼的孩子终将与灵魂们畅谈并成为他们的一员。</li>
+    <li>serketistProphecy(tag=meme_Youth)-&gt;[itIsSaid]我们将会像最庞大的蚁群一样永恒。活力与激情是不可计量的。</li>
+    <li>chthonianProphecy(tag=meme_Youth)-&gt;外神们的古老与智慧超乎我们的想象，而我们在祂们眼中过于年轻了。或许年轻人的天真能使我们免受祂们不必要的注意。</li>
+    <li>esotericismProphecy(tag=meme_Youth)-&gt;这种神秘学知识唯有通过时间与学习才能得到。只有我们中最年轻的人才有足够的智慧来突破现实和领域外间的屏障。</li>
+    <li>eschatologismFact(tag=meme_Youth)-&gt;我们应当敬重年轻人们，他们为末日的到来付出了最多的努力。</li>
+    <li>introMemo(tag=meme_Youth)-&gt;在此，我很荣幸的通知各位：我们已决定放宽最低员工年龄的规定。只要你学会了走路，那就可以马上投入工作！</li>
+    <li>alienistProphecy(tag=meme_Youth)-&gt;这些多变奇异的造物源于人类的活力与激情。</li>
+  </AM_Youth.descriptionMaker.rules.rulesStrings>
+  
+  <AM_Youth.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;年轻</li>
+    <li>memeAdjective-&gt;青年</li>
+    <li>memeAdjective-&gt;少年</li>
+    <li>memeConcept-&gt;年龄</li>
+    <li>memeHyphenPrefix-&gt;年轻</li>
+    <li>memeLeaderNoun-&gt;年少子弟</li>
+  </AM_Youth.generalRules.rulesStrings>
+  
+  <AM_Youth.symbolPacks.0.adjective>年轻</AM_Youth.symbolPacks.0.adjective>
+  
+  <AM_Youth.symbolPacks.0.ideoName>青年</AM_Youth.symbolPacks.0.ideoName>
+  
+  <AM_Youth.symbolPacks.0.member>年轻人</AM_Youth.symbolPacks.0.member>
+  
+  <AM_Youth.symbolPacks.0.theme>年少</AM_Youth.symbolPacks.0.theme>
+  
+</LanguageData>

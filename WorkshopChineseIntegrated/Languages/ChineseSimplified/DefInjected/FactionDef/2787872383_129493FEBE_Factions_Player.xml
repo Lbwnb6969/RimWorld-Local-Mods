@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Empire -->
+  <VFEC_NewEmpire.label>新帝国</VFEC_NewEmpire.label>
+  <!-- EN: A new empire. -->
+  <VFEC_NewEmpire.description>从零开始重建帝国。</VFEC_NewEmpire.description>
+  <!-- EN: leader -->
+  <VFEC_NewEmpire.leaderTitle>领袖</VFEC_NewEmpire.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEC_NewEmpire.messageDefendersAttacking>来自{1}的{0}正在进攻你的{2}。</VFEC_NewEmpire.messageDefendersAttacking>
+  <!-- EN: plebeian -->
+  <VFEC_NewEmpire.pawnSingular>公民</VFEC_NewEmpire.pawnSingular>
+  <!-- EN: plebeians -->
+  <VFEC_NewEmpire.pawnsPlural>公民</VFEC_NewEmpire.pawnsPlural>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scramasax -->
+  <TA_Scramasax.label>短剑</TA_Scramasax.label>
+  <!-- EN: big knife. -->
+  <TA_Scramasax.description>日耳曼式单刃短剑，介于匕首与长剑之间。</TA_Scramasax.description>
+  <!-- EN: handle -->
+  <TA_Scramasax.tools.handle.label>剑柄</TA_Scramasax.tools.handle.label>
+  <!-- EN: point -->
+  <TA_Scramasax.tools.point.label>剑尖</TA_Scramasax.tools.point.label>
+  <!-- EN: edge -->
+  <TA_Scramasax.tools.edge.label>剑刃</TA_Scramasax.tools.edge.label>
+  
+</LanguageData>

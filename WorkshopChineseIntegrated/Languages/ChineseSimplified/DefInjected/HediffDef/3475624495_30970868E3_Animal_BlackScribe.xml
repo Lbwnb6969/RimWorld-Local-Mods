@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: red ink -->
+  <DA_RedInk.label>红墨</DA_RedInk.label>
+  <!-- EN: The venom of the black scribe. The pain it inflicts renders its victims unable to fend for themselves and quickly fall to the ground where they will meet their untimely death. -->
+  <DA_RedInk.description>黑书吏的毒液。其引发的剧痛使得受害者快速痛苦倒地，无法自我防御，最终面临无可避免的死亡。</DA_RedInk.description>
+  <!-- EN: burning -->
+  <DA_RedInk.stages.burning.label>灼痛</DA_RedInk.stages.burning.label>
+  <!-- EN: scorching -->
+  <DA_RedInk.stages.scorching.label>炙烤</DA_RedInk.stages.scorching.label>
+  <!-- EN: blistering -->
+  <DA_RedInk.stages.blistering.label>发疱</DA_RedInk.stages.blistering.label>
+  
+  <!-- EN: red ink addiction -->
+  <DA_RedTearAddiction.label>红墨上瘾</DA_RedTearAddiction.label>
+  <!-- EN: A chemical addiction to the red ink. Long exposure to its euphoric effects has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of red ink, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <DA_RedTearAddiction.description>对红墨的化学依赖。长期暴露于其极乐效果使得在细胞层面产生了神经性适应，以至于大脑无法在缺乏药物的情况下保持正常。\n\n如果没有定期摄取红墨，戒断反应就会开始。长时间的戒断会迫使大脑适应并恢复到正常状态，从而解除红墨成瘾。</DA_RedTearAddiction.description>
+  <!-- EN: withdrawal -->
+  <DA_RedTearAddiction.stages.withdrawal.label>戒断</DA_RedTearAddiction.stages.withdrawal.label>
+  
+  <!-- EN: red warmth -->
+  <DA_RedTearHigh.label>红墨暖身</DA_RedTearHigh.label>
+  <!-- EN: A small dose of red ink in the bloodstream. It increases the sensitivity to pain but heighten the mood. -->
+  <DA_RedTearHigh.description>流淌在血液里的红墨。它增加了对痛觉的敏感度，但提升了心情。</DA_RedTearHigh.description>
+  <!-- EN: warm -->
+  <DA_RedTearHigh.stages.warm.label>暖身</DA_RedTearHigh.stages.warm.label>
+  <!-- EN: burning -->
+  <DA_RedTearHigh.stages.burning.label>灼痛</DA_RedTearHigh.stages.burning.label>
+  <!-- EN: scorching -->
+  <DA_RedTearHigh.stages.scorching.label>炙烤</DA_RedTearHigh.stages.scorching.label>
+  <!-- EN: blistering -->
+  <DA_RedTearHigh.stages.blistering.label>发疱</DA_RedTearHigh.stages.blistering.label>
+  
+  <!-- EN: red ink tolerance -->
+  <DA_RedTearTolerance.label>红墨耐受</DA_RedTearTolerance.label>
+  <!-- EN: A built-up tolerance to the red ink. The more severe this tolerance is, the more it will take to get the same effect. -->
+  <DA_RedTearTolerance.description>对红墨的长期耐受性。耐受性越严重，想达到和之前同样的效果所需要的红墨也就越多。</DA_RedTearTolerance.description>
+  <!-- EN: small -->
+  <DA_RedTearTolerance.stages.small.label>弱</DA_RedTearTolerance.stages.small.label>
+  <!-- EN: large -->
+  <DA_RedTearTolerance.stages.large.label>强</DA_RedTearTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <DA_RedTearTolerance.stages.massive.label>极强</DA_RedTearTolerance.stages.massive.label>
+  
+</LanguageData>

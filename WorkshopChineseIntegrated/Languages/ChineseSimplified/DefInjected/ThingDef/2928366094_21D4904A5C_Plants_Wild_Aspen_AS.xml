@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bog beacon -->
+  <RG_BogBeacon.label>沼泽灯塔菇</RG_BogBeacon.label>
+  <!-- EN: A glowing mushroom with a long stem growing in clusters. It grows exclusively in aspen forests. -->
+  <RG_BogBeacon.description>一种长成一簇的长茎萤光蘑菇。只能在白杨林地区中生长。</RG_BogBeacon.description>
+  
+  <!-- EN: fern -->
+  <RG_Plant_AspenFern.label>蕨草</RG_Plant_AspenFern.label>
+  <!-- EN: A short shrub with long, fine leaves. Grows in forests in aspen forests. -->
+  <RG_Plant_AspenFern.description>生长在白杨林地区的矮小灌木，叶子又长又细。</RG_Plant_AspenFern.description>
+  
+  <!-- EN: grass -->
+  <RG_Plant_AspenGrass.label>草</RG_Plant_AspenGrass.label>
+  <!-- EN: Wild tall grass. Grows in aspen forest regions where there is a little light and minimally fertile ground. -->
+  <RG_Plant_AspenGrass.description>白杨林地区的野草，在稍微有点光线和土地的地方就会长出来。</RG_Plant_AspenGrass.description>
+  
+  <!-- EN: deathbell -->
+  <RG_Plant_Deathbell.label>丧钟花</RG_Plant_Deathbell.label>
+  <!-- EN: A purple flower which grows in large clusters. It is said to grow where unfortunate deaths have taken place in the past. -->
+  <RG_Plant_Deathbell.description>一种长成一大簇的紫色小花。有传言说，这种花喜欢在过去曾出现过不幸死亡的地方生长。</RG_Plant_Deathbell.description>
+  
+  <!-- EN: mountain flower -->
+  <RG_Plant_RedMountainFlower.label>山花</RG_Plant_RedMountainFlower.label>
+  <!-- EN: A tiny red flower which grows in large clusters. -->
+  <RG_Plant_RedMountainFlower.description>一种长成一大簇的红色小花。</RG_Plant_RedMountainFlower.description>
+  
+  <!-- EN: saffron cushion -->
+  <RG_Plant_SaffronCushion.label>橘黄垫草</RG_Plant_SaffronCushion.label>
+  <!-- EN: Wild carpet shrubs with yellow leafs that grows in aspen forests. Shrubs takes a long time to grow, but is very frost-resistant. -->
+  <RG_Plant_SaffronCushion.description>生长在白杨林地区的野生植物。生长周期较长，但抗寒能力很强。</RG_Plant_SaffronCushion.description>
+  
+  <!-- EN: tall grass -->
+  <RG_Plant_TallAspenGrass.label>高草</RG_Plant_TallAspenGrass.label>
+  <!-- EN: Wild tall grass. Grows in aspen forest regions where there is a little light and minimally fertile ground. -->
+  <RG_Plant_TallAspenGrass.description>生长在白杨林地区的野生高草。从上面走过时速度会明显变慢。</RG_Plant_TallAspenGrass.description>
+  
+  <!-- EN: aspen tree -->
+  <RG_Plant_TreeAspenRed.label>白杨树</RG_Plant_TreeAspenRed.label>
+  <!-- EN: A genetically modified cold-biome tree known for its thin, white, paper-like bark and colourful leaves. -->
+  <RG_Plant_TreeAspenRed.description>经过基因工程改造的白杨树，抗寒能力很强。其树皮灰白轻薄，叶子鲜艳多彩。</RG_Plant_TreeAspenRed.description>
+  
+  <!-- EN: aspen tree -->
+  <RG_Plant_TreeAspenYellow.label>白杨树</RG_Plant_TreeAspenYellow.label>
+  <!-- EN: A genetically modified cold-biome tree known for its thin, white, paper-like bark and colourful leaves. -->
+  <RG_Plant_TreeAspenYellow.description>经过基因工程改造的白杨树，抗寒能力很强。其树皮灰白轻薄，叶子鲜艳多彩。</RG_Plant_TreeAspenYellow.description>
+  
+</LanguageData>

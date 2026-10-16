@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Storage Pit -->
+  <ASF_StoragePit.label>小型地窖</ASF_StoragePit.label>
+  <!-- EN: A dirt dugout that can store a range of items. Keeps perishable items slightly cooler underground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings. \nOccupies a 1x1 area underground.\n\nTotal Capacity: 25 Stacks -->
+  <ASF_StoragePit.description>简单在地上挖个深坑，再放下梯子建成的小型地窖，能够储存各种物品。存放在里面的物品永远不会老化，也不会影响周围环境的美观度。\n\n地窖可以延缓物品的腐烂速度。同种类型的地窖无法相邻放置。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：25组\n【可储存类型】：所有物品</ASF_StoragePit.description>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Victrix Guard brim -->
+  <BEWH_Deco_MkVII_VictrixBrim.label>荣誉卫队装饰</BEWH_Deco_MkVII_VictrixBrim.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_MkVII_VictrixBrim.description>荣誉卫队装饰</BEWH_Deco_MkVII_VictrixBrim.description>
+  
+  <!-- EN: Victrix Guard brim -->
+  <BEWH_Deco_MkX_VictrixBrim.label>荣誉卫队装饰</BEWH_Deco_MkX_VictrixBrim.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_MkX_VictrixBrim.description>荣誉卫队装饰</BEWH_Deco_MkX_VictrixBrim.description>
+  
+  <!-- EN: Bladeguard brim -->
+  <BEWH_MkXBladeguardBrim.label>剑卫装饰</BEWH_MkXBladeguardBrim.label>
+  <!-- EN: ... -->
+  <BEWH_MkXBladeguardBrim.description>剑卫装饰</BEWH_MkXBladeguardBrim.description>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_RoxKnightStart.label>罗克斯骑士</DankPyon_RoxKnightStart.label>
+  <DankPyon_RoxKnightStart.description>长久以来承担着职责的重担和制约，你其实渴望着更多，一心向往着未被发掘的应许之地和旅途未知的刺激。仿佛就像远处传来的塞壬之歌，一场大冒险在心底的一隅呼唤着你，令你不自觉地想侧耳倾听。终于，你下定决心离开了舒适的领主府，踏上崎岖的高原，渴望开辟出属于自己的道路。
+
+你身穿的盔甲上仍隐约透着罗克斯蒙家族的印记，但现在，这件盔甲保护的是一位浪游四方的游侠骑士。荒野上到处是强盗和蛰伏的怪物，时时刻刻紧盯着落单的旅人。夜晚寒冷且充满危险，每个阴影都可能是潜在的威胁。尽管如此，未知的冒险仍引领你踏出每一步，驱使你远离那舒适的城堡大厅。
+
+携着一袋银子和一颗渴望冒险的心，你在未知的道路上持续前行。或许，你将在遥远的国度获得无上荣耀，建立响彻千古的名声，并结识与你志同道合的战友。然而，这条道路注定危机四伏。
+
+至少在此刻，你应记住——道阻且长，行则将至。旅途本身就是你的奖赏。</DankPyon_RoxKnightStart.description>
+  <DankPyon_RoxKnightStart.scenario.name>罗克斯骑士</DankPyon_RoxKnightStart.scenario.name>
+  <DankPyon_RoxKnightStart.scenario.summary>一名独自动身的罗克斯骑士——虽然孤单但却拥有充足的罗克斯黑啤酒。</DankPyon_RoxKnightStart.scenario.summary>
+  <DankPyon_RoxKnightStart.scenario.description>长久以来承担着职责的重担和制约，你其实渴望着更多，一心向往着未被发掘的应许之地和旅途未知的刺激。仿佛就像远处传来的塞壬之歌，一场大冒险在心底的一隅呼唤着你，令你不自觉地想侧耳倾听。终于，你下定决心离开了舒适的领主府，踏上崎岖的高原，渴望开辟出属于自己的道路。
+
+你身穿的盔甲上仍隐约透着罗克斯蒙家族的印记，但现在，这件盔甲保护的是一位浪游四方的游侠骑士。荒野上到处是强盗和蛰伏的怪物，时时刻刻紧盯着落单的旅人。夜晚寒冷且充满危险，每个阴影都可能是潜在的威胁。尽管如此，未知的冒险仍引领你踏出每一步，驱使你远离那舒适的城堡大厅。
+
+携着一袋银子和一颗渴望冒险的心，你在未知的道路上持续前行。或许，你将在遥远的国度获得无上荣耀，建立响彻千古的名声，并结识与你志同道合的战友。然而，这条道路注定危机四伏。
+
+至少在此刻，你应记住——道阻且长，行则将至。旅途本身就是你的奖赏。</DankPyon_RoxKnightStart.scenario.description>
+
+  <DankPyon_RoxKnightStart.scenario.parts.13.text>奢华的宴会、盛大的锦标赛和宫廷的欢乐从未能使你得到真正的满足，你的内心向往着古老吟游诗歌所描述的那一场传奇冒险，你想要切身感受真正的挑战和刺激。\n\n现在，经过多年的准备和训练，你将踏入桀骜不驯的荒野，在那里，真正的荣耀和危险在等着你。</DankPyon_RoxKnightStart.scenario.parts.13.text>
+
+
+</LanguageData>

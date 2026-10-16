@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sting -->
+  <VFEM2_Sting.label>蜜蜂叮咬</VFEM2_Sting.label>
+  <!-- EN: A hurtful bee sting. -->
+  <VFEM2_Sting.description>蜜蜂叮咬，很痛。</VFEM2_Sting.description>
+  <!-- EN: sting scar -->
+  <VFEM2_Sting.comps.HediffComp_GetsPermanent.permanentLabel>叮咬伤疤</VFEM2_Sting.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: a bee sting -->
+  <VFEM2_Sting.labelNoun>蜜蜂叮咬</VFEM2_Sting.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VFEM2_Sting.labelNounPretty>{1}中的{0}</VFEM2_Sting.labelNounPretty>
+  
+</LanguageData>

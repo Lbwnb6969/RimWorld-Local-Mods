@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: doublet -->
+  <TA_Doublet.label>紧身上衣</TA_Doublet.label>
+  <!-- EN: . -->
+  <TA_Doublet.description>文艺复兴时期的传统紧身上衣，带有精致纽扣。</TA_Doublet.description>
+  
+  <!-- EN: sleeveless doublet -->
+  <TA_DoubletVest.label>无袖紧身上衣</TA_DoubletVest.label>
+  <!-- EN: . -->
+  <TA_DoubletVest.description>无袖设计的轻便紧身上衣，适合温暖气候。</TA_DoubletVest.description>
+  
+</LanguageData>

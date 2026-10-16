@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: don't care -->
+  <VME_Pain_DontCare.label>漠视</VME_Pain_DontCare.label>
+  <!-- EN: Pain is only in your mind, so long as your spirit remains whole, you are in control of it. -->
+  <VME_Pain_DontCare.description>痛苦只存在于我们的思想中。只要自己的心灵完好无损，我们就能掌控它。</VME_Pain_DontCare.description>
+  
+</LanguageData>

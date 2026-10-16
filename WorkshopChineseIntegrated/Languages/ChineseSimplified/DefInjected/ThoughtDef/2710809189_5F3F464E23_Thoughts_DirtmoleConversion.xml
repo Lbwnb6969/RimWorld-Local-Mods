@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: underwhelming embrace the deep -->
+  <AM_BoringDirtmoleConversion.stages.underwhelming_embrace_the_deep.label>效果甚微的拥抱地底</AM_BoringDirtmoleConversion.stages.underwhelming_embrace_the_deep.label>
+  <!-- EN: The moralist's words lacked passion. The ceremony left me unimpressed. -->
+  <AM_BoringDirtmoleConversion.stages.underwhelming_embrace_the_deep.description>拥抱地底效果甚微。演讲者的话语缺乏热情，我们在仪式中几乎未得到任何启发。</AM_BoringDirtmoleConversion.stages.underwhelming_embrace_the_deep.description>
+  
+  <!-- EN: convincing embrace the deep -->
+  <AM_FunDirtmoleConversion.stages.convincing_embrace_the_deep.label>令人信服的拥抱地底</AM_FunDirtmoleConversion.stages.convincing_embrace_the_deep.label>
+  <!-- EN: The moralist spoke with conviction about life beneath the earth. I found the ceremony inspiring. -->
+  <AM_FunDirtmoleConversion.stages.convincing_embrace_the_deep.description>拥抱地底令人信服。演讲者以饱满的热情发表了拥抱地底的布道，我们对仪式感到非常满意。</AM_FunDirtmoleConversion.stages.convincing_embrace_the_deep.description>
+  
+  <!-- EN: unconvincing embrace the deep -->
+  <AM_TerribleDirtmoleConversion.stages.unconvincing_embrace_the_deep.label>令人失望的拥抱地底</AM_TerribleDirtmoleConversion.stages.unconvincing_embrace_the_deep.label>
+  <!-- EN: The moralist failed to inspire me. The ceremony did little to strengthen my devotion to the depths of the earth. -->
+  <AM_TerribleDirtmoleConversion.stages.unconvincing_embrace_the_deep.description>拥抱地底令人失望。演讲者未能激起大家对拥抱地底的重要性的认识，我们根本感受不到任何东西。</AM_TerribleDirtmoleConversion.stages.unconvincing_embrace_the_deep.description>
+  
+  <!-- EN: inspiring embrace the deep -->
+  <AM_UnforgettableDirtmoleConversion.stages.inspiring_embrace_the_deep.label>鼓舞人心的拥抱地底</AM_UnforgettableDirtmoleConversion.stages.inspiring_embrace_the_deep.label>
+  <!-- EN: The moralist's words were profoundly inspiring. I feel deeply connected to the depths of the earth. -->
+  <AM_UnforgettableDirtmoleConversion.stages.inspiring_embrace_the_deep.description>拥抱地底鼓舞人心！演讲者的话语抓住了拥抱地底的重要性，我们在仪式中深受感动。</AM_UnforgettableDirtmoleConversion.stages.inspiring_embrace_the_deep.description>
+  
+</LanguageData>

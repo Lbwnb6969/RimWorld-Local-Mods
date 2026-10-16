@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bonnet -->
+  <TA_Bonnet.label>软帽</TA_Bonnet.label>
+  <!-- EN: . -->
+  <TA_Bonnet.description>女性常戴的柔软布帽。</TA_Bonnet.description>
+  
+  <!-- EN: felt hat -->
+  <TA_FeltHat.label>毡帽</TA_FeltHat.label>
+  <!-- EN: . -->
+  <TA_FeltHat.description>由压制毛毡制成的实用帽子。</TA_FeltHat.description>
+  
+  <!-- EN: fur hat -->
+  <TA_FurCap.label>毛皮帽</TA_FurCap.label>
+  <!-- EN: . -->
+  <TA_FurCap.description>保暖的动物毛皮帽子。</TA_FurCap.description>
+  
+  <!-- EN: cavalier hat -->
+  <TA_HatCavalier.label>骑士帽</TA_HatCavalier.label>
+  <!-- EN: . -->
+  <TA_HatCavalier.description>带有宽檐和羽毛装饰的优雅帽子。</TA_HatCavalier.description>
+  
+  <!-- EN: janissary hat -->
+  <TA_JanissaryHat.label>土耳其禁卫军帽</TA_JanissaryHat.label>
+  <!-- EN: . -->
+  <TA_JanissaryHat.description>奥斯曼帝国禁卫军的标志性白色高帽。</TA_JanissaryHat.description>
+  
+  <!-- EN: landskecht hat -->
+  <TA_LandsknechtHat.label>德意志佣兵帽</TA_LandsknechtHat.label>
+  <!-- EN: . -->
+  <TA_LandsknechtHat.description>色彩鲜艳的德意志佣兵风格宽檐帽。</TA_LandsknechtHat.description>
+  
+  <!-- EN: musketeer's slouch hat -->
+  <TA_MusketeerHat.label>火枪手软帽</TA_MusketeerHat.label>
+  <!-- EN: . -->
+  <TA_MusketeerHat.description>法国火枪手风格的宽檐软帽。</TA_MusketeerHat.description>
+  
+  <!-- EN: fancy fur hat -->
+  <TA_NobleFurCap.label>贵族毛皮帽</TA_NobleFurCap.label>
+  <!-- EN: . -->
+  <TA_NobleFurCap.description>装饰精美的贵族用毛皮帽子。</TA_NobleFurCap.description>
+  
+  <!-- EN: turban -->
+  <TA_Turban.label>包头巾</TA_Turban.label>
+  <!-- EN: . -->
+  <TA_Turban.description>中东地区传统的缠绕式头巾。</TA_Turban.description>
+  
+  <!-- EN: turban (white) -->
+  <TA_TurbanWhite.label>白色包头巾</TA_TurbanWhite.label>
+  <!-- EN: . -->
+  <TA_TurbanWhite.description>洁白的传统缠绕式头巾。</TA_TurbanWhite.description>
+  
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_CommanderShield.label>commander shield</EES_CommanderShield.label>
+  <EES_CommanderShield.description>A mobile projectile barrier deployed around the commander. It blocks both direct-fire and arcing projectiles.</EES_CommanderShield.description>
+  <EES_CommanderShieldBelt.label>shield belt (commander)</EES_CommanderShieldBelt.label>
+  <EES_CommanderShieldBelt.description>A military shield projector worn by the defense officer. It deploys an 8-tile radius barrier around the wearer against both direct-fire and arcing projectiles. It cannot be looted.</EES_CommanderShieldBelt.description>
+</LanguageData>

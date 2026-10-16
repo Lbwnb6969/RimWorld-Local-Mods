@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <VAERoy_AnimalAdult.label>成年</VAERoy_AnimalAdult.label>
+  
+  <!-- EN: mature -->
+  <VAERoy_AnimalAdultIntermediate.label>壮年</VAERoy_AnimalAdultIntermediate.label>
+  
+  <!-- EN: colossal -->
+  <VAERoy_AnimalAdultMax.label>完全体</VAERoy_AnimalAdultMax.label>
+  
+  <!-- EN: baby -->
+  <VAERoy_AnimalBaby.label>幼崽</VAERoy_AnimalBaby.label>
+  
+  <!-- EN: juvenile -->
+  <VAERoy_AnimalJuvenile.label>幼年</VAERoy_AnimalJuvenile.label>
+  
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_CremateFuneralBehavior.roles.0.label>演讲者</AM_CremateFuneralBehavior.roles.0.label>
+  <!-- EN: Corpse -->
+  <AM_CremateFuneralBehavior.roles.1.label>尸体</AM_CremateFuneralBehavior.roles.1.label>
+  <!-- EN: crafter -->
+  <AM_CremateFuneralBehavior.roles.2.label>骨灰瓮制作者</AM_CremateFuneralBehavior.roles.2.label>
+  <!-- EN: Spectators must be alive. -->
+  <AM_CremateFuneralBehavior.spectatorFilter.description>观众必须为活着的殖民者。</AM_CremateFuneralBehavior.spectatorFilter.description>
+  <!-- EN: Selected stuff is not reachable -->
+  <AM_CremateFuneralBehavior.stages.0.failTriggers.0.desc>无法抵达所需材料的位置。</AM_CremateFuneralBehavior.stages.0.failTriggers.0.desc>
+  <!-- EN: {0}: The speech is over, and the cremation is beginning. -->
+  <AM_CremateFuneralBehavior.stages.1.postAction.text>{0}: 演讲结束了，火化开始了。</AM_CremateFuneralBehavior.stages.1.postAction.text>
+  
+</LanguageData>

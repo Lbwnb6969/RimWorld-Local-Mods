@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Serfdom -->
+  <BEWH_SerfBuff.label>侍从</BEWH_SerfBuff.label>
+  <!-- EN: Serving is the only purpose. -->
+  <BEWH_SerfBuff.description>侍奉便是此人唯一的存在意义。</BEWH_SerfBuff.description>
+  <!-- EN: supressed -->
+  <BEWH_SerfBuff.stages.supressed.label>被压制</BEWH_SerfBuff.stages.supressed.label>
+  <!-- EN: No Marines -->
+  <BEWH_SerfBuff.stages.No_Marines.label>没有星际战士</BEWH_SerfBuff.stages.No_Marines.label>
+  <!-- EN: Marines in Colony -->
+  <BEWH_SerfBuff.stages.Marines_in_Colony.label>殖民地里有星际战士</BEWH_SerfBuff.stages.Marines_in_Colony.label>
+  <!-- EN: Marine Nearby -->
+  <BEWH_SerfBuff.stages.Marine_Nearby.label>星际战士在附近</BEWH_SerfBuff.stages.Marine_Nearby.label>
+  
+</LanguageData>

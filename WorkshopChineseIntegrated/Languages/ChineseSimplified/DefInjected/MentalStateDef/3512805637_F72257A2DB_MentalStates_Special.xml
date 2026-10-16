@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleeing -->
+  <BEWH_InducedFear.label>逃跑</BEWH_InducedFear.label>
+  <!-- EN: Mental state: Feared and fleeing -->
+  <BEWH_InducedFear.baseInspectLine>精神状态：恐惧逃窜</BEWH_InducedFear.baseInspectLine>
+  <!-- EN: {0} is feared and fleeing. -->
+  <BEWH_InducedFear.beginLetter>{0}感到恐惧并逃跑。</BEWH_InducedFear.beginLetter>
+  <!-- EN: flee -->
+  <BEWH_InducedFear.beginLetterLabel>逃跑</BEWH_InducedFear.beginLetterLabel>
+  <!-- EN: {0} is no longer feared and fleeing. -->
+  <BEWH_InducedFear.recoveryMessage>{0}不再恐惧，停止了逃跑。</BEWH_InducedFear.recoveryMessage>
+  
+</LanguageData>

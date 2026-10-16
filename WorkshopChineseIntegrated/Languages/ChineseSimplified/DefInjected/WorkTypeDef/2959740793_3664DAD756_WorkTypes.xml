@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Sell items to customers. -->
+  <Storefront_Selling.description>将商品售卖给顾客。</Storefront_Selling.description>
+  <!-- EN: selling -->
+  <Storefront_Selling.gerundLabel>售卖</Storefront_Selling.gerundLabel>
+  <!-- EN: Selling -->
+  <Storefront_Selling.labelShort>售卖</Storefront_Selling.labelShort>
+  <!-- EN: Cashier -->
+  <Storefront_Selling.pawnLabel>收银员</Storefront_Selling.pawnLabel>
+  <!-- EN: Sell -->
+  <Storefront_Selling.verb>售卖</Storefront_Selling.verb>
+  
+</LanguageData>

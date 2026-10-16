@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Structure_DwarvenWood.label>矮人木</Structure_DwarvenWood.label>
+
+    <Structure_DwarvenStone.label>矮人石</Structure_DwarvenStone.label>
+
+    <Structure_DwarvenBronze.label>矮人青铜</Structure_DwarvenBronze.label>
+
+    <Structure_DwarvenIron.label>矮人铁</Structure_DwarvenIron.label>
+
+    <Structure_DwarvenCotton.label>矮人棉</Structure_DwarvenCotton.label>
+
+    <Structure_Mithrium.label>秘银</Structure_Mithrium.label>
+
+    <Structure_DwarvenLeather.label>矮人革</Structure_DwarvenLeather.label>
+
+    <Structure_Copper.label>铜</Structure_Copper.label>
+
+    <Structure_OxydizedCopper.label>老铜</Structure_OxydizedCopper.label>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: violent conversion -->
+  <VME_ViolentConversionPrecept.label>暴力转化</VME_ViolentConversionPrecept.label>
+  <!-- EN: Infidels must either join our cause, or their skulls shall be caved in with a thousand hammers. -->
+  <VME_ViolentConversionPrecept.description>一场暴力转化仪式。异教徒必须加入我们的事业，否则他们的头颅将会被锤个粉碎。</VME_ViolentConversionPrecept.description>
+  
+</LanguageData>

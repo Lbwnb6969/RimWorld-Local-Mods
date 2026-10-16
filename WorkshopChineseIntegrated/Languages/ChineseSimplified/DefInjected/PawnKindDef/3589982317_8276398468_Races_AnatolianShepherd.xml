@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Anatolian shepherd -->
+  <BA_AnatolianShepherd.label>安纳托利亚牧羊犬</BA_AnatolianShepherd.label>
+  <!-- EN: Anatolian shepherd puppy -->
+  <BA_AnatolianShepherd.lifeStages.Anatolian_shepherd_puppy.label>安纳托利亚牧羊犬幼犬</BA_AnatolianShepherd.lifeStages.Anatolian_shepherd_puppy.label>
+  <!-- EN: Anatolian shepherd puppies -->
+  <BA_AnatolianShepherd.lifeStages.Anatolian_shepherd_puppy.labelPlural>安纳托利亚牧羊犬幼犬们</BA_AnatolianShepherd.lifeStages.Anatolian_shepherd_puppy.labelPlural>
+  
+</LanguageData>

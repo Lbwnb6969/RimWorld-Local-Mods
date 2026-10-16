@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DV_DodgeChance_Low.label>笨重</DV_DodgeChance_Low.label>
+  <DV_DodgeChance_Low.description>这种基因的携带者身体僵硬，更难以避免打击。</DV_DodgeChance_Low.description>
+
+  <DV_DodgeChance_High.label>轻灵</DV_DodgeChance_High.label>
+  <DV_DodgeChance_High.description>该基因的携带者非常灵活，更易于避免打击。</DV_DodgeChance_High.description>
+
+  <DV_MeleeAffinity.label>近战亲和</DV_MeleeAffinity.label>
+  <DV_MeleeAffinity.description>这种基因的携带者有对近战武器的天生亲和力，他们有着过度灵活的手腕和有力的肩膀来挥舞兵器。</DV_MeleeAffinity.description>
+
+  <DV_Hair_Keshig.label>发绺</DV_Hair_Keshig.label>
+  <DV_Hair_Keshig.description>这种基因的携带者长着会自然形成辫子的长发。</DV_Hair_Keshig.description>
+
+  <DV_Jaw_Split.label>分离下颌</DV_Jaw_Split.label>
+  <DV_Jaw_Split.description>这种基因的携带者有着带有大而突出獠牙的分裂式下颌，其允许他们将嘴张的更大，这意味着他们可以更快的进食，也让他们看着更加危险。</DV_Jaw_Split.description>
+
+  <DV_Headbone_ForeheadPlating.label>头皮外壳</DV_Headbone_ForeheadPlating.label>
+  <DV_Headbone_ForeheadPlating.description>这种基因的携带者在前额和头皮上形成坚硬的骨板来减轻脑震荡和打击。</DV_Headbone_ForeheadPlating.description>
+
+  <Skin_GrimyRed.label>污红皮肤</Skin_GrimyRed.label>
+  <Skin_GrimyRed.description>这种基因的携带者会生产一种将他们的皮肤转变为污红色的色素。</Skin_GrimyRed.description>
+
+  <Skin_GrimyYellow.label>污黄皮肤</Skin_GrimyYellow.label>
+  <Skin_GrimyYellow.description>这种基因的携带者会生产一种将他们的皮肤转变为污黄色的色素。</Skin_GrimyYellow.description>
+
+  <Skin_GrimyOrange.label>污橙皮肤</Skin_GrimyOrange.label>
+  <Skin_GrimyOrange.description>这种基因的携带者会生产一种将他们的皮肤转变为污橙色的色素。</Skin_GrimyOrange.description>
+
+  <Skin_GrimyGreen.label>污绿皮肤</Skin_GrimyGreen.label>
+  <Skin_GrimyGreen.description>这种基因的携带者会生产一种将他们的皮肤转变为污绿色的色素。</Skin_GrimyGreen.description>
+</LanguageData>

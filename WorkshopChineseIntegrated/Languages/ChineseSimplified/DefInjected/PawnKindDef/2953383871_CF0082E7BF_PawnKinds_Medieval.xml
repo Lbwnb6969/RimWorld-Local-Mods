@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Medieval_Peasant.label>农民</DankPyon_Medieval_Peasant.label>
+  <DankPyon_Medieval_Peasant.labelPlural>农民</DankPyon_Medieval_Peasant.labelPlural>
+
+
+  <!-- Low-tier - merchant, squire -->
+
+  <DankPyon_Medieval_Merchant.label>商人</DankPyon_Medieval_Merchant.label>
+  <DankPyon_Medieval_Merchant.labelPlural>商人</DankPyon_Medieval_Merchant.labelPlural>
+
+
+  <!-- Mercenary -->
+
+  <DankPyon_Medieval_Mercenary.label>佣兵</DankPyon_Medieval_Mercenary.label>
+  <DankPyon_Medieval_Mercenary.labelPlural>佣兵</DankPyon_Medieval_Mercenary.labelPlural>
+
+  <DankPyon_Medieval_MercenaryHeavy.label>佣兵</DankPyon_Medieval_MercenaryHeavy.label>
+  <DankPyon_Medieval_MercenaryHeavy.labelPlural>佣兵</DankPyon_Medieval_MercenaryHeavy.labelPlural>
+
+
+  <!-- Soldiers -->
+
+  <DankPyon_Medieval_Footman.label>步兵</DankPyon_Medieval_Footman.label>
+  <DankPyon_Medieval_Footman.labelPlural>步兵</DankPyon_Medieval_Footman.labelPlural>
+
+  <DankPyon_FootmanAmboise.label>步兵</DankPyon_FootmanAmboise.label>
+  <DankPyon_FootmanAmboise.labelPlural>步兵</DankPyon_FootmanAmboise.labelPlural>
+
+  <DankPyon_FootmanSoren.label>步兵</DankPyon_FootmanSoren.label>
+  <DankPyon_FootmanSoren.labelPlural>步兵</DankPyon_FootmanSoren.labelPlural>
+
+  <DankPyon_FootmanOswin.label>步兵</DankPyon_FootmanOswin.label>
+  <DankPyon_FootmanOswin.labelPlural>步兵</DankPyon_FootmanOswin.labelPlural>
+
+  <DankPyon_FootmanHesse.label>步兵</DankPyon_FootmanHesse.label>
+  <DankPyon_FootmanHesse.labelPlural>步兵</DankPyon_FootmanHesse.labelPlural>
+
+  <DankPyon_Medieval_Billman.label>钩镰兵</DankPyon_Medieval_Billman.label>
+  <DankPyon_Medieval_Billman.labelPlural>钩镰兵</DankPyon_Medieval_Billman.labelPlural>
+
+  <DankPyon_StandardAmboise.label>旗手</DankPyon_StandardAmboise.label>
+  <DankPyon_StandardAmboise.labelPlural>旗手</DankPyon_StandardAmboise.labelPlural>
+
+  <DankPyon_StandardSoren.label>旗手</DankPyon_StandardSoren.label>
+  <DankPyon_StandardSoren.labelPlural>旗手</DankPyon_StandardSoren.labelPlural>
+
+  <DankPyon_StandardOswin.label>旗手</DankPyon_StandardOswin.label>
+  <DankPyon_StandardOswin.labelPlural>旗手</DankPyon_StandardOswin.labelPlural>
+
+  <DankPyon_StandardHesse.label>旗手</DankPyon_StandardHesse.label>
+  <DankPyon_StandardHesse.labelPlural>旗手</DankPyon_StandardHesse.labelPlural>
+
+  <DankPyon_Medieval_Bowman.label>弓箭手</DankPyon_Medieval_Bowman.label>
+  <DankPyon_Medieval_Bowman.labelPlural>弓箭手</DankPyon_Medieval_Bowman.labelPlural>
+
+  <DankPyon_Medieval_Arbalester.label>强弩兵</DankPyon_Medieval_Arbalester.label>
+  <DankPyon_Medieval_Arbalester.labelPlural>强弩兵</DankPyon_Medieval_Arbalester.labelPlural>
+
+  <DankPyon_ZweihanderAmboise.label>双手剑士</DankPyon_ZweihanderAmboise.label>
+  <DankPyon_ZweihanderAmboise.labelPlural>双手剑士</DankPyon_ZweihanderAmboise.labelPlural>
+
+  <DankPyon_ZweihanderSoren.label>双手剑士</DankPyon_ZweihanderSoren.label>
+  <DankPyon_ZweihanderSoren.labelPlural>双手剑士</DankPyon_ZweihanderSoren.labelPlural>
+
+  <DankPyon_ZweihanderOswin.label>双手剑士</DankPyon_ZweihanderOswin.label>
+  <DankPyon_ZweihanderOswin.labelPlural>双手剑士</DankPyon_ZweihanderOswin.labelPlural>
+
+  <DankPyon_ZweihanderHesse.label>双手剑士</DankPyon_ZweihanderHesse.label>
+  <DankPyon_ZweihanderHesse.labelPlural>双手剑士</DankPyon_ZweihanderHesse.labelPlural>
+
+  <DankPyon_KnightAmboise.label>骑士</DankPyon_KnightAmboise.label>
+  <DankPyon_KnightAmboise.labelPlural>骑士</DankPyon_KnightAmboise.labelPlural>
+
+  <DankPyon_KnightSoren.label>骑士</DankPyon_KnightSoren.label>
+  <DankPyon_KnightSoren.labelPlural>骑士</DankPyon_KnightSoren.labelPlural>
+
+  <DankPyon_KnightOswin.label>骑士</DankPyon_KnightOswin.label>
+  <DankPyon_KnightOswin.labelPlural>骑士</DankPyon_KnightOswin.labelPlural>
+
+  <DankPyon_KnightHesse.label>骑士</DankPyon_KnightHesse.label>
+  <DankPyon_KnightHesse.labelPlural>骑士</DankPyon_KnightHesse.labelPlural>
+
+  <DankPyon_Medieval_Lord.label>领主</DankPyon_Medieval_Lord.label>
+  <DankPyon_Medieval_Lord.labelPlural>领主</DankPyon_Medieval_Lord.labelPlural>
+
+
+  <!-- Bandits -->
+
+  <DankPyon_BrigandThug.label>土匪暴徒</DankPyon_BrigandThug.label>
+  <DankPyon_BrigandThug.labelPlural>土匪暴徒</DankPyon_BrigandThug.labelPlural>
+
+  <DankPyon_BrigandRaider.label>土匪掠夺者</DankPyon_BrigandRaider.label>
+  <DankPyon_BrigandRaider.labelPlural>土匪掠夺者</DankPyon_BrigandRaider.labelPlural>
+
+  <DankPyon_BrigandLeader.label>土匪首领</DankPyon_BrigandLeader.label>
+  <DankPyon_BrigandLeader.labelPlural>土匪首领</DankPyon_BrigandLeader.labelPlural>
+
+  <DankPyon_BrigandMarksman.label>弓箭手</DankPyon_BrigandMarksman.label>
+  <DankPyon_BrigandMarksman.labelPlural>弓箭手</DankPyon_BrigandMarksman.labelPlural>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gila venomous bite -->
+  <AEXP_GilaVenomousBite.label>钝尾毒蜥撕咬</AEXP_GilaVenomousBite.label>
+  
+  <!-- EN: Megascorpion venomous bite -->
+  <AEXP_MegascorpionVenomousBite.label>巨蝎叮咬</AEXP_MegascorpionVenomousBite.label>
+  
+  <!-- EN: Rattlesnake venomous bite -->
+  <AEXP_RattleSnakeVenomousBite.label>响尾蛇蛰咬</AEXP_RattleSnakeVenomousBite.label>
+  
+</LanguageData>

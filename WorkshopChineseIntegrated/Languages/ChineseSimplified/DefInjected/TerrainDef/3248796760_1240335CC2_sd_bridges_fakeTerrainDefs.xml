@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fake marsh -->
+  <sd_bridges_fakeMarsh.label>假沼泽</sd_bridges_fakeMarsh.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeMarsh.tools.water.label>水域</sd_bridges_fakeMarsh.tools.water.label>
+  <!-- EN: mud -->
+  <sd_bridges_fakeMarsh.tools.mud.label>泥地</sd_bridges_fakeMarsh.tools.mud.label>
+  
+  <!-- EN: fake mud -->
+  <sd_bridges_fakeMud.label>假泥地</sd_bridges_fakeMud.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeMud.tools.water.label>水域</sd_bridges_fakeMud.tools.water.label>
+  <!-- EN: mud -->
+  <sd_bridges_fakeMud.tools.mud.label>泥地</sd_bridges_fakeMud.tools.mud.label>
+  
+  <!-- EN: fake deep water -->
+  <sd_bridges_fakeWaterDeep.label>假深水</sd_bridges_fakeWaterDeep.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterDeep.tools.water-0.label>水域</sd_bridges_fakeWaterDeep.tools.water-0.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterDeep.tools.water-1.label>水域</sd_bridges_fakeWaterDeep.tools.water-1.label>
+  
+  <!-- EN: fake chest-deep moving water -->
+  <sd_bridges_fakeWaterMovingChestDeep.label>假流动的深水</sd_bridges_fakeWaterMovingChestDeep.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterMovingChestDeep.tools.water.label>水域</sd_bridges_fakeWaterMovingChestDeep.tools.water.label>
+  
+  <!-- EN: fake shallow moving water -->
+  <sd_bridges_fakeWaterMovingShallow.label>假流动的浅水</sd_bridges_fakeWaterMovingShallow.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterMovingShallow.tools.water-0.label>水域</sd_bridges_fakeWaterMovingShallow.tools.water-0.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterMovingShallow.tools.water-1.label>水域</sd_bridges_fakeWaterMovingShallow.tools.water-1.label>
+  
+  <!-- EN: fake deep ocean water -->
+  <sd_bridges_fakeWaterOceanDeep.label>假深海</sd_bridges_fakeWaterOceanDeep.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterOceanDeep.tools.water-0.label>水域</sd_bridges_fakeWaterOceanDeep.tools.water-0.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterOceanDeep.tools.water-1.label>水域</sd_bridges_fakeWaterOceanDeep.tools.water-1.label>
+  
+  <!-- EN: fake shallow ocean water -->
+  <sd_bridges_fakeWaterOceanShallow.label>假浅海</sd_bridges_fakeWaterOceanShallow.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterOceanShallow.tools.water-0.label>水域</sd_bridges_fakeWaterOceanShallow.tools.water-0.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterOceanShallow.tools.water-1.label>水域</sd_bridges_fakeWaterOceanShallow.tools.water-1.label>
+  
+  <!-- EN: fake shallow water -->
+  <sd_bridges_fakeWaterShallow.label>假浅水</sd_bridges_fakeWaterShallow.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterShallow.tools.water-0.label>水域</sd_bridges_fakeWaterShallow.tools.water-0.label>
+  <!-- EN: water -->
+  <sd_bridges_fakeWaterShallow.tools.water-1.label>水域</sd_bridges_fakeWaterShallow.tools.water-1.label>
+  
+</LanguageData>

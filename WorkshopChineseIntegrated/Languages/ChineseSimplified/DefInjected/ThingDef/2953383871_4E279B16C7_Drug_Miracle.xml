@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Miracle.label>药剂师的奇迹</DankPyon_Miracle.label>
+  <DankPyon_Miracle.description>作为传说中的灵丹妙药，药剂师的奇迹可以修补骨骼、缝合血肉，并有效对抗感染和疾病。这种万灵药的名字源于一位传奇炼金术士的故事，当他为治疗一名身负重伤的皇帝，在尝试过程中消耗了数十颗珍贵的巨魔心脏后，终于奇迹似地调配出这种药物，因此得名药剂师的奇迹。几个世纪以来，帝国虽然为了巨大的利益一直严守配方，但到了现代，炼金术士已经成功解开了配方之谜，并立即将其广泛运用在医疗领域上。</DankPyon_Miracle.description>
+  <DankPyon_Miracle.ingestible.ingestCommandString>服用{0}</DankPyon_Miracle.ingestible.ingestCommandString>
+  <DankPyon_Miracle.ingestible.ingestReportString>正在服用{0}。</DankPyon_Miracle.ingestible.ingestReportString>
+
+</LanguageData>

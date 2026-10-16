@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beagle -->
+  <AEXP_Beagle.label>比格犬</AEXP_Beagle.label>
+  <!-- EN: A small scent hound developed primarily to hunt hares. It's intelligence and loyalty make it a valuable companion on the hunt. -->
+  <AEXP_Beagle.description>比格犬又称为米格鲁猎兔犬，在分类上属于狩猎犬。是非常古老的品种，另一重要作用是试验犬，很多的生理、医药试验必须在该品种个体身上通过验证，才能被承认。\n\n该犬喜吠叫，发情时叫声频繁。体高41cm以下；被毛中等长度、紧密，毛色较杂。</AEXP_Beagle.description>
+  <!-- EN: dog meat -->
+  <AEXP_Beagle.race.meatLabel>狗肉</AEXP_Beagle.race.meatLabel>
+  <!-- EN: left claw -->
+  <AEXP_Beagle.tools.left_claw.label>左爪</AEXP_Beagle.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Beagle.tools.right_claw.label>右爪</AEXP_Beagle.tools.right_claw.label>
+  <!-- EN: cute little teeth -->
+  <AEXP_Beagle.tools.cute_little_teeth.label>可爱的小牙齿</AEXP_Beagle.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <AEXP_Beagle.tools.head.label>头</AEXP_Beagle.tools.head.label>
+  
+  <!-- EN: chihuahua -->
+  <AEXP_Chihuahua.label>吉娃娃犬</AEXP_Chihuahua.label>
+  <!-- EN: A small dog, just a little bit bigger than a rat. Back in ancient times considered to be reincarnations of different deities and are to this day considered sacred. -->
+  <AEXP_Chihuahua.description>吉娃娃犬是世界上最小型的犬种之一，头部圆形，耳大薄而直立，眼睛圆而大。\n\n吉娃娃犬警惕而勇敢，不惧怕大型犬，排斥外来犬。黏人，对主人有占有欲。精力充沛，但无特别的户外需求，且怕冷。</AEXP_Chihuahua.description>
+  <!-- EN: left claw -->
+  <AEXP_Chihuahua.tools.left_claw.label>左爪</AEXP_Chihuahua.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Chihuahua.tools.right_claw.label>右爪</AEXP_Chihuahua.tools.right_claw.label>
+  <!-- EN: cute little teeth -->
+  <AEXP_Chihuahua.tools.cute_little_teeth.label>可爱的小牙齿</AEXP_Chihuahua.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <AEXP_Chihuahua.tools.head.label>头</AEXP_Chihuahua.tools.head.label>
+  
+  <!-- EN: corgi -->
+  <AEXP_Corgi.label>柯基犬</AEXP_Corgi.label>
+  <!-- EN: Historically used for cattle herding, Corgis quickly became popular on imperial worlds and are recognized as a symbol of royalty. -->
+  <AEXP_Corgi.description>柯基犬是一种小型护卫犬，它们的胆子很大，也相当机警，可以高度警惕地守护家园。它们很快就在帝国世界里流行开来，并成为了皇权的象征之一。</AEXP_Corgi.description>
+  <!-- EN: left claw -->
+  <AEXP_Corgi.tools.left_claw.label>左爪</AEXP_Corgi.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Corgi.tools.right_claw.label>右爪</AEXP_Corgi.tools.right_claw.label>
+  <!-- EN: cute little teeth -->
+  <AEXP_Corgi.tools.cute_little_teeth.label>可爱的小牙齿</AEXP_Corgi.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <AEXP_Corgi.tools.head.label>头</AEXP_Corgi.tools.head.label>
+  
+  <!-- EN: french bulldog -->
+  <AEXP_FrenchBulldog.label>法国斗牛犬</AEXP_FrenchBulldog.label>
+  <!-- EN: Originally used for bull-baiting, which is an act of pitting one species of animal against bulls, these bulldogs are fierce opponents and due to their small body-size, they are fast, agile and lethal. -->
+  <AEXP_FrenchBulldog.description>法国斗牛犬活泼、聪明且肌肉发达，其骨骼沉重，背毛平滑、结构紧凑，体型中等或较小。对小孩和善，同时也作风彪悍，能力强，对于新鲜事物有极强的好奇心。</AEXP_FrenchBulldog.description>
+  <!-- EN: left claw -->
+  <AEXP_FrenchBulldog.tools.left_claw.label>左爪</AEXP_FrenchBulldog.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_FrenchBulldog.tools.right_claw.label>右爪</AEXP_FrenchBulldog.tools.right_claw.label>
+  <!-- EN: cute little teeth -->
+  <AEXP_FrenchBulldog.tools.cute_little_teeth.label>可爱的小牙齿</AEXP_FrenchBulldog.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <AEXP_FrenchBulldog.tools.head.label>头</AEXP_FrenchBulldog.tools.head.label>
+  
+  <!-- EN: german shepherd -->
+  <AEXP_GermanShepherd.label>德国牧羊犬</AEXP_GermanShepherd.label>
+  <!-- EN: A large sized working dog. Easy to train and good at following instructions, they are often seen accompanying glitterworld police forces and rimworld farmers. -->
+  <AEXP_GermanShepherd.description>德国牧羊犬，别名德国黑背。于1880年此犬已经在古地球德国各地固定下来，并做为牧羊犬使用。它们敏捷，且适合动作式的工作环境，它们经常被部署各种任务。而后于第一次世界大战期间被德军募集，做为军犬随军。由德军取长补短培育后，基本定型。因为体型高大，外观威猛，且具备极强的工作能力，因此在全世界范围以军犬、警犬、搜救犬、导盲犬、牧羊犬、观赏犬，以及家养宠物犬等身份活跃。</AEXP_GermanShepherd.description>
+  <!-- EN: left claw -->
+  <AEXP_GermanShepherd.tools.left_claw.label>左爪</AEXP_GermanShepherd.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_GermanShepherd.tools.right_claw.label>右爪</AEXP_GermanShepherd.tools.right_claw.label>
+  <!-- EN: bite -->
+  <AEXP_GermanShepherd.tools.bite.label>咬</AEXP_GermanShepherd.tools.bite.label>
+  <!-- EN: head -->
+  <AEXP_GermanShepherd.tools.head.label>头</AEXP_GermanShepherd.tools.head.label>
+  
+  <!-- EN: great dane -->
+  <AEXP_GreatDane.label>大丹犬</AEXP_GreatDane.label>
+  <!-- EN: One of the largest species of dogs, Great Danes are dignified, elegant and strong. -->
+  <AEXP_GreatDane.description>曾被古地球欧洲王室及贵族饲养，是贵族身份地位的象征，体高一般为70~90公分，体重为50~70公斤。毛短厚而富有光泽，头大而窄长，毛呈黄褐、虎斑、蓝色，黑色或黑白花色等。\n\n外表高贵优雅，体形大，肌肉丰满，强壮有力。在大型的工作犬中，是唯一体态匀称，可以轻松长途跋涉的犬。人们称它们为太阳神的犬。</AEXP_GreatDane.description>
+  <!-- EN: left claw -->
+  <AEXP_GreatDane.tools.left_claw.label>左爪</AEXP_GreatDane.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_GreatDane.tools.right_claw.label>右爪</AEXP_GreatDane.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_GreatDane.tools.head.label>头</AEXP_GreatDane.tools.head.label>
+  
+  <!-- EN: poodle -->
+  <AEXP_Poodle.label>贵宾犬</AEXP_Poodle.label>
+  <!-- EN: Large, pampered dogs, historically used for bird hunting, now mostly residing in imperial palaces and royal gardens. -->
+  <AEXP_Poodle.description>头颅顶部稍圆，眉头随浅但很清晰，面颊平坦。眼睛颜色很深呈卵圆形，两眼间距宽，眼神机警。吻部长直而纤细，眼睛下方有轻微诶凹陷。颈部强壮，颈长可以使头部高高抬起。胸部深而扩张，肋部伸展。后脚跟短，与地面垂直。\n\n它们的被毛有卷曲型和绳索型。身体各部位被毛长度不等，颈部、躯干、头部和耳部的被毛很长。</AEXP_Poodle.description>
+  <!-- EN: left claw -->
+  <AEXP_Poodle.tools.left_claw.label>左爪</AEXP_Poodle.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Poodle.tools.right_claw.label>右爪</AEXP_Poodle.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Poodle.tools.head.label>头</AEXP_Poodle.tools.head.label>
+  
+  <!-- EN: pug -->
+  <AEXP_Pug.label>巴哥犬</AEXP_Pug.label>
+  <!-- EN: A small dog with physically distinctive features of a wrinkly, short-muzzled face, and curled tail. They are known for being extremely social and friendly, however due to years of genetic alterations they have a very short lifespan. Whatever life they have, they will always cheer up people around them. -->
+  <AEXP_Pug.description>巴哥犬是古地球中国的本土犬种，别称京巴犬。特征是体型小，口吻轮廓硬，额头皮毛呈现出相挤、折叠的样子。以咕噜的呼吸声及象马一样抽鼻子的声音作为沟通的方式。</AEXP_Pug.description>
+  <!-- EN: left claw -->
+  <AEXP_Pug.tools.left_claw.label>左爪</AEXP_Pug.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Pug.tools.right_claw.label>右爪</AEXP_Pug.tools.right_claw.label>
+  <!-- EN: cute little teeth -->
+  <AEXP_Pug.tools.cute_little_teeth.label>可爱的小牙齿</AEXP_Pug.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <AEXP_Pug.tools.head.label>头</AEXP_Pug.tools.head.label>
+  
+  <!-- EN: rottweiler -->
+  <AEXP_Rottweiler.label>罗威纳犬</AEXP_Rottweiler.label>
+  <!-- EN: A large domestic dog and one of the oldest herding breeds. Being one of the most hard working dogs, it is a perfect companions for farmers and cattle herders. -->
+  <AEXP_Rottweiler.description>罗威纳犬身体强壮，动作迅猛，气势强悍，是世界上最具有勇气和力量的犬种之一。\n\n罗威纳犬曾经被用于看守牛群，也是杰出的护卫犬，能攻击侵入者，中世纪时，有钱的商人们为了避免钱财被盗，便把钱袋挂在罗威纳犬颈部上。\n\n此犬个性沉稳，极富感情，同时亦可成为极有身价的家庭犬。</AEXP_Rottweiler.description>
+  <!-- EN: left claw -->
+  <AEXP_Rottweiler.tools.left_claw.label>左爪</AEXP_Rottweiler.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Rottweiler.tools.right_claw.label>右爪</AEXP_Rottweiler.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Rottweiler.tools.head.label>头</AEXP_Rottweiler.tools.head.label>
+  
+  <!-- EN: shih-tzu -->
+  <AEXP_Shih-Tzu.label>西施犬</AEXP_Shih-Tzu.label>
+  <!-- EN: An oriental toy dog, Shih-Tzu have extremely long and soft hair. While they are kind of useless, petting them provides people with great comfort. -->
+  <AEXP_Shih-Tzu.description>西施犬，别名狮子犬，起源于古地球的西藏。\n\n被毛华丽，双层毛，丰厚浓密，毛长而平滑。下毛毛质好，为直毛或波状毛。\n\n性情开朗，对所有人的友好而信任。</AEXP_Shih-Tzu.description>
+  <!-- EN: left claw -->
+  <AEXP_Shih-Tzu.tools.left_claw.label>左爪</AEXP_Shih-Tzu.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Shih-Tzu.tools.right_claw.label>右爪</AEXP_Shih-Tzu.tools.right_claw.label>
+  <!-- EN: cute little teeth -->
+  <AEXP_Shih-Tzu.tools.cute_little_teeth.label>可爱的小牙齿</AEXP_Shih-Tzu.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <AEXP_Shih-Tzu.tools.head.label>头</AEXP_Shih-Tzu.tools.head.label>
+  
+  <!-- EN: welsh terrier -->
+  <AEXP_WelshTerrier.label>威尔士㹴</AEXP_WelshTerrier.label>
+  <!-- EN: A hunting dog, welsh terriers are perfect for small rodents, foxes and badgers. Due to their intelligence they are perfect at way-finding, always able to return home after running into the woods. -->
+  <AEXP_WelshTerrier.description>威尔士㹴，原产地为古地球英国，起源于19世纪。\n\n威尔士㹴是一种结构坚实、紧凑、笃实的小型犬，长有粗糙不平的刚毛。腿、下半身和头部呈黄褐色；背部等处为黑色（有时呈灰色）“夹克”。断尾，使其成为“正方形”狗，体长与肩高大致相等。\n\n威尔士㹴非常友好，外出时与其他人及狗能和睦相处。显示出热情和勇气。</AEXP_WelshTerrier.description>
+  <!-- EN: left claw -->
+  <AEXP_WelshTerrier.tools.left_claw.label>左爪</AEXP_WelshTerrier.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_WelshTerrier.tools.right_claw.label>右爪</AEXP_WelshTerrier.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_WelshTerrier.tools.head.label>头</AEXP_WelshTerrier.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: MO Tweaks -->
+  <zenlorMOTweaks.label>MO Tweaks (修改后须重启游戏)</zenlorMOTweaks.label>
+  <!-- EN: Generic Medieval mod patches -->
+  <zenlorMOTweaks.settings.1.text>原版(含DLC)内容修改</zenlorMOTweaks.settings.1.text>
+  <!-- EN: Move Piano technology to Medieval -->
+  <zenlorMOTweaks.settings.2.settings.0.tooltip>皇权DLC的钢琴研究调整为中世纪科技。</zenlorMOTweaks.settings.2.settings.0.tooltip>
+  <!-- EN: Medieval Overhaul Tweaks -->
+  <zenlorMOTweaks.settings.5.text>MO内容修改</zenlorMOTweaks.settings.5.text>
+  <!-- EN: recipe fixes -->
+  <zenlorMOTweaks.settings.8.settings.0.text>生产建筑配方相关选项</zenlorMOTweaks.settings.8.settings.0.text>
+  <!-- EN: Workbench Recipes -->
+  <zenlorMOTweaks.settings.8.settings.1.label>[请勿开启此选项] 配方继承：工作台</zenlorMOTweaks.settings.8.settings.1.label>
+  <!-- EN: Include all missing recipes from crafting spot in the workbench -->
+  <zenlorMOTweaks.settings.8.settings.1.tooltip>让工作台继承原版手工制作点的配方。注：1.6 MO工作台已经会自动继承原版手工制作点。</zenlorMOTweaks.settings.8.settings.1.tooltip>
+  <!-- EN: Smelter/Machining table Recipes -->
+  <zenlorMOTweaks.settings.8.settings.2.label>[请勿开启此选项] 配方继承：烹饪台</zenlorMOTweaks.settings.8.settings.2.label>
+  <!-- EN: Include all missing recipes from electric smelter and Machining table to the Anvil -->
+  <zenlorMOTweaks.settings.8.settings.2.tooltip>让烹饪台继承原版炉灶（电力）的配方。注：1.6 MO已经删除烹饪台，此补丁已失效，请勿启用。</zenlorMOTweaks.settings.8.settings.2.tooltip>
+  <!-- EN: Add gems to the mineshaft recipes -->
+  <zenlorMOTweaks.settings.8.settings.5.label>增加配方：开采宝石 [注]</zenlorMOTweaks.settings.8.settings.5.label>
+  <!-- EN: The original ancient inhabitants of the dark forest remain asleep -->
+  <zenlorMOTweaks.settings.8.settings.5.tooltip>为矿井添加开采宝石配方。(注：如果与Medieval Overhaul Patches同时启用，会出现两套一样的配方，除非有要调整工作量，否则建议关闭此选项)</zenlorMOTweaks.settings.8.settings.5.tooltip>
+  <!-- EN: Work needed to mine gems: {mot-mineshaft-gems-work} (default 1600) -->
+  <zenlorMOTweaks.settings.8.settings.6.label>开采宝石所需的工作量：（默认值为 1600）</zenlorMOTweaks.settings.8.settings.6.label>
+  <!-- EN: Dark forest -->
+  <zenlorMOTweaks.settings.8.settings.8.text>黑暗森林相关选项(不可同时启用)</zenlorMOTweaks.settings.8.settings.8.text>
+  <!-- EN: Peaceful Dark forest -->
+  <zenlorMOTweaks.settings.8.settings.9.label>平静的黑暗森林</zenlorMOTweaks.settings.8.settings.9.label>
+  <!-- EN: The original ancient inhabitants of the dark forest remain asleep -->
+  <zenlorMOTweaks.settings.8.settings.9.tooltip>砍伐巨型树木后不会出现树灵（由于出现率不能为零，因此仍会有0.001%的概率）。注：如有使用Medieval Overhaul Patches，建议改用该模组选项控制。请确保此选项为禁用状态。</zenlorMOTweaks.settings.8.settings.9.tooltip>
+  <!-- EN: Harder Dark forest -->
+  <zenlorMOTweaks.settings.8.settings.10.label>危险的黑暗森林</zenlorMOTweaks.settings.8.settings.10.label>
+  <!-- EN: Increase the spawn rate of Dark forest ancient inhabitants -->
+  <zenlorMOTweaks.settings.8.settings.10.tooltip>砍伐巨型树木后出现树灵的概率提高至25%。注：如有使用Medieval Overhaul Patches，建议改用该模组选项控制。请确保此选项为禁用状态。</zenlorMOTweaks.settings.8.settings.10.tooltip>
+  <!-- EN: generic patches -->
+  <zenlorMOTweaks.settings.8.settings.12.text>通用自动补丁选项</zenlorMOTweaks.settings.8.settings.12.text>
+  <!-- EN: Dangerous patches -->
+  <zenlorMOTweaks.settings.8.settings.13.label>零件需求替换 [注]</zenlorMOTweaks.settings.8.settings.13.label>
+  <!-- EN: Run a dangerous destructive patch to replace industrial and spacer components in recipes. Use with care! -->
+  <zenlorMOTweaks.settings.8.settings.13.tooltip>尝试将所有物品制造所需的零件和高级零件修改为使用中世纪的「基础零件」。会侦测所有加载的物品的costList并执行替换，请小心使用！注：MO本体已经有相同功能的补丁，如有需要请择一使用。</zenlorMOTweaks.settings.8.settings.13.tooltip>
+  <!-- EN: Fix wood in all scenarios -->
+  <zenlorMOTweaks.settings.8.settings.14.label>开局脚本木头替换</zenlorMOTweaks.settings.8.settings.14.label>
+  <!-- EN: Try to fix all custom and modded scenarios replacing wood planks with raw wood -->
+  <zenlorMOTweaks.settings.8.settings.14.tooltip>尝试将所有脚本开局物资的木头替换为MO原木。</zenlorMOTweaks.settings.8.settings.14.tooltip>
+  <!-- EN: Lag-free lamps and torches -->
+  <zenlorMOTweaks.settings.8.settings.15.label>移除火把等燃料需求</zenlorMOTweaks.settings.8.settings.15.label>
+  <!-- EN: Remove the fuel comp from most Medieval Overhaul torches and lamps -->
+  <zenlorMOTweaks.settings.8.settings.15.tooltip>移除MO和ↁ House Sanguin内的火把、挂墙火把/油灯、路灯、蜡烛、烛台等的燃料需求，可提高游戏运作效能。</zenlorMOTweaks.settings.8.settings.15.tooltip>
+  <!-- EN: Mighty Rox produces Milk -->
+  <zenlorMOTweaks.settings.8.settings.16.label>[请勿开启此选项] 罗克斯牛可产鲜奶</zenlorMOTweaks.settings.8.settings.16.label>
+  <!-- EN: The ancient mighty Rox now produces milk at slow rate. -->
+  <zenlorMOTweaks.settings.8.settings.16.tooltip>让罗克斯牛也能生产鲜奶，产量：30/2天。（注：请勿开启此选项，因MO更新后已经改成启用/未启用Medieval Overhaul: House Roxmont时产罗克斯鲜奶/鲜奶）</zenlorMOTweaks.settings.8.settings.16.tooltip>
+  <!-- EN: Medieval Overhaul Integrations -->
+  <zenlorMOTweaks.settings.11.text>其他模组适配</zenlorMOTweaks.settings.11.text>
+  <!-- EN: Adobe Abode -->
+  <zenlorMOTweaks.settings.14.settings.0.label>Adobe Abode</zenlorMOTweaks.settings.14.settings.0.label>
+  <zenlorMOTweaks.settings.14.settings.0.tooltip>模组内建筑材料适配。</zenlorMOTweaks.settings.14.settings.0.tooltip>
+  <!-- EN: Cash Register -->
+  <zenlorMOTweaks.settings.14.settings.1.label>Cash Register</zenlorMOTweaks.settings.14.settings.1.label>
+  <!-- EN: Change Components requirement into Basic medieval Components -->
+  <zenlorMOTweaks.settings.14.settings.1.tooltip>收银机建造材料适配。</zenlorMOTweaks.settings.14.settings.1.tooltip>
+  <!-- EN: Fortifications - Medieval - Material -->
+  <zenlorMOTweaks.settings.14.settings.2.label>Fortifications - Medieval - Material</zenlorMOTweaks.settings.14.settings.2.label>
+  <!-- EN: Masonry costs Iron Ingots instead of Steel -->
+  <zenlorMOTweaks.settings.14.settings.2.tooltip>石匠工作台建造材料适配。</zenlorMOTweaks.settings.14.settings.2.tooltip>
+  <!-- EN: Mend And Recycle -->
+  <zenlorMOTweaks.settings.14.settings.3.label>Mend And Recycle</zenlorMOTweaks.settings.14.settings.3.label>
+  <!-- EN: Research is moved to the medieval ages and requires Complex Clothing and Smithing. Mending table requires Basic Medieval Components. -->
+  <zenlorMOTweaks.settings.14.settings.3.tooltip>研究项目调整为中世纪科技（需要前置：复杂衣物、锻造）；修补桌改用MO基础零件建造。</zenlorMOTweaks.settings.14.settings.3.tooltip>
+  <!-- EN: More Linkables -->
+  <zenlorMOTweaks.settings.14.settings.4.label>More Linkables</zenlorMOTweaks.settings.14.settings.4.label>
+  <!-- EN: Medieval production facilities are affected by linkables added by More Linkables -->
+  <zenlorMOTweaks.settings.14.settings.4.tooltip>让MO生产建筑（烹饪台、屠宰砧、烤炉、炙烤架和石磨）可以受到此模组连结建物的工作速度加成。</zenlorMOTweaks.settings.14.settings.4.tooltip>
+  <!-- EN: Packed Sand and Dirt -->
+  <zenlorMOTweaks.settings.14.settings.5.label>Packed Sand and Dirt</zenlorMOTweaks.settings.14.settings.5.label>
+  <!-- EN: Packed sand and dirt for terrains added by Alpha Biomes and Medieval Overhaul -->
+  <zenlorMOTweaks.settings.14.settings.5.tooltip>可以压平Alpha Biomes的繁花土地和MO的地形？（注：没用过此模组，附原文供参／Packed sand and dirt for terrains added by Alpha Biomes and Medieval Overhaul）。</zenlorMOTweaks.settings.14.settings.5.tooltip>
+  <!-- EN: [SYR] Trait Values -->
+  <zenlorMOTweaks.settings.14.settings.6.label>[SYR] Trait Values</zenlorMOTweaks.settings.14.settings.6.label>
+  <!-- EN: Add points to traits added by Medieval Overhaul -->
+  <zenlorMOTweaks.settings.14.settings.6.tooltip>让MO的「战士」和「老将」特性可兼容此模组。</zenlorMOTweaks.settings.14.settings.6.tooltip>
+  <!-- EN: Simple Landfill -->
+  <zenlorMOTweaks.settings.14.settings.7.label>Simple Landfill</zenlorMOTweaks.settings.14.settings.7.label>
+  <!-- EN: Move research for simple landfill to Neolithic and Medieval instead of Industrial -->
+  <zenlorMOTweaks.settings.14.settings.7.tooltip>Simple Landfill模组内的研究项目调整为新石器/中世纪等级。</zenlorMOTweaks.settings.14.settings.7.tooltip>
+  <!-- EN: Move Windows research to Medieval, changed recipes to using Iron Ingots and Steel Ingots -->
+  <zenlorMOTweaks.settings.14.settings.8.tooltip>Windows模组内的研究项目调整为中世纪等级；建造材料适配。</zenlorMOTweaks.settings.14.settings.8.tooltip>
+  <!-- EN: Adaptive Primitive Storage -->
+  <zenlorMOTweaks.settings.14.settings.9.label>Adaptive Primitive Storage</zenlorMOTweaks.settings.14.settings.9.label>
+  <!-- EN: Enable recipe changes for some Adaptive Primitive Storage storage solutions. Storage Pit, Log Piles. -->
+  <zenlorMOTweaks.settings.14.settings.9.tooltip>模组内建筑所需材料适配。</zenlorMOTweaks.settings.14.settings.9.tooltip>
+  <!-- EN: Vanilla Expanded -->
+  <zenlorMOTweaks.settings.16.settings.0.text>Vanilla Expanded</zenlorMOTweaks.settings.16.settings.0.text>
+  <!-- EN: Vanilla Expanded: Classical -->
+  <zenlorMOTweaks.settings.16.settings.1.label>Vanilla Expanded: Classical</zenlorMOTweaks.settings.16.settings.1.label>
+  <!-- EN: Vanilla Expanded: Classical integration Patches. Wood log, Iron ingots replacements and Bronze recipe using Iron Ore. -->
+  <zenlorMOTweaks.settings.16.settings.1.tooltip>模组内建筑和物品所需材料适配。</zenlorMOTweaks.settings.16.settings.1.tooltip>
+  <!-- EN: Vanilla Expanded: Tribals -->
+  <zenlorMOTweaks.settings.16.settings.3.text>Vanilla Expanded: Tribals</zenlorMOTweaks.settings.16.settings.3.text>
+  <!-- EN: basics -->
+  <zenlorMOTweaks.settings.16.settings.4.label>材料和研究适配</zenlorMOTweaks.settings.16.settings.4.label>
+  <zenlorMOTweaks.settings.16.settings.4.tooltip>模组内建筑和物品所需材料适配；为MO研究项目增加VFE:T研究前置。</zenlorMOTweaks.settings.16.settings.4.tooltip>
+  <!-- EN: research tree -->
+  <zenlorMOTweaks.settings.16.settings.5.label>全局研究适配</zenlorMOTweaks.settings.16.settings.5.label>
+  <zenlorMOTweaks.settings.16.settings.5.tooltip>将所有无前置的研究项目锁定在「文明」技术后。</zenlorMOTweaks.settings.16.settings.5.tooltip>
+  <!-- EN: Adaptive Primitive Storage -->
+  <zenlorMOTweaks.settings.16.settings.6.label>Adaptive Primitive Storage</zenlorMOTweaks.settings.16.settings.6.label>
+  <!-- EN: Add some research prerequisites to storage solutions. -->
+  <zenlorMOTweaks.settings.16.settings.6.tooltip>为模组内的建筑增加MO研究前置。</zenlorMOTweaks.settings.16.settings.6.tooltip>
+  <!-- EN: Dubs Bad Hygiene -->
+  <zenlorMOTweaks.settings.18.settings.0.text>Dubs Bad Hygiene</zenlorMOTweaks.settings.18.settings.0.text>
+  <!-- EN: Medieval Irrigation -->
+  <zenlorMOTweaks.settings.18.settings.1.label>中世纪灌溉</zenlorMOTweaks.settings.18.settings.1.label>
+  <zenlorMOTweaks.settings.18.settings.1.tooltip>将灌溉研究调整为中世纪等级。</zenlorMOTweaks.settings.18.settings.1.tooltip>
+  <!-- EN: Medieval Central Heating -->
+  <zenlorMOTweaks.settings.18.settings.2.label>中世纪中央供暖</zenlorMOTweaks.settings.18.settings.2.label>
+  <zenlorMOTweaks.settings.18.settings.2.tooltip>中央供暖研究适配；相关建造材料适配。</zenlorMOTweaks.settings.18.settings.2.tooltip>
+  <!-- EN: Medieval Central Heating -->
+  <zenlorMOTweaks.settings.18.settings.3.label>中世纪中央供暖（同上）</zenlorMOTweaks.settings.18.settings.3.label>
+  <zenlorMOTweaks.settings.18.settings.3.tooltip>（注：本选项与前一选项控制同一个补丁开关，建议同步启用/禁用，以免出问题）</zenlorMOTweaks.settings.18.settings.3.tooltip>
+  <!-- EN: Medieval Recipes -->
+  <zenlorMOTweaks.settings.18.settings.4.label>建材适配</zenlorMOTweaks.settings.18.settings.4.label>
+  <!-- EN: Change Steel to Iron Ingots, Components to Basic medieval Components -->
+  <zenlorMOTweaks.settings.18.settings.4.tooltip>模组内各项建筑改为使用MO铁锭、基础零件建造。（不影响中央供暖相关建筑）</zenlorMOTweaks.settings.18.settings.4.tooltip>
+  <!-- EN: GarlicSauce's Advanced Deep Drill (continued) -->
+  <zenlorMOTweaks.settings.20.settings.0.text>GarlicSauce's Advanced Deep Drill (continued)</zenlorMOTweaks.settings.20.settings.0.text>
+  <!-- EN: Coal and Gems -->
+  <zenlorMOTweaks.settings.20.settings.1.label>增加配方：煤炭、盐和宝石</zenlorMOTweaks.settings.20.settings.1.label>
+  <!-- EN: GarlicSauce's Advanced Deep Drill (Continued) integration with new recipes for Gems and Coal. -->
+  <zenlorMOTweaks.settings.20.settings.1.tooltip>为GarlicSauce's Advanced Deep Drill (Continued)添加煤炭、盐和宝石深钻配方。</zenlorMOTweaks.settings.20.settings.1.tooltip>
+  <!-- EN: Silver, Gold and Iron ore -->
+  <zenlorMOTweaks.settings.20.settings.2.label>增加配方：银、黄金和铁矿石</zenlorMOTweaks.settings.20.settings.2.label>
+  <!-- EN: GarlicSauce's Advanced Deep Drill (Continued) integration with new recipes for Silver Ore, Gold Ore and Iron Ore instead of finished ingots. -->
+  <zenlorMOTweaks.settings.20.settings.2.tooltip>修正GarlicSauce's Advanced Deep Drill (Continued)深钻将获得银、黄金和铁矿石而非成品的金属锭。</zenlorMOTweaks.settings.20.settings.2.tooltip>
+  
+</LanguageData>

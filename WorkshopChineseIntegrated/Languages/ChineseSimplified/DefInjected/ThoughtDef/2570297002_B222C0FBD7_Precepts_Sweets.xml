@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate chocolate (craved) -->
+  <VCE_AteChocolate_Craved.stages.ate_chocolate_craved.label>吃了巧克力（渴望）</VCE_AteChocolate_Craved.stages.ate_chocolate_craved.label>
+  <!-- EN: Chocolate IS love. -->
+  <VCE_AteChocolate_Craved.stages.ate_chocolate_craved.description>丝滑的巧克力中饱含着浓浓的爱意。</VCE_AteChocolate_Craved.stages.ate_chocolate_craved.description>
+  
+  <!-- EN: ate fine dessert (craved) -->
+  <VCE_AteFineDessert_Craved.stages.ate_fine_dessert_craved.label>吃了精致甜点（渴望）</VCE_AteFineDessert_Craved.stages.ate_fine_dessert_craved.label>
+  <!-- EN: That dessert was really good! I want more! -->
+  <VCE_AteFineDessert_Craved.stages.ate_fine_dessert_craved.description>那份甜点真不错！下次还想吃！</VCE_AteFineDessert_Craved.stages.ate_fine_dessert_craved.description>
+  
+  <!-- EN: ate gourmet dessert (craved) -->
+  <VCE_AteGourmetDessert_Craved.stages.ate_gourmet_dessert_craved.label>吃了豪华甜点（渴望）</VCE_AteGourmetDessert_Craved.stages.ate_gourmet_dessert_craved.label>
+  <!-- EN: Oh my God! My palate had never experienced such an explosion of orgasmic tastes. That was pure food porn. I need more! -->
+  <VCE_AteGourmetDessert_Craved.stages.ate_gourmet_dessert_craved.description>我了个大草！前所未有的惊艳味道让我的舌头高潮了！还要还要还要！</VCE_AteGourmetDessert_Craved.stages.ate_gourmet_dessert_craved.description>
+  
+  <!-- EN: ate lavish dessert (craved) -->
+  <VCE_AteLavishDessert_Craved.stages.ate_lavish_dessert_craved.label>吃了奢侈甜点（渴望）</VCE_AteLavishDessert_Craved.stages.ate_lavish_dessert_craved.label>
+  <!-- EN: That dessert was unbelievably good, I'm so eager to eat more of it! -->
+  <VCE_AteLavishDessert_Craved.stages.ate_lavish_dessert_craved.description>那份甜点的味道太好了，总觉得吃不够！</VCE_AteLavishDessert_Craved.stages.ate_lavish_dessert_craved.description>
+  
+  <!-- EN: ate simple dessert (craved) -->
+  <VCE_AteSimpleDessert_Craved.stages.ate_simple_dessert_craved.label>吃了简单甜点（渴望）</VCE_AteSimpleDessert_Craved.stages.ate_simple_dessert_craved.label>
+  <!-- EN: That dessert was very simple, but certainly tasty. -->
+  <VCE_AteSimpleDessert_Craved.stages.ate_simple_dessert_craved.description>那份甜点虽然简单，但味道还不错。</VCE_AteSimpleDessert_Craved.stages.ate_simple_dessert_craved.description>
+  
+</LanguageData>

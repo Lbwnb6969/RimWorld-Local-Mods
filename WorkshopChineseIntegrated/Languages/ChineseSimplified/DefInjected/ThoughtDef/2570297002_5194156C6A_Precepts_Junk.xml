@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no junk -->
+  <VME_Junk_Beautiful.stages.no_junk.label>没有远古残骸</VME_Junk_Beautiful.stages.no_junk.label>
+  <!-- EN: It has been too long since I’ve seen junk. -->
+  <VME_Junk_Beautiful.stages.no_junk.description>我已经很久没看到那些远古残骸了。</VME_Junk_Beautiful.stages.no_junk.description>
+  <!-- EN: few pieces of ancient junk (1 nearby) -->
+  <VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.label>极少的远古残骸（1个）</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.label>
+  <!-- EN: This area is way too sparse, I miss seeing the junk. -->
+  <VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.description>这里的远古残骸太稀少了，我几乎看不到它们。</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.description>
+  <!-- EN: few pieces of ancient junk (2 nearby) -->
+  <VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.label>极少的远古残骸（2个）</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.label>
+  <!-- EN: This area has very few relics of ancient technology. -->
+  <VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.description>这里几乎没有承载了远古技术的遗物。</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.description>
+  <!-- EN: few pieces of ancient junk (3 nearby) -->
+  <VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.label>极少的远古残骸（3个）</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.label>
+  <!-- EN: We need to gather more pieces of ancient junk. -->
+  <VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.description>我们需要收集更多的远古残骸。</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.description>
+  <!-- EN: few pieces of ancient junk (4 nearby) -->
+  <VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.label>极少的远古残骸（4个）</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.label>
+  <!-- EN: We have too few pieces of ancient junk lying around. -->
+  <VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.description>我们周围的远古残骸太少了。</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.description>
+  <!-- EN: very little junk (5 nearby) -->
+  <VME_Junk_Beautiful.stages.very_little_junk_5_nearby.label>较少的远古残骸（5个）</VME_Junk_Beautiful.stages.very_little_junk_5_nearby.label>
+  <!-- EN: We should gather at least a few more pieces. Our junkyard is lacking. -->
+  <VME_Junk_Beautiful.stages.very_little_junk_5_nearby.description>我们至少还要再收集一些远古残骸。我们的残骸场需要继续扩张。</VME_Junk_Beautiful.stages.very_little_junk_5_nearby.description>
+  <!-- EN: small junk -->
+  <VME_Junk_Beautiful.stages.small_junk.label>少量的远古残骸</VME_Junk_Beautiful.stages.small_junk.label>
+  <!-- EN: I recently saw a small pile of junk. -->
+  <VME_Junk_Beautiful.stages.small_junk.description>我最近看到了一小堆远古残骸。</VME_Junk_Beautiful.stages.small_junk.description>
+  <!-- EN: saw junk -->
+  <VME_Junk_Beautiful.stages.saw_junk.label>看到了远古残骸</VME_Junk_Beautiful.stages.saw_junk.label>
+  <!-- EN: I recently saw junk. -->
+  <VME_Junk_Beautiful.stages.saw_junk.description>我最近看到了一堆远古残骸。</VME_Junk_Beautiful.stages.saw_junk.description>
+  <!-- EN: amazing junk -->
+  <VME_Junk_Beautiful.stages.amazing_junk.label>美妙的远古残骸</VME_Junk_Beautiful.stages.amazing_junk.label>
+  <!-- EN: I am surrounded by junk. -->
+  <VME_Junk_Beautiful.stages.amazing_junk.description>我正被美妙的远古残骸着！</VME_Junk_Beautiful.stages.amazing_junk.description>
+  <!-- EN: beautiful junk -->
+  <VME_Junk_Beautiful.stages.beautiful_junk.label>艺术般的远古残骸</VME_Junk_Beautiful.stages.beautiful_junk.label>
+  <!-- EN: I am surrounded by a junkyard and I love it. -->
+  <VME_Junk_Beautiful.stages.beautiful_junk.description>我正被一座巨大的残骸场环绕着！我爱死它了！</VME_Junk_Beautiful.stages.beautiful_junk.description>
+  
+  <!-- EN: no junk -->
+  <VME_Junk_Preferred.stages.no_junk.label>没有远古残骸</VME_Junk_Preferred.stages.no_junk.label>
+  <!-- EN: I'd prefer if the colony had some examples of ancient junk. -->
+  <VME_Junk_Preferred.stages.no_junk.description>我好希望殖民地里能有一些远古残骸。</VME_Junk_Preferred.stages.no_junk.description>
+  <!-- EN: few pieces of ancient junk (1 nearby) -->
+  <VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.label>极少的远古残骸（1个）</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.label>
+  <!-- EN: This area is way too sparse, we could learn a lot from ancient technology. -->
+  <VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.description>这里的远古残骸太稀少了，我们可以从中学到许多远古技术的。</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.description>
+  <!-- EN: few pieces of ancient junk (2 nearby) -->
+  <VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.label>极少的远古残骸（2个）</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.label>
+  <!-- EN: This area has very few relics of ancient technology. -->
+  <VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.description>这里几乎没有承载了远古技术的遗物。</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.description>
+  <!-- EN: few pieces of ancient junk (3 nearby) -->
+  <VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.label>极少的远古残骸（3个）</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.label>
+  <!-- EN: We need to gather more pieces of ancient junk. -->
+  <VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.description>我们需要收集更多的远古残骸。</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.description>
+  <!-- EN: few pieces of ancient junk (4 nearby) -->
+  <VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.label>极少的远古残骸（4个）</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.label>
+  <!-- EN: We have too few pieces of ancient junk lying around. -->
+  <VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.description>我们周围的远古残骸太少了。</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.description>
+  <!-- EN: very little junk (5 nearby) -->
+  <VME_Junk_Preferred.stages.very_little_junk_5_nearby.label>较少的远古残骸（5个）</VME_Junk_Preferred.stages.very_little_junk_5_nearby.label>
+  <!-- EN: We should gather at least a few more pieces. We can learn a lot from ancient technology. -->
+  <VME_Junk_Preferred.stages.very_little_junk_5_nearby.description>我们至少还要再收集一些远古残骸。我们可以从中学到更多的远古技术。</VME_Junk_Preferred.stages.very_little_junk_5_nearby.description>
+  <!-- EN: small junk -->
+  <VME_Junk_Preferred.stages.small_junk.label>少量的远古残骸</VME_Junk_Preferred.stages.small_junk.label>
+  <!-- EN: I recently saw a small pile of junk. -->
+  <VME_Junk_Preferred.stages.small_junk.description>我最近看到了一小堆远古残骸。</VME_Junk_Preferred.stages.small_junk.description>
+  <!-- EN: saw junk -->
+  <VME_Junk_Preferred.stages.saw_junk.label>看到了远古残骸</VME_Junk_Preferred.stages.saw_junk.label>
+  <!-- EN: I recently saw junk. -->
+  <VME_Junk_Preferred.stages.saw_junk.description>我最近看到了一堆远古残骸。</VME_Junk_Preferred.stages.saw_junk.description>
+  <!-- EN: plenty of junk -->
+  <VME_Junk_Preferred.stages.plenty_of_junk.label>许多的远古残骸</VME_Junk_Preferred.stages.plenty_of_junk.label>
+  <!-- EN: I am surrounded by junk. -->
+  <VME_Junk_Preferred.stages.plenty_of_junk.description>我正被许多远古残骸着！</VME_Junk_Preferred.stages.plenty_of_junk.description>
+  <!-- EN: lots of junk -->
+  <VME_Junk_Preferred.stages.lots_of_junk.label>大量的远古残骸</VME_Junk_Preferred.stages.lots_of_junk.label>
+  <!-- EN: I am surrounded by a junkyard. I find these examples of ancient technology to be fascinating. -->
+  <VME_Junk_Preferred.stages.lots_of_junk.description>我正被一座巨大的残骸场环绕着！这些古代技术的结晶真是太引人入胜了！</VME_Junk_Preferred.stages.lots_of_junk.description>
+  
+</LanguageData>

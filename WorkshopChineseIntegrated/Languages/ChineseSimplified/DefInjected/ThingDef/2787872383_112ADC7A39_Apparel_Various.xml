@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centurion armor -->
+  <VFEC_Apparel_CenturionArmor.label>百夫长军团甲</VFEC_Apparel_CenturionArmor.label>
+  <!-- EN: A carefully designed and decorated set of armor made from a series of reinforced metal or wooden sheets, forming somewhat of a carapace without sacrificing too much dexterity. Such armor is known to embolden one's mental fortitude. -->
+  <VFEC_Apparel_CenturionArmor.description>精心设计的盔甲，用一连串的金属或木头板片拼接而成，让它十分坚硬却又不影响行动。这种盔甲上的装饰会激励穿戴者以及周围的人忍受痛苦，更加努力地作战。</VFEC_Apparel_CenturionArmor.description>
+  <!-- EN: Toggle buff -->
+  <VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.label>开关激励效果</VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.label>
+  <!-- EN: Toggle buffing nearby allies, turn off when not in combat if performance is a concern -->
+  <VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.description>开关对周围友军的激励效果，非战斗状态下关闭可以节省电脑性能。</VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.description>
+  
+  <!-- EN: legionary armor -->
+  <VFEC_Apparel_LegionnaireArmor.label>军团甲</VFEC_Apparel_LegionnaireArmor.label>
+  <!-- EN: A carefully designed set of armor made from a series of reinforced metal or wooden sheets, forming somewhat of a carapace without sacrificing too much dexterity. Such armor is known to embolden one's mental fortitude. -->
+  <VFEC_Apparel_LegionnaireArmor.description>精心设计的盔甲，用一连串的金属或木头板片拼接而成，让它十分坚硬却又不影响行动。</VFEC_Apparel_LegionnaireArmor.description>
+  
+  <!-- EN: toga -->
+  <VFEC_Toga.label>托加长袍</VFEC_Toga.label>
+  <!-- EN: A semicircular, open-bottomed garment designed to cover the entire body and shoulders. While similar to tribal clothing the toga is generally made with a more delicate touch and presents itself as dignified everyday wear. -->
+  <VFEC_Toga.description>一种半圆形，不封底的长袍，能覆盖整个身体和肩膀。虽然看上去和部落民的衣物差不多，但托加长袍的工艺和材质更加优秀，让它更适合成为正式的日常穿着。</VFEC_Toga.description>
+  
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name(p=0.3)->[aspenForest_adjective] [narrative_name]</li>
+    <li>r_name(p=0.2)->the [narrative_name] [terrain_word]</li>
+    <li>aspenForest_adjective(p=2)->golden</li>
+    <li>aspenForest_adjective->amber</li>
+    <li>aspenForest_adjective->quaking</li>
+    <li>aspenForest_adjective->whispering</li>
+    <li>aspenForest_adjective->misty</li>
+    <li>aspenForest_adjective->sun-dappled</li>
+    <li>aspenForest_adjective->leaflit</li>
+    <li>aspenForest_adjective->shimmering</li>
+    <li>terrain_word(p=3)->aspen forest</li>
+    <li>terrain_word(p=2)->aspenwood</li>
+    <li>terrain_word(p=2)->wood</li>
+    <li>terrain_word(p=2)->grove</li>
+    <li>terrain_word->woods</li>
+    <li>terrain_word->vale</li>
+    <li>terrain_word->glen</li>
+    <li>terrain_word->hollows</li>
+    <li>terrain_word->uplands</li>
+    <li>terrain_word->foothills</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <RG_NamerAspenForest.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[aspenForest_adjective][narrative_name]</li>
+    <li>r_name(p=0.2)->[narrative_name][terrain_word]</li>
+    <li>aspenForest_adjective(p=2)->黄金</li>
+    <li>aspenForest_adjective->琥珀</li>
+    <li>aspenForest_adjective->颤动</li>
+    <li>aspenForest_adjective->私语</li>
+    <li>aspenForest_adjective->雾霭</li>
+    <li>aspenForest_adjective->辉光</li>
+    <li>aspenForest_adjective->光叶</li>
+    <li>aspenForest_adjective->闪烁</li>
+    <li>terrain_word(p=3)->白杨林</li>
+    <li>terrain_word(p=2)->白杨林地</li>
+    <li>terrain_word(p=2)->森林</li>
+    <li>terrain_word(p=2)->树林</li>
+    <li>terrain_word->森林</li>
+    <li>terrain_word->秘谷</li>
+    <li>terrain_word->幽谷</li>
+    <li>terrain_word->洼地</li>
+    <li>terrain_word->丘陵</li>
+    <li>terrain_word->山麓</li>
+    <li>terrain_word->林地</li>
+    <li>terrain_word->灌木林</li>
+  </RG_NamerAspenForest.rulePack.rulesStrings>
+  
+</LanguageData>

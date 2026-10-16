@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Lesser Mana Potion -->
+  <Joe_LesserManaPotion.label>蓝药水(小)</Joe_LesserManaPotion.label>
+  <!-- EN: Ancient tribesfolk concocted an elixir that replenishes a modest amount of mana and significantly amplifies the arcane load dispersal for those who imbibe it. However, there is a slight risk that individuals may fall under its addictive spell.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_LesserManaPotion.description>一种古老部落酿制的法力药水，能恢复服用者少量的精神力，增加心灵熵消散率。然而，可能会导致服用者陷入成瘾，存在轻微的风险。</Joe_LesserManaPotion.description>
+  <!-- EN: Drink {0} -->
+  <Joe_LesserManaPotion.ingestible.ingestCommandString>服用{0}</Joe_LesserManaPotion.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Joe_LesserManaPotion.ingestible.ingestReportString>正在服用{0}。</Joe_LesserManaPotion.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Joe_LesserManaPotion.tools.bottle.label>瓶身</Joe_LesserManaPotion.tools.bottle.label>
+  <!-- EN: neck -->
+  <Joe_LesserManaPotion.tools.neck.label>瓶颈</Joe_LesserManaPotion.tools.neck.label>
+  
+  <!-- EN: Minor Mana Potion -->
+  <Joe_MinorManaPotion.label>蓝药水(大)</Joe_MinorManaPotion.label>
+  <!-- EN: Esteemed alchemists of the noble houses have concocted a potion that replenishes a moderate amount of mana and significantly amplifies the arcane load dispersal for those who partake. However, there is a slight risk that individuals may become ensnared by its addictive properties.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_MinorManaPotion.description>贵族炼金师改良后的蓝药水，具有更显著的精神力恢复量及心灵熵消散率增益，但成瘾概率也更高。</Joe_MinorManaPotion.description>
+  <!-- EN: Drink {0} -->
+  <Joe_MinorManaPotion.ingestible.ingestCommandString>服用{0}</Joe_MinorManaPotion.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Joe_MinorManaPotion.ingestible.ingestReportString>正在服用{0}。</Joe_MinorManaPotion.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Joe_MinorManaPotion.tools.bottle.label>瓶身</Joe_MinorManaPotion.tools.bottle.label>
+  <!-- EN: neck -->
+  <Joe_MinorManaPotion.tools.neck.label>瓶颈</Joe_MinorManaPotion.tools.neck.label>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: The hot side of the fireplace must be exposed. -->
+  <RE.MustPlaceHeaterWithFreeSpaces>壁炉的热端不能被阻塞。</RE.MustPlaceHeaterWithFreeSpaces>
+	<!-- EN: Set terrain edges -->
+  <RE.SetTerrainEdgesLabel>设置地形贴图衔接渲染</RE.SetTerrainEdgesLabel>
+	<!-- EN: Terrain rendered in this area will have custom edges. -->
+  <RE.SetTerrainEdgesDesc>设置这片区域内的地形贴图的衔接渲染方式。</RE.SetTerrainEdgesDesc>
+	<!-- EN: Reset terrain edges -->
+  <RE.ResetTerrainEdgesLabel>重设地形贴图衔接渲染</RE.ResetTerrainEdgesLabel>
+	<!-- EN: Reset custom terrain edge area. -->
+  <RE.ResetTerrainEdgesDesc>重设这片区域内的地形贴图的衔接渲染方式。</RE.ResetTerrainEdgesDesc>
+	<!-- EN: Hard -->
+  <RE.TerrainEdgeTypeHard>硬拼合</RE.TerrainEdgeTypeHard>
+	<!-- EN: Fade -->
+  <RE.TerrainEdgeTypeFade>过渡渐变</RE.TerrainEdgeTypeFade>
+	<!-- EN: Fade (rough) -->
+  <RE.TerrainEdgeTypeFadeRough>过渡渐变（粗糙）</RE.TerrainEdgeTypeFadeRough>
+	<!-- EN: Wall armor requires pre-existing wall to be constructed. -->
+  <RE.WallArmorMustBePlacedOnWall>必须放置在已有的墙体上。</RE.WallArmorMustBePlacedOnWall>
+	<!-- EN: Enable diagonal {0} -->
+  <RE.EnableDiagonal>启用{0}斜角连接贴图</RE.EnableDiagonal>
+
+</LanguageData>

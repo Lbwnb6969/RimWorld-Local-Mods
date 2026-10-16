@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lecturn -->
+
+  <DankPyon_Lecturn.label>讲台</DankPyon_Lecturn.label>
+  <DankPyon_Lecturn.description>一座简单的讲台，用于放置经文或书籍以便于阅读。</DankPyon_Lecturn.description>
+
+
+  <!-- books 
+
+  <DankPyon_Book_MilitaryBlades.label>军用刀剑原理图</DankPyon_Book_MilitaryBlades.label>
+  <DankPyon_Book_MilitaryBlades.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_MilitaryBlades</DankPyon_Book_MilitaryBlades.description>
+
+  <DankPyon_Book_NobleBlades.label>贵族刀剑原理图</DankPyon_Book_NobleBlades.label>
+  <DankPyon_Book_NobleBlades.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_NobleBlades</DankPyon_Book_NobleBlades.description>
+
+  <DankPyon_Book_MilitaryMaces.label>军用棒锤原理图</DankPyon_Book_MilitaryMaces.label>
+  <DankPyon_Book_MilitaryMaces.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_MilitaryMaces</DankPyon_Book_MilitaryMaces.description>
+
+  <DankPyon_Book_NobleMaces.label>贵族棒锤原理图</DankPyon_Book_NobleMaces.label>
+  <DankPyon_Book_NobleMaces.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_NobleMaces</DankPyon_Book_NobleMaces.description>
+
+  <DankPyon_Book_MilitaryPolearms.label>军用长柄武器原理图</DankPyon_Book_MilitaryPolearms.label>
+  <DankPyon_Book_MilitaryPolearms.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_MilitaryPolearms</DankPyon_Book_MilitaryPolearms.description>
+
+  <DankPyon_Book_NoblePolearms.label>贵族长柄武器原理图</DankPyon_Book_NoblePolearms.label>
+  <DankPyon_Book_NoblePolearms.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_NoblePolearms</DankPyon_Book_NoblePolearms.description>
+
+  <DankPyon_Book_Crossbow.label>弩原理图</DankPyon_Book_Crossbow.label>
+  <DankPyon_Book_Crossbow.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_Crossbow</DankPyon_Book_Crossbow.description>
+
+  <DankPyon_Book_HeavyCrossbow.label>强弩原理图</DankPyon_Book_HeavyCrossbow.label>
+  <DankPyon_Book_HeavyCrossbow.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_HeavyCrossbow</DankPyon_Book_HeavyCrossbow.description>
+
+  <DankPyon_Book_Steel.label>冶钢原理图</DankPyon_Book_Steel.label>
+  <DankPyon_Book_Steel.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_Steel</DankPyon_Book_Steel.description>
+
+  <DankPyon_Book_Gunpowder.label>火药制作原理图</DankPyon_Book_Gunpowder.label>
+  <DankPyon_Book_Gunpowder.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_Gunpowder</DankPyon_Book_Gunpowder.description>
+
+  <DankPyon_Book_Tar.label>焦油制作原理图</DankPyon_Book_Tar.label>
+  <DankPyon_Book_Tar.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_Tar</DankPyon_Book_Tar.description>
+
+  <DankPyon_Book_GreatBow.label>大型弓原理图</DankPyon_Book_GreatBow.label>
+  <DankPyon_Book_GreatBow.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_GreatBow</DankPyon_Book_GreatBow.description>
+
+  <DankPyon_Book_WarBow.label>战弓原理图</DankPyon_Book_WarBow.label>
+  <DankPyon_Book_WarBow.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_WarBow</DankPyon_Book_WarBow.description>
+
+  <DankPyon_Book_IntermediateCooking.label>进阶烹饪原理图</DankPyon_Book_IntermediateCooking.label>
+  <DankPyon_Book_IntermediateCooking.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_IntermediateCooking</DankPyon_Book_IntermediateCooking.description>
+
+  <DankPyon_Book_AdvancedCooking.label>高级烹饪原理图</DankPyon_Book_AdvancedCooking.label>
+  <DankPyon_Book_AdvancedCooking.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_AdvancedCooking</DankPyon_Book_AdvancedCooking.description>
+
+  <DankPyon_Book_BallistaRepeater.label>连发弩炮原理图</DankPyon_Book_BallistaRepeater.label>
+  <DankPyon_Book_BallistaRepeater.description>旧的原理图已于9/22更新后废弃，请自行使用开发者模式删除并生成新版原理图：DankPyon_Schematic_BallistaRepeater</DankPyon_Book_BallistaRepeater.description>-->
+
+</LanguageData>

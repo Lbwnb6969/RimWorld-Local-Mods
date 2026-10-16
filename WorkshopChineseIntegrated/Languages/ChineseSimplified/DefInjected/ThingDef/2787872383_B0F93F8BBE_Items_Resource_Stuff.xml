@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concrete blocks -->
+  <VFEC_BlocksConcrete.label>混凝土块</VFEC_BlocksConcrete.label>
+  <!-- EN: Sturdy, utilitarian cement blocks for crafting any sort of infrastructure. While not as durable as granite or as gorgeous as marble, it is a clear improvement over weaker materials such as slate or sandstone. -->
+  <VFEC_BlocksConcrete.description>凝固的块状水泥，非常结实，可以用来当作任何建筑的材料。虽然耐久不如花岗岩，美观不如大理石，但比起板岩和砂岩这种次等材料还是强了不少。</VFEC_BlocksConcrete.description>
+  <VFEC_BlocksConcrete.stuffProps.stuffAdjective>混凝土</VFEC_BlocksConcrete.stuffProps.stuffAdjective>
+  
+  <!-- EN: bronze -->
+  <VFEC_Bronze.label>青铜</VFEC_Bronze.label>
+  <!-- EN: A metallic alloy made from steel and trace amounts of copper found in stones. Can be used for crafting armor or furnishings when steel is in low supply. -->
+  <VFEC_Bronze.description>用钢铁和岩石内含的铜元素制作的青铜。可以用来制造武器装备，也可以用来当作钢铁储量不足时的下位替代。</VFEC_Bronze.description>
+  
+  <!-- EN: tyrian -->
+  <VFEC_Tyrian.label>皇家紫布</VFEC_Tyrian.label>
+  <!-- EN: A bolt of very beautiful and luxurious violet cloth, perfect for clothing the distinguished. -->
+  <VFEC_Tyrian.description>一卷美丽奢华的紫色布料，是衣物的上等材料。</VFEC_Tyrian.description>
+  
+</LanguageData>

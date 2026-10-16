@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crane egg (fert.) -->
+  <VAERoy_EggCraneFertilized.label>鹤蛋（已受精）</VAERoy_EggCraneFertilized.label>
+  <!-- EN: A fertilized crane egg. If all goes well, it should hatch into a baby crane. It can be eaten raw, but it's much better cooked. -->
+  <VAERoy_EggCraneFertilized.description>已受精的鹤蛋。如果一切顺利应该可以孵化出鹤仔。可以生吃，但是最好烹饪后食用。</VAERoy_EggCraneFertilized.description>
+  
+  <!-- EN: crane egg (unfert.) -->
+  <VAERoy_EggCraneUnfertilized.label>鹤蛋（未受精）</VAERoy_EggCraneUnfertilized.label>
+  <!-- EN: An unfertilized crane egg. It can be eaten raw, but it's much, much better cooked. -->
+  <VAERoy_EggCraneUnfertilized.description>未受精的鹤蛋。可以生吃，但是最好烹饪后食用。</VAERoy_EggCraneUnfertilized.description>
+  
+  <!-- EN: megachicken egg (fert.) -->
+  <VAERoy_EggMegaChickenFertilized.label>巨皇鸡蛋（已受精）</VAERoy_EggMegaChickenFertilized.label>
+  <!-- EN: A fertilized megachicken egg. If all goes well, it should hatch into a megachicken. It can be eaten raw, but it's much better cooked. -->
+  <VAERoy_EggMegaChickenFertilized.description>已受精的巨皇鸡蛋。如果一切顺利应该可以孵化出巨皇鸡仔。可以生吃，但是最好烹饪后食用。</VAERoy_EggMegaChickenFertilized.description>
+  
+  <!-- EN: megachicken egg (unfert.) -->
+  <VAERoy_EggMegaChickenUnfertilized.label>巨皇鸡蛋（未受精）</VAERoy_EggMegaChickenUnfertilized.label>
+  <!-- EN: An unfertilized megachicken egg. It can be eaten raw, but it's much, much better cooked. -->
+  <VAERoy_EggMegaChickenUnfertilized.description>未受精的巨皇鸡蛋。可以生吃，但是最好烹饪后食用。</VAERoy_EggMegaChickenUnfertilized.description>
+  
+  <!-- EN: pheasant egg (fert.) -->
+  <VAERoy_EggPheasantFertilized.label>雉鸡蛋（已受精）</VAERoy_EggPheasantFertilized.label>
+  <!-- EN: A fertilized pheasant egg. If all goes well, it should hatch into a peacock. It can be eaten raw, but it's much better cooked. -->
+  <VAERoy_EggPheasantFertilized.description>已受精的雉鸡蛋。如果一切顺利应该可以孵化出雉鸡仔。可以生吃，但是最好烹饪后食用。</VAERoy_EggPheasantFertilized.description>
+  
+  <!-- EN: pheasant egg (unfert.) -->
+  <VAERoy_EggPheasantUnfertilized.label>雉鸡蛋（未受精）</VAERoy_EggPheasantUnfertilized.label>
+  <!-- EN: An unfertilized pheasant egg. It can be eaten raw, but it's much, much better cooked. -->
+  <VAERoy_EggPheasantUnfertilized.description>未受精的雉鸡蛋。可以生吃，但是最好烹饪后食用。</VAERoy_EggPheasantUnfertilized.description>
+  
+</LanguageData>

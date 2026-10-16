@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psyker -->
+  <BEWH_Psyker_Horrible.stages.psyker.label>身为灵能者</BEWH_Psyker_Horrible.stages.psyker.label>
+  <!-- EN: Being a psyker is a curse laid upon me. -->
+  <BEWH_Psyker_Horrible.stages.psyker.description>灵能者这个身份对我来说是我永远无法逃脱的诅咒。</BEWH_Psyker_Horrible.stages.psyker.description>
+  
+  <!-- EN: psyker -->
+  <BEWH_Psyker_Horrible_Social.stages.psyker.label>灵能者</BEWH_Psyker_Horrible_Social.stages.psyker.label>
+  
+  <!-- EN: psyker -->
+  <BEWH_Psyker_Respected.stages.psyker.label>身为灵能者</BEWH_Psyker_Respected.stages.psyker.label>
+  <!-- EN: Being a psyker is a boon. -->
+  <BEWH_Psyker_Respected.stages.psyker.description>身为一名灵能者，我以此为荣。</BEWH_Psyker_Respected.stages.psyker.description>
+  
+  <!-- EN: psyker -->
+  <BEWH_Psyker_Respected_Social.stages.psyker.label>灵能者</BEWH_Psyker_Respected_Social.stages.psyker.label>
+  
+</LanguageData>

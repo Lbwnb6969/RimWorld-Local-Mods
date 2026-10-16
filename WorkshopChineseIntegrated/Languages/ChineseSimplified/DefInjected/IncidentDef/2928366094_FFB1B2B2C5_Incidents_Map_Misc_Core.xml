@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dust devils -->
+  <RG_DevilDusts.label>尘旋风</RG_DevilDusts.label>
+  <!-- EN: Dust devils -->
+  <RG_DevilDusts.letterLabel>尘旋风</RG_DevilDusts.letterLabel>
+  <!-- EN: A group of strong, well-formed, and relatively short-lived whirlwinds have formed around the map. They will damage any animals and people who wander into it. -->
+  <RG_DevilDusts.letterText>附近形成了一群强大、颇具规模但持续时间较为短暂的尘旋风。任何被卷入其中的动物和人类都会受到伤害。</RG_DevilDusts.letterText>
+  
+</LanguageData>

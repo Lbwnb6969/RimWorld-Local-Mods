@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] refused.</li>
+  -->
+  <VFEA_InterrogationRefused.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]拒不回答。</li>
+  </VFEA_InterrogationRefused.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] relented.</li>
+  -->
+  <VFEA_InterrogationSuccess.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]屈打成招了。</li>
+  </VFEA_InterrogationSuccess.rulePack.rulesStrings>
+  
+</LanguageData>

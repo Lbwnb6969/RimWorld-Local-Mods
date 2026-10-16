@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: foundation material -->
+  <sd_bridges_foundationmaterial.label>基石</sd_bridges_foundationmaterial.label>
+  <!-- EN: Material used to build structures on water(foundations+platforms). It can be produced at the stonecutters table or machining table out of stuff(metal,stone,wood). -->
+  <sd_bridges_foundationmaterial.description>用于在水上建造结构的材料（地基+平台）。 它可以在切石机台或加工台上用可用材料（金属，石头，木材）生产。</sd_bridges_foundationmaterial.description>
+  
+</LanguageData>

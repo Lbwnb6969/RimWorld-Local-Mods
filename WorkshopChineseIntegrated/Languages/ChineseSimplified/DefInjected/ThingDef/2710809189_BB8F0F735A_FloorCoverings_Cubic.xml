@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cubic slab (broad) -->
+  <AM_CubicSlab_Broad.label>魔方文化雕板（宽）</AM_CubicSlab_Broad.label>
+  <!-- EN: A stone bas relief of cubic imagery for decorating a floor. Contrary to other slabs, you can (and should) build these out of GOLD. -->
+  <AM_CubicSlab_Broad.description>用来装饰地板的魔方文化图案石制浅浮雕。与其他文化的雕版不同，你可以（且理应）用黄金来建造它。</AM_CubicSlab_Broad.description>
+  
+  <!-- EN: cubic slab (medium) -->
+  <AM_CubicSlab_Medium.label>魔方文化雕板</AM_CubicSlab_Medium.label>
+  <!-- EN: A stone bas relief of cubic imagery for decorating a floor. Contrary to other slabs, you can (and should) build these out of GOLD. -->
+  <AM_CubicSlab_Medium.description>用来装饰地板的魔方文化图案石制浅浮雕。与其他文化的雕版不同，你可以（且理应）用黄金来建造它。</AM_CubicSlab_Medium.description>
+  
+</LanguageData>

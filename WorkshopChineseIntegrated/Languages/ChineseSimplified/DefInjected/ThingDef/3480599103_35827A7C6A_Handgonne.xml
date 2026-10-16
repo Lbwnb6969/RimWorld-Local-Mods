@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pistol bullet -->
+  <TA_Bullet_Handgonne.label>手炮子弹</TA_Bullet_Handgonne.label>
+  
+  <!-- EN: handgonne -->
+  <TA_Handgonne.label>手炮</TA_Handgonne.label>
+  <!-- EN: . -->
+  <TA_Handgonne.description>早期火器，使用黑火药发射弹丸。</TA_Handgonne.description>
+  <!-- EN: stock -->
+  <TA_Handgonne.tools.stock.label>枪托</TA_Handgonne.tools.stock.label>
+  <!-- EN: barrel -->
+  <TA_Handgonne.tools.barrel.label>枪管</TA_Handgonne.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <TA_Handgonne.tools.muzzle.label>枪口</TA_Handgonne.tools.muzzle.label>
+  <!-- EN: handgonne -->
+  <TA_Handgonne.verbs.Verb_ShootCE.label>手炮射击</TA_Handgonne.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

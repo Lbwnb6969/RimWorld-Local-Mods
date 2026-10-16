@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cutter -->
+  <AM_HeartExtractionBehavior.roles.0.label>挖心者</AM_HeartExtractionBehavior.roles.0.label>
+  <!-- EN: sacrifice -->
+  <AM_HeartExtractionBehavior.roles.1.label>祭品</AM_HeartExtractionBehavior.roles.1.label>
+  <!-- EN: a prisoner -->
+  <AM_HeartExtractionBehavior.roles.1.missingDesc>一名囚犯</AM_HeartExtractionBehavior.roles.1.missingDesc>
+  <!-- EN: participate -->
+  <AM_HeartExtractionBehavior.spectatorGerund>参加</AM_HeartExtractionBehavior.spectatorGerund>
+  <!-- EN: Participants -->
+  <AM_HeartExtractionBehavior.spectatorsLabel>参与者</AM_HeartExtractionBehavior.spectatorsLabel>
+  <!-- EN: Prisoner is not reachable. -->
+  <AM_HeartExtractionBehavior.stages.0.failTriggers.0.desc>囚犯不可达。</AM_HeartExtractionBehavior.stages.0.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <AM_HeartExtractionBehavior.stages.0.failTriggers.1.desc>护卫睡着了</AM_HeartExtractionBehavior.stages.0.failTriggers.1.desc>
+  <!-- EN: sacrifice no longer dead -->
+  <AM_HeartExtractionBehavior.stages.3.failTriggers.0.desc>祭品被复活。</AM_HeartExtractionBehavior.stages.3.failTriggers.0.desc>
+  
+</LanguageData>

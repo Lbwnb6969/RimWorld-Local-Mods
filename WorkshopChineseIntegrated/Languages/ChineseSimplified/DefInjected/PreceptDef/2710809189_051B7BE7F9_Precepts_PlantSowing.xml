@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: inside -->
+  <AM_PlantSowing_Inside.label>室内</AM_PlantSowing_Inside.label>
+  <!-- EN: We should grow our crops safely beneath the earth, where they can thrive away from the harsh surface. -->
+  <AM_PlantSowing_Inside.description>我们应该在地下和室内安全地种植作物，让它们远离恶劣的地表环境并茁壮生长。</AM_PlantSowing_Inside.description>
+  
+</LanguageData>

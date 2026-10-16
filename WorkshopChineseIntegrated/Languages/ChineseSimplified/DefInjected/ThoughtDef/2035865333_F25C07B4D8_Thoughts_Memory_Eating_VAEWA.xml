@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate cooked toxic meat -->
+  <VAEWaste_AteToxicMeatAsIngredient.stages.ate_cooked_toxic_meat.label>吃了烹饪过的污毒肉</VAEWaste_AteToxicMeatAsIngredient.stages.ate_cooked_toxic_meat.label>
+  <!-- EN: I ate a meal cooked from toxic meat. The seasoning partly covered the taste, but it still tasted quite poisonous. -->
+  <VAEWaste_AteToxicMeatAsIngredient.stages.ate_cooked_toxic_meat.description>我吃了一些烹饪过的污毒肉。尽管调料掩盖了部分味道，但还是很难吃！</VAEWaste_AteToxicMeatAsIngredient.stages.ate_cooked_toxic_meat.description>
+  
+  <!-- EN: ate toxic meat -->
+  <VAEWaste_AteToxicMeatDirect.stages.ate_toxic_meat.label>吃了生的污毒肉</VAEWaste_AteToxicMeatDirect.stages.ate_toxic_meat.label>
+  <!-- EN: I ate some toxic meat. It was, possibly, the most disgusting thing I've ever tasted. -->
+  <VAEWaste_AteToxicMeatDirect.stages.ate_toxic_meat.description>我生吃了一些污毒肉。这肉嚼起来跟橡胶一样，真恶心！</VAEWaste_AteToxicMeatDirect.stages.ate_toxic_meat.description>
+  
+</LanguageData>

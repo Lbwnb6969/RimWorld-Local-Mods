@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adept -->
+  <VME_Fishing_Adept.label>精通</VME_Fishing_Adept.label>
+  <!-- EN: Our adoration for the water and all life within has led us to employ new and subtle techniques for catching as many fish as possible.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Adept fishermen will be able to catch additional fish from fishing zones. These fish are considered "adept catches" and provide double nutrition from other fish in the same size category. -->
+  <VME_Fishing_Adept.description>我们对江河湖海与所有的水生动物都充满了热爱，这也促使我们应用了巧妙的新技术来捕获更多的鱼儿。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 技巧高超的渔夫能在钓鱼区中钓出额外的高品质渔获。这些带有“★”记号渔获的营养值是同尺寸渔获的两倍。</VME_Fishing_Adept.description>
+  
+  <!-- EN: forbidden -->
+  <VME_Fishing_Forbidden.label>禁忌</VME_Fishing_Forbidden.label>
+  <!-- EN: Fish are animals, and as such fishing should be a banned activity. -->
+  <VME_Fishing_Forbidden.description>水中的鱼儿也是动物，我们不应该去捕获它们。</VME_Fishing_Forbidden.description>
+  
+</LanguageData>

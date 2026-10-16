@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Anatolian leopard -->
+  <BA_AnatolianLeopard.label>安纳托利亚豹</BA_AnatolianLeopard.label>
+  <!-- EN: Leopard cub -->
+  <BA_AnatolianLeopard.lifeStages.Leopard_cub.label>豹幼崽</BA_AnatolianLeopard.lifeStages.Leopard_cub.label>
+  <!-- EN: Leopard cubs -->
+  <BA_AnatolianLeopard.lifeStages.Leopard_cub.labelPlural>豹幼崽们</BA_AnatolianLeopard.lifeStages.Leopard_cub.labelPlural>
+  
+</LanguageData>

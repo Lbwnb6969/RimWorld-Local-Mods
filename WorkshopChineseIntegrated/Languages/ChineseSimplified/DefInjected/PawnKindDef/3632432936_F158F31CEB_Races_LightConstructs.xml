@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farmhand spider -->
+  <VR_Construct_Agrihand.label>园艺机</VR_Construct_Agrihand.label>
+  
+  <!-- EN: assembler -->
+  <VR_Construct_Assembler.label>装配机</VR_Construct_Assembler.label>
+  
+  <!-- EN: construct spider -->
+  <VR_Construct_Constructoid.label>建造机</VR_Construct_Constructoid.label>
+  
+  <!-- EN: transport spider -->
+  <VR_Construct_Lifter.label>搬运机</VR_Construct_Lifter.label>
+  
+  <!-- EN: mender -->
+  <VR_Construct_Mender.label>修护机</VR_Construct_Mender.label>
+  
+  <!-- EN: vanguard -->
+  <VR_Construct_Militor.label>构装体辅兵</VR_Construct_Militor.label>
+  
+  <!-- EN: vanguard (melee) -->
+  <VR_Construct_Militor_Melee.label>构装体辅兵（近战）</VR_Construct_Militor_Melee.label>
+  
+  <!-- EN: scarab -->
+  <VR_Construct_Scarab.label>圣甲虫</VR_Construct_Scarab.label>
+  <!-- EN: scarabs -->
+  <VR_Construct_Scarab.labelPlural>圣甲虫</VR_Construct_Scarab.labelPlural>
+  
+</LanguageData>

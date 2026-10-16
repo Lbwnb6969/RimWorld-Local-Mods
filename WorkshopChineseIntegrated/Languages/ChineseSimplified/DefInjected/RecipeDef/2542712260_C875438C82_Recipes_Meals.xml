@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook curry rice -->
+  <EJC_CookCurryRice.label>烹饪咖喱饭</EJC_CookCurryRice.label>
+  <!-- EN: Cook a serving of curry rice from a combination of meat and rice. -->
+  <EJC_CookCurryRice.description>将生肉和大米组合，烹饪一份咖喱饭。</EJC_CookCurryRice.description>
+  <!-- EN: Cooking curry rice. -->
+  <EJC_CookCurryRice.jobString>正在烹饪咖喱饭。</EJC_CookCurryRice.jobString>
+  
+  <!-- EN: cook curry rice x4 -->
+  <EJC_CookCurryRiceBulk.label>烹饪咖喱饭 x4</EJC_CookCurryRiceBulk.label>
+  <!-- EN: Cook 4 servings of curry rice from a combination of meat and rice. -->
+  <EJC_CookCurryRiceBulk.description>将生肉和大米组合，烹饪四份咖喱饭。</EJC_CookCurryRiceBulk.description>
+  <!-- EN: Cooking 4 curry rice.. -->
+  <EJC_CookCurryRiceBulk.jobString>正在烹饪四份咖喱饭。</EJC_CookCurryRiceBulk.jobString>
+  
+  <!-- EN: prepare instant ramen -->
+  <EJC_CookInstantRamen.label>制作速食拉面</EJC_CookInstantRamen.label>
+  <!-- EN: Prepare a packaged cup of instant ramen from a combination of meat and plant ingredients. -->
+  <EJC_CookInstantRamen.description>将生肉和素食材料组合，制作一杯包装好的速食拉面。</EJC_CookInstantRamen.description>
+  <!-- EN: Preparing instant ramen. -->
+  <EJC_CookInstantRamen.jobString>正在制作速食拉面。</EJC_CookInstantRamen.jobString>
+  
+  <!-- EN: prepare instant ramen x4 -->
+  <EJC_CookInstantRamenBulk.label>制作速食拉面 x4</EJC_CookInstantRamenBulk.label>
+  <!-- EN: Prepare 4 packaged cups of instant ramen from a combination of meat and plant ingredients. -->
+  <EJC_CookInstantRamenBulk.description>将生肉和素食材料组合，制作四杯包装好的速食拉面。</EJC_CookInstantRamenBulk.description>
+  <!-- EN: Preparing 4 instant ramen. -->
+  <EJC_CookInstantRamenBulk.jobString>正在制作四杯速食拉面。</EJC_CookInstantRamenBulk.jobString>
+  
+  <!-- EN: cook katsudon -->
+  <EJC_CookKatsudon.label>烹饪猪排饭</EJC_CookKatsudon.label>
+  <!-- EN: Cook a serving of katsudon from a combination of rice and meat. -->
+  <EJC_CookKatsudon.description>将生肉和大米组合，烹饪一份猪排饭。</EJC_CookKatsudon.description>
+  <!-- EN: Cooking katsudon. -->
+  <EJC_CookKatsudon.jobString>正在烹饪猪排饭。</EJC_CookKatsudon.jobString>
+  
+  <!-- EN: cook katsudon x4 -->
+  <EJC_CookKatsudonBulk.label>烹饪猪排饭 x4</EJC_CookKatsudonBulk.label>
+  <!-- EN: Cook 4 servings of katsudon from a combination of rice and meat. -->
+  <EJC_CookKatsudonBulk.description>将生肉和大米组合，烹饪四份猪排饭。</EJC_CookKatsudonBulk.description>
+  <!-- EN: Cooking 4 katsudon. -->
+  <EJC_CookKatsudonBulk.jobString>正在烹饪四份猪排饭。</EJC_CookKatsudonBulk.jobString>
+  
+  <!-- EN: make onigiri -->
+  <EJC_CookOnigiri.label>制作饭团</EJC_CookOnigiri.label>
+  <!-- EN: Make a serving of onigiri from rice. -->
+  <EJC_CookOnigiri.description>用大米制作一份饭团。</EJC_CookOnigiri.description>
+  <!-- EN: Making onigiri. -->
+  <EJC_CookOnigiri.jobString>正在制作饭团。</EJC_CookOnigiri.jobString>
+  
+  <!-- EN: make onigiri x4 -->
+  <EJC_CookOnigiriBulk.label>制作饭团 x4</EJC_CookOnigiriBulk.label>
+  <!-- EN: Make 4 servings of onigiri from rice. -->
+  <EJC_CookOnigiriBulk.description>用大米制作四份饭团。</EJC_CookOnigiriBulk.description>
+  <!-- EN: Making 4 onigiri. -->
+  <EJC_CookOnigiriBulk.jobString>正在制作四份饭团。</EJC_CookOnigiriBulk.jobString>
+  
+  <!-- EN: cook ramen -->
+  <EJC_CookRamen.label>烹饪日式拉面</EJC_CookRamen.label>
+  <!-- EN: Cook a serving of ramen from a combination of meat and plant ingredients. -->
+  <EJC_CookRamen.description>将生肉和素食材料组合，烹饪一份日式拉面。</EJC_CookRamen.description>
+  <!-- EN: Cooking ramen. -->
+  <EJC_CookRamen.jobString>正在烹饪日式拉面。</EJC_CookRamen.jobString>
+  
+  <!-- EN: cook ramen x4 -->
+  <EJC_CookRamenBulk.label>烹饪日式拉面 x4</EJC_CookRamenBulk.label>
+  <!-- EN: Cook 4 servings of ramen from a combination of meat and plant ingredients. -->
+  <EJC_CookRamenBulk.description>将生肉和素食材料组合，烹饪四份日式拉面。</EJC_CookRamenBulk.description>
+  <!-- EN: Cooking 4 ramen. -->
+  <EJC_CookRamenBulk.jobString>正在烹饪四份日式拉面。</EJC_CookRamenBulk.jobString>
+  
+  <!-- EN: cook tempura -->
+  <EJC_CookTempura.label>烹饪天妇罗</EJC_CookTempura.label>
+  <!-- EN: Cook a serving of tempura from a combination of meat and plant ingredients. -->
+  <EJC_CookTempura.description>将生肉和素食材料组合，烹饪一份天妇罗。</EJC_CookTempura.description>
+  <!-- EN: Cooking tempura. -->
+  <EJC_CookTempura.jobString>正在烹饪天妇罗。</EJC_CookTempura.jobString>
+  
+  <!-- EN: cook tempura x4 -->
+  <EJC_CookTempuraBulk.label>烹饪天妇罗 x4</EJC_CookTempuraBulk.label>
+  <!-- EN: Cook 4 servings of tempura from a combination of meat and plant ingredients. -->
+  <EJC_CookTempuraBulk.description>将生肉和素食材料组合，烹饪四份天妇罗。</EJC_CookTempuraBulk.description>
+  <!-- EN: Cooking 4 tempura. -->
+  <EJC_CookTempuraBulk.jobString>正在烹饪四份天妇罗。</EJC_CookTempuraBulk.jobString>
+  
+  <!-- EN: cook udon -->
+  <EJC_CookUdon.label>烹饪乌冬面</EJC_CookUdon.label>
+  <!-- EN: Cook a serving of udon from a combination of meat and plant ingredients. -->
+  <EJC_CookUdon.description>将生肉和素食材料组合，烹饪一份乌冬面。</EJC_CookUdon.description>
+  <!-- EN: Cooking udon. -->
+  <EJC_CookUdon.jobString>正在烹饪乌冬面。</EJC_CookUdon.jobString>
+  
+  <!-- EN: cook udon x4 -->
+  <EJC_CookUdonBulk.label>烹饪乌冬面 x4</EJC_CookUdonBulk.label>
+  <!-- EN: Cook 4 servings of udon from a combination of meat and plant ingredients. -->
+  <EJC_CookUdonBulk.description>将生肉和素食材料组合，烹饪四份乌冬面。</EJC_CookUdonBulk.description>
+  <!-- EN: Cooking 4 udon. -->
+  <EJC_CookUdonBulk.jobString>正在烹饪四份乌冬面。</EJC_CookUdonBulk.jobString>
+  
+  <!-- EN: cook unajuu -->
+  <EJC_CookUnajuu.label>烹饪鳗鱼饭</EJC_CookUnajuu.label>
+  <!-- EN: Cook a serving of  unajuu from a combination of meat and rice. -->
+  <EJC_CookUnajuu.description>将生肉和大米组合，烹饪一份鳗鱼饭。</EJC_CookUnajuu.description>
+  <!-- EN: Cooking unajuu. -->
+  <EJC_CookUnajuu.jobString>正在烹饪鳗鱼饭。</EJC_CookUnajuu.jobString>
+  
+  <!-- EN: cook unajuu x4 -->
+  <EJC_CookUnajuuBulk.label>烹饪鳗鱼饭 x4</EJC_CookUnajuuBulk.label>
+  <!-- EN: Cook 4 servings of unajuu from a combination of meat and rice. -->
+  <EJC_CookUnajuuBulk.description>将生肉和大米组合，烹饪一份鳗鱼饭。</EJC_CookUnajuuBulk.description>
+  <!-- EN: Cooking 4 unajuu. -->
+  <EJC_CookUnajuuBulk.jobString>正在烹饪四份鳗鱼饭。</EJC_CookUnajuuBulk.jobString>
+  
+  <!-- EN: cook yakisoba -->
+  <EJC_CookYakisoba.label>烹饪炒面</EJC_CookYakisoba.label>
+  <!-- EN: Cook a serving of yakisoba from a combination of meat and plant ingredients. -->
+  <EJC_CookYakisoba.description>将生肉和素食材料组合，烹饪一份炒面。</EJC_CookYakisoba.description>
+  <!-- EN: Cooking yakisoba. -->
+  <EJC_CookYakisoba.jobString>正在烹饪炒面。</EJC_CookYakisoba.jobString>
+  
+  <!-- EN: cook yakisoba x4 -->
+  <EJC_CookYakisobaBulk.label>烹饪炒面 x4</EJC_CookYakisobaBulk.label>
+  <!-- EN: Cook 4 servings of yakisoba from a combination of meat and plant ingredients. -->
+  <EJC_CookYakisobaBulk.description>将生肉和素食材料组合，烹饪四份炒面。</EJC_CookYakisobaBulk.description>
+  <!-- EN: Cooking 4 yakisoba. -->
+  <EJC_CookYakisobaBulk.jobString>正在烹饪四份炒面。</EJC_CookYakisobaBulk.jobString>
+  
+  <!-- EN: cook zarusoba -->
+  <EJC_CookZarusoba.label>烹饪竹笼荞麦面</EJC_CookZarusoba.label>
+  <!-- EN: Cook a serving of zarusoba from a combination of meat and plant ingredients. -->
+  <EJC_CookZarusoba.description>将生肉和素食材料组合，烹饪一份竹笼荞麦面。</EJC_CookZarusoba.description>
+  <!-- EN: Cooking zarusoba. -->
+  <EJC_CookZarusoba.jobString>正在烹饪竹笼荞麦面。</EJC_CookZarusoba.jobString>
+  
+  <!-- EN: cook zarusoba x4 -->
+  <EJC_CookZarusobaBulk.label>烹饪竹笼荞麦面 x4</EJC_CookZarusobaBulk.label>
+  <!-- EN: Cook 4 servings of zarusoba from a combination of meat and plant ingredients. -->
+  <EJC_CookZarusobaBulk.description>将生肉和素食材料组合，烹饪四份竹笼荞麦面。</EJC_CookZarusobaBulk.description>
+  <!-- EN: Cooking 4 zarusoba. -->
+  <EJC_CookZarusobaBulk.jobString>正在烹饪四份竹笼荞麦面。</EJC_CookZarusobaBulk.jobString>
+  
+</LanguageData>

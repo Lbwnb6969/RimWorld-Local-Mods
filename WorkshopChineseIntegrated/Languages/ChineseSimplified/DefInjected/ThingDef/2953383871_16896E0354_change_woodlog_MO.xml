@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WoodLog.label>木材</WoodLog.label>
+  <WoodLog.description>树木或其他纤维植物的木材。用于建造建筑物、武器。是营火、发电机的燃料，也可以提炼成化合燃料。在紧要关头时，一根木头还能用来当作近战武器或木腿。</WoodLog.description>
+  <WoodLog.tools.log.label>木材</WoodLog.tools.log.label>
+  <WoodLog.stuffProps.stuffAdjective>木制</WoodLog.stuffProps.stuffAdjective>
+
+</LanguageData>

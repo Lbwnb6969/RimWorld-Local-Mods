@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Workshop Simplified Chinese - Integrated</name>
+  <author>Local integration</author>
+  <packageId>Local.Workshop.ChineseIntegrated</packageId>
+  <supportedVersions><li>1.6</li>  <li>1.7</li>
+  </supportedVersions>
+  <description>Local generated integration of the active Steam Workshop Simplified Chinese translation mods. Disable the individual source translation mods while using this package.</description>
+  <loadAfter>
+    <li>Local.Medieval.GameplaySuite</li>
+    <li>OskarPotocki.VFE.Classical</li>
+    <li>jaeger972.factionterritories</li>
+    <li>forti.rimsiege</li>
+  </loadAfter>
+</ModMetaData>

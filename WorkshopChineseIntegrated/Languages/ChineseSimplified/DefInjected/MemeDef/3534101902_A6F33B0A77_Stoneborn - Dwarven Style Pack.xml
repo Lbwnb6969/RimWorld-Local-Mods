@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DV_Structure_Dwarven.label>矮人</DV_Structure_Dwarven.label>
+    <DV_Structure_Dwarven.description>在恶意中诞生并炼成于挑战，我们锤炼我们的未来。诸神在我们的道路上跟随我们，我们为我们的后代建立桥梁，并向我们的先祖学习。</DV_Structure_Dwarven.description>
+
+    <DV_Structure_Dwarven.generalRules.rulesStrings.0>memeAdjective-&gt;矮人</DV_Structure_Dwarven.generalRules.rulesStrings.0>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.1>memeAdjective-&gt;钢铁进步</DV_Structure_Dwarven.generalRules.rulesStrings.1>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.2>memeAdjective-&gt;传统</DV_Structure_Dwarven.generalRules.rulesStrings.2>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.3>memeAdjective-&gt;锻造进步</DV_Structure_Dwarven.generalRules.rulesStrings.3>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.4>memeAdjective-&gt;大师造</DV_Structure_Dwarven.generalRules.rulesStrings.4>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.5>memeAdjective-&gt;镀金的</DV_Structure_Dwarven.generalRules.rulesStrings.5>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.6>memeAdjective-&gt;回响</DV_Structure_Dwarven.generalRules.rulesStrings.6>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.7>memeAdjective-&gt;拱起</DV_Structure_Dwarven.generalRules.rulesStrings.7>
+
+    <DV_Structure_Dwarven.generalRules.rulesStrings.8>memeLeaderNoun-&gt;爵士</DV_Structure_Dwarven.generalRules.rulesStrings.8>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.9>memeLeaderNoun-&gt;看守者</DV_Structure_Dwarven.generalRules.rulesStrings.9>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.10>memeLeaderNoun-&gt;伟大的</DV_Structure_Dwarven.generalRules.rulesStrings.10>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.11>memeLeaderNoun-&gt;锻造的</DV_Structure_Dwarven.generalRules.rulesStrings.11>
+
+    <DV_Structure_Dwarven.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;神圣的</DV_Structure_Dwarven.generalRules.rulesStrings.12>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;镀金的</DV_Structure_Dwarven.generalRules.rulesStrings.13>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.14>memeLeaderAdjective-&gt;虔诚的</DV_Structure_Dwarven.generalRules.rulesStrings.14>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.15>memeLeaderAdjective-&gt;受尊敬的</DV_Structure_Dwarven.generalRules.rulesStrings.15>
+
+    <DV_Structure_Dwarven.generalRules.rulesStrings.16>memeMoralist-&gt;卷轴看守者</DV_Structure_Dwarven.generalRules.rulesStrings.16>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.17>memeMoralist-&gt;知识看守者</DV_Structure_Dwarven.generalRules.rulesStrings.17>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.18>memeMoralist-&gt;怨恨看守者</DV_Structure_Dwarven.generalRules.rulesStrings.18>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.19>memeMoralist-&gt;锻造智者</DV_Structure_Dwarven.generalRules.rulesStrings.19>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.20>memeMoralist-&gt;伟大大师</DV_Structure_Dwarven.generalRules.rulesStrings.20>
+    <DV_Structure_Dwarven.generalRules.rulesStrings.21>memeMoralist-&gt;铁砧领主</DV_Structure_Dwarven.generalRules.rulesStrings.21>
+
+
+    <DV_Structure_Dwarven.symbolPacks.0.theme>矮人们</DV_Structure_Dwarven.symbolPacks.0.theme>
+    <DV_Structure_Dwarven.symbolPacks.0.adjective>矮人</DV_Structure_Dwarven.symbolPacks.0.adjective>
+    <DV_Structure_Dwarven.symbolPacks.0.member>矮人</DV_Structure_Dwarven.symbolPacks.0.member>
+
+
+    <DV_Structure_Dwarven.fixedDeityNameTypes.0.name>格茹尼</DV_Structure_Dwarven.fixedDeityNameTypes.0.name>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.0.type>石生种的众神之父</DV_Structure_Dwarven.fixedDeityNameTypes.0.type>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.1.name>马哈尔</DV_Structure_Dwarven.fixedDeityNameTypes.1.name>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.1.type>矿物之神</DV_Structure_Dwarven.fixedDeityNameTypes.1.type>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.2.name>奧吉特</DV_Structure_Dwarven.fixedDeityNameTypes.2.name>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.2.type>诡计之神</DV_Structure_Dwarven.fixedDeityNameTypes.2.type>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.3.name>卢加尔</DV_Structure_Dwarven.fixedDeityNameTypes.3.name>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.3.type>诗歌之神</DV_Structure_Dwarven.fixedDeityNameTypes.3.type>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.4.name>汤姆卡尔</DV_Structure_Dwarven.fixedDeityNameTypes.4.name>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.4.type>冰霜之神</DV_Structure_Dwarven.fixedDeityNameTypes.4.type>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.5.name>福日格拉姆</DV_Structure_Dwarven.fixedDeityNameTypes.5.name>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.5.type>锻造之神</DV_Structure_Dwarven.fixedDeityNameTypes.5.type>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.6.name>贝尔约恩</DV_Structure_Dwarven.fixedDeityNameTypes.6.name>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.6.type>自然之神</DV_Structure_Dwarven.fixedDeityNameTypes.6.type>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.7.name>奥利图夫</DV_Structure_Dwarven.fixedDeityNameTypes.7.name>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.7.type>秘密之神</DV_Structure_Dwarven.fixedDeityNameTypes.7.type>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.8.name>西罗恩</DV_Structure_Dwarven.fixedDeityNameTypes.8.name>
+    <DV_Structure_Dwarven.fixedDeityNameTypes.8.type>灵感之神</DV_Structure_Dwarven.fixedDeityNameTypes.8.type>
+
+</LanguageData>

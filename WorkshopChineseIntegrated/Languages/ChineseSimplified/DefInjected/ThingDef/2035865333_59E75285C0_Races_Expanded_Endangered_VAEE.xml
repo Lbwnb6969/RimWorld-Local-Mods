@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: african wild dog -->
+  <AEXP_AfricanWildDog.label>非洲野犬</AEXP_AfricanWildDog.label>
+  <!-- EN: A large canine, distinguished from dogs and wolves by dentition highly specialised for a hypercarnivorous diet, and a lack of dewclaws. The African wild dog is a highly social animal, living in packs. Like most wild canines, they prefer to stay as far away from humans as possible.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. The African wild dog is primarily threatened by habitat fragmentation, which results in human–wildlife conflict, transmission of infectious diseases and high mortality rates. It is estimated that about 6,600 adults survive as of 2020. -->
+  <AEXP_AfricanWildDog.description>非洲野犬是一种大型犬科动物，与狗和狼的区别在于它非常特别的牙齿用于其食肉，而且没有狼爪。非洲野犬是一种高度社群化的动物，以群居生活为主。像大多数野生犬科动物一样，它们尽可能地远离人类。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>濒危。非洲野犬主要受到栖息地破碎化的威胁，碎片化地栖息地将加剧人与野生动物的冲突、传染病的传播和高死亡率。据估计，截至2020年，只有6600只成年非洲野犬存活。</AEXP_AfricanWildDog.description>
+  <!-- EN: left claw -->
+  <AEXP_AfricanWildDog.tools.left_claw.label>左爪</AEXP_AfricanWildDog.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_AfricanWildDog.tools.right_claw.label>右爪</AEXP_AfricanWildDog.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_AfricanWildDog.tools.head.label>头</AEXP_AfricanWildDog.tools.head.label>
+  
+  <!-- EN: black-footed ferret -->
+  <AEXP_BlackFootedFerret.label>黑足鼬</AEXP_BlackFootedFerret.label>
+  <!-- EN: A small, nocturnal member of the weasel family that feeds on other, smaller mammals. It has a long body and yellowish-brown fur with a blackish wash of fur on its back, and a black mask around its eyes.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. Black-footed ferrets are the most endangered mammals in North America, and they were thought extinct in 1976. A small group was rediscovered in 1981, bred in captivity and carefully released. As of 2020, fewer than 500 black-footed ferrets live in the wild at 17 reintroduction sites —a population well below the 3,000 needed to fully recover the species. -->
+  <AEXP_BlackFootedFerret.description>黑足鼬是一种类似黄鼠狼的夜间动物，以小型哺乳类动物为食。修长的身体覆盖有黄色的皮毛，背部和眼睛周围的毛呈黑色。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>濒危。黑足鼬是北美最濒危的哺乳类动物，它们被认为在1976年灭绝。1981年，一小群黑足鼬被重新发现，被圈养繁殖并被小心放归自然。截至2020年，在17个放归地，只有不到500只黑足鼬生活在自然环境中，这一数量远低于完全恢复该物种所需的3000只。</AEXP_BlackFootedFerret.description>
+  <!-- EN: left claw -->
+  <AEXP_BlackFootedFerret.tools.left_claw.label>左爪</AEXP_BlackFootedFerret.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_BlackFootedFerret.tools.right_claw.label>右爪</AEXP_BlackFootedFerret.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_BlackFootedFerret.tools.head.label>头</AEXP_BlackFootedFerret.tools.head.label>
+  
+  <!-- EN: black rhinoceros -->
+  <AEXP_BlackRhino.label>黑犀</AEXP_BlackRhino.label>
+  <!-- EN: A huge herbivorous mammal with a temperamental disposition. Black rhinos differ from their white relatives in their slightly smaller size and in lip shape. The black rhino has a pointed upper lip, while whites have a squared lip, a difference related to the animals' diets: Black rhinos are browsers that get most of their sustenance from eating from bushes.\n\n<color=#33d733>Real World Conservation Status:</color> Critically endangered. Three of the seven subspecies of black rhino have become extinct since 1850  and one is on the brink of extinction. As of 2020, thanks to the persistent efforts of conservation programmes across Africa, black rhino numbers have risen to a current population of between 5,366 and 5,627 individuals. -->
+  <AEXP_BlackRhino.description>黑犀是一种性情暴躁的大型草食性动物。黑犀与白犀的不同之处在于它们的体型和唇形稍小。黑犀的上唇是尖的，而白犀的上唇是方形的，这与其饮食习惯有关：黑犀牛是一种觅食者，它们的大部分食物都是从灌木丛中获取的。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>极度濒危。自1850年以来，黑犀的七个亚种中有三个已经灭绝，一个濒临灭绝。截至2020年，经过非洲各地保护计划的不懈努力，黑犀牛目前的数量已经上升到5366~5627只。</AEXP_BlackRhino.description>
+  <!-- EN: horn -->
+  <AEXP_BlackRhino.tools.horn-0.label>角</AEXP_BlackRhino.tools.horn-0.label>
+  <!-- EN: horn -->
+  <AEXP_BlackRhino.tools.horn-1.label>角</AEXP_BlackRhino.tools.horn-1.label>
+  <!-- EN: head -->
+  <AEXP_BlackRhino.tools.head.label>头</AEXP_BlackRhino.tools.head.label>
+  
+  <!-- EN: bonobo -->
+  <AEXP_Bonobo.label>倭黑猩猩</AEXP_Bonobo.label>
+  <!-- EN: The bonobo is a great ape, a smaller relative of the chimpanzee with a rounder skull and flatter face. Bonobos have longer legs, shorter arms, and a narrower trunk. Bonobos exhibit remarkably different social behavior from chimpanzees, with an emphasis on peacemaking, and sex as a tool to manage and diffuse tension.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. Populations have declined rapidly over the last 30 years, but there are no reliable estimates for current bonobo numbers. Their habitat inside the Democratic Republic of the Congo is often threatened by political instability. -->
+  <AEXP_Bonobo.description>倭黑猩猩是一种大型猿类动物，是黑猩猩的一个较小分支，头骨更圆，脸更平。倭黑猩猩腿长、胳膊短、躯干窄。倭黑猩猩表现出与黑猩猩截然不同的社会行为，强调和平共处，性对于它们来说是管理和消解紧张关系的工具。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>濒危。在过去30年中，倭黑猩猩的数量迅速下降，但目前还没有可靠的统计数字。它们在刚果民主共和国境内的栖息地经常受到不稳定的政治环境的威胁。</AEXP_Bonobo.description>
+  <!-- EN: left fist -->
+  <AEXP_Bonobo.tools.left_fist.label>左拳</AEXP_Bonobo.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <AEXP_Bonobo.tools.right_fist.label>右拳</AEXP_Bonobo.tools.right_fist.label>
+  <!-- EN: head -->
+  <AEXP_Bonobo.tools.head.label>头</AEXP_Bonobo.tools.head.label>
+  
+  <!-- EN: moa -->
+  <AEXP_Moa.label>恐鸟</AEXP_Moa.label>
+  <!-- EN: A very large herbivore flightless bird native to the Old Earth islands of New Zealand. The moas lacked even the vestigial wings that all other ratites have. Moas feed on a range of plant species and plant parts, including fibrous twigs and leaves taken from low trees and shrubs.\n\n<color=#33d733>Real World Conservation Status:</color> Recently extinct. Moa were the dominant herbivore in New Zealand before the arrival of humans. Polynesians arrived sometime before 1300, and all moa genera were soon driven to extinction by hunting and, to a lesser extent, by habitat reduction due to forest clearance. By 1445, all moa had become extinct. -->
+  <AEXP_Moa.description>恐鸟一种非常大的草食性动物，不会飞，原产于新西兰。恐鸟的翅膀已退化并消失，它们以植物种子和根茎为食。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>已灭绝。在人类到来之前，恐鸟是新西兰的主要草食性动物。波利尼西亚人在1300年之前到达，所有的恐鸟很快就因为狩猎活动濒临灭绝。到1445年，所有的恐鸟都消失了。</AEXP_Moa.description>
+  <!-- EN: claws -->
+  <AEXP_Moa.tools.claws.label>爪</AEXP_Moa.tools.claws.label>
+  <!-- EN: beak -->
+  <AEXP_Moa.tools.beak.label>喙</AEXP_Moa.tools.beak.label>
+  <!-- EN: head -->
+  <AEXP_Moa.tools.head.label>头</AEXP_Moa.tools.head.label>
+  
+  <!-- EN: giant pangolin -->
+  <AEXP_Pangolin.label>巨地穿山甲</AEXP_Pangolin.label>
+  <!-- EN: Sometimes known as scaly anteaters, pangolins are mammals with large, protective keratin scales covering their skin. Pangolins are nocturnal, and their diet consists of mainly ants and termites, which they capture using their long tongues. They tend to be solitary animals, meeting only to mate.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. The giant pangolin is threatened by habitat destruction and deforestation, and hunting for the bushmeat trade. Pangolins have become the most heavily trafficked wild mammal in the world. -->
+  <AEXP_Pangolin.description>巨地穿山甲是一种皮肤上覆盖着巨大的保护性角质蛋白鳞片的哺乳类动物，有时被称为有鳞的食蚁兽。巨地穿山甲是夜间活动的，食物主要是蚂蚁和白蚁，其用长长的舌头捕捉它们。巨地穿山甲往往是独居的，相遇只是为了交配。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>濒危。巨大的穿山甲受到栖息地破坏、森林砍伐和丛林肉贸易的威胁。穿山甲已成为世界上贩卖最为猖獗的野生哺乳类动物。</AEXP_Pangolin.description>
+  <!-- EN: left claw -->
+  <AEXP_Pangolin.tools.left_claw.label>左爪</AEXP_Pangolin.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Pangolin.tools.right_claw.label>右爪</AEXP_Pangolin.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Pangolin.tools.head.label>头</AEXP_Pangolin.tools.head.label>
+  
+  <!-- EN: quagga -->
+  <AEXP_Quagga.label>斑驴</AEXP_Quagga.label>
+  <!-- EN: The quagga is a subspecies of the plains zebra. It is distinguished from other zebras by its limited pattern of primarily brown and white stripes, mainly on the front part of the body. The rear is brown and without stripes, and appears more horse-like.\n\n<color=#33d733>Real World Conservation Status:</color> Recently Extinct. Quaggas became extinct late in the 19th century due to overhunting by Afrikaners. The Quagga Project was started in 1987 in South Africa to create a quagga-like zebra population by selectively breeding for a reduced stripe pattern from plains zebra stock, with the eventual aim of introducing them to the quagga's former range. -->
+  <AEXP_Quagga.description>斑驴是平原斑马的一个亚种。它们与其他斑马的区别在于其棕色和白色相间的条纹主要分布在身体的前部，其尾部是棕色的，没有条纹，看起来更像马。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>已灭绝。19世纪晚期，由于非洲白人的过度捕猎，斑驴灭绝了。斑驴项目于1987年在南非启动，旨在通过从平原斑马种群中选择性繁殖条纹图案略少的个体，创造出一个类似斑驴的斑马种群，最终目的是恢复斑驴以前的种群。</AEXP_Quagga.description>
+  <!-- EN: head -->
+  <AEXP_Quagga.tools.head.label>头</AEXP_Quagga.tools.head.label>
+  <!-- EN: left hoof -->
+  <AEXP_Quagga.tools.left_hoof.label>左蹄</AEXP_Quagga.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <AEXP_Quagga.tools.right_hoof.label>右蹄</AEXP_Quagga.tools.right_hoof.label>
+  
+  <!-- EN: rockhopper penguin -->
+  <AEXP_RockhopperPenguin.label>跳岩企鹅</AEXP_RockhopperPenguin.label>
+  <!-- EN: Much smaller in size than the emperor penguin, rockhopper penguins weigh less than 10 pounds. They were named for their distinctive hopping movements over the rocky hills and cliffs where they live and breed.\n\n<color=#33d733>Real World Conservation Status:</color> Vulnerable. In the last 30 years, it is estimated that the population of rockhoppers has fallen by nearly 25%—and now climate change could place them at even greater risk. -->
+  <AEXP_RockhopperPenguin.description>跳岩企鹅的体型比帝企鹅小得多，体重不到10磅。它们之所以得名，是因为它们在其生活和繁殖的岩石山丘和悬崖上进行独特的跳跃活动。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>面临威胁。据估算，在过去的30年里，跳岩企鹅的数量下降了近25%，而现在的气候变化可能使其种群数量面临更大的威胁。</AEXP_RockhopperPenguin.description>
+  <!-- EN: claws -->
+  <AEXP_RockhopperPenguin.tools.claws.label>爪</AEXP_RockhopperPenguin.tools.claws.label>
+  <!-- EN: beak -->
+  <AEXP_RockhopperPenguin.tools.beak.label>喙</AEXP_RockhopperPenguin.tools.beak.label>
+  <!-- EN: head -->
+  <AEXP_RockhopperPenguin.tools.head.label>头</AEXP_RockhopperPenguin.tools.head.label>
+  
+  <!-- EN: tasmanian devil -->
+  <AEXP_TasmanianDevil.label>袋獾</AEXP_TasmanianDevil.label>
+  <!-- EN: A carnivorous marsupial characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. Experts estimate that the devil has suffered a more than 80% decline in its population since the mid-1990s. It is estimated that fewer than 25,000 Tasmanian devils still live in the wild. -->
+  <AEXP_TasmanianDevil.description>袋獾是一种肉食性有袋动物，其特征是体格粗壮、肌肉发达、黑色皮毛、气味刺鼻、极其响亮和令人不安的尖叫声、敏锐的嗅觉和凶猛的进食方式。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>濒危。据专家估计，自上世纪90年代中期以来，袋獾的数量已经减少了80%以上，据估算，目前只不到25000只袋獾生活在自然环境中。</AEXP_TasmanianDevil.description>
+  <!-- EN: left claw -->
+  <AEXP_TasmanianDevil.tools.left_claw.label>左爪</AEXP_TasmanianDevil.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_TasmanianDevil.tools.right_claw.label>右爪</AEXP_TasmanianDevil.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_TasmanianDevil.tools.head.label>头</AEXP_TasmanianDevil.tools.head.label>
+  
+  <!-- EN: thylacine -->
+  <AEXP_Thylacine.label>袋狼</AEXP_Thylacine.label>
+  <!-- EN: Commonly known as the Tasmanian tiger because of its striped lower back, the Thylacine is a shy and nocturnal carnivorous predator, with the general appearance of a medium-to-large-size dog, except for its stiff tail and abdominal pouch similar to a kangaroo's.\n\n<color=#33d733>Real World Conservation Status:</color> Recently Extinct. The last known thylacine died from exposure at the Beaumaris Zoo in Hobart in 1936. While it is estimated there were around 5000 thylacines in Tasmania at the time of European settlement, excessive hunting, combined with factors such as habitat destruction and introduced disease, led to the rapid extinction of the species. -->
+  <AEXP_Thylacine.description>袋狼是一种胆小的夜间肉食性有袋动物，因其背部有条纹而俗称塔斯马尼亚虎，外形类似一般中大型犬，尾巴僵硬，腹部有类似袋鼠的育儿袋。\n\n&lt;color=#33d733>现实世界的保护状况：&lt;/color>已灭绝。最后一只有记载的的袋狼死于1936年霍巴特的博马里斯动物园。据估计，在欧洲定居时，塔斯马尼亚岛大约有5000只袋狼，但过度捕猎加上栖息地破坏和引入疾病等因素，导致此物种迅速灭绝。</AEXP_Thylacine.description>
+  <!-- EN: left claw -->
+  <AEXP_Thylacine.tools.left_claw.label>左爪</AEXP_Thylacine.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Thylacine.tools.right_claw.label>右爪</AEXP_Thylacine.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Thylacine.tools.head.label>头</AEXP_Thylacine.tools.head.label>
+  
+</LanguageData>

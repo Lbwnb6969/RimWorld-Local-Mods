@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_PastedFuneralBehavior.roles.0.label>演讲者</AM_PastedFuneralBehavior.roles.0.label>
+  <!-- EN: Corpse -->
+  <AM_PastedFuneralBehavior.roles.1.label>尸体</AM_PastedFuneralBehavior.roles.1.label>
+  <!-- EN: Spectators must be alive. -->
+  <AM_PastedFuneralBehavior.spectatorFilter.description>观众必须为活着的殖民者。</AM_PastedFuneralBehavior.spectatorFilter.description>
+  <!-- EN: {0}: The speech is over, the nutrient extraction has begun. -->
+  <AM_PastedFuneralBehavior.stages.1.postAction.text>{0}: 演讲结束了，营养膏转化开始了。</AM_PastedFuneralBehavior.stages.1.postAction.text>
+  
+</LanguageData>

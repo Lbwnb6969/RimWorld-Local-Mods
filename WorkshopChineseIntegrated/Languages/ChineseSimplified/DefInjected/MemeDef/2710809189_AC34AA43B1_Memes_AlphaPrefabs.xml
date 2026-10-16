@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: prefab preference -->
+  <AM_PrefabPreference.label>预制热忱</AM_PrefabPreference.label>
+  <!-- EN: Opting for precision in urban development, we favor the swift integration of prefabricated structures for our city. Rather than traditional construction, we choose ready-made buildings for homes, workshops, and leisure spots. This approach enables us to expedite the city-building process, providing accessible and inclusive spaces for everyone's needs. -->
+  <AM_PrefabPreference.description>若想快速且精确地推进城市开发，方便的集成型预制建筑显然是必不可少的。我们可以直接用现成的模板搭建起工作间、娱乐会所和住房，而不必再为如何设计费尽心思。我们的城市必将蓬勃发展，每个人都能拥有属于自己的温馨之家。</AM_PrefabPreference.description>
+  <!-- EN:
+    <li>creation(tag=meme_PrefabPreference)        ->[deity0_name] taught all of [deity0_possessive] followers to be practical and to avoid wasting time in needless tasks.</li>
+    <li>episode(uses=1,tag=meme_PrefabPreference)  ->Speaking to the believers, [deity0_name] said: "Thou shalt honor the efficiency of swift assembly. In the realm of prefabs, time is sacred; therefore, build with haste and precision".</li>
+    <li>intro(tag=meme_PrefabPreference)           ->On the [place_summary] [place_name], the [memberNamePlural] found the words of [deity0_name] whispering to them through a well designed building.</li>
+    <li>conflict(tag=meme_PrefabPreference)        ->A foreman [foeLeader] envied the automated building processes of the [memberNamePlural], and [foeLeader_possessive] [foeSoldiers] destroyed their workshops with [place_personalWeapon]s.</li>
+    <li>founderJoin(tag=meme_PrefabPreference)     ->A cunning [place_job] named [founderName] created an amazing prefabricated defensive emplacement to warn the [memberNamePlural] of the approach of the [foeSoldiers].</li>
+    <li>victory(tag=meme_PrefabPreference)         ->[founderName] received divine technological knowledge from [deity0_name], and used it to replicate the prefabricated defensive emplacement so they could defeat the [foeSoldiers].</li>
+    <li>setup(tag=meme_PrefabPreference)           ->[founderName] was aen engineer. [founder_pronoun] spent decades of [founder_possessive] life teaching others to embrace the diversity of design. To let no structure exclude, and ensure that every prefab bears the mark of inclusivity, welcoming all into its preordained walls.</li>
+    <li>story(uses=1,tag=meme_PrefabPreference)    ->[founderName] understood better than anyone else that one should forsake the temptation of unnecessary customization, for in simplicity lies the strength and harmony of prefabricated creations.</li>
+    <li>lessonIntro(tag=meme_PrefabPreference)         ->The ancient builders of Earth were absolutely right. They teach us that</li>
+    <li>lesson(tag=meme_PrefabPreference)              ->one should utilize materials wisely, for in the realm of prefabs, sustainability is the cornerstone of efficient construction</li>
+    <li>lessonReinforcement(tag=meme_PrefabPreference) ->We must strive for functional elegance over unnecessary embellishments.</li>
+    <li>archistBasis(tag=meme_PrefabPreference)    ->Archotechs show us that we must ensure that every edifice accommodates the diverse data patterns of inhabitants, fostering a harmonious blend of functionality and adaptability.</li>
+    <li>archistFact(tag=meme_PrefabPreference)     ->Fusion of functional aesthetics is essential.</li>
+    <li>archistProphecy(tag=meme_PrefabPreference) ->[inTheEnd], only those who infuse self-learning mechanisms within structures, enabling them to dynamically adapt and evolve in response to the ever-changing needs of the sentient entities within the urban nexus will be ready to transcend.</li>
+    <li>animistBasis(tag=meme_PrefabPreference)    ->Invoke the swift spirits in the crafting of our dwellings. Let the rhythm of the unseen guide our hands to build swiftly, creating shelters that resonate with the heartbeat of the earth.</li>
+    <li>animistFact(tag=meme_PrefabPreference)     ->Design structures that welcome all, ensuring the flow of positive energies through every nook and cranny.</li>
+    <li>animistProphecy(tag=meme_PrefabPreference) ->[itIsSaid] only those who adorned our structures with symbols that resonate with the ancient energies, weaving a tapestry of purpose and meaning into the fabric of our tribal existence, will be ready to commune with the spirits.</li>
+    <li>serketistProphecy(tag=meme_PrefabPreference)->[itIsSaid] we will understand that we should construct shelters interwoven with the exoskeletons of sacred insects, fostering a symbiotic bond that resonates with the collective heartbeat of the hive.</li>
+    <li>chthonianProphecy(tag=meme_PrefabPreference)->We will embrace the eldritch aesthetic in our constructions and invoke the cosmic energies to infuse structures with the otherworldly, creating architectural marvels.</li>
+    <li>esotericismProphecy(tag=meme_PrefabPreference)->We will imbibe occult wisdom into the very foundations of our abodes. Encode esoteric symbols and mystic runes in the architectural design, forging structures that resonate with the arcane energies of the unseen realms.</li>
+    <li>eschatologismFact(tag=meme_PrefabPreference)->We will prepare for the inevitable end in every dwelling. Construct shelters as sanctuaries against the impending cataclysm, where the echoes of doom reverberate in every stone, serving as both a testament and refuge in the face of the impending apocalypse.</li>
+    <li>introMemo(tag=meme_PrefabPreference)->Make a note in your calendars: the new line of corporate prefabs is now available for purchase for all departments. Please fill a request with your nearest Provisions office and remember to include Form A12-B to expedite the process.</li>
+  -->
+  <AM_PrefabPreference.descriptionMaker.rules.rulesStrings>  
+    <li>creation(tag=meme_PrefabPreference)        ->[deity0_name]教导[deity0_possessive]信徒们实用的重要性，以及不要把时间浪费在琐碎的工作上。</li>
+    <li>episode(uses=1,tag=meme_PrefabPreference)  ->[deity0_name]对[deity0_possessive]信徒们说：“汝等须以快速组装为荣。时间乃神圣之物，唯有预制建筑方可快速且精确地筑成理想之乡。”</li>
+    <li>intro(tag=meme_PrefabPreference)           ->[memberNamePlural]们在[place_summary][place_name]上发现了一座设计精妙的建筑，其内部缭绕着[deity0_name]的金言玉语。</li>
+    <li>conflict(tag=meme_PrefabPreference)        ->有个名叫[foeLeader]的工头对[memberNamePlural]们的自动化建造技术心生妒忌，就命令手下的[foeSoldiers]用[place_personalWeapon]摧毁了他们的工作间。</li>
+    <li>founderJoin(tag=meme_PrefabPreference)     ->一位名叫[founderName]的机敏[place_job]组装了堪称精妙的预制防御阵地，以此来警告[memberNamePlural]们有一群[foeSoldiers]正在逼近。</li>
+    <li>victory(tag=meme_PrefabPreference)         ->[founderName]从[deity0_name]那里获得了神圣的技术知识，并用它来仿造预制防御阵地以击败[foeSoldiers]。</li>
+    <li>setup(tag=meme_PrefabPreference)           ->[founderName]是一名工程师。[founder_pronoun]用自己几十年的时光教导我们，设计多样化是十分重要的，不应有任何结构被排除在外。任何预制建筑都该注重包容性，欢迎所有人入内。</li>
+    <li>story(uses=1,tag=meme_PrefabPreference)    ->[founderName]深知人类应该抵御无用定制的诱惑，并投向简约预制的怀抱中。</li>
+    <li>lessonIntro(tag=meme_PrefabPreference)         ->古地球上的建筑师们是绝对正确的。他们让我懂得了</li>
+    <li>lesson(tag=meme_PrefabPreference)              ->在预制建筑的领域中，只有明智地让材料实现可持续利用，才能确保建造的高效性</li>
+    <li>lessonReinforcement(tag=meme_PrefabPreference) ->我们必须为优雅的实用性而奋斗，冗余的装饰根本毫无用处。</li>
+    <li>archistBasis(tag=meme_PrefabPreference)    ->超凡智能让我们明白了必须要确保所有高楼大厦都能为数据模式各不相同的居民们提供住所，让功能性与适应性和谐地融而为一。</li>
+    <li>archistFact(tag=meme_PrefabPreference)     ->实用与美观相结合是极其必要的。</li>
+    <li>archistProphecy(tag=meme_PrefabPreference) ->[inTheEnd]，唯有那些将自我学习机制输入建筑结构中，使它们能通过动态适应和发展来响应城市枢纽内部需求不断变化的知性实体的人才能得到费神的资格。</li>
+    <li>animistBasis(tag=meme_PrefabPreference)    ->我们应该请求迅捷之灵来帮忙搭建住处。让无形的韵律引导我们的双手快速建造，以此来创造出能与星球的心跳产生共鸣的庇护所。</li>
+    <li>animistFact(tag=meme_PrefabPreference)     ->设计出欢迎所有人的建筑结构，确保正能量遍布每一个角落。</li>
+    <li>animistProphecy(tag=meme_PrefabPreference) ->[itIsSaid]唯有那些能与远古能量产生共鸣，并用由此凝聚出的象征装饰我们的建筑结构的人，唯有那些能将目的和意义编织成阐释我们部落存在本质的挂毯的人，才能与灵魂们进行沟通。</li>
+    <li>serketistProphecy(tag=meme_PrefabPreference)->[itIsSaid]我们早晚会理解建造与神圣虫族的外骨骼相互交织的庇护所的重要性，以及要如何培育能与虫巢的并合心跳产生共鸣的共生纽带。</li>
+    <li>chthonianProphecy(tag=meme_PrefabPreference)->我们会将外神的怪异之美与建筑结构相结合，并通过注入宇宙能量让其变得超凡脱俗，以此来创造建筑学上的奇迹。</li>
+    <li>esotericismProphecy(tag=meme_PrefabPreference)->我们会将玄奥的智慧汲取至住所的基础结构中，令晦涩符号和神秘符文与建筑设计相结合，筑成能与无形领域内逸散的奥术能量产生共鸣的结构。</li>
+    <li>eschatologismFact(tag=meme_PrefabPreference)->我们会为所有住所无法避免的结局做好准备。我们将建造能抵挡大灾变的庇护所，毁灭的回声在砖瓦间缭绕，昭示着末日即将来临。</li>
+    <li>introMemo(tag=meme_PrefabPreference)->请将以下内容记在备忘录中：所有部门现在都可以采购新的公司预制建筑系列产品。请向离你最近的供应办公室提交申请，并附上表格A12-B以缩短流程。</li>
+  </AM_PrefabPreference.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->practical</li>
+    <li>memeAdjective->pragmatic</li>
+    <li>memeAdjective->workable</li>
+    <li>memeLeaderNoun->organizer</li>
+    <li>memeMoralist->scheduler</li>
+    <li>memeConcept->practicality</li>
+  -->
+  <AM_PrefabPreference.generalRules.rulesStrings>  
+    <li>memeAdjective->实用</li>
+    <li>memeAdjective->高效</li>
+    <li>memeAdjective->实效</li>
+    <li>memeLeaderNoun->组织者</li>
+    <li>memeMoralist->调度者</li>
+    <li>memeConcept->实用</li>
+  </AM_PrefabPreference.generalRules.rulesStrings>
+  <!-- EN: prefabricated -->
+  <AM_PrefabPreference.symbolPacks.0.adjective>预制</AM_PrefabPreference.symbolPacks.0.adjective>
+  <!-- EN: Prefabrication -->
+  <AM_PrefabPreference.symbolPacks.0.ideoName>预制</AM_PrefabPreference.symbolPacks.0.ideoName>
+  <!-- EN: builder -->
+  <AM_PrefabPreference.symbolPacks.0.member>建造者</AM_PrefabPreference.symbolPacks.0.member>
+  <!-- EN: prefabrication -->
+  <AM_PrefabPreference.symbolPacks.0.theme>预制</AM_PrefabPreference.symbolPacks.0.theme>
+  
+</LanguageData>

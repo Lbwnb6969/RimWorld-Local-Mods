@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farmer -->
+  <BA_Moor_Farmer.label>农夫</BA_Moor_Farmer.label>
+  
+  <!-- EN: hunter -->
+  <BA_Moor_Hunter.label>猎人</BA_Moor_Hunter.label>
+  
+  <!-- EN: logger -->
+  <BA_Moor_Logger.label>伐木工</BA_Moor_Logger.label>
+  
+  <!-- EN: miner -->
+  <BA_Moor_Miner.label>矿工</BA_Moor_Miner.label>
+  
+  <!-- EN: miner -->
+  <BA_Portguese_Miner.label>矿工</BA_Portguese_Miner.label>
+  
+  <!-- EN: farmer -->
+  <BA_Portugese_Farmer.label>农夫</BA_Portugese_Farmer.label>
+  
+  <!-- EN: hunter -->
+  <BA_Portugese_Hunter.label>猎人</BA_Portugese_Hunter.label>
+  
+  <!-- EN: logger -->
+  <BA_Portugese_Logger.label>伐木工</BA_Portugese_Logger.label>
+  
+  <!-- EN: farmer -->
+  <BA_Spanish_Farmer.label>农夫</BA_Spanish_Farmer.label>
+  
+  <!-- EN: hunter -->
+  <BA_Spanish_Hunter.label>猎人</BA_Spanish_Hunter.label>
+  
+  <!-- EN: logger -->
+  <BA_Spanish_Logger.label>伐木工</BA_Spanish_Logger.label>
+  
+  <!-- EN: miner -->
+  <BA_Spanish_Miner.label>矿工</BA_Spanish_Miner.label>
+  
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wrote a book -->
+  <VME_BookWriting_Disliked.stages.wrote_a_book.label>编写书籍</VME_BookWriting_Disliked.stages.wrote_a_book.label>
+  <!-- EN: I had to write a book. Putting your thoughts to paper is sinful and disgusting. -->
+  <VME_BookWriting_Disliked.stages.wrote_a_book.description>我被迫编写了一本书。把自己的想法写在纸上是一种罪过。</VME_BookWriting_Disliked.stages.wrote_a_book.description>
+  
+  <!-- EN: writer of thoughts -->
+  <VME_BookWriting_Disliked_Know.stages.writer_of_thoughts.label>作者的想法</VME_BookWriting_Disliked_Know.stages.writer_of_thoughts.label>
+  
+  <!-- EN: wrote a book -->
+  <VME_BookWriting_Exalted.stages.wrote_a_book.label>编写书籍</VME_BookWriting_Exalted.stages.wrote_a_book.label>
+  <!-- EN: I did it! I am now a distinguished author. -->
+  <VME_BookWriting_Exalted.stages.wrote_a_book.description>啊哈，我做到了！现在我就是一名大作家了。</VME_BookWriting_Exalted.stages.wrote_a_book.description>
+  
+  <!-- EN: distinguished author -->
+  <VME_BookWriting_Exalted_Know.stages.distinguished_author.label>大作家</VME_BookWriting_Exalted_Know.stages.distinguished_author.label>
+  
+</LanguageData>

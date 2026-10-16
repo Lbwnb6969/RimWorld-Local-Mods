@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <EEG_AbsolverCrossbow.label>赦免者之弩</EEG_AbsolverCrossbow.label>
+  <EEG_AbsolverCrossbow.description>虽然携带麻烦，但重弩发射出的箭矢能够刺穿装甲，对敌人造成重创。他的射程和伤害都比一般的弩还要高，但重新装填较花费时间。重弩是一种可怕的防御性武器，在群体战斗中能在后方发挥最大效用。</EEG_AbsolverCrossbow.description>
+  <EEG_AbsolverCrossbow.tools.0.label>弓臂</EEG_AbsolverCrossbow.tools.0.label>
+  <EEG_AbsolverCrossbow.verbs.Verb_Shoot.label>赦免者之弩</EEG_AbsolverCrossbow.verbs.Verb_Shoot.label>
+
+  <EEG_AbsolversBolt.label>赦免者之弩箭矢</EEG_AbsolversBolt.label>
+
+</LanguageData>

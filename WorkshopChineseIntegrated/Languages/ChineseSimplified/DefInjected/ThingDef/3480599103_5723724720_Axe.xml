@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: axe -->
+  <TA_Axe.label>战斧</TA_Axe.label>
+  <!-- EN: . -->
+  <TA_Axe.description>草原战士使用的单手战斧。</TA_Axe.description>
+  <!-- EN: handle -->
+  <TA_Axe.tools.handle.label>握柄</TA_Axe.tools.handle.label>
+  <!-- EN: edge -->
+  <TA_Axe.tools.edge.label>斧刃</TA_Axe.tools.edge.label>
+  
+</LanguageData>

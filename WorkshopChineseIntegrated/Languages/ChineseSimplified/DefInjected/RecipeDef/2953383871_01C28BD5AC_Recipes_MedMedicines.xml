@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Early Medieval Medicine -->
+
+  <RecMedicineEarlyMedievalMM.label>制作中世纪前期医疗包</RecMedicineEarlyMedievalMM.label>
+  <RecMedicineEarlyMedievalMM.description>制作中世纪前期医疗包。</RecMedicineEarlyMedievalMM.description>
+  <RecMedicineEarlyMedievalMM.jobString>正在制作中世纪前期医疗包。</RecMedicineEarlyMedievalMM.jobString>
+
+
+  <!-- Late Medieval Medicine -->
+
+  <RecMedicineLateMedievalMM.label>制作中世纪后期医疗包</RecMedicineLateMedievalMM.label>
+  <RecMedicineLateMedievalMM.description>制作中世纪后期医疗包。</RecMedicineLateMedievalMM.description>
+  <RecMedicineLateMedievalMM.jobString>正在制作中世纪后期医疗包。</RecMedicineLateMedievalMM.jobString>
+
+
+  <!-- Paresian Medicine -->
+
+  <RecMedicineParesianMM.label>制作帕雷的医疗包</RecMedicineParesianMM.label>
+  <RecMedicineParesianMM.description>制作帕雷的医疗包。</RecMedicineParesianMM.description>
+  <RecMedicineParesianMM.jobString>正在制作帕雷的医疗包。</RecMedicineParesianMM.jobString>
+
+
+</LanguageData>

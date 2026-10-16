@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ion -->
+  <O21_Damage_Ion.label>离子烧伤</O21_Damage_Ion.label>
+  <!-- EN: {0} has given in to ion burns. -->
+  <O21_Damage_Ion.deathMessage>{0}死于离子烧伤。</O21_Damage_Ion.deathMessage>
+  
+  <!-- EN: laser -->
+  <O21_Damage_Laser.label>激光烧伤</O21_Damage_Laser.label>
+  <!-- EN: {0} has given in to laser burns. -->
+  <O21_Damage_Laser.deathMessage>{0}死于激光烧伤。</O21_Damage_Laser.deathMessage>
+  
+  <!-- EN: plasma -->
+  <O21_Damage_Plasma.label>等离子烧伤</O21_Damage_Plasma.label>
+  <!-- EN: {0} has given in to plasma burns. -->
+  <O21_Damage_Plasma.deathMessage>{0}死于等离子烧伤。</O21_Damage_Plasma.deathMessage>
+  
+  <!-- EN: sonic -->
+  <O21_Damage_Sonic.label>音波震伤</O21_Damage_Sonic.label>
+  <!-- EN: {0} died to fatal vibrotronic resonation. -->
+  <O21_Damage_Sonic.deathMessage>{0}死于致命的音波共振。</O21_Damage_Sonic.deathMessage>
+  
+</LanguageData>

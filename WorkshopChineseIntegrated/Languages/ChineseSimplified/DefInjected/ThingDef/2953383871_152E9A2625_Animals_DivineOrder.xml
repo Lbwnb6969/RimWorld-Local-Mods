@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: horse -->
+  <BotchJob_DivineOrderHorse.label>神圣秩序马</BotchJob_DivineOrderHorse.label>
+  <!-- EN: A horse of the divine order. Bred to be larger, stronger and faster than a common horse.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed. -->
+  <BotchJob_DivineOrderHorse.description>神圣秩序的马。被繁育得比普通马更大、更强壮、更快速。\n\n在旅队中，人们可以骑马以增加旅队的速度。</BotchJob_DivineOrderHorse.description>
+  <!-- EN: horse meat -->
+  <BotchJob_DivineOrderHorse.race.meatLabel>马肉</BotchJob_DivineOrderHorse.race.meatLabel>
+  <!-- EN: head -->
+  <BotchJob_DivineOrderHorse.tools.head.label>马头</BotchJob_DivineOrderHorse.tools.head.label>
+  <!-- EN: left hoof -->
+  <BotchJob_DivineOrderHorse.tools.left_hoof.label>左蹄</BotchJob_DivineOrderHorse.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <BotchJob_DivineOrderHorse.tools.right_hoof.label>右蹄</BotchJob_DivineOrderHorse.tools.right_hoof.label>
+  
+</LanguageData>

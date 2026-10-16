@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AB_Tile_OcularCragstone.label>异目风格精致地砖（峭壁岩）</AB_Tile_OcularCragstone.label>
+  
+  <AB_Tile_OcularCragstone.description>异目风格的精致地砖。</AB_Tile_OcularCragstone.description>
+  
+  
+  <AB_Tile_OcularMudstone.label>异目风格精致地砖（泥岩）</AB_Tile_OcularMudstone.label>
+  
+  <AB_Tile_OcularMudstone.description>异目风格的精致地砖。</AB_Tile_OcularMudstone.description>
+  
+  
+  <AB_Tile_OcularObsidian.label>异目风格精致地砖（黑玉髓）</AB_Tile_OcularObsidian.label>
+  
+  <AB_Tile_OcularObsidian.description>异目风格的精致地砖。</AB_Tile_OcularObsidian.description>
+  
+  
+  <AB_Tile_OcularQuartz.label>异目风格精致地砖（玫瑰石英）</AB_Tile_OcularQuartz.label>
+  
+  <AB_Tile_OcularQuartz.description>异目风格的精致地砖。</AB_Tile_OcularQuartz.description>
+
+  
+  <AM_JewishFineTileCragstone.label>犹太风格精致地砖（峭壁岩石）</AM_JewishFineTileCragstone.label>
+  
+  <AM_JewishFineTileCragstone.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileCragstone.description>
+  
+  
+  <AM_JewishFineTileMudstone.label>犹太风格精致地砖（泥岩）</AM_JewishFineTileMudstone.label>
+  
+  <AM_JewishFineTileMudstone.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileMudstone.description>
+  
+  
+  <AM_JewishFineTileObsidian.label>犹太风格精致地砖（黑曜石）</AM_JewishFineTileObsidian.label>
+  
+  <AM_JewishFineTileObsidian.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileObsidian.description>
+  
+  
+  <AM_JewishFineTileRoseQuartz.label>犹太风格精致地砖（玫瑰石英）</AM_JewishFineTileRoseQuartz.label>
+  
+  <AM_JewishFineTileRoseQuartz.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileRoseQuartz.description>
+  
+  
+  <AM_JewishTileCragstone.label>犹太风格地砖（峭壁岩石）</AM_JewishTileCragstone.label>
+  
+  <AM_JewishTileCragstone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileCragstone.description>
+  
+  
+  <AM_JewishTileMudstone.label>犹太风格地砖（泥岩）</AM_JewishTileMudstone.label>
+  
+  <AM_JewishTileMudstone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileMudstone.description>
+  
+  
+  <AM_JewishTileObsidian.label>犹太风格地砖（黑曜石）</AM_JewishTileObsidian.label>
+  
+  <AM_JewishTileObsidian.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileObsidian.description>
+  
+  
+  <AM_JewishTileRoseQuartz.label>犹太风格地砖（玫瑰石英）</AM_JewishTileRoseQuartz.label>
+  
+  <AM_JewishTileRoseQuartz.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileRoseQuartz.description>
+  
+  
+  <AM_KemeticFineTileCragstone.label>埃及风格精致地砖（峭壁岩石）</AM_KemeticFineTileCragstone.label>
+  
+  <AM_KemeticFineTileCragstone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileCragstone.description>
+  
+  
+  <AM_KemeticFineTileMudstone.label>埃及风格精致地砖（泥岩）</AM_KemeticFineTileMudstone.label>
+  
+  <AM_KemeticFineTileMudstone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileMudstone.description>
+  
+  
+  <AM_KemeticFineTileObsidian.label>埃及风格精致地砖（黑曜石）</AM_KemeticFineTileObsidian.label>
+  
+  <AM_KemeticFineTileObsidian.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileObsidian.description>
+  
+  
+  <AM_KemeticFineTileRoseQuartz.label>埃及风格精致地砖（玫瑰石英）</AM_KemeticFineTileRoseQuartz.label>
+  
+  <AM_KemeticFineTileRoseQuartz.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileRoseQuartz.description>
+  
+  
+  <AM_KemeticTileCragstone.label>埃及风格地砖（峭壁岩石）</AM_KemeticTileCragstone.label>
+  
+  <AM_KemeticTileCragstone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileCragstone.description>
+  
+  
+  <AM_KemeticTileMudstone.label>埃及风格地砖（泥岩）</AM_KemeticTileMudstone.label>
+  
+  <AM_KemeticTileMudstone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileMudstone.description>
+  
+  
+  <AM_KemeticTileObsidian.label>埃及风格地砖（黑曜石）</AM_KemeticTileObsidian.label>
+  
+  <AM_KemeticTileObsidian.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileObsidian.description>
+  
+  
+  <AM_KemeticTileRoseQuartz.label>埃及风格地砖（玫瑰石英）</AM_KemeticTileRoseQuartz.label>
+  
+  <AM_KemeticTileRoseQuartz.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileRoseQuartz.description>
+  
+  
+  <AM_MesoamericanFineTileCragstone.label>中美洲风格精致地砖（峭壁岩）</AM_MesoamericanFineTileCragstone.label>
+  
+  <AM_MesoamericanFineTileCragstone.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTileCragstone.description>
+  
+  
+  <AM_MesoamericanFineTileMudstone.label>中美洲风格精致地砖（泥岩）</AM_MesoamericanFineTileMudstone.label>
+  
+  <AM_MesoamericanFineTileMudstone.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTileMudstone.description>
+  
+  
+  <AM_MesoamericanFineTileObsidian.label>中美洲风格精致地砖（黑玉髓）</AM_MesoamericanFineTileObsidian.label>
+  
+  <AM_MesoamericanFineTileObsidian.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTileObsidian.description>
+  
+  
+  <AM_MesoamericanFineTileRoseQuartz.label>中美洲风格精致地砖（玫瑰石英）</AM_MesoamericanFineTileRoseQuartz.label>
+  
+  <AM_MesoamericanFineTileRoseQuartz.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTileRoseQuartz.description>
+  
+  
+  <AM_MesoamericanTileCragstone.label>中美洲风格地砖（峭壁岩）</AM_MesoamericanTileCragstone.label>
+  
+  <AM_MesoamericanTileCragstone.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTileCragstone.description>
+  
+  
+  <AM_MesoamericanTileMudstone.label>中美洲风格地砖（泥岩）</AM_MesoamericanTileMudstone.label>
+  
+  <AM_MesoamericanTileMudstone.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTileMudstone.description>
+  
+  
+  <AM_MesoamericanTileObsidian.label>中美洲风格地砖（黑玉髓）</AM_MesoamericanTileObsidian.label>
+  
+  <AM_MesoamericanTileObsidian.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTileObsidian.description>
+  
+  
+  <AM_MesoamericanTileRoseQuartz.label>中美洲风格地砖（玫瑰石英）</AM_MesoamericanTileRoseQuartz.label>
+  
+  <AM_MesoamericanTileRoseQuartz.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTileRoseQuartz.description>
+
+  
+  <AM_SteampunkTileCragstone.label>蒸汽朋克风格地砖（峭壁岩石）</AM_SteampunkTileCragstone.label>
+  
+  <AM_SteampunkTileCragstone.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileCragstone.description>
+  
+  
+  <AM_SteampunkTileMudstone.label>蒸汽朋克风格地砖（泥岩）</AM_SteampunkTileMudstone.label>
+  
+  <AM_SteampunkTileMudstone.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileMudstone.description>
+  
+  
+  <AM_SteampunkTileObsidian.label>蒸汽朋克风格地砖（黑曜石）</AM_SteampunkTileObsidian.label>
+  
+  <AM_SteampunkTileObsidian.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileObsidian.description>
+  
+  
+  <AM_SteampunkTileRoseQuartz.label>蒸汽朋克风格地砖（玫瑰石英）</AM_SteampunkTileRoseQuartz.label>
+  
+  <AM_SteampunkTileRoseQuartz.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileRoseQuartz.description>
+  
+</LanguageData>

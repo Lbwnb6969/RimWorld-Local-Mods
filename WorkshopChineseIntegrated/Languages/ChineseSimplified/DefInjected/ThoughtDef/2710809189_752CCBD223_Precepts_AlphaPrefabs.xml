@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acquired new prefab -->
+  <AM_PrefabBuying_Preferred.stages.acquired_new_prefab.label>购买了预制建筑</AM_PrefabBuying_Preferred.stages.acquired_new_prefab.label>
+  <!-- EN: We bought an awesome new prefab from a trader! We should deploy it and see what's inside! -->
+  <AM_PrefabBuying_Preferred.stages.acquired_new_prefab.description>我们从商人那里购买了一个很酷的预制建筑！是时候该部署组装它看看实际效果了！</AM_PrefabBuying_Preferred.stages.acquired_new_prefab.description>
+  
+</LanguageData>

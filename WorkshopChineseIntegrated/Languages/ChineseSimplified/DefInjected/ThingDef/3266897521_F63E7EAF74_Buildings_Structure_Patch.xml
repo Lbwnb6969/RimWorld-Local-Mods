@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <CA_ChemfuelSmelter.description>从钢渣和其他含有金属的物品中提炼出有用的金属，或将石块精制成透明且脆弱的玻璃板。需要消耗大量化合燃料，且工作时会产生很高的热量。</CA_ChemfuelSmelter.description>
+
+  <ElectricSmelter.description>从钢渣块和其他含有金属的物品中提炼出有用的金属，或将石块精制成透明且脆弱的玻璃板。消耗大量电力。</ElectricSmelter.description>
+  
+  <VHGE_GasPoweredSmelter.description>从钢渣和其他含有金属的物品中提炼出有用的金属，或将石块精制成透明且脆弱的玻璃板。需要接入天然气管道网络才能正常工作。</VHGE_GasPoweredSmelter.description>
+
+</LanguageData>

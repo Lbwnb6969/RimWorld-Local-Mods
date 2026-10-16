@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raiding desired -->
+  <AM_SanguophageCamps_RaidingDesired.label>袭击渴望</AM_SanguophageCamps_RaidingDesired.label>
+  <!-- EN: The lurking dens of sanguophages are a blight upon the world, festering with unnatural corruption. We take pride in raiding these camps, striking at their cursed kind.\n\n<color=#E5E54C>Gameplay effect:</color>\n - If this precept is active in your colony, you will get Sanguophage camp quests once per quadrum. These are storyteller-independent, they don't take the "slot" of a base game quest. -->
+  <AM_SanguophageCamps_RaidingDesired.description>血族的隐秘藏身处是侵蚀世界的毒瘤，是异常腐化的集合体。我们为剿灭被诅咒的血族和袭击他们的营地而自豪。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 如果你的殖民地文化拥有此戒律，则每象都会接到袭击血族营地的任务。这种效果不受游戏叙事者的影响，也不会覆盖或挤掉其他任务或袭击事件的出现几率。</AM_SanguophageCamps_RaidingDesired.description>
+  <!-- EN: More than 3 quadrums without killing a Sanguophage -->
+  <AM_SanguophageCamps_RaidingDesired.comps.3.thoughtStageDescriptions.0>未杀死任何血族（超过45天）</AM_SanguophageCamps_RaidingDesired.comps.3.thoughtStageDescriptions.0>
+  <!-- EN: sanguophage camp raided -->
+  <AM_SanguophageCamps_RaidingDesired.comps.4.eventLabel>袭击了血族营地</AM_SanguophageCamps_RaidingDesired.comps.4.eventLabel>
+  
+</LanguageData>

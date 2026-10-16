@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <KAU_UrgentHaulWorkGiver.label>紧急搬运</KAU_UrgentHaulWorkGiver.label>
+  <KAU_UrgentHaulWorkGiver.verb>紧急搬运中</KAU_UrgentHaulWorkGiver.verb>
+  <KAU_UrgentHaulWorkGiver.gerund>紧急搬运</KAU_UrgentHaulWorkGiver.gerund>
+
+  <KAU_FinishOff.label>处决</KAU_FinishOff.label>
+  <KAU_FinishOff.verb>处决中</KAU_FinishOff.verb>
+  <KAU_FinishOff.gerund>处决</KAU_FinishOff.gerund>
+
+
+</LanguageData>

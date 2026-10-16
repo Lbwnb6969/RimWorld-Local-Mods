@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: janissary bannerman -->
+  <BA_Bannerman_Janissary_Turkic.label>耶尼切里旗手</BA_Bannerman_Janissary_Turkic.label>
+  
+  <!-- EN: deli cavalry -->
+  <BA_Deli_Turkic.label>德尔伊骑兵</BA_Deli_Turkic.label>
+  
+  <!-- EN: djebedji musketeer -->
+  <BA_Elite_Janissary_Turkic.label>杰贝迪火绳枪兵</BA_Elite_Janissary_Turkic.label>
+  
+  <!-- EN: azab militia -->
+  <BA_Footman_Turkic.label>阿扎布民兵</BA_Footman_Turkic.label>
+  
+  <!-- EN: bashi-bazouk irregular -->
+  <BA_Irregular_Turkic.label>巴什波祖克非正规军</BA_Irregular_Turkic.label>
+  
+  <!-- EN: janissary heavy infantry -->
+  <BA_Melee_Janissary_Turkic.label>耶尼切里重步兵</BA_Melee_Janissary_Turkic.label>
+  
+  <!-- EN: Tatar mercenary -->
+  <BA_Mercenary_Turkic.label>鞑靼雇佣兵</BA_Mercenary_Turkic.label>
+  
+  <!-- EN: pasha -->
+  <BA_Pasha_Turkic.label>帕夏</BA_Pasha_Turkic.label>
+  
+  <!-- EN: janissary musketeer -->
+  <BA_Ranged_Janissary_Turkic.label>耶尼切里火绳枪兵</BA_Ranged_Janissary_Turkic.label>
+  
+  <!-- EN: akinci -->
+  <BA_Ranged_Turkic.label>阿金吉骑兵</BA_Ranged_Turkic.label>
+  
+  <!-- EN: sipahi -->
+  <BA_Sipahi_Turkic.label>西帕希骑兵</BA_Sipahi_Turkic.label>
+  
+  <!-- EN: sultan -->
+  <BA_Sultan_Turkic.label>苏丹</BA_Sultan_Turkic.label>
+  <!-- EN: sultan -->
+  <BA_Sultan_Turkic.labelFemale>苏丹</BA_Sultan_Turkic.labelFemale>
+  
+  <!-- EN: peasant -->
+  <BA_Turkic_Peasant.label>突厥农民</BA_Turkic_Peasant.label>
+  
+</LanguageData>

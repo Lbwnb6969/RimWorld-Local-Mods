@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Devourer -->
+  <CABossMechDevourerBody.label>深渊吞噬</CABossMechDevourerBody.label>
+  <!-- EN: left sight sensor -->
+  <CABossMechDevourerBody.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>左视觉传感器</CABossMechDevourerBody.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <CABossMechDevourerBody.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>右视觉传感器</CABossMechDevourerBody.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <CABossMechDevourerBody.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>左听觉传感器</CABossMechDevourerBody.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <CABossMechDevourerBody.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>右听觉传感器</CABossMechDevourerBody.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <!-- EN: Crystal scythe -->
+  <CACrystalScytheBody.label>冥晶亡镰</CACrystalScytheBody.label>
+  <!-- EN: left sight sensor -->
+  <CACrystalScytheBody.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>左视觉传感器</CACrystalScytheBody.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <CACrystalScytheBody.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>右视觉传感器</CACrystalScytheBody.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <CACrystalScytheBody.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>左听觉传感器</CACrystalScytheBody.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <CACrystalScytheBody.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>右听觉传感器</CACrystalScytheBody.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <!-- EN: left shoulder -->
+  <CACrystalScytheBody.corePart.parts.left_shoulder.customLabel>左肩</CACrystalScytheBody.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left blade -->
+  <CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>左镰刃</CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  <!-- EN: left hand -->
+  <CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左尾指</CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left middle finger -->
+  <CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</CACrystalScytheBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <CACrystalScytheBody.corePart.parts.right_shoulder.customLabel>右肩</CACrystalScytheBody.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.customLabel>左臂</CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right blade -->
+  <CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>右镰刃</CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <!-- EN: right hand -->
+  <CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右尾指</CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right middle finger -->
+  <CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</CACrystalScytheBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <CACrystalScytheBody.corePart.parts.left_leg.customLabel>左腿</CACrystalScytheBody.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <CACrystalScytheBody.corePart.parts.left_leg.parts.left_foot.customLabel>左足</CACrystalScytheBody.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <CACrystalScytheBody.corePart.parts.right_leg.customLabel>右腿</CACrystalScytheBody.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <CACrystalScytheBody.corePart.parts.right_leg.parts.right_foot.customLabel>右足</CACrystalScytheBody.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+</LanguageData>

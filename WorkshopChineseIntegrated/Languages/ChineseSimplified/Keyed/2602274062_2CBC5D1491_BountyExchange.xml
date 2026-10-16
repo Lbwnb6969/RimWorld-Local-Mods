@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bounty Services -->
+  <CABountyExchangeOpenOption>赏金业务</CABountyExchangeOpenOption>
+  <!-- EN: Current bounty credits: {0}\n\n\nBounty for mechanoid kills:\nPikeman - 7\nScyther - 10\nLancer - 15\nCentipede - 45\nSpecial mechs may grand more credits -->
+  <CABountyExchangeMain>当前赏金点数：{0}\n\n\n击杀机械体可获点数：\n机械蝎蝽 - 7\n机械飞螳 - 10\n机械静螳 - 15\n机械蜈蚣 - 45\n击杀特殊机械体可获得更多点数</CABountyExchangeMain>
+  <!-- EN: Request military assistance -->
+  <CABountyExchangeRequestHelp>请求军事支援</CABountyExchangeRequestHelp>
+  <!-- EN: Request rare item -->
+  <CABountyExchangeRequestItem>请求稀有物品</CABountyExchangeRequestItem>
+  <!-- EN: Improve relations -->
+  <CABountyExchangeRequestImprovedRelations>改善关系</CABountyExchangeRequestImprovedRelations>
+  <!-- EN: Recruit veteran soldier -->
+  <CABountyExchangeRecruitVeteranHunter>招募老练的士兵</CABountyExchangeRecruitVeteranHunter>
+  <!-- EN: Exchange silver for bounty credit -->
+  <CABountyExchangeBuyBountyWithSilver>用白银兑换信用点</CABountyExchangeBuyBountyWithSilver>
+  <!-- EN: Back -->
+  <CABountyBack>返回</CABountyBack>
+  <!-- EN: You are hostile towards {0} -->
+  <CABountyExchangeHostile>你的派系与{0}相互敌对</CABountyExchangeHostile>
+  
+  <!-- EN: Current bounty credits: {0}\n\n\nPlease choose the amount of men you need.\n\n{1} -->
+  <CABountyExchangeRequestHelp_StrengthSelection>当前赏金点数：{0}\n\n\n请选择你需要的支援数量。\n\n{1}</CABountyExchangeRequestHelp_StrengthSelection>
+  <!-- EN: A few   (~ 6 hunters)  - 250 bounty credit -->
+  <CABountyExchangeRequestHelp_StrengthSelection_Few>几名 (大约6名猎人)  - 250赏金点数</CABountyExchangeRequestHelp_StrengthSelection_Few>
+  <!-- EN: A bunch (~ 15 hunters) - 650 bounty credit -->
+  <CABountyExchangeRequestHelp_StrengthSelection_Bunch>一群 (大约15名猎人)  - 650赏金点数</CABountyExchangeRequestHelp_StrengthSelection_Bunch>
+  <!-- EN: An army (~ 30 hunters) - 1250 bounty credit -->
+  <CABountyExchangeRequestHelp_StrengthSelection_Army>一队 (大约30名猎人)  - 1250赏金点数</CABountyExchangeRequestHelp_StrengthSelection_Army>
+  <!-- EN: Not enough credits -->
+  <CABountyExchangeRequestHelp_StrengthSelection_NotEnoughMoney>没有足够的赏金点数</CABountyExchangeRequestHelp_StrengthSelection_NotEnoughMoney>
+  <!-- EN: Hunters ready to deploy -->
+  <CABountyExchangeRequestHelp_StrengthSelection_TroopDeploymentReady>猎人已准备部署。</CABountyExchangeRequestHelp_StrengthSelection_TroopDeploymentReady>
+  <!-- EN: Next hunter deployment ready in {0} days -->
+  <CABountyExchangeRequestHelp_StrengthSelection_TroopDeploymentDetail>下一次猎人部署请求将于{0}天后准备完毕。</CABountyExchangeRequestHelp_StrengthSelection_TroopDeploymentDetail>
+  <!-- EN: Hunters busy -->
+  <CABountyExchangeRequestHelp_StrengthSelection_TroopDeploymentBusy>猎人正忙</CABountyExchangeRequestHelp_StrengthSelection_TroopDeploymentBusy>
+  
+  <!-- EN: Current bounty credits: {0}\n\n\nPlease select the item you'd like to exchange bounty credits for. It will be delivered via drop pod.\n\n{1} -->
+  <CABountyExchangeRequestItemTitle>当前赏金点数：{0}\n\n\n请选择你想用赏金点数交换的物品。\n\n{1}</CABountyExchangeRequestItemTitle>
+  <!-- EN:          buy {0} for: {1} credits -->
+  <CABountyExchangeRequestItem_ItemDetails>          购买{0}需要花费：{1}点数</CABountyExchangeRequestItem_ItemDetails>
+  <!-- EN: Your delivery from {0} arrived! -->
+  <CABountyExchangeRequestItem_ItemArrived>从{0}处订购的物品已送达！</CABountyExchangeRequestItem_ItemArrived>
+  <!-- EN: Just restocked.  -->
+  <CABountyExchangeRequestItem_ItemRestockNow>货物已补充。</CABountyExchangeRequestItem_ItemRestockNow>
+  <!-- EN: Next restock in {0} days -->
+  <CABountyExchangeRequestItem_ItemRestockDetail>下一次货物补给将于{0}天后完毕。</CABountyExchangeRequestItem_ItemRestockDetail>
+  
+  <!-- EN: Current bounty credits: {0}\n\n\nYou can trade in bounty to improve relations.\nRelation trades towards us work immediately, but if we should negotiate with other factions on your behalf, it will cost more and also take some time for our envoy to make the trip.\nThe worse the relations are, the more bounty credits are required. -->
+  <CABountyExchangeRelationHaggle>当前赏金点数：{0}\n\n\n你可以花费赏金点数来改善与各派系之间的关系。\n若想要与我等交好，交易会即刻生效。但若想要我等代表你们与其他派系进行协商谈判，将会花费更多的点数，我等的使者也需要花费一些时间来处理。\n彼此的关系越糟糕，花费的赏金点数也越多。</CABountyExchangeRelationHaggle>
+  <!-- EN: Trade {0} credits for {1} goodwill with {2} -->
+  <CABountyExchangeRelationHaggle_WithYou>花费{0}点数换取与{2}间的{1}点友好度</CABountyExchangeRelationHaggle_WithYou>
+  <!-- EN: Choose another faction -->
+  <CABountyExchangeRelationHaggle_WithAnotherFaction>选择其他派系</CABountyExchangeRelationHaggle_WithAnotherFaction>
+  <!-- EN: Envoy traveling for another {0} days -->
+  <CABountyExchangeRelationHaggle_EnvoyBusyDetail>使者需要花费{0}天的时间来完成谈判。</CABountyExchangeRelationHaggle_EnvoyBusyDetail>
+  <!-- EN: Envoy busy -->
+  <CABountyExchangeRelationHaggle_EnvoyBusy>使者正忙</CABountyExchangeRelationHaggle_EnvoyBusy>
+  <!-- EN: Envoy ready -->
+  <CABountyExchangeRelationHaggle_EnvoyReady>使者已准备就绪。</CABountyExchangeRelationHaggle_EnvoyReady>
+  <!-- EN: Max goodwill -->
+  <CABountyExchangeRelationHaggle_AlreadyMax>最大友好度</CABountyExchangeRelationHaggle_AlreadyMax>
+  <!-- EN: Current bounty credits: {0}\n\n\nFollowing Factions are available:\n\n{1} -->
+  <CABountyExchangeRelationHaggle_Factions>当前赏金点数：{0}\n\n\n可选择改善与下列派系之间的关系：\n\n{1}</CABountyExchangeRelationHaggle_Factions>
+  <!-- EN: {0} ({1})   buy: {2} for: {3} credits -->
+  <CABountyExchangeRelationHaggle_Factions_ListedFaction>{0} ({1})   提高{2}点友好度需要花费：{3}赏金点数</CABountyExchangeRelationHaggle_Factions_ListedFaction>
+
+  <!-- EN: Current bounty credits: {0}\n\n\nThis rare opportunity allows you to recruit one of {1}'s finest soldiers. A battle hardened veteran who knows exactly how to survive on this planet. However, such a privilege requires amounting a lot of bounty credit.\n\n{2} -->
+  <CABountyExchangeVeteranRecruitment>当前赏金点数：{0}\n\n\n这可是个难得的机会。你可以招募到{1}中最强悍的士兵之一。一名身经百战的老兵很清楚该如何在这边缘世界中活下去。只不过...这种特殊请求需要花费大量赏金点数。\n\n{2}</CABountyExchangeVeteranRecruitment>
+  <!-- EN: Veteran available -->
+  <CABountyExchangeVeteranRecruitment_Available>有老兵可招募。</CABountyExchangeVeteranRecruitment_Available>
+  <!-- EN: Next veteran available in {0} days -->
+  <CABountyExchangeVeteranRecruitment_Details>下一名老兵可于{0}天后招募。</CABountyExchangeVeteranRecruitment_Details>
+  <!-- EN: Enlist top veteran for {0} bounty credits -->
+  <CABountyExchangeVeteranRecruitment_Enlist>花费{0}赏金点数来招募最强悍的老兵</CABountyExchangeVeteranRecruitment_Enlist>
+  <!-- EN: No veteran available -->
+  <CABountyExchangeVeteranRecruitment_NotAvailable>没有老兵可招募。</CABountyExchangeVeteranRecruitment_NotAvailable>
+  <!-- EN: \n\n\nAs the personality is usually important, we try to find a good fit for you. -->
+  <CABountyExchangeVeteranRecruitment_ChoosePersonality>个人特性十分重要，我们会尽可能为你找到最佳人选。</CABountyExchangeVeteranRecruitment_ChoosePersonality>
+  <!-- EN: Rather none of those -->
+  <CABountyExchangeVeteranRecruitment_ChoosePersonalityNone>没有相中的特性</CABountyExchangeVeteranRecruitment_ChoosePersonalityNone>
+  <!-- EN: \n\n\nAnd the unique skill? -->
+  <CABountyExchangeVeteranRecruitment_ChooseSkill>那么这些独特的技能呢？</CABountyExchangeVeteranRecruitment_ChooseSkill>
+
+  <!-- EN: Current bounty credits: {0}\nCurrent silver: {1}\n\n\nChoose how many bounty credits you want to buy -->
+  <CABountyExchangeSilverForBounty>当前赏金点数：{0}\n当前白银数量： {1}\n\n\n请选择要换取的点数数量</CABountyExchangeSilverForBounty>
+  <!-- EN: Exchange {0} silver for {1} bounty credit -->
+  <CABountyExchangeSilverForBountyOption>花费{0}白银换取{1}赏金点数</CABountyExchangeSilverForBountyOption>
+  <!-- EN: Not enough silver -->
+  <CABountyExchangeSilverForBountyLackingSilver>没有足够的白银</CABountyExchangeSilverForBountyLackingSilver>
+
+  <!-- EN: Collected {0, -10} bounty credit for killing a {1, -20}, total credit: {2} -->
+  <CABountyKillMessage>杀死一只{1, -20}，获得{0, -10}赏金点数。点数总计：{2}</CABountyKillMessage>
+  <!-- EN: Bounty-kill:  -->
+  <CABountyKillMessageBounty>赏金-击杀：</CABountyKillMessageBounty>
+  <!-- EN: Reward:  -->
+  <CABountyKillMessageReward>报酬：</CABountyKillMessageReward>
+  <!-- EN: Total credit:  -->
+  <CABountyKillMessageCredit>点数总计：</CABountyKillMessageCredit>
+
+  <!-- EN: Enlist top tribal veteran for {0} bounty credits -->
+  <CABountyExchangeVeteranRecruitment_EnlistTribal>花费{0}赏金点数来招募最强悍的部落精英战士</CABountyExchangeVeteranRecruitment_EnlistTribal>
+</LanguageData>

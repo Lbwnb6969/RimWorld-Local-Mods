@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colony horse died -->
+  <AM_Horses_Desired_HorseDied.stages.colony_horse_died.label>殖民地饲养的马死亡</AM_Horses_Desired_HorseDied.stages.colony_horse_died.label>
+  <!-- EN: Such a cruel world. Our horses are not just animals, but our friends and companions. -->
+  <AM_Horses_Desired_HorseDied.stages.colony_horse_died.description>这个世界竟如此残忍。我们的马不仅仅是牲畜，同样也是我们的朋友和伙伴。</AM_Horses_Desired_HorseDied.stages.colony_horse_died.description>
+  
+</LanguageData>

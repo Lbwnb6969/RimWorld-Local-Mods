@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make chapterless firstborn -->
+  <BEWH_MakeFirstborn.label>制造初代星际战士</BEWH_MakeFirstborn.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstborn.description>植入初代星际战士基因物质。</BEWH_MakeFirstborn.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstborn.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstborn.jobString>
+  
+  <!-- EN: make Dark Angels firstborn -->
+  <BEWH_MakeFirstbornChapterI.label>制造初代星际战士（黑暗天使）</BEWH_MakeFirstbornChapterI.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterI.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterI.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterI.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterI.jobString>
+  
+  <!-- EN: make Emperor's Children firstborn -->
+  <BEWH_MakeFirstbornChapterIII.label>制造初代星际战士（帝皇之子）</BEWH_MakeFirstbornChapterIII.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterIII.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterIII.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterIII.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterIII.jobString>
+  
+  <!-- EN: make Iron Warriors firstborn -->
+  <BEWH_MakeFirstbornChapterIV.label>制造初代星际战士（钢铁勇士）</BEWH_MakeFirstbornChapterIV.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterIV.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterIV.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterIV.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterIV.jobString>
+  
+  <!-- EN: make Blood Angels firstborn -->
+  <BEWH_MakeFirstbornChapterIX.label>制造初代星际战士（圣血天使）</BEWH_MakeFirstbornChapterIX.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterIX.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterIX.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterIX.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterIX.jobString>
+  
+  <!-- EN: make White Scars firstborn -->
+  <BEWH_MakeFirstbornChapterV.label>制造初代星际战士（白色疤痕）</BEWH_MakeFirstbornChapterV.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterV.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterV.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterV.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterV.jobString>
+  
+  <!-- EN: make Space Wolves firstborn -->
+  <BEWH_MakeFirstbornChapterVI.label>制造初代星际战士（太空野狼）</BEWH_MakeFirstbornChapterVI.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterVI.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterVI.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterVI.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterVI.jobString>
+  
+  <!-- EN: make Imperial Fists firstborn -->
+  <BEWH_MakeFirstbornChapterVII.label>制造初代星际战士（帝国之拳）</BEWH_MakeFirstbornChapterVII.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterVII.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterVII.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterVII.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterVII.jobString>
+  
+  <!-- EN: make Night Lords firstborn -->
+  <BEWH_MakeFirstbornChapterVIII.label>制造初代星际战士（午夜领主）</BEWH_MakeFirstbornChapterVIII.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterVIII.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterVIII.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterVIII.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterVIII.jobString>
+  
+  <!-- EN: make Iron Hands firstborn -->
+  <BEWH_MakeFirstbornChapterX.label>制造初代星际战士（钢铁之手）</BEWH_MakeFirstbornChapterX.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterX.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterX.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterX.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterX.jobString>
+  
+  <!-- EN: make World Eaters firstborn -->
+  <BEWH_MakeFirstbornChapterXII.label>制造初代星际战士（吞世者）</BEWH_MakeFirstbornChapterXII.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterXII.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterXII.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterXII.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterXII.jobString>
+  
+  <!-- EN: make Ultramarines firstborn -->
+  <BEWH_MakeFirstbornChapterXIII.label>制造初代星际战士（极限战士）</BEWH_MakeFirstbornChapterXIII.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterXIII.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterXIII.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterXIII.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterXIII.jobString>
+  
+  <!-- EN: make Death Guard firstborn -->
+  <BEWH_MakeFirstbornChapterXIV.label>制造初代星际战士（死亡守卫）</BEWH_MakeFirstbornChapterXIV.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterXIV.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterXIV.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterXIV.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterXIV.jobString>
+  
+  <!-- EN: make Raven Guard firstborn -->
+  <BEWH_MakeFirstbornChapterXIX.label>制造初代星际战士（暗鸦守卫）</BEWH_MakeFirstbornChapterXIX.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterXIX.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterXIX.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterXIX.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterXIX.jobString>
+  
+  <!-- EN: make Thousand Sons firstborn -->
+  <BEWH_MakeFirstbornChapterXV.label>制造初代星际战士（千疮之子）</BEWH_MakeFirstbornChapterXV.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterXV.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterXV.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterXV.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterXV.jobString>
+  
+  <!-- EN: make Sons of Horus firstborn -->
+  <BEWH_MakeFirstbornChapterXVI.label>制造初代星际战士（荷鲁斯之子）</BEWH_MakeFirstbornChapterXVI.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterXVI.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterXVI.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterXVI.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterXVI.jobString>
+  
+  <!-- EN: make Word Bearers firstborn -->
+  <BEWH_MakeFirstbornChapterXVII.label>制造初代星际战士（怀言者）</BEWH_MakeFirstbornChapterXVII.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterXVII.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterXVII.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterXVII.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterXVII.jobString>
+  
+  <!-- EN: make Salamanders firstborn -->
+  <BEWH_MakeFirstbornChapterXVIII.label>制造初代星际战士。（火蜥蜴）</BEWH_MakeFirstbornChapterXVIII.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterXVIII.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterXVIII.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterXVIII.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterXVIII.jobString>
+  
+  <!-- EN: make Alpha Legion firstborn -->
+  <BEWH_MakeFirstbornChapterXX.label>制造初代星际战士。（阿尔法军团）</BEWH_MakeFirstbornChapterXX.label>
+  <!-- EN: Implant Firstborn genetic material into a patient. -->
+  <BEWH_MakeFirstbornChapterXX.description>植入初代星际战士基因物质。</BEWH_MakeFirstbornChapterXX.description>
+  <!-- EN: Implanting Firstborn genetic material. -->
+  <BEWH_MakeFirstbornChapterXX.jobString>植入初代星际战士基因物质中。</BEWH_MakeFirstbornChapterXX.jobString>
+  
+</LanguageData>

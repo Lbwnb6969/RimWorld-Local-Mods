@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: too long without killing a sanguophage -->
+  <AM_SanguophageCamps_BloodfeederDied_Desire.stages.too_long_without_killing_a_sanguophage.label>长时间未杀死任何血族</AM_SanguophageCamps_BloodfeederDied_Desire.stages.too_long_without_killing_a_sanguophage.label>
+  <!-- EN: It's been more than three quadrums since our colony has killed a Sanguophage... What kind of hunters are we? -->
+  <AM_SanguophageCamps_BloodfeederDied_Desire.stages.too_long_without_killing_a_sanguophage.description>自从我们上次杀死血族以来，已经过去3个象（45天）之久了...这还算哪门子的血族猎人？</AM_SanguophageCamps_BloodfeederDied_Desire.stages.too_long_without_killing_a_sanguophage.description>
+  
+  <!-- EN: raided a sanguophage camp -->
+  <AM_SanguophageCamps_RaidingDesired.stages.raided_a_sanguophage_camp.label>袭击了血族营地</AM_SanguophageCamps_RaidingDesired.stages.raided_a_sanguophage_camp.label>
+  <!-- EN: I raided a camp full of disgusting Sanguophages! -->
+  <AM_SanguophageCamps_RaidingDesired.stages.raided_a_sanguophage_camp.description>我袭击了一处满是恶心血族的营地！</AM_SanguophageCamps_RaidingDesired.stages.raided_a_sanguophage_camp.description>
+  
+  <!-- EN: raided a sanguophage camp together -->
+  <AM_SanguophageCamps_RaidingDesired_Know.stages.raided_a_sanguophage_camp_together.label>共同袭击了血族营地</AM_SanguophageCamps_RaidingDesired_Know.stages.raided_a_sanguophage_camp_together.label>
+  
+</LanguageData>

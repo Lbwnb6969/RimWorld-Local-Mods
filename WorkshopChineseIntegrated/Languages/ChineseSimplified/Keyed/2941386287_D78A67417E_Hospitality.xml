@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Hospitality_VendingMachineThreshold>预定清空：</Hospitality_VendingMachineThreshold>
+  <Hospitality_VendingMachineContent>内容物</Hospitality_VendingMachineContent>
+
+    <!-- EN: Slot machine -->
+  <HospitalityCasino_VendingMachine>老虎机</HospitalityCasino_VendingMachine>
+    <!-- EN: Contains: -->
+  <HospitalityCasino_VendingMachineContains>当前收入：</HospitalityCasino_VendingMachineContains>
+    <!-- EN: Lifetime earnings: -->
+  <HospitalityCasino_VendingMachineTotal>今日收入：</HospitalityCasino_VendingMachineTotal>
+    <!-- EN: Allow guests to use this facility. -->
+  <HospitalityCasino_VendingMachineToggleDesc>允许访客使用此设施。</HospitalityCasino_VendingMachineToggleDesc>
+    <!-- pricing -->
+    <!-- EN: Set Pricing -->
+  <HospitalityCasino_SetPricing>设置价格</HospitalityCasino_SetPricing>
+    <!-- EN: Free play -->
+  <HospitalityCasino_Free>免费游玩</HospitalityCasino_Free>
+    <!-- EN: Low stake - low housecut -->
+  <HospitalityCasino_Low>低赌注 - 低回报</HospitalityCasino_Low>
+    <!-- EN: Default stake - default housecut -->
+  <HospitalityCasino_Medium>标准赌注 - 标准回报</HospitalityCasino_Medium>
+    <!-- EN: High stake - high housecut -->
+  <HospitalityCasino_High>高赌注 - 高回报</HospitalityCasino_High>
+    <!-- EN: Empty every slot machine after X hours -->
+  <HospitalityCasino_EmptyAfterHours>每隔多少小时清空一次老虎机</HospitalityCasino_EmptyAfterHours>
+    <!-- EN: If a slot machine has not been emptied after this number of hours, somebody will need to come and empty it. -->
+  <HospitalityCasino_EmptyAfterHoursTooltip>殖民者每隔多少小时清空一次老虎机内已赚得的白银。</HospitalityCasino_EmptyAfterHoursTooltip>
+    <!-- Casino visitor lord messages -->
+    <!-- EN: The casino visitors have had their fill and are heading home. -->
+  <CasinoVisitorsLeavingTime>赌场访客们玩得十分尽兴，正准备离开。</CasinoVisitorsLeavingTime>
+    <!-- EN: The casino visitors have run out of money and are leaving. -->
+  <CasinoVisitorsLeavingMoney>赌场访客们输了个精光，正准备离开。</CasinoVisitorsLeavingMoney>
+</LanguageData>

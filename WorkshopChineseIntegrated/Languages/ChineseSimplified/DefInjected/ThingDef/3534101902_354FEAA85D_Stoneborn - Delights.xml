@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SD_Alkahest.label>宇宙溶剂</SD_Alkahest.label>
+    <SD_Alkahest.description>通常被高等石生种所使用的各种不同化学制品和机械粒子与兴奋剂的复杂混合。它大幅改善了集中和思考的效率，除此之外还几乎能抹杀休息的需求。宇宙溶剂有不持久的效果于常规用量，但戒断会因为脑部对缺乏持续刺激的调整而促成残酷的心灵麻痹。\n\n在第一次使用之后便没有排出机械粒子的方法，在任何时候。\n\n由于它是频繁被贵族使用的，以及其给予使用者静脉的病态绿色，再加之它难以获取，贵族乃至皇室间有对这种毒品的昵称说是“帝王猛毒”。社会上层许多巧妙的阴谋和无耻的背叛行为，有的纯粹专门是为得到哪怕一根单独的宇宙溶液注射器。</SD_Alkahest.description>
+
+    <SD_Fey.label>妖精</SD_Fey.label>
+    <SD_Fey.description>一种稀有且难以解释的生物，对石生种的酿造过程有着莫名的迷恋。大多数倾向认为那是一些灵体或者自然本身的显现，又或是一些来自异世界的神异。但石生种们怎么说？他们只在乎那些家伙的翅膀，哪个可以卷进带劲的烟卷。</SD_Fey.description>
+
+    <SD_BeardWax.label>须蜡</SD_BeardWax.label>
+    <SD_BeardWax.description>一种特地为石生种那惊人的发型制造的优秀发蜡。应用一罐须蜡给哪怕大部分在采石场劳作侏儒的胡子带来诱人光泽，当放在他们毛根杂乱的地方；完给任何注重形象的社交方式。对那些不幸没有惊人胡子的人它也是可爱的面部保湿剂。</SD_BeardWax.description>
+    <SD_BeardWax.ingestible.ingestCommandString>使用 {0}</SD_BeardWax.ingestible.ingestCommandString>
+    <SD_BeardWax.ingestible.ingestReportString>使用 {0}.</SD_BeardWax.ingestible.ingestReportString>
+
+    <SD_BladerootCigar.label>刃根雪茄</SD_BladerootCigar.label>
+    <SD_BladerootCigar.description>刃根叶卷成的紧致雪茄。尽管外观有害，很多杰出的石生种运动员仍然会长吸几口来此提升自己的运动感知能力。\n\n常能见到石生种破盾者在野蛮的挥舞他们的战锤冲向敌人阵线时抽着刃根雪茄。</SD_BladerootCigar.description>
+
+    <SD_ShroomAleBarrel.label>矮人酒桶</SD_ShroomAleBarrel.label>
+    <SD_ShroomAleBarrel.description>一个质朴的封闭小桶用来酿造各种石生种酒饮。</SD_ShroomAleBarrel.description>
+
+    <SD_Bullgrog.label>公牛格洛格</SD_Bullgrog.label>
+    <SD_Bullgrog.description>一种怪异的酒饮，产生于棕色公牛身体内部，然后从他们的皮肤分泌出来，这似乎是它们排出体内有害化学物质的一种方法，或是一种抵御掠食者的独特方式，不管怎样，这似乎至少对石生种很可口，并且当醉酒后会使你感到非常势不可挡和饥饿。</SD_Bullgrog.description>
+    <SD_Bullgrog.ingestible.ingestCommandString>喝 {0}</SD_Bullgrog.ingestible.ingestCommandString>
+    <SD_Bullgrog.ingestible.ingestReportString>喝 {0}.</SD_Bullgrog.ingestible.ingestReportString>
+
+    <SD_Feywing.label>妖精翅</SD_Feywing.label>
+    <SD_Feywing.description>被撕掉的妖精翅膀。不知何故，一些彪悍的石生种想到卷起它并且像烟一样抽，并且现在它因为独特的强烈快感而成为一种受追捧的毒品。</SD_Feywing.description>
+
+    <SD_FeywingJoint.label>妖精翅烟</SD_FeywingJoint.label>
+    <SD_FeywingJoint.description>妖精的翅膀卷进了一只烟。也许是由于所有妖精的独特特性与甜酒的迷人，这种烟能带来强烈的快感，那也许能提升仍和人的的能力。当谁摄入了它，在离开时会感到深深的平静。由于他们生产的性质这种烟很难偶然遇到，所以注意务必小心依赖。</SD_FeywingJoint.description>
+
+    <SD_ForgeLiquor.label>锻造烈酒</SD_ForgeLiquor.label>
+    <SD_ForgeLiquor.description>一种气味强烈并且余味灼热的酒的烈性酒，石生种工匠的最爱。这种饮料深受追捧不止是因为它艰辛的酿造过程与少见的成分，还是因为它能授予任何喝它的人创作热情的反常能力。警惕不要喝太多锻造烈酒，那会将情绪点燃至近乎失控的程度。</SD_ForgeLiquor.description>
+    <SD_ForgeLiquor.ingestible.ingestCommandString>喝光 {0}</SD_ForgeLiquor.ingestible.ingestCommandString>
+    <SD_ForgeLiquor.ingestible.ingestReportString>喝光 {0}.</SD_ForgeLiquor.ingestible.ingestReportString>
+
+    <Filth_Glimmerquartz.label>微光碎石</Filth_Glimmerquartz.label>
+
+    <SD_GlimmerquartzOre.label>微光石英</SD_GlimmerquartzOre.label>
+    <SD_GlimmerquartzOre.description>一块明亮的淡粉色水晶。阳光穿透它，渲染周边地面做美丽的粉色。</SD_GlimmerquartzOre.description>
+
+    <ChunkGlimmer.label>微光石英块</ChunkGlimmer.label>
+    <ChunkGlimmer.description>一块微光。可以切割成珍贵的晶体。</ChunkGlimmer.description>
+
+    <SD_Glimmerquartz.label>微光石英</SD_Glimmerquartz.label>
+    <SD_Glimmerquartz.description>一块微光石英的小晶体，从大块原石中切割到更适于食用的尺寸。微光石英的化学成分使其成为一种极强效的兴奋剂，凡食用者都会产生一种欣快感，并获得过剩的能量，以至于人们宁愿四处奔跑消耗这些能量，也不愿坐下来工作。它同时也是一种非常可口的甜味剂，因此常用于某些石生种食谱中。整个石生种采矿作业都致力于开采这些甜晶以食用和进行加工。</SD_Glimmerquartz.description>
+
+    <SD_HiveMead.label>蜂箱蜜酒</SD_HiveMead.label>
+    <SD_HiveMead.description>一种在洞穴世界深处酿造而成的令人醉酒的甜酒。虫胶中的高葡萄糖含量造就了美妙的糖浆和令人愉悦的蜜酒与极佳的口感。尽管一些人说喝了会更加疲惫，但这交其他的或许更多是源于蜂蜜酒的酒精含量及其顺滑的口感。</SD_HiveMead.description>
+    <SD_HiveMead.ingestible.ingestCommandString>喝 {0}</SD_HiveMead.ingestible.ingestCommandString>
+    <SD_HiveMead.ingestible.ingestReportString>喝 {0}.</SD_HiveMead.ingestible.ingestReportString>
+
+    <SD_MinersDelight.label>矿工乐事</SD_MinersDelight.label>
+    <SD_MinersDelight.description>一种绿色和金色的经常被以采矿为生的石生种制作的粉末。当他们吸入矿物粉末和植物叶片的混合物时也许并不明智，谁做了能进入一种精神更加坚韧的状态：有效于像矿坑这样的环境。\n\n那种平静的状态让矿工梦专注于岩石的开采，允许他们物色那些原本可能被忽视矿脉。</SD_MinersDelight.description><SD_Plant_Stoutcap.label>肥帽菌</SD_Plant_Stoutcap.label>
+    <SD_Plant_Stoutcap.description>为了酿造出美味产物而生的一种柔软的经过生物改造的蘑菇。可以长在真菌砾石上，但只能在黑暗中-暴露在任何一种光下包括暗光都会杀死它。</SD_Plant_Stoutcap.description>
+
+    <SD_RawStoutcap.label>肥帽菌</SD_RawStoutcap.label>
+    <SD_RawStoutcap.description>生的肥帽菌。一种柔软的蘑菇，是制作蘑菇酒的必须品。</SD_RawStoutcap.description>
+
+    <SD_Plant_Bladeroot.label>刃根</SD_Plant_Bladeroot.label>
+    <SD_Plant_Bladeroot.description>一种粗壮的根茎植物，主要因其叶片具有强效作用而被种植和采收。可以长在真菌砾石上，但只能在黑暗中-暴露在任何一种光下包括暗光都会杀死它。</SD_Plant_Bladeroot.description>
+
+    <SD_RawBladeroot.label>刃根</SD_RawBladeroot.label>
+    <SD_RawBladeroot.description>生的刃根。一种坚硬的银色叶子，吸了有某些效果。</SD_RawBladeroot.description>
+
+    <SD_Plant_BullHorns.label>公牛角</SD_Plant_BullHorns.label>
+    <SD_Plant_BullHorns.description>一种耐寒的植物，有巨大的淀粉“角”，给予了它标志性的名字。这些增生物是辣的且是烹饪的好材料。可以长在真菌砾石上，但只能在黑暗中-暴露在任何一种光下包括暗光都会杀死它。</SD_Plant_BullHorns.description>
+
+    <SD_RawBullHorns.label>公牛角</SD_RawBullHorns.label>
+    <SD_RawBullHorns.description>生的公牛角。一种辣且富含淀粉的蔬菜，用于某些石生种的酿造配方。</SD_RawBullHorns.description>
+
+    <SD_RageElixir.label>暴走灵药</SD_RageElixir.label>
+    <SD_RageElixir.description>种由石生种化学家调制的化学混合物，会师愤怒和死亡的图像填满思想，甚至能将最平和的人变成狂暴的疯子，引导他们杀死每个人。\n\n这种灵药有着独特的麻痹特性，能断开大多数痛觉，允许使用者停留在战斗中更久，同时药剂本身也有适当的治疗效果，这使它成为了近战武士的完美拍档，或是负伤士兵的救命稻草。</SD_RageElixir.description>
+
+    <SD_Redspice.label>红之香辛料</SD_Redspice.label>
+    <SD_Redspice.description>一种由公牛角研磨成的辛辣红色粉末的。它是刺鼻且发酸的，但是它真正的用途是移除宿醉所带来的恶心效果，快速吸入一口就能快速消除由石生种酒饮所带来的不适感。红之香辛料桶经常在酒馆被发现，尤其是在宴会之后。</SD_Redspice.description>
+
+    <SD_RawShatterbrew.label>生破片茶</SD_RawShatterbrew.label>
+    <SD_RawShatterbrew.description>一种满赛着肉的超大份的酒精炖菜，植物材料和肥帽菇。需要发酵超过一个方形(quadrum)才能被享受，但是当喝入口中时便同是置整一顿自助餐于一罐子，让你又撑又醉。石生种典型的在结束内容后以摔碎器皿来寻找荣誉感，故此冠名以破片茶，而饮酒竞赛则是他们在他们要塞中的主要消遣活动。这支特殊的罐子还没准备好，必须在摄取之前发酵更多。</SD_RawShatterbrew.description>
+    <SD_FermentedShatterbrew.label>发酵破片茶</SD_FermentedShatterbrew.label>
+    <SD_FermentedShatterbrew.description>一种满赛着肉的超大份的酒精炖菜，植物材料和肥帽菇。满发酵，可以喝了。</SD_FermentedShatterbrew.description>
+
+    <SD_ShroomAle.label>致幻蘑菇麦酒</SD_ShroomAle.label>
+    <SD_ShroomAle.description>一种最初由石生种矿工家酿而成美味的麦酒。其成分造就了这种酒的霸道和易醉，搭配酒馆美食再合适不过。许多嗜酒如命的人曾发誓说他们能稳住他们的准头——尽管他们说话时往往口齿不清。</SD_ShroomAle.description>
+    <SD_ShroomAle.ingestible.ingestCommandString>喝 {0}</SD_ShroomAle.ingestible.ingestCommandString>
+    <SD_ShroomAle.ingestible.ingestReportString>喝 {0}.</SD_ShroomAle.ingestible.ingestReportString>
+
+    <SD_Sweetwine.label>甜葡萄酒</SD_Sweetwine.label>
+    <SD_Sweetwine.description>一种近乎糖浆的直接由微光石英酿造而成的甜葡萄酒。酿造过程疑似简单，却是仅这一种原料便需要发酵相当长的时间：当做的恰到好处会成为一种口感醇厚的饮料，哪怕是最为悲伤的石生种也会因此而振作。</SD_Sweetwine.description>
+    <SD_Sweetwine.ingestible.ingestCommandString>喝 {0}</SD_Sweetwine.ingestible.ingestCommandString>
+    <SD_Sweetwine.ingestible.ingestReportString>喝 {0}.</SD_Sweetwine.ingestible.ingestReportString>
+
+    <SD_ElixirMush.label>灵药糊糊</SD_ElixirMush.label>
+    <SD_ElixirMush.description>未发酵的灵药，及其刺鼻。这种物质需要在桶里经过发酵才能成为灵药。</SD_ElixirMush.description>
+
+    <SD_LiquorSmush.label>烈酒糊糊</SD_LiquorSmush.label>
+    <SD_LiquorSmush.description>未发酵的烈酒，气味强烈辛辣。这种物质需要在桶里经过发酵才能成为烈酒。</SD_LiquorSmush.description>
+
+</LanguageData>

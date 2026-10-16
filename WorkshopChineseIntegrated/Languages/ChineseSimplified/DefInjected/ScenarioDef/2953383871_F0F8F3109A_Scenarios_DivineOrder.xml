@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BotchJob_DivineOrderStart.label>神圣秩序叛逃者</BotchJob_DivineOrderStart.label>
+  <BotchJob_DivineOrderStart.description>你们四人曾是神圣秩序的教徒，如今已叛变并逃亡了数周之久。\n\n补给品即将耗尽，你们只剩下一些基本装备和一匹马，但唯一值得庆幸的是你还有它…一块神圣牌匾。如果有合适的买家，它或许能卖个好价钱，或者你也可以保留它并尝试揭开它的秘密。\n\n无论如何，你们都不可能永远逃下去。这里似乎是一个安定下来并准备面对挑战的好地方。接下来的日子并不容易，但凭藉希望和毅力，你们也许能够为自己创造崭新的生活。\n\n有一件事是确定的，教团最终会找到你们，而且绝对不会手下留情。\n\n你们必须做好准备。</BotchJob_DivineOrderStart.description>
+  <BotchJob_DivineOrderStart.scenario.name>神圣秩序叛逃者</BotchJob_DivineOrderStart.scenario.name>
+  <BotchJob_DivineOrderStart.scenario.summary>四名神圣秩序的叛逃者。</BotchJob_DivineOrderStart.scenario.summary>
+  <BotchJob_DivineOrderStart.scenario.description>你们四人曾是神圣秩序的教徒，如今已叛变并逃亡了数周之久。\n\n补给品即将耗尽，你们只剩下一些基本装备和一匹马，但唯一值得庆幸的是你还有它…一块神圣牌匾。如果有合适的买家，它或许能卖个好价钱，或者你也可以保留它并尝试揭开它的秘密。\n\n无论如何，你们都不可能永远逃下去。这里似乎是一个安定下来并准备面对挑战的好地方。接下来的日子并不容易，但凭藉希望和毅力，你们也许能够为自己创造崭新的生活。\n\n有一件事是确定的，教团最终会找到你们，而且绝对不会手下留情。\n\n你们必须做好准备。</BotchJob_DivineOrderStart.scenario.description>
+  <BotchJob_DivineOrderStart.scenario.parts.14.text>你们四人已逃亡了数周之久，值得庆幸的是，你们似乎已经暂时甩掉了追兵。\n\n补给品即将耗尽，你们只剩下一些基本装备和一匹马，但唯一值得庆幸的是你还有它…一块神圣牌匾。如果有合适的买家，它或许能卖个好价钱，或者你也可以保留它并尝试揭开它的秘密。\n\n无论如何，你们都不可能永远逃下去。这里似乎是一个安定下来并准备面对挑战的好地方。接下来的日子并不容易，但凭藉希望和毅力，你们也许能够为自己创造崭新的生活。\n\n有一件事是确定的，教团最终会找到你们，而且绝对不会手下留情。\n\n你们必须做好准备。</BotchJob_DivineOrderStart.scenario.parts.14.text>
+
+
+</LanguageData>

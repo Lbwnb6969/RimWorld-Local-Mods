@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disallowed -->
+  <VME_SocialInteractions_Disallowed.label>禁止</VME_SocialInteractions_Disallowed.label>
+  <!-- EN: Chatter between those of our creed is forbidden. We seek to achieve a greater understanding through a venere of silence and secrecy, an oath few outsiders can comprehend. -->
+  <VME_SocialInteractions_Disallowed.description>我们信仰禁止人们相互交谈。我们通过虔诚的缄默与保密来获得人与人间的深刻理解，而外人们则很难理解这种神圣的誓约。</VME_SocialInteractions_Disallowed.description>
+  
+</LanguageData>

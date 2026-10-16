@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: skirmish location -->
+  <VFEM_SkirmishSitePart.label>遭遇战地点</VFEM_SkirmishSitePart.label>
+  <!-- EN: A skirmish location. -->
+  <VFEM_SkirmishSitePart.description>遭遇战的地点。</VFEM_SkirmishSitePart.description>
+  <!-- EN: Entering {0} -->
+  <VFEM_SkirmishSitePart.approachingReportString>进入{0}</VFEM_SkirmishSitePart.approachingReportString>
+  <!-- EN: Enter {0} -->
+  <VFEM_SkirmishSitePart.approachOrderString>进入{0}</VFEM_SkirmishSitePart.approachOrderString>
+  <!-- EN: Skirmish location in this area. -->
+  <VFEM_SkirmishSitePart.arrivedLetter>这片区域有一场遭遇战。</VFEM_SkirmishSitePart.arrivedLetter>
+  
+</LanguageData>

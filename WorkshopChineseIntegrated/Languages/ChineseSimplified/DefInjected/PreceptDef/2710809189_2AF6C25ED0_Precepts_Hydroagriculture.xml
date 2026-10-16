@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: revered -->
+  <AM_Hydroagriculture_Revered.label>推崇</AM_Hydroagriculture_Revered.label>
+  <!-- EN: The fruits of water-fed fields are gifts from the divine.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Farms near water terrains (3 tiles or less) grow faster (+20% growth rate).\n - Farms more than 3 tiles awy from water grow slower (-20% growth rate).\n - This is calculated when the plant is sown. -->
+  <AM_Hydroagriculture_Revered.description>于水田中孕育的果实是上天的赐礼。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 种植在含水地形附近（距离不超过3格）的植物生长得更快（+20%生长速率）。\n - 未种植在含水地形附近（距离超过3格）的植物生长得更慢（-20%生长速率）。\n - 此效果只会在植物刚被种植时进行计算。</AM_Hydroagriculture_Revered.description>
+  
+</LanguageData>

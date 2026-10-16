@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: normal preferred -->
+  <VME_Darklight_NormalPreferred.label>普通</VME_Darklight_NormalPreferred.label>
+  <!-- EN: Darklight is an unnatural and cheap imitation of the miracle that is light, and should be avoided. -->
+  <VME_Darklight_NormalPreferred.description>微光不过是对神圣光芒的拙劣仿制罢了。我们应当避免去使用它们。</VME_Darklight_NormalPreferred.description>
+  
+  <!-- EN: despised -->
+  <VME_DarknessCombat_Despised.label>厌恶</VME_DarknessCombat_Despised.label>
+  <!-- EN: Beyond being difficult to fight in, bloodshed should never take place in darkness, lest the enemy be spared peering into your eyes before you end their lives. -->
+  <VME_DarknessCombat_Despised.description>除了被迫战斗以外，流血事件决不能在黑暗中发生，这也是为了避免在终结敌人的性命前被他们死死的瞪着。</VME_DarknessCombat_Despised.description>
+  
+</LanguageData>

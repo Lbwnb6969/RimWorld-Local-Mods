@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farmer -->
+  <BA_Turkic_Farmer.label>突厥农夫</BA_Turkic_Farmer.label>
+  
+  <!-- EN: hunter -->
+  <BA_Turkic_Hunter.label>突厥猎人</BA_Turkic_Hunter.label>
+  
+  <!-- EN: logger -->
+  <BA_Turkic_Logger.label>突厥伐木工</BA_Turkic_Logger.label>
+  
+  <!-- EN: miner -->
+  <BA_Turkic_Miner.label>突厥矿工</BA_Turkic_Miner.label>
+  
+</LanguageData>

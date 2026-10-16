@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <VME_Atom.label>特效</VME_Atom.label>
+  
+  <!-- EN: Mote -->
+  <VME_CrystalBall.label>特效</VME_CrystalBall.label>
+  
+  <!-- EN: Mote -->
+  <VME_EldritchRune.label>特效</VME_EldritchRune.label>
+  
+  <!-- EN: Mote -->
+  <VME_GreekColumn.label>特效</VME_GreekColumn.label>
+  
+  <!-- EN: Mote -->
+  <VME_HugeStar.label>特效</VME_HugeStar.label>
+  
+  <!-- EN: Mote -->
+  <VME_OmnistSymbol.label>特效</VME_OmnistSymbol.label>
+  
+  <!-- EN: Mote -->
+  <VME_PantheistSymbol.label>特效</VME_PantheistSymbol.label>
+  
+  <!-- EN: Mote -->
+  <VME_PentagramsMote.label>特效</VME_PentagramsMote.label>
+  
+  <!-- EN: Mote -->
+  <VME_Statue.label>特效</VME_Statue.label>
+  
+  <!-- EN: Mote -->
+  <VME_SwderptikaMote.label>特效</VME_SwderptikaMote.label>
+  
+  <!-- EN: Mote -->
+  <VME_Yoga.label>特效</VME_Yoga.label>
+  
+</LanguageData>

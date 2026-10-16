@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hemogen draught -->
+  <VFEM2_HemogenDraught.label>血原灵药</VFEM2_HemogenDraught.label>
+  <!-- EN: A draught is improving all traits and abilities of the hemogenic user, as well as replenishes the hemogen over time. -->
+  <VFEM2_HemogenDraught.description>喝下的灵药强化了服用者的血原质能力，并且会持续补充血原质</VFEM2_HemogenDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_HemogenDraught.stages.fading.label>消退</VFEM2_HemogenDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_HemogenDraught.stages.potent.label>起效</VFEM2_HemogenDraught.stages.potent.label>
+  
+  <!-- EN: hemogen draught -->
+  <VFEM2_HemogenDraughtDumbHediff.label>血原灵药</VFEM2_HemogenDraughtDumbHediff.label>
+  <!-- EN: A draught is improving all traits and abilities of the hemogenic user, as well as replenishes the hemogen over time. -->
+  <VFEM2_HemogenDraughtDumbHediff.description>喝下的灵药强化了服用者的血原质能力，并且会持续补充血原质</VFEM2_HemogenDraughtDumbHediff.description>
+  
+</LanguageData>

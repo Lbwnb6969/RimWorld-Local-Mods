@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SC_DwarvenCrops.label>菌类作物</SC_DwarvenCrops.label>
+  <SC_DwarvenCrops.description>种植各种由石生种为食用而设计的蘑菇。</SC_DwarvenCrops.description>
+  <SC_DwarvenCrops_Sweet.label>甜蘑菇</SC_DwarvenCrops_Sweet.label>
+  <SC_DwarvenCrops_Sweet.description>种植为产出甜且奢侈的东西而设计的菌类，列如宝石莓和巧克树皮。</SC_DwarvenCrops_Sweet.description>
+  <SC_InsectFarming.label>凝胶农场</SC_InsectFarming.label>
+  <SC_InsectFarming.description>将年幼的虫皇添加到人工虫房以生产虫胶。</SC_InsectFarming.description>
+  <SC_KitchenFurnishing.label>厨房装饰</SC_KitchenFurnishing.label>
+  <SC_KitchenFurnishing.description>为厨房和宴会厅建造家具。</SC_KitchenFurnishing.description>
+  <SC_BasicBaking.description>建造矮人窑来开始用面粉烘培好玩意。</SC_BasicBaking.description>
+  <SC_BasicDough.label>预备面团</SC_BasicDough.label>
+  <SC_BasicDough.description>修建准备台来用奶和面粉制作面团。</SC_BasicDough.description>
+  <SC_SalamiAndCheese.label>老化和干燥</SC_SalamiAndCheese.label>
+  <SC_SalamiAndCheese.description>准备鲜奶酪来让它老化成彻底的矮人奶酪，或者腌制生肉以储存或携带。</SC_SalamiAndCheese.description>
+  <SC_PastryArts.label>艺术点心</SC_PastryArts.label>
+  <SC_PastryArts.description>准备面点跟奶，面粉和虫胶|蛋，然后烤制成点心和派。</SC_PastryArts.description>
+  <SC_FeastGalore.label>丰盛菜肴</SC_FeastGalore.label>
+  <SC_FeastGalore.description>烤制，烧烤和煮沸大型菜肴：很多食物在他们尚温时能增加心情，但是在冻结后会更差。</SC_FeastGalore.description>
+  <SC_Grilling.label>烧烤</SC_Grilling.label>
+  <SC_Grilling.description>烧烤各种生食成烤串或者汉堡在烤架上。</SC_Grilling.description>
+</LanguageData>

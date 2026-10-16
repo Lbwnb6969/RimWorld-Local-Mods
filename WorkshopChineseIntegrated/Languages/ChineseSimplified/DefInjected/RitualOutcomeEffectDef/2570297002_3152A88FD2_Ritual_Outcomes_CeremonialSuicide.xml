@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. All participants must be healthy to attend. -->
+  <VME_CeremonialSuicideRitualOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。只有身体健康的殖民者才能参加。</VME_CeremonialSuicideRitualOutcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_CeremonialSuicideRitualOutcome.comps.0.label>{PAWN_labelShort}的社交影响</VME_CeremonialSuicideRitualOutcome.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>演讲者的社交影响</VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>
+  <!-- EN: room impressiveness -->
+  <VME_CeremonialSuicideRitualOutcome.comps.1.label>令人难忘的房间</VME_CeremonialSuicideRitualOutcome.comps.1.label>
+  <!-- EN: participant count -->
+  <VME_CeremonialSuicideRitualOutcome.comps.2.label>参与者数量</VME_CeremonialSuicideRitualOutcome.comps.2.label>
+  <!-- EN: Terrible -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>糟糕的</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The blade was thrust laterally and there was blood and entrails everywhere. Disgusting! -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>{0}非常糟糕！刀刃刺入身体的角度非常诡异，鲜血与内脏喷洒的到处都是。呕...真恶心!</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>无聊的</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech seemed forced. At the very least we have restored the honor of our colony. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>{0}非常无聊。这次仪式似乎有些牵强附会，但至少恢复了我们殖民地的部分荣誉。</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
+  <!-- EN: Honorable -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>可敬的</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} has restored the honor of our colony. The shadow of defeat no longer clouds our minds. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>{0}令人感到敬畏。失败的阴影不再笼罩我们的心灵。</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>难忘的</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone will remember the courage, self-control, and strong resolve. The honor of our colony is now spotless. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>{0}令人难忘！每个人都会牢记勇气、自控以增强自己的决心。我们殖民地的荣誉至高无上！</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>
+  
+</LanguageData>

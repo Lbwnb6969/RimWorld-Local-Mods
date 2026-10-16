@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: friesian horse -->
+  <Friesian_Horse.label>弗里斯兰马</Friesian_Horse.label>
+  <!-- EN: The Friesian is a horse breed originating in Friesland in north Netherlands. It is classified as a light draught horse, and the modern day Friesian horse is used for riding and driving. The Friesian horse is most known for its all-black coat colour, its long flowing mane and tail, feathering on its legs, a high head carriage, and high stepping action.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <Friesian_Horse.description>弗里斯兰马是一种起源于荷兰北部弗里斯兰省的马种，被归类为轻型挽马。如今的弗里斯兰马常用于骑乘和拉车。该马种最显著的特征是纯黑色的被毛、修长飘逸的鬃毛与尾巴、腿部的饰毛、高昂的头部姿态以及轻快的步伐。</Friesian_Horse.description>
+  <!-- EN: horse meat -->
+  <Friesian_Horse.race.meatLabel>马肉</Friesian_Horse.race.meatLabel>
+  <!-- EN: head -->
+  <Friesian_Horse.tools.head.label>头部</Friesian_Horse.tools.head.label>
+  <!-- EN: left hoof -->
+  <Friesian_Horse.tools.left_hoof.label>左蹄</Friesian_Horse.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Friesian_Horse.tools.left_hoof.labelNoLocation>蹄子</Friesian_Horse.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Friesian_Horse.tools.right_hoof.label>右蹄</Friesian_Horse.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Friesian_Horse.tools.right_hoof.labelNoLocation>蹄子</Friesian_Horse.tools.right_hoof.labelNoLocation>
+  
+</LanguageData>

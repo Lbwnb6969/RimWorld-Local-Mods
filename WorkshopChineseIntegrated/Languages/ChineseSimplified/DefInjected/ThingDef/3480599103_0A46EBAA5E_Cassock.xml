@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassock -->
+  <TA_CassockClosed.label>牧师袍(闭合式)</TA_CassockClosed.label>
+  <!-- EN: . -->
+  <TA_CassockClosed.description>神职人员穿着的传统闭合式长袍。</TA_CassockClosed.description>
+  
+  <!-- EN: cassock -->
+  <TA_CassockShoulder.label>牧师袍(披肩式)</TA_CassockShoulder.label>
+  <!-- EN: . -->
+  <TA_CassockShoulder.description>带有可调节披肩的神职长袍。</TA_CassockShoulder.description>
+  <!-- EN: button up -->
+  <TA_CassockShoulder.comps.CompSwitchApparel.Label>系上纽扣</TA_CassockShoulder.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

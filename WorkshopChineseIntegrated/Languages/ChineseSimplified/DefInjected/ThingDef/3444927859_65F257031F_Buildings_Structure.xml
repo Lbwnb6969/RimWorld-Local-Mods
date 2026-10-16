@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: castle wall -->
+  <VFEM2_CastleWall.label>城堡墙</VFEM2_CastleWall.label>
+  <!-- EN: An incredibly resistant impassable wall made out of oversized stone blocks. Very slow to build. Capable of holding a roof. If castle wall sustains enough damage, it becomes a chest-high passable cover that when repaired, turns into an impassable wall again. -->
+  <VFEM2_CastleWall.description>用大块石材制造出来的墙，防御性很强。建造速度很慢。可以支撑起屋顶。城堡墙在承受足够伤害后会受损，变为齐胸高，可通过的矮墙，在被修复后会恢复原貌。</VFEM2_CastleWall.description>
+  
+  <!-- EN: cloth wall -->
+  <VFEM2_ClothWall.label>布料墙</VFEM2_ClothWall.label>
+  <!-- EN: An impassable wall made out of thick overlapping strips of fabric or leather stitched together. Quick to build, but extremely flammable. When deconstructed, returns all of the cloth used. -->
+  <VFEM2_ClothWall.description>一面无法通过的墙。由厚厚的多层布料或皮革缝制而成。建造速度很快，但也很易燃。拆除时会返还所有布料。</VFEM2_ClothWall.description>
+  
+  <!-- EN: damaged castle wall -->
+  <VFEM2_DamagedCastleWall.label>受损的城堡墙</VFEM2_DamagedCastleWall.label>
+  <!-- EN: An incredibly resistant impassable wall made out of oversized stone blocks. Very slow to build. Capable of holding a roof. If castle wall sustains enough damage, it becomes a chest-high passable cover that when repaired, turns into an impassable wall again. -->
+  <VFEM2_DamagedCastleWall.description>用大块石材制造出来的墙，防御性很强。建造速度很慢。可以支撑起屋顶。城堡墙在承受足够伤害后会受损，变为齐胸高，可通过的矮墙，而在被修复后会恢复原貌。</VFEM2_DamagedCastleWall.description>
+  
+  <!-- EN: damaged low castle wall -->
+  <VFEM2_DamagedLowCastleWall.label>受损的城堡矮墙</VFEM2_DamagedLowCastleWall.label>
+  <!-- EN: An incredibly resistant chest-high wall made out of oversized stone blocks. Very slow to build. Incapable of holding a roof. If low castle wall sustains enough damage, it becomes a very low but  standable cover that when repaired, turns into the chest-high wall again. -->
+  <VFEM2_DamagedLowCastleWall.description>用大块石材制造出来的齐胸高的矮墙，防御性很强。建造速度很慢。无法支撑屋顶。城堡矮墙在承受足够伤害后会受损，变得更矮，但依旧能被当掩体使用，在被修复后会恢复原貌。</VFEM2_DamagedLowCastleWall.description>
+  
+  <!-- EN: low castle wall -->
+  <VFEM2_LowCastleWall.label>城堡矮墙</VFEM2_LowCastleWall.label>
+  <!-- EN: An incredibly resistant chest-high wall made out of oversized stone blocks. Very slow to build. Incapable of holding a roof. If low castle wall sustains enough damage, it becomes a very low but  standable cover that when repaired, turns into the chest-high wall again. -->
+  <VFEM2_LowCastleWall.description>用大块石材制造出来的齐胸高的矮墙，防御性很强。建造速度很慢。无法支撑屋顶。城堡矮墙在承受足够伤害后会受损，变得更矮，但依旧能被当掩体使用，在被修复后会恢复原貌。</VFEM2_LowCastleWall.description>
+  
+  <!-- EN: palisade -->
+  <VFEM2_Palisade.label>栅栏墙</VFEM2_Palisade.label>
+  <!-- EN: An impassable fence made out of vertically-standing wooden stakes. Slow to build but requires little resources. Incapable of holding a roof. -->
+  <VFEM2_Palisade.description>一面无法通过的栅栏，用垂直排列的木桩制成。建造速度较慢但消耗的资源很少。无法支撑屋顶。</VFEM2_Palisade.description>
+  
+  <!-- EN: timbered wall -->
+  <VFEM2_TimberedWall.label>木骨架墙</VFEM2_TimberedWall.label>
+  <!-- EN: An impassable wall made out of stone blocks and heavy, carefully fitted timbers forming a box frame. Slow to build but much more resistant to damage. Flammable, but less so than ordinary wooden walls. Capable of holding a roof. -->
+  <VFEM2_TimberedWall.description>一面无法通过的墙。由榫卯精密咬合成的木质框架，内部填充石块建造而成。建造速度较慢但能承受更多伤害。依旧可燃，但易燃性比寻常木墙好一些。可以支撑起屋顶。</VFEM2_TimberedWall.description>
+  
+</LanguageData>

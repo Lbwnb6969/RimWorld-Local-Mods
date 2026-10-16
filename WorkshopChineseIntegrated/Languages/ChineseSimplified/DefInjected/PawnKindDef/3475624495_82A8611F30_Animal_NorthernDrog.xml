@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: northern drog -->
+  <DA_NorthernDrog.label>北境野猪</DA_NorthernDrog.label>
+  <!-- EN: drog shaunt -->
+  <DA_NorthernDrog.lifeStages.drog_shaunt.label>北境野猪幼崽</DA_NorthernDrog.lifeStages.drog_shaunt.label>
+  <!-- EN: drog shaunts -->
+  <DA_NorthernDrog.lifeStages.drog_shaunt.labelPlural>北境野猪幼崽们</DA_NorthernDrog.lifeStages.drog_shaunt.labelPlural>
+  
+</LanguageData>

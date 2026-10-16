@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: footman -->
+  <DankPyon_FootmanRoxmont.label>步兵</DankPyon_FootmanRoxmont.label>
+  
+  <!-- EN: knight -->
+  <DankPyon_KnightRoxmont.label>骑士</DankPyon_KnightRoxmont.label>
+  
+  <!-- EN: lord -->
+  <DankPyon_Medieval_LordRoxmont.label>领主</DankPyon_Medieval_LordRoxmont.label>
+  
+  <!-- EN: standard bearer -->
+  <DankPyon_StandardRoxmont.label>旗手</DankPyon_StandardRoxmont.label>
+  
+  <!-- EN: zweihander -->
+  <DankPyon_ZweihanderRoxmont.label>双手剑士</DankPyon_ZweihanderRoxmont.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: banner (Moors) -->
+  <BA_BannerSpear_Moors.label>摩尔人旗帜矛</BA_BannerSpear_Moors.label>
+  <!-- EN: The emblem mostly associated with the Muslim world is the Crescent.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_BannerSpear_Moors.description>与伊斯兰世界联系最紧密的标志是新月。</BA_BannerSpear_Moors.description>
+  <!-- EN: shaft -->
+  <BA_BannerSpear_Moors.tools.shaft-0.label>矛杆</BA_BannerSpear_Moors.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <BA_BannerSpear_Moors.tools.shaft-1.label>矛杆</BA_BannerSpear_Moors.tools.shaft-1.label>
+  <!-- EN: head -->
+  <BA_BannerSpear_Moors.tools.head.label>矛尖</BA_BannerSpear_Moors.tools.head.label>
+  
+</LanguageData>

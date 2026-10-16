@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimDark 40K - Lost Armory (Vanilla Quest)</name>
+  <author>Local integration</author>
+  <packageId>Local.RimDark40K.LostArmory.Vanilla</packageId>
+  <supportedVersions><li>1.6</li>  <li>1.7</li>
+  </supportedVersions>
+  <description>Standalone three-tier Lost Armory progression using vanilla RimWorld site generation, tiered research gates, complete high-quality wargear sets, and lightweight multi-room castle layouts. Custom Quest Framework is not required.</description>
+  <modDependencies>
+    <li>
+      <packageId>Phonicmas.RimDark.MankindsFinest</packageId>
+      <displayName>RimDark 40k - Mankind's Finest</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3505068525</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Local.RimDark.MastersOfMankind</packageId>
+      <displayName>RimDark 40k - Masters of Mankind</displayName>
+      <downloadUrl>file:///D:/SteamLibrary/steamapps/workshop/content/294100/RimDark40k-MastersOfMankind-Port/</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Phonicmas.RimDark.MankindsFinest</li>
+    <li>Local.RimDark.MastersOfMankind</li>
+  </loadAfter>
+</ModMetaData>

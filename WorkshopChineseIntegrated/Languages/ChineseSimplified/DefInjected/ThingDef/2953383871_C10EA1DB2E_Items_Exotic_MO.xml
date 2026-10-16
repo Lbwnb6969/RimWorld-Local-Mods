@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rox horn -->
+
+  <DankPyon_RoxHorn.label>罗克斯角</DankPyon_RoxHorn.label>
+  <DankPyon_RoxHorn.description>罗克斯的角。重且耐用，且有价值。但因体积太大，无法用作武器。</DankPyon_RoxHorn.description>
+  <DankPyon_RoxHorn.tools.0.label>撞角</DankPyon_RoxHorn.tools.0.label>
+  <DankPyon_RoxHorn.tools.1.label>根部</DankPyon_RoxHorn.tools.1.label>
+
+
+  <!-- Daer Antler -->
+
+  <DankPyon_DaerAntler.label>鹿熊角</DankPyon_DaerAntler.label>
+  <DankPyon_DaerAntler.description>鹿熊的鹿角。如刀刃般锋利、岩石般坚硬，在市场中是无价之宝。这是一种真正的战利品，任何看到它的人都会感到敬畏。</DankPyon_DaerAntler.description>
+  <DankPyon_DaerAntler.tools.0.label>尖端</DankPyon_DaerAntler.tools.0.label>
+  <DankPyon_DaerAntler.tools.1.label>根部</DankPyon_DaerAntler.tools.1.label>
+
+
+  <!-- Dire Boar Tusk -->
+
+  <DankPyon_DireBoarTusk.label>恐猪獠牙</DankPyon_DireBoarTusk.label>
+  <DankPyon_DireBoarTusk.description>恐猪的獠牙。非常耐用、珍贵。虽然有些笨重，但作为武器仍然十分致命。</DankPyon_DireBoarTusk.description>
+  <DankPyon_DireBoarTusk.tools.0.label>尖端</DankPyon_DireBoarTusk.tools.0.label>
+  <DankPyon_DireBoarTusk.tools.1.label>根部</DankPyon_DireBoarTusk.tools.1.label>
+
+
+</LanguageData>

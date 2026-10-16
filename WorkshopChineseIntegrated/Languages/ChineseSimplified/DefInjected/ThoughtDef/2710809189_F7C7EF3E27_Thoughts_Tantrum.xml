@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amazing tantrum -->
+  <AM_AmazingTantrum.stages.amazing_tantrum.label>令人惊异的宣泄仪式</AM_AmazingTantrum.stages.amazing_tantrum.label>
+  <!-- EN: That tantrum was so satisfying. I got to destroy so much, I'm excited for the new start. -->
+  <AM_AmazingTantrum.stages.amazing_tantrum.description>那次宣泄仪式令人惊异，我们痛痛快快地宣泄了一次，这将是个崭新的开始！</AM_AmazingTantrum.stages.amazing_tantrum.description>
+  
+  <!-- EN: good tantrum -->
+  <AM_GoodTantrum.stages.good_tantrum.label>令人满意的宣泄仪式</AM_GoodTantrum.stages.good_tantrum.label>
+  <!-- EN: That tantrum was enjoyable. Got some of the anger and bad feelings out so we can move on. -->
+  <AM_GoodTantrum.stages.good_tantrum.description>那次宣泄仪式令人满意，我们留下了一地的残骸，积攒的压力也得到了宣泄。</AM_GoodTantrum.stages.good_tantrum.description>
+  
+  <!-- EN: lackluster tantrum -->
+  <AM_LacklusterTantrum.stages.lackluster_tantrum.label>枯燥乏味的宣泄仪式</AM_LacklusterTantrum.stages.lackluster_tantrum.label>
+  <!-- EN: That tantrum could've been a lot better. I think I chose my targets wrong. -->
+  <AM_LacklusterTantrum.stages.lackluster_tantrum.description>那次宣泄仪式枯燥乏味，能供我们摧毁的建筑太少了，真没意思。</AM_LacklusterTantrum.stages.lackluster_tantrum.description>
+  
+  <!-- EN: terrible tantrum -->
+  <AM_TerribleTantrum.stages.terrible_tantrum.label>糟糕的宣泄仪式</AM_TerribleTantrum.stages.terrible_tantrum.label>
+  <!-- EN: That tantrum was a waste of time. We barely did anything. -->
+  <AM_TerribleTantrum.stages.terrible_tantrum.description>那次宣泄仪式非常糟糕，我们几乎没有摧毁掉任何建筑，大家只是在空挥拳头而已。</AM_TerribleTantrum.stages.terrible_tantrum.description>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: animal flak jacket -->
+  <Apparel_FlakJacket_Animal.label>动物防弹夹克</Apparel_FlakJacket_Animal.label>
+  <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakJacket_Animal.description>一件缝有装甲板的坚韧织物夹克。虽然防护性能不及整块装甲，但穿着相当舒适，并能有效抵御各种攻击。</Apparel_FlakJacket_Animal.description>
+
+  <!-- EN: animal plate armor -->
+  <Apparel_PlateArmor_Animal.label>动物板甲</Apparel_PlateArmor_Animal.label>
+  <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
+  <Apparel_PlateArmor_Animal.description>由相互叠覆的坚固甲片组成，覆盖动物从颈部到足部的整个躯体。</Apparel_PlateArmor_Animal.description>
+
+  <!-- EN: animal flak helmet -->
+  <Apparel_AdvancedHelmet_Animal.label>动物防弹头盔</Apparel_AdvancedHelmet_Animal.label>
+  <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
+  <Apparel_AdvancedHelmet_Animal.description>一顶结构复杂、以玻璃钢加固的轻型战斗头盔，无法有效抵御钝器攻击。</Apparel_AdvancedHelmet_Animal.description>
+
+  <!-- EN: animal simple helmet -->
+  <Apparel_SimpleHelmet_Animal.label>动物简易头盔</Apparel_SimpleHelmet_Animal.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet_Animal.description>一顶结构简单的头盔，能适度抵御锐器攻击，但无法有效抵御钝器攻击。</Apparel_SimpleHelmet_Animal.description>
+</LanguageData>

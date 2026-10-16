@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corruptor dryad -->
+  <AM_Dryad_Corruptor.label>腐化树精</AM_Dryad_Corruptor.label>
+  
+  <!-- EN: ocular dryad -->
+  <AM_Dryad_Ocular.label>窥视树精</AM_Dryad_Ocular.label>
+  
+  <!-- EN: spitter dryad -->
+  <AM_Dryad_Spitter.label>毒溅树精</AM_Dryad_Spitter.label>
+  
+  <!-- EN: tumorous dryad -->
+  <AM_Dryad_Tumorous.label>肿胀树精</AM_Dryad_Tumorous.label>
+  
+  <!-- EN: unstable dryad -->
+  <AM_Dryad_Unstable.label>酸爆树精</AM_Dryad_Unstable.label>
+  
+</LanguageData>

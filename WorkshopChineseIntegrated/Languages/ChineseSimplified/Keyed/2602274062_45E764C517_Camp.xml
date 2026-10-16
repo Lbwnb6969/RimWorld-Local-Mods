@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Animal area -->
+  <CAAnimalAreaLabel>动物区域</CAAnimalAreaLabel>
+  <!-- EN: Animal free -->
+  <CAAnimalNoFoodAreaLabel>动物放牧</CAAnimalNoFoodAreaLabel>
+  <!-- EN: Food -->
+  <CAFoodZoneLabel>食物</CAFoodZoneLabel>
+  <!-- EN: Animal food -->
+  <CAAnimalFoodZoneLabel>动物食物</CAAnimalFoodZoneLabel>
+  <!-- EN: Pack up the camp -->
+  <CADeconstructCamp>打包营地</CADeconstructCamp>
+  <!-- EN: Packing up the camp -->
+  <CADeconstructCampMessage>正在打包营地</CADeconstructCampMessage>
+  <!-- EN: {0} tents couldn't be built as no space was available. -->
+  <CABuildFailTents>无法继续建造{0}个帐篷，空间不足。</CABuildFailTents>
+  <!-- EN: Medicine -->
+  <CAMedicineZone>医药</CAMedicineZone>
+  <!-- EN: A high-tech camp was set up for {0} tent supplies -->
+  <CAEstablishedCampNotification>1个高科技帐篷已建造完毕。花费：{0}个帐篷用具</CAEstablishedCampNotification>
+
+  <!-- EN: Leave immediately -->
+  <CALeaveImmediately>立即离开</CALeaveImmediately>
+  <!-- EN: Do you want to pack up the camp and abandon this place? \n{0} spacer tent supplies will be added to the caravan. -->
+  <CALeaveImmediatelyPackupCamp>你想要打包营地并放弃这里吗？\n{0}个帐篷用具将放入远行队的库存中。</CALeaveImmediatelyPackupCamp>
+  <!-- EN: Do you want to pack up the camp and abandon this place? -->
+  <CALeaveImmediatelyPackupCampTribal>你想要打包营地并放弃这里吗？</CALeaveImmediatelyPackupCampTribal>
+
+  <!-- EN: Could not create camp center due to being out of map bounds, canceling camp creation -->
+  <CABuildFailStoppedCampGen>因超出地图边界范围，无法创建营地中心。正在取消搭建营地。</CABuildFailStoppedCampGen>
+</LanguageData>

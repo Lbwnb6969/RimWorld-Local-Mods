@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Greataxe -->
+  <TA_Greataxe.label>战斧</TA_Greataxe.label>
+  <!-- EN: . -->
+  <TA_Greataxe.description>中世纪重型双手斧，威力强大但使用笨重。</TA_Greataxe.description>
+  <!-- EN: handle -->
+  <TA_Greataxe.tools.handle.label>斧柄</TA_Greataxe.tools.handle.label>
+  <!-- EN: head -->
+  <TA_Greataxe.tools.head.label>斧头</TA_Greataxe.tools.head.label>
+  <!-- EN: edge -->
+  <TA_Greataxe.tools.edge.label>斧刃</TA_Greataxe.tools.edge.label>
+  
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: giant snaptoad -->
+  <DA_Snaptoad.label>巨噬蟾蜍</DA_Snaptoad.label>
+  <DA_Snaptoad.labelPlural>巨噬蟾蜍群</DA_Snaptoad.labelPlural>
+  <DA_Snaptoad.lifeStages.0.label>巨噬蟾蜍幼体</DA_Snaptoad.lifeStages.0.label>
+  <DA_Snaptoad.lifeStages.0.labelPlural>巨噬蟾蜍幼体群</DA_Snaptoad.lifeStages.0.labelPlural>
+  <!-- EN: silver mole -->
+  <DA_SilverMole.label>银毛鼹鼠</DA_SilverMole.label>
+</LanguageData>

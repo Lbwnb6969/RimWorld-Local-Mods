@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: very high -->
+  <AB_MiningYield_VeryHigh.label>非常高效</AB_MiningYield_VeryHigh.label>
+  <!-- EN: Mining is sacred to us. We devote ourselves to it with absolute focus and reverence, and the earth rewards our dedication with greater abundance.\n\n<color=#E5E54C>Gameplay effect:</color>\n - 25% of the time, mining will produce small amounts of other random minerals. -->
+  <AB_MiningYield_VeryHigh.description>采矿对我们而言是神圣的。我们抱着绝对专注与崇敬的态度去完成，大地便以丰厚的资源回报我们的奉献。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 采矿时有25%的几率随机产出少量的其他矿物。</AB_MiningYield_VeryHigh.description>
+  
+</LanguageData>

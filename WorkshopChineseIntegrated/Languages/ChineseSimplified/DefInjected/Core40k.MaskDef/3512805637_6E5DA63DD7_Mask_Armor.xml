@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Checkered -->
+  <BEWH_MkVIIArmorCheckeredMask.label>棋盘式上色</BEWH_MkVIIArmorCheckeredMask.label>
+  <!-- EN: Checkered armor paint pattern. -->
+  <BEWH_MkVIIArmorCheckeredMask.description>...</BEWH_MkVIIArmorCheckeredMask.description>
+  
+  <!-- EN: Halved -->
+  <BEWH_MkVIIArmorHalvedMask.label>半边上色</BEWH_MkVIIArmorHalvedMask.label>
+  <!-- EN: Halved armor paint pattern. -->
+  <BEWH_MkVIIArmorHalvedMask.description>...</BEWH_MkVIIArmorHalvedMask.description>
+  
+  <!-- EN: Pauldrons -->
+  <BEWH_MkVIIArmorPauldronsMask.label>肩甲上色</BEWH_MkVIIArmorPauldronsMask.label>
+  <!-- EN: Colorable pauldrons paint pattern. -->
+  <BEWH_MkVIIArmorPauldronsMask.description>...</BEWH_MkVIIArmorPauldronsMask.description>
+  
+  <!-- EN: Checkered -->
+  <BEWH_MkXArmorCheckeredMask.label>棋盘式上色</BEWH_MkXArmorCheckeredMask.label>
+  <!-- EN: Checkered armor paint pattern. -->
+  <BEWH_MkXArmorCheckeredMask.description>...</BEWH_MkXArmorCheckeredMask.description>
+  
+  <!-- EN: Halved -->
+  <BEWH_MkXArmorHalvedMask.label>半边上色</BEWH_MkXArmorHalvedMask.label>
+  <!-- EN: Halved armor paint pattern. -->
+  <BEWH_MkXArmorHalvedMask.description>...</BEWH_MkXArmorHalvedMask.description>
+  
+  <!-- EN: Pauldrons -->
+  <BEWH_MkXArmorPauldronsMask.label>肩甲上色</BEWH_MkXArmorPauldronsMask.label>
+  <!-- EN: Colorable pauldrons paint pattern. -->
+  <BEWH_MkXArmorPauldronsMask.description>...</BEWH_MkXArmorPauldronsMask.description>
+  
+</LanguageData>

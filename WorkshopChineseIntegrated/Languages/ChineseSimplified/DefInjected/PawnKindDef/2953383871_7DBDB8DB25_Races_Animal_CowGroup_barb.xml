@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Horse -->
+
+  <pphhyy_NorthernHorse.label>北方马</pphhyy_NorthernHorse.label>
+  <pphhyy_NorthernHorse.labelPlural>北方马</pphhyy_NorthernHorse.labelPlural>
+  <pphhyy_NorthernHorse.lifeStages.0.label>北方小马驹</pphhyy_NorthernHorse.lifeStages.0.label>
+  <pphhyy_NorthernHorse.lifeStages.0.labelPlural>北方小马驹</pphhyy_NorthernHorse.lifeStages.0.labelPlural>
+  <pphhyy_NorthernHorse.lifeStages.0.labelMale>公北方小马驹</pphhyy_NorthernHorse.lifeStages.0.labelMale>
+  <pphhyy_NorthernHorse.lifeStages.0.labelMalePlural>公北方小马驹</pphhyy_NorthernHorse.lifeStages.0.labelMalePlural>
+  <pphhyy_NorthernHorse.lifeStages.0.labelFemale>母北方小马驹</pphhyy_NorthernHorse.lifeStages.0.labelFemale>
+  <pphhyy_NorthernHorse.lifeStages.0.labelFemalePlural>母北方小马驹</pphhyy_NorthernHorse.lifeStages.0.labelFemalePlural>
+  <pphhyy_NorthernHorse.lifeStages.1.label>北方马</pphhyy_NorthernHorse.lifeStages.1.label>
+  <pphhyy_NorthernHorse.lifeStages.1.labelPlural>北方马</pphhyy_NorthernHorse.lifeStages.1.labelPlural>
+  <pphhyy_NorthernHorse.lifeStages.1.labelMale>公北方马</pphhyy_NorthernHorse.lifeStages.1.labelMale>
+  <pphhyy_NorthernHorse.lifeStages.1.labelMalePlural>公北方马</pphhyy_NorthernHorse.lifeStages.1.labelMalePlural>
+  <pphhyy_NorthernHorse.lifeStages.1.labelFemale>母北方马</pphhyy_NorthernHorse.lifeStages.1.labelFemale>
+  <pphhyy_NorthernHorse.lifeStages.1.labelFemalePlural>母北方马</pphhyy_NorthernHorse.lifeStages.1.labelFemalePlural>
+  <pphhyy_NorthernHorse.lifeStages.2.label>北方马</pphhyy_NorthernHorse.lifeStages.2.label>
+  <pphhyy_NorthernHorse.lifeStages.2.labelPlural>北方马</pphhyy_NorthernHorse.lifeStages.2.labelPlural>
+  <pphhyy_NorthernHorse.lifeStages.2.labelMale>公北方马</pphhyy_NorthernHorse.lifeStages.2.labelMale>
+  <pphhyy_NorthernHorse.lifeStages.2.labelMalePlural>公北方马</pphhyy_NorthernHorse.lifeStages.2.labelMalePlural>
+  <pphhyy_NorthernHorse.lifeStages.2.labelFemale>母北方马</pphhyy_NorthernHorse.lifeStages.2.labelFemale>
+  <pphhyy_NorthernHorse.lifeStages.2.labelFemalePlural>母北方马</pphhyy_NorthernHorse.lifeStages.2.labelFemalePlural>
+  <pphhyy_NorthernHorse.labelMale>公北方马</pphhyy_NorthernHorse.labelMale>
+  <pphhyy_NorthernHorse.labelMalePlural>公北方马</pphhyy_NorthernHorse.labelMalePlural>
+  <pphhyy_NorthernHorse.labelFemale>母北方马</pphhyy_NorthernHorse.labelFemale>
+  <pphhyy_NorthernHorse.labelFemalePlural>母北方马</pphhyy_NorthernHorse.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: <color=#00ff00>Talent: Artist</color> -->
+  <RT_TalentArtist.degreeDatas.color00ff00Talent_Artistcolor.label>&lt;color=#00ff00>艺术家&lt;/color></RT_TalentArtist.degreeDatas.color00ff00Talent_Artistcolor.label>
+  <!-- EN: Maybe it's art, or maybe [PAWN_nameDef] tripped over a bucket of paint. Again. -->
+  <RT_TalentArtist.degreeDatas.color00ff00Talent_Artistcolor.description>也许是艺术，也许只是[PAWN_nameDef]被一桶油漆绊倒了。再来一次！</RT_TalentArtist.degreeDatas.color00ff00Talent_Artistcolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Bowman</color> -->
+  <RT_TalentBowman.degreeDatas.color00ff00Talent_Bowmancolor.label>&lt;color=#00ff00>弓箭手&lt;/color></RT_TalentBowman.degreeDatas.color00ff00Talent_Bowmancolor.label>
+  <!-- EN: [PAWN_nameDef] is naturally good at shooting things from afar. [PAWN_pronoun] can fight in close combat, but would prefer not to. -->
+  <RT_TalentBowman.degreeDatas.color00ff00Talent_Bowmancolor.description>[PAWN_nameDef]天生擅长远距离射物。[PAWN_pronoun]是可以近战的，但不太喜欢这样。</RT_TalentBowman.degreeDatas.color00ff00Talent_Bowmancolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Builder</color> -->
+  <RT_TalentBuilder.degreeDatas.color00ff00Talent_Buildercolor.label>&lt;color=#00ff00>施工者&lt;/color></RT_TalentBuilder.degreeDatas.color00ff00Talent_Buildercolor.label>
+  <!-- EN: [PAWN_nameDef] is a skilled builder. [PAWN_pronoun] knows how to build all sorts of buildings and furnitures. -->
+  <RT_TalentBuilder.degreeDatas.color00ff00Talent_Buildercolor.description>[PAWN_nameDef]是一个技巧熟练的施工者。[PAWN_pronoun]知道如何建造各种建筑和家具。</RT_TalentBuilder.degreeDatas.color00ff00Talent_Buildercolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Butcher</color> -->
+  <RT_TalentButcher.degreeDatas.color00ff00Talent_Butchercolor.label>&lt;color=#00ff00>屠夫&lt;/color></RT_TalentButcher.degreeDatas.color00ff00Talent_Butchercolor.label>
+  <!-- EN: [PAWN_nameDef] likes to chop meat into chunks, preferably animal meat... -->
+  <RT_TalentButcher.degreeDatas.color00ff00Talent_Butchercolor.description>[PAWN_nameDef]喜欢把肉切成块。最好是动物肉...</RT_TalentButcher.degreeDatas.color00ff00Talent_Butchercolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Copycat</color> -->
+  <RT_TalentCopycat.degreeDatas.color00ff00Talent_Copycatcolor.label>&lt;color=#00ff00>模仿者&lt;/color></RT_TalentCopycat.degreeDatas.color00ff00Talent_Copycatcolor.label>
+  <!-- EN: [PAWN_nameDef] isn't particularly good at anything, except at what everyone else does. -->
+  <RT_TalentCopycat.degreeDatas.color00ff00Talent_Copycatcolor.description>[PAWN_nameDef]并不是特别擅长什么特定，但他会擅长别人也在做的事。</RT_TalentCopycat.degreeDatas.color00ff00Talent_Copycatcolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Farmer</color> -->
+  <RT_TalentFarmer.degreeDatas.color00ff00Talent_Farmercolor.label>&lt;color=#00ff00>T农夫&lt;/color></RT_TalentFarmer.degreeDatas.color00ff00Talent_Farmercolor.label>
+  <!-- EN: [PAWN_nameDef] likes to watch things grow. -->
+  <RT_TalentFarmer.degreeDatas.color00ff00Talent_Farmercolor.description>[PAWN_nameDef]喜欢观察作物的生长。</RT_TalentFarmer.degreeDatas.color00ff00Talent_Farmercolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Groundskeeper</color> -->
+  <RT_TalentGroundskeeper.degreeDatas.color00ff00Talent_Groundskeepercolor.label>&lt;color=#00ff00>场务员&lt;/color></RT_TalentGroundskeeper.degreeDatas.color00ff00Talent_Groundskeepercolor.label>
+  <!-- EN: [PAWN_nameDef] spends [PAWN_possessive] time keeping everything neat and tidy. -->
+  <RT_TalentGroundskeeper.degreeDatas.color00ff00Talent_Groundskeepercolor.description>[PAWN_nameDef]总是花很多时间保持一切都整洁干净。</RT_TalentGroundskeeper.degreeDatas.color00ff00Talent_Groundskeepercolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Herder</color> -->
+  <RT_TalentHerder.degreeDatas.color00ff00Talent_Herdercolor.label>&lt;color=#00ff00>牧民&lt;/color></RT_TalentHerder.degreeDatas.color00ff00Talent_Herdercolor.label>
+  <!-- EN: [PAWN_nameDef] likes to raise animals and be in their presence. -->
+  <RT_TalentHerder.degreeDatas.color00ff00Talent_Herdercolor.description>[PAWN_nameDef]喜欢养动物，很乐意与动物待在一起。</RT_TalentHerder.degreeDatas.color00ff00Talent_Herdercolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Kitchenhand</color> -->
+  <RT_TalentKitchenhand.degreeDatas.color00ff00Talent_Kitchenhandcolor.label>&lt;color=#00ff00>厨工&lt;/color></RT_TalentKitchenhand.degreeDatas.color00ff00Talent_Kitchenhandcolor.label>
+  <!-- EN: [PAWN_nameDef] likes to watch others cook. -->
+  <RT_TalentKitchenhand.degreeDatas.color00ff00Talent_Kitchenhandcolor.description>[PAWN_nameDef]喜欢观察别人做饭。</RT_TalentKitchenhand.degreeDatas.color00ff00Talent_Kitchenhandcolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Miner</color> -->
+  <RT_TalentMiner.degreeDatas.color00ff00Talent_Minercolor.label>&lt;color=#00ff00>矿工&lt;/color></RT_TalentMiner.degreeDatas.color00ff00Talent_Minercolor.label>
+  <!-- EN: [PAWN_nameDef] spends a lot of time examining rocks. [PAWN_pronoun] is rather good at spotting valuable minerals. -->
+  <RT_TalentMiner.degreeDatas.color00ff00Talent_Minercolor.description>[PAWN_nameDef]花了很多时间研究岩石。[PAWN_pronoun]相当擅长发掘有价值的矿物。</RT_TalentMiner.degreeDatas.color00ff00Talent_Minercolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Physician</color> -->
+  <RT_TalentPhysician.degreeDatas.color00ff00Talent_Physiciancolor.label>&lt;color=#00ff00>内科医生&lt;/color></RT_TalentPhysician.degreeDatas.color00ff00Talent_Physiciancolor.label>
+  <!-- EN: [PAWN_nameDef] came to the realisation one day that [PAWN_pronoun] could stare at naked bodies with a valid excuse. -->
+  <RT_TalentPhysician.degreeDatas.color00ff00Talent_Physiciancolor.description>[PAWN_nameDef]有一天意识到，[PAWN_pronoun]可以用合理的借口盯着别人裸体看。</RT_TalentPhysician.degreeDatas.color00ff00Talent_Physiciancolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Scholar</color> -->
+  <RT_TalentScholar.degreeDatas.color00ff00Talent_Scholarcolor.label>&lt;color=#00ff00>学者&lt;/color></RT_TalentScholar.degreeDatas.color00ff00Talent_Scholarcolor.label>
+  <!-- EN: [PAWN_nameDef] has a thirst for knowledge. -->
+  <RT_TalentScholar.degreeDatas.color00ff00Talent_Scholarcolor.description>[PAWN_nameDef]充满了对知识的渴望。</RT_TalentScholar.degreeDatas.color00ff00Talent_Scholarcolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Smith</color> -->
+  <RT_TalentSmith.degreeDatas.color00ff00Talent_Smithcolor.label>&lt;color=#00ff00>工匠&lt;/color></RT_TalentSmith.degreeDatas.color00ff00Talent_Smithcolor.label>
+  <!-- EN: [PAWN_nameDef] likes the sound the forge makes. Ding! Ding! Ding! -->
+  <RT_TalentSmith.degreeDatas.color00ff00Talent_Smithcolor.description>[PAWN_nameDef]喜欢锻造的声音。叮！叮！ 叮！叮！</RT_TalentSmith.degreeDatas.color00ff00Talent_Smithcolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Swordsman</color> -->
+  <RT_TalentSwordsman.degreeDatas.color00ff00Talent_Swordsmancolor.label>&lt;color=#00ff00>剑士&lt;/color></RT_TalentSwordsman.degreeDatas.color00ff00Talent_Swordsmancolor.label>
+  <!-- EN: [PAWN_nameDef] is handy with a sword. [PAWN_pronoun] has some skills with a bow, but prefers to fight up close and personal. -->
+  <RT_TalentSwordsman.degreeDatas.color00ff00Talent_Swordsmancolor.description>[PAWN_nameDef]用其剑来轻松自如。[PAWN_pronoun]有一些用弓的技能，但更喜欢近身作战。</RT_TalentSwordsman.degreeDatas.color00ff00Talent_Swordsmancolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Tailor</color> -->
+  <RT_TalentTailor.degreeDatas.color00ff00Talent_Tailorcolor.label>&lt;color=#00ff00>裁缝&lt;/color></RT_TalentTailor.degreeDatas.color00ff00Talent_Tailorcolor.label>
+  <!-- EN: [PAWN_nameDef] thinks it would be nice if everyone could just stop running around with no clothes on. -->
+  <RT_TalentTailor.degreeDatas.color00ff00Talent_Tailorcolor.description>[PAWN_nameDef]认为如果没有人需要再裸奔，世界就会变得更好了。</RT_TalentTailor.degreeDatas.color00ff00Talent_Tailorcolor.description>
+  
+  <!-- EN: <color=#00ff00>Talent: Trader</color> -->
+  <RT_TalentTrader.degreeDatas.color00ff00Talent_Tradercolor.label>&lt;color=#00ff00>交易者&lt;/color></RT_TalentTrader.degreeDatas.color00ff00Talent_Tradercolor.label>
+  <!-- EN: [PAWN_nameDef] is a good negotiator, so good that he starts to make money off it. -->
+  <RT_TalentTrader.degreeDatas.color00ff00Talent_Tradercolor.description>[PAWN_nameDef]是一个很好的谈判者，好到他可以靠这来赚钱。</RT_TalentTrader.degreeDatas.color00ff00Talent_Tradercolor.description>
+  
+</LanguageData>

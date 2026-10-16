@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tantrum ritual -->
+  <AM_TantrumRitual.label>宣泄仪式</AM_TantrumRitual.label>
+  <!-- EN: Enough's enough, it's time to destroy this place and its bad memories -->
+  <AM_TantrumRitual.description>通过摧毁建筑来让参与者宣泄情绪的仪式。</AM_TantrumRitual.description>
+  
+</LanguageData>

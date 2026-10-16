@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: book writing -->
+  <VME_BookWriting.label>书写</VME_BookWriting.label>
+  
+  <!-- EN: writing speed -->
+  <VME_BookWritingSpeed.label>书写速度</VME_BookWritingSpeed.label>
+
+</LanguageData>

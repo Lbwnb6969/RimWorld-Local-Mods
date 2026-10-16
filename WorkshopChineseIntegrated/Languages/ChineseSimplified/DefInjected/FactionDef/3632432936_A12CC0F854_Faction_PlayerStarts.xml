@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Village -->
+  <VR_ArtificerStart.label>新村落</VR_ArtificerStart.label>
+  <!-- EN: A medieval village. -->
+  <VR_ArtificerStart.description>一个中世纪村庄。</VR_ArtificerStart.description>
+  <!-- EN: leader -->
+  <VR_ArtificerStart.leaderTitle>领袖</VR_ArtificerStart.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VR_ArtificerStart.messageDefendersAttacking>{0}来自{1}正在攻击你的{2}。</VR_ArtificerStart.messageDefendersAttacking>
+  <!-- EN: villager -->
+  <VR_ArtificerStart.pawnSingular>村民</VR_ArtificerStart.pawnSingular>
+  <!-- EN: villagers -->
+  <VR_ArtificerStart.pawnsPlural>村民</VR_ArtificerStart.pawnsPlural>
+  
+  <!-- EN: Vampire Coven -->
+  <VR_VampireStart.label>血族密社</VR_VampireStart.label>
+  <!-- EN: A small vampire coven. -->
+  <VR_VampireStart.description>一个小型血族密社。</VR_VampireStart.description>
+  <!-- EN: leader -->
+  <VR_VampireStart.leaderTitle>领袖</VR_VampireStart.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VR_VampireStart.messageDefendersAttacking>{0}来自{1}正在攻击你的{2}。</VR_VampireStart.messageDefendersAttacking>
+  <!-- EN: clansman -->
+  <VR_VampireStart.pawnSingular>族人</VR_VampireStart.pawnSingular>
+  <!-- EN: clanspeople -->
+  <VR_VampireStart.pawnsPlural>族人</VR_VampireStart.pawnsPlural>
+  
+</LanguageData>

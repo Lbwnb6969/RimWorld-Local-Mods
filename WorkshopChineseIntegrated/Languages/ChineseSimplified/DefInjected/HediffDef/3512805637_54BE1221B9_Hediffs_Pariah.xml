@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pariah nearby -->
+  <BEWH_PariahEffecter.label>附近有无魂者</BEWH_PariahEffecter.label>
+  <!-- EN: A pariah is nearby, weakening the connection to the Warp and intensifying the pain. -->
+  <BEWH_PariahEffecter.description>附近有无魂者，他们削弱了与亚空间的连接，并加剧了此人的痛苦。</BEWH_PariahEffecter.description>
+  <!-- EN: pariah nearby -->
+  <BEWH_PariahEffecter.labelNoun>附近有无魂者</BEWH_PariahEffecter.labelNoun>
+  
+  <!-- EN: pariah nearby -->
+  <BEWH_PariahEffecterEnemies.label>附近有无魂者</BEWH_PariahEffecterEnemies.label>
+  <!-- EN: A pariah is nearby, weakening the connection to the Warp and intensifying the pain. -->
+  <BEWH_PariahEffecterEnemies.description>附近有无魂者，他们削弱了与亚空间的连接，并加剧了此人的痛苦。</BEWH_PariahEffecterEnemies.description>
+  <!-- EN: pariah nearby -->
+  <BEWH_PariahEffecterEnemies.labelNoun>附近有无魂者</BEWH_PariahEffecterEnemies.labelNoun>
+  
+</LanguageData>

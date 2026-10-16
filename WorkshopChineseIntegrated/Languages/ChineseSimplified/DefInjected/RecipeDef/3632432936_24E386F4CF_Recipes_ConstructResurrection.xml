@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: resurrect heavy construct -->
+  <VR_ResurrectHeavyConstruct.label>复活重型构装体</VR_ResurrectHeavyConstruct.label>
+  <!-- EN: Resurrect a friendly construct of the heavy weight class. So long as the construct's body is not completely destroyed, it can be resurrected. -->
+  <VR_ResurrectHeavyConstruct.description>复活一名友方重型构装体。只要构装体的躯体未被完全摧毁，就能复活。</VR_ResurrectHeavyConstruct.description>
+  <!-- EN: Resurrecting mech. -->
+  <VR_ResurrectHeavyConstruct.jobString>正在复活构装体。</VR_ResurrectHeavyConstruct.jobString>
+  
+  <!-- EN: resurrect light construct -->
+  <VR_ResurrectLightConstruct.label>复活轻型构装体</VR_ResurrectLightConstruct.label>
+  <!-- EN: Resurrect a friendly construct of the light weight class. So long as the construct's body is not completely destroyed, it can be resurrected. -->
+  <VR_ResurrectLightConstruct.description>复活一名友方轻型构装体。只要构装体的躯体未被完全摧毁，就能复活。</VR_ResurrectLightConstruct.description>
+  <!-- EN: Resurrecting mech. -->
+  <VR_ResurrectLightConstruct.jobString>正在复活构装体。</VR_ResurrectLightConstruct.jobString>
+  
+  <!-- EN: resurrect medium construct -->
+  <VR_ResurrectMediumConstruct.label>复活中型构装体</VR_ResurrectMediumConstruct.label>
+  <!-- EN: Resurrect a friendly construct of the medium weight class. So long as the construct's body is not completely destroyed, it can be resurrected. -->
+  <VR_ResurrectMediumConstruct.description>复活一名友方中型构装体。只要构装体的躯体未被完全摧毁，就能复活。</VR_ResurrectMediumConstruct.description>
+  <!-- EN: Resurrecting mech. -->
+  <VR_ResurrectMediumConstruct.jobString>正在复活构装体。</VR_ResurrectMediumConstruct.jobString>
+  
+  <!-- EN: resurrect ultraheavy construct -->
+  <VR_ResurrectUltraheavyConstruct.label>复活超重型构装体</VR_ResurrectUltraheavyConstruct.label>
+  <!-- EN: Resurrect a friendly construct of the ultraheavy weight class. So long as the construct's body is not completely destroyed, it can be resurrected. -->
+  <VR_ResurrectUltraheavyConstruct.description>复活一名友方超重型构装体。只要构装体的躯体未被完全摧毁，就能复活。</VR_ResurrectUltraheavyConstruct.description>
+  <!-- EN: Resurrecting mech. -->
+  <VR_ResurrectUltraheavyConstruct.jobString>正在复活构装体。</VR_ResurrectUltraheavyConstruct.jobString>
+  
+</LanguageData>

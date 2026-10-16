@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic construct tech -->
+  <VR_BasicConstructTech.label>基础构装体技术</VR_BasicConstructTech.label>
+  <!-- EN: The technology needed for your artificer to create and control basic-tier constructs. -->
+  <VR_BasicConstructTech.description>让你的机巧师制造并控制基础级构装体所需的技术。</VR_BasicConstructTech.description>
+  <!-- EN:
+    <li>subject->constructs</li>
+    <li>subject_story->authored a children's book covering the basic types of constructs</li>
+    <li>subject_story->was implanted with a prototype artificelink</li>
+    <li>subject_story->replicated basic tonal harmonic techniques independently</li>
+    <li>subject_gerund->creating basic constructs</li>
+  -->
+  <VR_BasicConstructTech.generalRules.rulesStrings>
+    <li>subject->构装体</li>
+    <li>subject_story->编写了一本介绍基础构装体类型的儿童读物</li>
+    <li>subject_story->植入了原型机巧师链接</li>
+    <li>subject_story->独立复现了基础调音谐波技术</li>
+    <li>subject_gerund->制作基础构装体</li>
+  </VR_BasicConstructTech.generalRules.rulesStrings>
+  
+  <!-- EN: high construct tech -->
+  <VR_HighConstructTech.label>高级构装体技术</VR_HighConstructTech.label>
+  <!-- EN: The technology needed for your artificer to create and control high-tier constructs.\n\nYou can get powerfocus chips by using a artificer to summon a scarab queen threat. -->
+  <VR_HighConstructTech.description>让你的机巧师制造并控制高级构装体所需的技术。\n\n你可以通过让机巧师召唤战争女皇威胁来获得聚焦芯片。</VR_HighConstructTech.description>
+  <!-- EN:
+    <li>subject->high tier constructs</li>
+    <li>subject_story->survived a Scarab Queen assault in a ancient cavern</li>
+    <li>subject_story->interrogated artificers captured in raids</li>
+    <li>subject_gerund->creating high-tier constructs</li>
+  -->
+  <VR_HighConstructTech.generalRules.rulesStrings>
+    <li>subject->高级构装体</li>
+    <li>subject_story->在古老洞窟中挺过战争女皇的袭击</li>
+    <li>subject_story->审讯了袭击中俘获的机巧师</li>
+    <li>subject_gerund->制作高级构装体</li>
+  </VR_HighConstructTech.generalRules.rulesStrings>
+  
+  <!-- EN: standard construct tech -->
+  <VR_StandardConstructTech.label>标准构装体技术</VR_StandardConstructTech.label>
+  <!-- EN: The technology needed for your artificer to create and control standard-tier constructs.\n\nYou can get signal chips by using a artificer to summon a collosus threat. -->
+  <VR_StandardConstructTech.description>让你的机巧师制造并控制标准级构装体所需的技术。\n\n你可以通过让机巧师召唤巨像威胁来获得信号芯片。</VR_StandardConstructTech.description>
+  <!-- EN:
+    <li>subject->constructs</li>
+    <li>subject_story->survived an automata foundry assault</li>
+    <li>subject_story->collated reports of construct attacks, looking for commonalities</li>
+    <li>subject_gerund->creating standard constructs</li>
+  -->
+  <VR_StandardConstructTech.generalRules.rulesStrings>
+    <li>subject->构装体</li>
+    <li>subject_story->挺过自动机铸造厂的袭击</li>
+    <li>subject_story->汇总构装体袭击报告，寻找共性</li>
+    <li>subject_gerund->制作标准构装体</li>
+  </VR_StandardConstructTech.generalRules.rulesStrings>
+  
+  <!-- EN: ultra construct tech -->
+  <VR_UltraConstructTech.label>超阶构装体技术</VR_UltraConstructTech.label>
+  <!-- EN: The advanced technology needed for your artificer to create and control ultra-tier constructs, including large mechs and ultra-tier artificer gear.\n\nYou can get nano structuring chips by using a artificer to summon an apocriton threat. -->
+  <VR_UltraConstructTech.description>让你的机巧师制造并控制超阶构装体所需的高级技术，包括大型机甲和超阶机巧师装备。\n\n你可以通过让机巧师召唤憎恶毒蜂威胁来获得纳米结构芯片。</VR_UltraConstructTech.description>
+  <!-- EN:
+    <li>subject->ultra-tier constructs</li>
+    <li>subject_story->found a powered-down apocriton in a dormant manufactoria</li>
+    <li>subject_story->observed an apocriton resurrecting automatons from a safe distance</li>
+    <li>subject_story->tapped into the deep psychic hatred that the apocritons feel towards humanity</li>
+    <li>subject_gerund->creating ultra-tier constructs</li>
+  -->
+  <VR_UltraConstructTech.generalRules.rulesStrings>
+    <li>subject->超阶构装体</li>
+    <li>subject_story->在休眠的制造厂中发现一台断电的憎恶毒蜂</li>
+    <li>subject_story->远距离观察憎恶毒蜂复活自动机</li>
+    <li>subject_story->触及憎恶毒蜂对人类的深层灵能仇恨</li>
+    <li>subject_gerund->制作超阶构装体</li>
+  </VR_UltraConstructTech.generalRules.rulesStrings>
+  
+</LanguageData>

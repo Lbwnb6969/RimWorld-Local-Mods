@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_DoBillHeldPrisoner.label>处理被关押囚犯</CE_DoBillHeldPrisoner.label>
+  <CE_TakeHeldPrisonerToBed.label>将被关押囚犯带到床上</CE_TakeHeldPrisonerToBed.label>
+  <CE_RestrainPrisonerToBed.label>将囚犯束缚到床上</CE_RestrainPrisonerToBed.label>
+  <CE_UnrestrainPrisonerFromBed.label>解除囚犯的床上束缚</CE_UnrestrainPrisonerFromBed.label>
+  <CE_ActivateGuillotine.label>执行断头台处决</CE_ActivateGuillotine.label>
+</LanguageData>

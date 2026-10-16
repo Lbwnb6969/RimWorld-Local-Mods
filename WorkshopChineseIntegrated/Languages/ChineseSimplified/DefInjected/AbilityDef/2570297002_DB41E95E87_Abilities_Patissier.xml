@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make a dessert -->
+  <VME_MakeADessert.label>甜点炼成</VME_MakeADessert.label>
+  <!-- EN: Targets a meal to turn it into a dessert. -->
+  <VME_MakeADessert.description>将目标食物转换成对应品质的甜点。</VME_MakeADessert.description>
+  
+</LanguageData>

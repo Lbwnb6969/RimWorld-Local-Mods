@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Enraged Leviathan -->
+  <DA_AngryLeviathan.letterLabel>发怒的利维坦</DA_AngryLeviathan.letterLabel>
+  <!-- EN: While fishing, {PAWN_pronoun} saw a large shadow beneath the surface. Suddenly it bursted out of the water, {PAWN_nameDef} came face to face with a giant leviathan crab ! -->
+  <DA_AngryLeviathan.letterText>钓鱼时，{PAWN_pronoun}看到了水面下的巨大阴影。突然它冲出水面，{PAWN_nameDef}和这巨大的利维坦蟹狭路相逢！</DA_AngryLeviathan.letterText>
+  <!-- EN: Leviathan Hatchling -->
+  <DA_ConfusedHatchling.letterLabel>利维坦幼崽</DA_ConfusedHatchling.letterLabel>
+  <!-- EN: Reeling in {PAWN_possessive} catch after a fierce battle with what {PAWN_pronoun} presumed to be a fish, {PAWN_nameDef} came face to face with a leviathan hatchling! -->
+  <DA_ConfusedHatchling.letterText>在与鱼线对面的东西进行了一场激烈搏斗后，{PAWN_nameDef}钓上了一只利维坦幼崽！</DA_ConfusedHatchling.letterText>
+  <!-- EN: Froglet Attack -->
+  <!-- EN: Reeling in {PAWN_possessive} catch after a fierce battle with what {PAWN_pronoun} presumed to be a fish, {PAWN_nameDef} came face to face with a very angry giant snaptoad froglet!\n\nThe maddened animal turned manhunter and will try and hunt your colonists until it becomes exhausted. -->
+  <!-- EN: Snapping tadpole bite -->
+  <!-- EN: While reaching out for {PAWN_possessive} catch, {PAWN_nameDef} was bitten by a snapping tadpole!\n\nThe the fish was lost in the commotion. -->
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Rim of Fortune -->
+  <HC_SlotMachineBlue.label>老虎机（高级）</HC_SlotMachineBlue.label>
+  <!-- EN: Classic slots, with an infinite progressive jackpot. -->
+  <HC_SlotMachineBlue.description>玩起来十分上瘾的赌博机器，需要投入白银作为赌注。自老虎机被发明以来，有太多人因沉迷其中而付出了庞大且惨痛的金钱代价。\n\n当老虎机内累积的白银数量达到“预定清空”值后，殖民者会自动前来取出。\n\n【中奖机制】：\n\n若摇中三个相同的“樱桃”图案，则可获得的最高奖金数=单次投入赌注x1；\n若摇中三个相同的“BAR”图案，则可获得的最高奖金数=单次投入赌注x2；\n若摇中三个相同的“幸运7”图案，则可获得的最高奖金数=老虎机内累积的全部赌注。</HC_SlotMachineBlue.description>
+  
+  <!-- EN: Rima Moolah -->
+  <HC_SlotMachineGreen.label>老虎机（中级）</HC_SlotMachineGreen.label>
+  <!-- EN: Classic slots, with a jackpot capped to 100x stake. -->
+  <HC_SlotMachineGreen.description>玩起来十分上瘾的赌博机器，需要投入白银作为赌注。自老虎机被发明以来，有太多人因沉迷其中而付出了庞大且惨痛的金钱代价。\n\n当老虎机内累积的白银数量达到“预定清空”值后，殖民者会自动前来取出。\n\n【中奖机制】：\n\n若摇中三个相同的“樱桃”图案，则可获得的最高奖金数=单次投入赌注x1；\n若摇中三个相同的“BAR”图案，则可获得的最高奖金数=单次投入赌注x2；\n若摇中三个相同的“幸运7”图案，则可获得的最高奖金数=单次投入赌注x100。</HC_SlotMachineGreen.description>
+  
+  <!-- EN: Rim n Reels -->
+  <HC_SlotMachineRed.label>老虎机（初级）</HC_SlotMachineRed.label>
+  <!-- EN: Classic slots, with a jackpot capped to 10x stake. -->
+  <HC_SlotMachineRed.description>玩起来十分上瘾的赌博机器，需要投入白银作为赌注。自老虎机被发明以来，有太多人因沉迷其中而付出了庞大且惨痛的金钱代价。\n\n当老虎机内累积的白银数量达到“预定清空”值后，殖民者会自动前来取出。\n\n【中奖机制】：\n\n若摇中三个相同的“樱桃”图案，则可获得的最高奖金数=单次投入赌注x1；\n若摇中三个相同的“BAR”图案，则可获得的最高奖金数=单次投入赌注x2；\n若摇中三个相同的“幸运7”图案，则可获得的最高奖金数=单次投入赌注x10。</HC_SlotMachineRed.description>
+  
+</LanguageData>

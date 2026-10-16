@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Dark Angels -->
+  <BEWH_WeaponChainColourI.label>黑暗天使</BEWH_WeaponChainColourI.label>
+  
+  <!-- EN: Emperor's Children -->
+  <BEWH_WeaponChainColourIII.label>帝皇之子</BEWH_WeaponChainColourIII.label>
+  
+  <!-- EN: Iron Warriors -->
+  <BEWH_WeaponChainColourIV.label>钢铁勇士</BEWH_WeaponChainColourIV.label>
+  
+  <!-- EN: Blood Angels -->
+  <BEWH_WeaponChainColourIX.label>圣血天使</BEWH_WeaponChainColourIX.label>
+  
+  <!-- EN: White Scars -->
+  <BEWH_WeaponChainColourV.label>白色伤疤</BEWH_WeaponChainColourV.label>
+  
+  <!-- EN: Space Wolves -->
+  <BEWH_WeaponChainColourVI.label>太空野狼</BEWH_WeaponChainColourVI.label>
+  
+  <!-- EN: Imperial Fists -->
+  <BEWH_WeaponChainColourVII.label>帝国之拳</BEWH_WeaponChainColourVII.label>
+  
+  <!-- EN: Night Lords -->
+  <BEWH_WeaponChainColourVIII.label>午夜领主</BEWH_WeaponChainColourVIII.label>
+  
+  <!-- EN: Iron Hands -->
+  <BEWH_WeaponChainColourX.label>钢铁之手</BEWH_WeaponChainColourX.label>
+  
+  <!-- EN: World Eaters -->
+  <BEWH_WeaponChainColourXII.label>吞世者</BEWH_WeaponChainColourXII.label>
+  
+  <!-- EN: Ultramarines -->
+  <BEWH_WeaponChainColourXIII.label>极限战士</BEWH_WeaponChainColourXIII.label>
+  
+  <!-- EN: Death Guard -->
+  <BEWH_WeaponChainColourXIV.label>死亡守卫</BEWH_WeaponChainColourXIV.label>
+  
+  <!-- EN: Raven Guard -->
+  <BEWH_WeaponChainColourXIX.label>暗鸦守卫</BEWH_WeaponChainColourXIX.label>
+  
+  <!-- EN: Thousand Sons -->
+  <BEWH_WeaponChainColourXV.label>千疮之子</BEWH_WeaponChainColourXV.label>
+  
+  <!-- EN: Sons of Horus -->
+  <BEWH_WeaponChainColourXVI.label>荷鲁斯之子</BEWH_WeaponChainColourXVI.label>
+  
+  <!-- EN: Word Bearers -->
+  <BEWH_WeaponChainColourXVII.label>怀言者</BEWH_WeaponChainColourXVII.label>
+  
+  <!-- EN: Salamanders -->
+  <BEWH_WeaponChainColourXVIII.label>火蜥蜴</BEWH_WeaponChainColourXVIII.label>
+  
+  <!-- EN: Alpha Legion -->
+  <BEWH_WeaponChainColourXX.label>阿尔法军团</BEWH_WeaponChainColourXX.label>
+  
+  <!-- EN: Gold -->
+  <BEWH_WeaponPowerColourI.label>金色</BEWH_WeaponPowerColourI.label>
+  
+  <!-- EN: Silver -->
+  <BEWH_WeaponPowerColourII.label>银色</BEWH_WeaponPowerColourII.label>
+  
+</LanguageData>

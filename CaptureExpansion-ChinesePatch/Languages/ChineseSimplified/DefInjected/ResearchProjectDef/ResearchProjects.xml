@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_PrisonerCages.label>囚笼</CE_PrisonerCages.label>
+  <CE_PrisonerCages.description>建造用于关押囚犯的封闭式牢笼。</CE_PrisonerCages.description>
+  <CE_RestraintChairResearch.label>束缚椅</CE_RestraintChairResearch.label>
+  <CE_RestraintChairResearch.description>建造带固定束缚具的坐式刑具。</CE_RestraintChairResearch.description>
+  <CE_RestraintRackResearch.label>束缚刑架</CE_RestraintRackResearch.label>
+  <CE_RestraintRackResearch.description>建造带手脚固定束缚具的大型刑架。</CE_RestraintRackResearch.description>
+  <CE_RestraintPoleResearch.label>束缚柱</CE_RestraintPoleResearch.label>
+  <CE_RestraintPoleResearch.description>建造带固定束缚具的立式刑具。</CE_RestraintPoleResearch.description>
+  <CE_PilloryResearch.label>木枷</CE_PilloryResearch.label>
+  <CE_PilloryResearch.description>建造用于公开束缚囚犯的木制刑具。</CE_PilloryResearch.description>
+  <CE_GuillotineResearch.label>断头台</CE_GuillotineResearch.label>
+  <CE_GuillotineResearch.description>建造用于斩首囚犯的刀刃刑具。</CE_GuillotineResearch.description>
+  <CE_WallMountedCotResearch.label>墙挂床</CE_WallMountedCotResearch.label>
+  <CE_WallMountedCotResearch.description>建造固定在墙上的粗糙睡眠木板。</CE_WallMountedCotResearch.description>
+</LanguageData>

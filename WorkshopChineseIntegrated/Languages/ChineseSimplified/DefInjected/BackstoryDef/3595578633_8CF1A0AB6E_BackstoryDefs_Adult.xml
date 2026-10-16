@@ -1,0 +1,620 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] maintained the candles, floors, and relics of a grand basilica, learning reverence through daily labor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Basic_BasilicaCustodian.description>[PAWN_nameDef]照料着宏伟大教堂的烛火、地面与圣物，在日常劳作中体悟虔诚之道。</BA_Byzantium_Adult_Basic_BasilicaCustodian.description>
+  <!-- EN: Basilica Custodian -->
+  <BA_Byzantium_Adult_Basic_BasilicaCustodian.title>大教堂管理员</BA_Byzantium_Adult_Basic_BasilicaCustodian.title>
+  <!-- EN: Custodian -->
+  <BA_Byzantium_Adult_Basic_BasilicaCustodian.titleShort>管理员</BA_Byzantium_Adult_Basic_BasilicaCustodian.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] labored binding codices for monks, learning careful craftsmanship and a reverence for written wisdom.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Basic_BookBinder.description>[PAWN_nameDef]为修士们装订抄本，在劳作中习得精湛工艺，也对文字承载的智慧心怀敬畏。</BA_Byzantium_Adult_Basic_BookBinder.description>
+  <!-- EN: Monastic Bookbinder -->
+  <BA_Byzantium_Adult_Basic_BookBinder.title>修道院装订师</BA_Byzantium_Adult_Basic_BookBinder.title>
+  <!-- EN: Bookbinder -->
+  <BA_Byzantium_Adult_Basic_BookBinder.titleShort>装订师</BA_Byzantium_Adult_Basic_BookBinder.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked crafting golden mosaics in the Chora monastery, learning patience and precision while depicting divine visions.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Basic_ChoraMosaicist.description>[PAWN_nameDef]在乔拉修道院制作金箔马赛克，于描绘神圣异象的过程中，磨炼出耐心与精准。</BA_Byzantium_Adult_Basic_ChoraMosaicist.description>
+  <!-- EN: Chora Mosaicist -->
+  <BA_Byzantium_Adult_Basic_ChoraMosaicist.title>乔拉马赛克工匠</BA_Byzantium_Adult_Basic_ChoraMosaicist.title>
+  <!-- EN: Mosaicist -->
+  <BA_Byzantium_Adult_Basic_ChoraMosaicist.titleShort>马赛克工匠</BA_Byzantium_Adult_Basic_ChoraMosaicist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] debated in the public forums of Constantinople, learning persuasion and the art of rhetoric.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Basic_ForumOrator.description>[PAWN_nameDef]在君士坦丁堡的公共广场参与辩论，习得说服力与修辞技艺。</BA_Byzantium_Adult_Basic_ForumOrator.description>
+  <!-- EN: Forum Orator -->
+  <BA_Byzantium_Adult_Basic_ForumOrator.title>广场演说家</BA_Byzantium_Adult_Basic_ForumOrator.title>
+  <!-- EN: Orator -->
+  <BA_Byzantium_Adult_Basic_ForumOrator.titleShort>演说家</BA_Byzantium_Adult_Basic_ForumOrator.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carried marble blocks and polished tiles during the restoration of the Hagia Sophia dome.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Basic_HagiaSophiaLaborer.description>[PAWN_nameDef]在圣索菲亚大教堂穹顶的修复工程中搬运大理石块与抛光瓷砖。</BA_Byzantium_Adult_Basic_HagiaSophiaLaborer.description>
+  <!-- EN: Hagia Sophia Laborer -->
+  <BA_Byzantium_Adult_Basic_HagiaSophiaLaborer.title>圣索菲亚劳工</BA_Byzantium_Adult_Basic_HagiaSophiaLaborer.title>
+  <!-- EN: Laborer -->
+  <BA_Byzantium_Adult_Basic_HagiaSophiaLaborer.titleShort>劳工</BA_Byzantium_Adult_Basic_HagiaSophiaLaborer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sold roasted chickpeas and wine to roaring crowds at the Hippodrome, witnessing both glory and riots.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Basic_HippodromeVendor.description>[PAWN_nameDef]在赛马场向喧闹的人群售卖烤鹰嘴豆与葡萄酒，见证过荣耀时刻，也亲历过骚乱纷争。</BA_Byzantium_Adult_Basic_HippodromeVendor.description>
+  <!-- EN: Hippodrome Vendor -->
+  <BA_Byzantium_Adult_Basic_HippodromeVendor.title>赛马场商贩</BA_Byzantium_Adult_Basic_HippodromeVendor.title>
+  <!-- EN: Vendor -->
+  <BA_Byzantium_Adult_Basic_HippodromeVendor.titleShort>商贩</BA_Byzantium_Adult_Basic_HippodromeVendor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sold salted fish at the Golden Horn docks, shouting prices between sailors and beggars.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Basic_PortFishmonger.description>[PAWN_nameDef]在金角湾码头售卖咸鱼，在水手与乞丐之间高声叫卖定价。</BA_Byzantium_Adult_Basic_PortFishmonger.description>
+  <!-- EN: Golden Horn Fishmonger -->
+  <BA_Byzantium_Adult_Basic_PortFishmonger.title>金角湾鱼贩</BA_Byzantium_Adult_Basic_PortFishmonger.title>
+  <!-- EN: Fishmonger -->
+  <BA_Byzantium_Adult_Basic_PortFishmonger.titleShort>鱼贩</BA_Byzantium_Adult_Basic_PortFishmonger.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained in the sacred craft of painting holy icons under the watch of the monastery elders.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Basic_ScribeOfIcons.description>[PAWN_nameDef]在修道院长老的督导下，研习绘制圣像这一神圣技艺。</BA_Byzantium_Adult_Basic_ScribeOfIcons.description>
+  <!-- EN: Icon Painter -->
+  <BA_Byzantium_Adult_Basic_ScribeOfIcons.title>圣像画师</BA_Byzantium_Adult_Basic_ScribeOfIcons.title>
+  <!-- EN: Iconographer -->
+  <BA_Byzantium_Adult_Basic_ScribeOfIcons.titleShort>圣像师</BA_Byzantium_Adult_Basic_ScribeOfIcons.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in the imperial silk workshops, handling precious threads smuggled from the East.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Basic_SilkWeaver.description>[PAWN_nameDef]在帝国丝绸工坊劳作，经手从东方走私而来的珍贵丝线。</BA_Byzantium_Adult_Basic_SilkWeaver.description>
+  <!-- EN: Imperial Silk Weaver -->
+  <BA_Byzantium_Adult_Basic_SilkWeaver.title>帝国织丝工</BA_Byzantium_Adult_Basic_SilkWeaver.title>
+  <!-- EN: Weaver -->
+  <BA_Byzantium_Adult_Basic_SilkWeaver.titleShort>织工</BA_Byzantium_Adult_Basic_SilkWeaver.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded a thousand armored riders, their thunder echoing the empire’s glory.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Cataphract_CataphractCommander.description>[PAWN_nameDef]统领千名甲胄骑兵，他们的蹄声轰鸣回荡着帝国的荣光。</BA_Byzantium_Adult_Cataphract_CataphractCommander.description>
+  <!-- EN: Domestikos of the Cataphracts -->
+  <BA_Byzantium_Adult_Cataphract_CataphractCommander.title>甲胄骑兵统领</BA_Byzantium_Adult_Cataphract_CataphractCommander.title>
+  <!-- EN: Commander -->
+  <BA_Byzantium_Adult_Cataphract_CataphractCommander.titleShort>统领</BA_Byzantium_Adult_Cataphract_CataphractCommander.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] combined iron discipline with engineering skill, guiding armored lancers through siege breaches.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Cataphract_CataphractEngineer.description>[PAWN_nameDef]兼具钢铁纪律与工程技艺，率领甲胄枪骑兵突破围城缺口。</BA_Byzantium_Adult_Cataphract_CataphractEngineer.description>
+  <!-- EN: Siege Cataphract -->
+  <BA_Byzantium_Adult_Cataphract_CataphractEngineer.title>围城甲胄骑兵</BA_Byzantium_Adult_Cataphract_CataphractEngineer.title>
+  <!-- EN: Engineer -->
+  <BA_Byzantium_Adult_Cataphract_CataphractEngineer.titleShort>工程兵</BA_Byzantium_Adult_Cataphract_CataphractEngineer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained noble youths in the art of heavy cavalry, valuing discipline over valor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Cataphract_CataphractInstructor.description>[PAWN_nameDef]向贵族青年传授重骑兵技艺，视纪律重于勇武。</BA_Byzantium_Adult_Cataphract_CataphractInstructor.description>
+  <!-- EN: Cataphract Instructor -->
+  <BA_Byzantium_Adult_Cataphract_CataphractInstructor.title>甲胄骑兵教官</BA_Byzantium_Adult_Cataphract_CataphractInstructor.title>
+  <!-- EN: Trainer -->
+  <BA_Byzantium_Adult_Cataphract_CataphractInstructor.titleShort>教官</BA_Byzantium_Adult_Cataphract_CataphractInstructor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rode beneath layers of iron and silk, a living fortress serving the emperor’s will.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Cataphract_CataphractKnight.description>[PAWN_nameDef]身披多层铁甲与丝绸，是践行皇帝意志的移动堡垒。</BA_Byzantium_Adult_Cataphract_CataphractKnight.description>
+  <!-- EN: Imperial Cataphract -->
+  <BA_Byzantium_Adult_Cataphract_CataphractKnight.title>帝国甲胄骑兵</BA_Byzantium_Adult_Cataphract_CataphractKnight.title>
+  <!-- EN: Cataphract -->
+  <BA_Byzantium_Adult_Cataphract_CataphractKnight.titleShort>甲胄骑兵</BA_Byzantium_Adult_Cataphract_CataphractKnight.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led armored lancers in the dusty plains of Anatolia, famed for breaking enemy lines like iron tide.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Cataphract_CataphractOfficer.description>[PAWN_nameDef]在安纳托利亚的沙尘平原上率领甲胄枪骑兵，以铁潮般冲破敌军阵线而闻名。</BA_Byzantium_Adult_Cataphract_CataphractOfficer.description>
+  <!-- EN: Cataphract Officer -->
+  <BA_Byzantium_Adult_Cataphract_CataphractOfficer.title>甲胄骑兵军官</BA_Byzantium_Adult_Cataphract_CataphractOfficer.title>
+  <!-- EN: Officer -->
+  <BA_Byzantium_Adult_Cataphract_CataphractOfficer.titleShort>军官</BA_Byzantium_Adult_Cataphract_CataphractOfficer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] hung up his lamellar armor and horse tack, still haunted by the echo of hooves and war cries.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Cataphract_CataphractRetired.description>[PAWN_nameDef]虽已卸下札甲与马具，却仍被蹄声与战吼的回响所萦绕。</BA_Byzantium_Adult_Cataphract_CataphractRetired.description>
+  <!-- EN: Retired Cataphract -->
+  <BA_Byzantium_Adult_Cataphract_CataphractRetired.title>退役甲胄骑兵</BA_Byzantium_Adult_Cataphract_CataphractRetired.title>
+  <!-- EN: Retired Knight -->
+  <BA_Byzantium_Adult_Cataphract_CataphractRetired.titleShort>退役骑士</BA_Byzantium_Adult_Cataphract_CataphractRetired.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rode ahead of the imperial host, armored light yet bearing the pride of iron cavalry.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Cataphract_CataphractScout.description>[PAWN_nameDef]骑行在帝国大军前方，虽轻甲在身，却承载着铁骑兵的骄傲。</BA_Byzantium_Adult_Cataphract_CataphractScout.description>
+  <!-- EN: Cataphract Scout -->
+  <BA_Byzantium_Adult_Cataphract_CataphractScout.title>甲胄骑兵斥候</BA_Byzantium_Adult_Cataphract_CataphractScout.title>
+  <!-- EN: Scout -->
+  <BA_Byzantium_Adult_Cataphract_CataphractScout.titleShort>斥候</BA_Byzantium_Adult_Cataphract_CataphractScout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carried the imperial labarum into battle, his survival meaning the empire still stood.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Cataphract_CataphractStandardBearer.description>[PAWN_nameDef]高举帝国拉伯伦军旗奔赴战场，他的存活便是帝国存续的象征。</BA_Byzantium_Adult_Cataphract_CataphractStandardBearer.description>
+  <!-- EN: Cataphract Standard-Bearer -->
+  <BA_Byzantium_Adult_Cataphract_CataphractStandardBearer.title>甲胄骑兵旗手</BA_Byzantium_Adult_Cataphract_CataphractStandardBearer.title>
+  <!-- EN: Banner Knight -->
+  <BA_Byzantium_Adult_Cataphract_CataphractStandardBearer.titleShort>旗骑士</BA_Byzantium_Adult_Cataphract_CataphractStandardBearer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived more campaigns than he could count, his armor dented but his pride unbroken.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Cataphract_CataphractVeteran.description>[PAWN_nameDef]历经战役无数，铠甲虽布满凹痕，骄傲却从未磨灭。</BA_Byzantium_Adult_Cataphract_CataphractVeteran.description>
+  <!-- EN: Veteran Cataphract -->
+  <BA_Byzantium_Adult_Cataphract_CataphractVeteran.title>资深甲胄骑兵</BA_Byzantium_Adult_Cataphract_CataphractVeteran.title>
+  <!-- EN: Veteran -->
+  <BA_Byzantium_Adult_Cataphract_CataphractVeteran.titleShort>老兵</BA_Byzantium_Adult_Cataphract_CataphractVeteran.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] interpreted Justinian’s laws for imperial judges, crafting decrees that shaped lives and fates.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Educated_CourtJurist.description>[PAWN_nameDef]为帝国法官解读查士丁尼法典，起草的法令左右着世人的命运。</BA_Byzantium_Adult_Educated_CourtJurist.description>
+  <!-- EN: Court Jurist -->
+  <BA_Byzantium_Adult_Educated_CourtJurist.title>宫廷法学家</BA_Byzantium_Adult_Educated_CourtJurist.title>
+  <!-- EN: Jurist -->
+  <BA_Byzantium_Adult_Educated_CourtJurist.titleShort>法学家</BA_Byzantium_Adult_Educated_CourtJurist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] instructed imperial children in history and rhetoric, molding princes into emperors.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Educated_CourtTutor.description>[PAWN_nameDef]向帝国子嗣传授历史与修辞学，将王子们塑造成未来的帝王。</BA_Byzantium_Adult_Educated_CourtTutor.description>
+  <!-- EN: Court Tutor -->
+  <BA_Byzantium_Adult_Educated_CourtTutor.title>宫廷导师</BA_Byzantium_Adult_Educated_CourtTutor.title>
+  <!-- EN: Tutor -->
+  <BA_Byzantium_Adult_Educated_CourtTutor.titleShort>导师</BA_Byzantium_Adult_Educated_CourtTutor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] painted holy icons according to divine canon, turning pigment and prayer into sacred art.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Educated_Iconographer.description>[PAWN_nameDef]遵循神圣教规绘制圣像，将颜料与祈祷凝结为神圣艺术。</BA_Byzantium_Adult_Educated_Iconographer.description>
+  <!-- EN: Iconographer -->
+  <BA_Byzantium_Adult_Educated_Iconographer.title>圣像大师</BA_Byzantium_Adult_Educated_Iconographer.title>
+  <!-- EN: Painter -->
+  <BA_Byzantium_Adult_Educated_Iconographer.titleShort>画师</BA_Byzantium_Adult_Educated_Iconographer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended the imperial archives, organizing centuries of edicts, charters, and conspiracies.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Educated_ImperialArchivist.description>[PAWN_nameDef]掌管帝国档案馆，整理数世纪以来的法令、宪章与隐秘阴谋。</BA_Byzantium_Adult_Educated_ImperialArchivist.description>
+  <!-- EN: Imperial Archivist -->
+  <BA_Byzantium_Adult_Educated_ImperialArchivist.title>帝国档案管理员</BA_Byzantium_Adult_Educated_ImperialArchivist.title>
+  <!-- EN: Archivist -->
+  <BA_Byzantium_Adult_Educated_ImperialArchivist.titleShort>档案员</BA_Byzantium_Adult_Educated_ImperialArchivist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied philosophy and mathematics in the Magnaura school of Constantinople, debating logic beneath mosaic ceilings.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Educated_MagnuraScholar.description>[PAWN_nameDef]在君士坦丁堡的马格瑙拉学院研习哲学与数学，于马赛克穹顶之下辩论逻辑之道。</BA_Byzantium_Adult_Educated_MagnuraScholar.description>
+  <!-- EN: Scholar of the Magnaura -->
+  <BA_Byzantium_Adult_Educated_MagnuraScholar.title>马格瑙拉学者</BA_Byzantium_Adult_Educated_MagnuraScholar.title>
+  <!-- EN: Scholar -->
+  <BA_Byzantium_Adult_Educated_MagnuraScholar.titleShort>学者</BA_Byzantium_Adult_Educated_MagnuraScholar.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] taught orphans to read psalms and write prayers within a monastery’s quiet halls.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Educated_MonkTeacher.description>[PAWN_nameDef]在修道院宁静的殿堂中教导孤儿诵读圣诗、书写祷文。</BA_Byzantium_Adult_Educated_MonkTeacher.description>
+  <!-- EN: Monastic Teacher -->
+  <BA_Byzantium_Adult_Educated_MonkTeacher.title>修道院教师</BA_Byzantium_Adult_Educated_MonkTeacher.title>
+  <!-- EN: Teacher -->
+  <BA_Byzantium_Adult_Educated_MonkTeacher.titleShort>教师</BA_Byzantium_Adult_Educated_MonkTeacher.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] translated Persian and Latin texts for the court, bridging cultures with precision and wit.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Educated_PolyglotTranslator.description>[PAWN_nameDef]为宫廷翻译波斯语与拉丁语文献，以精准与智慧搭建文化桥梁。</BA_Byzantium_Adult_Educated_PolyglotTranslator.description>
+  <!-- EN: Polyglot Translator -->
+  <BA_Byzantium_Adult_Educated_PolyglotTranslator.title>多语翻译官</BA_Byzantium_Adult_Educated_PolyglotTranslator.title>
+  <!-- EN: Translator -->
+  <BA_Byzantium_Adult_Educated_PolyglotTranslator.titleShort>翻译官</BA_Byzantium_Adult_Educated_PolyglotTranslator.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] copied holy manuscripts for the Patriarchate, illuminating letters with gold and devotion.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Educated_ScribeOfThePatriarch.description>[PAWN_nameDef]为牧首区抄写神圣手稿，以金箔与虔诚点缀字母。</BA_Byzantium_Adult_Educated_ScribeOfThePatriarch.description>
+  <!-- EN: Scribe of the Patriarch -->
+  <BA_Byzantium_Adult_Educated_ScribeOfThePatriarch.title>牧首抄写员</BA_Byzantium_Adult_Educated_ScribeOfThePatriarch.title>
+  <!-- EN: Scribe -->
+  <BA_Byzantium_Adult_Educated_ScribeOfThePatriarch.titleShort>抄写员</BA_Byzantium_Adult_Educated_ScribeOfThePatriarch.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] taught scripture in the shadow of Hagia Sophia, crafting doctrine through reason and faith alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Educated_TheologianOfHagiaSophia.description>[PAWN_nameDef]在圣索菲亚大教堂的阴影下传授经文，以理性与信仰共同构建教义。</BA_Byzantium_Adult_Educated_TheologianOfHagiaSophia.description>
+  <!-- EN: Theologian of Hagia Sophia -->
+  <BA_Byzantium_Adult_Educated_TheologianOfHagiaSophia.title>圣索菲亚神学家</BA_Byzantium_Adult_Educated_TheologianOfHagiaSophia.title>
+  <!-- EN: Theologian -->
+  <BA_Byzantium_Adult_Educated_TheologianOfHagiaSophia.titleShort>神学家</BA_Byzantium_Adult_Educated_TheologianOfHagiaSophia.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] gathered intelligence on foreign powers, turning diplomacy into subtle warfare.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Governing_BureauOfBarbarians.description>[PAWN_nameDef]搜集外国势力情报，将外交转化为隐秘的战争。</BA_Byzantium_Adult_Governing_BureauOfBarbarians.description>
+  <!-- EN: Officer of the Bureau of Barbarians -->
+  <BA_Byzantium_Adult_Governing_BureauOfBarbarians.title>蛮族事务局官员</BA_Byzantium_Adult_Governing_BureauOfBarbarians.title>
+  <!-- EN: Spy Master -->
+  <BA_Byzantium_Adult_Governing_BureauOfBarbarians.titleShort>谍报主管</BA_Byzantium_Adult_Governing_BureauOfBarbarians.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] oversaw Constantinople’s markets and order, ruling its merchants and mobs with iron patience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Governing_EparchOfCity.description>[PAWN_nameDef]掌管君士坦丁堡的市集与治安，以钢铁般的耐心治理商人和民众。</BA_Byzantium_Adult_Governing_EparchOfCity.description>
+  <!-- EN: Eparch of the City -->
+  <BA_Byzantium_Adult_Governing_EparchOfCity.title>城市长官</BA_Byzantium_Adult_Governing_EparchOfCity.title>
+  <!-- EN: Eparch -->
+  <BA_Byzantium_Adult_Governing_EparchOfCity.titleShort>长官</BA_Byzantium_Adult_Governing_EparchOfCity.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] maintained the imperial courier system, ensuring news of victory and revolt reached the capital swiftly.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Governing_ImperialPostMaster.description>[PAWN_nameDef]负责帝国信使系统，确保胜利与叛乱的消息迅速传抵首都。</BA_Byzantium_Adult_Governing_ImperialPostMaster.description>
+  <!-- EN: Imperial Post Master -->
+  <BA_Byzantium_Adult_Governing_ImperialPostMaster.title>帝国邮政总管</BA_Byzantium_Adult_Governing_ImperialPostMaster.title>
+  <!-- EN: Post Master -->
+  <BA_Byzantium_Adult_Governing_ImperialPostMaster.titleShort>邮政总管</BA_Byzantium_Adult_Governing_ImperialPostMaster.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed imperial treasury accounts, ensuring the gold flowed where the emperor wished.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Governing_LogotheteOfFinance.description>[PAWN_nameDef]管理帝国国库账目，确保黄金流向皇帝指定的地方。</BA_Byzantium_Adult_Governing_LogotheteOfFinance.description>
+  <!-- EN: Logothete of Finance -->
+  <BA_Byzantium_Adult_Governing_LogotheteOfFinance.title>财政大臣</BA_Byzantium_Adult_Governing_LogotheteOfFinance.title>
+  <!-- EN: Logothete -->
+  <BA_Byzantium_Adult_Governing_LogotheteOfFinance.titleShort>大臣</BA_Byzantium_Adult_Governing_LogotheteOfFinance.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed Constantinople’s docks, regulating ships laden with grain, wine, and imperial gossip.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Governing_PortMaster.description>[PAWN_nameDef]管理君士坦丁堡码头，监管装载着谷物、葡萄酒与帝国秘闻的船只。</BA_Byzantium_Adult_Governing_PortMaster.description>
+  <!-- EN: Port Master -->
+  <BA_Byzantium_Adult_Governing_PortMaster.title>港口总管</BA_Byzantium_Adult_Governing_PortMaster.title>
+  <!-- EN: Harbormaster -->
+  <BA_Byzantium_Adult_Governing_PortMaster.titleShort>港务长</BA_Byzantium_Adult_Governing_PortMaster.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] enforced imperial law within the capital, resolving disputes between nobles and commoners alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Governing_PraetorUrbanus.description>[PAWN_nameDef]在首都执行帝国法律，调解贵族与平民之间的纠纷。</BA_Byzantium_Adult_Governing_PraetorUrbanus.description>
+  <!-- EN: Praetor Urbanus -->
+  <BA_Byzantium_Adult_Governing_PraetorUrbanus.title>城市执政官</BA_Byzantium_Adult_Governing_PraetorUrbanus.title>
+  <!-- EN: Praetor -->
+  <BA_Byzantium_Adult_Governing_PraetorUrbanus.titleShort>执政官</BA_Byzantium_Adult_Governing_PraetorUrbanus.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] administered both army and civil order in a distant province, often acting as miniature emperor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Governing_ProvincialStrategos.description>[PAWN_nameDef]在偏远行省掌管军政事务，行事常如小型皇帝一般。</BA_Byzantium_Adult_Governing_ProvincialStrategos.description>
+  <!-- EN: Provincial Strategos -->
+  <BA_Byzantium_Adult_Governing_ProvincialStrategos.title>行省军区长官</BA_Byzantium_Adult_Governing_ProvincialStrategos.title>
+  <!-- EN: Strategos -->
+  <BA_Byzantium_Adult_Governing_ProvincialStrategos.titleShort>军区长官</BA_Byzantium_Adult_Governing_ProvincialStrategos.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled villages to collect imperial dues, often escorted by soldiers and fear alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Governing_TaxCollector.description>[PAWN_nameDef]穿梭于村庄之间征收帝国赋税，身边常有士兵护送，也常伴着民众的畏惧。</BA_Byzantium_Adult_Governing_TaxCollector.description>
+  <!-- EN: Tax Collector -->
+  <BA_Byzantium_Adult_Governing_TaxCollector.title>税务官</BA_Byzantium_Adult_Governing_TaxCollector.title>
+  <!-- EN: Collector -->
+  <BA_Byzantium_Adult_Governing_TaxCollector.titleShort>税吏</BA_Byzantium_Adult_Governing_TaxCollector.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled a provincial theme, balancing tax, defense, and faith under imperial oversight.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Governing_ThemeGovernor.description>[PAWN_nameDef]统治一个行省军区，在帝国监督下平衡赋税、防御与信仰事务。</BA_Byzantium_Adult_Governing_ThemeGovernor.description>
+  <!-- EN: Theme Governor -->
+  <BA_Byzantium_Adult_Governing_ThemeGovernor.title>军区总督</BA_Byzantium_Adult_Governing_ThemeGovernor.title>
+  <!-- EN: Governor -->
+  <BA_Byzantium_Adult_Governing_ThemeGovernor.titleShort>总督</BA_Byzantium_Adult_Governing_ThemeGovernor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in the eastern frontiers against Arabs and Persians, hardened by decades of siege warfare.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Military_ArmeniacLegionary.description>[PAWN_nameDef]在东部边境对抗阿拉伯人与波斯人，数十年的围城战磨炼出坚毅品格。</BA_Byzantium_Adult_Military_ArmeniacLegionary.description>
+  <!-- EN: Armeniac Legionary -->
+  <BA_Byzantium_Adult_Military_ArmeniacLegionary.title>亚美尼亚军团士兵</BA_Byzantium_Adult_Military_ArmeniacLegionary.title>
+  <!-- EN: Legionary -->
+  <BA_Byzantium_Adult_Military_ArmeniacLegionary.titleShort>军团士兵</BA_Byzantium_Adult_Military_ArmeniacLegionary.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rowed and fought aboard dromons, the fire-spitting ships guarding the imperial straits.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Military_BosphorusMarine.description>[PAWN_nameDef]在喷火战船（德罗蒙船）上划桨作战，守护帝国海峡。</BA_Byzantium_Adult_Military_BosphorusMarine.description>
+  <!-- EN: Bosphorus Marine -->
+  <BA_Byzantium_Adult_Military_BosphorusMarine.title>博斯普鲁斯海军士兵</BA_Byzantium_Adult_Military_BosphorusMarine.title>
+  <!-- EN: Marine -->
+  <BA_Byzantium_Adult_Military_BosphorusMarine.titleShort>海军士兵</BA_Byzantium_Adult_Military_BosphorusMarine.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fought as a heavily armored cavalryman, the hammer of the Byzantine field armies.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Military_Kataphraktos.description>[PAWN_nameDef]作为重骑兵作战，是拜占庭野战军的攻坚铁锤。</BA_Byzantium_Adult_Military_Kataphraktos.description>
+  <!-- EN: Kataphraktos -->
+  <BA_Byzantium_Adult_Military_Kataphraktos.title>甲胄重骑兵</BA_Byzantium_Adult_Military_Kataphraktos.title>
+  <!-- EN: Cataphract -->
+  <BA_Byzantium_Adult_Military_Kataphraktos.titleShort>重骑兵</BA_Byzantium_Adult_Military_Kataphraktos.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived the disastrous defeat at Manzikert, scarred by betrayal and exile but unbroken in spirit.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Military_ManzikertVeteran.description>[PAWN_nameDef]在曼齐克特惨败中幸存，虽因背叛与流亡留下伤痕，精神却未被击垮。</BA_Byzantium_Adult_Military_ManzikertVeteran.description>
+  <!-- EN: Veteran of Manzikert -->
+  <BA_Byzantium_Adult_Military_ManzikertVeteran.title>曼齐克特战役老兵</BA_Byzantium_Adult_Military_ManzikertVeteran.title>
+  <!-- EN: Veteran -->
+  <BA_Byzantium_Adult_Military_ManzikertVeteran.titleShort>老兵</BA_Byzantium_Adult_Military_ManzikertVeteran.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained new recruits in the art of disciplined formation, drilling spear and shield in perfect harmony.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Military_PhalanxInstructor.description>[PAWN_nameDef]教导新兵阵列战术，训练他们使长矛与盾牌达到完美协同。</BA_Byzantium_Adult_Military_PhalanxInstructor.description>
+  <!-- EN: Phalanx Instructor -->
+  <BA_Byzantium_Adult_Military_PhalanxInstructor.title>方阵教官</BA_Byzantium_Adult_Military_PhalanxInstructor.title>
+  <!-- EN: Instructor -->
+  <BA_Byzantium_Adult_Military_PhalanxInstructor.titleShort>教官</BA_Byzantium_Adult_Military_PhalanxInstructor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in the elite Scholae Palatinae, personal bodyguards and courtiers of the emperor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Military_ScholaePalatinae.description>[PAWN_nameDef]服役于精锐的宫廷禁卫军团，既是皇帝的贴身护卫，也是宫廷朝臣。</BA_Byzantium_Adult_Military_ScholaePalatinae.description>
+  <!-- EN: Scholae Palatinae Officer -->
+  <BA_Byzantium_Adult_Military_ScholaePalatinae.title>宫廷禁卫军团军官</BA_Byzantium_Adult_Military_ScholaePalatinae.title>
+  <!-- EN: Officer -->
+  <BA_Byzantium_Adult_Military_ScholaePalatinae.titleShort>军官</BA_Byzantium_Adult_Military_ScholaePalatinae.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded a provincial theme, balancing military discipline and civil governance under imperial authority.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Military_ThemeStrategos.description>[PAWN_nameDef]统领一个行省军区，在帝国授权下平衡军事纪律与民事治理。</BA_Byzantium_Adult_Military_ThemeStrategos.description>
+  <!-- EN: Theme Strategos -->
+  <BA_Byzantium_Adult_Military_ThemeStrategos.title>军区指挥官</BA_Byzantium_Adult_Military_ThemeStrategos.title>
+  <!-- EN: Strategos -->
+  <BA_Byzantium_Adult_Military_ThemeStrategos.titleShort>指挥官</BA_Byzantium_Adult_Military_ThemeStrategos.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a Varangian guardsman in the imperial palace, a foreign warrior loyal only to the emperor’s gold.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Military_VarangianGuard.description>[PAWN_nameDef]身为瓦兰吉亚卫队士兵服役于帝国宫殿，是只忠于皇帝赏金的外籍战士。</BA_Byzantium_Adult_Military_VarangianGuard.description>
+  <!-- EN: Varangian Guard -->
+  <BA_Byzantium_Adult_Military_VarangianGuard.title>瓦兰吉亚卫队士兵</BA_Byzantium_Adult_Military_VarangianGuard.title>
+  <!-- EN: Guard -->
+  <BA_Byzantium_Adult_Military_VarangianGuard.titleShort>卫队士兵</BA_Byzantium_Adult_Military_VarangianGuard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] governed her household with precision and influence, managing servants and politics alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_ByzantineMatron.description>[PAWN_nameDef]以精准与影响力治理家族事务，既管理仆人，也涉足政治。</BA_Byzantium_Adult_Nobility_ByzantineMatron.description>
+  <!-- EN: Imperial Matron -->
+  <BA_Byzantium_Adult_Nobility_ByzantineMatron.title>拜占庭贵妇</BA_Byzantium_Adult_Nobility_ByzantineMatron.title>
+  <!-- EN: Matron -->
+  <BA_Byzantium_Adult_Nobility_ByzantineMatron.titleShort>贵妇</BA_Byzantium_Adult_Nobility_ByzantineMatron.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised as heir to a despotes, taught to rule with piety and intrigue beneath the imperial gaze.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_DespotesHeir.description>[PAWN_nameDef]作为专制君主（德斯波特斯）的继承人被抚养长大，在帝国的注视下习得以虔诚与权谋治国。</BA_Byzantium_Adult_Nobility_DespotesHeir.description>
+  <!-- EN: Despotes’ Heir -->
+  <BA_Byzantium_Adult_Nobility_DespotesHeir.title>专制君主继承人</BA_Byzantium_Adult_Nobility_DespotesHeir.title>
+  <!-- EN: Heir -->
+  <BA_Byzantium_Adult_Nobility_DespotesHeir.titleShort>继承人</BA_Byzantium_Adult_Nobility_DespotesHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] held authority over palace lands and staff, one of the empire’s most prestigious offices.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_Kouropalates.description>[PAWN_nameDef]掌管宫殿领地与侍从，身居帝国最显赫的官职之一。</BA_Byzantium_Adult_Nobility_Kouropalates.description>
+  <!-- EN: Kouropalates -->
+  <BA_Byzantium_Adult_Nobility_Kouropalates.title>宫务大臣</BA_Byzantium_Adult_Nobility_Kouropalates.title>
+  <!-- EN: Palace Lord -->
+  <BA_Byzantium_Adult_Nobility_Kouropalates.titleShort>宫务 lord</BA_Byzantium_Adult_Nobility_Kouropalates.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded the imperial armies, earning both glory and suspicion from the purple throne.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_MegasDomestikos.description>[PAWN_nameDef]统领帝国大军，既赢得荣耀，也受到紫袍王座（皇帝）的猜忌。</BA_Byzantium_Adult_Nobility_MegasDomestikos.description>
+  <!-- EN: Megas Domestikos -->
+  <BA_Byzantium_Adult_Nobility_MegasDomestikos.title>大元帅</BA_Byzantium_Adult_Nobility_MegasDomestikos.title>
+  <!-- EN: General -->
+  <BA_Byzantium_Adult_Nobility_MegasDomestikos.titleShort>元帅</BA_Byzantium_Adult_Nobility_MegasDomestikos.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] presided over disputes within the imperial court, rendering verdicts swayed by bribes and bloodlines.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_PalatineJudge.description>[PAWN_nameDef]主持帝国宫廷纠纷裁决，判决常受贿赂与血统影响。</BA_Byzantium_Adult_Nobility_PalatineJudge.description>
+  <!-- EN: Palatine Judge -->
+  <BA_Byzantium_Adult_Nobility_PalatineJudge.title>宫廷法官</BA_Byzantium_Adult_Nobility_PalatineJudge.title>
+  <!-- EN: Judge -->
+  <BA_Byzantium_Adult_Nobility_PalatineJudge.titleShort>法官</BA_Byzantium_Adult_Nobility_PalatineJudge.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] held estates near the capital, attending imperial banquets and whispering policy behind silken veils.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_PalatineLord.description>[PAWN_nameDef]在首都附近拥有庄园，出席帝国宴会，在丝绸帷幕后密议政策。</BA_Byzantium_Adult_Nobility_PalatineLord.description>
+  <!-- EN: Palatine Lord -->
+  <BA_Byzantium_Adult_Nobility_PalatineLord.title>宫廷贵族</BA_Byzantium_Adult_Nobility_PalatineLord.title>
+  <!-- EN: Lord -->
+  <BA_Byzantium_Adult_Nobility_PalatineLord.titleShort>贵族</BA_Byzantium_Adult_Nobility_PalatineLord.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born within the imperial palace itself, their destiny shaped by gold, envy, and divinity.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_Porphyrogennetos.description>[PAWN_nameDef]诞生于帝国宫殿之内，命运被黄金、嫉妒与神性所塑造。</BA_Byzantium_Adult_Nobility_Porphyrogennetos.description>
+  <!-- EN: Porphyrogennetos -->
+  <BA_Byzantium_Adult_Nobility_Porphyrogennetos.title>紫室皇子（生于紫室者）</BA_Byzantium_Adult_Nobility_Porphyrogennetos.title>
+  <!-- EN: Born in the Purple -->
+  <BA_Byzantium_Adult_Nobility_Porphyrogennetos.titleShort>紫室出身</BA_Byzantium_Adult_Nobility_Porphyrogennetos.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] controlled the emperor’s wardrobe and treasury, a post of luxury and silent power.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_Protovestiarios.description>[PAWN_nameDef]掌管皇帝的服饰与国库，身居奢华且手握隐秘权力的要职。</BA_Byzantium_Adult_Nobility_Protovestiarios.description>
+  <!-- EN: Protovestiarios -->
+  <BA_Byzantium_Adult_Nobility_Protovestiarios.title>宫廷总管</BA_Byzantium_Adult_Nobility_Protovestiarios.title>
+  <!-- EN: Wardrobe Keeper -->
+  <BA_Byzantium_Adult_Nobility_Protovestiarios.titleShort>总管</BA_Byzantium_Adult_Nobility_Protovestiarios.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in the ceremonial senate, influencing policy through alliance and rumor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_SenatorConstantinople.description>[PAWN_nameDef]在礼仪性元老院任职，通过结盟与流言影响政策。</BA_Byzantium_Adult_Nobility_SenatorConstantinople.description>
+  <!-- EN: Senator of Constantinople -->
+  <BA_Byzantium_Adult_Nobility_SenatorConstantinople.title>君士坦丁堡元老院议员</BA_Byzantium_Adult_Nobility_SenatorConstantinople.title>
+  <!-- EN: Senator -->
+  <BA_Byzantium_Adult_Nobility_SenatorConstantinople.titleShort>议员</BA_Byzantium_Adult_Nobility_SenatorConstantinople.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led an elite tagma regiment, balancing military duty with courtly politics.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Nobility_TagmaCommander.description>[PAWN_nameDef]统领精锐的中央军团（塔格马），平衡军事职责与宫廷政治。</BA_Byzantium_Adult_Nobility_TagmaCommander.description>
+  <!-- EN: Tagma Commander -->
+  <BA_Byzantium_Adult_Nobility_TagmaCommander.title>中央军团指挥官</BA_Byzantium_Adult_Nobility_TagmaCommander.title>
+  <!-- EN: Commander -->
+  <BA_Byzantium_Adult_Nobility_TagmaCommander.titleShort>指挥官</BA_Byzantium_Adult_Nobility_TagmaCommander.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led chants during imperial ceremonies, learning the art of harmony and command of voice.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Palace_BasilicaCantor.description>[PAWN_nameDef]在帝国仪式中领唱圣歌，习得和声技艺与嗓音掌控之道。</BA_Byzantium_Adult_Palace_BasilicaCantor.description>
+  <!-- EN: Basilica Cantor -->
+  <BA_Byzantium_Adult_Palace_BasilicaCantor.title>大教堂领唱者</BA_Byzantium_Adult_Palace_BasilicaCantor.title>
+  <!-- EN: Cantor -->
+  <BA_Byzantium_Adult_Palace_BasilicaCantor.titleShort>领唱者</BA_Byzantium_Adult_Palace_BasilicaCantor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served within the sacred palace, mediating between emperors and generals, trusted for loyalty and discretion.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Palace_CourtEunuch.description>[PAWN_nameDef]在神圣宫殿中任职，调解皇帝与将领之间的关系，因忠诚与谨慎而获信任。</BA_Byzantium_Adult_Palace_CourtEunuch.description>
+  <!-- EN: Imperial Eunuch -->
+  <BA_Byzantium_Adult_Palace_CourtEunuch.title>帝国宦官</BA_Byzantium_Adult_Palace_CourtEunuch.title>
+  <!-- EN: Eunuch -->
+  <BA_Byzantium_Adult_Palace_CourtEunuch.titleShort>宦官</BA_Byzantium_Adult_Palace_CourtEunuch.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in the private chambers of the empress, trusted to know every secret but speak none.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Palace_EmpressAttendant.description>[PAWN_nameDef]在皇后的私人寝宫任职，获准知晓所有秘密，却需守口如瓶。</BA_Byzantium_Adult_Palace_EmpressAttendant.description>
+  <!-- EN: Empress’s Attendant -->
+  <BA_Byzantium_Adult_Palace_EmpressAttendant.title>皇后侍从</BA_Byzantium_Adult_Palace_EmpressAttendant.title>
+  <!-- EN: Attendant -->
+  <BA_Byzantium_Adult_Palace_EmpressAttendant.titleShort>侍从</BA_Byzantium_Adult_Palace_EmpressAttendant.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed the emperor’s private chambers, controlling access and whispers alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Palace_ImperialChamberlain.description>[PAWN_nameDef]管理皇帝的私人寝宫，掌控人员出入与宫中密谈。</BA_Byzantium_Adult_Palace_ImperialChamberlain.description>
+  <!-- EN: Imperial Chamberlain -->
+  <BA_Byzantium_Adult_Palace_ImperialChamberlain.title>帝国内侍总管</BA_Byzantium_Adult_Palace_ImperialChamberlain.title>
+  <!-- EN: Chamberlain -->
+  <BA_Byzantium_Adult_Palace_ImperialChamberlain.titleShort>内侍总管</BA_Byzantium_Adult_Palace_ImperialChamberlain.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] recorded the patriarch’s decrees and guarded sacred texts within the Great Church.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Palace_PatriarchAssistant.description>[PAWN_nameDef]记录牧首的法令，在大教堂内守护神圣经文。</BA_Byzantium_Adult_Palace_PatriarchAssistant.description>
+  <!-- EN: Patriarch’s Assistant -->
+  <BA_Byzantium_Adult_Palace_PatriarchAssistant.title>牧首助手</BA_Byzantium_Adult_Palace_PatriarchAssistant.title>
+  <!-- EN: Clerk -->
+  <BA_Byzantium_Adult_Palace_PatriarchAssistant.titleShort>文书</BA_Byzantium_Adult_Palace_PatriarchAssistant.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rose to prominence as a patrician counselor, navigating the intrigues of the purple court.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Palace_PatricianAdvisor.description>[PAWN_nameDef]以贵族顾问的身份崭露头角，在紫袍宫廷的权谋纷争中周旋。</BA_Byzantium_Adult_Palace_PatricianAdvisor.description>
+  <!-- EN: Patrician Advisor -->
+  <BA_Byzantium_Adult_Palace_PatricianAdvisor.title>贵族顾问</BA_Byzantium_Adult_Palace_PatricianAdvisor.title>
+  <!-- EN: Advisor -->
+  <BA_Byzantium_Adult_Palace_PatricianAdvisor.titleShort>顾问</BA_Byzantium_Adult_Palace_PatricianAdvisor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] designed robes for the imperial family, weaving dyes forbidden to commoners.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Palace_PurpleSilkTailor.description>[PAWN_nameDef]为皇室设计礼服，使用平民禁用的染料织造。</BA_Byzantium_Adult_Palace_PurpleSilkTailor.description>
+  <!-- EN: Tailor of the Purple -->
+  <BA_Byzantium_Adult_Palace_PurpleSilkTailor.title>紫绸裁缝</BA_Byzantium_Adult_Palace_PurpleSilkTailor.title>
+  <!-- EN: Tailor -->
+  <BA_Byzantium_Adult_Palace_PurpleSilkTailor.titleShort>裁缝</BA_Byzantium_Adult_Palace_PurpleSilkTailor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led armies personally against foes, wielding both scepter and sword with divine authority.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Ruler_AutokratorStrategos.description>[PAWN_nameDef]亲率大军对抗敌人，以神圣权威执掌权杖与利剑。</BA_Byzantium_Adult_Ruler_AutokratorStrategos.description>
+  <!-- EN: Autokrator Strategos -->
+  <BA_Byzantium_Adult_Ruler_AutokratorStrategos.title>独裁者-统帅</BA_Byzantium_Adult_Ruler_AutokratorStrategos.title>
+  <!-- EN: Autokrator -->
+  <BA_Byzantium_Adult_Ruler_AutokratorStrategos.titleShort>独裁者</BA_Byzantium_Adult_Ruler_AutokratorStrategos.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled as Basileus of the Romans, defender of faith and keeper of empire, caught between cross and crown.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Ruler_Basileus.description>[PAWN_nameDef]以罗马人的皇帝（巴西琉斯）之名统治，既是信仰的守护者，也是帝国的执掌者，在十字架与王冠之间挣扎。</BA_Byzantium_Adult_Ruler_Basileus.description>
+  <!-- EN: Basileus -->
+  <BA_Byzantium_Adult_Ruler_Basileus.title>巴西琉斯（皇帝）</BA_Byzantium_Adult_Ruler_Basileus.title>
+  <!-- EN: Emperor -->
+  <BA_Byzantium_Adult_Ruler_Basileus.titleShort>皇帝</BA_Byzantium_Adult_Ruler_Basileus.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled in the emperor’s absence, weaving politics through veiled speech and subtle alliances.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Ruler_EmpressRegent.description>[PAWN_nameDef]在皇帝缺席时摄政，通过隐晦言辞与隐秘联盟操控政治。</BA_Byzantium_Adult_Ruler_EmpressRegent.description>
+  <!-- EN: Empress Regent -->
+  <BA_Byzantium_Adult_Ruler_EmpressRegent.title>摄政皇后</BA_Byzantium_Adult_Ruler_EmpressRegent.title>
+  <!-- EN: Regent -->
+  <BA_Byzantium_Adult_Ruler_EmpressRegent.titleShort>摄政</BA_Byzantium_Adult_Ruler_EmpressRegent.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sought to cleanse faith of icons, dividing the empire and reshaping worship by decree.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Ruler_IconoclastReformer.description>[PAWN_nameDef]试图清除信仰中的圣像崇拜，通过法令分裂帝国、重塑礼拜形式。</BA_Byzantium_Adult_Ruler_IconoclastReformer.description>
+  <!-- EN: Iconoclast Reformer -->
+  <BA_Byzantium_Adult_Ruler_IconoclastReformer.title>圣像破坏改革者</BA_Byzantium_Adult_Ruler_IconoclastReformer.title>
+  <!-- EN: Reformer -->
+  <BA_Byzantium_Adult_Ruler_IconoclastReformer.titleShort>改革者</BA_Byzantium_Adult_Ruler_IconoclastReformer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled jointly with the patriarchate, uniting altar and throne in divine harmony.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Ruler_PatriarchEmperor.description>[PAWN_nameDef]与牧首区联合统治，使祭坛与王座达成神圣和谐。</BA_Byzantium_Adult_Ruler_PatriarchEmperor.description>
+  <!-- EN: Patriarch Emperor -->
+  <BA_Byzantium_Adult_Ruler_PatriarchEmperor.title>牧首-皇帝</BA_Byzantium_Adult_Ruler_PatriarchEmperor.title>
+  <!-- EN: Patriarch -->
+  <BA_Byzantium_Adult_Ruler_PatriarchEmperor.titleShort>牧首</BA_Byzantium_Adult_Ruler_PatriarchEmperor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] inherited the purple since birth, viewing the empire as divine inheritance rather than duty.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Ruler_PorphyrogenitusRuler.description>[PAWN_nameDef]生来便继承紫袍（皇位），将帝国视为神圣遗产而非职责。</BA_Byzantium_Adult_Ruler_PorphyrogenitusRuler.description>
+  <!-- EN: Porphyrogenitus Ruler -->
+  <BA_Byzantium_Adult_Ruler_PorphyrogenitusRuler.title>紫室统治者</BA_Byzantium_Adult_Ruler_PorphyrogenitusRuler.title>
+  <!-- EN: Born Ruler -->
+  <BA_Byzantium_Adult_Ruler_PorphyrogenitusRuler.titleShort>天生统治者</BA_Byzantium_Adult_Ruler_PorphyrogenitusRuler.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] combined temporal rule with piety, founding monasteries and reforming faith in the empire.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Ruler_SaintlyMonarch.description>[PAWN_nameDef]将世俗统治与虔诚信仰相结合，建立修道院并改革帝国内的信仰。</BA_Byzantium_Adult_Ruler_SaintlyMonarch.description>
+  <!-- EN: Saintly Monarch -->
+  <BA_Byzantium_Adult_Ruler_SaintlyMonarch.title>圣明君主</BA_Byzantium_Adult_Ruler_SaintlyMonarch.title>
+  <!-- EN: Saint-Ruler -->
+  <BA_Byzantium_Adult_Ruler_SaintlyMonarch.titleShort>圣君</BA_Byzantium_Adult_Ruler_SaintlyMonarch.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] reorganized the empire into military themes, ensuring defense through loyal strategoi.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Ruler_ThematicEmperor.description>[PAWN_nameDef]将帝国重组为军事军区，通过忠诚的军区长官确保国防安全。</BA_Byzantium_Adult_Ruler_ThematicEmperor.description>
+  <!-- EN: Thematic Emperor -->
+  <BA_Byzantium_Adult_Ruler_ThematicEmperor.title>军区制皇帝</BA_Byzantium_Adult_Ruler_ThematicEmperor.title>
+  <!-- EN: Thematic Ruler -->
+  <BA_Byzantium_Adult_Ruler_ThematicEmperor.titleShort>军区统治者</BA_Byzantium_Adult_Ruler_ThematicEmperor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traded oil and silk between the islands of the Aegean, mastering both the waves and haggling tongues.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_AegeanMerchant.description>[PAWN_nameDef]在爱琴海诸岛之间交易橄榄油与丝绸，既精通海浪规律，也擅长议价言辞。</BA_Byzantium_Adult_Traveller_AegeanMerchant.description>
+  <!-- EN: Aegean Merchant -->
+  <BA_Byzantium_Adult_Traveller_AegeanMerchant.title>爱琴海商人</BA_Byzantium_Adult_Traveller_AegeanMerchant.title>
+  <!-- EN: Merchant -->
+  <BA_Byzantium_Adult_Traveller_AegeanMerchant.titleShort>商人</BA_Byzantium_Adult_Traveller_AegeanMerchant.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived among the monks of Mount Athos, meditating and surviving from the gifts of the earth.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_AthosHermit.description>[PAWN_nameDef]与阿索斯山的修士们同住，通过冥想修行，依靠大地的馈赠生存。</BA_Byzantium_Adult_Traveller_AthosHermit.description>
+  <!-- EN: Hermit of Mount Athos -->
+  <BA_Byzantium_Adult_Traveller_AthosHermit.title>阿索斯山隐士</BA_Byzantium_Adult_Traveller_AthosHermit.title>
+  <!-- EN: Hermit -->
+  <BA_Byzantium_Adult_Traveller_AthosHermit.titleShort>隐士</BA_Byzantium_Adult_Traveller_AthosHermit.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traversed the Taurus Mountains, guiding travelers and spies through Armenian passes.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_CilicianScout.description>[PAWN_nameDef]穿越托罗斯山脉，引导旅人及间谍通过亚美尼亚隘口。</BA_Byzantium_Adult_Traveller_CilicianScout.description>
+  <!-- EN: Cilician Scout -->
+  <BA_Byzantium_Adult_Traveller_CilicianScout.title>奇里乞亚斥候</BA_Byzantium_Adult_Traveller_CilicianScout.title>
+  <!-- EN: Scout -->
+  <BA_Byzantium_Adult_Traveller_CilicianScout.titleShort>斥候</BA_Byzantium_Adult_Traveller_CilicianScout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] secretly carried forbidden icons during times of iconoclasm, risking prison to preserve holy art.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_IconSmuggler.description>[PAWN_nameDef]在圣像破坏运动期间秘密携带禁运圣像，不惜冒着入狱风险保护神圣艺术。</BA_Byzantium_Adult_Traveller_IconSmuggler.description>
+  <!-- EN: Icon Smuggler -->
+  <BA_Byzantium_Adult_Traveller_IconSmuggler.title>圣像走私者</BA_Byzantium_Adult_Traveller_IconSmuggler.title>
+  <!-- EN: Smuggler -->
+  <BA_Byzantium_Adult_Traveller_IconSmuggler.titleShort>走私者</BA_Byzantium_Adult_Traveller_IconSmuggler.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carried imperial decrees across distant provinces, dealing with governors, raiders, and priests alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_ImperialEnvoy.description>[PAWN_nameDef]携带帝国法令穿梭于偏远行省，需与总督、劫掠者及祭司多方周旋。</BA_Byzantium_Adult_Traveller_ImperialEnvoy.description>
+  <!-- EN: Imperial Envoy -->
+  <BA_Byzantium_Adult_Traveller_ImperialEnvoy.title>帝国使者</BA_Byzantium_Adult_Traveller_ImperialEnvoy.title>
+  <!-- EN: Envoy -->
+  <BA_Byzantium_Adult_Traveller_ImperialEnvoy.titleShort>使者</BA_Byzantium_Adult_Traveller_ImperialEnvoy.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spread the word of Orthodoxy among pagan tribes beyond the empire’s borders, learning tongues and danger.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_MissionaryToSlavs.description>[PAWN_nameDef]前往帝国边境的异教部落传播东正教教义，在学习异族语言的同时，也直面重重危险。</BA_Byzantium_Adult_Traveller_MissionaryToSlavs.description>
+  <!-- EN: Missionary to the Slavs -->
+  <BA_Byzantium_Adult_Traveller_MissionaryToSlavs.title>斯拉夫人传教士</BA_Byzantium_Adult_Traveller_MissionaryToSlavs.title>
+  <!-- EN: Missionary -->
+  <BA_Byzantium_Adult_Traveller_MissionaryToSlavs.titleShort>传教士</BA_Byzantium_Adult_Traveller_MissionaryToSlavs.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined a caravan of pilgrims bound for Jerusalem, witnessing both devotion and desert bandits along the way.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_PilgrimToJerusalem.description>[PAWN_nameDef]加入前往耶路撒冷的朝圣商队，沿途既见证了虔诚的信仰，也遭遇过沙漠匪徒。</BA_Byzantium_Adult_Traveller_PilgrimToJerusalem.description>
+  <!-- EN: Pilgrim to Jerusalem -->
+  <BA_Byzantium_Adult_Traveller_PilgrimToJerusalem.title>耶路撒冷朝圣者</BA_Byzantium_Adult_Traveller_PilgrimToJerusalem.title>
+  <!-- EN: Pilgrim -->
+  <BA_Byzantium_Adult_Traveller_PilgrimToJerusalem.titleShort>朝圣者</BA_Byzantium_Adult_Traveller_PilgrimToJerusalem.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] navigated the treacherous Black Sea routes, bartering between Byzantines, Georgians, and Varangians.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_PonticTrader.description>[PAWN_nameDef]航行于危险的黑海航线，在拜占庭人、格鲁吉亚人与瓦兰吉亚人之间进行易货贸易。</BA_Byzantium_Adult_Traveller_PonticTrader.description>
+  <!-- EN: Pontic Trader -->
+  <BA_Byzantium_Adult_Traveller_PonticTrader.title>黑海商人</BA_Byzantium_Adult_Traveller_PonticTrader.title>
+  <!-- EN: Trader -->
+  <BA_Byzantium_Adult_Traveller_PonticTrader.titleShort>商人</BA_Byzantium_Adult_Traveller_PonticTrader.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] protected caravans carrying imperial silk through Anatolian passes against bandits and rebels.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_PurpleCaravanGuard.description>[PAWN_nameDef]护送装载帝国丝绸的商队穿越安纳托利亚隘口，抵御匪徒与叛乱者的袭击。</BA_Byzantium_Adult_Traveller_PurpleCaravanGuard.description>
+  <!-- EN: Silk Road Guard -->
+  <BA_Byzantium_Adult_Traveller_PurpleCaravanGuard.title>丝绸之路护卫</BA_Byzantium_Adult_Traveller_PurpleCaravanGuard.title>
+  <!-- EN: Guard -->
+  <BA_Byzantium_Adult_Traveller_PurpleCaravanGuard.titleShort>护卫</BA_Byzantium_Adult_Traveller_PurpleCaravanGuard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served on merchant ships crossing from Constantinople to Trebizond, mastering stars and storms alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Traveller_RumSeaNavigator.description>[PAWN_nameDef]在往返于君士坦丁堡与特拉布宗的商船上任职，既精通星辰导航，也能驾驭狂风暴雨。</BA_Byzantium_Adult_Traveller_RumSeaNavigator.description>
+  <!-- EN: Navigator of the Rum Sea -->
+  <BA_Byzantium_Adult_Traveller_RumSeaNavigator.title>鲁姆海航海家</BA_Byzantium_Adult_Traveller_RumSeaNavigator.title>
+  <!-- EN: Navigator -->
+  <BA_Byzantium_Adult_Traveller_RumSeaNavigator.titleShort>航海家</BA_Byzantium_Adult_Traveller_RumSeaNavigator.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] guarded the emperor’s person during audiences, always one sword stroke away from execution or honor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Varangian_VarangianBodyguard.description>[PAWN_nameDef]在朝会期间护卫皇帝人身安全，时刻处于要么获封荣耀、要么遭到处决的生死边缘。</BA_Byzantium_Adult_Varangian_VarangianBodyguard.description>
+  <!-- EN: Imperial Bodyguard -->
+  <BA_Byzantium_Adult_Varangian_VarangianBodyguard.title>帝国瓦兰吉亚护卫</BA_Byzantium_Adult_Varangian_VarangianBodyguard.title>
+  <!-- EN: Bodyguard -->
+  <BA_Byzantium_Adult_Varangian_VarangianBodyguard.titleShort>护卫</BA_Byzantium_Adult_Varangian_VarangianBodyguard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded the northern guards of the Chrysotriklinos, keeping order in the palace’s marble halls.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Varangian_VarangianCaptain.description>[PAWN_nameDef]统领金色大厅（克里索特里克林诺斯）的北部卫队，维持宫殿大理石殿堂的秩序。</BA_Byzantium_Adult_Varangian_VarangianCaptain.description>
+  <!-- EN: Captain of the Varangians -->
+  <BA_Byzantium_Adult_Varangian_VarangianCaptain.title>瓦兰吉亚卫队队长</BA_Byzantium_Adult_Varangian_VarangianCaptain.title>
+  <!-- EN: Captain -->
+  <BA_Byzantium_Adult_Varangian_VarangianCaptain.titleShort>队长</BA_Byzantium_Adult_Varangian_VarangianCaptain.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was chosen to represent the Guard in ceremonial duels, a walking symbol of imperial might.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Varangian_VarangianChampion.description>[PAWN_nameDef]被选中代表卫队参加仪式性决斗，是帝国威严的移动象征。</BA_Byzantium_Adult_Varangian_VarangianChampion.description>
+  <!-- EN: Varangian Champion -->
+  <BA_Byzantium_Adult_Varangian_VarangianChampion.title>瓦兰吉亚冠军武士</BA_Byzantium_Adult_Varangian_VarangianChampion.title>
+  <!-- EN: Champion -->
+  <BA_Byzantium_Adult_Varangian_VarangianChampion.titleShort>冠军武士</BA_Byzantium_Adult_Varangian_VarangianChampion.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] once served the emperor but fled after a failed coup, haunted by honor and blood oaths.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Varangian_VarangianDefector.description>[PAWN_nameDef]曾为皇帝效力，却在政变失败后逃亡，始终被荣誉与血誓所困扰。</BA_Byzantium_Adult_Varangian_VarangianDefector.description>
+  <!-- EN: Exiled Varangian -->
+  <BA_Byzantium_Adult_Varangian_VarangianDefector.title>流亡瓦兰吉亚人</BA_Byzantium_Adult_Varangian_VarangianDefector.title>
+  <!-- EN: Exile -->
+  <BA_Byzantium_Adult_Varangian_VarangianDefector.titleShort>流亡者</BA_Byzantium_Adult_Varangian_VarangianDefector.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was sent west to recruit warriors for the Guard, trading imperial gold for loyalty.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Varangian_VarangianEnvoy.description>[PAWN_nameDef]被派往西方为卫队招募战士，用帝国黄金换取忠诚。</BA_Byzantium_Adult_Varangian_VarangianEnvoy.description>
+  <!-- EN: Varangian Envoy -->
+  <BA_Byzantium_Adult_Varangian_VarangianEnvoy.title>瓦兰吉亚使者</BA_Byzantium_Adult_Varangian_VarangianEnvoy.title>
+  <!-- EN: Envoy -->
+  <BA_Byzantium_Adult_Varangian_VarangianEnvoy.titleShort>使者</BA_Byzantium_Adult_Varangian_VarangianEnvoy.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was trusted to carry out imperial justice, blade swinging in silence behind golden doors.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Varangian_VarangianExecutioner.description>[PAWN_nameDef]获皇帝信任执行帝国正义，在金色门后无声挥刀行刑。</BA_Byzantium_Adult_Varangian_VarangianExecutioner.description>
+  <!-- EN: Palace Executioner -->
+  <BA_Byzantium_Adult_Varangian_VarangianExecutioner.title>宫廷刽子手</BA_Byzantium_Adult_Varangian_VarangianExecutioner.title>
+  <!-- EN: Executioner -->
+  <BA_Byzantium_Adult_Varangian_VarangianExecutioner.titleShort>刽子手</BA_Byzantium_Adult_Varangian_VarangianExecutioner.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the Varangian Guard as a foreign youth seeking fortune, sworn to defend the emperor’s life until death.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Varangian_VarangianRecruit.description>[PAWN_nameDef]以寻求财富的外籍青年身份加入瓦兰吉亚卫队，宣誓至死保卫皇帝性命。</BA_Byzantium_Adult_Varangian_VarangianRecruit.description>
+  <!-- EN: Varangian Recruit -->
+  <BA_Byzantium_Adult_Varangian_VarangianRecruit.title>瓦兰吉亚新兵</BA_Byzantium_Adult_Varangian_VarangianRecruit.title>
+  <!-- EN: Recruit -->
+  <BA_Byzantium_Adult_Varangian_VarangianRecruit.titleShort>新兵</BA_Byzantium_Adult_Varangian_VarangianRecruit.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained recruits in the double-handed axe and discipline of silence, hallmarks of the emperor’s guard.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Varangian_VarangianTrainer.description>[PAWN_nameDef]训练新兵使用双手斧与沉默纪律——这是皇帝卫队的标志性特质。</BA_Byzantium_Adult_Varangian_VarangianTrainer.description>
+  <!-- EN: Varangian Trainer -->
+  <BA_Byzantium_Adult_Varangian_VarangianTrainer.title>瓦兰吉亚教官</BA_Byzantium_Adult_Varangian_VarangianTrainer.title>
+  <!-- EN: Instructor -->
+  <BA_Byzantium_Adult_Varangian_VarangianTrainer.titleShort>教官</BA_Byzantium_Adult_Varangian_VarangianTrainer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fought beside the purple banners through rebellions and sieges, earning gold and scars in equal measure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Adult_Varangian_VarangianVeteran.description>[PAWN_nameDef]跟随紫袍旗帜历经叛乱与围城之战，赢得的黄金与留下的伤疤同样多。</BA_Byzantium_Adult_Varangian_VarangianVeteran.description>
+  <!-- EN: Varangian Veteran -->
+  <BA_Byzantium_Adult_Varangian_VarangianVeteran.title>资深瓦兰吉亚战士</BA_Byzantium_Adult_Varangian_VarangianVeteran.title>
+  <!-- EN: Veteran -->
+  <BA_Byzantium_Adult_Varangian_VarangianVeteran.titleShort>老兵</BA_Byzantium_Adult_Varangian_VarangianVeteran.titleShort>
+  
+</LanguageData>

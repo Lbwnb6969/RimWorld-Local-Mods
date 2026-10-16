@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Blood -->
+
+  <DA_CandlesThought.stages.0.label>血色蜡烛</DA_CandlesThought.stages.0.label>
+  <DA_CandlesThought.stages.0.description>没有比血焰还要更温柔的火焰了。</DA_CandlesThought.stages.0.description>
+
+  <DA_BloodSepulchralBrazierThought.stages.0.label>血色墓穴火盆</DA_BloodSepulchralBrazierThought.stages.0.label>
+  <DA_BloodSepulchralBrazierThought.stages.0.description>没有比血焰还要更温柔的火焰了。</DA_BloodSepulchralBrazierThought.stages.0.description>
+
+  <DA_BloodGrandCandelabraThoughts.stages.0.label>宏伟血色烛台</DA_BloodGrandCandelabraThoughts.stages.0.label>
+  <DA_BloodGrandCandelabraThoughts.stages.0.description>没有比血焰还要更温柔的火焰了。</DA_BloodGrandCandelabraThoughts.stages.0.description>
+
+  <DA_BloodflameSepulchralStatueThoughts.stages.0.label>血色坟墓雕像</DA_BloodflameSepulchralStatueThoughts.stages.0.label>
+  <DA_BloodflameSepulchralStatueThoughts.stages.0.description>没有比血焰还要更温柔的火焰了。</DA_BloodflameSepulchralStatueThoughts.stages.0.description>
+
+  <DA_BloodflameSepulchralReliquaryThoughts.stages.0.label>血色墓穴圣物箱</DA_BloodflameSepulchralReliquaryThoughts.stages.0.label>
+  <DA_BloodflameSepulchralReliquaryThoughts.stages.0.description>没有比血焰还要更温柔的火焰了。</DA_BloodflameSepulchralReliquaryThoughts.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: create Legion material using the Primarch's genetic code -->
+  <BEWH_LeginoMaterialFromPrimarch.label>使用原体的重组遗传密码制造军团材料。</BEWH_LeginoMaterialFromPrimarch.label>
+  <!-- EN: Create Legion material using the Primarch's genetic code. -->
+  <BEWH_LeginoMaterialFromPrimarch.description>使用原体的重组遗传密码制造军团材料。</BEWH_LeginoMaterialFromPrimarch.description>
+  <!-- EN: Creating Legion material from Primarch. -->
+  <BEWH_LeginoMaterialFromPrimarch.jobString>制造军团材料中。</BEWH_LeginoMaterialFromPrimarch.jobString>
+  <!-- EN: {0} has successfully created Legion material from {1}'s genetic code. -->
+  <BEWH_LeginoMaterialFromPrimarch.successfullyRemovedHediffMessage>{0}已成功使用{1}的重组遗传密码制造出军团材料。</BEWH_LeginoMaterialFromPrimarch.successfullyRemovedHediffMessage>
+  
+</LanguageData>

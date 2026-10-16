@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: despicable -->
+  <Apostasy_Despicable.label>可耻</Apostasy_Despicable.label>
+  <!-- EN: Being coerced or otherwise manipulated into following a different belief is a despicable act. If somebody seeks knowledge of another's faith, then let them ask for it naturally. -->
+  <Apostasy_Despicable.description>强迫他人改信文化是种卑鄙无耻的行为。若想了解他人的文化信仰，那么就请自然而然地询问他们。</Apostasy_Despicable.description>
+  <!-- EN: Changed ideoligion -->
+  <Apostasy_Despicable.comps.0.description>文化改信</Apostasy_Despicable.comps.0.description>
+  
+  <!-- EN: accepted -->
+  <VME_Apostasy_Accepted.label>认可</VME_Apostasy_Accepted.label>
+  <!-- EN: We feel bound by authority alone to follow our current ideology, and will not think twice if an opportunity presents itself to change our ways. -->
+  <VME_Apostasy_Accepted.description>只有武力与权威才能迫使我们信从现在的文化，若有机会改变这一点，我们将会不假思索地诉诸行动。</VME_Apostasy_Accepted.description>
+  
+</LanguageData>

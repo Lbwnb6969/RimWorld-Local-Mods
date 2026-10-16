@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amnesia draught -->
+  <VFEM2_AmnesiaDraught.label>失忆灵药</VFEM2_AmnesiaDraught.label>
+  <!-- EN: A draught is causing the user to quickly lose memory, resulting in both negative and positive memories lasting significantly shorter. -->
+  <VFEM2_AmnesiaDraught.description>喝下的灵药正在使服用者失去记忆，正面和负面的回忆都在迅速消逝。</VFEM2_AmnesiaDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_AmnesiaDraught.stages.fading.label>消退</VFEM2_AmnesiaDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_AmnesiaDraught.stages.potent.label>起效</VFEM2_AmnesiaDraught.stages.potent.label>
+  
+  <!-- EN: antitox draught -->
+  <VFEM2_AntitoxDraught.label>解毒灵药</VFEM2_AntitoxDraught.label>
+  <!-- EN: A draught is improving the toxic resistance of the user. -->
+  <VFEM2_AntitoxDraught.description>喝下的灵药加强了服用者的毒素抗性。</VFEM2_AntitoxDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_AntitoxDraught.stages.fading.label>消退</VFEM2_AntitoxDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_AntitoxDraught.stages.potent.label>起效</VFEM2_AntitoxDraught.stages.potent.label>
+  
+  <!-- EN: coma draught -->
+  <VFEM2_ComaDraught.label>昏睡灵药</VFEM2_ComaDraught.label>
+  <!-- EN: A draught is putting the user in a chemically induced coma that slows down their metabolism greatly. -->
+  <VFEM2_ComaDraught.description>喝下的灵药正在让服用者陷入昏迷，减慢了新陈代谢。</VFEM2_ComaDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_ComaDraught.stages.fading.label>消退</VFEM2_ComaDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_ComaDraught.stages.potent.label>起效</VFEM2_ComaDraught.stages.potent.label>
+  
+  <!-- EN: efficiency draught -->
+  <VFEM2_EfficiencyDraught.label>效率灵药</VFEM2_EfficiencyDraught.label>
+  <!-- EN: A draught is improving global workspeed of the user while also simultaneously slowing down their energy loss at the cost of increased chance of a heart attack. At the end of the potent duration, the user receives a major sleep fall rate increase. -->
+  <VFEM2_EfficiencyDraught.description>喝下的灵药提升了服用者的工作速度并缓解疲劳，但有几率心脏病发作。服用者在药效开始消失时会突然感到大量倦意。</VFEM2_EfficiencyDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_EfficiencyDraught.stages.fading.label>消退</VFEM2_EfficiencyDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_EfficiencyDraught.stages.potent.label>起效</VFEM2_EfficiencyDraught.stages.potent.label>
+  
+  <!-- EN: fertility draught -->
+  <VFEM2_FertilityDraught.label>丰产灵药</VFEM2_FertilityDraught.label>
+  <!-- EN: A draught is artificially increasing the fertility of the user. The slight boost to fertility will allow even infertile people to have a chance to become parents. -->
+  <VFEM2_FertilityDraught.description>喝下的灵药增强了服用者的生育能力。就连不孕不育的人也有效果。</VFEM2_FertilityDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_FertilityDraught.stages.fading.label>消退</VFEM2_FertilityDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_FertilityDraught.stages.potent.label>起效</VFEM2_FertilityDraught.stages.potent.label>
+  
+  <!-- EN: focus draught -->
+  <VFEM2_FocusDraught.label>专注灵药</VFEM2_FocusDraught.label>
+  <!-- EN: A draught is increasing the capability of the user to learn, allowing them to gain more knowledge, eat faster, rest quicker and gain more psyfocus while potent. The effects are reversed when the draught is fading. -->
+  <VFEM2_FocusDraught.description>喝下的灵药强化了服用者的学习能力，使其学习技能技能，吃饭更快，睡觉效率更高，获得更多精神力。当药效开始消退时原先所有效果都会反转。</VFEM2_FocusDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_FocusDraught.stages.fading.label>消退</VFEM2_FocusDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_FocusDraught.stages.potent.label>起效</VFEM2_FocusDraught.stages.potent.label>
+  
+  <!-- EN: healing draught -->
+  <VFEM2_HealingDraught.label>治愈灵药</VFEM2_HealingDraught.label>
+  <!-- EN: A draught is improving this person’s natural wound regeneration, making them able to heal from wounds significantly faster than normal. -->
+  <VFEM2_HealingDraught.description>喝下的灵药加快了服用者伤口的恢复速度。</VFEM2_HealingDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_HealingDraught.stages.fading.label>消退</VFEM2_HealingDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_HealingDraught.stages.potent.label>起效</VFEM2_HealingDraught.stages.potent.label>
+  
+  <!-- EN: immunization draught -->
+  <VFEM2_ImmunizationDraught.label>免疫灵药</VFEM2_ImmunizationDraught.label>
+  <!-- EN: A draught is improving this person’s immune system, making them more capable of fighting off diseases and infections at the cost of making them more sleepy. -->
+  <VFEM2_ImmunizationDraught.description>喝下的灵药强化了服用者的免疫系统，获得免疫的速度加快，但会增加倦意。</VFEM2_ImmunizationDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_ImmunizationDraught.stages.fading.label>消退</VFEM2_ImmunizationDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_ImmunizationDraught.stages.potent.label>起效</VFEM2_ImmunizationDraught.stages.potent.label>
+  
+  <!-- EN: inspiration draught -->
+  <VFEM2_InspirationDraught.label>启迪灵药</VFEM2_InspirationDraught.label>
+  <!-- EN: A draught is providing the user with mental clarity, allowing them to focus on gaining new knowledge in skills they are passionate about at the cost of diminished combat capabilities. -->
+  <VFEM2_InspirationDraught.description>喝下的灵药强化了服用者的思维，使其在有兴趣的技能上学习更快，但会弱化战斗能力。</VFEM2_InspirationDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_InspirationDraught.stages.fading.label>消退</VFEM2_InspirationDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_InspirationDraught.stages.potent.label>起效</VFEM2_InspirationDraught.stages.potent.label>
+  
+  <!-- EN: painkiller draught -->
+  <VFEM2_PainkillerDraught.label>止痛灵药</VFEM2_PainkillerDraught.label>
+  <!-- EN: A draught is stopping the user from feeling pain at the cost of lowering their focus and productivity greatly. -->
+  <VFEM2_PainkillerDraught.description>喝下的灵药麻痹了服用者的痛觉，也降低了工作效率。</VFEM2_PainkillerDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_PainkillerDraught.stages.fading.label>消退</VFEM2_PainkillerDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_PainkillerDraught.stages.potent.label>起效</VFEM2_PainkillerDraught.stages.potent.label>
+  
+  <!-- EN: poison draught -->
+  <VFEM2_PoisonDraught.label>剧毒灵药</VFEM2_PoisonDraught.label>
+  <!-- EN: A draught is shutting down the user, reducing their consciousness into a state of chemically inducing coma that causes organ decay and will inevitably lead to death. -->
+  <VFEM2_PoisonDraught.description>喝下的灵药正在使服用者的身体陷入昏迷并逐渐衰竭，直到死亡。</VFEM2_PoisonDraught.description>
+  <!-- EN: potent -->
+  <VFEM2_PoisonDraught.stages.potent.label>起效</VFEM2_PoisonDraught.stages.potent.label>
+  <!-- EN: final -->
+  <VFEM2_PoisonDraught.stages.final.label>末期</VFEM2_PoisonDraught.stages.final.label>
+  
+  <!-- EN: poison draught -->
+  <VFEM2_PoisonDraughtDumbHediff.label>剧毒灵药</VFEM2_PoisonDraughtDumbHediff.label>
+  <!-- EN: A draught is shutting down the user, reducing their consciousness into a state of chemically inducing coma that causes organ decay and will inevitably lead to death. -->
+  <VFEM2_PoisonDraughtDumbHediff.description>喝下的灵药正在使服用者的身体陷入昏迷并逐渐衰竭，直到死亡。</VFEM2_PoisonDraughtDumbHediff.description>
+  
+  <!-- EN: stoneskin draught -->
+  <VFEM2_StoneskinDraught.label>石肤灵药</VFEM2_StoneskinDraught.label>
+  <!-- EN: A draught is transforming the user's skin into a built-in suit of armor. The whole epidermis thickens and hardens to resist burns, while jointed exterior keratin plates form everywhere they can - including the head and face. While it's very difficult to physically hurt someone under the effects of this draught, the plates and hard skin significantly reduces the user's physical attractiveness. -->
+  <VFEM2_StoneskinDraught.description>喝下的灵药让服用者的皮肤迅速硬化，转换成贴身的盔甲。整体的表皮变得坚硬而能够抵抗灼伤，而皮肤之外则会无处不在的产生板状角质蛋白，甚至包括头部和面部。虽然使用可以使安装者难以受到伤害，但如钢板般的皮肤会大大降低安装者的吸引力。</VFEM2_StoneskinDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_StoneskinDraught.stages.fading.label>消退</VFEM2_StoneskinDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_StoneskinDraught.stages.potent.label>起效</VFEM2_StoneskinDraught.stages.potent.label>
+  
+  <!-- EN: strength draught -->
+  <VFEM2_StrengthDraught.label>蛮力灵药</VFEM2_StrengthDraught.label>
+  <!-- EN: A draught is improving strength and reflexes of the user, improving their combat capabilities at the cost of increased social fight chance and higher mental break threshold. -->
+  <VFEM2_StrengthDraught.description>喝下的灵药强化了服用者的力量和反应力，增强战斗能力的同时也更容易惹是生非。</VFEM2_StrengthDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_StrengthDraught.stages.fading.label>消退</VFEM2_StrengthDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_StrengthDraught.stages.potent.label>起效</VFEM2_StrengthDraught.stages.potent.label>
+  
+  <!-- EN: torturer draught -->
+  <VFEM2_TorturerDraught.label>苦刑灵药</VFEM2_TorturerDraught.label>
+  <!-- EN: A draught is causing severe pain to the user, making them unable to even move. If they are a prisoner, they will rapidly lose their resistance, and if they are a slave, they will be fully suppressed. -->
+  <VFEM2_TorturerDraught.description>喝下的灵药正在产生剧痛，让服用者动弹不得。囚犯会迅速降低抵抗，而奴隶会被彻底镇压。</VFEM2_TorturerDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_TorturerDraught.stages.fading.label>消退</VFEM2_TorturerDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_TorturerDraught.stages.potent.label>起效</VFEM2_TorturerDraught.stages.potent.label>
+  
+</LanguageData>

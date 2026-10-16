@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construct recharger -->
+  <VR_BasicRecharger_Steam.label>构装体充能器</VR_BasicRecharger_Steam.label>
+  <!-- EN: Lightweight constructs can recharge here. During recharge, this recharger will consume steam. -->
+  <VR_BasicRecharger_Steam.description>轻型构装体可在此充能。充能期间该充能器将消耗蒸汽。</VR_BasicRecharger_Steam.description>
+  
+  <!-- EN: large construct recharger -->
+  <VR_StandardRecharger_Steam.label>大型构装体充能器</VR_StandardRecharger_Steam.label>
+  <!-- EN: Medium, heavy, and ultraheavy construct can recharge here. During recharge, this recharger will consume steam. -->
+  <VR_StandardRecharger_Steam.description>中型、重型和超重型构装体可在此充能。充能期间该充能器将消耗蒸汽。</VR_StandardRecharger_Steam.description>
+  
+</LanguageData>

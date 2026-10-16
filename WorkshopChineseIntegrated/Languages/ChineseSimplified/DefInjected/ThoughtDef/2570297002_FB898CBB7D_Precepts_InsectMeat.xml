@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate insect meat -->
+  <VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.label>吃了虫肉</VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.label>
+  <!-- EN: I ate some insect meat. This is an act of sacrilege, how could I do this? -->
+  <VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.description>我居然吃掉了一些虫肉，这可是对虫族们的亵渎！我怎么能这么做？</VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.description>
+  
+  <!-- EN: ate cooked insect meat -->
+  <VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.label>吃了烹饪过的虫肉</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.label>
+  <!-- EN: I ate a meal that contained insect meat. This is an act of sacrilege, how could I do this? -->
+  <VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.description>我居然吃掉了用虫肉做成的饭，这可是对虫族们的亵渎！我怎么能这么做？</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.description>
+  
+</LanguageData>

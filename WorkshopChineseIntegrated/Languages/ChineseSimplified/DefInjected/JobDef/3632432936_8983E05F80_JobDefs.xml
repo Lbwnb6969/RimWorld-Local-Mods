@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: operating on TargetB. -->
+  <VR_ExtractGeneOnPawn.reportString>正在对TargetB进行手术。</VR_ExtractGeneOnPawn.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <VR_MilkConstruct.reportString>正在给TargetA挤奶。</VR_MilkConstruct.reportString>
+  
+  <!-- EN: Doing something. -->
+  <VR_RemoveImplant.reportString>正在执行操作。</VR_RemoveImplant.reportString>
+  
+  <!-- EN: shearing TargetA. -->
+  <VR_ShearConstruct.reportString>正在给TargetA剪毛。</VR_ShearConstruct.reportString>
+  
+</LanguageData>

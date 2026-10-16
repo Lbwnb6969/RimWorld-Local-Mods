@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Snaphaunce rifle -->
+  <TA_SnaphaunceRifle.label>燧发步枪</TA_SnaphaunceRifle.label>
+  <!-- EN: . -->
+  <TA_SnaphaunceRifle.description>早期燧发步枪，采用撞击式燧石点火机构。</TA_SnaphaunceRifle.description>
+  <!-- EN: stock -->
+  <TA_SnaphaunceRifle.tools.stock.label>枪托</TA_SnaphaunceRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <TA_SnaphaunceRifle.tools.barrel.label>枪管</TA_SnaphaunceRifle.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <TA_SnaphaunceRifle.tools.muzzle.label>枪口</TA_SnaphaunceRifle.tools.muzzle.label>
+  <!-- EN: Snaphaunce rifle -->
+  <TA_SnaphaunceRifle.verbs.Verb_ShootCE.label>燧发步枪射击</TA_SnaphaunceRifle.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

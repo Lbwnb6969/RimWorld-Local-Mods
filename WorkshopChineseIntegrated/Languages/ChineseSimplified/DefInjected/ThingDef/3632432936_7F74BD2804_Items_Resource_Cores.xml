@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic tonal core -->
+  <VR_TonalCoreBasic.label>基础调音核心</VR_TonalCoreBasic.label>
+  <!-- EN: The simplest possible tonal core, this is a tiny psychodynamic harmonic matrix unit housing a dull presences. Since this is only a basic-tier subcore, it can only drive the simplest of automatons.\n\nLike all constructs subcores, it contains a harmonic presence, albeit a very faint one. -->
+  <VR_TonalCoreBasic.description>最简陋的调音核心，这是一枚微型心灵动力谐波矩阵单元，容纳着微弱的存在感。由于只是基础级子核，它只能驱动最简单的自动机。\n\n与所有构装体子核一样，它包含一种谐波存在，只是非常微弱。</VR_TonalCoreBasic.description>
+  
+  <!-- EN: advanced tonal core -->
+  <VR_TonalCoreHigh.label>高级调音核心</VR_TonalCoreHigh.label>
+  <!-- EN: An advanced-tier tonal core, this psychodynamic harmonic matrix supports an sophisticated and resonant subpersona. This particular core is of the strongest tier, can can power complex ultra-heavy automatons.\n\The subpersona inside this core approaches a mortal mind in its complexity, though it is of a very different nature. Like any such mind, it has a noticeable psychic presence.\n\nThis subcore could only have been produced by full tonal transference from a living mind, destroying them utterly in the process -->
+  <VR_TonalCoreHigh.description>高级调音核心，这种心灵动力谐波矩阵支撑着复杂而共振的子人格。此核心属于最强等级，能够驱动复杂的超重型自动机。\n\n核心中的子人格在复杂性上接近凡人的心智，尽管其本质完全不同。像任何这样的心智一样，它具有明显的灵能存在。\n\n这种子核只能通过对活体心智进行完整的调音转移而产生，过程中会将其彻底毁灭。</VR_TonalCoreHigh.description>
+  
+  <!-- EN: standard tonal core -->
+  <VR_TonalCoreRegular.label>标准调音核心</VR_TonalCoreRegular.label>
+  <!-- EN: A standard-tier tonal core, this is a psychodynamic harmonic matrix supporting designed to house and sustain an active resonant subpersona. This particular core is stable and potent enough to drive a standard-tier automaton. \n\Constructs are more than brass and pistons, and this core is far more than a mechanical processor. Its thinking tonal echo grants it adaptability far beyond traditional machines. However, such cores cannot be fabricated by conventional means — they must be tuned and imprinted through analog tonal transference from an existing harmonic mind. -->
+  <VR_TonalCoreRegular.description>标准级调音核心，这是一种心灵动力谐波矩阵支撑体，用于容纳并维持活跃的共振子人格。该核心稳定而强韧，足以驱动标准级自动机。\n\n构装体不仅仅是黄铜与活塞，这种核心也远不只是机械处理器。其思考性的调音回响赋予它远超传统机器的适应力。然而，这类核心无法通过常规手段制造——必须通过对现存谐波心智的模拟调音转移进行调谐与烙印。</VR_TonalCoreRegular.description>
+  
+</LanguageData>

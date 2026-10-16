@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wulfen canines -->
+  <BEWH_CanisHelixCanines.label>犬齿</BEWH_CanisHelixCanines.label>
+  <!-- EN: These elongated canines can dent plasteel, and leathery, resilient skin - a result of the Canis Helix. -->
+  <BEWH_CanisHelixCanines.description>这些细长的犬齿可以咬破玻璃钢以及坚韧的皮革——这是狼之螺旋所带来的。</BEWH_CanisHelixCanines.description>
+  <!-- EN: wulfen canines -->
+  <BEWH_CanisHelixCanines.comps.HediffComp_VerbGiver.tools.wulfen_canines.label>犬齿</BEWH_CanisHelixCanines.comps.HediffComp_VerbGiver.tools.wulfen_canines.label>
+  
+  <!-- EN: elongated teeth -->
+  <BEWH_RedThirstElongatedTeeth.label>长牙</BEWH_RedThirstElongatedTeeth.label>
+  <!-- EN: These elongated teeth give you an advantages in the direst of naked hand to hand combat. -->
+  <BEWH_RedThirstElongatedTeeth.description>这些长牙能让你在最激烈的肉搏中占据优势</BEWH_RedThirstElongatedTeeth.description>
+  <!-- EN: elongated teeth -->
+  <BEWH_RedThirstElongatedTeeth.comps.HediffComp_VerbGiver.tools.elongated_teeth.label>长牙</BEWH_RedThirstElongatedTeeth.comps.HediffComp_VerbGiver.tools.elongated_teeth.label>
+  
+</LanguageData>

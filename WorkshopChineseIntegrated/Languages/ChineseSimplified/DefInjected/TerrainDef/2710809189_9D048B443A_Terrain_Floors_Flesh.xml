@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flesh covering -->
+  <AM_Tile_Flesh.label>血肉覆盖物</AM_Tile_Flesh.label>
+  <!-- EN: Cheap imitation flesh. Smells weird. -->
+  <AM_Tile_Flesh.description>成本低廉的仿制血肉。闻起来有股怪味。</AM_Tile_Flesh.description>
+  
+  <!-- EN: flesh tile -->
+  <AM_Tile_Flesh_Metal.label>血肉地砖</AM_Tile_Flesh_Metal.label>
+  <!-- EN: Cheap imitation flesh. Smells weird. -->
+  <AM_Tile_Flesh_Metal.description>成本低廉的仿制血肉。闻起来有股怪味。</AM_Tile_Flesh_Metal.description>
+  
+</LanguageData>

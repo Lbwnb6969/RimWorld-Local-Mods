@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_RustedJavalin.label>生锈标枪</pphhyy_Barbarian_RustedJavalin.label>
+  <pphhyy_Barbarian_RustedJavalin.description>一把生锈标枪，由战场上掠夺来的武器制成。</pphhyy_Barbarian_RustedJavalin.description>
+  <pphhyy_Barbarian_RustedJavalin.tools.0.label>握柄</pphhyy_Barbarian_RustedJavalin.tools.0.label>
+  <pphhyy_Barbarian_RustedJavalin.tools.1.label>尖端</pphhyy_Barbarian_RustedJavalin.tools.1.label>
+  <pphhyy_Barbarian_RustedJavalin.verbs.Verb_Shoot.label>生锈标枪</pphhyy_Barbarian_RustedJavalin.verbs.Verb_Shoot.label>
+  <pphhyy_RustedJavalin_Thrown.label>生锈标枪</pphhyy_RustedJavalin_Thrown.label>
+
+  <pphhyy_Barbarian_RustedThrowingAxe.label>生锈飞斧</pphhyy_Barbarian_RustedThrowingAxe.label>
+  <pphhyy_Barbarian_RustedThrowingAxe.description>一把生锈飞斧，由战场上掠夺来的武器制成。</pphhyy_Barbarian_RustedThrowingAxe.description>
+  <pphhyy_Barbarian_RustedThrowingAxe.tools.0.label>握柄</pphhyy_Barbarian_RustedThrowingAxe.tools.0.label>
+  <pphhyy_Barbarian_RustedThrowingAxe.tools.1.label>尖端</pphhyy_Barbarian_RustedThrowingAxe.tools.1.label>
+  <pphhyy_Barbarian_RustedThrowingAxe.verbs.Verb_Shoot.label>生锈飞斧</pphhyy_Barbarian_RustedThrowingAxe.verbs.Verb_Shoot.label>
+  <pphhyy_RustedThrowingAxe_Thrown.label>生锈飞斧</pphhyy_RustedThrowingAxe_Thrown.label>
+
+
+</LanguageData>

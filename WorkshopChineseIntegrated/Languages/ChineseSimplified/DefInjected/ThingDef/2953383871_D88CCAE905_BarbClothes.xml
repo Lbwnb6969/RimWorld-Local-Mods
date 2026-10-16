@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Barbarian Tribal outfit -->
+
+  <pphhyy_Barbarian_BarbTribal.label>蛮族部落装 I</pphhyy_Barbarian_BarbTribal.label>
+  <pphhyy_Barbarian_BarbTribal.description>蛮族的传统部落服装，由织物和动物毛皮制成。</pphhyy_Barbarian_BarbTribal.description>
+
+  <pphhyy_Barbarian_LeatherShirt.label>蛮族贴身皮装</pphhyy_Barbarian_LeatherShirt.label>
+  <pphhyy_Barbarian_LeatherShirt.description>蛮族的皮革贴身服装，由织物和动物毛皮制成。</pphhyy_Barbarian_LeatherShirt.description>
+
+  <pphhyy_Barbarian_RustedChain.label>蛮族生锈锁子甲</pphhyy_Barbarian_RustedChain.label>
+  <pphhyy_Barbarian_RustedChain.description>蛮族的贴身锁子甲，由金属环制成，因为缺乏保养几乎都生锈了。</pphhyy_Barbarian_RustedChain.description>
+
+
+</LanguageData>

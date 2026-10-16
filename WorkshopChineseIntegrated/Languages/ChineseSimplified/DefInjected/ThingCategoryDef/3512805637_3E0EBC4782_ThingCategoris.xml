@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: legion material -->
+  <BEWH_ChapterMaterial.label>军团材料</BEWH_ChapterMaterial.label>
+  
+  <!-- EN: ascendance vial -->
+  <BEWH_GeneseedVial.label>升华原液</BEWH_GeneseedVial.label>
+  
+  <!-- EN: genetic matrix -->
+  <BEWH_GeneticMatrix.label>基因矩阵</BEWH_GeneticMatrix.label>
+  
+  <!-- EN: primarch material -->
+  <BEWH_PrimarchMaterial.label>原体材料</BEWH_PrimarchMaterial.label>
+  
+</LanguageData>

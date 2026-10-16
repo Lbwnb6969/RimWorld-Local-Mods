@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amazing launch -->
+  <AM_AmazingBlastOff.stages.amazing_launch.label>令人惊异的升空葬礼</AM_AmazingBlastOff.stages.amazing_launch.label>
+  <!-- EN: That launch was earthshaking! I can still taste the chemfuel, the perfect way to say goodbye. -->
+  <AM_AmazingBlastOff.stages.amazing_launch.description>那次升空葬礼令人惊异，我很确信自己看到运输舱抵达了太阳。</AM_AmazingBlastOff.stages.amazing_launch.description>
+  
+  <!-- EN: amazing funeral -->
+  <AM_AmazingFuneral.stages.amazing_funeral.label>令人惊异的葬礼</AM_AmazingFuneral.stages.amazing_funeral.label>
+  <!-- EN: That funeral went perfectly - it brought up a lot of good memories and showed us a path forward. -->
+  <AM_AmazingFuneral.stages.amazing_funeral.description>那次葬礼令人惊异，它唤起了很多美好的回忆，并为我们指明了前进的道路。</AM_AmazingFuneral.stages.amazing_funeral.description>
+  
+  <!-- EN: reminiscent rum -->
+  <AM_CorpseRumThought.stages.reminiscent_rum.label>朗姆酒追忆</AM_CorpseRumThought.stages.reminiscent_rum.label>
+  <!-- EN: The rum was so delicious, you it allows you to reminise fondly on our fallen comrads. -->
+  <AM_CorpseRumThought.stages.reminiscent_rum.description>这朗姆酒竟是如此美味！这让我能深情追忆逝去的兄弟了。</AM_CorpseRumThought.stages.reminiscent_rum.description>
+
+  <!-- EN: {0}'s rum -->
+  <AM_CorpseRumThought.stages.s_rum.label>喝了用{0}制成的朗姆酒</AM_CorpseRumThought.stages.s_rum.label>
+  <!-- EN: The rum was so delicious that {0} feels their comrade {1} watching over them as they plunder. -->
+  <AM_CorpseRumThought.stages.s_rum.description>这朗姆酒竟是如此美味！我能感觉到亲爱的兄弟{1}仍活在我们中间！</AM_CorpseRumThought.stages.s_rum.description>
+
+  <!-- EN: good launch -->
+  <AM_GoodBlastOff.stages.good_launch.label>令人满意的升空葬礼</AM_GoodBlastOff.stages.good_launch.label>
+  <!-- EN: The launch went well, a good sendoff. -->
+  <AM_GoodBlastOff.stages.good_launch.description>那次升空葬礼令人满意，化合燃料的气味正是我们对死者最好的送别。</AM_GoodBlastOff.stages.good_launch.description>
+
+  <!-- EN: good Funeral -->
+  <AM_GoodFuneral.stages.good_funeral.label>令人满意的葬礼</AM_GoodFuneral.stages.good_funeral.label>
+  <!-- EN: That funeral went well - a good way to say goodbye. -->
+  <AM_GoodFuneral.stages.good_funeral.description>那次葬礼令人满意，这是一种很好的道别方式。</AM_GoodFuneral.stages.good_funeral.description>
+  
+  <!-- EN: lackluster launch -->
+  <AM_LacklusterBlastOff.stages.lackluster_launch.label>枯燥乏味的升空葬礼</AM_LacklusterBlastOff.stages.lackluster_launch.label>
+  <!-- EN: That launch was quite disappointing. I doubt they even make it to the edge of the atmosphere -->
+  <AM_LacklusterBlastOff.stages.lackluster_launch.description>那次升空葬礼枯燥乏味，我和其他人都认为运输舱根本就没有飞出大气层，甚至可能落回了地表！</AM_LacklusterBlastOff.stages.lackluster_launch.description>
+  
+  <!-- EN: lackluster Funeral -->
+  <AM_LacklusterFuneral.stages.lackluster_funeral.label>枯燥乏味的葬礼</AM_LacklusterFuneral.stages.lackluster_funeral.label>
+  <!-- EN: That funeral was really uninspired and didn't resolve anything. -->
+  <AM_LacklusterFuneral.stages.lackluster_funeral.description>那次葬礼枯燥乏味，没有解决任何问题。</AM_LacklusterFuneral.stages.lackluster_funeral.description>
+  
+  <!-- EN: disgraceful launch -->
+  <AM_TerribleBlastOff.stages.disgraceful_launch.label>糟糕的升空葬礼</AM_TerribleBlastOff.stages.disgraceful_launch.label>
+  <!-- EN: That launch was horrific, something must have been very wrong with that pod. -->
+  <AM_TerribleBlastOff.stages.disgraceful_launch.description>那次升空葬礼非常糟糕，运输舱被发射到了附近的定居点，那里的住民对此表示十分愤怒！</AM_TerribleBlastOff.stages.disgraceful_launch.description>
+  
+  <!-- EN: disgraceful Funeral -->
+  <AM_TerribleFuneral.stages.disgraceful_funeral.label>糟糕的葬礼</AM_TerribleFuneral.stages.disgraceful_funeral.label>
+  <!-- EN: That funeral was borderline insulting to everyone involved -->
+  <AM_TerribleFuneral.stages.disgraceful_funeral.description>那次葬礼非常糟糕，死者完全没有得到任何尊重！</AM_TerribleFuneral.stages.disgraceful_funeral.description>
+  
+</LanguageData>

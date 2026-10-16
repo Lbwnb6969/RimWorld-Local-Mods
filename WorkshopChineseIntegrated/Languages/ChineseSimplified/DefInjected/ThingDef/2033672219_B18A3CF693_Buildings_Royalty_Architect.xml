@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fine wall -->
+  <VFEArch_FineWall.label>精致墙</VFEArch_FineWall.label>
+  <!-- EN: A beautiful, impassable wall. Capable of holding up a roof. -->
+  <VFEArch_FineWall.description>一面无法通过的精致墙。可以支撑起屋顶。</VFEArch_FineWall.description>
+  
+</LanguageData>

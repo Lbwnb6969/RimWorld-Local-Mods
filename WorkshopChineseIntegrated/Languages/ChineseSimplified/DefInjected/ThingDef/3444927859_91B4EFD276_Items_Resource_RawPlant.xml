@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alocasia leaves -->
+  <VFEM2_AlocasiaLeaves.label>海芋叶</VFEM2_AlocasiaLeaves.label>
+  <!-- EN: Extremely broad leaves of a plant that’s a commonly-recognized signifier of tropical forests. Alocasia leaves have been used by medieval civilizations in creation of different draughts. -->
+  <VFEM2_AlocasiaLeaves.description>从一种常见的热带阔叶植物上摘下的阔叶。常被中古文明用作炼制灵药的炼金材料。</VFEM2_AlocasiaLeaves.description>
+  
+  <!-- EN: astragalus flowers -->
+  <VFEM2_AstragalusFlowers.label>紫云英</VFEM2_AstragalusFlowers.label>
+  <!-- EN: Small perennial wildflowers that grow in alpine climates. Astragalus flowers have been used by medieval civilizations in creation of different draughts. -->
+  <VFEM2_AstragalusFlowers.description>一种小型多年生野花。常被中古文明用作炼制灵药的炼金材料。</VFEM2_AstragalusFlowers.description>
+  
+  <!-- EN: clivia petals -->
+  <VFEM2_CliviaPetals.label>君子兰瓣</VFEM2_CliviaPetals.label>
+  <!-- EN: Petals of an unusual plant with tall, pretty flowers, called ‘bush lily’ by some. Clivia petals have been used by medieval civilizations in creation of different draughts. -->
+  <VFEM2_CliviaPetals.description>从一种花又高又漂亮的稀有植物摘下的花瓣。常被中古文明用作炼制灵药的炼金材料。</VFEM2_CliviaPetals.description>
+  
+  <!-- EN: rafflesia petals -->
+  <VFEM2_RafflesiaLeaves.label>大王花瓣</VFEM2_RafflesiaLeaves.label>
+  <!-- EN: Giant petals of the rafflesia flower. Smell like rotting flesh and are very likely to cause food poisoning when consumed raw. Rafflesia petals have been used by medieval civilizations in creation of different draughts. -->
+  <VFEM2_RafflesiaLeaves.description>一种罕见的巨型花摘下的花瓣。常被中古文明用作炼制灵药的炼金材料。</VFEM2_RafflesiaLeaves.description>
+  
+  <!-- EN: raw glowstool -->
+  <VFEM2_RawGlowstool.label>光屎菇</VFEM2_RawGlowstool.label>
+  <!-- EN: Raw glowstool fungus obtained by harvesting glowstools growing in caves. Raw glowstool have been used by medieval civilizations in creation of different draughts. -->
+  <VFEM2_RawGlowstool.description>从洞穴中摘下的光屎菇。常被中古文明用作炼制灵药的炼金材料。</VFEM2_RawGlowstool.description>
+  
+  <!-- EN: grapes -->
+  <VFEM2_RawGrapes.label>葡萄</VFEM2_RawGrapes.label>
+  <!-- EN: Raw grapes. Nice to eat, even when raw. Grapes can also be made into must which can then be used to make wine. -->
+  <VFEM2_RawGrapes.description>生葡萄，即使没煮熟也很美味。可用来酿酒。</VFEM2_RawGrapes.description>
+  
+</LanguageData>

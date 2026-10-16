@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] led a band of hardened explorers into foreign lands, claiming gold and glory in the name of the crown.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Conquistador_Captain.description>[PAWN_nameDef]率领一队精锐探险家远赴异域，以王室之名掠夺黄金、铸就荣耀。</BA_Conquistador_Captain.description>
+  <!-- EN: Conquistador Captain -->
+  <BA_Conquistador_Captain.title>征服者队长</BA_Conquistador_Captain.title>
+  <!-- EN: Captain -->
+  <BA_Conquistador_Captain.titleShort>队长</BA_Conquistador_Captain.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] abandoned his post before the fleet reached its new colony, living by smuggling and the edge of a blade.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Conquistador_Deserter.description>[PAWN_nameDef]在舰队抵达新殖民地前叛逃，以走私为生，刀光剑影中度日。</BA_Conquistador_Deserter.description>
+  <!-- EN: Deserted Sailor -->
+  <BA_Conquistador_Deserter.title>叛逃水手</BA_Conquistador_Deserter.title>
+  <!-- EN: Deserter -->
+  <BA_Conquistador_Deserter.titleShort>逃兵</BA_Conquistador_Deserter.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] mapped coastlines and jungles for his commander, surviving storms, fever, and hostile tribes with stubborn endurance.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Conquistador_Explorer.description>[PAWN_nameDef]为指挥官绘制海岸线与丛林地图，凭借顽强的毅力挺过风暴、热病与敌对部落的威胁。</BA_Conquistador_Explorer.description>
+  <!-- EN: Expedition Explorer -->
+  <BA_Conquistador_Explorer.title>远征探险家</BA_Conquistador_Explorer.title>
+  <!-- EN: Explorer -->
+  <BA_Conquistador_Explorer.titleShort>探险家</BA_Conquistador_Explorer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended to the wounded with herbs and steel, amputating limbs by firelight while muttering prayers.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Conquistador_Medic.description>[PAWN_nameDef]以草药与手术刀救治伤员，在火光下为伤者截肢，口中默念祷言。</BA_Conquistador_Medic.description>
+  <!-- EN: Expedition Surgeon -->
+  <BA_Conquistador_Medic.title>远征外科医生</BA_Conquistador_Medic.title>
+  <!-- EN: Surgeon -->
+  <BA_Conquistador_Medic.titleShort>外科医生</BA_Conquistador_Medic.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served alongside friars in foreign lands, teaching the faith and healing the sick among distant peoples.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Conquistador_Missionary.description>[PAWN_nameDef]随修士们远赴异域，向远方族群传授信仰、医治病患。</BA_Conquistador_Missionary.description>
+  <!-- EN: Missionary Companion -->
+  <BA_Conquistador_Missionary.title>传教助手</BA_Conquistador_Missionary.title>
+  <!-- EN: Friar’s Aide -->
+  <BA_Conquistador_Missionary.titleShort>修士助手</BA_Conquistador_Missionary.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the voyage for gold and fame, chasing rumors of lost cities and cursed idols across uncharted lands.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Conquistador_TreasureSeeker.description>[PAWN_nameDef]为财富与声名加入远航，穿越未知之地，追寻失落城市与受诅咒神像的传说。</BA_Conquistador_TreasureSeeker.description>
+  <!-- EN: Treasure Seeker -->
+  <BA_Conquistador_TreasureSeeker.title>寻宝者</BA_Conquistador_TreasureSeeker.title>
+  <!-- EN: Seeker -->
+  <BA_Conquistador_TreasureSeeker.titleShort>探寻者</BA_Conquistador_TreasureSeeker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] returned from the New World bearing scars and tales no one believed. His eyes still burned with memories of conquest and loss.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Conquistador_Veteran.description>[PAWN_nameDef]从新大陆归来，身负伤痕，口中的故事无人采信。他的眼中仍燃烧着征服与失落的记忆。</BA_Conquistador_Veteran.description>
+  <!-- EN: Veteran of the Indies -->
+  <BA_Conquistador_Veteran.title>西印度老兵</BA_Conquistador_Veteran.title>
+  <!-- EN: Veteran -->
+  <BA_Conquistador_Veteran.titleShort>老兵</BA_Conquistador_Veteran.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled a province under divine law, balancing mercy and strength to hold peace among rival tribes and scholars.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Islam_Emir.description>[PAWN_nameDef]以神圣律法统治一省之地，平衡仁慈与威严，维系敌对部落与学者间的和平。</BA_Islam_Emir.description>
+  <!-- EN: Emir -->
+  <BA_Islam_Emir.title>埃米尔</BA_Islam_Emir.title>
+  <!-- EN: Emir -->
+  <BA_Islam_Emir.titleShort>埃米尔</BA_Islam_Emir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traversed endless dunes, guiding caravans and soldiers alike through sandstorms and starlit nights.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Moor_DesertScout.description>[PAWN_nameDef]穿越无垠沙丘，在沙尘暴与星光之夜中，为商队与士兵指引方向。</BA_Moor_DesertScout.description>
+  <!-- EN: Desert Scout -->
+  <BA_Moor_DesertScout.title>沙漠斥候</BA_Moor_DesertScout.title>
+  <!-- EN: Scout -->
+  <BA_Moor_DesertScout.titleShort>斥候</BA_Moor_DesertScout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended date palms and barley along the edge of the desert, making life bloom where sand met water.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Moor_Farmer.description>[PAWN_nameDef]在沙漠边缘栽种海枣与大麦，让生命在沙水交汇处绽放。</BA_Moor_Farmer.description>
+  <!-- EN: Oasis Farmer -->
+  <BA_Moor_Farmer.title>绿洲农夫</BA_Moor_Farmer.title>
+  <!-- EN: Farmer -->
+  <BA_Moor_Farmer.titleShort>农夫</BA_Moor_Farmer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was once a slave trained for war, his loyalty bought and his valor proven in countless battles.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Moor_Mamluk.description>[PAWN_nameDef]曾是受训参战的奴隶，忠诚可买，勇气已在无数战役中得到印证。</BA_Moor_Mamluk.description>
+  <!-- EN: Mamluk Mercenary -->
+  <BA_Moor_Mamluk.title>马穆鲁克雇佣兵</BA_Moor_Mamluk.title>
+  <!-- EN: Mamluk -->
+  <BA_Moor_Mamluk.titleShort>马穆鲁克</BA_Moor_Mamluk.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] roamed the open plains and dunes with his tribe, guiding herds and finding water where few could.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Moor_TentDweller.description>[PAWN_nameDef]与部落一同在开阔平原与沙丘间游牧，看管牧群，在罕有人至之地寻觅水源。</BA_Moor_TentDweller.description>
+  <!-- EN: Desert Herder -->
+  <BA_Moor_TentDweller.title>沙漠牧民</BA_Moor_TentDweller.title>
+  <!-- EN: Herder -->
+  <BA_Moor_TentDweller.titleShort>牧民</BA_Moor_TentDweller.titleShort>
+  
+</LanguageData>

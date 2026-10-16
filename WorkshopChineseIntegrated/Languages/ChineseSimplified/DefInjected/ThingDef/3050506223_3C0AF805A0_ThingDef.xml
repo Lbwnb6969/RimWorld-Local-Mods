@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basket -->
+  <ASNeolithicBasketFabric.label>篓筐</ASNeolithicBasketFabric.label>
+  <!-- EN: A large basket made from wood, fabrics or dried leather for storing all kinds of different items. -->
+  <ASNeolithicBasketFabric.description>用织物或皮革制成的篓筐，可储存各种物品。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：2组\n【可储存类型】：所有物品</ASNeolithicBasketFabric.description>
+  
+  <!-- EN: basket -->
+  <ASNeolithicBasketWoody.label>篓筐</ASNeolithicBasketWoody.label>
+  <!-- EN: A large basket made from wood, fabrics or dried leather for storing all kinds of different items. -->
+  <ASNeolithicBasketWoody.description>用木材制成的篓筐，可储存各种物品。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：2组\n【可储存类型】：所有物品</ASNeolithicBasketWoody.description>
+  
+  <!-- EN: hay pile -->
+  <ASNeolithicHayPile.label>干草垛</ASNeolithicHayPile.label>
+  <!-- EN: A pile of hay for easier storage. -->
+  <ASNeolithicHayPile.description>随意堆叠在一起的干草，中间插有作为简单固定手段的木棍。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：6组\n【可储存类型】：干草</ASNeolithicHayPile.description>
+  
+  <!-- EN: large pot -->
+  <ASNeolithicLargePot.label>大缸</ASNeolithicLargePot.label>
+  <!-- EN: A large carved pot meant for the storage of perishable food. -->
+  <ASNeolithicLargePot.description>用木材凿刻成的大缸，可储存各种容易腐烂变质的食物。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：3组\n【可储存类型】：生食，干肉饼，粗饲料</ASNeolithicLargePot.description>
+  
+  <!-- EN: meal shelf -->
+  <ASNeolithicMealShelf.label>简易餐盘架</ASNeolithicMealShelf.label>
+  <!-- EN: A makeshift shelf for the purposes of meal storage. -->
+  <ASNeolithicMealShelf.description>用于储存各种烹饪食物的简易餐盘架。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：3组\n【可储存类型】：烹饪食物</ASNeolithicMealShelf.description>
+  
+  <!-- EN: plinth -->
+  <ASNeolithicPlinthWoody.label>简易基座</ASNeolithicPlinthWoody.label>
+  <!-- EN: A rough plinth with beautiful engravings for displaying items. -->
+  <ASNeolithicPlinthWoody.description>雕有美丽花纹的简易基座，可用于展示你心爱的物品。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：1组\n【可储存类型】：所有物品</ASNeolithicPlinthWoody.description>
+  
+  <!-- EN: bundle -->
+  <ASNeolithicTextileBundleFabric.label>捆堆</ASNeolithicTextileBundleFabric.label>
+  <!-- EN: A couple of textiles stacked upon each other into a neat pile. -->
+  <ASNeolithicTextileBundleFabric.description>用绳子捆好并随意堆叠在一起的织物。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：4组\n【可储存类型】：织物</ASNeolithicTextileBundleFabric.description>
+  
+  <!-- EN: bundle -->
+  <ASNeolithicTextileBundleLeather.label>捆堆</ASNeolithicTextileBundleLeather.label>
+  <!-- EN: A couple of textiles stacked upon each other into a neat pile. -->
+  <ASNeolithicTextileBundleLeather.description>用绳子捆好并随意堆叠在一起的皮革。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：4组\n【可储存类型】：皮革</ASNeolithicTextileBundleLeather.description>
+  
+  <!-- EN: pile -->
+  <ASNeolithicWoodPile.label>柴堆</ASNeolithicWoodPile.label>
+  <!-- EN: A couple of rough looking logs thrown upon each other into a pile. -->
+  <ASNeolithicWoodPile.description>随意堆叠在一起的木柴。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：3组\n【可储存类型】：原木</ASNeolithicWoodPile.description>
+
+  <ASNeolithicChunkStorageChunkSandstone.label>砂岩块堆</ASNeolithicChunkStorageChunkSandstone.label>
+  <ASNeolithicChunkStorageChunkSandstone.description>随意堆叠在一起的砂岩块，可当作简易掩体来使用。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：6组\n【可储存类型】：石块</ASNeolithicChunkStorageChunkSandstone.description>
+
+  <ASNeolithicChunkStorageChunkGranite.label>花岗岩块堆</ASNeolithicChunkStorageChunkGranite.label>
+  <ASNeolithicChunkStorageChunkGranite.description>随意堆叠在一起的花岗岩块，可当作简易掩体来使用。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：6组\n【可储存类型】：石块</ASNeolithicChunkStorageChunkGranite.description>
+
+  <ASNeolithicChunkStorageChunkLimestone.label>石灰岩块堆</ASNeolithicChunkStorageChunkLimestone.label>
+  <ASNeolithicChunkStorageChunkLimestone.description>随意堆叠在一起的石灰岩块，可当作简易掩体来使用。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：6组\n【可储存类型】：石块</ASNeolithicChunkStorageChunkLimestone.description>
+
+  <ASNeolithicChunkStorageChunkSlate.label>板岩块堆</ASNeolithicChunkStorageChunkSlate.label>
+  <ASNeolithicChunkStorageChunkSlate.description>随意堆叠在一起的板岩块，可当作简易掩体来使用。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：6组\n【可储存类型】：石块</ASNeolithicChunkStorageChunkSlate.description>
+
+  <ASNeolithicChunkStorageChunkMarble.label>大理石块堆</ASNeolithicChunkStorageChunkMarble.label>
+  <ASNeolithicChunkStorageChunkMarble.description>随意堆叠在一起的大理石块，可当作简易掩体来使用。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：6组\n【可储存类型】：石块</ASNeolithicChunkStorageChunkMarble.description>
+
+  <ASNeolithicLargePotChunkSandstone.label>砂岩大缸</ASNeolithicLargePotChunkSandstone.label>
+  <ASNeolithicLargePotChunkSandstone.description>用砂岩块凿刻成的大缸，可储存各种容易腐烂变质的食物。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：3组\n【可储存类型】：生食，干肉饼，粗饲料</ASNeolithicLargePotChunkSandstone.description>
+
+  <ASNeolithicLargePotChunkGranite.label>花岗岩大缸</ASNeolithicLargePotChunkGranite.label>
+  <ASNeolithicLargePotChunkGranite.description>用花岗岩块凿刻成的大缸，可储存各种容易腐烂变质的食物。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：3组\n【可储存类型】：生食，干肉饼，粗饲料</ASNeolithicLargePotChunkGranite.description>
+
+  <ASNeolithicLargePotChunkLimestone.label>石灰岩大缸</ASNeolithicLargePotChunkLimestone.label>
+  <ASNeolithicLargePotChunkLimestone.description>用石灰岩块凿刻成的大缸，可储存各种容易腐烂变质的食物。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：3组\n【可储存类型】：生食，干肉饼，粗饲料</ASNeolithicLargePotChunkLimestone.description>
+
+  <ASNeolithicLargePotChunkSlate.label>板岩大缸</ASNeolithicLargePotChunkSlate.label>
+  <ASNeolithicLargePotChunkSlate.description>用板岩块凿刻成的大缸，可储存各种容易腐烂变质的食物。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：3组\n【可储存类型】：生食，干肉饼，粗饲料</ASNeolithicLargePotChunkSlate.description>
+
+  <ASNeolithicLargePotChunkMarble.label>大理石大缸</ASNeolithicLargePotChunkMarble.label>
+  <ASNeolithicLargePotChunkMarble.description>用大理石块凿刻成的大缸，可储存各种容易腐烂变质的食物。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：3组\n【可储存类型】：生食，干肉饼，粗饲料</ASNeolithicLargePotChunkMarble.description>
+
+  <ASNeolithicPlinthChunkSandstone.label>砂岩简易基座</ASNeolithicPlinthChunkSandstone.label>
+  <ASNeolithicPlinthChunkSandstone.description>雕有美丽花纹的简易基座，可用于展示你心爱的物品。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：1组\n【可储存类型】：所有物品</ASNeolithicPlinthChunkSandstone.description>
+
+  <ASNeolithicPlinthChunkGranite.label>花岗岩简易基座</ASNeolithicPlinthChunkGranite.label>
+  <ASNeolithicPlinthChunkGranite.description>雕有美丽花纹的简易基座，可用于展示你心爱的物品。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：1组\n【可储存类型】：所有物品</ASNeolithicPlinthChunkGranite.description>
+
+  <ASNeolithicPlinthChunkLimestone.label>石灰岩简易基座</ASNeolithicPlinthChunkLimestone.label>
+  <ASNeolithicPlinthChunkLimestone.description>雕有美丽花纹的简易基座，可用于展示你心爱的物品。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：1组\n【可储存类型】：所有物品</ASNeolithicPlinthChunkLimestone.description>
+
+  <ASNeolithicPlinthChunkSlate.label>板岩简易基座</ASNeolithicPlinthChunkSlate.label>
+  <ASNeolithicPlinthChunkSlate.description>雕有美丽花纹的简易基座，可用于展示你心爱的物品。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：1组\n【可储存类型】：所有物品</ASNeolithicPlinthChunkSlate.description>
+
+  <ASNeolithicPlinthChunkMarble.label>大理石简易基座</ASNeolithicPlinthChunkMarble.label>
+  <ASNeolithicPlinthChunkMarble.description>雕有美丽花纹的简易基座，可用于展示你心爱的物品。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：1组\n【可储存类型】：所有物品</ASNeolithicPlinthChunkMarble.description>
+
+</LanguageData>

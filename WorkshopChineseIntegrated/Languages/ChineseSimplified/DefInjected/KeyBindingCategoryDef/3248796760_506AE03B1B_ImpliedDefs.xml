@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 地形 tab -->
+  <Architect_sd_bridges_category_terraform.label>地形菜单</Architect_sd_bridges_category_terraform.label>
+  <!-- EN: Key bindings for the "地形" section of the Architect menu -->
+  <Architect_sd_bridges_category_terraform.description>建筑菜单的“地形”部分的按键绑定</Architect_sd_bridges_category_terraform.description>
+  
+</LanguageData>

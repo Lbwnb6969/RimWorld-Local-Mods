@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Super leathers -->
+  <DankPyon_Leather_Daer.label>鹿熊皮</DankPyon_Leather_Daer.label>
+  <DankPyon_Leather_Daer.description>传说中的鹿熊皮革，由这种强大的野兽剥皮制成。虽然它的原始型态有些粗糙，但由于鹿熊毛的绝对密度，没有人能否认其令人难以置信的保暖能力。高密度以及固有的特性使这种皮革具有惊人的阻燃性，能防止氧气接触毛皮上任何燃烧的余烬。这也代表着，处理这种皮革相当费功夫。</DankPyon_Leather_Daer.description>
+  <DankPyon_Leather_Lindwurm.label>林德虫鳞皮</DankPyon_Leather_Lindwurm.label>
+  <DankPyon_Leather_Lindwurm.description>一片手掌大小的宽大绿壳，将反射的光线染成翡翠色。这种材质既耐用又优雅，时常引来羡慕的目光。</DankPyon_Leather_Lindwurm.description>
+  <DankPyon_Leather_Rox.label>罗克斯皮</DankPyon_Leather_Rox.label>
+  <DankPyon_Leather_Rox.description>传说中的罗克斯皮革，由这种强大的野兽剥皮制成。虽然它的原始型态有些粗糙，但由于罗克斯毛的绝对密度，没有人能否认其令人难以置信的保暖能力。高密度以及固有的特性使这种皮革具有惊人的阻燃性，能防止氧气接触毛皮上任何燃烧的余烬。这也代表着，处理这种皮革相当费功夫。</DankPyon_Leather_Rox.description>
+  <DankPyon_Leather_Griffon.label>狮鹫皮</DankPyon_Leather_Griffon.label>
+  <DankPyon_Leather_Griffon.description>传说中的狮鹫皮革，由这种强大的野兽剥皮制成。它独特地融合了强度和柔软度，充满了这种生物的威严气质。狮鹫皮革花纹繁复，经久耐用，是工匠们的珍品，可用于制作品质和声誉无与伦比的服装和物品。</DankPyon_Leather_Griffon.description>
+  <DankPyon_Leather_Direwolf.label>恐狼皮</DankPyon_Leather_Direwolf.label>
+  <DankPyon_Leather_Direwolf.description>从凶恶的恐狼身上获取制成的结实皮革。比一般狼皮坚硬，御寒能力更强。</DankPyon_Leather_Direwolf.description>
+  <DankPyon_Leather_DireBoar.label>恐猪皮</DankPyon_Leather_DireBoar.label>
+  <DankPyon_Leather_DireBoar.description>从凶恶的恐猪身上获取制成的结实皮革。比一般猪皮坚硬，御寒能力更强。</DankPyon_Leather_DireBoar.description>
+  <DankPyon_Leather_Hyena.label>鬣狗皮</DankPyon_Leather_Hyena.label>
+  <DankPyon_Leather_Hyena.description>从鬣狗身上获取制成的柔软毛皮。它很难被刺穿，而且隔热性能很好。</DankPyon_Leather_Hyena.description>
+  <DankPyon_Leather_Troll.label>山怪皮</DankPyon_Leather_Troll.label>
+  <DankPyon_Leather_Troll.description>鞣制、风乾、刮净的山怪皮革。</DankPyon_Leather_Troll.description>
+  <!-- Wool -->
+  <DankPyon_WoolRox.label>罗克斯毛</DankPyon_WoolRox.label>
+  <DankPyon_WoolRox.description>厚实、粗重，提供非常好的保温效果。即使在极寒温度下，罗克斯毛衣也能使身体保持温暖。</DankPyon_WoolRox.description>
+</LanguageData>

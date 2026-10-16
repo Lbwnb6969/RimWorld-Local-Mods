@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <BM_MinHandlingLevel_Title>骑手等级－需求（范围: {0}~{1} 默认: {2} 当前: {3}）</BM_MinHandlingLevel_Title>
+  <BM_MinHandlingLevel_Description>敌方/友方小人进入地图时生成骑手所需的最低动物技能等级。</BM_MinHandlingLevel_Description>
+
+  <BM_InBiomeWeight_Title>坐骑生态物种－殖民地（范围: {0}~{1}% 默认: {2}% 当前: {3}%）</BM_InBiomeWeight_Title>
+  <BM_InBiomeWeight_Description>敌方坐骑来自殖民地生态的机率。</BM_InBiomeWeight_Description>
+
+  <BM_OutBiomeWeight_Title>坐骑生态物种－随机生态（范围: {0}~{1}% 默认: {2}% 当前: {3}%）</BM_OutBiomeWeight_Title>
+  <BM_OutBiomeWeight_Description>敌方坐骑来自随机生态的机率。</BM_OutBiomeWeight_Description>
+
+  <BM_NonWildWeight_Title>坐骑生态物种－非野生（范围: {0}~{1}% 默认: {2}% 当前: {3}%）</BM_NonWildWeight_Title>
+  <BM_NonWildWeight_Description>敌方骑乘已驯化坐骑的机率。</BM_NonWildWeight_Description>
+
+  <BM_EnemyMountChance_Title>骑手突袭－机率（范围: {0}~{1}% 默认: {2}% 当前: {3}%）</BM_EnemyMountChance_Title>
+  <BM_EnemyMountChance_Description>袭击时，敌方生成骑手的机率。</BM_EnemyMountChance_Description>
+
+  <BM_EnemyMountChanceTribal_Title>部落骑手突袭－机率（范围: {0}~{1}% 默认: {2}% 当前: {3}%）</BM_EnemyMountChanceTribal_Title>
+  <BM_EnemyMountChanceTribal_Description>原始部落、中世纪派系袭击时生成骑手的机率。</BM_EnemyMountChanceTribal_Description>
+
+  <BM_SizeOk>可骑乘</BM_SizeOk>
+  <BM_SizeNotOk>无法骑乘</BM_SizeNotOk>
+  <BM_DrawFront>动物图层置前</BM_DrawFront>
+  <BM_DrawBack>动物图层置后</BM_DrawBack>
+
+</LanguageData>

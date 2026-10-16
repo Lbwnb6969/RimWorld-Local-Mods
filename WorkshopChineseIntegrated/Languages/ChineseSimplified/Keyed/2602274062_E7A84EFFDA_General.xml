@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Quest concluded (Quest info updated) -->
+  <LetterQuestConcludedLabelWithUpdateInfo>任务结束（任务信息已更新）</LetterQuestConcludedLabelWithUpdateInfo>
+  <!-- EN: Quest completed (Quest info updated) -->
+  <LetterQuestCompletedLabelWithUpdateInfo>任务完成（任务信息已更新）</LetterQuestCompletedLabelWithUpdateInfo>
+  <!-- EN: Quest failed (Quest info updated) -->
+  <LetterQuestFailedLabelWithUpdateInfo>任务失败（任务信息已更新）</LetterQuestFailedLabelWithUpdateInfo>
+
+  <!-- EN: Quest updated -->
+  <CALetterQuestOngoingUpdatedInfo>任务更新</CALetterQuestOngoingUpdatedInfo>
+  <!-- EN: The quest "{0}" was updated. -->
+  <CALetterQuestOngoingUpdatedInfoText>任务"{0}"已更新。</CALetterQuestOngoingUpdatedInfoText>
+
+  <!-- EN: When casting ancient coordinator, every pawn exceeding the default link limit of 4 (gifted pawn not included) will die.\n\n\nDo you really want to cast ancient coordinator? -->
+  <CAAbilityCoordinatorApprovalText>如果你使用远古调谐，每一个超过此能力人数限制(最大联结四人，不包括施法者本身)的殖民者都会当场毙命。\n\n\n你真的要释放远古调谐吗？</CAAbilityCoordinatorApprovalText>
+</LanguageData>

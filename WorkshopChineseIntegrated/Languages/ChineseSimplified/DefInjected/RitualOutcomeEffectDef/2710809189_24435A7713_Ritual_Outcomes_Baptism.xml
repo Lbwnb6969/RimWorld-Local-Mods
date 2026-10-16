@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: If the baptism ritual goes well (positive outcome), the baptized colonist will be instantly converted. A negative outcome will cause a mood penalty and strengthen their original beliefs.\n\nBaptism will be more effective if started near large bodies of water (20 water tiles in a 10 tile radius). -->
+  <AM_BaptismOutcome.description>如果洗礼仪式顺利举行（积极的结果），则受洗的殖民者会立即被教化。相反，消极的结果不仅会为参与者带来心情减益，还会增强受洗的殖民者对其原本文化的认可度。\n\n在大型水域附近举行洗礼仪式（以仪式举办点为中心，半径10格内的含水地形多于20格）将获得额外的仪式效果加成。</AM_BaptismOutcome.description>
+  <!-- EN: outdoors -->
+  <AM_BaptismOutcome.comps.0.label>处于室外</AM_BaptismOutcome.comps.0.label>
+  <!-- EN: not outdoors -->
+  <AM_BaptismOutcome.comps.0.labelNotMet>未处于室外</AM_BaptismOutcome.comps.0.labelNotMet>
+  <!-- EN: participant count -->
+  <AM_BaptismOutcome.comps.1.label>参与者数量</AM_BaptismOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AM_BaptismOutcome.comps.2.label>{PAWN_labelShort}的社交效果</AM_BaptismOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <AM_BaptismOutcome.comps.2.labelAbstract>演讲者的社交效果</AM_BaptismOutcome.comps.2.labelAbstract>
+  <!-- EN: 20 tiles of water nearby -->
+  <AM_BaptismOutcome.comps.3.label>附近的含水地形多于20格</AM_BaptismOutcome.comps.3.label>
+  <!-- EN: no 20 tiles of water nearby -->
+  <AM_BaptismOutcome.comps.3.labelNotMet>附近的含水地形少于20格</AM_BaptismOutcome.comps.3.labelNotMet>
+  <!-- EN: Blasphemous -->
+  <AM_BaptismOutcome.outcomeChances.0.label>亵渎的</AM_BaptismOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was blasphemous. The ritual was an affront to the holiness of water. This desecration will linger in our thoughts. -->
+  <AM_BaptismOutcome.outcomeChances.0.description>{0}亵渎且不敬！这场仪式简直就是在玷污水的圣洁性，我们的思想会因此而变得不纯洁！</AM_BaptismOutcome.outcomeChances.0.description>
+  <!-- EN: Underwhelming -->
+  <AM_BaptismOutcome.outcomeChances.1.label>效果甚微的</AM_BaptismOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was underwhelming. The ceremony lacked the spirit and grace it deserved. It felt hollow and uninspired. -->
+  <AM_BaptismOutcome.outcomeChances.1.description>{0}效果甚微。这场仪式缺少了本该有的精神与庄重。我们只能感受到空洞与乏味。</AM_BaptismOutcome.outcomeChances.1.description>
+  <!-- EN: Refreshing -->
+  <AM_BaptismOutcome.outcomeChances.2.label>耳目一新的</AM_BaptismOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was refreshing. That was a delightful moment of connection with the holy water. It left us feeling renewed. -->
+  <AM_BaptismOutcome.outcomeChances.2.description>{0}令人耳目一新。这场愉悦的仪式使我们与神圣的水紧密相连。这种精神焕新的感觉可真好。</AM_BaptismOutcome.outcomeChances.2.description>
+  <!-- EN: Transcendent -->
+  <AM_BaptismOutcome.outcomeChances.3.label>超凡绝伦的</AM_BaptismOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was transcendent! This ritual was a profound experience, an unforgettable communion with the sacred flow of life. -->
+  <AM_BaptismOutcome.outcomeChances.3.description>{0}超凡绝伦！这场仪式使我们经历了难以忘怀的体验，我们将永远铭记与生命之神圣水流间的沟通。</AM_BaptismOutcome.outcomeChances.3.description>
+  
+</LanguageData>

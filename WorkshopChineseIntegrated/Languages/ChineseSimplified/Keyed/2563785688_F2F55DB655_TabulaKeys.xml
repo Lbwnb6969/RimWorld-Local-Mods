@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- ========== Factions ========== -->
+
+    <!-- EN: Faction does not accept gifts. -->
+  <TabulaRasa.FactionDoesNotAcceptGifts>派系不接受赠礼。</TabulaRasa.FactionDoesNotAcceptGifts>
+    <!-- EN: Faction goodwill must be between {0} and {1}to accept gifts. -->
+  <TabulaRasa.FactionDoesNotAcceptGiftsGoodwill>派系好感度必须为{0}到{1}之间才会接受赠礼。</TabulaRasa.FactionDoesNotAcceptGiftsGoodwill>
+
+	<!-- ========== Auto Producer ========== -->
+
+	<!-- EN: Set Production -->
+  <SetAutoBill>设置生产</SetAutoBill>
+	<!-- EN: Repeats current production recipe. -->
+  <RepeatAutoBillTip>重复当前的生产配方。</RepeatAutoBillTip>
+	<!-- EN: Cancels current production recipe. -->
+  <DeleteAutoBillTip>取消当前的生产配方。</DeleteAutoBillTip>
+	<!-- EN: Production -->
+  <TabAutoProducer>生产</TabAutoProducer>
+
+	<!-- ========== Shield Generator ========== -->
+    
+    <!-- EN: Set Colour -->
+  <ShieldGenColorLabel>颜色设置</ShieldGenColorLabel>
+    <!-- EN: Sets the colour of the shield. -->
+  <ShieldGenColorDescription>设置护盾的颜色。</ShieldGenColorDescription>
+    <!-- EN: Color Setting -->
+  <ShieldGenColorTitle>颜色设置</ShieldGenColorTitle>
+    <!-- EN: Hex -->
+  <ShieldGenHexLabel>十六进制颜色代码</ShieldGenHexLabel>
+    <!-- EN: Invalid Hex Code Input -->
+  <ShieldGenHexColorCodeIsIllFormed>输入了无效的十六进制颜色代码</ShieldGenHexColorCodeIsIllFormed>
+
+    <!-- EN: Set Radius -->
+  <ShieldGenRadiusLabel>半径设置</ShieldGenRadiusLabel>
+    <!-- EN: Set the shields current radius. -->
+  <ShieldGenRadiusDescription>设置当前护盾的半径。</ShieldGenRadiusDescription>
+    <!-- EN: Radius -->
+  <ShieldGenRadiusTitle>半径</ShieldGenRadiusTitle>
+
+    <!-- EN: Set Offset X -->
+  <ShieldGenOffsetXLabel>设置X轴偏移</ShieldGenOffsetXLabel>
+    <!-- EN: Set the shields east/west offset. -->
+  <ShieldGenOffsetXDescription>设置护盾东西方向的偏移。</ShieldGenOffsetXDescription>
+    <!-- EN: X Offset -->
+  <ShieldGenOffsetXTitle>X轴偏移量</ShieldGenOffsetXTitle>
+
+    <!-- EN: Set Offset Y -->
+  <ShieldGenOffsetYLabel>设置Y轴偏移</ShieldGenOffsetYLabel>
+    <!-- EN: Set the shields north/south offset. -->
+  <ShieldGenOffsetYDescription>设置护盾南北方向的偏移。</ShieldGenOffsetYDescription>
+    <!-- EN: Y Offset -->
+  <ShieldGenOffsetYTitle>Y轴偏移量</ShieldGenOffsetYTitle>
+
+    <!-- EN: Toggle Visibility -->
+  <ShieldGenToggleVisibility>切换护盾可见性</ShieldGenToggleVisibility>
+    <!-- EN: Changes whether or not the shield is fully visible when not selected. -->
+  <ShieldGenToggleVisibilityDesc>护盾在未选中时是否可见。</ShieldGenToggleVisibilityDesc>
+
+	<!-- ========== Mining ========== -->
+
+	<!-- EN: Mining -->
+  <TabMining>采矿</TabMining>
+
+	<!-- ========== Reinforcements ========== -->
+
+	<!-- EN: Pawn joins: {PAWN_nameDef} -->
+  <TabulaRasa_LetterLabel_PawnKindJoins>人员加入：{PAWN_nameDef}</TabulaRasa_LetterLabel_PawnKindJoins>
+	<!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived as scheduled to join the colony.\n\nYou can choose to send {PAWN_objective} away. However, your colonists will be disturbed by your decision. -->
+  <TabulaRasa_LetterText_PawnKindJoins>一名叫做{PAWN_nameDef}的{PAWN_title}已抵达并按计划加入了殖民地。\n\n你可以选择将{PAWN_objective}送走，但你的殖民者们会对此感到不安。</TabulaRasa_LetterText_PawnKindJoins>
+	<!-- EN: Max Pawns -->
+  <TabulaRasa.MaxPawns>最大单位</TabulaRasa.MaxPawns>
+
+	<!-- ========== Holograms ========== -->
+
+    <!-- EN: Hologram -->
+  <TabulaRasa.ITab_Hologram>全息影像</TabulaRasa.ITab_Hologram>
+    <!-- EN: Select hologram... -->
+  <TabulaRasa.ITab_HologramSelect>选择全息影像...</TabulaRasa.ITab_HologramSelect>
+
+	<!-- ========== Gizmos ========== -->
+
+	<!-- EN: Cycle Graphic -->
+  <O21_CycleGraphic>循环切换贴图</O21_CycleGraphic>
+	<!-- EN: Cycles through the available graphics for this building in order. -->
+  <O21_CycleGraphicDesc>按顺序循环切换此建筑的可用贴图。</O21_CycleGraphicDesc>
+	<!-- EN: Set Graphic -->
+  <O21_ChangeGraphic>设置贴图</O21_ChangeGraphic>
+	<!-- EN: Provides a full list of all available alternative graphics to choose from. -->
+  <O21_ChangeGraphicDesc>打开包含所有可用贴图的完整列表，你可以在里面进行选择。</O21_ChangeGraphicDesc>
+
+	<!-- EN: Subcategory... -->
+  <TabulaRasa.SubCatLabel>子分类...</TabulaRasa.SubCatLabel>
+	<!-- EN: Selecting a subcategory will narrow down the buildable options to only those within the subcategory. -->
+  <TabulaRasa.SubCatDesc>将可建造选项缩小至所选择的子分类中。</TabulaRasa.SubCatDesc>
+
+	<!-- EN: Disabled by cooldown, can use again in {0}. -->
+  <TabulaRasa.DisabledByCooldown>已禁用：正在冷却，{0}后可用。</TabulaRasa.DisabledByCooldown>
+
+	<!-- ========== Converter ========== -->
+
+	<!-- EN: perform conversion on self -->
+  <EnterConverter>自我转换</EnterConverter>
+	<!-- EN: cannot use, pawn is not a viable candidate -->
+  <CannotUseNotViable>不可用，此单位不是可行的候选人</CannotUseNotViable>
+	
+	<!-- ========== Bunker ========== -->
+
+	<!-- EN: enter bunker -->
+  <EnterBunker>进入掩体</EnterBunker>
+	<!-- EN: enter emplacement -->
+  <EnterEmplacement>进驻炮台</EnterEmplacement>
+	
+	<!-- ========== PawnCrafter ========== -->
+	<!-- EN: Produce {0}  -->
+  <PawnCrafterMake>生产{0} </PawnCrafterMake>
+	<!-- EN: Produce {0} (requires research: {1})  -->
+  <PawnCrafterNeedsResearch>生产{0}（需要研究：{1}）</PawnCrafterNeedsResearch>
+	
+	<!-- EN: {0} produced -->
+  <PawnCraftedLetterLabel>{0}已产生</PawnCraftedLetterLabel>
+	<!-- EN: Welcome to {0}\n\nA new pawn has been created. This message has not been customized properly by the mod author. -->
+  <PawnCraftedLetterDescription>欢迎来到{0}\n\n一个新单位已创建。mod作者没有正确地自定义此消息。</PawnCraftedLetterDescription>
+	<!-- EN: Status: {0} -->
+  <PawnCrafterStatus>状态：{0}</PawnCrafterStatus>
+	<!-- EN: Progress: {0} -->
+  <PawnCrafterProgress>进度：{0}</PawnCrafterProgress>
+	<PawnCrafterMaterials></PawnCrafterMaterials>
+	<!-- EN: Need {0} {1}. -->
+  <PawnCrafterNeed>需要 {0} {1}。</PawnCrafterNeed>
+	<!-- EN: Nutrition -->
+  <PawnCrafterNutrition>营养</PawnCrafterNutrition>
+	
+	<!-- EN: Start producing -->
+  <GizmoTogglePawnCraftingStartLabel>开始生产</GizmoTogglePawnCraftingStartLabel>
+	<!-- EN: Initiates production of a pawn. -->
+  <GizmoTogglePawnCraftingStartDescription>开始生产单位。</GizmoTogglePawnCraftingStartDescription>
+	<!-- EN: Stop producing -->
+  <GizmoTogglePawnCraftingStopLabel>停止生产</GizmoTogglePawnCraftingStopLabel>
+	<!-- EN: Aborts the current production, all used materials and energy will be gone forever. -->
+  <GizmoTogglePawnCraftingStopDescription>终止当前生产，所有被使用的材料和能量将永久消失。</GizmoTogglePawnCraftingStopDescription>
+	
+	<!-- EN: Idle -->
+  <PawnCrafterStatusEnum0>闲置</PawnCrafterStatusEnum0>
+	<!-- EN: Filling -->
+  <PawnCrafterStatusEnum1>填满</PawnCrafterStatusEnum1>
+	<!-- EN: Printing -->
+  <PawnCrafterStatusEnum2>打印</PawnCrafterStatusEnum2>
+	<!-- EN: Finished -->
+  <PawnCrafterStatusEnum3>完成</PawnCrafterStatusEnum3>
+	
+	<!-- EN: repeat last pawn -->
+  <PawnCrafterRepeatLabel>重复上一个单位</PawnCrafterRepeatLabel>
+	<!-- EN: if active, repeats the last pawn production task -->
+  <PawnCrafterRepeatDescription>如果激活此项，将重复上一个单位生产任务</PawnCrafterRepeatDescription>
+	
+	<!-- ========== PawnConverter ========== -->
+	
+	<!-- EN: Conversion: {0}  -->
+  <PawnConverterConvert>转换：{0} </PawnConverterConvert>
+	<!-- EN: Conversion: {0} (invalid race)  -->
+  <PawnConverterInvalidRace>转换：{0}（无效的种族）</PawnConverterInvalidRace>
+	<!-- EN: Conversion: {0} (invalid gender)  -->
+  <PawnConverterInvalidGender>转换：{0}（无效的性别）</PawnConverterInvalidGender>
+	<!-- EN: Conversion: {0} (invalid hediffs)  -->
+  <PawnConverterInvalidHediffs>转换：{0}（无效的性别）</PawnConverterInvalidHediffs>
+	<!-- EN: Conversion: {0} (requires research: {1})  -->
+  <PawnConverterNeedsResearch>转换：{0}（需要研究：{1}）</PawnConverterNeedsResearch>
+	
+	<!-- ========== Needs (Energy) ========== -->
+	
+	<!-- EN: Hibernate {0} Here -->
+  <O21MachinelikeHibernate>让{0}在这里休眠</O21MachinelikeHibernate>
+	<!-- EN: Cannot Hibernate (no power)  -->
+  <O21MachinelikeHibernateFailNoPower>无法休眠（没有能量）</O21MachinelikeHibernateFailNoPower>
+	<!-- EN: Cannot Hibernate (can't reach)  -->
+  <O21MachinelikeHibernateFailReserveOrReach>无法休眠（无法到达）</O21MachinelikeHibernateFailReserveOrReach>
+	<!-- EN: Cannot Hibernate (unknown reason) -->
+  <O21MachinelikeHibernateFail>无法休眠（未知原因）</O21MachinelikeHibernateFail>
+ 
+</LanguageData>

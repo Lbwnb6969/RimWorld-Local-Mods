@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: parier sur les duels -->
+  <RimJoust_Concept_Bets.label>下注</RimJoust_Concept_Bets.label>
+  <!-- EN: Quand un chevalier invité court un duel, ouvre le tableau du tournoi pour miser de l'argent dessus. À toi de flairer qui va rester en selle. -->
+  <RimJoust_Concept_Bets.helpText>当受邀骑士进行对决时，打开锦标赛面板下注。由你来判断谁能留在马鞍上。</RimJoust_Concept_Bets.helpText>
+  
+  <!-- EN: inviter des chevaliers -->
+  <RimJoust_Concept_Guests.label>邀请骑士</RimJoust_Concept_Guests.label>
+  <!-- EN: Les visiteurs des autres factions peuvent jouter eux aussi. Sélectionne un visiteur et inscris-le : on lui prête une lance et une monture le temps du tournoi. Bon moyen de remplir le tableau quand tu manques de colons. -->
+  <RimJoust_Concept_Guests.helpText>来自其他派系的访客也可以参加比武。选择一名访客并报名：锦标赛期间会借给他们长枪和坐骑。当殖民者不足时，这是填补参赛名单的好方法。</RimJoust_Concept_Guests.helpText>
+  
+  <!-- EN: rôle de jouteur -->
+  <RimJoust_Concept_Jouster.label>比武骑士角色</RimJoust_Concept_Jouster.label>
+  <!-- EN: Avec ce bouton, tu choisis quels colons participent au tournoi. Si tu ne marques personne, tous tes colons à cheval joutent par défaut. Pratique pour ne faire concourir que tes meilleurs et garder les autres au travail. -->
+  <RimJoust_Concept_Jouster.helpText>使用此按钮选择哪些殖民者参加锦标赛。如果不指定任何人，所有骑马的殖民者默认都会参赛。方便只让最好的骑士参赛，让其他人继续工作。</RimJoust_Concept_Jouster.helpText>
+  
+  <!-- EN: organiser un tournoi -->
+  <RimJoust_Concept_Lists.label>组织锦标赛</RimJoust_Concept_Lists.label>
+  <!-- EN: Tu as posé un fanion de joute. Pose l'autre fanion à l'autre bout pour tracer la lice, mets quelques colons à cheval, puis clique sur un fanion et choisis « Organiser le tournoi ». La lance est donnée automatiquement, rien à fabriquer. -->
+  <RimJoust_Concept_Lists.helpText>你已经放置了一面比武旗帜。在另一端放置另一面旗帜来划定赛道，让一些殖民者骑上马，然后点击一面旗帜并选择「组织锦标赛」。长枪会自动发放，无需制作。</RimJoust_Concept_Lists.helpText>
+  
+  <!-- EN: rôle d'écuyer -->
+  <RimJoust_Concept_Squire.label>侍从角色</RimJoust_Concept_Squire.label>
+  <!-- EN: Marque un colon comme écuyer et il ira ramasser les chevaliers tombés pour dégager la lice entre deux duels. Il te faut une aire de récupération posée pour qu'ils sachent où emmener les blessés. -->
+  <RimJoust_Concept_Squire.helpText>将一名殖民者标记为侍从，他们会去救援落马的骑士，在两场对决之间清理赛道。你需要放置一个休息区，好让他们知道把伤员送到哪里。</RimJoust_Concept_Squire.helpText>
+  
+</LanguageData>

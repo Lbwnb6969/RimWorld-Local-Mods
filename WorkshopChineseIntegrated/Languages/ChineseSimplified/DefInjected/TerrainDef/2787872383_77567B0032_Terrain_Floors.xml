@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bronze tile -->
+  <VFEC_BronzeTile.label>青铜地砖</VFEC_BronzeTile.label>
+  <!-- EN: Bronze tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <VFEC_BronzeTile.description>青铜地砖具有特殊的增强清洁度特性。超洁净的房间能够更好地担当医务室和研究室的功能。这种地砖铺设十分缓慢。</VFEC_BronzeTile.description>
+  
+  <!-- EN: concrete flagstone -->
+  <VFEC_FlagstoneConcrete.label>混凝土石板</VFEC_FlagstoneConcrete.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <VFEC_FlagstoneConcrete.description>粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。</VFEC_FlagstoneConcrete.description>
+  
+  <!-- EN: granite mosaics -->
+  <VFEC_MosaicsGranite.label>花岗岩马赛克地砖</VFEC_MosaicsGranite.label>
+  <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+  <VFEC_MosaicsGranite.description>精致切割并铺设的地砖，非常美观。</VFEC_MosaicsGranite.description>
+  
+  <!-- EN: limestone mosaics -->
+  <VFEC_MosaicsLimestone.label>石灰岩马赛克地砖</VFEC_MosaicsLimestone.label>
+  <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+  <VFEC_MosaicsLimestone.description>精致切割并铺设的地砖，非常美观。</VFEC_MosaicsLimestone.description>
+  
+  <!-- EN: marble mosaics -->
+  <VFEC_MosaicsMarble.label>大理石马赛克地砖</VFEC_MosaicsMarble.label>
+  <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+  <VFEC_MosaicsMarble.description>精致切割并铺设的地砖，非常美观。</VFEC_MosaicsMarble.description>
+  
+  <!-- EN: sandstone mosaics -->
+  <VFEC_MosaicsSandstone.label>砂岩马赛克地砖</VFEC_MosaicsSandstone.label>
+  <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+  <VFEC_MosaicsSandstone.description>精致切割并铺设的地砖，非常美观。</VFEC_MosaicsSandstone.description>
+  
+  <!-- EN: slate mosaics -->
+  <VFEC_MosaicsSlate.label>板岩马赛克地砖</VFEC_MosaicsSlate.label>
+  <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+  <VFEC_MosaicsSlate.description>精致切割并铺设的地砖，非常美观。</VFEC_MosaicsSlate.description>
+  
+  <!-- EN: concrete tile -->
+  <VFEC_TileConcrete.label>混凝土地砖</VFEC_TileConcrete.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <VFEC_TileConcrete.description>坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。</VFEC_TileConcrete.description>
+  
+</LanguageData>

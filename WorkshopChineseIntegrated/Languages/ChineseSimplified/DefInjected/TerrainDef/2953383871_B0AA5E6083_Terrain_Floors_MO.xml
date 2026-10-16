@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_PlowedSoil.label>耕地</DankPyon_PlowedSoil.label>
+  <DankPyon_PlowedSoil.description>翻耕土壤以增加其肥沃度。</DankPyon_PlowedSoil.description>
+  <DankPyon_PlowedSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>正在翻耕土壤。</DankPyon_PlowedSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>
+  <DankPyon_PlowedSoil.tools.0.label>泥土</DankPyon_PlowedSoil.tools.0.label>
+
+  <IronTile.label>铁质地砖</IronTile.label>
+  <IronTile.description>铁质地砖，外观结实。易于清洁，能少量提昇乾净度，并可用于医疗布置。</IronTile.description>
+
+  <DankPyon_DarkWoodPlankFloor.label>黑暗木地板</DankPyon_DarkWoodPlankFloor.label>
+  <DankPyon_DarkWoodPlankFloor.description>木头地板让人有温暖、温馨的感觉。铺设容易，但非常容易燃烧。</DankPyon_DarkWoodPlankFloor.description>
+
+</LanguageData>

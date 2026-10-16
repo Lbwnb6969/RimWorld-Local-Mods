@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: read a book -->
+  <VME_BookReading_Desired.stages.read_a_book.label>阅读书籍</VME_BookReading_Desired.stages.read_a_book.label>
+  <!-- EN: Reading a good book is like nourishing the mind. -->
+  <VME_BookReading_Desired.stages.read_a_book.description>读一本好书能够滋润我干涸的心灵。</VME_BookReading_Desired.stages.read_a_book.description>
+  
+  <!-- EN: read a book -->
+  <VME_BookReading_Disliked.stages.read_a_book.label>阅读书籍</VME_BookReading_Disliked.stages.read_a_book.label>
+  <!-- EN: I hate reading. I was forced to read this book and hated every second of it. -->
+  <VME_BookReading_Disliked.stages.read_a_book.description>呃...我最讨厌阅读了。我被迫读了这本书，每看它一眼都令我烦躁无比。</VME_BookReading_Disliked.stages.read_a_book.description>
+  
+</LanguageData>

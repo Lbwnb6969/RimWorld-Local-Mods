@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hornetkeeping -->
+  <SV_Hornetkeeping.label>大黄蜂养殖</SV_Hornetkeeping.label>
+  <!-- EN: Learn to create specialized apiaries, brew mead out of hornet honey and bottle up deathstingers to spread chaos amongst enemy lines.\n(Medieval Overhaul : Hornetkeeping) -->
+  <SV_Hornetkeeping.description>学习如何利用野生大黄蜂巢穴中捕捉到的死亡毒刺幼虫打造出一座专用蜂箱，并使用大黄蜂蜂蜜酿造蜜酒。您还能将捕捉到的瓶装死亡毒刺砸向敌方阵线散播混乱。</SV_Hornetkeeping.description>
+  <!-- EN:
+    <li>subject->hornetkeeping</li>
+  -->
+  <SV_Hornetkeeping.generalRules.rulesStrings>
+    <li>subject->大黄蜂养殖</li>
+  </SV_Hornetkeeping.generalRules.rulesStrings>
+  
+</LanguageData>

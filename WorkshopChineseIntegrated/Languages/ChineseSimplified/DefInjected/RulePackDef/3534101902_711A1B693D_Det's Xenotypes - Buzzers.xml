@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- <DV_NamerPersonBuzzer.rulePack.rulesStrings.0>r_name(p=3)-&gt;[firstName] '[nicknameBuzzer]' [lastName]</DV_NamerPersonBuzzer.rulePack.rulesStrings.0>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.1>r_name-&gt;[firstName] [lastName]</DV_NamerPersonBuzzer.rulePack.rulesStrings.1>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.2>firstName-&gt;[Syl][Syl]</DV_NamerPersonBuzzer.rulePack.rulesStrings.2>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.3>firstName-&gt;[Syl]</DV_NamerPersonBuzzer.rulePack.rulesStrings.3>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.4>lastName-&gt;[Syl][End]</DV_NamerPersonBuzzer.rulePack.rulesStrings.4> -->
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.5>End-&gt;艾德</DV_NamerPersonBuzzer.rulePack.rulesStrings.5>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.6>End-&gt;艾克</DV_NamerPersonBuzzer.rulePack.rulesStrings.6>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.7>End-&gt;安克</DV_NamerPersonBuzzer.rulePack.rulesStrings.7>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.8>End-&gt;艾什</DV_NamerPersonBuzzer.rulePack.rulesStrings.8>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.9>End-&gt;伊克</DV_NamerPersonBuzzer.rulePack.rulesStrings.9>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.10>End-&gt;也克</DV_NamerPersonBuzzer.rulePack.rulesStrings.10>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.11>End-&gt;恩克</DV_NamerPersonBuzzer.rulePack.rulesStrings.11>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.12>End-&gt;呕</DV_NamerPersonBuzzer.rulePack.rulesStrings.12>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.13>End-&gt;耶斯克</DV_NamerPersonBuzzer.rulePack.rulesStrings.13>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.14>End-&gt;耶西</DV_NamerPersonBuzzer.rulePack.rulesStrings.14>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.15>End-&gt;平斯</DV_NamerPersonBuzzer.rulePack.rulesStrings.15>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.16>End-&gt;伊克</DV_NamerPersonBuzzer.rulePack.rulesStrings.16>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.17>End-&gt;伊皮</DV_NamerPersonBuzzer.rulePack.rulesStrings.17>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.18>End-&gt;伊斯克</DV_NamerPersonBuzzer.rulePack.rulesStrings.18>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.19>End-&gt;伊克斯</DV_NamerPersonBuzzer.rulePack.rulesStrings.19>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.20>End-&gt;伊兹</DV_NamerPersonBuzzer.rulePack.rulesStrings.20>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.21>End-&gt;咔哒</DV_NamerPersonBuzzer.rulePack.rulesStrings.21>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.22>End-&gt;啃</DV_NamerPersonBuzzer.rulePack.rulesStrings.22>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.23>End-&gt;鳞</DV_NamerPersonBuzzer.rulePack.rulesStrings.23>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.24>End-&gt;螨</DV_NamerPersonBuzzer.rulePack.rulesStrings.24>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.25>End-&gt;蠓</DV_NamerPersonBuzzer.rulePack.rulesStrings.25>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.26>End-&gt;尼克</DV_NamerPersonBuzzer.rulePack.rulesStrings.26>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.27>End-&gt;奥克斯</DV_NamerPersonBuzzer.rulePack.rulesStrings.27>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.28>End-&gt;斯克沃</DV_NamerPersonBuzzer.rulePack.rulesStrings.28>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.29>End-&gt;虫</DV_NamerPersonBuzzer.rulePack.rulesStrings.29>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.30>End-&gt;飞</DV_NamerPersonBuzzer.rulePack.rulesStrings.30>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.31>End-&gt;伊</DV_NamerPersonBuzzer.rulePack.rulesStrings.31>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.32>nicknameBuzzer-&gt;巴兹</DV_NamerPersonBuzzer.rulePack.rulesStrings.32>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.33>nicknameBuzzer-&gt;哔兹</DV_NamerPersonBuzzer.rulePack.rulesStrings.33>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.34>nicknameBuzzer-&gt;斯科特</DV_NamerPersonBuzzer.rulePack.rulesStrings.34>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.35>nicknameBuzzer-&gt;斯科茨</DV_NamerPersonBuzzer.rulePack.rulesStrings.35>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.36>nicknameBuzzer-&gt;西特</DV_NamerPersonBuzzer.rulePack.rulesStrings.36>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.37>nicknameBuzzer-&gt;西特尔</DV_NamerPersonBuzzer.rulePack.rulesStrings.37>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.38>nicknameBuzzer-&gt;斯科特尔</DV_NamerPersonBuzzer.rulePack.rulesStrings.38>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.39>nicknameBuzzer-&gt;咔哒</DV_NamerPersonBuzzer.rulePack.rulesStrings.39>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.40>nicknameBuzzer-&gt;吧嗒</DV_NamerPersonBuzzer.rulePack.rulesStrings.40>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.41>nicknameBuzzer-&gt;克拉克</DV_NamerPersonBuzzer.rulePack.rulesStrings.41>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.42>nicknameBuzzer-&gt;克拉西克</DV_NamerPersonBuzzer.rulePack.rulesStrings.42>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.43>nicknameBuzzer-&gt;卡利西克</DV_NamerPersonBuzzer.rulePack.rulesStrings.43>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.44>nicknameBuzzer-&gt;卡利伊克</DV_NamerPersonBuzzer.rulePack.rulesStrings.44>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.45>nicknameBuzzer-&gt;卡拉克</DV_NamerPersonBuzzer.rulePack.rulesStrings.45>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.46>nicknameBuzzer-&gt;卡拉西克</DV_NamerPersonBuzzer.rulePack.rulesStrings.46>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.47>nicknameBuzzer-&gt;平斯</DV_NamerPersonBuzzer.rulePack.rulesStrings.47>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.48>nicknameBuzzer-&gt;平斯尔</DV_NamerPersonBuzzer.rulePack.rulesStrings.48>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.49>nicknameBuzzer-&gt;金龟子</DV_NamerPersonBuzzer.rulePack.rulesStrings.49>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.50>nicknameBuzzer-&gt;蚴</DV_NamerPersonBuzzer.rulePack.rulesStrings.50>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.51>nicknameBuzzer-&gt;蛆</DV_NamerPersonBuzzer.rulePack.rulesStrings.51>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.52>nicknameBuzzer-&gt;网</DV_NamerPersonBuzzer.rulePack.rulesStrings.52>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.53>nicknameBuzzer-&gt;蚁</DV_NamerPersonBuzzer.rulePack.rulesStrings.53>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.54>nicknameBuzzer-&gt;小虫</DV_NamerPersonBuzzer.rulePack.rulesStrings.54>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.55>nicknameBuzzer-&gt;虫</DV_NamerPersonBuzzer.rulePack.rulesStrings.55>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.56>nicknameBuzzer-&gt;虫子</DV_NamerPersonBuzzer.rulePack.rulesStrings.56>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.57>nicknameBuzzer-&gt;昆虫</DV_NamerPersonBuzzer.rulePack.rulesStrings.57>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.58>nicknameBuzzer-&gt;蠕虫</DV_NamerPersonBuzzer.rulePack.rulesStrings.58>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.59>nicknameBuzzer-&gt;飞虫</DV_NamerPersonBuzzer.rulePack.rulesStrings.59>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.60>nicknameBuzzer-&gt;虾</DV_NamerPersonBuzzer.rulePack.rulesStrings.60>
+    <DV_NamerPersonBuzzer.rulePack.rulesStrings.61>nicknameBuzzer-&gt;威库斯</DV_NamerPersonBuzzer.rulePack.rulesStrings.61>
+    <!-- <DV_NamerPersonBuzzer.rulePack.rulesFiles.0>Syl-&gt;WordParts/Syllables_Waster</DV_NamerPersonBuzzer.rulePack.rulesFiles.0> -->
+
+    <!-- <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.0>r_name(p=2)-&gt;[nameCore]</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.0>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.1>r_name-&gt;[nameCore] [buzzer_conglomerate]</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.1>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.2>r_name-&gt;[buzzer_conglomerate] of [nameCore]</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.2>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.3>maybeApostrophe-&gt;''</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.3>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.4>maybeApostrophe(p=3)-&gt;'</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.4>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.5>nameCore-&gt;[SylI][maybeApostrophe][SylI]</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.5>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.6>nameCore-&gt;[SylI][maybeApostrophe][SylI][maybeApostrophe][SylI]</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.6>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.7>nameCore-&gt;[SylI][maybeApostrophe][end]</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.7>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.8>nameCore-&gt;[SylI][maybeApostrophe][SylI][maybeApostrophe][end]</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.8> -->
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.9>end-&gt;奇卡</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.9>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.10>end-&gt;奇拉克</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.10>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.11>end-&gt;西里克</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.11>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.12>end-&gt;奇拉卡</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.12>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.13>end-&gt;奇特</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.13>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.14>end-&gt;奎伊克</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.14>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.15>end-&gt;奎艾克</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.15>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.16>end-&gt;西拉克</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.16>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.17>end-&gt;西伊特</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.17>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.18>end-&gt;斯奇特</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.18>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.19>end-&gt;斯克尔特</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.19>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.20>buzzer_conglomerate-&gt;虫群</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.20>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.21>buzzer_conglomerate-&gt;集群</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.21>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.22>buzzer_conglomerate-&gt;云</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.22>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.23>buzzer_conglomerate-&gt;入侵</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.23>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.24>buzzer_conglomerate-&gt;虫巢</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.24>
+    <DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.25>buzzer_conglomerate-&gt;群袭</DV_NamerFactionOutlanderBuzzer.rulePack.rulesStrings.25>
+    <!-- <DV_NamerFactionOutlanderBuzzer.rulePack.rulesFiles.0>SylI-&gt;WordParts/Syllables_Impid</DV_NamerFactionOutlanderBuzzer.rulePack.rulesFiles.0> -->
+
+    <!-- <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.0>r_name-&gt;[townname_wordgen]</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.0>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.1>maybeApostrophe-&gt;''</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.1>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.2>maybeApostrophe(p=3)-&gt;'</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.2>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.3>townname_wordgen-&gt;[SylI][maybeApostrophe][SylI]</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.3>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.4>townname_wordgen-&gt;[SylI][maybeApostrophe][SylI][maybeApostrophe][SylI]</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.4>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.5>townname_wordgen-&gt;[SylI][maybeApostrophe][townend]</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.5>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.6>townname_wordgen-&gt;[SylI][maybeApostrophe][SylI][maybeApostrophe][townend]</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.6> -->
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.7>townend-&gt;斯奇</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.7>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.8>townend-&gt;奇奥克</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.8>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.9>townend-&gt;布鲁格</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.9>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.10>townend-&gt;敲击</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.10>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.11>townend-&gt;克拉克</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.11>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.12>townend-&gt;奇茨</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.12>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.13>townend-&gt;斯科利特</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.13>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.14>townend-&gt;斯科伊特</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.14>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.15>townend-&gt;伊克</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.15>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.16>townend-&gt;阿克</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.16>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.17>townend-&gt;卡勒卡克</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.17>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.18>townend-&gt;奇西克</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.18>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.19>townend-&gt;克利克</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.19>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.20>townend-&gt;费克</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.20>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.21>townend-&gt;提克</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.21>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.22>townend-&gt;迪尔</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.22>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.23>townend-&gt;费尔</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.23>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.24>townend-&gt;么尔</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.24>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.25>townend-&gt;烫伤</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.25>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.26>townend-&gt;塔姆古</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.26>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.27>townend-&gt;尔格吉</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.27>
+    <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.28>townend-&gt;虫</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesStrings.28>
+    <!-- <DV_NamerSettlementOutlanderBuzzer.rulePack.rulesFiles.0>SylI-&gt;WordParts/Syllables_Impid</DV_NamerSettlementOutlanderBuzzer.rulePack.rulesFiles.0> -->
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high -->
+  <VME_Expectations_High.label>高</VME_Expectations_High.label>
+  <!-- EN: Our people are creatures of comfort, even the commoners among us deserve to relax or be pampered from time to time.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Expectations increased by 1 for everyone in the colony. -->
+  <VME_Expectations_High.description>我们是享受舒适的生物，即便是普通人也应该时不时地放松娱乐一下。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 殖民者的期望值+1。</VME_Expectations_High.description>
+  
+  <!-- EN: low -->
+  <VME_Expectations_Low.label>低</VME_Expectations_Low.label>
+  <!-- EN: The Rim is an inhospitable place. We shouldn't expect a comfy live.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Expectations lowered by 1 for everyone in the colony. -->
+  <VME_Expectations_Low.description>边缘世界可不是什么豪华酒店。我们不该指望能在这过的有多舒服。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 殖民者的期望值-1。</VME_Expectations_Low.description>
+  
+</LanguageData>

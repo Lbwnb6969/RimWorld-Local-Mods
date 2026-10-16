@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic exhaustion -->
+  <BEWH_PsychicCrafting.label>精神力耗尽</BEWH_PsychicCrafting.label>
+  <!-- EN: This pawn is exhausted by all the psychic energy needed to craft gene matrices. -->
+  <BEWH_PsychicCrafting.description>为了制作基因矩阵，此人精神力已完全耗尽。</BEWH_PsychicCrafting.description>
+  <!-- EN: psychic exhaustion -->
+  <BEWH_PsychicCrafting.labelNoun>精神力耗尽</BEWH_PsychicCrafting.labelNoun>
+  
+  <!-- EN: wings -->
+  <BEWH_WingsHover.label>翅膀</BEWH_WingsHover.label>
+  <!-- EN: A set of wings growing from this character's shoulderblades. They are capable of flight and will not be slowed down by any obstacles. -->
+  <BEWH_WingsHover.description>此人的肩胛骨上长出了一对翅膀。他能借助翅膀飞行，并且不会因障碍物而减速。</BEWH_WingsHover.description>
+  
+</LanguageData>

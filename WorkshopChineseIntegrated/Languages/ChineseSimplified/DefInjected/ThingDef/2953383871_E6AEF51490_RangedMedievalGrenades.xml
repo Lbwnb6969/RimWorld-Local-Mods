@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crossbows -->
+
+  <DankPyon_Weapon_PotFire.label>燃烧罐</DankPyon_Weapon_PotFire.label>
+  <DankPyon_Weapon_PotFire.description>一个装有易燃液体的陶罐，旨在点燃一片区域。</DankPyon_Weapon_PotFire.description>
+  <DankPyon_Weapon_PotFire.verbs.0.label>投掷燃烧罐</DankPyon_Weapon_PotFire.verbs.0.label>
+
+  <DankPyon_Proj_PotFire.label>燃烧罐</DankPyon_Proj_PotFire.label>
+
+
+  <!-- Flash Pot -->
+
+  <DankPyon_Weapon_PotFlash.label>闪光罐</DankPyon_Weapon_PotFlash.label>
+  <DankPyon_Weapon_PotFlash.description>一个爆炸性的陶罐，旨在通过明亮的闪光和响亮的尖锐噪音使受害者迷失方向。</DankPyon_Weapon_PotFlash.description>
+  <DankPyon_Weapon_PotFlash.verbs.0.label>投掷闪光罐</DankPyon_Weapon_PotFlash.verbs.0.label>
+
+  <DankPyon_Proj_PotFlash.label>闪光罐</DankPyon_Proj_PotFlash.label>
+
+
+  <!-- Smoke Pot -->
+
+  <DankPyon_Weapon_PotFlashSmoke.label>烟雾罐</DankPyon_Weapon_PotFlashSmoke.label>
+  <DankPyon_Weapon_PotFlashSmoke.description>一个爆炸性的陶罐，旨在创造一片烟幕，以提供视线上的掩护。</DankPyon_Weapon_PotFlashSmoke.description>
+  <DankPyon_Weapon_PotFlashSmoke.verbs.0.label>投掷烟雾罐</DankPyon_Weapon_PotFlashSmoke.verbs.0.label>
+
+  <DankPyon_Proj_PotSmoke.label>烟雾罐</DankPyon_Proj_PotSmoke.label>
+
+  <!-- Acid Flask -->
+
+  <DankPyon_Weapon_AcidFlask.label>强酸罐</DankPyon_Weapon_AcidFlask.label>
+  <DankPyon_Weapon_AcidFlask.description>一个装有林德虫血液的陶罐，旨在撞击破裂时喷溅出腐蚀性的酸液。</DankPyon_Weapon_AcidFlask.description>
+  <DankPyon_Weapon_AcidFlask.verbs.0.label>投掷强酸罐</DankPyon_Weapon_AcidFlask.verbs.0.label>
+
+  <DankPyon_Proj_AcidFlask.label>强酸罐</DankPyon_Proj_AcidFlask.label>
+
+</LanguageData>

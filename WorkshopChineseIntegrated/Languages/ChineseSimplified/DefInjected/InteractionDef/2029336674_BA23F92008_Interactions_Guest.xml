@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charm attempt -->
+  <CharmGuestAttempt.label>尝试招募</CharmGuestAttempt.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [saidwords] [RECIPIENT_nameDef]. -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef][saidwords][RECIPIENT_nameDef]。</CharmGuestAttempt.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about all the [ConceptPositive] at [INITIATOR_factionName]. -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]告诉[RECIPIENT_nameDef]关于[INITIATOR_factionName]的所有[ConceptPositive]。</CharmGuestAttempt.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [adjwords] things about another colonists. -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]告诉[RECIPIENT_nameDef]一件关于其他殖民者的[adjwords]往事。</CharmGuestAttempt.logRulesInitiator.rulesStrings.2>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] introduced [RECIPIENT_nameDef] to another colonist. -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef]将[RECIPIENT_nameDef]介绍给其他殖民者。</CharmGuestAttempt.logRulesInitiator.rulesStrings.3>
+  <!-- EN: saidwords->said [adjwords] words to -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.4>saidwords->说了句[adjwords]话给</CharmGuestAttempt.logRulesInitiator.rulesStrings.4>
+  <!-- EN: saidwords->expressed [ConceptPositive] towards -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.5>saidwords->传达了[ConceptPositive]信号</CharmGuestAttempt.logRulesInitiator.rulesStrings.5>
+  <!-- EN: saidwords->made [adjwords] gestures towards -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.6>saidwords->做了个[adjwords]手势给</CharmGuestAttempt.logRulesInitiator.rulesStrings.6>
+  <!-- EN: adjwords->intriguing -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.7>adjwords->有趣的</CharmGuestAttempt.logRulesInitiator.rulesStrings.7>
+  <!-- EN: adjwords->kind -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.8>adjwords->友善的</CharmGuestAttempt.logRulesInitiator.rulesStrings.8>
+  <!-- EN: adjwords->inviting -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.9>adjwords->好客的</CharmGuestAttempt.logRulesInitiator.rulesStrings.9>
+  <!-- EN: adjwords->friendly -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.10>adjwords->友好的</CharmGuestAttempt.logRulesInitiator.rulesStrings.10>
+  <!-- EN: adjwords->charming -->
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.11>adjwords->迷人的</CharmGuestAttempt.logRulesInitiator.rulesStrings.11>
+  
+  <!-- EN: improve relationship -->
+  <GuestDiplomacy.label>改善关系</GuestDiplomacy.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] made diplomatic conversation with [RECIPIENT_nameDef] about [TalkTopicLight]. -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]就[TalkTopicLight]问题与[RECIPIENT_nameDef]交换了意见。</GuestDiplomacy.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] discussed the political relevance of [subject] with [RECIPIENT_nameDef]. -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef与[RECIPIENT_nameDef]严肃地讨论了[subject]的政治意义。</GuestDiplomacy.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic]. -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef][complimented][RECIPIENT_nameDef]的[PersonalCharacteristic]。</GuestDiplomacy.logRulesInitiator.rulesStrings.2>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s faction. -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef][complimented][RECIPIENT_nameDef]的派系。</GuestDiplomacy.logRulesInitiator.rulesStrings.3>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [complimented] the relationship with [RECIPIENT_factionName]. -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef][complimented]与[RECIPIENT_factionName]派系的关系。</GuestDiplomacy.logRulesInitiator.rulesStrings.4>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] gave regards to [RECIPIENT_nameDef]'s [PersonFamily]. -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef]的[PersonFamily]表示问候。</GuestDiplomacy.logRulesInitiator.rulesStrings.5>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] tried to bond with [RECIPIENT_nameDef] about their shared [opinion]. -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef]尝试与[RECIPIENT_nameDef]交换关于[opinion]看法。</GuestDiplomacy.logRulesInitiator.rulesStrings.6>
+  <!-- EN: opinion->support of [ConceptPositive] -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.7>opinion->支持[ConceptPositive]</GuestDiplomacy.logRulesInitiator.rulesStrings.7>
+  <!-- EN: opinion->disgust for [ConceptNegative] -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.8>opinion->厌恶[ConceptNegative]</GuestDiplomacy.logRulesInitiator.rulesStrings.8>
+  <!-- EN: opinion->fear of [ConceptNegative] -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.9>opinion->害怕[ConceptNegative]</GuestDiplomacy.logRulesInitiator.rulesStrings.9>
+  <!-- EN: opinion->opinion about [ConceptAny] -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.10>opinion->对[ConceptAny]的意见</GuestDiplomacy.logRulesInitiator.rulesStrings.10>
+  <!-- EN: opinion->longing for [ConceptPositive] -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.11>opinion->向往[ConceptPositive]</GuestDiplomacy.logRulesInitiator.rulesStrings.11>
+  <!-- EN: complimented->praised -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.12>complimented->称赞</GuestDiplomacy.logRulesInitiator.rulesStrings.12>
+  <!-- EN: complimented->commended -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.13>complimented->赞许</GuestDiplomacy.logRulesInitiator.rulesStrings.13>
+  <!-- EN: complimented->lauded -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.14>complimented->赞美</GuestDiplomacy.logRulesInitiator.rulesStrings.14>
+  <!-- EN: complimented->applauded -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.15>complimented->喝采</GuestDiplomacy.logRulesInitiator.rulesStrings.15>
+  <!-- EN: complimented->celebrated -->
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.16>complimented->赞扬</GuestDiplomacy.logRulesInitiator.rulesStrings.16>
+  
+  <!-- EN: scrounge food -->
+  <ScroungeFoodAttempt.label>乞讨食物</ScroungeFoodAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] begged [RECIPIENT_nameDef] for some food.</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for something to eat.</li>
+    <li>r_logentry->[INITIATOR_nameDef] stared at [RECIPIENT_nameDef]'s food longingly.</li>
+  -->
+  <ScroungeFoodAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef]乞求一些食物。</li>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef]讨一口吃的。</li>
+    <li>r_logentry->[INITIATOR_nameDef]渴望地盯着[RECIPIENT_nameDef]的食物。</li>
+  </ScroungeFoodAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

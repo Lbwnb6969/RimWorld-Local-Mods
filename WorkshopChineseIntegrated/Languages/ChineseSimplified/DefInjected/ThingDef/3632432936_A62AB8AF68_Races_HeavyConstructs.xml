@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sentinel (melee) -->
+  <VR_Construct_Centurion.label>百机长（近战）</VR_Construct_Centurion.label>
+  <!-- EN: A larger combat mech designed as a shock trooper. They are known to extremely dangerous for even the most well equipped adventurer. -->
+  <VR_Construct_Centurion.description>一种更大型的战斗机甲，作为突击兵而设计。即便是装备精良的冒险者也觉得它极其危险。</VR_Construct_Centurion.description>
+  <!-- EN: head -->
+  <VR_Construct_Centurion.tools.head.label>头部</VR_Construct_Centurion.tools.head.label>
+  
+  <!-- EN: sentinel (burner) -->
+  <VR_Construct_Centurion_Burner.label>百机长（火焰）</VR_Construct_Centurion_Burner.label>
+  <!-- EN: A larger combat mech designed as a shock trooper. They are known to extremely dangerous for even the most well equipped adventurer. -->
+  <VR_Construct_Centurion_Burner.description>一种更大型的战斗机甲，作为突击兵而设计。即便是装备精良的冒险者也觉得它极其危险。</VR_Construct_Centurion_Burner.description>
+  <!-- EN: head -->
+  <VR_Construct_Centurion_Burner.tools.head.label>头部</VR_Construct_Centurion_Burner.tools.head.label>
+  
+  <!-- EN: sentinel (melee) -->
+  <VR_Construct_Centurion_Hammer.label>百机长（战锤）</VR_Construct_Centurion_Hammer.label>
+  <!-- EN: A larger combat mech designed as a shock trooper. They are known to extremely dangerous for even the most well equipped adventurer. -->
+  <VR_Construct_Centurion_Hammer.description>一种更大型的战斗机甲，作为突击兵而设计。即便是装备精良的冒险者也觉得它极其危险。</VR_Construct_Centurion_Hammer.description>
+  <!-- EN: head -->
+  <VR_Construct_Centurion_Hammer.tools.head.label>头部</VR_Construct_Centurion_Hammer.tools.head.label>
+  
+  <!-- EN: sentinel (ranged) -->
+  <VR_Construct_Centurion_Shooter.label>百机长（远程）</VR_Construct_Centurion_Shooter.label>
+  <!-- EN: A larger combat mech designed as a shock trooper. They are known to extremely dangerous for even the most well equipped adventurer. -->
+  <VR_Construct_Centurion_Shooter.description>一种更大型的战斗机甲，作为突击兵而设计。即便是装备精良的冒险者也觉得它极其危险。</VR_Construct_Centurion_Shooter.description>
+  <!-- EN: head -->
+  <VR_Construct_Centurion_Shooter.tools.head.label>头部</VR_Construct_Centurion_Shooter.tools.head.label>
+  
+  <!-- EN: sentinel (melee) -->
+  <VR_Construct_Centurion_StakeDriver.label>百机长（桩钉炮）</VR_Construct_Centurion_StakeDriver.label>
+  <!-- EN: A larger combat mech designed as a shock trooper. They are known to extremely dangerous for even the most well equipped adventurer. -->
+  <VR_Construct_Centurion_StakeDriver.description>一种更大型的战斗机甲，作为突击兵而设计。即便是装备精良的冒险者也觉得它极其危险。</VR_Construct_Centurion_StakeDriver.description>
+  <!-- EN: head -->
+  <VR_Construct_Centurion_StakeDriver.tools.head.label>头部</VR_Construct_Centurion_StakeDriver.tools.head.label>
+  
+  <!-- EN: sentinel (melee) -->
+  <VR_Construct_Centurion_Sword.label>百机长（剑）</VR_Construct_Centurion_Sword.label>
+  <!-- EN: A larger combat mech designed as a shock trooper. They are known to extremely dangerous for even the most well equipped adventurer. -->
+  <VR_Construct_Centurion_Sword.description>一种更大型的战斗机甲，作为突击兵而设计。即便是装备精良的冒险者也觉得它极其危险。</VR_Construct_Centurion_Sword.description>
+  <!-- EN: head -->
+  <VR_Construct_Centurion_Sword.tools.head.label>头部</VR_Construct_Centurion_Sword.tools.head.label>
+  
+</LanguageData>

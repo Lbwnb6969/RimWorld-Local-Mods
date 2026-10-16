@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: assassinating TargetA. -->
+  <RimFeast_AssassinateJob.reportString>刺杀TargetA。</RimFeast_AssassinateJob.reportString>
+  
+  <!-- EN: feasting at the table. -->
+  <RimFeast_SitAtFeastJob.reportString>在桌旁赴宴。</RimFeast_SitAtFeastJob.reportString>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: occultist -->
+  <AM_OcularFuneralBehavior.roles.0.label>术士</AM_OcularFuneralBehavior.roles.0.label>
+  <!-- EN: Corpse -->
+  <AM_OcularFuneralBehavior.roles.1.label>尸体</AM_OcularFuneralBehavior.roles.1.label>
+  <!-- EN: Spectators must be alive. -->
+  <AM_OcularFuneralBehavior.spectatorFilter.description>观众必须为活着的殖民者。</AM_OcularFuneralBehavior.spectatorFilter.description>
+  
+</LanguageData>

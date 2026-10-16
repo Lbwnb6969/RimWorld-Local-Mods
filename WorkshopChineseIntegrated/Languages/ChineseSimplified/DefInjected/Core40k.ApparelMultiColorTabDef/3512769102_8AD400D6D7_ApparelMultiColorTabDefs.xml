@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Extra Decoration -->
+  <BEWH_ExtraDecoration.label>额外装饰</BEWH_ExtraDecoration.label>
+  <!-- EN: Extra deocration for armor. -->
+  <BEWH_ExtraDecoration.description>盔甲的额外装饰。</BEWH_ExtraDecoration.description>
+  
+</LanguageData>

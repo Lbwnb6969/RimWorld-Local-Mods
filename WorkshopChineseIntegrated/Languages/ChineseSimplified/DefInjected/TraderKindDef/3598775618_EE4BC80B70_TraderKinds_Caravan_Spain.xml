@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New World trader -->
+  <BA_Portugal_NewWorld_Trader.label>新大陆商人</BA_Portugal_NewWorld_Trader.label>
+  
+  <!-- EN: bulk goods trader -->
+  <BA_Portugal_Trader.label>大宗商品商人</BA_Portugal_Trader.label>
+  
+  <!-- EN: New World trader -->
+  <BA_Spain_NewWorld_Trader.label>新大陆商人</BA_Spain_NewWorld_Trader.label>
+  
+  <!-- EN: bulk goods trader -->
+  <BA_Spain_Trader.label>大宗商品商人</BA_Spain_Trader.label>
+  
+</LanguageData>

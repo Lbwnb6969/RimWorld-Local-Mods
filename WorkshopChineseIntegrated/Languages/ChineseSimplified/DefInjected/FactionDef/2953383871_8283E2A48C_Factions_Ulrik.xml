@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_UlrikFaction.label>烏里克騎士團</DankPyon_UlrikFaction.label>
+  <DankPyon_UlrikFaction.description>掠奪者和強盜，法律對他們來說毫無意義。經常會遇到掠奪者懷著惡意侵占附近的定居點。</DankPyon_UlrikFaction.description>
+  <DankPyon_UlrikFaction.pawnSingular>烏里克騎士團</DankPyon_UlrikFaction.pawnSingular>
+  <DankPyon_UlrikFaction.pawnsPlural>烏里克騎士團</DankPyon_UlrikFaction.pawnsPlural>
+  <DankPyon_UlrikFaction.leaderTitle>大團長</DankPyon_UlrikFaction.leaderTitle>
+  <DankPyon_UlrikFaction.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_UlrikFaction.messageDefendersAttacking>
+
+
+
+</LanguageData>

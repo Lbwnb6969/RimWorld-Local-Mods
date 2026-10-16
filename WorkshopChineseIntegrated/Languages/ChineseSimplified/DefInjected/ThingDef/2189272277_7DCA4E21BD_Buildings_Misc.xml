@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barber's table -->
+  <VHE_TableBarber.label>理发桌</VHE_TableBarber.label>
+  <!-- EN: A table equipped with various tools suited for restyling hair and beards. -->
+  <VHE_TableBarber.description>配有各种工具的桌子，可以给头发和胡须重新塑性。</VHE_TableBarber.description>
+  
+</LanguageData>

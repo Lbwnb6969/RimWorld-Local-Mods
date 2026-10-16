@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: <color=#e0115f>Talent: Herald</color> -->
+  <RT_TalentHerald.degreeDatas.colore0115fTalent_Heraldcolor.label>&lt;color=#e0115f>使者&lt;/color></RT_TalentHerald.degreeDatas.colore0115fTalent_Heraldcolor.label>
+  <!-- EN: A tongue as sharp as a blade with a sword arm to match, [PAWN_nameDef] represents [PAWN_possessive] faction's best interest and will gladly defend its name. -->
+  <RT_TalentHerald.degreeDatas.colore0115fTalent_Heraldcolor.description>舌尖如刀，剑臂如虹，[PAWN_nameDef]代表[PAWN_possessive]派系的最大利益，并乐意捍卫其名字。</RT_TalentHerald.degreeDatas.colore0115fTalent_Heraldcolor.description>
+  
+  <!-- EN: <color=#e0115f>Talent: Hero</color> -->
+  <RT_TalentHero.degreeDatas.colore0115fTalent_Herocolor.label>&lt;color=#e0115f>英雄&lt;/color></RT_TalentHero.degreeDatas.colore0115fTalent_Herocolor.label>
+  <!-- EN: As long as [PAWN_nameDef] still draws breath, there isn't one threat that the colony can't overcome! -->
+  <RT_TalentHero.degreeDatas.colore0115fTalent_Herocolor.description>只要[PAWN_nameDef]还活着，殖民地就不会遭受苦难!</RT_TalentHero.degreeDatas.colore0115fTalent_Herocolor.description>
+  
+</LanguageData>

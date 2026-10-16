@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: yatagan -->
+  <TA_Yatagan.label>土耳其弯刀</TA_Yatagan.label>
+  <!-- EN: . -->
+  <TA_Yatagan.description>奥斯曼帝国特色的弯刀，刀身无护手，适合劈砍。</TA_Yatagan.description>
+  <!-- EN: handle -->
+  <TA_Yatagan.tools.handle.label>刀柄</TA_Yatagan.tools.handle.label>
+  <!-- EN: point -->
+  <TA_Yatagan.tools.point.label>刀尖</TA_Yatagan.tools.point.label>
+  <!-- EN: edge -->
+  <TA_Yatagan.tools.edge.label>刀刃</TA_Yatagan.tools.edge.label>
+  
+</LanguageData>

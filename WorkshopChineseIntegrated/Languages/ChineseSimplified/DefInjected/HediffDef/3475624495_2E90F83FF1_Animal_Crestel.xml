@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Petrified -->
+  <DA_Petrify.label>僵直</DA_Petrify.label>
+  <!-- EN: Paralyzed by a powerful venom. -->
+  <DA_Petrify.description>被一种强力毒素致瘫。</DA_Petrify.description>
+  <!-- EN: slowed -->
+  <DA_Petrify.stages.slowed.label>缓慢</DA_Petrify.stages.slowed.label>
+  <!-- EN: petrified -->
+  <DA_Petrify.stages.petrified.label>僵直</DA_Petrify.stages.petrified.label>
+  
+</LanguageData>

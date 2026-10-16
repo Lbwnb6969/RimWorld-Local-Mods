@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corn bread -->
+  <TavCornBread.label>玉米面包</TavCornBread.label>
+  <!-- EN: Freshly baked corn bread. Warm, crumbly, and slightly sweet. A staple of rustic kitchens. -->
+  <TavCornBread.description>新鲜出炉的玉米面包。它既温热又酥脆，尝起来还略带甜味，是乡野厨房中常见的主食。</TavCornBread.description>
+  
+  <!-- EN: corn dough -->
+  <TavCornDough.label>玉米面团</TavCornDough.label>
+  <!-- EN: Raw corn dough. Edible but unpleasant to eat raw. Best used for baking bread and buns. -->
+  <TavCornDough.description>生的玉米面团。生吃味道很差，最好将其焙烤成面包或米饼。</TavCornDough.description>
+  
+  <!-- EN: corn mush -->
+  <TavCornMush.label>玉米面粥</TavCornMush.label>
+  <!-- EN: A warm and filling porridge made from ground corn. Simple comfort food for any tavern. -->
+  <TavCornMush.description>用研磨的玉米面制成的温热浓粥。这种做法简单却又暖心的食物能在任何酒馆中享用到。</TavCornMush.description>
+  
+  <!-- EN: rice and meat -->
+  <TavMeatRice.label>炖肉饭</TavMeatRice.label>
+  <!-- EN: A hearty dish of cooked meat mixed with fluffy rice. Simple, filling, and satisfying. -->
+  <TavMeatRice.description>用炖熟的肉类和松软的米饭混合制成的丰盛佳肴。它做法简单但非常管饱，是一种令人满足的食物。</TavMeatRice.description>
+  
+  <!-- EN: rice buns -->
+  <TavRiceBuns.label>米饼</TavRiceBuns.label>
+  <!-- EN: Soft and fluffy baked buns made from corn flour. Light, filling, and easy to enjoy. -->
+  <TavRiceBuns.description>用研磨的玉米面和稻米制成的松软米饼。它个头不大但非常管饱，是一种便于享用的食物。</TavRiceBuns.description>
+  
+</LanguageData>

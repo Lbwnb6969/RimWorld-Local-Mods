@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Tent Floor -->
+  <CATentFloor.label>帐篷地板</CATentFloor.label>
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
+  <CATentFloor.description>实用廉价的混凝土帐篷地砖。看起来很一般，而且铺设速度较慢。</CATentFloor.description>
+  
+</LanguageData>

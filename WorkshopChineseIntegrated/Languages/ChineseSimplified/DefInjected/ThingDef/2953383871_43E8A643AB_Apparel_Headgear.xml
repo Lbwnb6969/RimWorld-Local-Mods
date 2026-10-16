@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AMT_Headgear_Chaperon.label>夏普伦长管帽</AMT_Headgear_Chaperon.label>
+  <AMT_Headgear_Chaperon.description>帽子的一种形式，用途广泛，但主要能保护头部不受天气影响。</AMT_Headgear_Chaperon.description>
+
+  <AMT_Headgear_ForesterHat.label>护林员帽</AMT_Headgear_ForesterHat.label>
+  <AMT_Headgear_ForesterHat.description>一顶简单的帽子，上面绣着护林员的显着标志。</AMT_Headgear_ForesterHat.description>
+
+  <AMT_Headgear_ForesterHatF.label>护林员羽毛帽</AMT_Headgear_ForesterHatF.label>
+  <AMT_Headgear_ForesterHatF.description>一顶有羽毛的帽子，上面绣着护林员的显着标志。</AMT_Headgear_ForesterHatF.description>
+
+  <Df_Headgear_MerchantHat.label>商人帽</Df_Headgear_MerchantHat.label>
+  <Df_Headgear_MerchantHat.description>一种厚重的、带装饰的帽子。由于它的大小和形状，多少能提供一些保护作用，但主要是作为装饰和身份象征来佩戴。</Df_Headgear_MerchantHat.description>
+
+  <AMT_Headgear_Cap.label>无边软帽</AMT_Headgear_Cap.label>
+  <AMT_Headgear_Cap.description>一顶温暖的帽子，在寒冷的季节能帮助保暖。</AMT_Headgear_Cap.description>
+
+  <AMT_Headgear_PiousCap.label>神职帽</AMT_Headgear_PiousCap.label>
+  <AMT_Headgear_PiousCap.description>一种厚重的装饰性帽子。由于它的大小和形状，多少能提供一些保护作用，但主要是作为信仰和地位象征来佩戴。</AMT_Headgear_PiousCap.description>
+
+
+</LanguageData>

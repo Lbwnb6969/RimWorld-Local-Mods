@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <VME_TaintedApparel_Abhorrent.label>厌恶</VME_TaintedApparel_Abhorrent.label>
+  <!-- EN: There can be nothing more disgusting in this world than wearing the clothing used by a dead person. -->
+  <VME_TaintedApparel_Abhorrent.description>世上可没有比穿死人的衣服更令人作呕的事了。</VME_TaintedApparel_Abhorrent.description>
+  
+  <!-- EN: disapproved -->
+  <VME_TaintedApparel_Disapproved.label>反感</VME_TaintedApparel_Disapproved.label>
+  <!-- EN: Wearing a dead person's apparel is quite disgusting. -->
+  <VME_TaintedApparel_Disapproved.description>穿着死人的衣服令人有些恶心。</VME_TaintedApparel_Disapproved.description>
+  
+  <!-- EN: don't care -->
+  <VME_TaintedApparel_DontCare.label>漠视</VME_TaintedApparel_DontCare.label>
+  <!-- EN: Clothing soaked in blood or bits shouldn’t dissuade one from covering themselves and making use of what would otherwise be worn away by time. -->
+  <VME_TaintedApparel_DontCare.description>即便是被血浸透的衣服也能用来蔽体，我们要充分利用这些会随时间而磨损的东西。</VME_TaintedApparel_DontCare.description>
+  
+</LanguageData>

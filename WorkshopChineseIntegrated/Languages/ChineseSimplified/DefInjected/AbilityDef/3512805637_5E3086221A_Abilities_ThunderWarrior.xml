@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: immortal will -->
+  <BEWH_PrimarchImmortality.label>不朽意志</BEWH_PrimarchImmortality.label>
+  <!-- EN: By sheer force of will, the Primarch is able to withstand any and all attacks for a short time. -->
+  <BEWH_PrimarchImmortality.description>凭借强大的意志力，原体能够在短时间内承受任何攻击。</BEWH_PrimarchImmortality.description>
+  
+  <!-- EN: shooting frenzy -->
+  <BEWH_RangedThunderBoost.label>射击狂热</BEWH_RangedThunderBoost.label>
+  <!-- EN: The Stormtrooper is able to enter a shooting frenzy, massively increasing their their firepower at the cost of reduced accuracy. -->
+  <BEWH_RangedThunderBoost.description>风暴兵进入射击狂热状态，大幅提升其火力，但会降低精准度。</BEWH_RangedThunderBoost.description>
+  
+  <!-- EN: resurrecting shock -->
+  <BEWH_ResurrectingShock.label>复活除颤</BEWH_ResurrectingShock.label>
+  <!-- EN: Applies a quick shock that energizes the still active restorative fluids of the Vigoranis, effectively jump-starting the pawn back to life. Resurrection beyond the second hour of death may result in brain damage. -->
+  <BEWH_ResurrectingShock.description>施加电击，激活雷霆战士体内仍然活跃的修复液，有效地拯救他们的生命。复活死亡两小时以上的角色可能会造成其脑损伤。</BEWH_ResurrectingShock.description>
+
+  <!-- EN: staple wounds -->
+  <BEWH_SearWounds.label>缝合伤口</BEWH_SearWounds.label>
+  <!-- EN: Roughly staple the wounds of an ally, stopping all bleeding instantly, but causing additional damage in the process. -->
+  <BEWH_SearWounds.description>用订书钉粗略地缝合盟友的伤口，能够立即止血，但在此过程中会造成额外伤害。</BEWH_SearWounds.description>
+  
+</LanguageData>

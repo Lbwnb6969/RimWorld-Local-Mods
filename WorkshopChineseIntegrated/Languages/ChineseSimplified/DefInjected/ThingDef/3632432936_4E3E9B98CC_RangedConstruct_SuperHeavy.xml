@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy bow gun -->
+  <VR_ConstructGun_HeavyBowGun.label>重弓炮</VR_ConstructGun_HeavyBowGun.label>
+  <!-- EN: A steam-charged amalgmation of crossbow and siege device. -->
+  <VR_ConstructGun_HeavyBowGun.description>一种蒸汽蓄能的弩与攻城器械混合体，可越墙发射爆炸弹。</VR_ConstructGun_HeavyBowGun.description>
+  <!-- EN: barrel -->
+  <VR_ConstructGun_HeavyBowGun.tools.barrel.label>炮管</VR_ConstructGun_HeavyBowGun.tools.barrel.label>
+  <!-- EN: heavy bow gun -->
+  <VR_ConstructGun_HeavyBowGun.verbs.Verb_Shoot.label>重弓炮</VR_ConstructGun_HeavyBowGun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: tonal incinerator -->
+  <VR_ConstructGun_TonalIncinerator.label>调音焚灭器</VR_ConstructGun_TonalIncinerator.label>
+  <!-- EN: A ancient device that emits a sweeping ray that destructively detonates ambient magika. -->
+  <VR_ConstructGun_TonalIncinerator.description>一种古老装置，可释放扫掠射线并破坏性引爆周围魔能。</VR_ConstructGun_TonalIncinerator.description>
+  <!-- EN: barrel -->
+  <VR_ConstructGun_TonalIncinerator.tools.barrel.label>炮管</VR_ConstructGun_TonalIncinerator.tools.barrel.label>
+  <!-- EN: tonal incinerator -->
+  <VR_ConstructGun_TonalIncinerator.verbs.Verb_ColossusRay.label>调音焚灭器</VR_ConstructGun_TonalIncinerator.verbs.Verb_ColossusRay.label>
+  
+  <!-- UNUSED -->
+  <VR_ConstructGun_TonalIncinerator.tools.barrel-1.label>炮管</VR_ConstructGun_TonalIncinerator.tools.barrel-1.label>
+  
+</LanguageData>

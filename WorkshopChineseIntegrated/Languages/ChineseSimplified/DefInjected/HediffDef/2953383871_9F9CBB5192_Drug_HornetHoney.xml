@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_HornetHoneyHigh.label>大黄蜂蜂蜜亢奋</DankPyon_HornetHoneyHigh.label>
+  <DankPyon_HornetHoneyHigh.description>大黄蜂蜂蜜在血中奔腾，它可以增强与战斗相关的能力，心灵能力者服用后能直接增加精神力而不需冥想。</DankPyon_HornetHoneyHigh.description>
+  <DankPyon_HornetHoneyHigh.labelNoun>大黄蜂蜂蜜亢奋</DankPyon_HornetHoneyHigh.labelNoun>
+
+
+  <!-- Hornet honey addiction -->
+
+  <DankPyon_HornetHoneyAddiction.label>大黄蜂蜂蜜成瘾</DankPyon_HornetHoneyAddiction.label>
+  <DankPyon_HornetHoneyAddiction.description>大黄蜂蜂蜜的化学成瘾。长期饮用大黄蜂蜂蜜会造成细胞内的神经适应，导致大脑没有大黄蜂蜂蜜的话就无法运作。\n如果没有定期饮用大黄蜂蜂蜜，戒断反应就会开始。然而，长时间的戒断会迫使身体恢复正常的血液过滤和生成，代谢掉受污染的血液。</DankPyon_HornetHoneyAddiction.description>
+  <DankPyon_HornetHoneyAddiction.stages.1.label>戒断</DankPyon_HornetHoneyAddiction.stages.1.label>
+
+  <DankPyon_HornetHoneyTolerance.label>大黄蜂蜂蜜耐受</DankPyon_HornetHoneyTolerance.label>
+  <DankPyon_HornetHoneyTolerance.description>对大黄蜂蜂蜜的耐受性。耐受性越严重，达到同样效果所需要摄入的大黄蜂蜂蜜也就越多。</DankPyon_HornetHoneyTolerance.description>
+  <DankPyon_HornetHoneyTolerance.stages.small.label>轻微</DankPyon_HornetHoneyTolerance.stages.small.label>
+  <DankPyon_HornetHoneyTolerance.stages.large.label>强烈</DankPyon_HornetHoneyTolerance.stages.large.label>
+  <DankPyon_HornetHoneyTolerance.stages.massive.label>极强</DankPyon_HornetHoneyTolerance.stages.massive.label>
+
+
+  <DankPyon_UnpleasantAftermath.label>中枢神经中毒</DankPyon_UnpleasantAftermath.label>
+  <DankPyon_UnpleasantAftermath.description>令人不快的药物中毒延迟性后发症状。</DankPyon_UnpleasantAftermath.description>
+  <DankPyon_UnpleasantAftermath.stages.0.label>轻微</DankPyon_UnpleasantAftermath.stages.0.label>
+  <DankPyon_UnpleasantAftermath.stages.1.label>强烈</DankPyon_UnpleasantAftermath.stages.1.label>
+  <DankPyon_UnpleasantAftermath.stages.2.label>剧烈</DankPyon_UnpleasantAftermath.stages.2.label>
+  <DankPyon_UnpleasantAftermath.labelNoun>中枢神经中毒</DankPyon_UnpleasantAftermath.labelNoun>
+
+
+</LanguageData>

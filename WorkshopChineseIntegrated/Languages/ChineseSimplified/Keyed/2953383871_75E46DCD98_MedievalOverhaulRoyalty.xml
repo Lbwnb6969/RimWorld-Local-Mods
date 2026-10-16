@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- Royal Titles Setting -->
+  <!-- EN: Medieval Overhaul - Furniture Integration -->
+  <EEG_RoyaltyTitle_Label>贵族头衔家具需求整合</EEG_RoyaltyTitle_Label>
+  <!-- EN: Replaces royal title furniture requirements with Medieval Overhaul items. When ACTIVE: comprehensive medieval integration for all titles. When INACTIVE: medieval items added as supplementary options to vanilla requirements. -->
+  <EEG_RoyaltyTitle_Desc>将贵族头衔家具需求替换为MO的建筑。启用时：为所有头衔提供全面的中世纪整合。停用时：MO的建筑将作为补充选项添加至原版贵族头衔需求中。</EEG_RoyaltyTitle_Desc>
+
+  <!-- Royal Traders Setting -->
+  <!-- EN: Medieval Overhaul - Empire Trader Integration -->
+  <EEG_RoyaltyTrader_Label>帝国商人整合</EEG_RoyaltyTrader_Label>
+  <!-- EN: When ACTIVE: Replace Empire trader stocks with Medieval Overhaul goods (no orbital trader; guarded caravan). When INACTIVE: Add Medieval goods to vanilla Empire traders. -->
+  <EEG_RoyaltyTrader_Desc>启用时：将帝国商人货物生成规则替换为MO版本（无轨道商人、护卫商队）。停用时：将MO的物品添加至原版帝国商人货物清单内。</EEG_RoyaltyTrader_Desc>
+
+  <!-- Royal Permits Setting -->
+  <EEG_RoyalPermits_Label>[强烈建议关闭]原版贵族头衔权限空投</EEG_RoyalPermits_Label>
+  <EEG_RoyalPermits_Desc>启用时：套用原版贵族权限空投。停用时：套用适配MO的空投物资和人力支援部队。(若开启此选项，将会遇到空投文本与实际投递物不一致的问题)</EEG_RoyalPermits_Desc>
+
+</LanguageData>

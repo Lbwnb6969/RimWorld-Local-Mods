@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pigs -->
+
+  <DankPyon_Hampshire.label>汉普郡猪</DankPyon_Hampshire.label>
+  <DankPyon_Hampshire.labelPlural>汉普郡猪</DankPyon_Hampshire.labelPlural>
+  <DankPyon_Hampshire.lifeStages.0.label>汉普郡猪幼崽</DankPyon_Hampshire.lifeStages.0.label>
+  <DankPyon_Hampshire.lifeStages.0.labelPlural>汉普郡猪幼崽</DankPyon_Hampshire.lifeStages.0.labelPlural>
+  <DankPyon_Hampshire.lifeStages.0.labelMale>公汉普郡猪幼崽</DankPyon_Hampshire.lifeStages.0.labelMale>
+  <DankPyon_Hampshire.lifeStages.0.labelMalePlural>公汉普郡猪幼崽</DankPyon_Hampshire.lifeStages.0.labelMalePlural>
+  <DankPyon_Hampshire.lifeStages.0.labelFemale>母汉普郡猪幼崽</DankPyon_Hampshire.lifeStages.0.labelFemale>
+  <DankPyon_Hampshire.lifeStages.0.labelFemalePlural>母汉普郡猪幼崽</DankPyon_Hampshire.lifeStages.0.labelFemalePlural>
+  <DankPyon_Hampshire.lifeStages.1.label>汉普郡猪</DankPyon_Hampshire.lifeStages.1.label>
+  <DankPyon_Hampshire.lifeStages.1.labelPlural>汉普郡猪</DankPyon_Hampshire.lifeStages.1.labelPlural>
+  <DankPyon_Hampshire.lifeStages.1.labelMale>公汉普郡猪</DankPyon_Hampshire.lifeStages.1.labelMale>
+  <DankPyon_Hampshire.lifeStages.1.labelMalePlural>公汉普郡猪</DankPyon_Hampshire.lifeStages.1.labelMalePlural>
+  <DankPyon_Hampshire.lifeStages.1.labelFemale>母汉普郡猪</DankPyon_Hampshire.lifeStages.1.labelFemale>
+  <DankPyon_Hampshire.lifeStages.1.labelFemalePlural>母汉普郡猪</DankPyon_Hampshire.lifeStages.1.labelFemalePlural>
+  <DankPyon_Hampshire.lifeStages.2.label>汉普郡猪</DankPyon_Hampshire.lifeStages.2.label>
+  <DankPyon_Hampshire.lifeStages.2.labelPlural>汉普郡猪</DankPyon_Hampshire.lifeStages.2.labelPlural>
+  <DankPyon_Hampshire.lifeStages.2.labelMale>公汉普郡猪</DankPyon_Hampshire.lifeStages.2.labelMale>
+  <DankPyon_Hampshire.lifeStages.2.labelMalePlural>公汉普郡猪</DankPyon_Hampshire.lifeStages.2.labelMalePlural>
+  <DankPyon_Hampshire.lifeStages.2.labelFemale>母汉普郡猪</DankPyon_Hampshire.lifeStages.2.labelFemale>
+  <DankPyon_Hampshire.lifeStages.2.labelFemalePlural>母汉普郡猪</DankPyon_Hampshire.lifeStages.2.labelFemalePlural>
+  <DankPyon_Hampshire.labelMale>公汉普郡猪</DankPyon_Hampshire.labelMale>
+  <DankPyon_Hampshire.labelMalePlural>公汉普郡猪</DankPyon_Hampshire.labelMalePlural>
+  <DankPyon_Hampshire.labelFemale>母汉普郡猪</DankPyon_Hampshire.labelFemale>
+  <DankPyon_Hampshire.labelFemalePlural>母汉普郡猪</DankPyon_Hampshire.labelFemalePlural>
+
+  <DankPyon_Gloucestershire.label>格洛斯特郡猪</DankPyon_Gloucestershire.label>
+  <DankPyon_Gloucestershire.labelPlural>格洛斯特郡猪</DankPyon_Gloucestershire.labelPlural>
+  <DankPyon_Gloucestershire.lifeStages.0.label>格洛斯特郡猪幼崽</DankPyon_Gloucestershire.lifeStages.0.label>
+  <DankPyon_Gloucestershire.lifeStages.0.labelPlural>格洛斯特郡猪幼崽</DankPyon_Gloucestershire.lifeStages.0.labelPlural>
+  <DankPyon_Gloucestershire.lifeStages.0.labelMale>公格洛斯特郡猪幼崽</DankPyon_Gloucestershire.lifeStages.0.labelMale>
+  <DankPyon_Gloucestershire.lifeStages.0.labelMalePlural>公格洛斯特郡猪幼崽</DankPyon_Gloucestershire.lifeStages.0.labelMalePlural>
+  <DankPyon_Gloucestershire.lifeStages.0.labelFemale>母格洛斯特郡猪幼崽</DankPyon_Gloucestershire.lifeStages.0.labelFemale>
+  <DankPyon_Gloucestershire.lifeStages.0.labelFemalePlural>母格洛斯特郡猪幼崽</DankPyon_Gloucestershire.lifeStages.0.labelFemalePlural>
+  <DankPyon_Gloucestershire.lifeStages.1.label>格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.1.label>
+  <DankPyon_Gloucestershire.lifeStages.1.labelPlural>格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.1.labelPlural>
+  <DankPyon_Gloucestershire.lifeStages.1.labelMale>公格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.1.labelMale>
+  <DankPyon_Gloucestershire.lifeStages.1.labelMalePlural>公格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.1.labelMalePlural>
+  <DankPyon_Gloucestershire.lifeStages.1.labelFemale>母格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.1.labelFemale>
+  <DankPyon_Gloucestershire.lifeStages.1.labelFemalePlural>母格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.1.labelFemalePlural>
+  <DankPyon_Gloucestershire.lifeStages.2.label>格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.2.label>
+  <DankPyon_Gloucestershire.lifeStages.2.labelPlural>格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.2.labelPlural>
+  <DankPyon_Gloucestershire.lifeStages.2.labelMale>公格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.2.labelMale>
+  <DankPyon_Gloucestershire.lifeStages.2.labelMalePlural>公格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.2.labelMalePlural>
+  <DankPyon_Gloucestershire.lifeStages.2.labelFemale>母格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.2.labelFemale>
+  <DankPyon_Gloucestershire.lifeStages.2.labelFemalePlural>母格洛斯特郡猪</DankPyon_Gloucestershire.lifeStages.2.labelFemalePlural>
+  <DankPyon_Gloucestershire.labelMale>公格洛斯特郡猪</DankPyon_Gloucestershire.labelMale>
+  <DankPyon_Gloucestershire.labelMalePlural>公格洛斯特郡猪</DankPyon_Gloucestershire.labelMalePlural>
+  <DankPyon_Gloucestershire.labelFemale>母格洛斯特郡猪</DankPyon_Gloucestershire.labelFemale>
+  <DankPyon_Gloucestershire.labelFemalePlural>母格洛斯特郡猪</DankPyon_Gloucestershire.labelFemalePlural>
+
+  <DankPyon_NorthernBoar.label>北方野猪</DankPyon_NorthernBoar.label>
+  <DankPyon_NorthernBoar.labelPlural>北方野猪</DankPyon_NorthernBoar.labelPlural>
+  <DankPyon_NorthernBoar.lifeStages.0.label>北方野猪</DankPyon_NorthernBoar.lifeStages.0.label>
+  <DankPyon_NorthernBoar.lifeStages.0.labelPlural>北方野猪</DankPyon_NorthernBoar.lifeStages.0.labelPlural>
+  <DankPyon_NorthernBoar.lifeStages.0.labelMale>公北方野猪</DankPyon_NorthernBoar.lifeStages.0.labelMale>
+  <DankPyon_NorthernBoar.lifeStages.0.labelMalePlural>公北方野猪</DankPyon_NorthernBoar.lifeStages.0.labelMalePlural>
+  <DankPyon_NorthernBoar.lifeStages.0.labelFemale>母北方野猪</DankPyon_NorthernBoar.lifeStages.0.labelFemale>
+  <DankPyon_NorthernBoar.lifeStages.0.labelFemalePlural>母北方野猪</DankPyon_NorthernBoar.lifeStages.0.labelFemalePlural>
+  <DankPyon_NorthernBoar.lifeStages.1.label>北方野猪</DankPyon_NorthernBoar.lifeStages.1.label>
+  <DankPyon_NorthernBoar.lifeStages.1.labelPlural>北方野猪</DankPyon_NorthernBoar.lifeStages.1.labelPlural>
+  <DankPyon_NorthernBoar.lifeStages.1.labelMale>公北方野猪</DankPyon_NorthernBoar.lifeStages.1.labelMale>
+  <DankPyon_NorthernBoar.lifeStages.1.labelMalePlural>公北方野猪</DankPyon_NorthernBoar.lifeStages.1.labelMalePlural>
+  <DankPyon_NorthernBoar.lifeStages.1.labelFemale>母北方野猪</DankPyon_NorthernBoar.lifeStages.1.labelFemale>
+  <DankPyon_NorthernBoar.lifeStages.1.labelFemalePlural>母北方野猪</DankPyon_NorthernBoar.lifeStages.1.labelFemalePlural>
+  <DankPyon_NorthernBoar.lifeStages.2.label>北方野猪</DankPyon_NorthernBoar.lifeStages.2.label>
+  <DankPyon_NorthernBoar.lifeStages.2.labelPlural>北方野猪</DankPyon_NorthernBoar.lifeStages.2.labelPlural>
+  <DankPyon_NorthernBoar.lifeStages.2.labelMale>公北方野猪</DankPyon_NorthernBoar.lifeStages.2.labelMale>
+  <DankPyon_NorthernBoar.lifeStages.2.labelMalePlural>公北方野猪</DankPyon_NorthernBoar.lifeStages.2.labelMalePlural>
+  <DankPyon_NorthernBoar.lifeStages.2.labelFemale>母北方野猪</DankPyon_NorthernBoar.lifeStages.2.labelFemale>
+  <DankPyon_NorthernBoar.lifeStages.2.labelFemalePlural>母北方野猪</DankPyon_NorthernBoar.lifeStages.2.labelFemalePlural>
+  <DankPyon_NorthernBoar.labelMale>公北方野猪</DankPyon_NorthernBoar.labelMale>
+  <DankPyon_NorthernBoar.labelMalePlural>公北方野猪</DankPyon_NorthernBoar.labelMalePlural>
+  <DankPyon_NorthernBoar.labelFemale>母北方野猪</DankPyon_NorthernBoar.labelFemale>
+  <DankPyon_NorthernBoar.labelFemalePlural>母北方野猪</DankPyon_NorthernBoar.labelFemalePlural>
+
+
+  <!-- Cows -->
+
+  <DankPyon_Ravelder.label>拉威德牛</DankPyon_Ravelder.label>
+  <DankPyon_Ravelder.labelPlural>拉威德牛</DankPyon_Ravelder.labelPlural>
+  <DankPyon_Ravelder.lifeStages.0.label>拉威德犊牛</DankPyon_Ravelder.lifeStages.0.label>
+  <DankPyon_Ravelder.lifeStages.0.labelPlural>拉威德犊牛</DankPyon_Ravelder.lifeStages.0.labelPlural>
+  <DankPyon_Ravelder.lifeStages.0.labelMale>公拉威德犊牛</DankPyon_Ravelder.lifeStages.0.labelMale>
+  <DankPyon_Ravelder.lifeStages.0.labelMalePlural>公拉威德犊牛</DankPyon_Ravelder.lifeStages.0.labelMalePlural>
+  <DankPyon_Ravelder.lifeStages.0.labelFemale>母拉威德犊牛</DankPyon_Ravelder.lifeStages.0.labelFemale>
+  <DankPyon_Ravelder.lifeStages.0.labelFemalePlural>母拉威德犊牛</DankPyon_Ravelder.lifeStages.0.labelFemalePlural>
+  <DankPyon_Ravelder.lifeStages.1.label>拉威德牛</DankPyon_Ravelder.lifeStages.1.label>
+  <DankPyon_Ravelder.lifeStages.1.labelPlural>拉威德牛</DankPyon_Ravelder.lifeStages.1.labelPlural>
+  <DankPyon_Ravelder.lifeStages.1.labelMale>公拉威德牛</DankPyon_Ravelder.lifeStages.1.labelMale>
+  <DankPyon_Ravelder.lifeStages.1.labelMalePlural>公拉威德牛</DankPyon_Ravelder.lifeStages.1.labelMalePlural>
+  <DankPyon_Ravelder.lifeStages.1.labelFemale>母拉威德牛</DankPyon_Ravelder.lifeStages.1.labelFemale>
+  <DankPyon_Ravelder.lifeStages.1.labelFemalePlural>母拉威德牛</DankPyon_Ravelder.lifeStages.1.labelFemalePlural>
+  <DankPyon_Ravelder.lifeStages.2.label>拉威德牛</DankPyon_Ravelder.lifeStages.2.label>
+  <DankPyon_Ravelder.lifeStages.2.labelPlural>拉威德牛</DankPyon_Ravelder.lifeStages.2.labelPlural>
+  <DankPyon_Ravelder.lifeStages.2.labelMale>公拉威德牛</DankPyon_Ravelder.lifeStages.2.labelMale>
+  <DankPyon_Ravelder.lifeStages.2.labelMalePlural>公拉威德牛</DankPyon_Ravelder.lifeStages.2.labelMalePlural>
+  <DankPyon_Ravelder.lifeStages.2.labelFemale>母拉威德牛</DankPyon_Ravelder.lifeStages.2.labelFemale>
+  <DankPyon_Ravelder.lifeStages.2.labelFemalePlural>母拉威德牛</DankPyon_Ravelder.lifeStages.2.labelFemalePlural>
+  <DankPyon_Ravelder.labelMale>公拉威德牛</DankPyon_Ravelder.labelMale>
+  <DankPyon_Ravelder.labelMalePlural>公拉威德牛</DankPyon_Ravelder.labelMalePlural>
+  <DankPyon_Ravelder.labelFemale>母拉威德牛</DankPyon_Ravelder.labelFemale>
+  <DankPyon_Ravelder.labelFemalePlural>母拉威德牛</DankPyon_Ravelder.labelFemalePlural>
+
+  <DankPyon_Angus.label>安格斯牛</DankPyon_Angus.label>
+  <DankPyon_Angus.labelPlural>安格斯牛</DankPyon_Angus.labelPlural>
+  <DankPyon_Angus.lifeStages.0.label>安格斯犊牛</DankPyon_Angus.lifeStages.0.label>
+  <DankPyon_Angus.lifeStages.0.labelPlural>安格斯犊牛</DankPyon_Angus.lifeStages.0.labelPlural>
+  <DankPyon_Angus.lifeStages.0.labelMale>公安格斯犊牛</DankPyon_Angus.lifeStages.0.labelMale>
+  <DankPyon_Angus.lifeStages.0.labelMalePlural>公安格斯犊牛</DankPyon_Angus.lifeStages.0.labelMalePlural>
+  <DankPyon_Angus.lifeStages.0.labelFemale>母安格斯犊牛</DankPyon_Angus.lifeStages.0.labelFemale>
+  <DankPyon_Angus.lifeStages.0.labelFemalePlural>母安格斯犊牛</DankPyon_Angus.lifeStages.0.labelFemalePlural>
+  <DankPyon_Angus.lifeStages.1.label>安格斯牛</DankPyon_Angus.lifeStages.1.label>
+  <DankPyon_Angus.lifeStages.1.labelPlural>安格斯牛</DankPyon_Angus.lifeStages.1.labelPlural>
+  <DankPyon_Angus.lifeStages.1.labelMale>公安格斯牛</DankPyon_Angus.lifeStages.1.labelMale>
+  <DankPyon_Angus.lifeStages.1.labelMalePlural>公安格斯牛</DankPyon_Angus.lifeStages.1.labelMalePlural>
+  <DankPyon_Angus.lifeStages.1.labelFemale>母安格斯牛</DankPyon_Angus.lifeStages.1.labelFemale>
+  <DankPyon_Angus.lifeStages.1.labelFemalePlural>母安格斯牛</DankPyon_Angus.lifeStages.1.labelFemalePlural>
+  <DankPyon_Angus.lifeStages.2.label>安格斯牛</DankPyon_Angus.lifeStages.2.label>
+  <DankPyon_Angus.lifeStages.2.labelPlural>安格斯牛</DankPyon_Angus.lifeStages.2.labelPlural>
+  <DankPyon_Angus.lifeStages.2.labelMale>公安格斯牛</DankPyon_Angus.lifeStages.2.labelMale>
+  <DankPyon_Angus.lifeStages.2.labelMalePlural>公安格斯牛</DankPyon_Angus.lifeStages.2.labelMalePlural>
+  <DankPyon_Angus.lifeStages.2.labelFemale>母安格斯牛</DankPyon_Angus.lifeStages.2.labelFemale>
+  <DankPyon_Angus.lifeStages.2.labelFemalePlural>母安格斯牛</DankPyon_Angus.lifeStages.2.labelFemalePlural>
+  <DankPyon_Angus.labelMale>公安格斯牛</DankPyon_Angus.labelMale>
+  <DankPyon_Angus.labelMalePlural>公安格斯牛</DankPyon_Angus.labelMalePlural>
+  <DankPyon_Angus.labelFemale>母安格斯牛</DankPyon_Angus.labelFemale>
+  <DankPyon_Angus.labelFemalePlural>母安格斯牛</DankPyon_Angus.labelFemalePlural>
+
+
+</LanguageData>

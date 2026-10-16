@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amazing extraction -->
+  <GR_AmazingExtraction.stages.amazing_extraction.label>令人惊异的提取葬礼</GR_AmazingExtraction.stages.amazing_extraction.label>
+  <!-- EN: That exctraction was amazing. I can't wait to see what the final creation -->
+  <GR_AmazingExtraction.stages.amazing_extraction.description>那次提取葬礼令人惊异，我已经迫不及待的想要看到用这些基因物质创造出来的混种生物了。</GR_AmazingExtraction.stages.amazing_extraction.description>
+  
+  <!-- EN: good extraction -->
+  <GR_GoodExtraction.stages.good_extraction.label>令人满意的提取葬礼</GR_GoodExtraction.stages.good_extraction.label>
+  <!-- EN: That extraction went well, they'll be repurposed well. -->
+  <GR_GoodExtraction.stages.good_extraction.description>那次提取葬礼令人满意，我们会好好利用这些基因物质的。</GR_GoodExtraction.stages.good_extraction.description>
+  
+  <!-- EN: lackluster extraction -->
+  <GR_LacklusterExtraction.stages.lackluster_extraction.label>枯燥乏味的提取葬礼</GR_LacklusterExtraction.stages.lackluster_extraction.label>
+  <!-- EN: That extraction was really uninspired and I fear they will be wasted on that creation. -->
+  <GR_LacklusterExtraction.stages.lackluster_extraction.description>那次提取葬礼枯燥乏味，演讲冗长且无趣，完全无法唤起我们对基因实验的遐想。希望这些基因物质不会被浪费在无用的混种生物上。</GR_LacklusterExtraction.stages.lackluster_extraction.description>
+  
+  <!-- EN: disgraceful extraction -->
+  <GR_TerribleExtraction.stages.disgraceful_extraction.label>糟糕的提取葬礼</GR_TerribleExtraction.stages.disgraceful_extraction.label>
+  <!-- EN: That extraction was devestating, now I have to say goodbye. -->
+  <GR_TerribleExtraction.stages.disgraceful_extraction.description>那次提取葬礼非常糟糕，大家都在为完全损坏的基因物质感到痛心。</GR_TerribleExtraction.stages.disgraceful_extraction.description>
+  
+</LanguageData>

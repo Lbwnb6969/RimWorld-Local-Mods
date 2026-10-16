@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: funeral (no corpse) -->
+  <AM_FuneralNoCorpse.label>葬礼（没有尸体）</AM_FuneralNoCorpse.label>
+  <!-- EN: A gathering to witness the cremation of our friend. -->
+  <AM_FuneralNoCorpse.description>在指定地点处举行葬礼，以让死者归为尘土。</AM_FuneralNoCorpse.description>
+  
+</LanguageData>

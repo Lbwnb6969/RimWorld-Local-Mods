@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Subject.label>臣民</DankPyon_Subject.label>
+  <DankPyon_Subject.labelPlural>臣民</DankPyon_Subject.labelPlural>
+
+  <DankPyon_HedgeKnight.label>僱佣骑士</DankPyon_HedgeKnight.label>
+  <DankPyon_HedgeKnight.labelPlural>僱佣骑士</DankPyon_HedgeKnight.labelPlural>
+
+  <DankPyon_PlayerMercenary.label>佣兵</DankPyon_PlayerMercenary.label>
+  <DankPyon_PlayerMercenary.labelPlural>佣兵</DankPyon_PlayerMercenary.labelPlural>
+
+
+</LanguageData>

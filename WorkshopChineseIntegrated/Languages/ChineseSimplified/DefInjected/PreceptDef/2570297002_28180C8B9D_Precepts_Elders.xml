@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: despised -->
+  <VME_Elders_Despised.label>厌恶</VME_Elders_Despised.label>
+  <!-- EN: What is this, a retirement home? Get out of my way, fossil! -->
+  <VME_Elders_Despised.description>嗯？这里是养老院吗？快走开，你们这些老古董！</VME_Elders_Despised.description>
+  <!-- EN: Elder (more than 65 years) -->
+  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>长者（超过65岁）</VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Youth (less than 25 years) -->
+  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>青年（少于25岁）</VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>
+  
+  <!-- EN: holy -->
+  <VME_Elders_Holy.label>高尚</VME_Elders_Holy.label>
+  <!-- EN: Our elders are to be respected and revered, and never shall we expect them to do hard work.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists older than 65 will not do dumb labor. -->
+  <VME_Elders_Holy.description>我们中的长者应受到尊重，我们永远不会让他们去做那些粗重的体力活。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 65岁以上的殖民者将无法进行简易工作。</VME_Elders_Holy.description>
+  <!-- EN: Elder (more than 65 years) -->
+  <VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>长者（超过65岁）</VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>
+  
+  <!-- EN: respected -->
+  <VME_Elders_Respected.label>仰慕</VME_Elders_Respected.label>
+  <!-- EN: True wisdom comes only with age, and those who have seen many seasons are to be venerated. -->
+  <VME_Elders_Respected.description>年龄与智慧往往相辅相成。那些年迈的长者应该受到尊重。</VME_Elders_Respected.description>
+  <!-- EN: Elder (more than 65 years) -->
+  <VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>长者（超过65岁）</VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>
+  
+</LanguageData>

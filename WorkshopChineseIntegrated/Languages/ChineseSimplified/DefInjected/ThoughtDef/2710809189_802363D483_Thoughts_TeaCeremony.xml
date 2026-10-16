@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: profane tea ceremony -->
+  <AM_TeaCeremonyBlasphemous.stages.profane_tea_ceremony.label>鄙俗不堪的茶道仪式</AM_TeaCeremonyBlasphemous.stages.profane_tea_ceremony.label>
+  <!-- EN: The ceremony was an affront to the sacred art of tea. This desecration will linger in my thoughts. -->
+  <AM_TeaCeremonyBlasphemous.stages.profane_tea_ceremony.description>茶道仪式鄙俗不堪。这场仪式简直就是在玷污茶的神圣艺术性，我们的思想会因此而变得不纯洁！</AM_TeaCeremonyBlasphemous.stages.profane_tea_ceremony.description>
+  
+  <!-- EN: soothing tea ceremony -->
+  <AM_TeaCeremonyRefreshing.stages.soothing_tea_ceremony.label>温舒韵致的茶道仪式</AM_TeaCeremonyRefreshing.stages.soothing_tea_ceremony.label>
+  <!-- EN: That was a delightful moment of connection with the essence of tea. It left me feeling renewed. -->
+  <AM_TeaCeremonyRefreshing.stages.soothing_tea_ceremony.description>茶道仪式温舒韵致。这场愉悦的仪式使我们与茶的本质紧密相连。这种精神焕新的感觉可真好。</AM_TeaCeremonyRefreshing.stages.soothing_tea_ceremony.description>
+  
+  <!-- EN: enlightening tea ceremony -->
+  <AM_TeaCeremonyTranscendent.stages.enlightening_tea_ceremony.label>醍醐灌顶的茶道仪式</AM_TeaCeremonyTranscendent.stages.enlightening_tea_ceremony.label>
+  <!-- EN: This ceremony was a profound experience, an unforgettable communion with the sacred tea. -->
+  <AM_TeaCeremonyTranscendent.stages.enlightening_tea_ceremony.description>茶道仪式令人醍醐灌顶。这场仪式使我们经历了难以忘怀的体验，我们将永远铭记与神圣之茶间的沟通。</AM_TeaCeremonyTranscendent.stages.enlightening_tea_ceremony.description>
+  
+  <!-- EN: disappointing tea ceremony -->
+  <AM_TeaCeremonyUnderwhelming.stages.disappointing_tea_ceremony.label>令人失望的茶道仪式</AM_TeaCeremonyUnderwhelming.stages.disappointing_tea_ceremony.label>
+  <!-- EN: The ceremony lacked the spirit and grace it deserved. It felt hollow and uninspired. -->
+  <AM_TeaCeremonyUnderwhelming.stages.disappointing_tea_ceremony.description>茶道仪式令人失望。这场仪式缺少了本该有的精神与庄重。我们只能感受到空洞与乏味。</AM_TeaCeremonyUnderwhelming.stages.disappointing_tea_ceremony.description>
+  
+</LanguageData>

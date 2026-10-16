@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aether extract -->
+  <Joe_AetherExtract.label>以太花萃取物</Joe_AetherExtract.label>
+  <!-- EN: A concentrated mixture of aether essence extracted by grinding raw aether bloom. Used in the creation of mana potions.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_AetherExtract.description>研磨以太花瓣而萃取出的浓缩以太精华。用于制作蓝药水。</Joe_AetherExtract.description>
+  
+  <!-- EN: aether bloom -->
+  <Joe_Plant_Aether.label>以太花</Joe_Plant_Aether.label>
+  <!-- EN: The Aether Bloom is a mesmerizing and radiant flower, celebrated for its luminous beauty and potent magical essence. This extraordinary plant features large, luminescent petals that emit a gentle, azure glow, reminiscent of the vibrant blue hue of a mana potion. The petals are a striking blue, with intricate patterns that seem to pulse with magical energy.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_Plant_Aether.description>以太花是一种迷人而散发光芒的花朵，以其明亮美丽和强大的魔法能量而闻名。这种非凡的植物会盛开出巨大的花瓣，发出柔和蔚蓝的光芒，让人想起蓝药水充满活力的色调。花瓣表面有着复杂的发光纹路，似乎在脉动着魔法能量。</Joe_Plant_Aether.description>
+  
+  <!-- EN: wild aether bloom -->
+  <Joe_Plant_AetherWild.label>野生以太花</Joe_Plant_AetherWild.label>
+  <!-- EN: The wild Aether Bloom is a mesmerizing and radiant flower, celebrated for its luminous beauty and potent magical essence. This extraordinary plant features large, luminescent petals that emit a gentle, azure glow, reminiscent of the vibrant blue hue of a mana potion. The petals are a striking blue, with intricate patterns that seem to pulse with magical energy.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_Plant_AetherWild.description>以太花是一种迷人而散发光芒的花朵，以其明亮美丽和强大的魔法能量而闻名。这种非凡的植物会盛开出巨大的花瓣，发出柔和蔚蓝的光芒，让人想起法力药水的充满活力的蓝色调。花瓣表面有着复杂的发光纹路，似乎在脉动着魔法能量。</Joe_Plant_AetherWild.description>
+  
+  <!-- EN: raw aether -->
+  <Joe_RawAether.label>以太花瓣</Joe_RawAether.label>
+  <!-- EN: Unprocessed petals of the Aether Bloom plant.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_RawAether.description>未加工的以太花植物花瓣。</Joe_RawAether.description>
+  
+</LanguageData>

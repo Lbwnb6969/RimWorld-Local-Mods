@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate awful goldfort cheese -->
+  <DA_AteGoldfortCheese.stages.ate_awful_goldfort_cheese.label>吃了极差的金牦乳酪</DA_AteGoldfortCheese.stages.ate_awful_goldfort_cheese.label>
+  <!-- EN: I had the unfortunate experience of eating awful-quality goldfort cheese. The core was dry and the taste was less than satisfying. -->
+  <DA_AteGoldfortCheese.stages.ate_awful_goldfort_cheese.description>我吃了极差的金牦乳酪。酪心干得噎人，并且味同嚼蜡。</DA_AteGoldfortCheese.stages.ate_awful_goldfort_cheese.description>
+  <!-- EN: ate poor goldfort cheese -->
+  <DA_AteGoldfortCheese.stages.ate_poor_goldfort_cheese.label>吃了较差的金牦乳酪</DA_AteGoldfortCheese.stages.ate_poor_goldfort_cheese.label>
+  <!-- EN: I ate some poor-quality goldfort cheese. The crust hadn't properly formed yet and the core was barely melting. -->
+  <DA_AteGoldfortCheese.stages.ate_poor_goldfort_cheese.description>我吃了较差的金牦乳酪。酪壳还没完全定型，酪心也不够软糯。 </DA_AteGoldfortCheese.stages.ate_poor_goldfort_cheese.description>
+  <!-- EN: ate normal cheese -->
+  <DA_AteGoldfortCheese.stages.ate_normal_cheese.label>吃了一般的金牦乳酪</DA_AteGoldfortCheese.stages.ate_normal_cheese.label>
+  <!-- EN: I ate some average goldfort cheese. -->
+  <DA_AteGoldfortCheese.stages.ate_normal_cheese.description>我吃了一般的金牦乳酪。</DA_AteGoldfortCheese.stages.ate_normal_cheese.description>
+  <!-- EN: ate good goldfort cheese -->
+  <DA_AteGoldfortCheese.stages.ate_good_goldfort_cheese.label>吃了良好的金牦乳酪</DA_AteGoldfortCheese.stages.ate_good_goldfort_cheese.label>
+  <!-- EN: I ate good-quality goldfort cheese. The texture is perfect as it melts in your mouth, leaving but an exquisite taste behind. -->
+  <DA_AteGoldfortCheese.stages.ate_good_goldfort_cheese.description>我吃了良好的金牦乳酪。入口丝滑，风味悠长。</DA_AteGoldfortCheese.stages.ate_good_goldfort_cheese.description>
+  <!-- EN: ate excellent goldfort cheese -->
+  <DA_AteGoldfortCheese.stages.ate_excellent_goldfort_cheese.label>吃了极佳的金牦乳酪</DA_AteGoldfortCheese.stages.ate_excellent_goldfort_cheese.label>
+  <!-- EN: I savoured excellent-quality goldfort cheese. A heavenly taste overtook me and i cannot wait to eat more of it. -->
+  <DA_AteGoldfortCheese.stages.ate_excellent_goldfort_cheese.description>我享用了极佳的金牦乳酪。简直如堕云端，欲罢不能。</DA_AteGoldfortCheese.stages.ate_excellent_goldfort_cheese.description>
+  <!-- EN: ate masterwork goldfort cheese -->
+  <DA_AteGoldfortCheese.stages.ate_masterwork_goldfort_cheese.label>吃了大师级的金牦乳酪</DA_AteGoldfortCheese.stages.ate_masterwork_goldfort_cheese.label>
+  <!-- EN: I savoured a divinely melty goldfort cheese. It's delightfully elegant taste transports me to the skies and beyond. -->
+  <DA_AteGoldfortCheese.stages.ate_masterwork_goldfort_cheese.description>我品味了大师级的金牦乳酪。此味本应天上有，人间难得几回尝。</DA_AteGoldfortCheese.stages.ate_masterwork_goldfort_cheese.description>
+  <!-- EN: ate legendary goldfort cheese -->
+  <DA_AteGoldfortCheese.stages.ate_legendary_goldfort_cheese.label>吃了传奇的金牦乳酪</DA_AteGoldfortCheese.stages.ate_legendary_goldfort_cheese.label>
+  <!-- EN: The divine taste overwhelms my very being as its soft core melts in my mouth. My perception of taste is forever changed. -->
+  <DA_AteGoldfortCheese.stages.ate_legendary_goldfort_cheese.description>酪心在我唇齿间融化的那一刻，我的味觉已不再属于人间。</DA_AteGoldfortCheese.stages.ate_legendary_goldfort_cheese.description>
+  
+  <!-- UNUSED -->
+  <DA_AteGoldfortCheese.stages.ate_normal_goldfort_cheese.label>吃了一般的金牦乳酪</DA_AteGoldfortCheese.stages.ate_normal_goldfort_cheese.label>
+  <DA_AteGoldfortCheese.stages.ate_normal_goldfort_cheese.description>我吃了一般的金牦乳酪。</DA_AteGoldfortCheese.stages.ate_normal_goldfort_cheese.description>
+  
+</LanguageData>

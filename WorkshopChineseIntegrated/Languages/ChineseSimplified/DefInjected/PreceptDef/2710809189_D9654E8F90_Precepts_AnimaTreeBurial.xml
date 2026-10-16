@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anima tree burial -->
+  <AM_AnimaBurial.label>仙树葬礼</AM_AnimaBurial.label>
+  <!-- EN: A gathering to witness our friend's spirit be returned to nature -->
+  <AM_AnimaBurial.description>在指定地点处举行葬礼，以让死者的灵魂回归仙树之灵的怀抱中。</AM_AnimaBurial.description>
+  <!-- EN: {PAWN_nameDef} should be returned to nature. So {PAWN_possessive} friends and family can be confident their spirit can be put to rest. -->
+  <AM_AnimaBurial.extraTextPawnDeathLetter>{PAWN_nameDef}应当回归仙树之灵的怀抱中，这样{PAWN_possessive}朋友和家人才能确保其灵魂得到安息。</AM_AnimaBurial.extraTextPawnDeathLetter>
+  
+</LanguageData>

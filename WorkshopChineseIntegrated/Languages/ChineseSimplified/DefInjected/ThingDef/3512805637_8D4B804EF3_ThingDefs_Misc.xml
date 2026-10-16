@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: primarch embryo -->
+  <BEWH_PrimarchEmbryo.label>基因原体胚胎</BEWH_PrimarchEmbryo.label>
+  <!-- EN: A cluster of genetically-engineered cells in a special casing, prepeared to be artificially grown into a primarch.\n\nThis item rapidly deteriorates outside containment. -->
+  <BEWH_PrimarchEmbryo.description>放置在特殊容器内的基因工程细胞簇，可通过人工培育成长为基因原体。\n\n在容器外会快速老化。</BEWH_PrimarchEmbryo.description>
+  
+  <!-- EN: raw gestational slurry -->
+  <BEWH_RawGestationalSlurry.label>原始培育液</BEWH_RawGestationalSlurry.label>
+  <!-- EN: This slurry, derived from human tissue and enhanced with luciferium, is a vital component in the creation of a Primarch. -->
+  <BEWH_RawGestationalSlurry.description>这种液体源自人体组织，并且添加了魔鬼素，是创造原体的重要材料。</BEWH_RawGestationalSlurry.description>
+  
+  <!-- EN: rubicon surgery kit -->
+  <BEWH_RubiconSurgeryKit.label>原铸手术医疗包</BEWH_RubiconSurgeryKit.label>
+  <!-- EN: A sacred assembly of Mechanicus-crafted instruments, designed to aid in the Rubicon Primaris procedure. This kit enhances the chances of a successful transformation, ensuring that Firstborn Astartes may ascend to the Primaris standard. -->
+  <BEWH_RubiconSurgeryKit.description>一套由机械神教打造的神圣器械，在原铸手术中使用。该医疗包可提高成功转化的几率，确保初代星际战士能够晋升至原铸星际战士。</BEWH_RubiconSurgeryKit.description>
+  
+</LanguageData>

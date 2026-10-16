@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_SupplyCaravan.label>补给商队</EES_SupplyCaravan.label>
+  <EES_SupplyCaravan.description>向附近据点运送物资的补给商队。在其抵达前进行拦截，可夺取货物并暂时削弱目的地据点的防御。</EES_SupplyCaravan.description>
+  <EES_SupplyEncounter.label>补给商队遭遇战</EES_SupplyEncounter.label>
+  <EES_SupplyEncounter.description>与补给商队遭遇的地点。</EES_SupplyEncounter.description>
+  <EES_RebuildConvoy.label>重建车队</EES_RebuildConvoy.label>
+  <EES_RebuildConvoy.description>运送工人和物资以重建被摧毁据点的车队。在其到达前拦截并击溃,即可永久取消重建。</EES_RebuildConvoy.description>
+</LanguageData>

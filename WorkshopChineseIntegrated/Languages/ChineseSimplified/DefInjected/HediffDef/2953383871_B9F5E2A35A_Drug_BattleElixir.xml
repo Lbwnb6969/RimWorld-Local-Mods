@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_High_BattleElixir.label>战斗灵药亢奋</DankPyon_High_BattleElixir.label>
+  <DankPyon_High_BattleElixir.description>战斗灵药在血中奔腾，它可以增强与战斗相关的能力，心灵能力者服用后能直接增加精神力而不需冥想。</DankPyon_High_BattleElixir.description>
+  <DankPyon_High_BattleElixir.labelNoun>战斗灵药亢奋</DankPyon_High_BattleElixir.labelNoun>
+
+  <DankPyon_Addiction_BattleElixir.label>战斗灵药成瘾</DankPyon_Addiction_BattleElixir.label>
+  <DankPyon_Addiction_BattleElixir.description>战斗灵药的化学成瘾。长期饮用战斗灵药会造成细胞内的神经适应，导致大脑没有战斗灵药的话就无法运作。</DankPyon_Addiction_BattleElixir.description>
+  <DankPyon_Addiction_BattleElixir.stages.1.label>戒断</DankPyon_Addiction_BattleElixir.stages.1.label>
+
+  <DankPyon_Tolerance_BattleElixir.label>战斗灵药耐受</DankPyon_Tolerance_BattleElixir.label>
+  <DankPyon_Tolerance_BattleElixir.description>对战斗灵药的耐受性。耐受性越严重，达到同样效果所需要摄入的战斗灵药也就越多。</DankPyon_Tolerance_BattleElixir.description>
+  <DankPyon_Tolerance_BattleElixir.stages.small.label>轻微</DankPyon_Tolerance_BattleElixir.stages.small.label>
+  <DankPyon_Tolerance_BattleElixir.stages.large.label>强烈</DankPyon_Tolerance_BattleElixir.stages.large.label>
+  <DankPyon_Tolerance_BattleElixir.stages.massive.label>极强</DankPyon_Tolerance_BattleElixir.stages.massive.label>
+
+</LanguageData>

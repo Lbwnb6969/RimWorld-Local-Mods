@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SD_Chemical_Alkahest.label>宇宙溶剂</SD_Chemical_Alkahest.label>
+    <SD_Chemical_Alkahest.description>宿主体内有处于激活状态的宇宙溶剂纳米机械。它们能改善宿主的各项身体机能。
+        然而，代价是如果不定期补充更多剂量的宇宙溶剂，它们就会失去凝聚力并让宿主思维混乱并降低智力水平。</SD_Chemical_Alkahest.description>
+
+    <SD_Chemical_Bladeroot.label>刃根</SD_Chemical_Bladeroot.label>
+    <SD_Chemical_Bladeroot.description>由于对刃根产生了依赖，需要定期服用该药物以避免出现新的戒断症状。</SD_Chemical_Bladeroot.description>
+
+    <SD_Chemical_DwarvenDrink.label>矮人酿造。</SD_Chemical_DwarvenDrink.label>
+    <SD_Chemical_DwarvenDrink.description>由于对矮人酿造产生了依赖，需要定期服用该药物以避免出现新的戒断症状。</SD_Chemical_DwarvenDrink.description>
+
+    <SD_Chemical_Feywing.label>妖精翅膀</SD_Chemical_Feywing.label>
+    <SD_Chemical_Feywing.description>由于对妖精翅膀产生了依赖，需要定期服用该药物以避免出现新的戒断症状。</SD_Chemical_Feywing.description>
+
+    <SD_ChemicalNeedGlimmer.label>微光</SD_ChemicalNeedGlimmer.label>
+    <SD_ChemicalNeedGlimmer.description>由于对微光产生了依赖，需要定期服用该药物以避免出现新的戒断症状。</SD_ChemicalNeedGlimmer.description>
+
+    <SD_ChemicalNeedRedspice.label>红之香辛料</SD_ChemicalNeedRedspice.label>
+    <SD_ChemicalNeedRedspice.description>艾伦，请加上细节。(Allan, please add details.)</SD_ChemicalNeedRedspice.description>
+
+</LanguageData>

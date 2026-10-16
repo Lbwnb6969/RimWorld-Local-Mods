@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ===== Evolving Enemy Strongholds — UI strings (Russian) ===== -->
+  <!-- Diagnostic logs (EESLog) are dev-only and intentionally NOT translated. -->
+
+  <!-- Scout tab -->
+  <EES.Scout.TabLabel>Разведка</EES.Scout.TabLabel>
+  <EES.Scout.NoData>(нет данных)</EES.Scout.NoData>
+  <EES.Scout.NotScouted>(требуется разведка)</EES.Scout.NotScouted>
+  <EES.Scout.TierOnly>Уровень: T{0}  (остальные сведения требуют разведки)</EES.Scout.TierOnly>
+  <EES.Scout.NotScoutedDesc>Силу, объекты и оборону этой крепости можно раскрыть только разведкой.\n\nОтправьте караван на разведку либо атакуйте без разведки — тогда поднимется уровень тревоги (штраф за прямой штурм).</EES.Scout.NotScoutedDesc>
+
+  <!-- Scout tab: section headers -->
+  <EES.Scout.TierRole>Уровень {0}  ·  {1}</EES.Scout.TierRole>
+  <EES.Scout.TierHdr>Уровень {0}</EES.Scout.TierHdr>
+  <EES.Scout.Hdr.Strength>Сила</EES.Scout.Hdr.Strength>
+  <EES.Scout.Hdr.Defense>Оборона</EES.Scout.Hdr.Defense>
+  <EES.Scout.Hdr.Loot>Ожидаемая добыча</EES.Scout.Hdr.Loot>
+  <EES.Scout.Hdr.Facilities>Особенности</EES.Scout.Hdr.Facilities>
+  <EES.Scout.Hdr.Scouted>Разведка</EES.Scout.Hdr.Scouted>
+
+  <!-- Scout tab: strength lines -->
+  <EES.Scout.Mil>  Военная мощь: {0}</EES.Scout.Mil>
+  <EES.Scout.Fort>  Укрепления: {0}</EES.Scout.Fort>
+  <EES.Scout.Supply>  Снабжение: {0}</EES.Scout.Supply>
+  <EES.Scout.Alert>  Тревога: {0}</EES.Scout.Alert>
+  <EES.Scout.DedicatedNote>Этот аванпост создан внешним модом. EES задаёт только защитников, командира и уровень тревоги; турели, хранилище и оборона управляются тем модом.</EES.Scout.DedicatedNote>
+
+  <!-- Scout tab: defense lines -->
+  <EES.Scout.Turrets>  Турели прямого огня: ~{0}</EES.Scout.Turrets>
+  <EES.Scout.Mortars>  Миномёты: {0}</EES.Scout.Mortars>
+  <EES.Scout.NoDefense>  Оборонительных сооружений нет</EES.Scout.NoDefense>
+
+  <!-- Scout tab: loot lines -->
+  <EES.Scout.VaultValueEst>  &lt;color=#FFD24A&gt;Примерная ценность хранилища: ~{0} серебра&lt;/color&gt;</EES.Scout.VaultValueEst>
+  <EES.Scout.VaultValueExact>  &lt;color=#FFD24A&gt;Подтверждённая ценность хранилища: {0} серебра&lt;/color&gt;</EES.Scout.VaultValueExact>
+  <EES.Scout.Silver>  Серебро: ~{0}</EES.Scout.Silver>
+  <EES.Scout.Resources>  Ресурсы/детали: золото, пласталь, детали и т.п. (зависит от уровня/технологий)</EES.Scout.Resources>
+  <EES.Scout.RoleLoot>  Добыча в зависимости от роли</EES.Scout.RoleLoot>
+  <EES.Scout.LegendaryT7>  &lt;color=#FFD24A&gt;★Легендарное/уникальное оружие x1 + легендарная броня x1&lt;/color&gt;</EES.Scout.LegendaryT7>
+  <EES.Scout.LegendaryT6>  &lt;color=#FFD24A&gt;★Одно из: легендарное оружие · уникальное оружие · легендарная броня&lt;/color&gt;</EES.Scout.LegendaryT6>
+
+  <!-- Scout tab: facilities -->
+  <EES.Scout.Fac.None>  (особых объектов нет)</EES.Scout.Fac.None>
+  <EES.Scout.Fac.Comms>Узел связи (уничтожьте, чтобы перекрыть подкрепления)</EES.Scout.Fac.Comms>
+  <EES.Scout.Fac.Ammo>Склад боеприпасов</EES.Scout.Fac.Ammo>
+  <EES.Scout.Fac.Mortar>Миномётная батарея</EES.Scout.Fac.Mortar>
+  <EES.Scout.Fac.Prison>Тюрьма (содержит пленных)</EES.Scout.Fac.Prison>
+  <EES.Scout.Fac.Commander>Присутствует командир</EES.Scout.Fac.Commander>
+  <EES.Scout.Fac.Elite>Присутствует элитный отряд</EES.Scout.Fac.Elite>
+  <EES.Scout.Fac.Zone>Зональная охрана: {0}</EES.Scout.Fac.Zone>
+  <EES.Scout.Fac.Pursuer>Отряды преследования наготове</EES.Scout.Fac.Pursuer>
+  <EES.Scout.Fac.Herald>Присутствуют вестники</EES.Scout.Fac.Herald>
+  <EES.Scout.Fac.Disruptor>В засаде диверсанты</EES.Scout.Fac.Disruptor>
+  <EES.Scout.Fac.Assault>Штурмовая группа наготове</EES.Scout.Fac.Assault>
+  <EES.Scout.Fac.Mechs>Механоидов в гарнизоне: {0}</EES.Scout.Fac.Mechs>
+  <EES.Role.CryoBarracks>Криоказарма</EES.Role.CryoBarracks>
+  <EES.Scout.CryoSign>Обнаружена активность криокапсул (численность неизвестна)</EES.Scout.CryoSign>
+  <EES_Letter_CryoWake>Криоказарма пробудилась</EES_Letter_CryoWake>
+  <EES.Cryo.WakeText>Резервы фракции {0} пробуждаются из криосна и вступают в бой!</EES.Cryo.WakeText>
+  <EES.Role.ArtilleryBase>Артиллерийская база</EES.Role.ArtilleryBase>
+  <EES.Role.PsychicShrine>Шаманский алтарь</EES.Role.PsychicShrine>
+  <EES.Role.JammingStation>Станция глушения</EES.Role.JammingStation>
+  <EES.Scout.Fac.Artillery>Ведёт дальний обстрел</EES.Scout.Fac.Artillery>
+  <EES.Scout.Fac.Shrine>Излучает пси-дрон</EES.Scout.Fac.Shrine>
+  <EES.Scout.Fac.Jamming>Ведёт широкополосное глушение</EES.Scout.Fac.Jamming>
+  <EES_Letter_ArtyWarn>Тревога: артиллерийская база</EES_Letter_ArtyWarn>
+  <EES.Arty.WarnText>Обнаружена артиллерийская база: {0} ({1}).\n\nЧерез 3 дня начнётся дальний обстрел вашего поселения. Уничтожьте базу или все её миномёты, чтобы остановить обстрел.</EES.Arty.WarnText>
+  <EES_Letter_ShrineWarn>Предупреждение: шаманский алтарь</EES_Letter_ShrineWarn>
+  <EES.Shrine.WarnText>Обнаружен шаманский алтарь: {0} ({1}).
+
+Через 3 дня по вашему поселению начнёт распространяться пси-волна. Уничтожьте алтарь, чтобы прекратить это немедленно.</EES.Shrine.WarnText>
+  <EES_Letter_JamWarn>Предупреждение: база РЭБ</EES_Letter_JamWarn>
+  <EES.Jam.WarnText>Обнаружена база РЭБ: {0} ({1}).
+
+Через 3 дня разведка баз этой фракции станет труднее, а перехват связи и точечные удары будут заблокированы. Уничтожьте базу, чтобы снять эффект.</EES.Jam.WarnText>
+  <EES_Letter_JamStart>РЭБ активна</EES_Letter_JamStart>
+  <EES.Jam.StartText>База РЭБ фракции {0} начала работу.
+
+Шанс успешной разведки баз этой фракции снижен, перехват связи и точечные удары недоступны. Уничтожьте базу, чтобы снять эффект.</EES.Jam.StartText>
+  <EES_Letter_ArtyVolley>Артобстрел</EES_Letter_ArtyVolley>
+  <EES.Arty.VolleyText>Снаряды, выпущенные из {0}, падают на ваше поселение!</EES.Arty.VolleyText>
+  <EES.Arty.SilencedMsg>{0}: все миномёты уничтожены — обстрел прекращён навсегда.</EES.Arty.SilencedMsg>
+  <EES_Letter_ShrineStart>Пси-дрон</EES_Letter_ShrineStart>
+  <EES.Shrine.StartText>Соседний шаманский алтарь ({0}, {1}) начал излучать непрерывный пси-дрон на ваше поселение. Это продолжится, пока алтарь не будет уничтожен.</EES.Shrine.StartText>
+  <EES.Shrine.EndMsg>Пси-дрон прекратился.</EES.Shrine.EndMsg>
+  <EES.Jam.Blocked>Вражеская станция глушения подавляет связь</EES.Jam.Blocked>
+  <EES.Set.Hdr.Emitters>Излучающие угрозу базы</EES.Set.Hdr.Emitters>
+  <EES.Set.ThreatEmitters>Включить излучающие угрозу базы (высокая сложность)</EES.Set.ThreatEmitters>
+  <EES.Set.ThreatStartDay>Излучающие угрозу базы появляются после</EES.Set.ThreatStartDay>
+  <EES.Set.ThreatEmitters.Tip>Включает артиллерийские базы, шаманские алтари и станции глушения. При отключении прекращаются новые появления и все эффекты.</EES.Set.ThreatEmitters.Tip>
+  <EES.Set.EmitterSpawnDays>Интервал появления излучающих угрозу баз</EES.Set.EmitterSpawnDays>
+  <EES.Set.ArtyVolleyDays>Интервал обстрела</EES.Set.ArtyVolleyDays>
+  <EES.Set.ArtyVolleyDays.Tip>Интервал (в днях) между залпами артиллерийской базы по вашему поселению.</EES.Set.ArtyVolleyDays.Tip>
+  <EES.Rebuild.DestLabel>место разрушенной базы</EES.Rebuild.DestLabel>
+  <EES_Letter_RebuildDepart>Караван восстановления в пути</EES_Letter_RebuildDepart>
+  <EES.Rebuild.DepartText>Фракция {0} отправила караван для восстановления разрушенной базы.\n\nПерехватите и уничтожьте его до прибытия, чтобы навсегда отменить восстановление. Если его игнорировать, база возродится в ослабленном состоянии и снова начнёт расти.</EES.Rebuild.DepartText>
+  <EES_Letter_RebuildDone>База восстановлена</EES_Letter_RebuildDone>
+  <EES.Rebuild.DoneText>Фракция {0} восстановила базу ({1}) на месте разрушенной. Она начинает ослабленной, но со временем снова вырастет.</EES.Rebuild.DoneText>
+  <EES.Rebuild.CancelMsg>Караван восстановления уничтожен — восстановление этого места отменено навсегда.</EES.Rebuild.CancelMsg>
+  <EES.Set.Hdr.Rebuild>Караваны восстановления</EES.Set.Hdr.Rebuild>
+  <EES.Set.Rebuild>Включить караваны восстановления</EES.Set.Rebuild>
+  <EES.Set.Rebuild.Tip>Фракции отправляют караваны для восстановления разрушенных вами баз. Перехват и уничтожение каравана навсегда отменяет восстановление.</EES.Set.Rebuild.Tip>
+  <EES.Set.RebuildDelay>Задержка отправления</EES.Set.RebuildDelay>
+  <EES.Set.RebuildWD>Совместно с World Domination</EES.Set.RebuildWD>
+  <EES.Set.RebuildWD.Tip>При активном World Domination караваны восстановления по умолчанию отключены (во избежание пересечения с системой руин/переселения WD). Включите эту опцию для совместной работы.</EES.Set.RebuildWD.Tip>
+
+  <!-- Scout date -->
+  <EES.Scout.Date.Done>Разведано</EES.Scout.Date.Done>
+  <EES.Scout.Date.DaysAgo>{0} дн. назад</EES.Scout.Date.DaysAgo>
+  <EES.Scout.Date.Full>{0} ({1})</EES.Scout.Date.Full>
+
+  <!-- Alert level text -->
+  <EES.Alert.None>Нет</EES.Alert.None>
+  <EES.Alert.Low>Низкая</EES.Alert.Low>
+  <EES.Alert.Medium>Средняя</EES.Alert.Medium>
+  <EES.Alert.High>Высокая</EES.Alert.High>
+
+  <!-- Role labels -->
+  <EES.Role.Generic>Крепость</EES.Role.Generic>
+  <EES.Role.CommandFortress>Командная крепость</EES.Role.CommandFortress>
+  <EES.Role.MilitaryBase>Военная база</EES.Role.MilitaryBase>
+  <EES.Role.Garrison>Гарнизон</EES.Role.Garrison>
+  <EES.Role.AmmoDepot>Склад боеприпасов</EES.Role.AmmoDepot>
+  <EES.Role.MortarBattery>Миномётная батарея</EES.Role.MortarBattery>
+  <EES.Role.PrisonCamp>Тюремный лагерь</EES.Role.PrisonCamp>
+  <EES.Role.ResearchOutpost>Научный аванпост</EES.Role.ResearchOutpost>
+  <EES.Role.TreasureVault>Сокровищница</EES.Role.TreasureVault>
+  <EES.Role.Outpost>Аванпост</EES.Role.Outpost>
+  <EES.Role.SupplyDepot>Склад снабжения</EES.Role.SupplyDepot>
+  <EES.Role.TrainingCamp>Учебный лагерь</EES.Role.TrainingCamp>
+  <EES.Role.BlackMarketHub>Узел чёрного рынка</EES.Role.BlackMarketHub>
+  <EES.Role.NobleEstate>Поместье знати</EES.Role.NobleEstate>
+  <EES.Role.MechanoidRelay>Ретранслятор механоидов</EES.Role.MechanoidRelay>
+  <EES.Role.InsectHive>Улей насекомых</EES.Role.InsectHive>
+  <EES.Role.ThrumboRanch>Ранчо трумбо</EES.Role.ThrumboRanch>
+  <EES.Role.AlphaThrumboRanch>Ранчо альфа-трумбо</EES.Role.AlphaThrumboRanch>
+  <EES.Role.PollutedOutpost>Загрязнённый аванпост</EES.Role.PollutedOutpost>
+  <EES.Role.Battlefield>Поле боя</EES.Role.Battlefield>
+  <EES.Role.Mine>Шахта</EES.Role.Mine>
+  <EES.Role.FakeOutpostInsect>Ложный аванпост (насекомые)</EES.Role.FakeOutpostInsect>
+  <EES.Role.FakeOutpostMech>Ложный аванпост (механоиды)</EES.Role.FakeOutpostMech>
+  <EES.Role.FakeOutpostEntity>Ложный аванпост (сущность)</EES.Role.FakeOutpostEntity>
+
+  <!-- Caravan / shuttle scout action -->
+  <EES.Action.ScoutLabel>EES Разведка: {0}</EES.Action.ScoutLabel>
+  <EES.Common.SuccessChance>шанс успеха {0}</EES.Common.SuccessChance>
+  <EES.Action.ScoutLabelChance>EES Разведка: {0} (шанс {1})</EES.Action.ScoutLabelChance>
+  <EES.Action.ScoutReport>EES Разведка: {0}</EES.Action.ScoutReport>
+  <EES.Gizmo.ScoutLabel>Разведать</EES.Gizmo.ScoutLabel>
+  <EES.Gizmo.ScoutDescSuffix>\n\nОтправьте караван для попытки разведки (шанс успеха {0}). При провале вас заметят — тревога поднимется, а отношения ухудшатся (-25).</EES.Gizmo.ScoutDescSuffix>
+  <EES.Scout.PartyWarn>Разведка наиболее эффективна одним человеком. Чем больше людей вы берёте, тем выше шанс обнаружения и ниже эффективность.\n\nШанс успеха этой группы: {0}\n\nВсё равно вести разведку этой группой?</EES.Scout.PartyWarn>
+  <EES.Scout.HopelessWarn>При текущем уровне исследований разведка аванпоста {0}-го уровня практически невозможна (шанс успеха {1}). При провале вас заметят — тревога поднимется, а отношения ухудшатся (-25). Всё равно вести разведку?</EES.Scout.HopelessWarn>
+  <EES.Debug.InstantScout>[Режим бога] Мгновенная разведка (телепорт)</EES.Debug.InstantScout>
+  <EES.Debug.InstantInfiltrate>[Режим бога] Мгновенный успех проникновения (саботаж)</EES.Debug.InstantInfiltrate>
+
+  <!-- CanScoutNow reasons -->
+  <EES.CanScout.Disabled>Система разведки отключена</EES.CanScout.Disabled>
+  <EES.CanScout.NoData>Нет данных</EES.CanScout.NoData>
+  <EES.CanScout.AlreadyScouted>Уже разведано (сведения получены)</EES.CanScout.AlreadyScouted>
+  <EES.CanScout.Cooldown>Перезарядка повторной разведки {0}</EES.CanScout.Cooldown>
+  <EES.CanScout.Blind>Разведчики ничего не видят (эффективность зрения 0%)</EES.CanScout.Blind>
+
+  <!-- Scout result messages -->
+  <EES.Msg.Success>[EES] Разведка удалась: получены полные сведения о {0}</EES.Msg.Success>
+  <EES.Msg.Fail>[EES] Разведчиков заметили! {0} — тревога поднята, отношения ухудшены. Потери разведки: {1}</EES.Msg.Fail>
+
+  <!-- Reinforcements / comms room (siege) -->
+  <EES.Reinf.Active>[EES] Узел связи {0} работает — подкрепления прибывают примерно каждые {1}. Уничтожьте узел связи, чтобы перекрыть их.</EES.Reinf.Active>
+  <EES.Reinf.Wave>[EES] Прибыли вражеские подкрепления! ({0})</EES.Reinf.Wave>
+  <EES.Reinf.BlockedCmd>[EES] Командир убит — вражеские подкрепления перекрыты.</EES.Reinf.BlockedCmd>
+  <EES.Reinf.Countdown>Прибытие подкреплений: {0}</EES.Reinf.Countdown>
+  <EES.Reinf.CountdownDesc>Узел связи этой крепости вызывает подкрепления. Следующая волна войдёт с края карты, когда истечёт время.
+
+Уничтожьте узел связи (или убейте командира), чтобы перекрыть их.</EES.Reinf.CountdownDesc>
+  <EES.Cmd.Killed>[EES] Вражеский командир убит! Боевой дух защитников рушится.</EES.Cmd.Killed>
+  <EES.Vault.Value>[EES] Ценность сокровищницы {0}: добыча на сумму ~{1} серебра.</EES.Vault.Value>
+  <EES.Traps.Cleared>[EES] Крепость зачищена — обезврежено скрытых вражеских ловушек: {0}. Можно собирать добычу.</EES.Traps.Cleared>
+  <EES.Cmd.Resurrect>[EES] Фанатик-агитатор воскрешает павших защитников: {0}!</EES.Cmd.Resurrect>
+  <EES.Cmd.Rally>[EES] Фанатик-агитатор поднимает на ноги обездвиженных защитников: {0}!</EES.Cmd.Rally>
+  <EES.Cmd.ResearchCore>[EES] Смерть научного руководителя даёт ядро субличности техпрофа.</EES.Cmd.ResearchCore>
+
+  <!-- Buy Intel -->
+  <EES.BuyIntel.Label>Купить сведения</EES.BuyIntel.Label>
+  <EES.BuyIntel.Desc>Израсходуйте одно ядро с разведданными, чтобы удалённо раскрыть информацию об этой крепости (без каравана и риска).\n\nСначала используется ядро наименьшего уровня, покрывающего уровень цели.</EES.BuyIntel.Desc>
+  <EES.BuyIntel.Done>[EES] Получены сведения о {0} — израсходовано: {1}.</EES.BuyIntel.Done>
+  <EES.BuyIntel.NoItem>Нет ядра с разведданными, покрывающего этот уровень (T{0}). Купите его у торговца экзотикой.</EES.BuyIntel.NoItem>
+  <EES.BuyIntel.TooHigh>Этот уровень нельзя купить ядрами с разведданными (максимум T12).</EES.BuyIntel.TooHigh>
+
+  <!-- Infiltrate -->
+  <EES.Action.InfiltrateLabel>EES проникновение: {0}</EES.Action.InfiltrateLabel>
+  <EES.Action.InfiltrateLabelChance>EES проникновение: {0} (шанс {1})</EES.Action.InfiltrateLabelChance>
+  <EES.Action.InfiltrateReport>EES проникновение: {0}</EES.Action.InfiltrateReport>
+  <EES.Gizmo.InfiltrateLabel>Проникнуть</EES.Gizmo.InfiltrateLabel>
+  <EES.Gizmo.InfiltrateDesc>Отправьте группу проникновения ({1} из макс. 3) для саботажа вражеских турелей (успех {0}).\n\nОсновная характеристика — скорость передвижения, второстепенная — стрельба+ближний бой (сумма 40 = максимум), с весом 60:40. Больше участников повышают успех (2 = +5%, 3 = +15%). С 4 и более пробраться нельзя.\n\nПри успехе: тревога резко падает + турели навсегда выведены из строя. При провале: каждый участник по отдельности захватывается/погибает, отношения ухудшаются (-25).\n\nПримечание: проникнуть можно только в уже разведанные крепости.</EES.Gizmo.InfiltrateDesc>
+  <EES.Gizmo.InfiltrateDescLocked>Отправьте группу проникновения ({0} из макс. 3) для саботажа вражеских турелей.\n\nОсновная характеристика — скорость передвижения, второстепенная — стрельба+ближний бой (сумма 40 = максимум), с весом 60:40. Больше участников повышают успех (2 = +5%, 3 = +15%). С 4 и более пробраться нельзя.\n\nПри успехе: тревога резко падает + турели навсегда выведены из строя. При провале: каждый участник по отдельности захватывается/погибает, отношения ухудшаются (-25).\n\nПримечание: проникнуть можно только в уже разведанные крепости. Шанс успеха показывается после разведки.</EES.Gizmo.InfiltrateDescLocked>
+  <EES.Infil.Success>[EES] Проникновение удалось: саботировано турелей в {0}: {1}!</EES.Infil.Success>
+  <EES.Infil.FakeEmpty>[EES] {0}: саботаж турелей удался, но там никого нет.</EES.Infil.FakeEmpty>
+  <EES.Infil.FailParty>[EES] Проникновение раскрыто! {0} — {1}. Отношения ухудшены.</EES.Infil.FailParty>
+  <EES.Infil.FateLine>{0} {1}</EES.Infil.FateLine>
+  <EES.Infil.TooMany>Группа проникновения — максимум {0} чел. Сократите отряд до {0} или меньше, чтобы пробраться.</EES.Infil.TooMany>
+  <EES.Infil.NeedScout>Перед проникновением необходимо разведать эту крепость.</EES.Infil.NeedScout>
+  <EES.Infil.DedicatedBase>Этот аванпост создан внешним модом и не имеет турелей для саботажа, поэтому проникновение невозможно.</EES.Infil.DedicatedBase>
+  <EES.Infil.NoAgent>В караване нет агента (поселенца) для проникновения.</EES.Infil.NoAgent>
+  <EES.Infil.AlreadyDone>В эту крепость уже проникали (повторно нельзя).</EES.Infil.AlreadyDone>
+  <EES.Infil.TierTooHigh>В этот уровень (T13) проникнуть нельзя.</EES.Infil.TierTooHigh>
+  <EES.Infil.Fate.Dead>погиб</EES.Infil.Fate.Dead>
+  <EES.Infil.Fate.Captured>захвачен</EES.Infil.Fate.Captured>
+  <EES.Infil.Fate.Wounded>ранен, но сбежал</EES.Infil.Fate.Wounded>
+  <EES.Infil.Fate.Escaped>сбежал невредимым</EES.Infil.Fate.Escaped>
+  <EES.Infil.Fate.Device>экстренная эвакуация (устройство использовано)</EES.Infil.Fate.Device>
+  <EES.Scout.Sabotaged>  &lt;color=#FF7A4A&gt;└ саботировано турелей прямого огня: {0} (уже учтено выше)&lt;/color&gt;</EES.Scout.Sabotaged>
+  <EES.Scout.SabotagedMortar>  &lt;color=#FF7A4A&gt;└ саботировано миномётов: {0} (уже учтено выше)&lt;/color&gt;</EES.Scout.SabotagedMortar>
+  <EES.Intel.Sabotaged>турелей выведено из строя саботажем: {0}</EES.Intel.Sabotaged>
+
+  <!-- Intercept Communications -->
+  <EES.Intercept.MenuLabel>EES перехват связи вражеского аванпоста</EES.Intercept.MenuLabel>
+  <EES.Intercept.NoPower>нет энергии</EES.Intercept.NoPower>
+  <EES.Intercept.Unreachable>недостижимо</EES.Intercept.Unreachable>
+  <EES.Intercept.BadTarget>Это не крепость EES (выберите вражеский/нейтральный/союзный аванпост).</EES.Intercept.BadTarget>
+  <EES.Intercept.Started>[EES] Перехват начат: {0} (оператор: {1}). Результат примерно через 4 часа.</EES.Intercept.Started>
+  <EES.Intercept.Success>[EES] Перехват удался: получены полные сведения о {0}.</EES.Intercept.Success>
+  <EES_Letter_InterceptRaid>Перехват обнаружен — ответный удар</EES_Letter_InterceptRaid>
+  <EES.Intercept.RaidText>Ваш перехват обнаружен. {0} в ярости и немедленно совершает набег на вашу колонию.</EES.Intercept.RaidText>
+  <EES_Letter_InterceptMech>Перехват обнаружен — сигнал механоидов перенаправлен</EES_Letter_InterceptMech>
+  <EES.Intercept.MechText>Ваш перехват обнаружен. {0} перенаправил перехваченный сигнал механоидов на вашу колонию — механоиды десантируются.</EES.Intercept.MechText>
+  <EES.Strike.MenuLabel>EES точечный удар по вражескому аванпосту</EES.Strike.MenuLabel>
+  <EES.Strike.Started>[EES] Точечный удар начат: {0} (оператор: {1}). Результат примерно через 4 часа.</EES.Strike.Started>
+  <EES_Letter_StrikeFailed>Точечный удар провалился — принудительное короткое замыкание</EES_Letter_StrikeFailed>
+  <EES.Strike.FailText>Удалённый точечный удар по {0} провалился. Враг взломал в ответ вашу энергосеть и вызвал короткое замыкание на энергокабелях ({1} шт.) — даже закопанные кабели не защищены.</EES.Strike.FailText>
+
+  <!-- Debug gizmos (God Mode) -->
+  <EES.DebugGizmo.Role>Роль EES: {0}</EES.DebugGizmo.Role>
+  <EES.DebugGizmo.RoleDesc>[Режим бога] Напрямую выбрать роль этой крепости (влияет на объекты, тематические строения, добычу и шанс командира). Вступает в силу при следующем входе на карту этой базы.</EES.DebugGizmo.RoleDesc>
+
+  <!-- Commander type names (pawn nickname — shown on the map) -->
+  <EES.Cmd.Type.Commander>Командир</EES.Cmd.Type.Commander>
+  <EES.Cmd.Type.Marksman>Стрелок</EES.Cmd.Type.Marksman>
+  <EES.Cmd.Type.Comms>Офицер связи</EES.Cmd.Type.Comms>
+  <EES.Cmd.Type.Defense>Офицер обороны</EES.Cmd.Type.Defense>
+  <EES.Cmd.Type.Fanatic>Фанатик-агитатор</EES.Cmd.Type.Fanatic>
+  <EES.Cmd.Type.Security>Начальник охраны</EES.Cmd.Type.Security>
+  <EES.Cmd.Type.Assault>Штурмовой капитан</EES.Cmd.Type.Assault>
+  <EES.Cmd.Type.Engineer>Боевой инженер</EES.Cmd.Type.Engineer>
+  <EES.Cmd.Type.Research>Научный руководитель</EES.Cmd.Type.Research>
+  <EES.Cmd.Type.Warlord>Полководец</EES.Cmd.Type.Warlord>
+  <EES.Cmd.Type.Observer>Офицер-наблюдатель</EES.Cmd.Type.Observer>
+  <EES.Power.Cut>[EES] Генераторы крепости уничтожены — её турели на питании отключаются.</EES.Power.Cut>
+  <EES.Prisoner.Held>Удерживают захваченных разведчиков: {0} — атакуйте эту крепость, чтобы освободить их.</EES.Prisoner.Held>
+
+  <EES.Emitter.Inspect>{0} — излучает угрозу на ваше поселение, пока не будет уничтожена.</EES.Emitter.Inspect>
+  <EES.Emitter.AlertLabel>Излучающие угрозу базы: {0}</EES.Emitter.AlertLabel>
+  <EES.Emitter.AlertEntry>{0} — {1} (владелец: {2})</EES.Emitter.AlertEntry>
+  <EES.Emitter.AlertDesc>Эти базы излучают постоянную угрозу на ваше поселение, пока не будут уничтожены. Нажмите на запись, чтобы перейти к базе.
+
+Владеющая фракция может смениться в результате войны или завоевания. Если она отличается от фракции, указанной в первом письме, текущим владельцем является фракция, показанная здесь.</EES.Emitter.AlertDesc>
+
+  <!-- Ransom negotiation (comms faction dialog) -->
+  <EES.Ransom.Option>Договориться о выкупе захваченных разведчиков ({0})</EES.Ransom.Option>
+  <EES.Ransom.Intro>Ваши люди у нас. Заплатите цену — и мы вернём их.</EES.Ransom.Intro>
+  <EES.Ransom.Entry>{0} (удерживается в {1}) — выкуп {2} серебра</EES.Ransom.Entry>
+  <EES.Ransom.Paid>Выплачено {1} серебра выкупа. {0} возвращается домой.</EES.Ransom.Paid>
+
+  <!-- Supply caravan -->
+  <EES.Set.Hdr.Supply>Караваны снабжения</EES.Set.Hdr.Supply>
+  <EES.Set.Supply>Появление караванов снабжения</EES.Set.Supply>
+  <EES.Set.Supply.Tip>Караваны снабжения, идущие к вражеским крепостям, периодически появляются поблизости. Перехватите такой, чтобы захватить его груз и временно ослабить крепость назначения.</EES.Set.Supply.Tip>
+  <EES.Set.SupplyDays>Интервал проверки появления</EES.Set.SupplyDays>
+  <EES.Set.SupplyMax>Макс. активных одновременно</EES.Set.SupplyMax>
+  <EES.Set.SupplyLetter>Письмо об обнаружении каравана снабжения</EES.Set.SupplyLetter>
+  <EES.Set.SupplyLetter.Tip>Показывает письмо, когда караван снабжения появляется на карте мира. При отключении они появляются незаметно, и вам придётся находить их на карте мира самостоятельно. По умолчанию: вкл.</EES.Set.SupplyLetter.Tip>
+  <EES.Supply.Inspect.Dest>Пункт назначения: {0} — прибытие примерно через {1}</EES.Supply.Inspect.Dest>
+  <EES.Supply.Inspect.Escort>Ориентировочное сопровождение: ~{0} бойцов</EES.Supply.Inspect.Escort>
+  <EES.Supply.Intercept>Перехватить караван снабжения</EES.Supply.Intercept>
+  <EES.Supply.Intercept.No>Перехват невозможен — он прибудет раньше, чем вы его нагоните</EES.Supply.Intercept.No>
+  <EES.Supply.Intercept.Now>Атаковать сейчас</EES.Supply.Intercept.Now>
+  <EES.Supply.Intercept.Wait>Засада готова — ожидание каравана снабжения</EES.Supply.Intercept.Wait>
+  <EES.Supply.Intercept.Cancel>Отменить перехват</EES.Supply.Intercept.Cancel>
+  <EES.Supply.Intercept.Canceled>Перехват отменён — караван снабжения пройдёт мимо без боя.</EES.Supply.Intercept.Canceled>
+  <EES.Supply.Intercept.WorldWarAlly>Та же сторона в мировой войне — перехват невозможен</EES.Supply.Intercept.WorldWarAlly>
+  <EES.Supply.Intercept.WorldWarNeutral>Нейтральное государство в мировой войне — нельзя перехватывать караваны снабжения других фракций</EES.Supply.Intercept.WorldWarNeutral>
+  <EES.Supply.Intercept.Overlap>Наложение на базу — дождитесь, пока он отойдёт</EES.Supply.Intercept.Overlap>  <EES.Supply.Intercept.Ordered>Движение к точке перехвата — отсекаем караван снабжения.</EES.Supply.Intercept.Ordered>
+  <EES_Letter_SupplyCaravan>Обнаружен караван снабжения</EES_Letter_SupplyCaravan>
+  <EES.Supply.Letter.Text>Караван снабжения фракции {0} направляется к {1}. Перехватите его до прибытия, чтобы захватить груз и временно ослабить крепость назначения.</EES.Supply.Letter.Text>
+  <EES_Letter_SupplyInvaded>Вторжение каравана снабжения!</EES_Letter_SupplyInvaded>
+  <EES.Supply.Invaded.Text>Вражеский караван снабжения вошёл на вашу территорию. Уничтожьте его сопровождение, чтобы захватить груз и ослабить крепость назначения.</EES.Supply.Invaded.Text>
+  <EES_Letter_SupplyEngaged>Караван снабжения перехвачен</EES_Letter_SupplyEngaged>
+  <EES.Supply.Engaged.Text>Вы нагнали караван снабжения. Его сопровождение защищает груз.</EES.Supply.Engaged.Text>
+  <EES.Supply.Arrived>Караван снабжения достиг {0}.</EES.Supply.Arrived>
+  <EES.Supply.Missed>Караван снабжения ускользнул — перехват отменён.</EES.Supply.Missed>
+  <EES.Supply.Cut>Линия снабжения {0} перерезана — её оборона ослаблена на некоторое время.</EES.Supply.Cut>
+  <EES.Supply.CutInspect>Снабжение перерезано — осталось {0}</EES.Supply.CutInspect>
+  <EES.Scout.SupplyCut>Снабжение перерезано — турели прямого огня -{0}, миномёты -{1} применено (осталось {2})</EES.Scout.SupplyCut>
+
+  <!-- Casualty summary -->
+  <EES.Casualty.NoCaravan>нет (без каравана)</EES.Casualty.NoCaravan>
+  <EES.Casualty.AllEscaped>все благополучно сбежали</EES.Casualty.AllEscaped>
+  <EES.Casualty.Summary>ранено {0} / захвачено {1} / убито {2}</EES.Casualty.Summary>
+  <EES.Casualty.DeviceNote> (устройство экстренной эвакуации использовано x{0})</EES.Casualty.DeviceNote>
+
+  <!-- IntelReport (caravan gizmo description) -->
+  <EES.Intel.Faction>Фракция: {0} ({1})</EES.Intel.Faction>
+  <EES.Intel.TierOnly>Уровень: T{0} (остальные сведения не разведаны)</EES.Intel.TierOnly>
+  <EES.Intel.NotScouted>Сведения: не разведано (разведайте, чтобы раскрыть полные сведения)</EES.Intel.NotScouted>
+  <EES.Intel.ScoutedHeader>── Разведано ──</EES.Intel.ScoutedHeader>
+  <EES.Intel.TierRole>Уровень: T{0} / Роль: {1}</EES.Intel.TierRole>
+  <EES.Intel.PawnsAlert>Ориент. силы: {0} / Тревога: {1}</EES.Intel.PawnsAlert>
+  <EES.Intel.Defense>Оборона: укрепления {0}/100 / снабжение {1}</EES.Intel.Defense>
+  <EES.Intel.Commander>Командир: {0} / Добыча: {1}</EES.Intel.Commander>
+  <EES.Intel.Military>Военная мощь: {0}</EES.Intel.Military>
+  <EES.Intel.PawnRange>{0}-{1} чел.</EES.Intel.PawnRange>
+  <EES.Common.Yes>да</EES.Common.Yes>
+  <EES.Common.No>нет</EES.Common.No>
+  <EES.Common.Unknown>?</EES.Common.Unknown>
+  <EES.Common.Generic>обычная</EES.Common.Generic>
+
+  <!-- Mod settings window -->
+  <EES.Set.Hdr.Basic>── Основы (уровень / рост) ──</EES.Set.Hdr.Basic>
+  <EES.Set.MaxTier>Максимальный уровень</EES.Set.MaxTier>
+  <EES.Set.Growth>Скорость роста</EES.Set.Growth>
+  <EES.Set.LootValue>Ценность добычи / хранилища</EES.Set.LootValue>
+  <EES.Set.LegendaryTier>Легендарное снаряжение с уровня</EES.Set.LegendaryTier>
+  <EES.Set.Hdr.Turret>── Турели / особые объекты ──</EES.Set.Hdr.Turret>
+  <EES.Set.TurretDensity>Плотность турелей</EES.Set.TurretDensity>
+  <EES.Set.Hdr.Combat>── Гарнизон / боевые очки ──</EES.Set.Hdr.Combat>
+  <EES.Set.MilMul>Военная мощь гарнизона</EES.Set.MilMul>
+  <EES.Set.MilPerTier>Боевые очки за уровень</EES.Set.MilPerTier>
+  <EES.Set.AlertMil>Боевые очки за уровень тревоги</EES.Set.AlertMil>
+  <EES.Set.PerAlert>уровень тревоги</EES.Set.PerAlert>
+  <EES.Set.Facility>Шанс особого объекта</EES.Set.Facility>
+  <EES.Set.Hdr.Scout>── Разведка / проникновение / перехват ──</EES.Set.Hdr.Scout>
+  <EES.Set.ScoutSuccess>Успех разведки</EES.Set.ScoutSuccess>
+  <EES.Set.InfiltrateSuccess>Успех проникновения</EES.Set.InfiltrateSuccess>
+  <EES.Set.Sabotage>Саботаж при проникновении</EES.Set.Sabotage>
+  <EES.Set.PreventDeath>Предотвращать смерть (разведка/проникновение)</EES.Set.PreventDeath>
+  <EES.Set.PreventDeath.Tip>Когда включено, разведчики/диверсанты не могут погибнуть при провале разведки или проникновения (0% шанса смерти). Шанс смерти поглощается захватом/ранением/побегом (захват всё ещё возможен). Пока включено, торговцы не продают «устройство экстренной эвакуации». По умолчанию: выкл.</EES.Set.PreventDeath.Tip>
+  <EES.Set.ScoutUnlockHigh>Разблокировать разведку высоких уровней</EES.Set.ScoutUnlockHigh>
+  <EES.Set.ScoutUnlockHigh.Tip>Когда включено, барьер входа для разведки аванпостов 8-го уровня и выше снимается. Шанс успеха не падает до 0% даже без единого исследования (минимум 6%). Применяется к разведке, перехвату и точечным ударам одинаково. Шанс обнаружения при провале не меняется, а шансы для 7-го уровня и ниже, как и в поздней игре, остаются прежними. По умолчанию: выкл.</EES.Set.ScoutUnlockHigh.Tip>
+  <EES.Set.InterceptCd>Перезарядка перехвата</EES.Set.InterceptCd>
+  <EES.Set.InterceptMech>Шанс перенаправления механоидов при перехвате (T9+)</EES.Set.InterceptMech>
+  <EES.Set.Days>дн.</EES.Set.Days>
+  <EES.Set.Hours>ч</EES.Set.Hours>
+  <EES.Set.Hdr.Ambush>── Засада (штурм без разведки) ──</EES.Set.Hdr.Ambush>
+  <EES.Set.AmbushSize>Размер засады (от мощи базы)</EES.Set.AmbushSize>
+  <EES.Set.AmbushMax>Макс. очков засады</EES.Set.AmbushMax>
+  <EES.Set.AmbushAlert>Масштабирование засады по тревоге</EES.Set.AmbushAlert>
+  <EES.Set.Hdr.Reinforce>── Подкрепления ──</EES.Set.Hdr.Reinforce>
+  <EES.Set.ReinInterval>Интервал подкреплений</EES.Set.ReinInterval>
+  <EES.Set.ReinSize>Размер подкрепления (от мощи базы)</EES.Set.ReinSize>
+  <EES.Set.Hdr.Toggles>── Переключатели функций ──</EES.Set.Hdr.Toggles>
+  <EES.Set.WDTierSync>Разрешить EES создавать поселения World Domination</EES.Set.WDTierSync>
+  <EES.WD.InspectTier>Класс EES: T{0} (мощь WD {1})</EES.WD.InspectTier>
+  <EES.Set.WDTierSync.Tip>Когда установлен World Domination, EES берёт на себя создание аванпостов и назначение уровней для поселений WD. Вместо KCSG-схем WD создаются базы EES, а уровень выводится из развития (мощи) каждого поселения WD и проецируется на шкалу уровней EES (T1-13, в пределах ограничения по технологической эре фракции). Мировая симуляция World Domination (войны, экспансия, набеги) продолжает работать. Отключите, чтобы оставить оригинальные базы и уровни WD. По умолчанию: вкл.</EES.Set.WDTierSync.Tip>
+  <EES.Set.TierAmmo>Боеприпасы CE по уровням (винтовки/турели)</EES.Set.TierAmmo>
+  <EES.Set.TierAmmo.Tip>При включённой интеграции с CE боеприпасы, заряжаемые в винтовки гарнизона и турели CE, подбираются по уровню крепости. Низкие уровни в основном несут FMJ/HP; высокие уровни смещаются к бронебойным, затем зажигательным, затем фугасным. Пистолеты, ПП, гранатомёты и т.п. сохраняют стандартную загрузку CE. По умолчанию: вкл.</EES.Set.TierAmmo.Tip>
+  <EES.Set.WealthScale>Масштабировать по достатку игрока</EES.Set.WealthScale>
+  <EES.Set.WealthScale.Tip>Когда включено, достаток вашей колонии слегка ускоряет рост крепостей. Основой роста остаётся исследование; достаток — лишь небольшая добавка. Когда выключено, достаток полностью игнорируется. По умолчанию: вкл.</EES.Set.WealthScale.Tip>
+  <EES.Set.ResearchScale>Масштабировать по исследованиям игрока</EES.Set.ResearchScale>
+  <EES.Set.ResearchScale.Tip>Когда включено, ваша исследовательская эра (рубежи вроде электричества, станков, производства) является основой роста крепостей. Когда выключено, исследования игнорируются — крепости растут очень медленно, лишь от прошедших дней/достатка, а оценка успеха разведки тоже использует только прошедшие дни. По умолчанию: вкл.</EES.Set.ResearchScale.Tip>
+  <EES.Set.AllowMortars>Разрешить миномёты</EES.Set.AllowMortars>
+  <EES.Set.AllowMortars.Tip>Когда выключено, миномёты в крепостях не размещаются (ноль, даже если у базы есть миномётная батарея). В вкладке разведки / отчёте разведки оценка тоже показывает ноль. Когда включено, базы с миномётной батареей (T6+) получают количество миномётов по уровню. По умолчанию: вкл.</EES.Set.AllowMortars.Tip>
+  <EES.Set.AlertSystem>Система тревоги</EES.Set.AlertSystem>
+  <EES.Set.AlertSystem.Tip>Управляет уровнем тревоги каждой крепости (0-5). Атака базы поднимает её тревогу и распространяет на ближайшие базы той же фракции; со временем она естественно спадает. Более высокая тревога означает более крупные гарнизоны и засады (множитель «боевые очки за уровень тревоги» чуть ниже). Когда выключено, уровни тревоги больше не растут. По умолчанию: вкл.</EES.Set.AlertSystem.Tip>
+  <EES.Set.Scouting>Разведка</EES.Set.Scouting>
+  <EES.Set.Scouting.Tip>Главный переключатель разведки, проникновения и перехвата связи. Когда выключено, команды разведки/проникновения исчезают, а штраф-засада за атаку неразведанных крепостей больше не срабатывает. По умолчанию: вкл.</EES.Set.Scouting.Tip>
+  <EES.Set.Reinforcements>Подкрепления</EES.Set.Reinforcements>
+  <EES.Set.Reinforcements.Tip>Пока вы атакуете крепость, извне периодически прибывают подкрепления, пока живы её узел связи и командир (интервал/размер задаются ползунками ниже). Уничтожьте узел связи или убейте командира, чтобы остановить их. Когда выключено, подкрепления не прибывают. По умолчанию: вкл.</EES.Set.Reinforcements.Tip>
+  <EES.Set.Commanders>Командиры</EES.Set.Commanders>
+  <EES.Set.Commanders.Tip>Крепости высокого уровня получают командира (10 типов — ауры, усиливающие гарнизон, уникальное снаряжение, поддержание подкреплений при жизни и т.п.). Когда выключено, командиры не создаются. По умолчанию: вкл.</EES.Set.Commanders.Tip>
+  <EES.Set.DisableBattlefield>Отключить Поле боя (война на 4 стороны)</EES.Set.DisableBattlefield>
+  <EES.Set.DisableBattlefield.Tip>Когда включено, аванпосты Поля боя больше не появляются. Поле боя — это продолжительный набег нескольких фракций на 4 стороны, тяжёлый для производительности. По умолчанию = выкл. (Поле боя появляется).</EES.Set.DisableBattlefield.Tip>
+  <EES.Set.CEIntegration>Интеграция с CE (когда CE активен)</EES.Set.CEIntegration>
+  <EES.Set.CEIntegration.Tip>Главный переключатель всей интеграции EES с Combat Extended — гарантированные боеприпасы гарнизона, назначение пулемётчиков, загрузка магазинов турелей CE и резервных боеприпасов для турелей с расчётом, добыча со склада боеприпасов CE, укреплённые стены/двери CE на высоких уровнях и другое. Автоматически неактивна, если CE не загружен, независимо от этой настройки. По умолчанию: вкл.</EES.Set.CEIntegration.Tip>
+  <EES.Set.DebugLog>[Разраб.] Подробное логирование</EES.Set.DebugLog>
+  <EES.Set.DebugLog.Tip>Записывает подробные диагностические сообщения в лог игры. Включайте только при сообщении об ошибке. По умолчанию: выкл.</EES.Set.DebugLog.Tip>
+  <EES.Set.Tab.Values>Настройки</EES.Set.Tab.Values>
+  <EES.Set.Tab.Blacklist>Чёрный список фракций</EES.Set.Tab.Blacklist>
+  <EES.Set.Blacklist.Desc>Отмеченные фракции исключаются из всех систем EES (уровень, разведка/проникновение, командиры, уровень тревоги, засада, добыча, генерация баз). В списке только фракции, основывающие поселения.</EES.Set.Blacklist.Desc>
+  <EES.Set.Reset>По умолчанию</EES.Set.Reset>
+  <EES.Set.Tab.TurretBL>Чёрный список турелей</EES.Set.Tab.TurretBL>
+  <EES.Set.TurretBL.RaceHdr>Турели модов, привязанные к расе (по фракциям)</EES.Set.TurretBL.RaceHdr>
+  <EES.Set.TurretBL.RaceDesc>Отмеченные турели не будут размещаться в базах этой фракции. Если отмечены все турели фракции, она использует ванильные турели.</EES.Set.TurretBL.RaceDesc>
+  <EES.Set.TurretBL.ModHdr>Турели, добавленные модами</EES.Set.TurretBL.ModHdr>
+  <EES.Set.TurretBL.ModDesc>Отмеченные турели не будут размещаться ни в одной базе. Ванильные турели не затрагиваются.</EES.Set.TurretBL.ModDesc>
+  <EES.Set.TurretBL.None>(подходящих модовых турелей нет)</EES.Set.TurretBL.None>
+
+  <EES.Observer.Target>Офицер-наблюдатель отметил цель: {0}.</EES.Observer.Target>
+  <EES.Observer.Countdown>Следующее назначение цели: {0}</EES.Observer.Countdown>
+  <EES.Observer.CountdownDesc>Офицер-наблюдатель периодически назначает одного из вашей группы целью. По цели ведут сосредоточенный огонь все враги, кроме стрелков. Убейте командира (офицера-наблюдателя), чтобы это прекратить.</EES.Observer.CountdownDesc>
+  <EES.Observer.CountdownDescTarget>Офицер-наблюдатель назначил целью {0}. Все враги, кроме стрелков, ведут по нему сосредоточенный огонь. Убейте командира (офицера-наблюдателя), чтобы это прекратить.</EES.Observer.CountdownDescTarget>
+  <EES.Battlefield.Countdown>Следующее подкрепление на поле боя: {0}</EES.Battlefield.Countdown>
+  <EES.Battlefield.CountdownDesc>Скоро прибудут подкрепления: {0}. Бой на 4 стороны — аванпост, враждебная фракция, третья фракция и вы сражаетесь все вместе.</EES.Battlefield.CountdownDesc>
+  <EES.Battlefield.Wave.C>Враждебная фракция (атакует аванпост)</EES.Battlefield.Wave.C>
+  <EES.Battlefield.Wave.D>Третья фракция (осаждает стену, остаётся снаружи)</EES.Battlefield.Wave.D>
+  <EES.Battlefield.Wave.B>Подкрепление аванпоста (десант в центр)</EES.Battlefield.Wave.B>
+  <EES.Group.PursuerAssault>{0} отряд преследования начинает охоту на вас!</EES.Group.PursuerAssault>
+  <EES.Group.ZoneRelease>{0} зональная охрана бросает пост для преследования!</EES.Group.ZoneRelease>
+  <EES.Group.PursuerAssaultAlly>{0} отряд преследования выступает за нарушителями!</EES.Group.PursuerAssaultAlly>
+  <EES.Group.ZoneReleaseAlly>{0} зональная охрана покидает пост, чтобы преследовать нарушителей!</EES.Group.ZoneReleaseAlly>
+  <EES.Group.HeraldRetreat>Вестники ({0}) сбежали со сведениями. (тревога поднята)</EES.Group.HeraldRetreat>
+  <EES.Group.HeraldKilled>Вестники ({0}) уничтожены — утечка сведений предотвращена.</EES.Group.HeraldKilled>
+  <EES.Group.HeraldRetreatAttempt>Вестники ({0}) пытаются отступить!</EES.Group.HeraldRetreatAttempt>
+  <EES.Group.HeraldDrop>Вестники ({0}) передали сведения — подкрепления десантируются в центр базы! ({1})</EES.Group.HeraldDrop>
+  <EES.Group.GroupFlee>Силы {0} ломаются и отступают из-за упавшего боевого духа.</EES.Group.GroupFlee>
+  <EES.Assault.SettlementWarning>Враг обнаружил ваше поселение. Штурм неизбежен — готовьте оборону.</EES.Assault.SettlementWarning>
+  <EES.Assault.WalkInLate>Похоже, их штурм провалился. Штурмовая группа теперь преследует вас пешком.</EES.Assault.WalkInLate>
+
+  <!-- Counter-scouts + HVT bounty (2026-07-03) -->
+  <EES.Set.Hdr.CScout>Контрразведка</EES.Set.Hdr.CScout>
+  <EES.Set.CScout>Вражеские контрразведчики</EES.Set.CScout>
+  <EES.Set.CScout.Tip>Враждебные крепости высокого уровня (T6+) отправляют замаскированных разведчиков в ваше поселение. Если они сбегут, ждите нацеленного набега; захватите их, чтобы допросить и получить сведения об их родной базе.</EES.Set.CScout.Tip>
+  <EES.Set.CScoutDays>Интервал проверки отправки</EES.Set.CScoutDays>
+  <EES.Set.Hdr.HVT>Награда за голову</EES.Set.Hdr.HVT>
+  <EES.Set.HVT>Задания-награды за командиров</EES.Set.HVT>
+  <EES.Set.HVT.Tip>Сторонние фракции назначают награды за командиров враждебных крепостей. Убейте командира или уничтожьте базу в срок, чтобы получить одну из трёх наград.</EES.Set.HVT.Tip>
+  <EES.Set.HVTDays>Интервал проверки предложений</EES.Set.HVTDays>
+  <EES_Letter_CounterScoutArrived>Проникновение вражеских разведчиков</EES_Letter_CounterScoutArrived>
+  <EES.CScout.Arrived.Text>Разведгруппа фракции {0} проникла и заняла позицию где-то на {1} окраине карты. Они замаскированы — их точное расположение неизвестно, но они будут раскрыты, если кто-то подойдёт близко.\n\nРазведчики удерживают позицию и ускользнут примерно через сутки наблюдения. Обыщите {1} окраину и убейте или захватите их до этого. Если они сбегут живыми, сведения о вашем поселении попадут в руки врага.</EES.CScout.Arrived.Text>
+  <EES.Dir.N>северной</EES.Dir.N>
+  <EES.Dir.NE>северо-восточной</EES.Dir.NE>
+  <EES.Dir.E>восточной</EES.Dir.E>
+  <EES.Dir.SE>юго-восточной</EES.Dir.SE>
+  <EES.Dir.S>южной</EES.Dir.S>
+  <EES.Dir.SW>юго-западной</EES.Dir.SW>
+  <EES.Dir.W>западной</EES.Dir.W>
+  <EES.Dir.NW>северо-западной</EES.Dir.NW>
+  <EES.CScout.Revealed>{0} заметил замаскированного вражеского разведчика! Разведчик пытается бежать.</EES.CScout.Revealed>
+  <EES.CScout.Captured>Разведчик {0} допрошен: получены сведения о {1}. (Разведданные +1)</EES.CScout.Captured>
+  <EES.CScout.CapturedNoIntel>Разведчик {0} захвачен, но ничего не выдал о своей родной базе.</EES.CScout.CapturedNoIntel>
+  <EES_Letter_CounterScoutEscaped>Разведчики сбежали</EES_Letter_CounterScoutEscaped>
+  <EES.CScout.Escaped.Text>Разведгруппа фракции {0} сбежала со сведениями о вашем поселении.\n\nВскоре ждите нацеленного набега на основе этих сведений.</EES.CScout.Escaped.Text>
+  <EES_Letter_CounterScoutRaid>Нацеленный набег</EES_Letter_CounterScoutRaid>
+  <EES.CScout.Raid.Text>{0} совершает набег, используя сведения, собранные их разведчиками. Их силы сильнее обычного.</EES.CScout.Raid.Text>
+  <EES.HVT.Name>Награда: командир {0}</EES.HVT.Name>
+  <EES.HVT.Desc>{0} назначил награду за крепость под началом командира ({2}), служащего их врагу {1}.\n\nУровень целевой крепости: {3}\n{4}\n\nПри принятии заказчик передаст координаты целевого аванпоста рядом с вашей колонией. Уничтожьте этот аванпост, чтобы выполнить задание — награда прибудет в капсуле-дропподе. У вас есть 15 дней после принятия.</EES.HVT.Desc>
+  <EES.HVT.DirtyWarn>\n\nВнимание: {0} сейчас не враждебен вам. Выполнение этого контракта испортит ваши отношения с {0} и сделает их враждебными. Взамен награда существенно повышена.</EES.HVT.DirtyWarn>
+  <EES.HVT.GoodwillBonus>\n\nПо завершении {0} дополнительно повысит своё расположение к вам на {1}.</EES.HVT.GoodwillBonus>
+  <EES.HVT.TruceNotice>\n\nЗаказчик, {0}, вечно враждебен нам — вместо расположения выполнение этой награды остановит их набеги на {1} дн. (Выполнение другой награды сбрасывает срок; он не суммируется.)</EES.HVT.TruceNotice>
+  <EES.HVT.TruceStart>Как и обещано, {0} остановит свои набеги на {1} дн.</EES.HVT.TruceStart>
+  <EES_Letter_HVTReward>Награда выплачена</EES_Letter_HVTReward>
+  <EES.HVT.RewardLetter.Text>{0} прислал обещанную награду.</EES.HVT.RewardLetter.Text>
+  <EES.HVT.Variant.Scouted>Заказчик уже разведал цель — её сведения раскрыты изначально.</EES.HVT.Variant.Scouted>
+  <EES.HVT.Variant.Insider>С вами сотрудничает свой человек — сведения раскрыты изначально, и часть оборонительных турелей саботирована заранее. (награда -10%)</EES.HVT.Variant.Insider>
+  <EES.HVT.Variant.HighAlert>Цель в состоянии высокой тревоги — её гарнизон усилен. (награда +30%)</EES.HVT.Variant.HighAlert>
+  <EES_Letter_HVTTargetSpawned>Получены координаты цели награды</EES_Letter_HVTTargetSpawned>
+  <EES.HVT.SpawnLetter.Text>Заказчик передал координаты целевого аванпоста «{0}». Уничтожьте эту крепость под началом её командира ({1}), чтобы получить награду.</EES.HVT.SpawnLetter.Text>
+
+  <!-- Scout/infiltration result notification style (2026-07-05) -->
+  <EES.Set.ScoutNotify.Msg>Уведомление о результате разведки/проникновения: простое сообщение</EES.Set.ScoutNotify.Msg>
+  <EES.Set.ScoutNotify.Msg.Tip>Показывать результаты успеха или обнаружения разведки/проникновения простым сообщением вверху экрана. (Устаревший стиль)</EES.Set.ScoutNotify.Msg.Tip>
+  <EES.Set.ScoutNotify.Letter>Уведомление о результате разведки/проникновения: письмо (справа)</EES.Set.ScoutNotify.Letter>
+  <EES.Set.ScoutNotify.Letter.Tip>Показывать результаты разведки/проникновения письмами справа на экране. С модом Event Image Popup также показывается изображение события.</EES.Set.ScoutNotify.Letter.Tip>
+  <EES_Letter_ScoutSuccess>Разведка удалась</EES_Letter_ScoutSuccess>
+  <EES.Ltr.ScoutSuccess.Text>Получены полные сведения о {0}.</EES.Ltr.ScoutSuccess.Text>
+  <EES_Letter_ScoutFail>Разведчиков заметили</EES_Letter_ScoutFail>
+  <EES.Ltr.ScoutFail.Text>Наших разведчиков заметили в {0}. Крепость подняла тревогу, а отношения ухудшились.\n\nПотери разведки: {1}</EES.Ltr.ScoutFail.Text>
+  <EES_Letter_InfilSuccess>Проникновение удалось</EES_Letter_InfilSuccess>
+  <EES.Ltr.InfilSuccess.Text>Саботировано оборонительных турелей в {0}: {1}.</EES.Ltr.InfilSuccess.Text>
+  <EES.Ltr.InfilFake.Text>{0}: турели были саботированы, но там никого нет.</EES.Ltr.InfilFake.Text>
+  <EES_Letter_InfilFail>Проникновение раскрыто</EES_Letter_InfilFail>
+  <EES.Ltr.InfilFail.Text>Наше проникновение в {0} было раскрыто. Отношения ухудшились.\n\nАгенты: {1}</EES.Ltr.InfilFail.Text>
+  <EES_Letter_StrikeSuccess>Точечный удар удался</EES_Letter_StrikeSuccess>
+  <EES.Ltr.StrikeSuccess.Text>Удалённый точечный удар через узел связи вывел из строя оборонительных турелей в {0}: {1}.</EES.Ltr.StrikeSuccess.Text>
+  <EES.Ltr.StrikeFake.Text>{0}: удалённый удар поразил цель, но там никого нет.</EES.Ltr.StrikeFake.Text>
+  <EES.Strike.SabSuccess>[EES] Точечный удар удался: удалённо выведено из строя турелей в {0}: {1}!</EES.Strike.SabSuccess>
+  <EES.Strike.SabFake>[EES] {0}: удалённый удар удался, но там никого нет.</EES.Strike.SabFake>
+  <EES.Supply.PodDropFallback>Сбой при посадке — пассажиры и груз выгружены прямо на месте. (без потерь)</EES.Supply.PodDropFallback>
+
+  <!-- ===== Понижение уровня обычных аванпостов (поздняя стадия мировой войны RimPacts, 2026-08-23) ===== -->
+  <EES.Outpost.Unavailable>EES ещё не готов.</EES.Outpost.Unavailable>
+  <EES.Outpost.NotTargetPlayer>Это не аванпост.</EES.Outpost.NotTargetPlayer>
+  <EES.Outpost.NotTarget>Это поселение не управляется EES.</EES.Outpost.NotTarget>
+  <EES.Outpost.IsPuppet>Это аванпост марионеточного государства.</EES.Outpost.IsPuppet>
+  <EES.Outpost.TierFixed>У этого аванпоста фиксированный уровень.</EES.Outpost.TierFixed>
+  <EES.Outpost.AtFloor>Уже минимальный уровень (T{0}). Ниже опустить нельзя.</EES.Outpost.AtFloor>
+  <EES.Outpost.NoTargets>Нет аванпостов, уровень которых можно понизить.</EES.Outpost.NoTargets>
+
+  <!-- ===== Аванпосты марионеточного государства (интеграция с RimPacts, 2026-08-05) ===== -->
+  <EES.CanScout.Puppet>Это аванпост вашего собственного марионеточного государства.</EES.CanScout.Puppet>
+  <EES.CanScout.WorldWarAlly>В мировой войне они на вашей стороне.</EES.CanScout.WorldWarAlly>
+  <EES.CanScout.WorldWarNeutral>Нейтральное государство в мировой войне не может вмешиваться в дела других фракций.</EES.CanScout.WorldWarNeutral>
+  <EES.Puppet.NotOutpost>Это не аванпост марионеточного государства.</EES.Puppet.NotOutpost>
+  <EES.Puppet.NeedSilver>Недостаточно серебра (требуется {0}).</EES.Puppet.NeedSilver>
+  <EES.Puppet.OwnOutpost>Аванпост вашего марионеточного государства (разведка не нужна)</EES.Puppet.OwnOutpost>
+  <EES.Puppet.AtCap>Достигнут предел эпохи (T{0}). Повысьте марионеточное государство, чтобы продвинуться дальше.</EES.Puppet.AtCap>
+  <EES.Puppet.AtFloor>Уже минимальный уровень (T{0}). Ниже опустить нельзя.</EES.Puppet.AtFloor>
+  <EES.Puppet.RoleUnavailable>Сейчас нельзя назначить ни одну роль.</EES.Puppet.RoleUnavailable>
+  <EES.Puppet.MortarAlready>Миномётная батарея уже есть.</EES.Puppet.MortarAlready>
+  <EES.Puppet.MortarTierLow>Требуется T{0} или выше.</EES.Puppet.MortarTierLow>
+  <EES.Puppet.BadPlan>Неверные параметры состава гарнизона.</EES.Puppet.BadPlan>
+  <EES.Puppet.AssaultTechLow>Штурмовую группу можно разместить только у фракции космической эпохи или выше.</EES.Puppet.AssaultTechLow>
+  <EES.Puppet.CommanderTechLow>Этого командира можно назначить только у фракции эпохи «{0}» или выше.</EES.Puppet.CommanderTechLow>
+  <EES.Puppet.Gizmo.UpgradeLabel>Аванпост T{0}/{1}</EES.Puppet.Gizmo.UpgradeLabel>
+  <EES.Puppet.Gizmo.UpgradeDesc>Стоимость {1} серебра, следующий уровень T{0}\n\nБез трат авто-повышение через {2}.</EES.Puppet.Gizmo.UpgradeDesc>
+  <EES.Puppet.Gizmo.UpgradeDescCap>Достигнут предел эпохи (T{0}). Повысьте марионеточное государство, чтобы продвинуться дальше.</EES.Puppet.Gizmo.UpgradeDescCap>
+  <EES.Puppet.Gizmo.RoleLabel>Роль: {0}</EES.Puppet.Gizmo.RoleLabel>
+  <EES.Puppet.Gizmo.RoleDesc>Задаёт роль этого аванпоста. Вступит в силу при следующем входе на его карту.</EES.Puppet.Gizmo.RoleDesc>
+  <EES.Puppet.Gizmo.CommanderLabel>Командир: {0}</EES.Puppet.Gizmo.CommanderLabel>
+  <EES.Puppet.Gizmo.CommanderDesc>Задаёт тип командира этого аванпоста. Вступит в силу при следующем входе на его карту.</EES.Puppet.Gizmo.CommanderDesc>
+  <EES.Puppet.Msg.Upgraded>{0}: аванпост → T{1}</EES.Puppet.Msg.Upgraded>
+  <EES.Puppet.Msg.RoleSet>{0}: роль → {1}</EES.Puppet.Msg.RoleSet>
+  <EES.Puppet.Msg.CommanderSet>{0}: командир → {1}</EES.Puppet.Msg.CommanderSet>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: nasal helm -->
+  <TA_NasalHelm.label>鼻盔</TA_NasalHelm.label>
+  <!-- EN: Helmet made of iron plates attached into a conical shape, fitted with a nose guard -->
+  <TA_NasalHelm.description>由铁板制成的锥形头盔，配有鼻部护甲。</TA_NasalHelm.description>
+  
+  <!-- EN: spectacle helm -->
+  <TA_SpectacleHelm.label>护目盔</TA_SpectacleHelm.label>
+  <!-- EN: Helmet made of iron plates attached into a conical shape, fitted with a nose guard and rings around the eyes, moderate amount of face protection -->
+  <TA_SpectacleHelm.description>由铁板制成的锥形头盔，配有鼻部护甲和眼部护环，提供中等面部防护。</TA_SpectacleHelm.description>
+  
+</LanguageData>

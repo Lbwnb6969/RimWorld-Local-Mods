@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pheasant -->
+  <VAERoy_Pheasant.label>雉鸡</VAERoy_Pheasant.label>
+  <!-- EN: pheasant chick -->
+  <VAERoy_Pheasant.lifeStages.pheasant_chick.label>雉鸡仔</VAERoy_Pheasant.lifeStages.pheasant_chick.label>
+  
+</LanguageData>

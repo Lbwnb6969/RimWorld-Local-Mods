@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stir muffton milk -->
+  <DA_Make_Karhan.label>搅拌羊奶</DA_Make_Karhan.label>
+  <!-- EN: Stir muffton milk for a long period of time until fermentation, resulting in a alcoholic drink called karhan. -->
+  <DA_Make_Karhan.description>长时间搅拌羊奶直到开始酿造为一种叫做羊奶酒的酒精饮料。</DA_Make_Karhan.description>
+  <!-- EN: stirring muffton milk. -->
+  <DA_Make_Karhan.jobString>搅拌羊奶。</DA_Make_Karhan.jobString>
+  
+</LanguageData>

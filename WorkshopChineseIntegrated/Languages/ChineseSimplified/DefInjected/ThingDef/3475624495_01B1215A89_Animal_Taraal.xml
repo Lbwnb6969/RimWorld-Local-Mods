@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: snow taraal -->
+  <DA_SnowTaraal.label>雪地枭熊</DA_SnowTaraal.label>
+  <!-- EN: A cousin of the common taraal adapted to frozen climates. They wander in the frigid wastelands in search of carcasses from animals taken by the frost and snow hares for the majority of the year.\n\nWhen the wind grows colder and the snow thickens, the snow taraals leave the northern ices to seek shelter in the mountains where they will hibernate. -->
+  <DA_SnowTaraal.description>普通枭熊适应冰冻气候的近亲。它们在寒冷的荒原上游荡，一年中大部分时间寻找被冰雪野兔捕获的动物尸体。当风变冷，雪变厚的时候，雪地枭熊就离开北方的冰层，到山上寻求庇护，在那里冬眠。</DA_SnowTaraal.description>
+  <!-- EN: left claw -->
+  <DA_SnowTaraal.tools.left_claw.label>左爪</DA_SnowTaraal.tools.left_claw.label>
+  <!-- EN: claw -->
+  <DA_SnowTaraal.tools.left_claw.labelNoLocation>爪子</DA_SnowTaraal.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <DA_SnowTaraal.tools.right_claw.label>右爪</DA_SnowTaraal.tools.right_claw.label>
+  <!-- EN: claw -->
+  <DA_SnowTaraal.tools.right_claw.labelNoLocation>爪子</DA_SnowTaraal.tools.right_claw.labelNoLocation>
+  <!-- EN: beak -->
+  <DA_SnowTaraal.tools.beak.label>喙</DA_SnowTaraal.tools.beak.label>
+  <!-- EN: head -->
+  <DA_SnowTaraal.tools.head.label>头</DA_SnowTaraal.tools.head.label>
+  
+  <!-- EN: taraal -->
+  <DA_Taraal.label>枭熊</DA_Taraal.label>
+  <!-- EN: The taraal, also known as great land owl is a huge omnivorous bird that dwells in the many forests of the world. They primarily eat fish, and can be often seen near rivers and lakes in search of their favourite prey. In its absence, the taraal will not hesitate to use its immense, bear-like strength to hunt live prey instead..\n\nWhen the wind grows cold and the first snows begin, taraals leave their forests to seek shelter in the mountains where they will hibernate. -->
+  <DA_Taraal.description>枭熊，也被称为巨地鸮，是一种居住于世界各地森林中的巨型杂食鸟类，主要吃鱼，人们经常看到它在河边湖畔寻找喜欢的猎物。不过若是缺少猎物，它们不介意用自己的力量获取点别的...当风变冷，雪变厚的时候，枭熊就离开北方的冰层，到山上寻求庇护，在那里冬眠。</DA_Taraal.description>
+  <!-- EN: left claw -->
+  <DA_Taraal.tools.left_claw.label>左爪</DA_Taraal.tools.left_claw.label>
+  <!-- EN: claw -->
+  <DA_Taraal.tools.left_claw.labelNoLocation>爪子</DA_Taraal.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <DA_Taraal.tools.right_claw.label>右爪</DA_Taraal.tools.right_claw.label>
+  <!-- EN: claw -->
+  <DA_Taraal.tools.right_claw.labelNoLocation>爪子</DA_Taraal.tools.right_claw.labelNoLocation>
+  <!-- EN: beak -->
+  <DA_Taraal.tools.beak.label>喙</DA_Taraal.tools.beak.label>
+  <!-- EN: head -->
+  <DA_Taraal.tools.head.label>头</DA_Taraal.tools.head.label>
+  
+  <!-- EN: snow taraal egg (fert.) -->
+  <EggSnowTaraalFertilized.label>雪地枭熊蛋（已受精）</EggSnowTaraalFertilized.label>
+  <!-- EN: A fertilized taraal egg. If all goes well, it should hatch into a taraal cub. It is very nutritious and can be eaten raw, but it's much better cooked. -->
+  <EggSnowTaraalFertilized.description>一枚已经受精的雪地枭熊蛋。如果一切顺利，它能孵出雪地枭熊幼崽。能生食，但最好煮熟了吃。</EggSnowTaraalFertilized.description>
+  
+  <!-- EN: snow taraal (unfert.) -->
+  <EggSnowTaraalUnfertilized.label>雪地枭熊蛋（未受精）</EggSnowTaraalUnfertilized.label>
+  <!-- EN: A large and heavy taraal egg. It is very nutritious and can be eaten raw, but it's much, much better cooked. -->
+  <EggSnowTaraalUnfertilized.description>一枚又大又沉的受精雪地枭熊蛋。能生食，但最好煮熟了吃。</EggSnowTaraalUnfertilized.description>
+  
+  <!-- EN: taraal egg (fert.) -->
+  <EggTaraalFertilized.label>枭熊蛋（已受精）</EggTaraalFertilized.label>
+  <!-- EN: A fertilized taraal egg. If all goes well, it should hatch into a taraal cub. It is very nutritious and can be eaten raw, but it's much better cooked. -->
+  <EggTaraalFertilized.description>一枚已经受精的枭熊蛋。如果一切顺利，它能孵出枭熊幼崽。能生食，但最好煮熟了吃。</EggTaraalFertilized.description>
+  
+  <!-- EN: taraal egg (unfert.) -->
+  <EggTaraalUnfertilized.label>枭熊蛋（未受精）</EggTaraalUnfertilized.label>
+  <!-- EN: A large and heavy taraal egg. It is very nutritious and can be eaten raw, but it's much, much better cooked. -->
+  <EggTaraalUnfertilized.description>一枚又大又沉的受精的枭熊蛋。能生食，但最好煮熟了吃。</EggTaraalUnfertilized.description>
+  
+</LanguageData>

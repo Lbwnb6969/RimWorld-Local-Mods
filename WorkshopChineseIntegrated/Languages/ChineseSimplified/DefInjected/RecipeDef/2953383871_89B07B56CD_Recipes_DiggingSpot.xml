@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Clay -->
+
+  <DankPyon_Gather_Clay.label>挖掘粘土 x20</DankPyon_Gather_Clay.label>
+  <DankPyon_Gather_Clay.description>挖掘地下可用的粘土。</DankPyon_Gather_Clay.description>
+  <DankPyon_Gather_Clay.jobString>正在挖掘粘土。</DankPyon_Gather_Clay.jobString>
+
+
+</LanguageData>

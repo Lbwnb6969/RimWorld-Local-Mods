@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MThingsMedical_Make_MedicineTincture.label>制作酊剂药物</MThingsMedical_Make_MedicineTincture.label>
+  <MThingsMedical_Make_MedicineTincture.description>将浸泡提取物与医用布巾仔细配制成一包草药酊剂，用于处理单纯草药难以应对的伤口和疾病。</MThingsMedical_Make_MedicineTincture.description>
+  <MThingsMedical_Make_MedicineTincture.jobString>正在制作酊剂药物。</MThingsMedical_Make_MedicineTincture.jobString>
+  <MThingsMedical_Make_MedicineTinctureBulk.label>制作酊剂药物 x4</MThingsMedical_Make_MedicineTinctureBulk.label>
+  <MThingsMedical_Make_MedicineTinctureBulk.description>使用草药材料和布料一次制作四包酊剂药物，以便在伤病发生前储备更好的治疗用品。</MThingsMedical_Make_MedicineTinctureBulk.description>
+  <MThingsMedical_Make_MedicineTinctureBulk.jobString>正在批量制作酊剂药物。</MThingsMedical_Make_MedicineTinctureBulk.jobString>
+  <MThingsMedical_Vasectomy.label>施行传统输精管结扎</MThingsMedical_Vasectomy.label>
+  <MThingsMedical_Vasectomy.description>切断输精管，使患者失去生育能力。如果手术失败，患者将永久绝育。</MThingsMedical_Vasectomy.description>
+  <MThingsMedical_Vasectomy.jobString>正在为 TargetA 施行输精管结扎。</MThingsMedical_Vasectomy.jobString>
+  <MThingsMedical_Vasectomy.successfullyRemovedHediffMessage>{0} 成功为 {1} 施行了输精管结扎。</MThingsMedical_Vasectomy.successfullyRemovedHediffMessage>
+  <MThingsMedical_ReverseVasectomy.label>逆转传统输精管结扎</MThingsMedical_ReverseVasectomy.label>
+  <MThingsMedical_ReverseVasectomy.description>尝试逆转输精管结扎，使男性恢复生育能力。多数逆转手术能够成功，但手术失败会导致永久绝育。</MThingsMedical_ReverseVasectomy.description>
+  <MThingsMedical_ReverseVasectomy.jobString>正在为 TargetA 施行输精管复通术。</MThingsMedical_ReverseVasectomy.jobString>
+  <MThingsMedical_ReverseVasectomy.successfullyRemovedHediffMessage>{0} 成功为 {1} 完成了输精管复通。</MThingsMedical_ReverseVasectomy.successfullyRemovedHediffMessage>
+  <MThingsMedical_ImplantIUD.label>植入简易宫内节育器</MThingsMedical_ImplantIUD.label>
+  <MThingsMedical_ImplantIUD.description>在子宫内植入小型金属装置以防止怀孕。装置可以日后取出，但有小概率造成永久绝育。该手术会终止妊娠早期的胎儿。</MThingsMedical_ImplantIUD.description>
+  <MThingsMedical_ImplantIUD.jobString>正在为 TargetA 植入宫内节育器。</MThingsMedical_ImplantIUD.jobString>
+  <MThingsMedical_ImplantIUD.successfullyRemovedHediffMessage>{0} 成功为 {1} 植入了宫内节育器。</MThingsMedical_ImplantIUD.successfullyRemovedHediffMessage>
+  <MThingsMedical_RemoveIUD.label>取出简易宫内节育器</MThingsMedical_RemoveIUD.label>
+  <MThingsMedical_RemoveIUD.description>取出已植入的宫内节育器，使患者能够正常怀孕。如果手术失败，患者将永久绝育。</MThingsMedical_RemoveIUD.description>
+  <MThingsMedical_RemoveIUD.jobString>正在为 TargetA 取出宫内节育器。</MThingsMedical_RemoveIUD.jobString>
+  <MThingsMedical_RemoveIUD.successfullyRemovedHediffMessage>{0} 成功取出了 {1} 的宫内节育器。</MThingsMedical_RemoveIUD.successfullyRemovedHediffMessage>
+</LanguageData>

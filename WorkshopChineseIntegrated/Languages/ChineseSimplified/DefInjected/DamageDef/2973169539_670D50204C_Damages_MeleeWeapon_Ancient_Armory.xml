@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Damage -->
+
+  <BotchJob_ToxicCut.label>割伤</BotchJob_ToxicCut.label>
+  <BotchJob_ToxicCut.deathMessage>{0}被砍死了。</BotchJob_ToxicCut.deathMessage>
+
+  <BotchJob_ToxicStab.label>刺伤</BotchJob_ToxicStab.label>
+  <BotchJob_ToxicStab.deathMessage>{0}被刺死了。</BotchJob_ToxicStab.deathMessage>
+
+
+</LanguageData>

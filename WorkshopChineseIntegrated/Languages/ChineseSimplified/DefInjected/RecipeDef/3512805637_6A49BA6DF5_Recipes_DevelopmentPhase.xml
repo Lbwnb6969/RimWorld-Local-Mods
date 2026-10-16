@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: phase 2 development -->
+  <BEWH_FirstbornPhaseOneTwo.label>改造阶段（二）</BEWH_FirstbornPhaseOneTwo.label>
+  <!-- EN: Further develops the implanted gene-seed. -->
+  <BEWH_FirstbornPhaseOneTwo.description>进一步改造植入的基因种子。</BEWH_FirstbornPhaseOneTwo.description>
+  <!-- EN: Developing {0}'s gene-seed. -->
+  <BEWH_FirstbornPhaseOneTwo.jobString>正在改造{0}的基因种子。</BEWH_FirstbornPhaseOneTwo.jobString>
+  <!-- EN: {0} has successfully further developed {1}'s gene-seed. -->
+  <BEWH_FirstbornPhaseOneTwo.successfullyRemovedHediffMessage>{0}已成功改造{1}的基因种子。</BEWH_FirstbornPhaseOneTwo.successfullyRemovedHediffMessage>
+  
+  <!-- EN: final phase development -->
+  <BEWH_FirstbornPhaseThreeFour.label>改造阶段（一）</BEWH_FirstbornPhaseThreeFour.label>
+  <!-- EN: Further develops the implanted gene-seed. -->
+  <BEWH_FirstbornPhaseThreeFour.description>进一步改造植入的基因种子。</BEWH_FirstbornPhaseThreeFour.description>
+  <!-- EN: Developing {0}'s gene-seed. -->
+  <BEWH_FirstbornPhaseThreeFour.jobString>正在改造{0}的基因种子。</BEWH_FirstbornPhaseThreeFour.jobString>
+  <!-- EN: {0} has successfully further developed {1}'s gene-seed. -->
+  <BEWH_FirstbornPhaseThreeFour.successfullyRemovedHediffMessage>{0}已成功改造{1}的基因种子。</BEWH_FirstbornPhaseThreeFour.successfullyRemovedHediffMessage>
+  
+  <!-- EN: phase 3 development -->
+  <BEWH_FirstbornPhaseTwoThree.label>改造阶段（三）</BEWH_FirstbornPhaseTwoThree.label>
+  <!-- EN: Further develops the implanted gene-seed. -->
+  <BEWH_FirstbornPhaseTwoThree.description>进一步改造植入的基因种子。</BEWH_FirstbornPhaseTwoThree.description>
+  <!-- EN: Developing {0}'s gene-seed. -->
+  <BEWH_FirstbornPhaseTwoThree.jobString>正在改造{0}的基因种子。</BEWH_FirstbornPhaseTwoThree.jobString>
+  <!-- EN: {0} has successfully further developed {1}'s gene-seed. -->
+  <BEWH_FirstbornPhaseTwoThree.successfullyRemovedHediffMessage>{0}已成功改造{1}的基因种子。</BEWH_FirstbornPhaseTwoThree.successfullyRemovedHediffMessage>
+  
+  <!-- EN: phase 2 development -->
+  <BEWH_PrimarisPhaseOneTwo.label>改造阶段（二）</BEWH_PrimarisPhaseOneTwo.label>
+  <!-- EN: Further develops the implanted gene-seed. -->
+  <BEWH_PrimarisPhaseOneTwo.description>进一步改造植入的基因种子。</BEWH_PrimarisPhaseOneTwo.description>
+  <!-- EN: Developing {0}'s gene-seed. -->
+  <BEWH_PrimarisPhaseOneTwo.jobString>正在改造{0}的基因种子。</BEWH_PrimarisPhaseOneTwo.jobString>
+  <!-- EN: {0} has successfully further developed {1}'s gene-seed. -->
+  <BEWH_PrimarisPhaseOneTwo.successfullyRemovedHediffMessage>{0}已成功改造{1}的基因种子。</BEWH_PrimarisPhaseOneTwo.successfullyRemovedHediffMessage>
+  
+  <!-- EN: final phase development -->
+  <BEWH_PrimarisPhaseThreeFour.label>改造阶段（一）</BEWH_PrimarisPhaseThreeFour.label>
+  <!-- EN: Further develops the implanted gene-seed. -->
+  <BEWH_PrimarisPhaseThreeFour.description>进一步改造植入的基因种子。</BEWH_PrimarisPhaseThreeFour.description>
+  <!-- EN: Developing {0}'s gene-seed. -->
+  <BEWH_PrimarisPhaseThreeFour.jobString>正在改造{0}的基因种子。</BEWH_PrimarisPhaseThreeFour.jobString>
+  <!-- EN: {0} has successfully further developed {1}'s gene-seed. -->
+  <BEWH_PrimarisPhaseThreeFour.successfullyRemovedHediffMessage>{0}已成功改造{1}的基因种子。</BEWH_PrimarisPhaseThreeFour.successfullyRemovedHediffMessage>
+  
+  <!-- EN: phase 3 development -->
+  <BEWH_PrimarisPhaseTwoThree.label>改造阶段（三）</BEWH_PrimarisPhaseTwoThree.label>
+  <!-- EN: Further develops the implanted gene-seed. -->
+  <BEWH_PrimarisPhaseTwoThree.description>进一步改造植入的基因种子。</BEWH_PrimarisPhaseTwoThree.description>
+  <!-- EN: Developing {0}'s gene-seed. -->
+  <BEWH_PrimarisPhaseTwoThree.jobString>正在改造{0}的基因种子。</BEWH_PrimarisPhaseTwoThree.jobString>
+  <!-- EN: {0} has successfully further developed {1}'s gene-seed. -->
+  <BEWH_PrimarisPhaseTwoThree.successfullyRemovedHediffMessage>{0}已成功改造{1}的基因种子。</BEWH_PrimarisPhaseTwoThree.successfullyRemovedHediffMessage>
+  
+</LanguageData>

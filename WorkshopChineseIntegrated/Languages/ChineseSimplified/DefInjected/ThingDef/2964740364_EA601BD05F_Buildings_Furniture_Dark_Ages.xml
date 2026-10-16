@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DA_SepulchralBrazier.label>墓穴火盆</DA_SepulchralBrazier.label>
+  <DA_SepulchralBrazier.description>用来照亮圣地的墓穴火盆。会照亮周围的环境并产生少量的热能。</DA_SepulchralBrazier.description>
+
+  <DA_DarklightSepulchralBrazier.label>暗光墓穴火盆</DA_DarklightSepulchralBrazier.label>
+  <DA_DarklightSepulchralBrazier.description>经过特殊处理的墓穴火盆，暗色的火焰能为圣地提供照明。会照亮周围的环境并产生少量的热能。</DA_DarklightSepulchralBrazier.description>
+
+  <DA_BloodflameSepulchralBrazier.label>血色墓穴火盆</DA_BloodflameSepulchralBrazier.label>
+  <DA_BloodflameSepulchralBrazier.description>经过特殊处理的墓穴火盆，血色的火焰能为圣地提供照明。会照亮周围的环境并产生少量的热能。</DA_BloodflameSepulchralBrazier.description>
+
+  <!-- Candles -->
+
+  <DA_Candles.label>墓穴蜡烛</DA_Candles.label>
+  <DA_Candles.description>能在小范围内发出光线的蜡烛。通常用于照亮圣地，如陵墓和墓室。</DA_Candles.description>
+
+  <DA_DarkCandles.label>暗光蜡烛</DA_DarkCandles.label>
+  <DA_DarkCandles.description>经过特殊处理的蜡烛，能在小范围内发出昏暗的光线。通常用于照亮圣地，如陵墓和墓室。</DA_DarkCandles.description>
+
+  <DA_BloodCandles.label>血色蜡烛</DA_BloodCandles.label>
+  <DA_BloodCandles.description>经过特殊处理的蜡烛，能在小范围内发出昏暗的红光。拥有嗜血基因的殖民者们特别喜爱这种嫣红的光源。通常用于照亮圣地，如陵墓和墓室。</DA_BloodCandles.description>
+
+
+  <!-- Candelabras -->
+
+  <DA_GrandCandelabra.label>宏伟烛台</DA_GrandCandelabra.label>
+  <DA_GrandCandelabra.description>高大的烛台上点燃着蜡烛，发出光线。通常用于照亮圣地，如陵墓和墓室。</DA_GrandCandelabra.description>
+
+  <DA_DarklightGrandCandelabra.label>宏伟暗光烛台</DA_DarklightGrandCandelabra.label>
+  <DA_DarklightGrandCandelabra.description>高大的烛台上点燃着暗光蜡烛，发出昏暗的光线。通常用于照亮圣地，如陵墓和墓室。</DA_DarklightGrandCandelabra.description>
+
+  <DA_BloodGrandCandelabra.label>宏伟血色烛台</DA_BloodGrandCandelabra.label>
+  <DA_BloodGrandCandelabra.description>高大的烛台上点燃着血色蜡烛，发出昏暗的红光。拥有嗜血基因的殖民者们特别喜爱这种嫣红的光源。通常用于照亮圣地，如陵墓和墓室。</DA_BloodGrandCandelabra.description>
+
+
+</LanguageData>

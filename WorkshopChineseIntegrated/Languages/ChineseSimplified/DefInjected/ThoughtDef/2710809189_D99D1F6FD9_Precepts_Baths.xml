@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_Baths_Desired.stages.no_bathtubs_or_showers.label>没有浴缸或淋浴器</AM_Baths_Desired.stages.no_bathtubs_or_showers.label>
+  
+  <AM_Baths_Desired.stages.no_bathtubs_or_showers.description>这里是猪圈吗？我们需要更好的待遇。</AM_Baths_Desired.stages.no_bathtubs_or_showers.description>
+  
+  <AM_Baths_Desired.stages.very_few_bathtubs_and_showers.label>较少浴缸或淋浴器</AM_Baths_Desired.stages.very_few_bathtubs_and_showers.label>
+  
+  <AM_Baths_Desired.stages.very_few_bathtubs_and_showers.description>附近的浴缸或淋浴器寥寥无几。这一点都不卫生。</AM_Baths_Desired.stages.very_few_bathtubs_and_showers.description>
+  
+  <AM_Baths_Desired.stages.enough_bathtubs_and_showers.label>足量浴缸或淋浴器</AM_Baths_Desired.stages.enough_bathtubs_and_showers.label>
+  
+  <AM_Baths_Desired.stages.enough_bathtubs_and_showers.description>每名殖民者都拥有了自己的浴缸或淋浴器。这才卫生嘛！</AM_Baths_Desired.stages.enough_bathtubs_and_showers.description>
+  
+  <AM_Baths_Desired.stages.lots_of_bathtubs_and_showers.label>很多浴缸或淋浴器</AM_Baths_Desired.stages.lots_of_bathtubs_and_showers.label>
+  
+  <AM_Baths_Desired.stages.lots_of_bathtubs_and_showers.description>TODO</AM_Baths_Desired.stages.lots_of_bathtubs_and_showers.description>
+  
+</LanguageData>

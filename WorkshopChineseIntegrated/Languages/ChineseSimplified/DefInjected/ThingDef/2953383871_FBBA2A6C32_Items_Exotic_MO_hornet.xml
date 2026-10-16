@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deathstinger larvae -->
+  <SV_DeathstingerLarvae.label>死亡毒刺幼虫</SV_DeathstingerLarvae.label>
+  <!-- EN: The bottled larvae extracted from a deathstinger hive. Contrary to common beliefs, deathstinger hives can operate and thrive without a queen. Can be used to make a deathstinger apiary.\n(Medieval Overhaul : Hornetkeeping) -->
+  <SV_DeathstingerLarvae.description>从大黄蜂巢穴中提取出的幼虫瓶。与世人认知相悖，这种大而凶恶的黄蜂即便缺少蜂后也能正常运作与繁衍。可用于打造大黄蜂蜂箱。</SV_DeathstingerLarvae.description>
+  
+</LanguageData>

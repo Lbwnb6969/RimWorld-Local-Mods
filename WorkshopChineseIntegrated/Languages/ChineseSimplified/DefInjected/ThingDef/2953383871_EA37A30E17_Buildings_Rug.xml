@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Base -->
+
+  <DankPyon_RugPatched_Leather1x1c.label>拼接皮革地毯(1x1)</DankPyon_RugPatched_Leather1x1c.label>
+  <DankPyon_RugPatched_Leather1x1c.description>用许多种皮革缝制而成的地毯。</DankPyon_RugPatched_Leather1x1c.description>
+
+  <DankPyon_RugPatched_Leather1x2c.label>拼接皮革地毯(1x2)</DankPyon_RugPatched_Leather1x2c.label>
+  <DankPyon_RugPatched_Leather1x2c.description>用许多种皮革缝制而成的地毯。</DankPyon_RugPatched_Leather1x2c.description>
+
+  <DankPyon_RugPatched_Leather2x2c.label>拼接皮革地毯(2x2)</DankPyon_RugPatched_Leather2x2c.label>
+  <DankPyon_RugPatched_Leather2x2c.description>用许多种皮革缝制而成的地毯。</DankPyon_RugPatched_Leather2x2c.description>
+
+  <DankPyon_RugPatched_Leather2x4c.label>拼接皮革地毯(2x4)</DankPyon_RugPatched_Leather2x4c.label>
+  <DankPyon_RugPatched_Leather2x4c.description>用许多种皮革缝制而成的地毯。</DankPyon_RugPatched_Leather2x4c.description>
+
+  <DankPyon_RugPatched_Leather3x3c.label>拼接皮革地毯(3x3)</DankPyon_RugPatched_Leather3x3c.label>
+  <DankPyon_RugPatched_Leather3x3c.description>用许多种皮革缝制而成的地毯。</DankPyon_RugPatched_Leather3x3c.description>
+
+  <DankPyon_RugPatched_Cloth1x1c.label>拼接布地毯(1x1)</DankPyon_RugPatched_Cloth1x1c.label>
+  <DankPyon_RugPatched_Cloth1x1c.description>用许多种布料缝制而成的地毯。</DankPyon_RugPatched_Cloth1x1c.description>
+
+  <DankPyon_RugPatched_Cloth1x2c.label>拼接布地毯(1x2)</DankPyon_RugPatched_Cloth1x2c.label>
+  <DankPyon_RugPatched_Cloth1x2c.description>用许多种布料缝制而成的地毯。</DankPyon_RugPatched_Cloth1x2c.description>
+
+  <DankPyon_RugPatched_Cloth2x2c.label>拼接布地毯(2x2)</DankPyon_RugPatched_Cloth2x2c.label>
+  <DankPyon_RugPatched_Cloth2x2c.description>用许多种布料缝制而成的地毯。</DankPyon_RugPatched_Cloth2x2c.description>
+
+  <DankPyon_RugPatched_Cloth2x4c.label>拼接布地毯(2x4)</DankPyon_RugPatched_Cloth2x4c.label>
+  <DankPyon_RugPatched_Cloth2x4c.description>用许多种布料缝制而成的地毯。</DankPyon_RugPatched_Cloth2x4c.description>
+
+  <DankPyon_RugPatched_Cloth3x3c.label>拼接布地毯(3x3)</DankPyon_RugPatched_Cloth3x3c.label>
+  <DankPyon_RugPatched_Cloth3x3c.description>用许多种布料缝制而成的地毯。</DankPyon_RugPatched_Cloth3x3c.description>
+
+  <DankPyon_RugRoyal_Lys2x3c.label>贵族百合花饰地毯(2x3)</DankPyon_RugRoyal_Lys2x3c.label>
+  <DankPyon_RugRoyal_Lys2x3c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugRoyal_Lys2x3c.description>
+
+  <DankPyon_RugRoyal_LongLys2x4c.label>贵族百合花饰地毯(2x4)</DankPyon_RugRoyal_LongLys2x4c.label>
+  <DankPyon_RugRoyal_LongLys2x4c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugRoyal_LongLys2x4c.description>
+
+  <DankPyon_RugRoyal_LongLys3x3c.label>贵族十字纹饰地毯(3x3)</DankPyon_RugRoyal_LongLys3x3c.label>
+  <DankPyon_RugRoyal_LongLys3x3c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugRoyal_LongLys3x3c.description>
+
+  <DankPyon_RugRoyal_GrandCross3x3c.label>贵族十字纹饰地毯(4x6)</DankPyon_RugRoyal_GrandCross3x3c.label>
+  <DankPyon_RugRoyal_GrandCross3x3c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugRoyal_GrandCross3x3c.description>
+
+  <DankPyon_RugLoot_Lys_DeepGreen2x3c.label>百合花饰地毯(2x3,深绿)</DankPyon_RugLoot_Lys_DeepGreen2x3c.label>
+  <DankPyon_RugLoot_Lys_DeepGreen2x3c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Lys_DeepGreen2x3c.description>
+
+  <DankPyon_RugLoot_Lys_Lime2x3c.label>百合花饰地毯(2x3,浅绿)</DankPyon_RugLoot_Lys_Lime2x3c.label>
+  <DankPyon_RugLoot_Lys_Lime2x3c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Lys_Lime2x3c.description>
+
+  <DankPyon_RugLoot_Lys_Blue2x3c.label>百合花饰地毯(2x3,蓝)</DankPyon_RugLoot_Lys_Blue2x3c.label>
+  <DankPyon_RugLoot_Lys_Blue2x3c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Lys_Blue2x3c.description>
+
+  <DankPyon_RugLoot_Lys_Red2x3c.label>百合花饰地毯(2x3,红)</DankPyon_RugLoot_Lys_Red2x3c.label>
+  <DankPyon_RugLoot_Lys_Red2x3c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Lys_Red2x3c.description>
+
+  <DankPyon_RugLoot_Diamond_DeepGreen2x4c.label>菱纹地毯(2x4,深绿)</DankPyon_RugLoot_Diamond_DeepGreen2x4c.label>
+  <DankPyon_RugLoot_Diamond_DeepGreen2x4c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Diamond_DeepGreen2x4c.description>
+
+  <DankPyon_RugLoot_Diamond_RedYellow2x4c.label>菱纹地毯(2x4,红x黄)</DankPyon_RugLoot_Diamond_RedYellow2x4c.label>
+  <DankPyon_RugLoot_Diamond_RedYellow2x4c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Diamond_RedYellow2x4c.description>
+
+  <DankPyon_RugLoot_Diamond_LimeRed2x4c.label>菱纹地毯(2x4,浅绿x红)</DankPyon_RugLoot_Diamond_LimeRed2x4c.label>
+  <DankPyon_RugLoot_Diamond_LimeRed2x4c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Diamond_LimeRed2x4c.description>
+
+  <DankPyon_RugLoot_Diamond_RGB2x4c.label>格纹地毯(2x4)</DankPyon_RugLoot_Diamond_RGB2x4c.label>
+  <DankPyon_RugLoot_Diamond_RGB2x4c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Diamond_RGB2x4c.description>
+
+  <DankPyon_RugLoot_Striped_RGB2x4c.label>条纹地毯(2x4,深绿)</DankPyon_RugLoot_Striped_RGB2x4c.label>
+  <DankPyon_RugLoot_Striped_RGB2x4c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Striped_RGB2x4c.description>
+
+  <DankPyon_RugLoot_Striped_BlueLime2x4c.label>条纹地毯(2x4,蓝x浅绿)</DankPyon_RugLoot_Striped_BlueLime2x4c.label>
+  <DankPyon_RugLoot_Striped_BlueLime2x4c.description>一张花俏复杂的丝质地毯，专为贵族量身订做。</DankPyon_RugLoot_Striped_BlueLime2x4c.description>
+
+
+  <!-- Animal Rugs -->
+
+  <DankPyon_RugHyena2x2c.label>鬣狗地毯(2x2)</DankPyon_RugHyena2x2c.label>
+  <DankPyon_RugHyena2x2c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。鬣狗地毯虽小，但从条纹到圆点的奢华图案使这件地毯成为美丽的点缀装饰品。</DankPyon_RugHyena2x2c.description>
+
+  <DankPyon_RugWolfTimber2x2c.label>森林狼地毯(2x2)</DankPyon_RugWolfTimber2x2c.label>
+  <DankPyon_RugWolfTimber2x2c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。森林狼灰褐色的毛皮能做成很有价值的地毯，但成本很高，因为猎人很可能必须面对一群成群结队的野兽。</DankPyon_RugWolfTimber2x2c.description>
+
+  <DankPyon_RugWolfArctic2x2c.label>北极狼地毯(2x2)</DankPyon_RugWolfArctic2x2c.label>
+  <DankPyon_RugWolfArctic2x2c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。北极狼是森林狼的其中一个亚种，它们的身体能力和毛皮是专为生存而设计的。北极狼地毯讲述了一名猎人勇敢地冒着极端险恶温度并征服了饥饿捕食者的故事。</DankPyon_RugWolfArctic2x2c.description>
+
+  <DankPyon_RugCougar2x2c.label>美洲狮地毯(2x2)</DankPyon_RugCougar2x2c.label>
+  <DankPyon_RugCougar2x2c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。美洲狮因其奢华的毛皮而备受推崇，这使美洲狮地毯被视为普通地毯的奢侈替代品。</DankPyon_RugCougar2x2c.description>
+
+  <DankPyon_RugPanther2x2c.label>黑豹地毯(2x2)</DankPyon_RugPanther2x2c.label>
+  <DankPyon_RugPanther2x2c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。黑豹地毯，就像活着的黑豹本身一样，在夜间遁入暗影之中，但大理石般的眼睛在黑暗中闪着亮光。</DankPyon_RugPanther2x2c.description>
+
+  <DankPyon_RugGrizzlyBear3x3c.label>熊皮地毯(3x3)</DankPyon_RugGrizzlyBear3x3c.label>
+  <DankPyon_RugGrizzlyBear3x3c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。熊的大毛皮是动物地毯最抢手的材料之一，这使得熊地毯成为勇敢面对狩猎的殖民者的居家装饰首选。</DankPyon_RugGrizzlyBear3x3c.description>
+
+  <DankPyon_RugPolarBear3x3c.label>北极熊地毯(3x3)</DankPyon_RugPolarBear3x3c.label>
+  <DankPyon_RugPolarBear3x3c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。在极寒气候中发现的北极熊身上长着白色的皮毛，可以用来制作耐寒的地毯。对于在寒冷温度下发展的家园特别有价值。</DankPyon_RugPolarBear3x3c.description>
+
+  <DankPyon_RugRox3x3c.label>罗克斯地毯(3x3)</DankPyon_RugRox3x3c.label>
+  <DankPyon_RugRox3x3c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。</DankPyon_RugRox3x3c.description>
+
+  <DankPyon_RugThrumbo3x3c.label>敲击兽地毯(3x3)</DankPyon_RugThrumbo3x3c.label>
+  <DankPyon_RugThrumbo3x3c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。很少有猎人能制作出比敲击兽地毯更精致、更耐用的战利品。它的长毛可以吸引所有殖民者的视线，但结实的兽皮需要大量裁剪工作。※走路时请小心突出的角。</DankPyon_RugThrumbo3x3c.description>
+
+  <DankPyon_RugDaer4x4c.label>鹿熊地毯(4x4)</DankPyon_RugDaer4x4c.label>
+  <DankPyon_RugDaer4x4c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。很少有猎人能制作出比鹿熊地毯更精致、更耐用的战利品。它的长毛可以吸引所有殖民者的视线，但结实的兽皮需要大量裁剪工作。※走路时请小心突出的角。</DankPyon_RugDaer4x4c.description>
+
+  <DankPyon_RugHuman1x2c.label>人皮地毯(1x2)</DankPyon_RugHuman1x2c.label>
+  <DankPyon_RugHuman1x2c.description>技巧娴熟猎人的战利品。动物生皮经过鞣制及填充后，缝在毛毡和衬垫上即作成动物地毯。人皮地毯是珍贵的战利品，有人推崇，但也有些人厌恶，无论如何，志同道合的食人族会在人皮装饰的围绕下获得慰藉。</DankPyon_RugHuman1x2c.description>
+
+
+</LanguageData>

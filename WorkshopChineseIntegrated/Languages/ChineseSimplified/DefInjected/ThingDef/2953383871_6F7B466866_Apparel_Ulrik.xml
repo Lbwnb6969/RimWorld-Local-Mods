@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Body Armor -->
+
+  <DankPyon_Apparel_AdornedMailShirt.label>连身重型锁甲(佩饰)</DankPyon_Apparel_AdornedMailShirt.label>
+  <DankPyon_Apparel_AdornedMailShirt.description>一件厚而结实的锁子甲，上面覆盖着一件精美的绗缝外套。分层结构提供充足的温暖。整体来说，这是一件令人印象深刻的盔甲，装饰着奖章和圣徽。</DankPyon_Apparel_AdornedMailShirt.description>
+
+  <DankPyon_Apparel_AdornedWarriorArmor.label>连身战士盔甲(佩饰)</DankPyon_Apparel_AdornedWarriorArmor.label>
+  <DankPyon_Apparel_AdornedWarriorArmor.description>一件厚重而结实的锁子甲，上面覆盖着一件精美的绗缝外套。分层结构提供充足的温暖。整体来说，这是一件令人印象深刻的盔甲，装饰着奖章和圣徽。</DankPyon_Apparel_AdornedWarriorArmor.description>
+
+  <DankPyon_Apparel_AdornedHeavyPlate.label>连身板甲(佩饰)</DankPyon_Apparel_AdornedHeavyPlate.label>
+  <DankPyon_Apparel_AdornedHeavyPlate.description>一块厚重的板甲背厚厚的铆接夹克和加固的护臂所覆盖。分层结构提供充足的温暖。通常只有誓约者中的佼佼者—守誓者—才能佩戴，装饰着精美的奖章和宗教符号。</DankPyon_Apparel_AdornedHeavyPlate.description>
+
+
+  <!-- Headgear -->
+
+  <DankPyon_Adorned_HeavyMailCoif.label>重型锁甲罩帽(佩饰)</DankPyon_Adorned_HeavyMailCoif.label>
+  <DankPyon_Adorned_HeavyMailCoif.description>由金属链条锻造加固而成的厚兜帽，附加了金属板鼻托，几乎可以完全保护脸部。但使佩戴者有点难以看见前方，但在其他方面提供了极佳的防割保护。</DankPyon_Adorned_HeavyMailCoif.description>
+
+  <DankPyon_Adorned_FlatTop.label>覆面平顶盔(佩饰)</DankPyon_Adorned_FlatTop.label>
+  <DankPyon_Adorned_FlatTop.description>全罩式头盔的早期设计，结构包括一顶加固的平顶头盔搭配链甲罩帽和一副额外的金属面罩。为整个头部提供很好的保护力，但会严重妨碍视力和呼吸。</DankPyon_Adorned_FlatTop.description>
+
+  <DankPyon_Adorned_GreatHelm.label>十字军头盔(佩饰)</DankPyon_Adorned_GreatHelm.label>
+  <DankPyon_Adorned_GreatHelm.description>一种装饰精美的全覆式十字军头盔，通常由骑枪兵、比武冠军以及战功显赫的贵族世家佩戴。不仅能彰显佩戴者的高贵地位，同时在战斗中能提供相当大的保护。\n\n这顶十字军头盔上的颜色象征着乌里克骑士团。</DankPyon_Adorned_GreatHelm.description>
+
+
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arapaima (adept catch) -->
+  <VCEF_Arapaima.label>巨骨舌鱼★</VCEF_Arapaima.label>
+  <!-- EN: Raw arapaima. On old Earth, it was among the world's largest freshwater fish, reaching as much as 3 m in length. It was an important food fish.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_Arapaima.description>巨骨舌鱼亦被称为海象鱼。其成鱼体长可达2-6米，是古地球上最大最重要的可食用淡水鱼之一。\n\n这种高品质渔获的营养值是同尺寸渔获的两倍。</VCEF_Arapaima.description>
+  
+  <!-- EN: butterfish (adept catch) -->
+  <VCEF_ButterFish.label>鲳鱼★</VCEF_ButterFish.label>
+  <!-- EN: Raw Atlantic butterfish. The Atlantic butterfish is distinguished by its very thin, deep body, resembling a flounder on edge. It earned its buttery name from its high oil content.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_ButterFish.description>鲳鱼，亦被称镜鱼、平鱼。它们体短而高，极侧扁，略呈菱形，体内富含丰富的油脂。\n\n这种高品质渔获的营养值是同尺寸渔获的两倍。</VCEF_ButterFish.description>
+  
+  <!-- EN: crayfish (adept catch) -->
+  <VCEF_Crayfish.label>小龙虾★</VCEF_Crayfish.label>
+  <!-- EN: Raw crayfish. Crayfish are freshwater crustaceans resembling small lobsters (to which they are related). Some species are found in brooks and streams, where fresh water is running, while others thrive in swamps, ditches, and paddy fields.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_Crayfish.description>小龙虾是一种淡水甲壳纲动物，与海生的龙虾略有血缘关系。它们喜欢栖息在溪流、沼泽，沟渠、池塘和稻田中。\n\n这种高品质渔获的营养值是同尺寸渔获的两倍。</VCEF_Crayfish.description>
+  
+  <!-- EN: flying fish (adept catch) -->
+  <VCEF_FlyingFish.label>飞鱼★</VCEF_FlyingFish.label>
+  <!-- EN: Raw flying fish. While they cannot fly in the same way a bird does, flying fish can make powerful, self-propelled leaps out of the water where their long wing-like fins enable gliding for considerable distances above the water's surface.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_FlyingFish.description>飞鱼长相奇特，长长的胸鳍一直延伸到尾部，就好像鸟类的翅膀一样。它们能够跃出水面十几米，并可在空中停留长达40多秒，滑行距离最远可达400多米。\n\n这种高品质渔获的营养值是同尺寸渔获的两倍。</VCEF_FlyingFish.description>
+  
+  <!-- EN: freshwater stingray (adept catch) -->
+  <VCEF_FreshwaterStingray.label>淡水魟鱼★</VCEF_FreshwaterStingray.label>
+  <!-- EN: Raw freshwater stingray. Freshwater stingrays are one of the only rays inhabiting freshwater rather than saltwater. Though docile animals, they were responsiblein old Earth for more injuries to humans each year than any other Amazonian species.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_FreshwaterStingray.description>淡水魟鱼亦被称为锅盖鱼、云石魟鱼、虽然性情温顺，但尾端包含剧毒的芒刺也使它们成为了一种极具危险的生物。\n\n这种高品质渔获的营养值是同尺寸渔获的两倍。</VCEF_FreshwaterStingray.description>
+  
+  <!-- EN: shortfin mako shark (adept catch) -->
+  <VCEF_ShortfinMakoShark.label>短鳍灰鲭鲨★</VCEF_ShortfinMakoShark.label>
+  <!-- EN: Raw shortfin mako shark. A large, predatory shark that lives in the open ocean and is often considered the fastest shark. It is known for its incredible leaping ability and can be observed jumping to extreme heights (out of the water) when hunting.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_ShortfinMakoShark.description>短鳍灰鲭鲨常被认为是海洋中速度最快的大型捕食者，它们也以惊人的跳跃能力而闻名于世。\n\n这种高品质渔获的营养值是同尺寸渔获的两倍。</VCEF_ShortfinMakoShark.description>
+  
+</LanguageData>

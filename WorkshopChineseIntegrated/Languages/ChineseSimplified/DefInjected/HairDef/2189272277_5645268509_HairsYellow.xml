@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barren -->
+  <VHE_Barren.label>地中海（VHE）</VHE_Barren.label>
+  
+  <!-- EN: battle knot -->
+  <VHE_BattleBraid.label>战士发髻（VHE）</VHE_BattleBraid.label>
+  
+  <!-- EN: battle braids -->
+  <VHE_BattleBraids.label>战士辨发（VHE）</VHE_BattleBraids.label>
+  
+  <!-- EN: braided hawk -->
+  <VHE_BraidedHawk.label>莫西干辫（VHE）</VHE_BraidedHawk.label>
+  
+  <!-- EN: double hawk -->
+  <VHE_DoubleHawk.label>双莫西干（VHE）</VHE_DoubleHawk.label>
+  
+  <!-- EN: dreadlock -->
+  <VHE_Dreadlock.label>脏辫（VHE）</VHE_Dreadlock.label>
+  
+  <!-- EN: fire keeper -->
+  <VHE_FireKeeper.label>圣火保存者（VHE）</VHE_FireKeeper.label>
+  
+  <!-- EN: half-shaved -->
+  <VHE_HalfShaved.label>半剃（VHE）</VHE_HalfShaved.label>
+  
+  <!-- EN: hunter -->
+  <VHE_Hunter.label>猎人（VHE）</VHE_Hunter.label>
+  
+  <!-- EN: mystic -->
+  <VHE_Mystic.label>神秘主义者（VHE）</VHE_Mystic.label>
+  
+  <!-- EN: scorpion king -->
+  <VHE_ScorpionKing.label>蝎子王（VHE）</VHE_ScorpionKing.label>
+  
+  <!-- EN: spikey -->
+  <VHE_Spikey.label>尖刺（VHE）</VHE_Spikey.label>
+  
+  <!-- EN: straight -->
+  <VHE_Straight.label>直长发（VHE）</VHE_Straight.label>
+  
+  <!-- EN: tower -->
+  <VHE_Tower.label>塔式（VHE）</VHE_Tower.label>
+  
+  <!-- EN: tribal -->
+  <VHE_Tribal.label>部落（VHE）</VHE_Tribal.label>
+  
+  <!-- EN: tufthawk -->
+  <VHE_TuftHawk.label>短莫西干（VHE）</VHE_TuftHawk.label>
+  
+  <!-- EN: twisted -->
+  <VHE_Twisted.label>凌乱（VHE）</VHE_Twisted.label>
+  
+  <!-- EN: warrior -->
+  <VHE_Warrior.label>战士（VHE）</VHE_Warrior.label>
+  
+  <!-- EN: wilderness -->
+  <VHE_Wilderness.label>荒野（VHE）</VHE_Wilderness.label>
+  
+  <!-- EN: wrap -->
+  <VHE_Wrap.label>缠发（VHE）</VHE_Wrap.label>
+  
+</LanguageData>

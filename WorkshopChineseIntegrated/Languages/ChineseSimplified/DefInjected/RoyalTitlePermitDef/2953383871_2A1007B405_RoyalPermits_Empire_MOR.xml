@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FoodDrop.description>呼叫一份包含20x包装口粮的空投。</FoodDrop.description>
+
+  <SteelDrop.label>空投-铁锭</SteelDrop.label>
+  <SteelDrop.description>呼叫一份包含400x铁锭的空投。</SteelDrop.description>
+
+  <CallMilitaryAidSmall.label>呼叫轻装甲部队</CallMilitaryAidSmall.label>
+  <CallMilitaryAidSmall.description>呼叫一队（5人）轻步兵来协助你进行战斗。每位士兵都接受过近战和远程作战的训练（7-11级），并配备有锁甲和长矛或弩。</CallMilitaryAidSmall.description>
+
+  <CallMilitaryAidLarge.label>呼叫重装甲部队</CallMilitaryAidLarge.label>
+  <CallMilitaryAidLarge.description>呼叫一队（5人）重步兵来协助你进行战斗。每位士兵都接受过近战和远程作战的训练（12-16级），并配备有连身板甲和剑盾或重弩。</CallMilitaryAidLarge.description>
+
+  <CallMilitaryAidGrand.label>呼叫十字军部队</CallMilitaryAidGrand.label>
+  <CallMilitaryAidGrand.description>呼叫一队（5人）十字军来协助你进行战斗。每位士兵都接受过近战和远程作战的训练（17-20级），并配备有连身锁铠和双手武器。</CallMilitaryAidGrand.description>
+
+  <GlitterMedDrop.label>空投-大量草药</GlitterMedDrop.label>
+  <GlitterMedDrop.description>呼叫一份包含100x草药的空投。</GlitterMedDrop.description>
+
+</LanguageData>

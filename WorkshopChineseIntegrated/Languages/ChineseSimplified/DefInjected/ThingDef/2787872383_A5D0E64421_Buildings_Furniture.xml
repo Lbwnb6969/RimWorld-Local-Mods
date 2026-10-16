@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tent -->
+  <VFEC_Tent.label>行军帐</VFEC_Tent.label>
+  <!-- EN: A small, personal tent no larger than a single person bed. When pitched, such a tent will easily protect a pawn from elements such as heat or cold, however it’s not quite as restful, as one is still laying directly on the ground. -->
+  <VFEC_Tent.description>一张床大小的单人行军帐。支起来时可以帮助睡在其中的人抵御外界的负面环境，但由于里面的人还是睡在硬邦邦的地面上，其休息效率并不如一般的被褥。</VFEC_Tent.description>
+  
+</LanguageData>

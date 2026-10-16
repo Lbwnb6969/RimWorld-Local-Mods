@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Low-weight fallback for memes that lack a memeConcept rule. -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/RulePackDef[defName="GlobalUtility"]/rulePack/rulesStrings</xpath>
+    <value>
+      <li>memeConcept(p=0.1)-&gt;the divine</li>
+    </value>
+  </Operation>
+</Patch>

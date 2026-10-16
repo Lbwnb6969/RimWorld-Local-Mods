@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Custodes genetic matrix -->
+  <BEWH_GeneseedMatrixCustodes.label>禁军基因矩阵</BEWH_GeneseedMatrixCustodes.label>
+  <!-- EN: Genetic matrix is a bio-mechanical construct that encodes key genetic modifications, providing the necessary instructions for stable mutations and enhancements. It is used in a Gene-seed Gestator as a template for creation of the Ascendance Vials.\n\nThis genetic matrix contains the template for making Custodes.\n\nRapidly deteriorates outside containment. -->
+  <BEWH_GeneseedMatrixCustodes.description>基因矩阵是一种生物机械构造体，它对关键的基因改造进行了编码，为稳定的升华与强化提供必要指令。它在基因种子培育器中被用作制造升华原液的模板。\n\n该基因矩阵用于制造禁军。\n\n在容器外会迅速老化。</BEWH_GeneseedMatrixCustodes.description>
+  
+  <!-- EN: Firstborn genetic matrix -->
+  <BEWH_GeneseedMatrixFirstborn.label>初代星际战士基因矩阵</BEWH_GeneseedMatrixFirstborn.label>
+  <!-- EN: Genetic matrix is a bio-mechanical construct that encodes key genetic modifications, providing the necessary instructions for stable mutations and enhancements. It is used in a Gene-seed Gestator as a template for creation of the Ascendance Vials.\n\nThis genetic matrix contains the template for making Firstborn marines.\n\nIt seems that this template has room for additions.\n\nRapidly deteriorates outside containment. -->
+  <BEWH_GeneseedMatrixFirstborn.description>基因矩阵是一种生物机械构造体，它对关键的基因改造进行了编码，为稳定的升华与强化提供必要指令。它在基因种子培育器中被用作制造升华原液的模板。\n\n该基因矩阵用于制造初代星际战士。\n\n在容器外会迅速老化。</BEWH_GeneseedMatrixFirstborn.description>
+  
+  <!-- EN: Primarch genetic matrix -->
+  <BEWH_GeneseedMatrixPrimarch.label>基因原体基因矩阵</BEWH_GeneseedMatrixPrimarch.label>
+  <!-- EN: Genetic matrix is a bio-mechanical construct that encodes key genetic modifications, providing the necessary instructions for stable mutations and enhancements. It is used in a Gene-seed Gestator as a template for creation of the Ascendance Vials.\n\nThis genetic matrix contains the template for making Primarchs.\n\nIt seems that this template has room for additions.\n\nRapidly deteriorates outside containment. -->
+  <BEWH_GeneseedMatrixPrimarch.description>基因矩阵是一种生物机械构造体，它对关键的基因改造进行了编码，为稳定的升华与强化提供必要指令。它在基因种子培育器中被用作制造升华原液的模板。\n\n该基因矩阵用于制造基因原体。\n\n在容器外会迅速老化。</BEWH_GeneseedMatrixPrimarch.description>
+  
+  <!-- EN: Primaris genetic matrix -->
+  <BEWH_GeneseedMatrixPrimaris.label>原铸星际战士基因矩阵</BEWH_GeneseedMatrixPrimaris.label>
+  <!-- EN: Genetic matrix is a bio-mechanical construct that encodes key genetic modifications, providing the necessary instructions for stable mutations and enhancements. It is used in a Gene-seed Gestator as a template for creation of the Ascendance Vials.\n\nThis genetic matrix contains the template for making Primaris marines.\n\nIt seems that this template has room for additions.\n\nRapidly deteriorates outside containment. -->
+  <BEWH_GeneseedMatrixPrimaris.description>基因矩阵是一种生物机械构造体，它对关键的基因改造进行了编码，为稳定的升华与强化提供必要指令。它在基因种子培育器中被用作制造升华原液的模板。\n\n该基因矩阵用于制造原铸星际战士。\n\n在容器外会迅速老化。</BEWH_GeneseedMatrixPrimaris.description>
+  
+  <!-- EN: Thunder Warrior genetic matrix -->
+  <BEWH_GeneseedMatrixThunderWarrior.label>雷霆战士基因矩阵</BEWH_GeneseedMatrixThunderWarrior.label>
+  <!-- EN: Genetic matrix is a bio-mechanical construct that encodes key genetic modifications, providing the necessary instructions for stable mutations and enhancements. It is used in a Gene-seed Gestator as a template for creation of the Ascendance Vials.\n\nThis genetic matrix contains the template for making Thunder Warriors.\n\nRapidly deteriorates outside containment. -->
+  <BEWH_GeneseedMatrixThunderWarrior.description>基因矩阵是一种生物机械构造体，它对关键的基因改造进行了编码，为稳定的升华与强化提供必要指令。它在基因种子培育器中被用作制造升华原液的模板。\n\n该基因矩阵用于制造雷霆战士。\n\n在容器外会迅速老化。</BEWH_GeneseedMatrixThunderWarrior.description>
+  
+</LanguageData>

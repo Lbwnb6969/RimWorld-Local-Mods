@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_IntelData_T1Core.label>情报数据(等级1)</EES_IntelData_T1Core.label>
+  <EES_IntelData_T1Core.description>记录着敌方前哨站布局、实力与设施的加密数据核心。可远程侦察低等级(T1-T5)据点。仅能从奇异物品商人处获得，无法制作。</EES_IntelData_T1Core.description>
+  <EES_IntelData_T2Core.label>情报数据(等级2)</EES_IntelData_T2Core.label>
+  <EES_IntelData_T2Core.description>记录着敌方前哨站布局、实力与设施的高密度加密数据核心。可远程侦察中等级(T1-T8)据点。仅能从奇异物品商人处获得，无法制作。</EES_IntelData_T2Core.description>
+  <EES_IntelData_T3Core.label>情报数据(等级3)</EES_IntelData_T3Core.label>
+  <EES_IntelData_T3Core.description>记录着敌方前哨站布局、实力与设施的顶级加密数据核心。甚至可远程侦察高等级(T1-T12)据点。仅极少数情况下能从奇异物品商人处获得，无法制作。</EES_IntelData_T3Core.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: don't care -->
+  <VME_FungusEating_DontCare.label>漠视</VME_FungusEating_DontCare.label>
+  <!-- EN: Fungus goes well with lasagna. -->
+  <VME_FungusEating_DontCare.description>这些菌菇很适合用来做千层面。</VME_FungusEating_DontCare.description>
+  
+</LanguageData>

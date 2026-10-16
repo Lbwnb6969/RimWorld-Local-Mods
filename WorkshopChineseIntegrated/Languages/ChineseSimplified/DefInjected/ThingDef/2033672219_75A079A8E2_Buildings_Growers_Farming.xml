@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial ecosystem -->
+  <VFE_Ecosystem.label>人工生态系统</VFE_Ecosystem.label>
+  <!-- EN: Grows plants quickly in an artificial, sealed ecosystem. Requires a high amount of power to work; plants will die if power is cut.\n\nContains a built-in sun lamp to provide light for the plants. -->
+  <VFE_Ecosystem.description>在独立的人工生态系统中快速培育植物，甚至能适配于对生长环境最为挑剔的植物。运行时需要消耗大量电力。断电后植物会死亡。内置有可供植物进行光合作用的太阳灯。</VFE_Ecosystem.description>
+
+  <!-- EN: planter box -->
+  <VFE_PlanterBox.label>种植箱</VFE_PlanterBox.label>
+  <!-- EN: Grows plants in a box of soil. Does not require power to work. -->
+  <VFE_PlanterBox.description>装有土壤的种植箱。无需电力即可运作。</VFE_PlanterBox.description>
+  
+</LanguageData>

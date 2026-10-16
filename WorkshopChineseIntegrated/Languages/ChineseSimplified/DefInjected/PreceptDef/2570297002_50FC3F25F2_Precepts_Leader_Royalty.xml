@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: best psycaster -->
+  <VME_Leader_BestPsycaster.label>灵能尊者</VME_Leader_BestPsycaster.label>
+  <!-- EN: We will only be led by one who’s proven themselves to be our most powerful psyker among us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest level psycaster in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest psylink level in your colony. Even if the current leader has the same level. -->
+  <VME_Leader_BestPsycaster.description>只有最强大的灵能者才能领导我们。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 领袖职位将定期被强制委任给拥有最高启灵神经等级的殖民者（只会在作为主流文化时生效）。如果有多位殖民者的启灵神经等级相同，领袖职位将优先委任给最后升至最高等级的殖民者。</VME_Leader_BestPsycaster.description>
+  
+  <!-- EN: highest title -->
+  <VME_Leader_HighestTitle.label>最高头衔</VME_Leader_HighestTitle.label>
+  <!-- EN: Standing at imperial court is the most significant trait a leader can have.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest royalty title in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest royalty title in your colony. Even if the current leader has the same level. -->
+  <VME_Leader_HighestTitle.description>拥护帝国是我们领袖应尽的职责。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 领袖职位将定期被强制委任给拥有最高荣誉头衔的殖民者（只会在作为主流文化时生效）。如果有多位殖民者的荣誉头衔相同，领袖职位将优先委任给最后升至最高荣誉头衔的殖民者。</VME_Leader_HighestTitle.description>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: increased -->
+  <VME_PermitCooldown_Increased.label>提高</VME_PermitCooldown_Increased.label>
+  <!-- EN: Patience is a virtue, and now a necessity, as the cooldown of permits is doubled. Time crawls as the court awaits the next invocation of royal privilege. -->
+  <VME_PermitCooldown_Increased.description>许可使用需节制，耐心等待很重要。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 使用许可后的冷却时间提高。</VME_PermitCooldown_Increased.description>
+  
+  <!-- EN: lowered -->
+  <VME_PermitCooldown_Lowered.label>降低</VME_PermitCooldown_Lowered.label>
+  <!-- EN: Royalty demands swift action; thus, the cooldown of permits is lessened, allowing for a more rapid response to the ever-changing whims of noble desire. -->
+  <VME_PermitCooldown_Lowered.description>我们的欲望无穷无尽，许可使用应越快越好。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 使用许可后的冷却时间降低。</VME_PermitCooldown_Lowered.description>
+  
+</LanguageData>

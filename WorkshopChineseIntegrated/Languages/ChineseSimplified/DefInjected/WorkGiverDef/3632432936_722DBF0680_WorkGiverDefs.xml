@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: carry to gene extractor -->
+  <VR_CarryToGeneExtractor.label>搬运至基因提取器</VR_CarryToGeneExtractor.label>
+  <!-- EN: extracting genes from -->
+  <VR_CarryToGeneExtractor.gerund>正在从中提取基因</VR_CarryToGeneExtractor.gerund>
+  <!-- EN: extract genes -->
+  <VR_CarryToGeneExtractor.verb>提取基因</VR_CarryToGeneExtractor.verb>
+  
+  <!-- EN: milk animals -->
+  <VR_ConstructMilk.label>挤奶动物</VR_ConstructMilk.label>
+  <!-- EN: milking -->
+  <VR_ConstructMilk.gerund>挤奶</VR_ConstructMilk.gerund>
+  <!-- EN: milk -->
+  <VR_ConstructMilk.verb>挤奶</VR_ConstructMilk.verb>
+  
+  <!-- EN: shear animals -->
+  <VR_ConstructShear.label>剪毛动物</VR_ConstructShear.label>
+  <!-- EN: shearing -->
+  <VR_ConstructShear.gerund>剪毛</VR_ConstructShear.gerund>
+  <!-- EN: shear -->
+  <VR_ConstructShear.verb>剪毛</VR_ConstructShear.verb>
+  
+  <!-- EN: create xenogerm -->
+  <VR_CreateXenogerm.label>制作异种胚体</VR_CreateXenogerm.label>
+  <!-- EN: creating xenogerm at -->
+  <VR_CreateXenogerm.gerund>制作异种胚体于</VR_CreateXenogerm.gerund>
+  <!-- EN: create xenogerm -->
+  <VR_CreateXenogerm.verb>制作异种胚体</VR_CreateXenogerm.verb>
+  
+  <!-- EN: make construct -->
+  <VR_DoBillsMechGestator.label>制作构装体</VR_DoBillsMechGestator.label>
+  <!-- EN: working at -->
+  <VR_DoBillsMechGestator.gerund>正在工作于</VR_DoBillsMechGestator.gerund>
+  <!-- EN: work at -->
+  <VR_DoBillsMechGestator.verb>工作于</VR_DoBillsMechGestator.verb>
+  
+  <!-- EN: make things at soulcore encoder -->
+  <VR_DoBillsSubcoreEncoder.label>在魂核编码器制作物品</VR_DoBillsSubcoreEncoder.label>
+  <!-- EN: working at -->
+  <VR_DoBillsSubcoreEncoder.gerund>正在工作于</VR_DoBillsSubcoreEncoder.gerund>
+  <!-- EN: work -->
+  <VR_DoBillsSubcoreEncoder.verb>工作</VR_DoBillsSubcoreEncoder.verb>
+  
+  <!-- EN: operate -->
+  <VR_ExtractGeneOnPawn.label>手术</VR_ExtractGeneOnPawn.label>
+  <!-- EN: operate -->
+  <VR_ExtractGeneOnPawn.gerund>手术</VR_ExtractGeneOnPawn.gerund>
+  <!-- EN: operate -->
+  <VR_ExtractGeneOnPawn.verb>手术</VR_ExtractGeneOnPawn.verb>
+  
+</LanguageData>

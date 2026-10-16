@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: the Moors -->
+  <BA_Moor_NobleHouse.label>摩尔人</BA_Moor_NobleHouse.label>
+  <!-- EN: The Moors were originally a nomadic people, the original inhabitants of Mauretania on the north coast of Africa. They rose from obscurity in the 8th century when they converted to Islam, and proceeded to spread rapidly in several directions - including north-west into the Iberian peninsula. They soon had almost total dominion over all of Iberia with the exception of the lands to the north where some resilient Christians held fast, but Islamic Spain was a collection of cities more than a true caliphate - until now.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Iberia</color></i> -->
+  <BA_Moor_NobleHouse.description>摩尔人最初是游牧民族，是非洲北岸毛里塔尼亚的原住民。8世纪，他们改信伊斯兰教后逐渐崛起，随后向多个方向快速扩张——包括西北方向的伊比利亚半岛。不久后，除了北部一些顽强基督徒坚守的土地外，他们几乎完全统治了整个伊比利亚。但在此之前，伊斯兰西班牙始终是一群城市的集合，而非真正的哈里发国。</BA_Moor_NobleHouse.description>
+  <!-- EN: Almighty -->
+  <BA_Moor_NobleHouse.deityPresets.0.nameType.type>全能者</BA_Moor_NobleHouse.deityPresets.0.nameType.type>
+  <!-- EN: the Moors -->
+  <BA_Moor_NobleHouse.fixedName>摩尔人</BA_Moor_NobleHouse.fixedName>
+  <!-- EN: The Maliki school or Malikism is one of the four major schools of Islamic jurisprudence within Sunni Islam. It was founded by Malik ibn Anas in the 8th century. In contrast to the Ahl al-Hadith and Ahl al-Ra'y schools of thought, the Maliki school takes a unique position known as Ahl al-Amal, in which they consider the Sunnah to be primarily sourced from the practice of the people of Medina and living Islamic traditions for their rulings on Islamic law.The Maliki school is one of the largest groups of Sunni Muslims, comparable to the Shafi’i madhhab in adherents, but smaller than the Hanafi madhhab. Sharia based on Maliki Fiqh is predominantly found in North Africa (excluding parts of Egypt), West Africa, Chad, Sudan and the Persian Gulf. -->
+  <BA_Moor_NobleHouse.ideoDescription>马立克派（Malikism）是逊尼派伊斯兰教四大主要教法学派之一，由马利克·本·阿纳斯于8世纪创立。与圣训派（Ahl al-Hadith）和意见派（Ahl al-Ra'y）不同，马立克派秉持“行为派”（Ahl al-Amal）的独特立场，认为圣行（Sunnah）的主要来源是麦地那人的实践以及鲜活的伊斯兰传统，并以此作为伊斯兰教法的裁决依据。马立克派是逊尼派穆斯林中规模较大的学派之一，信徒数量与沙斐仪派相当，但少于哈乃斐派。基于马立克教法学的伊斯兰教法（Sharia）主要流行于北非（不含埃及部分地区）、西非、乍得、苏丹及波斯湾地区。</BA_Moor_NobleHouse.ideoDescription>
+  <!-- EN: Maliki Islam -->
+  <BA_Moor_NobleHouse.ideoName>马立克派伊斯兰教</BA_Moor_NobleHouse.ideoName>
+  <!-- EN: sultan -->
+  <BA_Moor_NobleHouse.leaderTitle>苏丹</BA_Moor_NobleHouse.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_Moor_NobleHouse.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_Moor_NobleHouse.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <BA_Moor_NobleHouse.pawnSingular>臣民</BA_Moor_NobleHouse.pawnSingular>
+  <!-- EN: subjects -->
+  <BA_Moor_NobleHouse.pawnsPlural>臣民们</BA_Moor_NobleHouse.pawnsPlural>
+  
+</LanguageData>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 机械手 -->
+
+  <MechanicalMedHand.label>机械手</MechanicalMedHand.label>
+  <MechanicalMedHand.description>一只已安装的机械手。</MechanicalMedHand.description>
+  <MechanicalMedHand.comps.0.tools.0.label>机械手</MechanicalMedHand.comps.0.tools.0.label>
+  <MechanicalMedHand.labelNoun>一只机械手</MechanicalMedHand.labelNoun>
+
+
+  <!-- 机械手臂 -->
+
+  <MechanicalMedArm.label>机械手臂</MechanicalMedArm.label>
+  <MechanicalMedArm.description>一只已安装的机械手臂。</MechanicalMedArm.description>
+  <MechanicalMedArm.comps.0.tools.0.label>机械手臂</MechanicalMedArm.comps.0.tools.0.label>
+  <MechanicalMedArm.labelNoun>一只机械手臂</MechanicalMedArm.labelNoun>
+
+
+  <!-- 机械腿 -->
+
+  <MechanicalMedLeg.label>机械腿</MechanicalMedLeg.label>
+  <MechanicalMedLeg.description>一只已安装的机械腿。</MechanicalMedLeg.description>
+  <MechanicalMedLeg.labelNoun>一只机械腿</MechanicalMedLeg.labelNoun>
+
+
+  <!-- 机械脚 -->
+
+  <MechanicalMedFoot.label>机械脚</MechanicalMedFoot.label>
+  <MechanicalMedFoot.description>一只已安装的机械脚。</MechanicalMedFoot.description>
+  <MechanicalMedFoot.labelNoun>一只机械脚</MechanicalMedFoot.labelNoun>
+
+
+  <!-- 机械趾 -->
+
+  <MechanicalMedToe.label>机械趾</MechanicalMedToe.label>
+  <MechanicalMedToe.description>一只已安装的机械趾。</MechanicalMedToe.description>
+  <MechanicalMedToe.labelNoun>一只机械趾</MechanicalMedToe.labelNoun>
+
+
+  <!-- 机械指 -->
+
+  <MechanicalMedFinger.label>机械指</MechanicalMedFinger.label>
+  <MechanicalMedFinger.description>一只已安装的机械指。</MechanicalMedFinger.description>
+  <MechanicalMedFinger.labelNoun>一只机械指</MechanicalMedFinger.labelNoun>
+
+
+  <!-- 机械鼻 -->
+
+  <MechanicalMedNose.label>机械鼻</MechanicalMedNose.label>
+  <MechanicalMedNose.description>一只已安装的机械鼻。</MechanicalMedNose.description>
+  <MechanicalMedNose.labelNoun>一只机械鼻</MechanicalMedNose.labelNoun>
+
+
+  <!-- 机械眼 -->
+
+  <MechanicalMedEye.label>机械眼</MechanicalMedEye.label>
+  <MechanicalMedEye.description>一只已安装的机械眼。</MechanicalMedEye.description>
+  <MechanicalMedEye.labelNoun>一只机械眼</MechanicalMedEye.labelNoun>
+
+
+  <!-- 机械耳 -->
+
+  <MechanicalMedEar.label>机械耳</MechanicalMedEar.label>
+  <MechanicalMedEar.description>一只已安装的机械耳。</MechanicalMedEar.description>
+  <MechanicalMedEar.labelNoun>一只机械耳</MechanicalMedEar.labelNoun>
+
+
+</LanguageData>

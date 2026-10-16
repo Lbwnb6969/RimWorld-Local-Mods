@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: surcoat -->
+  <TA_Surcoat.label>罩袍</TA_Surcoat.label>
+  <!-- EN: A surcoat worn by knights over maille, for protection against the elements and identifications on the battlefield -->
+  <TA_Surcoat.description>骑士穿在锁子甲外的罩袍，用于抵御恶劣天气并在战场上标识身份。</TA_Surcoat.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Covered Clay Pot -->
+  <ASF_CoveredClayPot.label>石罐</ASF_CoveredClayPot.label>
+  <!-- EN: A clay pot designed for storing various items. Items stored inside do not affect the beauty of their surroundings.\n\nTotal Capacity: 3 -->
+  <ASF_CoveredClayPot.description>用于储存各种物品的石罐。存放在里面的物品永远不会老化，也不会影响周围环境的美观度。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：3组\n【可储存类型】：所有物品</ASF_CoveredClayPot.description>
+  
+</LanguageData>

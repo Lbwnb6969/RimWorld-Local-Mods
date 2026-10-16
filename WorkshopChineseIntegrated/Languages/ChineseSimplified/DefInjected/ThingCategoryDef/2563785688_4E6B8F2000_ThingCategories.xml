@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial corpses -->
+  <CorpsesArtificial.label>人造物尸体</CorpsesArtificial.label>
+  
+  <!-- EN: caches -->
+  <O21_LootCache.label>藏匿品</O21_LootCache.label>
+  
+  <!-- EN: artificial -->
+  <TabulaRasa_CorpsesArtificial.label>人造物</TabulaRasa_CorpsesArtificial.label>
+  
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Apparel_Hose.label>紧身裤</DankPyon_Apparel_Hose.label>
+  <DankPyon_Apparel_Hose.description>市民和贵族的标准服装。</DankPyon_Apparel_Hose.description>
+
+  <DankPyon_Apparel_Trousers.label>长裤</DankPyon_Apparel_Trousers.label>
+  <DankPyon_Apparel_Trousers.description>市民和贵族的标准服装。</DankPyon_Apparel_Trousers.description>
+
+  <DankPyon_Apparel_Braies.label>宽松衬裤</DankPyon_Apparel_Braies.label>
+  <DankPyon_Apparel_Braies.description>宽松衬裤通常是亚麻制成的，属于内裤的一种，尽管在某些文化中它们也用作外衣。</DankPyon_Apparel_Braies.description>
+
+
+  <!-- Protective Leg Base -->
+
+  <DankPyon_Apparel_ChaussesPadded.label>衬垫腿甲</DankPyon_Apparel_ChaussesPadded.label>
+  <DankPyon_Apparel_ChaussesPadded.description>采用绗缝技术缝制的护腿，采用填充面料提升腿部保护力。</DankPyon_Apparel_ChaussesPadded.description>
+
+  <DankPyon_Apparel_ChaussesSplinted.label>条板腿甲</DankPyon_Apparel_ChaussesSplinted.label>
+  <DankPyon_Apparel_ChaussesSplinted.description>一对条板护腿，用铆接金属条板保护腿部。巧妙的制作让佩戴者几乎能活动自如。</DankPyon_Apparel_ChaussesSplinted.description>
+
+  <DankPyon_Apparel_ChaussesPlate.label>板甲腿甲</DankPyon_Apparel_ChaussesPlate.label>
+  <DankPyon_Apparel_ChaussesPlate.description>一对用于保护腿部的板甲护腿，上覆的板甲系依照佩戴者的身形制作。它坚固的铆接金属板和精细的铰接结构使其几乎不会影响移动性。</DankPyon_Apparel_ChaussesPlate.description>
+
+
+</LanguageData>

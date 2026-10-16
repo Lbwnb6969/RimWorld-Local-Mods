@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: despised -->
+  <VME_Mechanoids_Despised.label>厌恶</VME_Mechanoids_Despised.label>
+  <!-- EN: Mechanoids are an abomination, a reminder of man's hubris. -->
+  <VME_Mechanoids_Despised.description>可恶的机械族使我们想起了人类的狂妄自大。</VME_Mechanoids_Despised.description>
+  
+  <!-- EN: exalted -->
+  <VME_Mechanoids_Exalted.label>高尚</VME_Mechanoids_Exalted.label>
+  <!-- EN: To destroy a child of machination is a short-sighted and foolish act. -->
+  <VME_Mechanoids_Exalted.description>摧毁神圣的机械族是一种目光短浅且极其愚蠢的行为。</VME_Mechanoids_Exalted.description>
+  
+</LanguageData>

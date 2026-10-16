@@ -1,0 +1,992 @@
+{
+  "snapshot": "20261007-pre-audit",
+  "entries": [
+    {
+      "scope": "Keyed",
+      "key": "VFEC.UI.NoQuestsAvailable",
+      "text": "该元老议员目前没有可用任务。",
+      "file": "Languages/ChineseSimplified/Keyed/2787872383_E6ED471D0D_UI.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "VFEC.Senators.RequiresCaravan",
+      "text": "该定居点必须有一支商队，才能进入元老院。",
+      "file": "Languages/ChineseSimplified/Keyed/2787872383_E6ED471D0D_UI.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_BallistaHint",
+      "text": "弩炮将守卫其营地——出击将置身弩矢齐射之下。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_BombardBegins",
+      "text": "攻城器械已完工，炮击开始。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_RansomLabel",
+      "text": "赎金提议：{0}",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_RansomText",
+      "text": "{0} 想要他们的统帅平安归来。{1} 正关押在你的牢房里，他的家族愿意支付 {2} 白银换取安全释放。\\n\\n接受赎金后，停战使团会在谈判旗帜下前来接人：将他交还（你的狱卒会负责押送），白银归你。\\n拒绝，他将继续成为你的囚犯。\\n\\n或者取下他的首级——然后承担随之而来的后果。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_RansomAccept",
+      "text": "接受赎金（{0} 白银）",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_RansomRefuse",
+      "text": "留下他",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_RansomExecute",
+      "text": "处决他",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_EnvoysComing",
+      "text": "{0} 派出的停战使团正前往接回 {1}。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_EnvoysLeave",
+      "text": "使者离开",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_RansomPaid",
+      "text": "赎金已支付：{0} 白银。{1} 将回家。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_RansomFailed",
+      "text": "使者们没有带回他们的统帅便离开了。这份赎约已作废。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_EnvoysBetrayed",
+      "text": "停战使团在白旗下遭到攻击。这件事会传遍四方。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_VendettaLabel",
+      "text": "血仇：{0}",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_VendettaText",
+      "text": "{0} 已发誓为 {1} 复仇。他们会来，而且不会谈判。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_VendettaHint",
+      "text": "这支军队正为 {0} 复仇而来。他们无意交涉。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_CaptainDiedCustody",
+      "text": "{0} 死在了你的监禁之中。{1} 将追究你的责任。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_CaptainFreed",
+      "text": "你释放了 {0}，分文未取。{1} 会暂时记住这份善意。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_PickExecutioner",
+      "text": "谁来挥刀？",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_ExecutionerOption",
+      "text": "{0}（近战 {1}）",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_FlingOption",
+      "text": "用投石机把他抛过城墙（由 {0} 执行）",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_Flung",
+      "text": "{0} 被抛过了城墙。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_ExecutionOrdered",
+      "text": "{0} 正前去处决 {1}。鼓声已经响起。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_FetchCaptain",
+      "text": "索要统帅",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_CaptainExecuted",
+      "text": "{0} 已被处决。{1} 不会忘记这件事。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_SetBallistaFloor",
+      "text": "营地弩炮所需最低点数：{0}",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_SetMaxBallistas",
+      "text": "弩炮上限：{0} 架",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_SetBombard",
+      "text": "进攻前炮击时间：{0} 小时",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_SetTarFloor",
+      "text": "焦油火石所需最低点数：{0}",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_SetCarrion",
+      "text": "生物战（发射尸骸）",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_SetCarrionTip",
+      "text": "最富有的围城（焦油火石阈值加 2000 点威胁）会把腐烂的尸骸抛过你的城墙：带来恶臭云、一具需要搬运的尸体，以及冲击点附近人员感染瘟疫的风险。如果这对你的殖民地过于阴森，可以取消勾选。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_SetWarband",
+      "text": "围城战帮规模：威胁点数 ×{0}",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_SetRansom",
+      "text": "统帅可以被赎回（也会招致复仇）",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "Keyed",
+      "key": "RimSiege_SetRansomTip",
+      "text": "活捉围城统帅后，他的家族会拿出白银赎回他。处决统帅、背叛停战使团，或任由他死在你的牢房里，都会招来血仇：下一场围城会更早到来、更为凶狠，而且不会发出最后通牒。无条件释放他，则能让他们暂时远离你的城墙。",
+      "file": "Languages/ChineseSimplified/Keyed/3763641173_BA7FA7D7B7_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "RimSiege_ExecuteCaptainJob.reportString",
+      "text": "正在处决 TargetA。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/3763641173_4BA0AD7EDE_Jobs_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "RimSiege_ExecutionCeremonyJob.reportString",
+      "text": "正在把 TargetA 带到断头台。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/3763641173_4BA0AD7EDE_Jobs_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "RimSiege_TrebuchetExecutionJob.reportString",
+      "text": "正在将 TargetA 装上投石机。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/3763641173_4BA0AD7EDE_Jobs_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "RimSiege_WatchExecutionJob.reportString",
+      "text": "正在观看处决。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/3763641173_4BA0AD7EDE_Jobs_RimSiege.xml",
+      "reason": "Retain previously authored key missing from current Workshop translation source"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileObsidian.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileSandstone.description",
+      "text": "坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/MemeDef",
+      "key": "AM_TeaPrimacy.description",
+      "text": "茶对我们而言意味着一切——舒适，文化以及仪式。我们靠它来迎接新的一天，我们靠它来排忧解难，我们靠它来欢舞共庆。那些不饮茶的人根本无法理解自己错过了何物。",
+      "file": "Languages/ChineseSimplified/DefInjected/MemeDef/2710809189_230C0DE0B4_Memes_Misc_VBE.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileMudstone.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileMarble.description",
+      "text": "坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileObsidian.label",
+      "text": "犹太风格地砖（黑曜石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileSandstone.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTilePristineLimestone.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileSlate.description",
+      "text": "坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileMarble.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileMudstone.description",
+      "text": "坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Demoman.titleShort",
+      "text": "鼠族恶魔",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/ThoughtDef",
+      "key": "AM_TeaNeed.stages.craving_tea.label",
+      "text": "渴求饮茶",
+      "file": "Languages/ChineseSimplified/DefInjected/ThoughtDef/2710809189_8F3C4B386D_Thoughts_Situation_Needs_Tea.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileGranite.description",
+      "text": "坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/NeedDef",
+      "key": "AM_TeaNeed.description",
+      "text": "饮茶需求反映了人物对茶道的温舒韵致与高雅品味的渴望，此乃与古老文明同寿的仪式。",
+      "file": "Languages/ChineseSimplified/DefInjected/NeedDef/2710809189_D16B03D61C_Needs_VBE.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/ThoughtDef",
+      "key": "AM_TeaNeed.stages.desiring_tea.label",
+      "text": "需求饮茶",
+      "file": "Languages/ChineseSimplified/DefInjected/ThoughtDef/2710809189_8F3C4B386D_Thoughts_Situation_Needs_Tea.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileGranite.description",
+      "text": "犹太风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileMarble.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/PreceptDef",
+      "key": "AM_TeaDrinking_Required.description",
+      "text": "饮茶可不只是单纯地喝饮料而已；这一传统的静谧时刻能让我们沉心深思。对我们而言，饮茶是每个人都应尽到的神圣职责。\\n\\n<color=#E5E54C>解锁需求：</color>\\n - 饮茶需求。\\n\\n<color=#E5E54C>游戏效果：</color>\\n - 当殖民者拥有“合理的期望”及以上时，此戒律新增的饮茶需求才会显示。\\n- 精神茶可以满足0.15饮茶需求值，普通的茶可以满足0.4饮茶需求值，特制的茶（源自Vanilla Brewing Expanded - Coffees and Teas）可以满足0.5饮茶需求值。",
+      "file": "Languages/ChineseSimplified/DefInjected/PreceptDef/2710809189_43CBB7E41C_Precepts_Tea.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileCragstone.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/RitualOutcomeEffectDef",
+      "key": "AM_TeaCeremonyOutcome.description",
+      "text": "如果茶道仪式的结果不算太糟糕，则传道者会在不消耗殖民地茶叶储备的情况下产出几杯沏好的茶。仪式的结果越好，产出的茶就越多。如果你安装了Vanilla Brewing Expanded - Coffees and Teas，则一场非常完美的茶道仪式会额外产出几杯特制的茶。",
+      "file": "Languages/ChineseSimplified/DefInjected/RitualOutcomeEffectDef/2710809189_1DB9DA7A68_Ritual_Outcomes_TeaCeremony.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileCragstone.description",
+      "text": "坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileObsidian.description",
+      "text": "坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileSlate.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/PreceptDef",
+      "key": "AM_OcularTrees_Desired.description",
+      "text": "异目树的怪异凝视能够抚慰我们的心灵。\\n\\n<color=#E5E54C>游戏效果：</color>\\n - 注意：异目树出自Alpha Animals与Alpha Biomes这两个Mod。如果你并未安装其中之一，将无法获得异目树。",
+      "file": "Languages/ChineseSimplified/DefInjected/PreceptDef/2710809189_DBD172A2B4_Precepts_Trees_Ideology.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileCragstone.label",
+      "text": "犹太风格精致地砖（峭壁岩石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileCragstone.description",
+      "text": "犹太风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Miner.description",
+      "text": "[PAWN_nameDef]成为了一名挖掘土地的矿工。[PAWN_pronoun]虽然对挖掘工作很在行，但还是想摆脱这个狭窄而枯燥的洞穴。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/PreceptDef",
+      "key": "AM_Ranching_CattleCentered.description",
+      "text": "牧场的心脏与牧群齐同律动。我们的牛可不仅仅是牲畜而已；它们更是整个社群的命脉。\\n\\n<color=#E5E54C>游戏效果：</color>\\n - 此戒律对于“牛”的定义其实相当宽泛：任何可以挤奶的动物都包括在内，再额外加上雪牛和野牛。没错，其他mod添加的动物也算。你甚至可以打造一座霜之巨螨牧场！",
+      "file": "Languages/ChineseSimplified/DefInjected/PreceptDef/2710809189_A552EF7F37_Precepts_Ranching.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_CityMerchant.description",
+      "text": "[PAWN_nameDef]是一名在城市里交易的商人。[PAWN_pronoun]心灵手巧，将自己手工制作的许多商品卖到了市场上。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Wanderer.description",
+      "text": "[PAWN_nameDef]是一名四处流浪的漂泊者。在[PAWN_pronoun]看来，拥有一个属于自己的庄园只是一个美好的幻想。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/ThoughtDef",
+      "key": "AM_TeaNeed.stages.perfectly_steeped.label",
+      "text": "甜点满足（完全）",
+      "file": "Languages/ChineseSimplified/DefInjected/ThoughtDef/2710809189_8F3C4B386D_Thoughts_Situation_Needs_Tea.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/RitualOutcomeEffectDef",
+      "key": "AM_OcularWarping.description",
+      "text": "注意：除非你安装了Alpha Animals，否则此仪式仅能召唤出眼灵。\\n\\n如果仪式结果为“无比崇高的”，则必定会召唤出一只不眠之眼。",
+      "file": "Languages/ChineseSimplified/DefInjected/RitualOutcomeEffectDef/2710809189_865250769B_Ritual_Outcomes_OcularWarping.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileGranite.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "AM_TrantrumJob.reportString",
+      "text": "正在摧毁TargetA。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/2710809189_3B81C0DA51_Duty_Ritual.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Demoman.title",
+      "text": "鼠族恶魔",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/MemeDef",
+      "key": "AM_BiologicalCorruptors.description",
+      "text": "生命不过是种工具罢了。在达成目的之前，我们可以利用强大的异维度能量来随意扭曲并突变它们。\\n\\n<color=#33d733>此模因的重点是被“腐化”的母树。你可以借此培育全新品种的树精，并利用异目扭曲仪式来召唤对殖民地有益的强大变异生物。\\n\\n虽然此模因已不再依赖于Alpha Animals，但如果你没有安装这个Mod，则异目扭曲仪式仅能召唤出眼灵。</color>",
+      "file": "Languages/ChineseSimplified/DefInjected/MemeDef/2710809189_13D58870D8_Memes_Misc.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileObsidian.label",
+      "text": "犹太风格精致地砖（黑曜石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_TilePristineLimestone.description",
+      "text": "坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Sister.description",
+      "text": "[PAWN_nameDef]是一位在鼠族社会里从事祭祀和宗教事务的修女。[PAWN_pronoun]再一次出席宗教活动中遭到了袭击而侥幸逃生。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileCragstone.label",
+      "text": "埃及风格地砖（峭壁岩石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "AM_InstallRelic.reportString",
+      "text": "正在将TargetA装入TargetB中。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/2710809189_617B98C4F8_Jobs_Misc.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileSlate.description",
+      "text": "坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTilePristineLimestone.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileLimestone.description",
+      "text": "坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "AM_EatAtBanquet.reportString",
+      "text": "正在享用TargetA。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/2710809189_30F026A16A_Jobs_Gatherings_VCE.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileRoseQuartz.description",
+      "text": "坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Engineer.description",
+      "text": "[PAWN_nameDef]是一名从事精密组件研发的工程师。[PAWN_pronoun]利用自己的才能造出了一个机械族，但却没料到这会给[PAWN_pronoun]带来多大的麻烦。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileSlate.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileRoseQuartz.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/IssueDef",
+      "key": "AM_TeaCultivation.label",
+      "text": "茶叶种植",
+      "file": "Languages/ChineseSimplified/DefInjected/IssueDef/2710809189_F11FADA0A2_Precepts_TeaCultivation.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/ThoughtDef",
+      "key": "AM_TeaNeed.stages.desiring_tea.description",
+      "text": "我已经很久没饮茶了。不来上一杯，我这一天都过得不顺心。",
+      "file": "Languages/ChineseSimplified/DefInjected/ThoughtDef/2710809189_8F3C4B386D_Thoughts_Situation_Needs_Tea.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileMarble.description",
+      "text": "犹太风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileMudstone.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileRoseQuartz.description",
+      "text": "犹太风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "AM_MergeIntoCorruptedPod.reportString",
+      "text": "正在与TargetB融合。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/2710809189_617B98C4F8_Jobs_Misc.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileLimestone.description",
+      "text": "犹太风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/PreceptDef",
+      "key": "AM_TeaCultivation_Improved.description",
+      "text": "通过改善种植技术，我们能让茶树以前所未闻的速度茁壮生长。有了我们的精心照料和对工艺的敬重之心，茶园将不断地发展壮大。\\n\\n<color=#E5E54C>游戏效果：</color>\\n - 茶树将获得+20%生长速率的加成。",
+      "file": "Languages/ChineseSimplified/DefInjected/PreceptDef/2710809189_1DDE4339BB_Precepts_TeaCultivation.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/ThoughtDef",
+      "key": "AM_TeaNeed.stages.wanting_tea.label",
+      "text": "想要饮茶",
+      "file": "Languages/ChineseSimplified/DefInjected/ThoughtDef/2710809189_8F3C4B386D_Thoughts_Situation_Needs_Tea.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileRoseQuartz.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileMudstone.description",
+      "text": "犹太风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/ThoughtDef",
+      "key": "AM_EnjoyableBanquet.stages.enjoyable_banquet.description",
+      "text": "豪华盛宴{0}令人愉悦。我们共同欢笑并分享美味的食物，让整场活动变得意义非凡。",
+      "file": "Languages/ChineseSimplified/DefInjected/ThoughtDef/2710809189_A729AEEECE_Thoughts_Banquet.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileCragstone.label",
+      "text": "蒸汽朋克风格地砖（峭壁岩石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileSandstone.description",
+      "text": "坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileObsidian.label",
+      "text": "蒸汽朋克风格地砖（黑曜石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "AM_AnimaBurialLink.reportString",
+      "text": "正在与TargetA共鸣。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/2710809189_7C23481063_Jobs_AnimaBurial.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "Keyed",
+      "key": "AM_OtherAlphaModsNeeded",
+      "text": "必须安装Alpha Animals或Alpha Biomes才能使用此能力。",
+      "file": "Languages/ChineseSimplified/Keyed/2710809189_71986E8F83_Misc.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/NeedDef",
+      "key": "AM_TeaNeed.label",
+      "text": "饮茶",
+      "file": "Languages/ChineseSimplified/DefInjected/NeedDef/2710809189_D16B03D61C_Needs_VBE.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileCragstone.label",
+      "text": "埃及风格精致地砖（峭壁岩石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/ThoughtDef",
+      "key": "AM_Baths_Desired.stages.lots_of_bathtubs_and_showers.description",
+      "text": "TODO",
+      "file": "Languages/ChineseSimplified/DefInjected/ThoughtDef/2710809189_D99D1F6FD9_Precepts_Baths.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileObsidian.label",
+      "text": "埃及风格地砖（黑曜石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileRoseQuartz.description",
+      "text": "坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileSandstone.description",
+      "text": "犹太风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/IssueDef",
+      "key": "AM_TeaDrinking.label",
+      "text": "饮茶",
+      "file": "Languages/ChineseSimplified/DefInjected/IssueDef/2710809189_6F35A07369_Precepts_Tea.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileObsidian.description",
+      "text": "犹太风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/JobDef",
+      "key": "AM_RodeoFalseAttackJob.reportString",
+      "text": "正在发起进攻。",
+      "file": "Languages/ChineseSimplified/DefInjected/JobDef/2710809189_617B98C4F8_Jobs_Misc.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileGranite.description",
+      "text": "坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileCragstone.description",
+      "text": "坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Idol.description",
+      "text": "[PAWN_nameDef]是一名职业偶像。不幸的是，[PAWN_pronoun]在一场车祸后失去了记忆。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileCragstone.label",
+      "text": "犹太风格地砖（峭壁岩石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_SteampunkTileMudstone.description",
+      "text": "坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileLimestone.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/PawnKindDef",
+      "key": "RatkinMurderer.label",
+      "text": "鼠族刽子手",
+      "file": "Languages/ChineseSimplified/DefInjected/PawnKindDef/2898638732_8FB0769048_PawnKinds_Player.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Doctor.description",
+      "text": "[PAWN_nameDef]是王国的御医，但因没能治好贵族而被流放到这个边缘世界。为了弥补自己犯下的错，[PAWN_pronoun]决定在这个荒蛮的世界中磨练自己的医术。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileLimestone.description",
+      "text": "坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileLimestone.description",
+      "text": "埃及风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileObsidian.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/PreceptDef",
+      "key": "AM_TeaYield_Increased.description",
+      "text": "通过完善我们的收获技术和对土壤的滋养，每棵茶树都能产出更多茶叶。\\n\\n<color=#E5E54C>状态：</color>\\n - 茶树产出：+10%。",
+      "file": "Languages/ChineseSimplified/DefInjected/PreceptDef/2710809189_9BEC176292_Precepts_TeaYield.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/PreceptDef",
+      "key": "AM_Cattle_Improved.description",
+      "text": "通过精心饲养与照料，我们将尽可能地让我们的牛保持在最佳状态。更强壮、更健康且更多产的牧群是牧场走向繁荣的基石，也是我们辛勤付出的佐证。\\n\\n<color=#E5E54C>游戏效果：</color>\\n - 此戒律对于“牛”的定义其实相当宽泛：任何可以挤奶的动物都包括在内，再额外加上雪牛和野牛。没错，其他mod添加的动物也算。你甚至可以打造一座霜之巨螨牧场！\\n - 殖民地饲养的牛类动物将获得-15%营养需求，+25%进食速度和+15%免疫速度的加成。",
+      "file": "Languages/ChineseSimplified/DefInjected/PreceptDef/2710809189_0F92D8769A_Precepts_Cattle.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileGranite.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishFineTileSlate.description",
+      "text": "犹太风格的精美地砖。铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileCragstone.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Civil.description",
+      "text": "[PAWN_nameDef]是鼠族王国的公民。[PAWN_pronoun]的身份会使其成为平日里国王消遣的一部分。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/PawnKindDef",
+      "key": "RatkinDemonMan.label",
+      "text": "鼠族恶魔",
+      "file": "Languages/ChineseSimplified/DefInjected/PawnKindDef/2898638732_8FB0769048_PawnKinds_Player.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticFineTileObsidian.label",
+      "text": "埃及风格精致地砖（黑曜石）",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_Knight.description",
+      "text": "[PAWN_nameDef]是鼠族王国的一位骑士。这些强大战士是王国的中流砥柱。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_E9001AB6B3_BackstoryDef_Adulthood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_KemeticTileSandstone.description",
+      "text": "坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/BackstoryDef",
+      "key": "Ratkin_LandRat.description",
+      "text": "[PAWN_nameDef]诞生在黑暗中。经历了漫长的洞穴生活后，[PAWN_pronoun]变得非常擅长采矿。当众多同胞前往地面世界时，[PAWN_pronoun]却依然选择留在洞穴中。",
+      "file": "Languages/ChineseSimplified/DefInjected/BackstoryDef/2898638732_1C36BF0F44_BackstoryDef_Childhood.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileObsidian.description",
+      "text": "坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_CD288412A0_Terrain_Floors_AlphaBiomes.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/ThoughtDef",
+      "key": "AM_TeaNeed.stages.content.label",
+      "text": "饮茶满足",
+      "file": "Languages/ChineseSimplified/DefInjected/ThoughtDef/2710809189_8F3C4B386D_Thoughts_Situation_Needs_Tea.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/MemeDef",
+      "key": "AM_TeaPrimacy.label",
+      "text": "饮茶至上",
+      "file": "Languages/ChineseSimplified/DefInjected/MemeDef/2710809189_230C0DE0B4_Memes_Misc_VBE.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    },
+    {
+      "scope": "DefInjected/TerrainDef",
+      "key": "AM_JewishTileMarble.description",
+      "text": "坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。",
+      "file": "Languages/ChineseSimplified/DefInjected/TerrainDef/2710809189_63061A8971_Terrain_Floors.xml",
+      "reason": "Keep deployed wording; this audit only repairs missing translations"
+    }
+  ]
+}

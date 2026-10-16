@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rations -->
+
+  <DankPyon_MealRations.label>包装口粮</DankPyon_MealRations.label>
+  <DankPyon_MealRations.description>一种野外求生的丰盛口粮。它能存放很长时间，但放置在室外仍然会变质。适合冒险携带。</DankPyon_MealRations.description>
+
+  <DankPyon_MealRationsVegetarian.label>包装口粮(素食)</DankPyon_MealRationsVegetarian.label>
+  <DankPyon_MealRationsVegetarian.description>一种野外求生的丰盛面包，那些穿梭在森林中的游侠们经常携带这种食物。它能存放很长时间，但放置在室外仍然会变质。适合冒险携带。</DankPyon_MealRationsVegetarian.description>
+
+
+  <!-- Dried Meats -->
+
+  <DankPyon_DriedMeat.label>肉干</DankPyon_DriedMeat.label>
+  <DankPyon_DriedMeat.description>经过脱水延长保质期的干肉，利于保存。</DankPyon_DriedMeat.description>
+
+  <DankPyon_DriedMeat_Human.label>人肉干</DankPyon_DriedMeat_Human.label>
+  <DankPyon_DriedMeat_Human.description>经过脱水延长保质期的干人肉，利于保存。</DankPyon_DriedMeat_Human.description>
+
+  <DankPyon_DriedMeat_Insect.label>虫肉干</DankPyon_DriedMeat_Insect.label>
+  <DankPyon_DriedMeat_Insect.description>经过脱水延长保质期的干虫肉，利于保存。</DankPyon_DriedMeat_Insect.description>
+
+  <DankPyon_DriedFish.label>鱼肉干</DankPyon_DriedFish.label>
+  <DankPyon_DriedFish.description>经过脱水延长保质期的干鱼肉，利于保存。</DankPyon_DriedFish.description>
+
+
+  <DankPyon_SmokedMeat.label>烟燻肉干</DankPyon_SmokedMeat.label>
+  <DankPyon_SmokedMeat.description>经过脱水延长保质期的干肉，利于保存。</DankPyon_SmokedMeat.description>
+
+  <DankPyon_SmokedMeat_Human.label>烟燻人肉干</DankPyon_SmokedMeat_Human.label>
+  <DankPyon_SmokedMeat_Human.description>经过烟燻烘干水份延长保质期的干人肉，利于保存。</DankPyon_SmokedMeat_Human.description>
+
+  <DankPyon_SmokedMeat_Insect.label>烟燻虫肉干</DankPyon_SmokedMeat_Insect.label>
+  <DankPyon_SmokedMeat_Insect.description>经过烟燻烘干水份延长保质期的干虫肉，利于保存。</DankPyon_SmokedMeat_Insect.description>
+
+  <DankPyon_SmokedFish.label>烟燻鱼肉干</DankPyon_SmokedFish.label>
+  <DankPyon_SmokedFish.description>经过烟燻烘干水份延长保质期的干鱼肉，利于保存。</DankPyon_SmokedFish.description>
+
+
+  <!-- Milk -->
+
+  <DankPyon_GoatMilk.label>山羊奶</DankPyon_GoatMilk.label>
+  <DankPyon_GoatMilk.description>山羊所产的奶。</DankPyon_GoatMilk.description>
+
+  <DankPyon_SheepMilk.label>绵羊奶</DankPyon_SheepMilk.label>
+  <DankPyon_SheepMilk.description>羊所产的奶。</DankPyon_SheepMilk.description>
+
+
+  <!-- Cheese -->
+
+  <DankPyon_MealCheese.label>奶酪</DankPyon_MealCheese.label>
+  <DankPyon_MealCheese.description>一块味道鲜美的轮状奶酪，使用一种特殊工法将动物奶发酵凝固制成。它本身即是一种美味佳餚，也能加入其他菜餚中增添风味。</DankPyon_MealCheese.description>
+
+  <DankPyon_MealGoatCheese.label>山羊奶酪</DankPyon_MealGoatCheese.label>
+  <DankPyon_MealGoatCheese.description>一块味道鲜美的轮状奶酪，使用一种特殊工法将动物奶发酵凝固制成。它本身即是一种美味佳餚，也能加入其他菜餚中增添风味。</DankPyon_MealGoatCheese.description>
+
+  <DankPyon_MealSheepCheese.label>绵羊奶酪</DankPyon_MealSheepCheese.label>
+  <DankPyon_MealSheepCheese.description>一块味道鲜美的轮状奶酪，使用一种特殊工法将动物奶发酵凝固制成。它本身即是一种美味佳餚，也能加入其他菜餚中增添风味。</DankPyon_MealSheepCheese.description>
+
+
+  <!-- Rox Steak -->
+
+  <DankPyon_MealRoxSteak.label>罗克斯牛排</DankPyon_MealRoxSteak.label>
+  <DankPyon_MealRoxSteak.description>一块厚厚的肥肉，经过烧烤吸附烟燻的独特香味，同时用盐调味并在麦芽酒中炖煮。这是一道每位国王都想品尝的奢华盛宴。</DankPyon_MealRoxSteak.description>
+
+
+  <!-- Griffon Berry Pie -->
+
+  <DankPyon_MealGriffonBerryPie.label>狮鹫莓派</DankPyon_MealGriffonBerryPie.label>
+  <DankPyon_MealGriffonBerryPie.description>一种美味的水果派，由松软的糖皮层和捣碎的狮鹫莓果馅组成，上面涂有淡淡的柠檬口味糖衣。</DankPyon_MealGriffonBerryPie.description>
+
+
+  <!-- Steak with Wine -->
+
+  <DankPyon_MealSteakWithWine.label>红酒牛排</DankPyon_MealSteakWithWine.label>
+  <DankPyon_MealSteakWithWine.description>由香料牛排和洋葱丁组成的丰盛美食，在清淡的葡萄酒中煎烤。这是一道让人大快朵颐的美食。</DankPyon_MealSteakWithWine.description>
+
+
+  <!-- Cheese Soup -->
+
+  <DankPyon_MealCheeseSoup.label>奶酪浓汤</DankPyon_MealCheeseSoup.label>
+  <DankPyon_MealCheeseSoup.description>由一块块融化的奶酪以及经过大蒜调味的麦芽酒所组成，令人喝下后心情愉快。这道丰盛的汤品最好热着喝，更加能抚慰身体和灵魂。</DankPyon_MealCheeseSoup.description>
+
+
+  <!-- Bread Soup -->
+
+  <DankPyon_MealBreadSoup.label>面包浓汤</DankPyon_MealBreadSoup.label>
+  <DankPyon_MealBreadSoup.description>浓稠的乳白色汤汁装在一只由大块面包挖空制成的碗里。这是一顿令人饱足的菜餚。</DankPyon_MealBreadSoup.description>
+
+
+  <!-- Hearty Stew
+
+  <DankPyon_MealHeartyStew.label>丰盛炖菜</DankPyon_MealHeartyStew.label>
+  <DankPyon_MealHeartyStew.description>一道丰盛的炖菜，包含各种成分，并在合理的时间内煮熟。</DankPyon_MealHeartyStew.description>
+ -->
+
+  <!-- Apple Pie -->
+
+  <DankPyon_MealApplePie.label>苹果派</DankPyon_MealApplePie.label>
+  <DankPyon_MealApplePie.description>一种以苹果片为主馅料的甜派，与风味深厚的香料混合在一起。表面通常覆有格子状的饼皮，最后撒上糖霜作为装饰。</DankPyon_MealApplePie.description>
+
+
+  <!-- Hunters Stew -->
+
+  <DankPyon_MealHuntersStew.label>猎人炖菜</DankPyon_MealHuntersStew.label>
+  <DankPyon_MealHuntersStew.description>一道丰盛的炖菜，由香肠和切碎的卷心菜在蔬菜汤中炖煮而成。</DankPyon_MealHuntersStew.description>
+
+
+  <!-- Grilled Cheese -->
+
+  <DankPyon_MealGrilledCheese.label>炙烤奶酪</DankPyon_MealGrilledCheese.label>
+  <DankPyon_MealGrilledCheese.description>一块烟燻炙烤的浓郁奶酪，即组成这道简单的菜餚。</DankPyon_MealGrilledCheese.description>
+
+
+  <!-- Grilled Sausages -->
+
+  <DankPyon_MealGrilledSausages.label>炙烤香肠</DankPyon_MealGrilledSausages.label>
+  <DankPyon_MealGrilledSausages.description>圆柱形包裹的香料调味肉，在明火中烤制，带出烟燻的香气。</DankPyon_MealGrilledSausages.description>
+
+
+  <!-- Quiche -->
+
+  <DankPyon_MealQuiche.label>法式咸派</DankPyon_MealQuiche.label>
+  <DankPyon_MealQuiche.description>一种类似于馅饼的早餐食品，由层层蓬松的鸡蛋和美味的肉块组成，烤成一顿丰盛的餐点。</DankPyon_MealQuiche.description>
+
+
+  <!-- Sweet Pancakes -->
+
+  <DankPyon_MealSweetPancakes.label>松饼</DankPyon_MealSweetPancakes.label>
+  <DankPyon_MealSweetPancakes.description>一叠松软的煎饼，上面涂着甜美的糖浆。虽然不太健康，但也是一天的美味开始。</DankPyon_MealSweetPancakes.description>
+
+
+  <!-- Pumpkin Pie -->
+
+  <DankPyon_MealPumpkinPie.label>南瓜派</DankPyon_MealPumpkinPie.label>
+  <DankPyon_MealPumpkinPie.description>用南瓜泥和浓郁的香料制成的派，上面覆盖着一层甜美松软的派皮。是秋季最受欢迎的甜点。</DankPyon_MealPumpkinPie.description>
+
+
+  <!-- Pumpkin Soup -->
+
+  <DankPyon_MealPumpkinSoup.label>南瓜浓汤</DankPyon_MealPumpkinSoup.label>
+  <DankPyon_MealPumpkinSoup.description>由绵密的南瓜泥和各种清淡香料制成的奶油浓汤。</DankPyon_MealPumpkinSoup.description>
+
+
+  <!-- Tomato Omelette -->
+
+  <DankPyon_MealTomatoOmelette.label>番茄欧姆蛋</DankPyon_MealTomatoOmelette.label>
+  <DankPyon_MealTomatoOmelette.description>一张折起的煎蛋皮，里头包裹着流淌的蛋液和炒番茄丁的美味。</DankPyon_MealTomatoOmelette.description>
+
+
+  <!-- Bone Soup -->
+
+  <DankPyon_MealBoneSoup.label>大骨汤</DankPyon_MealBoneSoup.label>
+  <DankPyon_MealBoneSoup.description>由动物骨头煮制成的稀肉汤。单喝不够过瘾。</DankPyon_MealBoneSoup.description>
+
+
+  <!-- Bread -->
+
+  <DankPyon_MealBread.label>面包</DankPyon_MealBread.label>
+  <DankPyon_MealBread.description>由面粉和水制成。是开始一天工作的经典主食。</DankPyon_MealBread.description>
+
+
+  <!-- Weak Stew
+
+  <DankPyon_MealWeakStew.label>清淡炖菜</DankPyon_MealWeakStew.label>
+  <DankPyon_MealWeakStew.description>一道清淡的炖菜，主要由大骨汤组合而成，其中漂浮着几片肉。虽然吃起来不是很饱，但也算得上一顿餐点。</DankPyon_MealWeakStew.description>
+ -->
+
+  <!-- Fried Eggs -->
+
+  <DankPyon_MealFriedEggs.label>煎荷包蛋</DankPyon_MealFriedEggs.label>
+  <DankPyon_MealFriedEggs.description>快速煎制的鸡蛋，撒上少量的盐和胡椒粉，即是一道简单的咸食。</DankPyon_MealFriedEggs.description>
+
+
+  <!-- Mashed Potatoes -->
+
+  <DankPyon_MealMashedPotatoes.label>土豆泥</DankPyon_MealMashedPotatoes.label>
+  <DankPyon_MealMashedPotatoes.description>一道简单的主食，将煮过土豆捣碎成泥，再加入牛奶搅拌，散发着绵密的口感和香气。</DankPyon_MealMashedPotatoes.description>
+
+
+  <!-- Mushroom Soup -->
+
+  <DankPyon_MealMushroomSoup.label>蘑菇浓汤</DankPyon_MealMushroomSoup.label>
+  <DankPyon_MealMushroomSoup.description>由切碎的炒蘑菇和乳白色肉汤组成的浓汤，是一道风味强烈、还算丰盛的汤品。</DankPyon_MealMushroomSoup.description>
+
+
+  <!-- Vegetable Pot -->
+
+  <DankPyon_MealVegetablePot.label>蔬菜锅</DankPyon_MealVegetablePot.label>
+  <DankPyon_MealVegetablePot.description>切碎的蔬菜，在淡淡的调味汤中炒制和煮制。这是一道丰盛又健康的炖菜。</DankPyon_MealVegetablePot.description>
+
+
+  <!-- Pumpkin Fritters -->
+
+  <DankPyon_MealPumpkinFritters.label>南瓜馅饼</DankPyon_MealPumpkinFritters.label>
+  <DankPyon_MealPumpkinFritters.description>一种甜甜的、内馅致密的南瓜饼干，带有焦糖糖衣。</DankPyon_MealPumpkinFritters.description>
+
+
+  <!-- Grilled Skewers -->
+
+  <DankPyon_MealGrilledSkewers.label>烤肉串</DankPyon_MealGrilledSkewers.label>
+  <DankPyon_MealGrilledSkewers.description>厚切的大块烤肉串在木籤上，是一道方便享用的美味食物。</DankPyon_MealGrilledSkewers.description>
+
+
+  <!-- Boiled Bean and Onion -->
+
+  <DankPyon_MealBoiledBeansAndOnion.label>洋葱扁豆汤</DankPyon_MealBoiledBeansAndOnion.label>
+  <DankPyon_MealBoiledBeansAndOnion.description>这是一道简单又丰盛的蔬菜汤品，由扁豆和切碎的洋葱在清淡的汤底中烹制而成。</DankPyon_MealBoiledBeansAndOnion.description>
+
+
+  <!-- Winter Lentil Soup -->
+
+  <DankPyon_MealWinterLentilSoup.label>冬扁豆汤</DankPyon_MealWinterLentilSoup.label>
+  <DankPyon_MealWinterLentilSoup.description>这是一道清淡的家常汤品，主要由小扁豆和少量的香草等调味料组合而成。在寒冷的冬季下午，这是一道完美的菜餚。</DankPyon_MealWinterLentilSoup.description>
+
+  <!-- Slop Pot Meals -->
+
+  <DankPyon_Slop.label>泔水</DankPyon_Slop.label>
+  <DankPyon_Slop.description>一碗黏糊糊的泔水，每一勺都是口感和味觉的「大冒险」！</DankPyon_Slop.description>
+
+  <DankPyon_Slop_Simple.label>炖肉</DankPyon_Slop_Simple.label>
+  <DankPyon_Slop_Simple.description>深入久经战火「烤」验的炖锅内部使劲一舀，碗里这些神秘的肉块就像您在战场上面对的敌人一样不知从何时、何处来。</DankPyon_Slop_Simple.description>
+
+  <DankPyon_Slop_Fine.label>奶酪火锅</DankPyon_Slop_Fine.label>
+  <DankPyon_Slop_Fine.description>将食材蘸入这碗热腾腾的奶酪火锅，融化的奶酪下隐藏着美味伴侣，邀您踏上美食探索之旅。</DankPyon_Slop_Fine.description>
+
+  <!-- Carrot Cake -->
+
+  <DankPyon_MealCarrotCake.label>红萝卜蛋糕</DankPyon_MealCarrotCake.label>
+  <DankPyon_MealCarrotCake.description>这款口感湿润而甘美的蛋糕用新鲜磨碎红萝卜制成，内层融入了温暖的香料，外层由美味的奶油乳酪霜包裹着。着实为一款适合任何场合的经典美食。</DankPyon_MealCarrotCake.description>
+
+  <!-- Lemon Cake -->
+
+  <DankPyon_MealLemonCake.label>柠檬蛋糕</DankPyon_MealLemonCake.label>
+  <DankPyon_MealLemonCake.description>这款蛋糕口感香甜湿润，充满浓郁的柠檬味，质地轻盈松软。是一款适合任何场合的清爽甜点。</DankPyon_MealLemonCake.description>
+
+</LanguageData>

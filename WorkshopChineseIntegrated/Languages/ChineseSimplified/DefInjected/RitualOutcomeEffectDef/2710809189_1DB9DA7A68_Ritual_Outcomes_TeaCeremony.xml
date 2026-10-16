@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_TeaCeremonyOutcome.description>如果茶道仪式的结果不算太糟糕，则传道者会在不消耗殖民地茶叶储备的情况下产出几杯沏好的茶。仪式的结果越好，产出的茶就越多。如果你安装了Vanilla Brewing Expanded - Coffees and Teas，则一场非常完美的茶道仪式会额外产出几杯特制的茶。</AM_TeaCeremonyOutcome.description>
+  
+  <AM_TeaCeremonyOutcome.comps.0.label>房间观感</AM_TeaCeremonyOutcome.comps.0.label> 
+  
+  <AM_TeaCeremonyOutcome.comps.1.label>参与者数量</AM_TeaCeremonyOutcome.comps.1.label>
+  
+  <AM_TeaCeremonyOutcome.comps.2.label>{PAWN_labelShort}的社交效果</AM_TeaCeremonyOutcome.comps.2.label>
+  
+  <AM_TeaCeremonyOutcome.comps.2.labelAbstract>演讲者的社交效果</AM_TeaCeremonyOutcome.comps.2.labelAbstract>
+  
+  <AM_TeaCeremonyOutcome.outcomeChances.0.label>鄙俗不堪的</AM_TeaCeremonyOutcome.outcomeChances.0.label>
+  
+  <AM_TeaCeremonyOutcome.outcomeChances.0.description>{0}鄙俗不堪。这场仪式简直就是在玷污茶的神圣艺术性，我们的思想会因此而变得不纯洁！</AM_TeaCeremonyOutcome.outcomeChances.0.description>
+  
+  <AM_TeaCeremonyOutcome.outcomeChances.1.label>令人失望的</AM_TeaCeremonyOutcome.outcomeChances.1.label>
+  
+  <AM_TeaCeremonyOutcome.outcomeChances.1.description>{0}令人失望。这场仪式缺少了本该有的精神与庄重。我们只能感受到空洞与乏味。</AM_TeaCeremonyOutcome.outcomeChances.1.description>
+  
+  <AM_TeaCeremonyOutcome.outcomeChances.2.label>温舒韵致的</AM_TeaCeremonyOutcome.outcomeChances.2.label>
+  
+  <AM_TeaCeremonyOutcome.outcomeChances.2.description>{0}温舒韵致。这场愉悦的仪式使我们与茶的本质紧密相连。这种精神焕新的感觉可真好。</AM_TeaCeremonyOutcome.outcomeChances.2.description>
+  
+  <AM_TeaCeremonyOutcome.outcomeChances.3.label>醍醐灌顶的</AM_TeaCeremonyOutcome.outcomeChances.3.label>
+  
+  <AM_TeaCeremonyOutcome.outcomeChances.3.description>{0}令人醍醐灌顶。这场仪式使我们经历了难以忘怀的体验，我们将永远铭记与神圣之茶间的沟通。</AM_TeaCeremonyOutcome.outcomeChances.3.description>
+  
+</LanguageData>

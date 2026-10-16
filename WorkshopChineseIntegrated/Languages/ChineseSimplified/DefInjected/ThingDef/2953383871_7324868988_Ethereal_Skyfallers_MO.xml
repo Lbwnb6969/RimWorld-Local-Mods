@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drop pod -->
+  <DankPyon_ActiveBalloon.label>运输热气球</DankPyon_ActiveBalloon.label>
+  
+  <!-- EN: balloon (incoming) -->
+  <DankPyon_BalloonIncoming.label>运输热气球（下落中）</DankPyon_BalloonIncoming.label>
+  
+  <!-- EN: balloon (leaving) -->
+  <DankPyon_BalloonLeaving.label>运输热气球（飞离中）</DankPyon_BalloonLeaving.label>
+  
+</LanguageData>

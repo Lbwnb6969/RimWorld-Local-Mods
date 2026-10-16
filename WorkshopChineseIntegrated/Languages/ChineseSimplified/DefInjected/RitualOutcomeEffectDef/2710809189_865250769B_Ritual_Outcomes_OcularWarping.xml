@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_OcularWarping.description>注意：除非你安装了Alpha Animals，否则此仪式仅能召唤出眼灵。\n\n如果仪式结果为“无比崇高的”，则必定会召唤出一只不眠之眼。</AM_OcularWarping.description>
+  
+  <AM_OcularWarping.comps.1.label>参与者数量</AM_OcularWarping.comps.1.label>
+  
+  <AM_OcularWarping.comps.2.label>由祭坛或符号图像开始仪式</AM_OcularWarping.comps.2.label>
+  
+  <AM_OcularWarping.comps.2.expectedThingLabelTip>一座祭坛或符号图像</AM_OcularWarping.comps.2.expectedThingLabelTip>
+  
+  <AM_OcularWarping.outcomeChances.0.label>可怕的</AM_OcularWarping.outcomeChances.0.label>
+  
+  <AM_OcularWarping.outcomeChances.0.description>{0}太可怕了！我们仅仅召唤出了一只非常弱小的异目怪物。</AM_OcularWarping.outcomeChances.0.description>
+  
+  <AM_OcularWarping.outcomeChances.1.label>无聊的</AM_OcularWarping.outcomeChances.1.label>
+  
+  <AM_OcularWarping.outcomeChances.1.description>{0}非常无聊。我们召唤出了一只弱小的异目怪物。</AM_OcularWarping.outcomeChances.1.description>
+  
+  <AM_OcularWarping.outcomeChances.2.label>令人满意的</AM_OcularWarping.outcomeChances.2.label>
+  
+  <AM_OcularWarping.outcomeChances.2.description>{0}令人满意。我们召唤出了一只中型的异目怪物。</AM_OcularWarping.outcomeChances.2.description>
+  
+  <AM_OcularWarping.outcomeChances.3.label>令人惊异的</AM_OcularWarping.outcomeChances.3.label>
+  
+  <AM_OcularWarping.outcomeChances.3.description>{0}令人惊异！我们召唤出了一只大型的异目怪物！</AM_OcularWarping.outcomeChances.3.description>
+  
+  <AM_OcularWarping.outcomeChances.4.label>无比崇高的</AM_OcularWarping.outcomeChances.4.label>
+  
+  <AM_OcularWarping.outcomeChances.4.description>{0}无比崇高！一只不眠之眼将任由我们差遣！</AM_OcularWarping.outcomeChances.4.description>
+  
+</LanguageData>

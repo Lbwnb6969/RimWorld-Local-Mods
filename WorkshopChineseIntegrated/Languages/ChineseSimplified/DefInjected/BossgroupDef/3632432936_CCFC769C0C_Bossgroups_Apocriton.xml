@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The {LEADERKIND_label} is a psychically-present construct commander who can resurrect recently-killed constructs and jump long distances. It carries a heavy bow gun. -->
+  <VR_Construct_Apocriton.leaderDescription>{LEADERKIND_label}是一名具备灵能存在的机械体指挥官，能够复活刚被摧毁的机甲并进行远距离跳跃。它携带一把远程毒针枪。</VR_Construct_Apocriton.leaderDescription>
+  
+</LanguageData>

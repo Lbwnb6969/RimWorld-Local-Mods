@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dwarven muffton -->
+  <DA_DwarvenMuffton.label>矮羊</DA_DwarvenMuffton.label>
+  <!-- EN: The dwarven muffton is sheep-like herbivore known for its warm brown wool and gigantic horns. Herds can be often seen hopping around in the cold northern mountains where they live most of the year. Prideful and with a firey temperament, the males tends to fight by ramming their heads until one or the other is killed.\n\nThere are tales of a stoneborn king who fought countless battles on the back of a dwarven muffton. This legend gave rise to a tradition among certain clans, in which upon reaching puberty each stoneborn would be given a baby muffton. -->
+  <DA_DwarvenMuffton.description>矮羊是一种以其温暖的棕毛和巨角闻名的似羊草食动物。在它们常年居住的北境山区能看到兽群。它们骄傲且脾气很坏，雄性矮羊经常用头互相顶撞直到一方死去。石生氏族的传说中有一位君王骑着矮羊作战，这项传说在一些氏族中形成了青春期石生人会被赠予一只矮羊幼崽的传统。</DA_DwarvenMuffton.description>
+  <!-- EN: head -->
+  <DA_DwarvenMuffton.tools.head.label>头</DA_DwarvenMuffton.tools.head.label>
+  <!-- EN: left hoof -->
+  <DA_DwarvenMuffton.tools.left_hoof.label>左蹄</DA_DwarvenMuffton.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <DA_DwarvenMuffton.tools.left_hoof.labelNoLocation>蹄子</DA_DwarvenMuffton.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <DA_DwarvenMuffton.tools.right_hoof.label>右蹄</DA_DwarvenMuffton.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <DA_DwarvenMuffton.tools.right_hoof.labelNoLocation>蹄子蹄子</DA_DwarvenMuffton.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: fermenting muffton milk -->
+  <DA_FermentingMufftonMilk.label>酿造中的羊奶</DA_FermentingMufftonMilk.label>
+  <!-- EN: Fermenting muffton milk that needs to be stirred regularly in order to produce karhan. -->
+  <DA_FermentingMufftonMilk.description>酿造中的羊奶，需要规律地搅拌以产出羊奶酒</DA_FermentingMufftonMilk.description>
+  
+  <!-- EN: karhan -->
+  <DA_Karhan.label>羊奶酒</DA_Karhan.label>
+  <!-- EN: Muffton milk which has been stirred and fermented for a extended duration. While not as alcoholic as other beverages excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
+  <DA_Karhan.description>被搅拌且酿造了一段时间的羊奶。尽管度数不高，喝多了也会断片，而且可能成瘾。</DA_Karhan.description>
+  <!-- EN: Drink {0} -->
+  <DA_Karhan.ingestible.ingestCommandString>饮用{0}</DA_Karhan.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <DA_Karhan.ingestible.ingestReportString>饮用{0}</DA_Karhan.ingestible.ingestReportString>
+  
+  <!-- EN: muffton milk -->
+  <DA_MufftonMilk.label>羊奶</DA_MufftonMilk.label>
+  <!-- EN: The strong and pungent milk of a dwarven muffton. It is rather acidic and leaves a sour aftertaste if eaten raw, fortunately it loose most of its acidity when cooked. -->
+  <DA_MufftonMilk.description>矮羊浓烈刺鼻的奶。生饮会有点酸味的后韵，幸运的是煮熟后会脱酸。</DA_MufftonMilk.description>
+  
+</LanguageData>

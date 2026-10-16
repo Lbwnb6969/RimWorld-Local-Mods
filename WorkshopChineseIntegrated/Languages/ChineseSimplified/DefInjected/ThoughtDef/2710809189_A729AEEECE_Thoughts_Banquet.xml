@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_DisastrousBanquet.stages.disastrous_banquet.label>糟糕的豪华盛宴</AM_DisastrousBanquet.stages.disastrous_banquet.label>
+  
+  <AM_DisastrousBanquet.stages.disastrous_banquet.description>豪华盛宴非常糟糕！桌上的食物难吃至极，无休止的争吵把整场活动搅得一团糟。</AM_DisastrousBanquet.stages.disastrous_banquet.description>
+  
+  
+  <AM_DullBanquet.stages.dull_banquet.label>枯燥乏味的豪华盛宴</AM_DullBanquet.stages.dull_banquet.label>
+  
+  <AM_DullBanquet.stages.dull_banquet.description>豪华盛宴枯燥乏味。桌上的食物味道平平，整场活动充斥着无趣的氛围。</AM_DullBanquet.stages.dull_banquet.description>
+  
+  
+  <AM_EnjoyableBanquet.stages.enjoyable_banquet.label>愉悦的豪华盛宴</AM_EnjoyableBanquet.stages.enjoyable_banquet.label>
+  
+  <AM_EnjoyableBanquet.stages.enjoyable_banquet.description>豪华盛宴{0}令人愉悦。我们共同欢笑并分享美味的食物，让整场活动变得意义非凡。</AM_EnjoyableBanquet.stages.enjoyable_banquet.description>
+  
+  
+  <AM_ExquisiteBanquet.stages.exquisite_banquet.label>雅致的豪华盛宴</AM_ExquisiteBanquet.stages.exquisite_banquet.label>
+  
+  <AM_ExquisiteBanquet.stages.exquisite_banquet.description>豪华盛宴非常雅致！整场活动的氛围非常完美，食物的味道无可比拟，我们也相处的非常和睦。</AM_ExquisiteBanquet.stages.exquisite_banquet.description>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: toxscorpion -->
+  <VAEWaste_Toxscorpion.label>污毒巨蝎</VAEWaste_Toxscorpion.label>
+  <!-- EN: The Toxscorpion is a massive and fearsome creature, growing as large as a cow. Its thick carapace and powerful claws make it nearly invulnerable, capable of cutting through even metal. With no definite weak spot, the Toxscorpion is a formidable opponent. Mutated from exposure to radiation and toxins, its stinger injects a fast-acting poison that alters the DNA of its victims. This leads to toxic buildup and cancerous growths that must be swiftly removed before they spread, making the Toxscorpion one of the most dangerous creatures in the wasteland. -->
+  <VAEWaste_Toxscorpion.description>已对污染和毒素产生抗性的突变生物。这些骇人的蝎子体大如牛，它们厚重的甲壳几乎坚不可摧，有力的双螯能轻而易举地钳碎金属，在各方面都称得上是无懈可击。作为废土中最危险的存在之一，污毒巨蝎会用尾部的螫刺向那些不自量力的挑战者体内注射速效毒液，通过改变其DNA序列结构来引发中毒与癌症。如果未做好充足的准备，请不要试图近距离攻击它们。</VAEWaste_Toxscorpion.description>
+  <!-- EN: left pincer -->
+  <VAEWaste_Toxscorpion.tools.left_pincer.label>左螯钳</VAEWaste_Toxscorpion.tools.left_pincer.label>
+  <!-- EN: right pincer -->
+  <VAEWaste_Toxscorpion.tools.right_pincer.label>右螯钳</VAEWaste_Toxscorpion.tools.right_pincer.label>
+  <!-- EN: head -->
+  <VAEWaste_Toxscorpion.tools.head.label>头</VAEWaste_Toxscorpion.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MThingsMedicalMedicineTincture.label>酊剂药物</MThingsMedicalMedicineTincture.label>
+  <MThingsMedicalMedicineTincture.description>一套由草药酊剂、药膏和消毒工具组成的医疗用品。效果虽不及工业药物，但远胜简单的草药处理。</MThingsMedicalMedicineTincture.description>
+  <MThingsMedicalHealerStand.label>医师器械台</MThingsMedicalHealerStand.label>
+  <MThingsMedicalHealerStand.description>一张整齐摆放着消毒布巾、药膏和基础医疗工具的桌台。放在医疗床旁时，能以简朴但有效的方式改善治疗效果。</MThingsMedicalHealerStand.description>
+  <MThingsGeysersCoreHealingCot.label>疗养床</MThingsGeysersCoreHealingCot.label>
+  <MThingsGeysersCoreHealingCot.description>这张床配有内置的草药敷料架、药膏托盘和基础医疗器具，能够为中世纪医师提供良好的治疗支持。</MThingsGeysersCoreHealingCot.description>
+  <MThingsShadowbox.label>影戏箱</MThingsShadowbox.label>
+  <MThingsShadowbox.description>一台以烛火驱动的装置，让雕刻剪影缓缓掠过羊皮纸幕布，为附近患者或闲暇人员提供轻松的娱乐。</MThingsShadowbox.description>
+  <MThingsExpandedShadowbox.label>大型影戏箱</MThingsExpandedShadowbox.label>
+  <MThingsExpandedShadowbox.description>一台更大、更精巧的烛光装置，能在宽阔的羊皮纸幕布上投射复杂的剪影场景，为康复中的患者和闲暇人员带来更具沉浸感的故事。</MThingsExpandedShadowbox.description>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_RestrainedToBed.label>被束缚在床上</CE_RestrainedToBed.label>
+  <CE_RestrainedToBed.description>该生物已被捆在床上，无法离开。</CE_RestrainedToBed.description>
+</LanguageData>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mace -->
+
+  <BotchJob_AncientMace.label>远古钉锤</BotchJob_AncientMace.label>
+  <BotchJob_AncientMace.description>一把设计古老的结实钉锤，能造成钝器伤害，对身着装甲的敌人很有效。</BotchJob_AncientMace.description>
+  <BotchJob_AncientMace.tools.0.label>握柄</BotchJob_AncientMace.tools.0.label>
+  <BotchJob_AncientMace.tools.1.label>锤头</BotchJob_AncientMace.tools.1.label>
+
+
+  <!-- Longsword -->
+
+  <BotchJob_AncientLongsword.label>远古长剑</BotchJob_AncientLongsword.label>
+  <BotchJob_AncientLongsword.description>一把设计古老的锋利长剑，是一把平衡性极佳的武器，可以透过挥砍或刺击来造成更有效的伤害。</BotchJob_AncientLongsword.description>
+  <BotchJob_AncientLongsword.tools.0.label>剑柄</BotchJob_AncientLongsword.tools.0.label>
+  <BotchJob_AncientLongsword.tools.1.label>刀尖</BotchJob_AncientLongsword.tools.1.label>
+  <BotchJob_AncientLongsword.tools.2.label>刀锋</BotchJob_AncientLongsword.tools.2.label>
+
+
+  <!-- Axe -->
+
+  <BotchJob_AncientWarAxe.label>远古战斧</BotchJob_AncientWarAxe.label>
+  <BotchJob_AncientWarAxe.description>一把设计古老的战斧，能够用其沉重的斧刃进行残酷的扫荡。</BotchJob_AncientWarAxe.description>
+  <BotchJob_AncientWarAxe.tools.0.label>握柄</BotchJob_AncientWarAxe.tools.0.label>
+  <BotchJob_AncientWarAxe.tools.1.label>斧锋</BotchJob_AncientWarAxe.tools.1.label>
+
+
+  <!-- Warhammer -->
+
+  <BotchJob_AncientWarhammer.label>远古战鎚</BotchJob_AncientWarhammer.label>
+  <BotchJob_AncientWarhammer.description>一把设计古老的重型战鎚。挥舞这把武器需要相当大的力量，一旦能熟练地使用，就能对身着装甲的敌人造成非常有效的打击。</BotchJob_AncientWarhammer.description>
+  <BotchJob_AncientWarhammer.tools.0.label>握柄</BotchJob_AncientWarhammer.tools.0.label>
+  <BotchJob_AncientWarhammer.tools.1.label>鎚头</BotchJob_AncientWarhammer.tools.1.label>
+
+
+  <!-- Spear -->
+
+  <BotchJob_AncientSpear.label>远古长矛</BotchJob_AncientSpear.label>
+  <BotchJob_AncientSpear.description>一把设计古老的长矛。能透过快速推刺有效地反击远处对手。</BotchJob_AncientSpear.description>
+  <BotchJob_AncientSpear.tools.0.label>矛柄</BotchJob_AncientSpear.tools.0.label>
+  <BotchJob_AncientSpear.tools.1.label>矛尖</BotchJob_AncientSpear.tools.1.label>
+
+
+  <!-- Bow -->
+
+  <BotchJob_AncientLongbow.label>远古长弓</BotchJob_AncientLongbow.label>
+  <BotchJob_AncientLongbow.description>一把设计古老的长弓，在射程、伤害和速度等方面素质都很均衡。</BotchJob_AncientLongbow.description>
+  <BotchJob_AncientLongbow.tools.0.label>弓臂</BotchJob_AncientLongbow.tools.0.label>
+
+
+  <!-- Dagger -->
+
+  <BotchJob_AncientAcolyteDagger.label>远古侍从匕首</BotchJob_AncientAcolyteDagger.label>
+  <BotchJob_AncientAcolyteDagger.description>一把设计古老的阴险匕首。匕首刀刃上涂有一种从虫族果冻中提取的毒素，一旦接触到伤口就会造成毒性堆积。</BotchJob_AncientAcolyteDagger.description>
+  <BotchJob_AncientAcolyteDagger.tools.0.label>握柄</BotchJob_AncientAcolyteDagger.tools.0.label>
+  <BotchJob_AncientAcolyteDagger.tools.1.label>刀刃</BotchJob_AncientAcolyteDagger.tools.1.label>
+  <BotchJob_AncientAcolyteDagger.tools.2.label>刀尖</BotchJob_AncientAcolyteDagger.tools.2.label>
+
+
+</LanguageData>

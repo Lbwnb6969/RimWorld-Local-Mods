@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mixing scarlet scent -->
+  <DA_Make_ScarletScent.label>混合猩红香氛</DA_Make_ScarletScent.label>
+  <!-- EN: Extract the bone marrow of a pair of larpah antlers and mix it with various herbs in order to create scarlet scent, a potent battle drug. -->
+  <DA_Make_ScarletScent.description>提取拉法红角中的骨髓，与各种草药混合以制作猩红香氛————一种强力的战斗药物。</DA_Make_ScarletScent.description>
+  <!-- EN: Mixing scarlet scent -->
+  <DA_Make_ScarletScent.jobString>混合猩红香氛</DA_Make_ScarletScent.jobString>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: feast guests -->
+  <RimFeast_Guests.label>宴会来宾</RimFeast_Guests.label>
+  <!-- EN: Nobles and their retinue, riding to a banquet under the banner of their house. -->
+  <RimFeast_Guests.description>贵族及其随从，举着家族的旗帜，策马赴宴。</RimFeast_Guests.description>
+  <!-- EN: Feast Guests -->
+  <RimFeast_Guests.fixedName>宴会来宾</RimFeast_Guests.fixedName>
+  <!-- EN: steward -->
+  <RimFeast_Guests.leaderTitle>管家</RimFeast_Guests.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <RimFeast_Guests.messageDefendersAttacking>{1}的{0}正在攻击你的{2}。</RimFeast_Guests.messageDefendersAttacking>
+  <!-- EN: guest -->
+  <RimFeast_Guests.pawnSingular>来宾</RimFeast_Guests.pawnSingular>
+  <!-- EN: guests -->
+  <RimFeast_Guests.pawnsPlural>来宾们</RimFeast_Guests.pawnsPlural>
+  
+</LanguageData>

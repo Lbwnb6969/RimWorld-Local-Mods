@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Enslavement -->
+
+  <DA_Catacombs.label>墓穴建筑</DA_Catacombs.label>
+  <DA_Catacombs.description>允许建造一系列用以点缀地下墓穴和圣坛的风格化建筑，以纪念死者。</DA_Catacombs.description>
+
+  <DA_BloodflameCatacomb.label>血焰</DA_BloodflameCatacomb.label>
+  <DA_BloodflameCatacomb.description>允许建造经过特殊处理的照明设施，能用以缓和具有嗜血基因的殖民者们的心情。</DA_BloodflameCatacomb.description>
+
+</LanguageData>

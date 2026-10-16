@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flesh slab (broad) -->
+  <AM_FleshSlab_Broad.label>血肉文化雕版（宽）</AM_FleshSlab_Broad.label>
+  <!-- EN: A stone bas relief of flesh imagery for decorating a floor. -->
+  <AM_FleshSlab_Broad.description>用来装饰地板的血肉文化图案石制浅浮雕。</AM_FleshSlab_Broad.description>
+  
+  <!-- EN: flesh slab (medium) -->
+  <AM_FleshSlab_Medium.label>血肉文化雕版</AM_FleshSlab_Medium.label>
+  <!-- EN: A stone bas relief of flesh imagery for decorating a floor. -->
+  <AM_FleshSlab_Medium.description>用来装饰地板的血肉文化图案石制浅浮雕。</AM_FleshSlab_Medium.description>
+  
+</LanguageData>

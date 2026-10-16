@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Market Stall -->
+
+  <DankPyon_TableMarket_Meats.label>摆摊桌(肉品)</DankPyon_TableMarket_Meats.label>
+  <DankPyon_TableMarket_Meats.description>一张摆摊用的桌子，用来陈列各种肉品。</DankPyon_TableMarket_Meats.description>
+
+  <DankPyon_TableMarket_Dairy.label>摆摊桌(奶制品)</DankPyon_TableMarket_Dairy.label>
+  <DankPyon_TableMarket_Dairy.description>一张摆摊用的桌子，用来陈列各种奶制品。</DankPyon_TableMarket_Dairy.description>
+<!--
+  <DankPyon_TableMarket_Bread.label>摆摊桌(面包)</DankPyon_TableMarket_Bread.label>
+  <DankPyon_TableMarket_Bread.description>一张摆摊用的桌子，用来陈列各种面包。</DankPyon_TableMarket_Bread.description>
+-->
+  <DankPyon_TableMarket_Herb.label>摆摊桌(草药)</DankPyon_TableMarket_Herb.label>
+  <DankPyon_TableMarket_Herb.description>一张摆摊用的桌子，用来陈列各种草药。</DankPyon_TableMarket_Herb.description>
+
+  <DankPyon_TableMarket_MeleeWeapons.label>摆摊桌(武器)</DankPyon_TableMarket_MeleeWeapons.label>
+  <DankPyon_TableMarket_MeleeWeapons.description>一张摆摊用的桌子，用来陈列各种近战武器。</DankPyon_TableMarket_MeleeWeapons.description>
+
+  <DankPyon_TableMarket_Bow.label>摆摊桌(弓箭)</DankPyon_TableMarket_Bow.label>
+  <DankPyon_TableMarket_Bow.description>一张摆摊用的桌子，用来陈列各种弓。</DankPyon_TableMarket_Bow.description>
+
+
+  <!-- Stalls -->
+
+  <DankPyon_Stall_Empty.label>空摆摊货架</DankPyon_Stall_Empty.label>
+  <DankPyon_Stall_Empty.description>一座附帐篷的摆摊用货架，用来陈列各种商品。</DankPyon_Stall_Empty.description>
+
+  <DankPyon_Stall_Meats.label>摆摊货架(肉品)</DankPyon_Stall_Meats.label>
+  <DankPyon_Stall_Meats.description>一座附帐篷的摆摊用货架，用来陈列各种肉品。</DankPyon_Stall_Meats.description>
+
+  <DankPyon_Stall_Dairy.label>摆摊货架(奶制品)</DankPyon_Stall_Dairy.label>
+  <DankPyon_Stall_Dairy.description>一座附帐篷的摆摊用货架，用来陈列各种奶制品。</DankPyon_Stall_Dairy.description>
+
+  <DankPyon_Stall_Bread.label>摆摊货架(面包)</DankPyon_Stall_Bread.label>
+  <DankPyon_Stall_Bread.description>一座附帐篷的摆摊用货架，用来陈列各种面包。</DankPyon_Stall_Bread.description>
+
+  <DankPyon_Stall_Herb.label>摆摊货架(草药)</DankPyon_Stall_Herb.label>
+  <DankPyon_Stall_Herb.description>一座附帐篷的摆摊用货架，用来陈列各种草药。</DankPyon_Stall_Herb.description>
+
+  <DankPyon_Stall_MeleeWeapons.label>摆摊货架(武器)</DankPyon_Stall_MeleeWeapons.label>
+  <DankPyon_Stall_MeleeWeapons.description>一座附帐篷的摆摊用货架，用来陈列各种武器。</DankPyon_Stall_MeleeWeapons.description>
+
+  <DankPyon_Stall_Bow.label>摆摊货架(弓箭)</DankPyon_Stall_Bow.label>
+  <DankPyon_Stall_Bow.description>一座附帐篷的摆摊用货架，用来陈列各种弓箭。</DankPyon_Stall_Bow.description>
+
+
+  <!-- Market Tent -->
+
+  <DankPyon_MarketTent_1c.label>摆摊帐篷(红)</DankPyon_MarketTent_1c.label>
+  <DankPyon_MarketTent_1c.description>一顶能够帮货物遮挡阳光的帐篷。</DankPyon_MarketTent_1c.description>
+
+  <DankPyon_MarketTent_2c.label>摆摊帐篷(蓝)</DankPyon_MarketTent_2c.label>
+  <DankPyon_MarketTent_2c.description>一顶能够帮货物遮挡阳光的帐篷。</DankPyon_MarketTent_2c.description>
+
+  <DankPyon_MarketTent_3c.label>摆摊帐篷(浅绿)</DankPyon_MarketTent_3c.label>
+  <DankPyon_MarketTent_3c.description>一顶能够帮货物遮挡阳光的帐篷。</DankPyon_MarketTent_3c.description>
+
+  <DankPyon_MarketTent_4c.label>摆摊帐篷(黑x白)</DankPyon_MarketTent_4c.label>
+  <DankPyon_MarketTent_4c.description>一顶能够帮货物遮挡阳光的帐篷。</DankPyon_MarketTent_4c.description>
+
+  <DankPyon_MarketTent_5c.label>摆摊帐篷(黑x黄)</DankPyon_MarketTent_5c.label>
+  <DankPyon_MarketTent_5c.description>一顶能够帮货物遮挡阳光的帐篷。</DankPyon_MarketTent_5c.description>
+
+  <DankPyon_MarketTent_6c.label>摆摊帐篷(白)</DankPyon_MarketTent_6c.label>
+  <DankPyon_MarketTent_6c.description>一顶能够帮货物遮挡阳光的帐篷。</DankPyon_MarketTent_6c.description>
+
+  <DankPyon_MarketTent_7c.label>摆摊帐篷(素色)</DankPyon_MarketTent_7c.label>
+  <DankPyon_MarketTent_7c.description>一顶能够帮货物遮挡阳光的帐篷。</DankPyon_MarketTent_7c.description>
+
+</LanguageData>

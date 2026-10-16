@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_BattleElixir.label>战斗灵药</DankPyon_BattleElixir.label>
+  <DankPyon_BattleElixir.description>大战期间为骑士和贵族酿造的强身补药。战斗灵药能增强服用者的战斗能力，心灵能力者能直接增加精神力而不需冥想。不过，对于一般平民来说，要想获得这种药，代价可不菲。\n\n此外，这种药物具有令服用者成瘾的副作用，索伦的高塔炼金术士始终无法研究出消除副作用的方法；有些人将其视为缺点…有些人则不这么认为。</DankPyon_BattleElixir.description>
+  <DankPyon_BattleElixir.ingestible.ingestCommandString>服用{0}</DankPyon_BattleElixir.ingestible.ingestCommandString>
+  <DankPyon_BattleElixir.ingestible.ingestReportString>正在服用{0}。</DankPyon_BattleElixir.ingestible.ingestReportString>
+
+
+</LanguageData>

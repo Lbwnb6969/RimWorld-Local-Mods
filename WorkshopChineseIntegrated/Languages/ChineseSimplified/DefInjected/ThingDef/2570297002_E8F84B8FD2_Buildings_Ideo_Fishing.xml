@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: large fishing trap -->
+  <VME_LargeFishingTrap.label>大型渔网</VME_LargeFishingTrap.label>
+  <!-- EN: A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a large trap that will only catch large sized fish. -->
+  <VME_LargeFishingTrap.description>用木棍和网线制作的捕鱼装置，构造原始但相当精巧。渔网最终会被水流和挣扎的鱼儿弄坏，所以需要定期重建。\n\n大型渔网只能捕获大型鱼。</VME_LargeFishingTrap.description>
+  
+  <!-- EN: medium fishing trap -->
+  <VME_MediumFishingTrap.label>中型渔网</VME_MediumFishingTrap.label>
+  <!-- EN: A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a medium trap that will only catch medium sized fish. -->
+  <VME_MediumFishingTrap.description>用木棍和网线制作的捕鱼装置，构造原始但相当精巧。渔网最终会被水流和挣扎的鱼儿弄坏，所以需要定期重建。\n\n中型渔网只能捕获中型鱼。</VME_MediumFishingTrap.description>
+  
+  <!-- EN: small fishing trap -->
+  <VME_SmallFishingTrap.label>小型渔网</VME_SmallFishingTrap.label>
+  <!-- EN: A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a small trap that will only catch small sized fish. -->
+  <VME_SmallFishingTrap.description>用木棍和网线制作的捕鱼装置，构造原始但相当精巧。渔网最终会被水流和挣扎的鱼儿弄坏，所以需要定期重建。\n\n小型渔网只能捕获小型鱼。</VME_SmallFishingTrap.description>
+  
+</LanguageData>

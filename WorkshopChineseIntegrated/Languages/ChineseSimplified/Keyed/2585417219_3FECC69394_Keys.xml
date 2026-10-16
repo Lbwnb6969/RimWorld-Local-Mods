@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: Only player pawn animations -->
+  <YayoAnim_OnlyPlayerPawns>动画效果仅对玩家派系的单位生效</YayoAnim_OnlyPlayerPawns>
+    <!-- EN: Prevents any pawn (be it human, animal, or mechanoid) from having any animations unless they're from player's faction. -->
+  <YayoAnim_OnlyPlayerPawnsTooltip>若启用此项，除玩家派系以外的单位（包括人类、动物和机械体）将不会拥有动画效果。</YayoAnim_OnlyPlayerPawnsTooltip>
+    <!-- EN: Update frequency (in ticks) -->
+  <YayoAnim_UpdateFrequency>更新频率（单位：ticks）</YayoAnim_UpdateFrequency>
+    <!-- EN: Maximum zoom level: {0} -->
+  <YayoAnim_MaximumZoomLevel>最大缩放等级：{0}</YayoAnim_MaximumZoomLevel>
+    <!-- EN: Determines maximum zoom level at which the animations will play. If you zoom beyond it, the animations will stop playing. -->
+  <YayoAnim_MaximumZoomLevelTooltip>设置动画播放的最大缩放等级。如果你的镜头缩放超过了此项的数值，动画将不会播放。</YayoAnim_MaximumZoomLevelTooltip>
+    <!-- EN: Closest -->
+  <YayoAnim_MaximumZoomLevel_Closest>最近</YayoAnim_MaximumZoomLevel_Closest>
+    <!-- EN: Close -->
+  <YayoAnim_MaximumZoomLevel_Close>近</YayoAnim_MaximumZoomLevel_Close>
+    <!-- EN: Middle -->
+  <YayoAnim_MaximumZoomLevel_Middle>中</YayoAnim_MaximumZoomLevel_Middle>
+    <!-- EN: Far -->
+  <YayoAnim_MaximumZoomLevel_Far>远</YayoAnim_MaximumZoomLevel_Far>
+    <!-- EN: Any zoom level -->
+  <YayoAnim_MaximumZoomLevel_Furthest>任意</YayoAnim_MaximumZoomLevel_Furthest>
+
+    <!-- EN: Walking animations -->
+  <YayoAnim_Walk>行走动画</YayoAnim_Walk>
+    <!-- EN: Walking motion speed -->
+  <YayoAnim_WalkAnimSpeed>行走晃动速度</YayoAnim_WalkAnimSpeed>
+    <!-- EN: Walking motion angle -->
+  <YayoAnim_WalkAnimAngle>行走晃动角度</YayoAnim_WalkAnimAngle>
+
+    <!-- EN: Combat animations -->
+  <YayoAnim_Combat>战斗动画</YayoAnim_Combat>
+    <!-- EN: Weapon twirling -->
+  <YayoAnim_TwirlWeapon>武器转动</YayoAnim_TwirlWeapon>
+    <!-- EN: Disable weapon twirling for weapons over specific mass -->
+  <YayoAnim_TwirlWeaponMaxMassEnabled>禁用重量超过最大上限的武器的转动动画</YayoAnim_TwirlWeaponMaxMassEnabled>
+    <!-- EN: Max weapon mass for twirling -->
+  <YayoAnim_TwirlWeaponMaxMass>可转动武器的最大重量上限</YayoAnim_TwirlWeaponMaxMass>
+    <!-- EN: Disable weapon twirling for weapons over specific size -->
+  <YayoAnim_TwirlWeaponMaxSizeEnabled>禁用尺寸超过最大上限的武器的转动动画</YayoAnim_TwirlWeaponMaxSizeEnabled>
+    <!-- EN: Max weapon size for twirling -->
+  <YayoAnim_TwirlWeaponMaxSize>可转动武器的最大尺寸上限</YayoAnim_TwirlWeaponMaxSize>
+
+    <!-- EN: All work animations -->
+  <YayoAnim_AllJobs>工作动画</YayoAnim_AllJobs>
+
+    <!-- EN: Sleeping animations -->
+  <YayoAnim_Sleep>睡眠动画</YayoAnim_Sleep>
+    <!-- EN: Lovin' animations -->
+  <YayoAnim_LovinBed>爱爱动画</YayoAnim_LovinBed>
+
+    <!-- EN: Mechanoid walking animations -->
+  <YayoAnim_MechanoidWalk>机械体行走动画</YayoAnim_MechanoidWalk>
+    <!-- EN: Mechanoid work animations -->
+  <YayoAnim_MechanoidJob>机械体工作动画</YayoAnim_MechanoidJob>
+    <!-- EN: Mechanoid combat animations -->
+  <YayoAnim_MechanoidCombat>机械体战斗动画</YayoAnim_MechanoidCombat>
+
+    <!-- EN: Animal walking animations -->
+  <YayoAnim_AnimalWalk>动物行走动画</YayoAnim_AnimalWalk>
+    <!-- EN: Animal work animations -->
+  <YayoAnim_AnimalJob>动物工作动画</YayoAnim_AnimalJob>
+    <!-- EN: Animal combat animations -->
+  <YayoAnim_AnimalCombat>动物战斗动画</YayoAnim_AnimalCombat>
+
+    <!-- EN: Requires walking animations to be enabled as well -->
+  <YayoAnim_RequiresWalkTooltip>需要先启用行走动画才能生效</YayoAnim_RequiresWalkTooltip>
+    <!-- EN: Requires all work animations to be anbled as well -->
+  <YayoAnim_RequiresJobTooltip>需要先启用工作动画才能生效</YayoAnim_RequiresJobTooltip>
+    <!-- EN: Requires combat animations to be enabled as well -->
+  <YayoAnim_RequiresCombatTooltip>需要先启用战斗动画才能生效</YayoAnim_RequiresCombatTooltip>
+
+    <!-- EN: Apply Humanoid Alien Races patch -->
+  <YayoAnim_ApplyHarPatch>启用外星人框架兼容补丁</YayoAnim_ApplyHarPatch>
+    <!-- EN: This should generally be kept on as it fixes issues with HAR enabled - disable only if this causes issues or negatively impacts performance -->
+  <YayoAnim_ApplyHarPatchTooltip>此补丁修复了与外星人框架之间的兼容问题，默认保持启用状态。</YayoAnim_ApplyHarPatchTooltip>
+    <!-- EN: Apply drawing changes from Oversized Weapons -->
+  <YayoAnim_ApplyOversizedChanges>启用Oversized Weapons的贴图修改</YayoAnim_ApplyOversizedChanges>
+    <!-- EN: Oversized Weapons (from CopmOversizedWeapons) can have additional data for things like weapon rotation, position offset, and others. Disabling this option disables those from being applied (with exception of dual-wield and projectile deflection). This does NOT affect Enable Oversized Weapons mod. -->
+  <YayoAnim_ApplyOversizedChangesTooltip>CopmOversizedWeapons可以为武器设置一些额外的属性，例如武器贴图的旋转角度、位置偏移等。若禁用此项，这些修改将不会生效（部分除外）。不会对Enable Oversized Weapons mod产生影响。</YayoAnim_ApplyOversizedChangesTooltip>
+
+    <!-- EN: Debug mode -->
+  <YayoAnim_DebugMode>调试模式</YayoAnim_DebugMode>
+
+    <!-- EN: Reset to default -->
+  <YayoAnim_ResetToDefault>重设为默认值</YayoAnim_ResetToDefault>
+  
+</LanguageData>

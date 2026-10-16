@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Luhix.label>乐喜思</DankPyon_Luhix.label>
+  <DankPyon_Luhix.description>一种精心调制的药剂，由发明者—傲斯温家族疲惫不堪的炼金大师—亲自证明这种药剂应用在彻夜啃书上的记忆强化功效，此外，心灵能力者服用后能直接增加精神力而不需冥想。\n\n各种学术机构的学生都非常喜爱这种药剂—尽管人们对其增加痛觉的不寻常副作用似乎都过于轻描淡写了。</DankPyon_Luhix.description>
+  <DankPyon_Luhix.ingestible.ingestCommandString>服用{0}</DankPyon_Luhix.ingestible.ingestCommandString>
+  <DankPyon_Luhix.ingestible.ingestReportString>正在服用{0}。</DankPyon_Luhix.ingestible.ingestReportString>
+
+
+</LanguageData>

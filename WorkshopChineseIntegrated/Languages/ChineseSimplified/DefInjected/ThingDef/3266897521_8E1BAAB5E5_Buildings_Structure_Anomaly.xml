@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: large security door -->
+  <RB_LargeSecurityDoor.label>安全巨门</RB_LargeSecurityDoor.label>
+  <!-- EN: A heavily reinforced door. It is slow to open and requires electricity, but is very strong. It's a good choice if you want to keep something dangerous out - or in. The door requires walls on either side to function. -->
+  <RB_LargeSecurityDoor.description>经过重重加固的门。分隔房间。开关速度较慢，且需要通电，但优点是非常坚固。若需要将危险挡在门外或锁在门内，它是个不错的选择。这种大而重的门两侧必须与墙体相连才能正常工作。</RB_LargeSecurityDoor.description>
+  
+</LanguageData>

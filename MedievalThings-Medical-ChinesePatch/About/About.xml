@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Medieval Things: Medical - Simplified Chinese</name>
+  <author>Local translation patch</author>
+  <packageId>Local.MThings.Medical.ChineseSimplified</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Simplified Chinese translation for Medieval Things: Medical.</description>
+  <modDependencies>
+    <li>
+      <packageId>Salvador143.MThings.Medical</packageId>
+      <displayName>Medieval Things: Medical</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3470308998</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Salvador143.MThings.Medical</li>
+  </loadAfter>
+</ModMetaData>

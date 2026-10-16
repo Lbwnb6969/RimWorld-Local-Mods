@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: betcher's gland -->
+  <BEWH_BetchersGland.label>蚀刻腺体</BEWH_BetchersGland.label>
+  <!-- EN: The Betcher's gland consists of two glands working together, implanted in different parts of the mouth. They convert saliva into a highly corrosive acid. This acid saliva can melt steel and be used in combat to blind or kill by spitting. However, it is typically a last resort due to the damage it causes to the Space marine's mouth. Healing can be slow and may cause temporary muteness. Some chapters modify the glands to store custom poisons they are immune to, which can be deployed in combat or capture situations. -->
+  <BEWH_BetchersGland.description>蚀刻腺体由两个协同工作的腺体组成，分别植入口腔的不同部位。它们将唾液转化为一种高腐蚀性的酸液。这种酸性唾液可以熔化钢铁，并在战斗中用于致盲敌人或直接杀死敌人。然而，由于它会对星际战士的口腔造成损伤，这通常是绝境中的最终手段。治愈过程可能很漫长，并且可能导致暂时性失语。一些战团会对该腺体进行改造，使其储存自身免疫的定制毒药，以便在战斗或被俘时使用。</BEWH_BetchersGland.description>
+  
+  <!-- EN: biscopea -->
+  <BEWH_Biscopea.label>肌肉强化器官</BEWH_Biscopea.label>
+  <!-- EN: The Biscopea is the last organ implanted alongside the Secondary Heart. While the Secondary Heart supports a larger body and the Ossmodula strengthens the skeleton, the Biscopea builds a tougher muscle layer. It hormonally promotes muscle growth in size and durability, producing stronger fibers that endure high strain without normal human training. These muscles also regenerate faster, reducing fatigue during long campaigns. -->
+  <BEWH_Biscopea.description>肌肉强化器官是与第二心脏一起植入的最后一个器官。第二心脏支撑着更大的身体，骨强化器官强化了骨骼，而肌肉强化器官则构建了更坚韧的肌肉层。它通过激素促进肌肉生长，提高肌肉的尺寸和耐久性，产生更强壮的纤维，无需经过训练即可承受高强度的负荷。这些肌肉的再生速度也更快，从而减轻了长时间运动中的疲劳。</BEWH_Biscopea.description>
+  <!-- EN: No loss in melee skill. -->
+  <BEWH_Biscopea.customEffectDescriptions.0>不会失去格斗技能。</BEWH_Biscopea.customEffectDescriptions.0>
+  <!-- EN: Recreation from melee. -->
+  <BEWH_Biscopea.customEffectDescriptions.1>从近战中获取娱乐值。</BEWH_Biscopea.customEffectDescriptions.1>
+  
+  <!-- EN: black carapace -->
+  <BEWH_BlackCarapace.label>黑色甲壳</BEWH_BlackCarapace.label>
+  <!-- EN: The Black Carapace is the final implant, blending biological and mechanical technology. It is the last step before a neophyte can be called an Astartes. Its design is complex yet elegantly simple: a fibrous biological tissue implanted beneath the skin that spreads invasively throughout a body, connecting painfully to the nervous system. Once fully integrated, an Apothecary surgically installs connection ports that link the Astartes to the machine spirit of their power armor, creating a neural interface that allows man and machine to act and sense as one. -->
+  <BEWH_BlackCarapace.description>黑色甲壳是最终的植入物，它融合了生物和机械技术。这是新兵成为阿斯塔特的最后一步。它的设计复杂却又优雅简洁：一种纤维状的生物组织被植入皮下，侵入式地扩散到全身，并与神经系统连接，这会造成疼痛。一旦完全整合，药剂师会像外科手术一样安装连接端口，将阿斯塔特与动力装甲的机魂连接起来，从而创建一个神经接口，使人与机器如一体般自由行动和感知。</BEWH_BlackCarapace.description>
+  <!-- EN: Ignores movespeed decrease from armor. -->
+  <BEWH_BlackCarapace.customEffectDescriptions.0>TODO</BEWH_BlackCarapace.customEffectDescriptions.0>
+  
+  <!-- EN: catalepsean node -->
+  <BEWH_CatalepseanNode.label>神经结</BEWH_CatalepseanNode.label>
+  <!-- EN: Installed in the brainstem, the Catalepsean node monitors stress hormones and detects severe sleep deprivation. It then simulates sleep by temporarily shutting down parts of the brain, allowing the user to remain awake longer. Though dangerous if used for extended periods, it enables sustained alertness during sieges or defenses. This ability helps Astartes prevail against overwhelming numbers by enduring attrition others cannot. -->
+  <BEWH_CatalepseanNode.description>神经结位于脑干，可监测压力荷尔蒙并检测严重的睡眠不足。它会通过暂时关闭部分大脑区域来模拟睡眠，使使用者能够保持更长时间的清醒。虽然长时间使用该功能会很危险，但它能够在围攻或守城期间保持长时间的警觉。这种能力可以帮助阿斯塔特在被敌人大规模兵力压制的情况下，以其他人无法承受的减员为代价取胜。</BEWH_CatalepseanNode.description>
+  
+  <!-- EN: haemastamen -->
+  <BEWH_Haemastamen.label>血液再造器官</BEWH_Haemastamen.label>
+  <!-- EN: The Haemastamen is a small organ placed in a major blood vessel that improves the neophyte's blood cells. It alters the blood's biochemical composition to carry oxygen and nutrients more efficiently, boosting hemoglobin and giving the blood a rich, bright red color. This keeps the blood balanced and fights fatigue, letting the neophyte push harder and last longer. -->
+  <BEWH_Haemastamen.description>血液再造器官是一个放置在主血管中的小型器官，用于改善新兵的血细胞。它改变血液的成分，使其更有效地携带氧气和营养物质，提高血红蛋白的含量，使血液呈现浓郁鲜红的颜色。这可以保持血液平衡，抵抗疲劳，让新兵更加努力，坚持更久。</BEWH_Haemastamen.description>
+  
+  <!-- EN: larraman's organ -->
+  <BEWH_LarramansOrgan.label>拉瑞曼器官</BEWH_LarramansOrgan.label>
+  <!-- EN: An organ that secretes special bio-engineered cells, which travel on leucocytes to reach damaged blood vessels, where they deploy to seal tears by forming a protective barrier. Unlike normal platelets, these cells can aggregate to patch the larger, tougher vessels of Astartes and directly form clots to stop the blood flow from fully opened vessels. -->
+  <BEWH_LarramansOrgan.description>这是一种分泌特殊生物工程细胞的器官，这些细胞会随着白细胞移动，到达受损的血管，并在那里形成一道保护屏障，封堵裂口。与普通血小板不同，这些细胞可以聚集起来，修补阿斯塔特更大、更坚韧的血管。它们会直接形成血凝块，阻止血液从伤口中流出。</BEWH_LarramansOrgan.description>
+  <!-- EN: Bleeding wounds close very quickly. -->
+  <BEWH_LarramansOrgan.customEffectDescriptions.0>流血的伤口很快就会愈合。</BEWH_LarramansOrgan.customEffectDescriptions.0>
+  
+  <!-- EN: lyman's ear -->
+  <BEWH_LymansEar.label>莱曼之耳</BEWH_LymansEar.label>
+  <!-- EN: The Lyman's Ear is an inner ear implant that allows the user to modify sound perception through digital filters, such as frequency sweeps for detecting specific patterns. Located in the inner ear, it also controls the complex bones responsible for balance, making the user immune to motion sickness and fully capable of operating in low or zero gravity. The organic ear remains functional. -->
+  <BEWH_LymansEar.description>莱曼之耳是一种内耳植入物，它允许植入者通过数字滤波器（例如用于检测特定模式的频率扫描）来调整声音感知。它位于内耳，还能控制负责平衡的复杂骨骼，使用户免受晕动病的困扰，并完全能够在低重力或零重力环境下工作。莱曼之耳的外形与普通人类耳朵无任何差别。</BEWH_LymansEar.description>
+  
+  <!-- EN: melanochrome -->
+  <BEWH_Melanochrome.label>色素控制球</BEWH_Melanochrome.label>
+  <!-- EN: The Melanochrome is a specialized gland that utilizes the lymphatic system to distribute hormones that enhance radiation protection by regulating melanin production. It is responsible for certain distinctive mutations, such as the deep black skin of the Salamanders or the unusually pale complexion of the Blood Angels and Raven Guard. -->
+  <BEWH_Melanochrome.description>色素控制球是一种特殊的腺体，它利用淋巴系统分泌激素。它通过调节黑色素的生成来增强辐射防护。这种腺体导致了某些独特的突变，例如火蜥蜴的深黑色皮肤和圣血天使的雪白肤色。</BEWH_Melanochrome.description>
+  
+  <!-- EN: mucranoid -->
+  <BEWH_Mucranoid.label>汗腺改进器官</BEWH_Mucranoid.label>
+  <!-- EN: The Mucranoid is a long organ installed alongside the spine and connected to the lynphatic system for transport, it detects a chemical stimuli that is usually self-administered in case of emergency and then secretes signals that travel to the skin and close up the pores using a waxy mucus, as more of it is released the entire skin ends up covered and then a neural signal is sent to the brain to enter a deep-coma, reducing metabolism to almost nothing. While protected this way, the neophyte is immune to the vacuum and coldness of space, keeping them alive until he can be rescued. Of course, this can also be used in other circumstances in which he has received mortal wounds, the Mucranoid and the Larraman's cells work together to put him into the best position possible to wait for rescue. -->
+  <BEWH_Mucranoid.description>汗腺改进器官是一种长形器官，安装在脊柱旁，与淋巴系统相连，用于运输营养物质。它能检测通常在紧急情况下自行给药的化学刺激，然后分泌信号，这些信号会传递到皮肤，并用蜡状黏液关闭毛孔。随着黏液的释放，整个皮肤最终会被覆盖，神经信号会发送到大脑，使其进入深度昏迷状态，新陈代谢几乎为零。在这种保护下，新兵能够免疫太空的真空和寒冷，从而维持生命，直到获救。当然，这也可以用于其他情况，例如他受到了致命伤，汗腺改进器官和拉瑞曼器官会协同工作，使他处于最佳状态，等待救援。</BEWH_Mucranoid.description>
+  
+  <!-- EN: multi-lung -->
+  <BEWH_MultiLung.label>多肺</BEWH_MultiLung.label>
+  <!-- EN: The Multi-Lung is essentially a bag similar in composition to a lung but equipped with enzymes and filters like those in the Preomnor. Implanted just beneath the lungs to fully utilize the diaphragm, it connects to a sphincter in the trachea. This allows it to work alongside the other lungs to meet the increased oxygen demands caused by the Haemastamen. It can also close off the trachea, forcing all air intake through itself to filter out harmful gases. -->
+  <BEWH_MultiLung.description>多肺本质上是一个与肺类似的袋子，但配备了与预置胃类似的酶和过滤器。为了充分利用横膈膜，它被植入到肺部正下方，并与气管内的括约肌相连。这使得它能够与其他肺部协同工作，以满足由血液再造器官引起的氧气需求增加。它还可以关闭气管，迫使所有吸入的空气通过自身排出，从而过滤掉有害气体。</BEWH_MultiLung.description>
+  <!-- EN: Can survive loss of lungs. -->
+  <BEWH_MultiLung.customEffectDescriptions.0>失去肺部后仍能存活。</BEWH_MultiLung.customEffectDescriptions.0>
+  
+  <!-- EN: neuroglottis -->
+  <BEWH_Neuroglottis.label>味觉监测神经</BEWH_Neuroglottis.label>
+  <!-- EN: The Neuroglotis is a special sensor implanted near the mouth and nasal cavity that detects the chemical makeup of substances passing through them. It sends precise signals to its user, instantly identifying toxicity, nutritional value, and even scents like hormones that humans normally cannot detect. Beyond survival, it aids social interactions allowing to recognize stress and other subtle cues by scent. -->
+  <BEWH_Neuroglottis.description>味觉监测神经是一种植入口腔和鼻腔附近的特殊传感器，可以检测流经物质的化学成分。它向使用者发送精确的信号，即时识别毒性、营养价值，甚至人类通常无法察觉的激素等气味。除了生存之外，它还能通过气味识别压力和其他细微信号，从而促进社交互动。</BEWH_Neuroglottis.description>
+  
+  <!-- EN: occulobe -->
+  <BEWH_Occulobe.label>视觉控制器官</BEWH_Occulobe.label>
+  <!-- EN: The occulobe is implanted on the base of the frontal lobe, with a direct access to the occular nerves to which it's attached and connected directly, giving access to the retina inputs and functioning in two different ways: one is to modify the growth of the eye with hormonal therapy, giving the neophyte better sight and more compact, efficient retinal cells. The other is to allow the optical input to be directly transmitted and translated in the brain for optical hypno-therapy. -->
+  <BEWH_Occulobe.description>视觉控制器官被植入在额叶底部，可直接连接与其相连的眼神经，从而接收视网膜信号，并以两种不同的方式发挥作用：一种是通过激素疗法改变眼球的生长，使新兵获得更好的视力，并拥有更致密、更高效的视网膜细胞。另一种是允许光输入直接传输到大脑并进行翻译，用于光学催眠疗法。</BEWH_Occulobe.description>
+  <!-- EN: No loss in shooting skill. -->
+  <BEWH_Occulobe.customEffectDescriptions.0>不会失去射击技能。</BEWH_Occulobe.customEffectDescriptions.0>
+  <!-- EN: Recreation from shooting. -->
+  <BEWH_Occulobe.customEffectDescriptions.1>从射击中获取娱乐值。</BEWH_Occulobe.customEffectDescriptions.1>
+  
+  <!-- EN: omophagea -->
+  <BEWH_Omophagea.label>基因侦测神经</BEWH_Omophagea.label>
+  <!-- EN: The Omophagea is one of the least understood implants, allowing its user to acquire memories by consuming animals, humans, or even xenos. Imperial theory suggests it analyzes DNA, RNA, or protein sequences that carry the memories of the deceased and transmits them directly to the brain. The Omophagea then helps the brain translate this complex biochemical data into usable "memories" for understanding. -->
+  <BEWH_Omophagea.description>基因侦测神经是目前最不为人所知的植入物之一，它能让使用者通过吞噬动物、人类甚至异形获得记忆。帝国理论认为，它会分析承载死者记忆的DNA、RNA或蛋白质序列，并将其直接传输到大脑。基因侦测神经随后帮助大脑将这些复杂的生化数据转化为可供理解的“记忆”。</BEWH_Omophagea.description>
+  
+  <!-- EN: oolitic kidney -->
+  <BEWH_OoliticKidney.label>卵石肾脏</BEWH_OoliticKidney.label>
+  <!-- EN: The Oolitic kidney is an emergency backup filter, surpassing even machines in detoxification ability. If the Preomnor or Multi-lung fail, it induces a coma-like state to slow metabolism and carefully remove toxins. When not in use, it regulates other implants. -->
+  <BEWH_OoliticKidney.description>卵石肾脏是一个应急备用过滤器，其解毒能力甚至超越机器。如果预置胃或多肺失效，它会引发类似昏迷的状态，以减缓新陈代谢并小心地清除毒素。空闲时，它会对其他植入物进行调节。</BEWH_OoliticKidney.description>
+  
+  <!-- EN: ossmodula -->
+  <BEWH_Ossmodula.label>骨强化器官</BEWH_Ossmodula.label>
+  <!-- EN: The Ossmodula is a small gland located between the hypothalamus and hypophysis. This tiny organ mediates hormonal signals and boosts growth hormone production well beyond natural human levels. It also drives dense bone growth over several years, forming a fused, bullet-resistant ribcage. Alongside the Biscopea, it provides the foundation for the Astartes' immense strength and durability. -->
+  <BEWH_Ossmodula.description>骨强化器官是位于下丘脑和垂体之间的一个小腺体。这个微小的器官负责调节激素信号，并促进生长激素的分泌，使其远超人体自然水平。它还能在数年内促进致密骨骼的生长，形成融合的防弹胸腔。它与肌肉强化器官一起，为阿斯塔特强大的力量和坚韧奠定了基础。</BEWH_Ossmodula.description>
+  
+  <!-- EN: preomnor -->
+  <BEWH_Preomnor.label>预置胃</BEWH_Preomnor.label>
+  <!-- EN: The Preomnor is a small pouch-like organ located between the stomach and esophagus that allows the user to consume almost anything, even poisons, which are isolated and stored in the Betcher's glands. It neutralizes threats through a combination of specific enzymes and tailored antigens. Often overlooked, the Preomnor is a marvel of Imperial bioengineering and one of the most complex organs. -->
+  <BEWH_Preomnor.description>预置胃是一个位于胃和食道之间的小型囊状器官，它能让使用者吞食几乎任何东西，甚至是毒物，这些毒物会被分离并储存在蚀刻腺体中。它通过特定的酶和特制的抗原组合来中和威胁。预置胃常常被忽视，但它是帝国生物工程的奇迹，也是最复杂的器官之一。</BEWH_Preomnor.description>
+  
+  <!-- EN: progenoid glands -->
+  <BEWH_ProgenoidGlands.label>基因存收腺</BEWH_ProgenoidGlands.label>
+  <!-- EN: The Progenoid glands, installed in the neck and in the chest, are by far the most complex implants. It is a biological precision machine that detects other gene-seed implants and copies their DNA into the special "seeds". These seeds can then be extracted, and with proper care by on apothecary, gestated into new gene-seed organs. -->
+  <BEWH_ProgenoidGlands.description>植入于颈部和胸部的基因存收腺是迄今为止最复杂的植入物。它就像一台精密的血肉机器，能够探测其他基因种子植入物，并将其DNA复制到特殊的“种子”中。这些种子随后可以被提取出来，并在药剂师的悉心照料下，孕育成新的基因种子器官。</BEWH_ProgenoidGlands.description>
+  <!-- EN: Allows you to harvest these progenoids glands once after 60 days, allowing you to create another space marine, given that the pawn posses all other space marine genes. -->
+  <BEWH_ProgenoidGlands.customEffectDescriptions.0>允许你在60天后收获一次这些基因腺体，从而创建另一个星际战士，前提是该殖民者拥有所有其他星际战士基因。</BEWH_ProgenoidGlands.customEffectDescriptions.0>
+  
+  <!-- EN: secondary heart -->
+  <BEWH_SecondaryHeart.label>第二心脏</BEWH_SecondaryHeart.label>
+  <!-- EN: The secondary heart is the first and easiest gene-seed organ implanted into a neophyte. It enables survival without the original heart, enhances combat performance, and allows its user to survive in the vacuum of space for a limited time. Compact yet powerful, it fits easily into the chest of a still-developing Astartes. Due to its low rejection risk, it is often implanted alongside the Ossmodula and Biscopea. -->
+  <BEWH_SecondaryHeart.description>第二心脏是第一个也是最容易植入新兵的基因种子器官。它允许植入者在没有原始心脏的情况下生存，并增强其战斗力，植入者甚至能在太空真空中存活一段时间。它结构紧凑但功能强大，可以轻松植入仍在发育中的阿斯塔特的胸腔。由于其较低的排斥风险，它通常与骨强化器官和肌肉强化器官一同植入。</BEWH_SecondaryHeart.description>
+  <!-- EN: Can survive loss of heart. -->
+  <BEWH_SecondaryHeart.customEffectDescriptions.0>失去心脏后仍能存活。</BEWH_SecondaryHeart.customEffectDescriptions.0>
+  
+  <!-- EN: sus-an membrane -->
+  <BEWH_SusAnMembrane.label>Sus-an脑膜</BEWH_SusAnMembrane.label>
+  <!-- EN: The Sus-an membrane, also known as the "hibernator implant," is a thin membrane implanted above the recipient's brain, eventually merging with it. A Space Marine can activate it consciously, effectively entering a state of suspended animation. This allows the Astartes to survive extreme wounds or environmental hazards that would normally be fatal. However, only a specialized medical procedure can revive an Astartes once they have entered this state. -->
+  <BEWH_SusAnMembrane.description>Sus-an脑膜是一层薄薄的生物工程膜，植入于皮肤下方。它使星际战士能够进入假死状态。它通过大幅减缓新陈代谢和生命体征，能够让星际战士在通常致命的极端伤口或环境危害中存活下来。</BEWH_SusAnMembrane.description>
+  
+</LanguageData>

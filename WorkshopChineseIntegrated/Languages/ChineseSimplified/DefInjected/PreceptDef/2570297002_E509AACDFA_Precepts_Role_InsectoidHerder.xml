@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: insectoid herder -->
+  <VME_IdeoRole_InsectoidHerder.label>虫族护工</VME_IdeoRole_InsectoidHerder.label>
+  <!-- EN: A talented tamer of insectoids. Through study or natural talent these leaders are capable of immediately understanding and controlling insectoid creatures, however, as a sacred bond they are not allowed to partake in any other kinds of work. Insectoid herders can erect insectoid hives as part of a short ritual. -->
+  <VME_IdeoRole_InsectoidHerder.description>一名天赋异禀的驯虫师。通过后天学习或先天天赋，虫族护工能够立刻理解并操控虫族。不过，作为与虫族间的神圣枢纽，他将被禁止参与任何其他种类的工作。虫族护工能通过简短的仪式来构建一个人工虫巢。</VME_IdeoRole_InsectoidHerder.description>
+  
+</LanguageData>

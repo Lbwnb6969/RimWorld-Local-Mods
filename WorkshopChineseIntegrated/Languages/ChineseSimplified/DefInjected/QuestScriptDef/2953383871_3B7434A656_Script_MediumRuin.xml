@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_OpportunitySite_MediumRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务过期: [resolvedQuestName]</DankPyon_OpportunitySite_MediumRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <DankPyon_OpportunitySite_MediumRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>土匪们洗劫废墟后离开了。任务[resolvedQuestName]已经过期。</DankPyon_OpportunitySite_MediumRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <DankPyon_OpportunitySite_MediumRuin.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>任务失败: [resolvedQuestName]</DankPyon_OpportunitySite_MediumRuin.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <DankPyon_OpportunitySite_MediumRuin.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>在营地地点曝光后，这个匪徒营地已经被废弃了。任务[resolvedQuestName]已经失败。</DankPyon_OpportunitySite_MediumRuin.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <DankPyon_OpportunitySite_MediumRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</DankPyon_OpportunitySite_MediumRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <DankPyon_OpportunitySite_MediumRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>殖民者们为[resolvedQuestName]任务的胜利贡献了功劳。[asker_definite]想知道谁应该接收这[royalFavorReward_amount]x[asker_faction_royalFavorLabel]奖励。</DankPyon_OpportunitySite_MediumRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+  <DankPyon_OpportunitySite_MediumRuin.questDescriptionRules.rulesStrings.0>questDescription-&gt;[asker_nameFull]，[asker_faction_name]的[asker_faction_leaderTitle]，向我们发送了一条讯息。显然，居住在附近废墟中的[siteFaction_pawnsPlural]正在袭击他们的商队。废墟已经被[siteFaction_name]控制了。\n[asker_nameDef]要求我们消灭所有的敌人。[asker_label]还告诉我们[sitePart0_description]。</DankPyon_OpportunitySite_MediumRuin.questDescriptionRules.rulesStrings.0>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.0>questName-&gt;一座[bandit][camp]</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.0>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.1>questName-&gt;[bandit][camp]</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.1>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.2>questName-&gt;[asker_nameDef]和[camp]</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.2>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.3>camp-&gt;营地</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.3>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.4>camp-&gt;废墟</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.4>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.5>camp-&gt;巢穴</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.5>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.6>camp-&gt;迷宫</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.6>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.7>bandit-&gt;强盗</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.7>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.8>bandit-&gt;袭击者</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.8>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.9>bandit-&gt;暴徒</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.9>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.10>bandit-&gt;亡命之徒</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.10>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.11>bandit-&gt;逃犯</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.11>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.12>bandit-&gt;掠夺者</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.12>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.13>bandit-&gt;盗匪</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.13>
+  <DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.14>bandit-&gt;土匪</DankPyon_OpportunitySite_MediumRuin.questNameRules.rulesStrings.14>
+
+  <DankPyon_OpportunitySite_MediumRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>奖励已送达</DankPyon_OpportunitySite_MediumRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <DankPyon_OpportunitySite_MediumRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>你已经清除了废墟的敌人！\n\n来自[asker_faction_name]的奖励已经送达。</DankPyon_OpportunitySite_MediumRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>
+
+
+</LanguageData>

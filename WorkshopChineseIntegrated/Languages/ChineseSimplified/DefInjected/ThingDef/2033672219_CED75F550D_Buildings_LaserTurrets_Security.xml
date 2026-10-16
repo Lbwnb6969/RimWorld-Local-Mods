@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: graser cannon complex -->
+  <VFES_Complex_GraserCannon.label>固定式广域射线炮</VFES_Complex_GraserCannon.label>
+  <!-- EN: A devastating gamma ray laser mounted on a barricade to grant cover. It fires a sweeping beam capable of piercing armor and igniting targets. Needs to be manned in order to fire. Requires plasteel to refurbish its emitter array after heavy use. -->
+  <VFES_Complex_GraserCannon.description>一种固定在路障上的广域射线炮。它可以扫出一束高能射线，穿透厚厚的护甲并灼烧目标。必须有人手动操纵。路障能为射击者提供良好的掩护效果。长期使用后需要大量的玻璃钢维护炮管。</VFES_Complex_GraserCannon.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>炮管耐久度</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>更换炮管前剩余射击次数</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>需要新炮管</VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: graser cannon -->
+  <VFES_ComplexGraserCannon_Top.label>广域射线炮</VFES_ComplexGraserCannon_Top.label>
+  <!-- EN: A graser cannon designed to be attached to a turret. -->
+  <VFES_ComplexGraserCannon_Top.description>固定在路障上的广域射线炮。</VFES_ComplexGraserCannon_Top.description>
+  <!-- EN: graser cannon -->
+  <VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>广域射线炮</VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>
+  
+  <!-- EN: Mote -->
+  <VFES_Mote_WideGraserBeamBase.label>特效</VFES_Mote_WideGraserBeamBase.label>
+  
+</LanguageData>

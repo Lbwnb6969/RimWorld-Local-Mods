@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_MarksmanAura.label>marksman's command</EES_MarksmanAura.label>
+  <EES_MarksmanAura.description>Shooting accuracy is improved under the marksman officer's command.</EES_MarksmanAura.description>
+  <EES_AssaultAura.label>assault command</EES_AssaultAura.label>
+  <EES_AssaultAura.description>Mobility is improved under the assault leader's command.</EES_AssaultAura.description>
+  <EES_WarlordProtected.label>warlord's aegis</EES_WarlordProtected.label>
+  <EES_WarlordProtected.description>While the warlord lives, incoming damage is reduced (×0.75).</EES_WarlordProtected.description>
+  <EES_WarlordExposed.label>warlord fallen</EES_WarlordExposed.label>
+  <EES_WarlordExposed.description>With the warlord struck down, morale collapses and incoming damage surges (×2.5).</EES_WarlordExposed.description>
+</LanguageData>

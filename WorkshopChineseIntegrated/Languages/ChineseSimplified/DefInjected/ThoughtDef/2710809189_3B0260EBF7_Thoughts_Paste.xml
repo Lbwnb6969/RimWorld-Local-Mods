@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amazing Funeral -->
+  <AM_AmazingPaste.stages.amazing_Funeral.label>令人惊异的营养膏葬礼</AM_AmazingPaste.stages.amazing_Funeral.label>
+  <!-- EN: That was very effective, there was so much more nutrients then one could've guessed -->
+  <AM_AmazingPaste.stages.amazing_Funeral.description>那次营养膏葬礼令人惊异，用死者转化出的营养膏数量远超我们的想象。</AM_AmazingPaste.stages.amazing_Funeral.description>
+  
+  <!-- EN: good Funeral -->
+  <AM_GoodPaste.stages.good_Funeral.label>令人满意的营养膏葬礼</AM_GoodPaste.stages.good_Funeral.label>
+  <!-- EN: That was pretty good, I got a good meal out of it -->
+  <AM_GoodPaste.stages.good_Funeral.description>那次营养膏葬礼令人满意，我也美美的饱餐了一顿。</AM_GoodPaste.stages.good_Funeral.description>
+  
+  <!-- EN: lackluster Funeral -->
+  <AM_LacklusterPaste.stages.lackluster_Funeral.label>枯燥乏味的营养膏葬礼</AM_LacklusterPaste.stages.lackluster_Funeral.label>
+  <!-- EN: I'd have rather been doing something else, at least the nutrients weren't wasted -->
+  <AM_LacklusterPaste.stages.lackluster_Funeral.description>那次营养膏葬礼枯燥乏味，我们本能转化出更多营养膏的。</AM_LacklusterPaste.stages.lackluster_Funeral.description>
+  
+  <!-- EN: disgraceful funeral -->
+  <AM_TerriblePaste.stages.disgraceful_funeral.label>糟糕的营养膏葬礼</AM_TerriblePaste.stages.disgraceful_funeral.label>
+  <!-- EN: That was a waste of time and precious nutrients. -->
+  <AM_TerriblePaste.stages.disgraceful_funeral.description>那次营养膏葬礼非常糟糕，死者大部分的营养都被浪费了！</AM_TerriblePaste.stages.disgraceful_funeral.description>
+  
+</LanguageData>

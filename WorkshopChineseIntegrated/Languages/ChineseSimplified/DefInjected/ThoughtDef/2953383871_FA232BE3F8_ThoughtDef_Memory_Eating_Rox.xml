@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rox Feast -->
+
+  <DankPyon_AteRoxFeast.stages.0.label>吃了罗克斯盛宴</DankPyon_AteRoxFeast.stages.0.label>
+  <DankPyon_AteRoxFeast.stages.0.description>鲜嫩的牛排每咬一口都会融化，浓郁的肉汁让这道料理的美味更上一层楼。如此美妙的一餐，真是一场盛宴！</DankPyon_AteRoxFeast.stages.0.description>
+
+
+  <!-- Rox Roast -->
+
+  <DankPyon_AteRoxRoast.stages.0.label>吃了罗克斯烤肉</DankPyon_AteRoxRoast.stages.0.label>
+  <DankPyon_AteRoxRoast.stages.0.description>大口咬下这块烤肉，美妙的咸香和烟熏味直冲脑门～</DankPyon_AteRoxRoast.stages.0.description>
+
+
+</LanguageData>

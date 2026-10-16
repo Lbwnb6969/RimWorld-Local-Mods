@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barkskin awakening pod -->
+  <VDE_BarkskinAwakeningCocoon.label>觉醒树精茧（盾皮树精）</VDE_BarkskinAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_BarkskinAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_BarkskinAwakeningCocoon.description>
+  
+  <!-- EN: berrymaker awakening pod -->
+  <VDE_BerrymakerAwakeningCocoon.label>觉醒树精茧（蜜果树精）</VDE_BerrymakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_BerrymakerAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_BerrymakerAwakeningCocoon.description>
+  
+  <!-- EN: carrier awakening pod -->
+  <VDE_CarrierAwakeningCocoon.label>觉醒树精茧（协运树精）</VDE_CarrierAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_CarrierAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_CarrierAwakeningCocoon.description>
+  
+  <!-- EN: clawer awakening pod -->
+  <VDE_ClawerAwakeningCocoon.label>觉醒树精茧（利爪树精）</VDE_ClawerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_ClawerAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_ClawerAwakeningCocoon.description>
+  
+  <!-- EN: dryad nest -->
+  <VDE_DryadNest.label>树精木巢</VDE_DryadNest.label>
+  <!-- EN: A small nest of logs and twigs created by the awakened woodmaker dryad. Animals can sleep in it, but it can also be deconstructed for precious building materials. -->
+  <VDE_DryadNest.description>觉醒供木树精用各种树枝木材筑出的小小巢穴。可当做动物床铺来使用，拆除后会返还一定数量的原木。</VDE_DryadNest.description>
+  
+  <!-- EN: gaubricmaker awakening pod -->
+  <VDE_GaubricmakerAwakeningCocoon.label>觉醒树精茧（纺绸树精）</VDE_GaubricmakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_GaubricmakerAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_GaubricmakerAwakeningCocoon.description>
+  
+  <!-- EN: medicinemaker awakening pod -->
+  <VDE_MedicinemakerAwakeningCocoon.label>觉醒树精茧（药师树精）</VDE_MedicinemakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_MedicinemakerAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_MedicinemakerAwakeningCocoon.description>
+  
+  <!-- EN: nectarmaker awakening pod -->
+  <VDE_NectarmakerAwakeningCocoon.label>觉醒树精茧（甘馐树精）</VDE_NectarmakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_NectarmakerAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_NectarmakerAwakeningCocoon.description>
+  
+  <!-- EN: spitter awakening pod -->
+  <VDE_SpitterAwakeningCocoon.label>觉醒树精茧（酸蚀树精）</VDE_SpitterAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_SpitterAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_SpitterAwakeningCocoon.description>
+  
+  <!-- EN: stonedigger awakening pod -->
+  <VDE_StonediggerAwakeningCocoon.label>觉醒树精茧（采石树精）</VDE_StonediggerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_StonediggerAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_StonediggerAwakeningCocoon.description>
+  
+  <!-- EN: woodmaker awakening pod -->
+  <VDE_WoodmakerAwakeningCocoon.label>觉醒树精茧（供木树精）</VDE_WoodmakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_WoodmakerAwakeningCocoon.description>这个茧将会在一天后生成一只觉醒树精。</VDE_WoodmakerAwakeningCocoon.description>
+  
+</LanguageData>

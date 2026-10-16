@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hardweave -->
+  <VFEM2_Hardweave.label>麻布</VFEM2_Hardweave.label>
+  <!-- EN: Woven from smokeleaf, hardweave, sometimes called canvas, has threads alternated over and under adjacent threads to create a strong and even surface. Whilst not as insulating as cloth, it’s much more resistant to damage. -->
+  <VFEM2_Hardweave.description>用大麻缝制的布料，据说有人拿它当画布用。紧密缝制的大麻纤维能提供十分坚固的材质。虽然不如普通布料保温，但对伤害的防护性能更好。</VFEM2_Hardweave.description>
+  
+  <!-- EN: hayweave -->
+  <VFEM2_Hayweave.label>干草布</VFEM2_Hayweave.label>
+  <!-- EN: Made from woven haygrass, hayweave is a coarse and rough material, often used in desperate times for crafting rudimentary items. It provides minimal insulation and durability, making it a poor substitute for cloth, but it’s readily available and easy to produce. -->
+  <VFEM2_Hayweave.description>用干草缝制的布料，非常粗糙，一般只在资源稀缺的时候使用。有着很低的保温能力和耐久度，比普通布料差多了，但非常容易获取。</VFEM2_Hayweave.description>
+  
+</LanguageData>

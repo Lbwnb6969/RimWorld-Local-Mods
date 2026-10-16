@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <AM_Water_Desired.label>渴望</AM_Water_Desired.label>
+  <!-- EN: Water is life, sacred and pure. We must seek it, cherish it, and ensure its abundance in our lives.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Nullifies "Soaking wet" thought. -->
+  <AM_Water_Desired.description>水乃生命之源，是神圣且纯洁的存在。我们必须追寻并珍视它，确保它能充盈于我们的生活之中。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 使“湿透了”的想法无效化。</AM_Water_Desired.description>
+  <!-- EN: In a watery biome (more than 100 water tiles in the current map) -->
+  <AM_Water_Desired.comps.0.thoughtStageDescriptions.0>身处水源充足的生态群落中（当前地图的含水地形多于100格）</AM_Water_Desired.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: In a non-watery biome (less than 100 water tiles in the current map) -->
+  <AM_Water_Desired.comps.0.thoughtStageDescriptions.1>身处水源不足的生态群落中（当前地图的含水地形少于100格）</AM_Water_Desired.comps.0.thoughtStageDescriptions.1>
+  
+</LanguageData>

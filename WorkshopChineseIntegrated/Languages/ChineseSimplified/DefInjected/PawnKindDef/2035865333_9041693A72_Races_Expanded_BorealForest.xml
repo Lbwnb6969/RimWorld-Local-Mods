@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic coyote -->
+  <AEXP_ArcticCoyote.label>北极郊狼</AEXP_ArcticCoyote.label>
+  <!-- EN: arctic coyotes -->
+  <AEXP_ArcticCoyote.labelPlural>北极郊狼</AEXP_ArcticCoyote.labelPlural>
+  <!-- EN: arctic coyote puppy -->
+  <AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.label>北极郊狼幼崽</AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.label>
+  <!-- EN: arctic coyote puppies -->
+  <AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.labelPlural>北极郊狼幼崽</AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.labelPlural>
+  
+  <!-- EN: black bear -->
+  <AEXP_BlackBear.label>黑熊</AEXP_BlackBear.label>
+  
+</LanguageData>

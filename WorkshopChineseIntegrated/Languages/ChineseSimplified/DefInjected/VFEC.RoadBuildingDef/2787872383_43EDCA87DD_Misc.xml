@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Build Dirt road -->
+  <BuildDirtRoad.label>修筑土路</BuildDirtRoad.label>
+  <!-- EN: Orders pawns in the caravan to clear foliage and tamp dirt to make a somewhat easily traversed dirt road. -->
+  <BuildDirtRoad.description>命令远行队中的成员砍除植被，铲平泥土，修出更容易行走的土路。</BuildDirtRoad.description>
+  
+  <!-- EN: Build Path -->
+  <BuildPath.label>修筑小径</BuildPath.label>
+  <!-- EN: Orders pawns in the caravan to clear foliage to make a simple clear path. -->
+  <BuildPath.description>命令远行队中的成员砍除植被来清出一片方便通过的小径。</BuildPath.description>
+  
+  <!-- EN: Build Stone road -->
+  <BuildStoneRoad.label>修筑石路</BuildStoneRoad.label>
+  <!-- EN: Orders pawns in the caravan to clear foliage, then cut and place blocks to make an easily traversable stone road. -->
+  <BuildStoneRoad.description>命令远行队中的成员砍除植被，给路扑上切割整齐的石砖，修出交通方便的石路。</BuildStoneRoad.description>
+  
+</LanguageData>

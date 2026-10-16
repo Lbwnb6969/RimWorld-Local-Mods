@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fireKeeper -->
+  <VME_BonfireBehaviour.roles.0.label>护火者</VME_BonfireBehaviour.roles.0.label>
+  <!-- EN: participate -->
+  <VME_BonfireBehaviour.spectatorGerund>参加</VME_BonfireBehaviour.spectatorGerund>
+  <!-- EN: Participants -->
+  <VME_BonfireBehaviour.spectatorsLabel>参与者</VME_BonfireBehaviour.spectatorsLabel>
+  
+</LanguageData>

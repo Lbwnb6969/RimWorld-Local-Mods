@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shirt with sash belt -->
+  <TA_ShirtSashBelt.label>衬衫腰带装</TA_ShirtSashBelt.label>
+  <!-- EN: . -->
+  <TA_ShirtSashBelt.description>带有装饰腰带的衬衫，可调节松紧。</TA_ShirtSashBelt.description>
+  <!-- EN: shirt color -->
+  <TA_ShirtSashBelt.comps.CompSwitchApparel.Label>衬衫颜色</TA_ShirtSashBelt.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: shirt with sash belt (white) -->
+  <TA_ShirtSashBeltWhite.label>衬衫腰带装(白色)</TA_ShirtSashBeltWhite.label>
+  <!-- EN: . -->
+  <TA_ShirtSashBeltWhite.description>白色款衬衫腰带装，简洁大方。</TA_ShirtSashBeltWhite.description>
+  <!-- EN: shirt color -->
+  <TA_ShirtSashBeltWhite.comps.CompSwitchApparel.Label>衬衫颜色</TA_ShirtSashBeltWhite.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

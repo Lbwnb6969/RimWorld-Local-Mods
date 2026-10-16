@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Open senator screen -->
+  <VFEC.Senators.Open>打开元老院窗口</VFEC.Senators.Open>
+    <!-- EN: You gain the favor of Senator {0} from {1}. -->
+  <VFEC.Senators.GainFavor>你获得了{1}的元老议员：{0}的支持。</VFEC.Senators.GainFavor>
+    <!-- EN: Favor of {0} -->
+  <VFEC.Senators.FavorOf>{0}的支持</VFEC.Senators.FavorOf>
+    <!-- EN: You will be favored by {0}, who will join your colony. This will activate their associated perk, along with automatically researching their associated project. -->
+  <VFEC.Senators.FavorTip>你获得了{0}的支持，{0}将会加入你的殖民地。这会解锁{0}对应的理念，也会直接完成{0}对应的科研项目。</VFEC.Senators.FavorTip>
+    <!-- EN: Transfer to Colony -->
+  <VFEC.TransferToColony>前往殖民地</VFEC.TransferToColony>
+    <!-- EN: The perk {0} has been unlocked. -->
+  <VFEC.PerkUnlocked>理念 {0} 已被解锁。</VFEC.PerkUnlocked>
+    <!-- EN: Pick Up Scorpion -->
+  <VFEC.Scorpion.PickUp>收起蝎炮</VFEC.Scorpion.PickUp>
+    <!-- EN: Set Up Scorpion -->
+  <VFEC.Scorpion.SetUp>部署蝎炮</VFEC.Scorpion.SetUp>
+    <!-- EN: Light the Beacon -->
+  <VFEC.LightTheBeacon>点燃烽火</VFEC.LightTheBeacon>
+    <!-- EN: Still on cooldown. -->
+  <VFEC.Cooldown>冷却中。</VFEC.Cooldown>
+    <!-- EN: No allies. -->
+  <VFEC.NoAllies>没有盟友。</VFEC.NoAllies>
+    <!-- EN: No reinforcements available. -->
+  <VFEC.NoReinforce>没有可用的援军。</VFEC.NoReinforce>
+   <!-- Text capitalized in code, since it may be in the middle of a sentence. -->
+    <!-- EN: allies have no hostiles -->
+  <VFEC.NoHostiles>盟军没有敌人</VFEC.NoHostiles>
+    <!-- EN: Reinforcement legion is unable to assist: {0}. -->
+  <VFEC.ReinforcementLegionFailed>援军无法提供援助：{0}</VFEC.ReinforcementLegionFailed>
+    <!-- EN: Light this beacon to call reinforcements. -->
+  <VFEC.LightTheBeacon.Desc>点燃烽火呼叫援军。</VFEC.LightTheBeacon.Desc>
+    <!-- EN: Building road: {0}, progress: {1}, ({2}/{3}) -->
+  <VFEC.BuildingRoad>正在建造道路：{0}，进度：{1}，（{2}/{3}）</VFEC.BuildingRoad>
+    <!-- EN: {0} has finished building {1} -->
+  <VFEC.RoadFinished>{0}已完成{1}的建造</VFEC.RoadFinished>
+    <!-- EN: Unknown -->
+  <VFEC.Unknown>未知</VFEC.Unknown>
+</LanguageData>

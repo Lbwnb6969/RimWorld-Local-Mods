@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Once a {IDEO} member dies, other {MEMBERS} desire a {RITUAL_labelDef}. -->
+  <AM_FleshCraftingFuneralPattern.ritualExpectedDesc>如果一位{IDEO}成员去世，其他{MEMBERS}就会在仪式点处举行“葬礼”，以将死者分解为有用的血肉重塑部件。</AM_FleshCraftingFuneralPattern.ritualExpectedDesc>
+  
+</LanguageData>

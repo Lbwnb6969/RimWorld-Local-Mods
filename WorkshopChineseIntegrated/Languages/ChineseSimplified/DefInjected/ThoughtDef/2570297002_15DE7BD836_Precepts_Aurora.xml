@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amazing aurora -->
+  <VME_Aurora_Amazing.stages.amazing_aurora.label>美妙的极光</VME_Aurora_Amazing.stages.amazing_aurora.label>
+  <!-- EN: I have a moment's respite from the darkness of the night. -->
+  <VME_Aurora_Amazing.stages.amazing_aurora.description>我享受着这黑夜之中的片刻安宁。</VME_Aurora_Amazing.stages.amazing_aurora.description>
+  
+  <!-- EN: disgusting aurora -->
+  <VME_Aurora_Despised.stages.disgusting_aurora.label>讨厌的极光</VME_Aurora_Despised.stages.disgusting_aurora.label>
+  <!-- EN: The blinding lights in the heavens give me a headache. -->
+  <VME_Aurora_Despised.stages.disgusting_aurora.description>天上那些刺眼的光芒让我头好疼。</VME_Aurora_Despised.stages.disgusting_aurora.description>
+  
+</LanguageData>

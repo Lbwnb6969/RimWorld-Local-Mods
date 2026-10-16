@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_High_VigorPill.label>活力丸亢奋</DankPyon_High_VigorPill.label>
+  <DankPyon_High_VigorPill.description>活力丸的成分经由血液输送到全身，它能透过刺激大脑来满足休息的需要，并提高注意力，从而加快工作速度。此外，它还能提高借由冥想所获得的精神力。</DankPyon_High_VigorPill.description>
+  <DankPyon_High_VigorPill.labelNoun>活力丸亢奋</DankPyon_High_VigorPill.labelNoun>
+
+
+  <!-- Vigor pill addiction -->
+
+  <DankPyon_Addiction_VigorPill.label>活力丸成瘾</DankPyon_Addiction_VigorPill.label>
+  <DankPyon_Addiction_VigorPill.description>活力丸的化学成瘾。长期服用活力丸会造成细胞内的神经适应，导致大脑没有活力丸的话就无法运作。</DankPyon_Addiction_VigorPill.description>
+  <DankPyon_Addiction_VigorPill.stages.1.label>戒断</DankPyon_Addiction_VigorPill.stages.1.label>
+
+  <DankPyon_Tolerance_VigorPill.label>活力丸耐受</DankPyon_Tolerance_VigorPill.label>
+  <DankPyon_Tolerance_VigorPill.description>对活力丸的耐受性。耐受性越严重，达到同样效果所需要摄入的活力丸也就越多。</DankPyon_Tolerance_VigorPill.description>
+  <DankPyon_Tolerance_VigorPill.stages.small.label>轻微</DankPyon_Tolerance_VigorPill.stages.small.label>
+  <DankPyon_Tolerance_VigorPill.stages.large.label>强烈</DankPyon_Tolerance_VigorPill.stages.large.label>
+  <DankPyon_Tolerance_VigorPill.stages.massive.label>极强</DankPyon_Tolerance_VigorPill.stages.massive.label>
+
+
+</LanguageData>

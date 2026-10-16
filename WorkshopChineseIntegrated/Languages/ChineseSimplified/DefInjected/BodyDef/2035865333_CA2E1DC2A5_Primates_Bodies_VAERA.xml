@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: great ape -->
+  <VAERoy_GreatApe.label>猿类</VAERoy_GreatApe.label>
+  <!-- EN: left clavicle -->
+  <VAERoy_GreatApe.corePart.parts.left_clavicle.customLabel>左锁骨</VAERoy_GreatApe.corePart.parts.left_clavicle.customLabel>
+  <!-- EN: right clavicle -->
+  <VAERoy_GreatApe.corePart.parts.right_clavicle.customLabel>右锁骨</VAERoy_GreatApe.corePart.parts.right_clavicle.customLabel>
+  <!-- EN: left lung -->
+  <VAERoy_GreatApe.corePart.parts.left_lung.customLabel>左肺</VAERoy_GreatApe.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <VAERoy_GreatApe.corePart.parts.right_lung.customLabel>右肺</VAERoy_GreatApe.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <VAERoy_GreatApe.corePart.parts.left_kidney.customLabel>左肾</VAERoy_GreatApe.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <VAERoy_GreatApe.corePart.parts.right_kidney.customLabel>右肾</VAERoy_GreatApe.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.customLabel>左肩</VAERoy_GreatApe.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>左肱骨</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>左桡骨</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左尾指</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>左无名指</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.customLabel>右肩</VAERoy_GreatApe.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>右臂</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>右肱骨</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>右桡骨</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右尾指</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>右无名指</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <VAERoy_GreatApe.corePart.parts.left_leg.customLabel>左腿</VAERoy_GreatApe.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>左股骨</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>左胫骨</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>左足</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>左小趾</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>左次小趾</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>左三趾</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>左二趾</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>左大拇趾</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <VAERoy_GreatApe.corePart.parts.right_leg.customLabel>右腿</VAERoy_GreatApe.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>右股骨</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>右胫骨</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>右足</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>右小趾</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>右次小趾</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>右三趾</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>右二趾</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>右大拇趾</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+</LanguageData>

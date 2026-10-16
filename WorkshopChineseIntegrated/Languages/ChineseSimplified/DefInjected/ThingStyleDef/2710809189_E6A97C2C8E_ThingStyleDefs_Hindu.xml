@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: short sword -->
+  <AM_Hindu_Gladius.overrideLabel>印度短剑</AM_Hindu_Gladius.overrideLabel>
+  
+  <!-- EN: tabar -->
+  <AM_Hindu_Ikwa.overrideLabel>印度战斧</AM_Hindu_Ikwa.overrideLabel>
+  
+  <!-- EN: katar -->
+  <AM_Hindu_Knife.overrideLabel>印度匕首</AM_Hindu_Knife.overrideLabel>
+  
+  <!-- EN: gada -->
+  <AM_Hindu_Mace.overrideLabel>金刚杵</AM_Hindu_Mace.overrideLabel>
+  
+  <!-- EN: trishula -->
+  <AM_Hindu_Spear.overrideLabel>三叉戟</AM_Hindu_Spear.overrideLabel>
+  
+  <!-- EN: talwar -->
+  <AM_Hindu_Sword.overrideLabel>印度弯刀</AM_Hindu_Sword.overrideLabel>
+  
+</LanguageData>

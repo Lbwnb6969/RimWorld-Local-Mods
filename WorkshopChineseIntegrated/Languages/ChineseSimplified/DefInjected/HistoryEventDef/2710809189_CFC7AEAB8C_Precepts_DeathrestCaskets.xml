@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: building a deathrest casket -->
+  <AM_BuildingDeathrestCasket.label>建造了死眠棺材</AM_BuildingDeathrestCasket.label>
+  
+  <!-- EN: building a draincasket -->
+  <AM_BuildingDrainCasket.label>建造了血原汲取舱</AM_BuildingDrainCasket.label>
+
+</LanguageData>

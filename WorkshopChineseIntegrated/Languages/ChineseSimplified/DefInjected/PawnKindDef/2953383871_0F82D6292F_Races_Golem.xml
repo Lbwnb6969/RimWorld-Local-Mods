@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Iron Golem -->
+
+  <DankPyon_Golem_Iron.label>魔像(铁)</DankPyon_Golem_Iron.label>
+  <DankPyon_Golem_Iron.labelPlural>魔像(铁)</DankPyon_Golem_Iron.labelPlural>
+  <DankPyon_Golem_Iron.labelMale>魔像(铁)</DankPyon_Golem_Iron.labelMale>
+  <DankPyon_Golem_Iron.labelMalePlural>魔像(铁)</DankPyon_Golem_Iron.labelMalePlural>
+  <DankPyon_Golem_Iron.labelFemale>魔像(铁)</DankPyon_Golem_Iron.labelFemale>
+  <DankPyon_Golem_Iron.labelFemalePlural>魔像(铁)</DankPyon_Golem_Iron.labelFemalePlural>
+
+
+  <!-- Gold Golem -->
+
+  <DankPyon_Golem_Gold.label>魔像(金)</DankPyon_Golem_Gold.label>
+  <DankPyon_Golem_Gold.labelPlural>魔像(金)</DankPyon_Golem_Gold.labelPlural>
+  <DankPyon_Golem_Gold.labelMale>魔像(金)</DankPyon_Golem_Gold.labelMale>
+  <DankPyon_Golem_Gold.labelMalePlural>魔像(金)</DankPyon_Golem_Gold.labelMalePlural>
+  <DankPyon_Golem_Gold.labelFemale>魔像(金)</DankPyon_Golem_Gold.labelFemale>
+  <DankPyon_Golem_Gold.labelFemalePlural>魔像(金)</DankPyon_Golem_Gold.labelFemalePlural>
+
+
+  <!-- Steel Golem -->
+
+  <DankPyon_Golem_Steel.label>魔像(钢)</DankPyon_Golem_Steel.label>
+  <DankPyon_Golem_Steel.labelPlural>魔像(钢)</DankPyon_Golem_Steel.labelPlural>
+  <DankPyon_Golem_Steel.labelMale>魔像(钢)</DankPyon_Golem_Steel.labelMale>
+  <DankPyon_Golem_Steel.labelMalePlural>魔像(钢)</DankPyon_Golem_Steel.labelMalePlural>
+  <DankPyon_Golem_Steel.labelFemale>魔像(钢)</DankPyon_Golem_Steel.labelFemale>
+  <DankPyon_Golem_Steel.labelFemalePlural>魔像(钢)</DankPyon_Golem_Steel.labelFemalePlural>
+
+  <!-- Silver Golem -->
+
+  <DankPyon_Golem_Silver.label>魔像(银)</DankPyon_Golem_Silver.label>
+  <DankPyon_Golem_Silver.labelPlural>魔像(银)</DankPyon_Golem_Silver.labelPlural>
+  <DankPyon_Golem_Silver.labelMale>魔像(银)</DankPyon_Golem_Silver.labelMale>
+  <DankPyon_Golem_Silver.labelMalePlural>魔像(银)</DankPyon_Golem_Silver.labelMalePlural>
+  <DankPyon_Golem_Silver.labelFemale>魔像(银)</DankPyon_Golem_Silver.labelFemale>
+  <DankPyon_Golem_Silver.labelFemalePlural>魔像(银)</DankPyon_Golem_Silver.labelFemalePlural>
+
+
+</LanguageData>

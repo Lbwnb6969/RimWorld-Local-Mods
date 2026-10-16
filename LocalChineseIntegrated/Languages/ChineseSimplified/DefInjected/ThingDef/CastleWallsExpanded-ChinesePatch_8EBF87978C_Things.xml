@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Castle_Walls_Corner_Embrasure.label>城堡墙转角射孔</Castle_Walls_Corner_Embrasure.label>
+  <Castle_Walls_Corner_Embrasure.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</Castle_Walls_Corner_Embrasure.description>
+
+  <JDS_Walls_Dia_connector.label>城堡墙斜向连接段</JDS_Walls_Dia_connector.label>
+  <JDS_Walls_Dia_connector.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Walls_Dia_connector.description>
+  <JDS_Walls_Dia_connector_Embrasure.label>城堡墙斜向射孔连接段</JDS_Walls_Dia_connector_Embrasure.label>
+  <JDS_Walls_Dia_connector_Embrasure.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</JDS_Walls_Dia_connector_Embrasure.description>
+  <JDS_Walls_Dia_corner.label>城堡墙斜向转角</JDS_Walls_Dia_corner.label>
+  <JDS_Walls_Dia_corner.description>中世纪筑城者会通过加厚墙基以防掘墙，并采用能承受强力投射物冲击的砌石方式等多种技术来强化城墙。</JDS_Walls_Dia_corner.description>
+  <JDS_Walls_Dia_corner_Embrasure.label>城堡墙斜向转角射孔</JDS_Walls_Dia_corner_Embrasure.label>
+  <JDS_Walls_Dia_corner_Embrasure.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</JDS_Walls_Dia_corner_Embrasure.description>
+
+  <JDS_WallsTwo_Embrasure.label>城堡墙射孔（1x2）</JDS_WallsTwo_Embrasure.label>
+  <JDS_WallsTwo_Embrasure.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</JDS_WallsTwo_Embrasure.description>
+  <JDS_Walls_T_connector_Embrasure.label>T 型城堡墙射孔连接段</JDS_Walls_T_connector_Embrasure.label>
+  <JDS_Walls_T_connector_Embrasure.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</JDS_Walls_T_connector_Embrasure.description>
+  <JDS_Wall_X_connector_Embrasure.label>X 型城堡墙射孔连接段</JDS_Wall_X_connector_Embrasure.label>
+  <JDS_Wall_X_connector_Embrasure.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</JDS_Wall_X_connector_Embrasure.description>
+  <JDS_Walls_End_Embrasure.label>城堡墙端段射孔</JDS_Walls_End_Embrasure.label>
+  <JDS_Walls_End_Embrasure.description>射孔是城垛或雉堞上两段凸起垛墙之间的开口，也称垛口。它让守军能够在掩护下向堡垒外射击。</JDS_Walls_End_Embrasure.description>
+</LanguageData>

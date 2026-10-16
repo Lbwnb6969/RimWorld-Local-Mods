@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <QuestScriptDef>
+    <defName>Local_MastersLegendaryArmorCache</defName>
+    <!-- Enabled only by the medieval compatibility patch. -->
+    <rootSelectionWeight>0</rootSelectionWeight>
+    <rootMinPoints>2500</rootMinPoints>
+    <autoAccept>true</autoAccept>
+    <questNameRules>
+      <rulesStrings>
+        <li TKey="Local_MastersArmorQuestName">questName->Lost armory of the Imperium</li>
+      </rulesStrings>
+    </questNameRules>
+    <questDescriptionRules>
+      <rulesStrings>
+        <li TKey="Local_MastersArmorQuestDescription">questDescription->Fragmentary records reveal a sealed Imperial armory near [map_definite]. Its surviving relics are:\n\n[itemStashContents]\n\nThe site is protected by [allSitePartsDescriptionsExceptFirst]. This is a late-game objective intended for a well-established colony.</li>
+      </rulesStrings>
+    </questDescriptionRules>
+    <root Class="QuestNode_Sequence">
+      <nodes>
+        <li Class="QuestNode_SubScript">
+          <def>Util_RandomizePointsChallengeRating</def>
+          <parms>
+            <pointsFactorTwoStar>1.75</pointsFactorTwoStar>
+            <pointsFactorThreeStar>2.5</pointsFactorThreeStar>
+          </parms>
+        </li>
+        <li Class="QuestNode_GetMap" />
+        <li Class="RimDark.MastersOfMankind.QuestNode_ResearchFinishedOrFail">
+          <research>BEWH_CustodesCreation</research>
+        </li>
+        <li Class="RimDark.MastersOfMankind.QuestNode_ResearchFinishedOrFail">
+          <research>GW_Rulers_MasterForge</research>
+        </li>
+        <li Class="QuestNode_GetMapWealth">
+          <map>$map</map>
+          <storeAs>mapWealth</storeAs>
+        </li>
+        <li Class="QuestNode_GreaterOrFail">
+          <value1>$mapWealth</value1>
+          <value2>200000</value2>
+          <node Class="QuestNode_Set">
+            <name>lateGameWealthMet</name>
+            <value>true</value>
+          </node>
+        </li>
+        <li Class="QuestNode_GetFreeColonistsCount">
+          <onlyThisMap>$map</onlyThisMap>
+          <storeAs>freeColonistsCount</storeAs>
+        </li>
+        <li Class="QuestNode_GreaterOrFail">
+          <value1>$freeColonistsCount</value1>
+          <value2>7</value2>
+          <node Class="QuestNode_Set">
+            <name>lateGamePopulationMet</name>
+            <value>true</value>
+          </node>
+        </li>
+
+        <!-- One complete legendary set is selected. Ordinary Astartes armor and all weapons are excluded. -->
+        <li Class="QuestNode_RandomNode">
+          <nodes>
+            <li Class="QuestNode_SetItemStashContents">
+              <items>
+                <li>BEWH_LivingSaintArmor</li>
+              </items>
+            </li>
+            <li Class="QuestNode_Sequence">
+              <nodes>
+                <li Class="RimDark.MastersOfMankind.QuestNode_ResearchFinishedOrFail">
+                  <research>GW_Rulers_FirstCaptainr</research>
+                </li>
+                <li Class="QuestNode_SetItemStashContents">
+                  <items>
+                    <li>GW_Rulers_ValdorArmor</li>
+                    <li>GW_Rulers_ValdorShoulder</li>
+                    <li>GW_Rulers_ValdorHelmet</li>
+                  </items>
+                </li>
+              </nodes>
+            </li>
+            <li Class="QuestNode_Sequence">
+              <nodes>
+                <li Class="RimDark.MastersOfMankind.QuestNode_ResearchFinishedOrFail">
+                  <research>GW_Rulers_OneTrueArmor</research>
+                </li>
+                <li Class="QuestNode_SetItemStashContents">
+                  <items>
+                    <li>GW_Rulers_EmperorArmor</li>
+                    <li>GW_Rulers_EmperorShoulder</li>
+                    <li>GW_Rulers_EmperorHelmet</li>
+                  </items>
+                </li>
+              </nodes>
+            </li>
+            <li Class="QuestNode_Sequence">
+              <nodes>
+                <li Class="RimDark.MastersOfMankind.QuestNode_ResearchFinishedOrFail">
+                  <research>GW_Rulers_EmperorRightHand</research>
+                </li>
+                <li Class="QuestNode_SetItemStashContents">
+                  <items>
+                    <li>GW_Rulers_MalcadorOutfit</li>
+                    <li>GW_Rulers_MalcadorHelmet</li>
+                  </items>
+                </li>
+              </nodes>
+            </li>
+          </nodes>
+        </li>
+
+        <li Class="QuestNode_GetSiteTile">
+          <storeAs>siteTile</storeAs>
+          <preferCloserTiles>false</preferCloserTiles>
+        </li>
+        <li Class="QuestNode_GetSitePartDefsByTagsAndFaction">
+          <storeAs>sitePartDefs</storeAs>
+          <storeFactionAs>siteFaction</storeFactionAs>
+          <sitePartsTags>
+            <li><tag>ItemStash</tag></li>
+            <li><tag>ItemStashQuestThreat</tag><chance>1</chance></li>
+          </sitePartsTags>
+        </li>
+        <li Class="QuestNode_GetDefaultSitePartsParams">
+          <tile>$siteTile</tile>
+          <faction>$siteFaction</faction>
+          <sitePartDefs>$sitePartDefs</sitePartDefs>
+          <storeSitePartsParamsAs>sitePartsParams</storeSitePartsParamsAs>
+        </li>
+        <li Class="QuestNode_SubScript">
+          <def>Util_GenerateSite</def>
+          <parms>
+            <hiddenSitePartsPossible>true</hiddenSitePartsPossible>
+          </parms>
+        </li>
+        <li Class="QuestNode_SpawnWorldObjects">
+          <worldObjects>$site</worldObjects>
+        </li>
+        <li Class="QuestNode_WorldObjectTimeout">
+          <worldObject>$site</worldObject>
+          <isQuestTimeout>true</isQuestTimeout>
+          <delayTicks>$(randInt(18,32)*60000)</delayTicks>
+          <inSignalDisable>site.MapGenerated</inSignalDisable>
+          <node Class="QuestNode_Sequence">
+            <nodes>
+              <li Class="QuestNode_Letter">
+                <label TKey="LetterLabelQuestExpired">Quest expired: [resolvedQuestName]</label>
+                <text TKey="Local_MastersArmorQuestExpired">The armory has been stripped and its relics have disappeared.</text>
+              </li>
+              <li Class="QuestNode_End"><outcome>Fail</outcome></li>
+            </nodes>
+          </node>
+        </li>
+        <li Class="QuestNode_AddItemsReward">
+          <items>$generatedItemStashThings</items>
+          <inSignalChoiceUsed>site.MapGenerated</inSignalChoiceUsed>
+          <generateQuestParts>false</generateQuestParts>
+        </li>
+        <li Class="QuestNode_NoWorldObject">
+          <worldObject>$site</worldObject>
+          <node Class="QuestNode_End"><outcome>Success</outcome></node>
+        </li>
+      </nodes>
+    </root>
+  </QuestScriptDef>
+</Defs>

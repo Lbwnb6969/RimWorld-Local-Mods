@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AM_PyramidBurialOutcome.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</AM_PyramidBurialOutcome.description>
+  <!-- EN: moral guide present -->
+  <AM_PyramidBurialOutcome.comps.0.label>传道者出席</AM_PyramidBurialOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <AM_PyramidBurialOutcome.comps.1.label>参与者数量</AM_PyramidBurialOutcome.comps.1.label>
+  <!-- EN: The {RITUAL} was spectacular! The pyramid of {CORPSE} will forever stand the test of time. It's apparent quality has increased. -->
+  <AM_PyramidBurialOutcome.modExtensions.0.bestOutcomeDesc>{RITUAL}非常完美！安葬有{CORPSE}的金字塔将会永世屹立于此。它的品质提高了。</AM_PyramidBurialOutcome.modExtensions.0.bestOutcomeDesc>
+  <!-- EN: The {RITUAL} was a disaster! The entombing of {CORPSE} was sloppy, and the pyramid will forever be tainted by this botched ritual. It's apparent quality has decreased. -->
+  <AM_PyramidBurialOutcome.modExtensions.0.worstOutcomeDesc>{RITUAL}糟糕透顶！{CORPSE}的安葬匆忙且草率，金字塔也将永远被这场一塌糊涂的葬礼所玷污。它的品质下降了。</AM_PyramidBurialOutcome.modExtensions.0.worstOutcomeDesc>
+  <!-- EN: Terrible -->
+  <AM_PyramidBurialOutcome.outcomeChances.0.label>糟糕的</AM_PyramidBurialOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was boring and the entombing was very sloppy. This horrible experience will forever affect our opinion of this pyramid. -->
+  <AM_PyramidBurialOutcome.outcomeChances.0.description>{0}非常糟糕！演讲不仅无聊透顶，安葬过程也极其匆忙且草率。金字塔将永远被这场一塌糊涂的葬礼所玷污。</AM_PyramidBurialOutcome.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <AM_PyramidBurialOutcome.outcomeChances.1.label>枯燥乏味的</AM_PyramidBurialOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. The speech was long-winded and did not honour them. -->
+  <AM_PyramidBurialOutcome.outcomeChances.1.description>{0}枯燥乏味。演讲冗长且无趣，没有体现出对死者应有的尊重。</AM_PyramidBurialOutcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AM_PyramidBurialOutcome.outcomeChances.2.label>令人满意的</AM_PyramidBurialOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The speaker's final words provided a path for everyone to move on. -->
+  <AM_PyramidBurialOutcome.outcomeChances.2.description>{0}令人满意。演讲者的结束语为大家指明了前进的道路。</AM_PyramidBurialOutcome.outcomeChances.2.description>
+  <!-- EN: Amazing -->
+  <AM_PyramidBurialOutcome.outcomeChances.3.label>令人惊异的</AM_PyramidBurialOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was heartwarming. The speech was captivating and heartfelt, and everyone came away focused on good memories. This pyramid will forever be part of our people's history. -->
+  <AM_PyramidBurialOutcome.outcomeChances.3.description>{0}令人惊异。演讲感人肺腑，大家渐渐放下了对死者的挂念，并从悲伤之中走了出来。这座金字塔将会永世屹立于此。</AM_PyramidBurialOutcome.outcomeChances.3.description>
+  
+</LanguageData>

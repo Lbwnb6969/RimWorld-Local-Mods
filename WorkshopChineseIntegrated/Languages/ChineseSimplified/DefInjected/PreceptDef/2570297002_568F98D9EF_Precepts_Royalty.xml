@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disliked -->
+  <VME_Royalty_Disliked.label>厌恶</VME_Royalty_Disliked.label>
+  <!-- EN: Titles and crowns, relics of a bygone era, draw ire more than admiration. Those who flaunt their noble status find themselves at the receiving end of equal disdain. -->
+  <VME_Royalty_Disliked.description>荣誉头衔和皇权都是旧时代留下来的遗毒，没有人会尊重那些卖弄自己贵族地位的蠢货。</VME_Royalty_Disliked.description>
+  
+  <!-- EN: exalted -->
+  <VME_Royalty_Exalted.label>高尚</VME_Royalty_Exalted.label>
+  <!-- EN: Those who drape themselves in the vestments of royalty ascend beyond mere mortals. Each step up the ladder of nobility brings greater veneration from the common folk, from a respectful nod for a Yeoman to awestruck reverence for a High Stellarch. -->
+  <VME_Royalty_Exalted.description>身披皇家圣衣者是地位远超凡人的伟大存在。无论是文书官还是至高星际主宰，贵族们的每一步都将受到平民百姓的尊敬。</VME_Royalty_Exalted.description>
+  
+  <!-- EN: hated -->
+  <VME_Royalty_Hated.label>反感</VME_Royalty_Hated.label>
+  <!-- EN: Royal titles are chains that bind freedom, and each title is a shackle more cursed than the last. From Yeoman to High Stellarch, the disdain grows with the weight of the crown, heavy is the head that wears it. -->
+  <VME_Royalty_Hated.description>荣誉头衔是束缚自由的诅咒枷锁。无论是文书官还是至高星际主宰，欲戴皇冠就必先承其重。</VME_Royalty_Hated.description>
+  
+  <!-- EN: respected -->
+  <VME_Royalty_Respected.label>仰慕</VME_Royalty_Respected.label>
+  <!-- EN: Every crown and every title is a symbol of burdens shouldered for the good of all. Regardless of the rank, a title earns a uniform respect, an acknowledgment of the wearer's elevated place in our order. -->
+  <VME_Royalty_Respected.description>荣誉头衔和皇权意味着要肩负起所有人利益的重担。无论头衔等级高低，贵族们都将得到应有的尊重。</VME_Royalty_Respected.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: swarm -->
+  <SV_Swarm.label>死亡毒刺蜂螫</SV_Swarm.label>
+  <!-- EN: {0} has been cut to death. -->
+  <SV_Swarm.deathMessage>{0} 被螫死了。</SV_Swarm.deathMessage>
+  
+</LanguageData>

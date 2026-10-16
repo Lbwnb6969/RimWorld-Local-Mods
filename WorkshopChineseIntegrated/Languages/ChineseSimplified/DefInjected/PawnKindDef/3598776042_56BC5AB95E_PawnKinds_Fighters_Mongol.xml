@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: horse archer -->
+  <BA_Mongol_Archer.label>骑射手</BA_Mongol_Archer.label>
+  
+  <!-- EN: bannerman -->
+  <BA_Mongol_Bannerman.label>旗手</BA_Mongol_Bannerman.label>
+  
+  <!-- EN: heavy archer -->
+  <BA_Mongol_HArcher.label>重装弓箭手</BA_Mongol_HArcher.label>
+  
+  <!-- EN: heavy lancer -->
+  <BA_Mongol_HLancer.label>重装枪骑兵</BA_Mongol_HLancer.label>
+  
+  <!-- EN: Mongol infantryman -->
+  <BA_Mongol_Infantry.label>蒙古步兵</BA_Mongol_Infantry.label>
+  
+  <!-- EN: khan -->
+  <BA_Mongol_Khan.label>可汗</BA_Mongol_Khan.label>
+  <!-- EN: khatun -->
+  <BA_Mongol_Khan.labelFemale>可敦</BA_Mongol_Khan.labelFemale>
+  
+  <!-- EN: khan's guard -->
+  <BA_Mongol_KhansGuard.label>可汗护卫队</BA_Mongol_KhansGuard.label>
+  
+  <!-- EN: light lancer -->
+  <BA_Mongol_LLancer.label>轻装枪骑兵</BA_Mongol_LLancer.label>
+  
+  <!-- EN: peasant -->
+  <BA_Mongol_Peasant.label>农民</BA_Mongol_Peasant.label>
+  
+  <!-- EN: Mongol spearman -->
+  <BA_Mongol_Spear_Militia.label>蒙古长矛兵</BA_Mongol_Spear_Militia.label>
+  
+</LanguageData>

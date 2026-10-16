@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Condiments.label>调味料</DankPyon_Condiments.label>
+  <DankPyon_Hides.label>生皮</DankPyon_Hides.label>
+  <DankPyon_Metallic.label>金属</DankPyon_Metallic.label>
+  <DankPyon_RawOres.label>原矿</DankPyon_RawOres.label>
+  <DankPyon_RawWood.label>原木</DankPyon_RawWood.label>
+  <DankPyon_Wood.label>木材</DankPyon_Wood.label>
+  <DankPyon_Handwear.label>手套</DankPyon_Handwear.label>
+  <DankPyon_Legwear.label>腿甲</DankPyon_Legwear.label>
+  <DankPyon_Footwear.label>鞋类</DankPyon_Footwear.label>
+  <DankPyon_Shields.label>盾牌</DankPyon_Shields.label>
+  <DankPyon_NonAlcoholic.label>非酒精饮料</DankPyon_NonAlcoholic.label>
+  <DankPyon_Milk.label>乳品</DankPyon_Milk.label>
+  <DankPyon_Cheese.label>奶酪</DankPyon_Cheese.label>
+  <DankPyon_Flour.label>面粉</DankPyon_Flour.label>
+  <DankPyon_Treatise.label>技能训练书</DankPyon_Treatise.label>
+  <DankPyon_Loot.label>战利品(废墟)</DankPyon_Loot.label>
+  <DankPyon_AlchemyIngredients.label>战利品(炼金)</DankPyon_AlchemyIngredients.label>
+  <DankPyon_ApparelJewelry.label>珠宝</DankPyon_ApparelJewelry.label>
+  <DankPyon_BuildingsLoot.label>锃亮的战利品</DankPyon_BuildingsLoot.label>
+  <DankPyon_BuildingsBook.label>书籍(建筑物)</DankPyon_BuildingsBook.label>
+  <DankPyon_TrebuchetAmmo.label>投石机弹药</DankPyon_TrebuchetAmmo.label>
+  <DankPyon_CorpsesMonsters.label>怪物尸体</DankPyon_CorpsesMonsters.label>
+  <DankPyon_WeaponsMeleeNamed.label>铭刻武器</DankPyon_WeaponsMeleeNamed.label>
+  <DankPyon_GemStones.label>宝石</DankPyon_GemStones.label>
+  <DankPyon_QuestStuff.label>探索者研究物件</DankPyon_QuestStuff.label> 
+  <DankPyon_Honey.label>蜂蜜</DankPyon_Honey.label>
+  <DankPyon_Cereal.label>谷物</DankPyon_Cereal.label>
+  <DankPyon_Schematics.label>原理图</DankPyon_Schematics.label>
+  
+</LanguageData>

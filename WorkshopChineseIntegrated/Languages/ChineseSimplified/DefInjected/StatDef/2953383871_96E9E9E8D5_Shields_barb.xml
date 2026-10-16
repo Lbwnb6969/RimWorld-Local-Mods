@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shield_BaseMeleeBlockChance.label>盾牌近战格挡倍率</Shield_BaseMeleeBlockChance.label>
+  <Shield_BaseMeleeBlockChance.description>此数值乘以盾牌使用者的近战格挡概率，以计算实际格挡概率。此数值越高越好。</Shield_BaseMeleeBlockChance.description>
+
+  <Shield_BaseRangedBlockChance.label>盾牌远程格挡倍率</Shield_BaseRangedBlockChance.label>
+  <Shield_BaseRangedBlockChance.description>此数值乘以盾牌使用者的远程格挡概率，以计算实际格挡概率。此数值越高越好。</Shield_BaseRangedBlockChance.description>
+
+  <Shield_DamageAbsorbed.label>盾牌损伤转换系数</Shield_DamageAbsorbed.label>
+  <Shield_DamageAbsorbed.description>当格挡攻击时，攻击伤害将以该系数转换后由盾牌吸收(将耗损盾牌耐久度)。注意：伤害由盾牌吸收后即不会对持盾者造成伤害。</Shield_DamageAbsorbed.description>
+
+  <!-- 这两项正确词条提取不出来，目前无法翻译。  -->
+  <Shield_HitPointAutoDiscardThreshold.label>自动卸盾阀值</Shield_HitPointAutoDiscardThreshold.label>
+  <Shield_HitPointAutoDiscardThreshold.description>战斗中盾牌耐久度下降至低于此阀值时，将自动卸下。</Shield_HitPointAutoDiscardThreshold.description>
+  <Shield_DamageToFatigueFactor.label>持盾疲劳转换系数</Shield_DamageToFatigueFactor.label>
+  <Shield_DamageToFatigueFactor.description>当受到攻击时，攻击伤害乘以此转换系数，以计算持盾疲劳增加值。此数值越低越好。</Shield_DamageToFatigueFactor.description>
+
+
+  <!-- Melee Block -->
+
+  <MeleeShieldBlockChance.label>近战格挡概率</MeleeShieldBlockChance.label>
+  <MeleeShieldBlockChance.description>殖民者持用盾牌时，能够阻挡本应击中的近战攻击的概率。</MeleeShieldBlockChance.description>
+
+
+  <!-- Ranged Block -->
+
+  <RangedShieldBlockChance.label>远程格挡概率</RangedShieldBlockChance.label>
+  <RangedShieldBlockChance.description>殖民者持用盾牌时，能够阻挡本应击中的远程攻击的概率。</RangedShieldBlockChance.description>
+
+
+</LanguageData>

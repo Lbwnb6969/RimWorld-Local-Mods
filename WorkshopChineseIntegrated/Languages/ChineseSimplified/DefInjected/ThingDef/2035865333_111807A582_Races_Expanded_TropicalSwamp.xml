@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anaconda -->
+  <AEXP_Anaconda.label>水蟒</AEXP_Anaconda.label>
+  <!-- EN: The anaconda is the heaviest and one of the longest known snake species, reaching lengths of 5 meters. They are a primarily nocturnal species that tends to spend most of its life in or around water. -->
+  <AEXP_Anaconda.description>水蟒是已知最重、最长的蛇类，能达5米长。夜行性物种，大部分时间生活在水中或水边。</AEXP_Anaconda.description>
+  <!-- EN: head -->
+  <AEXP_Anaconda.tools.head.label>头</AEXP_Anaconda.tools.head.label>
+  
+  <!-- EN: indian elephant -->
+  <AEXP_IndianElephant.label>印度象</AEXP_IndianElephant.label>
+  <!-- EN: The Indian elephant is one of the largest unmodified land animals. In general, Indian elephants are smaller, have smaller ears, but relatively broader skulls and larger trunks than African elephants, and have the highest body point on the head. -->
+  <AEXP_IndianElephant.description>印度象是最大的原生陆地动物之一。一般来说，印度象比非洲象体型更小，耳朵更小，头骨和象牙更大，头部上的重力支点也更高。</AEXP_IndianElephant.description>
+  <!-- EN: left foot -->
+  <AEXP_IndianElephant.tools.left_foot.label>左足</AEXP_IndianElephant.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <AEXP_IndianElephant.tools.right_foot.label>右足</AEXP_IndianElephant.tools.right_foot.label>
+  <!-- EN: head -->
+  <AEXP_IndianElephant.tools.head.label>头</AEXP_IndianElephant.tools.head.label>
+  
+</LanguageData>

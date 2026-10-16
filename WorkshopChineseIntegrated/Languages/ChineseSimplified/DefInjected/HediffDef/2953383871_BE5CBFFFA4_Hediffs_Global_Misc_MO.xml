@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dish -->
+
+  <DankPyon_AteRoxSteak.label>吃了罗克斯牛排</DankPyon_AteRoxSteak.label>
+  <DankPyon_AteRoxSteak.description>一道精心烹制的菜餚，带有浓郁的芳香味道。大幅提高了身体各项素质。</DankPyon_AteRoxSteak.description>
+
+  <DankPyon_AteGriffonBerryPie.label>吃了狮鹫莓派</DankPyon_AteGriffonBerryPie.label>
+  <DankPyon_AteGriffonBerryPie.description>一道精心烹制的菜餚，带有浓郁的芳香味道。大幅提高了身体各项素质。</DankPyon_AteGriffonBerryPie.description>
+
+  <DankPyon_AteSteakWithWine.label>吃了红酒牛肉</DankPyon_AteSteakWithWine.label>
+  <DankPyon_AteSteakWithWine.description>吃了红酒牛肉，为身体注入活力。显着提高了身体各项素质。</DankPyon_AteSteakWithWine.description>
+
+  <DankPyon_AteTomatoOmelette.label>吃了番茄欧姆蛋</DankPyon_AteTomatoOmelette.label>
+  <DankPyon_AteTomatoOmelette.description>番茄欧姆蛋是一道能有效充飢的餐点。略微提高意识。</DankPyon_AteTomatoOmelette.description>
+
+  <DankPyon_AteSweetPancakes.label>吃了松饼</DankPyon_AteSweetPancakes.label>
+  <DankPyon_AteSweetPancakes.description>甜松饼淋上浓稠的糖浆，可以为身体补充能量并提高工作及移动速度。</DankPyon_AteSweetPancakes.description>
+
+  <DankPyon_AteFriedEggs.label>吃了煎荷包蛋</DankPyon_AteFriedEggs.label>
+  <DankPyon_AteFriedEggs.description>吃了煎荷包蛋，为身体注入活力。略微提高工作及移动速度。</DankPyon_AteFriedEggs.description>
+
+  <DankPyon_AteMashedPotatoes.label>吃了土豆泥</DankPyon_AteMashedPotatoes.label>
+  <DankPyon_AteMashedPotatoes.description>吃了土豆泥，为身体注入活力。略微提高工作及移动速度，并降低飢饿率。</DankPyon_AteMashedPotatoes.description>
+
+  <DankPyon_AtePumpkinFritters.label>吃了南瓜馅饼</DankPyon_AtePumpkinFritters.label>
+  <DankPyon_AtePumpkinFritters.description>吃了南瓜馅饼，为身体注入活力。略微提高工作及移动速度。</DankPyon_AtePumpkinFritters.description>
+
+
+  <!-- Tiers -->
+
+  <DankPyon_AteBake.label>吃了烘焙餐点</DankPyon_AteBake.label>
+  <DankPyon_AteBake.description>吃了烘焙餐点，为身体注入活力。略微提高意识及移动速度，并降低飢饿率。</DankPyon_AteBake.description>
+
+  <DankPyon_AteBakeFine.label>吃了精致的烘焙餐点</DankPyon_AteBakeFine.label>
+  <DankPyon_AteBakeFine.description>吃了精致的烘焙餐点，为身体注入活力。提高意识及移动速度，并降低飢饿率。</DankPyon_AteBakeFine.description>
+
+  <DankPyon_AteBakeLavish.label>吃了豪华的烘焙餐点</DankPyon_AteBakeLavish.label>
+  <DankPyon_AteBakeLavish.description>吃了豪华的烘焙餐点，为身体注入活力。显着提高意识及移动速度，并降低飢饿率。</DankPyon_AteBakeLavish.description>
+
+  <DankPyon_AteGrill.label>吃了炙烤餐点</DankPyon_AteGrill.label>
+  <DankPyon_AteGrill.description>吃了炙烤餐点，为身体注入活力。略微提高意识及移动速度，并能提高工作速度。</DankPyon_AteGrill.description>
+
+  <DankPyon_AteGrillFine.label>吃了精致的炙烤餐点</DankPyon_AteGrillFine.label>
+  <DankPyon_AteGrillFine.description>吃了精致的炙烤餐点，为身体注入活力。提高意识及移动速度，并能提高工作速度。</DankPyon_AteGrillFine.description>
+
+  <DankPyon_AteGrillLavish.label>吃了豪华的炙烤餐点</DankPyon_AteGrillLavish.label>
+  <DankPyon_AteGrillLavish.description>吃了豪华的炙烤餐点，为身体注入活力。显着提高意识及移动速度，并能提高工作速度。</DankPyon_AteGrillLavish.description>
+
+  <DankPyon_AteSoup.label>喝了热汤</DankPyon_AteSoup.label>
+  <DankPyon_AteSoup.description>喝了一碗提供温暖和营养的热汤。略微增强免疫系统及促进血液循环。</DankPyon_AteSoup.description>
+
+  <DankPyon_AteSoupFine.label>喝了精致热汤</DankPyon_AteSoupFine.label>
+  <DankPyon_AteSoupFine.description>喝了一碗提供温暖和营养的精致热汤。增强免疫系统及促进血液循环。</DankPyon_AteSoupFine.description>
+
+  <DankPyon_AteSoupLavish.label>喝了豪华热汤</DankPyon_AteSoupLavish.label>
+  <DankPyon_AteSoupLavish.description>喝了一碗提供温暖和营养的豪华热汤。显着增强免疫系统及促进血液循环。</DankPyon_AteSoupLavish.description>
+
+  <DankPyon_LindwurmAcid.label>林德虫酸蚀</DankPyon_LindwurmAcid.label>
+  <DankPyon_LindwurmAcid.description>林德虫喷溅的血液洒到了身上，具有极强酸性，会逐渐对盔甲造成腐蚀。</DankPyon_LindwurmAcid.description>
+
+  <!-- Daze -->
+
+  <DankPyon_Daze.label>目眩</DankPyon_Daze.label>
+  <DankPyon_Daze.description>一种会导致战斗力暂时降低的状态。</DankPyon_Daze.description>
+
+  <!-- Apparel Added Hediffs -->
+
+  <DankPyon_LindwurmAcidImmune.label>林德虫酸抗性</DankPyon_LindwurmAcidImmune.label>
+  <DankPyon_LindwurmAcidImmune.description>免疫林德虫酸蚀效果。</DankPyon_LindwurmAcidImmune.description>
+
+  <DankPyon_StunImmune.label>击晕免疫</DankPyon_StunImmune.label>
+  <DankPyon_StunImmune.description>免疫击晕效果。</DankPyon_StunImmune.description>
+
+  <DankPyon_DazeImmune.label>目眩免疫</DankPyon_DazeImmune.label>
+  <DankPyon_DazeImmune.description>免疫目眩效果。</DankPyon_DazeImmune.description>
+
+  <DankPyon_SigilMood.label>符文印记加护</DankPyon_SigilMood.label>
+  <DankPyon_SigilMood.description>配戴者可获得正向情绪增益。</DankPyon_SigilMood.description>
+
+  <DankPyon_AlpSleep.label>噩梦缠身</DankPyon_AlpSleep.label>
+  <DankPyon_AlpSleep.description>一种会导致战斗力暂时降低的心理异常状态。</DankPyon_AlpSleep.description>
+
+  <DankPyon_NightmareDamage.label>噩梦创伤</DankPyon_NightmareDamage.label>
+  <DankPyon_NightmareDamage.description>梦魇所引发的精神创伤。</DankPyon_NightmareDamage.description>
+  <DankPyon_NightmareDamage.labelNoun>噩梦创伤</DankPyon_NightmareDamage.labelNoun>
+  <DankPyon_NightmareDamage.labelNounPretty>{1}内的{0}</DankPyon_NightmareDamage.labelNounPretty>
+
+</LanguageData>

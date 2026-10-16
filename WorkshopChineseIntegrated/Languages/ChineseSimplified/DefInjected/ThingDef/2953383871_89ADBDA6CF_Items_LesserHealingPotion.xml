@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Lesser Healing Potion -->
+  <Joe_LesserHealingPotion.label>红药水(小)</Joe_LesserHealingPotion.label>
+  <!-- EN: Ancient tribesfolk brewed an elixir that significantly enhances the natural healing abilities of those who consume it. However, it induces a troubling malaise in the bowels, an unsettling unease that weakens the kidneys due to heightened blood pressure.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_LesserHealingPotion.description>一种古老部落酿制的治疗药水，可以增强服用者的自然治愈能力。然而，它会引起肠道不适，这种令人不安的感觉会导致血压升高并削弱肾脏的功能。</Joe_LesserHealingPotion.description>
+  <!-- EN: Drink {0} -->
+  <Joe_LesserHealingPotion.ingestible.ingestCommandString>服用{0}</Joe_LesserHealingPotion.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Joe_LesserHealingPotion.ingestible.ingestReportString>正在服用{0}。</Joe_LesserHealingPotion.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Joe_LesserHealingPotion.tools.bottle.label>瓶身</Joe_LesserHealingPotion.tools.bottle.label>
+  <!-- EN: neck -->
+  <Joe_LesserHealingPotion.tools.neck.label>瓶颈</Joe_LesserHealingPotion.tools.neck.label>
+  
+</LanguageData>

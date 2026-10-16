@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: supreme god emperor -->
+  <VME_Leader_Godlike.stages.supreme_god_emperor.label>无上神皇</VME_Leader_Godlike.stages.supreme_god_emperor.label>
+  <!-- EN: god emperor -->
+  <VME_Leader_Godlike.stages.god_emperor.label>伟大神皇</VME_Leader_Godlike.stages.god_emperor.label>
+  <!-- EN: dubious divinity -->
+  <VME_Leader_Godlike.stages.dubious_divinity.label>神性猜忌</VME_Leader_Godlike.stages.dubious_divinity.label>
+  <!-- EN: false god -->
+  <VME_Leader_Godlike.stages.false_god.label>堕落伪神</VME_Leader_Godlike.stages.false_god.label>
+  
+</LanguageData>

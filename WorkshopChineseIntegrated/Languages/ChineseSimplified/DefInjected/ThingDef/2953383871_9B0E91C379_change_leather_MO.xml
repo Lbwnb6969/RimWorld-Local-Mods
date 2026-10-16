@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <Leather_Plain.label>皮革</Leather_Plain.label>
+  <Leather_Plain.description>鞣制、风乾、刮净的简单皮革。一种制作衣服、包包的传统素材。</Leather_Plain.description>
+
+  <Leather_Bear.label>厚皮革</Leather_Bear.label>
+  <Leather_Bear.description>强力毛茸皮革。比大多数的皮革更强韧、隔绝性更好。</Leather_Bear.description>
+
+  <Leather_Light.label>柔软毛皮</Leather_Light.label>
+  <Leather_Light.description>柔软毛皮。可能是从小动物身上取得的。不像较厚的皮革那样具有保护性。</Leather_Light.description>
+
+  <Leather_Bluefur.label>重毛皮</Leather_Bluefur.label>
+  <Leather_Bluefur.description>毛茸茸毛皮。适合用在寒冷的气候。</Leather_Bluefur.description>
+
+  <Leather_Lizard.label>鳞皮革</Leather_Lizard.label>
+  <Leather_Lizard.description>爬虫类冷血动物的鞣制皮革。鳞皮强韧，但隔绝性较差。</Leather_Lizard.description>
+
+  <Leather_Rhinoceros.label>厚鳞皮革</Leather_Rhinoceros.label>
+  <Leather_Rhinoceros.description>鞣制、风乾、刮净的厚鳞皮革。在战斗中非常耐用，但对于气候只提供一点点保护。</Leather_Rhinoceros.description>
+
+  <Leather_Bird.label>鸟皮革</Leather_Bird.label>
+  <Leather_Bird.description>鞣制、风乾、刮净的鸟皮革。十分脆弱。没有羽毛，能稍微隔绝一点热、冷。</Leather_Bird.description>
+
+  <Leather_Thrumbo.label>敲击兽毛皮</Leather_Thrumbo.label>
+  <Leather_Thrumbo.description>毛茸茸的毛皮。豪华、超级耐用。拥有最高品质的保护性、隔绝性素材。</Leather_Thrumbo.description>
+
+
+</LanguageData>

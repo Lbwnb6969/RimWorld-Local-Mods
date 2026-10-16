@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <VME_BookQuality_Desired.label>渴望</VME_BookQuality_Desired.label>
+  <!-- EN: There is nothing that would make us happier than acquiring exquisite tomes of knowledge for our colony. -->
+  <VME_BookQuality_Desired.description>为殖民地收集各种蕴含宝贵知识的著作是我们最大的乐趣。</VME_BookQuality_Desired.description>
+  <!-- EN: A single legendary book -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.0>1本传奇级书籍</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Two legendary books -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.1>2本传奇级书籍</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Three legendary books -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.2>3本传奇级书籍</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Four legendary books -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.3>4本传奇级书籍</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Five or more legendary books -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.4>5本以上传奇级书籍</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.4>
+  
+</LanguageData>

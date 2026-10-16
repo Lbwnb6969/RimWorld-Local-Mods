@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <VME_Violence_Abhorrent.label>厌恶</VME_Violence_Abhorrent.label>
+  <!-- EN: To shed blood or break bone is barbaric and disgusting. \n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a substantial negative mood if they are forced to attack non-hostile humanoid targets.\n - The only mental break allowed is psychotic wander.\n - All drafted colonists will undraft if an attacking enemy starts fleeing. -->
+  <VME_Violence_Abhorrent.description>诉诸暴力是野蛮且令人作呕的行为。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 如果强迫殖民者攻击非敌对的人类目标，他们将会获得严重的心情减益。\n - 殖民者只会陷入“迷茫徘徊”的精神崩溃状态。\n - 如果袭击的敌人开始逃跑，所有被征召的殖民者将会强制解散。</VME_Violence_Abhorrent.description>
+  
+  <!-- EN: acceptable -->
+  <VME_Violence_Acceptable.label>认可</VME_Violence_Acceptable.label>
+  <!-- EN: Violence is just a fact of life. -->
+  <VME_Violence_Acceptable.description>暴力也是生活的一部分。</VME_Violence_Acceptable.description>
+  
+  <!-- EN: disapproved -->
+  <VME_Violence_Disapproved.label>反感</VME_Violence_Disapproved.label>
+  <!-- EN: We should avoid harming innocents if possible. Attacking a harmless person is immoral. \n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a negative mood if they are forced to attack non-hostile humanoid targets. -->
+  <VME_Violence_Disapproved.description>伤及无辜者是一种不道德的行为。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 如果强迫殖民者攻击非敌对的人类目标，他们将会获得心情减益。</VME_Violence_Disapproved.description>
+  
+  <!-- EN: honorable -->
+  <VME_Violence_Honorable.label>推崇</VME_Violence_Honorable.label>
+  <!-- EN: Harming innocents is an honorable necessity on the Rim, it proves our strength and our resolve.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a positive mood if they are forced to attack non-hostile humanoid targets. -->
+  <VME_Violence_Honorable.description>在边缘世界里虐杀无辜是一种光荣的需要，这会证明我们强大的力量与不可撼动的决心。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 如果强迫殖民者攻击非敌对的人类目标，他们将会获得心情增益。</VME_Violence_Honorable.description>
+  
+</LanguageData>

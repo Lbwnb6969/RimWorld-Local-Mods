@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Iron Arm -->
+
+  <IronArm.label>铁臂</IronArm.label>
+  <IronArm.description>一个非常无效的，缺失手臂的替代品。</IronArm.description>
+
+
+  <!-- Prosthetic Hook -->
+
+  <ProstheticHook.label>钩手</ProstheticHook.label>
+  <ProstheticHook.description>代替缺失的手。功能非常有限。</ProstheticHook.description>
+
+
+  <!-- Wooden Foot -->
+
+  <WoodenFoot.label>木脚</WoodenFoot.label>
+  <WoodenFoot.description>用木头做的粗糙复制品，代替缺失的脚。走起来不舒服，对移动没太大帮助，但总比没有好。</WoodenFoot.description>
+
+
+  <!-- Wooden toe -->
+
+  <WoodenToe.label>木趾</WoodenToe.label>
+  <WoodenToe.description>用木头做的粗糙复制品，代替缺失的脚趾。</WoodenToe.description>
+
+
+  <!-- Wooden Finger -->
+
+  <WoodenFinger.label>木指</WoodenFinger.label>
+  <WoodenFinger.description>用木头做的粗糙复制品，代替缺失的手指。</WoodenFinger.description>
+
+
+  <!-- Wooden nose -->
+
+  <WoodenNose.label>木鼻</WoodenNose.label>
+  <WoodenNose.description>用木头做的粗糙复制品，代替缺失的鼻子。</WoodenNose.description>
+
+
+  <!-- Eye patch -->
+
+  <EyePatch.label>眼罩</EyePatch.label>
+  <EyePatch.description>一块简单的布片，遮盖住空洞的眼窝。</EyePatch.description>
+
+
+  <!-- Ear patch -->
+
+  <EarPatch.label>耳罩</EarPatch.label>
+  <EarPatch.description>一块简单的布片，遮盖住缺少的外耳。</EarPatch.description>
+
+
+</LanguageData>

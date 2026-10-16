@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: muckbile spew -->
+  <DA_MuckbileSpew.label>胆汁喷吐</DA_MuckbileSpew.label>
+  <!-- EN: Spray an acidic bile all over the target area. The mucky bile will stick to targets and slow them. -->
+  <DA_MuckbileSpew.description>在目标区域喷吐一滩酸性胆汁，能黏住目标。</DA_MuckbileSpew.description>
+  
+</LanguageData>

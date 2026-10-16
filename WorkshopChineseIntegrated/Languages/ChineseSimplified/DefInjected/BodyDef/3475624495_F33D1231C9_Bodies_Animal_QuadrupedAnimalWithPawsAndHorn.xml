@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: quadruped animal -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.label>四足动物</DA_QuadrupedAnimalWithPawsAndHorn.label>
+  <!-- EN: left lung -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.left_lung.customLabel>左肺</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.right_lung.customLabel>右肺</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.left_kidney.customLabel>左肾</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.right_kidney.customLabel>右肾</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.front_left_leg.customLabel>左前肢</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>左前爪</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.front_right_leg.customLabel>右前肢</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>右前爪</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.rear_left_leg.customLabel>左后肢</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>左后爪</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.rear_right_leg.customLabel>右后肢</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>右后爪</DA_QuadrupedAnimalWithPawsAndHorn.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+</LanguageData>

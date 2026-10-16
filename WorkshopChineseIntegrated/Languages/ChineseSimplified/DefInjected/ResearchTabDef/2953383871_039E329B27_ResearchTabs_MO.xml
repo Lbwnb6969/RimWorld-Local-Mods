@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
+
+  <DankPyon_MedievalResearchTab.label>中世纪技术</DankPyon_MedievalResearchTab.label>
+
+  <DankPyon_MedievalResearchTab.generalTitle>中世纪技术研究项目</DankPyon_MedievalResearchTab.generalTitle>
+
+  <DankPyon_MedievalResearchTab.generalDescription>在研究桌上进行研究来解锁中世纪技术。同一时间只能进行一项研究。</DankPyon_MedievalResearchTab.generalDescription>
+
+
+</LanguageData>

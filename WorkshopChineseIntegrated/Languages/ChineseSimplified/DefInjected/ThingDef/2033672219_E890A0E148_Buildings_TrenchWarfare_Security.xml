@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ammo box -->
+  <VFES_AmmoCrate.label>弹药箱</VFES_AmmoCrate.label>
+  <!-- EN: A small ammunition box that improves the reload speed of everyone nearby. Will explode if damaged. -->
+  <VFES_AmmoCrate.description>用于存放弹药的小箱子。可以降低周围殖民者的远程武器冷却时间。受损严重时可能会爆炸。</VFES_AmmoCrate.description>
+  
+  <!-- EN: razor wire -->
+  <VFES_BarbedWire.label>尖刺铁丝网</VFES_BarbedWire.label>
+  <!-- EN: A razor wire fence consisting of sharp edges and points arranged at intervals. Not only does it slow down movement of enemies, it also inflicts cuts and puncture wounds. Razor wire will block certain kinds of animals the same way that fences do. -->
+  <VFES_BarbedWire.description>一种由表面遍布锋利尖刺的铁丝组成的围栏。它不仅可以减缓敌人的移动速度，而且还会造成割伤和刺伤。尖刺铁丝网会像栅栏一样阻挡部分动物。</VFES_BarbedWire.description>
+  
+  <!-- EN: dugout -->
+  <VFES_Dugout.label>临时战壕</VFES_Dugout.label>
+  <!-- EN: A long, narrow ditch dug into the ground. Crossing it requires climbing up and down, therefore it significantly slows down movement speed. People inside the dugout suffer weapon range penalty, but gain significant cover and protection from explosive damage. -->
+  <VFES_Dugout.description>在地上挖的一条又长又窄的壕沟。穿越时需要上下爬升，因此会大幅减缓移动速度。站在战壕内的单位将受到武器射程惩罚，但也能获得显著的掩护效果加成。</VFES_Dugout.description>
+  
+  <!-- EN: platform -->
+  <VFES_Platform.label>射击平台</VFES_Platform.label>
+  <!-- EN: A long, narrow platform. Crossing it requires climbing up and down, therefore it significantly slows down movement speed. People on the platform receive a bonus to weapon range, but suffer from lower cover. -->
+  <VFES_Platform.description>狭长的木制射击平台。穿越时需要上下爬升，因此会大幅减缓移动速度。站在平台上的单位将获得显著的武器射程加成，但也会因暴露而受到掩护效果惩罚。</VFES_Platform.description>
+  
+  <!-- EN: trench -->
+  <VFES_Trench.label>工事战壕</VFES_Trench.label>
+  <!-- EN: A long, damage-resistant reinforced trench. Crossing it requires climbing up and down, therefore it significantly slows down movement speed. People inside the trench suffer a weapon range penalty, but gain significant cover and protection from explosive damage. -->
+  <VFES_Trench.description>经过加固的夯实堑壕。穿越时需要上下爬升，因此会大幅减缓移动速度。站在战壕内的单位将受到武器射程惩罚，但也能获得显著的掩护效果加成。</VFES_Trench.description>
+  
+</LanguageData>

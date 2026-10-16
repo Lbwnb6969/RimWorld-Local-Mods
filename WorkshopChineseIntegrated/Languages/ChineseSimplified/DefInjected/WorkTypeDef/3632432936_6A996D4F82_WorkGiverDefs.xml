@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
+  <VR_ConstructHandling.description>驯服、训练、从动物身上采集资源并屠宰动物。</VR_ConstructHandling.description>
+  <!-- EN: handling -->
+  <VR_ConstructHandling.gerundLabel>管理</VR_ConstructHandling.gerundLabel>
+  <!-- EN: handle -->
+  <VR_ConstructHandling.labelShort>管理</VR_ConstructHandling.labelShort>
+  <!-- EN: Handler -->
+  <VR_ConstructHandling.pawnLabel>管理员</VR_ConstructHandling.pawnLabel>
+  <!-- EN: Handle -->
+  <VR_ConstructHandling.verb>管理</VR_ConstructHandling.verb>
+  
+</LanguageData>

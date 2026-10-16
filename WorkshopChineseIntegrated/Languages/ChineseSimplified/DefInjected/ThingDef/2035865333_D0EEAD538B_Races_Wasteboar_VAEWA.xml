@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wasteboar -->
+  <VAEWaste_Wasteboar.label>废土野猪</VAEWaste_Wasteboar.label>
+  <!-- EN: The Wasteboar is a massive and powerful creature, mutated by the polluted environment it inhabits. With four eyes and two sets of formidable tusks, it is well equipped to defend itself against predators. Despite its intimidating appearance, the Wasteboar is not aggressive. Instead, it spends its time ramming its head into trees in an effort to break them down. While this behavior may seem harmless, it can have devastating consequences for the environment, making the Wasteboar an unwanted and destructive presence. The destruction of resources and the unsightly impact on the surroundings make this creature a problem that should not be taken lightly. -->
+  <VAEWaste_Wasteboar.description>已对污染和毒素产生抗性的突变生物。由于基因产生突变，这些身强体壮的家伙长有四只眼睛与四根恐怖的獠牙，任何捕食者都不敢轻易与它们为敌。虽然外表看起来很吓人，但废土野猪并非好勇斗狠的生物，它们更喜欢把时间花在用头拱树上。不过，这种奇怪的习性会对周围环境与资源造成极大破坏，它们也因此被大多数人视作需要尽快处理掉的害兽。\n\n废土野猪的肉有毒，请三思而后食。</VAEWaste_Wasteboar.description>
+  <!-- EN: tusk -->
+  <VAEWaste_Wasteboar.tools.tusk.label>獠牙</VAEWaste_Wasteboar.tools.tusk.label>
+  <!-- EN: head -->
+  <VAEWaste_Wasteboar.tools.head.label>头</VAEWaste_Wasteboar.tools.head.label>
+  
+</LanguageData>

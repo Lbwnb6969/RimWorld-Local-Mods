@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- 面包师 -->
+  <BA_Medieval_Adult_Basic_Baker.description>[PAWN_nameDef] 每日天未亮便起身揉面、照看炉火。新鲜面包的香气，便是[PAWN_possessive] 馈赠世间之物。</BA_Medieval_Adult_Basic_Baker.description>
+  <BA_Medieval_Adult_Basic_Baker.title>乡村面包师</BA_Medieval_Adult_Basic_Baker.title>
+  <BA_Medieval_Adult_Basic_Baker.titleShort>面包师</BA_Medieval_Adult_Basic_Baker.titleShort>
+  
+  <!-- 匪徒 -->
+  <BA_Medieval_Adult_Basic_Bandit.description>[PAWN_nameDef] 曾以刀剑与伏击为生，劫掠旅人。尽管法律称[PAWN_objective] 为罪犯，[PAWN_pronoun] 却只当这是生存之道。</BA_Medieval_Adult_Basic_Bandit.description>
+  <BA_Medieval_Adult_Basic_Bandit.title>路边匪徒</BA_Medieval_Adult_Basic_Bandit.title>
+  <BA_Medieval_Adult_Basic_Bandit.titleShort>匪徒</BA_Medieval_Adult_Basic_Bandit.titleShort>
+  
+  <!-- 理发师兼外科医生 -->
+  <BA_Medieval_Adult_Basic_BarberSurgeon.description>[PAWN_nameDef] 剃发修面、放血疗伤、缝合伤口。在[PAWN_possessive] 的刀刃下，理发师与医者的界限变得模糊。</BA_Medieval_Adult_Basic_BarberSurgeon.description>
+  <BA_Medieval_Adult_Basic_BarberSurgeon.title>理发师兼外科医生</BA_Medieval_Adult_Basic_BarberSurgeon.title>
+  <BA_Medieval_Adult_Basic_BarberSurgeon.titleShort>理发师</BA_Medieval_Adult_Basic_BarberSurgeon.titleShort>
+  
+  <!-- 养蜂人 -->
+  <BA_Medieval_Adult_Basic_Beekeeper.description>[PAWN_nameDef] 在草地上照料蜂箱，采收蜂蜜与蜂蜡。蜜蜂教会了[PAWN_objective] 静默勤勉之美——也教会了[PAWN_objective] 如何忍受蜇刺。</BA_Medieval_Adult_Basic_Beekeeper.description>
+  <BA_Medieval_Adult_Basic_Beekeeper.title>养蜂人</BA_Medieval_Adult_Basic_Beekeeper.title>
+  <BA_Medieval_Adult_Basic_Beekeeper.titleShort>养蜂人</BA_Medieval_Adult_Basic_Beekeeper.titleShort>
+  
+  <!-- 乞丐 -->
+  <BA_Medieval_Adult_Basic_Beggar.description>[PAWN_nameDef] 靠残羹与他人的善意生存，宿在陌生人的屋檐之下。特权无法铸就的坚韧，由饥饿亲手锻造。</BA_Medieval_Adult_Basic_Beggar.description>
+  <BA_Medieval_Adult_Basic_Beggar.title>乞丐</BA_Medieval_Adult_Basic_Beggar.title>
+  <BA_Medieval_Adult_Basic_Beggar.titleShort>乞丐</BA_Medieval_Adult_Basic_Beggar.titleShort>
+  
+  <!-- 铁匠 -->
+  <BA_Medieval_Adult_Basic_Blacksmith.description>[PAWN_nameDef] 在铁匠铺中度过数载光阴，挥锤打铁直至火花成了[PAWN_possessive] 唯一的星辰。每一把刀刃、每一枚铁钉，都镌刻着[PAWN_possessive] 的汗水与技艺。</BA_Medieval_Adult_Basic_Blacksmith.description>
+  <BA_Medieval_Adult_Basic_Blacksmith.title>乡村铁匠</BA_Medieval_Adult_Basic_Blacksmith.title>
+  <BA_Medieval_Adult_Basic_Blacksmith.titleShort>铁匠</BA_Medieval_Adult_Basic_Blacksmith.titleShort>
+  
+  <!-- 酿酒师 -->
+  <BA_Medieval_Adult_Basic_Brewer.description>[PAWN_nameDef] 为酒馆酿造麦酒与蜂蜜酒。一壶佳酿能赢得尊重——偶尔也会引发斗殴。</BA_Medieval_Adult_Basic_Brewer.description>
+  <BA_Medieval_Adult_Basic_Brewer.title>乡村酿酒师</BA_Medieval_Adult_Basic_Brewer.title>
+  <BA_Medieval_Adult_Basic_Brewer.titleShort>酿酒师</BA_Medieval_Adult_Basic_Brewer.titleShort>
+  
+  <!-- 屠夫 -->
+  <BA_Medieval_Adult_Basic_Butcher.description>[PAWN_nameDef] 以精湛的手法为集市切割肉类。[PAWN_pronoun] 在一次次切割中，艰难摸索出了解剖的奥秘。</BA_Medieval_Adult_Basic_Butcher.description>
+  <BA_Medieval_Adult_Basic_Butcher.title>屠夫</BA_Medieval_Adult_Basic_Butcher.title>
+  <BA_Medieval_Adult_Basic_Butcher.titleShort>屠夫</BA_Medieval_Adult_Basic_Butcher.titleShort>
+  
+  <!-- 商队领队 -->
+  <BA_Medieval_Adult_Basic_Caravaneer.description>[PAWN_nameDef] 往返于城镇与要塞之间，既交易货物，也传递消息。[PAWN_pronoun] 学会了议价、格斗，也学会了在漫长旅途中坚守。</BA_Medieval_Adult_Basic_Caravaneer.description>
+  <BA_Medieval_Adult_Basic_Caravaneer.title>商队领队</BA_Medieval_Adult_Basic_Caravaneer.title>
+  <BA_Medieval_Adult_Basic_Caravaneer.titleShort>商队领队</BA_Medieval_Adult_Basic_Caravaneer.titleShort>
+  
+  <!-- 木匠 -->
+  <BA_Medieval_Adult_Basic_Carpenter.description>[PAWN_nameDef] 用风干的木材打造马车、家具与房屋。[PAWN_pronoun] 从木纹中学会了耐心，从铁锤中汲取了力量。</BA_Medieval_Adult_Basic_Carpenter.description>
+  <BA_Medieval_Adult_Basic_Carpenter.title>木匠</BA_Medieval_Adult_Basic_Carpenter.title>
+  <BA_Medieval_Adult_Basic_Carpenter.titleShort>木匠</BA_Medieval_Adult_Basic_Carpenter.titleShort>
+  
+  <!-- 酒馆厨师 -->
+  <BA_Medieval_Adult_Basic_Cook.description>[PAWN_nameDef] 在路边酒馆烟雾缭绕的厨房中劳作，为饥饿的旅人搅动炖菜、烤制肉食。锅碗瓢盆的碰撞声，成了[PAWN_possessive] 的日常歌谣。</BA_Medieval_Adult_Basic_Cook.description>
+  <BA_Medieval_Adult_Basic_Cook.title>酒馆厨师</BA_Medieval_Adult_Basic_Cook.title>
+  <BA_Medieval_Adult_Basic_Cook.titleShort>厨师</BA_Medieval_Adult_Basic_Cook.titleShort>
+  
+  <!-- 工匠 -->
+  <BA_Medieval_Adult_Basic_Craftsman.description>[PAWN_nameDef] 数年来为乡民打造工具、饰品或武器。精准与耐心，让[PAWN_objective] 在平民之中备受敬重。</BA_Medieval_Adult_Basic_Craftsman.description>
+  <BA_Medieval_Adult_Basic_Craftsman.title>乡村工匠</BA_Medieval_Adult_Basic_Craftsman.title>
+  <BA_Medieval_Adult_Basic_Craftsman.titleShort>工匠</BA_Medieval_Adult_Basic_Craftsman.titleShort>
+  
+  <!-- 农夫 -->
+  <BA_Medieval_Adult_Basic_Farmer.description>[PAWN_nameDef] 每年春天都耕耘着同一片田地，用耐心的双手唤醒土壤中的生机。常年劳作磨砺了[PAWN_possessive] 的体魄与意志，却几乎磨灭了梦想的空间。</BA_Medieval_Adult_Basic_Farmer.description>
+  <BA_Medieval_Adult_Basic_Farmer.title>乡村农夫</BA_Medieval_Adult_Basic_Farmer.title>
+  <BA_Medieval_Adult_Basic_Farmer.titleShort>农夫</BA_Medieval_Adult_Basic_Farmer.titleShort>
+  
+  <!-- 渔夫 -->
+  <BA_Medieval_Adult_Basic_Fisherman.description>[PAWN_nameDef] 依河而居，撒网捕鱼，与风暴搏斗。流水的静默与耐心，教会了[PAWN_objective] 书本无法给予的东西。</BA_Medieval_Adult_Basic_Fisherman.description>
+  <BA_Medieval_Adult_Basic_Fisherman.title>河边渔夫</BA_Medieval_Adult_Basic_Fisherman.title>
+  <BA_Medieval_Adult_Basic_Fisherman.titleShort>渔夫</BA_Medieval_Adult_Basic_Fisherman.titleShort>
+  
+  <!-- 森林雕刻师 -->
+  <BA_Medieval_Adult_Basic_Forest_Carver.description>[PAWN_nameDef] 将木材雕刻成圣像与雕像，供奉于当地教堂。[PAWN_pronoun] 在简单的劳作与信仰中找到了平静。</BA_Medieval_Adult_Basic_Forest_Carver.description>
+  <BA_Medieval_Adult_Basic_Forest_Carver.title>森林雕刻师</BA_Medieval_Adult_Basic_Forest_Carver.title>
+  <BA_Medieval_Adult_Basic_Forest_Carver.titleShort>雕刻师</BA_Medieval_Adult_Basic_Forest_Carver.titleShort>
+  
+  <!-- 掘墓人 -->
+  <BA_Medieval_Adult_Basic_Gravedigger.description>[PAWN_nameDef] 以埋葬死者换取酬劳，常常沉默不语。与鬼魂为伴让[PAWN_objective] 变得沉静，却让他人感到不安。</BA_Medieval_Adult_Basic_Gravedigger.description>
+  <BA_Medieval_Adult_Basic_Gravedigger.title>掘墓人</BA_Medieval_Adult_Basic_Gravedigger.title>
+  <BA_Medieval_Adult_Basic_Gravedigger.titleShort>掘墓人</BA_Medieval_Adult_Basic_Gravedigger.titleShort>
+  
+  <!-- 行会学徒 -->
+  <BA_Medieval_Adult_Basic_GuildApprentice.description>[PAWN_nameDef] 在行会大师门下学艺，既要掌握行业秘诀，也要忍受斥责。严苛的历练，塑造了[PAWN_possessive] 的技艺。</BA_Medieval_Adult_Basic_GuildApprentice.description>
+  <BA_Medieval_Adult_Basic_GuildApprentice.title>行会学徒</BA_Medieval_Adult_Basic_GuildApprentice.title>
+  <BA_Medieval_Adult_Basic_GuildApprentice.titleShort>学徒</BA_Medieval_Adult_Basic_GuildApprentice.titleShort>
+  
+  <!-- 行会会长 -->
+  <BA_Medieval_Adult_Basic_GuildMaster.description>[PAWN_nameDef] 升任受人尊敬的行业行会会长，既赢得了尊重，也招致了嫉妒。[PAWN_pronoun] 小心翼翼地平衡着行业事务、个人尊严与权力博弈。</BA_Medieval_Adult_Basic_GuildMaster.description>
+  <BA_Medieval_Adult_Basic_GuildMaster.title>行会会长</BA_Medieval_Adult_Basic_GuildMaster.title>
+  <BA_Medieval_Adult_Basic_GuildMaster.titleShort>会长</BA_Medieval_Adult_Basic_GuildMaster.titleShort>
+  
+  <!-- 乡村医者 -->
+  <BA_Medieval_Adult_Basic_Healer.description>[PAWN_nameDef] 治疗伤病、接生育儿、送别逝者。[PAWN_pronoun] 学会了从他人的眼神中读懂痛苦。</BA_Medieval_Adult_Basic_Healer.description>
+  <BA_Medieval_Adult_Basic_Healer.title>乡村医者</BA_Medieval_Adult_Basic_Healer.title>
+  <BA_Medieval_Adult_Basic_Healer.titleShort>医者</BA_Medieval_Adult_Basic_Healer.titleShort>
+  
+  <!-- 游方草药师 -->
+  <BA_Medieval_Adult_Basic_Herbalist.description>[PAWN_nameDef] 学会了用根茎、烟熏与耐心治病救人。尽管许多人质疑[PAWN_possessive] 的技艺，但当热病来袭时，却少有人会拒绝帮助。</BA_Medieval_Adult_Basic_Herbalist.description>
+  <BA_Medieval_Adult_Basic_Herbalist.title>游方草药师</BA_Medieval_Adult_Basic_Herbalist.title>
+  <BA_Medieval_Adult_Basic_Herbalist.titleShort>草药师</BA_Medieval_Adult_Basic_Herbalist.titleShort>
+  
+  <!-- 森林隐士 -->
+  <BA_Medieval_Adult_Basic_Hermit.description>[PAWN_nameDef] 远离城镇的喧嚣，独自隐居在荒野之中。孤独磨砺了[PAWN_possessive] 的心智，却也淡化了[PAWN_possessive] 的礼仪。</BA_Medieval_Adult_Basic_Hermit.description>
+  <BA_Medieval_Adult_Basic_Hermit.title>森林隐士</BA_Medieval_Adult_Basic_Hermit.title>
+  <BA_Medieval_Adult_Basic_Hermit.titleShort>隐士</BA_Medieval_Adult_Basic_Hermit.titleShort>
+  
+  <!-- 遁世学者 -->
+  <BA_Medieval_Adult_Basic_HermitScholar.description>[PAWN_nameDef] 与世隔绝，潜心研究古籍或禁忌学识。[PAWN_pronoun] 现身时总是面色苍白、才华横溢，却带着几分怪异。</BA_Medieval_Adult_Basic_HermitScholar.description>
+  <BA_Medieval_Adult_Basic_HermitScholar.title>遁世学者</BA_Medieval_Adult_Basic_HermitScholar.title>
+  <BA_Medieval_Adult_Basic_HermitScholar.titleShort>学者</BA_Medieval_Adult_Basic_HermitScholar.titleShort>
+  
+  <!-- 乡村猎人 -->
+  <BA_Medieval_Adult_Basic_Hunter.description>[PAWN_nameDef] 狩猎鹿与野猪，养活亲族。当粮仓空虚时，沉稳的双手与耐心便是生存的保障。</BA_Medieval_Adult_Basic_Hunter.description>
+  <BA_Medieval_Adult_Basic_Hunter.title>乡村猎人</BA_Medieval_Adult_Basic_Hunter.title>
+  <BA_Medieval_Adult_Basic_Hunter.titleShort>猎人</BA_Medieval_Adult_Basic_Hunter.titleShort>
+  
+  <!-- 磨坊主 -->
+  <BA_Medieval_Adult_Basic_Miller.description>[PAWN_nameDef] 在风车或水磨坊工作，为乡村研磨谷物。齿轮转动的嗡嗡声，是[PAWN_possessive] 的日常歌谣。</BA_Medieval_Adult_Basic_Miller.description>
+  <BA_Medieval_Adult_Basic_Miller.title>乡村磨坊主</BA_Medieval_Adult_Basic_Miller.title>
+  <BA_Medieval_Adult_Basic_Miller.titleShort>磨坊主</BA_Medieval_Adult_Basic_Miller.titleShort>
+  
+  <!-- 矿工 -->
+  <BA_Medieval_Adult_Basic_Miner.description>[PAWN_nameDef] 在令人窒息的黑暗中劳作多年，挥镐凿石。大地的重量，同时压迫着[PAWN_nameDef] 的身体与心智。</BA_Medieval_Adult_Basic_Miner.description>
+  <BA_Medieval_Adult_Basic_Miner.title>矿工</BA_Medieval_Adult_Basic_Miner.title>
+  <BA_Medieval_Adult_Basic_Miner.titleShort>矿工</BA_Medieval_Adult_Basic_Miner.titleShort>
+  
+  <!-- 吟游诗人 -->
+  <BA_Medieval_Adult_Basic_Minstrel.description>[PAWN_nameDef] 游走于城镇之间，吟唱关于爱情、战争与愚行的歌谣。一首歌曲换一枚硬币，往往便是[PAWN_pronoun] 所需的一切。</BA_Medieval_Adult_Basic_Minstrel.description>
+  <BA_Medieval_Adult_Basic_Minstrel.title>吟游诗人</BA_Medieval_Adult_Basic_Minstrel.title>
+  <BA_Medieval_Adult_Basic_Minstrel.titleShort>吟游诗人</BA_Medieval_Adult_Basic_Minstrel.titleShort>
+  
+  <!-- 画师 -->
+  <BA_Medieval_Adult_Basic_Painter.description>[PAWN_nameDef] 为贵族与教堂绘制肖像、壁画与圣像。[PAWN_pronoun] 在色彩与阴影中找到的真理，远比言语更深刻。</BA_Medieval_Adult_Basic_Painter.description>
+  <BA_Medieval_Adult_Basic_Painter.title>画师</BA_Medieval_Adult_Basic_Painter.title>
+  <BA_Medieval_Adult_Basic_Painter.titleShort>画师</BA_Medieval_Adult_Basic_Painter.titleShort>
+  
+  <!-- 陶工 -->
+  <BA_Medieval_Adult_Basic_Potter.description>[PAWN_nameDef] 将黏土塑造成杯子、陶罐与工艺品用以交易。[PAWN_possessive] 的双手总是沾满尘土，却能在简单的工艺中发现美。</BA_Medieval_Adult_Basic_Potter.description>
+  <BA_Medieval_Adult_Basic_Potter.title>陶工</BA_Medieval_Adult_Basic_Potter.title>
+  <BA_Medieval_Adult_Basic_Potter.titleShort>陶工</BA_Medieval_Adult_Basic_Potter.titleShort>
+  
+  <!-- 海岸水手 -->
+  <BA_Medieval_Adult_Basic_Sailor.description>[PAWN_nameDef] 在海岸沿线的商船或渔船上工作，既要对抗风暴，也要防备海盗。大海从不会宽恕错误。</BA_Medieval_Adult_Basic_Sailor.description>
+  <BA_Medieval_Adult_Basic_Sailor.title>海岸水手</BA_Medieval_Adult_Basic_Sailor.title>
+  <BA_Medieval_Adult_Basic_Sailor.titleShort>水手</BA_Medieval_Adult_Basic_Sailor.titleShort>
+  
+  <!-- 城镇抄写员 -->
+  <BA_Medieval_Adult_Basic_Scribe.description>[PAWN_nameDef] 在烛光下抄写账簿、祷文与法令。[PAWN_possessive] 的书法如同[PAWN_possessive] 的心智一般锐利。</BA_Medieval_Adult_Basic_Scribe.description>
+  <BA_Medieval_Adult_Basic_Scribe.title>城镇抄写员</BA_Medieval_Adult_Basic_Scribe.title>
+  <BA_Medieval_Adult_Basic_Scribe.titleShort>抄写员</BA_Medieval_Adult_Basic_Scribe.titleShort>
+  
+  <!-- 庄园仆人 -->
+  <BA_Medieval_Adult_Basic_Servant.description>[PAWN_nameDef] 在富人的宅邸中扫地、挑水，默默无名。奴役生活教会了[PAWN_nameDef] 谦逊，也教会了[PAWN_nameDef] 观察。</BA_Medieval_Adult_Basic_Servant.description>
+  <BA_Medieval_Adult_Basic_Servant.title>庄园仆人</BA_Medieval_Adult_Basic_Servant.title>
+  <BA_Medieval_Adult_Basic_Servant.titleShort>仆人</BA_Medieval_Adult_Basic_Servant.titleShort>
+  
+  <!-- 山地牧羊人 -->
+  <BA_Medieval_Adult_Basic_Shepherd.description>[PAWN_nameDef] 在孤寂的山坡上照料羊群，从风中学会了耐心，从沉默中领悟了智慧。狼与天气，是[PAWN_possessive] 最早的导师。</BA_Medieval_Adult_Basic_Shepherd.description>
+  <BA_Medieval_Adult_Basic_Shepherd.title>山地牧羊人</BA_Medieval_Adult_Basic_Shepherd.title>
+  <BA_Medieval_Adult_Basic_Shepherd.titleShort>牧羊人</BA_Medieval_Adult_Basic_Shepherd.titleShort>
+  
+  <!-- 石匠 -->
+  <BA_Medieval_Adult_Basic_StoneMason.description>[PAWN_nameDef] 在采石场与建筑工地工作，为城堡与城墙雕琢石材。[PAWN_possessive] 的工艺留下的印记，跨越了世代。</BA_Medieval_Adult_Basic_StoneMason.description>
+  <BA_Medieval_Adult_Basic_StoneMason.title>石匠</BA_Medieval_Adult_Basic_StoneMason.title>
+  <BA_Medieval_Adult_Basic_StoneMason.titleShort>石匠</BA_Medieval_Adult_Basic_StoneMason.titleShort>
+  
+  <!-- 街头艺人 -->
+  <BA_Medieval_Adult_Basic_StreetPerformer.description>[PAWN_nameDef] 通过杂耍、跳舞或变戏法从路人那里赚取硬币。欢笑与掌声，便是[PAWN_possessive] 的日常口粮。</BA_Medieval_Adult_Basic_StreetPerformer.description>
+  <BA_Medieval_Adult_Basic_StreetPerformer.title>街头艺人</BA_Medieval_Adult_Basic_StreetPerformer.title>
+  <BA_Medieval_Adult_Basic_StreetPerformer.titleShort>艺人</BA_Medieval_Adult_Basic_StreetPerformer.titleShort>
+  
+  <!-- 裁缝 -->
+  <BA_Medieval_Adult_Basic_Tailor.description>[PAWN_nameDef] 为平民与贵族缝制衣物。沉稳的双手与敏锐的细节洞察力，让[PAWN_objective] 变得不可或缺。</BA_Medieval_Adult_Basic_Tailor.description>
+  <BA_Medieval_Adult_Basic_Tailor.title>裁缝</BA_Medieval_Adult_Basic_Tailor.title>
+  <BA_Medieval_Adult_Basic_Tailor.titleShort>裁缝</BA_Medieval_Adult_Basic_Tailor.titleShort>
+  
+  <!-- 鞣皮匠 -->
+  <BA_Medieval_Adult_Basic_Tanner.description>[PAWN_nameDef] 在河边气味刺鼻的作坊中加工兽皮。尽管因气味被人回避，[PAWN_pronoun] 仍因[PAWN_possessive] 的技艺受到敬重。</BA_Medieval_Adult_Basic_Tanner.description>
+  <BA_Medieval_Adult_Basic_Tanner.title>鞣皮匠</BA_Medieval_Adult_Basic_Tanner.title>
+  <BA_Medieval_Adult_Basic_Tanner.titleShort>鞣皮匠</BA_Medieval_Adult_Basic_Tanner.titleShort>
+  
+  <!-- 酒馆伙计 -->
+  <BA_Medieval_Adult_Basic_TavernWorker.description>[PAWN_nameDef] 数年来倒麦酒、端炖菜，还要平息醉汉间的纷争。[PAWN_pronoun] 学会了言语的杀伤力，有时比刀剑更甚。</BA_Medieval_Adult_Basic_TavernWorker.description>
+  <BA_Medieval_Adult_Basic_TavernWorker.title>酒馆伙计</BA_Medieval_Adult_Basic_TavernWorker.title>
+  <BA_Medieval_Adult_Basic_TavernWorker.titleShort>酒馆伙计</BA_Medieval_Adult_Basic_TavernWorker.titleShort>
+  
+  <!-- 扒手 -->
+  <BA_Medieval_Adult_Basic_Thief.description>[PAWN_nameDef] 靠手法与悄无声息的脚步谋生。城市的小巷，便是[PAWN_possessive] 的狩猎场。</BA_Medieval_Adult_Basic_Thief.description>
+  <BA_Medieval_Adult_Basic_Thief.title>扒手</BA_Medieval_Adult_Basic_Thief.title>
+  <BA_Medieval_Adult_Basic_Thief.titleShort>小偷</BA_Medieval_Adult_Basic_Thief.titleShort>
+  
+  <!-- 流浪者 -->
+  <BA_Medieval_Adult_Basic_Wanderer.description>[PAWN_nameDef] 从不在一个地方久留，往返于村庄与废墟之间。[PAWN_pronoun] 学会了依靠直觉与魅力生存。</BA_Medieval_Adult_Basic_Wanderer.description>
+  <BA_Medieval_Adult_Basic_Wanderer.title>流浪者</BA_Medieval_Adult_Basic_Wanderer.title>
+  <BA_Medieval_Adult_Basic_Wanderer.titleShort>流浪者</BA_Medieval_Adult_Basic_Wanderer.titleShort>
+  
+  <!-- 木材采集者 -->
+  <BA_Medieval_Adult_Basic_Wood_Gatherer.description>[PAWN_nameDef] 在广袤的中世纪森林中砍伐木材，将沉重的木料运回村庄。这份工作锻炼了[PAWN_nameDef] 的肌肉与耐力。</BA_Medieval_Adult_Basic_Wood_Gatherer.description>
+  <BA_Medieval_Adult_Basic_Wood_Gatherer.title>木材采集者</BA_Medieval_Adult_Basic_Wood_Gatherer.title>
+  <BA_Medieval_Adult_Basic_Wood_Gatherer.titleShort>采集者</BA_Medieval_Adult_Basic_Wood_Gatherer.titleShort>
+  
+  <!-- 森林伐木工 -->
+  <BA_Medieval_Adult_Basic_Woodcutter.description>[PAWN_nameDef] 以砍伐森林中的参天大树为生。孤独与劳作，既磨砺了肌肉，也坚定了心智。</BA_Medieval_Adult_Basic_Woodcutter.description>
+  <BA_Medieval_Adult_Basic_Woodcutter.title>森林伐木工</BA_Medieval_Adult_Basic_Woodcutter.title>
+  <BA_Medieval_Adult_Basic_Woodcutter.titleShort>伐木工</BA_Medieval_Adult_Basic_Woodcutter.titleShort>
+  
+  <!-- 乡村炼金师 -->
+  <BA_Medieval_Adult_Educated_Alchemist.description>[PAWN_nameDef] 用草药、金属与烟雾进行实验，探寻治愈之法与转化的奥秘。并非每一次实验都能成功。</BA_Medieval_Adult_Educated_Alchemist.description>
+  <BA_Medieval_Adult_Educated_Alchemist.title>乡村炼金师</BA_Medieval_Adult_Educated_Alchemist.title>
+  <BA_Medieval_Adult_Educated_Alchemist.titleShort>炼金师</BA_Medieval_Adult_Educated_Alchemist.titleShort>
+  
+  <!-- 大教堂建筑师 -->
+  <BA_Medieval_Adult_Educated_Architect.description>[PAWN_nameDef] 负责大教堂的建造工程，将几何学与信仰融入石工技艺之中。</BA_Medieval_Adult_Educated_Architect.description>
+  <BA_Medieval_Adult_Educated_Architect.title>大教堂建筑师</BA_Medieval_Adult_Educated_Architect.title>
+  <BA_Medieval_Adult_Educated_Architect.titleShort>建筑师</BA_Medieval_Adult_Educated_Architect.titleShort>
+  
+  <!-- 宫廷占星师 -->
+  <BA_Medieval_Adult_Educated_Astrologer.description>[PAWN_nameDef] 仰望星空寻找预兆，从星辰的排列中解读国王的命运。虽少有人信服[PAWN_objective]，但信众总会给予丰厚的报酬。</BA_Medieval_Adult_Educated_Astrologer.description>
+  <BA_Medieval_Adult_Educated_Astrologer.title>宫廷占星师</BA_Medieval_Adult_Educated_Astrologer.title>
+  <BA_Medieval_Adult_Educated_Astrologer.titleShort>占星师</BA_Medieval_Adult_Educated_Astrologer.titleShort>
+  
+  <!-- 本笃会抄写员 -->
+  <BA_Medieval_Adult_Educated_Monk_Scribe.description>[PAWN_nameDef] 在寂静的修道院中抄写经文、绘制装饰手稿。</BA_Medieval_Adult_Educated_Monk_Scribe.description>
+  <BA_Medieval_Adult_Educated_Monk_Scribe.title>本笃会抄写员</BA_Medieval_Adult_Educated_Monk_Scribe.title>
+  <BA_Medieval_Adult_Educated_Monk_Scribe.titleShort>抄写员</BA_Medieval_Adult_Educated_Monk_Scribe.titleShort>
+  
+  <!-- 游方学者 -->
+  <BA_Medieval_Adult_Educated_Scholar.description>[PAWN_nameDef] 将一生奉献给求知之路，游走于修道院与图书馆之间，追寻失落的知识。</BA_Medieval_Adult_Educated_Scholar.description>
+  <BA_Medieval_Adult_Educated_Scholar.title>游方学者</BA_Medieval_Adult_Educated_Scholar.title>
+  <BA_Medieval_Adult_Educated_Scholar.titleShort>学者</BA_Medieval_Adult_Educated_Scholar.titleShort>
+  
+  <!-- 修道院神学家 -->
+  <BA_Medieval_Adult_Educated_Theologian.description>[PAWN_nameDef] 在石砌的殿堂中隐居多年，探讨神圣的奥秘，撰写鲜有人读的布道词。信仰磨砺了[PAWN_possessive] 的心智，却未必涵养了[PAWN_possessive] 的脾气。</BA_Medieval_Adult_Educated_Theologian.description>
+  <BA_Medieval_Adult_Educated_Theologian.title>修道院神学家</BA_Medieval_Adult_Educated_Theologian.title>
+  <BA_Medieval_Adult_Educated_Theologian.titleShort>神学家</BA_Medieval_Adult_Educated_Theologian.titleShort>
+  
+  <!-- 执政行会会长 -->
+  <BA_Medieval_Adult_Governing_Guildmaster.description>[PAWN_nameDef] 领导工匠行会，制定价格、规范标准、守护行业机密。</BA_Medieval_Adult_Governing_Guildmaster.description>
+  <BA_Medieval_Adult_Governing_Guildmaster.title>行会会长</BA_Medieval_Adult_Governing_Guildmaster.title>
+  <BA_Medieval_Adult_Governing_Guildmaster.titleShort>行会会长</BA_Medieval_Adult_Governing_Guildmaster.titleShort>
+  
+  <!-- 地方行政官 -->
+  <BA_Medieval_Adult_Governing_Magistrate.description>[PAWN_nameDef] 作为国王的代表，在偏远地区担任法官。[PAWN_pronoun] 领悟到，正义如同双刃剑，既能惩恶，亦能伤善。</BA_Medieval_Adult_Governing_Magistrate.description>
+  <BA_Medieval_Adult_Governing_Magistrate.title>地方行政官</BA_Medieval_Adult_Governing_Magistrate.title>
+  <BA_Medieval_Adult_Governing_Magistrate.titleShort>行政官</BA_Medieval_Adult_Governing_Magistrate.titleShort>
+  
+  <!-- 王室司法官 -->
+  <BA_Medieval_Adult_Governing_Palatine.description>[PAWN_nameDef] 主持法律纠纷与王室法庭，言辞如剑般犀利。</BA_Medieval_Adult_Governing_Palatine.description>
+  <BA_Medieval_Adult_Governing_Palatine.title>王室司法官</BA_Medieval_Adult_Governing_Palatine.title>
+  <BA_Medieval_Adult_Governing_Palatine.titleShort>司法官</BA_Medieval_Adult_Governing_Palatine.titleShort>
+  
+  <!-- 管家 -->
+  <BA_Medieval_Adult_Governing_Seneschal.description>[PAWN_nameDef] 在领主外出时代为管理领地，维持仆人与士兵之间的秩序。指挥对[PAWN_nameDef] 而言驾轻就熟，但孤独也随之而来。</BA_Medieval_Adult_Governing_Seneschal.description>
+  <BA_Medieval_Adult_Governing_Seneschal.title>管家</BA_Medieval_Adult_Governing_Seneschal.title>
+  <BA_Medieval_Adult_Governing_Seneschal.titleShort>管家</BA_Medieval_Adult_Governing_Seneschal.titleShort>
+  
+  <!-- 庄园管家 -->
+  <BA_Medieval_Adult_Governing_Steward.description>[PAWN_nameDef] 管理贵族的领地，统计谷物、税收，还要应对农民的不满。[PAWN_pronoun] 学会了在正义与生存之间寻找平衡。</BA_Medieval_Adult_Governing_Steward.description>
+  <BA_Medieval_Adult_Governing_Steward.title>庄园管家</BA_Medieval_Adult_Governing_Steward.title>
+  <BA_Medieval_Adult_Governing_Steward.titleShort>管家</BA_Medieval_Adult_Governing_Steward.titleShort>
+  
+  <!-- 收税官 -->
+  <BA_Medieval_Adult_Governing_TaxCollector.description>[PAWN_nameDef] 负责向心存戒备的平民征收什一税与赋税。黄金虽重，怨恨却更甚。</BA_Medieval_Adult_Governing_TaxCollector.description>
+  <BA_Medieval_Adult_Governing_TaxCollector.title>收税官</BA_Medieval_Adult_Governing_TaxCollector.title>
+  <BA_Medieval_Adult_Governing_TaxCollector.titleShort>收税官</BA_Medieval_Adult_Governing_TaxCollector.titleShort>
+  
+  <!-- 长弓弓箭手 -->
+  <BA_Medieval_Adult_Military_Archer.description>[PAWN_nameDef] 成年后以雇佣射手为业。[PAWN_pronoun] 熟悉箭矢的呼啸声，也深谙远距离作战的耐心之道。</BA_Medieval_Adult_Military_Archer.description>
+  <BA_Medieval_Adult_Military_Archer.title>长弓弓箭手</BA_Medieval_Adult_Military_Archer.title>
+  <BA_Medieval_Adult_Military_Archer.titleShort>弓箭手</BA_Medieval_Adult_Military_Archer.titleShort>
+  
+  <!-- 老兵步兵 -->
+  <BA_Medieval_Adult_Military_Footsoldier.description>[PAWN_nameDef] 在远方领主的旗帜下服役多年，在泥泞的战场与冰冷的城墙下作战。战争夺走了[PAWN_possessive] 的青春，却留下了纪律与伤疤。</BA_Medieval_Adult_Military_Footsoldier.description>
+  <BA_Medieval_Adult_Military_Footsoldier.title>老兵步兵</BA_Medieval_Adult_Military_Footsoldier.title>
+  <BA_Medieval_Adult_Military_Footsoldier.titleShort>步兵</BA_Medieval_Adult_Military_Footsoldier.titleShort>
+  
+  <!-- 游侠骑士 -->
+  <BA_Medieval_Adult_Military_KnightErrant.description>[PAWN_nameDef] 游走于王国各地，追寻荣誉、参与决斗、践行使命。[PAWN_pronoun] 背负的剑与骄傲，重量不相上下。</BA_Medieval_Adult_Military_KnightErrant.description>
+  <BA_Medieval_Adult_Military_KnightErrant.title>游侠骑士</BA_Medieval_Adult_Military_KnightErrant.title>
+  <BA_Medieval_Adult_Military_KnightErrant.titleShort>骑士</BA_Medieval_Adult_Military_KnightErrant.titleShort>
+  
+  <!-- 雇佣雇佣兵 -->
+  <BA_Medieval_Adult_Military_Mercenary.description>[PAWN_nameDef] 为金钱而非信仰而战。[PAWN_pronoun] 明白忠诚可以买卖，但复仇从不廉价。</BA_Medieval_Adult_Military_Mercenary.description>
+  <BA_Medieval_Adult_Military_Mercenary.title>雇佣雇佣兵</BA_Medieval_Adult_Military_Mercenary.title>
+  <BA_Medieval_Adult_Military_Mercenary.titleShort>雇佣兵</BA_Medieval_Adult_Military_Mercenary.titleShort>
+  
+  <!-- 战场中士 -->
+  <BA_Medieval_Adult_Military_Sergeant.description>[PAWN_nameDef] 率领士兵冲入战场，在硝烟与鲜血中发号施令。领导力塑造了[PAWN_possessive] 的声威，却也耗尽了[PAWN_possessive] 的心力。</BA_Medieval_Adult_Military_Sergeant.description>
+  <BA_Medieval_Adult_Military_Sergeant.title>战场中士</BA_Medieval_Adult_Military_Sergeant.title>
+  <BA_Medieval_Adult_Military_Sergeant.titleShort>中士</BA_Medieval_Adult_Military_Sergeant.titleShort>
+  
+  <!-- 旗手 -->
+  <BA_Medieval_Adult_Military_StandardBearer.description>[PAWN_nameDef] 在钢铁风暴中高举旗帜。勇气是[PAWN_possessive] 的铠甲，荣誉是[PAWN_possessive] 的盾牌。</BA_Medieval_Adult_Military_StandardBearer.description>
+  <BA_Medieval_Adult_Military_StandardBearer.title>旗手</BA_Medieval_Adult_Military_StandardBearer.title>
+  <BA_Medieval_Adult_Military_StandardBearer.titleShort>旗手</BA_Medieval_Adult_Military_StandardBearer.titleShort>
+  
+  <!-- 旗帜继承人 -->
+  <BA_Medieval_Adult_Nobility_BannerHeir.description>[PAWN_nameDef] 自幼接受训练，准备继承家族的旗帜。礼仪、指挥与镇定，如同刀剑一般，被深深镌刻进[PAWN_possessive] 的骨血之中。</BA_Medieval_Adult_Nobility_BannerHeir.description>
+  <BA_Medieval_Adult_Nobility_BannerHeir.title>旗帜继承人</BA_Medieval_Adult_Nobility_BannerHeir.title>
+  <BA_Medieval_Adult_Nobility_BannerHeir.titleShort>继承人</BA_Medieval_Adult_Nobility_BannerHeir.titleShort>
+  
+  <!-- 城堡总管 -->
+  <BA_Medieval_Adult_Nobility_Castellan.description>[PAWN_nameDef] 以领主的名义掌管城堡。城墙与士兵都听从[PAWN_objective] 的号令，但孤独却将耐心雕琢成石。</BA_Medieval_Adult_Nobility_Castellan.description>
+  <BA_Medieval_Adult_Nobility_Castellan.title>城堡总管</BA_Medieval_Adult_Nobility_Castellan.title>
+  <BA_Medieval_Adult_Nobility_Castellan.titleShort>总管</BA_Medieval_Adult_Nobility_Castellan.titleShort>
+  
+  <!-- 宫廷骑士 -->
+  <BA_Medieval_Adult_Nobility_CourtKnight.description>[PAWN_nameDef] 凭借忠诚与血统拥有土地和头衔。在宫廷之中，[PAWN_pronoun] 既是战士，也是装点门面的饰品，如同藏在丝绸中的利刃。</BA_Medieval_Adult_Nobility_CourtKnight.description>
+  <BA_Medieval_Adult_Nobility_CourtKnight.title>宫廷骑士</BA_Medieval_Adult_Nobility_CourtKnight.title>
+  <BA_Medieval_Adult_Nobility_CourtKnight.titleShort>骑士</BA_Medieval_Adult_Nobility_CourtKnight.titleShort>
+  
+  <!-- 王室外交官 -->
+  <BA_Medieval_Adult_Nobility_Diplomat.description>[PAWN_nameDef] 在王国之间扮演和平使者——或阴谋家的角色。言语是[PAWN_possessive] 的武器，沉默是[PAWN_possessive] 的盾牌。</BA_Medieval_Adult_Nobility_Diplomat.description>
+  <BA_Medieval_Adult_Nobility_Diplomat.title>王室外交官</BA_Medieval_Adult_Nobility_Diplomat.title>
+  <BA_Medieval_Adult_Nobility_Diplomat.titleShort>外交官</BA_Medieval_Adult_Nobility_Diplomat.titleShort>
+  
+  <!-- 女公爵 -->
+  <BA_Medieval_Adult_Nobility_Duchess.description>[PAWN_nameDef] 凭借智慧与优雅统治着土地与封臣。权力的重量在[PAWN_possessive] 的肩上看似轻盈——但这仅存在于公众视野之中。</BA_Medieval_Adult_Nobility_Duchess.description>
+  <BA_Medieval_Adult_Nobility_Duchess.title>女公爵</BA_Medieval_Adult_Nobility_Duchess.title>
+  <BA_Medieval_Adult_Nobility_Duchess.titleShort>女公爵</BA_Medieval_Adult_Nobility_Duchess.titleShort>
+  
+  <!-- 大总理大臣 -->
+  <BA_Medieval_Adult_Nobility_Grand_Chancellor.description>[PAWN_nameDef] 作为国王的代表在外国宫廷发言，以外交手腕与智慧赢得尊重。</BA_Medieval_Adult_Nobility_Grand_Chancellor.description>
+  <BA_Medieval_Adult_Nobility_Grand_Chancellor.title>大总理大臣</BA_Medieval_Adult_Nobility_Grand_Chancellor.title>
+  <BA_Medieval_Adult_Nobility_Grand_Chancellor.titleShort>总理大臣</BA_Medieval_Adult_Nobility_Grand_Chancellor.titleShort>
+  
+  <!-- 侍女 -->
+  <BA_Medieval_Adult_Nobility_LadyInWaiting.description>[PAWN_nameDef] 在贵族宫廷中服役，打理琐事、服饰与宫廷政治。[PAWN_pronoun] 精通魅力之道，也深谙隐晦的争斗之术。</BA_Medieval_Adult_Nobility_LadyInWaiting.description>
+  <BA_Medieval_Adult_Nobility_LadyInWaiting.title>侍女</BA_Medieval_Adult_Nobility_LadyInWaiting.title>
+  <BA_Medieval_Adult_Nobility_LadyInWaiting.titleShort>侍女</BA_Medieval_Adult_Nobility_LadyInWaiting.titleShort>
+  
+  <!-- 小领主 -->
+  <BA_Medieval_Adult_Nobility_Lordling.description>[PAWN_nameDef] 继承了一处中等庄园与少量忠诚的随从。在丝绸与刀剑的环绕中成长，让[PAWN_objective] 自带威严与疏离感。</BA_Medieval_Adult_Nobility_Lordling.description>
+  <BA_Medieval_Adult_Nobility_Lordling.title>小领主</BA_Medieval_Adult_Nobility_Lordling.title>
+  <BA_Medieval_Adult_Nobility_Lordling.titleShort>小领主</BA_Medieval_Adult_Nobility_Lordling.titleShort>
+  
+  <!-- 御马总管 -->
+  <BA_Medieval_Adult_Nobility_MasterOfHorse.description>[PAWN_nameDef] 掌管贵族宅邸的马厩，负责培育适合作战或游行的马匹。无论是与牲畜的羁绊，还是对仆人的管理，都鲜有人能与[PAWN_possessive] 匹敌。</BA_Medieval_Adult_Nobility_MasterOfHorse.description>
+  <BA_Medieval_Adult_Nobility_MasterOfHorse.title>御马总管</BA_Medieval_Adult_Nobility_MasterOfHorse.title>
+  <BA_Medieval_Adult_Nobility_MasterOfHorse.titleShort>马总管</BA_Medieval_Adult_Nobility_MasterOfHorse.titleShort>
+  
+  <!-- 贵族指挥官 -->
+  <BA_Medieval_Adult_Nobility_NobleCommander.description>[PAWN_nameDef] 在家族旗帜下率领士兵征战。指挥权既是特权，也是意志的考验——失败意味着家族蒙羞。</BA_Medieval_Adult_Nobility_NobleCommander.description>
+  <BA_Medieval_Adult_Nobility_NobleCommander.title>贵族指挥官</BA_Medieval_Adult_Nobility_NobleCommander.title>
+  <BA_Medieval_Adult_Nobility_NobleCommander.titleShort>指挥官</BA_Medieval_Adult_Nobility_NobleCommander.titleShort>
+  
+  <!-- 艺术赞助人 -->
+  <BA_Medieval_Adult_Nobility_PatronOfArts.description>[PAWN_nameDef] 资助艺术家、音乐家与建筑师，用财富与品味塑造文化。有人私下议论，[PAWN_pronoun] 对美的渴求胜过信仰与权力。</BA_Medieval_Adult_Nobility_PatronOfArts.description>
+  <BA_Medieval_Adult_Nobility_PatronOfArts.title>艺术赞助人</BA_Medieval_Adult_Nobility_PatronOfArts.title>
+  <BA_Medieval_Adult_Nobility_PatronOfArts.titleShort>赞助人</BA_Medieval_Adult_Nobility_PatronOfArts.titleShort>
+  
+  <!-- 宫廷情报主管 -->
+  <BA_Medieval_Adult_Nobility_Spymaster.description>[PAWN_nameDef] 在宫廷与乡村编织起一张情报网络。没有任何流言能逃过[PAWN_possessive] 的耳朵，也没有任何背叛能躲过[PAWN_nameDef] 的报复。</BA_Medieval_Adult_Nobility_Spymaster.description>
+  <BA_Medieval_Adult_Nobility_Spymaster.title>宫廷情报主管</BA_Medieval_Adult_Nobility_Spymaster.title>
+  <BA_Medieval_Adult_Nobility_Spymaster.titleShort>情报主管</BA_Medieval_Adult_Nobility_Spymaster.titleShort>
+  
+  <!-- 内侍总管 -->
+  <BA_Medieval_Adult_Palace_Chamberlain.description>[PAWN_nameDef] 掌管领主宅邸的内廷事务，在谨慎、忠诚与威慑之间寻求平衡。[PAWN_pronoun] 知晓每扇门后的秘密低语。</BA_Medieval_Adult_Palace_Chamberlain.description>
+  <BA_Medieval_Adult_Palace_Chamberlain.title>内侍总管</BA_Medieval_Adult_Palace_Chamberlain.title>
+  <BA_Medieval_Adult_Palace_Chamberlain.titleShort>内侍总管</BA_Medieval_Adult_Palace_Chamberlain.titleShort>
+  
+  <!-- 宫廷侍臣 -->
+  <BA_Medieval_Adult_Palace_Courtier.description>[PAWN_nameDef] 凭借谨慎的言辞与狡黠的笑容，在危机四伏的贵族殿堂中周旋。[PAWN_pronoun] 深知失言的代价。</BA_Medieval_Adult_Palace_Courtier.description>
+  <BA_Medieval_Adult_Palace_Courtier.title>宫廷侍臣</BA_Medieval_Adult_Palace_Courtier.title>
+  <BA_Medieval_Adult_Palace_Courtier.titleShort>侍臣</BA_Medieval_Adult_Palace_Courtier.titleShort>
+  
+  <!-- 王室抄写员 -->
+  <BA_Medieval_Adult_Palace_Scribe.description>[PAWN_nameDef] 在烛光下整日记录法令、账簿与秘密。墨水成了[PAWN_possessive] 的血液，羊皮纸成了[PAWN_possessive] 的肌肤。</BA_Medieval_Adult_Palace_Scribe.description>
+  <BA_Medieval_Adult_Palace_Scribe.title>王室抄写员</BA_Medieval_Adult_Palace_Scribe.title>
+  <BA_Medieval_Adult_Palace_Scribe.titleShort>抄写员</BA_Medieval_Adult_Palace_Scribe.titleShort>
+  
+  <!-- 宫廷仆人 -->
+  <BA_Medieval_Adult_Palace_Servant.description>[PAWN_nameDef] 多年来擦拭大理石、传递帘幕后的秘密低语。沉默成了[PAWN_possessive] 的最强技能。</BA_Medieval_Adult_Palace_Servant.description>
+  <BA_Medieval_Adult_Palace_Servant.title>宫廷仆人</BA_Medieval_Adult_Palace_Servant.title>
+  <BA_Medieval_Adult_Palace_Servant.titleShort>仆人</BA_Medieval_Adult_Palace_Servant.titleShort>
+  
+  <!-- 皇帝 -->
+  <BA_Medieval_Adult_Ruler_Emperor.description>[PAWN_nameDef] 曾统治一个广袤的王国，在王冠、战争与背叛之间寻求平衡。很少有人在面对[PAWN_objective] 时，感受不到那份统治的威严。</BA_Medieval_Adult_Ruler_Emperor.description>
+  <BA_Medieval_Adult_Ruler_Emperor.title>皇帝</BA_Medieval_Adult_Ruler_Emperor.title>
+  <BA_Medieval_Adult_Ruler_Emperor.titleShort>皇帝</BA_Medieval_Adult_Ruler_Emperor.titleShort>
+  
+  <!-- 王国和平缔造者 -->
+  <BA_Medieval_Adult_Ruler_Kingdom_Peacemaker.description>[PAWN_nameDef] 在交战的公国之间促成和平，宁愿妥协也不愿流血。有人视之为软弱，也有人视之为神圣的仁慈。</BA_Medieval_Adult_Ruler_Kingdom_Peacemaker.description>
+  <BA_Medieval_Adult_Ruler_Kingdom_Peacemaker.title>王国和平缔造者</BA_Medieval_Adult_Ruler_Kingdom_Peacemaker.title>
+  <BA_Medieval_Adult_Ruler_Kingdom_Peacemaker.titleShort>和平缔造者</BA_Medieval_Adult_Ruler_Kingdom_Peacemaker.titleShort>
+  
+  <!-- 王室改革者 -->
+  <BA_Medieval_Adult_Ruler_Kingdom_Reformer.description>[PAWN_nameDef] 试图重塑封建制度，遏制贵族的过度特权，强化王室权力。并非所有人都对[PAWN_objective] 心怀感激。</BA_Medieval_Adult_Ruler_Kingdom_Reformer.description>
+  <BA_Medieval_Adult_Ruler_Kingdom_Reformer.title>王室改革者</BA_Medieval_Adult_Ruler_Kingdom_Reformer.title>
+  <BA_Medieval_Adult_Ruler_Kingdom_Reformer.titleShort>改革者</BA_Medieval_Adult_Ruler_Kingdom_Reformer.titleShort>
+  
+  <!-- 王室继承人 -->
+  <BA_Medieval_Adult_Ruler_KingdomHeir.description>[PAWN_nameDef] 是王位的法定继承人，自幼学习外交、战争与传承的重担。[PAWN_possessive] 的决定既能带来和平，也可能引发叛乱。</BA_Medieval_Adult_Ruler_KingdomHeir.description>
+  <BA_Medieval_Adult_Ruler_KingdomHeir.title>王室继承人</BA_Medieval_Adult_Ruler_KingdomHeir.title>
+  <BA_Medieval_Adult_Ruler_KingdomHeir.titleShort>继承人</BA_Medieval_Adult_Ruler_KingdomHeir.titleShort>
+  
+  <!-- 摄政王 -->
+  <BA_Medieval_Adult_Ruler_Regent.description>[PAWN_nameDef] 代行统治之权——有人私下抱怨任期过长。指挥权对[PAWN_nameDef] 而言易如反掌，但王座的诱惑却让[PAWN_nameDef] 备受煎熬。</BA_Medieval_Adult_Ruler_Regent.description>
+  <BA_Medieval_Adult_Ruler_Regent.title>摄政王</BA_Medieval_Adult_Ruler_Regent.title>
+  <BA_Medieval_Adult_Ruler_Regent.titleShort>摄政王</BA_Medieval_Adult_Ruler_Regent.titleShort>
+  
+  <!-- 军阀 -->
+  <BA_Medieval_Adult_Ruler_Warlord.description>[PAWN_nameDef] 以钢铁与意志统一民众，既靠恐惧统治，也靠荣耀凝聚人心。[PAWN_possessive] 的名字在许多人的口中，既是诅咒，也是祈祷。</BA_Medieval_Adult_Ruler_Warlord.description>
+  <BA_Medieval_Adult_Ruler_Warlord.title>军阀</BA_Medieval_Adult_Ruler_Warlord.title>
+  <BA_Medieval_Adult_Ruler_Warlord.titleShort>军阀</BA_Medieval_Adult_Ruler_Warlord.titleShort>
+  
+  <!-- 匪徒斥候 -->
+  <BA_Medieval_Adult_Traveller_Bandit_Scout.description>[PAWN_nameDef] 曾效力于一名匪徒首领，侦查商队以实施劫掠。这份营生风险极高——但利润丰厚。</BA_Medieval_Adult_Traveller_Bandit_Scout.description>
+  <BA_Medieval_Adult_Traveller_Bandit_Scout.title>匪徒斥候</BA_Medieval_Adult_Traveller_Bandit_Scout.title>
+  <BA_Medieval_Adult_Traveller_Bandit_Scout.titleShort>斥候</BA_Medieval_Adult_Traveller_Bandit_Scout.titleShort>
+  
+  <!-- 游吟诗人 -->
+  <BA_Medieval_Adult_Traveller_Bard.description>[PAWN_nameDef] 游走于宅邸与酒馆之间，靠吟唱故事与歌谣换取面包和硬币。[PAWN_pronoun] 学会了言语既能抚慰人心，也能伤人至深。</BA_Medieval_Adult_Traveller_Bard.description>
+  <BA_Medieval_Adult_Traveller_Bard.title>游吟诗人</BA_Medieval_Adult_Traveller_Bard.title>
+  <BA_Medieval_Adult_Traveller_Bard.titleShort>吟诗人</BA_Medieval_Adult_Traveller_Bard.titleShort>
+  
+  <!-- 游牧猎人 -->
+  <BA_Medieval_Adult_Traveller_Hunter.description>[PAWN_nameDef] 在荒野中游荡，追踪野兽并出售兽皮。森林的寂静成了[PAWN_possessive] 的唯一朋友。</BA_Medieval_Adult_Traveller_Hunter.description>
+  <BA_Medieval_Adult_Traveller_Hunter.title>游牧猎人</BA_Medieval_Adult_Traveller_Hunter.title>
+  <BA_Medieval_Adult_Traveller_Hunter.titleShort>猎人</BA_Medieval_Adult_Traveller_Hunter.titleShort>
+  
+  <!-- 行商 -->
+  <BA_Medieval_Adult_Traveller_Merchant.description>[PAWN_nameDef] 穿越多国边境，学习异国的语言与习俗。[PAWN_pronoun] 明白信任是一种货币，而欺骗是一种武器。</BA_Medieval_Adult_Traveller_Merchant.description>
+  <BA_Medieval_Adult_Traveller_Merchant.title>行商</BA_Medieval_Adult_Traveller_Merchant.title>
+  <BA_Medieval_Adult_Traveller_Merchant.titleShort>商人</BA_Medieval_Adult_Traveller_Merchant.titleShort>
+  
+  <!-- 游方朝圣者 -->
+  <BA_Medieval_Adult_Traveller_Pilgrim.description>[PAWN_nameDef] 追随信仰与尘土，从一座圣地前往另一座圣地。在旅途中，[PAWN_pronoun] 学会了谦逊、坚韧，也学会了多种异乡语言。</BA_Medieval_Adult_Traveller_Pilgrim.description>
+  <BA_Medieval_Adult_Traveller_Pilgrim.title>游方朝圣者</BA_Medieval_Adult_Traveller_Pilgrim.title>
+  <BA_Medieval_Adult_Traveller_Pilgrim.titleShort>朝圣者</BA_Medieval_Adult_Traveller_Pilgrim.titleShort>
+  
+  <!-- 边境斥候 -->
+  <BA_Medieval_Adult_Traveller_Scout.description>[PAWN_nameDef] 在边境之间担任斥候，学会了辨识足迹、烟雾与沉默的信号。在荒野中，几乎没有东西能逃过[PAWN_objective] 的眼睛。</BA_Medieval_Adult_Traveller_Scout.description>
+  <BA_Medieval_Adult_Traveller_Scout.title>边境斥候</BA_Medieval_Adult_Traveller_Scout.title>
+  <BA_Medieval_Adult_Traveller_Scout.titleShort>斥候</BA_Medieval_Adult_Traveller_Scout.titleShort>
+  
+  <!-- 资深海员 -->
+  <BA_Medieval_Adult_Traveller_Seafarer.description>[PAWN_nameDef] 大半生都在木船上度过，对抗风暴与陌生的海岸。海水与距离，将[PAWN_possessive] 的内心磨砺成铁。</BA_Medieval_Adult_Traveller_Seafarer.description>
+  <BA_Medieval_Adult_Traveller_Seafarer.title>资深海员</BA_Medieval_Adult_Traveller_Seafarer.title>
+  <BA_Medieval_Adult_Traveller_Seafarer.titleShort>海员</BA_Medieval_Adult_Traveller_Seafarer.titleShort>
+  
+</LanguageData>

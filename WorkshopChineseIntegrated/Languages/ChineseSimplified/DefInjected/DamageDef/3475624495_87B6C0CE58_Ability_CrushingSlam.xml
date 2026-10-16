@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blunt -->
+  <DA_CrushingSlam.label>钝击</DA_CrushingSlam.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <DA_CrushingSlam.deathMessage>{0}被打死了。</DA_CrushingSlam.deathMessage>
+  
+</LanguageData>

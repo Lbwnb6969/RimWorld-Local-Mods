@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: war pick -->
+  <TA_WarPick.label>战镐</TA_WarPick.label>
+  <!-- EN: . -->
+  <TA_WarPick.description>专为破甲设计的重型武器，能穿透坚固的护甲。</TA_WarPick.description>
+  <!-- EN: shaft -->
+  <TA_WarPick.tools.shaft.label>镐柄</TA_WarPick.tools.shaft.label>
+  <!-- EN: head -->
+  <TA_WarPick.tools.head-0.label>镐头</TA_WarPick.tools.head-0.label>
+  <!-- EN: head -->
+  <TA_WarPick.tools.head-1.label>镐头</TA_WarPick.tools.head-1.label>
+  
+</LanguageData>

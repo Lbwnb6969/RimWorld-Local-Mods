@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was trained to fight in the lord’s army as an archer, spending countless hours practicing [PAWN_possessive] aim. [PAWN_pronoun] became an expert at firing arrows accurately and quickly, even under pressure. However, [PAWN_pronoun] lacked experience with close combat, often relying on others to protect [PAWN_objective]. -->
+  <VFEM_Archer22.description>[PAWN_nameDef]在领主的军队中作为弓箭手服役，[PAWN_pronoun]花费了无数时间锻炼自己的箭法。[PAWN_pronoun]成为了使用弓箭的大师，即便在紧张的战场上也能射得又快又准。但[PAWN_pronoun]并不擅长近身作战，常需要战友保护。</VFEM_Archer22.description>
+  <!-- EN: archer -->
+  <VFEM_Archer22.title>弓箭手</VFEM_Archer22.title>
+  <!-- EN: archer -->
+  <VFEM_Archer22.titleShort>弓箭手</VFEM_Archer22.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rose early each morning to knead dough and bake bread for the village. Over the years, [PAWN_pronoun] developed a knack for crafting perfect loaves and managing a hot oven. However, the repetitive nature of the work left [PAWN_pronoun] uninterested in other trades or studies. -->
+  <VFEM_Baker14.description>[PAWN_nameDef]每日早起为村庄揉面和烘焙面包。这些年来[PAWN_pronoun]掌握了制作完美面包和管理烤箱的技巧。然而这种重复性的工作使得[PAWN_pronoun]对其他生意或研究不感兴趣。</VFEM_Baker14.description>
+  <!-- EN: baker -->
+  <VFEM_Baker14.title>面包师</VFEM_Baker14.title>
+  <!-- EN: baker -->
+  <VFEM_Baker14.titleShort>面包师</VFEM_Baker14.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] roamed the countryside with a band of outlaws, ambushing travelers and raiding villages. [PAWN_pronoun] became skilled in both melee combat and intimidation but earned a reputation as a dangerous outlaw. Life on the run hardened [PAWN_pronoun] and left [PAWN_pronoun] distrusting of others. -->
+  <VFEM_Bandit48.description>[PAWN_nameDef]和一群强盗一起为祸乡里，伏击旅人劫掠村庄。[PAWN_pronoun]在恐吓与近战方面颇有心得，但被视作危险的法外狂徒。流浪生活使得[PAWN_pronoun]变得铁石心肠，不愿轻信他人。</VFEM_Bandit48.description>
+  <!-- EN: bandit -->
+  <VFEM_Bandit48.title>强盗</VFEM_Bandit48.title>
+  <!-- EN: bandit -->
+  <VFEM_Bandit48.titleShort>强盗</VFEM_Bandit48.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived by begging on the streets, relying on the charity of others for food and shelter. [PAWN_pronoun] became skilled at reading people’s moods and persuading them to give, but the harsh life left [PAWN_pronoun] weak and unskilled in manual labor. -->
+  <VFEM_Beggar31.description>[PAWN_nameDef]以乞讨为生，靠他人救济度日。[PAWN_pronoun]善于读取他人的情绪并说服他们施舍，但艰难的生活使得[PAWN_pronoun]虚弱且不善体力劳动。</VFEM_Beggar31.description>
+  <!-- EN: beggar -->
+  <VFEM_Beggar31.title>乞丐</VFEM_Beggar31.title>
+  <!-- EN: beggar -->
+  <VFEM_Beggar31.titleShort>乞丐</VFEM_Beggar31.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in the forge, shaping metal into tools, weapons, and armor. [PAWN_pronoun] earned the admiration of the village for [PAWN_possessive] skill and reliability. The constant heat and heavy labor left [PAWN_pronoun] strong and focused, though not particularly well-read. -->
+  <VFEM_Blacksmith37.description>[PAWN_nameDef]在锻造室里工作，将金属铸造为工具、武器和装甲。[PAWN_pronoun]因[PAWN_possessive]技艺和可靠而获取了村庄的赞赏。持续的高热与重体力劳作使得[PAWN_pronoun]强健有力，尽管不是非常识字。</VFEM_Blacksmith37.description>
+  <!-- EN: blacksmith -->
+  <VFEM_Blacksmith37.title>铁匠</VFEM_Blacksmith37.title>
+  <!-- EN: blacksmith -->
+  <VFEM_Blacksmith37.titleShort>铁匠</VFEM_Blacksmith37.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] shaped and fired clay bricks for construction projects in [PAWN_possessive] village. The intense labor strengthened [PAWN_possessive] body and gave [PAWN_pronoun] a keen understanding of construction techniques. Years of working near hot kilns left [PAWN_pronoun] with little stamina for long days of physical labor. -->
+  <VFEM_Brickmaker10.description>[PAWN_nameDef]在[PAWN_possessive]村庄里塑形并烧制陶砖。巨量的劳作让[PAWN_pronoun]强健有力，并对建造技巧了如指掌。长年在高热的窑炉旁工作使得[PAWN_pronoun]不善于长时间重体力工作。</VFEM_Brickmaker10.description>
+  <!-- EN: brickmaker -->
+  <VFEM_Brickmaker10.title>砖匠</VFEM_Brickmaker10.title>
+  <!-- EN: brickmaker -->
+  <VFEM_Brickmaker10.titleShort>砖匠</VFEM_Brickmaker10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served the lord and [PAWN_possessive] family directly, ensuring their needs were met with promptness and discretion. [PAWN_pronoun] became skilled in etiquette and managing a household staff. The role gave [PAWN_pronoun] a sharp eye for detail but little patience for physical labor. -->
+  <VFEM_Butler45.description>[PAWN_nameDef]为领主及其家庭效力，机敏地满足他们的需求。[PAWN_pronoun]变得精通礼节，善于处理家务。[PAWN_pronoun]有敏锐的注意力但对体力劳作不耐烦。</VFEM_Butler45.description>
+  <!-- EN: butler -->
+  <VFEM_Butler45.title>管家</VFEM_Butler45.title>
+  <!-- EN: butler -->
+  <VFEM_Butler45.titleShort>管家</VFEM_Butler45.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled with armies, maintaining the camp and preparing supplies. [PAWN_pronoun] became skilled in basic survival and cooking, ensuring the soldiers were fed and ready for battle. Despite living near combat, [PAWN_pronoun] rarely saw direct action and focused on support roles. -->
+  <VFEM_CampFollower28.description>[PAWN_nameDef]和军队一起行动，维持营地运作并准备补给。[PAWN_pronoun]精通基本生存技术和烹饪，确保士兵吃饱并准备好战斗。尽管离战斗很近，[PAWN_pronoun]很少直接参与，而更注重当好一个辅助角色。</VFEM_CampFollower28.description>
+  <!-- EN: camp follower -->
+  <VFEM_CampFollower28.title>随军人员</VFEM_CampFollower28.title>
+  <!-- EN: camp follower -->
+  <VFEM_CampFollower28.titleShort>随军人员</VFEM_CampFollower28.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent years crafting candles from tallow and wax, supplying light to the nearby village. The work required patience and precision, which [PAWN_pronoun] excelled at. However, the repetitive nature of the trade left [PAWN_pronoun] uninterested in more creative pursuits. -->
+  <VFEM_CandleMaker08.description>[PAWN_nameDef]数年来都在用蜡和动物油脂制作蜡烛，给附近的村庄提供光源。该工作需要耐心与精准，而这正是[PAWN_pronoun]所擅长的。然而这种重复性的工作使得[PAWN_pronoun]对其他创造性的工作不感兴趣。</VFEM_CandleMaker08.description>
+  <!-- EN: candle maker -->
+  <VFEM_CandleMaker08.title>制烛人</VFEM_CandleMaker08.title>
+  <!-- EN: candler -->
+  <VFEM_CandleMaker08.titleShort>制烛人</VFEM_CandleMaker08.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] crafted furniture, tools, and wooden structures for the village. [PAWN_pronoun] earned [PAWN_possessive] living through precision and skill, shaping timber into practical and beautiful creations. Though [PAWN_pronoun] excelled at [PAWN_possessive] trade, [PAWN_pronoun] had little time for intellectual pursuits. -->
+  <VFEM_Carpenter40.description>[PAWN_nameDef]为村庄制作家具、工具和木制建筑。[PAWN_pronoun]以精细和技巧为生，将木材转化为实用且美丽的造物。尽管[PAWN_pronoun]精通于该行业，却没有什么时间留给智力追求。</VFEM_Carpenter40.description>
+  <!-- EN: carpenter -->
+  <VFEM_Carpenter40.title>木匠</VFEM_Carpenter40.title>
+  <!-- EN: carpenter -->
+  <VFEM_Carpenter40.titleShort>木匠</VFEM_Carpenter40.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed the keep’s living quarters, overseeing servants and ensuring the lord’s chambers were well-kept. [PAWN_pronoun] became adept at organizing and managing resources but often found [PAWN_possessive]self caught in the politics of the household. The role demanded both precision and tact. -->
+  <VFEM_Chamberlain42.description>[PAWN_nameDef]掌管堡垒的居住区，监视仆人并确保领主的房间整洁。[PAWN_pronoun]善于组织和管理资源，但总是不经意间被搅入家族政务中。该职位对严谨与机敏都提出了要求。</VFEM_Chamberlain42.description>
+  <!-- EN: chamberlain -->
+  <VFEM_Chamberlain42.title>内侍</VFEM_Chamberlain42.title>
+  <!-- EN: chamberlain -->
+  <VFEM_Chamberlain42.titleShort>内侍</VFEM_Chamberlain42.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] crafted barrels and casks for the village, using simple tools to shape and assemble wooden staves. The work required precision and patience, skills that [PAWN_pronoun] mastered over years. Despite [PAWN_possessive] expertise, [PAWN_pronoun] rarely ventured beyond the workshop to socialize or pursue other interests. -->
+  <VFEM_Cooper15.description>[PAWN_nameDef]为村庄制桶，用简易工具塑形并安装桶板。这项工作需要精准与耐心，正是这些年来[PAWN_pronoun]精通的。[PAWN_pronoun]几乎不走出[PAWN_possessive]专业领域去探寻别的兴趣或者离开工作室去社交。</VFEM_Cooper15.description>
+  <!-- EN: cooper -->
+  <VFEM_Cooper15.title>制匠</VFEM_Cooper15.title>
+  <!-- EN: cooper -->
+  <VFEM_Cooper15.titleShort>制匠</VFEM_Cooper15.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] forged coins and documents, deceiving merchants and nobles alike. [PAWN_pronoun] became skilled at crafting convincing replicas, though [PAWN_pronoun] avoided physical labor whenever possible. The constant risk of exposure forced [PAWN_pronoun] to move frequently, never staying in one place for long. -->
+  <VFEM_Counterfeiter50.description>[PAWN_nameDef]伪造钱币和文件，欺骗商人和贵族。[PAWN_pronoun]精通于制作令人信服的复制品，尽管[PAWN_pronoun]尽可能地避免体力劳动。持续的暴露风险迫使[PAWN_pronoun]频繁搬家，从不在一个地方呆太久。</VFEM_Counterfeiter50.description>
+  <!-- EN: counterfeiter -->
+  <VFEM_Counterfeiter50.title>伪造者</VFEM_Counterfeiter50.title>
+  <!-- EN: counterfeiter -->
+  <VFEM_Counterfeiter50.titleShort>伪造者</VFEM_Counterfeiter50.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traded in stolen goods, turning ill-gotten items into coin while avoiding the attention of the authorities. [PAWN_pronoun] became skilled at bargaining and gauging the value of items but avoided direct involvement in theft. The constant deception made [PAWN_pronoun] adept at reading people’s motives. -->
+  <VFEM_Fence47.description>[PAWN_nameDef]交易赃物，把它们换成钱币的同时避开当局的注意。[PAWN_pronoun]变得善于讨价还价和估算物品的价值，但避免直接参与盗窃。不断的欺骗使[PAWN_pronoun]善于读懂人们的动机。</VFEM_Fence47.description>
+  <!-- EN: fence -->
+  <VFEM_Fence47.title>销赃犯</VFEM_Fence47.title>
+  <!-- EN: fence -->
+  <VFEM_Fence47.titleShort>销赃犯</VFEM_Fence47.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked as a laborer in the fields from a young age, planting crops and harvesting under the watchful eye of overseers. [PAWN_pronoun] grew strong from hauling sacks of grain and learned the basics of caring for plants. However, the grueling work left little time for other pursuits, and [PAWN_pronoun] never learned to read or write. -->
+  <VFEM_FieldHand02.description>[PAWN_nameDef]从小就在田地里当苦力，在监工的监视下种植庄稼和收割。在搬运谷物的过程中，[PAWN_pronoun]变得强壮起来，并学会了照料植物的基本知识。然而，这份艰苦的工作使[PAWN_pronoun]几乎没有时间做其他事情，而且从来没有学会读写。</VFEM_FieldHand02.description>
+  <!-- EN: field hand -->
+  <VFEM_FieldHand02.title>农工</VFEM_FieldHand02.title>
+  <!-- EN: field hand -->
+  <VFEM_FieldHand02.titleShort>农工</VFEM_FieldHand02.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] made a living catching fish from the rivers and lakes near [PAWN_possessive] village. [PAWN_pronoun] learned to craft simple nets and traps but spent most of [PAWN_possessive] time alone on the water. The repetitive work left [PAWN_pronoun] skilled but uninterested in other tasks. -->
+  <VFEM_Fisher04.description>[PAWN_nameDef]在村庄附近的河流和湖泊里捕鱼为生。[PAWN_pronoun]学会了制作简单的网和陷阱，但大部分时间都是独自在水上度过的。重复的工作使[PAWN_pronoun]熟练于此间事务，但对其他任务不感兴趣。</VFEM_Fisher04.description>
+  <!-- EN: fisher -->
+  <VFEM_Fisher04.title>渔夫</VFEM_Fisher04.title>
+  <!-- EN: fisher -->
+  <VFEM_Fisher04.titleShort>渔夫</VFEM_Fisher04.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a foot soldier in the local lord's army, marching into battle with sword and shield. The brutal skirmishes taught [PAWN_pronoun] the value of endurance and discipline. Years of combat left [PAWN_pronoun] skilled with melee weapons but untrained in ranged combat. -->
+  <VFEM_Footman21.description>[PAWN_nameDef]在当地领主的军队中担任步兵，带着剑盾参加战斗。残酷的小规模冲突教会了[PAWN_pronoun]忍耐和纪律的价值。多年的战斗经验使[PAWN_pronoun]能熟练使用近战武器，但[PAWN_pronoun]未受过远程战斗的训练。</VFEM_Footman21.description>
+  <!-- EN: footman -->
+  <VFEM_Footman21.title>步卒</VFEM_Footman21.title>
+  <!-- EN: footman -->
+  <VFEM_Footman21.titleShort>步卒</VFEM_Footman21.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] nights digging graves for the dead and maintaining the village cemetery. The work was somber and lonely, but it made [PAWN_pronoun] strong and capable of handling heavy tools. Constant exposure to death left [PAWN_pronoun] emotionally detached from others. -->
+  <VFEM_Gravedigger13.description>[PAWN_nameDef]的晚上在为死者挖坟墓和维护村里的墓地中度过。这份工作是阴郁而孤独的，但使[PAWN_pronoun]坚强起来并能够搬运沉重的工具。不断接触死亡使得[PAWN_pronoun]在情感上与他人疏远。</VFEM_Gravedigger13.description>
+  <!-- EN: gravedigger -->
+  <VFEM_Gravedigger13.title>掘墓人</VFEM_Gravedigger13.title>
+  <!-- EN: gravedigger -->
+  <VFEM_Gravedigger13.titleShort>掘墓人</VFEM_Gravedigger13.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended to the sick and wounded, applying [PAWN_possessive] knowledge of medicine and herbal remedies. [PAWN_pronoun] gained respect for [PAWN_possessive] ability to save lives, though [PAWN_pronoun] often had to face the harsh reality of those [PAWN_pronoun] couldn’t save. The villagers relied on [PAWN_objective] as their primary source of care. -->
+  <VFEM_Healer39.description>[PAWN_nameDef]照顾病人和伤员，运用医学和草药方面的知识。[PAWN_pronoun]因其拯救生命的能力而获得尊重，尽管[PAWN_pronoun]经常不得不面对那些[PAWN_pronoun]无法拯救的残酷现实。村民们依靠[PAWN_objective]作为他们主要的医疗来源。</VFEM_Healer39.description>
+  <!-- EN: healer -->
+  <VFEM_Healer39.title>治疗师</VFEM_Healer39.title>
+  <!-- EN: healer -->
+  <VFEM_Healer39.titleShort>治疗师</VFEM_Healer39.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived near the edge of the forest, gathering plants to craft medicines and salves for the village. [PAWN_pronoun] developed a keen understanding of nature and its uses but often kept to [PAWN_possessive]self to focus on [PAWN_possessive] craft. Villagers respected [PAWN_possessive] knowledge, seeking [PAWN_possessive] help in times of need. -->
+  <VFEM_Herbalist36.description>[PAWN_nameDef]住在森林的边缘，采集植物为村庄制作药物和药膏。[PAWN_pronoun]培养了对自然及其用途的敏锐理解，但经常沉迷于[PAWN_possessive]手艺。村民们尊重[PAWN_possessive]知识，在需要的时候寻求[PAWN_possessive]帮助。</VFEM_Herbalist36.description>
+  <!-- EN: herbalist -->
+  <VFEM_Herbalist36.title>草药师</VFEM_Herbalist36.title>
+  <!-- EN: herbalist -->
+  <VFEM_Herbalist36.titleShort>草药师</VFEM_Herbalist36.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked long hours in the keep's kitchens, preparing food for the nobles and their guests. [PAWN_pronoun] learned to cook large meals with limited resources, honing [PAWN_possessive] culinary skills. Though the work was exhausting, [PAWN_pronoun] found pride in [PAWN_possessive] ability to feed others. -->
+  <VFEM_KitchenServant41.description>[PAWN_nameDef]在城堡的厨房里长时间工作，为贵族和他们的客人准备食物。[PAWN_pronoun]学会了用有限的资源做大餐，磨练了烹饪技巧。虽然工作很累，但[PAWN_pronoun]为自己有能力填满别人肚子而感到自豪。</VFEM_KitchenServant41.description>
+  <!-- EN: kitchen servant -->
+  <VFEM_KitchenServant41.title>厨工</VFEM_KitchenServant41.title>
+  <!-- EN: kitchen hand -->
+  <VFEM_KitchenServant41.titleShort>厨工</VFEM_KitchenServant41.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a skilled mason, shaping stone into sturdy walls and magnificent buildings. [PAWN_pronoun] earned a good reputation for [PAWN_possessive] precision and creativity in construction. [PAWN_pronoun] rarely participated in farming or hunting, focusing solely on [PAWN_possessive] craft. -->
+  <VFEM_Mason38.description>[PAWN_nameDef]是一个熟练的石匠，把石头塑造成坚固的墙壁和宏伟的建筑。[PAWN_pronoun]因在建造方面的精确和创造性而赢得了良好的声誉。[PAWN_pronoun]很少参与农业或狩猎，只专注于[PAWN_possessive]手艺。</VFEM_Mason38.description>
+  <!-- EN: mason -->
+  <VFEM_Mason38.title>石匠</VFEM_Mason38.title>
+  <!-- EN: mason -->
+  <VFEM_Mason38.titleShort>石匠</VFEM_Mason38.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sold [PAWN_possessive] sword to the highest bidder, fighting in skirmishes across the land. Years of battle left [PAWN_pronoun] hardened and skilled in melee combat, but [PAWN_pronoun] never trusted anyone enough to form lasting bonds. [PAWN_pronoun] carried scars from both physical and emotional wounds. -->
+  <VFEM_Mercenary29.description>[PAWN_nameDef]为出价最高的人挥剑，四处进行小规模的战斗。多年的战斗使[PAWN_pronoun]在近战中变得老练和熟练，但[PAWN_pronoun]从不信任他人以建立持久的关系。[PAWN_possessive]身心都留下了伤疤。</VFEM_Mercenary29.description>
+  <!-- EN: mercenary -->
+  <VFEM_Mercenary29.title>佣兵</VFEM_Mercenary29.title>
+  <!-- EN: mercenary -->
+  <VFEM_Mercenary29.titleShort>佣兵</VFEM_Mercenary29.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] operated a village mill, grinding grain into flour for the community. The job required an understanding of machinery and a steady hand to keep the mill running smoothly. Years of dusty work left [PAWN_pronoun] prone to coughing fits and other ailments. -->
+  <VFEM_Miller12.description>[PAWN_nameDef]在村里经营磨坊，把谷物磨成面粉供社区使用。这项工作需要对机械有一定的了解，还要有一只稳定的手来保持磨机的平稳运行。多年尘土飞扬的工作使[PAWN_pronoun]容易咳嗽和患上其他疾病。</VFEM_Miller12.description>
+  <!-- EN: miller -->
+  <VFEM_Miller12.title>磨坊工</VFEM_Miller12.title>
+  <!-- EN: miller -->
+  <VFEM_Miller12.titleShort>磨坊工</VFEM_Miller12.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] dug clay from riverbanks for pottery and construction projects in the village. The exhausting labor left [PAWN_pronoun] with a strong back and thick arms but little interest in intellectual endeavors. [PAWN_pronoun] rarely interacted with others, spending most days knee-deep in mud. -->
+  <VFEM_MudDigger20.description>[PAWN_nameDef]从河岸上挖粘土，用于制作陶器和村里的建筑工程。累人的劳动使[PAWN_pronoun]的背很结实，胳膊很粗，但对脑力劳动却没有什么兴趣。[PAWN_pronoun]很少与他人互动，大部分时间都在及膝深的泥泞中度过。</VFEM_MudDigger20.description>
+  <!-- EN: mud digger -->
+  <VFEM_MudDigger20.title>挖泥工</VFEM_MudDigger20.title>
+  <!-- EN: mud digger -->
+  <VFEM_MudDigger20.titleShort>挖泥工</VFEM_MudDigger20.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived outside the law, surviving through theft and violence. [PAWN_pronoun] became skilled at fighting and evading capture, but [PAWN_pronoun] was shunned by society and relied on [PAWN_possessive] wits to stay alive. The life of an outlaw left [PAWN_pronoun] hardened and distrusting of others. -->
+  <VFEM_Outlaw33.description>[PAWN_nameDef]过着无法无天的生活，靠盗窃和暴力为生。[PAWN_pronoun]善于战斗和逃避追捕，但[PAWN_pronoun]被社会所回避，依靠[PAWN_possessive]智慧生存。不法之徒的生活使[PAWN_pronoun]变得冷酷无情，不信任别人。</VFEM_Outlaw33.description>
+  <!-- EN: outlaw -->
+  <VFEM_Outlaw33.title>法外狂徒</VFEM_Outlaw33.title>
+  <!-- EN: outlaw -->
+  <VFEM_Outlaw33.titleShort>法外狂徒</VFEM_Outlaw33.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived by slipping through crowded markets, deftly lifting coins and trinkets from unsuspecting villagers. [PAWN_pronoun] developed nimble fingers and a keen sense for spotting opportunities, but [PAWN_pronoun] always lived in fear of being caught. Years of petty theft left [PAWN_pronoun] mistrustful and secretive. -->
+  <VFEM_Pickpocket46.description>[PAWN_nameDef]在拥挤的市场里溜过，灵巧地从毫无戒心的村民那里偷取硬币和小饰品。[PAWN_pronoun]培育了灵巧的手指和敏锐的感觉，但[PAWN_pronoun]总是生活在被抓住的恐惧中。多年的小偷小摸使[PAWN_pronoun]变得不信任别人，遮遮掩掩。</VFEM_Pickpocket46.description>
+  <!-- EN: pickpocket -->
+  <VFEM_Pickpocket46.title>扒手</VFEM_Pickpocket46.title>
+  <!-- EN: pickpocket -->
+  <VFEM_Pickpocket46.titleShort>扒手</VFEM_Pickpocket46.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] stood in tightly packed lines, wielding a long pike to defend against charging cavalry. The work was grueling and required coordination with [PAWN_possessive] comrades to form an impenetrable wall of steel. While [PAWN_pronoun] excelled in formation combat, [PAWN_pronoun] struggled with tasks requiring individual creativity. -->
+  <VFEM_Pikeman26.description>[PAWN_nameDef]站在一排整齐的队伍中，持长枪抵御冲锋的骑兵。这项工作是艰苦的，需要与[PAWN_possessive]同志们协调形成一道坚不可摧的钢铁之墙。虽然[PAWN_pronoun]擅长编队作战，但[PAWN_pronoun]在需要个人创造力的任务中表现不佳。</VFEM_Pikeman26.description>
+  <!-- EN: pikeman -->
+  <VFEM_Pikeman26.title>长枪手</VFEM_Pikeman26.title>
+  <!-- EN: pikeman -->
+  <VFEM_Pikeman26.titleShort>长枪手</VFEM_Pikeman26.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] hunted illegally in the lord’s forests, risking [PAWN_possessive] life to feed [PAWN_possessive] family. [PAWN_pronoun] became skilled with a bow and learned to move silently through the woods, but [PAWN_pronoun] always lived in fear of being caught by the lord’s men. -->
+  <VFEM_Poacher32.description>[PAWN_nameDef]在领主的森林里非法狩猎，冒着生命危险来养活家人。[PAWN_pronoun]熟练地使用弓，学会了在树林里悄无声息地移动，但[PAWN_pronoun]总是生活在被领主手下抓住的恐惧中。</VFEM_Poacher32.description>
+  <!-- EN: poacher -->
+  <VFEM_Poacher32.title>偷猎者</VFEM_Poacher32.title>
+  <!-- EN: poacher -->
+  <VFEM_Poacher32.titleShort>偷猎者</VFEM_Poacher32.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] made a living ridding the village of vermin, setting traps and chasing down rats with [PAWN_possessive] bare hands. The work was dangerous and filthy, but it honed [PAWN_possessive] reflexes and taught [PAWN_pronoun] the ways of small creatures. Years in dark cellars left [PAWN_pronoun] socially awkward. -->
+  <VFEM_RatCatcher19.description>[PAWN_nameDef]以赤手空拳清除村里的害虫、设置陷阱和追捕老鼠为生。这项工作既危险又肮脏，但它磨练了[PAWN_possessive]反应能力，并教会了[PAWN_pronoun]小生物的生活方式。数年的地窖生活使[PAWN_pronoun]在社交上变得笨拙。</VFEM_RatCatcher19.description>
+  <!-- EN: rat catcher -->
+  <VFEM_RatCatcher19.title>捕鼠人</VFEM_RatCatcher19.title>
+  <!-- EN: rat catcher -->
+  <VFEM_RatCatcher19.titleShort>捕鼠人</VFEM_RatCatcher19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived by scavenging abandoned battlefields and ruined villages, gathering anything of value. [PAWN_pronoun] became adept at spotting useful items and avoiding danger, but the life left [PAWN_pronoun] with little sense of cleanliness or order. -->
+  <VFEM_Scavenger34.description>[PAWN_nameDef]在被遗弃的战场和被毁坏的村庄里搜寻，收集任何有价值的东西。[PAWN_pronoun]变得善于发现有用的物品和躲避危险，但这种生活使得[PAWN_pronoun]缺乏整洁意识或秩序感。</VFEM_Scavenger34.description>
+  <!-- EN: scavenger -->
+  <VFEM_Scavenger34.title>拾荒者</VFEM_Scavenger34.title>
+  <!-- EN: scavenger -->
+  <VFEM_Scavenger34.titleShort>拾荒者</VFEM_Scavenger34.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days washing dishes and scrubbing pots in the keep’s kitchens. The work was dirty and thankless, but it gave [PAWN_pronoun] a strong work ethic and the ability to endure long hours of labor. [PAWN_pronoun] rarely interacted with anyone outside the kitchen staff. -->
+  <VFEM_Scullion43.description>[PAWN_nameDef]每天都在城堡的厨房里洗碗刷锅。这份工作又脏又吃力不讨好，但给了[PAWN_pronoun]强烈的职业道德和忍受长时间劳动的能力。[PAWN_pronoun]很少和厨房员工以外的人交流。</VFEM_Scullion43.description>
+  <!-- EN: scullion -->
+  <VFEM_Scullion43.title>洗碗工</VFEM_Scullion43.title>
+  <!-- EN: scullion -->
+  <VFEM_Scullion43.titleShort>洗碗工</VFEM_Scullion43.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days tending sheep in the hills surrounding [PAWN_possessive] village. [PAWN_pronoun] became skilled at managing livestock and defending the flock from predators. The quiet life made [PAWN_pronoun] thoughtful but left [PAWN_pronoun] unprepared for more physically demanding work. -->
+  <VFEM_Shepherd06.description>[PAWN_nameDef]在[PAWN_possessive]村庄周围的山上放羊。[PAWN_pronoun]变得善于管理牲畜和保护羊群不受捕食者的侵害。平静的生活使[PAWN_pronoun]深思熟虑，但也使[PAWN_pronoun]对体力要求更高的工作毫无准备。</VFEM_Shepherd06.description>
+  <!-- EN: shepherd -->
+  <VFEM_Shepherd06.title>牧羊人</VFEM_Shepherd06.title>
+  <!-- EN: shepherd -->
+  <VFEM_Shepherd06.titleShort>牧羊人</VFEM_Shepherd06.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was tasked with carrying a large shield into battle, protecting [PAWN_possessive] comrades from incoming projectiles. The position required endurance and discipline, as [PAWN_pronoun] stood firm even under heavy fire. The role left [PAWN_pronoun] with little opportunity to practice ranged combat. -->
+  <VFEM_Shieldbearer27.description>[PAWN_nameDef]的任务是携带一个大盾牌进入战斗，保护[PAWN_possessive]战友不受来袭投射物的伤害。这个位置需要耐力和纪律，[PAWN_pronoun]即使在猛烈的炮火下也岿然屹立。这个角色留给[PAWN_pronoun]很少练习远程战斗的机会。</VFEM_Shieldbearer27.description>
+  <!-- EN: shieldbearer -->
+  <VFEM_Shieldbearer27.title>盾卫</VFEM_Shieldbearer27.title>
+  <!-- EN: shieldbearer -->
+  <VFEM_Shieldbearer27.titleShort>盾卫</VFEM_Shieldbearer27.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked with a team to build and operate siege engines during castle assaults. The role demanded ingenuity and strength, as [PAWN_pronoun] helped design, construct, and fire massive weapons. While skilled in engineering, [PAWN_pronoun] struggled with close-quarters combat. -->
+  <VFEM_SiegeEngineer30.description>[PAWN_nameDef]与一个团队一起在围攻期间建造和操作攻城引擎。这个角色需要聪明才智和力量，因为[PAWN_pronoun]要帮助设计、建造和发射大型武器。虽然精通工程，但[PAWN_pronoun]在近距离战斗中表现不佳。</VFEM_SiegeEngineer30.description>
+  <!-- EN: siege engineer -->
+  <VFEM_SiegeEngineer30.title>攻城机械师</VFEM_SiegeEngineer30.title>
+  <!-- EN: siege engineer -->
+  <VFEM_SiegeEngineer30.titleShort>攻城机械师</VFEM_SiegeEngineer30.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] transported contraband across borders, using [PAWN_possessive] knowledge of hidden paths and bribes to avoid detection. [PAWN_pronoun] became adept at navigating and negotiating under pressure, though the constant risk of capture took a toll on [PAWN_possessive] nerves. The life of secrecy made [PAWN_pronoun] wary of strangers. -->
+  <VFEM_Smuggler49.description>[PAWN_nameDef]越境运输违禁品，使用密道和贿赂来避免被发现。[PAWN_pronoun]变得善于导航和在压力下谈判，尽管不断被抓的风险让[PAWN_possessive]神经紧绷。隐秘的生活使[PAWN_pronoun]对陌生人保持警惕。</VFEM_Smuggler49.description>
+  <!-- EN: smuggler -->
+  <VFEM_Smuggler49.title>走私犯</VFEM_Smuggler49.title>
+  <!-- EN: smuggler -->
+  <VFEM_Smuggler49.titleShort>走私犯</VFEM_Smuggler49.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was trained to hold the front line with a spear, using reach to keep enemies at bay. [PAWN_pronoun] learned to work in formation with others, relying on coordination and timing to fend off cavalry charges. Years of combat hardened [PAWN_pronoun], though [PAWN_pronoun] lacked skill in crafting or more delicate tasks. -->
+  <VFEM_Spearman25.description>[PAWN_nameDef]受训用长矛守住前线挡住敌人。[PAWN_pronoun]学会了与他人合作，依靠协调和时机来抵御骑兵的进攻。多年的战斗磨练了[PAWN_pronoun]，尽管[PAWN_pronoun]在制作或更精细的任务上缺乏技巧。</VFEM_Spearman25.description>
+  <!-- EN: spearman -->
+  <VFEM_Spearman25.title>矛手</VFEM_Spearman25.title>
+  <!-- EN: spearman -->
+  <VFEM_Spearman25.titleShort>矛手</VFEM_Spearman25.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a squire to a local knight, learning the ways of battle and assisting [PAWN_objective] master. [PAWN_pronoun] gained skill with weapons and armor, though most of [PAWN_possessive] duties involved maintenance and carrying supplies. The experience made [PAWN_pronoun] strong and disciplined but left little time for independent thought. -->
+  <VFEM_Squire23.description>[PAWN_nameDef]是当地骑士的扈从，学习战斗的方法并协助主人。[PAWN_pronoun]获得了使用武器和盔甲的技能，尽管[PAWN_pronoun]大部分的职责都是维护和运送补给。这段经历使[PAWN_pronoun]变得坚强而自律，但几乎没有时间进行独立思考。</VFEM_Squire23.description>
+  <!-- EN: squire -->
+  <VFEM_Squire23.title>骑士扈从</VFEM_Squire23.title>
+  <!-- EN: squire -->
+  <VFEM_Squire23.titleShort>扈从</VFEM_Squire23.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days mucking stalls and tending to horses in the village stables. Over time, [PAWN_pronoun] developed a deep understanding of animal care and a steady hand for calming even the most skittish creatures. The hard labor left [PAWN_pronoun] with little time for intellectual pursuits. -->
+  <VFEM_Stablehand16.description>[PAWN_nameDef]每天在村里的马厩里清污和照看马匹。随着时间的推移，[PAWN_pronoun]对动物护理有了深刻的理解，并且有了一双稳定的手，即使是最易受惊的动物也能为其所安抚。繁重的劳动使[PAWN_pronoun]几乎没有时间去追求知识。</VFEM_Stablehand16.description>
+  <!-- EN: stablehand -->
+  <VFEM_Stablehand16.title>马夫</VFEM_Stablehand16.title>
+  <!-- EN: stablehand -->
+  <VFEM_Stablehand16.titleShort>马夫</VFEM_Stablehand16.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended to the lord’s horses, feeding and grooming them and cleaning their stalls. [PAWN_pronoun] gained a deep understanding of animal care and built strong muscles from the physical labor. The isolation of the stables left [PAWN_pronoun] with limited social skills. -->
+  <VFEM_StableServant44.description>[PAWN_nameDef]照料领主的马，喂它们吃东西，给它们梳理毛发，打扫马厩。[PAWN_pronoun]从体力劳动中获得了对动物护理的深刻理解，锻炼出了强壮的肌肉。在马厩的避世生活使[PAWN_pronoun]社交能力有限。</VFEM_StableServant44.description>
+  <!-- EN: stable servant -->
+  <VFEM_StableServant44.title>马厩仆人</VFEM_StableServant44.title>
+  <!-- EN: stable hand -->
+  <VFEM_StableServant44.titleShort>马夫</VFEM_StableServant44.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a stone quarry, hauling heavy blocks to construction sites. The endless labor left [PAWN_pronoun] with great strength but little patience for intellectual pursuits. The hard life in the quarry also sharpened [PAWN_possessive] instincts for survival. -->
+  <VFEM_StoneHauler05.description>[PAWN_nameDef]在采石场工作，把沉重的石块拖到建筑工地。无休止的劳动使[PAWN_pronoun]强健有力，但缺乏追求知识的耐心。采石场的艰苦生活也磨砺了[PAWN_possessive]求生本能。</VFEM_StoneHauler05.description>
+  <!-- EN: stone hauler -->
+  <VFEM_StoneHauler05.title>搬石工</VFEM_StoneHauler05.title>
+  <!-- EN: hauler -->
+  <VFEM_StoneHauler05.titleShort>搬石工</VFEM_StoneHauler05.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a tannery, turning raw hides into leather for clothing and armor. The job was messy and unpleasant, but it gave [PAWN_pronoun] an eye for detail and strong hands. Years of exposure to harsh chemicals left [PAWN_pronoun] with poor health. -->
+  <VFEM_Tanner07.description>[PAWN_nameDef]在一家制革厂工作，把生皮变成适于做衣服和盔甲的皮革。这份工作既麻烦又不愉快，但它给了[PAWN_pronoun]注重细节的眼光和有力的双手。多年接触刺激性化学物质使[PAWN_pronoun]健康状况很差。</VFEM_Tanner07.description>
+  <!-- EN: tanner -->
+  <VFEM_Tanner07.title>硝皮匠</VFEM_Tanner07.title>
+  <!-- EN: tanner -->
+  <VFEM_Tanner07.titleShort>硝皮匠</VFEM_Tanner07.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] repaired and constructed thatched roofs for the village. The work demanded both skill and endurance, as [PAWN_pronoun] balanced on rooftops for hours. Years of labor made [PAWN_pronoun] strong and precise, but [PAWN_pronoun] rarely pursued creative endeavors. -->
+  <VFEM_Thatcher17.description>[PAWN_nameDef]为村庄修复和建造茅草屋顶。这项工作需要技巧和耐力，因为[PAWN_pronoun]要在屋顶上保持平衡好几个小时。多年的劳动使[PAWN_pronoun]变得强壮和精确，但[PAWN_pronoun]很少追求创造性的努力。</VFEM_Thatcher17.description>
+  <!-- EN: thatcher -->
+  <VFEM_Thatcher17.title>补屋匠</VFEM_Thatcher17.title>
+  <!-- EN: thatcher -->
+  <VFEM_Thatcher17.titleShort>补屋匠</VFEM_Thatcher17.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] wandered from village to village, taking odd jobs and sleeping wherever [PAWN_pronoun] could find shelter. [PAWN_pronoun] learned to survive on little and became skilled at adapting to new situations, but [PAWN_pronoun] never stayed in one place long enough to form meaningful relationships. -->
+  <VFEM_Vagabond35.description>[PAWN_nameDef]从一个村庄流浪到另一个村庄，打零工，在任何能找到栖身之所的地方睡觉。[PAWN_pronoun]学会了靠很少的东西生存，并变得善于适应新环境，但[PAWN_pronoun]从来没有在一个地方呆过足够长的时间来建立有意义的关系。</VFEM_Vagabond35.description>
+  <!-- EN: vagabond -->
+  <VFEM_Vagabond35.title>游民</VFEM_Vagabond35.title>
+  <!-- EN: vagabond -->
+  <VFEM_Vagabond35.titleShort>游民</VFEM_Vagabond35.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] brewed ale for the village, perfecting recipes passed down through generations. The brewing process taught [PAWN_pronoun] patience and attention to detail, as each batch required careful timing and temperature control. [PAWN_pronoun] spent so much time brewing that [PAWN_pronoun] neglected physical training. -->
+  <VFEM_VillageBrewer18.description>[PAWN_nameDef]为村里酿造啤酒，完善代代相传的配方。因为每批酒都需要仔细控制时间和温度，酿造过程教会了[PAWN_pronoun]耐心和对细节的关注。[PAWN_pronoun]花了太多时间酿酒，以至于忽略了体能训练。</VFEM_VillageBrewer18.description>
+  <!-- EN: village brewer -->
+  <VFEM_VillageBrewer18.title>乡村酿酒师</VFEM_VillageBrewer18.title>
+  <!-- EN: brewer -->
+  <VFEM_VillageBrewer18.titleShort>酿酒师</VFEM_VillageBrewer18.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] prepared meals for the local villagers, using simple ingredients to make hearty stews and breads. [PAWN_pronoun] honed [PAWN_possessive] skills over countless fires and learned to stretch resources in times of scarcity. The kitchen, however, left no time for intellectual or artistic pursuits. -->
+  <VFEM_VillageCook09.description>[PAWN_nameDef]为当地村民准备饭菜，用简单的食材制作丰盛的炖菜和面包。[PAWN_pronoun]在无数次的烹饪中磨练了自己的技能，学会了在匮乏日子里利用资源。然而，在厨房里，[PAWN_pronoun]没有时间去追求智力或艺术。</VFEM_VillageCook09.description>
+  <!-- EN: village cook -->
+  <VFEM_VillageCook09.title>乡村厨师</VFEM_VillageCook09.title>
+  <!-- EN: cook -->
+  <VFEM_VillageCook09.titleShort>厨师</VFEM_VillageCook09.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a small village and spent [PAWN_possessive] days hunting game to provide food for the community. [PAWN_pronoun] became skilled at tracking and setting traps but rarely interacted with others, preferring the solitude of the forest. Over time, [PAWN_pronoun] gained a reputation as a reliable provider, though [PAWN_possessive] social skills remained underdeveloped. -->
+  <VFEM_VillageHunter01.description>[PAWN_nameDef]在一个小村庄长大，每天都在打猎为社区提供食物。[PAWN_pronoun]变得善于追踪和设置陷阱，但鲜于与他人互动，而是更喜欢森林里的孤独。随着时间的推移，[PAWN_pronoun]赢得了可靠供货商的美誉，尽管[PAWN_possessive]社交技能仍然不发达。</VFEM_VillageHunter01.description>
+  <!-- EN: village hunter -->
+  <VFEM_VillageHunter01.title>乡村猎人</VFEM_VillageHunter01.title>
+  <!-- EN: hunter -->
+  <VFEM_VillageHunter01.titleShort>猎人</VFEM_VillageHunter01.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] guarded the village walls and gates, keeping an eye out for bandits and other threats. The job demanded vigilance and a steady hand, which [PAWN_pronoun] developed over long hours of patrol. Though experienced with ranged weapons, [PAWN_pronoun] rarely saw true battle. -->
+  <VFEM_Watchman24.description>[PAWN_nameDef]守卫着村庄的城墙和大门，留意着土匪和其他威胁。这项工作需要警惕性和稳定的手，这是[PAWN_pronoun]在长时间的巡逻中培养出来的。虽然有远程武器的经验，但[PAWN_pronoun]很少参加真正的战斗。</VFEM_Watchman24.description>
+  <!-- EN: watchman -->
+  <VFEM_Watchman24.title>巡夜者</VFEM_Watchman24.title>
+  <!-- EN: watchman -->
+  <VFEM_Watchman24.titleShort>巡夜者</VFEM_Watchman24.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked at a loom, spinning thread into fabric for the village. The delicate work required focus and dexterity, which [PAWN_pronoun] developed over years of practice. However, the sedentary nature of weaving left [PAWN_pronoun] with little physical strength. -->
+  <VFEM_Weaver11.description>[PAWN_nameDef]在织布机上工作，为村里纺线织布。这项精细的工作需要专注和灵巧，这是[PAWN_pronoun]经过多年练习而培养起来的。然而，编织工久坐不动的特性使[PAWN_pronoun]缺乏体力。</VFEM_Weaver11.description>
+  <!-- EN: weaver -->
+  <VFEM_Weaver11.title>编织工</VFEM_Weaver11.title>
+  <!-- EN: weaver -->
+  <VFEM_Weaver11.titleShort>编织工</VFEM_Weaver11.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] life in the forests, cutting down trees to supply timber for the local village. The work was grueling, but it made [PAWN_pronoun] strong and skilled with tools. Though the solitude of the woods suited [PAWN_objective], [PAWN_pronoun] never learned much about socializing or the finer arts of crafting. -->
+  <VFEM_Woodcutter03.description>[PAWN_nameDef]一生都生活在森林里，为当地的村庄提供木材。这项工作很辛苦，但使[PAWN_pronoun]变得强壮，并且熟练使用工具。虽然树林里的孤独适合[PAWN_pronoun]，但[PAWN_pronoun]从来没有学过多少社交知识，也没有学过更精细的手工艺。</VFEM_Woodcutter03.description>
+  <!-- EN: woodcutter -->
+  <VFEM_Woodcutter03.title>樵夫</VFEM_Woodcutter03.title>
+  <!-- EN: woodcutter -->
+  <VFEM_Woodcutter03.titleShort>樵夫</VFEM_Woodcutter03.titleShort>
+  
+</LanguageData>

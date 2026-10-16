@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: magnificent city -->
+  <VME_PermanentBases_Desired.stages.magnificent_city.label>宏伟的城镇</VME_PermanentBases_Desired.stages.magnificent_city.label>
+  <!-- EN: Our city is magnificent, a fine example of what humanity can achieve. -->
+  <VME_PermanentBases_Desired.stages.magnificent_city.description>我们的城镇如此宏伟，这是一个展现人类成就的良好例子。</VME_PermanentBases_Desired.stages.magnificent_city.description>
+  <!-- EN: lots of beautiful buildings -->
+  <VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.label>美丽的城镇</VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.label>
+  <!-- EN: We have so many beautiful buildings! -->
+  <VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.description>我们的城镇十分美丽！</VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.description>
+  <!-- EN: many beautiful buildings -->
+  <VME_PermanentBases_Desired.stages.many_beautiful_buildings.label>温馨的城镇</VME_PermanentBases_Desired.stages.many_beautiful_buildings.label>
+  <!-- EN: We have so many beautiful buildings! -->
+  <VME_PermanentBases_Desired.stages.many_beautiful_buildings.description>我们的城镇如此温馨！</VME_PermanentBases_Desired.stages.many_beautiful_buildings.description>
+  <!-- EN: burgeoning city -->
+  <VME_PermanentBases_Desired.stages.burgeoning_city.label>新兴的城镇</VME_PermanentBases_Desired.stages.burgeoning_city.label>
+  <!-- EN: Our city is growing! -->
+  <VME_PermanentBases_Desired.stages.burgeoning_city.description>我们的城镇正在蓬勃发展！</VME_PermanentBases_Desired.stages.burgeoning_city.description>
+  <!-- EN: not enough buildings -->
+  <VME_PermanentBases_Desired.stages.not_enough_buildings.label>房屋不足</VME_PermanentBases_Desired.stages.not_enough_buildings.label>
+  <!-- EN: There are not enough buildings nearby. I feel unprotected. -->
+  <VME_PermanentBases_Desired.stages.not_enough_buildings.description>我们周围没有足够的房屋。这让我很没有安全感。</VME_PermanentBases_Desired.stages.not_enough_buildings.description>
+  
+  <!-- EN: wanderlust (initial - stayed 15 days) -->
+  <VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_15_days.label>渴望远行（轻微 - 停留15天）</VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_15_days.label>
+  <!-- EN: We have been here for too long. Perhaps it is time to leave. -->
+  <VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_15_days.description>我们在这里待太久了。是时候出门了。</VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_15_days.description>
+  <!-- EN: wanderlust (initial - stayed 16 days) -->
+  <VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_16_days.label>渴望远行（轻微 - 停留16天）</VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_16_days.label>
+  <!-- EN: We have been here for too long. Perhaps it is time to leave. -->
+  <VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_16_days.description>我们在这里待太久了。是时候出门了。</VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_16_days.description>
+  <!-- EN: wanderlust (initial - stayed 17 days) -->
+  <VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_17_days.label>渴望远行（轻微 - 停留17天）</VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_17_days.label>
+  <!-- EN: We have been here for too long. Perhaps it is time to leave. -->
+  <VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_17_days.description>我们在这里待太久了。是时候出门了。</VME_PermanentBases_Despised.stages.wanderlust_initial_stayed_17_days.description>
+  <!-- EN: wanderlust (normal - stayed 20 days) -->
+  <VME_PermanentBases_Despised.stages.wanderlust_normal_stayed_20_days.label>渴望远行（普通 - 停留20天）</VME_PermanentBases_Despised.stages.wanderlust_normal_stayed_20_days.label>
+  <!-- EN: This colony is trite. We should we wandering, not staying on the same place. -->
+  <VME_PermanentBases_Despised.stages.wanderlust_normal_stayed_20_days.description>待在殖民地里会让人发霉的。我们应该四处远行，而不是只停留在同一个地方。</VME_PermanentBases_Despised.stages.wanderlust_normal_stayed_20_days.description>
+  <!-- EN: wanderlust (normal - stayed 30 days) -->
+  <VME_PermanentBases_Despised.stages.wanderlust_normal_stayed_30_days.label>渴望远行（普通 - 停留30天）</VME_PermanentBases_Despised.stages.wanderlust_normal_stayed_30_days.label>
+  <!-- EN: This colony is trite. We should we wandering, not staying on the same place. -->
+  <VME_PermanentBases_Despised.stages.wanderlust_normal_stayed_30_days.description>待在殖民地里会让人发霉的。我们应该四处远行，而不是只停留在同一个地方。</VME_PermanentBases_Despised.stages.wanderlust_normal_stayed_30_days.description>
+  <!-- EN: wanderlust (serious - stayed 40 days) -->
+  <VME_PermanentBases_Despised.stages.wanderlust_serious_stayed_40_days.label>渴望远行（迫切 - 停留40天）</VME_PermanentBases_Despised.stages.wanderlust_serious_stayed_40_days.label>
+  <!-- EN: Enough already! It is time to pack our things and hit the road. -->
+  <VME_PermanentBases_Despised.stages.wanderlust_serious_stayed_40_days.description>够了！是时候该收拾东西走人了！</VME_PermanentBases_Despised.stages.wanderlust_serious_stayed_40_days.description>
+  <!-- EN: wanderlust (serious - stayed 50 days) -->
+  <VME_PermanentBases_Despised.stages.wanderlust_serious_stayed_50_days.label>渴望远行（迫切 - 停留50天）</VME_PermanentBases_Despised.stages.wanderlust_serious_stayed_50_days.label>
+  <!-- EN: Enough already! It is time to pack our things and hit the road. -->
+  <VME_PermanentBases_Despised.stages.wanderlust_serious_stayed_50_days.description>够了！是时候该收拾东西走人了！</VME_PermanentBases_Despised.stages.wanderlust_serious_stayed_50_days.description>
+  <!-- EN: wanderlust (extreme - stayed 60 days) -->
+  <VME_PermanentBases_Despised.stages.wanderlust_extreme_stayed_60_days.label>渴望远行（极度 - 停留60天）</VME_PermanentBases_Despised.stages.wanderlust_extreme_stayed_60_days.label>
+  <!-- EN: Agh! I can't stand being here anymore! -->
+  <VME_PermanentBases_Despised.stages.wanderlust_extreme_stayed_60_days.description>呃呃呃啊啊啊啊！这破地方呆不下去了！</VME_PermanentBases_Despised.stages.wanderlust_extreme_stayed_60_days.description>
+  
+</LanguageData>

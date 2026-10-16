@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Proto-boltgun -->
+  <BEWH_ProtoBoltGun.label>原型爆弹枪</BEWH_ProtoBoltGun.label>
+  <!-- EN: The proto-boltgun is an early, experimental firearm developed in the dark days before the rise of the Adeptus Astartes. Designed to fire primitive explosive projectiles, it represents the first successful attempt to harness the devastating power of bolt rounds in a man-portable weapon. Best suited to close-range combat, it embodies the raw, brutal beginnings of bolt weaponry. -->
+  <BEWH_ProtoBoltGun.description>原型爆弹枪是一种早期的实验性枪械，在阿斯塔特修会崛起前的黑暗岁月中开发而成。它发射原始的爆弹，这一设计成功做到了武器便携性和伤害毁灭性的统一，是爆弹武器原始而野蛮的开端。该武器最适合近距离作战，</BEWH_ProtoBoltGun.description>
+  <!-- EN: stock -->
+  <BEWH_ProtoBoltGun.tools.stock.label>枪托</BEWH_ProtoBoltGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <BEWH_ProtoBoltGun.tools.barrel.label>枪管</BEWH_ProtoBoltGun.tools.barrel.label>
+  <!-- EN: Proto-boltgun -->
+  <BEWH_ProtoBoltGun.verbs.Verb_Shoot.label>原型爆弹枪</BEWH_ProtoBoltGun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Proto-chainsword -->
+  <BEWH_proto-Chainsword.label>原型链锯剑</BEWH_proto-Chainsword.label>
+  <!-- EN: An early and crude predecessor of the iconic chainsword, the proto-chainsword is a brutal weapon that shreds flesh and bone with a crude chain of teeth. -->
+  <BEWH_proto-Chainsword.description>原型链锯剑是链锯剑的前身，使用者可以用这把野蛮武器的粗糙锯齿轻松撕碎敌人。</BEWH_proto-Chainsword.description>
+  <!-- EN: handle -->
+  <BEWH_proto-Chainsword.tools.handle-0.label>握把</BEWH_proto-Chainsword.tools.handle-0.label>
+  <!-- EN: handle -->
+  <BEWH_proto-Chainsword.tools.handle-1.label>握把</BEWH_proto-Chainsword.tools.handle-1.label>
+  <!-- EN: chain -->
+  <BEWH_proto-Chainsword.tools.chain.label>锯链</BEWH_proto-Chainsword.tools.chain.label>
+  
+</LanguageData>

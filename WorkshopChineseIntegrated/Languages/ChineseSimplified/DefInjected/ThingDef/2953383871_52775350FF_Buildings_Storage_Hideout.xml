@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Crates -->
+
+  <DankPyon_LootableCrate_Bones.label>放满的板条箱</DankPyon_LootableCrate_Bones.label>
+  <DankPyon_LootableCrate_Bones.description>一个放满生物遗骸的板条箱。</DankPyon_LootableCrate_Bones.description>
+
+  <DankPyon_LootableCrate_Unhold.label>放满的板条箱</DankPyon_LootableCrate_Unhold.label>
+  <DankPyon_LootableCrate_Unhold.description>一个放满巨魔战利品的板条箱。</DankPyon_LootableCrate_Unhold.description>
+
+  <DankPyon_LootableCrate_Lindwurm.label>放满的板条箱</DankPyon_LootableCrate_Lindwurm.label>
+  <DankPyon_LootableCrate_Lindwurm.description>一个放满林德虫战利品的板条箱。</DankPyon_LootableCrate_Lindwurm.description>
+
+
+  <!-- Tables -->
+
+  <DankPyon_HideoutTableMarket_Meats.label>摆摊桌(肉品)</DankPyon_HideoutTableMarket_Meats.label>
+  <DankPyon_HideoutTableMarket_Meats.description>一张桌子，上面摆满了肉品。</DankPyon_HideoutTableMarket_Meats.description>
+
+  <DankPyon_HideoutTableMarket_Dairy.label>摆摊桌(奶制品)</DankPyon_HideoutTableMarket_Dairy.label>
+  <DankPyon_HideoutTableMarket_Dairy.description>一张桌子，上面摆满了奶制品。</DankPyon_HideoutTableMarket_Dairy.description>
+
+  <DankPyon_HideoutTableMarket_Bread.label>摆摊桌(面包)</DankPyon_HideoutTableMarket_Bread.label>
+  <DankPyon_HideoutTableMarket_Bread.description>一张桌子，上面摆满了面包。</DankPyon_HideoutTableMarket_Bread.description>
+
+  <DankPyon_HideoutTableMarket_Herb.label>摆摊桌(草药)</DankPyon_HideoutTableMarket_Herb.label>
+  <DankPyon_HideoutTableMarket_Herb.description>一张桌子，上面摆满了药草。</DankPyon_HideoutTableMarket_Herb.description>
+
+  <DankPyon_HideoutTableMarket_Bow.label>摆摊桌(弓箭)</DankPyon_HideoutTableMarket_Bow.label>
+  <DankPyon_HideoutTableMarket_Bow.description>一张桌子，上面摆满了弓箭。</DankPyon_HideoutTableMarket_Bow.description>
+
+  <DankPyon_HideoutTableMarket_Melee.label>摆摊桌(武器)</DankPyon_HideoutTableMarket_Melee.label>
+  <DankPyon_HideoutTableMarket_Melee.description>一张桌子，上面摆满了近战武器。</DankPyon_HideoutTableMarket_Melee.description>
+
+
+  <!-- Stalls -->
+
+  <DankPyon_HideoutStallMarket_Meats.label>摆摊货架(肉品)</DankPyon_HideoutStallMarket_Meats.label>
+  <DankPyon_HideoutStallMarket_Meats.description>一座附帐篷的摆摊用货架，用来陈列各种肉品。</DankPyon_HideoutStallMarket_Meats.description>
+
+  <DankPyon_HideoutStallMarket_Dairy.label>摆摊货架(奶制品)</DankPyon_HideoutStallMarket_Dairy.label>
+  <DankPyon_HideoutStallMarket_Dairy.description>一座附帐篷的摆摊用货架，用来陈列各种奶制品。</DankPyon_HideoutStallMarket_Dairy.description>
+
+  <DankPyon_HideoutStallMarket_Bread.label>摆摊货架(面包)</DankPyon_HideoutStallMarket_Bread.label>
+  <DankPyon_HideoutStallMarket_Bread.description>一座附帐篷的摆摊用货架，用来陈列各种面包。</DankPyon_HideoutStallMarket_Bread.description>
+
+  <DankPyon_HideoutStallMarket_Herb.label>摆摊货架(草药)</DankPyon_HideoutStallMarket_Herb.label>
+  <DankPyon_HideoutStallMarket_Herb.description>一座附帐篷的摆摊用货架，用来陈列各种草药。</DankPyon_HideoutStallMarket_Herb.description>
+
+  <DankPyon_HideoutStallMarket_Bow.label>摆摊货架(弓箭)</DankPyon_HideoutStallMarket_Bow.label>
+  <DankPyon_HideoutStallMarket_Bow.description>一座附帐篷的摆摊用货架，用来陈列各种弓箭。</DankPyon_HideoutStallMarket_Bow.description>
+
+  <DankPyon_HideoutStallMarket_Melee.label>摆摊货架(武器)</DankPyon_HideoutStallMarket_Melee.label>
+  <DankPyon_HideoutStallMarket_Melee.description>一座附帐篷的摆摊用货架，用来陈列各种武器。</DankPyon_HideoutStallMarket_Melee.description>
+
+
+  <!-- Wood Logs -->
+
+  <DankPyon_HideoutWoodLogs1x1c.label>原木堆</DankPyon_HideoutWoodLogs1x1c.label>
+  <DankPyon_HideoutWoodLogs1x1c.description>原木整齐的堆叠在一起，可以节省更多空间。</DankPyon_HideoutWoodLogs1x1c.description>
+
+
+  <!-- Wood Logs 1x2 -->
+
+  <DankPyon_HideoutWoodLogs1x2c.label>原木堆(1x2)</DankPyon_HideoutWoodLogs1x2c.label>
+  <DankPyon_HideoutWoodLogs1x2c.description>原木整齐的堆叠在一起，可以节省更多空间。</DankPyon_HideoutWoodLogs1x2c.description>
+
+
+  <!-- Wood Logs 2x2 -->
+
+  <DankPyon_HideoutWoodLogs2x2c.label>原木堆(2x2)</DankPyon_HideoutWoodLogs2x2c.label>
+  <DankPyon_HideoutWoodLogs2x2c.description>原木整齐的堆叠在一起，可以节省更多空间。</DankPyon_HideoutWoodLogs2x2c.description>
+
+
+  <!-- Timber 1x1 -->
+
+  <DankPyon_HideoutTimber1x1c.label>木材堆</DankPyon_HideoutTimber1x1c.label>
+  <DankPyon_HideoutTimber1x1c.description>木材整齐的堆叠在一起，可以节省更多空间。</DankPyon_HideoutTimber1x1c.description>
+
+
+  <!-- Timber 1x2 -->
+
+  <DankPyon_HideoutTimber1x2c.label>木材堆(1x2)</DankPyon_HideoutTimber1x2c.label>
+  <DankPyon_HideoutTimber1x2c.description>木材整齐的堆叠在一起，可以节省更多空间。</DankPyon_HideoutTimber1x2c.description>
+
+
+  <!-- Timber 2x2 -->
+
+  <DankPyon_HideoutTimber2x2c.label>木材堆(2x2)</DankPyon_HideoutTimber2x2c.label>
+  <DankPyon_HideoutTimber2x2c.description>木材整齐的堆叠在一起，可以节省更多空间。</DankPyon_HideoutTimber2x2c.description>
+
+
+  <!-- Bricks -->
+
+  <DankPyon_HideoutBricks1x1c.label>石砖堆</DankPyon_HideoutBricks1x1c.label>
+  <DankPyon_HideoutBricks1x1c.description>石砖整齐的堆叠在一起，可以节省更多空间。</DankPyon_HideoutBricks1x1c.description>
+
+
+  <!-- Bricks 1x2 -->
+
+  <DankPyon_HideoutBricks1x2c.label>石砖堆(1x2)</DankPyon_HideoutBricks1x2c.label>
+  <DankPyon_HideoutBricks1x2c.description>石砖整齐的堆叠在一起，可以节省更多空间。</DankPyon_HideoutBricks1x2c.description>
+
+
+  <!-- Bricks 2x2 -->
+
+  <DankPyon_HideoutBricks2x2c.label>石砖堆(2x2)</DankPyon_HideoutBricks2x2c.label>
+  <DankPyon_HideoutBricks2x2c.description>石砖整齐的堆叠在一起，可以节省更多空间。</DankPyon_HideoutBricks2x2c.description>
+
+
+  <!-- Cupboard -->
+
+  <DankPyon_HideoutRusticCupboardEmpty.label>橱架</DankPyon_HideoutRusticCupboardEmpty.label>
+  <DankPyon_HideoutRusticCupboardEmpty.description>一个开放式橱架，可以有效率地储存和展示物品。</DankPyon_HideoutRusticCupboardEmpty.description>
+
+  <DankPyon_HideoutRusticCupboardBread.label>面包架</DankPyon_HideoutRusticCupboardBread.label>
+  <DankPyon_HideoutRusticCupboardBread.description>一个开放式橱架，可以有效率地储存和展示物品。</DankPyon_HideoutRusticCupboardBread.description>
+
+  <DankPyon_HideoutRusticCupboardCheese.label>奶酪架</DankPyon_HideoutRusticCupboardCheese.label>
+  <DankPyon_HideoutRusticCupboardCheese.description>一个开放式橱架，可以有效率地储存和展示物品。</DankPyon_HideoutRusticCupboardCheese.description>
+
+  <DankPyon_HideoutRusticCupboardWine.label>葡萄酒架</DankPyon_HideoutRusticCupboardWine.label>
+  <DankPyon_HideoutRusticCupboardWine.description>一个开放式橱架，可以有效率地储存和展示物品。</DankPyon_HideoutRusticCupboardWine.description>
+
+
+  <!-- Barrels -->
+
+  <DankPyon_HideoutRusticBarrelBigClosed.label>大型储物桶(立式)</DankPyon_HideoutRusticBarrelBigClosed.label>
+  <DankPyon_HideoutRusticBarrelBigClosed.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRusticBarrelBigClosed.description>
+
+  <DankPyon_HideoutRusticBarrelBigGrape.label>大型储物桶(葡萄风格)</DankPyon_HideoutRusticBarrelBigGrape.label>
+  <DankPyon_HideoutRusticBarrelBigGrape.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRusticBarrelBigGrape.description>
+
+  <DankPyon_HideoutRusticBarrelBigClosedDown.label>大型储物桶(横式)</DankPyon_HideoutRusticBarrelBigClosedDown.label>
+  <DankPyon_HideoutRusticBarrelBigClosedDown.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRusticBarrelBigClosedDown.description>
+
+  <DankPyon_HideoutRusticBarrelStack.label>多层储物桶</DankPyon_HideoutRusticBarrelStack.label>
+  <DankPyon_HideoutRusticBarrelStack.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRusticBarrelStack.description>
+
+  <DankPyon_HideoutRusticBarrelClosed.label>储物桶</DankPyon_HideoutRusticBarrelClosed.label>
+  <DankPyon_HideoutRusticBarrelClosed.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRusticBarrelClosed.description>
+
+
+  <!-- WoodLog Barrel -->
+
+  <DankPyon_HideoutBarrelWoodLog.label>原木储存桶</DankPyon_HideoutBarrelWoodLog.label>
+  <DankPyon_HideoutBarrelWoodLog.description>用于储存原木的圆柱形桶。最多可容纳4叠原木。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelWoodLog.description>
+
+
+  <!-- Iron Ore Barrel -->
+
+  <DankPyon_HideoutBarrelIronOre.label>铁矿储存桶</DankPyon_HideoutBarrelIronOre.label>
+  <DankPyon_HideoutBarrelIronOre.description>用于储存铁矿的圆柱形桶。最多可容纳4叠铁矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelIronOre.description>
+
+
+  <!-- Silver Ore Barrel -->
+
+  <DankPyon_HideoutBarrelSilverOre.label>银矿储存桶</DankPyon_HideoutBarrelSilverOre.label>
+  <DankPyon_HideoutBarrelSilverOre.description>用于储存银矿的圆柱形桶。最多可容纳4叠银矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelSilverOre.description>
+
+
+  <!-- Gold Ore Barrel -->
+
+  <DankPyon_HideoutBarrelGoldOre.label>金矿储存桶</DankPyon_HideoutBarrelGoldOre.label>
+  <DankPyon_HideoutBarrelGoldOre.description>用于储存金矿的圆柱形桶。最多可容纳4叠金矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelGoldOre.description>
+
+
+  <!-- Coal Ore Barrel -->
+
+  <DankPyon_HideoutBarrelCoalOre.label>煤矿储存桶</DankPyon_HideoutBarrelCoalOre.label>
+  <DankPyon_HideoutBarrelCoalOre.description>用于储存煤矿的圆柱形桶。最多可容纳4叠煤矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelCoalOre.description>
+
+
+  <!-- barrel of raw plasteel -->
+
+  <DankPyon_HideoutBarrelPlasteelOre.label>秘银矿储存桶</DankPyon_HideoutBarrelPlasteelOre.label>
+  <DankPyon_HideoutBarrelPlasteelOre.description>用于储存秘银矿的圆柱形桶。最多可容纳4叠秘银矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelPlasteelOre.description>
+
+
+  <!-- Textiles Barrel -->
+
+  <DankPyon_HideoutBarrelTextiles.label>织物储存桶</DankPyon_HideoutBarrelTextiles.label>
+  <DankPyon_HideoutBarrelTextiles.description>用于储存织物的圆柱形桶。最多可容纳4叠织物。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelTextiles.description>
+
+
+  <!-- Leather Barrel -->
+
+  <DankPyon_HideoutBarrelLeather.label>皮革储存桶</DankPyon_HideoutBarrelLeather.label>
+  <DankPyon_HideoutBarrelLeather.description>用于储存煤矿的圆柱形桶。最多可容纳4叠煤矿。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelLeather.description>
+
+
+  <!-- Basic Component -->
+
+  <DankPyon_HideoutBarrelComponentBasic.label>基础零件储存桶</DankPyon_HideoutBarrelComponentBasic.label>
+  <DankPyon_HideoutBarrelComponentBasic.description>用于储存基础零件的圆柱形桶。最多可容纳4叠基础零件。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelComponentBasic.description>
+
+
+  <!-- Grape Barrel -->
+
+  <DankPyon_HideoutBarrelGrape.label>葡萄储存桶</DankPyon_HideoutBarrelGrape.label>
+  <DankPyon_HideoutBarrelGrape.description>用于储存葡萄的圆柱形桶。最多可容纳4叠葡萄零件。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutBarrelGrape.description>
+
+
+  <!-- Large Shelf -->
+
+  <DankPyon_HideoutLargeShelfEmpty.label>大型储架</DankPyon_HideoutLargeShelfEmpty.label>
+  <DankPyon_HideoutLargeShelfEmpty.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</DankPyon_HideoutLargeShelfEmpty.description>
+
+  <DankPyon_HideoutLargeShelf_Bread.label>大型面包架</DankPyon_HideoutLargeShelf_Bread.label>
+  <DankPyon_HideoutLargeShelf_Bread.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</DankPyon_HideoutLargeShelf_Bread.description>
+
+  <DankPyon_HideoutLargeShelf_Grain.label>大型谷物架</DankPyon_HideoutLargeShelf_Grain.label>
+  <DankPyon_HideoutLargeShelf_Grain.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</DankPyon_HideoutLargeShelf_Grain.description>
+
+  <DankPyon_HideoutLargeShelf_Meats.label>大型肉品架</DankPyon_HideoutLargeShelf_Meats.label>
+  <DankPyon_HideoutLargeShelf_Meats.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</DankPyon_HideoutLargeShelf_Meats.description>
+
+  <DankPyon_HideoutLargeShelf_Cheese.label>大型奶酪架</DankPyon_HideoutLargeShelf_Cheese.label>
+  <DankPyon_HideoutLargeShelf_Cheese.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</DankPyon_HideoutLargeShelf_Cheese.description>
+
+  <DankPyon_HideoutLargeShelf_Wine.label>大型葡萄酒架</DankPyon_HideoutLargeShelf_Wine.label>
+  <DankPyon_HideoutLargeShelf_Wine.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</DankPyon_HideoutLargeShelf_Wine.description>
+
+  <DankPyon_HideoutLargeShelf_Mead.label>大型蜂蜜酒架</DankPyon_HideoutLargeShelf_Mead.label>
+  <DankPyon_HideoutLargeShelf_Mead.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</DankPyon_HideoutLargeShelf_Mead.description>
+
+  <DankPyon_HideoutLargeShelf_Vegetables.label>大型蔬果架</DankPyon_HideoutLargeShelf_Vegetables.label>
+  <DankPyon_HideoutLargeShelf_Vegetables.description>一座大长方形储架，用于存放物品，保持其清洁及远离地面。</DankPyon_HideoutLargeShelf_Vegetables.description>
+
+
+  <!-- Sack -->
+
+  <DankPyon_HideoutSackClosed.label>麻布袋</DankPyon_HideoutSackClosed.label>
+  <DankPyon_HideoutSackClosed.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</DankPyon_HideoutSackClosed.description>
+
+  <DankPyon_HideoutSackFlour.label>面粉袋</DankPyon_HideoutSackFlour.label>
+  <DankPyon_HideoutSackFlour.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</DankPyon_HideoutSackFlour.description>
+
+  <DankPyon_HideoutSackWheat.label>小麦袋</DankPyon_HideoutSackWheat.label>
+  <DankPyon_HideoutSackWheat.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</DankPyon_HideoutSackWheat.description>
+
+  <DankPyon_HideoutSackPotato.label>土豆袋</DankPyon_HideoutSackPotato.label>
+  <DankPyon_HideoutSackPotato.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</DankPyon_HideoutSackPotato.description>
+
+  <DankPyon_HideoutSackApple.label>苹果袋</DankPyon_HideoutSackApple.label>
+  <DankPyon_HideoutSackApple.description>坚固耐用的布袋，旨在以更高效的方式存放物品。</DankPyon_HideoutSackApple.description>
+
+
+  <!-- Crate -->
+
+  <DankPyon_HideoutCrate1x1c.label>板条箱</DankPyon_HideoutCrate1x1c.label>
+  <DankPyon_HideoutCrate1x1c.description>木板制成的木箱，用于存放资源。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutCrate1x1c.description>
+
+
+  <!-- Crate 1x2 -->
+
+  <DankPyon_HideoutCrate1x2c.label>板条箱(1x2)</DankPyon_HideoutCrate1x2c.label>
+  <DankPyon_HideoutCrate1x2c.description>木板制成的木箱，用于存放资源。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutCrate1x2c.description>
+
+
+  <!-- Weapon Rack -->
+
+  <DankPyon_HideoutRackEmpty.label>武器类杂物架</DankPyon_HideoutRackEmpty.label>
+  <DankPyon_HideoutRackEmpty.description>用于存放各式武器的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRackEmpty.description>
+
+  <DankPyon_HideoutRackSword.label>刀剑架</DankPyon_HideoutRackSword.label>
+  <DankPyon_HideoutRackSword.description>用于存放各式武器的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRackSword.description>
+
+  <DankPyon_HideoutRackSpear.label>矛架</DankPyon_HideoutRackSpear.label>
+  <DankPyon_HideoutRackSpear.description>用于存放各式武器的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRackSpear.description>
+
+  <DankPyon_HideoutRackMixed.label>武器架</DankPyon_HideoutRackMixed.label>
+  <DankPyon_HideoutRackMixed.description>用于存放各式武器的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRackMixed.description>
+
+
+  <!-- Shelf -->
+
+  <DankPyon_HideoutShelfEmpty.label>空置物架</DankPyon_HideoutShelfEmpty.label>
+  <DankPyon_HideoutShelfEmpty.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfEmpty.description>
+
+  <DankPyon_HideoutLargeShelf_FilledA_Amboise.label>(A)放满的置物架</DankPyon_HideoutLargeShelf_FilledA_Amboise.label>
+  <DankPyon_HideoutLargeShelf_FilledA_Amboise.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutLargeShelf_FilledA_Amboise.description>
+
+  <DankPyon_HideoutLargeShelf_FilledB_Amboise.label>(A)放满的置物架</DankPyon_HideoutLargeShelf_FilledB_Amboise.label>
+  <DankPyon_HideoutLargeShelf_FilledB_Amboise.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutLargeShelf_FilledB_Amboise.description>
+
+  <DankPyon_HideoutLargeShelf_FilledA_Hesse.label>(H)放满的置物架</DankPyon_HideoutLargeShelf_FilledA_Hesse.label>
+  <DankPyon_HideoutLargeShelf_FilledA_Hesse.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutLargeShelf_FilledA_Hesse.description>
+
+  <DankPyon_HideoutLargeShelf_FilledB_Hesse.label>(H)放满的置物架</DankPyon_HideoutLargeShelf_FilledB_Hesse.label>
+  <DankPyon_HideoutLargeShelf_FilledB_Hesse.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutLargeShelf_FilledB_Hesse.description>
+
+  <DankPyon_HideoutLargeShelf_FilledA_Soren.label>(S)放满的置物架</DankPyon_HideoutLargeShelf_FilledA_Soren.label>
+  <DankPyon_HideoutLargeShelf_FilledA_Soren.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutLargeShelf_FilledA_Soren.description>
+
+  <DankPyon_HideoutLargeShelf_FilledB_Soren.label>(S)放满的置物架</DankPyon_HideoutLargeShelf_FilledB_Soren.label>
+  <DankPyon_HideoutLargeShelf_FilledB_Soren.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutLargeShelf_FilledB_Soren.description>
+
+  <DankPyon_HideoutLargeShelf_FilledA_Oswin.label>(O)放满的置物架</DankPyon_HideoutLargeShelf_FilledA_Oswin.label>
+  <DankPyon_HideoutLargeShelf_FilledA_Oswin.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutLargeShelf_FilledA_Oswin.description>
+
+  <DankPyon_HideoutLargeShelf_FilledB_Oswin.label>(O)放满的置物架</DankPyon_HideoutLargeShelf_FilledB_Oswin.label>
+  <DankPyon_HideoutLargeShelf_FilledB_Oswin.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutLargeShelf_FilledB_Oswin.description>
+
+  <!-- ThingDef ParentName="DankPyon_HideoutShelfBase">
+		<defName>DankPyon_HideoutShelfFilled1c</defName>
+		<label>filled shelf</label>
+		<graphicData>
+			<texPath>Storage/ShelfHerb</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2.75,2.75)</drawSize>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<uiIconPath>Storage/ShelfHerb_north</uiIconPath>
+	</ThingDef>
+
+	<ThingDef ParentName="DankPyon_HideoutShelfBase">
+		<defName>DankPyon_HideoutShelfFilled2c</defName>
+		<label>filled shelf</label>
+		<graphicData>
+		<texPath>Storage/ShelfFilledA</texPath>
+		<graphicClass>Graphic_Multi</graphicClass>
+		<drawSize>(2.75,2.75)</drawSize>
+		<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<uiIconPath>Storage/ShelfFilledA_north</uiIconPath>
+	</ThingDef -->
+
+  <DankPyon_HideoutShelfFilledEmerald.label>放满绿宝石的置物架</DankPyon_HideoutShelfFilledEmerald.label>
+  <DankPyon_HideoutShelfFilledEmerald.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledEmerald.description>
+
+  <DankPyon_HideoutShelfFilledSapphire.label>放满蓝宝石的置物架</DankPyon_HideoutShelfFilledSapphire.label>
+  <DankPyon_HideoutShelfFilledSapphire.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledSapphire.description>
+
+  <DankPyon_HideoutShelfFilledRuby.label>放满红宝石的置物架</DankPyon_HideoutShelfFilledRuby.label>
+  <DankPyon_HideoutShelfFilledRuby.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledRuby.description>
+
+  <DankPyon_HideoutShelfFilledSilverware.label>放满银器的置物架</DankPyon_HideoutShelfFilledSilverware.label>
+  <DankPyon_HideoutShelfFilledSilverware.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledSilverware.description>
+
+  <DankPyon_HideoutShelfFilledGoldware.label>放满金器的置物架</DankPyon_HideoutShelfFilledGoldware.label>
+  <DankPyon_HideoutShelfFilledGoldware.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledGoldware.description>
+
+  <DankPyon_HideoutShelfFilledChaliceSilver.label>放满银圣杯的置物架</DankPyon_HideoutShelfFilledChaliceSilver.label>
+  <DankPyon_HideoutShelfFilledChaliceSilver.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledChaliceSilver.description>
+
+  <DankPyon_HideoutShelfFilledChaliceGold.label>放满金圣杯的置物架</DankPyon_HideoutShelfFilledChaliceGold.label>
+  <DankPyon_HideoutShelfFilledChaliceGold.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledChaliceGold.description>
+
+  <DankPyon_HideoutShelfFilledWine.label>放满葡萄酒的置物架</DankPyon_HideoutShelfFilledWine.label>
+  <DankPyon_HideoutShelfFilledWine.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledWine.description>
+
+  <DankPyon_HideoutShelfFilledFood.label>放满食物的置物架</DankPyon_HideoutShelfFilledFood.label>
+  <DankPyon_HideoutShelfFilledFood.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledFood.description>
+
+  <DankPyon_HideoutShelfFilledIngot.label>放满金属碇的置物架</DankPyon_HideoutShelfFilledIngot.label>
+  <DankPyon_HideoutShelfFilledIngot.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledIngot.description>
+
+  <DankPyon_HideoutShelfFilledBook.label>放满书的置物架</DankPyon_HideoutShelfFilledBook.label>
+  <DankPyon_HideoutShelfFilledBook.description>用于存放杂物的架子。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutShelfFilledBook.description>
+
+  <DankPyon_HideoutStrawPile.label>干草堆</DankPyon_HideoutStrawPile.label>
+  <DankPyon_HideoutStrawPile.description>这里为何放了一叠干草？</DankPyon_HideoutStrawPile.description>
+
+
+  <!-- Carts -->
+
+  <DankPyon_HideOutBuildingBase_Cart_Empty.label>马车</DankPyon_HideOutBuildingBase_Cart_Empty.label>
+  <DankPyon_HideOutBuildingBase_Cart_Empty.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界这片无情的土地。可以用来存放物品。</DankPyon_HideOutBuildingBase_Cart_Empty.description>
+
+  <DankPyon_HideOutBuildingBase_Cart_Assorted.label>杂货马车</DankPyon_HideOutBuildingBase_Cart_Assorted.label>
+  <DankPyon_HideOutBuildingBase_Cart_Assorted.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界这片无情的土地。可以用来存放物品。</DankPyon_HideOutBuildingBase_Cart_Assorted.description>
+
+  <DankPyon_HideOutBuildingBase_Cart_Ore.label>矿石马车</DankPyon_HideOutBuildingBase_Cart_Ore.label>
+  <DankPyon_HideOutBuildingBase_Cart_Ore.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界这片无情的土地。可以用来存放物品。</DankPyon_HideOutBuildingBase_Cart_Ore.description>
+
+  <DankPyon_HideOutBuildingBase_Cart_PlantRaw.label>植物原料马车</DankPyon_HideOutBuildingBase_Cart_PlantRaw.label>
+  <DankPyon_HideOutBuildingBase_Cart_PlantRaw.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界这片无情的土地。可以用来存放物品。</DankPyon_HideOutBuildingBase_Cart_PlantRaw.description>
+
+  <DankPyon_HideOutBuildingBase_Cart_Textiles.label>织物马车</DankPyon_HideOutBuildingBase_Cart_Textiles.label>
+  <DankPyon_HideOutBuildingBase_Cart_Textiles.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界这片无情的土地。可以用来存放物品。</DankPyon_HideOutBuildingBase_Cart_Textiles.description>
+
+  <DankPyon_HideOutBuildingBase_Cart_RawWood.label>原木马车</DankPyon_HideOutBuildingBase_Cart_RawWood.label>
+  <DankPyon_HideOutBuildingBase_Cart_RawWood.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界这片无情的土地。可以用来存放物品。</DankPyon_HideOutBuildingBase_Cart_RawWood.description>
+
+
+  <!-- Ingots -->
+
+  <DankPyon_IngotStack1x1_Iron.label>铁锭堆</DankPyon_IngotStack1x1_Iron.label>
+  <DankPyon_IngotStack1x1_Iron.description>一叠金属锭。</DankPyon_IngotStack1x1_Iron.description>
+
+  <DankPyon_IngotStack1x1_Steel.label>钢锭堆</DankPyon_IngotStack1x1_Steel.label>
+  <DankPyon_IngotStack1x1_Steel.description>一叠金属锭。</DankPyon_IngotStack1x1_Steel.description>
+
+  <DankPyon_IngotStack1x1_Gold.label>金锭堆</DankPyon_IngotStack1x1_Gold.label>
+  <DankPyon_IngotStack1x1_Gold.description>一叠金属锭。</DankPyon_IngotStack1x1_Gold.description>
+
+
+  <!-- Drying Rack -->
+
+  <DankPyon_HideoutDryingRack_Big.label>晾晒架</DankPyon_HideoutDryingRack_Big.label>
+  <DankPyon_HideoutDryingRack_Big.description>用于在阳光下晾干肉类和牧草的木架，方便物品保存和长期使用。</DankPyon_HideoutDryingRack_Big.description>
+
+
+  <!-- Tanning Rack -->
+
+  <DankPyon_HideoutTanningRack.label>鞣皮架</DankPyon_HideoutTanningRack.label>
+  <DankPyon_HideoutTanningRack.description>用于将生皮加工成有用皮革的立架。</DankPyon_HideoutTanningRack.description>
+
+
+  <!-- Misc -->
+
+  <DankPyon_Hideout_RusticChest.label>宝箱</DankPyon_Hideout_RusticChest.label>
+  <DankPyon_Hideout_RusticChest.description>一个存放着宝物(或垃圾)的箱子。</DankPyon_Hideout_RusticChest.description>
+
+  <DankPyon_Hideout_RoyalChest.label>豪华宝箱</DankPyon_Hideout_RoyalChest.label>
+  <DankPyon_Hideout_RoyalChest.description>一个存放着贵族宝物(或垃圾)的箱子。</DankPyon_Hideout_RoyalChest.description>
+
+  <DankPyon_LootableTornNote_Hideout.label>破损的的笔记</DankPyon_LootableTornNote_Hideout.label>
+  <DankPyon_LootableTornNote_Hideout.description>薄而泛黄的纸条，内容由隐秘的代码撰写而成。</DankPyon_LootableTornNote_Hideout.description>
+
+
+  <!-- Schematics -->
+
+  <DankPyon_HideoutBook.label>一本奇怪的书</DankPyon_HideoutBook.label>
+  <DankPyon_HideoutBook.description>仔细一看，这本书似乎相当古老，它的封面是用粗糙而破旧的皮革制成，并用黄铜扣件将其脊柱固定在一起。内侧的书页因年代久远而发黄，上头写满了奇怪的图示和符号。经过进一步检查，隐约能看出这本书包含了进阶烹饪食谱和军事武器设计图，如刀、锤、长柄武器和轻型弩箭。目前还不清楚是谁、基于什么目的而写的，但有一点很肯定：这本书记载着随时间被遗忘的秘密，对那些追寻知识的人来说有不小的用处。</DankPyon_HideoutBook.description>
+
+  <DankPyon_HideoutBook_2T.label>《材料工艺》古籍</DankPyon_HideoutBook_2T.label>
+  <DankPyon_HideoutBook_2T.description>这本古籍是用皮革封面装订的，并用黄铜扣件将其脊柱固定在一起。内侧的书页因年代久远而发黄，上头写满了复杂的图示和符号。经过进一步检查，隐约能看出这本书包含了大量关于先进材料加工技术的知识，包括钢铁、焦油和火药的制造。目前还不清楚是谁、基于什么目的而写的，但有一点很肯定：这本书蕴藏着随时间被遗忘的秘密，对那些追寻知识的人来说有极大用处。</DankPyon_HideoutBook_2T.description>
+
+  <DankPyon_HideoutBook_3T.label>《战争、防御和食物》古籍</DankPyon_HideoutBook_3T.label>
+  <DankPyon_HideoutBook_3T.description>这本古籍是用精良皮革封面装订的，并用黄金扣件将其脊柱固定在一起。内侧的书页清晰而且保存完整，上头写满了详细的图表和古老的文字。经过进一步检查，隐约能看出这本书包含了大量关于贵族武器的设计图，如刀、锤、长柄武器和重型弩箭。它还记载了关于应用弩箭于防御设施的资讯，以及如何料理出无法想象的美味食物的秘密。目前还不清楚是谁、基于什么目的而写的，但有一点很肯定：这本书蕴藏着随时间被遗忘的秘密，而且是同类型古籍中最具价值的一本，对那些追寻知识的人来说有巨大的用处。</DankPyon_HideoutBook_3T.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Belisarian Furnace boost -->
+  <BEWH_BelisarianFurnaceBoost.label>贝利撒留熔炉</BEWH_BelisarianFurnaceBoost.label>
+  <!-- EN: A hyper-cocktail of chemicals aiding in the rapid regrowth of tissue, bone and muscle. -->
+  <BEWH_BelisarianFurnaceBoost.description>一种强大的自合成药剂，有助于组织、骨骼和肌肉的快速再生。</BEWH_BelisarianFurnaceBoost.description>
+  
+  <!-- EN: Catalepsean Node unsleeping -->
+  <BEWH_CatalepseanNodeUnsleeping.label>神经结</BEWH_CatalepseanNodeUnsleeping.label>
+  <!-- EN: This character's brain cycles rest through different regions, allowing parts to recover while others stay alert. -->
+  <BEWH_CatalepseanNodeUnsleeping.description>此人的大脑通过循环按序关闭不同的区域进行休息，让部分区域进行休息，而其他区域保持清醒。</BEWH_CatalepseanNodeUnsleeping.description>
+  
+  <!-- EN: Sus-an Membrane stasis -->
+  <BEWH_SusAnMembraneStasis.label>Sus-an脑膜</BEWH_SusAnMembraneStasis.label>
+  <!-- EN: Suspended in Sus-an Membrane stasis, requires advanced medical procedure to awaken. -->
+  <BEWH_SusAnMembraneStasis.description>处于Sus-an脑膜停滞形态。需要对其进行先进的医疗程序才能将其唤醒。</BEWH_SusAnMembraneStasis.description>
+  
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: glow leaf -->
+  <RG_Plant_GlowLeaf.label>发光叶</RG_Plant_GlowLeaf.label>
+  <!-- EN: A toxin-resistant fern with a bluish colour. It glows in the dark. -->
+  <RG_Plant_GlowLeaf.description>具有毒素适应性的蓝色发光蕨类植物。</RG_Plant_GlowLeaf.description>
+  
+  <!-- EN: lure weed -->
+  <RG_Plant_LureWeed.label>萤诱草</RG_Plant_LureWeed.label>
+  <!-- EN: A toxin-resistant flower-like plant with long stems and glowing pods. Tribal legends say it is connected to a large monster buried under the ground that uses it to lure pray close to it. -->
+  <RG_Plant_LureWeed.description>具有毒素适应性的似花植物，其茎较长，顶部生有会发光的荚苞。据一些部落代代相承的传说所言，这种植物实际上是某只潜于地下的巨兽用于诱捕猎物的器官。</RG_Plant_LureWeed.description>
+  
+  <!-- EN: mutated fern -->
+  <RG_Plant_MutatedFern.label>突变蕨草</RG_Plant_MutatedFern.label>
+  <!-- EN: A toxin-resistant fern adapted to thrive in highly polluted areas. -->
+  <RG_Plant_MutatedFern.description>具有毒素适应性的蕨类植物，能够在受严重污染地区生长。</RG_Plant_MutatedFern.description>
+  
+  <!-- EN: mutated fungus -->
+  <RG_Plant_MutatedFungus.label>突变菇</RG_Plant_MutatedFungus.label>
+  <!-- EN: A strange toxin-adapted fungus growing in pairs. It has no nutritious value. -->
+  <RG_Plant_MutatedFungus.description>具有毒素适应性的古怪蘑菇。由于毫无营养值，因此无法被食用。</RG_Plant_MutatedFungus.description>
+  
+  <!-- EN: tall toxigrass -->
+  <RG_Plant_TallToxiGrass.label>污毒高草</RG_Plant_TallToxiGrass.label>
+  <!-- EN: Wild tall toxin-resistant grass. -->
+  <RG_Plant_TallToxiGrass.description>具有毒素适应性的野生高草。从上面走过时速度会明显变慢。</RG_Plant_TallToxiGrass.description>
+  
+  <!-- EN: toxigrass -->
+  <RG_Plant_ToxiGrass.label>污毒草</RG_Plant_ToxiGrass.label>
+  <!-- EN: Wild toxin-resistant grass. Grows anywhere there is a little light and minimally fertile ground. -->
+  <RG_Plant_ToxiGrass.description>具有毒素适应性的野草，在稍微有点光线和土地的地方就会长出来。</RG_Plant_ToxiGrass.description>
+  
+  <!-- EN: splitpine tree -->
+  <RG_Plant_TreeSplitpine.label>歧枝松树</RG_Plant_TreeSplitpine.label>
+  <!-- EN: A large heavily mutated toxin-resistant conifer. Its colour is faded to brown. -->
+  <RG_Plant_TreeSplitpine.description>具有毒素适应性且经过高度突变的大松树，其部分叶子已褪变为棕色。</RG_Plant_TreeSplitpine.description>
+  
+  <!-- EN: toxipine tree -->
+  <RG_Plant_TreeToxipine.label>污毒松树</RG_Plant_TreeToxipine.label>
+  <!-- EN: A toxin-resistant conifer. Its colour is half faded to brown. -->
+  <RG_Plant_TreeToxipine.description>具有毒素适应性的松树，其部分叶子已褪变为棕色。</RG_Plant_TreeToxipine.description>
+  
+  <!-- EN: toxiteak tree -->
+  <RG_Plant_TreeToxiTeak.label>污毒柚木树</RG_Plant_TreeToxiTeak.label>
+  <!-- EN: A toxin-resistant hardwood tree that grows in polluted climates. -->
+  <RG_Plant_TreeToxiTeak.description>具有毒素适应性的硬木树，能够在受污染地区生长。</RG_Plant_TreeToxiTeak.description>
+  
+  <!-- EN: tripaloski -->
+  <RG_Tripaloski.label>三纹菌</RG_Tripaloski.label>
+  <!-- EN: A bright red toxin-resistant mushroom. Being the result of mutation it only grows in wastelands and can not be cultivated. -->
+  <RG_Tripaloski.description>具有毒素适应性的朱红色蘑菇。由于经过了突变，只能在受污染地区中生长。无法种植。</RG_Tripaloski.description>
+  
+</LanguageData>

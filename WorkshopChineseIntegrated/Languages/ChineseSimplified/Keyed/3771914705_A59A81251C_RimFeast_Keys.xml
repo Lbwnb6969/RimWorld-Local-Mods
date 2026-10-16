@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- gizmo -->
+	<!-- EN: invite a house -->
+  <RimFeast_InviteGizmoLabel>邀请家族</RimFeast_InviteGizmoLabel>
+	<!-- EN: Send a messenger with gifts to invite a noble house to a feast at this spot. Costs {0} silver for a house that has never dined with you. A house that has feasted here recently asks for richer gifts, and is harder to impress a second time. Let a season pass and the novelty returns. -->
+  <RimFeast_InviteGizmoDesc>派遣使者赠礼，邀请一个贵族家族来此赴宴。从未与你共进过宴会的家族花费{0}银。最近已在此赴宴过的家族会要求更丰厚的礼物，第二次也更难打动他们。让一个季节过去，新鲜感自然就会恢复。</RimFeast_InviteGizmoDesc>
+	<!-- EN: a feast is already planned or underway -->
+  <RimFeast_InviteDisabledBusy>已有一场宴会在计划中或正在进行中</RimFeast_InviteDisabledBusy>
+	<!-- EN: No noble house will treat with you. -->
+  <RimFeast_InviteDisabledNoHouses>没有贵族家族愿意与你交涉。</RimFeast_InviteDisabledNoHouses>
+	<!-- EN: Invite {0} (goodwill {1}, {2} silver) -->
+  <RimFeast_InviteOption>邀请{0}（好感度{1}，{2}银）</RimFeast_InviteOption>
+	<!-- EN: Invite {0} (goodwill {1}, {2} silver, has feasted here {3}x) -->
+  <RimFeast_InviteOptionAgain>邀请{0}（好感度{1}，{2}银，已在此赴宴{3}次）</RimFeast_InviteOptionAgain>
+	<!-- EN: Not enough silver around your home to pay the messenger ({0} needed). -->
+  <RimFeast_NotEnoughSilver>基地的银不足以支付使者（需要{0}）。</RimFeast_NotEnoughSilver>
+
+	<!-- lettres et messages -->
+	<!-- EN: Invitation sent -->
+  <RimFeast_LabelInviteSent>邀请已发出</RimFeast_LabelInviteSent>
+	<!-- EN: A messenger rides out with gifts and your invitation to {0}. If all goes well, a cortege will arrive within a day or so.\n\nSet a fine table before they do: food and drink laid out around the feast spot, in a hall worth showing off. -->
+  <RimFeast_TextInviteSent>使者带着礼物和你的邀请骑马前往{0}。一切顺利的话，随从队伍将在一日左右抵达。\n\n在他们抵达之前，请布置一桌盛宴：在宴会点周围摆好食物和饮品，最好在金碧辉煌的大厅里。</RimFeast_TextInviteSent>
+	<!-- EN: Feast cortege -->
+  <RimFeast_LabelGuestsArrive>宴会随从队伍</RimFeast_LabelGuestsArrive>
+	<!-- EN: A cortege from {0} has arrived for the feast: {1} guests riding under their house banner. They are making for your feast hall. -->
+  <RimFeast_TextGuestsArrive>来自{0}的随从队伍已抵达赴宴：{1}位来宾举着家族旗帜而来。他们正前往你的宴会大厅。</RimFeast_TextGuestsArrive>
+	<!-- EN: The feast begins. The guests of {0} take their places. -->
+  <RimFeast_MessageFeastBegins>宴会开始。{0}的来宾们已就座。</RimFeast_MessageFeastBegins>
+	<!-- EN: {0} and {1} have come to blows over their cups! -->
+  <RimFeast_MessageBrawl>{0}和{1}因饮酒而大打出手！</RimFeast_MessageBrawl>
+	<!-- EN: A toast is raised to {0}. The hall falls quiet to listen. -->
+  <RimFeast_MessageToast>有人向{0}祝酒致辞。大厅安静下来聆听。</RimFeast_MessageToast>
+	<!-- EN: A feast for the ages -->
+  <RimFeast_LabelFeastTriumph>一场千古盛宴</RimFeast_LabelFeastTriumph>
+	<!-- EN: The banquet for {0} was the stuff of songs: a proud hall, a groaning table, drink flowing all night. The house rides home full of praise.\n\nAs thanks, their lord left a purse of {1} silver on your table. -->
+  <RimFeast_TextFeastTriumph>为{0}举办的宴会是值得传颂的佳话：宏伟的大厅、满满当当的餐桌、整夜畅饮的美酒。这个家族满口赞誉地骑马归去。\n\n作为谢礼，他们的领主在桌上留下了{1}银的钱袋。</RimFeast_TextFeastTriumph>
+	<!-- EN: A fine feast -->
+  <RimFeast_LabelFeastGood>一场美好盛宴</RimFeast_LabelFeastGood>
+	<!-- EN: The guests of {0} ate and drank well. They leave in high spirits and will speak kindly of your hall. -->
+  <RimFeast_TextFeastGood>{0}的来宾们吃喝尽兴。他们心情愉快地离开，会对你的大厅赞不绝口。</RimFeast_TextFeastGood>
+	<!-- EN: A modest feast -->
+  <RimFeast_LabelFeastDecent>一场尚可的盛宴</RimFeast_LabelFeastDecent>
+	<!-- EN: The banquet for {0} was decent enough, though nobody will sing about it. The guests take their leave politely. -->
+  <RimFeast_TextFeastDecent>为{0}举办的宴会还算得体，虽然没有人会为之歌唱。来宾们礼貌地告辞了。</RimFeast_TextFeastDecent>
+	<!-- EN: A poor showing -->
+  <RimFeast_LabelFeastPoor>一场糟糕的宴席</RimFeast_LabelFeastPoor>
+	<!-- EN: The banquet for {0} fell flat: thin fare, a dry table, or a hall not worth the name. The guests leave unimpressed, and word of it will travel. -->
+  <RimFeast_TextFeastPoor>为{0}举办的宴会草草收场：食物寡淡、酒水不足，或者宴会大厅名不副实。来宾们不以为然地离开，看来要坏事传千里了。</RimFeast_TextFeastPoor>
+	<!-- duc et noces pourpres -->
+	<!-- EN: {0}, head of house {1}, rides with the cortege in person. Hosting the head of a house is a rare honor, and a heavier charge. -->
+  <RimFeast_TextLeaderRides>{1}的家主{0}亲自随队骑行。接待家主是难得的荣耀，也是更重的责任。</RimFeast_TextLeaderRides>
+	<!-- EN: The head of the house sat at your table in person: the honor done to {0} is all the greater. -->
+  <RimFeast_TextLeaderHonored>家主亲自坐在你的桌前：这对{0}而言是无上的荣耀。</RimFeast_TextLeaderHonored>
+	<!-- EN: Hospitality broken -->
+  <RimFeast_LabelBetrayed>违背待客之道</RimFeast_LabelBetrayed>
+	<!-- EN: Blood has been drawn by your hand, under your own roof. The guests of {0} draw steel and fight their way toward the gates. What the house makes of it will depend on how many make it home. -->
+  <RimFeast_TextBetrayed>你亲手在自己的屋檐下让人流血。{0}的来宾们拔出刀剑，杀向大门。对方家族会如何反应，取决于有他们多少人活着回到家。</RimFeast_TextBetrayed>
+	<!-- EN: A red feast -->
+  <RimFeast_LabelRedWedding>鸿门宴</RimFeast_LabelRedWedding>
+	<!-- EN: Of the cortege of {0}, {1} never left your hall alive and free. Word of a host who slaughters guests at table will reach every house on the rim: {0} swears vengeance and will come for blood, and no house will break bread under your roof for a long while. -->
+  <RimFeast_TextRedWedding>在{0}的随从队伍中，有{1}人没能活着离开你的大厅。设鸿门宴的恶名会传遍边缘世界的每一个家族：{0}发誓将会血债血偿，在很长一段时间内，没有任何家族会在你的屋檐下共进晚餐。</RimFeast_TextRedWedding>
+	<!-- EN: A guest of {0} came to harm by your hand, and the cortege fled your hall. The house will remember this breach of the guest right. -->
+  <RimFeast_TextBloodSpilled>{0}的一位来宾因你之手而受伤，随从队伍逃离了你的大厅。这个家族会记住这次对宾客权利的侵犯。</RimFeast_TextBloodSpilled>
+	<!-- EN: will never break bread with you again -->
+  <RimFeast_InviteRefusedBetrayed>永远不会再与你共进晚餐</RimFeast_InviteRefusedBetrayed>
+	<!-- EN: word of the red feast still travels -->
+  <RimFeast_InviteRefusedWord>鸿门宴的传闻仍在流传</RimFeast_InviteRefusedWord>
+	<!-- EN: {0} refuses: {1} -->
+  <RimFeast_InviteOptionRefused>{0}拒绝：{1}</RimFeast_InviteOptionRefused>
+	<!-- EN: The guests of {0} are fleeing your hall. -->
+  <RimFeast_SpotFleeing>{0}的来宾们正在逃离你的大厅。</RimFeast_SpotFleeing>
+	<!-- EN: The guests of {0} are taking their leave. -->
+  <RimFeast_SpotLeaving>{0}的来宾们正在告辞。</RimFeast_SpotLeaving>
+	<!-- EN: The guests of {0} gather their wounded to carry them home. -->
+  <RimFeast_MessageTakingWounded>{0}的来宾们正在收拢伤员，准备把他们带回家。</RimFeast_MessageTakingWounded>
+
+	<!-- ce que la salle donne a voir pendant le festin -->
+	<!-- EN: The hall leaves them cold. -->
+  <RimFeast_QualHallLow>大厅让他们毫无感觉。</RimFeast_QualHallLow>
+	<!-- EN: The hall makes a fair showing. -->
+  <RimFeast_QualHallMid>大厅看起来还算不错。</RimFeast_QualHallMid>
+	<!-- EN: The hall impresses. -->
+  <RimFeast_QualHallHigh>大厅令人印象深刻。</RimFeast_QualHallHigh>
+	<!-- EN: The table is thin. -->
+  <RimFeast_QualTableLow>餐桌上的食物很单薄。</RimFeast_QualTableLow>
+	<!-- EN: The table is decently set. -->
+  <RimFeast_QualTableMid>餐桌布置得还算体面。</RimFeast_QualTableMid>
+	<!-- EN: The table groans with food. -->
+  <RimFeast_QualTableHigh>餐桌上的食物堆积如山。</RimFeast_QualTableHigh>
+	<!-- EN: The cups stand empty. -->
+  <RimFeast_QualDrinkLow>杯子空空如也。</RimFeast_QualDrinkLow>
+	<!-- EN: There is drink, but it is measured. -->
+  <RimFeast_QualDrinkMid>有酒可喝，但分量有限。</RimFeast_QualDrinkMid>
+	<!-- EN: The drink flows freely. -->
+  <RimFeast_QualDrinkHigh>美酒畅饮无阻。</RimFeast_QualDrinkHigh>
+	<!-- EN: The hall is silent. -->
+  <RimFeast_QualEntLow>大厅一片寂静。</RimFeast_QualEntLow>
+	<!-- EN: A toast has been raised. -->
+  <RimFeast_QualEntMid>有人祝了酒。</RimFeast_QualEntMid>
+	<!-- EN: The hall rings with toasts and music. -->
+  <RimFeast_QualEntHigh>大厅里祝酒声和音乐交织回荡。</RimFeast_QualEntHigh>
+
+	<!-- reglages -->
+	<!-- EN: Invitation cost: {0} silver -->
+  <RimFeast_SetInviteCost>邀请费用：{0}银</RimFeast_SetInviteCost>
+	<!-- EN: Gift after a legendary feast: {0} silver -->
+  <RimFeast_SetGift>传奇盛宴后的赠礼：{0}银</RimFeast_SetGift>
+	<!-- EN: Feast length: {0} hours -->
+  <RimFeast_SetHours>宴会时长：{0}小时</RimFeast_SetHours>
+	<!-- EN: Cortege size: about {0} guests (houses send {1} to {2} depending on how they see you) -->
+  <RimFeast_SetCortege>随从规模：约{0}位来宾（家族根据对你的看法派出{1}到{2}人）</RimFeast_SetCortege>
+	<!-- EN: Colonists drop their work for the feast -->
+  <RimFeast_SetSummon>殖民者放下工作前来赴宴</RimFeast_SetSummon>
+	<!-- EN: When the guests sit down, colonists set aside whatever they were doing and head for the hall. Surgery, tending and other jobs that cannot be dropped are left alone. Turn this off and they will drift in one by one as their work ends, the way vanilla parties fill up. -->
+  <RimFeast_SetSummonTip>来宾就座时，殖民者会放下手中的事务前往大厅。手术、护理等无法中断的工作不受影响。关闭后，他们会像原版聚会一样，在工作结束后陆续前来。</RimFeast_SetSummonTip>
+	<!-- EN: Heads of house may attend in person -->
+  <RimFeast_SetLeader>家主可以亲自出席</RimFeast_SetLeader>
+	<!-- EN: With high goodwill and a feast already to your name, the head of the house may ride with the cortege. Hosting them is worth more, and losing them costs more. -->
+  <RimFeast_SetLeaderTip>当好感度足够高且你已有过宴会经验时，家主可能亲自随队前来。接待他们带来的好处更多，但失手的代价也更大。</RimFeast_SetLeaderTip>
+	<!-- EN: Trade agreements -->
+  <RimFeast_SetTradePact>贸易协定</RimFeast_SetTradePact>
+	<!-- EN: A good feast sends one of the house merchants your way within a few days. -->
+  <RimFeast_SetTradePactTip>一场成功的宴会能让该家族的商人在几天内前来交易。</RimFeast_SetTradePactTip>
+	<!-- EN: Marriage proposals -->
+  <RimFeast_SetMarriage>求婚</RimFeast_SetMarriage>
+	<!-- EN: A noble may ask for the hand of one of your colonists. Accepting means losing them to the house for good. -->
+  <RimFeast_SetMarriageTip>贵族可能会向你的一位殖民者求婚。接受意味着殖民者永远离开，嫁入那个家族。</RimFeast_SetMarriageTip>
+	<!-- EN: Proposal chance: {0}% per check -->
+  <RimFeast_SetProposalChance>求婚几率：每次{0}%</RimFeast_SetProposalChance>
+	<!-- EN: Guests stop drinking at: {0}% ({1}) -->
+  <RimFeast_SetDrinkLimit>来宾停止饮酒的醉意阈值：{0}%（{1}）</RimFeast_SetDrinkLimit>
+	<!-- EN: merry -->
+  <RimFeast_DrunkStageWarm>微醺</RimFeast_DrunkStageWarm>
+	<!-- EN: tipsy -->
+  <RimFeast_DrunkStageTipsy>微醉</RimFeast_DrunkStageTipsy>
+	<!-- EN: falling-down drunk -->
+  <RimFeast_DrunkStageDrunk>酩酊大醉</RimFeast_DrunkStageDrunk>
+	<!-- EN: Drunken brawl chance: {0}% per drunk guest, per check -->
+  <RimFeast_SetBrawlChance>醉酒斗殴几率：每次检查每位醉酒来宾{0}%</RimFeast_SetBrawlChance>
+	<!-- EN: Houses that hate you may come with poison -->
+  <RimFeast_SetTreachery>敌视你的家族可能会下毒</RimFeast_SetTreachery>
+	<!-- EN: Below the goodwill threshold, an invitation may be accepted with bad intentions. Turn this off and a cold house is merely cold. -->
+  <RimFeast_SetTreacheryTip>在好感度阈值以下，邀请可能会被对方怀着恶意接受。关闭该选项后，冷淡的家族只是表现冷淡而已。</RimFeast_SetTreacheryTip>
+	<!-- EN: Treachery chance: {0}% -->
+  <RimFeast_SetTreacheryChance>阴谋几率：{0}%</RimFeast_SetTreacheryChance>
+	<!-- EN: Treachery goodwill threshold: {0} -->
+  <RimFeast_SetTreacheryGoodwill>阴谋好感度阈值：{0}</RimFeast_SetTreacheryGoodwill>
+	<!-- EN: A house forgets one feast every {0} days -->
+  <RimFeast_SetFadeDays>家族每{0}天遗忘一次宴会经历</RimFeast_SetFadeDays>
+	<!-- EN: Word of a red feast travels for {0} days -->
+  <RimFeast_SetRedWeddingDays>鸿门宴的传闻传播{0}天</RimFeast_SetRedWeddingDays>
+
+	<!-- noces pourpres premeditees -->
+	<!-- EN: plan a red feast -->
+  <RimFeast_TrapGizmoLabel>策划鸿门宴</RimFeast_TrapGizmoLabel>
+	<!-- EN: Send the same messenger and the same gifts, but this feast is a trap. Once the guests are at the table you can mark them for the knife, one by one. The house will never forgive it, word will travel to every hall, and your own people will carry the shame. The plate armor, though, stays. -->
+  <RimFeast_TrapGizmoDesc>派遣同样的使者和礼物，但这场宴会是一个陷阱。等来宾就座后，你可以逐个标记刺杀目标。这个家族永远不会原谅你，消息会传遍每个派系，你的族人也将背负耻辱。不过，他们的盔甲会留下来。</RimFeast_TrapGizmoDesc>
+	<!-- EN: Nobody is able to do the deed. -->
+  <RimFeast_MessageNoAssassin>没有人能够执行刺杀。</RimFeast_MessageNoAssassin>
+	<!-- EN: At the table right now: {0} of yours against {1} guests. Give your people time to sit down before you give the signal. -->
+  <RimFeast_KillingsReady>当前在桌旁：我方{0}人对阵{1}位来宾。在摔杯为号前，让你的人先安分坐下。</RimFeast_KillingsReady>
+	<!-- EN: the guests are not at the table yet -->
+  <RimFeast_AssassinateDisabledNotSeated>来宾尚未就座</RimFeast_AssassinateDisabledNotSeated>
+	<!-- EN: begin the killings -->
+  <RimFeast_StartKillingsLabel>开始屠杀</RimFeast_StartKillingsLabel>
+	<!-- EN: Pick the guest who dies first, the head of the house, if you can reach them. Your nearest able fighter walks up and opens their throat, and the moment blood hits the floor every fighter you have is drafted and thrown at the survivors. Steel against steel, no more ceremony. Children and those incapable of violence stay out of it.\n\nPosition your people before you strike. -->
+  <RimFeast_StartKillingsDesc>选择第一个被杀死的来宾，最好是家主，如果你能接近他。你最近的可用战士会上前割开他的喉咙，一旦鲜血洒在地上，你所有的战士都会被征召并投入对幸存者的战斗。刀剑相向，不讲武德。儿童和无法战斗的人不参与其中。\n\n在动手之前布置好你的人。</RimFeast_StartKillingsDesc>
+	<!-- EN: {0} moves on {1}. When the blood hits the floor, everyone attacks. -->
+  <RimFeast_MessageSignalGiven>{0}向{1}发起攻击。鲜血洒地，所有人都开始战斗。</RimFeast_MessageSignalGiven>
+	<!-- EN: A messenger rides out with gifts and your invitation to {0}. If all goes well, a cortege will arrive within a day or so.\n\nSet a fine table, and whet the knives. They must suspect nothing until the doors close. -->
+  <RimFeast_TextInviteSentPlanned>使者骑乘带着礼物和你的邀请前往{0}。一切顺利的话，随从队伍将在一日左右抵达。\n\n布置好盛宴，磨利刀刃。在大门关闭之前，绝不能让他们起疑心。</RimFeast_TextInviteSentPlanned>
+
+	<!-- empoisonnement -->
+	<!-- EN: - cold terms, at your own risk -->
+  <RimFeast_InviteRisky>- 关系冷淡，风险自负</RimFeast_InviteRisky>
+	<!-- EN: Caught red-handed -->
+  <RimFeast_LabelPoisonerCaught>当场抓获</RimFeast_LabelPoisonerCaught>
+	<!-- EN: {0} of the cortege of {1} was seen slipping something into the food laid out for the feast. The plot is foiled and the cortege flees your hall.\n\nIt was they who broke the guest right: no house will fault you for whatever befalls poisoners on their way out. -->
+  <RimFeast_TextPoisonerCaught>{1}随从队伍中的{0}被人看到向宴会食物中投毒。阴谋被挫败，随从队伍逃离了你的大厅。\n\n是他们先破坏了宾客权利：没有家族会指责你对付那些下毒者在路上遭到的任何报应。</RimFeast_TextPoisonerCaught>
+	<!-- EN: Poison at the table -->
+  <RimFeast_LabelPoisonSymptoms>餐桌上的毒药</RimFeast_LabelPoisonSymptoms>
+	<!-- EN: Your people are doubling over in the middle of the feast, and the guilty hand belongs to {0}: the cortege of {1} salted your table with poison. They flee your hall.\n\nBurn what remains on that table. And let none weep for what befalls poisoners. -->
+  <RimFeast_TextPoisonSymptoms>宴会进行中，你的人纷纷倒下，罪魁祸首是{0}：{1}的随从队伍在你的餐桌上下了毒。他们逃离了你的大厅。\n\n烧掉那桌上剩下的东西。也不必为毒药者遭受的报应流一滴泪。</RimFeast_TextPoisonSymptoms>
+	<!-- EN: Treachery revealed -->
+  <RimFeast_LabelPoisonRevealed>阴谋败露</RimFeast_LabelPoisonRevealed>
+	<!-- EN: In the days after the feast, your colonists fall sick one after another, and the truth surfaces: the cortege of {0} poisoned your table and smiled while you toasted their health.\n\nBurn whatever remains of that feast. -->
+  <RimFeast_TextPoisonRevealed>宴会过后的几天里，你的殖民者一个接一个病倒，真相浮出水面：{0}的随从队伍在你的餐桌上下了毒，还在你为他们祝酒时面带微笑。\n\n烧掉那场宴会剩下的任何东西。</RimFeast_TextPoisonRevealed>
+
+	<!-- EN: A proposal of marriage -->
+  <RimFeast_LabelProposal>求婚</RimFeast_LabelProposal>
+	<!-- EN: {0} of {1} has been struck by your colonist {2} across the feast table, and asks for their hand in marriage.\n\nAccept and {2} weds into the house and rides home with the cortege, sealing a bond of kin between you. You will not see them again, but the house will call you family.\n\nDecline and no harm is done: such things are asked at every great feast. -->
+  <RimFeast_TextProposal>{1}的{0}在宴席上为你的殖民者{2}所倾倒，请求与之缔结婚姻。\n\n接受则{2}嫁入该家族，和随从队伍离去，你们之间结下血缘纽带。你将再也见不到他们，但那个家族会视你为亲人。\n\n婉拒则无妨：每场盛宴上都有人提亲。</RimFeast_TextProposal>
+	<!-- EN: Give your blessing (they wed into the house and leave with the cortege) -->
+  <RimFeast_ProposalAccept>给予祝福（他们嫁入家族，随随从队伍离开）</RimFeast_ProposalAccept>
+	<!-- EN: Decline the match -->
+  <RimFeast_ProposalDecline>婉拒这门婚事</RimFeast_ProposalDecline>
+	<!-- EN: Wed into the house -->
+  <RimFeast_LabelBetrothed>嫁入家族</RimFeast_LabelBetrothed>
+	<!-- EN: {0} and {1} are married. As the feast ends, {0} gathers their things and rides out with the cortege of {2}, a noble of the house now. Your halls are quieter, but you have kin among the nobility. -->
+  <RimFeast_TextBetrothed>{0}与{1}结为夫妇。宴会结束后，{0}收拾行装，随{2}的随从队伍骑马而去，从此成为家族中的贵族。你的大厅变得安静了，但你在贵族中有了亲人。</RimFeast_TextBetrothed>
+	<!-- EN: You decline the match. The suitor of {0} takes it in good grace. -->
+  <RimFeast_MessageProposalDeclined>你婉拒了这门婚事。{0}的求婚者泰然接受。</RimFeast_MessageProposalDeclined>
+	<!-- EN: Trade agreement -->
+  <RimFeast_LabelPactOffered>贸易协定</RimFeast_LabelPactOffered>
+	<!-- EN: {0} left your hall well fed and well pleased. Their steward will send one of the house merchants your way within a few days, whichever of them can be spared. -->
+  <RimFeast_TextPactOffered>{0}离开你的大厅时吃饱喝足、心满意足。他们的管家会在几天内派一位家族商人前来交易，派谁就看谁有空了。</RimFeast_TextPactOffered>
+	<!-- EN: Trade agreement offered -->
+  <RimFeast_LabelPactChoice>贸易协定已提供</RimFeast_LabelPactChoice>
+	<!-- EN: A banquet like that is not soon forgotten. Before riding out, the lord of {0} offers you the pick of the house merchants: name the trade you want and that caravan will be sent within a few days.\n\nSay nothing and their steward will simply send whoever can be spared. -->
+  <RimFeast_TextPactChoice>这样的盛宴不会被轻易遗忘。临行前，{0}的领主让你挑选家族中的商人：指定你想要的贸易类型，商队会在数日内派出。\n\n不表态的话，他们的管家将随意派遣有空的人来。</RimFeast_TextPactChoice>
+	<!-- EN: Send their {0} -->
+  <RimFeast_PactPick>派遣他们的{0}</RimFeast_PactPick>
+	<!-- EN: {0} will send their {1}. -->
+  <RimFeast_MessagePactSet>{0}将派遣他们的{1}。</RimFeast_MessagePactSet>
+	<!-- EN: The caravan promised by {0} could not reach your colony, and the agreement lapses. -->
+  <RimFeast_MessagePactLapsed>{0}承诺的商队无法抵达你的殖民地，协议失效。</RimFeast_MessagePactLapsed>
+	<!-- EN: {0} has dined at your table {1} time(s) already. Your hall holds fewer wonders for them now, and their thanks are measured accordingly. Give them a season to forget before you send for them again. -->
+  <RimFeast_TextJaded>{0}已在你桌上用餐{1}次。你的大厅对他们而言已不再新奇，他们的谢礼相应减少。等一个季节过去，让他们遗忘之后再行邀请。</RimFeast_TextJaded>
+	<!-- EN: Blood on the rushes -->
+  <RimFeast_LabelBrawlDeath>血染宴席</RimFeast_LabelBrawlDeath>
+	<!-- EN: The drunken brawl went too far and a guest of {0} lies dead on your floor, killed by one of their own. The house holds you blameless, but the cortege gathers its cloaks in silence. A corpse under the table ends any banquet. -->
+  <RimFeast_TextBrawlDeath>酒醉斗殴失控，{0}的一位来宾死在你的地板上，死于自己人之手。该家族不怪罪于你，但随从队伍沉默地收拢斗篷。桌下有尸体，宴会再无法继续。</RimFeast_TextBrawlDeath>
+	<!-- EN: Guests harmed -->
+  <RimFeast_LabelGuestsHarmed>来宾受伤</RimFeast_LabelGuestsHarmed>
+	<!-- EN: A guest of {0} has come to harm under your roof. The cortege storms out, and the house will remember this insult to hospitality. -->
+  <RimFeast_TextGuestsHarmed>{0}的一位来宾在你的屋檐下受到伤害。随从队伍愤然离去，该家族将记住这次对款待之道的侮辱。</RimFeast_TextGuestsHarmed>
+	<!-- EN: The cortege of {0} never reached your hall and has turned back. -->
+  <RimFeast_MessageGuestsLeftNoFeast>{0}的随从队伍未能抵达你的大厅，已经折返。</RimFeast_MessageGuestsLeftNoFeast>
+	<!-- EN: The guests of {0} cannot endure this weather and take their leave. -->
+  <RimFeast_MessageGuestsLeaveWeather>{0}的来宾无法忍受这样的天气，告辞离去。</RimFeast_MessageGuestsLeaveWeather>
+	<!-- EN: Your invitation to {0} is void: there is no longer a house to receive, or no longer peace between you. -->
+  <RimFeast_MessageInviteVoid>你向{0}发出的邀请已失效：该家族已不存在，或者你们之间已不再和平。</RimFeast_MessageInviteVoid>
+	<!-- EN: The feast spot is gone. The invitation to {0} is wasted. -->
+  <RimFeast_MessageSpotDestroyed>宴会点已消失。对{0}的邀请白费了。</RimFeast_MessageSpotDestroyed>
+
+	<!-- divers -->
+	<!-- EN: attending the feast -->
+  <RimFeast_ReportFeasting>正在参加宴会</RimFeast_ReportFeasting>
+	<!-- EN: Show marker -->
+  <RimFeast_ShowMarkerLabel>显示标记</RimFeast_ShowMarkerLabel>
+	<!-- EN: Draw the feast spot on the floor. Turn it off and the marker vanishes from your hall while the spot keeps working. You can still click it to select it. -->
+  <RimFeast_ShowMarkerDesc>在地板上绘制宴会点标记。关闭该选项后标记从大厅消失，但宴会点仍正常工作。你仍可点击选择它。</RimFeast_ShowMarkerDesc>
+	<!-- EN: Marker hidden. -->
+  <RimFeast_MarkerHidden>标记已隐藏。</RimFeast_MarkerHidden>
+	<!-- EN: No feast planned. -->
+  <RimFeast_SpotIdle>未计划宴会。</RimFeast_SpotIdle>
+	<!-- EN: A request at the table -->
+  <RimFeast_LabelRequest>宴席上的请求</RimFeast_LabelRequest>
+	<!-- EN: {0} of {1} rises at the head of the table, cup in hand, and speaks at length of the steel your smiths turn out. Then he comes to the point: he would carry one of your blades home. Your {2}.\n\nThe hall has gone quiet. His knights are watching. -->
+  <RimFeast_TextRequestWeapon>{1}的{0}手持酒杯，在首席站起身来，大谈你的铁匠锻出的钢材。然后他切入正题：他想要带一把你的武器回家。你的{2}。\n\n大厅安静了下来。他的骑士们正注视着。</RimFeast_TextRequestWeapon>
+	<!-- EN: {0} of {1} rises at the head of the table and looks a long moment at {2}, which he has been staring at since the second course. Then he asks whether it might travel home with him.\n\nThe hall has gone quiet. His knights are watching. -->
+  <RimFeast_TextRequestArt>{1}的{0}在首席站起身来，久久凝视着{2}——从第二道菜起他就一直盯着这件作品。然后他开口询问，能否让它随他一同回家。\n\n大厅安静了下来。他的骑士们正注视着。</RimFeast_TextRequestArt>
+	<!-- EN: {0} of {1} rises at the head of the table and speaks of {2}, and of what he thinks of them. Then he asks you to swear off that house here and now, in front of everyone.\n\nThe hall has gone quiet. Whatever you answer, it will travel. -->
+  <RimFeast_TextRequestRival>{1}的{0}在首席站起身来，谈起{2}，以及他对他们的看法。然后他请求你当着所有人的面，在此地与那个家族断绝关系。\n\n大厅安静了下来。无论你如何回答，消息都会传出去。</RimFeast_TextRequestRival>
+	<!-- EN: {0} of {1} rises at the head of the table and speaks of his own household, of the boys and girls being raised there, of arms and letters and courtesy. Then he asks for {2}, to serve as a page in his hall and come home when they are old enough to bear arms. Some {3} years.\n\nThey would be under his roof, as he is under yours tonight. -->
+  <RimFeast_TextRequestWard>{1}的{0}在首席站起身来，谈起自己的家族，谈起在那里长大的少男少女，谈到武艺、学识与教养。然后他请求带走{2}，到他的大厅里做一名侍从，等他们长到能拿起武器的年纪再送回家。大约{3}年。\n\n他们会住在他的屋檐下，就像他今晚住在你的屋檐下一样。</RimFeast_TextRequestWard>
+	<!-- EN: {0} rides out with {1}, to return in some {2} years. -->
+  <RimFeast_MessageRequestWardDone>{0}随{1}骑马离去，约{2}年后归来。</RimFeast_MessageRequestWardDone>
+	<!-- EN: A ward comes home -->
+  <RimFeast_LabelWardReturns>侍从归来</RimFeast_LabelWardReturns>
+	<!-- EN: {0} is back, {2} years old now, riding in from {1}. They left a child and they come back with a sword hand, a courtier's tongue, and letters.\n\nThey have rejoined your colony. -->
+  <RimFeast_TextWardReturns>{0}回来了，如今{2}岁，从{1}骑马而来。他们离开时还是个孩子，回来时却已拥有持剑之手、朝臣的口才和学识。\n\n他们已重新加入你的殖民地。</RimFeast_TextWardReturns>
+	<!-- EN: A ward is lost -->
+  <RimFeast_LabelWardLost>侍从下落不明</RimFeast_LabelWardLost>
+	<!-- EN: {0} was being raised in the halls of {1}. Whatever passed between you and that house, no one is riding home. You will not see them again. -->
+  <RimFeast_TextWardLost>{0}原本在{1}的大厅中成长。无论你与那个家族之间发生了什么，没有人骑马归来。你将再也见不到他们了。</RimFeast_TextWardLost>
+	<!-- EN: Word comes from {1}. {0} died in their household. They send what little there is to send. -->
+  <RimFeast_TextWardDied>{1}传来消息。{0}死在了他们的家族中。他们送来仅有的遗物。</RimFeast_TextWardDied>
+	<!-- EN: {0} of {1} has been drinking, and has not taken his eyes off {2} for the better part of an hour. Now he rises and asks, more or less politely, whether she might keep him company tonight.\n\nYou can let him put the question to her himself, or answer for her. She may not say what he wants to hear, and he will take that badly. -->
+  <RimFeast_TextRequestBed>{1}的{0}一直在喝酒，大半个时辰里目光都没离开过{2}。此刻他站起身来，多多少少还算礼貌地问，今晚她能否陪陪他。\n\n你可以让他自己去问她，也可以替她作答。她未必会说他想听的话，而他恐怕会难以接受。</RimFeast_TextRequestBed>
+	<!-- EN: {0} of {1} has been drinking, and has not taken his eyes off {2} for the better part of an hour. He knows perfectly well she is {3}'s. He rises and asks anyway, loud enough for the whole table.\n\nYou can let him put the question to her himself, or answer for her. She may not say what he wants to hear, and he will take that badly. -->
+  <RimFeast_TextRequestBedTaken>{1}的{0}一直在喝酒，大半个时辰里目光都没离开过{2}。他心里很清楚她是{3}的人。但他还是站起身来，声音大到整桌人都听得见，开口提出了请求。\n\n你可以让他自己去问她，也可以替她作答。她未必会说他想听的话，而他恐怕会难以接受。</RimFeast_TextRequestBedTaken>
+	<!-- EN: Let him ask her himself -->
+  <RimFeast_RequestBedAllow>让他自己去问她</RimFeast_RequestBedAllow>
+	<!-- EN: {0} takes {1} by the hand and leaves the hall. The house is delighted. -->
+  <RimFeast_MessageBedAccepted>{0}牵起{1}的手，离开了大厅。这个家族欣喜不已。</RimFeast_MessageBedAccepted>
+	<!-- EN: {0} turns him down flat, in front of the whole table. {1} does not take it well. -->
+  <RimFeast_MessageBedRefused>{0}当着全桌人的面断然拒绝了他。{1}难以接受这个结果。</RimFeast_MessageBedRefused>
+	<!-- EN: Grant it -->
+  <RimFeast_RequestAccept>应允</RimFeast_RequestAccept>
+	<!-- EN: Refuse -->
+  <RimFeast_RequestRefuse>拒绝</RimFeast_RequestRefuse>
+	<!-- EN: He can have my answer in steel -->
+  <RimFeast_RequestSteel>我的答案将用钢铁作答</RimFeast_RequestSteel>
+	<!-- EN: {0} asked, standing. He will not sit back down. -->
+  <RimFeast_MessageAnsweredInSteel>{0}发起了决斗。他不会坐回去了。</RimFeast_MessageAnsweredInSteel>
+	<!-- EN: The {0} is carried to the head of the table. {1} is pleased. -->
+  <RimFeast_MessageRequestWeaponDone>{0}被捧到首席桌前。{1}十分满意。</RimFeast_MessageRequestWeaponDone>
+	<!-- EN: {0} is taken down from your hall and loaded onto their wagon. {1} is pleased. -->
+  <RimFeast_MessageRequestArtDone>{0}被人从你的大厅取下，装上了他们的马车。{1}十分满意。</RimFeast_MessageRequestArtDone>
+	<!-- EN: You swear off {0} before the whole hall. {1} is pleased. -->
+  <RimFeast_MessageRequestRivalDone>你在全厅面前与{0}断绝关系。{1}十分满意。</RimFeast_MessageRequestRivalDone>
+	<!-- EN: You refuse {0} in front of their knights. -->
+  <RimFeast_MessageRequestRefused>你在他们的骑士们面前拒绝了{0}。</RimFeast_MessageRequestRefused>
+	<!-- EN: Requests at the table -->
+  <RimFeast_SetRequests>宴席上的请求</RimFeast_SetRequests>
+	<!-- EN: Halfway through the feast, the head of the cortege may rise and ask a favour of you: a blade from your forge, a piece of art from your hall, a child to raise as a page in his own household, a night with one of your people if he has drunk enough to ask, or that you swear off a rival house. Granting it costs and pays. Refusing insults them. -->
+  <RimFeast_SetRequestsTip>宴会进行到一半时，随从队伍的首领可能会起身向你讨一个人情：要一件你的锻炉打造的武器、一幅你大厅中的艺术品、一个孩子到他的家族中做侍从，亦或——如果他醉得够胆——与你的一名成员共度一夜，或者请你与某个敌对家族断绝关系。应允有代价也有回报，拒绝则是对他们的羞辱。</RimFeast_SetRequestsTip>
+	<!-- EN: Chance of a request: {0}% per feast -->
+  <RimFeast_SetRequestChance>提出请求的几率：每场宴会{0}%</RimFeast_SetRequestChance>
+	<!-- EN: Attend the feast at {0} -->
+  <RimFeast_AwayVisitLabel>前往{0}赴宴</RimFeast_AwayVisitLabel>
+	<!-- EN: travelling to a feast at {0} -->
+  <RimFeast_AwayVisitReport>正在前往{0}赴宴</RimFeast_AwayVisitReport>
+	<!-- EN: You are invited -->
+  <RimFeast_LabelAwayInvited>你收到了邀请</RimFeast_LabelAwayInvited>
+	<!-- EN: A rider comes from {0}. They are setting their own table at {1}, and they would have you at it.\n\nIt is roughly {2} days of travel. Send a caravan to their gates, and send someone who can hold a conversation, it will matter more than what you carry. The invitation stands for {3} days. -->
+  <RimFeast_TextAwayInvited>{0}派来一位骑手。他们将在{1}设宴，想请你入席。\n\n大约有{2}天的路程。派一支商队前往他们的门前，再派一个能言善道的人去——那比你携带的礼物更重要。邀请有效期为{3}天。</RimFeast_TextAwayInvited>
+	<!-- EN: Houses more than {0} days of travel away do not invite you -->
+  <RimFeast_SetAwayMaxTravel>距离超过{0}天路程的家族不会邀请你</RimFeast_SetAwayMaxTravel>
+	<!-- EN: A feast is being held here for you ({0} days left). -->
+  <RimFeast_AwaySeatInspect>这里正在为你举行宴会（还剩{0}天）。</RimFeast_AwaySeatInspect>
+	<!-- EN: Nobody in this caravan is fit to sit at a noble table. -->
+  <RimFeast_MessageAwayNoDiplomat>这支商队中没有人配坐在贵族的餐桌旁。</RimFeast_MessageAwayNoDiplomat>
+	<!-- EN: Knives at their table -->
+  <RimFeast_LabelAwayKnives>他们桌上的刀光</RimFeast_LabelAwayKnives>
+	<!-- EN: The feast at {0} went the way feasts go. Good meat, better drink, and their lord on his feet with a cup raised to your health.\n\nThen the doors closed and the men along the wall drew steel. Whatever your people did next, they did with a full stomach and no armour on. -->
+  <RimFeast_TextAwayKnives>{0}的宴会一如寻常：上好的肉，更好的酒，他们的领主站起身来举杯祝你健康。\n\n然后大门紧闭，墙边的人拔出了利刃。你的人接下来无论做什么，都只能顶着满腹的酒菜，身上没有盔甲。</RimFeast_TextAwayKnives>
+	<!-- EN: {0} did not leave that hall. -->
+  <RimFeast_TextAwayKnivesDead>{0}没能活着离开那座大厅。</RimFeast_TextAwayKnivesDead>
+	<!-- EN: {0} was carried out of it and back to the caravan, in a bad way. -->
+  <RimFeast_TextAwayKnivesHurt>{0}被人抬出了大厅，送回商队，伤势惨重。</RimFeast_TextAwayKnivesHurt>
+	<!-- EN: Every one of them cut their way to the door and rode out. Nobody will believe it either. -->
+  <RimFeast_TextAwayKnivesClean>他们每一个人都杀出一条血路冲到门口，骑上马逃了出来。这件事恐怕也没人会信。</RimFeast_TextAwayKnivesClean>
+	<!-- EN: It was never a feast -->
+  <RimFeast_LabelAwayAmbush>那从来就不是一场宴会</RimFeast_LabelAwayAmbush>
+	<!-- EN: Your people never reached the gates. {0} took them a mile short of the walls, where there would be no witnesses and no table to break the guest right at.\n\nThey are on their own out there. -->
+  <RimFeast_TextAwayAmbush>你的人从未抵达城门。{0}在离城墙还有一英里的地方伏击了他们，那里没有目击者，也没有能破坏宾客权利的宴席。\n\n他们在那里只能靠自己了。</RimFeast_TextAwayAmbush>
+	<!-- EN: Seated below the salt -->
+  <RimFeast_LabelAwaySlight>被安排在下席</RimFeast_LabelAwaySlight>
+	<!-- EN: {0} sat your people at the far end of the hall, served them last, and sent them home before the music started. Everyone in that hall understood exactly what was meant. -->
+  <RimFeast_TextAwaySlight>{0}把你的人安排在大厅最远的角落里，最后一个上菜，音乐开始前就把他们打发回家。那座大厅里的每个人都明白这究竟是什么意思。</RimFeast_TextAwaySlight>
+	<!-- EN: A quiet evening -->
+  <RimFeast_LabelAwayDull>一个平静的夜晚</RimFeast_LabelAwayDull>
+	<!-- EN: Your people ate at the table of {0}, said the right things, and rode home. Nothing was gained and nothing was lost, which is more than some evenings manage. -->
+  <RimFeast_TextAwayDull>你的人坐在{0}的餐桌前，说了该说的客套话，然后骑马回家。无所获也无所失，这已胜过许多夜晚了。</RimFeast_TextAwayDull>
+	<!-- EN: A good evening at their table -->
+  <RimFeast_LabelAwayFine>他们桌上的一晚好时光</RimFeast_LabelAwayFine>
+	<!-- EN: {0} kept a fine hall and your people did you credit in it. Goodwill improved by {1}. -->
+  <RimFeast_TextAwayFine>{0}的大厅办得不错，你的人在那里为你挣得了脸面。好感度提升了{1}。</RimFeast_TextAwayFine>
+	<!-- EN: They will be talking about it -->
+  <RimFeast_LabelAwaySongs>他们会传颂此事</RimFeast_LabelAwaySongs>
+	<!-- EN: Your people were the talk of the hall of {0}. Their lord would not let the caravan leave empty. Goodwill improved by {1}.\n\nThey ride home with {2}. -->
+  <RimFeast_TextAwaySongs>你的人成了{0}大厅里的话题中心。他们的领主不肯让商队空手而归。好感度提升了{1}。\n\n他们带着{2}骑马回家。</RimFeast_TextAwaySongs>
+	<!-- EN: Houses invite you back -->
+  <RimFeast_SetAwayFeasts>家族邀请你回访</RimFeast_SetAwayFeasts>
+	<!-- EN: A house that has dined at your table, or thinks well enough of you already, will eventually set its own and ask you to come. Send a caravan to the marked tile. How the evening goes depends on your best negotiator, on how well they think of you, on how often they have eaten at your table, and on whether you once butchered their cortege. -->
+  <RimFeast_SetAwayFeastsTip>曾在你的桌前赴宴、或对你已怀有足够好感的家族，终会摆下自己的宴席邀请你前来。派遣一支商队前往标记的地块。那晚的进展取决于你最好的谈判者、他们对你的看法、他们在你桌上吃过几次饭，以及你是否曾屠杀过他们的随从队伍。</RimFeast_SetAwayFeastsTip>
+	<!-- EN: An invitation arrives about every {0} days -->
+  <RimFeast_SetAwayDays>大约每{0}天收到一次邀请</RimFeast_SetAwayDays>
+	<!-- EN: An invitation stands for {0} days -->
+  <RimFeast_SetAwayWindow>邀请有效期为{0}天</RimFeast_SetAwayWindow>
+	<!-- EN: Invitation sent to {0}. -->
+  <RimFeast_SpotInvited>已向{0}发出邀请。</RimFeast_SpotInvited>
+	<!-- EN: They arrive {0}, {1}. -->
+  <RimFeast_EtaLine>他们将于{0}{1}抵达。</RimFeast_EtaLine>
+	<!-- EN: today -->
+  <RimFeast_EtaToday>今天</RimFeast_EtaToday>
+	<!-- EN: tomorrow -->
+  <RimFeast_EtaTomorrow>明天</RimFeast_EtaTomorrow>
+	<!-- EN: in {0} days -->
+  <RimFeast_EtaDays>{0}天后</RimFeast_EtaDays>
+	<!-- EN: in the morning -->
+  <RimFeast_EtaMorning>清晨</RimFeast_EtaMorning>
+	<!-- EN: around midday -->
+  <RimFeast_EtaMidday>正午前后</RimFeast_EtaMidday>
+	<!-- EN: late in the afternoon -->
+  <RimFeast_EtaAfternoon>傍晚时分</RimFeast_EtaAfternoon>
+	<!-- EN: in the evening -->
+  <RimFeast_EtaEvening>入夜时分</RimFeast_EtaEvening>
+	<!-- EN: Cortege of {0} on its way. -->
+  <RimFeast_SpotTraveling>{0}的随从队伍正在赶来。</RimFeast_SpotTraveling>
+	<!-- EN: Feast underway with {0}. -->
+  <RimFeast_SpotFeasting>正在与{0}举行宴会。</RimFeast_SpotFeasting>
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BotchJobDivineOrder_Chosen.description>[PAWN_nameDef]在年幼时被选中接受崇高者的考验，这是一个将身体和精神坚韧推至极限的残酷训练。很少有人能够在考验下存活，但那些成功的人将成为神圣秩序的精英十字军、审判官或传令官。</BotchJobDivineOrder_Chosen.description>
+  <!-- EN: [PAWN_nameDef] was chosen at a young age to undergo the trials of the exalted, a brutal training regime that pushes physical and mental fortitude to it's absolute limit. Few survive the trials but for those that do, they emerge as elite crusaders, inquistors or heralds of the divine order. -->
+  <BotchJobDivineOrder_Chosen.baseDesc>[PAWN_nameDef]在年幼时被选中接受崇高者的考验，这是一个将身体和精神坚韧推至极限的残酷训练。很少有人能够在考验下存活，但那些成功的人将成为神圣秩序的精英十字军、审判官或传令官。</BotchJobDivineOrder_Chosen.baseDesc>
+  <!-- EN: chosen of the exalted -->
+  <BotchJobDivineOrder_Chosen.title>被选中者</BotchJobDivineOrder_Chosen.title>
+  <!-- EN: chosen -->
+  <BotchJobDivineOrder_Chosen.titleShort>选中者</BotchJobDivineOrder_Chosen.titleShort>
+
+  <BotchJobDivineOrder_Crusader.description>[PAWN_nameDef]通过了崇高者的考验，成为神圣秩序的十字军。</BotchJobDivineOrder_Crusader.description>
+  <!-- EN: [PAWN_nameDef] survived the trials of the exalted and emerged as a crusader of the divine order. -->
+  <BotchJobDivineOrder_Crusader.baseDesc>[PAWN_nameDef]通过了崇高者的考验，成为神圣秩序的十字军。</BotchJobDivineOrder_Crusader.baseDesc>
+  <!-- EN: divine order crusader -->
+  <BotchJobDivineOrder_Crusader.title>神圣秩序十字军</BotchJobDivineOrder_Crusader.title>
+  <!-- EN: crusader -->
+  <BotchJobDivineOrder_Crusader.titleShort>十字军</BotchJobDivineOrder_Crusader.titleShort>
+
+  <BotchJobDivineOrder_Herald.description>[PAWN_nameDef]通过崇高者的考验，成为神圣秩序的传令官。</BotchJobDivineOrder_Herald.description>
+  <!-- EN: [PAWN_nameDef] survived the trials of the exalted and emerged as a herald of the divine order. -->
+  <BotchJobDivineOrder_Herald.baseDesc>[PAWN_nameDef]通过崇高者的考验，成为神圣秩序的传令官。</BotchJobDivineOrder_Herald.baseDesc>
+  <!-- EN: divine order herald -->
+  <BotchJobDivineOrder_Herald.title>神圣秩序传令官</BotchJobDivineOrder_Herald.title>
+  <!-- EN: herald -->
+  <BotchJobDivineOrder_Herald.titleShort>传令官</BotchJobDivineOrder_Herald.titleShort>
+
+  <BotchJobDivineOrder_Inquisitor.description>[PAWN_nameDef]通过了崇高者的考验，成为神圣秩序的审判官。</BotchJobDivineOrder_Inquisitor.description> 
+  <!-- EN: [PAWN_nameDef] survived the trials of the exalted and emerged as an inquisitor of the divine order. -->
+  <BotchJobDivineOrder_Inquisitor.baseDesc>[PAWN_nameDef]通过了崇高者的考验，成为神圣秩序的审判官。</BotchJobDivineOrder_Inquisitor.baseDesc>
+  <!-- EN: divine order inquisitor -->
+  <BotchJobDivineOrder_Inquisitor.title>神圣秩序审判官</BotchJobDivineOrder_Inquisitor.title>
+  <!-- EN: inquisitor -->
+  <BotchJobDivineOrder_Inquisitor.titleShort>审判官</BotchJobDivineOrder_Inquisitor.titleShort>
+  
+</LanguageData>

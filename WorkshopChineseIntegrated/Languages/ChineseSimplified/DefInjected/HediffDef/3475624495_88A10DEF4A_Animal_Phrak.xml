@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: toxin buildup -->
+  <DA_VirulentToxin.label>毒素积聚</DA_VirulentToxin.label>
+  <!-- EN: A dangerous toxin inflicted by a phrak. Quite dangerous as it can quickly lead to death at high doses. Even at low doses, it can generate cancers. -->
+  <DA_VirulentToxin.description>弗拉克引发的危险毒素。非常危险，高剂量时可迅速致死。即使低剂量也会引发癌症。</DA_VirulentToxin.description>
+  <!-- EN: initial -->
+  <DA_VirulentToxin.stages.initial-0.label>初症</DA_VirulentToxin.stages.initial-0.label>
+  <!-- EN: initial -->
+  <DA_VirulentToxin.stages.initial-1.label>初症</DA_VirulentToxin.stages.initial-1.label>
+  <!-- EN: minor -->
+  <DA_VirulentToxin.stages.minor.label>轻微</DA_VirulentToxin.stages.minor.label>
+  <!-- EN: moderate -->
+  <DA_VirulentToxin.stages.moderate.label>中等</DA_VirulentToxin.stages.moderate.label>
+  <!-- EN: serious -->
+  <DA_VirulentToxin.stages.serious.label>较重</DA_VirulentToxin.stages.serious.label>
+  <!-- EN: extreme -->
+  <DA_VirulentToxin.stages.extreme.label>极重</DA_VirulentToxin.stages.extreme.label>
+  
+</LanguageData>

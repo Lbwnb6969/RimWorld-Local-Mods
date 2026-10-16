@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decreased -->
+  <AM_LearningRate_Decreased.label>降低</AM_LearningRate_Decreased.label>
+  <!-- EN: Childhood should be a time of simplicity and play. Overburdening young minds with excessive learning only leads to stress and a loss of innocence. -->
+  <AM_LearningRate_Decreased.description>孩子们的童年应该是朴实且快乐的。他们需要在玩耍中健康成长，而不是被繁重的课业压得喘不过气来，最终失去纯真。</AM_LearningRate_Decreased.description>
+  
+  <!-- EN: increased -->
+  <AM_LearningRate_Increased.label>提高</AM_LearningRate_Increased.label>
+  <!-- EN: The minds of children are fertile ground, ready to be shaped and cultivated. -->
+  <AM_LearningRate_Increased.description>孩子们的心智如同肥沃的土地，等待着被知识塑造和耕耘。</AM_LearningRate_Increased.description>
+  
+  <!-- EN: normal -->
+  <AM_LearningRate_Normal.label>普通</AM_LearningRate_Normal.label>
+  <!-- EN: Children should learn and grow at their own pace, guided by natural curiosity and the wisdom of their elders. -->
+  <AM_LearningRate_Normal.description>我们应该让孩子们按照自己的步调来学习与成长，并借由他们与生俱来的好奇心和长者的智慧加以引导。</AM_LearningRate_Normal.description>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dame dress -->
+  <VFEM2_Apparel_DameDress.label>贵妇长裙</VFEM2_Apparel_DameDress.label>
+  <!-- EN: A beautiful full body dress for a dame. Wearing such clothes will inevitably lead to getting used to luxury, so the user will not be capable of dumb labor. -->
+  <VFEM2_Apparel_DameDress.description>为贵妇人量身定制的漂亮长裙。穿上这样的衣服，必然会使人习惯于奢侈，所以穿戴者不能干重活。</VFEM2_Apparel_DameDress.description>
+  
+  <!-- EN: heavy leather armor -->
+  <VFEM2_Apparel_HeavyLeatherArmor.label>重型皮甲</VFEM2_Apparel_HeavyLeatherArmor.label>
+  <!-- EN: A heavy leather breastplate meant to provide warmth and protection to heavy infantry during battles in frigid tundras. Unfortunately, this armor leaves one slowed and more vulnerable to melee attacks. -->
+  <VFEM2_Apparel_HeavyLeatherArmor.description>一件重型皮质装甲，能让重装步兵在寒冷地带作战。然而该装甲会减缓速度，更难闪开近战攻击。</VFEM2_Apparel_HeavyLeatherArmor.description>
+  
+  <!-- EN: jester outfit -->
+  <VFEM2_Apparel_JesterOutfit.label>弄臣装</VFEM2_Apparel_JesterOutfit.label>
+  <!-- EN: A colorful jester outfit. It predisposes to conversation, but it's impossible to learn anything in such a suit. -->
+  <VFEM2_Apparel_JesterOutfit.description>一套色彩斑斓的弄臣装。容易挑起话题，但在这种装束下很难有什么认真的交流。</VFEM2_Apparel_JesterOutfit.description>
+  
+  <!-- EN: king’s robes -->
+  <VFEM2_Apparel_KingsRobes.label>王袍</VFEM2_Apparel_KingsRobes.label>
+  <!-- EN: A long robe with golden chestplate, worthy of a king. Extremely beautiful. -->
+  <VFEM2_Apparel_KingsRobes.description>金色胸甲连带上长袍，才配得上一个真正的王。非常漂亮。</VFEM2_Apparel_KingsRobes.description>
+  
+  <!-- EN: leather armor -->
+  <VFEM2_Apparel_LeatherArmor.label>皮甲</VFEM2_Apparel_LeatherArmor.label>
+  <!-- EN: This armor is made much more carefully and tightly out of processed leathers, sacrificing some insulation in favor of extra protection against damage. Intended to be worn by front-line troops and often accompanied by a shield. -->
+  <VFEM2_Apparel_LeatherArmor.description>用小块动物皮革缝制成的装甲。在保暖的同时还有不错的防御能力。通常由携带盾牌的前排士兵穿戴。</VFEM2_Apparel_LeatherArmor.description>
+  
+  <!-- EN: mantle -->
+  <VFEM2_Apparel_Mantle.label>披肩</VFEM2_Apparel_Mantle.label>
+  <!-- EN: A light cloak covering shoulders and neck, providing some protection from the elements. -->
+  <VFEM2_Apparel_Mantle.description>一件覆盖了肩膀和颈部的小型披风，提供少许防御。</VFEM2_Apparel_Mantle.description>
+  
+  <!-- EN: padded armor -->
+  <VFEM2_Apparel_PaddedArmor.label>衬垫甲</VFEM2_Apparel_PaddedArmor.label>
+  <!-- EN: A thick, quilted garment designed to absorb impacts and provide moderate protection. Often used by foot soldiers or worn under heavier armor. -->
+  <VFEM2_Apparel_PaddedArmor.description>一件加厚的软质甲衣，能提供尚可的防护。</VFEM2_Apparel_PaddedArmor.description>
+  
+  <!-- EN: heavy plate armor -->
+  <VFEM2_Apparel_PlateArmorHeavy.label>重型板甲</VFEM2_Apparel_PlateArmorHeavy.label>
+  <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. The plates have been reinforced which offers significantly more protection, but at the cost of mobility. -->
+  <VFEM2_Apparel_PlateArmorHeavy.description>强化后的厚重多层金属装甲可以覆盖全身，提供极佳的防护效果，但是牺牲了机动性为代价。</VFEM2_Apparel_PlateArmorHeavy.description>
+  
+  <!-- EN: tabard -->
+  <VFEM2_Apparel_Tabard.label>罩袍</VFEM2_Apparel_Tabard.label>
+  <!-- EN: A sleeveless cloth overgarment worn over armor or clothing, designed to display the wearer's heraldry. Though it provides no protection, it proudly showcases the colors and symbol of their allegiance. -->
+  <VFEM2_Apparel_Tabard.description>一件穿在盔甲外面的无袖罩袍，用于展示纹章。虽然提供不了任何防护，但它表明了穿戴者的忠诚。</VFEM2_Apparel_Tabard.description>
+  
+</LanguageData>

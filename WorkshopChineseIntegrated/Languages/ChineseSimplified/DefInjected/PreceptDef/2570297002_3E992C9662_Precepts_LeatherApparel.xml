@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <VME_LeatherApparel_Abhorrent.label>厌恶</VME_LeatherApparel_Abhorrent.label>
+  <!-- EN: Slaughtering an animal to use its skin as apparel is cruel and inhumane. -->
+  <VME_LeatherApparel_Abhorrent.description>杀死动物并用它们的皮革做衣服是残忍且不人道的。</VME_LeatherApparel_Abhorrent.description>
+  
+  <!-- EN: disliked -->
+  <VME_LeatherApparel_Disliked.label>反感</VME_LeatherApparel_Disliked.label>
+  <!-- EN: Using animal leathers is something that should be avoided. -->
+  <VME_LeatherApparel_Disliked.description>我们应当避免杀死动物并利用它们的皮革。</VME_LeatherApparel_Disliked.description>
+  
+</LanguageData>

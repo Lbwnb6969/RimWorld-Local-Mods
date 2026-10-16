@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ballista Bolt Splash -->
+
+  <DankPyon_Damage_BallistaBolt.label>弩箭</DankPyon_Damage_BallistaBolt.label>
+  <DankPyon_Damage_BallistaBolt.deathMessage>{0}被弩箭射死了。</DankPyon_Damage_BallistaBolt.deathMessage>
+
+
+  <!-- Boulder Splash -->
+
+  <DankPyon_Boulder.label>巨石</DankPyon_Boulder.label>
+  <DankPyon_Boulder.deathMessage>{0}被巨石砸死了。</DankPyon_Boulder.deathMessage>
+
+  <DankPyon_BoulderTarred.label>巨石</DankPyon_BoulderTarred.label>
+  <DankPyon_BoulderTarred.deathMessage>{0}被巨石砸死了。</DankPyon_BoulderTarred.deathMessage>
+
+  <DankPyon_SchratCollapse.label>树灵压顶</DankPyon_SchratCollapse.label>
+  <DankPyon_SchratCollapse.deathMessage>{0}被树灵的树干压死了。</DankPyon_SchratCollapse.deathMessage>
+
+  <DankPyon_LindwurmAcid.label>林德虫咬击</DankPyon_LindwurmAcid.label>
+  <DankPyon_LindwurmAcid.deathMessage>{0}被林德虫咬死了。</DankPyon_LindwurmAcid.deathMessage>
+
+  <DankPyon_LindwurmAcidBurn.label>林德虫酸灼伤</DankPyon_LindwurmAcidBurn.label>
+  <DankPyon_LindwurmAcidBurn.deathMessage>{0}因林德虫酸液腐蚀致死。</DankPyon_LindwurmAcidBurn.deathMessage>
+
+  <!-- Swallowing -->
+
+  <DankPyon_Swallow.label>生吞</DankPyon_Swallow.label>
+  <DankPyon_Swallow.deathMessage>{0}被生吞活剥了。</DankPyon_Swallow.deathMessage>
+
+  <DankPyon_Daze.label>闪光罐爆炸</DankPyon_Daze.label>
+  <DankPyon_Daze.deathMessage>{0}因闪光罐爆炸而死。</DankPyon_Daze.deathMessage>
+
+
+  <DankPyon_AlpSleep.label>噩梦缠身</DankPyon_AlpSleep.label>
+  <DankPyon_AlpSleep.deathMessage>{0}在噩梦中死亡。</DankPyon_AlpSleep.deathMessage>
+
+  <DankPyon_AlpNightmare.label>噩梦创伤</DankPyon_AlpNightmare.label>
+  <DankPyon_AlpNightmare.deathMessage>{0}被刺死了。</DankPyon_AlpNightmare.deathMessage>
+
+</LanguageData>

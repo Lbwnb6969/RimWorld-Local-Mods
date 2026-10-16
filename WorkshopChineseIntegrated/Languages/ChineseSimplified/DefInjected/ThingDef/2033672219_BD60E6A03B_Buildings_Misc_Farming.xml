@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scarecrow -->
+  <VFE_Scarecrow.label>稻草人</VFE_Scarecrow.label>
+  <!-- EN: A humanoid figure made out of hay, dressed in old clothes to deter animals in a large radius. Small animals will be too afraid to approach. -->
+  <VFE_Scarecrow.description>用干草制成的假人，身上穿戴着破旧的衣物。可以吓退大片范围内的小动物。</VFE_Scarecrow.description>
+  
+  <!-- EN: sprinkler -->
+  <VFE_Sprinkler.label>喷灌器</VFE_Sprinkler.label>
+  <!-- EN: A water sprinkler, providing an area around it with water. Enhances the growth of surrounding plants. -->
+  <VFE_Sprinkler.description>自动洒水器，给周围的植被提供水分，促其生长。</VFE_Sprinkler.description>
+  
+</LanguageData>

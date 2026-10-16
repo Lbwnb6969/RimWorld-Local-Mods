@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: haul to sangprimus portum -->
+  <BEWH_CarryMaterialToSangprimus.label>搬运至圣血之栈</BEWH_CarryMaterialToSangprimus.label>
+  <!-- EN: filling -->
+  <BEWH_CarryMaterialToSangprimus.gerund>填充中</BEWH_CarryMaterialToSangprimus.gerund>
+  <!-- EN: fill -->
+  <BEWH_CarryMaterialToSangprimus.verb>填充</BEWH_CarryMaterialToSangprimus.verb>
+  
+  <!-- EN: carry matrix to gene gestator -->
+  <BEWH_CarryMatrixToGeneGestator.label>将基因矩阵带到基因种子培育器</BEWH_CarryMatrixToGeneGestator.label>
+  <!-- EN: carrying -->
+  <BEWH_CarryMatrixToGeneGestator.gerund>搬运中</BEWH_CarryMatrixToGeneGestator.gerund>
+  <!-- EN: carry -->
+  <BEWH_CarryMatrixToGeneGestator.verb>搬运</BEWH_CarryMatrixToGeneGestator.verb>
+  
+  <!-- EN: carry embryo to primarch growth -->
+  <BEWH_CarryPrimarchEmbryoToVat.label>将胚胎带到原体培育舱</BEWH_CarryPrimarchEmbryoToVat.label>
+  <!-- EN: carrying -->
+  <BEWH_CarryPrimarchEmbryoToVat.gerund>搬运中</BEWH_CarryPrimarchEmbryoToVat.gerund>
+  <!-- EN: carry -->
+  <BEWH_CarryPrimarchEmbryoToVat.verb>搬运O</BEWH_CarryPrimarchEmbryoToVat.verb>
+  
+  <!-- EN: fabricate things -->
+  <BEWH_DoBillsGeneManipulationTable.label>装配物品</BEWH_DoBillsGeneManipulationTable.label>
+  <!-- EN: fabricating things at -->
+  <BEWH_DoBillsGeneManipulationTable.gerund>装配物品中</BEWH_DoBillsGeneManipulationTable.gerund>
+  <!-- EN: fabricate -->
+  <BEWH_DoBillsGeneManipulationTable.verb>装配</BEWH_DoBillsGeneManipulationTable.verb>
+  
+  <!-- EN: haul to primarch vat -->
+  <BEWH_FillPrimarchVatWithNutrition.label>搬运至原体胚胎圣柜</BEWH_FillPrimarchVatWithNutrition.label>
+  <!-- EN: filling -->
+  <BEWH_FillPrimarchVatWithNutrition.gerund>填充中</BEWH_FillPrimarchVatWithNutrition.gerund>
+  <!-- EN: fill -->
+  <BEWH_FillPrimarchVatWithNutrition.verb>填充</BEWH_FillPrimarchVatWithNutrition.verb>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate cooked troll meat -->
+  <DA_AteCookedTrollMeat.stages.ate_cooked_troll_meat.label>食用了烹饪过的巨魔肉</DA_AteCookedTrollMeat.stages.ate_cooked_troll_meat.label>
+  <!-- EN: I ate a delicious meal prepared with troll meat. It felt amazing. -->
+  <DA_AteCookedTrollMeat.stages.ate_cooked_troll_meat.description>我吃了一顿美味的巨魔肉。感觉好极了。</DA_AteCookedTrollMeat.stages.ate_cooked_troll_meat.description>
+  
+  <!-- EN: ate troll meat -->
+  <DA_AteRawTrollMeat.stages.ate_troll_meat.label>食用了巨魔肉</DA_AteRawTrollMeat.stages.ate_troll_meat.label>
+  <!-- EN: I ate some raw troll meat. It could be worse but it would be better if it was cooked. -->
+  <DA_AteRawTrollMeat.stages.ate_troll_meat.description>我食用了生巨魔肉，它的确不是我吃过最难吃的东西，但最好烹饪一下吧。</DA_AteRawTrollMeat.stages.ate_troll_meat.description>
+  
+</LanguageData>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: double headed quadruped animal -->
+  <VAEWaste_Wasteffalo_Body.label>双头四足动物</VAEWaste_Wasteffalo_Body.label>
+  <!-- EN: left lung -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_lung.customLabel>左肺</VAEWaste_Wasteffalo_Body.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_lung.customLabel>右肺</VAEWaste_Wasteffalo_Body.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_kidney.customLabel>左肾</VAEWaste_Wasteffalo_Body.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_kidney.customLabel>右肾</VAEWaste_Wasteffalo_Body.corePart.parts.right_kidney.customLabel>
+  <!-- EN: right neck -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.customLabel>右颈部</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.customLabel>
+  <!-- EN: right head -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.customLabel>右头</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.customLabel>
+  <!-- EN: right skull -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.customLabel>右颅骨</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.customLabel>
+  <!-- EN: right brain -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.parts.right_brain.customLabel>右大脑</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.parts.right_brain.customLabel>
+  <!-- EN: right-left eye -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_eye.customLabel>右左眼</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_eye.customLabel>
+  <!-- EN: right-right eye -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_eye.customLabel>右右眼</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_eye.customLabel>
+  <!-- EN: right-left ear -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_ear.customLabel>右左耳</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_ear.customLabel>
+  <!-- EN: right-right ear -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_ear.customLabel>右右耳</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_ear.customLabel>
+  <!-- EN: right nose -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_nose.customLabel>右鼻</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_nose.customLabel>
+  <!-- EN: right jaw -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_jaw.customLabel>右下颌</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_jaw.customLabel>
+  <!-- EN: left neck -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.customLabel>左颈部</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.customLabel>
+  <!-- EN: left head -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.customLabel>左头</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.customLabel>
+  <!-- EN: left skull -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.customLabel>左颅骨</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.customLabel>
+  <!-- EN: left brain -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.parts.left_brain.customLabel>左大脑</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.parts.left_brain.customLabel>
+  <!-- EN: left-left eye -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_eye.customLabel>左左眼</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_eye.customLabel>
+  <!-- EN: left-right eye -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_eye.customLabel>左右眼</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_eye.customLabel>
+  <!-- EN: left-left ear -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_ear.customLabel>左左耳</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_ear.customLabel>
+  <!-- EN: left-right ear -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_ear.customLabel>左右耳</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_ear.customLabel>
+  <!-- EN: left nose -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_nose.customLabel>左鼻</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_nose.customLabel>
+  <!-- EN: left jaw -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_jaw.customLabel>左下颌</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_jaw.customLabel>
+  <!-- EN: front left leg -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.customLabel>左前腿</VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>左前蹄</VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.customLabel>右前腿</VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>右前蹄</VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.customLabel>左后腿</VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>左后蹄</VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.customLabel>右后腿</VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>右后蹄</VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+</LanguageData>

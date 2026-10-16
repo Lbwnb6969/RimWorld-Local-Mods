@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Retain legacy RecipeDefs for saved bills; detach their workbench registrations. -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_FirstbornArmor" or defName="Auto_GW_Rulers_PrimarisArmor" or defName="Auto_GW_Rulers_GravisArmor" or defName="Auto_GW_SM_FirstbornHelmet" or defName="Auto_GW_Rulers_PrimarisHelmet" or defName="Auto_GW_Rulers_PrimarisTenatHelmet" or defName="Auto_GW_Rulers_GravisHelmet" or defName="Auto_GW_Rulers_XthHelmet" or defName="Auto_GW_Rulers_Gun_AstartesPlasmaCannon" or defName="Auto_GW_Rulers_Bolter_Gun_Bolter" or defName="Auto_GW_Rulers_MeltaGun" or defName="Auto_GW_Rulers_AstartesShotgun" or defName="Make_GW_Rulers_Powersword" or defName="Make_GW_Rulers_Chainsword"]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_FirstbornArmor" or defName="Auto_GW_Rulers_PrimarisArmor" or defName="Auto_GW_Rulers_GravisArmor" or defName="Auto_GW_SM_FirstbornHelmet" or defName="Auto_GW_Rulers_PrimarisHelmet" or defName="Auto_GW_Rulers_PrimarisTenatHelmet" or defName="Auto_GW_Rulers_GravisHelmet" or defName="Auto_GW_Rulers_XthHelmet" or defName="Auto_GW_Rulers_Gun_AstartesPlasmaCannon" or defName="Auto_GW_Rulers_Bolter_Gun_Bolter" or defName="Auto_GW_Rulers_MeltaGun" or defName="Auto_GW_Rulers_AstartesShotgun" or defName="Make_GW_Rulers_Powersword" or defName="Make_GW_Rulers_Chainsword"]/recipeUsers</xpath>
+      <value><recipeUsers Inherit="False" /></value>
+    </match>
+  </Operation>
+</Patch>

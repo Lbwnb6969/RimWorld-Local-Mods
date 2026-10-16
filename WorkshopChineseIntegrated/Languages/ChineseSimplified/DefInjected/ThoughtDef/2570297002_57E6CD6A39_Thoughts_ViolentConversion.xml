@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awkward violent conversion -->
+  <VME_AwkwardViolentConversion.stages.awkward_violent_conversion.label>尴尬的暴力转化</VME_AwkwardViolentConversion.stages.awkward_violent_conversion.label>
+  <!-- EN: That violent conversion was awkward. The words were vague and unconvincing. -->
+  <VME_AwkwardViolentConversion.stages.awkward_violent_conversion.description>那次暴力转化令人尴尬。演讲时间拖得很长，事实证明这是一场毫无结果的反复争论。这些内容含糊不清，难以令人信服。</VME_AwkwardViolentConversion.stages.awkward_violent_conversion.description>
+  
+  <!-- EN: satisfying violent conversion -->
+  <VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.label>令人满意的暴力转化</VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.label>
+  <!-- EN: That violent conversion was satisfying. The speech was stirring and enjoyable to listen to. -->
+  <VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.description>那次暴力转化令人满意。演讲内容激动人心，听起来非常有趣。</VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.description>
+  
+  <!-- EN: spectacular violent conversion -->
+  <VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.label>引人入胜的暴力转化</VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.label>
+  <!-- EN: That violent conversion was electrifying! Surely our beliefs will prevail over any others! -->
+  <VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.description>那次暴力转化引人入胜！我们的信仰必将战胜其他的信仰！</VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.description>
+  
+</LanguageData>

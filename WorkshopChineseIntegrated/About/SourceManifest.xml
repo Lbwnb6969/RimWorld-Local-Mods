@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WorkshopChineseSources generatedUtc="2026-10-07T07:21:22.7108677Z" duplicateKeysRemoved="392">
+  <Source WorkshopId="1783630214" PackageId="RWZH.ChinesePack.HumanoidAlienRaces" Name="Humanoid Alien Races zh-pack" Files="21" />
+  <Source WorkshopId="2024971883" PackageId="RWZH.ChinesePack.VanillaFactionsExpandedCore" Name="Vanilla Expanded Framework zh-pack" Files="55" />
+  <Source WorkshopId="2029336674" PackageId="RWZH.ChinesePack.Hospitality" Name="Hospitality zh-pack" Files="18" />
+  <Source WorkshopId="2033672219" PackageId="RWZH.ChinesePack.VFE" Name="Vanilla Furniture Expanded zh-pack" Files="39" />
+  <Source WorkshopId="2035865333" PackageId="RWZH.ChinesePack.VAE" Name="Vanilla Animals Expanded zh-pack" Files="112" />
+  <Source WorkshopId="2115722898" PackageId="RWZH.ChinesePack.MapDesigner" Name="Map Designer zh-pack" Files="2" />
+  <Source WorkshopId="2134998064" PackageId="shavius.vce.zh" Name="Vanilla Cooking Expanded zh pack" Files="62" />
+  <Source WorkshopId="2135654735" PackageId="shavius.vpe.zh" Name="Vanilla Plants Expanded zh  pack" Files="38" />
+  <Source WorkshopId="2189272277" PackageId="RWZH.ChinesePack.VHE" Name="Vanilla Hair Expanded zh-pack" Files="11" />
+  <Source WorkshopId="2197732970" PackageId="shavius.vbookse.zh" Name="Vanilla Books Expanded 原版书籍扩展 简繁汉化包" Files="32" />
+  <Source WorkshopId="2272464660" PackageId="RWZH.ChinesePack.RimTraits" Name="RimTraits zh-pack" Files="14" />
+  <Source WorkshopId="2542712260" PackageId="ChineseTranslation.JapaneseCuisine" Name="Erin's Japanese Cuisine_zh" Files="4" />
+  <Source WorkshopId="2549707639" PackageId="RWZH.ChinesePack.AnimalsLogic" Name="Animals Logic zh-pack" Files="1" />
+  <Source WorkshopId="2563785688" PackageId="ZH.toolbox" Name="Tabula Rasa_zh" Files="27" />
+  <Source WorkshopId="2570297002" PackageId="shavius.vie.zh" Name="Vanilla Ideology Expanded 原版文化扩展 简繁汉化包" Files="345" />
+  <Source WorkshopId="2585417219" PackageId="ZH.com.yayo.yayoAni" Name="Yayo's Animation_zh" Files="1" />
+  <Source WorkshopId="2602274062" PackageId="ZH.iforgotmysocks.CaravanAdventures" Name="Caravan Adventures_zh" Files="50" />
+  <Source WorkshopId="2710809189" PackageId="ZH.Sarg.AlphaMemes" Name="Alpha Memes_zh" Files="422" />
+  <Source WorkshopId="2774968010" PackageId="ZH.m00nl1ght.GeologicalLandforms" Name="Geological Landforms_zh" Files="6" />
+  <Source WorkshopId="2804421885" PackageId="ZH.m00nl1ght.MapPreview" Name="Map Preview_zh" Files="2" />
+  <Source WorkshopId="2898638732" PackageId="ZH.NEW.Solaris.RatkinRaceMod" Name="NewRatkinPlus_zh" Files="139" />
+  <Source WorkshopId="2904263139" PackageId="ZH.kongkim.MedievalWalls" Name="Medieval Walls_zh" Files="1" />
+  <Source WorkshopId="2919498827" PackageId="ZH.GT.Sam.TilledSoil" Name="Tilled Soil_zh" Files="3" />
+  <Source WorkshopId="2924284353" PackageId="ChinesePackage.Owlchemist.MidSaverSaver" Name="Mid-saver Saver_zh" Files="1" />
+  <Source WorkshopId="2928366094" PackageId="ZH.ReGrowth.BOTR" Name="ReGrowth_zh" Files="48" />
+  <Source WorkshopId="2941386287" PackageId="ZH.Adamas.HospitalityCasino" Name="Hospitality: Casino_zh" Files="8" />
+  <Source WorkshopId="2944951752" PackageId="oninotamasi.Owlchemist.GiddyUp.zh" Name="Giddy-Up 2繁簡漢化" Files="14" />
+  <Source WorkshopId="2946827690" PackageId="ZH.co.uk.epicguru.meleeanimation" Name="Melee Animation_zh" Files="18" />
+  <Source WorkshopId="2953383871" PackageId="spirit.Medieval.Overhaul.zht" Name="Medieval Overhaul [zht+zh]" Files="465" />
+  <Source WorkshopId="2959740793" PackageId="ZH.Adamas.Storefront" Name="Hospitality: Storefront_zh" Files="10" />
+  <Source WorkshopId="2964740364" PackageId="spirit.DACrypts.zht" Name="Dark Ages : Crypts and Tombs [zht+zh]" Files="11" />
+  <Source WorkshopId="2973169539" PackageId="spirit.ancientarmory.zht" Name="Ancient Armory [zht+zh]" Files="5" />
+  <Source WorkshopId="3050506223" PackageId="ZH.adaptive.storage.neolithic" Name="Adaptive Storage_zh" Files="20" />
+  <Source WorkshopId="3138919128" PackageId="Nide.Chinesepack.MedievalBackstories" Name="Medieval Backstories 简繁中文汉化包" Files="2" />
+  <Source WorkshopId="3246223406" PackageId="ttyet.SimpleRecycling.zh" Name="Simple Apparel Recycling 汉化TTYET" Files="3" />
+  <Source WorkshopId="3248796760" PackageId="holarula.mlie.sdbridges.zh" Name="[sd]Bridges 桥 简/繁汉化" Files="15" />
+  <Source WorkshopId="3266897521" PackageId="ZH.MZMGOW.ReBuild" Name="ReBuild: Doors and Corners_zh" Files="16" />
+  <Source WorkshopId="3366531095" PackageId="gwinnbleidd.mothballedanddeadpawns.zh" Name="Better GC:Mothballed and World Pawns简中汉化包" Files="2" />
+  <Source WorkshopId="3412473847" PackageId="ttyet.tribalbackstories.zh" Name="Tribal Backstories 汉化TTYET" Files="3" />
+  <Source WorkshopId="3444927859" PackageId="shavius.vfemedieval2.zh" Name="Vanilla Factions Expanded - Medieval 2 zh pack" Files="110" />
+  <Source WorkshopId="3455718595" PackageId="Nide.ChinesePack.ColonyGroups" Name="[LTO] Colony Groups 简繁中文汉化包" Files="4" />
+  <Source WorkshopId="3475624495" PackageId="Van.Beasts.zh" Name="Dark Ages : Beasts and Monsters zh-pack" Files="117" />
+  <Source WorkshopId="3480599103" PackageId="zh.MinZo.tastyarmory" Name="Tasty Armory系列简体汉化包" Files="208" />
+  <Source WorkshopId="3512769102" PackageId="zh.Phonicmas.RimDark.Framework" Name="RimDark 40k - Framework简体汉化包" Files="8" />
+  <Source WorkshopId="3512805637" PackageId="zh.Phonicmas.RimDark.MankindsFinest" Name="RimDark 40k - Mankinds Finest简体汉化包" Files="152" />
+  <Source WorkshopId="3532817638" PackageId="cqss.KeyzAllowUtilities" Name="Keyz Allow Utilities 中文汉化" Files="6" />
+  <Source WorkshopId="3534101902" PackageId="det.Xenotypes.zh.hans" Name="Det's Xenotypes zh-hans" Files="80" />
+  <Source WorkshopId="3535649323" PackageId="mooncell.AOTR.ZH" Name="Architecture of the Rim (incl. corners)ZH-中文汉化(1.6)" Files="2" />
+  <Source WorkshopId="3539636548" PackageId="TritiumQ.Translation.TraitsPlus" Name="Traits Plus Zh" Files="5" />
+  <Source WorkshopId="3541122737" PackageId="Erin.FluffyFauna.zh" Name="Erin's Fluffy Fauna_zh Erin的毛茸茸动物" Files="6" />
+  <Source WorkshopId="3550539921" PackageId="van.DATools.MizZh" Name="Dark Ages : Medieval Tools-ZH+" Files="9" />
+  <Source WorkshopId="3589980876" PackageId="athelas.medievalkingdoms.core.Mukezh" Name="Medieval Kingdoms: Core简中汉化" Files="2" />
+  <Source WorkshopId="3589981884" PackageId="athelas.medievalkingdoms.poland.Mukezh" Name="Medieval Kingdoms: Poland简中汉化" Files="18" />
+  <Source WorkshopId="3589982317" PackageId="athelas.medievalkingdoms.theturks.Mukezh" Name="Medieval Kingdoms: The Turks简中汉化" Files="31" />
+  <Source WorkshopId="3595533821" PackageId="athelas.medievalkingdoms.hre.Mukezh" Name="Medieval Kingdoms: The Holy Roman Empire简中汉化" Files="17" />
+  <Source WorkshopId="3595578633" PackageId="athelas.medievalkingdoms.byzantium.Mukezh" Name="Medieval Kingdoms: Byzantine Empire简中汉化" Files="20" />
+  <Source WorkshopId="3596540748" PackageId="athelas.medievalkingdoms.france.Mukezh" Name="Medieval Kingdoms: France简中汉化" Files="10" />
+  <Source WorkshopId="3598501946" PackageId="ZH.AnimalsAreFun" Name="Animals are fun! 简繁中文汉化包" Files="2" />
+  <Source WorkshopId="3598775618" PackageId="athelas.medievalkingdoms.iberia.Mukezh" Name="Medieval Kingdoms: Iberia简中汉化" Files="21" />
+  <Source WorkshopId="3598776042" PackageId="athelas.medievalkingdoms.mongols.Mukezh" Name="Medieval Kingdoms: the Mongols简中汉化" Files="11" />
+  <Source WorkshopId="3632432936" PackageId="Natsuki.fantasy.biotech.zhcn" Name="Fantasy Biotech 简体中文汉化" Files="77" />
+  <Source WorkshopId="3653654884" PackageId="luved.animaltraits.zh" Name="Animal Traits System zh-pack" Files="7" />
+  <Source WorkshopId="3685625301" PackageId="Andromeda.NicePlantsMenu.zh" Name="Nice Plants Menu zh-pack" Files="1" />
+  <Source WorkshopId="3759688671" PackageId="forti.rimjoust.zh" Name="RimJoust zh-pack" Files="14" />
+  <Source WorkshopId="3771914705" PackageId="forti.rimfeast.zh" Name="RimFeast zh-pack" Files="8" />
+  <Source WorkshopId="3781058062" PackageId="ZH.MZMGOW.ODs.Tavern" Name="Tavern_zh" Files="9" />
+  <Source WorkshopId="2787872383" PackageId="shavius.vfeclassical.zh" Name="Vanilla Factions Expanded - Classical 古典派系扩展简繁汉化包" Files="62" />
+  <Source WorkshopId="3731130558" PackageId="shenpc.factionterritories.zh" Name="Faction Territories and Vassalage 简体中文汉化" Files="6" />
+  <Source WorkshopId="3763641173" PackageId="forti.rimsiege.zh" Name="RimSiege zh_" Files="8" />
+</WorkshopChineseSources>

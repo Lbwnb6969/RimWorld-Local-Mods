@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anaconda egg (fert.) -->
+  <AEXP_EggAnacondaFertilized.label>水蟒蛋（已受精）</AEXP_EggAnacondaFertilized.label>
+  <!-- EN: A fertilized anaconda egg. If all goes well, it should hatch into an anaconda. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggAnacondaFertilized.description>已受精的水蟒蛋。如果一切顺利应该可以孵化出小水蟒。可以生吃，但是最好烹饪后食用。</AEXP_EggAnacondaFertilized.description>
+  
+  <!-- EN: anaconda egg (unfert.) -->
+  <AEXP_EggAnacondaUnfertilized.label>水蟒蛋（未受精）</AEXP_EggAnacondaUnfertilized.label>
+  <!-- EN: An unfertilized anaconda egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggAnacondaUnfertilized.description>未受精的水蟒蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggAnacondaUnfertilized.description>
+  
+  <!-- EN: crocodile egg (fert.) -->
+  <AEXP_EggCrocodileFertilized.label>鳄鱼蛋（已受精）</AEXP_EggCrocodileFertilized.label>
+  <!-- EN: A fertilized crocodile egg. If all goes well, it should hatch into a crocodile. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggCrocodileFertilized.description>已受精的鳄鱼蛋。如果一切顺利应该可以孵化出小鳄鱼。可以生吃，但是最好烹饪后食用。</AEXP_EggCrocodileFertilized.description>
+  
+  <!-- EN: crocodile egg (unfert.) -->
+  <AEXP_EggCrocodileUnfertilized.label>鳄鱼蛋（未受精）</AEXP_EggCrocodileUnfertilized.label>
+  <!-- EN: An unfertilized crocodile egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggCrocodileUnfertilized.description>未受精的鳄鱼蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggCrocodileUnfertilized.description>
+  
+  <!-- EN: desert tortoise egg (fert.) -->
+  <AEXP_EggDesertTortoiseFertilized.label>沙漠龟蛋（已受精）</AEXP_EggDesertTortoiseFertilized.label>
+  <!-- EN: A fertilized desert tortoise egg. If all goes well, it should hatch into a baby desert tortoise. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggDesertTortoiseFertilized.description>已受精的沙漠龟蛋。如果一切顺利应该可以孵化出小沙漠龟。可以生吃，但是最好烹饪后食用。</AEXP_EggDesertTortoiseFertilized.description>
+  
+  <!-- EN: desert tortoise egg (unfert.) -->
+  <AEXP_EggDesertTortoiseUnfertilized.label>沙漠龟蛋（未受精）</AEXP_EggDesertTortoiseUnfertilized.label>
+  <!-- EN: An unfertilized desert tortoise egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggDesertTortoiseUnfertilized.description>未受精的沙漠龟蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggDesertTortoiseUnfertilized.description>
+  
+  <!-- EN: gila monster egg (fert.) -->
+  <AEXP_EggGilaMonsterFertilized.label>钝尾毒蜥蛋（已受精）</AEXP_EggGilaMonsterFertilized.label>
+  <!-- EN: A fertilized gila monster egg. If all goes well, it should hatch into a baby gila monster. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggGilaMonsterFertilized.description>已受精的钝尾毒蜥蛋。如果一切顺利应该可以孵化出小钝尾毒蜥。可以生吃，但是最好烹饪后食用。</AEXP_EggGilaMonsterFertilized.description>
+  
+  <!-- EN: gila monster egg (unfert.) -->
+  <AEXP_EggGilaMonsterUnfertilized.label>钝尾毒蜥蛋（未受精）</AEXP_EggGilaMonsterUnfertilized.label>
+  <!-- EN: An unfertilized desert gila monster egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggGilaMonsterUnfertilized.description>未受精的沙漠钝尾毒蜥蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggGilaMonsterUnfertilized.description>
+  
+  <!-- EN: platypus egg (fert.) -->
+  <AEXP_EggPlatypusFertilized.label>鸭嘴兽蛋（已受精）</AEXP_EggPlatypusFertilized.label>
+  <!-- EN: A fertilized platypus egg. If all goes well, it should hatch into a baby platypus. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggPlatypusFertilized.description>已受精的鸭嘴兽蛋。如果一切顺利应该可以孵化出小鸭嘴兽。可以生吃，但是最好烹饪后食用。</AEXP_EggPlatypusFertilized.description>
+  
+  <!-- EN: platypus egg (unfert.) -->
+  <AEXP_EggPlatypusUnfertilized.label>鸭嘴兽蛋（未受精）</AEXP_EggPlatypusUnfertilized.label>
+  <!-- EN: An unfertilized platypus egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggPlatypusUnfertilized.description>未受精的鸭嘴兽蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggPlatypusUnfertilized.description>
+  
+  <!-- EN: rattlesnake egg (fert.) -->
+  <AEXP_EggRattlesnakeFertilized.label>响尾蛇蛋（已受精）</AEXP_EggRattlesnakeFertilized.label>
+  <!-- EN: A fertilized rattlesnake egg. If all goes well, it should hatch into a rattlesnake. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggRattlesnakeFertilized.description>已受精的响尾蛇蛋。如果一切顺利应该可以孵化出小响尾蛇。可以生吃，但是最好烹饪后食用。</AEXP_EggRattlesnakeFertilized.description>
+  
+  <!-- EN: rattlesnake egg (unfert.) -->
+  <AEXP_EggRattlesnakeUnfertilized.label>响尾蛇蛋（未受精）</AEXP_EggRattlesnakeUnfertilized.label>
+  <!-- EN: An unfertilized rattlesnake egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggRattlesnakeUnfertilized.description>未受精的响尾蛇蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggRattlesnakeUnfertilized.description>
+  
+  <!-- EN: wild goose egg (fert.) -->
+  <AEXP_EggWildGooseFertilized.label>大雁蛋（已受精）</AEXP_EggWildGooseFertilized.label>
+  <!-- EN: A fertilized wild goose egg. If all goes well, it should hatch into a baby wild gosling. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggWildGooseFertilized.description>已受精的大雁蛋。如果一切顺利应该可以孵化出小雁。可以生吃，但是最好烹饪后食用。</AEXP_EggWildGooseFertilized.description>
+  
+  <!-- EN: wild goose egg (unfert.) -->
+  <AEXP_EggWildGooseUnfertilized.label>大雁蛋（未受精）</AEXP_EggWildGooseUnfertilized.label>
+  <!-- EN: An unfertilized wild goose egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggWildGooseUnfertilized.description>未受精的大雁蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggWildGooseUnfertilized.description>
+  
+</LanguageData>

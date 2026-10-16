@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cocoa.label>果树种植</Cocoa.label>
+
+  <Pemmican.label>食物保存技术</Pemmican.label>
+
+  <LongBlades.label>贵族刀剑</LongBlades.label>
+  <LongBlades.description>学习如何制作更强更好的剑，适合贵族使用。</LongBlades.description>
+
+  <PlateArmor.label>板甲</PlateArmor.label>
+  <PlateArmor.description>学习正确的铁匠和回火金属板的技术来制作昂贵的板甲。</PlateArmor.description>
+
+  <Stonecutting.label>石材加工</Stonecutting.label>
+  <Stonecutting.description>将没用的石块制作成有用的建筑石砖。建造漂亮的石地板或较丑的水泥路。</Stonecutting.description>
+
+  <Brewing.label>酿酒</Brewing.label>
+  <Brewing.description>研究酿酒的基础知识，并学习如何制作简单的酒类或调料。</Brewing.description>
+
+  <RecurveBow.label>反曲弓</RecurveBow.label>
+  <RecurveBow.description>制作效果还不错的中距离武器。</RecurveBow.description>
+
+  <Greatbow.label>长弓</Greatbow.label>
+  <Greatbow.description>制作能从远距离射杀敌人的长弓。</Greatbow.description>
+
+  <NobleApparel.label>贵族服饰</NobleApparel.label>
+  <NobleApparel.description>允许制作贵族服饰，例如褶边礼服衬衫和贵族背心。</NobleApparel.description>
+
+  <RoyalApparel.label>皇家服饰</RoyalApparel.label>
+  <RoyalApparel.description>允许制作最高等级的皇家服装，例如皇家长袍和皇冠。</RoyalApparel.description>
+
+  <Harpsichord.label>大键琴</Harpsichord.label>
+  <Harpsichord.description>制作大键琴，一种复杂的乐器。</Harpsichord.description>
+
+
+</LanguageData>

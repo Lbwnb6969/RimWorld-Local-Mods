@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chest-deep moving water -->
+  <sd_bridges_terraform_ChestDeepMovingWater.label>流动的深水</sd_bridges_terraform_ChestDeepMovingWater.label>
+  <!-- EN: Welcome to the Deep. This can be placed on shallow moving water. It is impassable! -->
+  <sd_bridges_terraform_ChestDeepMovingWater.description>欢迎来到深水区！它在流动的浅水的基础上建造而来，流动的深水是不可逾越的障碍！</sd_bridges_terraform_ChestDeepMovingWater.description>
+  
+  <!-- EN: deep water -->
+  <sd_bridges_terraform_DeepWater.label>深水</sd_bridges_terraform_DeepWater.label>
+  <!-- EN: Welcome to the Deep. This can be placed on shallow water. It is impassable! -->
+  <sd_bridges_terraform_DeepWater.description>欢迎来到深水区！它在浅水的基础上建造而来，深水是不可逾越的障碍！</sd_bridges_terraform_DeepWater.description>
+  
+  <!-- EN: dig up water -->
+  <sd_bridges_terraform_DigUpWater.label>掘水</sd_bridges_terraform_DigUpWater.label>
+  <!-- EN: You colonists will prepare terrain to later terraform it to watertiles. Will create mudy terrain to convert it to shallow water later on. -->
+  <sd_bridges_terraform_DigUpWater.description>您的殖民者将准备改造地形，以便稍后将地形改造成水域。 这会创建一个泥地区域，稍后你可以将其改造为浅水区。</sd_bridges_terraform_DigUpWater.description>
+  
+  <!-- EN: Marsh -->
+  <sd_bridges_terraform_MarshWater.label>沼泽</sd_bridges_terraform_MarshWater.label>
+  <!-- EN: The marsh makes it hard to walk for your enemies. This can be placed on mud/shallow water terrain or marsh tiles. It can not be placed on deep water. Marsh will slow pawns down if they walk over it. -->
+  <sd_bridges_terraform_MarshWater.description>沼泽让你的敌人寸步难行。 这可以放置在泥地/浅水地形或沼泽地砖上。 不能放在深水中。 沼泽会大幅减慢在上面行走的单位的速度。</sd_bridges_terraform_MarshWater.description>
+  
+  <!-- EN: shallow moving water -->
+  <sd_bridges_terraform_ShallowMovingWater.label>流动的浅水</sd_bridges_terraform_ShallowMovingWater.label>
+  <!-- EN: The shallowest of moving waters. This can be placed on mud/marsh terrain or on foundation bases to convert them back to shallow water tiles. Shallow water will slow pawns down if they walk over it. -->
+  <sd_bridges_terraform_ShallowMovingWater.description>最浅的流动水域。 这可以放置在泥地/沼泽地形或地基上，以将它们转换回浅水地形。 流动的浅水会减慢在上面行走的单位的速度。</sd_bridges_terraform_ShallowMovingWater.description>
+  
+  <!-- EN: shallow water -->
+  <sd_bridges_terraform_ShallowWater.label>浅水</sd_bridges_terraform_ShallowWater.label>
+  <!-- EN: The shallowest of waters. This can be placed on mud/marsh terrain or on foundation bases to convert them back to shallow water tiles. Shallow water will slow pawns down if they walk over it. -->
+  <sd_bridges_terraform_ShallowWater.description>最浅的水域。 这可以放置在泥地/沼泽地形或地基上，以将它们转换回浅水地形。 浅水会减慢在上面行走的单位的速度。</sd_bridges_terraform_ShallowWater.description>
+  
+</LanguageData>

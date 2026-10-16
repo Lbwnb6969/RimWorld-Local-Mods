@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amazing entombing -->
+  <AM_AmazingDreadnought.stages.amazing_entombing.label>令人惊异的战棺葬礼</AM_AmazingDreadnought.stages.amazing_entombing.label>
+  <!-- EN: That entombing was amazing. I hope when it's my turn I have no side effects like that. -->
+  <AM_AmazingDreadnought.stages.amazing_entombing.description>那次战棺葬礼令人惊异。进行抢救的医师竟如此技艺高超，我们的朋友就像无事发生一样走了出去。</AM_AmazingDreadnought.stages.amazing_entombing.description>
+  
+  <!-- EN: good entombing -->
+  <AM_GoodDreadnought.stages.good_entombing.label>令人满意的战棺葬礼</AM_GoodDreadnought.stages.good_entombing.label>
+  <!-- EN: That entombing went well, I'm sure they'll be walking shortly. -->
+  <AM_GoodDreadnought.stages.good_entombing.description>那次战棺葬礼令人满意。我相信，我们的朋友随时会醒过来的。</AM_GoodDreadnought.stages.good_entombing.description>
+  
+  <!-- EN: lackluster entombing -->
+  <AM_LacklusterDreadnought.stages.lackluster_entombing.label>枯燥乏味的战棺葬礼</AM_LacklusterDreadnought.stages.lackluster_entombing.label>
+  <!-- EN: That entombing was messy and dangerous. I hope they make it through. -->
+  <AM_LacklusterDreadnought.stages.lackluster_entombing.description>那次战棺葬礼枯燥乏味，如果将来我死了，希望进行抢救的医师能尽自己最大的努力。</AM_LacklusterDreadnought.stages.lackluster_entombing.description>
+  
+  <!-- EN: disgraceful entombing -->
+  <AM_TerribleDreadnought.stages.disgraceful_entombing.label>糟糕的战棺葬礼</AM_TerribleDreadnought.stages.disgraceful_entombing.label>
+  <!-- EN: That entombing was a complete failure. I hope that doesn't happen to me when it's my time. -->
+  <AM_TerribleDreadnought.stages.disgraceful_entombing.description>那次战棺葬礼非常糟糕，我们永远失去了一位朋友。</AM_TerribleDreadnought.stages.disgraceful_entombing.description>
+  
+</LanguageData>

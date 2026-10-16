@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: call laborer gang -->
+  <BA_CallLaborerGang.label>召唤劳工大队</BA_CallLaborerGang.label>
+  <!-- EN: Call a group of 8 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_CallLaborerGang.description>召唤8名劳工协助你4天。这些劳工仅能从事普通劳作，你可像控制自有殖民者一样指挥他们，且需保障其安全。</BA_CallLaborerGang.description>
+  
+  <!-- EN: call laborer team -->
+  <BA_CallLaborerTeam.label>召唤劳工小队</BA_CallLaborerTeam.label>
+  <!-- EN: Call a group of 4 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_CallLaborerTeam.description>召唤4名劳工协助你4天。这些劳工仅能从事普通劳作，你可像控制自有殖民者一样指挥他们，且需保障其安全。</BA_CallLaborerTeam.description>
+  
+  <!-- EN: call cataphract squad -->
+  <BA_CallMilitaryAidGrand.label>召唤甲胄骑兵小队</BA_CallMilitaryAidGrand.label>
+  <!-- EN: Call a group of 4 heavy cataphracts to aid you in battle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_CallMilitaryAidGrand.description>召唤4名重型甲胄骑兵支援你的战斗。</BA_CallMilitaryAidGrand.description>
+  
+  <!-- EN: call varangian guards -->
+  <BA_CallMilitaryAidLarge.label>召唤瓦兰吉亚卫队</BA_CallMilitaryAidLarge.label>
+  <!-- EN: Call a group of 4 professional varangians to aid you in battle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_CallMilitaryAidLarge.description>召唤4名专业瓦兰吉亚战士支援你的战斗。</BA_CallMilitaryAidLarge.description>
+  
+  <!-- EN: call Byzantine infantyman -->
+  <BA_CallMilitaryAidSmall.label>召唤拜占庭步兵小队</BA_CallMilitaryAidSmall.label>
+  <!-- EN: Call a group of 4 Byzantine infantryman to aid you in battle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_CallMilitaryAidSmall.description>召唤4名拜占庭步兵支援你的战斗。</BA_CallMilitaryAidSmall.description>
+  
+  <!-- EN: call aerodrone salvo -->
+  <BA_CallOrbitalSalvo.label>召唤无人机齐射</BA_CallOrbitalSalvo.label>
+  <!-- EN: Call a salvo of bombard strikes around a target position.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_CallOrbitalSalvo.description>在目标位置周边召唤一轮投射物齐射打击。</BA_CallOrbitalSalvo.description>
+  
+  <!-- EN: call cannon bombardment -->
+  <BA_CallOrbitalStrike.label>召唤攻城炮轰击</BA_CallOrbitalStrike.label>
+  <!-- EN: Call a single-impact bombardment at a target position.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_CallOrbitalStrike.description>在目标位置实施一次单点攻城炮轰击。</BA_CallOrbitalStrike.description>
+  
+  <!-- EN: call transport shuttle -->
+  <BA_CallTransportShuttle.label>召唤运输穿梭机</BA_CallTransportShuttle.label>
+  <!-- EN: Call a shuttle for your own use. It will transport colonists, items, and animals anywhere you like within 70 world tiles.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_CallTransportShuttle.description>召唤一架供你专用的运输穿梭机。可在70个世界格范围内，将殖民者、物品及动物运送到任意地点。</BA_CallTransportShuttle.description>
+  
+  <!-- EN: food drop -->
+  <BA_FoodDrop.label>物资投送-食物</BA_FoodDrop.label>
+  <!-- EN: Call for a drop of 20 packaged survival meals.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_FoodDrop.description>召唤20份包装生存餐投送。</BA_FoodDrop.description>
+  
+  <!-- EN: glitter med drop -->
+  <BA_GlitterMedDrop.label>物资投送-闪耀药物</BA_GlitterMedDrop.label>
+  <!-- EN: Call for a drop of 5 glitterworld medicine.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_GlitterMedDrop.description>召唤5份闪耀世界药物投送。</BA_GlitterMedDrop.description>
+  
+  <!-- EN: silver drop -->
+  <BA_SilverDrop.label>物资投送-银币</BA_SilverDrop.label>
+  <!-- EN: Call for a drop of 500 silver.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_SilverDrop.description>召唤500枚银币投送。</BA_SilverDrop.description>
+  
+  <!-- EN: steel drop -->
+  <BA_SteelDrop.label>物资投送-钢材</BA_SteelDrop.label>
+  <!-- EN: Call for a drop of 250 steel.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_SteelDrop.description>召唤250单位钢材投送。</BA_SteelDrop.description>
+  
+  <!-- EN: trade with caravans -->
+  <BA_TradeCaravan.label>与商队贸易</BA_TradeCaravan.label>
+  <!-- EN: Allows trading with Byzantine caravans.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_TradeCaravan.description>允许与拜占庭商队进行贸易。</BA_TradeCaravan.description>
+  
+  <!-- EN: trade with settlements -->
+  <BA_TradeSettlement.label>与聚落贸易</BA_TradeSettlement.label>
+  <!-- EN: Allows trading with Byzantine settlements.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_TradeSettlement.description>允许与拜占庭聚落进行贸易。</BA_TradeSettlement.description>
+  
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutrolope -->
+  <RG_Neutrolope.label>中性羊</RG_Neutrolope.label>
+  <!-- EN: Engineered for neutroamine production, the neutrolope grows a large sac of pure neutroamine on its back. Though it is weak and fragile for its size, other animals avoid it similarly to a boomalope, despite the fact it does not explode when it dies. It can be milked to produce neutroamine. -->
+  <RG_Neutrolope.description>专为制药生产而创造的物种，中性羊背上的大囊里有大量高纯度的液态中性胺。虽然体形纤细脆弱，其他动物还是会因为其长得和爆炸羊很像而避开它们。可以定期产出中性胺。</RG_Neutrolope.description>
+  <!-- EN: head -->
+  <RG_Neutrolope.tools.head.label>头</RG_Neutrolope.tools.head.label>
+  <!-- EN: left hoof -->
+  <RG_Neutrolope.tools.left_hoof.label>左蹄</RG_Neutrolope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <RG_Neutrolope.tools.right_hoof.label>右蹄</RG_Neutrolope.tools.right_hoof.label>
+  
+  <!-- EN: rimclaw -->
+  <RG_Rimclaw.label>边缘死亡爪</RG_Rimclaw.label>
+  <!-- EN: Rimclaws are giant apex predators mutated from iguana, well adapted to highly polluted environments. They are incredibly fast, powerful and intelligent. -->
+  <RG_Rimclaw.description>具有毒素适应性的巨型顶级捕食者。边缘死亡爪由鬣蜥突变而成，它们不仅身手矫健、力大无穷，其智力也相当出色。</RG_Rimclaw.description>
+  <!-- EN: horn -->
+  <RG_Rimclaw.tools.horn.label>角</RG_Rimclaw.tools.horn.label>
+  <!-- EN: left claw -->
+  <RG_Rimclaw.tools.left_claw.label>左爪</RG_Rimclaw.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <RG_Rimclaw.tools.right_claw.label>右爪</RG_Rimclaw.tools.right_claw.label>
+  <!-- EN: head -->
+  <RG_Rimclaw.tools.head.label>头</RG_Rimclaw.tools.head.label>
+  
+</LanguageData>

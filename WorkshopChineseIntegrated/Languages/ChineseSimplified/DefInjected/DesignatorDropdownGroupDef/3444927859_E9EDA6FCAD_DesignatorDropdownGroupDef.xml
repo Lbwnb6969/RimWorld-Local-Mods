@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cobblestone wall -->
+  <VFEM2_CobblestoneWalls.label>卵石墙</VFEM2_CobblestoneWalls.label>
+  
+  <!-- EN: matting -->
+  <VFEM2_Floor_Matting.label>地席</VFEM2_Floor_Matting.label>
+  
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: phrak -->
+  <DA_Phrak.label>弗拉克</DA_Phrak.label>
+  <!-- EN: The buzzing pest of the marshy groves. The phrak is a mosquito-like insectoid that hunts using it's large rostrum. While not particularly armored, it makes up for with its agility and quick reflexes, outmaneuvering even the most trained of fighters. They spread by laying numerous eggs in bodies of water, making swamps a perfect habitat for them.\n\nPhraks can use a special organ near their abdomen to shoot a volley of toxic barbpikes in order to quickly take out hostile threats from afar. -->
+  <DA_Phrak.description>泥泞树丛中的嗡鸣害虫。弗拉克是一种类似蚊子，用口器捕猎的昆虫。尽管没有全副武装，它最大程度地利用了自己的敏捷和快速反应的能力，即使饱经训练的战士也跟不上它的动作。它们在水体中产很多卵，沼泽是其绝佳的栖息地。\n\n弗拉克可使用腹部附近的特殊器官发射一排倒刺在远处解决威胁。</DA_Phrak.description>
+  <!-- EN: mandibles -->
+  <DA_Phrak.tools.mandibles.label>虫颚</DA_Phrak.tools.mandibles.label>
+  <!-- EN: rostrum -->
+  <DA_Phrak.tools.rostrum.label>口器</DA_Phrak.tools.rostrum.label>
+  <!-- EN: head -->
+  <DA_Phrak.tools.head.label>头</DA_Phrak.tools.head.label>
+  
+  <!-- EN: toxic barbpike -->
+  <DA_Shot_Phrak.label>毒性倒刺</DA_Shot_Phrak.label>
+  
+  <!-- EN: phrak egg (fert.) -->
+  <EggPhrakFertilized.label>弗拉克卵（已受精）</EggPhrakFertilized.label>
+  <!-- EN: A fertilized phrak egg. If all goes well, it should hatch into a phrak larvling. It can be eaten raw, but it's much better cooked. -->
+  <EggPhrakFertilized.description>一枚已受精的弗拉克卵。如果一切顺利会孵化出弗拉克幼虫。能生食，但最好烹饪后吃。</EggPhrakFertilized.description>
+  
+  <!-- EN: phrak egg (unfert.) -->
+  <EggPhrakUnfertilized.label>弗拉克卵（未受精）</EggPhrakUnfertilized.label>
+  <!-- EN: The sticky egg of a phrak. It can be eaten raw, but it's much, much better cooked. -->
+  <EggPhrakUnfertilized.description>一枚未受精的弗拉克卵。能生食，但最好烹饪后吃。</EggPhrakUnfertilized.description>
+  
+</LanguageData>

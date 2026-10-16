@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_RestraintChair.label>束缚椅</CE_RestraintChair.label>
+  <CE_RestraintChair.description>用于束缚囚犯的椅子。配有固定手臂的束缚具，可防止手臂移动。</CE_RestraintChair.description>
+  <CE_RestraintRack.label>束缚刑架</CE_RestraintRack.label>
+  <CE_RestraintRack.description>用于关押囚犯的大型刑架。配有固定手臂和腿部的束缚具。</CE_RestraintRack.description>
+  <CE_RestraintPole.label>束缚柱</CE_RestraintPole.label>
+  <CE_RestraintPole.description>用于束缚囚犯的立式束缚柱。配有固定手臂和腿部的束缚具。</CE_RestraintPole.description>
+  <CE_Pillory.label>木枷</CE_Pillory.label>
+  <CE_Pillory.description>让囚犯保持站立、并束缚其颈部和手腕的木制刑具。</CE_Pillory.description>
+  <CE_Guillotine.label>断头台</CE_Guillotine.label>
+  <CE_Guillotine.description>装有配重刀刃、用于斩首囚犯的束缚刑具。</CE_Guillotine.description>
+  <CE_WallMountedCot.label>墙挂床</CE_WallMountedCot.label>
+  <CE_WallMountedCot.description>固定在墙上的廉价粗糙木板，舒适度很低，通常用于监狱。</CE_WallMountedCot.description>
+  <CE_CageSmall.label>小型囚笼</CE_CageSmall.label>
+  <CE_CageSmall.description>用于关押单名囚犯的小型带栅栏囚笼。</CE_CageSmall.description>
+  <CE_CageMedium.label>中型囚笼</CE_CageMedium.label>
+  <CE_CageMedium.description>带栅栏的囚笼，足以容纳两名囚犯。</CE_CageMedium.description>
+  <CE_CageLarge.label>大型囚笼</CE_CageLarge.label>
+  <CE_CageLarge.description>宽敞的带栅栏囚笼，最多可容纳四名囚犯。</CE_CageLarge.description>
+</LanguageData>

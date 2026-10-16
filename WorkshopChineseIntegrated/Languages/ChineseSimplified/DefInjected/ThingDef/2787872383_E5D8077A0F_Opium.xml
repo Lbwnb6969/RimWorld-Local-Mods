@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: opium -->
+  <VFEC_Opium.label>鸦片</VFEC_Opium.label>
+  <!-- EN: A particularly strong and very addictive painkiller capable of entirely nullifying one's pain. It is recommended that if one is to begin using this drug, they should become daily users, as withdrawal is extremely difficult to cope with and starts quickly. -->
+  <VFEC_Opium.description>一种上瘾性极强的强效止痛药，可以完全隔断一个人的痛觉。一旦有人开始用这种药，那就必须天天续药，不然严重的戒断反应很快就会开始。</VFEC_Opium.description>
+  <!-- EN: Take {0} -->
+  <VFEC_Opium.ingestible.ingestCommandString>服用{0}</VFEC_Opium.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <VFEC_Opium.ingestible.ingestReportString>正在服用{0}</VFEC_Opium.ingestible.ingestReportString>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTME.Edit>Edit map elements</WTME.Edit>
+  <WTME.EditDesc>Edit loaded tile mutators and hilliness for this world tile.</WTME.EditDesc>
+  <WTME.Title>World tile editor</WTME.Title>
+  <WTME.TileSummary>Tile {0}: {1}; generated map: {2}</WTME.TileSummary>
+  <WTME.Unknown>unknown</WTME.Unknown>
+  <WTME.Hilliness>Hilliness</WTME.Hilliness>
+  <WTME.ReadOnlyGenerated>This tile already has a generated map and is read-only.</WTME.ReadOnlyGenerated>
+  <WTME.CurrentMutators>Current map elements</WTME.CurrentMutators>
+  <WTME.Search>Search</WTME.Search>
+  <WTME.Remove>Remove</WTME.Remove>
+  <WTME.Add>Add</WTME.Add>
+  <WTME.Invalid>Invalid</WTME.Invalid>
+  <WTME.ConflictTitle>Confirm map tile change</WTME.ConflictTitle>
+  <WTME.ConflictText>{0} conflicts with {1}; the native tile rules may replace an existing element. Continue?</WTME.ConflictText>
+  <WTME.HillinessConflictText>Changing hilliness to {0} makes these elements invalid: {1}. Continue?</WTME.HillinessConflictText>
+  <WTME.Confirm>Continue</WTME.Confirm>
+  <WTME.Cancel>Cancel</WTME.Cancel>
+  <WTME.OpenWorldEditor>Edit selected world tile</WTME.OpenWorldEditor>
+  <WTME.OpenWorldEditorDesc>Open the map element and hilliness editor for the selected world tile.</WTME.OpenWorldEditorDesc>
+</LanguageData>

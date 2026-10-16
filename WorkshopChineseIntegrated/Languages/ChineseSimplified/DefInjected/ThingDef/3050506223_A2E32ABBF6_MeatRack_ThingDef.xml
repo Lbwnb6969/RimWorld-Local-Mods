@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Meat Rack -->
+  <ASF_MeatRack.label>猎获架</ASF_MeatRack.label>
+  <!-- EN: Sturdy pieces of wood lashed together with leather or fabric for storing large quantities of meat off the ground. Does not prevent meat deterioration. Doesn't prevent meat from affecting the beauty of its surroundings \n\nTotal Capacity: 6 Stacks\n\nDynamic Textures -->
+  <ASF_MeatRack.description>经皮革或织物捆绑加固过的结实木架，可用于吊挂储存各种猎物的肉。存放在里面的物品露天时会老化。\n\n储存物品的数量会使此建筑的贴图发生变化。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：6组\n【可储存类型】：肉类</ASF_MeatRack.description>
+  
+</LanguageData>

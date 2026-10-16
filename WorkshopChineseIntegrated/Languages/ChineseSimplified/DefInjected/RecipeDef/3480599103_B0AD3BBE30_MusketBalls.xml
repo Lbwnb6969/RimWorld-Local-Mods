@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make arquebus ball x50 -->
+  <MakeAmmo_ArquebusBall.label>制作火绳枪弹x50</MakeAmmo_ArquebusBall.label>
+  <!-- EN: Craft 50 arquebus balls. -->
+  <MakeAmmo_ArquebusBall.description>制作50发火绳枪弹。</MakeAmmo_ArquebusBall.description>
+  <!-- EN: Making arquebus balls. -->
+  <MakeAmmo_ArquebusBall.jobString>制作火绳枪弹</MakeAmmo_ArquebusBall.jobString>
+  
+</LanguageData>

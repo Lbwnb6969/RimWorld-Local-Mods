@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: craving coffee -->
+  <AM_CoffeeNeed.stages.craving_coffee.label>渴求咖啡</AM_CoffeeNeed.stages.craving_coffee.label>
+  <!-- EN: I need coffee, badly... My head feels foggy, my energy is gone... I'd chew roasted dirt if it smelled remotely like coffee right now. -->
+  <AM_CoffeeNeed.stages.craving_coffee.description>我真的好想来杯咖啡啊...我的头昏昏沉沉，精力也消耗殆尽...如果泥土闻起来能有咖啡味儿的话，我肯定会把它丢进壶里煮了...</AM_CoffeeNeed.stages.craving_coffee.description>
+  <!-- EN: desiring coffee -->
+  <AM_CoffeeNeed.stages.desiring_coffee.label>需求咖啡</AM_CoffeeNeed.stages.desiring_coffee.label>
+  <!-- EN: It's been too long since I had a proper cup of coffee. The day just doesn't feel right without it. -->
+  <AM_CoffeeNeed.stages.desiring_coffee.description>我已经很久没喝咖啡了。不来上一杯，我这一天都过得不顺心。</AM_CoffeeNeed.stages.desiring_coffee.description>
+  <!-- EN: wanting coffee -->
+  <AM_CoffeeNeed.stages.wanting_coffee.label>想要咖啡</AM_CoffeeNeed.stages.wanting_coffee.label>
+  <!-- EN: A cup of coffee would be nice. Just something hot and invigorating to get me going. -->
+  <AM_CoffeeNeed.stages.wanting_coffee.description>给我来杯咖啡吧。只要抿一口就能让身子热起来，并振奋精神。</AM_CoffeeNeed.stages.wanting_coffee.description>
+  <!-- EN: content -->
+  <AM_CoffeeNeed.stages.content.label>咖啡满足</AM_CoffeeNeed.stages.content.label>
+  <!-- EN: Ahh, I've had my coffee. I feel awake and ready to take on the day. -->
+  <AM_CoffeeNeed.stages.content.description>啊...这咖啡可真棒。我现在相当清醒，且准备好迎接新的一天了。</AM_CoffeeNeed.stages.content.description>
+  <!-- EN: perfectly brewed -->
+  <AM_CoffeeNeed.stages.perfectly_brewed.label>咖啡满足（完全）</AM_CoffeeNeed.stages.perfectly_brewed.label>
+  <!-- EN: This was divine. Perfectly brewed coffee, warming my body and sharpening my mind. -->
+  <AM_CoffeeNeed.stages.perfectly_brewed.description>这可真是太美妙了。煮得如此完美的咖啡，不仅温暖了我的身体，也明晰了我的心智。</AM_CoffeeNeed.stages.perfectly_brewed.description>
+  
+</LanguageData>

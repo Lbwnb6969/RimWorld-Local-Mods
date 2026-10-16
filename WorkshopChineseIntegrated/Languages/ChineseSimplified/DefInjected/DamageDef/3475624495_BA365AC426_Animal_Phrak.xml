@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: toxic sting -->
+  <DA_ToxicBarbpike.label>毒性叮咬</DA_ToxicBarbpike.label>
+  <!-- EN: {0} has been stung to death. -->
+  <DA_ToxicBarbpike.deathMessage>{0}被咬死了。</DA_ToxicBarbpike.deathMessage>
+  
+</LanguageData>

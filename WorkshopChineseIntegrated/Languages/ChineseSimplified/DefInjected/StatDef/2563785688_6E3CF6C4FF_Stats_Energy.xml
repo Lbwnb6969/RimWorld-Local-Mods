@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: energy rate multiplier -->
+  <TabulaRasa_EnergyMultiplier.label>能量消耗速率乘数</TabulaRasa_EnergyMultiplier.label>
+  <!-- EN: A multiplier on how quickly a pawn loses energy. -->
+  <TabulaRasa_EnergyMultiplier.description>此单位消耗能量的速度。</TabulaRasa_EnergyMultiplier.description>
+  
+  <!-- EN: energy rate offset -->
+  <TabulaRasa_EnergyOffset.label>能量消耗速率偏移</TabulaRasa_EnergyOffset.label>
+  <!-- EN: An offset applied to the user's energy use rate. -->
+  <TabulaRasa_EnergyOffset.description>能量消耗速率根据此项的值偏移。</TabulaRasa_EnergyOffset.description>
+  
+</LanguageData>

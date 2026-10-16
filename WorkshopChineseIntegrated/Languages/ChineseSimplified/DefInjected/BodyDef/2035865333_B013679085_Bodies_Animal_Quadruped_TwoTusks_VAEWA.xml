@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wasteboar -->
+  <VAEWaste_Wasteboar.label>污毒野猪</VAEWaste_Wasteboar.label>
+  <!-- EN: left lung -->
+  <VAEWaste_Wasteboar.corePart.parts.left_lung.customLabel>左肺</VAEWaste_Wasteboar.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <VAEWaste_Wasteboar.corePart.parts.right_lung.customLabel>右肺</VAEWaste_Wasteboar.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <VAEWaste_Wasteboar.corePart.parts.left_kidney.customLabel>左肾</VAEWaste_Wasteboar.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <VAEWaste_Wasteboar.corePart.parts.right_kidney.customLabel>右肾</VAEWaste_Wasteboar.corePart.parts.right_kidney.customLabel>
+  <!-- EN: first left eye -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_left_eye.customLabel>第二左眼</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_left_eye.customLabel>
+  <!-- EN: first right eye -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_right_eye.customLabel>第一右眼</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_right_eye.customLabel>
+  <!-- EN: second left eye -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_left_eye.customLabel>第二左眼</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_left_eye.customLabel>
+  <!-- EN: second right eye -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_right_eye.customLabel>第二右眼</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_right_eye.customLabel>
+  <!-- EN: left ear -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: first left tusk -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_left_tusk.customLabel>左獠牙</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_left_tusk.customLabel>
+  <!-- EN: first right tusk -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_right_tusk.customLabel>右獠牙</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_right_tusk.customLabel>
+  <!-- EN: second left tusk -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_left_tusk.customLabel>左次獠牙</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_left_tusk.customLabel>
+  <!-- EN: second right tusk -->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_right_tusk.customLabel>右次獠牙</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <VAEWaste_Wasteboar.corePart.parts.front_left_leg.customLabel>左前腿</VAEWaste_Wasteboar.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <VAEWaste_Wasteboar.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>左前蹄</VAEWaste_Wasteboar.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <VAEWaste_Wasteboar.corePart.parts.front_right_leg.customLabel>右前腿</VAEWaste_Wasteboar.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <VAEWaste_Wasteboar.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>右前蹄</VAEWaste_Wasteboar.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <VAEWaste_Wasteboar.corePart.parts.rear_left_leg.customLabel>左后腿</VAEWaste_Wasteboar.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <VAEWaste_Wasteboar.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>左后蹄</VAEWaste_Wasteboar.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <VAEWaste_Wasteboar.corePart.parts.rear_right_leg.customLabel>右后腿</VAEWaste_Wasteboar.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <VAEWaste_Wasteboar.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>右后蹄</VAEWaste_Wasteboar.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+</LanguageData>

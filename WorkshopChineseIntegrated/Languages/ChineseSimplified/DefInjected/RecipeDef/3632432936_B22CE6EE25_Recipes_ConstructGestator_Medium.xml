@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestate ballistae -->
+  <VR_Construct_Ballistae.label>孕育弩炮</VR_Construct_Ballistae.label>
+  <!-- EN: Gestate a ballistae construct. -->
+  <VR_Construct_Ballistae.description>孕育一个弩炮构装体。</VR_Construct_Ballistae.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Ballistae.jobString>孕育构装体中。</VR_Construct_Ballistae.jobString>
+  
+  <!-- EN: gestate sphere (scorcher) -->
+  <VR_Construct_Scorcher.label>孕育构装体炽蚕</VR_Construct_Scorcher.label>
+  <!-- EN: Gestate a sphere (scorcher) construct. -->
+  <VR_Construct_Scorcher.description>孕育一个构装体炽蚕。</VR_Construct_Scorcher.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Scorcher.jobString>孕育构装体中。</VR_Construct_Scorcher.jobString>
+  
+  <!-- EN: gestate sphere (hammer) -->
+  <VR_Construct_Sphere_Melee_Hammer.label>孕育近战球体（战锤）</VR_Construct_Sphere_Melee_Hammer.label>
+  <!-- EN: Gestate a melee sphere construct. -->
+  <VR_Construct_Sphere_Melee_Hammer.description>孕育一个近战球体构装体。</VR_Construct_Sphere_Melee_Hammer.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Sphere_Melee_Hammer.jobString>孕育构装体中。</VR_Construct_Sphere_Melee_Hammer.jobString>
+  
+  <!-- EN: gestate sphere (lance) -->
+  <VR_Construct_Sphere_Melee_Lance.label>孕育近战球体（骑枪）</VR_Construct_Sphere_Melee_Lance.label>
+  <!-- EN: Gestate a melee sphere construct. -->
+  <VR_Construct_Sphere_Melee_Lance.description>孕育一个近战球体构装体。</VR_Construct_Sphere_Melee_Lance.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Sphere_Melee_Lance.jobString>孕育构装体中。</VR_Construct_Sphere_Melee_Lance.jobString>
+  
+  <!-- EN: gestate sphere (sword) -->
+  <VR_Construct_Sphere_Melee_Sword.label>孕育近战球体（剑）</VR_Construct_Sphere_Melee_Sword.label>
+  <!-- EN: Gestate a melee sphere construct. -->
+  <VR_Construct_Sphere_Melee_Sword.description>孕育一个近战球体构装体。</VR_Construct_Sphere_Melee_Sword.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Sphere_Melee_Sword.jobString>孕育构装体中。</VR_Construct_Sphere_Melee_Sword.jobString>
+  
+  <!-- EN: gestate sphere (ranged) -->
+  <VR_Construct_Sphere_Range.label>孕育远程球体</VR_Construct_Sphere_Range.label>
+  <!-- EN: Gestate a ranged sphere construct. -->
+  <VR_Construct_Sphere_Range.description>孕育一个远程球体构装体。</VR_Construct_Sphere_Range.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Sphere_Range.jobString>孕育构装体中。</VR_Construct_Sphere_Range.jobString>
+  
+  <!-- EN: gestate sphere (tesla) -->
+  <VR_Construct_Tesseron.label>孕育构装体哨卫</VR_Construct_Tesseron.label>
+  <!-- EN: Gestate a sphere (tesla) construct. -->
+  <VR_Construct_Tesseron.description>孕育一个构装体哨卫。</VR_Construct_Tesseron.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Tesseron.jobString>孕育构装体中。</VR_Construct_Tesseron.jobString>
+  
+</LanguageData>

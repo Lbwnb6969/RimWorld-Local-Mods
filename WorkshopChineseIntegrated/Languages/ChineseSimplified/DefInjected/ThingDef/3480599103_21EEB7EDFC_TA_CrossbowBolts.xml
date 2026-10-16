@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crossbow bolt (steel) -->
+  <Projectile_CrossbowBoltComposite_Steel.label>弩箭(钢制)</Projectile_CrossbowBoltComposite_Steel.label>
+  
+  <!-- EN: crossbow bolt (steel) -->
+  <Projectile_CrossbowBoltWeak_Steel.label>弩箭(钢制)</Projectile_CrossbowBoltWeak_Steel.label>
+  
+  <!-- EN: crossbow bolt (stone) -->
+  <Projectile_CrossbowBoltWeak_Stone.label>弩箭(石制)</Projectile_CrossbowBoltWeak_Stone.label>
+  
+  <!-- EN: crossbow bolt (venom) -->
+  <Projectile_CrossbowBoltWeak_Venom.label>弩箭(淬毒)</Projectile_CrossbowBoltWeak_Venom.label>
+  
+</LanguageData>

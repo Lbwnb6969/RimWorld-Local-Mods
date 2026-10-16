@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gold grate tile -->
+  <RB_GoldGrateTile.label>金质格栅地砖</RB_GoldGrateTile.label>
+  <!-- EN: For idiotic and overbearing extravagance, nothing beats gold grate tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. They are very quick to clean and get a bonus to cleanliness. -->
+  <RB_GoldGrateTile.description>没有什么比金质格栅地砖更加挥霍、傲慢和白痴了。它们极其昂贵和美丽，但如果你真的在这上面生活的话，别人必定会把你当成喜欢炫富的暴发户看待。它们很容易清扫干净，也能提高房间的清洁度。</RB_GoldGrateTile.description>
+  
+  <!-- EN: gold studded tile -->
+  <RB_GoldStuddedTile.label>金质点阵地砖</RB_GoldStuddedTile.label>
+  <!-- EN: For overbearing extravagance, few things beat studded gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <RB_GoldStuddedTile.description>几乎没有什么比金质格栅地砖更加挥霍和傲慢了。它们极其昂贵和美丽，但如果你真的在这上面生活的话，别人必定会把你当成喜欢炫富的暴发户看待。</RB_GoldStuddedTile.description>
+  
+  <!-- EN: steel grate tile -->
+  <RB_MetalGrateTile.label>钢质格栅地砖</RB_MetalGrateTile.label>
+  <!-- EN: Steel grate tiles, for that spaceship workshop look. They are very quick to clean and get a bonus to cleanliness for use in medical settings. -->
+  <RB_MetalGrateTile.description>钢质的格栅地砖，拥有宇宙飞船工作间般的外表。抛光的表面使其很容易清扫干净，也能提高房间的清洁度，比较适合医疗用途。</RB_MetalGrateTile.description>
+  
+  <!-- EN: steel studded tile -->
+  <RB_MetalStuddedTile.label>钢质点阵地砖</RB_MetalStuddedTile.label>
+  <!-- EN: Steel studded tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
+  <RB_MetalStuddedTile.description>钢质的点阵地砖，拥有宇宙飞船般的外表。抛光的表面使其很容易清扫干净，也能提高房间的清洁度，比较适合医疗用途。</RB_MetalStuddedTile.description>
+  
+  <!-- EN: silver grate tile -->
+  <RB_SilverGrateTile.label>银质格栅地砖</RB_SilverGrateTile.label>
+  <!-- EN: For a futuristic but royal look, silver grate tiles fit perfectly into luxurious workshops or armories. They are very quick to clean and get a bonus to cleanliness. -->
+  <RB_SilverGrateTile.description>颇具未来主义的豪华观感，银质格栅地砖可以完美地融入豪华的工作间或军械库里。它们很容易清扫干净，也能提高房间的清洁度。</RB_SilverGrateTile.description>
+  
+  <!-- EN: silver studded tile -->
+  <RB_SilverStuddedTile.label>银质点阵地砖</RB_SilverStuddedTile.label>
+  <!-- EN: For a futuristic but royal look, silver studded tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
+  <RB_SilverStuddedTile.description>颇具未来主义的豪华观感，银质点阵地砖可以完美地融入豪华的房间里。它们很容易清扫干净，也能提高房间的清洁度。</RB_SilverStuddedTile.description>
+  
+  <!-- EN: sterile grate tile -->
+  <RB_SterileGrateTile.label>无菌格栅地砖</RB_SterileGrateTile.label>
+  <!-- EN: Sterile grate tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but very quick to clean. -->
+  <RB_SterileGrateTile.description>无菌格栅地砖具有增强清洁度的特殊功能。超洁净的房间非常适合作为医务室和研究室来使用。这种地砖铺设十分缓慢，但很容易清扫干净。</RB_SterileGrateTile.description>
+  
+  <!-- EN: sterile studded tile -->
+  <RB_SterileStuddedTile.label>无菌点阵地砖</RB_SterileStuddedTile.label>
+  <!-- EN: Sterile studded tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
+  <RB_SterileStuddedTile.description>无菌点阵地砖具有增强清洁度的特殊功能。超洁净的房间非常适合作为医务室和研究室来使用。这种地砖铺设十分缓慢，但很容易清扫干净。</RB_SterileStuddedTile.description>
+  
+</LanguageData>

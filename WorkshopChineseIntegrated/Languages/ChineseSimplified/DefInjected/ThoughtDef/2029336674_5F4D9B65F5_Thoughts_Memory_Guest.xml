@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: endorsed by recruiter -->
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.label>被招募者奉承</EndorsedByRecruiter.stages.endorsed_by_recruiter.label>
+  <!-- EN: This person was recommended to me. -->
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.description>这个人对我美言了几句。</EndorsedByRecruiter.stages.endorsed_by_recruiter.description>
+  <!-- EN: was endorsed to me -->
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>招募者奉承了我</EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>
+  
+  <!-- EN: angered by recruitment -->
+  <GuestAngered.stages.angered_by_recruitment.label>因被挖墙脚而愤怒</GuestAngered.stages.angered_by_recruitment.label>
+  <!-- EN: These guys are trying to steal our members! -->
+  <GuestAngered.stages.angered_by_recruitment.description>那群家伙正试图挖走我们的人！</GuestAngered.stages.angered_by_recruitment.description>
+  
+  <!-- EN: cheap food -->
+  <GuestCheapFood.stages.cheap_food.label>实惠的食物</GuestCheapFood.stages.cheap_food.label>
+  <!-- EN: I could buy cheap food at a dispenser. -->
+  <GuestCheapFood.stages.cheap_food.description>我可以在自动售货机买到实惠的食物。</GuestCheapFood.stages.cheap_food.description>
+  
+  <!-- EN: free bed -->
+  <GuestClaimedBed.stages.free_bed.label>免费床位</GuestClaimedBed.stages.free_bed.label>
+  <!-- EN: My bed was free so I can't complain. -->
+  <GuestClaimedBed.stages.free_bed.description>我的床位是免费的，没什么可抱怨的。</GuestClaimedBed.stages.free_bed.description>
+  <!-- EN: extremely overpriced bed -->
+  <GuestClaimedBed.stages.extremely_overpriced_bed.label>昂贵床位</GuestClaimedBed.stages.extremely_overpriced_bed.label>
+  <!-- EN: My bed was absurdly more expensive than what it's worth. -->
+  <GuestClaimedBed.stages.extremely_overpriced_bed.description>我的床位贵的离谱，远不值这个价。</GuestClaimedBed.stages.extremely_overpriced_bed.description>
+  <!-- EN: overpriced bed -->
+  <GuestClaimedBed.stages.overpriced_bed.label>高价床位</GuestClaimedBed.stages.overpriced_bed.label>
+  <!-- EN: My bed was way too expensive for what it's worth. -->
+  <GuestClaimedBed.stages.overpriced_bed.description>我的床位很贵，不值这个价。</GuestClaimedBed.stages.overpriced_bed.description>
+  <!-- EN: lame bed -->
+  <GuestClaimedBed.stages.lame_bed.label>劣质床位</GuestClaimedBed.stages.lame_bed.label>
+  <!-- EN: My bed was not worth the price. -->
+  <GuestClaimedBed.stages.lame_bed.description>我的床位不值这个价。</GuestClaimedBed.stages.lame_bed.description>
+  <!-- EN: appropriate bed -->
+  <GuestClaimedBed.stages.appropriate_bed.label>合适床位</GuestClaimedBed.stages.appropriate_bed.label>
+  <!-- EN: The price for a bed is alright here. -->
+  <GuestClaimedBed.stages.appropriate_bed.description>我的床位价格合理。</GuestClaimedBed.stages.appropriate_bed.description>
+  <!-- EN: good value bed -->
+  <GuestClaimedBed.stages.good_value_bed.label>实惠床位</GuestClaimedBed.stages.good_value_bed.label>
+  <!-- EN: My bed was a good deal. -->
+  <GuestClaimedBed.stages.good_value_bed.description>我的床位价格实惠。</GuestClaimedBed.stages.good_value_bed.description>
+  <!-- EN: great value bed -->
+  <GuestClaimedBed.stages.great_value_bed.label>超值床位</GuestClaimedBed.stages.great_value_bed.label>
+  <!-- EN: My bed was an excellent deal! -->
+  <GuestClaimedBed.stages.great_value_bed.description>我的床位物超所值！</GuestClaimedBed.stages.great_value_bed.description>
+  
+  <!-- EN: tired of talking -->
+  <GuestDismissiveAttitude.stages.tired_of_talking.label>对交谈感到厌烦</GuestDismissiveAttitude.stages.tired_of_talking.label>
+  <!-- EN: I'm done talking for now. Leave me alone. -->
+  <GuestDismissiveAttitude.stages.tired_of_talking.description>我暂时不想再聊天了。让我静静。</GuestDismissiveAttitude.stages.tired_of_talking.description>
+  
+  <!-- EN: expensive food -->
+  <GuestExpensiveFood.stages.expensive_food.label>昂贵食物</GuestExpensiveFood.stages.expensive_food.label>
+  <!-- EN: I had to pay for expensive food at a dispenser. -->
+  <GuestExpensiveFood.stages.expensive_food.description>我不得不在自动售货机购买昂贵的食物。</GuestExpensiveFood.stages.expensive_food.description>
+  
+  <!-- EN: insulted by colonist -->
+  <GuestOffendedRelationship.stages.insulted_by_colonist.label>被殖民者侮辱</GuestOffendedRelationship.stages.insulted_by_colonist.label>
+  <!-- EN: These guys are losers! -->
+  <GuestOffendedRelationship.stages.insulted_by_colonist.description>那群失败者！</GuestOffendedRelationship.stages.insulted_by_colonist.description>
+  <!-- EN: insulted me -->
+  <GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>我被侮辱了</GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>
+  
+  <!-- EN: charmed by colonist -->
+  <GuestPleasedRelationship.stages.charmed_by_colonist.label>被殖民者说服</GuestPleasedRelationship.stages.charmed_by_colonist.label>
+  <!-- EN: Such nice people! -->
+  <GuestPleasedRelationship.stages.charmed_by_colonist.description>多么好的一群人啊！</GuestPleasedRelationship.stages.charmed_by_colonist.description>
+  <!-- EN: charmed me -->
+  <GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>我被说服了</GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>
+  
+  <!-- EN: involuntarily recruited -->
+  <GuestRecruitmentForced.stages.involuntarily_recruited.label>被强行招募</GuestRecruitmentForced.stages.involuntarily_recruited.label>
+  <!-- EN: I'm not sure if I should be here. -->
+  <GuestRecruitmentForced.stages.involuntarily_recruited.description>留在这并非我本意。</GuestRecruitmentForced.stages.involuntarily_recruited.description>
+  
+</LanguageData>

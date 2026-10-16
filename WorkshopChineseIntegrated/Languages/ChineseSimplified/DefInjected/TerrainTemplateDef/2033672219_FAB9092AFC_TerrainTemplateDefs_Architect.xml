@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wooly carpet ({0}) -->
+  <VFEArch_WoolCarpet.label>毛绒地毯（{0}）</VFEArch_WoolCarpet.label>
+  <!-- EN: text.todo -->
+  <VFEArch_WoolCarpet.description>用毛绒制作的地毯。</VFEArch_WoolCarpet.description>
+  
+</LanguageData>

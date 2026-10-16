@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scorpio -->
+
+  <DankPyon_Turret_Scorpio.label>蝎弩</DankPyon_Turret_Scorpio.label>
+  <DankPyon_Turret_Scorpio.description>蝎弩是古代开发出的一种强大的射弹武器，能够远距离发射大型弩箭。在攻城和守城战中都有奇效，精确的设计让敌人感到恐惧，但在每次发射后都必须重新装填。</DankPyon_Turret_Scorpio.description>
+  <DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelGizmoLabel>蝎弩箭</DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelGizmoLabel>
+  <DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelLabel>蝎弩箭</DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelLabel>
+  <DankPyon_Turret_Scorpio.comps.CompRefuelable.outOfFuelMessage>无法发射: 需要蝎弩箭</DankPyon_Turret_Scorpio.comps.CompRefuelable.outOfFuelMessage>
+  <DankPyon_Bullet_Scorpio.label>蝎弩箭</DankPyon_Bullet_Scorpio.label>
+
+
+  <DankPyon_Gun_ScorpioTurret.label>蝎弩</DankPyon_Gun_ScorpioTurret.label>
+  <DankPyon_Gun_ScorpioTurret.description>一种古代军用攻城器械，以弩的形式安装在木制结构上。</DankPyon_Gun_ScorpioTurret.description>
+  <DankPyon_Gun_ScorpioTurret.verbs.Verb_Shoot.label>蝎弩</DankPyon_Gun_ScorpioTurret.verbs.Verb_Shoot.label>
+
+  <!-- Ballista -->
+
+  <DankPyon_Turret_Ballista.label>床弩</DankPyon_Turret_Ballista.label>
+  <DankPyon_Turret_Ballista.description>古代开发出的一种强大的射弹武器，能够远距离发射大型弩箭。在攻城和守城战中都有奇效，精确的设计让敌人感到恐惧，但在每次发射后都必须重新装填。</DankPyon_Turret_Ballista.description>
+  <DankPyon_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>巨型弩箭</DankPyon_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <DankPyon_Turret_Ballista.comps.CompRefuelable.fuelLabel>巨型弩箭</DankPyon_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <DankPyon_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>无法发射: 需要巨型弩箭</DankPyon_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+  <DankPyon_Bullet_Ballista.label>巨型弩箭</DankPyon_Bullet_Ballista.label>
+
+  <DankPyon_Gun_BallistaTurret.label>床弩</DankPyon_Gun_BallistaTurret.label>
+  <DankPyon_Gun_BallistaTurret.description>一种古代军用攻城器械，以弩的形式安装在木制结构上。</DankPyon_Gun_BallistaTurret.description>
+  <DankPyon_Gun_BallistaTurret.verbs.Verb_Shoot.label>床弩</DankPyon_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+
+
+  <!-- Trebuchet -->
+
+  <DankPyon_Turret_Trebuchet.label>投石机</DankPyon_Turret_Trebuchet.label>
+  <DankPyon_Turret_Trebuchet.description>投石机依靠强大的扭力将石块发射到很远的距离，具有摧毁墙壁的威力。这使得投石机成为一种可怕的攻城武器，能够摧毁防御工事；攻城者过去通常得冒着敌方箭雨爬上城墙，现在他们甚至可以在战斗开始前就先在城墙开出缺口。看到大型投石机被部署到战场上后，守城方应该尝试尽速摧毁它。</DankPyon_Turret_Trebuchet.description>
+
+  <DankPyon_Artillery_Trebuchet.label>投石机</DankPyon_Artillery_Trebuchet.label>
+  <DankPyon_Artillery_Trebuchet.description>一种透过扭力将石块发射到远处的攻城器械。非常不精准，但射程很远。</DankPyon_Artillery_Trebuchet.description>
+  <DankPyon_Artillery_Trebuchet.verbs.Verb_Shoot.label>投石机</DankPyon_Artillery_Trebuchet.verbs.Verb_Shoot.label>
+
+
+  <!-- Ballista Repeater -->
+
+  <DankPyon_Turret_RepeaterBallista.label>连发床弩</DankPyon_Turret_RepeaterBallista.label>
+  <DankPyon_Turret_RepeaterBallista.description>床弩是中世纪工程学的巅峰之作，它是一种强大的射弹武器，能够连续快速发射多发大型弩箭。在攻城和守城战中都有奇效，精确的设计让敌人感到恐惧，但在每次发射后都必须重新装填。</DankPyon_Turret_RepeaterBallista.description>
+  <DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelGizmoLabel>巨型弩箭</DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelGizmoLabel>
+  <DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelLabel>巨型弩箭</DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelLabel>
+  <DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.outOfFuelMessage>无法发射: 需要巨型弩箭</DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.outOfFuelMessage>
+
+  <DankPyon_Gun_RepeaterBallistaTurret.label>连发床弩</DankPyon_Gun_RepeaterBallistaTurret.label>
+  <DankPyon_Gun_RepeaterBallistaTurret.description>一种古代军用攻城器械，以弩的形式安装在木制结构上。</DankPyon_Gun_RepeaterBallistaTurret.description>
+  <DankPyon_Gun_RepeaterBallistaTurret.verbs.Verb_Shoot.label>连发床弩</DankPyon_Gun_RepeaterBallistaTurret.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

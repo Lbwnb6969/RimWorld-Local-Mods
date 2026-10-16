@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: toxiguana -->
+  <VAEWaste_Toxiguana.label>污毒鬣蜥</VAEWaste_Toxiguana.label>
+  <!-- EN: The Toxiguana is a small, two-legged lizard that is well adapted to highly polluted environments. Standing about the size of a dog, this creature is not to be underestimated. It has a formidable defense mechanism, capable of spitting corrosive acid at any predator that threatens it. When it dies, a chemical reaction causes its body to rapidly decompose, releasing a toxic cloud of gas that can be dangerous to any living thing that comes into contact with it. The Toxiguana is a remarkable example of the resilience of life in even the harshest of environments. -->
+  <VAEWaste_Toxiguana.description>已对污染和毒素产生抗性的突变生物。污毒鬣蜥依靠双足站立行走，其体型与大型犬相仿。当受到威胁时，它们会喷吐具有腐蚀性的酸液以作防卫。如果污毒鬣蜥被杀死，其尸体会因某种化学反应而快速腐烂，并释放出大量有害的毒气。“即使环境无比恶劣，生命也总会自己找到出路”。污毒鬣蜥的存在便是对这句话最有力的印证。\n\n污毒鬣蜥的肉有毒，请三思而后食。</VAEWaste_Toxiguana.description>
+  <!-- EN: left claw -->
+  <VAEWaste_Toxiguana.tools.left_claw.label>左爪</VAEWaste_Toxiguana.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VAEWaste_Toxiguana.tools.right_claw.label>右爪</VAEWaste_Toxiguana.tools.right_claw.label>
+  <!-- EN: head -->
+  <VAEWaste_Toxiguana.tools.head.label>头</VAEWaste_Toxiguana.tools.head.label>
+  <!-- EN: acid spit -->
+  <VAEWaste_Toxiguana.verbs.acid_spit.label>酸液喷吐</VAEWaste_Toxiguana.verbs.acid_spit.label>
+  
+</LanguageData>

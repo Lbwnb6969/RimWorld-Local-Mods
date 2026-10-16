@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEArch_FineMetalFloor.label>精致金属地砖</VFEArch_FineMetalFloor.label>
+  <VFEArch_FineMetalFloor.description>精致的金属地砖，能很好地彰显经济实力与地位。铺设速度较慢。</VFEArch_FineMetalFloor.description>
+  <VFEArch_FineSteelTile.label>精致钢质地砖</VFEArch_FineSteelTile.label>
+  <VFEArch_FineSteelTile.description>精致的钢质地砖，能很好地彰显经济实力与地位。铺设速度较慢。</VFEArch_FineSteelTile.description>
+  <VFEArch_FineSilverTile.label>精致银质地砖</VFEArch_FineSilverTile.label>
+  <VFEArch_FineSilverTile.description>精致的银质地砖，能很好地彰显经济实力与地位。铺设速度较慢。</VFEArch_FineSilverTile.description>
+  <VFEArch_FineGoldTile.label>精致金质地砖</VFEArch_FineGoldTile.label>
+  <VFEArch_FineGoldTile.description>精致的金质地砖，能很好地彰显经济实力与地位。铺设速度较慢。</VFEArch_FineGoldTile.description>
+</LanguageData>

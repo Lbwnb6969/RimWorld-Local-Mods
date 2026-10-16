@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!-- Actual Furniture -->
+
+  <DankPyon_RusticTorchLamp.label>质朴火把</DankPyon_RusticTorchLamp.label>
+  <DankPyon_RusticTorchLamp.description>将一片区域照亮的木制火把。人们需要有光亮才能以全速工作和移动。需要添加木材作为燃料。产生少量的热量。</DankPyon_RusticTorchLamp.description>
+
+  <DankPyon_WallTorch.label>质朴壁挂火把</DankPyon_WallTorch.label>
+  <DankPyon_WallTorch.description>将一片区域照亮的壁挂式木制火把。亮度不及普通火把，但可以安装在墙体上。需要添加木材作为燃料。产生少量的热量。</DankPyon_WallTorch.description>
+
+  <DankPyon_WallLamp.label>质朴壁挂油灯</DankPyon_WallLamp.label>
+  <DankPyon_WallLamp.description>将一片区域照亮的壁挂式金属油灯。亮度与普通火把相仿，但持续燃烧时间更久。需要焦油做为燃料，燃烧时间不会受雨水影响。</DankPyon_WallLamp.description>
+
+  <DankPyon_LampPost.label>质朴路灯</DankPyon_LampPost.label>
+  <DankPyon_LampPost.description>一种可以点亮区域的路灯。人们需要光亮才能全速移动、工作。需要定期补充木头燃料。会产生少量的热能。</DankPyon_LampPost.description>
+
+
+  <!-- Tribal Furniture -->
+
+  <DankPyon_LogTable1x2c.label>原木桌子(1x2)</DankPyon_LogTable1x2c.label>
+  <DankPyon_LogTable1x2c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_LogTable1x2c.description>
+
+  <DankPyon_LogTable1x3c.label>原木桌子(1x3)</DankPyon_LogTable1x3c.label>
+  <DankPyon_LogTable1x3c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_LogTable1x3c.description>
+
+  <DankPyon_LogTable1x4c.label>原木桌子(1x4)</DankPyon_LogTable1x4c.label>
+  <DankPyon_LogTable1x4c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_LogTable1x4c.description>
+
+  <DankPyon_LogTable2x4c.label>原木桌子(2x4)</DankPyon_LogTable2x4c.label>
+  <DankPyon_LogTable2x4c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_LogTable2x4c.description>
+
+
+  <DankPyon_LogChair.label>原木椅子</DankPyon_LogChair.label>
+  <DankPyon_LogChair.description>一种舒适、优雅的座椅。可以放置在桌子、工作台旁等等。</DankPyon_LogChair.description>
+
+  <DankPyon_LogBench1x2c.label>原木长凳(1x2)</DankPyon_LogBench1x2c.label>
+  <DankPyon_LogBench1x2c.description>一种舒适、优雅的座椅。可以放置在桌子、工作台旁等等。</DankPyon_LogBench1x2c.description>
+
+  <DankPyon_LogBench1x3c.label>原木长凳(1x3)</DankPyon_LogBench1x3c.label>
+  <DankPyon_LogBench1x3c.description>一种舒适、优雅的座椅。可以放置在桌子、工作台旁等等。</DankPyon_LogBench1x3c.description>
+
+  <DankPyon_LogBench1x4c.label>原木长凳(1x4)</DankPyon_LogBench1x4c.label>
+  <DankPyon_LogBench1x4c.description>一种舒适、优雅的座椅。可以放置在桌子、工作台旁等等。</DankPyon_LogBench1x4c.description>
+
+
+  <!-- Basic domestic furniture -->
+
+  <DankPyon_RusticStool.label>质朴圆凳</DankPyon_RusticStool.label>
+  <DankPyon_RusticStool.description>一种可以坐的简单板凳。不算很舒适，但有总比没有好。可以放置在桌子、工作台旁等等。</DankPyon_RusticStool.description>
+
+  <DankPyon_RusticChair.label>质朴餐椅</DankPyon_RusticChair.label>
+  <DankPyon_RusticChair.description>一种舒适、优雅的座椅。可以放置在桌子、工作台旁等等。</DankPyon_RusticChair.description>
+
+  <DankPyon_RusticNobleChair.label>质朴贵族椅</DankPyon_RusticNobleChair.label>
+  <DankPyon_RusticNobleChair.description>一种舒适、优雅的座椅。可以放置在桌子、工作台旁等等。</DankPyon_RusticNobleChair.description>
+
+  <DankPyon_RusticEndTable.label>质朴床头柜</DankPyon_RusticEndTable.label>
+  <DankPyon_RusticEndTable.description>一座小型床头柜，能让附近的床小幅提昇舒适度。必须放置在床头旁边。一张床只能受到一个床头柜的影响。</DankPyon_RusticEndTable.description>
+
+  <DankPyon_RusticTallEndTable.label>质朴床头柜(高)</DankPyon_RusticTallEndTable.label>
+  <DankPyon_RusticTallEndTable.description>一座小型床头柜，能让附近的床小幅提昇舒适度。必须放置在床头旁边。一张床只能受到一个床头柜的影响。</DankPyon_RusticTallEndTable.description>
+
+  <DankPyon_RusticTable1x1c.label>质朴桌子(1x1)</DankPyon_RusticTable1x1c.label>
+  <DankPyon_RusticTable1x1c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_RusticTable1x1c.description>
+
+  <DankPyon_ReinforcedRusticTable1x1c.label>加固桌子(1x1)</DankPyon_ReinforcedRusticTable1x1c.label>
+  <DankPyon_ReinforcedRusticTable1x1c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_ReinforcedRusticTable1x1c.description>
+
+  <DankPyon_RusticTable1x2c.label>质朴桌子(1x2)</DankPyon_RusticTable1x2c.label>
+  <DankPyon_RusticTable1x2c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_RusticTable1x2c.description>
+
+  <DankPyon_ReinforcedRusticTable1x2c.label>加固桌子(1x2)</DankPyon_ReinforcedRusticTable1x2c.label>
+  <DankPyon_ReinforcedRusticTable1x2c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_ReinforcedRusticTable1x2c.description>
+
+  <DankPyon_RusticTable1x3c.label>质朴桌子(1x3)</DankPyon_RusticTable1x3c.label>
+  <DankPyon_RusticTable1x3c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_RusticTable1x3c.description>
+
+  <DankPyon_RusticTable2x2c.label>质朴桌子(2x2)</DankPyon_RusticTable2x2c.label>
+  <DankPyon_RusticTable2x2c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_RusticTable2x2c.description>
+
+  <DankPyon_ReinforcedRusticTable2x2c.label>加固桌子(2x2)</DankPyon_ReinforcedRusticTable2x2c.label>
+  <DankPyon_ReinforcedRusticTable2x2c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_ReinforcedRusticTable2x2c.description>
+
+  <DankPyon_RusticRoundTable2x2c.label>质朴圆桌(2x2)</DankPyon_RusticRoundTable2x2c.label>
+  <DankPyon_RusticRoundTable2x2c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_RusticRoundTable2x2c.description>
+
+  <DankPyon_Table2x4c.label>质朴桌子(2x4)</DankPyon_Table2x4c.label>
+  <DankPyon_Table2x4c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_Table2x4c.description>
+
+  <DankPyon_ReinforcedTable2x4c.label>加固桌子(2x4)</DankPyon_ReinforcedTable2x4c.label>
+  <DankPyon_ReinforcedTable2x4c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_ReinforcedTable2x4c.description>
+
+  <DankPyon_RusticCounter1x3c.label>质朴柜台(1x3)</DankPyon_RusticCounter1x3c.label>
+  <DankPyon_RusticCounter1x3c.description>当椅子放置在桌子旁时，人们就会在此用餐。</DankPyon_RusticCounter1x3c.description>
+
+  <!-- Lighting -->
+
+  <DankPyon_Candle.label>一支蜡烛(动物油)</DankPyon_Candle.label>
+  <DankPyon_Candle.description>一支蜡烛，可以防止黑暗渗入您的房间。亮度不如一般火把，但持续燃烧时间更久。需要定期补充动物油做为燃料。</DankPyon_Candle.description>
+
+  <DankPyon_Candle_Beeswax.label>一支蜡烛(蜂蜡)</DankPyon_Candle_Beeswax.label>
+  <DankPyon_Candle_Beeswax.description>一支蜡烛，可以防止黑暗渗入您的房间。亮度不如一般火把，但持续燃烧时间更久。需要定期补充蜂蜡做为燃料。</DankPyon_Candle_Beeswax.description>
+
+  <DankPyon_Candles.label>蜡烛(动物油)</DankPyon_Candles.label>
+  <DankPyon_Candles.description>几支蜡烛，可以防止黑暗渗入您的房间。亮度不如一般火把，但持续燃烧时间更久。需要定期补充动物油做为燃料。</DankPyon_Candles.description>
+
+  <DankPyon_Candles_Beeswax.label>蜡烛(蜂蜡)</DankPyon_Candles_Beeswax.label>
+  <DankPyon_Candles_Beeswax.description>几支蜡烛，可以防止黑暗渗入您的房间。需要定期补充蜂蜡做为燃料。</DankPyon_Candles_Beeswax.description>
+
+  <DankPyon_Candelabra.label>烛台</DankPyon_Candelabra.label>
+  <DankPyon_Candelabra.description>一座小型烛台，可以防止黑暗渗入您的房间。亮度不如一般火把，但持续燃烧时间更久。需要定期补充动物油或蜂蜡做为燃料。</DankPyon_Candelabra.description>
+
+  <DankPyon_CandleStand.label>立地式烛台</DankPyon_CandleStand.label>
+  <DankPyon_CandleStand.description>一座大型立地式烛台，可以防止黑暗渗入您的房间。亮度不如一般火把，但持续燃烧时间更久。需要定期补充动物油或蜂蜡做为燃料。</DankPyon_CandleStand.description>
+
+  <DankPyon_RusticLamp.label>质朴提灯</DankPyon_RusticLamp.label>
+  <DankPyon_RusticLamp.description>一盏提灯，可以防止黑暗渗入您的房间。亮度与一般火把相仿，但持续燃烧时间更久。需要焦油做为燃料，燃烧时间不会受雨水影响。</DankPyon_RusticLamp.description>
+
+
+  <!-- Storage (Chest) -->
+
+  <DankPyon_RusticChest.label>质朴置物箱</DankPyon_RusticChest.label>
+  <DankPyon_RusticChest.description>一个可靠的木箱，用于存放您的个人物品。存放在其中的物品不会影响房间的美观，即使在室外也不会变质。多个箱子不会累加舒适度奖励。</DankPyon_RusticChest.description>
+
+  <DankPyon_MetalStrongbox.label>金属置物箱</DankPyon_MetalStrongbox.label>
+  <DankPyon_MetalStrongbox.description>一个可靠的金属箱，用于存放您的个人物品。存放在其中的物品不会影响房间的美观，即使在室外也不会变质。多个箱子不会累加舒适度奖励。</DankPyon_MetalStrongbox.description>
+
+  <DankPyon_RoyalChest.label>贵族置物箱</DankPyon_RoyalChest.label>
+  <DankPyon_RoyalChest.description>一个华丽的贵族用箱子，用于存放您的个人物品。存放在其中的物品不会影响房间的美观，即使在室外也不会变质。多个箱子不会累加舒适度奖励。</DankPyon_RoyalChest.description>
+
+
+  <!-- Dressers -->
+
+  <DankPyon_RusticDresser.label>质朴抽屉柜</DankPyon_RusticDresser.label>
+  <DankPyon_RusticDresser.description>一座抽屉柜。能让附近的床小幅提昇舒适度。一张床只能受到一个抽屉柜的影响。</DankPyon_RusticDresser.description>
+
+
+  <!-- Closet -->
+
+  <DankPyon_RusticCloset.label>质朴衣橱</DankPyon_RusticCloset.label>
+  <DankPyon_RusticCloset.description>一座高效、能美观地收纳衣物的衣橱。能让附近的床小幅提昇舒适度。</DankPyon_RusticCloset.description>
+
+  <DankPyon_RusticCloset1x2c.label>质朴衣橱(1x2)</DankPyon_RusticCloset1x2c.label>
+  <DankPyon_RusticCloset1x2c.description>一座高效、能美观地收纳衣物的衣橱。能让附近的床小幅提昇舒适度。</DankPyon_RusticCloset1x2c.description>
+
+  <!-- Bookshelf -->
+
+  <DankPyon_RusticBookshelf.label>质朴研究柜</DankPyon_RusticBookshelf.label>
+  <DankPyon_RusticBookshelf.description>放置在研究桌附近时，可提昇研究速度，一张研究桌最多能使用两座研究柜。</DankPyon_RusticBookshelf.description>
+
+  <DankPyon_RusticBookshelf1x2c.label>质朴研究柜(1x2)</DankPyon_RusticBookshelf1x2c.label>
+  <DankPyon_RusticBookshelf1x2c.description>放置在研究桌附近时，可提昇研究速度，一张研究桌最多能使用一座大研究柜。</DankPyon_RusticBookshelf1x2c.description>
+
+  <DankPyon_RusticEmptyShelf.label>质朴空书架</DankPyon_RusticEmptyShelf.label>
+  <DankPyon_RusticEmptyShelf.description>一座空书架。</DankPyon_RusticEmptyShelf.description>
+
+  <DankPyon_RusticEmptyShelf1x2c.label>质朴空书架(1x2)</DankPyon_RusticEmptyShelf1x2c.label>
+  <DankPyon_RusticEmptyShelf1x2c.description>一座大型的空书架。</DankPyon_RusticEmptyShelf1x2c.description>
+
+
+  <!-- Beds -->
+
+  <DankPyon_BedLog.label>原木床</DankPyon_BedLog.label>
+  <DankPyon_BedLog.description>一张简单、制作快速的原木床。总比睡在地上好。</DankPyon_BedLog.description>
+
+  <DankPyon_BedLogDouble.label>原木双人床</DankPyon_BedLogDouble.label>
+  <DankPyon_BedLogDouble.description>一张简单、制作快速的原木双人床。总比睡在地上好。</DankPyon_BedLogDouble.description>
+
+  <DankPyon_BedWicker.label>藤编床</DankPyon_BedWicker.label>
+  <DankPyon_BedWicker.description>一张简单、制作快速的藤编床。</DankPyon_BedWicker.description>
+
+  <DankPyon_BedWickerDouble.label>藤编双人床</DankPyon_BedWickerDouble.label>
+  <DankPyon_BedWickerDouble.description>一张简单、制作快速的藤编双人床。</DankPyon_BedWickerDouble.description>
+
+  <DankPyon_StrawBed.label>干草床</DankPyon_StrawBed.label>
+  <DankPyon_StrawBed.description>一张简单、制作快速的干草床，用干草填充以增加舒适度。</DankPyon_StrawBed.description>
+
+  <DankPyon_StrawBedDouble.label>干草双人床</DankPyon_StrawBedDouble.label>
+  <DankPyon_StrawBedDouble.description>一张简单、制作快速的干草双人床，用干草填充以增加舒适度。</DankPyon_StrawBedDouble.description>
+
+  <DankPyon_BedFur.label>毛皮床</DankPyon_BedFur.label>
+  <DankPyon_BedFur.description>一张舒适的床，由柔软舒适的毛皮制成。</DankPyon_BedFur.description>
+
+  <DankPyon_BedFurDouble.label>毛皮双人床</DankPyon_BedFurDouble.label>
+  <DankPyon_BedFurDouble.description>一张舒适的双人床，由柔软舒适的毛皮制成。</DankPyon_BedFurDouble.description>
+
+  <DankPyon_Bed_Rustic_Red.label>质朴床(红)</DankPyon_Bed_Rustic_Red.label>
+  <DankPyon_Bed_Rustic_Red.description>一张质朴而舒适的床，备有丝绸绣花被和柔软的枕头。</DankPyon_Bed_Rustic_Red.description>
+
+  <DankPyon_Bed_Rustic_Green.label>质朴床(绿)</DankPyon_Bed_Rustic_Green.label>
+  <DankPyon_Bed_Rustic_Green.description>一张质朴而舒适的床，备有丝绸绣花被和柔软的枕头。</DankPyon_Bed_Rustic_Green.description>
+
+  <DankPyon_Bed_Rustic_Blue.label>质朴床(蓝)</DankPyon_Bed_Rustic_Blue.label>
+  <DankPyon_Bed_Rustic_Blue.description>一张质朴而舒适的床，备有丝绸绣花被和柔软的枕头。</DankPyon_Bed_Rustic_Blue.description>
+
+  <DankPyon_Bed_RusticDouble_Red.label>质朴双人床(红)</DankPyon_Bed_RusticDouble_Red.label>
+  <DankPyon_Bed_RusticDouble_Red.description>一张质朴而舒适的双人床，备有丝绸绣花被和柔软的枕头。</DankPyon_Bed_RusticDouble_Red.description>
+
+  <DankPyon_Bed_RusticDouble_Green.label>质朴双人床(绿)</DankPyon_Bed_RusticDouble_Green.label>
+  <DankPyon_Bed_RusticDouble_Green.description>一张质朴而舒适的双人床，备有丝绸绣花被和柔软的枕头。</DankPyon_Bed_RusticDouble_Green.description>
+
+  <DankPyon_Bed_RusticDouble_Blue.label>质朴双人床(蓝)</DankPyon_Bed_RusticDouble_Blue.label>
+  <DankPyon_Bed_RusticDouble_Blue.description>一张质朴而舒适的双人床，备有丝绸绣花被和柔软的枕头。</DankPyon_Bed_RusticDouble_Blue.description>
+
+  <DankPyon_WoodBurningStove.label>燃木柴炉</DankPyon_WoodBurningStove.label>
+  <DankPyon_WoodBurningStove.description>一座小型燃木柴炉，足以加热一间小房间。</DankPyon_WoodBurningStove.description>
+
+  <DankPyon_RusticHearth.label>质朴壁炉</DankPyon_RusticHearth.label>
+  <DankPyon_RusticHearth.description>一座石壁炉，散发出暖和及温馨的氛围。</DankPyon_RusticHearth.description>
+
+
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centurion -->
+  <VFEC_Centurion.label>百夫长</VFEC_Centurion.label>
+  
+  <!-- EN: legionnaire -->
+  <VFEC_Legionnaire.label>军团兵</VFEC_Legionnaire.label>
+  
+  <!-- EN: praetorian -->
+  <VFEC_Praetorian.label>禁卫军团</VFEC_Praetorian.label>
+  
+  <!-- EN: archer -->
+  <VFEC_RepublicArcher.label>弓箭手</VFEC_RepublicArcher.label>
+  
+  <!-- EN: auxilia -->
+  <VFEC_RepublicAuxilia.label>辅兵</VFEC_RepublicAuxilia.label>
+  
+  <!-- EN: senator -->
+  <VFEC_RepublicSenator.label>元老议员</VFEC_RepublicSenator.label>
+  
+  <!-- EN: trader -->
+  <VFEC_RepublicTrader.label>商人</VFEC_RepublicTrader.label>
+  
+  <!-- EN: villager -->
+  <VFEC_RepublicVillager.label>村民</VFEC_RepublicVillager.label>
+  
+  <!-- EN: scorpion operator -->
+  <VFEC_ScorpionOperator.label>蝎炮手</VFEC_ScorpionOperator.label>
+  
+  <!-- EN: town guard -->
+  <VFEC_TownGuard.label>城镇守卫</VFEC_TownGuard.label>
+  
+</LanguageData>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ailment's shelf -->
+  <VFEM2_AilmentsShelf.label>药箱</VFEM2_AilmentsShelf.label>
+  <!-- EN: A small wooden cabinet that can be stocked with herbal remedies, tinctures, and basic medicinal tools. Items stored inside will never deteriorate and don't affect the beauty of their surroundings. -->
+  <VFEM2_AilmentsShelf.description>一个小型的木质柜子，可以用来储存医药和药草。物品架上的物品永远不会老化，也不会影响周围环境的美观度。</VFEM2_AilmentsShelf.description>
+  
+  <!-- EN: art tool stand -->
+  <VFEM2_ArtToolStand.label>雕刻工具架</VFEM2_ArtToolStand.label>
+  <!-- EN: A rack with chisels, hammers, and other carving tools. Increases work speed when placed near an art bench. One workbench can only use one tool stand. -->
+  <VFEM2_ArtToolStand.description>一座放有凿子，锤子和其它雕刻工具的架子。在连接到附近的艺创台后能增加其的工作速度。一个艺创台只能连接到一个工具架。</VFEM2_ArtToolStand.description>
+  
+  <!-- EN: carving board -->
+  <VFEM2_CarvingBoard.label>屠宰砧板</VFEM2_CarvingBoard.label>
+  <!-- EN: A thick, well-worn wooden board that allows for precision cuts. Increases work speed when placed near a butchering table. The sharp blades allow the butcher to extract 10% more meat and leather from any butchered creature. One workbench can only use one carving board. -->
+  <VFEM2_CarvingBoard.description>一张厚重的木质砧板，辅助切割皮肉。在连接到附近的屠宰台后能增加其的工作速度，并增加10%的皮革和肉产量。一个屠宰台只能连接到一个砧板。</VFEM2_CarvingBoard.description>
+  
+  <!-- EN: chisel rack -->
+  <VFEM2_ChiselRack.label>切石工具架</VFEM2_ChiselRack.label>
+  <!-- EN: A small rack filled with various chisels. Increases work speed when placed near a stonecutter’s table. One workbench can only use one chisel rack. -->
+  <VFEM2_ChiselRack.description>一座放有各种石工工具的架子。在连接到附近的切石桌后能增加其的工作速度。一个切石桌只能连接到一个工具架。</VFEM2_ChiselRack.description>
+  
+  <!-- EN: cleaver rack -->
+  <VFEM2_CleaverRack.label>厨刀架</VFEM2_CleaverRack.label>
+  <!-- EN: A sturdy rack holding sharp cleavers and knives. Increases work speed when placed near a butchering table. One workbench can only use one cleaver rack. -->
+  <VFEM2_CleaverRack.description>一座放有各种锋利厨刀的架子。在连接到附近的屠宰台后能增加其的工作速度。一个屠宰台只能连接到一个厨刀架。</VFEM2_CleaverRack.description>
+  
+  <!-- EN: forge bellows -->
+  <VFEM2_ForgeBellows.label>锻造风箱</VFEM2_ForgeBellows.label>
+  <!-- EN: A manually operated bellows that boosts airflow to the smithy. Increases work speed when placed near a smithy. Bellows reduce the fuel consumption of the linked workbench by 20%. One workbench can only use one bellows. -->
+  <VFEM2_ForgeBellows.description>一台手动风箱，能用来加强锻造过程中的空气供应。在连接到附近的锻造台后能增加其的工作速度，并减少20%的燃料消耗。一个锻造台只能连接到一个风箱。</VFEM2_ForgeBellows.description>
+  
+  <!-- EN: mannequin stand -->
+  <VFEM2_MannequinStand.label>人体模型</VFEM2_MannequinStand.label>
+  <!-- EN: A basic mannequin used to measure and shape garments for more refined results. Increases work speed when placed near a tailoring bench. Mannequin stand allows for more precise measurements, reducing the cost of crafting apparel by 10%. One workbench can only use one mannequin. -->
+  <VFEM2_MannequinStand.description>一个简陋的假人模型，用来辅助测量布料和设计衣物。在连接到附近的裁缝台后能增加其的工作速度，并减少10%的材料消耗。一个裁缝台只能连接到一个人体模型。</VFEM2_MannequinStand.description>
+  
+  <!-- EN: notes stack -->
+  <VFEM2_NotesStack.label>文书架</VFEM2_NotesStack.label>
+  <!-- EN: A small desk stocked with numerous notes and pieces of paper. Increases work speed when placed near a research bench. One workbench can only use one notes stack. -->
+  <VFEM2_NotesStack.description>一张堆满了各式文件的小桌。在连接到附近的研究台后能增加其的工作速度。一个研究台只能连接到一个文书架。</VFEM2_NotesStack.description>
+  
+  <!-- EN: research board -->
+  <VFEM2_ResearchBoard.label>科研黑板</VFEM2_ResearchBoard.label>
+  <!-- EN: A slate or chalkboard for sketching diagrams and sharing ideas. Increases work speed when placed near a research bench. Up to two research benches can be linked to one chalkboard. -->
+  <VFEM2_ResearchBoard.description>一架黑板，用来绘制草图和交流想法。在连接到附近的研究台后能增加其的工作速度。一个科研黑板可以连接到两个研究台。</VFEM2_ResearchBoard.description>
+  
+  <!-- EN: smithing anvil -->
+  <VFEM2_SmithingAnvil.label>铁砧</VFEM2_SmithingAnvil.label>
+  <!-- EN: A heavy steel anvil used to shape metalwork with greater precision. Increases work speed when placed near a smithy. Items of awful and poor quality crafted on the linked workbench have a chance of being upgraded by one quality level. One workbench can only use one anvil. -->
+  <VFEM2_SmithingAnvil.description>厚重的铁砧，可以辅助打制锻造品。在连接到附近的锻造台后能增加其的工作速度，并且有几率让极差和较差的成品上升一级品质。一个锻造台只能连接到一个铁砧。</VFEM2_SmithingAnvil.description>
+  
+  <!-- EN: stone clamp -->
+  <VFEM2_StoneClamp.label>石夹</VFEM2_StoneClamp.label>
+  <!-- EN: A simple clamp for holding large stones in place. Increases work speed when placed near a stonecutter’s table. The clamp allows higher productivity, increasing resource yield from all recipes by 10%. One workbench can only use one stone clamp. -->
+  <VFEM2_StoneClamp.description>一台简易的夹子，用来固定石材。在连接到附近的切石桌后能增加其的工作速度，并增加10%的产量。一个切石桌只能连接到一个石夹。</VFEM2_StoneClamp.description>
+  
+  <!-- EN: stone polisher -->
+  <VFEM2_StonePolisher.label>砂轮</VFEM2_StonePolisher.label>
+  <!-- EN: A polishing wheel that ensures sculptures have a smooth and refined finish. Increases work speed when placed near an art bench. Stone sculptures of awful and poor quality crafted on the linked art bench have a high chance of being upgraded by one quality level  One workbench can only use one stone polisher. -->
+  <VFEM2_StonePolisher.description>一个可以打磨材料的砂轮，能让雕塑表面更精致。在连接到附近的艺创台后能增加其的工作速度，并且有几率让极差和较差的石质雕塑上升一级品质。一个艺创台只能连接到一个砂轮。</VFEM2_StonePolisher.description>
+  
+  <!-- EN: surgical tools -->
+  <VFEM2_SurgicalTools.label>手术工具</VFEM2_SurgicalTools.label>
+  <!-- EN: A small stand holding scalpels, clamps, and bone saws. Increases work speed when placed near a bed of any kind, including sleeping spots and hospital beds. One bed can only use one set of surgical tools. -->
+  <VFEM2_SurgicalTools.description>放有手术刀，手术钳，骨锯等等工具的工作台。在连接到附近的床后能增加其上的医疗速度（包括睡眠点和医疗床）。一张床只能连接到一套手术工具。</VFEM2_SurgicalTools.description>
+  
+  <!-- EN: tailoring loom -->
+  <VFEM2_TailoringLoom.label>织机</VFEM2_TailoringLoom.label>
+  <!-- EN: A small loom for weaving thread. Increases work speed when placed near a tailoring bench. One workbench can only use one tailoring loom. -->
+  <VFEM2_TailoringLoom.description>一台编制丝线的织机。在连接到附近的裁缝台后能增加其的工作速度。一个裁缝台只能连接到一个织机。</VFEM2_TailoringLoom.description>
+  
+</LanguageData>

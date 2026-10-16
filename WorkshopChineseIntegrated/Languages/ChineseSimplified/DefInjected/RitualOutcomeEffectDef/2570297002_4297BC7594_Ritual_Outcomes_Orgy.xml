@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Every participant will get a "got some lovin'" memory, but the negative effects of a bad quality orgy will be much more severe than usual. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\nNote that all participants must be consenting adults. If the moral guide is not an adult the ritual will appear as blocked. -->
+  <VME_OrgyRitualOutcome.description>每名参与者都会获得“爱欲欢愉”的心情增益，但结果较差的狂欢盛宴带来的负面影响会比平时严重的多。参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。\n注意：所有参与者必须都是成年人。如果传道者不是成年人，此仪式将被禁止举行。</VME_OrgyRitualOutcome.description>
+  <!-- EN: orgy organizer present -->
+  <VME_OrgyRitualOutcome.comps.0.label>狂欢组织者出席</VME_OrgyRitualOutcome.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <VME_OrgyRitualOutcome.comps.1.label>令人难忘的房间</VME_OrgyRitualOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_OrgyRitualOutcome.comps.2.label>{PAWN_labelShort}的社交影响</VME_OrgyRitualOutcome.comps.2.label>
+  <!-- EN: organizer's social impact -->
+  <VME_OrgyRitualOutcome.comps.2.labelAbstract>组织者的社交影响</VME_OrgyRitualOutcome.comps.2.labelAbstract>
+  <!-- EN: participant count -->
+  <VME_OrgyRitualOutcome.comps.3.label>参与者数量</VME_OrgyRitualOutcome.comps.3.label>
+  <!-- EN: Grotesque -->
+  <VME_OrgyRitualOutcome.outcomeChances.0.label>荒诞的</VME_OrgyRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was grotesque! When you think of an orgy, you tend to imagine attractive people. This was... the entire opposite. The mental images will take a while to go away. -->
+  <VME_OrgyRitualOutcome.outcomeChances.0.description>{0}荒诞可笑！当想要狂欢时，我们往往会想和有魅力的人一起。然而……事实完全相反。这糟糕的回忆需要一段时间以后才能消失。</VME_OrgyRitualOutcome.outcomeChances.0.description>
+  <!-- EN: Awkward -->
+  <VME_OrgyRitualOutcome.outcomeChances.1.label>尴尬的</VME_OrgyRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was awkward. Everyone sat around not knowing exactly what to do, naked bodies laying everywhere. Quite disappointing. -->
+  <VME_OrgyRitualOutcome.outcomeChances.1.description>{0}令人尴尬。大家都坐在地上不知所措，尴尬看着对方的裸体。这太令人失望了。</VME_OrgyRitualOutcome.outcomeChances.1.description>
+  <!-- EN: Sexy -->
+  <VME_OrgyRitualOutcome.outcomeChances.2.label>性福的</VME_OrgyRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was very sexy. We gave ourselves to each other in a communal expression of our deepest passions. -->
+  <VME_OrgyRitualOutcome.outcomeChances.2.description>{0}令人性福！我们互相交融在了一起，共同表达出了我们内心最深处的激情。</VME_OrgyRitualOutcome.outcomeChances.2.description>
+  <!-- EN: Exhilarating -->
+  <VME_OrgyRitualOutcome.outcomeChances.3.label>愉悦的</VME_OrgyRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was exhilarating! We all donned our high-society masquerade masks and uncovered our bodies. A barrage of ecstasy unlike no other made our bodies tremble with barely concealed excitement. -->
+  <VME_OrgyRitualOutcome.outcomeChances.3.description>{0}令人愉悦！我们都戴上了上流社会的才会用到的化妆假面，并彼此裸露肉体。一股前所未有的愉悦感让我们的身体不停地颤抖，那种原始的性奋最终喷薄而出。</VME_OrgyRitualOutcome.outcomeChances.3.description>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked person -->
+  <VME_Violence_Abhorrent.stages.attacked_person.label>攻击了某人</VME_Violence_Abhorrent.stages.attacked_person.label>
+  <!-- EN: I have used deadly force on an adversary. It brings great shame. -->
+  <VME_Violence_Abhorrent.stages.attacked_person.description>我对他人诉诸了暴力。这让我感到了莫大的羞愧！</VME_Violence_Abhorrent.stages.attacked_person.description>
+  
+  <!-- EN: attacked person -->
+  <VME_Violence_Disapproved.stages.attacked_person.label>攻击了某人</VME_Violence_Disapproved.stages.attacked_person.label>
+  <!-- EN: I have used deadly force on an adversary. This is wrong. -->
+  <VME_Violence_Disapproved.stages.attacked_person.description>我对他人诉诸了暴力。这样做是不对的。</VME_Violence_Disapproved.stages.attacked_person.description>
+  
+  <!-- EN: attacked person -->
+  <VME_Violence_Honorable.stages.attacked_person.label>攻击了某人</VME_Violence_Honorable.stages.attacked_person.label>
+  <!-- EN: I have used deadly force on an adversary. This proves our strength and our resolve. -->
+  <VME_Violence_Honorable.stages.attacked_person.description>我对他人诉诸了暴力。这展现了我们的力量与决心。</VME_Violence_Honorable.stages.attacked_person.description>
+  
+</LanguageData>

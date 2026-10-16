@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basileus -->
+  <BA_Basileus.label>巴西琉斯</BA_Basileus.label>
+  <!-- EN: The Imperial title of basileus represents dominion over the entire Eastern Roman Empire.\n\nThe title was used by sovereigns and other persons of authority in ancient Greece and the Byzantine emperors.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Basileus.description>巴西琉斯这一帝国头衔象征着对整个东罗马帝国的统治权。\n\n该头衔曾被古希腊的君主及其他当权者，以及拜占庭皇帝所使用。</BA_Basileus.description>
+  
+  <!-- EN: despotes -->
+  <BA_Despotes.label>德斯波特斯</BA_Despotes.label>
+  <!-- EN: The title of despotes is both an honorary Byzantine court title and a landowner title. Despotes meant simply "lord" and they owned and ruled small semi-indepedent despotates\n\nIn the Empire, a despotes will typically own a settlement and surrounding land called despotates; supporting Imperial economy and providing soldiers in wartime.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Despotes.description>德斯波特斯既是拜占庭的荣誉性宫廷头衔，也是土地所有者头衔。该词本义为“领主”，持有者拥有并统治小型半独立的德斯波特领。\n\n在帝国境内，德斯波特斯通常拥有一处定居点及周边被称为“德斯波特领”的土地，为帝国经济提供支持，并在战时征召士兵。</BA_Despotes.description>
+  
+  <!-- EN: doux -->
+  <BA_Doux.label>杜克斯</BA_Doux.label>
+  <!-- EN: The doux is a landed title in Byzantine Empire. A doux govern large circumscriptions consisting of several themata.\n\nIn peacetime, a doux rules several themata and provide soldiers in wartime.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Doux.description>杜克斯是拜占庭帝国的土地头衔。持有者管辖由多个军区组成的大片辖区。\n\n和平时期，杜克斯统治多个军区；战时则负责征召士兵。</BA_Doux.description>
+  
+  <!-- EN: exarchos -->
+  <BA_Exarch.label>埃克萨科斯</BA_Exarch.label>
+  <!-- EN: The Imperial title of exarchos is the highest of the middle-ranked independent rulers.\n\nIn the Empire, exarchos control provinces of empire called exarchates. At war, a exarch can field a division-level force, or a fleet.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Exarch.description>埃克萨科斯是帝国头衔，属于中层独立统治者中的最高级别。\n\n在帝国境内，埃克萨科斯掌控被称为“埃克萨奇亚”的总督辖区。战时，持有者可组建一支师级部队或一支舰队。</BA_Exarch.description>
+  
+  <!-- EN: anthypatos -->
+  <BA_Hypatos.label>执政官</BA_Hypatos.label>
+  <!-- EN: The Imperial title of anthypatos is a highest title of provincial governors.\n\nIn the Empire, anthypatos control large regions such as North Africa. At war, a consul can usually field an army-sized force of multiple divisions, supported by several fleets.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Hypatos.description>执政官是帝国头衔，为省级总督的最高头衔。\n\n在帝国境内，执政官掌控北非等大片区域。战时，持有者通常能组建多师规模的军团级部队，并配有多支舰队支援。</BA_Hypatos.description>
+  
+  <!-- EN: merarches -->
+  <BA_Merarches.label>梅拉克斯</BA_Merarches.label>
+  <!-- EN: The title of merarches is held by high ranking military officers in Imperial army. They spend their lives as respected warriors, advisors, or commanders.\n\nIn war, merarches command large divisions called meros of a field army which is divided into two or three meros.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Merarches.description>梅拉克斯是帝国军队中的高级军官头衔。持有者终身以受尊崇的战士、顾问或指挥官身份效力。\n\n战时，梅拉克斯指挥野战军的大型分区（称为“梅罗斯”），一支野战军通常分为两到三个梅罗斯。</BA_Merarches.description>
+  
+  <!-- EN: polites -->
+  <BA_Polites.label>波里泰斯</BA_Polites.label>
+  <!-- EN: Greek name of a citizen, civis Romanus. Most Imperial citizens earn it while young through volunteer work or military service. The title is also offered to outsiders who act with honor in the eyes of the Empire.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Polites.description>波里泰斯是希腊语中“公民”的称谓，对应拉丁语“罗马公民”。大多数帝国公民在年轻时通过志愿工作或服兵役获得该头衔。\n\n对于为帝国争光的外来者，帝国也会授予这一头衔。</BA_Polites.description>
+  
+  <!-- EN: strategos -->
+  <BA_Strategos.label>斯特拉提戈斯</BA_Strategos.label>
+  <!-- EN: The title of strategos denotes a highest ranking official in Imperial military. Strategos commands large military zones called themes.\n\n During war, they take authority over the field armies that could reach up to 10,000 soldiers.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Strategos.description>斯特拉提戈斯是帝国军队中的最高级别军官头衔。持有者指挥被称为“军区”的大型军事区域。\n\n战时，他们全权统领野战军，兵力可达一万名士兵。</BA_Strategos.description>
+  
+  <!-- EN: topoteretes -->
+  <BA_Topoteretes.label>托波泰雷斯</BA_Topoteretes.label>
+  <!-- EN: The Imperial title meaning deputy or lieutenant. Found at various levels of the hierarchy, as deputies to commanders of the imperial tagmata, deputy to a drungarios.\n\nThis title is often held by senior soldiers, spies and other key individuals.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Topoteretes.description>托波泰雷斯是帝国头衔，意为“副手”或“副官”。该头衔存在于各级权力体系中，可作为中央军团指挥官的副手、德兰加里奥斯的副手等。\n\n持有者多为资深士兵、间谍及其他核心人员。</BA_Topoteretes.description>
+  
+  <!-- EN: tourmarches -->
+  <BA_Tourmarches.label>图尔马克斯</BA_Tourmarches.label>
+  <!-- EN: The title of tourmarches is the title of battalion commanders in Imperial army. \n\nDuring wartime, a tourmarches would lead a platoon of troops, captain a small frigate, or serve their liege as an advisor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Tourmarches.description>图尔马克斯是帝国军队中的营级指挥官头衔。\n\n战时，图尔马克斯可率领一支排级部队、指挥一艘小型护卫舰，或担任领主的顾问。</BA_Tourmarches.description>
+  
+</LanguageData>

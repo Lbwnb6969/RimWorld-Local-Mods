@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: opium addiction -->
+  <VFEC_OpiumAddiction.label>鸦片成瘾</VFEC_OpiumAddiction.label>
+  <!-- EN: A chemical addiction to opium. Long-term presence of opium has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of opium, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <VFEC_OpiumAddiction.description>长期的摄取鸦片已经造成了神经系统的适应。\n\n如果没有定期摄取合适剂量的鸦片，戒断反应就会开始。长时间的戒断会迫使大脑适应并恢复到正常状态，从而戒除鸦片成瘾。</VFEC_OpiumAddiction.description>
+  <!-- EN: withdrawal -->
+  <VFEC_OpiumAddiction.stages.withdrawal.label>戒断</VFEC_OpiumAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on opium -->
+  <VFEC_OpiumHigh.label>鸦片亢奋</VFEC_OpiumHigh.label>
+  <!-- EN: Active opium in the bloodstream. Dulls out pain completely. -->
+  <VFEC_OpiumHigh.description>流淌在血液里的鸦片，能够阻隔痛觉。</VFEC_OpiumHigh.description>
+  <!-- EN: an opium high -->
+  <VFEC_OpiumHigh.labelNoun>鸦片亢奋</VFEC_OpiumHigh.labelNoun>
+  
+  <!-- EN: opium tolerance -->
+  <VFEC_OpiumTolerance.label>鸦片耐受</VFEC_OpiumTolerance.label>
+  <!-- EN: A built-up tolerance to opium. The more severe this tolerance is, the more opium it takes to get the same effect. -->
+  <VFEC_OpiumTolerance.description>对鸦片的长期耐受性。耐受性越严重，想达到和之前同样的效果所需要的鸦片也就越多。</VFEC_OpiumTolerance.description>
+  <!-- EN: small -->
+  <VFEC_OpiumTolerance.stages.small.label>弱</VFEC_OpiumTolerance.stages.small.label>
+  <!-- EN: large -->
+  <VFEC_OpiumTolerance.stages.large.label>强</VFEC_OpiumTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <VFEC_OpiumTolerance.stages.massive.label>极强</VFEC_OpiumTolerance.stages.massive.label>
+  
+</LanguageData>

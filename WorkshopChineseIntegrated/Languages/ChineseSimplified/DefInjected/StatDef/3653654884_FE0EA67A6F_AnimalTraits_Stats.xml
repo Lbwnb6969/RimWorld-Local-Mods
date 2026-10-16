@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: body size factor -->
+  <AnimalTraitsSystemBodySizeFactor.label>体型系数</AnimalTraitsSystemBodySizeFactor.label>
+  <!-- EN: A multiplier applied to the animal's body size. Affects many aspects including carrying capacity, melee dodge chance, and heat output. A value of 1.2 means 20% larger. -->
+  <AnimalTraitsSystemBodySizeFactor.description>一个与动物体型相关的系数。它会影响多个方面，包括承载能力、近战闪避几率以及热量产出。数值为 1.2 表示体型增大 20%。</AnimalTraitsSystemBodySizeFactor.description>
+  
+  <!-- EN: egg count factor -->
+  <AnimalTraitsSystemEggCountFactor.label>产卵倍数</AnimalTraitsSystemEggCountFactor.label>
+  <!-- EN: A multiplier applied to the number of eggs laid by this animal. A value of 1.5 means 50% more eggs per laying. -->
+  <AnimalTraitsSystemEggCountFactor.description>该动物产卵数量的乘数。数值为 1.5 表示每次产卵数量增加 50%。</AnimalTraitsSystemEggCountFactor.description>
+  
+  <!-- EN: gather yield factor -->
+  <AnimalTraitsSystemGatherYieldFactor.label>产出倍数</AnimalTraitsSystemGatherYieldFactor.label>
+  <!-- EN: A multiplier applied to the amount of resources gathered from this animal (wool, milk). A value of 1.25 means 25% more yield. This is different from the vanilla AnimalGatherYield stat. -->
+  <AnimalTraitsSystemGatherYieldFactor.description>对从这只动物身上获取的资源（毛、奶）的数量所施加的乘数。数值为 1.25 表示产量增加 25%。这与原版的“AnimalGatherYield”属性不同。</AnimalTraitsSystemGatherYieldFactor.description>
+  
+  <!-- EN: litter size factor -->
+  <AnimalTraitsSystemLitterSizeFactor.label>后代倍数</AnimalTraitsSystemLitterSizeFactor.label>
+  <!-- EN: A multiplier applied to the number of offspring produced when this animal gives birth. A value of 2.0 means double the average litter size. Applied to the mother. -->
+  <AnimalTraitsSystemLitterSizeFactor.description>这只动物分娩时所产幼崽数量的乘数。数值为 2.0 时意味着幼崽数量是平均产仔数的两倍。此系数适用于母体。</AnimalTraitsSystemLitterSizeFactor.description>
+  
+  <!-- EN: revenge chance on harm -->
+  <AnimalTraitsSystemRevengeChanceOnHarm.label>受击反击几率</AnimalTraitsSystemRevengeChanceOnHarm.label>
+  <!-- EN: Flat bonus to the likelihood that an animal will attack a colonist after being harmed. This is added directly to the base revenge chance. -->
+  <AnimalTraitsSystemRevengeChanceOnHarm.description>这只动物在受到伤害后攻击殖民者的可能性，此加成会直接累加到基础的复仇几率之上。</AnimalTraitsSystemRevengeChanceOnHarm.description>
+  
+  <!-- EN: revenge chance on taming failure -->
+  <AnimalTraitsSystemRevengeChanceOnTamingFailure.label>驯兽反击几率</AnimalTraitsSystemRevengeChanceOnTamingFailure.label>
+  <!-- EN: Flat bonus to the likelihood that an animal will attack a colonist if a taming attempt fails. This is added directly to the base revenge chance. -->
+  <AnimalTraitsSystemRevengeChanceOnTamingFailure.description>这只动物在驯服失败后攻击殖民者的可能性，此加成会直接累加到基础的攻击几率之上。</AnimalTraitsSystemRevengeChanceOnTamingFailure.description>
+  
+</LanguageData>

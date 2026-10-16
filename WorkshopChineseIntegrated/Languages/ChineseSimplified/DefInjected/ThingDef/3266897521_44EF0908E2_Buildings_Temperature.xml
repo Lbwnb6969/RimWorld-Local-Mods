@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floor AC unit -->
+  <RB_ACUnitFloor.label>嵌地空调</RB_ACUnitFloor.label>
+  <!-- EN: An air-conditioning machine that fits into a floor tile. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. -->
+  <RB_ACUnitFloor.description>必须放置在地板上的空调设备。它会根据当前室内温度吹出热空气或冷空气。除非断开与空调中控器的连接，否则它会遵循统一设定的目标温度。\n\n【负荷值】：1\n\n&lt;color=#E5E54C&gt;游戏提示：&lt;/color&gt;\n空调管道网络有三项重要属性——&lt;color=#00B9FF&gt;维持值&lt;/color&gt;、&lt;color=#00B9FF&gt;负荷值&lt;/color&gt;与&lt;color=#00B9FF&gt;工作效率&lt;/color&gt;。空调中控器和空调压缩机会增加维持值，而空调会增加负荷值。如果总负荷值＞总维持值，则会降低空调管道网络的工作效率，从而提高所有空调的耗电量。</RB_ACUnitFloor.description>
+  
+</LanguageData>

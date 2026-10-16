@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_RoundShield.label>蛮族圆盾 I</pphhyy_Barbarian_RoundShield.label>
+  <pphhyy_Barbarian_RoundShield.description>一面从战场上掠夺来的圆型盾牌。</pphhyy_Barbarian_RoundShield.description>
+  <pphhyy_Barbarian_RoundShield.tools.0.label>盾缘</pphhyy_Barbarian_RoundShield.tools.0.label>
+  <pphhyy_Barbarian_RoundShield.tools.1.label>盾心</pphhyy_Barbarian_RoundShield.tools.1.label>
+
+  <pphhyy_Barbarian_RoundShieldII.label>蛮族圆盾 II</pphhyy_Barbarian_RoundShieldII.label>
+  <pphhyy_Barbarian_RoundShieldII.description>一面从战场上掠夺来的圆型盾牌。</pphhyy_Barbarian_RoundShieldII.description>
+  <pphhyy_Barbarian_RoundShieldII.tools.0.label>盾缘</pphhyy_Barbarian_RoundShieldII.tools.0.label>
+  <pphhyy_Barbarian_RoundShieldII.tools.1.label>盾心</pphhyy_Barbarian_RoundShieldII.tools.1.label>
+
+  <pphhyy_Barbarian_RoundShieldIII.label>蛮族圆盾 III</pphhyy_Barbarian_RoundShieldIII.label>
+  <pphhyy_Barbarian_RoundShieldIII.description>一面从战场上掠夺来的圆型盾牌。</pphhyy_Barbarian_RoundShieldIII.description>
+  <pphhyy_Barbarian_RoundShieldIII.tools.0.label>盾缘</pphhyy_Barbarian_RoundShieldIII.tools.0.label>
+  <pphhyy_Barbarian_RoundShieldIII.tools.1.label>盾心</pphhyy_Barbarian_RoundShieldIII.tools.1.label>
+
+
+</LanguageData>

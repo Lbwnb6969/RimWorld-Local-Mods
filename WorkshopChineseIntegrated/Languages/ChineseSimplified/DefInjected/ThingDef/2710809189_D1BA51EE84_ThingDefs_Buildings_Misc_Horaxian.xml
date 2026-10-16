@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: double horaxian bed -->
+  <AM_DoubleHoraxianBed.label>霍拉克斯双人床</AM_DoubleHoraxianBed.label>
+  <!-- EN: A spiky bed that puts spikecore style to shame. -->
+  <AM_DoubleHoraxianBed.description>这张双人床上的尖刺装饰远比那尖刺文化风格华丽的多。</AM_DoubleHoraxianBed.description>
+  
+  <!-- EN: decorative gray statue -->
+  <AM_GrayStatueDecorative.label>灰色雕塑</AM_GrayStatueDecorative.label>
+  <!-- EN: A strange, twisted sculpture shaped into a disturbing form. It hums gently with some strange internal energy. Merely decorative. -->
+  <AM_GrayStatueDecorative.description>造型扭曲的奇特雕塑，其形状令人感到不安。它散发出轻柔的嗡鸣声，内部似乎蕴含着某种奇异的能量。\n\n这种雕塑仅仅是装饰用的仿制品。</AM_GrayStatueDecorative.description>
+  
+  <!-- EN: horaxian bed -->
+  <AM_HoraxianBed.label>霍拉克斯单人床</AM_HoraxianBed.label>
+  <!-- EN: A spiky bed that puts spikecore style to shame. -->
+  <AM_HoraxianBed.description>这张单人床上的尖刺装饰远比那尖刺文化风格华丽的多。</AM_HoraxianBed.description>
+  
+</LanguageData>

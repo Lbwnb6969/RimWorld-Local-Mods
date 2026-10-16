@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The Big Bad -->
+
+  <DankPyon_LargeCobraForest.label>巨型森林眼镜蛇</DankPyon_LargeCobraForest.label>
+  <DankPyon_LargeCobraForest.labelPlural>巨型森林眼镜蛇</DankPyon_LargeCobraForest.labelPlural>
+  <DankPyon_LargeCobraForest.lifeStages.0.label>巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.0.label>
+  <DankPyon_LargeCobraForest.lifeStages.0.labelPlural>巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.0.labelPlural>
+  <DankPyon_LargeCobraForest.lifeStages.0.labelMale>公巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.0.labelMale>
+  <DankPyon_LargeCobraForest.lifeStages.0.labelMalePlural>公巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.0.labelMalePlural>
+  <DankPyon_LargeCobraForest.lifeStages.0.labelFemale>母巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.0.labelFemale>
+  <DankPyon_LargeCobraForest.lifeStages.0.labelFemalePlural>母巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.0.labelFemalePlural>
+  <DankPyon_LargeCobraForest.lifeStages.1.label>巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.1.label>
+  <DankPyon_LargeCobraForest.lifeStages.1.labelPlural>巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.1.labelPlural>
+  <DankPyon_LargeCobraForest.lifeStages.1.labelMale>公巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.1.labelMale>
+  <DankPyon_LargeCobraForest.lifeStages.1.labelMalePlural>公巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.1.labelMalePlural>
+  <DankPyon_LargeCobraForest.lifeStages.1.labelFemale>母巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.1.labelFemale>
+  <DankPyon_LargeCobraForest.lifeStages.1.labelFemalePlural>母巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.1.labelFemalePlural>
+  <DankPyon_LargeCobraForest.lifeStages.2.label>巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.2.label>
+  <DankPyon_LargeCobraForest.lifeStages.2.labelPlural>巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.2.labelPlural>
+  <DankPyon_LargeCobraForest.lifeStages.2.labelMale>公巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.2.labelMale>
+  <DankPyon_LargeCobraForest.lifeStages.2.labelMalePlural>公巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.2.labelMalePlural>
+  <DankPyon_LargeCobraForest.lifeStages.2.labelFemale>母巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.2.labelFemale>
+  <DankPyon_LargeCobraForest.lifeStages.2.labelFemalePlural>母巨型森林眼镜蛇</DankPyon_LargeCobraForest.lifeStages.2.labelFemalePlural>
+  <DankPyon_LargeCobraForest.labelMale>公巨型森林眼镜蛇</DankPyon_LargeCobraForest.labelMale>
+  <DankPyon_LargeCobraForest.labelMalePlural>公巨型森林眼镜蛇</DankPyon_LargeCobraForest.labelMalePlural>
+  <DankPyon_LargeCobraForest.labelFemale>母巨型森林眼镜蛇</DankPyon_LargeCobraForest.labelFemale>
+  <DankPyon_LargeCobraForest.labelFemalePlural>母巨型森林眼镜蛇</DankPyon_LargeCobraForest.labelFemalePlural>
+
+  <DankPyon_LargeCobraCave.label>巨型穴居眼镜蛇</DankPyon_LargeCobraCave.label>
+  <DankPyon_LargeCobraCave.labelPlural>巨型穴居眼镜蛇</DankPyon_LargeCobraCave.labelPlural>
+  <DankPyon_LargeCobraCave.lifeStages.0.label>巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.0.label>
+  <DankPyon_LargeCobraCave.lifeStages.0.labelPlural>巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.0.labelPlural>
+  <DankPyon_LargeCobraCave.lifeStages.0.labelMale>公巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.0.labelMale>
+  <DankPyon_LargeCobraCave.lifeStages.0.labelMalePlural>公巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.0.labelMalePlural>
+  <DankPyon_LargeCobraCave.lifeStages.0.labelFemale>母巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.0.labelFemale>
+  <DankPyon_LargeCobraCave.lifeStages.0.labelFemalePlural>母巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.0.labelFemalePlural>
+  <DankPyon_LargeCobraCave.lifeStages.1.label>巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.1.label>
+  <DankPyon_LargeCobraCave.lifeStages.1.labelPlural>巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.1.labelPlural>
+  <DankPyon_LargeCobraCave.lifeStages.1.labelMale>公巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.1.labelMale>
+  <DankPyon_LargeCobraCave.lifeStages.1.labelMalePlural>公巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.1.labelMalePlural>
+  <DankPyon_LargeCobraCave.lifeStages.1.labelFemale>母巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.1.labelFemale>
+  <DankPyon_LargeCobraCave.lifeStages.1.labelFemalePlural>母巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.1.labelFemalePlural>
+  <DankPyon_LargeCobraCave.lifeStages.2.label>巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.2.label>
+  <DankPyon_LargeCobraCave.lifeStages.2.labelPlural>巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.2.labelPlural>
+  <DankPyon_LargeCobraCave.lifeStages.2.labelMale>公巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.2.labelMale>
+  <DankPyon_LargeCobraCave.lifeStages.2.labelMalePlural>公巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.2.labelMalePlural>
+  <DankPyon_LargeCobraCave.lifeStages.2.labelFemale>母巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.2.labelFemale>
+  <DankPyon_LargeCobraCave.lifeStages.2.labelFemalePlural>母巨型穴居眼镜蛇</DankPyon_LargeCobraCave.lifeStages.2.labelFemalePlural>
+  <DankPyon_LargeCobraCave.labelMale>公巨型穴居眼镜蛇</DankPyon_LargeCobraCave.labelMale>
+  <DankPyon_LargeCobraCave.labelMalePlural>公巨型穴居眼镜蛇</DankPyon_LargeCobraCave.labelMalePlural>
+  <DankPyon_LargeCobraCave.labelFemale>母巨型穴居眼镜蛇</DankPyon_LargeCobraCave.labelFemale>
+  <DankPyon_LargeCobraCave.labelFemalePlural>母巨型穴居眼镜蛇</DankPyon_LargeCobraCave.labelFemalePlural>
+
+  <DankPyon_GiantConstrictorForest.label>巨型森林蚺</DankPyon_GiantConstrictorForest.label>
+  <DankPyon_GiantConstrictorForest.labelPlural>巨型森林蚺</DankPyon_GiantConstrictorForest.labelPlural>
+  <DankPyon_GiantConstrictorForest.lifeStages.0.label>巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.0.label>
+  <DankPyon_GiantConstrictorForest.lifeStages.0.labelPlural>巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.0.labelPlural>
+  <DankPyon_GiantConstrictorForest.lifeStages.0.labelMale>公巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.0.labelMale>
+  <DankPyon_GiantConstrictorForest.lifeStages.0.labelMalePlural>公巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.0.labelMalePlural>
+  <DankPyon_GiantConstrictorForest.lifeStages.0.labelFemale>母巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.0.labelFemale>
+  <DankPyon_GiantConstrictorForest.lifeStages.0.labelFemalePlural>母巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.0.labelFemalePlural>
+  <DankPyon_GiantConstrictorForest.lifeStages.1.label>巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.1.label>
+  <DankPyon_GiantConstrictorForest.lifeStages.1.labelPlural>巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.1.labelPlural>
+  <DankPyon_GiantConstrictorForest.lifeStages.1.labelMale>公巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.1.labelMale>
+  <DankPyon_GiantConstrictorForest.lifeStages.1.labelMalePlural>公巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.1.labelMalePlural>
+  <DankPyon_GiantConstrictorForest.lifeStages.1.labelFemale>母巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.1.labelFemale>
+  <DankPyon_GiantConstrictorForest.lifeStages.1.labelFemalePlural>母巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.1.labelFemalePlural>
+  <DankPyon_GiantConstrictorForest.lifeStages.2.label>巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.2.label>
+  <DankPyon_GiantConstrictorForest.lifeStages.2.labelPlural>巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.2.labelPlural>
+  <DankPyon_GiantConstrictorForest.lifeStages.2.labelMale>公巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.2.labelMale>
+  <DankPyon_GiantConstrictorForest.lifeStages.2.labelMalePlural>公巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.2.labelMalePlural>
+  <DankPyon_GiantConstrictorForest.lifeStages.2.labelFemale>母巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.2.labelFemale>
+  <DankPyon_GiantConstrictorForest.lifeStages.2.labelFemalePlural>母巨型森林蚺</DankPyon_GiantConstrictorForest.lifeStages.2.labelFemalePlural>
+  <DankPyon_GiantConstrictorForest.labelMale>公巨型森林蚺</DankPyon_GiantConstrictorForest.labelMale>
+  <DankPyon_GiantConstrictorForest.labelMalePlural>公巨型森林蚺</DankPyon_GiantConstrictorForest.labelMalePlural>
+  <DankPyon_GiantConstrictorForest.labelFemale>母巨型森林蚺</DankPyon_GiantConstrictorForest.labelFemale>
+  <DankPyon_GiantConstrictorForest.labelFemalePlural>母巨型森林蚺</DankPyon_GiantConstrictorForest.labelFemalePlural>
+
+  <DankPyon_GiantConstrictorCave.label>巨型穴居蚺</DankPyon_GiantConstrictorCave.label>
+  <DankPyon_GiantConstrictorCave.labelPlural>巨型穴居蚺</DankPyon_GiantConstrictorCave.labelPlural>
+  <DankPyon_GiantConstrictorCave.lifeStages.0.label>巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.0.label>
+  <DankPyon_GiantConstrictorCave.lifeStages.0.labelPlural>巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.0.labelPlural>
+  <DankPyon_GiantConstrictorCave.lifeStages.0.labelMale>公巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.0.labelMale>
+  <DankPyon_GiantConstrictorCave.lifeStages.0.labelMalePlural>公巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.0.labelMalePlural>
+  <DankPyon_GiantConstrictorCave.lifeStages.0.labelFemale>母巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.0.labelFemale>
+  <DankPyon_GiantConstrictorCave.lifeStages.0.labelFemalePlural>母巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.0.labelFemalePlural>
+  <DankPyon_GiantConstrictorCave.lifeStages.1.label>巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.1.label>
+  <DankPyon_GiantConstrictorCave.lifeStages.1.labelPlural>巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.1.labelPlural>
+  <DankPyon_GiantConstrictorCave.lifeStages.1.labelMale>公巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.1.labelMale>
+  <DankPyon_GiantConstrictorCave.lifeStages.1.labelMalePlural>公巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.1.labelMalePlural>
+  <DankPyon_GiantConstrictorCave.lifeStages.1.labelFemale>母巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.1.labelFemale>
+  <DankPyon_GiantConstrictorCave.lifeStages.1.labelFemalePlural>母巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.1.labelFemalePlural>
+  <DankPyon_GiantConstrictorCave.lifeStages.2.label>巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.2.label>
+  <DankPyon_GiantConstrictorCave.lifeStages.2.labelPlural>巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.2.labelPlural>
+  <DankPyon_GiantConstrictorCave.lifeStages.2.labelMale>公巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.2.labelMale>
+  <DankPyon_GiantConstrictorCave.lifeStages.2.labelMalePlural>公巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.2.labelMalePlural>
+  <DankPyon_GiantConstrictorCave.lifeStages.2.labelFemale>母巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.2.labelFemale>
+  <DankPyon_GiantConstrictorCave.lifeStages.2.labelFemalePlural>母巨型穴居蚺</DankPyon_GiantConstrictorCave.lifeStages.2.labelFemalePlural>
+  <DankPyon_GiantConstrictorCave.labelMale>公巨型穴居蚺</DankPyon_GiantConstrictorCave.labelMale>
+  <DankPyon_GiantConstrictorCave.labelMalePlural>公巨型穴居蚺</DankPyon_GiantConstrictorCave.labelMalePlural>
+  <DankPyon_GiantConstrictorCave.labelFemale>母巨型穴居蚺</DankPyon_GiantConstrictorCave.labelFemale>
+  <DankPyon_GiantConstrictorCave.labelFemalePlural>母巨型穴居蚺</DankPyon_GiantConstrictorCave.labelFemalePlural>
+
+
+  <!--穴居林德虫 -->
+
+  <DankPyon_LindwurmForest.label>森居林德虫</DankPyon_LindwurmForest.label>
+  <DankPyon_LindwurmForest.labelPlural>森居林德虫</DankPyon_LindwurmForest.labelPlural>
+  <DankPyon_LindwurmForest.lifeStages.0.label>森居林德虫幼崽</DankPyon_LindwurmForest.lifeStages.0.label>
+  <DankPyon_LindwurmForest.lifeStages.0.labelPlural>森居林德虫幼崽</DankPyon_LindwurmForest.lifeStages.0.labelPlural>
+  <DankPyon_LindwurmForest.lifeStages.0.labelMale>公森居林德虫幼崽</DankPyon_LindwurmForest.lifeStages.0.labelMale>
+  <DankPyon_LindwurmForest.lifeStages.0.labelMalePlural>公森居林德虫幼崽</DankPyon_LindwurmForest.lifeStages.0.labelMalePlural>
+  <DankPyon_LindwurmForest.lifeStages.0.labelFemale>母森居林德虫幼崽</DankPyon_LindwurmForest.lifeStages.0.labelFemale>
+  <DankPyon_LindwurmForest.lifeStages.0.labelFemalePlural>母森居林德虫幼崽</DankPyon_LindwurmForest.lifeStages.0.labelFemalePlural>
+  <DankPyon_LindwurmForest.lifeStages.1.label>森居林德虫</DankPyon_LindwurmForest.lifeStages.1.label>
+  <DankPyon_LindwurmForest.lifeStages.1.labelPlural>森居林德虫</DankPyon_LindwurmForest.lifeStages.1.labelPlural>
+  <DankPyon_LindwurmForest.lifeStages.1.labelMale>公森居林德虫</DankPyon_LindwurmForest.lifeStages.1.labelMale>
+  <DankPyon_LindwurmForest.lifeStages.1.labelMalePlural>公森居林德虫</DankPyon_LindwurmForest.lifeStages.1.labelMalePlural>
+  <DankPyon_LindwurmForest.lifeStages.1.labelFemale>母森居林德虫</DankPyon_LindwurmForest.lifeStages.1.labelFemale>
+  <DankPyon_LindwurmForest.lifeStages.1.labelFemalePlural>母森居林德虫</DankPyon_LindwurmForest.lifeStages.1.labelFemalePlural>
+  <DankPyon_LindwurmForest.lifeStages.2.label>森居林德虫</DankPyon_LindwurmForest.lifeStages.2.label>
+  <DankPyon_LindwurmForest.lifeStages.2.labelPlural>森居林德虫</DankPyon_LindwurmForest.lifeStages.2.labelPlural>
+  <DankPyon_LindwurmForest.lifeStages.2.labelMale>公森居林德虫</DankPyon_LindwurmForest.lifeStages.2.labelMale>
+  <DankPyon_LindwurmForest.lifeStages.2.labelMalePlural>公森居林德虫</DankPyon_LindwurmForest.lifeStages.2.labelMalePlural>
+  <DankPyon_LindwurmForest.lifeStages.2.labelFemale>母森居林德虫</DankPyon_LindwurmForest.lifeStages.2.labelFemale>
+  <DankPyon_LindwurmForest.lifeStages.2.labelFemalePlural>母森居林德虫</DankPyon_LindwurmForest.lifeStages.2.labelFemalePlural>
+  <DankPyon_LindwurmForest.labelMale>公森居林德虫</DankPyon_LindwurmForest.labelMale>
+  <DankPyon_LindwurmForest.labelMalePlural>公森居林德虫</DankPyon_LindwurmForest.labelMalePlural>
+  <DankPyon_LindwurmForest.labelFemale>母森居林德虫</DankPyon_LindwurmForest.labelFemale>
+  <DankPyon_LindwurmForest.labelFemalePlural>母森居林德虫</DankPyon_LindwurmForest.labelFemalePlural>
+
+  <DankPyon_LindwurmCave.label>穴居林德虫</DankPyon_LindwurmCave.label>
+  <DankPyon_LindwurmCave.labelPlural>穴居林德虫</DankPyon_LindwurmCave.labelPlural>
+  <DankPyon_LindwurmCave.lifeStages.0.label>穴居林德虫幼崽</DankPyon_LindwurmCave.lifeStages.0.label>
+  <DankPyon_LindwurmCave.lifeStages.0.labelPlural>穴居林德虫幼崽</DankPyon_LindwurmCave.lifeStages.0.labelPlural>
+  <DankPyon_LindwurmCave.lifeStages.0.labelMale>公穴居林德虫幼崽</DankPyon_LindwurmCave.lifeStages.0.labelMale>
+  <DankPyon_LindwurmCave.lifeStages.0.labelMalePlural>公穴居林德虫幼崽</DankPyon_LindwurmCave.lifeStages.0.labelMalePlural>
+  <DankPyon_LindwurmCave.lifeStages.0.labelFemale>母穴居林德虫幼崽</DankPyon_LindwurmCave.lifeStages.0.labelFemale>
+  <DankPyon_LindwurmCave.lifeStages.0.labelFemalePlural>母穴居林德虫幼崽</DankPyon_LindwurmCave.lifeStages.0.labelFemalePlural>
+  <DankPyon_LindwurmCave.lifeStages.1.label>穴居林德虫</DankPyon_LindwurmCave.lifeStages.1.label>
+  <DankPyon_LindwurmCave.lifeStages.1.labelPlural>穴居林德虫</DankPyon_LindwurmCave.lifeStages.1.labelPlural>
+  <DankPyon_LindwurmCave.lifeStages.1.labelMale>公穴居林德虫</DankPyon_LindwurmCave.lifeStages.1.labelMale>
+  <DankPyon_LindwurmCave.lifeStages.1.labelMalePlural>公穴居林德虫</DankPyon_LindwurmCave.lifeStages.1.labelMalePlural>
+  <DankPyon_LindwurmCave.lifeStages.1.labelFemale>母穴居林德虫</DankPyon_LindwurmCave.lifeStages.1.labelFemale>
+  <DankPyon_LindwurmCave.lifeStages.1.labelFemalePlural>母穴居林德虫</DankPyon_LindwurmCave.lifeStages.1.labelFemalePlural>
+  <DankPyon_LindwurmCave.lifeStages.2.label>穴居林德虫</DankPyon_LindwurmCave.lifeStages.2.label>
+  <DankPyon_LindwurmCave.lifeStages.2.labelPlural>穴居林德虫</DankPyon_LindwurmCave.lifeStages.2.labelPlural>
+  <DankPyon_LindwurmCave.lifeStages.2.labelMale>公穴居林德虫</DankPyon_LindwurmCave.lifeStages.2.labelMale>
+  <DankPyon_LindwurmCave.lifeStages.2.labelMalePlural>公穴居林德虫</DankPyon_LindwurmCave.lifeStages.2.labelMalePlural>
+  <DankPyon_LindwurmCave.lifeStages.2.labelFemale>母穴居林德虫</DankPyon_LindwurmCave.lifeStages.2.labelFemale>
+  <DankPyon_LindwurmCave.lifeStages.2.labelFemalePlural>母穴居林德虫</DankPyon_LindwurmCave.lifeStages.2.labelFemalePlural>
+  <DankPyon_LindwurmCave.labelMale>公穴居林德虫</DankPyon_LindwurmCave.labelMale>
+  <DankPyon_LindwurmCave.labelMalePlural>公穴居林德虫</DankPyon_LindwurmCave.labelMalePlural>
+  <DankPyon_LindwurmCave.labelFemale>母穴居林德虫</DankPyon_LindwurmCave.labelFemale>
+  <DankPyon_LindwurmCave.labelFemalePlural>母穴居林德虫</DankPyon_LindwurmCave.labelFemalePlural>
+
+
+</LanguageData>

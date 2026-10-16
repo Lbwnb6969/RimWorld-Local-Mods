@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: required -->
+  <AM_FungusEating_Required.label>必要</AM_FungusEating_Required.label>
+  <!-- EN: Fungus sustains us where surface crops fail. We should eat nothing that cannot thrive in the darkness.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Eating anything different than insect meat, insect jelly or fungus will make the colonist vomit immediately. -->
+  <AM_FungusEating_Required.description>菌菇在地表作物难以企及的地方维系着我们的生存。我们不该食用任何无法在黑暗中茁壮成长之物。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 享用虫肉、虫胶或菌菇之外的任何东西将会使殖民者立即陷入呕吐状态。</AM_FungusEating_Required.description>
+  
+</LanguageData>

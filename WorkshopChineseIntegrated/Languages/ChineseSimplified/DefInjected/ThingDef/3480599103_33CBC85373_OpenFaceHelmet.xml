@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: open face helmet -->
+  <TA_OpenFaceHelmet.label>开面盔</TA_OpenFaceHelmet.label>
+  <!-- EN: Simple steel helmet with a wide brim, protects face from overhead blows while leaving good visibility. -->
+  <TA_OpenFaceHelmet.description>简单的钢制头盔，带有宽边檐，在保持良好视野的同时保护面部免受上方攻击。</TA_OpenFaceHelmet.description>
+  
+</LanguageData>

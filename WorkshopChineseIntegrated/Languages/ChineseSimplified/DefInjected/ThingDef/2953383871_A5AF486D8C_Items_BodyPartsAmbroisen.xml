@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ambroisen hand -->
+
+  <AmbroisenMedHand.label>安布鲁瓦兹义肢(手)</AmbroisenMedHand.label>
+  <AmbroisenMedHand.description>由知名外科医师安布鲁瓦兹所发明的义肢。</AmbroisenMedHand.description>
+
+
+  <!-- ambroisen arm -->
+
+  <AmbroisenMedArm.label>安布鲁瓦兹义肢(手臂)</AmbroisenMedArm.label>
+  <AmbroisenMedArm.description>由知名外科医师安布鲁瓦兹所发明的义肢。</AmbroisenMedArm.description>
+
+
+  <!-- ambroisen leg -->
+
+  <AmbroisenMedLeg.label>安布鲁瓦兹义肢(腿)</AmbroisenMedLeg.label>
+  <AmbroisenMedLeg.description>由知名外科医师安布鲁瓦兹所发明的义肢。</AmbroisenMedLeg.description>
+
+
+  <!-- ambroisen foot -->
+
+  <AmbroisenMedFoot.label>安布鲁瓦兹义肢(脚)</AmbroisenMedFoot.label>
+  <AmbroisenMedFoot.description>由知名外科医师安布鲁瓦兹所发明的义肢。</AmbroisenMedFoot.description>
+
+
+  <!-- ambroisen toe -->
+
+  <AmbroisenMedToe.label>安布鲁瓦兹义肢(脚趾)</AmbroisenMedToe.label>
+  <AmbroisenMedToe.description>由知名外科医师安布鲁瓦兹所发明的义肢。</AmbroisenMedToe.description>
+
+
+  <!-- ambroisen finger -->
+
+  <AmbroisenMedFinger.label>安布鲁瓦兹义肢(手指)</AmbroisenMedFinger.label>
+  <AmbroisenMedFinger.description>由知名外科医师安布鲁瓦兹所发明的义肢。</AmbroisenMedFinger.description>
+
+
+  <!-- ambroisen nose -->
+
+  <AmbroisenMedNose.label>安布鲁瓦兹义肢(鼻)</AmbroisenMedNose.label>
+  <AmbroisenMedNose.description>这只假鼻子被施加附魔，它具有真正鼻子的功能。你又能闻得到了！</AmbroisenMedNose.description>
+
+
+  <!-- ambroisen eye -->
+
+  <AmbroisenMedEye.label>安布鲁瓦兹义肢(眼)</AmbroisenMedEye.label>
+  <AmbroisenMedEye.description>这颗假眼球被施加附魔，它具有真正眼睛的功能。你又能看得见了！</AmbroisenMedEye.description>
+
+
+  <!-- ambroisen ear -->
+
+  <AmbroisenMedEar.label>安布鲁瓦兹义肢(耳)</AmbroisenMedEar.label>
+  <AmbroisenMedEar.description>这只假耳被施加附魔，它具有真正耳蜗的功能。你又能听得到了！</AmbroisenMedEar.description>
+
+
+</LanguageData>

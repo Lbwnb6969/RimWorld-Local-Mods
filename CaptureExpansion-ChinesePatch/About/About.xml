@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Capture Expansion 简体中文补丁</name>
+  <author>Local compatibility patch</author>
+  <packageId>Local.CaptureExpansion.ChineseSimplified</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Capture Expansion 的简体中文本地化补丁，覆盖研究、建筑、囚禁和处决相关文本。</description>
+  <modDependencies>
+    <li>
+      <packageId>ferny.CaptureExpansion</packageId>
+      <displayName>Capture Expansion</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3787736781</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>ferny.CaptureExpansion</li>
+  </loadAfter>
+</ModMetaData>

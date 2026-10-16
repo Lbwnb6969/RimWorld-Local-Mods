@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_EscapeDevice.label>紧急逃脱装置</EES_EscapeDevice.label>
+  <EES_EscapeDevice.description>当侦察者或潜入者逃跑失败时自动使用。只要佩戴者携带着它，就必定能避免被俘或被杀，但仍可能受伤。这种东西怎么可能随身带着? 嗯，办法总是有的。</EES_EscapeDevice.description>
+</LanguageData>

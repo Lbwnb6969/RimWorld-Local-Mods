@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barbed quills -->
+  <DA_ToxicBarbspike.label>倒勾</DA_ToxicBarbspike.label>
+  <!-- EN: Throw four toxic barbspikes at a medium distance, can inflict tox. -->
+  <DA_ToxicBarbspike.description>在中距掷出四枚毒钩，能引发中毒。</DA_ToxicBarbspike.description>
+  
+</LanguageData>

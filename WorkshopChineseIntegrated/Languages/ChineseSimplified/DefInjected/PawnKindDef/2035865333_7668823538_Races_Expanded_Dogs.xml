@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beagle -->
+  <AEXP_Beagle.label>比格犬</AEXP_Beagle.label>
+  <!-- EN: beagles -->
+  <AEXP_Beagle.labelPlural>比格犬</AEXP_Beagle.labelPlural>
+  <!-- EN: beagle puppy -->
+  <AEXP_Beagle.lifeStages.beagle_puppy.label>比格犬幼崽</AEXP_Beagle.lifeStages.beagle_puppy.label>
+  <!-- EN: beagle puppies -->
+  <AEXP_Beagle.lifeStages.beagle_puppy.labelPlural>比格犬幼崽</AEXP_Beagle.lifeStages.beagle_puppy.labelPlural>
+  
+  <!-- EN: chihuahua -->
+  <AEXP_Chihuahua.label>吉娃娃犬</AEXP_Chihuahua.label>
+  <!-- EN: chihuahuas -->
+  <AEXP_Chihuahua.labelPlural>吉娃娃犬</AEXP_Chihuahua.labelPlural>
+  <!-- EN: chihuahua puppy -->
+  <AEXP_Chihuahua.lifeStages.chihuahua_puppy.label>吉娃娃犬幼崽</AEXP_Chihuahua.lifeStages.chihuahua_puppy.label>
+  <!-- EN: chihuahua puppies -->
+  <AEXP_Chihuahua.lifeStages.chihuahua_puppy.labelPlural>吉娃娃犬幼崽</AEXP_Chihuahua.lifeStages.chihuahua_puppy.labelPlural>
+  
+  <!-- EN: corgi -->
+  <AEXP_Corgi.label>柯基犬</AEXP_Corgi.label>
+  <!-- EN: corgis -->
+  <AEXP_Corgi.labelPlural>柯基犬</AEXP_Corgi.labelPlural>
+  <!-- EN: corgi puppy -->
+  <AEXP_Corgi.lifeStages.corgi_puppy.label>柯基犬幼崽</AEXP_Corgi.lifeStages.corgi_puppy.label>
+  <!-- EN: corgi puppies -->
+  <AEXP_Corgi.lifeStages.corgi_puppy.labelPlural>柯基犬幼崽</AEXP_Corgi.lifeStages.corgi_puppy.labelPlural>
+  
+  <!-- EN: french bulldog -->
+  <AEXP_FrenchBulldog.label>法国斗牛犬</AEXP_FrenchBulldog.label>
+  <!-- EN: french bulldogs -->
+  <AEXP_FrenchBulldog.labelPlural>法国斗牛犬</AEXP_FrenchBulldog.labelPlural>
+  <!-- EN: french bulldog puppy -->
+  <AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.label>法国斗牛犬幼崽</AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.label>
+  <!-- EN: french bulldog puppies -->
+  <AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.labelPlural>法国斗牛犬幼崽</AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.labelPlural>
+  
+  <!-- EN: german shepherd -->
+  <AEXP_GermanShepherd.label>德国牧羊犬</AEXP_GermanShepherd.label>
+  <!-- EN: german shepherd puppy -->
+  <AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.label>德国牧羊犬幼崽</AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.label>
+  <!-- EN: german shepherd puppies -->
+  <AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.labelPlural>德国牧羊犬幼崽</AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.labelPlural>
+  
+  <!-- EN: great dane -->
+  <AEXP_GreatDane.label>大丹犬</AEXP_GreatDane.label>
+  <!-- EN: great dane puppy -->
+  <AEXP_GreatDane.lifeStages.great_dane_puppy.label>大丹犬幼崽</AEXP_GreatDane.lifeStages.great_dane_puppy.label>
+  <!-- EN: great dane puppies -->
+  <AEXP_GreatDane.lifeStages.great_dane_puppy.labelPlural>大丹犬幼崽</AEXP_GreatDane.lifeStages.great_dane_puppy.labelPlural>
+  
+  <!-- EN: poodle -->
+  <AEXP_Poodle.label>贵宾犬</AEXP_Poodle.label>
+  <!-- EN: poodle puppy -->
+  <AEXP_Poodle.lifeStages.poodle_puppy.label>贵宾犬幼崽</AEXP_Poodle.lifeStages.poodle_puppy.label>
+  <!-- EN: poodle puppies -->
+  <AEXP_Poodle.lifeStages.poodle_puppy.labelPlural>贵宾犬幼崽</AEXP_Poodle.lifeStages.poodle_puppy.labelPlural>
+  
+  <!-- EN: pug -->
+  <AEXP_Pug.label>巴哥犬</AEXP_Pug.label>
+  <!-- EN: pugs -->
+  <AEXP_Pug.labelPlural>巴哥犬</AEXP_Pug.labelPlural>
+  <!-- EN: pug puppy -->
+  <AEXP_Pug.lifeStages.pug_puppy.label>巴哥犬幼崽</AEXP_Pug.lifeStages.pug_puppy.label>
+  <!-- EN: pug puppies -->
+  <AEXP_Pug.lifeStages.pug_puppy.labelPlural>巴哥犬幼崽</AEXP_Pug.lifeStages.pug_puppy.labelPlural>
+  
+  <!-- EN: rottweiler -->
+  <AEXP_Rottweiler.label>罗威纳犬</AEXP_Rottweiler.label>
+  <!-- EN: rottweiler puppy -->
+  <AEXP_Rottweiler.lifeStages.rottweiler_puppy.label>罗威纳犬幼崽</AEXP_Rottweiler.lifeStages.rottweiler_puppy.label>
+  <!-- EN: rottweiler puppies -->
+  <AEXP_Rottweiler.lifeStages.rottweiler_puppy.labelPlural>罗威纳犬幼崽</AEXP_Rottweiler.lifeStages.rottweiler_puppy.labelPlural>
+  
+  <!-- EN: shih-tzu -->
+  <AEXP_Shih-Tzu.label>西施犬</AEXP_Shih-Tzu.label>
+  <!-- EN: shih-tzus -->
+  <AEXP_Shih-Tzu.labelPlural>西施犬</AEXP_Shih-Tzu.labelPlural>
+  <!-- EN: shih-tzu puppy -->
+  <AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.label>西施犬幼崽</AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.label>
+  <!-- EN: shih-tzu puppies -->
+  <AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.labelPlural>西施犬幼崽</AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.labelPlural>
+  
+  <!-- EN: welsh terrier -->
+  <AEXP_WelshTerrier.label>威尔士㹴</AEXP_WelshTerrier.label>
+  <!-- EN: welsh terriers -->
+  <AEXP_WelshTerrier.labelPlural>威尔士㹴</AEXP_WelshTerrier.labelPlural>
+  <!-- EN: welsh terrier puppy -->
+  <AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.label>威尔士㹴幼崽</AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.label>
+  <!-- EN: welsh terrier puppies -->
+  <AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.labelPlural>威尔士㹴幼崽</AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.labelPlural>
+  
+</LanguageData>

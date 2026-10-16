@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Muckbile -->
+  <DA_MuckbileSlow.label>恶臭胆汁</DA_MuckbileSlow.label>
+  <!-- EN: Slowed by a thick acidic bile. -->
+  <DA_MuckbileSlow.description>被一团黏稠的酸性胆汁粘住。</DA_MuckbileSlow.description>
+  <!-- EN: slowed -->
+  <DA_MuckbileSlow.stages.slowed.label>缓速</DA_MuckbileSlow.stages.slowed.label>
+  
+</LanguageData>

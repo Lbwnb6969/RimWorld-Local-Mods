@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Grenade 1 -->
+  <BEWH_Deco_Grenade_1.label>手榴弹（1）</BEWH_Deco_Grenade_1.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_Grenade_1.description>...</BEWH_Deco_Grenade_1.description>
+  
+  <!-- EN: Grenade 2 -->
+  <BEWH_Deco_Grenade_2.label>手榴弹（2）</BEWH_Deco_Grenade_2.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_Grenade_2.description>...</BEWH_Deco_Grenade_2.description>
+  
+  <!-- EN: Krak grenade 1 -->
+  <BEWH_Deco_KrGrenade_1.label>穿甲手雷（1）</BEWH_Deco_KrGrenade_1.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_KrGrenade_1.description>...</BEWH_Deco_KrGrenade_1.description>
+  
+  <!-- EN: Krak grenade 2 -->
+  <BEWH_Deco_KrGrenade_2.label>穿甲手雷（2）</BEWH_Deco_KrGrenade_2.label>
+  <!-- EN: ... -->
+  <BEWH_Deco_KrGrenade_2.description>...</BEWH_Deco_KrGrenade_2.description>
+  
+</LanguageData>

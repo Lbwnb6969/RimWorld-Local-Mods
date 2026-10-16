@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blessed -->
+  <AM_Rain_Blessed.label>神圣</AM_Rain_Blessed.label>
+  <!-- EN: Rain is a gift from the heavens, a sign of life’s renewal and the divine’s favor. Each droplet is a blessing, nurturing the land and cleansing the spirit.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Nullifies "Soaking wet" thought. -->
+  <AM_Rain_Blessed.description>雨是来自天国的馈赠，也是生命焕新和神圣恩宠的标志。所有的雨滴都饱含祝福，它们可以滋润土地并涤净灵魂。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 使“湿透了”的想法无效化。</AM_Rain_Blessed.description>
+  
+  <!-- EN: disliked -->
+  <AM_Rain_Disliked.label>反感</AM_Rain_Disliked.label>
+  <!-- EN: The rain is a burden upon our minds, heavy and relentless. It clutters our thoughts with discomfort, and we long for its end. How we wish the sun would return and lift this oppressive gloom. -->
+  <AM_Rain_Disliked.description>从天而降的雨如同沉重且难缠的累赘，压迫着我们的头脑。它通过产生不适感来扰乱我们的思想，我们也急切地想要终结它。我们恳请太阳重现于天，驱散那阴郁的霾云。</AM_Rain_Disliked.description>
+  
+</LanguageData>

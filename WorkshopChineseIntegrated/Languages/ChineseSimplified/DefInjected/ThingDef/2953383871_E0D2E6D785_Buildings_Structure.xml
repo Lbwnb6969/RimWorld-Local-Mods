@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doors -->
+
+  <DankPyon_RusticDoor.label>质朴门</DankPyon_RusticDoor.label>
+  <DankPyon_RusticDoor.description>用来分隔房间。必须手动开关的门，人们在通行时会减速，减速量取决于门的制作材料。</DankPyon_RusticDoor.description>
+
+  <DankPyon_RusticDoor1x2c.label>质朴门(1x2)</DankPyon_RusticDoor1x2c.label>
+  <DankPyon_RusticDoor1x2c.description>用来分隔房间。必须手动开关的门，这扇又大又重的门需要连着墙壁才能发挥作用。</DankPyon_RusticDoor1x2c.description>
+
+  <DankPyon_LogGate.label>木桩城门</DankPyon_LogGate.label>
+  <DankPyon_LogGate.description>一道原木城门。必须手动开关的门，人们在通行时会减速，减速量取决于门的制作材料。</DankPyon_LogGate.description>
+
+  <DankPyon_ReinfocedLogGate.label>木桩城门(1x2)</DankPyon_ReinfocedLogGate.label>
+  <DankPyon_ReinfocedLogGate.description>一道加固原木城门。必须手动开关的门，人们在通行时会减速，减速量取决于门的制作材料。</DankPyon_ReinfocedLogGate.description>
+
+  <DankPyon_Gate.label>城门</DankPyon_Gate.label>
+  <DankPyon_Gate.description>一道加固城门。必须手动开关的门，人们在通行时会减速，减速量取决于门的制作材料。</DankPyon_Gate.description>
+
+  <DankPyon_Gate1x2c.label>城门(1x2)</DankPyon_Gate1x2c.label>
+  <DankPyon_Gate1x2c.description>一道加固城门。必须手动开关的门，这扇又大又重的门需要连着墙壁才能发挥作用。</DankPyon_Gate1x2c.description>
+
+  <DankPyon_SlabDoor.label>石板门</DankPyon_SlabDoor.label>
+  <DankPyon_SlabDoor.description>以石材制成的沉重的门。必须手动开关的门，人们在通行时会减速，减速量取决于门的制作材料。</DankPyon_SlabDoor.description>
+
+  <DankPyon_SlabDoor1x2c.label>石板门(1x2)</DankPyon_SlabDoor1x2c.label>
+  <DankPyon_SlabDoor1x2c.description>以石材制成的沉重的门。必须手动开关的门，这扇又大又重的门需要连着墙壁才能发挥作用。</DankPyon_SlabDoor1x2c.description>
+
+
+  <!-- Frames -->
+
+  <DankPyon_Frame_Log.label>木桩城门门框</DankPyon_Frame_Log.label>
+  <DankPyon_Frame_Log.description>一座安装在门顶的木框。</DankPyon_Frame_Log.description>
+
+
+  <!-- Walls -->
+
+  <DankPyon_LogWall.label>质朴墙</DankPyon_LogWall.label>
+  <DankPyon_LogWall.description>无法通行的墙。能够支撑屋顶。</DankPyon_LogWall.description>
+
+  <DankPyon_HideTentWall.label>动物皮帐篷</DankPyon_HideTentWall.label>
+  <DankPyon_HideTentWall.description>由动物生皮制成的拼接帐篷。建造起来既快速又简单，但也很容易被摧毁。\n\n拆除帐篷将返还所有资源。</DankPyon_HideTentWall.description>
+
+  <DankPyon_TentWall.label>帐篷</DankPyon_TentWall.label>
+  <DankPyon_TentWall.description>由柔软纤维制成的帐篷。建造起来既快速又简单，但也很容易被摧毁。\n\n拆除帐篷将返还所有资源。</DankPyon_TentWall.description>
+
+  <DankPyon_Palisade.label>围篱</DankPyon_Palisade.label>
+  <DankPyon_Palisade.description>无法通行的墙。</DankPyon_Palisade.description>
+
+  <DankPyon_EmbPalisade.label>围篱(枪眼)</DankPyon_EmbPalisade.label>
+  <DankPyon_EmbPalisade.description>无法通行的墙。</DankPyon_EmbPalisade.description>
+
+  <DankPyon_CavalrySpike.label>木制拒马</DankPyon_CavalrySpike.label>
+  <DankPyon_CavalrySpike.description>许多尖锐的木桩以特定的角度组合固定，旨在将入侵者拒之门外。\n\n生物穿越拒马会受到伤害。</DankPyon_CavalrySpike.description>
+
+  <DankPyon_TudorWall.label>都铎式墙</DankPyon_TudorWall.label>
+  <DankPyon_TudorWall.description>一种采用木框架建成的抹灰篱笆墙，外层漆成白色，常见于小型的都铎式平房。坚固且能够支撑屋顶。</DankPyon_TudorWall.description>
+
+  <DankPyon_CastleWall.label>城墙</DankPyon_CastleWall.label>
+  <DankPyon_CastleWall.description>无法通行的高墙。坚固且能够支撑屋顶。但由于其高度，受到爆炸攻击时会显很脆弱。</DankPyon_CastleWall.description>
+
+  <DankPyon_CastleWallEmbrasures.label>城墙(枪眼)</DankPyon_CastleWallEmbrasures.label>
+  <DankPyon_CastleWallEmbrasures.description>无法通行的高墙。坚固且能够支撑屋顶。但由于其高度，受到爆炸攻击时会显很脆弱。</DankPyon_CastleWallEmbrasures.description>
+
+
+  <DankPyon_Trench.label>战壕</DankPyon_Trench.label>
+  <DankPyon_Trench.description>一道能够阻碍通行的未加固沟渠。只需要人力即可建造，但可能会因损坏而倒塌。</DankPyon_Trench.description>
+
+  <DankPyon_RTrench.label>加固战壕</DankPyon_RTrench.label>
+  <DankPyon_RTrench.description>一道能够阻碍通行的加固沟渠。它比一般的战壕更深，使任何人或物体都难以穿越。</DankPyon_RTrench.description>
+
+  <DankPyon_LogColumn.label>原木支柱</DankPyon_LogColumn.label>
+  <DankPyon_LogColumn.description>能够支撑屋顶的柱子。不会影响视野、移动，看起来相当漂亮。</DankPyon_LogColumn.description>
+
+
+  <!-- Column -->
+
+  <DankPyon_RoyalColumn.label>豪华支柱</DankPyon_RoyalColumn.label>
+  <DankPyon_RoyalColumn.description>漂亮的镶金柱子，能够支撑屋顶。不会影响视野、移动，看起来非常漂亮。</DankPyon_RoyalColumn.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hussar helmet -->
+  <TA_HussarHelmet.label>骠骑兵头盔</TA_HussarHelmet.label>
+  <!-- EN: . -->
+  <TA_HussarHelmet.description>带有装饰性羽毛的轻骑兵头盔。</TA_HussarHelmet.description>
+  
+  <!-- EN: lobstertail helmet -->
+  <TA_LobstertailHelmet.label>龙虾尾头盔</TA_LobstertailHelmet.label>
+  <!-- EN: . -->
+  <TA_LobstertailHelmet.description>带有龙虾尾状护颈的重型头盔。</TA_LobstertailHelmet.description>
+  
+  <!-- EN: sipahi helmet -->
+  <TA_SipahiHelmet.label>西帕希头盔</TA_SipahiHelmet.label>
+  <!-- EN: . -->
+  <TA_SipahiHelmet.description>奥斯曼帝国骑兵使用的传统头盔。</TA_SipahiHelmet.description>
+  
+</LanguageData>

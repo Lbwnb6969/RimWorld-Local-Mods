@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boarding axe -->
+  <TA_BoardingAxe.label>登船斧</TA_BoardingAxe.label>
+  <!-- EN: . -->
+  <TA_BoardingAxe.description>水手用于登船作战的短柄斧，兼具武器和工具功能。</TA_BoardingAxe.description>
+  <!-- EN: shaft -->
+  <TA_BoardingAxe.tools.shaft.label>斧柄</TA_BoardingAxe.tools.shaft.label>
+  <!-- EN: head -->
+  <TA_BoardingAxe.tools.head-0.label>斧头</TA_BoardingAxe.tools.head-0.label>
+  <!-- EN: head -->
+  <TA_BoardingAxe.tools.head-1.label>斧头</TA_BoardingAxe.tools.head-1.label>
+  
+</LanguageData>

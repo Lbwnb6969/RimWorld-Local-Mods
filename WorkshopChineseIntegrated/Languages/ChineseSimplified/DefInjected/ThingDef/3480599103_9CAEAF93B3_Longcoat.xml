@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: longcoat -->
+  <TA_LongcoatClosed.label>长大衣(闭合式)</TA_LongcoatClosed.label>
+  <!-- EN: . -->
+  <TA_LongcoatClosed.description>保暖的及膝长外套，适合寒冷天气。</TA_LongcoatClosed.description>
+  
+  <!-- EN: longcoat -->
+  <TA_LongcoatOpen.label>长大衣(敞开式)</TA_LongcoatOpen.label>
+  <!-- EN: . -->
+  <TA_LongcoatOpen.description>可敞开穿着的及膝长外套，便于活动。</TA_LongcoatOpen.description>
+  <!-- EN: button up -->
+  <TA_LongcoatOpen.comps.CompSwitchApparel.Label>系上纽扣</TA_LongcoatOpen.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

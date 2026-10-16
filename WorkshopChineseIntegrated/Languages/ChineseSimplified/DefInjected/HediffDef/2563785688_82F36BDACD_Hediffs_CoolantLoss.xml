@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: coolant loss -->
+  <TabulaRasa_CoolantLoss.label>冷却液流失</TabulaRasa_CoolantLoss.label>
+  <!-- EN: If this pawn loses enough coolant it will die, much in the same way humans die from blood loss. -->
+  <TabulaRasa_CoolantLoss.description>如果此单位的冷却液大量流失，便会像人类失血过多一样导致死亡。</TabulaRasa_CoolantLoss.description>
+  <!-- EN: minor -->
+  <TabulaRasa_CoolantLoss.stages.minor-0.label>轻微</TabulaRasa_CoolantLoss.stages.minor-0.label>
+  <!-- EN: minor -->
+  <TabulaRasa_CoolantLoss.stages.minor-1.label>较轻</TabulaRasa_CoolantLoss.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <TabulaRasa_CoolantLoss.stages.moderate.label>中等</TabulaRasa_CoolantLoss.stages.moderate.label>
+  <!-- EN: severe -->
+  <TabulaRasa_CoolantLoss.stages.severe.label>严重</TabulaRasa_CoolantLoss.stages.severe.label>
+  <!-- EN: extreme -->
+  <TabulaRasa_CoolantLoss.stages.extreme.label>极重</TabulaRasa_CoolantLoss.stages.extreme.label>
+  
+  <!-- EN: energy failure -->
+  <TabulaRasa_EnergyFailure.label>能量枯竭</TabulaRasa_EnergyFailure.label>
+  <!-- EN: This pawn ran out of energy and has shut down, permanently. -->
+  <TabulaRasa_EnergyFailure.description>此单位因能量耗尽而永久关机了。</TabulaRasa_EnergyFailure.description>
+  
+  <!-- EN: energy shortage -->
+  <TabulaRasa_EnergyShortage.label>能量短缺</TabulaRasa_EnergyShortage.label>
+  <!-- EN: This pawn is suffering from an energy shortage, it will die without an energy supply soon. -->
+  <TabulaRasa_EnergyShortage.description>此单位正遭受能量短缺的困扰。如果得不到及时补充，很快便会永久关机。</TabulaRasa_EnergyShortage.description>
+  <!-- EN: extreme -->
+  <TabulaRasa_EnergyShortage.stages.extreme.label>极重</TabulaRasa_EnergyShortage.stages.extreme.label>
+  
+</LanguageData>

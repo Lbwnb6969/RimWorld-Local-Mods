@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_Floor_Dwarven_Tile.label>矮人砖</DV_Floor_Dwarven_Tile.label>
+    <DV_Floor_Dwarven_Tile.description>精美的矮人风石砖。</DV_Floor_Dwarven_Tile.description>
+    <Tile_DwarvenSandstone.label>矮人沙石砖</Tile_DwarvenSandstone.label>
+    <Tile_DwarvenGranite.label>矮人花岗岩砖</Tile_DwarvenGranite.label>
+    <Tile_DwarvenLimestone.label>矮人石灰岩砖</Tile_DwarvenLimestone.label>
+    <Tile_DwarvenSlate.label>矮人板岩砖</Tile_DwarvenSlate.label>
+    <Tile_DwarvenMarble.label>矮人大理石砖</Tile_DwarvenMarble.label>
+    <Tile_DwarvenClay.label>矮人黏土砖</Tile_DwarvenClay.label>
+</LanguageData>

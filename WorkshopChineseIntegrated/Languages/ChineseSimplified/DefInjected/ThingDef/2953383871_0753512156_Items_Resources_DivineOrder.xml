@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sacred tablet -->
+  <BotchJob_SacredTablet.label>神圣牌匾</BotchJob_SacredTablet.label>
+  <!-- EN: A sacred stone tablet revered by the Divine Order. It is believed to have been blessed by the gods and is used in the forging of powerful equipment. -->
+  <BotchJob_SacredTablet.description>一块受到神圣秩序崇敬的神圣石牌匾。据信它得到了神灵的祝福，并被用于打造强大的装备。</BotchJob_SacredTablet.description>
+  <!-- EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour scholars can now begin their research. -->
+  <BotchJob_SacredTablet.comps.CompStudiable.completedLetterText>通过研究{PARENT_label}，{STUDIER_labelShort}已经获得了进行研究项目{RESEARCH}所需的洞察力。\n\n现在，您的学者们可以开始他们的研究。</BotchJob_SacredTablet.comps.CompStudiable.completedLetterText>
+  <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
+  <BotchJob_SacredTablet.comps.CompStudiable.completedLetterTitle>{PARENT_label}学习完成：解锁{RESEARCH}</BotchJob_SacredTablet.comps.CompStudiable.completedLetterTitle>
+  
+</LanguageData>

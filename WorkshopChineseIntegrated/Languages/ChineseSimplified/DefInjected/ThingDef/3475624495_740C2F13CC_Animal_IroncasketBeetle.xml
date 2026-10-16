@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ironcasket beetle -->
+  <DA_IroncasketBeetle.label>铁棺甲虫</DA_IroncasketBeetle.label>
+  <!-- EN: A large beetle covered in iron-like carapace. Fearful and reclusive, these peculiar insectoids burrow into ore deposits to give birth, where their young can stay safe and absorb the minerals necessary for formation of their metallic shells.\n\nExperienced quarry overseers often hire hunters to track ironcasket beetle nests, as their shells can be extracted for a hassle-free source of steel. -->
+  <DA_IroncasketBeetle.description>一只覆盖着铁质外壳的大型甲虫。这种奇特的昆虫性情胆怯且独来独往，它们会钻入矿石堆积处产卵，幼虫在那里可以安全地成长，并吸收形成其金属外壳所需的矿物质。\n\n经验丰富的采石场主管通常会雇佣猎人去追踪铁棺材甲虫的巢穴，因为它们的外壳可以被提取，使其成为一种无需费力获取的钢铁来源。</DA_IroncasketBeetle.description>
+  <!-- EN: mandibles -->
+  <DA_IroncasketBeetle.tools.mandibles.label>鄂</DA_IroncasketBeetle.tools.mandibles.label>
+  <!-- EN: head -->
+  <DA_IroncasketBeetle.tools.head.label>头</DA_IroncasketBeetle.tools.head.label>
+  
+  <!-- EN: compacted steel -->
+  <DA_MineableSteelBeetle.label>压埋的钢铁</DA_MineableSteelBeetle.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <DA_MineableSteelBeetle.description>某个倒塌的远古建筑的残骸，富含钢材。</DA_MineableSteelBeetle.description>
+  <!-- EN: Wild ironcasket beetle -->
+  <DA_MineableSteelBeetle.comps.CompEmergingAnimal.earlyEmergeLetterLabel>野生铁棺甲虫</DA_MineableSteelBeetle.comps.CompEmergingAnimal.earlyEmergeLetterLabel>
+  <!-- EN: One of the ore deposit started to move frenetically. It appears that it was infested by a ironcasket beetle. The confused insectoid is now fleeing in panic. -->
+  <DA_MineableSteelBeetle.comps.CompEmergingAnimal.earlyEmergeLetterText>其中一块铁矿开始剧烈地移动起来。看来它已经被一种铁棺虫侵扰了。这只困惑的虫子此刻正惊慌失措地四处逃窜。</DA_MineableSteelBeetle.comps.CompEmergingAnimal.earlyEmergeLetterText>
+  
+  <!-- EN: iron ore -->
+  <DA_MineableIronBeetle.label>铁矿</DA_MineableIronBeetle.label>
+  <!-- EN: Rock containing bits of iron. -->
+  <DA_MineableIronBeetle.description>包含铁屑的岩石。</DA_MineableIronBeetle.description>
+</LanguageData>

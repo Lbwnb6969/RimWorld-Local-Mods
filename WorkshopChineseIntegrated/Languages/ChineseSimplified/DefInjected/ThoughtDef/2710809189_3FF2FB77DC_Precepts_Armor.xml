@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no metallic armor -->
+  <AM_Armour_Expected.stages.no_metallic_armor.label>没有金属护甲</AM_Armour_Expected.stages.no_metallic_armor.label>
+  <!-- EN: You call this protection? I feel naked. -->
+  <AM_Armour_Expected.stages.no_metallic_armor.description>这玩意儿也能叫护甲？简直就跟没穿一样。</AM_Armour_Expected.stages.no_metallic_armor.description>
+  <!-- EN: strong armor -->
+  <AM_Armour_Expected.stages.strong_armor.label>坚固的护甲</AM_Armour_Expected.stages.strong_armor.label>
+  <!-- EN: I feel well protected. -->
+  <AM_Armour_Expected.stages.strong_armor.description>这身护甲可真不错。</AM_Armour_Expected.stages.strong_armor.description>
+  
+  <!-- EN: naked truth -->
+  <AM_Armour_Forbidden_HappyNude.stages.naked_truth.label>裸体真理</AM_Armour_Forbidden_HappyNude.stages.naked_truth.label>
+  <!-- EN: My body is bare and the truth is clear for all to see. -->
+  <AM_Armour_Forbidden_HappyNude.stages.naked_truth.description>我赤身裸体，真理昭然若揭。</AM_Armour_Forbidden_HappyNude.stages.naked_truth.description>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tavern oven -->
+  <Tav_Oven.label>酒馆烤炉</Tav_Oven.label>
+  <!-- EN: The heart of any tavern. This oven fills the air with the smell of roasting meat and freshly baked bread — a scent that calls travelers and colonists alike to the table. -->
+  <Tav_Oven.description>烤炉可谓是任何酒馆的灵魂所在。它散发出的烤肉与新鲜面包的香味弥漫在空气中，总能将来往的旅人和殖民者吸引至此，围坐在桌旁等待大快朵颐一番。</Tav_Oven.description>
+  
+  <!-- EN: decor table -->
+  <Tav_TableDecor.label>装饰制作台</Tav_TableDecor.label>
+  <!-- EN: A versatile workbench designed for creating decorative items such as rugs, wall trophies, flags, and other ornaments. Equipped with specialized tools for crafting fine details and patterns. -->
+  <Tav_TableDecor.description>用于制作地毯、壁挂狩猎战利品、彩旗等各种装饰品的多功能工作台，配备有绘制精细纹路和图案所需的专用工具。</Tav_TableDecor.description>
+  
+</LanguageData>

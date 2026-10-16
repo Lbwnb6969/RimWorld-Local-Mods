@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Guest beds -->
+  <GuestBeds.label>访客用床</GuestBeds.label>
+  <!-- EN: Visitors prefer to sleep in beds.\n\nYou can convert beds to guest beds using the "For guests" button. -->
+  <GuestBeds.helpText>访客更愿意睡在床上。\n\n你可以使用「访客专用」按钮将床转换为访客用床。</GuestBeds.helpText>
+  
+  <!-- EN: Guests help out -->
+  <GuestWork.label>访客帮忙</GuestWork.label>
+  <!-- EN: Happy guests will help with work inside of their area if they are skilled enough. You can disable this or raise the required skill in the mod options. -->
+  <GuestWork.helpText>心情不错的的访客将在其技能允许的情况下在访客活动区域内帮你工作。你可以在Mod选项中禁用此选项或提高所需的技能等级。</GuestWork.helpText>
+  
+  <!-- EN: Recruiting guests -->
+  <RecruitGuest.label>招募访客</RecruitGuest.label>
+  <!-- EN: You can recruit guests.\n\nRecruiting a guest will cost you goodwill with the guest's faction. Make sure you have a colonist with good social skills assigned for negotiation. -->
+  <RecruitGuest.helpText>你可以招募访客。\n\n招募访客将会降低你与其所属派系的好感度。确保你有一名高社交技能的殖民者被指派了交涉任务。</RecruitGuest.helpText>
+  
+</LanguageData>

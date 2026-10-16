@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bannerman -->
+  <BA_Byzantium_Bannerman.label>旗手</BA_Byzantium_Bannerman.label>
+  
+  <!-- EN: Trebizond archer -->
+  <BA_Byzantium_Bowman.label>特拉布宗弓箭手</BA_Byzantium_Bowman.label>
+  
+  <!-- EN: kataphractoi -->
+  <BA_Byzantium_Cataphract.label>甲胄骑兵</BA_Byzantium_Cataphract.label>
+  
+  <!-- EN: basileus -->
+  <BA_Byzantium_Emperor.label>巴西琉斯</BA_Byzantium_Emperor.label>
+  <!-- EN: basilissa -->
+  <BA_Byzantium_Emperor.labelFemale>巴西莉萨</BA_Byzantium_Emperor.labelFemale>
+  
+  <!-- EN: Byzantine guard archer -->
+  <BA_Byzantium_Guard_Archer.label>拜占庭禁卫弓箭手</BA_Byzantium_Guard_Archer.label>
+  
+  <!-- EN: kephale -->
+  <BA_Byzantium_Kephale.label>百夫长</BA_Byzantium_Kephale.label>
+  
+  <!-- EN: Byzantine lancer -->
+  <BA_Byzantium_Lancer.label>拜占庭枪骑兵</BA_Byzantium_Lancer.label>
+  
+  <!-- EN: latinkon -->
+  <BA_Byzantium_Latinkon.label>拉丁裔士兵</BA_Byzantium_Latinkon.label>
+  
+  <!-- EN: peasant -->
+  <BA_Byzantium_Peasant.label>农民</BA_Byzantium_Peasant.label>
+  
+  <!-- EN: Byzantine spearmen -->
+  <BA_Byzantium_Spear_Militia.label>拜占庭长矛民兵</BA_Byzantium_Spear_Militia.label>
+  
+  <!-- EN: Byzantine infantry -->
+  <BA_Byzantium_Swordsmen.label>拜占庭步兵</BA_Byzantium_Swordsmen.label>
+  
+  <!-- EN: varangian guard -->
+  <BA_Byzantium_Varangian.label>瓦兰吉亚卫队</BA_Byzantium_Varangian.label>
+  
+</LanguageData>

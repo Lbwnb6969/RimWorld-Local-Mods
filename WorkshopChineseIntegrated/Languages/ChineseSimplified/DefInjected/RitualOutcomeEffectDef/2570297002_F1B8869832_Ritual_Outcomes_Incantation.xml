@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: If the incantation ritual goes well (positive outcome) it will increase the corruption need of all participants by 10%, as well as provide a mood bonus. -->
+  <VME_IncantationOutcome.description>如果诅咒仪式顺利举行(积极的结果)，所有参与者都将增长10%的堕落值并获得心情增益。</VME_IncantationOutcome.description>
+  <!-- EN: room impressiveness -->
+  <VME_IncantationOutcome.comps.0.label>令人难忘的房间</VME_IncantationOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VME_IncantationOutcome.comps.1.label>参与者数量</VME_IncantationOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_IncantationOutcome.comps.2.label>{PAWN_labelShort}的社交影响</VME_IncantationOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <VME_IncantationOutcome.comps.2.labelAbstract>演讲者的社交影响</VME_IncantationOutcome.comps.2.labelAbstract>
+  <!-- EN: Squamous -->
+  <VME_IncantationOutcome.outcomeChances.0.label>鳞状的</VME_IncantationOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was abnormal! An indescribably hideous gibbering! We'd even describe it as squamous, but we don't even know what that is! An unutterable word! -->
+  <VME_IncantationOutcome.outcomeChances.0.description>{0}恐怖无比！一种难以言喻的诡异声音环绕在我们周围！虽然我们称之为“鳞状的”，但我们根本就不知道那到底是什么东西，也不知道为什么要这样称呼！啊啊啊啊啊啊啊...有什么...不可名状的...</VME_IncantationOutcome.outcomeChances.0.description>
+  <!-- EN: Accursed -->
+  <VME_IncantationOutcome.outcomeChances.1.label>可憎的</VME_IncantationOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was suitably accursed. A litany of dark morbidities expressed in crime, perversion, and insanity. -->
+  <VME_IncantationOutcome.outcomeChances.1.description>{0}十分可憎！这引发了一连串以犯罪、变态和精神错乱为表现的阴暗病态行为。</VME_IncantationOutcome.outcomeChances.1.description>
+  <!-- EN: Blasphemous -->
+  <VME_IncantationOutcome.outcomeChances.2.label>亵渎神明的</VME_IncantationOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was blasphemous. A promise of hidden and fathomless worlds of strange life which pulsate in the gulfs beyond the stars and press hideously upon our own globe in unholy dimensions which only the dead and the moonstruck can glimpse. -->
+  <VME_IncantationOutcome.outcomeChances.2.description>{0}亵渎了神明！我们感受到了来自某个极度未知世界中的神秘生命。祂在群星之外的虚无深渊中活动着，并从那个邪恶的维度中向我们的世界发出可怖的威压，只有死人与疯狂之人才能窥视其中的一角。</VME_IncantationOutcome.outcomeChances.2.description>
+  <!-- EN: Loathsome -->
+  <VME_IncantationOutcome.outcomeChances.3.label>憎恶无比的</VME_IncantationOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was loathsome! We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. -->
+  <VME_IncantationOutcome.outcomeChances.3.description>{0}令人憎恶无比！在无尽的黑雾汇聚成的海洋中，我们居住在一座平和的小岛上。对外在险恶一无所知的我们决不该出航远行。</VME_IncantationOutcome.outcomeChances.3.description>
+  
+</LanguageData>

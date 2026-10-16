@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: craft leopard pelt -->
+  <BA_MakePelt_Leopard.label>制作豹皮</BA_MakePelt_Leopard.label>
+  <!-- EN: Craft a leopard pelt.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_MakePelt_Leopard.description>制作一张豹皮。</BA_MakePelt_Leopard.description>
+  <!-- EN: Crafting a leopard pelt. -->
+  <BA_MakePelt_Leopard.jobString>正在制作豹皮。</BA_MakePelt_Leopard.jobString>
+  
+</LanguageData>

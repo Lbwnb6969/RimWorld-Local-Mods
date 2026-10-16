@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: merchant -->
+  <BA_France_Trader.label>商人</BA_France_Trader.label>
+  
+  <!-- EN: nobleman -->
+  <BA_HighNoble_France.label>贵族</BA_HighNoble_France.label>
+  <!-- EN: noblewoman -->
+  <BA_HighNoble_France.labelFemale>贵妇人</BA_HighNoble_France.labelFemale>
+  
+  <!-- EN: townsman -->
+  <BA_Urban_Civilian_France.label>市民</BA_Urban_Civilian_France.label>
+  <!-- EN: townswoman -->
+  <BA_Urban_Civilian_France.labelFemale>女市民</BA_Urban_Civilian_France.labelFemale>
+  
+</LanguageData>

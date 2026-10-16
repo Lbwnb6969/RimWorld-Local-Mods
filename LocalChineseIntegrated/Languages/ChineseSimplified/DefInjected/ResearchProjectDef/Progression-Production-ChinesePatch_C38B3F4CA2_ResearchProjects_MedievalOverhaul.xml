@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ferny_AdvancedResearchBench.label>高级研究台</Ferny_AdvancedResearchBench.label>
+  <Ferny_AdvancedResearchBench.description>研究更复杂的科技，并提升研究速度。</Ferny_AdvancedResearchBench.description>
+  <Ferny_Workbench.label>工作台</Ferny_Workbench.label>
+  <Ferny_Workbench.description>建造一座可用于制作基础物品的设施。</Ferny_Workbench.description>
+  <Ferny_Ice.label>冰块管理</Ferny_Ice.label>
+  <Ferny_Ice.description>建造用于管理和储存冰块的建筑。</Ferny_Ice.description>
+  <Ferny_Mending.label>修补台</Ferny_Mending.label>
+  <Ferny_Mending.description>修补受损的服装与武器。</Ferny_Mending.description>
+  <Ferny_Writing.label>书写</Ferny_Writing.label>
+  <Ferny_Writing.description>掌握记录与书写文字的方法。</Ferny_Writing.description>
+  <Ferny_LootCleaning.label>战利品清理台</Ferny_LootCleaning.label>
+  <Ferny_LootCleaning.description>清理冒险中获得的战利品。</Ferny_LootCleaning.description>
+  <Ferny_IndustrialSmithing.label>工业锻造</Ferny_IndustrialSmithing.label>
+  <Ferny_IndustrialSmithing.description>建造能更快速地进行高级锻造的设施。</Ferny_IndustrialSmithing.description>
+  <Ferny_BlastFurnace.label>高炉</Ferny_BlastFurnace.label>
+  <Ferny_BlastFurnace.description>建造一座大型高炉，用于熔炼废料或原始资源。</Ferny_BlastFurnace.description>
+  <Ferny_TableSaw.label>台锯</Ferny_TableSaw.label>
+  <Ferny_TableSaw.description>建造一台电动锯床，以更快地将木材切割成木板。</Ferny_TableSaw.description>
+  <Ferny_TanningDrum.label>鞣皮鼓</Ferny_TanningDrum.label>
+  <Ferny_TanningDrum.description>建造一台电动鞣皮鼓，以更快地鞣制皮革。</Ferny_TanningDrum.description>
+  <Ferny_ElectricClothSpinner.label>电动纺织机</Ferny_ElectricClothSpinner.label>
+  <Ferny_ElectricClothSpinner.description>建造一台电动纺织机，以更快地纺制纺织品。</Ferny_ElectricClothSpinner.description>
+  <Ferny_CharcoalPile.label>木炭堆</Ferny_CharcoalPile.label>
+  <Ferny_CharcoalPile.description>建造木炭堆，让木材缓慢燃烧并转化为木炭。</Ferny_CharcoalPile.description>
+</LanguageData>

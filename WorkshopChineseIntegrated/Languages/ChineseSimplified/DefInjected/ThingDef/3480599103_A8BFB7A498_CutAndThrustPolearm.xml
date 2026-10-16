@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cut-and-thrust polearm -->
+  <TA_CutAndThrustPolearm.label>砍刺长柄武器</TA_CutAndThrustPolearm.label>
+  <!-- EN: halberds and stuff. -->
+  <TA_CutAndThrustPolearm.description>戟类长柄武器</TA_CutAndThrustPolearm.description>
+  <!-- EN: shaft -->
+  <TA_CutAndThrustPolearm.tools.shaft.label>柄部</TA_CutAndThrustPolearm.tools.shaft.label>
+  <!-- EN: edge -->
+  <TA_CutAndThrustPolearm.tools.edge.label>刃部</TA_CutAndThrustPolearm.tools.edge.label>
+  <!-- EN: point -->
+  <TA_CutAndThrustPolearm.tools.point.label>尖部</TA_CutAndThrustPolearm.tools.point.label>
+  
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tavor TS12 bullpup shotgun -->
+  <AM_Jewish_ChainShotgun.overrideLabel>TS12无托霰弹枪</AM_Jewish_ChainShotgun.overrideLabel>
+  
+  <!-- EN: chanith -->
+  <AM_Jewish_Chanith.overrideLabel>短矛</AM_Jewish_Chanith.overrideLabel>
+  
+  <!-- EN: duckbill axe -->
+  <AM_Jewish_DuckBillAxe.overrideLabel>鸭嘴斧</AM_Jewish_DuckBillAxe.overrideLabel>
+  
+  <!-- EN: javelin -->
+  <AM_Jewish_Javelin.overrideLabel>标枪</AM_Jewish_Javelin.overrideLabel>
+  
+  <!-- EN: leaf dagger -->
+  <AM_Jewish_Knife.overrideLabel>柳叶小刀</AM_Jewish_Knife.overrideLabel>
+  
+  <!-- EN: jericho 941 pistol -->
+  <AM_Jewish_Pistol.overrideLabel>杰里科941手枪</AM_Jewish_Pistol.overrideLabel>
+  
+  <!-- EN: webley revolver -->
+  <AM_Jewish_Revolver.overrideLabel>韦伯利左轮手枪</AM_Jewish_Revolver.overrideLabel>
+  
+  <!-- EN: tavor TAR-21 assault rifle -->
+  <AM_Jewish_Rifle.overrideLabel>TAR-21突击步枪</AM_Jewish_Rifle.overrideLabel>
+  
+  <!-- EN: leaf short sword -->
+  <AM_Jewish_ShortSword.overrideLabel>柳叶短剑</AM_Jewish_ShortSword.overrideLabel>
+  
+  <!-- EN: dan .338 sniper rifle -->
+  <AM_Jewish_Sniper.overrideLabel>IWI DAN狙击步枪</AM_Jewish_Sniper.overrideLabel>
+  
+  <!-- EN: kidhohn -->
+  <AM_Jewish_Spear.overrideLabel>长矛</AM_Jewish_Spear.overrideLabel>
+  
+  <!-- EN: leaf sword -->
+  <AM_Jewish_Sword.overrideLabel>柳叶长剑</AM_Jewish_Sword.overrideLabel>
+  
+</LanguageData>

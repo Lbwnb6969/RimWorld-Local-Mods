@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: participate -->
+  <AM_TantrumRitualBehavior.spectatorGerund>参加</AM_TantrumRitualBehavior.spectatorGerund>
+  <!-- EN: Participants -->
+  <AM_TantrumRitualBehavior.spectatorsLabel>参与者</AM_TantrumRitualBehavior.spectatorsLabel>
+  <!-- EN: {0}: Everyone has gathered. Time to begin the destruction -->
+  <AM_TantrumRitualBehavior.stages.0.postAction.text>{0}：所有人都到齐了，是时候打砸拆个痛快了。</AM_TantrumRitualBehavior.stages.0.postAction.text>
+  
+</LanguageData>

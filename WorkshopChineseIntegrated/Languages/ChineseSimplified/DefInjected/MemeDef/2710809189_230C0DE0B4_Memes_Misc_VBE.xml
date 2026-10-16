@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_CoffeePrimacy.label>咖啡至上</AM_CoffeePrimacy.label>
+  
+  <AM_CoffeePrimacy.description>咖啡是驱动我们生活的燃料。它浓郁的芳香能唤醒身体，苦涩的味道能锤炼心智，而日常的仪式则让我们齐聚一堂。生活失去了咖啡，就等于失去了目标。</AM_CoffeePrimacy.description>
+  
+  <AM_CoffeePrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_CoffeePrimacy)        -&gt;[deity0_name]赐予人类最初的咖啡豆，教导我们警觉和决心是开悟的真正途径。这是[deity0_name]给饮咖啡者的礼物。</li>
+    <li>episode(uses=1,tag=meme_CoffeePrimacy)  -&gt;[deity0_name]煮了最初的一壶，将这温暖与活力分享给[deity0_possessive]子民，并开启了喝咖啡的传统。</li>
+    <li>intro(tag=meme_CoffeePrimacy)           -&gt;当最初的一批喝咖啡者聚集在[place_summary][place_name]，他们分享了一壶新煮的咖啡，为这提神的信仰向[deity0_type][deity0_name]表达感激。</li>
+    <li>conflict(tag=meme_CoffeePrimacy)        -&gt;敌对的[foeLeader]试着立法禁咖啡，但[memberNamePlural]坚定地集会以示反抗，用完美的一壶咖啡说服了压迫者。</li>
+    <li>founderJoin(tag=meme_CoffeePrimacy)     -&gt;聪慧的[founderName]在[place_name]煮了第一壶仪式性的咖啡，激发了一场植根于活力和决心的运动。</li>
+    <li>victory(tag=meme_CoffeePrimacy)         -&gt;[founderName]在[place_powerCenter]以谋略制胜[foeLeader]，并奉上一杯提神的咖啡，化去了所有的敌意。</li>
+    <li>setup(tag=meme_CoffeePrimacy)           -&gt;在疲惫的世界中，[founderName]设想了一个以咖啡仪式提神为基础的社会。</li>
+    <li>story(uses=1,tag=meme_CoffeePrimacy)    -&gt;[founderName]召集了疲劳倦怠的人们，向他们展示用煮咖啡喝咖啡的仪式通往目标的道路。</li>
+    <li>lessonIntro(tag=meme_CoffeePrimacy)         -&gt;你或许不了解，但当我品一口咖啡后就明白了这个道理：每一杯，</li>
+    <li>lesson(tag=meme_CoffeePrimacy)              -&gt;我们都能在其活力中寻得力量，从浓烈中寻得清明</li>
+    <li>lessonReinforcement(tag=meme_CoffeePrimacy) -&gt;永远不要忘记这个事实，因为每一杯咖啡都是在这倦怠世界中的一瞬明晰。</li>
+    <li>archistBasis(tag=meme_CoffeePrimacy)    -&gt;超凡智能重视专注与精细的力量，而没有什么东西能像一杯咖啡一样使思维明晰。</li>
+    <li>archistFact(tag=meme_CoffeePrimacy)     -&gt;超凡智能基因编辑出了最好的咖啡树，确保人类总能从咖啡豆中寻得活力。</li>
+    <li>archistFact(tag=meme_CoffeePrimacy)     -&gt;对超凡智能而言，咖啡仪式是人类生产力与效率的关键组件。</li>
+    <li>archistProphecy(tag=meme_CoffeePrimacy) -&gt;[inTheEnd]，超凡智能将会煮一壶强效的咖啡，能够在一瞬完美清明中团结所有的心灵。</li>
+    <li>animistFact(tag=meme_CoffeePrimacy)     -&gt;每颗咖啡豆都有着它自己的灵魂，每一次烹煮都是对大地之灵的尊崇。</li>
+    <li>animistFact(tag=meme_CoffeePrimacy)     -&gt;土、雨与豆的灵魂和谐共舞，烹煮了一壶足以唤醒灵魂的咖啡。</li>
+    <li>animistFact(tag=meme_CoffeePrimacy)     -&gt;咖啡豆是灵魂的礼物，教导我们以坚韧、活力与感激。</li>
+    <li>serketistProphecy(tag=meme_CoffeePrimacy)-&gt;[itIsSaid]圣虫为最好的咖啡树授粉，它们的劳作为茶叶注入了无上活力。</li>
+    <li>chthonianProphecy(tag=meme_CoffeePrimacy)-&gt;裂口深渊的古神为咖啡仪式欢欣鼓舞，它们的低语在咖啡香中回荡。</li>
+    <li>esotericismProphecy(tag=meme_CoffeePrimacy)-&gt;宇宙的秘密蕴藏在咖啡豆的起伏模式之中，每一杯茶都能向足够警觉的人揭露一个隐藏的真相。</li>
+    <li>eschatologismFact(tag=meme_CoffeePrimacy)-&gt;在末日里，咖啡壶永远在沸腾，所有人都将在永恒的清醒之中共饮。</li>
+    <li>introMemo(tag=meme_CoffeePrimacy)-&gt;致：全体员工。主题：工作中的喝咖啡文化。我们注意到生产力受过多咖啡休息时间的严重影响。虽然我们理解保持警觉的重要性，但请记住，季度预算不能像一杯上等意式浓缩咖啡一样昂贵。请把这视为对你通往平衡咖啡文化的邀请——品咖啡与工作需要平衡。</li>
+    <li>alienistProphecy(tag=meme_CoffeePrimacy)-&gt;银河的和谐始于共享的一壶咖啡，其充满活力的温暖弥合了物种之间的鸿沟。</li>
+  </AM_CoffeePrimacy.descriptionMaker.rules.rulesStrings>
+  
+  <AM_CoffeePrimacy.generalRules.rulesStrings>
+    <li>memeCreed-&gt;烹</li>
+    <li>memeCreed-&gt;焙</li>
+    <li>memeCreed-&gt;磨</li>
+    <li>memeCreed-&gt;啜</li>
+    <li>memeCreed-&gt;倒</li>
+    <li>memeConcept-&gt;活力</li>
+    <li>memeConcept-&gt;馥郁</li>
+    <li>memeAdjective-&gt;提神</li>
+    <li>memeAdjective-&gt;浓烈</li>
+    <li>memeAdjective-&gt;振奋</li>
+    <li>memeHyphenPrefix-&gt;咖啡</li>
+    <li>memeHyphenPrefix-&gt;煮</li>
+    <li>memeHyphenPrefix-&gt;豆</li>
+    <li>memeLeaderNoun-&gt;咖啡大师</li>
+    <li>memeLeaderNoun-&gt;咖啡师</li>
+    <li>memeLeaderNoun-&gt;煮咖啡大师</li>
+    <li>memeLeaderAdjective-&gt;活力</li>
+    <li>memeLeaderAdjective-&gt;警觉</li>
+    <li>memeLeaderAdjective-&gt;振奋</li>
+    <li>memeMoralist-&gt;咖啡贤者</li>
+  </AM_CoffeePrimacy.generalRules.rulesStrings>
+  
+  <AM_CoffeePrimacy.symbolPacks.0.adjective>烘焙</AM_CoffeePrimacy.symbolPacks.0.adjective>
+  
+  <AM_CoffeePrimacy.symbolPacks.0.ideoName>烘焙看管者</AM_CoffeePrimacy.symbolPacks.0.ideoName>
+  
+  <AM_CoffeePrimacy.symbolPacks.0.member>品咖啡者</AM_CoffeePrimacy.symbolPacks.0.member>
+  
+  <AM_CoffeePrimacy.symbolPacks.0.theme>烘焙</AM_CoffeePrimacy.symbolPacks.0.theme>
+  
+  <AM_CoffeePrimacy.symbolPacks.1.adjective>煮咖啡</AM_CoffeePrimacy.symbolPacks.1.adjective>
+  
+  <AM_CoffeePrimacy.symbolPacks.1.ideoName>煮咖啡守卫</AM_CoffeePrimacy.symbolPacks.1.ideoName>
+  
+  <AM_CoffeePrimacy.symbolPacks.1.member>煮咖啡者</AM_CoffeePrimacy.symbolPacks.1.member>
+  
+  <AM_CoffeePrimacy.symbolPacks.1.theme>煮咖啡</AM_CoffeePrimacy.symbolPacks.1.theme>
+  
+  <AM_CoffeePrimacy.symbolPacks.2.adjective>豆</AM_CoffeePrimacy.symbolPacks.2.adjective>
+  
+  <AM_CoffeePrimacy.symbolPacks.2.ideoName>咖啡豆连接者</AM_CoffeePrimacy.symbolPacks.2.ideoName>
+  
+  <AM_CoffeePrimacy.symbolPacks.2.member>咖啡研磨者</AM_CoffeePrimacy.symbolPacks.2.member>
+  
+  <AM_CoffeePrimacy.symbolPacks.2.theme>咖啡豆</AM_CoffeePrimacy.symbolPacks.2.theme>
+  
+  <AM_CoffeePrimacy.symbolPacks.3.adjective>烘焙</AM_CoffeePrimacy.symbolPacks.3.adjective>
+  
+  <AM_CoffeePrimacy.symbolPacks.3.ideoName>烘焙主义者</AM_CoffeePrimacy.symbolPacks.3.ideoName>
+  
+  <AM_CoffeePrimacy.symbolPacks.3.member>饮咖啡者</AM_CoffeePrimacy.symbolPacks.3.member>
+  
+  <AM_CoffeePrimacy.symbolPacks.3.theme>烘焙</AM_CoffeePrimacy.symbolPacks.3.theme>
+
+  
+  <AM_TeaPrimacy.label>饮茶至上</AM_TeaPrimacy.label>
+  
+  <AM_TeaPrimacy.description>茶对我们而言意味着一切——舒适，文化以及仪式。我们靠它来迎接新的一天，我们靠它来排忧解难，我们靠它来欢舞共庆。那些不饮茶的人根本无法理解自己错过了何物。</AM_TeaPrimacy.description>
+  
+  <AM_TeaPrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_TeaPrimacy)        -&gt;[deity0_name]赐予人类最初的茶叶，教导我们宁静和专注是开悟的真正途径。这是[deity0_name]给饮茶者的礼物。</li>
+    <li>episode(uses=1,tag=meme_TeaPrimacy)  -&gt;[deity0_name]煮了最初的一壶，将这温暖与智慧分享给[deity0_possessive]子民，并开启了茶道的传统。</li>
+    <li>intro(tag=meme_TeaPrimacy)           -&gt;当最初的一批饮茶人聚集在[place_summary][place_name]，他们分享了一壶新煮的茶，为这冷静的信仰向[deity0_type][deity0_name]表达感激。</li>
+    <li>conflict(tag=meme_TeaPrimacy)        -&gt;敌对的[foeLeader]试着立法禁茶，但[memberNamePlural]和平地集会以示反抗，用完美的一壶茶说服了压迫者。</li>
+    <li>founderJoin(tag=meme_TeaPrimacy)     -&gt;聪慧的[founderName]在[place_name]煮了第一壶仪式性的茶，激发了一场植根于宁静和正念的运动。</li>
+    <li>victory(tag=meme_TeaPrimacy)         -&gt;[founderName]在[place_powerCenter]以谋略制胜[foeLeader]，并奉上一杯温润的茶，化去了所有的敌意。</li>
+    <li>setup(tag=meme_TeaPrimacy)           -&gt;在繁杂的世界中，[founderName]设想了一个以茶道仪式静心为基础的社会。</li>
+    <li>story(uses=1,tag=meme_TeaPrimacy)    -&gt;[founderName]召集了疲劳的人们，向他们展示用烹茶饮茶的仪式通往平静的道路。</li>
+    <li>lessonIntro(tag=meme_TeaPrimacy)         -&gt;你或许不了解，但当我品一口茶后就明白了这个道理：每一杯，</li>
+    <li>lesson(tag=meme_TeaPrimacy)              -&gt;我们都能在其简约中寻得平静，从思维中寻得力量</li>
+    <li>lessonReinforcement(tag=meme_TeaPrimacy) -&gt;永远不要忘记这个事实，因为每一杯茶都是在这嘈杂世界中的一瞬明晰。</li>
+    <li>archistBasis(tag=meme_TeaPrimacy)    -&gt;超凡智能重视专注与精细的力量，而没有什么东西能像一杯茶一样使思维明晰。</li>
+    <li>archistFact(tag=meme_TeaPrimacy)     -&gt;超凡智能基因编辑出了最好的茶树，确保人类总能从茶叶中寻得平静。</li>
+    <li>archistFact(tag=meme_TeaPrimacy)     -&gt;对超凡智能而言，茶道仪式是人类和谐与效率的关键组件。</li>
+    <li>archistProphecy(tag=meme_TeaPrimacy) -&gt;[inTheEnd]，超凡智能将会煮一壶完美的茶，能够在一瞬启迪中团结所有的心灵。</li>
+    <li>animistFact(tag=meme_TeaPrimacy)     -&gt;每片茶叶都有着它自己的灵魂，每一次烹煮都是对大地之灵的尊崇。</li>
+    <li>animistFact(tag=meme_TeaPrimacy)     -&gt;水与叶的灵魂和谐共舞，烹煮了一壶足以安抚灵魂的茶。</li>
+    <li>animistFact(tag=meme_TeaPrimacy)     -&gt;茶叶是灵魂的礼物，教导我们以耐心、宁静与感激。</li>
+    <li>serketistProphecy(tag=meme_TeaPrimacy)-&gt;[itIsSaid]圣虫为最好的茶树授粉，它们的劳作为茶叶注入了无上智慧。</li>
+    <li>chthonianProphecy(tag=meme_TeaPrimacy)-&gt;地底的古神为茶道仪式欢欣鼓舞，它们的低语在茶香中回荡。</li>
+    <li>esotericismProphecy(tag=meme_TeaPrimacy)-&gt;宇宙的秘密蕴藏在茶叶的起伏模式之中，每一杯茶都能揭露一个隐藏的真相。</li>
+    <li>eschatologismFact(tag=meme_TeaPrimacy)-&gt;在末日里，茶壶永远在沸腾，所有人都将在永恒的平和之中共饮。</li>
+    <li>introMemo(tag=meme_TeaPrimacy)-&gt;致：全体员工。主题：工作中的饮茶文化。我们注意到生产力受过多茶歇的严重影响。虽然我们理解正念的重要性，但请记住，季度预算不能像一杯上等乌龙茶一样昂贵。请把这视为对你通往平衡茶文化的邀请——品茶与工作需要平衡。</li>
+    <li>alienistProphecy(tag=meme_TeaPrimacy)-&gt;银河的和谐始于共享的一壶茶，其舒缓的温暖弥合了物种之间的鸿沟。</li>
+  </AM_TeaPrimacy.descriptionMaker.rules.rulesStrings>
+  
+  <AM_TeaPrimacy.generalRules.rulesStrings>
+    <li>memeCreed-&gt;烹</li>
+    <li>memeCreed-&gt;浸</li>
+    <li>memeCreed-&gt;啜</li>
+    <li>memeCreed-&gt;浸</li>
+    <li>memeCreed-&gt;仪式</li>
+    <li>memeConcept-&gt;安宁</li>
+    <li>memeConcept-&gt;馥郁</li>
+    <li>memeAdjective-&gt;安定</li>
+    <li>memeAdjective-&gt;精炼</li>
+    <li>memeAdjective-&gt;安抚</li>
+    <li>memeHyphenPrefix-&gt;茶</li>
+    <li>memeHyphenPrefix-&gt;沏</li>
+    <li>memeHyphenPrefix-&gt;叶</li>
+    <li>memeLeaderNoun-&gt;茶道大师</li>
+    <li>memeLeaderNoun-&gt;烹茶大师</li>
+    <li>memeLeaderNoun-&gt;浸润者</li>
+    <li>memeLeaderAdjective-&gt;平静</li>
+    <li>memeLeaderAdjective-&gt;馥郁</li>
+    <li>memeLeaderAdjective-&gt;深思</li>
+    <li>memeMoralist-&gt;茶圣</li>
+  </AM_TeaPrimacy.generalRules.rulesStrings>
+  
+  <AM_TeaPrimacy.symbolPacks.0.adjective>浸润</AM_TeaPrimacy.symbolPacks.0.adjective>
+  
+  <AM_TeaPrimacy.symbolPacks.0.ideoName>浸茶看管者</AM_TeaPrimacy.symbolPacks.0.ideoName>
+  
+  <AM_TeaPrimacy.symbolPacks.0.member>品茶人</AM_TeaPrimacy.symbolPacks.0.member>
+  
+  <AM_TeaPrimacy.symbolPacks.0.theme>茶</AM_TeaPrimacy.symbolPacks.0.theme>
+  
+  <AM_TeaPrimacy.symbolPacks.1.adjective>烹茶</AM_TeaPrimacy.symbolPacks.1.adjective>
+  
+  <AM_TeaPrimacy.symbolPacks.1.ideoName>烹茶守卫</AM_TeaPrimacy.symbolPacks.1.ideoName>
+  
+  <AM_TeaPrimacy.symbolPacks.1.member>烹茶人</AM_TeaPrimacy.symbolPacks.1.member>
+  
+  <AM_TeaPrimacy.symbolPacks.1.theme>烹茶</AM_TeaPrimacy.symbolPacks.1.theme>
+  
+  <AM_TeaPrimacy.symbolPacks.2.adjective>茶</AM_TeaPrimacy.symbolPacks.2.adjective>
+  
+  <AM_TeaPrimacy.symbolPacks.2.ideoName>茶叶连接者</AM_TeaPrimacy.symbolPacks.2.ideoName>
+  
+  <AM_TeaPrimacy.symbolPacks.2.member>浸茶人</AM_TeaPrimacy.symbolPacks.2.member>
+  
+  <AM_TeaPrimacy.symbolPacks.2.theme>茶叶</AM_TeaPrimacy.symbolPacks.2.theme>
+  
+  <AM_TeaPrimacy.symbolPacks.3.adjective>浸润</AM_TeaPrimacy.symbolPacks.3.adjective>
+  
+  <AM_TeaPrimacy.symbolPacks.3.ideoName>雀跃者</AM_TeaPrimacy.symbolPacks.3.ideoName>
+  
+  <AM_TeaPrimacy.symbolPacks.3.member>饮茶人</AM_TeaPrimacy.symbolPacks.3.member>
+  
+  <AM_TeaPrimacy.symbolPacks.3.theme>浸茶</AM_TeaPrimacy.symbolPacks.3.theme>
+  
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no guest beds -->
+  <GuestBedCount.stages.no_guest_beds.label>没有访客用床</GuestBedCount.stages.no_guest_beds.label>
+  <!-- EN: They don't even have beds here. -->
+  <GuestBedCount.stages.no_guest_beds.description>他们甚至连张床都没有。</GuestBedCount.stages.no_guest_beds.description>
+  <!-- EN: not enough guest beds -->
+  <GuestBedCount.stages.not_enough_guest_beds.label>没有足够的访客用床</GuestBedCount.stages.not_enough_guest_beds.label>
+  <!-- EN: There should be more beds for guests. -->
+  <GuestBedCount.stages.not_enough_guest_beds.description>应当多准备些床位给访客。</GuestBedCount.stages.not_enough_guest_beds.description>
+  <!-- EN: enough beds -->
+  <GuestBedCount.stages.enough_beds.label>足够的访客用床</GuestBedCount.stages.enough_beds.label>
+  <!-- EN: There are enough beds in our room for all of us. -->
+  <GuestBedCount.stages.enough_beds.description>我们的房间有足够我们所有人用的床。</GuestBedCount.stages.enough_beds.description>
+  <!-- EN: lots of beds -->
+  <GuestBedCount.stages.lots_of_beds.label>好多的床</GuestBedCount.stages.lots_of_beds.label>
+  <!-- EN: Wow, so many beds! -->
+  <GuestBedCount.stages.lots_of_beds.description>哇哦！很多的床！</GuestBedCount.stages.lots_of_beds.description>
+  
+  <!-- EN: can't afford a bed -->
+  <GuestCantAffordBed.stages.cant_afford_a_bed.label>付不起床位费</GuestCantAffordBed.stages.cant_afford_a_bed.label>
+  <!-- EN: I can't afford one of the beds. -->
+  <GuestCantAffordBed.stages.cant_afford_a_bed.description>我付不起床位费。</GuestCantAffordBed.stages.cant_afford_a_bed.description>
+  
+  <!-- EN: no food -->
+  <GuestHasNoFood.stages.no_food.label>没有食物</GuestHasNoFood.stages.no_food.label>
+  <!-- EN: I don't have anything to eat. -->
+  <GuestHasNoFood.stages.no_food.description>我没有食物可吃。</GuestHasNoFood.stages.no_food.description>
+  
+</LanguageData>

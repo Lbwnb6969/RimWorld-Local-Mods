@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: athanatic vitae -->
+  <BEWH_AthanaticVitae.label>永生之力</BEWH_AthanaticVitae.label>
+  <!-- EN: The Athanatic Vitae gene significantly extends the natural lifespan of carrier, slowing the aging process and enhancing cellular repair mechanisms. This gene allows carrier to maintain peak physical and mental condition for millenia, ensuring their effectiveness. -->
+  <BEWH_AthanaticVitae.description>永生之力基因显著延长了携带者的自然寿命，减缓其衰老过程，增强了细胞修复机制。该基因使携带者能够在数千年内保持最佳身体状态。</BEWH_AthanaticVitae.description>
+  <!-- EN: Bleeding wounds close very quickly. -->
+  <BEWH_AthanaticVitae.customEffectDescriptions.0>流血的伤口很快就会愈合。</BEWH_AthanaticVitae.customEffectDescriptions.0>
+  
+  <!-- EN: atlas morphogen -->
+  <BEWH_AtlasMorphogen.label>Atlas形态建成</BEWH_AtlasMorphogen.label>
+  <!-- EN: The Atlas Morphogen gene fundamentally reprograms the cellular architecture of carrier, enhancing both their physical and structural attributes to superhuman levels. This gene promotes accelerated growth and fortification of muscle tissues, bone density, and connective tissues, resulting in a nearly indestructible physique. Carrier of this gene exhibit remarkable strength, and an extraordinary capacity for sustained physical exertion, embodying the epitome of invincibility and resilience. -->
+  <BEWH_AtlasMorphogen.description>Atlas形态建成基因从根本上重塑了携带者的细胞结构，将其体能和结构属性提升至超人水平。该基因能够加速肌肉组织、骨密度和结缔组织的生长和强化，从而打造出近乎坚不可摧的体格。该基因的携带者展现出非凡的力量和非凡的体能，堪称无敌的典范。</BEWH_AtlasMorphogen.description>
+  <!-- EN: Ignores movespeed decrease from armor. -->
+  <BEWH_AtlasMorphogen.customEffectDescriptions.0>TODO</BEWH_AtlasMorphogen.customEffectDescriptions.0>
+  
+  <!-- EN: fulgurite nerve plexus -->
+  <BEWH_FulguriteNervePlexus.label>闪电神经丛</BEWH_FulguriteNervePlexus.label>
+  <!-- EN: The Fulgurite Nerve Plexus gene enhances the sensory perception of carrier, allowing them to detect subtle changes in their environment. This gene sharpens all five senses to superhuman levels, providing carrier with heightened awareness and the ability to anticipate and counter threats with uncanny accuracy. -->
+  <BEWH_FulguriteNervePlexus.description>闪电神经丛基因增强了携带者的感知能力，使他们能够察觉周围环境中的细微变化。该基因将所有五种感官提升到超人的水平，赋予携带者更高的警觉性，以及以惊人的精准度预测和应对威胁的能力。</BEWH_FulguriteNervePlexus.description>
+  <!-- EN: No loss in shooting skill. -->
+  <BEWH_FulguriteNervePlexus.customEffectDescriptions.0>不会失去射击技能。</BEWH_FulguriteNervePlexus.customEffectDescriptions.0>
+  <!-- EN: Recreation from shooting. -->
+  <BEWH_FulguriteNervePlexus.customEffectDescriptions.1>从射击中获取娱乐值。</BEWH_FulguriteNervePlexus.customEffectDescriptions.1>
+  
+  <!-- EN: fulgur vitaliumstrand -->
+  <BEWH_FulgurVitaliumstrand.label>闪电活力链</BEWH_FulgurVitaliumstrand.label>
+  <!-- EN: The Fulgur Vitaliumstrand binds itself to the carrier's sinew and vital organs such as the lungs and heart, enhancing them in various ways. It grants greater flexibility and enhaces the function of the bound tissue, this results in faster manipulation, better breathing and blood pumping. This organ also seems to have its own memory, allowing the carrier to quickly learn various combat forms. Additionally, it allows the carrier to secrete a thick fluid from their pores that envelops their entire body, putting them in a state of stasis. -->
+  <BEWH_FulgurVitaliumstrand.description>闪电活力链基因会与携带者的肌腱以及一些重要器官（例如肺和心脏）结合，以各种方式增强它们。闪电活力链赋予其极大的灵活性，并增强了束缚组织的功能，从而加快了操控速度，改善了呼吸和血液循环。闪电活力链似乎拥有自己的记忆，使携带者能够快速学习战斗技巧。此外，它还能使携带者从毛孔中分泌出一种粘稠的液体，这种液体会覆盖全身，使其进入“假死”的停滞状态。</BEWH_FulgurVitaliumstrand.description>
+  <!-- EN: No loss in melee skill. -->
+  <BEWH_FulgurVitaliumstrand.customEffectDescriptions.0>不会失去格斗技能。</BEWH_FulgurVitaliumstrand.customEffectDescriptions.0>
+  <!-- EN: Recreation from melee. -->
+  <BEWH_FulgurVitaliumstrand.customEffectDescriptions.1>从近战中获取娱乐值。</BEWH_FulgurVitaliumstrand.customEffectDescriptions.1>
+  <!-- EN: Can survive loss of lungs. -->
+  <BEWH_FulgurVitaliumstrand.customEffectDescriptions.2>失去肺部后仍能存活。</BEWH_FulgurVitaliumstrand.customEffectDescriptions.2>
+  <!-- EN: Can survive loss of heart. -->
+  <BEWH_FulgurVitaliumstrand.customEffectDescriptions.3>失去心脏后仍能存活。</BEWH_FulgurVitaliumstrand.customEffectDescriptions.3>
+  
+  <!-- EN: immunis leucocyte -->
+  <BEWH_ImmunisLeucocyte.label>免疫白细胞</BEWH_ImmunisLeucocyte.label>
+  <!-- EN: The Immunis Leucocyte gene fortifies the carriers immune response, making them highly resistant to diseases, infections, and poisons. This gene boosts the production of specialized immune cells and antibodies, ensuring that carriers can withstand biological threats that would incapacitate ordinary humans. -->
+  <BEWH_ImmunisLeucocyte.description>免疫白细胞基因可增强携带者的免疫反应，使其对疾病、感染和毒素具有极强的抵抗力。该基因可促进特化免疫细胞和抗体的产生，确保携带者能够抵御足以使普通人丧失行动能力的微生物与疾病威胁。</BEWH_ImmunisLeucocyte.description>
+  
+  <!-- EN: mnemosyne mindshield -->
+  <BEWH_MnemosyneMindshield.label>心灵屏障</BEWH_MnemosyneMindshield.label>
+  <!-- EN: The Mnemosyne Mindshield gene enhances the carriers mental fortitude and cognitive resilience to unprecedented levels. This gene creates a neural network that shields their consciousness from psychic intrusion and mental attacks, granting them unmatched clarity of thought and unwavering focus in the face of adversity. Carriers of this gene possess an indomitable willpower and exceptional mental acuity, enabling them to maintain calm under pressure, strategize with precision, and resist even the most potent psychic assaults. Additionally it allows the carrier to stay awake for extended periods of time without suffering exhaustion. -->
+  <BEWH_MnemosyneMindshield.description>心灵屏障基因可将携带者的心灵韧性和认知韧性提升至前所未有的水平。该基因会创建一个神经网络，保护他们的意识免受心灵入侵和心灵攻击，使他们在逆境中拥有无与伦比的清晰思维和坚定不移的专注力。该基因的携带者拥有不屈不挠的意志力和超乎常人的敏锐度，使他们能够在压力下保持冷静，精准地制定战略，并抵御最强大的心灵攻击。此外，它还能让携带者长时间保持清醒而不会感到疲惫。</BEWH_MnemosyneMindshield.description>
+  <!-- EN: Will never have mental breaks when drafted. -->
+  <BEWH_MnemosyneMindshield.customEffectDescriptions.0>征召时永远不会精神崩溃。</BEWH_MnemosyneMindshield.customEffectDescriptions.0>
+  
+</LanguageData>

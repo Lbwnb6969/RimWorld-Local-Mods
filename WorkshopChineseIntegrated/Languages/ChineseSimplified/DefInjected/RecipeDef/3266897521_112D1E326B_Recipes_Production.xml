@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make ballistic glass -->
+  <RB_Make_BallisticGlassFromChunks.label>制作防弹玻璃板</RB_Make_BallisticGlassFromChunks.label>
+  <!-- EN: Refine stone chunks and plasteel into ballistic glass. -->
+  <RB_Make_BallisticGlassFromChunks.description>用石块和玻璃钢制作防弹玻璃板。</RB_Make_BallisticGlassFromChunks.description>
+  <!-- EN: Making ballistic glass. -->
+  <RB_Make_BallisticGlassFromChunks.jobString>正在制作防弹玻璃板。</RB_Make_BallisticGlassFromChunks.jobString>
+  
+  <!-- EN: make glass from chunks -->
+  <RB_Make_GlassFromChunks.label>制作普通玻璃板</RB_Make_GlassFromChunks.label>
+  <!-- EN: Refine stone chunks into basic glass. -->
+  <RB_Make_GlassFromChunks.description>用石块制作普通玻璃板。</RB_Make_GlassFromChunks.description>
+  <!-- EN: Making glass. -->
+  <RB_Make_GlassFromChunks.jobString>正在制作普通玻璃板。</RB_Make_GlassFromChunks.jobString>
+  
+</LanguageData>

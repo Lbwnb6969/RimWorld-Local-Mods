@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fueled draught lab -->
+  <VFEM2_AlchemicalWorkbench.label>灵药炼金台（燃料）</VFEM2_AlchemicalWorkbench.label>
+  <!-- EN: A wood-fueled station for brewing various alchemical draughts. -->
+  <VFEM2_AlchemicalWorkbench.description>用木材当燃料的灵药炼金台（燃料），可以炼制多种炼金灵药。</VFEM2_AlchemicalWorkbench.description>
+  
+  <!-- EN: electric draught lab -->
+  <VFEM2_AlchemicalWorkbench_Electric.label>灵药炼金台（电力）</VFEM2_AlchemicalWorkbench_Electric.label>
+  <!-- EN: An electrically-powered station for brewing various alchemical draughts. -->
+  <VFEM2_AlchemicalWorkbench_Electric.description>可以炼制多种炼金灵药的电力工作台。</VFEM2_AlchemicalWorkbench_Electric.description>
+  
+</LanguageData>

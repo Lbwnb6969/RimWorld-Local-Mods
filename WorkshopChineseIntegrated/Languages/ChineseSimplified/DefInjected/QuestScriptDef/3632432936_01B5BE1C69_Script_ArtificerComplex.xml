@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->You've [discoveryDesc] of an ancient complex nearby that contains the remains of a long-dead artificer.\n\nArtificers can create, control, and manipulate constructs for work and combat. If you can break into the complex and collect the artificer's corpse, you can extract their implant and turn one of your own colonists into a artificer.\n\nBe warned - these kinds of structures can contain a variety of threats, and your activity at the complex might draw unwanted attention.</li>
+    <li>discoveryDesc(discovered==false)->learned</li>
+    <li>discoveryDesc(discovered==true)->determined the location</li>
+  -->
+  <VR_OpportunitySite_AncientComplex_Artificer.questDescriptionRules.rulesStrings>
+    <li>questDescription->你已[discoveryDesc]附近一处古代复合体的位置，其中有一位早已死去的机巧师遗骸。\n\n机巧师能够制造、控制并操纵构装体用于劳作与战斗。若你能闯入复合体并取得机巧师遗体，就能取出其植入体，将你的一名殖民者变为机巧师。\n\n注意——此类结构可能包含多种威胁，你在复合体的活动也可能引来不必要的关注。</li>
+    <li>discoveryDesc(discovered==false)->获悉了</li>
+    <li>discoveryDesc(discovered==true)->锁定了</li>
+  </VR_OpportunitySite_AncientComplex_Artificer.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(p=3)->[complexAdj] artificer [complex]</li>
+    <li>questName->artificer [complex]</li>
+    <li>complexAdj->secret</li>
+    <li>complexAdj->ancient</li>
+    <li>complexAdj->old</li>
+    <li>complexAdj->hidden</li>
+    <li>complexAdj->dusty</li>
+    <li>complexAdj->dangerous</li>
+    <li>complexAdj->hidden</li>
+    <li>complex->complex</li>
+    <li>complex->lair</li>
+    <li>complex->base</li>
+    <li>complex->compound</li>
+    <li>complex->crypt</li>
+    <li>complex->forge</li>
+    <li>complex->crucible</li>
+  -->
+  <VR_OpportunitySite_AncientComplex_Artificer.questNameRules.rulesStrings>
+    <li>questName(p=3)->[complexAdj]机巧师[complex]</li>
+    <li>questName->机巧师[complex]</li>
+    <li>complexAdj->秘密的</li>
+    <li>complexAdj->古老的</li>
+    <li>complexAdj->陈旧的</li>
+    <li>complexAdj->隐秘的</li>
+    <li>complexAdj->落满尘土的</li>
+    <li>complexAdj->危险的</li>
+    <li>complexAdj->隐秘的</li>
+    <li>complex->复合体</li>
+    <li>complex->巢穴</li>
+    <li>complex->基地</li>
+    <li>complex->据点</li>
+    <li>complex->墓穴</li>
+    <li>complex->锻炉</li>
+    <li>complex->坩埚</li>
+  </VR_OpportunitySite_AncientComplex_Artificer.questNameRules.rulesStrings>
+  
+</LanguageData>

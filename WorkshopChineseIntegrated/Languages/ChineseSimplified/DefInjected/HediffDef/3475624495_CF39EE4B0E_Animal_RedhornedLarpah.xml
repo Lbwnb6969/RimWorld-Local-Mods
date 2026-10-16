@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scarlet fumes -->
+  <DA_ScarletScentHigh.label>猩红香氛</DA_ScarletScentHigh.label>
+  <!-- EN: Inhaled fumes from the red mix known as scarlet scent. Greatly increase one's combat capabilities, while possibly entering a blood fueled frenzy. -->
+  <DA_ScarletScentHigh.description>吸入猩红香氛将极大地增强近战能力，不过可能会进入到一种燃血的癫狂状态。</DA_ScarletScentHigh.description>
+  <!-- EN: Raging -->
+  <DA_ScarletScentHigh.stages.Raging.label>狂怒</DA_ScarletScentHigh.stages.Raging.label>
+  <!-- EN: Blood frenzy -->
+  <DA_ScarletScentHigh.stages.Blood_frenzy.label>嗜血癫狂</DA_ScarletScentHigh.stages.Blood_frenzy.label>
+  
+</LanguageData>

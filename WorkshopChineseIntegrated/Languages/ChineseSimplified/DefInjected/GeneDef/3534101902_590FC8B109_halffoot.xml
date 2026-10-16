@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_Bandwidth_High.label>高带宽</DV_Bandwidth_High.label>
+    <DV_Bandwidth_High.description>这种基因的携带者由于大脑中的一个特殊脑叶，能够形成更宽的带宽网络。</DV_Bandwidth_High.description>
+    
+    <DV_Melee_Fast.label>快速打者</DV_Melee_Fast.label>
+    <DV_Melee_Fast.description>这种基因的携带者有着更轻的胳膊，那使他们在挥舞近战武器的时候更快。</DV_Melee_Fast.description>
+
+    <DV_Pushover.label>孬种</DV_Pushover.label>
+    <DV_Pushover.description>这种基因的携带者在受到伤害时速度会减慢很多。</DV_Pushover.description>
+
+    <DV_Aggression_Hotheaded.label>红温</DV_Aggression_Hotheaded.label>
+    <DV_Aggression_Hotheaded.description>这种基因的携带者性格乖张且多变，他们会经常爆发暴力行为。</DV_Aggression_Hotheaded.description>
+
+    <DV_MechanicIntuitions.label>机械师直觉</DV_MechanicIntuitions.label>
+    <DV_MechanicIntuitions.description>这种基因的携带者能够更好地理解强调机械体功能的复杂系统性逻辑（和其他程序性工作）。</DV_MechanicIntuitions.description>
+
+    <DV_Ears_Broad.label>阔耳</DV_Ears_Broad.label>
+    <DV_Ears_Broad.description>这种基因的携带者有着又宽又大的耳朵，增加他们对声音的敏感度。</DV_Ears_Broad.description>
+
+
+    <DV_ExtrasmallBuild.label>半身尺寸</DV_ExtrasmallBuild.label>
+    <DV_ExtrasmallBuild.description>这种基因的携带者只能长到普通人的一半大小但会保留大多比例。</DV_ExtrasmallBuild.description>
+</LanguageData>

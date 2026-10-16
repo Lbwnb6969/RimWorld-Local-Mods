@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desert tortoise -->
+  <AEXP_DesertTortoise.label>沙漠龟</AEXP_DesertTortoise.label>
+  
+  <!-- EN: gila monster -->
+  <AEXP_GilaMonster.label>钝尾毒蜥</AEXP_GilaMonster.label>
+  
+  <!-- EN: hyena -->
+  <AEXP_Hyena.label>鬣狗</AEXP_Hyena.label>
+  <!-- EN: hyenas -->
+  <AEXP_Hyena.labelPlural>鬣狗</AEXP_Hyena.labelPlural>
+  <!-- EN: hyena cub -->
+  <AEXP_Hyena.lifeStages.hyena_cub.label>鬣狗幼崽</AEXP_Hyena.lifeStages.hyena_cub.label>
+  <!-- EN: hyena cubs -->
+  <AEXP_Hyena.lifeStages.hyena_cub.labelPlural>鬣狗幼崽</AEXP_Hyena.lifeStages.hyena_cub.labelPlural>
+  
+  <!-- EN: lion -->
+  <AEXP_Lion.label>狮子</AEXP_Lion.label>
+  <!-- EN: lions -->
+  <AEXP_Lion.labelPlural>狮子</AEXP_Lion.labelPlural>
+  <!-- EN: lion cub -->
+  <AEXP_Lion.lifeStages.lion_cub.label>狮子幼崽</AEXP_Lion.lifeStages.lion_cub.label>
+  <!-- EN: lion cubs -->
+  <AEXP_Lion.lifeStages.lion_cub.labelPlural>狮子幼崽</AEXP_Lion.lifeStages.lion_cub.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: try to intimidate -->
+  <VFEA_Intimidate.label>试图恐吓</VFEA_Intimidate.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].</li>
+    <li>r_logentry->[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.</li>
+    <li>negative->had no future</li>
+    <li>negative->had no way to escape</li>
+    <li>negative->should submit immediately</li>
+    <li>negative->should forget [RECIPIENT_possessive] aspirations</li>
+    <li>negative->should submit to the colony</li>
+    <li>negative->should give up the information</li>
+    <li>threat->torture</li>
+    <li>threat->punishment</li>
+    <li>threat->mutilation</li>
+    <li>threat->starvation</li>
+    <li>threat->lifetime incarceration</li>
+    <li>threat->death</li>
+    <li>threat->isolation</li>
+    <li>threat->dismemberment</li>
+    <li>threat->blunt trauma</li>
+    <li>threat->lacerations</li>
+    <li>threat->cannibalism</li>
+    <li>threat->organ harvesting</li>
+    <li>threat->long confinement</li>
+    <li>refused->tried to escape</li>
+    <li>refused->insulted the colony</li>
+    <li>refused->resisted submitting</li>
+    <li>refused->behaved impertinently</li>
+    <li>disillusionment->should accept [RECIPIENT_possessive] situation</li>
+    <li>disillusionment->had no hope for another future</li>
+    <li>disillusionment->would be best off submitting</li>
+    <li>disillusionment->would not survive on [RECIPIENT_possessive] own</li>
+    <li>disillusionment->had no option but to submit</li>
+    <li>givein->give in</li>
+    <li>givein->submit [RECIPIENT_objective]self</li>
+    <li>givein->surrender [RECIPIENT_objective]self</li>
+    <li>givein->yield [RECIPIENT_objective]self</li>
+  -->
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]告诉[RECIPIENT_nameDef][RECIPIENT_pronoun][negative]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]说[RECIPIENT_nameDef][negative]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]说如果[RECIPIENT_nameDef][refused]，那么将会用[threat]来威胁[RECIPIENT_pronoun]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]告诉[RECIPIENT_nameDef]说，[RECIPIENT_pronoun][disillusionment]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]要求[RECIPIENT_nameDef]向殖民地[givein]。</li>
+    <li>negative->没有未来</li>
+    <li>negative->逃不掉的</li>
+    <li>negative->应该马上投降</li>
+    <li>negative->应该放弃[RECIPIENT_possessive]抱负</li>
+    <li>negative->应该投靠殖民地</li>
+    <li>negative->应该立刻从实招来</li>
+    <li>threat->折磨</li>
+    <li>threat->惩罚</li>
+    <li>threat->酷刑</li>
+    <li>threat->断粮</li>
+    <li>threat->终身监禁</li>
+    <li>threat->死亡</li>
+    <li>threat->隔离</li>
+    <li>threat->肢解</li>
+    <li>threat->殴打</li>
+    <li>threat->刀割</li>
+    <li>threat->吃人</li>
+    <li>threat->收割器官</li>
+    <li>threat->长期监禁</li>
+    <li>refused->试图逃跑</li>
+    <li>refused->侮辱殖民地</li>
+    <li>refused->拒绝屈服</li>
+    <li>refused->粗鲁不敬</li>
+    <li>disillusionment->应该接受[RECIPIENT_possessive]现状</li>
+    <li>disillusionment->不要再期盼着别人的救援了</li>
+    <li>disillusionment->最好从实招来</li>
+    <li>disillusionment->只凭自己是活不下来的</li>
+    <li>disillusionment->别无选择</li>
+    <li>givein->投降</li>
+    <li>givein->屈服</li>
+    <li>givein->服从</li>
+    <li>givein->求饶</li>
+  </VFEA_Intimidate.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

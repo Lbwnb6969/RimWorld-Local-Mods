@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: food need decay -->
+  <RTMT_FoodNeedDecay.label>饮食需求衰减</RTMT_FoodNeedDecay.label>
+  <!-- EN: The rate of which food need will decay. For reference: x50 will decay at half the vanilla rate. -->
+  <RTMT_FoodNeedDecay.description>饮食需求衰减的速度。举个例子：x50会以原版一般的速度衰减。</RTMT_FoodNeedDecay.description>
+  
+  <!-- EN: recreation need decay -->
+  <RTMT_RecreationNeed_Decay.label>娱乐需求衰减</RTMT_RecreationNeed_Decay.label>
+  <!-- EN: The rate of which recreation need will decay. For reference: x50 will decay at half the vanilla rate. -->
+  <RTMT_RecreationNeed_Decay.description>娱乐衰减的速度。举个例子：x50会以原版一般的速度衰减。</RTMT_RecreationNeed_Decay.description>
+  
+  <!-- EN: rest need decay -->
+  <RTMT_RestNeed_Decay.label>休息需求衰减</RTMT_RestNeed_Decay.label>
+  <!-- EN: The rate of which rest need will decay. For reference: x50 will decay at half the vanilla rate. -->
+  <RTMT_RestNeed_Decay.description>需求衰减的速度。举个例子：x50会以原版一般的速度衰减。</RTMT_RestNeed_Decay.description>
+  
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallArtificialMedHand.label>安装 假手</InstallArtificialMedHand.label>
+  <InstallArtificialMedHand.description>安装 假手。</InstallArtificialMedHand.description>
+  <InstallArtificialMedHand.jobString>正在安装 假手。</InstallArtificialMedHand.jobString>
+
+  <InstallArtificialMedArm.label>安装 假手臂</InstallArtificialMedArm.label>
+  <InstallArtificialMedArm.description>安装 假手臂。</InstallArtificialMedArm.description>
+  <InstallArtificialMedArm.jobString>正在安装 假手臂。</InstallArtificialMedArm.jobString>
+
+  <InstallArtificialMedLeg.label>安装 假腿</InstallArtificialMedLeg.label>
+  <InstallArtificialMedLeg.description>安装 假腿。</InstallArtificialMedLeg.description>
+  <InstallArtificialMedLeg.jobString>正在安装 假腿。</InstallArtificialMedLeg.jobString>
+
+  <InstallArtificialMedFoot.label>安装 假脚</InstallArtificialMedFoot.label>
+  <InstallArtificialMedFoot.description>安装 假脚。</InstallArtificialMedFoot.description>
+  <InstallArtificialMedFoot.jobString>正在安装 假脚。</InstallArtificialMedFoot.jobString>
+
+  <InstallArtificialMedFinger.label>安装 假指</InstallArtificialMedFinger.label>
+  <InstallArtificialMedFinger.description>安装 假指。</InstallArtificialMedFinger.description>
+  <InstallArtificialMedFinger.jobString>正在安装 假指。</InstallArtificialMedFinger.jobString>
+
+  <InstallArtificialMedToe.label>安装 假趾</InstallArtificialMedToe.label>
+  <InstallArtificialMedToe.description>安装 假趾。</InstallArtificialMedToe.description>
+  <InstallArtificialMedToe.jobString>正在安装 假趾。</InstallArtificialMedToe.jobString>
+
+  <InstallArtificialMedNose.label>安装 假鼻</InstallArtificialMedNose.label>
+  <InstallArtificialMedNose.description>安装 假鼻。</InstallArtificialMedNose.description>
+  <InstallArtificialMedNose.jobString>正在安装 假鼻。</InstallArtificialMedNose.jobString>
+
+  <InstallArtificialMedEye.label>安装 假眼</InstallArtificialMedEye.label>
+  <InstallArtificialMedEye.description>安装 假眼。</InstallArtificialMedEye.description>
+  <InstallArtificialMedEye.jobString>正在安装 假眼。</InstallArtificialMedEye.jobString>
+
+  <InstallArtificialMedEar.label>安装 假耳</InstallArtificialMedEar.label>
+  <InstallArtificialMedEar.description>安装 假耳。</InstallArtificialMedEar.description>
+  <InstallArtificialMedEar.jobString>正在安装 假耳。</InstallArtificialMedEar.jobString>
+
+
+</LanguageData>

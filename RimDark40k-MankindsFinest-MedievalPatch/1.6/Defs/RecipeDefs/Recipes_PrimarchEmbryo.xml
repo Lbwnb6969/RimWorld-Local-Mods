@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef ParentName="FertilitySurgery">
+    <defName>BEWH_MedievalExtractOvum</defName>
+    <label>extract ovum for the Primarch Project</label>
+    <description>Extract an ovum using medieval medicine. It can be fertilized by a male colonist to produce a human embryo for the Primarch Project.</description>
+    <jobString>extracting an ovum from TargetA.</jobString>
+    <workerClass>Recipe_ExtractOvum</workerClass>
+    <addsHediff>OvumExtracted</addsHediff>
+    <surgerySuccessChanceFactor>5</surgerySuccessChanceFactor>
+    <genderPrerequisite>Female</genderPrerequisite>
+    <mustBeFertile>true</mustBeFertile>
+    <allowedForQuestLodgers>false</allowedForQuestLodgers>
+    <minAllowedAge>16</minAllowedAge>
+    <incompatibleWithHediffTags>
+      <li>OvumExtracted</li>
+    </incompatibleWithHediffTags>
+    <uiIconThing>HumanOvum</uiIconThing>
+    <researchPrerequisites Inherit="False">
+      <li>BEWH_PrimarchProject</li>
+    </researchPrerequisites>
+    <ingredients Inherit="False">
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MedicineHerbal</li>
+          </thingDefs>
+        </filter>
+        <count>3</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter Inherit="False">
+      <thingDefs>
+        <li>MedicineHerbal</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+  </RecipeDef>
+</Defs>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Byzantine cataphract armor -->
+  <BA_CataphractArmor.label>拜占庭甲胄骑兵铠甲</BA_CataphractArmor.label>
+  <!-- EN: A Byzantine style heavy cavalry armor. It is a form of lamellar armor where rectangular plates are lace into horizontal rows.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_CataphractArmor.description>一款拜占庭风格的重型骑兵铠甲。它属于札甲的一种，由矩形甲片横向编织而成。</BA_CataphractArmor.description>
+  
+</LanguageData>

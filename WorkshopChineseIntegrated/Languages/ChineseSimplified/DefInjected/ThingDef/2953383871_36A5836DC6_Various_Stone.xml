@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clay blocks -->
+  <DankPyon_BlocksClay.label>粘土砖</DankPyon_BlocksClay.label>
+  <!-- EN: Blocks of solid clay. Clay is a relatively soft rock and chips easily. -->
+  <DankPyon_BlocksClay.description>粘土岩的方块砖。粘土岩是一种相对较软的岩石，很容易碎裂。</DankPyon_BlocksClay.description>
+  <DankPyon_BlocksClay.stuffProps.stuffAdjective>粘土</DankPyon_BlocksClay.stuffProps.stuffAdjective>
+  
+  <!-- EN: clay chunk -->
+  <DankPyon_ChunkClay.label>粘土岩块</DankPyon_ChunkClay.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <DankPyon_ChunkClay.description>一大块岩石。可以加工成有用的石砖。</DankPyon_ChunkClay.description>
+  
+  <!-- EN: clay -->
+  <DankPyon_NaturalWall_Clay.label>粘土岩</DankPyon_NaturalWall_Clay.label>
+  <!-- EN: A sedimentary rock composed of clay particles compressed together. -->
+  <DankPyon_NaturalWall_Clay.description>由粘土颗粒经过地质作用压缩而成的天然沉积岩。</DankPyon_NaturalWall_Clay.description>
+  
+  <!-- EN: smoothed clay -->
+  <DankPyon_SmoothedClay.label>光滑粘土岩地</DankPyon_SmoothedClay.label>
+  <!-- EN: A sedimentary rock composed of clay particles compressed together. The clay layers have been polished to a flat, smooth surface. -->
+  <DankPyon_SmoothedClay.description>抛光过的光滑粘土岩地面。</DankPyon_SmoothedClay.description>
+  
+</LanguageData>

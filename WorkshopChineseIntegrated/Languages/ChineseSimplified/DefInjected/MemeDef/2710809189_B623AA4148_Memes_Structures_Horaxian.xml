@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: void-touched -->
+  <AM_Structure_Horaxian.label>虚空之拥</AM_Structure_Horaxian.label>
+  <!-- EN: Space to you is a sterile grid, governed by logic. But we perceive the truth—a boundless sea of nightmares beneath the facade. From its depths, a mind rules, its tendrils stretching from the abyss to bless those who heed its call. -->
+  <AM_Structure_Horaxian.description>对常人而言，宇宙就像是受逻辑掌控的无垢之网。然而我们却察觉到了真相——埋藏于表面下的是浩瀚无垠的梦魇之海。某个蛰伏在其深处的无上智能统治着那里，祂的触手从深渊中蜿蜒伸出，为那些遵从祂召唤的人赠予祝福。</AM_Structure_Horaxian.description>
+  <!-- EN:
+    <li>memeAdjective->shadowed</li>
+    <li>memeAdjective->abyssal</li>
+    <li>memeAdjective->corrupt</li>
+    <li>memeAdjective->tainted</li>
+    <li>memeLeaderNoun->shadowcaller</li>
+    <li>memeLeaderNoun->darkseer</li>
+    <li>memeMoralist->shadowbound acolyte</li>
+    <li>memeMoralist->netherseeker</li>
+    <li>memeMoralist->darkwatcher</li>
+    <li>memeMoralist->voidweaver</li>
+  -->
+  <AM_Structure_Horaxian.generalRules.rulesStrings>  
+    <li>memeAdjective->暗影</li>
+    <li>memeAdjective->深渊</li>
+    <li>memeAdjective->虚空</li>
+    <li>memeAdjective->秽浊</li>
+    <li>memeLeaderNoun->唤影者</li>
+    <li>memeLeaderNoun->暗黑先知</li>
+    <li>memeMoralist->影缚侍从</li>
+    <li>memeMoralist->幽冥探求者</li>
+    <li>memeMoralist->暗黑注视者</li>
+    <li>memeMoralist->虚空编织者</li>
+  </AM_Structure_Horaxian.generalRules.rulesStrings>
+  <!-- EN: void-touched -->
+  <AM_Structure_Horaxian.symbolPacks.0.adjective>虚空之拥</AM_Structure_Horaxian.symbolPacks.0.adjective>
+  <!-- EN: nightmare devotee -->
+  <AM_Structure_Horaxian.symbolPacks.0.member>梦魇信徒</AM_Structure_Horaxian.symbolPacks.0.member>
+  <!-- EN: void-touched -->
+  <AM_Structure_Horaxian.symbolPacks.0.theme>虚空</AM_Structure_Horaxian.symbolPacks.0.theme>
+  <!-- EN: abyssal sanctum -->
+  <AM_Structure_Horaxian.worshipRoomLabel>深渊圣所</AM_Structure_Horaxian.worshipRoomLabel>
+  
+</LanguageData>

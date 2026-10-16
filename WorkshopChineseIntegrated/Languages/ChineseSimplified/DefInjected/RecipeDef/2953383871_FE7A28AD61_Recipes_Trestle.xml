@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Make_TimberAny.label>制作各种木板 x2</DankPyon_Make_TimberAny.label>
+  <DankPyon_Make_TimberAny.description>将原木切割成相对应的木板。</DankPyon_Make_TimberAny.description>
+  <DankPyon_Make_TimberAny.jobString>正在制作各种木板。</DankPyon_Make_TimberAny.jobString>
+
+  <DankPyon_Make_TimberAny_Bulk.label>制作各种木板 x40</DankPyon_Make_TimberAny_Bulk.label>
+  <DankPyon_Make_TimberAny_Bulk.description>将原木切割成相对应的木板。</DankPyon_Make_TimberAny_Bulk.description>
+  <DankPyon_Make_TimberAny_Bulk.jobString>正在制作各种木板。</DankPyon_Make_TimberAny_Bulk.jobString>
+
+  <DankPyon_Make_TimberAny_Bulkier.label>制作各种木板 x400</DankPyon_Make_TimberAny_Bulkier.label>
+  <DankPyon_Make_TimberAny_Bulkier.description>将原木切割成相对应的木板。</DankPyon_Make_TimberAny_Bulkier.description>
+  <DankPyon_Make_TimberAny_Bulkier.jobString>正在制作各种木板。</DankPyon_Make_TimberAny_Bulkier.jobString>
+
+  <DankPyon_Make_Timber.label>制作木板 x2</DankPyon_Make_Timber.label>
+  <DankPyon_Make_Timber.description>将原木切割成木板。</DankPyon_Make_Timber.description>
+  <DankPyon_Make_Timber.jobString>正在制作木板。</DankPyon_Make_Timber.jobString>
+
+  <DankPyon_Make_TimberBulk.label>制作木板 x40</DankPyon_Make_TimberBulk.label>
+  <DankPyon_Make_TimberBulk.description>将原木切割成木板。</DankPyon_Make_TimberBulk.description>
+  <DankPyon_Make_TimberBulk.jobString>正在制作木板。</DankPyon_Make_TimberBulk.jobString>
+
+  <DankPyon_Make_TimberBulkExtra.label>制作木板 x200</DankPyon_Make_TimberBulkExtra.label>
+  <DankPyon_Make_TimberBulkExtra.description>将原木切割成木板。</DankPyon_Make_TimberBulkExtra.description>
+  <DankPyon_Make_TimberBulkExtra.jobString>正在制作木板。</DankPyon_Make_TimberBulkExtra.jobString>
+
+  <DankPyon_Make_TimberDark.label>制作黑暗木板 x2</DankPyon_Make_TimberDark.label>
+  <DankPyon_Make_TimberDark.description>将黑暗原木切割成黑暗木板。</DankPyon_Make_TimberDark.description>
+  <DankPyon_Make_TimberDark.jobString>正在制作黑暗木板。</DankPyon_Make_TimberDark.jobString>
+
+  <DankPyon_Make_TimberDarkBulk.label>制作黑暗木板 x40</DankPyon_Make_TimberDarkBulk.label>
+  <DankPyon_Make_TimberDarkBulk.description>将黑暗原木切割成黑暗木板。</DankPyon_Make_TimberDarkBulk.description>
+  <DankPyon_Make_TimberDarkBulk.jobString>正在制作黑暗木板。</DankPyon_Make_TimberDarkBulk.jobString>
+
+  <DankPyon_Make_TimberDarkBulkExtra.label>制作黑暗木板 x200</DankPyon_Make_TimberDarkBulkExtra.label>
+  <DankPyon_Make_TimberDarkBulkExtra.description>将黑暗原木切割成黑暗木板。</DankPyon_Make_TimberDarkBulkExtra.description>
+  <DankPyon_Make_TimberDarkBulkExtra.jobString>正在制作黑暗木板。</DankPyon_Make_TimberDarkBulkExtra.jobString>
+
+
+  <DankPyon_Make_TimberAny_Tribal.label>制作各种木板</DankPyon_Make_TimberAny_Tribal.label>
+  <DankPyon_Make_TimberAny_Tribal.description>将各种原木切割成相对应的木板。</DankPyon_Make_TimberAny_Tribal.description>
+  <DankPyon_Make_TimberAny_Tribal.jobString>正在制作各种木板。</DankPyon_Make_TimberAny_Tribal.jobString>
+
+  <DankPyon_Make_Timber_Tribal.label>制作木板</DankPyon_Make_Timber_Tribal.label>
+  <DankPyon_Make_Timber_Tribal.description>将各种原木切割成相对应的木板。</DankPyon_Make_Timber_Tribal.description>
+  <DankPyon_Make_Timber_Tribal.jobString>正在制作各种木板。</DankPyon_Make_Timber_Tribal.jobString>
+
+  <DankPyon_Make_TimberDark_Tribal.label>制作黑暗木板</DankPyon_Make_TimberDark_Tribal.label>
+  <DankPyon_Make_TimberDark_Tribal.description>将各种原木切割成相对应的木板。</DankPyon_Make_TimberDark_Tribal.description>
+  <DankPyon_Make_TimberDark_Tribal.jobString>正在制作各种木板。</DankPyon_Make_TimberDark_Tribal.jobString>
+
+</LanguageData>

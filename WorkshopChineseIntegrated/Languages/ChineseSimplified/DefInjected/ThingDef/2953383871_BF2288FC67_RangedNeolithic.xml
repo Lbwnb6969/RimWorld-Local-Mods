@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Bow_Hunting.label>猎弓</DankPyon_Bow_Hunting.label>
+  <DankPyon_Bow_Hunting.description>猎弓是一种较为简单而轻便的远程武器，使用复合材料制作，弓腹用的是密实的木材，而将弹性较大的木材用于弓背。这使得弓身能够弯曲，并在拉力释放时，沿着弓弦拉动的水平方向将各部位受到的应力转换为极大的推力，进而将箭矢射出。猎弓的弓身相较战弓来得小，因此射程和穿透力较差，但在熟练的弓箭手或猎人手中仍然是非常致命的。</DankPyon_Bow_Hunting.description>
+  <DankPyon_Bow_Hunting.tools.0.label>弓臂</DankPyon_Bow_Hunting.tools.0.label>
+  <DankPyon_Bow_Hunting.verbs.Verb_Shoot.label>猎弓</DankPyon_Bow_Hunting.verbs.Verb_Shoot.label>
+
+  <DankPyon_Arrow_Hunting.label>猎弓箭矢</DankPyon_Arrow_Hunting.label>
+
+  <Bow_War.label>战弓</Bow_War.label>
+  <Bow_War.description>一把由美丽的紫杉木雕刻而成的长弓，弓尖经过蒸煮以塑造微微的弯曲，并涂上油漆以防止在压力下碎裂——弓弦拉得离弓身越远，张力就越大。这种长长的弓身设计有助于增加应力，让箭矢飞得更远和穿透更厚的物体，因此使战弓成为战场中的致命武器。</Bow_War.description>
+  <Bow_War.tools.0.label>弓臂</Bow_War.tools.0.label>
+  <Bow_War.verbs.Verb_Shoot.label>战弓</Bow_War.verbs.Verb_Shoot.label>
+
+  <DankPyon_Arrow_War.label>战弓箭矢</DankPyon_Arrow_War.label>
+
+
+</LanguageData>

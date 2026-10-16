@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Leather Gloves -->
+
+  <DankPyon_Handwear_GlovesLeather.label>皮手套</DankPyon_Handwear_GlovesLeather.label>
+  <DankPyon_Handwear_GlovesLeather.description>使用鞣制皮革缝制以贴合手部。提供最低限度的保护。戴上皮手套会提高工作速度和射击精度。</DankPyon_Handwear_GlovesLeather.description>
+
+
+  <!-- Splinted Gloves -->
+
+  <DankPyon_Handwear_GlovesSplinted.label>条板手套</DankPyon_Handwear_GlovesSplinted.label>
+  <DankPyon_Handwear_GlovesSplinted.description>内衬由相互重叠的小金属板组成，可能会稍微限制手部运动。戴上条板手套会降低工作速度和射击精度。</DankPyon_Handwear_GlovesSplinted.description>
+
+
+  <!-- Plate Gloves -->
+
+  <DankPyon_Handwear_GlovesPlate.label>板甲手套</DankPyon_Handwear_GlovesPlate.label>
+  <DankPyon_Handwear_GlovesPlate.description>一副精心制作的板甲手套。提供与其成本相符的保护。戴上板甲手套会降低工作速度和射击精度。</DankPyon_Handwear_GlovesPlate.description>
+
+
+</LanguageData>

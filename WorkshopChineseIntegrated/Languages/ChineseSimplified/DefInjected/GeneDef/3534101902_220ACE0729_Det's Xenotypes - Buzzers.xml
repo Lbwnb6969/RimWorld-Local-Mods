@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DV_Eyes_Compound.label>复眼</DV_Eyes_Compound.label>
+    <DV_Eyes_Compound.description>携带者有着球状的，变异的复眼，那环绕着他们的头部。</DV_Eyes_Compound.description>
+
+    <DV_Pheromones.label>表型吸引</DV_Pheromones.label>
+    <DV_Pheromones.description>这种基因的携带者发出骚臭的信息素，其他携带着相同基因的会被吸引，而未携带的会反感。</DV_Pheromones.description>
+    <DV_Pheromones.customEffectDescriptions.0>增加一种正面的想法到携带相同基因的棋子，和一种负面的想法到未携带的棋子。</DV_Pheromones.customEffectDescriptions.0>
+
+    <DV_Antennae.label>触角</DV_Antennae.label>
+    <DV_Antennae.description>这种基因的携带者在他们的头顶长着细长的，节状的触角。</DV_Antennae.description>
+
+    <DV_Jaw_UnevenMandibles.label>错落下颚</DV_Jaw_UnevenMandibles.label>
+    <DV_Jaw_UnevenMandibles.description>这种基因的携带者在他们的下颌长着错落的，不规则的扩展，那可以像钳子一样移动和关闭。</DV_Jaw_UnevenMandibles.description>
+
+    <DV_Wastefeaster.label>废料食用者</DV_Wastefeaster.label>
+    <DV_Wastefeaster.description>这种基因的携带者有着一个具有毒酸的特化胃，那可以消化哪怕是像有毒垃圾一样的有毒物质。</DV_Wastefeaster.description>
+    <DV_Wastefeaster.customEffectDescriptions.0>给予吞噬三堆有毒垃圾的能力，在因毒素积累而倒下之前。</DV_Wastefeaster.customEffectDescriptions.0>
+
+    <DV_Skin_DirtyRed.label>脏红皮肤</DV_Skin_DirtyRed.label>
+    <DV_Skin_DirtyRed.description>这种基因的携带者会生产一种将他们的皮肤转变为脏红色的色素。</DV_Skin_DirtyRed.description>
+
+    <DV_Skin_DirtyGreen.label>脏绿皮肤</DV_Skin_DirtyGreen.label>
+    <DV_Skin_DirtyGreen.description>这种基因的携带者会生产一种将他们的皮肤转变为脏绿色的色素。</DV_Skin_DirtyGreen.description>
+
+    <DV_Skin_DirtyBlue.label>脏蓝皮肤</DV_Skin_DirtyBlue.label>
+    <DV_Skin_DirtyBlue.description>这种基因的携带者会生产一种将他们的皮肤转变为脏蓝色的色素。</DV_Skin_DirtyBlue.description>
+
+    <DV_Skin_WashedOutGreen.label>褐绿皮肤</DV_Skin_WashedOutGreen.label>
+    <DV_Skin_WashedOutGreen.description>这种基因的携带者会生产一种将他们的皮肤转变为褐绿色的色素。</DV_Skin_WashedOutGreen.description>
+
+    <DV_Skin_WashedOutRed.label>褐红皮肤</DV_Skin_WashedOutRed.label>
+    <DV_Skin_WashedOutRed.description>这种基因的携带者会生产一种将他们的皮肤转变为褐红色的色素。</DV_Skin_WashedOutRed.description>
+
+</LanguageData>

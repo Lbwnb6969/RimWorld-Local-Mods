@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: single edged sword -->
+  <TA_SingleEdgeSword.label>单刃剑</TA_SingleEdgeSword.label>
+  <!-- EN: . -->
+  <TA_SingleEdgeSword.description>一种单边开刃的剑，适合劈砍。</TA_SingleEdgeSword.description>
+  <!-- EN: handle -->
+  <TA_SingleEdgeSword.tools.handle.label>剑柄</TA_SingleEdgeSword.tools.handle.label>
+  <!-- EN: point -->
+  <TA_SingleEdgeSword.tools.point.label>剑尖</TA_SingleEdgeSword.tools.point.label>
+  <!-- EN: edge -->
+  <TA_SingleEdgeSword.tools.edge.label>剑刃</TA_SingleEdgeSword.tools.edge.label>
+  
+</LanguageData>

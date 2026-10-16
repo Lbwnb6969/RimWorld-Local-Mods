@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kiwi egg (fert.) -->
+  <RG_EggKiwiFertilized.label>热带几维鸟蛋（已受精）</RG_EggKiwiFertilized.label>
+  <!-- EN: A fertilized kiwi egg. If all goes well, it should hatch into a baby kiwi. It can be eaten raw, but it's much better cooked. -->
+  <RG_EggKiwiFertilized.description>已受精的热带几维鸟蛋。如果一切顺利应该可以孵化出一只小热带几维鸟。可以生吃，但是最好烹饪后食用。</RG_EggKiwiFertilized.description>
+  
+  <!-- EN: kiwi egg (fert.) -->
+  <RG_EggKiwiUnfertilized.label>热带几维鸟蛋（未受精）</RG_EggKiwiUnfertilized.label>
+  <!-- EN: A fertilized kiwi egg. If all goes well, it should hatch into a baby kiwi. It can be eaten raw, but it's much better cooked. -->
+  <RG_EggKiwiUnfertilized.description>未受精的热带几维鸟蛋。可以生吃，但是最好烹饪后食用。</RG_EggKiwiUnfertilized.description>
+  
+  <!-- EN: woolly stegosaurus(fert.) -->
+  <RG_EggWoollyStegosaurusFertilized.label>长毛剑龙蛋（已受精）</RG_EggWoollyStegosaurusFertilized.label>
+  <!-- EN: A fertilized woolly stegosaurus egg. If all goes well, it should hatch into a baby woolly stegosaurus. It can be eaten raw, but it's much better cooked. -->
+  <RG_EggWoollyStegosaurusFertilized.description>已受精的热带几维鸟蛋。如果一切顺利应该可以孵化出一只长毛剑龙幼崽。可以生吃，但是最好烹饪后食用。</RG_EggWoollyStegosaurusFertilized.description>
+  
+  <!-- EN: woolly stegosaurus(unfert.) -->
+  <RG_EggWoollyStegosaurusUnfertilized.label>长毛剑龙蛋（未受精）</RG_EggWoollyStegosaurusUnfertilized.label>
+  <!-- EN: A fertilized woolly stegosaurus egg. If all goes well, it should hatch into a baby woolly stegosaurus. It can be eaten raw, but it's much better cooked. -->
+  <RG_EggWoollyStegosaurusUnfertilized.description>未受精的长毛剑龙蛋。可以生吃，但是最好烹饪后食用。</RG_EggWoollyStegosaurusUnfertilized.description>
+  
+  <!-- EN: rimclaw egg (fert.) -->
+  <RG_RimclawEggFertilized.label>边缘死亡爪蛋（已受精）</RG_RimclawEggFertilized.label>
+  <!-- EN: A fertilized rimclaw egg. If all goes well, it should hatch into a baby deathclaw. It can be eaten raw, but it's much better cooked. -->
+  <RG_RimclawEggFertilized.description>已受精的边缘死亡爪蛋。如果一切顺利应该可以孵化出边缘死亡爪幼崽。可以生吃，但是最好烹饪后食用。</RG_RimclawEggFertilized.description>
+  
+  <!-- EN: rimclaw egg (unfert.) -->
+  <RG_RimclawEggUnfertilized.label>边缘死亡爪蛋（未受精）</RG_RimclawEggUnfertilized.label>
+  <!-- EN: A fertilized rimclaw egg. If all goes well, it should hatch into a baby deathclaw. It can be eaten raw, but it's much better cooked. -->
+  <RG_RimclawEggUnfertilized.description>未受精的边缘死亡爪蛋。可以生吃，但是最好烹饪后食用。</RG_RimclawEggUnfertilized.description>
+  
+</LanguageData>

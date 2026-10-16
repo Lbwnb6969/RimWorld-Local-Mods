@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The Big Bad -->
+
+  <DankPyon_Daer.label>鹿熊</DankPyon_Daer.label>
+  <DankPyon_Daer.description>在民间流传着这样的传说，鹿熊是一种有着熊身体的巨大的鹿……或者说是一只长着鹿角的熊，总之，当这只野兽飢肠辘辘地寻找猎物时，你也无暇去分辨那张大嘴究竟是鹿还是熊了。\n\n每只鹿熊的尸体上都有一副雄伟的角，可以透过屠宰获得，同时也会获得能提供心情奖励的鹿熊肉。</DankPyon_Daer.description>
+  <DankPyon_Daer.tools.1.label>左爪</DankPyon_Daer.tools.1.label>
+  <DankPyon_Daer.tools.2.label>右爪</DankPyon_Daer.tools.2.label>
+  <DankPyon_Daer.tools.3.label>头</DankPyon_Daer.tools.3.label>
+
+
+</LanguageData>

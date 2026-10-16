@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Living Saint Armor -->
+  <BEWH_LivingSaintArmor.label>活圣人盔甲</BEWH_LivingSaintArmor.label>
+  <!-- EN: A sanctified warplate worn by a Living Saint, adorned with the symbols of the Ecclesiarchy. It shines with a faint golden hue and, while lacking advanced systems, offers impressive protection. Some claim it has a calming or inspiring effect on nearby allies. Despite its imposing appearance, it moves easily with the wearer, providing both resilience and mobility. -->
+  <BEWH_LivingSaintArmor.description>活圣人穿着的圣化战甲，饰有国教圣徽。散发淡金辉光，虽然它并没有使用先进系统，但却拥有着卓越的防护效果，据说它还有安抚并鼓舞附近友军的效果。这件盔甲在其威严外观仍下保有着灵活的机动性。</BEWH_LivingSaintArmor.description>
+  
+  <!-- EN: Mk I Power Armor -->
+  <BEWH_MkIPowerArmor.label>Mk.I型动力装甲</BEWH_MkIPowerArmor.label>
+  <!-- EN: The Mk I "Thunder" Power Armor is a prototype battle plate worn by the Emperor's Thunder Warriors during the Unification Wars. Built for brute strength rather than finesse, it features thick plasteel plating, basic servo-motors, and minimal environmental sealing. -->
+  <BEWH_MkIPowerArmor.description>Mk.I型“雷霆”动力装甲是统一战争期间帝皇的雷霆战士所穿的原型战斗装甲。它注重的是力量而非敏捷，因此采用的是厚实的塑钢装甲与基础的伺服电机，其环境密封性极低。</BEWH_MkIPowerArmor.description>
+  
+  <!-- EN: Mk VII Power Armor -->
+  <BEWH_MkVIIPowerArmor.label>Mk.VII型动力装甲</BEWH_MkVIIPowerArmor.label>
+  <!-- EN: The MK VII "Aquila" Power Armor is an advanced battle plate worn by the Adeptus Astartes. It features dense ceramite plating, reinforced servo-musculature, and the iconic Aquila chest plate. It provides excellent protection against ballistic and energy weapons, making it ideal for prolonged engagements in hostile environments. -->
+  <BEWH_MkVIIPowerArmor.description>Mk.VII型“天鹰”动力装甲是星际战士所穿戴的先进战斗装甲。它配备先进陶钢复合镀层、强化伺服系统以及标志性的天鹰胸甲。它能够出色地抵御实弹武器和能量武器的攻击，使其成为在恶劣环境下进行长时间战斗的理想选择。</BEWH_MkVIIPowerArmor.description>
+  
+  <!-- EN: Mk X Power Armor -->
+  <BEWH_MkXPowerArmor.label>Mk.X型动力装甲</BEWH_MkXPowerArmor.label>
+  <!-- EN: The MK X "Tacticus" Power Armor is a modernized battle plate worn by Primaris Space Marines. Combining the durability of earlier marks with increased mobility, it features advanced ceramite-composite plating and enhanced servo systems. Its modular design allows for field adaptability across diverse combat roles, offering superior protection and efficiency in extended operations. -->
+  <BEWH_MkXPowerArmor.description>Mk.X型“战术”动力装甲是一款由原铸星际战士所穿戴的先进战斗装甲，它融合了历代型号的坚固性与机动性。配备先进陶钢复合镀层及强化伺服系统，其模块化设计支持使用者适应多种情况，为长期行动提供顶级防护与作战效能。</BEWH_MkXPowerArmor.description>
+  
+  <!-- EN: Mk X Chaplain Power Armor -->
+  <BEWH_MkXPowerArmorChaplain.label>Mk.X型牧师动力装甲</BEWH_MkXPowerArmorChaplain.label>
+  <!-- EN: This MK X Power Armor is a specialized variant of the Tacticus pattern, worn by Primaris Chaplains. Built upon the same durable and mobile frame, it is adorned with grim iconography to embody the Emperor's judgment and inspire unwavering zeal in those who follow.\n\nIncreases the terror of nearby prisoners. -->
+  <BEWH_MkXPowerArmorChaplain.description>战术型装甲的特殊变体，由原铸牧师专属装备。在同等坚固机动框架上，饰有肃穆圣徽彰显帝皇审判意志，可激发追随者不可动摇的信仰狂热。</BEWH_MkXPowerArmorChaplain.description>
+  
+</LanguageData>

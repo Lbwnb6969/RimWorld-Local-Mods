@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: land bridge -->
+  <sd_bridges_landbridge.label>陆桥</sd_bridges_landbridge.label>
+  <!-- EN: This bridge can be placed on all buildable land tiles supporting light structures. It has a slight movement bonus to mitigate the decrease from natural floors. If you place normal floors under it you can speed your pawns up to have a movement bonus over 100%. -->
+  <sd_bridges_landbridge.description>这座桥可以放置在所有支持轻型结构的可建造地块上。 它具有轻微的移动奖励以减轻自然地形的速度减少。 如果你在它下面放置普通的地板，你可以加速你的单位以获得超过 100% 的移动奖励。</sd_bridges_landbridge.description>
+  
+  <!-- EN: sea bridge -->
+  <sd_bridges_seabridge.label>海桥</sd_bridges_seabridge.label>
+  <!-- EN: This bridge can only be placed on a foundation base. It will counter the walking impairment from the foundation base. Can be deconstructed to put up a platform on the foundation base. -->
+  <sd_bridges_seabridge.description>这座桥只能放置在地基上。 它将抵消原有地形带来的的行走障碍。 你也可以把它拆掉然后在地基上搭建平台。</sd_bridges_seabridge.description>
+  
+</LanguageData>

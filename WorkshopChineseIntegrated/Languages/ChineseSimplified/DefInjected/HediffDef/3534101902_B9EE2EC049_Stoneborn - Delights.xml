@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SD_AlkahestHigh.label>宇宙溶剂</SD_AlkahestHigh.label>
+    <SD_AlkahestHigh.labelNoun>宇宙溶剂亢奋</SD_AlkahestHigh.labelNoun>
+    <SD_AlkahestHigh.description>宿主体内有处于激活状态的宇宙溶剂纳米机械。它们能改善宿主的各项身体机能。
+        然而，代价是如果不定期补充更多剂量的宇宙溶剂，它们就会失去凝聚力并让宿主思维混乱并降低智力水平。</SD_AlkahestHigh.description>
+
+    <SD_AlkahestAddiction.label>宇宙溶剂渴求</SD_AlkahestAddiction.label>
+    <SD_AlkahestAddiction.description>体内来源于宇宙溶剂的纳米机械体正在随着时间的推移而消失；只有定期服用宇宙溶剂才能阻止这个过程。
+        \n一旦宿主离开了宇宙溶剂，纳米机械的稳定性将随着时间流逝达到一个临界状态，并导致宿主丧失自我。</SD_AlkahestAddiction.description>
+
+    <SD_GreenVeins.label>绿色静脉</SD_GreenVeins.label>
+    <SD_GreenVeins.description>由于持续的摄入宇宙溶剂，血管壁上积累了残留的纳米机械，使得静脉呈现出一种非常难看的绿色。</SD_GreenVeins.description>
+
+    <SD_BeardWaxHediff.label>打蜡和光泽</SD_BeardWaxHediff.label>
+    <SD_BeardWaxHediff.description>光泽像是金子！！</SD_BeardWaxHediff.description>
+
+    <SD_BladerootHigh.label>刃根亢奋</SD_BladerootHigh.label>
+    <SD_BladerootHigh.labelNoun>刃根亢奋</SD_BladerootHigh.labelNoun>
+    <SD_BladerootHigh.description>流淌在血液里的刃根化合物会引发暴力的念头，并产生一种想要砸毁东西的奇怪冲动。</SD_BladerootHigh.description>
+
+    <SD_BladerootTolerance.label>刃根耐受</SD_BladerootTolerance.label>
+    <SD_BladerootTolerance.description>对刃根的长期耐受性。耐受性越严重，想达到和之前同样的效果所需要的刃根也就越多。</SD_BladerootTolerance.description>
+
+    <SD_BladerootAddiction.label>刃根依赖</SD_BladerootAddiction.label>
+    <SD_BladerootAddiction.description>长期过量的使用刃根已经造成了神经系统的适应。\n如果没有定期使用过量的使用刃根，戒断反应就会开始，长时间的戒断会迫使大脑适应并恢复到正常状态，从而移除刃根成瘾。</SD_BladerootAddiction.description>
+
+    <SD_DwarvenBrewTolerance.label>矮人酿造耐受</SD_DwarvenBrewTolerance.label>
+    <SD_DwarvenBrewTolerance.description>对矮人酿造的长期耐受性。耐受性越严重，想达到和之前同样的效果所需要的矮人酿造也就越多。</SD_DwarvenBrewTolerance.description>
+
+    <SD_DwarvenBrewAddiction.label>矮人酿造渴求</SD_DwarvenBrewAddiction.label>
+    <SD_DwarvenBrewAddiction.description>长期过量的使用矮人酿造已经造成了神经系统的适应。\n如果没有定期使用过量的使用矮人酿造，戒断反应就会开始，长时间的戒断会迫使大脑适应并恢复到正常状态，从而移除矮人酿造成瘾。</SD_DwarvenBrewAddiction.description>
+
+    <SD_BullgrogHigh.label>公牛格洛格亢奋</SD_BullgrogHigh.label>
+    <SD_BullgrogHigh.labelNoun>公牛格洛格亢奋</SD_BullgrogHigh.labelNoun>
+    <SD_BullgrogHigh.description>公牛格洛格亢奋进入了血液，味道有点恶心，但是让人很醉，还会让人饿的像一头牛。</SD_BullgrogHigh.description>
+    <SD_BullgrogHigh.stages.0.label>暖和</SD_BullgrogHigh.stages.0.label>
+    <SD_BullgrogHigh.stages.1.label>微醺</SD_BullgrogHigh.stages.1.label>
+    <SD_BullgrogHigh.stages.2.label>飘飘然</SD_BullgrogHigh.stages.2.label>
+    <SD_BullgrogHigh.stages.3.label>伶仃大醉</SD_BullgrogHigh.stages.3.label>
+    <SD_BullgrogHigh.stages.4.label>昏醉不醒</SD_BullgrogHigh.stages.4.label>
+
+    <SD_FeywingHigh.label>妖精翅膀亢奋</SD_FeywingHigh.label>
+    <SD_FeywingHigh.labelNoun>妖精翅膀亢奋</SD_FeywingHigh.labelNoun>
+    <SD_FeywingHigh.description>妖精翅膀的活性成分在血液中流淌。能增强棋子的整体能力，同时一只大脑中负责攻击性和心灵感应的特定区域。。</SD_FeywingHigh.description>
+
+    <SD_FeywingTolerance.label>妖精翅膀耐受</SD_FeywingTolerance.label>
+    <SD_FeywingTolerance.description>对妖精翅膀的长期耐受性。耐受性越严重，想达到和之前同样的效果所需要的妖精翅膀也就越多。</SD_FeywingTolerance.description>
+
+    <SD_FeywingAddiction.label>精灵翅膀渴求</SD_FeywingAddiction.label>
+    <SD_FeywingAddiction.description>长期过量的使用精灵翅膀已经造成了神经系统的适应。\n
+        如果没有定期使用过量的使用精灵翅膀，戒断反应就会开始，长时间的戒断会迫使大脑适应并恢复到正常状态，从而移除精灵翅膀成瘾。</SD_FeywingAddiction.description>
+    
+    <SD_ForgeHigh.label>锻造烈酒亢奋</SD_ForgeHigh.label>
+    <SD_ForgeHigh.labelNoun>沉醉</SD_ForgeHigh.labelNoun>
+    <SD_ForgeHigh.description>锻造烈酒已经融入了血液，能使人更加专注于自己的工艺，但也因此比普通的酒精更加容易引发社交冲突。</SD_ForgeHigh.description>
+    <SD_ForgeHigh.stages.0.label>暖和</SD_ForgeHigh.stages.0.label>
+    <SD_ForgeHigh.stages.1.label>微醺</SD_ForgeHigh.stages.1.label>
+    <SD_ForgeHigh.stages.2.label>飘飘然</SD_ForgeHigh.stages.2.label>
+    <SD_ForgeHigh.stages.3.label>伶仃大醉</SD_ForgeHigh.stages.3.label>
+    <SD_ForgeHigh.stages.4.label>昏醉不醒</SD_ForgeHigh.stages.4.label>
+
+    <SD_GlimmerHigh.label>微光亢奋</SD_GlimmerHigh.label>
+    <SD_GlimmerHigh.labelNoun>微光亢奋</SD_GlimmerHigh.labelNoun>
+    <SD_GlimmerHigh.description>血液中的微光石英。能显著提升情绪并加快移动速度，但是会降低工作积极性。</SD_GlimmerHigh.description>
+
+    <SD_GlimmerAddiction.label>微光渴求</SD_GlimmerAddiction.label>
+    <SD_GlimmerAddiction.description>长期过量的使用微光已经造成了神经系统的适应。\n如果没有定期使用过量的使用微光，戒断反应就会开始，长时间的戒断会迫使大脑适应并恢复到正常状态，从而移除微光成瘾。</SD_GlimmerAddiction.description>
+    
+    <SD_GlimmerTolerance.label>微光耐受</SD_GlimmerTolerance.label>
+    <SD_GlimmerTolerance.description>对微光的长期耐受性。耐受性越严重，想达到和之前同样的效果所需要的微光也就越多。</SD_GlimmerTolerance.description>
+
+    <SD_LightHangover.label>宿醉</SD_LightHangover.label>
+    <SD_LightHangover.labelNoun>宿醉</SD_LightHangover.labelNoun>
+    <SD_LightHangover.description>一种饮用矮人酿造引发的令人作呕的反应。这就是代价。</SD_LightHangover.description>
+
+    <SD_HeavyHangover.label>伶仃大醉</SD_HeavyHangover.label>
+    <SD_HeavyHangover.labelNoun>伶仃大醉</SD_HeavyHangover.labelNoun>
+    <SD_HeavyHangover.description>一种饮用矮人酿造引发的令人作呕的反应。这就是代价。</SD_HeavyHangover.description>
+
+    <SD_HiveHigh.label>蜂箱蜜酒亢奋</SD_HiveHigh.label>
+    <SD_HiveHigh.labelNoun>沉醉</SD_HiveHigh.labelNoun>
+    <SD_HiveHigh.description>蜂箱蜜酒在血液中流淌，能提升情绪并降低暴力倾向，但是会让棋子更加困顿。</SD_HiveHigh.description>
+    <SD_HiveHigh.stages.0.label>暖和</SD_HiveHigh.stages.0.label>
+    <SD_HiveHigh.stages.1.label>微醺</SD_HiveHigh.stages.1.label>
+    <SD_HiveHigh.stages.2.label>飘飘然</SD_HiveHigh.stages.2.label>
+    <SD_HiveHigh.stages.3.label>伶仃大醉</SD_HiveHigh.stages.3.label>
+    <SD_HiveHigh.stages.4.label>昏醉不醒</SD_HiveHigh.stages.4.label>
+
+    <SD_MDHigh.label>矿工乐事亢奋</SD_MDHigh.label>
+    <SD_MDHigh.labelNoun>矿工乐事亢奋</SD_MDHigh.labelNoun>
+    <SD_MDHigh.description>血液中的矿工乐事。生成高专注度的亢奋。</SD_MDHigh.description>
+
+    <SD_ElixirHigh.label>暴走灵药亢奋</SD_ElixirHigh.label>
+    <SD_ElixirHigh.labelNoun>暴走灵药亢奋</SD_ElixirHigh.labelNoun>
+    <SD_ElixirHigh.description>血液中的暴走灵药。会让使用者的脑海中充满恐怖的图像，但是也增强了自然愈合的能力。</SD_ElixirHigh.description>
+    <SD_ElixirHigh.stages.0.label>烦恼</SD_ElixirHigh.stages.0.label>
+    <SD_ElixirHigh.stages.1.label>愤怒</SD_ElixirHigh.stages.1.label>
+    <SD_ElixirHigh.stages.2.label>危险</SD_ElixirHigh.stages.2.label>
+    <SD_ElixirHigh.stages.3.label>暴怒</SD_ElixirHigh.stages.3.label>
+    
+    <SD_RedspiceHigh.label>红之香辛料亢奋</SD_RedspiceHigh.label>
+    <SD_RedspiceHigh.labelNoun>红之香辛料亢奋</SD_RedspiceHigh.labelNoun>
+    <SD_RedspiceHigh.description>红之香辛料在血液中流淌。能改善呼吸状况，并且消除使用者的所有宿醉症状。</SD_RedspiceHigh.description>
+
+    <SD_RedspiceAddiction.label>红之香辛料</SD_RedspiceAddiction.label>
+    <SD_RedspiceAddiction.description>长期过量的使用红之香辛料已经造成了神经系统的适应。\n如果没有定期使用过量的使用红之香辛料，戒断反应就会开始，长时间的戒断会迫使大脑适应并恢复到正常状态，从而移除红之香辛料成瘾。</SD_RedspiceAddiction.description>
+    
+    <SD_ShatterbrewHigh.label>破片茶饱食</SD_ShatterbrewHigh.label>
+    <SD_ShatterbrewHigh.labelNoun>破片茶饱食</SD_ShatterbrewHigh.labelNoun>
+    <SD_ShatterbrewHigh.description>肚子里装满了破片茶，颅内尽是欢悦。破片茶能抑制食欲并填满饥饿值，但酒精会让饮用者行动迟缓。</SD_ShatterbrewHigh.description>
+    <SD_ShatterbrewHigh.stages.0.label>吃撑</SD_ShatterbrewHigh.stages.0.label>
+    <SD_ShatterbrewHigh.stages.1.label>赛满</SD_ShatterbrewHigh.stages.1.label>
+    <SD_ShatterbrewHigh.stages.2.label>塞不下</SD_ShatterbrewHigh.stages.2.label>
+    
+    <SD_ShroomHigh.label>致幻蘑菇麦酒亢奋</SD_ShroomHigh.label>
+    <SD_ShroomHigh.labelNoun>沉醉</SD_ShroomHigh.labelNoun>
+    <SD_ShroomHigh.description>致幻蘑菇麦酒已经融入血液，能让人心情舒畅，同时提升命中率。</SD_ShroomHigh.description>
+    <SD_ShroomHigh.stages.0.label>暖和</SD_ShroomHigh.stages.0.label>
+    <SD_ShroomHigh.stages.1.label>微醺</SD_ShroomHigh.stages.1.label>
+    <SD_ShroomHigh.stages.2.label>飘飘然</SD_ShroomHigh.stages.2.label>
+    <SD_ShroomHigh.stages.3.label>伶仃大醉</SD_ShroomHigh.stages.3.label>
+    <SD_ShroomHigh.stages.4.label>昏醉不醒</SD_ShroomHigh.stages.4.label>
+    
+    <SD_SWHigh.label>甜葡萄酒亢奋</SD_SWHigh.label>
+    <SD_SWHigh.labelNoun>沉醉</SD_SWHigh.labelNoun>
+    <SD_SWHigh.description>甜葡萄酒已经融入血液，可以使人们真的开心，那是全部了。</SD_SWHigh.description>
+    <SD_SWHigh.stages.0.label>暖和</SD_SWHigh.stages.0.label>
+    <SD_SWHigh.stages.1.label>微醺</SD_SWHigh.stages.1.label>
+    <SD_SWHigh.stages.2.label>飘飘然</SD_SWHigh.stages.2.label>
+    <SD_SWHigh.stages.3.label>伶仃大醉</SD_SWHigh.stages.3.label>
+    <SD_SWHigh.stages.4.label>昏醉不醒</SD_SWHigh.stages.4.label>
+    
+</LanguageData>

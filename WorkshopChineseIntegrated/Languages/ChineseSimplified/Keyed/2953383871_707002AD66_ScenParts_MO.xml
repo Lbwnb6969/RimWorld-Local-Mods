@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: The walls of a city were never reassuring. Neither was the bustle of urban life that could suck the soul out of a lich, given time.\nWhat opportunities you could find were unsuitable for you for so many, many reasons: one, a lack of fitness, while another a lack of heartlessness.\n\nIt was this environment that told you to leave, with but raw materials and simple tools to fashion your dream.\nFor you aspired to a home out in the wilderness, a hearth that could welcome many a weary and worn traveler.\nRogue or hero, it would shelter them all.\n\nWith any hope comes risk, and this was one you could not ignore.\nReports from the local garrison indicated an increased bandit presence, and crime was on the rise.\nEven with the most careful preparations, a criminal would most likely follow your trail.\n\nBut you took the leap of faith, and stepped across the threshold of the city.\nWith wilderness ahead and treachery behind, you march away.\n\nOptimism and worry cloud your brow. -->
+  <DankPyon_GameStart_TavernStart>你们带着简单的工具和原材料抵达了城外的荒野，要在这个地方建立起梦想的家园并不容易，无论再怎么小心翼翼隐藏财富，恶人也绝不会放过最细微的线索。\n\n但你们已决定贯彻自己的信念，要把理想蓝图中的那座温暖的小酒馆堆砌出来。\n\n确保食物来源和建造基本的防御，是能让你今晚安心入睡的唯一良方……。</DankPyon_GameStart_TavernStart>
+	
+	<!-- EN: One year’s service—that was the deal.\nThe lord whom I followed attempted many times to keep my sword by his side, but a deal is a deal and after one year, I swore no further oaths.\nAs I traverse the wooded hills, I wonder to myself whether the decision was correct.\n\nI may have hoarded wealth, but bandits roam the countryside, and should my campfire not betray me, hungry beasts and monsters hidden in the dark eye me all the same.\nI often wonder if I should have allowed my lord to wield me as his sword again, but I also know that in doing so, I would forgo my freedom.\n\nSo, after retrieving my silver, I march with no end in sight.\nPerhaps I will be so lucky as to find a homestead, build a hall, and gather my own household warriors.\nBut the long-term goal seemed so far away, as I must focus on my foremost problems.\n\nFirst, I must survive. -->
+  <DankPyon_GameStart_LoneWolfStart>你独自一人带着财富抵达了这片崭新的土地，但土匪在乡间游荡，饥饿的野兽和怪物隐藏在黑暗里虎视眈眈。\n\n首先，你得这片土地上活下去。\n\n确保食物来源并建立防御基地能帮助你保命。记住，一切都是为了自由！</DankPyon_GameStart_LoneWolfStart>
+	
+	<!-- EN: Your lord, to whom you and your comrades remained forever loyal as long as there is money, fell at a concise battle. Free of your oath, your band of mercenaries departed to neighboring towns and cities in search of opportunity for silver and reputation but were disappointed to find peace-laden settlements, full of bounties fit for a dayt -->
+  <DankPyon_GameStart_MercenaryStart>你和你的伙伴们找到了一处还算宜居的荒野。\n\n确保食物的来源和最基本的防御，能帮助你们至少先存活下来。</DankPyon_GameStart_MercenaryStart>
+	
+	
+	
+</LanguageData>

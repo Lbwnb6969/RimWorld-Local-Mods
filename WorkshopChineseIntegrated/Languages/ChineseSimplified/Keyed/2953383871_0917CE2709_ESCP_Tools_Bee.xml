@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crushing/Catching -->
+
+  <ESCP_Tools_Catching_Failed>{0}没抓到任何东西。</ESCP_Tools_Catching_Failed>
+  <ESCP_Tools_Catching_Special>{0}抓到{1}了!</ESCP_Tools_Catching_Special>
+
+  <ESCP_Tools_Crushing_Failed>{0}没找到任何东西。</ESCP_Tools_Crushing_Failed>
+  <ESCP_Tools_Crushing_Special>{0}找到{1}了!</ESCP_Tools_Crushing_Special>
+
+  <!-- Thing producer -->
+  <ESCP_Tools_ThingProducer_Progress>{0}进度，直到下次产出</ESCP_Tools_ThingProducer_Progress>
+  <ESCP_Tools_ThingProducer_Message>{0}已经产出资源!</ESCP_Tools_ThingProducer_Message>
+  <ESCP_Tools_ThingProducer_Paused>产线暂停，由于: {0}</ESCP_Tools_ThingProducer_Paused>
+  <ESCP_Tools_ThingProducer_Reason_time>夜间停产</ESCP_Tools_ThingProducer_Reason_time>
+  <ESCP_Tools_ThingProducer_Reason_weather>恶劣气候</ESCP_Tools_ThingProducer_Reason_weather>
+  <ESCP_Tools_ThingProducer_Reason_temperature>极端气温</ESCP_Tools_ThingProducer_Reason_temperature>
+  <ESCP_Tools_ThingProducer_Reason_roofed>被屋顶遮挡</ESCP_Tools_ThingProducer_Reason_roofed>
+  <ESCP_Tools_ThingProducer_Reason_fuel>缺少燃料</ESCP_Tools_ThingProducer_Reason_fuel>
+  <ESCP_Tools_ThingProducer_Reason_power>缺少电力</ESCP_Tools_ThingProducer_Reason_power>
+
+</LanguageData>

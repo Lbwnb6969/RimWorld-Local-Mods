@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farmer -->
+  <BA_Byzantium_Farmer.label>农夫</BA_Byzantium_Farmer.label>
+  
+  <!-- EN: hunter -->
+  <BA_Byzantium_Hunter.label>猎人</BA_Byzantium_Hunter.label>
+  
+  <!-- EN: logger -->
+  <BA_Byzantium_Logger.label>伐木工</BA_Byzantium_Logger.label>
+  
+  <!-- EN: miner -->
+  <BA_Byzantium_Miner.label>矿工</BA_Byzantium_Miner.label>
+  
+</LanguageData>

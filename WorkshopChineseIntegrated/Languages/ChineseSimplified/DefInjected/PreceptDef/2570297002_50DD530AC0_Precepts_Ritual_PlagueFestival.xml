@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: plague festival -->
+  <VME_PlagueFestivalPrecept.label>疫病节</VME_PlagueFestivalPrecept.label>
+  <!-- EN: A plague festival. -->
+  <VME_PlagueFestivalPrecept.description>一次疫病节。</VME_PlagueFestivalPrecept.description>
+  
+</LanguageData>

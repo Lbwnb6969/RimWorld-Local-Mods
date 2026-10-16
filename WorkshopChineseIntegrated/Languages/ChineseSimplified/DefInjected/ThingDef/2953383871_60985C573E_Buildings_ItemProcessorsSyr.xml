@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Drying Rack -->
+
+  <DankPyon_RawhideRack.label>晾皮架</DankPyon_RawhideRack.label>
+  <DankPyon_RawhideRack.description>用于将生皮晾乾成皮料的立架，只能制造出没什么用的皮革。</DankPyon_RawhideRack.description>
+
+
+  <!-- Tanning Rack -->
+
+  <DankPyon_TanningRack.label>鞣皮架</DankPyon_TanningRack.label>
+  <DankPyon_TanningRack.description>用于将生皮加工成有用皮革的立架。</DankPyon_TanningRack.description>
+
+
+
+  <DankPyon_SilkBed.label>养蚕架</DankPyon_SilkBed.label>
+  <DankPyon_SilkBed.description>一种木制平台，用以在蚕茧生命週期中安置蚕，在蚕完全吐完茧后从中收获蚕丝。</DankPyon_SilkBed.description>
+
+  <DankPyon_Smelter.label>冶炼炉</DankPyon_Smelter.label>
+  <DankPyon_Smelter.description>用于冶炼金属的大型钢炉。会产生中等的热能。</DankPyon_Smelter.description>
+
+  <DankPyon_RusticFermentingBarrel.label>质朴发酵桶</DankPyon_RusticFermentingBarrel.label>
+  <DankPyon_RusticFermentingBarrel.description>用于将各种新鲜混合物发酵成酒的木桶。它的木质特性有助于产生质朴的味道。</DankPyon_RusticFermentingBarrel.description>
+
+
+  <!-- Windmill -->
+
+  <DankPyon_WindMill.label>风车磨坊</DankPyon_WindMill.label>
+  <DankPyon_WindMill.description>利用风力自动研磨农作物的风车磨坊。前后需要较大的空间以保持最好的空气流通。</DankPyon_WindMill.description>
+
+  <!-- Ice Block Maker -->
+
+  <DankPyon_IceBlock_Maker.label>制冰模具</DankPyon_IceBlock_Maker.label>
+  <DankPyon_IceBlock_Maker.description>一种木制模具，能在寒冷环境将水冻结成冰。</DankPyon_IceBlock_Maker.description>
+
+  <!-- Watermill -->
+  <DankPyon_WaterMill.label>中世纪水车</DankPyon_WaterMill.label>
+  <DankPyon_WaterMill.description>利用水流产生机械能的一种原动机，可以用来自动研磨谷物及锯切原木。必须将水车轮放置在流动的水中。如果与其他水车放置得太近，它们产生的湍流会互相造成干扰。</DankPyon_WaterMill.description>
+
+</LanguageData>

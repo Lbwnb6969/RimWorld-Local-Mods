@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: logistical programming -->
+  <O21_ConstructSoftware.label>逻辑编程</O21_ConstructSoftware.label>
+  <!-- EN: This construct has been programmed with pre-defined training! -->
+  <O21_ConstructSoftware.description>此构造体已进行过预定义训练相关的编程。</O21_ConstructSoftware.description>
+  
+</LanguageData>

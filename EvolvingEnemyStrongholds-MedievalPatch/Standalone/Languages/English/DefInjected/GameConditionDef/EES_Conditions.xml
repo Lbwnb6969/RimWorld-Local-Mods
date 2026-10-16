@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_PsychicShrineDrone.label>psychic shrine drone</EES_PsychicShrineDrone.label>
+  <EES_PsychicShrineDrone.description>A nearby tribal psychic shrine is projecting a psychic drone onto this area. The minds of {0} colonists are slowly unraveling. It will continue until the shrine is destroyed.</EES_PsychicShrineDrone.description>
+  <EES_PsychicShrineDrone.endMessage>The psychic shrine drone has ceased.</EES_PsychicShrineDrone.endMessage>
+  <EES_PsychicShrineDrone.letterText>A nearby psychic shrine is projecting a psychic drone tuned to {0} colonists.</EES_PsychicShrineDrone.letterText>
+</LanguageData>

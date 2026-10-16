@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Standard Bolt -->
+  <BEWH_BolterRound.label>标准爆矢</BEWH_BolterRound.label>
+  <!-- EN: A standard gyrojet-stabilized, mass-reactive round that penetrates armor and detonates inside the target. -->
+  <BEWH_BolterRound.description>标准的推进式质量反应弹药，可穿透装甲并在目标内部引爆。</BEWH_BolterRound.description>
+  
+  <!-- EN: Inferno Bolt -->
+  <BEWH_BolterRoundInferno.label>炼狱爆矢</BEWH_BolterRoundInferno.label>
+  <!-- EN: Specialized ammunition designed to immolate its targets. The dense core of the standard bolt is replaced with an oxy-phosphorous gel, derived from promethium. -->
+  <BEWH_BolterRoundInferno.description>专门设计用于焚烧目标的弹药。标准爆矢的氘核被一种称为钷的氧磷凝胶所取代。</BEWH_BolterRoundInferno.description>
+  
+  <!-- EN: Metal Storm Bolt -->
+  <BEWH_BolterRoundMetalStorm.label>金属风暴爆矢</BEWH_BolterRoundMetalStorm.label>
+  <!-- EN: Specialized ammunition designed to devastate large groups of lightly armored enemies. It detonates mid-air, scattering sharp shrapnel that tears through flesh and light armor, clears vegetation, and saturates enemy positions.\n\nNot suitable for hunting, for obvious reasons. -->
+  <BEWH_BolterRoundMetalStorm.description>适合对抗多个轻装甲目标的弹药。它会在空中引爆，喷射出锋利的弹片，将敌人和敌方阵地连同植被一同彻底撕碎。\n\n显而易见，它并不适合用来狩猎。</BEWH_BolterRoundMetalStorm.description>
+  
+  <!-- EN: Metal Storm Shrapnel -->
+  <BEWH_BolterShrapnel.label>金属风暴弹片</BEWH_BolterShrapnel.label>
+  <!-- EN: ... -->
+  <BEWH_BolterShrapnel.description>...</BEWH_BolterShrapnel.description>
+  
+  <!-- EN: crude bolt -->
+  <BEWH_CrudeBolt.label>粗制爆矢</BEWH_CrudeBolt.label>
+  
+  <!-- EN: Heavy Bolt -->
+  <BEWH_HeavyBolterRound.label>重爆矢</BEWH_HeavyBolterRound.label>
+  
+</LanguageData>

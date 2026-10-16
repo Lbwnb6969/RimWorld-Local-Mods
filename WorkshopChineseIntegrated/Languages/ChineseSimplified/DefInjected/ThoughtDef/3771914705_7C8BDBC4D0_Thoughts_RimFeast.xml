@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attended a feast -->
+  <RimFeast_AttendedFeast.stages.attended_a_feast.label>参加了一场宴会</RimFeast_AttendedFeast.stages.attended_a_feast.label>
+  <!-- EN: A real banquet, like in the tales. The hall, the meat, the mead, the company. -->
+  <RimFeast_AttendedFeast.stages.attended_a_feast.description>一场真正的盛宴，如同故事中那般。大厅、肉食、蜜酒、同伴，一应俱全。</RimFeast_AttendedFeast.stages.attended_a_feast.description>
+  
+  <!-- EN: we broke the guest right -->
+  <RimFeast_GuestRightBroken.stages.we_broke_the_guest_right.label>我们破坏了宾客权利</RimFeast_GuestRightBroken.stages.we_broke_the_guest_right.label>
+  <!-- EN: They ate at our table. They drank our mead. And we put them in the ground. Whatever we are now, we are no hosts. -->
+  <RimFeast_GuestRightBroken.stages.we_broke_the_guest_right.description>他们在我们的桌上吃饭，喝了我们的蜜酒。而我们却将他们送进了坟墓。无论如何，我们已不再配当东道主。</RimFeast_GuestRightBroken.stages.we_broke_the_guest_right.description>
+  
+  <!-- EN: a night with a noble -->
+  <RimFeast_NightWithNoble.stages.a_night_with_a_noble.label>与贵族共度一夜</RimFeast_NightWithNoble.stages.a_night_with_a_noble.label>
+  <!-- EN: Silks, a proper bed, and someone with clean hands and good manners for once. Say what you like about the nobility. -->
+  <RimFeast_NightWithNoble.stages.a_night_with_a_noble.description>丝绸、舒适的床，以及一个难得双手干净、举止得体的人。随你怎么评价贵族吧。</RimFeast_NightWithNoble.stages.a_night_with_a_noble.description>
+  
+</LanguageData>

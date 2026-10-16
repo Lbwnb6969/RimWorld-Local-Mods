@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MThingsMedicalMedicine.label>中世纪医学</MThingsMedicalMedicine.label>
+  <MThingsMedicalMedicine.description>通过研究古老的草药学、药膏与酊剂调制方法，殖民者重新掌握了前工业时代的医疗技术。解锁酊剂药物的制作，使治疗效果超越简单的草药处理。</MThingsMedicalMedicine.description>
+  <MThingsMedicalHealingCots.label>疗养床</MThingsMedicalHealingCots.label>
+  <MThingsMedicalHealingCots.description>研制带有草药敷料架和基础器械的专用病床，改善伤病患者的休息与治疗条件。</MThingsMedicalHealingCots.description>
+  <MThingsMedicalHealersStands.label>医师器械台</MThingsMedicalHealersStands.label>
+  <MThingsMedicalHealersStands.description>改进床边器械和药物准备方法，从而建造专用医师器械台。放置在医疗床旁时，可被动改善治疗效果。</MThingsMedicalHealersStands.description>
+  <MThingsMedicalVisualStorytelling.label>光影叙事</MThingsMedicalVisualStorytelling.label>
+  <MThingsMedicalVisualStorytelling.description>发展利用火光投射剪影和故事的装置。解锁影戏箱，让患者和闲暇殖民者从柔和的光影中获得娱乐。</MThingsMedicalVisualStorytelling.description>
+  <MThingsMedicalExpandedVisualStorytelling.label>大型影戏箱</MThingsMedicalExpandedVisualStorytelling.label>
+  <MThingsMedicalExpandedVisualStorytelling.description>改进传统影戏箱的结构和机械，使其能够投射范围更广、内容更精细的剪影。解锁更大、更有娱乐效果的影戏装置。</MThingsMedicalExpandedVisualStorytelling.description>
+  <MThingsMedicalSanitation.label>中世纪卫生学</MThingsMedicalSanitation.label>
+  <MThingsMedicalSanitation.description>通过精细打磨地面、石灰处理和清洁规范，中世纪医师能够降低医疗场所的感染风险。解锁可提高医院洁净度的抛光石质地板。</MThingsMedicalSanitation.description>
+</LanguageData>

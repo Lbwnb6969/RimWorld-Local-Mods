@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hemolope -->
+  <RG_Hemolope.label>血原羊</RG_Hemolope.label>
+  <!-- EN: Engineered for hemogen production, the hemolope grows a large sac of pure hemogen on its back. Due to genetic instabilities, unlike a boomalope, it has a very short lifespan and is generally weaker. It has rarely been encountered in the wild, as it is only kept by more ethical sanguophages for corporations for hemogen production. It can be milked to produce hemogen. -->
+  <RG_Hemolope.description>专为更人道地满足赫血种而创造的物种，血原羊背上的大囊里含有大量与人类体内无异的高纯度血原质。虽然体形纤细脆弱，其他动物还是会因为其长得和爆炸羊很像而避开它们。可以定期产出血原包。</RG_Hemolope.description>
+  <!-- EN: head -->
+  <RG_Hemolope.tools.head.label>头</RG_Hemolope.tools.head.label>
+  <!-- EN: left hoof -->
+  <RG_Hemolope.tools.left_hoof.label>左蹄</RG_Hemolope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <RG_Hemolope.tools.right_hoof.label>右蹄</RG_Hemolope.tools.right_hoof.label>
+  
+</LanguageData>

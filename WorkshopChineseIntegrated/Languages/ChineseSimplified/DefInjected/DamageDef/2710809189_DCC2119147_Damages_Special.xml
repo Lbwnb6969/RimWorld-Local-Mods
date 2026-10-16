@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: holy burn -->
+  <AM_HolyBurn.label>神圣烧伤</AM_HolyBurn.label>
+  <!-- EN: {0} has burned to death. -->
+  <AM_HolyBurn.deathMessage>{0}被烧死了。</AM_HolyBurn.deathMessage>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scarified -->
+  <AM_Scarification_Insane.stages.scarified.label>拥有疤痕</AM_Scarification_Insane.stages.scarified.label>
+  <!-- EN: My flesh bears the proof of my devotion. Every scar is another piece of our truth written into me. -->
+  <AM_Scarification_Insane.stages.scarified.description>我的身体承载着我虔诚的证明。每道疤痕都是我们真理在我心中铭刻的印记。</AM_Scarification_Insane.stages.scarified.description>
+  <!-- EN: not scarified -->
+  <AM_Scarification_Insane.stages.not_scarified.label>没有疤痕</AM_Scarification_Insane.stages.not_scarified.label>
+  <!-- EN: My unmarked flesh disgusts me. I have nothing written upon me to prove who I am. -->
+  <AM_Scarification_Insane.stages.not_scarified.description>我讨厌我那无痕的身体。我身上没有任何印记能证明自己的身份。</AM_Scarification_Insane.stages.not_scarified.description>
+  <!-- EN: insufficiently scarified -->
+  <AM_Scarification_Insane.stages.insufficiently_scarified.label>过少的疤痕</AM_Scarification_Insane.stages.insufficiently_scarified.label>
+  <!-- EN: I have too little scarification. My body should be covered in the marks of our truth. -->
+  <AM_Scarification_Insane.stages.insufficiently_scarified.description>我身上的疤痕太少了。我的身体应该布满我们真理的印记。</AM_Scarification_Insane.stages.insufficiently_scarified.description>
+  
+  <!-- EN: scarified -->
+  <AM_Scarification_Insane_Opinion.stages.scarified.label>拥有疤痕</AM_Scarification_Insane_Opinion.stages.scarified.label>
+  <!-- EN: not scarified -->
+  <AM_Scarification_Insane_Opinion.stages.not_scarified.label>没有疤痕</AM_Scarification_Insane_Opinion.stages.not_scarified.label>
+  <!-- EN: insufficiently scarified -->
+  <AM_Scarification_Insane_Opinion.stages.insufficiently_scarified.label>过少的疤痕</AM_Scarification_Insane_Opinion.stages.insufficiently_scarified.label>
+  
+  <!-- EN: got scarified -->
+  <AM_ScarificationCeremony_Self_Insane.stages.got_scarified.label>得到疤痕</AM_ScarificationCeremony_Self_Insane.stages.got_scarified.label>
+  <!-- EN: I bear a new ritual scar, another mark carved into my flesh to bind me forever to our truth. -->
+  <AM_ScarificationCeremony_Self_Insane.stages.got_scarified.description>我所承受的仪式印记将我与我们的真理永远绑定在一起。</AM_ScarificationCeremony_Self_Insane.stages.got_scarified.description>
+  
+</LanguageData>

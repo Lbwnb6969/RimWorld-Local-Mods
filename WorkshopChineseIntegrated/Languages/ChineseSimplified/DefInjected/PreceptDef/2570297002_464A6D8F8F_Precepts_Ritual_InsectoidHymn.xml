@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: insectoid hymn -->
+  <VME_InsectoidHymnPrecept.label>虫族礼赞</VME_InsectoidHymnPrecept.label>
+  <!-- EN: An insectoid hymn. The ritual will refresh the cooldown of the insectoid herder's "Construct a Nest" ability. If the ritual gets the best possible result it will make any insectoids currently assaulting the colony flee. Except the Black HIve, those want your blood. -->
+  <VME_InsectoidHymnPrecept.description>一场虫族礼赞仪式。此仪式会重置“虫巢搭建”技能的冷却时间。如果仪式获得了最棒的结果，所有正在攻击殖民地的虫族都将会被驱逐出地图。当然，嗜血如命的“黑虫巢”(需要安装Alpha Animals)是不会受到影响的。</VME_InsectoidHymnPrecept.description>
+  
+</LanguageData>

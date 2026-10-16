@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: coolant loss -->
+  <O21_CoolantLoss.label>冷却液流失</O21_CoolantLoss.label>
+  <!-- EN: If this pawn loses enough coolant it will die, much in the same way humans die from blood loss. -->
+  <O21_CoolantLoss.description>如果此单位的冷却液大量流失，便会像人类失血过多一样导致死亡。</O21_CoolantLoss.description>
+  <!-- EN: minor -->
+  <O21_CoolantLoss.stages.minor-0.label>轻微</O21_CoolantLoss.stages.minor-0.label>
+  <!-- EN: minor -->
+  <O21_CoolantLoss.stages.minor-1.label>较轻</O21_CoolantLoss.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <O21_CoolantLoss.stages.moderate.label>中等</O21_CoolantLoss.stages.moderate.label>
+  <!-- EN: severe -->
+  <O21_CoolantLoss.stages.severe.label>严重</O21_CoolantLoss.stages.severe.label>
+  <!-- EN: extreme -->
+  <O21_CoolantLoss.stages.extreme.label>极重</O21_CoolantLoss.stages.extreme.label>
+  
+  <!-- EN: energy failure -->
+  <O21_EnergyFailure.label>能量枯竭</O21_EnergyFailure.label>
+  <!-- EN: This pawn ran out of energy and has shut down, permanently. -->
+  <O21_EnergyFailure.description>此单位因能量耗尽而永久关机了。</O21_EnergyFailure.description>
+  
+  <!-- EN: energy shortage -->
+  <O21_EnergyShortage.label>能量短缺</O21_EnergyShortage.label>
+  <!-- EN: This pawn is suffering from an energy shortage, it will die without an energy supply soon. -->
+  <O21_EnergyShortage.description>此单位正遭受能量短缺的困扰。如果得不到及时补充，很快便会永久关机。</O21_EnergyShortage.description>
+  <!-- EN: extreme -->
+  <O21_EnergyShortage.stages.extreme.label>极重</O21_EnergyShortage.stages.extreme.label>
+  
+</LanguageData>

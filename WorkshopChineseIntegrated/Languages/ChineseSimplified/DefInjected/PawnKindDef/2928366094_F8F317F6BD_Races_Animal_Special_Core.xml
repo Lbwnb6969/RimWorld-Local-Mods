@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutrolope -->
+  <RG_Neutrolope.label>中性羊</RG_Neutrolope.label>
+  <!-- EN: neutrolope calf -->
+  <RG_Neutrolope.lifeStages.neutrolope_calf.label>中性羊幼崽</RG_Neutrolope.lifeStages.neutrolope_calf.label>
+  <!-- EN: neutrolope calves -->
+  <RG_Neutrolope.lifeStages.neutrolope_calf.labelPlural>中性羊幼崽</RG_Neutrolope.lifeStages.neutrolope_calf.labelPlural>
+  
+  <!-- EN: rimclaw -->
+  <RG_Rimclaw.label>边缘死亡爪</RG_Rimclaw.label>
+  
+</LanguageData>

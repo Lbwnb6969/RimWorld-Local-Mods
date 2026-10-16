@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: don't care -->
+  <VME_InsectMeatEating_DontCare.label>漠视</VME_InsectMeatEating_DontCare.label>
+  <!-- EN: Insect meat is just another type of meat. There are innumerable cultures in human history with a rich entomophagy tradition. -->
+  <VME_InsectMeatEating_DontCare.description>虫肉也是肉。人类的文化历史丰富多彩，在世界各地都有着丰富的食虫传统。</VME_InsectMeatEating_DontCare.description>
+  
+  <!-- EN: abhorrent -->
+  <VME_InsectMeatEating_Sacrilegious.label>厌恶</VME_InsectMeatEating_Sacrilegious.label>
+  <!-- EN: Eating the flesh of divine insects is vile and disgusting, even the idea of putting it near your mouth should be met with embarrassment. -->
+  <VME_InsectMeatEating_Sacrilegious.description>吃神圣虫族的肉是一种大不敬的行为！那些想将它们放在嘴边的人也该为此感到羞愧。</VME_InsectMeatEating_Sacrilegious.description>
+  
+</LanguageData>

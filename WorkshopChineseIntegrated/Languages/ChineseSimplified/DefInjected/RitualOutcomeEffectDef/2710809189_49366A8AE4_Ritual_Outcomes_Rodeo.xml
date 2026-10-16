@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AM_RodeoOutcome.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</AM_RodeoOutcome.description>
+  <!-- EN: room impressiveness -->
+  <AM_RodeoOutcome.comps.0.label>房间观感</AM_RodeoOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <AM_RodeoOutcome.comps.1.label>参与者数量</AM_RodeoOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AM_RodeoOutcome.comps.2.label>{PAWN_labelShort}的社交效果</AM_RodeoOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <AM_RodeoOutcome.comps.2.labelAbstract>演讲者的社交效果</AM_RodeoOutcome.comps.2.labelAbstract>
+  <!-- EN: Disastrous -->
+  <AM_RodeoOutcome.outcomeChances.0.label>糟糕的</AM_RodeoOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was disastrous. The event was chaotic and poorly organized, leaving everyone embarrassed and disappointed. -->
+  <AM_RodeoOutcome.outcomeChances.0.description>{0}非常糟糕！这场活动毫无组织且混乱不堪，让每个人都感到尴尬与失望。</AM_RodeoOutcome.outcomeChances.0.description>
+  <!-- EN: Underwhelming -->
+  <AM_RodeoOutcome.outcomeChances.1.label>平凡无奇的</AM_RodeoOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was underwhelming. The energy was low, and the performance lacked the excitement we were hoping for. -->
+  <AM_RodeoOutcome.outcomeChances.1.description>{0}平凡无奇。骑手看起来没什么干劲，其表演也不够激动人心。</AM_RodeoOutcome.outcomeChances.1.description>
+  <!-- EN: Thrilling -->
+  <AM_RodeoOutcome.outcomeChances.2.label>激动人心的</AM_RodeoOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was thrilling. The performances were energetic, and the crowd was roaring with excitement. A great time was had by all. -->
+  <AM_RodeoOutcome.outcomeChances.2.description>{0}激动人心。骑手的表演激情十足，观众们全都兴奋地欢呼着。每个人都沉浸在快乐之中。</AM_RodeoOutcome.outcomeChances.2.description>
+  <!-- EN: Legendary -->
+  <AM_RodeoOutcome.outcomeChances.3.label>精彩绝伦的</AM_RodeoOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was legendary! Every moment was electrifying, and the show will be remembered as one of the greatest events in our colony's history. -->
+  <AM_RodeoOutcome.outcomeChances.3.description>{0}精彩绝伦！这场扣人心弦的活动时刻牵动着观众们的心，它将作为我们殖民地历史上最伟大的表演之一而被人铭记。</AM_RodeoOutcome.outcomeChances.3.description>
+  
+</LanguageData>

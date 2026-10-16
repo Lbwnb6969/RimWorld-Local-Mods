@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AM_TantrumRitualOutcome.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</AM_TantrumRitualOutcome.description>
+  <!-- EN: wealth destroyed -->
+  <AM_TantrumRitualOutcome.comps.0.label>摧毁建筑的财富值</AM_TantrumRitualOutcome.comps.0.label>
+  <!-- EN: Terrible -->
+  <AM_TantrumRitualOutcome.outcomeChances.0.label>糟糕的</AM_TantrumRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible. We hardly destroyed anything, sore fists for nothing -->
+  <AM_TantrumRitualOutcome.outcomeChances.0.description>{0}非常糟糕！我们几乎没有摧毁掉任何建筑，大家只是在空挥拳头而已。</AM_TantrumRitualOutcome.outcomeChances.0.description>
+  <!-- EN: LackLuster -->
+  <AM_TantrumRitualOutcome.outcomeChances.1.label>枯燥乏味的</AM_TantrumRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was mediocre. Wasn't as fun as one could've hoped to destroy all that -->
+  <AM_TantrumRitualOutcome.outcomeChances.1.description>{0}枯燥乏味。能供我们摧毁的建筑太少了，真没意思。</AM_TantrumRitualOutcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AM_TantrumRitualOutcome.outcomeChances.2.label>令人满意的</AM_TantrumRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. We've left a decent pile of rubble behind and the stress has been released -->
+  <AM_TantrumRitualOutcome.outcomeChances.2.description>{0}令人满意。我们留下了一地的残骸，积攒的压力也得到了宣泄。</AM_TantrumRitualOutcome.outcomeChances.2.description>
+  <!-- EN: Amazing -->
+  <AM_TantrumRitualOutcome.outcomeChances.3.label>令人惊异的</AM_TantrumRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was invigorating. We've destroyed a great deal of what made this place horrible. A real fresh start! -->
+  <AM_TantrumRitualOutcome.outcomeChances.3.description>{0}令人惊异。我们痛痛快快地宣泄了一次，这将是个崭新的开始！</AM_TantrumRitualOutcome.outcomeChances.3.description>
+  
+</LanguageData>

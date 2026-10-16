@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_RefuelCustom.label>补充燃料</DankPyon_RefuelCustom.label>
+  <DankPyon_RefuelCustom.gerund>补充燃料</DankPyon_RefuelCustom.gerund>
+  <DankPyon_RefuelCustom.verb>补充燃料至</DankPyon_RefuelCustom.verb>
+
+  <DankPyon_DoBillsScribeTable.label>抄写手稿</DankPyon_DoBillsScribeTable.label>
+  <DankPyon_DoBillsScribeTable.verb>抄写</DankPyon_DoBillsScribeTable.verb>
+  <DankPyon_DoBillsScribeTable.gerund>抄写于</DankPyon_DoBillsScribeTable.gerund>
+
+  <DankPyon_DoBillsWell.label>从井里取水</DankPyon_DoBillsWell.label>
+  <DankPyon_DoBillsWell.verb>取水</DankPyon_DoBillsWell.verb>
+  <DankPyon_DoBillsWell.gerund>取水于</DankPyon_DoBillsWell.gerund>
+
+  <DankPyon_DoBillsWaterGather.label>在凿冰取水点工作</DankPyon_DoBillsWaterGather.label>
+  <DankPyon_DoBillsWaterGather.gerund>凿冰取水</DankPyon_DoBillsWaterGather.gerund>
+  <DankPyon_DoBillsWaterGather.verb>凿冰取水于</DankPyon_DoBillsWaterGather.verb>
+
+  <DankPyon_OperateQuest.label>在探索者研究桌工作</DankPyon_OperateQuest.label>
+  <DankPyon_OperateQuest.verb>搜索</DankPyon_OperateQuest.verb>
+  <DankPyon_OperateQuest.gerund>搜索于</DankPyon_OperateQuest.gerund>
+
+  <DankPyon_DoMine_Golem.label>开采不寻常矿堆</DankPyon_DoMine_Golem.label>
+  <DankPyon_DoMine_Golem.verb>开采</DankPyon_DoMine_Golem.verb>
+  <DankPyon_DoMine_Golem.gerund>开采</DankPyon_DoMine_Golem.gerund>
+
+  <DankPyon_DoBillsStewPot.label>在汤锅工作</DankPyon_DoBillsStewPot.label>
+  <DankPyon_DoBillsStewPot.verb>炖汤</DankPyon_DoBillsStewPot.verb>
+  <DankPyon_DoBillsStewPot.gerund>炖汤于</DankPyon_DoBillsStewPot.gerund>
+
+  <DankPyon_DoBillStewDispenser.label>大型炖锅</DankPyon_DoBillStewDispenser.label>
+  <DankPyon_DoBillStewDispenser.verb>添加食材</DankPyon_DoBillStewDispenser.verb>
+  <DankPyon_DoBillStewDispenser.gerund>添加食材至</DankPyon_DoBillStewDispenser.gerund>
+
+  <DankPyon_DoBillsStoneOven.label>烘焙</DankPyon_DoBillsStoneOven.label>
+  <DankPyon_DoBillsStoneOven.verb>烘焙</DankPyon_DoBillsStoneOven.verb>
+  <DankPyon_DoBillsStoneOven.gerund>烘焙于</DankPyon_DoBillsStoneOven.gerund>
+
+  <DankPyon_DoBillsSpinningWheel.label>纺棉</DankPyon_DoBillsSpinningWheel.label>
+  <DankPyon_DoBillsSpinningWheel.verb>纺棉</DankPyon_DoBillsSpinningWheel.verb>
+  <DankPyon_DoBillsSpinningWheel.gerund>纺棉于</DankPyon_DoBillsSpinningWheel.gerund>
+
+  <DankPyon_DoBillsMillstone.label>在石磨工作</DankPyon_DoBillsMillstone.label>
+  <DankPyon_DoBillsMillstone.verb>研磨</DankPyon_DoBillsMillstone.verb>
+  <DankPyon_DoBillsMillstone.gerund>研磨于</DankPyon_DoBillsMillstone.gerund>
+
+  <DankPyon_DoBillsGrill.label>炙烤食物</DankPyon_DoBillsGrill.label>
+  <DankPyon_DoBillsGrill.verb>炙烤</DankPyon_DoBillsGrill.verb>
+  <DankPyon_DoBillsGrill.gerund>炙烤于</DankPyon_DoBillsGrill.gerund>
+
+  <DankPyon_DoBillsMineshaft.label>开采矿井</DankPyon_DoBillsMineshaft.label>
+  <DankPyon_DoBillsMineshaft.verb>开采</DankPyon_DoBillsMineshaft.verb>
+  <DankPyon_DoBillsMineshaft.gerund>开采于</DankPyon_DoBillsMineshaft.gerund>
+
+  <DankPyon_DoBillsWorkbench.label>在工作台制作物品</DankPyon_DoBillsWorkbench.label>
+  <DankPyon_DoBillsWorkbench.verb>制作物品</DankPyon_DoBillsWorkbench.verb>
+  <DankPyon_DoBillsWorkbench.gerund>制作于</DankPyon_DoBillsWorkbench.gerund>
+
+
+  <DankPyon_DoBillsFurnace.label>冶炼物品</DankPyon_DoBillsFurnace.label>
+  <DankPyon_DoBillsFurnace.verb>冶炼</DankPyon_DoBillsFurnace.verb>
+  <DankPyon_DoBillsFurnace.gerund>冶炼于</DankPyon_DoBillsFurnace.gerund>
+
+  <DankPyon_DoBillsTanningRack.label>鞣制皮革</DankPyon_DoBillsTanningRack.label>
+  <DankPyon_DoBillsTanningRack.verb>制皮</DankPyon_DoBillsTanningRack.verb>
+  <DankPyon_DoBillsTanningRack.gerund>制皮于</DankPyon_DoBillsTanningRack.gerund>
+
+  <DankPyon_DoBillsButcherFlesh.label>在屠宰砧工作</DankPyon_DoBillsButcherFlesh.label>
+  <DankPyon_DoBillsButcherFlesh.verb>屠宰</DankPyon_DoBillsButcherFlesh.verb>
+  <DankPyon_DoBillsButcherFlesh.gerund>屠宰于</DankPyon_DoBillsButcherFlesh.gerund>
+
+  <DankPyon_DoBillsMakeApparel.label>缝制衣物</DankPyon_DoBillsMakeApparel.label>
+  <DankPyon_DoBillsMakeApparel.verb>缝制</DankPyon_DoBillsMakeApparel.verb>
+  <DankPyon_DoBillsMakeApparel.gerund>缝制</DankPyon_DoBillsMakeApparel.gerund>
+
+  <DankPyon_DoBillsDigging.label>在掘土点工作</DankPyon_DoBillsDigging.label>
+  <DankPyon_DoBillsDigging.verb>挖掘</DankPyon_DoBillsDigging.verb>
+  <DankPyon_DoBillsDigging.gerund>挖掘于</DankPyon_DoBillsDigging.gerund>
+
+  <DankPyon_DoBillsStonecut.label>加工石材</DankPyon_DoBillsStonecut.label>
+  <DankPyon_DoBillsStonecut.verb>加工石材</DankPyon_DoBillsStonecut.verb>
+  <DankPyon_DoBillsStonecut.gerund>加工石材于</DankPyon_DoBillsStonecut.gerund>
+
+  <DankPyon_DoBillsMining.label>在采矿点工作</DankPyon_DoBillsMining.label>
+  <DankPyon_DoBillsMining.verb>开采</DankPyon_DoBillsMining.verb>
+  <DankPyon_DoBillsMining.gerund>开采于</DankPyon_DoBillsMining.gerund>
+
+  <DankPyon_DoBillsMakeWeapons.label>锻造武器</DankPyon_DoBillsMakeWeapons.label>
+  <DankPyon_DoBillsMakeWeapons.verb>锻造</DankPyon_DoBillsMakeWeapons.verb>
+  <DankPyon_DoBillsMakeWeapons.gerund>锻造于</DankPyon_DoBillsMakeWeapons.gerund>
+
+  <DankPyon_DoBillsCleaningBench.label>清洁物品</DankPyon_DoBillsCleaningBench.label>
+  <DankPyon_DoBillsCleaningBench.verb>清洁物品</DankPyon_DoBillsCleaningBench.verb>
+  <DankPyon_DoBillsCleaningBench.gerund>清洁物品于</DankPyon_DoBillsCleaningBench.gerund>
+
+  <DankPyon_DoBillsMakeJewelry.label>制作珠宝</DankPyon_DoBillsMakeJewelry.label>
+  <DankPyon_DoBillsMakeJewelry.verb>制作珠宝</DankPyon_DoBillsMakeJewelry.verb>
+  <DankPyon_DoBillsMakeJewelry.gerund>制作珠宝于</DankPyon_DoBillsMakeJewelry.gerund>
+
+  <DankPyon_DoBillsMakeTimber.label>切割木材</DankPyon_DoBillsMakeTimber.label>
+  <DankPyon_DoBillsMakeTimber.verb>切割</DankPyon_DoBillsMakeTimber.verb>
+  <DankPyon_DoBillsMakeTimber.gerund>切割于</DankPyon_DoBillsMakeTimber.gerund>
+
+  <DankPyon_DoBillsWorkAlchemy.label>炼金</DankPyon_DoBillsWorkAlchemy.label>
+  <DankPyon_DoBillsWorkAlchemy.verb>炼金</DankPyon_DoBillsWorkAlchemy.verb>
+  <DankPyon_DoBillsWorkAlchemy.gerund>炼金于</DankPyon_DoBillsWorkAlchemy.gerund>
+
+  <DankPyon_DoBillsCookHearth.label>壁炉烹餐</DankPyon_DoBillsCookHearth.label>
+  <DankPyon_DoBillsCookHearth.verb>烹饪</DankPyon_DoBillsCookHearth.verb>
+  <DankPyon_DoBillsCookHearth.gerund>烹饪于</DankPyon_DoBillsCookHearth.gerund>
+
+  <DankPyon_DoBillsHaulHearth.label>壁炉订单</DankPyon_DoBillsHaulHearth.label>
+  <DankPyon_DoBillsHaulHearth.verb>完成订单</DankPyon_DoBillsHaulHearth.verb>
+  <DankPyon_DoBillsHaulHearth.gerund>完成订单于</DankPyon_DoBillsHaulHearth.gerund>
+
+  <DoBillMakesMending.label>修补物品</DoBillMakesMending.label>
+  <DoBillMakesMending.verb>修补</DoBillMakesMending.verb>
+  <DoBillMakesMending.gerund>修补於</DoBillMakesMending.gerund>
+
+  <DankPyon_DoBillsCremate.label>在大型篝火工作</DankPyon_DoBillsCremate.label>
+  <DankPyon_DoBillsCremate.verb>焚毁</DankPyon_DoBillsCremate.verb>
+  <DankPyon_DoBillsCremate.gerund>焚毁于</DankPyon_DoBillsCremate.gerund>
+
+</LanguageData>

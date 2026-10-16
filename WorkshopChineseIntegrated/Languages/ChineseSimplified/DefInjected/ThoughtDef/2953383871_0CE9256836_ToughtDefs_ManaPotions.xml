@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mana potion -->
+  <Joe_LesserManaThought.stages.mana_potion.label>喝了蓝药水(小)</Joe_LesserManaThought.stages.mana_potion.label>
+  <!-- EN: Quaffing that Minor Mana Elixir filled me with such euphoria, I already crave another. I pray I don’t succumb to its enchanting allure. -->
+  <Joe_LesserManaThought.stages.mana_potion.description>喝下蓝药水让我充满了愉悦感，我已经渴望再来一杯了。真希望我不要屈服于它的迷人魅力。</Joe_LesserManaThought.stages.mana_potion.description>
+  
+  <!-- EN: mana potion -->
+  <Joe_MinorManaThought.stages.mana_potion.label>喝了蓝药水(大)</Joe_MinorManaThought.stages.mana_potion.label>
+  <!-- EN: Quaffing that Minor Mana Elixir filled me with such euphoria, I already crave another. I pray I don’t succumb to its enchanting allure. -->
+  <Joe_MinorManaThought.stages.mana_potion.description>喝下蓝药水让我充满了愉悦感，我已经渴望再来一杯了。真希望我不要屈服于它的迷人魅力。</Joe_MinorManaThought.stages.mana_potion.description>
+  
+</LanguageData>

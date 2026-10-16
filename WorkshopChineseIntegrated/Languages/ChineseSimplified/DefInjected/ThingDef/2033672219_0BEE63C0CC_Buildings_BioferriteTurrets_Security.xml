@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy incinerator complex -->
+  <VFES_Complex_HeavyIncineratorComplex.label>固定式焚烬者喷射器</VFES_Complex_HeavyIncineratorComplex.label>
+  <!-- EN: A heavy incinerator mounted on a barricade to grant cover. Needs to be manned in order to fire. It is equipped with a powerful mega-burner that requires bioferrite to reload. -->
+  <VFES_Complex_HeavyIncineratorComplex.description>一种固定在路障上的焚烬者喷射器。必须有人手动操纵。路障能为射击者提供良好的掩护效果。需要装填活铁作为燃料。</VFES_Complex_HeavyIncineratorComplex.description>
+  <!-- EN: Remaining bioferrite -->
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>剩余活铁</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Remaining bioferrite -->
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>剩余活铁</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs bioferrite -->
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>需要活铁</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: heavy incinerator -->
+  <VFES_ComplexHeavyIncinerator_Top.label>焚烬者喷射器</VFES_ComplexHeavyIncinerator_Top.label>
+  <!-- EN: A heavy incinerator designed to be attached to a turret. -->
+  <VFES_ComplexHeavyIncinerator_Top.description>固定在路障上的焚烬者喷射器。</VFES_ComplexHeavyIncinerator_Top.description>
+  <!-- EN: heavy incinerator -->
+  <VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>焚烬者喷射器</VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>
+  
+</LanguageData>

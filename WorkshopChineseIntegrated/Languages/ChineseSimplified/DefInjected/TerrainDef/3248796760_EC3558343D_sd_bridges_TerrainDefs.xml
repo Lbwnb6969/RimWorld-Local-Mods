@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chest-deep moving water -->
+  <sd_bridges_ChestDeepMovingWater.label>流动的深水</sd_bridges_ChestDeepMovingWater.label>
+  <!-- EN: Welcome to the Deep. This can be placed on shallow moving water. It is impassable!\n	\n	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. -->
+  <sd_bridges_ChestDeepMovingWater.description>欢迎来到深水区！ 它在流动的浅水的基础上建造而来，是不可逾越的障碍！\n	可以使用移除地板命令移除以恢复默认地图地形。 唯一的例外是原来的深水在去除地板时会变成沙地。</sd_bridges_ChestDeepMovingWater.description>
+  
+  <!-- EN: deep water -->
+  <sd_bridges_DeepWater.label>深水</sd_bridges_DeepWater.label>
+  <!-- EN: Welcome to the Deep. This can be placed on shallow water. It is impassable!\n	\n	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. -->
+  <sd_bridges_DeepWater.description>欢迎来到深水区！它在浅水的基础上建造而来，深水是不可逾越的障碍！\n	\n	可以使用移除地板命令移除以恢复默认地图地形。 唯一的例外是原来的深水在去除地板时会变成沙地。</sd_bridges_DeepWater.description>
+  
+  <!-- EN: dig up water -->
+  <sd_bridges_DigUpWater.label>掘水</sd_bridges_DigUpWater.label>
+  <!-- EN: You colonists will prepare terrain to later terraform it to watertiles. Will create mudy terrain to convert it to shallow water later on.\n	\n	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. -->
+  <sd_bridges_DigUpWater.description>您的殖民者将准备改造地形，以便稍后将地形改造成水域。 这会创建一个泥地区域，稍后你可以将其改造为浅水区。\n\n可以使用移除地板命令移除以恢复默认地图地形。 唯一的例外是原来的深水在去除地板时会变成沙地。</sd_bridges_DigUpWater.description>
+  
+  <!-- EN: foundation base -->
+  <sd_bridges_FundamentBase.label>地基</sd_bridges_FundamentBase.label>
+  <!-- EN: Build a foundation base to quickly put up a bridge or build a platform. Can only be placed on shallow water or mud.\n	\n	It will slow pawns down if they walk over it. Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. Foundation material can be produced at the stonecutters or machiniong table. -->
+  <sd_bridges_FundamentBase.description>建造地基，快速架起桥梁或搭建平台。 只能放在浅水或泥地上。\n\n地基依然会减慢在上面行走的单位的速度。 可以使用移除地板命令移除以恢复默认地图地形。 唯一的例外是原来的深水在去除地板时会变成沙地。 基石可以在切石机或加工台上生产。</sd_bridges_FundamentBase.description>
+  
+  <!-- EN: Marsh -->
+  <sd_bridges_MarshWater.label>沼泽</sd_bridges_MarshWater.label>
+  <!-- EN: The marsh makes it hard to walk for your enemies. This can be placed on mud/shallow water terrain or marsh tiles. It can not be placed on deep water. Marsh will slow pawns down if they walk over it.\n	\n	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. -->
+  <sd_bridges_MarshWater.description>沼泽让你的敌人寸步难行。 这可以放置在泥地/浅水地形或沼泽地砖上。 不能放在深水中。 沼泽会大幅减慢在上面行走的单位的速度。\n	\n	可以使用移除地板命令移除以恢复默认地图地形。 唯一的例外是原来的深水在去除地板时会变成沙地。</sd_bridges_MarshWater.description>
+  
+  <!-- EN: platform -->
+  <sd_bridges_platform.label>平台</sd_bridges_platform.label>
+  <!-- EN: Produces a solid floortile capable of supporting heavy structures. Can only be placed on a foundation base. Takes a lot of work to make.\n	\n	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. Foundation material can be produced at the stonecutters or machiniong table. -->
+  <sd_bridges_platform.description>生产能够支撑重型结构的实心地砖。 只能放置在地基上。 工作量很大。\n\n可以使用移除地板命令移除以恢复默认地图地形。 唯一的例外是原来的深水在去除地板时会变成沙地。 基石可以在切石机或加工台上生产。</sd_bridges_platform.description>
+  
+  <!-- EN: shallow moving water -->
+  <sd_bridges_ShallowMovingWater.label>流动的浅水</sd_bridges_ShallowMovingWater.label>
+  <!-- EN: The shallowest of moving waters. This can be placed on mud/marsh terrain or on foundation bases to convert them back to shallow water tiles. Shallow water will slow pawns down if they walk over it.\n	\n	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. -->
+  <sd_bridges_ShallowMovingWater.description>最浅的流动水域。 这可以放置在泥地/沼泽地形或地基上，以将它们转换回浅水地形。 流动的浅水会减慢在上面行走的单位的速度。\n	\n	可以使用移除地板命令移除以恢复默认地图地形。 唯一的例外是原来的深水在去除地板时会变成沙地。</sd_bridges_ShallowMovingWater.description>
+  
+  <!-- EN: shallow water -->
+  <sd_bridges_ShallowWater.label>浅水</sd_bridges_ShallowWater.label>
+  <!-- EN: The shallowest of waters. This can be placed on mud/marsh terrain or on foundation bases to convert them back to shallow water tiles. Shallow water will slow pawns down if they walk over it.\n	\n	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. -->
+  <sd_bridges_ShallowWater.description>最浅的水域。 这可以放置在泥地/沼泽地形或地基上，以将它们转换回浅水地形。 浅水会减慢在上面行走的单位的速度。\n	\n	可以使用移除地板命令移除以恢复默认地图地形。 唯一的例外是原来的深水在去除地板时会变成沙地。</sd_bridges_ShallowWater.description>
+  
+</LanguageData>

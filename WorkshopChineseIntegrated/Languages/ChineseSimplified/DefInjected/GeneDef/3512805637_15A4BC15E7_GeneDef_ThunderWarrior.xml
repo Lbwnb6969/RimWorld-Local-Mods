@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: furybound -->
+  <BEWH_Furybound.label>狂暴枷锁</BEWH_Furybound.label>
+  <!-- EN: The Furybound gene introduces a volatile element to the carriers psyche, making them prone to bouts of extreme aggression and berserk behavior. This gene increases their susceptibility to mental instability, causing them to occasionally lose control in the heat of battle. While this can lead to devastatingly effective combat prowess, it also poses a risk of unpredictability and loss of strategic coherence. -->
+  <BEWH_Furybound.description>狂暴枷锁基因会为携带者的精神注入一种不稳定的元素，使他们容易表现出极端的攻击性和陷入狂暴。这种基因会加剧他们精神的不稳定，导致他们在激烈的战斗中偶尔失去控制。虽然这可以带来毁灭性的战斗力，但也带来了不可预测的风险。</BEWH_Furybound.description>
+  <!-- EN: Mental stability worsen with years lived. -->
+  <BEWH_Furybound.customEffectDescriptions.0>精神状态随年龄增长而恶化。</BEWH_Furybound.customEffectDescriptions.0>
+  
+  <!-- EN: hyperanatomica -->
+  <BEWH_Hyperanatomica.label>超构体框架</BEWH_Hyperanatomica.label>
+  <!-- EN: The Hyperanatomica Framework bestows the gene carrier with an exceptionally respiratory efficiency, visual acuity, auditory sensitivity, and digestive capabilities. Additionally, it enables the carrier to endure extreme temperatures, both hot and cold, far beyond the limits of ordinary baseliners. -->
+  <BEWH_Hyperanatomica.description>超构体框架赋予基因携带者卓越的呼吸能力、视觉、听觉和消化能力。此外，它还能使携带者承受极端温度，无论是凡人难以承受的炎热还是寒冷。</BEWH_Hyperanatomica.description>
+  
+  <!-- EN: mentanifex -->
+  <BEWH_Mentanifex.label>梅塞尼斯器官</BEWH_Mentanifex.label>
+  <!-- EN: A T-shaped organ implanted near the brainstem, this implant stimulates nerve tissue growth, enhancing reaction speed and situational awareness. However, the unique chemical compounds it releases into the bloodstream also significantly increase aggression. Yet, this implant proves it's necessity, simply due to the fact that increased reaction is essential to fully utilize the Thunder Warrior's enhanced biology. -->
+  <BEWH_Mentanifex.description>这是一种植入于脑干附近的T形器官，可以刺激神经组织生长，增强反应速度和态势感知能力。然而，它释放到血液中的独特化学化合物也会显著增强攻击性。然而，这种植入物证明了它的必要性，因为增强的反应速度对于充分利用雷霆战士强化的生物能力至关重要。</BEWH_Mentanifex.description>
+  
+  <!-- EN: musculeator -->
+  <BEWH_Musculeator.label>肌铸熔炉</BEWH_Musculeator.label>
+  <!-- EN: A liver-like membraneous organ, placed behind the recipient's heart, is designed to provide the recipient's muscular structure with a significant growth boost. The improved muscles exceed the normal ones in terms of regeneration speed, their overal strength and density. -->
+  <BEWH_Musculeator.description>这是一个类似肝脏的膜状器官，放置在携带者的心脏后方，旨在促进携带者的肌肉结构增强。增强后的肌肉在再生速度、整体强度和密度方面均超越正常肌肉。</BEWH_Musculeator.description>
+  
+  <!-- EN: proto-ossmodula -->
+  <BEWH_ProtoOssmodula.label>原骨殖模</BEWH_ProtoOssmodula.label>
+  <!-- EN: Proto-Ossmodula is the early prototype of an organ, that is capable of rapidly increasing one's bone mass, as well as the density of bone tissue itself. Implanted adjacent to hypophysis, Proto-Ossmodula injects growth hormones into recipient's body, thus making them significantly bulkier and more resistant to damage. -->
+  <BEWH_ProtoOssmodula.description>原骨殖模是骨增强器官的早期原型，能够快速增加人体骨量以及骨组织本身的密度。原骨殖模植入于垂体附近，向携带者体内注入生长激素，从而使其体积显著增大，更加坚韧。</BEWH_ProtoOssmodula.description>
+  
+  <!-- EN: vigoranis -->
+  <BEWH_Vigoranis.label>生机熔炉</BEWH_Vigoranis.label>
+  <!-- EN: The Vigoranis imbues the gene carrier with an extraordinary capacity for sustained combat and rapid recovery. This gene optimizes their cellular metabolism, allowing for quick healing of minor injuries and significantly reducing fatigue. -->
+  <BEWH_Vigoranis.description>生机熔炉赋予基因携带者非凡的持续战斗和快速恢复能力。该基因优化了其细胞代谢，使其能够快速治愈轻伤并显著减轻疲劳。</BEWH_Vigoranis.description>
+  
+</LanguageData>

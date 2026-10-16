@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: northern drog -->
+  <DA_NorthernDrog.label>北境野猪</DA_NorthernDrog.label>
+  <!-- EN: The colossal northern cousin of the wild boar. The drog is a gigantic dendrovore that roams the colder regions of the world where it can be seen tearing down trees to feed on with it's massive tusks. Territorial by nature, it will not hesitate to crush anything that earns its ire.\n\nDespite its impressive size and strength, the drog is often hunted for it's thick fur and valuable tusks. -->
+  <DA_NorthernDrog.description>野猪在北境的凶暴表亲。北境野猪是一种巨型的食树动物，在寒冷区域能看到它们用巨牙拱倒树木以食用。领地意识很强，会毫不犹豫地冲向招致其愤怒的对象。\n\n尽管体系巨大且强壮，北境野猪经常被狩猎以获取其厚实的皮毛和珍贵的巨牙。</DA_NorthernDrog.description>
+  <!-- EN: tusk -->
+  <DA_NorthernDrog.tools.tusk.label>巨牙</DA_NorthernDrog.tools.tusk.label>
+  <!-- EN: head -->
+  <DA_NorthernDrog.tools.head.label>头</DA_NorthernDrog.tools.head.label>
+  
+</LanguageData>

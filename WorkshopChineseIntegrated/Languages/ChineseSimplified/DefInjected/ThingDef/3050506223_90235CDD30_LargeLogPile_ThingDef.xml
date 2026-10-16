@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Large Log Pile Spot -->
+  <ASF_LargeLogPile.label>大型原木储存点</ASF_LargeLogPile.label>
+  <!-- EN: A designated spot to pile wood. Free to build. Deconstructing returns 100% of wood logs stored. Items stored inside will never deteriorate and don't affect the beauty of their surroundings. \n\nTotal Capacity: 12 Stacks\n\nDynamic Textures -->
+  <ASF_LargeLogPile.description>指定一个堆叠储存原木的位置。可以立即建造/拆除完毕。存放在里面的物品永远不会老化，也不会影响周围环境的美观度。\n\n储存物品的数量会使此建筑的贴图发生变化。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：12组\n【可储存类型】：原木</ASF_LargeLogPile.description>
+  
+</LanguageData>

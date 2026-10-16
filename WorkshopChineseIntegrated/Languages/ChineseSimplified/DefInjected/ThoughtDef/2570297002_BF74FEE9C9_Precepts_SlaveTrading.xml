@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bought a slave! -->
+  <VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.label>购买了奴隶！</VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.label>
+  <!-- EN: We have bought a slave from evil slave traders! -->
+  <VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.description>我们从邪恶的奴隶贩子手中救下了奴隶！</VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.description>
+  
+  <!-- EN: sold slave -->
+  <VME_SoldSlave_Know_Forbidden.stages.sold_slave.label>贩卖奴隶</VME_SoldSlave_Know_Forbidden.stages.sold_slave.label>
+  
+  <!-- EN: we sold a slave! -->
+  <VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.label>贩卖了奴隶！</VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.label>
+  <!-- EN: We took part in the horrible act of slave trading. What a disgrace. -->
+  <VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.description>我们...我们竟然参与了奴隶贩卖！我已经没脸见人了。</VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.description>
+  
+</LanguageData>

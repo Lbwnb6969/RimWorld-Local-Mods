@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Make Minor Healing Potion -->
+  <Joe_MinorHealingRecipe.label>制作红药水(大)</Joe_MinorHealingRecipe.label>
+  <!-- EN: A bottle containing an alchemical minor healing potion that boosts healing and immunity.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_MinorHealingRecipe.description>制作红药水(大)，这种药水能大幅增加自然治愈力及免疫力。</Joe_MinorHealingRecipe.description>
+  <!-- EN: Making Minor Healing Potion. -->
+  <Joe_MinorHealingRecipe.jobString>正在制作红药水(大)。</Joe_MinorHealingRecipe.jobString>
+  
+  <!-- EN: Make Minor Healing Potion x5 -->
+  <Joe_MinorHealingRecipeBulk.label>制作红药水(大) x5</Joe_MinorHealingRecipeBulk.label>
+  <!-- EN: A bottle containing an alchemical minor healing potion that boosts healing and immunity.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_MinorHealingRecipeBulk.description>制作5瓶红药水(大)，这种药水能大幅增加自然治愈力及免疫力。</Joe_MinorHealingRecipeBulk.description>
+  <!-- EN: Making Minor Healing Potion x5. -->
+  <Joe_MinorHealingRecipeBulk.jobString>正在制作红药水(大)。</Joe_MinorHealingRecipeBulk.jobString>
+  
+</LanguageData>

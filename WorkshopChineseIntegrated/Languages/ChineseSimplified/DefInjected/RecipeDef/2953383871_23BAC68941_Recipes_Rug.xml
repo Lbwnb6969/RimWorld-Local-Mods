@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_MakeRugPatched1x1c.label>制作合成地毯(1x1)</DankPyon_MakeRugPatched1x1c.label>
+  <DankPyon_MakeRugPatched1x1c.description>用不同类型的皮革制作一块有补丁的地毯。</DankPyon_MakeRugPatched1x1c.description>
+  <DankPyon_MakeRugPatched1x1c.jobString>正在制作合成地毯。</DankPyon_MakeRugPatched1x1c.jobString>
+
+  <DankPyon_MakeRugPatched2x2c.label>制作合成地毯(2x2)</DankPyon_MakeRugPatched2x2c.label>
+  <DankPyon_MakeRugPatched2x2c.description>用不同类型的皮革制作一块有补丁的地毯。</DankPyon_MakeRugPatched2x2c.description>
+  <DankPyon_MakeRugPatched2x2c.jobString>正在制作合成地毯。</DankPyon_MakeRugPatched2x2c.jobString>
+
+  <DankPyon_MakeRugPatched3x3c.label>制作合成地毯(3x3)</DankPyon_MakeRugPatched3x3c.label>
+  <DankPyon_MakeRugPatched3x3c.description>用不同类型的皮革制作一块有补丁的地毯。</DankPyon_MakeRugPatched3x3c.description>
+  <DankPyon_MakeRugPatched3x3c.jobString>正在制作合成地毯。</DankPyon_MakeRugPatched3x3c.jobString>
+
+  <DankPyon_MakeHyenaRug.label>制作鬣狗地毯</DankPyon_MakeHyenaRug.label>
+  <DankPyon_MakeHyenaRug.description>将生鬣狗皮处理成柔软漂亮的地毯。</DankPyon_MakeHyenaRug.description>
+  <DankPyon_MakeHyenaRug.jobString>正在制作鬣狗地毯。</DankPyon_MakeHyenaRug.jobString>
+
+  <DankPyon_MakeWolfTimberRug.label>制作灰狼地毯</DankPyon_MakeWolfTimberRug.label>
+  <DankPyon_MakeWolfTimberRug.description>将生灰狼皮处理成柔软漂亮的地毯。</DankPyon_MakeWolfTimberRug.description>
+  <DankPyon_MakeWolfTimberRug.jobString>正在制作灰狼地毯。</DankPyon_MakeWolfTimberRug.jobString>
+
+  <DankPyon_MakeWolfArcticRug.label>制作北极狼地毯</DankPyon_MakeWolfArcticRug.label>
+  <DankPyon_MakeWolfArcticRug.description>将生北极狼皮处理成柔软漂亮的地毯。</DankPyon_MakeWolfArcticRug.description>
+  <DankPyon_MakeWolfArcticRug.jobString>正在制作北极狼地毯。</DankPyon_MakeWolfArcticRug.jobString>
+
+  <DankPyon_MakeCougarRug.label>制作美洲狮地毯</DankPyon_MakeCougarRug.label>
+  <DankPyon_MakeCougarRug.description>将生美洲狮皮处理成柔软漂亮的地毯。</DankPyon_MakeCougarRug.description>
+  <DankPyon_MakeCougarRug.jobString>正在制作美洲狮地毯。</DankPyon_MakeCougarRug.jobString>
+
+  <DankPyon_MakePantherRug.label>制作黑豹地毯</DankPyon_MakePantherRug.label>
+  <DankPyon_MakePantherRug.description>将生黑豹皮处理成柔软漂亮的地毯。</DankPyon_MakePantherRug.description>
+  <DankPyon_MakePantherRug.jobString>正在制作黑豹地毯。</DankPyon_MakePantherRug.jobString>
+
+  <DankPyon_MakeBearGrizzlyRug.label>制作熊地毯</DankPyon_MakeBearGrizzlyRug.label>
+  <DankPyon_MakeBearGrizzlyRug.description>将生熊皮处理成柔软漂亮的地毯。</DankPyon_MakeBearGrizzlyRug.description>
+  <DankPyon_MakeBearGrizzlyRug.jobString>正在制作熊地毯。</DankPyon_MakeBearGrizzlyRug.jobString>
+
+  <DankPyon_MakeBearPolarRug.label>制作北极熊地毯</DankPyon_MakeBearPolarRug.label>
+  <DankPyon_MakeBearPolarRug.description>将生北极熊皮处理成柔软漂亮的地毯。</DankPyon_MakeBearPolarRug.description>
+  <DankPyon_MakeBearPolarRug.jobString>正在制作北极熊地毯。</DankPyon_MakeBearPolarRug.jobString>
+
+  <DankPyon_MakeThrumboRug.label>制作独角兽地毯</DankPyon_MakeThrumboRug.label>
+  <DankPyon_MakeThrumboRug.description>将生独角兽皮处理成柔软漂亮的地毯。</DankPyon_MakeThrumboRug.description>
+  <DankPyon_MakeThrumboRug.jobString>正在制作独角兽地毯。</DankPyon_MakeThrumboRug.jobString>
+
+  <DankPyon_MakeDaerRug.label>制作鹿熊地毯</DankPyon_MakeDaerRug.label>
+  <DankPyon_MakeDaerRug.description>将生鹿熊皮处理成柔软漂亮的地毯。</DankPyon_MakeDaerRug.description>
+  <DankPyon_MakeDaerRug.jobString>正在制作鹿熊地毯。</DankPyon_MakeDaerRug.jobString>
+
+
+</LanguageData>

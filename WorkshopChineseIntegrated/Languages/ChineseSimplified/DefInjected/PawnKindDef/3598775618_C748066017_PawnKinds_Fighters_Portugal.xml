@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Lusitanian javelinman -->
+  <BA_Portugal_Almughavar.label>卢西塔尼亚标枪兵</BA_Portugal_Almughavar.label>
+  
+  <!-- EN: musketeer -->
+  <BA_Portugal_Arquebusier.label>火绳枪手</BA_Portugal_Arquebusier.label>
+  
+  <!-- EN: aventuro -->
+  <BA_Portugal_Aventuro.label>冒险者</BA_Portugal_Aventuro.label>
+  
+  <!-- EN: bannerman -->
+  <BA_Portugal_Bannerman.label>旗手</BA_Portugal_Bannerman.label>
+  
+  <!-- EN: conquistador -->
+  <BA_Portugal_Conquistador.label>征服者</BA_Portugal_Conquistador.label>
+  
+  <!-- EN: crossbow militia -->
+  <BA_Portugal_Crossbowman.label>弩民兵</BA_Portugal_Crossbowman.label>
+  
+  <!-- EN: king -->
+  <BA_Portugal_King.label>国王</BA_Portugal_King.label>
+  <!-- EN: queen -->
+  <BA_Portugal_King.labelFemale>女王</BA_Portugal_King.labelFemale>
+  
+  <!-- EN: pavise crossbowman -->
+  <BA_Portugal_Pavise_Crossbowman.label>大盾弩手</BA_Portugal_Pavise_Crossbowman.label>
+  
+  <!-- EN: peasant -->
+  <BA_Portugal_Peasant.label>农民</BA_Portugal_Peasant.label>
+  
+  <!-- EN: knight of Santiago -->
+  <BA_Portugal_Santiago.label>圣地亚哥骑士</BA_Portugal_Santiago.label>
+  
+  <!-- EN: swordsman militia -->
+  <BA_Portugal_Sword_Militia.label>剑士民兵</BA_Portugal_Sword_Militia.label>
+  
+</LanguageData>

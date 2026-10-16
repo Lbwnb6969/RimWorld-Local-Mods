@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 假手 -->
+
+  <ArtificialMedHand.label>假手</ArtificialMedHand.label>
+  <ArtificialMedHand.description>一只已安装的假手。</ArtificialMedHand.description>
+  <ArtificialMedHand.comps.0.tools.0.label>假手</ArtificialMedHand.comps.0.tools.0.label>
+  <ArtificialMedHand.labelNoun>一只假手</ArtificialMedHand.labelNoun>
+
+
+  <!-- 假手臂 -->
+
+  <ArtificialMedArm.label>假手臂</ArtificialMedArm.label>
+  <ArtificialMedArm.description>一只已安装的假手臂。</ArtificialMedArm.description>
+  <ArtificialMedArm.comps.0.tools.0.label>假手臂</ArtificialMedArm.comps.0.tools.0.label>
+  <ArtificialMedArm.labelNoun>一只假手臂</ArtificialMedArm.labelNoun>
+
+
+  <!-- 假腿 -->
+
+  <ArtificialMedLeg.label>假腿</ArtificialMedLeg.label>
+  <ArtificialMedLeg.description>一只已安装的假腿。</ArtificialMedLeg.description>
+  <ArtificialMedLeg.labelNoun>一只假腿</ArtificialMedLeg.labelNoun>
+
+
+  <!-- 假脚 -->
+
+  <ArtificialMedFoot.label>假脚</ArtificialMedFoot.label>
+  <ArtificialMedFoot.description>一只已安装的假脚。</ArtificialMedFoot.description>
+  <ArtificialMedFoot.labelNoun>a 假脚</ArtificialMedFoot.labelNoun>
+
+
+  <!-- 假趾 -->
+
+  <ArtificialMedToe.label>假趾</ArtificialMedToe.label>
+  <ArtificialMedToe.description>一只已安装的假趾。</ArtificialMedToe.description>
+  <ArtificialMedToe.labelNoun>一只假趾</ArtificialMedToe.labelNoun>
+
+
+  <!-- 假指 -->
+
+  <ArtificialMedFinger.label>假指</ArtificialMedFinger.label>
+  <ArtificialMedFinger.description>一只已安装的假指。</ArtificialMedFinger.description>
+  <ArtificialMedFinger.labelNoun>一只假指</ArtificialMedFinger.labelNoun>
+
+
+  <!-- 假鼻 -->
+
+  <ArtificialMedNose.label>假鼻</ArtificialMedNose.label>
+  <ArtificialMedNose.description>一只已安装的假鼻。</ArtificialMedNose.description>
+  <ArtificialMedNose.labelNoun>一只假鼻</ArtificialMedNose.labelNoun>
+
+
+  <!-- 假眼 -->
+
+  <ArtificialMedEye.label>假眼</ArtificialMedEye.label>
+  <ArtificialMedEye.description>一只已安装的假眼。</ArtificialMedEye.description>
+  <ArtificialMedEye.labelNoun>一只假眼</ArtificialMedEye.labelNoun>
+
+
+  <!-- 假耳 -->
+
+  <ArtificialMedEar.label>假耳</ArtificialMedEar.label>
+  <ArtificialMedEar.description>一只已安装的假耳。</ArtificialMedEar.description>
+  <ArtificialMedEar.labelNoun>一只假耳</ArtificialMedEar.labelNoun>
+
+
+</LanguageData>

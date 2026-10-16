@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Town Gloves -->
+
+  <AMT_Handwear_TownGloves.label>正装手套</AMT_Handwear_TownGloves.label>
+  <AMT_Handwear_TownGloves.description>使用鞣制皮革缝制以贴合手部。提供最低限度的保护。戴上这双手套会提高工作速度。</AMT_Handwear_TownGloves.description>
+
+
+  <!-- Hunter Gloves -->
+
+  <AMT_Handwear_HuntingGloves.label>狩猎手套</AMT_Handwear_HuntingGloves.label>
+  <AMT_Handwear_HuntingGloves.description>使用鞣制皮革缝制以贴合手部。提供最低限度的保护。戴上这双手套会提高工作速度和射击精度。</AMT_Handwear_HuntingGloves.description>
+
+
+  <!-- Noble Gloves -->
+
+  <AMT_Handwear_NobleGloves.label>贵族手套</AMT_Handwear_NobleGloves.label>
+  <AMT_Handwear_NobleGloves.description>由皮革精细加工缝制以贴合手部。提供最低限度的保护。戴上这双优雅的手套将提高你的社会地位，并帮助你获得更好的议价机会。</AMT_Handwear_NobleGloves.description>
+
+
+  <!-- Blacksmith Gloves -->
+
+  <AMT_Handwear_BlacksmithGloves.label>铁匠手套</AMT_Handwear_BlacksmithGloves.label>
+  <AMT_Handwear_BlacksmithGloves.description>使用鞣制皮革缝制以贴合手部。提供最低限度的保护。戴上这双手套会提高工作速度。</AMT_Handwear_BlacksmithGloves.description>
+
+
+  <!-- Leather Vambrace -->
+
+  <AMT_Handwear_VambraceLeather.label>皮革护臂</AMT_Handwear_VambraceLeather.label>
+  <AMT_Handwear_VambraceLeather.description>一件旨在保护手肘部到手腕部位的皮甲。</AMT_Handwear_VambraceLeather.description>
+
+
+  <!-- Splinted Vambrace -->
+
+  <AMT_Handwear_VambraceSplinted.label>条板护臂</AMT_Handwear_VambraceSplinted.label>
+  <AMT_Handwear_VambraceSplinted.description>一件旨在保护手肘部到手腕部位的盔甲。</AMT_Handwear_VambraceSplinted.description>
+
+
+  <!-- Shackles -->
+
+  <AMT_Handwear_HandShackles.label>手镣</AMT_Handwear_HandShackles.label>
+  <AMT_Handwear_HandShackles.description>一副手部枷锁，会限制装备者的工作速度，并使他们感到恐惧。</AMT_Handwear_HandShackles.description>
+
+
+</LanguageData>

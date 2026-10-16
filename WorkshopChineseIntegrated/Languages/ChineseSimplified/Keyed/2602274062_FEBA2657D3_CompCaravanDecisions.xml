@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Settle Caravan -->
+  <SettleWithoutUnloading>驻扎远行队</SettleWithoutUnloading>
+  <!-- EN: Allows the caravan to settle without unloading to find a good spot first or leave quickly. -->
+  <SettleWithoutUnloadingDesc>允许远行队在不卸载货物的情况下原地扎营，以便能第一时间找到其他好地方或快速离开。</SettleWithoutUnloadingDesc>
+  <!-- EN: Settle with Camp -->
+  <SettleWithCampLabel>搭建营地</SettleWithCampLabel>
+  <!-- EN: Settle with a prebuild camp your pawns quickly set up. Will consume camp supplies to construct tents and equipment of high quality. If not enough are present, pawns will use materials they can find at hand. Camping supplies can be recovered when packing up the camp. -->
+  <SettleWithCampDesc>在此处快速搭建一个营地。将优先消耗帐篷用具来搭建高质量的帐篷以及各种设备。如果帐篷用具不足，殖民者们将利用从附近收集到的材料来搭建简易营地。帐篷用具可在营地中央的烧烤篝火处进行打包回收。</SettleWithCampDesc>
+  <!-- EN: Night travel -->
+  <AllowNightTravel>夜间旅行</AllowNightTravel>
+  <!-- EN: Allow your caravan to travel through the night, but keep in mind that this harbors great risk for strong attacks and if your caravan members get too tired, they have no choice but to rest. -->
+  <AllowNightTravelDesc>允许你的远行队连夜赶路。不过请记住：夜间旅行的风险很高，你的远行队很有可能会遭到袭击。如果你的远行队成员太过劳累，他们只能选择原地休整。</AllowNightTravelDesc>
+</LanguageData>

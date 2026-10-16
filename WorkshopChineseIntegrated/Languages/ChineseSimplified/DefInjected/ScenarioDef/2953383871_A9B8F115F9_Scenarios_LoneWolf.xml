@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_LoneWolfStart.label>孤狼</DankPyon_LoneWolfStart.label>
+  <DankPyon_LoneWolfStart.description>一年的服务——这就是那纸合约的内容。一年后，我对自己宣示，不再有任何的誓言，虽然那位主人多次试图说服我，做为他的剑永远留在他身边，但是，交易就是交易。\n\n当我独自一人穿越树木繁茂的山丘时，我曾思索自己的决定是否正确。我可能囤积了财富，但土匪在乡间游荡，如果我的营火没有出卖我，飢饿的野兽和怪物仍然隐藏在黑暗里虎视眈眈。我常常在想，是否应该再次回到主人身边，但我内心很清楚，这样将永远失去自由。\n\n所以，在取得我应得的银子之后，我继续向看不到尽头的目的地前进。说不定我会幸运的找到一处基地，建造一座殿堂，召集自己的勇士。但这个目标似乎还遥不可及，因为当下我必须专注在眼前的问题。\n\n首先，我得在这片土地上活下去。</DankPyon_LoneWolfStart.description>
+  <DankPyon_LoneWolfStart.scenario.name>孤狼</DankPyon_LoneWolfStart.scenario.name>
+  <DankPyon_LoneWolfStart.scenario.summary>孤狼——角色扮演体验</DankPyon_LoneWolfStart.scenario.summary>
+  <DankPyon_LoneWolfStart.scenario.description>一年的服务——这就是那纸合约的内容。一年后，我对自己宣示，不再有任何的誓言，虽然那位主人多次试图说服我，做为他的剑永远留在他身边，但是，交易就是交易。\n\n当我独自一人穿越树木繁茂的山丘时，我曾思索自己的决定是否正确。我可能囤积了财富，但土匪在乡间游荡，如果我的营火没有出卖我，飢饿的野兽和怪物仍然隐藏在黑暗里虎视眈眈。我常常在想，是否应该再次回到主人身边，但我内心很清楚，这样将永远失去自由。\n\n所以，在取得我应得的银子之后，我继续向看不到尽头的目的地前进。说不定我会幸运的找到一处基地，建造一座殿堂，召集自己的勇士。但这个目标似乎还遥不可及，因为当下我必须专注在眼前的问题。\n\n首先，我得这片土地上活下去。</DankPyon_LoneWolfStart.scenario.description>
+  <DankPyon_LoneWolfStart.scenario.parts.11.text>你独自一人带着财富抵达了这片崭新的土地，但土匪在乡间游荡，飢饿的野兽和怪物隐藏在黑暗里虎视眈眈。\n\n首先，你得这片土地上活下去。\n\n确保食物来源并建立防御基地能帮助你保命。记住，一切都是为了自由！</DankPyon_LoneWolfStart.scenario.parts.11.text>
+
+</LanguageData>

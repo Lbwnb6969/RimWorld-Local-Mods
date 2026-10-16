@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sky burial -->
+  <AM_SkyBurial.label>露天葬礼</AM_SkyBurial.label>
+  <!-- EN: A gathering to witness the send off of our friend to nature. -->
+  <AM_SkyBurial.description>在指定地点处举行葬礼，以让死者回归自然的怀抱中。</AM_SkyBurial.description>
+  <!-- EN: {PAWN_nameDef} should be left in a secluded area and left to nature so {PAWN_possessive} friends and family can move on as their. -->
+  <AM_SkyBurial.extraTextPawnDeathLetter>{PAWN_nameDef}应当被放置在僻静的旷野处以回归自然的怀抱中，这样{PAWN_possessive}朋友和家人才能了无牵挂地继续生活。</AM_SkyBurial.extraTextPawnDeathLetter>
+  
+</LanguageData>

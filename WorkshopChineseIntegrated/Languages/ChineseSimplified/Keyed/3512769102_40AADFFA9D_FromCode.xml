@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--=== Mod Setting related ===-->
+  <!-- EN: RimDark 40k - Framework -->
+  <BEWH.Framework.ModSettings.ModName>RimDark 40k - 框架</BEWH.Framework.ModSettings.ModName>
+  <!-- EN: Always show Rank tab for player pawns. Will show even if no category or rank is available to the pawn. -->
+  <BEWH.Framework.ModSettings.ShowRankTab>始终显示殖民者的“军衔”选项卡。即便小人没有可用的军衔也会显示。</BEWH.Framework.ModSettings.ShowRankTab>
+  <!-- EN: Confirm rank unlock with popup. (Looking at you butterfingers) -->
+  <BEWH.Framework.ModSettings.ConfirmRankUnlock>在解锁军衔前弹出确定窗口。（瞧瞧你这管不住自己小手的家伙）</BEWH.Framework.ModSettings.ConfirmRankUnlock>
+
+  <!-- EN: Remember to check Vanilla Expanded Framework toggleable patches for more settings for this mod! -->
+  <BEWH.ModSettings.CheckVEFPatches>请务必查看Vanilla Expanded Framework的可开关补丁，了解更多此模组的设置！</BEWH.ModSettings.CheckVEFPatches>
+
+
+  <!--=== Common Keywords ===-->
+  <!-- EN: None -->
+  <BEWH.Framework.CommonKeyword.None>无</BEWH.Framework.CommonKeyword.None>
+  <!-- EN: Default -->
+  <BEWH.Framework.CommonKeyword.Default>默认</BEWH.Framework.CommonKeyword.Default>
+  <!-- EN: mod settings -->
+  <BEWH.Framework.CommonKeywords.ModSettings>Mod设置</BEWH.Framework.CommonKeywords.ModSettings>
+
+  <!--=== Apparel Multi Color ===-->
+  <!-- EN: Coloring -->
+  <BEWH.Framework.ApparelMultiColor.MainTab>颜色</BEWH.Framework.ApparelMultiColor.MainTab>
+
+  <!-- EN: Primary -->
+  <BEWH.Framework.ApparelMultiColor.PrimaryColor>主色调</BEWH.Framework.ApparelMultiColor.PrimaryColor>
+  <!-- EN: Secondary -->
+  <BEWH.Framework.ApparelMultiColor.SecondaryColor>副色调</BEWH.Framework.ApparelMultiColor.SecondaryColor>
+  <!-- EN: Tertiary -->
+  <BEWH.Framework.ApparelMultiColor.TertiaryColor>第三色调</BEWH.Framework.ApparelMultiColor.TertiaryColor>
+
+  <!-- EN: Select Preset -->
+  <BEWH.Framework.ApparelMultiColor.SelectPreset>选择预设</BEWH.Framework.ApparelMultiColor.SelectPreset>
+  <!-- EN: Edit Presets -->
+  <BEWH.Framework.ApparelMultiColor.EditPreset>编辑预设</BEWH.Framework.ApparelMultiColor.EditPreset>
+  <!-- EN: [New Preset] -->
+  <BEWH.Framework.ApparelMultiColor.NewPreset>[新预设]</BEWH.Framework.ApparelMultiColor.NewPreset>
+  <!-- EN: Enter name of new preset -->
+  <BEWH.Framework.ApparelMultiColor.EnterPresetName>输入新预设的名字</BEWH.Framework.ApparelMultiColor.EnterPresetName>
+  <!-- EN: Overwrite {0} with currently selected colors -->
+  <BEWH.Framework.ApparelMultiColor.OverridePreset>使用选定的颜色覆盖{0}</BEWH.Framework.ApparelMultiColor.OverridePreset>
+  <!-- EN: Are you sure you want to overwrite this preset? -->
+  <BEWH.Framework.ApparelMultiColor.ConfirmOverride>你确定想要覆盖这个预设吗？</BEWH.Framework.ApparelMultiColor.ConfirmOverride>
+  <!-- EN: Already exists! -->
+  <BEWH.Framework.ApparelMultiColor.PresetExists>已存在！</BEWH.Framework.ApparelMultiColor.PresetExists>
+
+  <!-- EN: Decorate armor -->
+  <BEWH.Framework.ApparelMultiColor.ArmourDecorationFeature>自定义盔甲</BEWH.Framework.ApparelMultiColor.ArmourDecorationFeature>
+
+  <!-- EN: Click to select custom color -->
+  <BEWH.Framework.ApparelMultiColor.ChooseCustomColour>点击以选择自定义颜色</BEWH.Framework.ApparelMultiColor.ChooseCustomColour>
+
+  <!-- EN: Body Decorations -->
+  <BEWH.Framework.ExtraDecoration.BodyDecoration>装甲装饰</BEWH.Framework.ExtraDecoration.BodyDecoration>
+  <!-- EN: Helmet Decorations -->
+  <BEWH.Framework.ExtraDecoration.HelmetDecoration>头盔装饰</BEWH.Framework.ExtraDecoration.HelmetDecoration>
+
+  <!-- EN: Remove All -->
+  <BEWH.Framework.ExtraDecoration.RemoveAllDecorations>移除所有</BEWH.Framework.ExtraDecoration.RemoveAllDecorations>
+
+  <!-- EN: Use Armor Color -->
+  <BEWH.Framework.ExtraDecoration.UseArmourColour>使用盔甲颜色</BEWH.Framework.ExtraDecoration.UseArmourColour>
+  <!-- EN: Set Default Colors -->
+  <BEWH.Framework.ExtraDecoration.SetDefaultColor>使用默认颜色</BEWH.Framework.ExtraDecoration.SetDefaultColor>
+
+
+  <!-- EN: Preset -->
+  <BEWH.Framework.ExtraDecoration.Preset>预设</BEWH.Framework.ExtraDecoration.Preset>
+  <!-- EN: Select a color preset -->
+  <BEWH.Framework.ExtraDecoration.PresetDesc>选择颜色预设</BEWH.Framework.ExtraDecoration.PresetDesc>
+
+  <!-- EN: Masks -->
+  <BEWH.Framework.ExtraDecoration.Mask>面部上色</BEWH.Framework.ExtraDecoration.Mask>
+  <!-- EN: Select a mask -->
+  <BEWH.Framework.ExtraDecoration.MaskDesc>选择面部上色</BEWH.Framework.ExtraDecoration.MaskDesc>
+
+  <!-- EN: Select -->
+  <BEWH.Framework.ExtraDecoration.Select>选择</BEWH.Framework.ExtraDecoration.Select>
+  <!-- EN: Select a decoration preset -->
+  <BEWH.Framework.ExtraDecoration.SelectDesc>选择装饰预设</BEWH.Framework.ExtraDecoration.SelectDesc>
+
+  <!-- EN: Edit -->
+  <BEWH.Framework.ExtraDecoration.Edit>编辑</BEWH.Framework.ExtraDecoration.Edit>
+  <!-- EN: Create, overwrite or remove a preset -->
+  <BEWH.Framework.ExtraDecoration.EditDesc>创建、覆盖或移除预设</BEWH.Framework.ExtraDecoration.EditDesc>
+
+  <!--=== Weapon Multi Color ===-->
+  <!-- EN: Decorate weapon -->
+  <BEWH.Framework.WeaponMultiColor.WeaponDecorationFeature>自定义武器</BEWH.Framework.WeaponMultiColor.WeaponDecorationFeature>
+
+  <!--=== Rank System ===-->
+  <!-- EN: Ranks -->
+  <BEWH.Framework.RankSystem.RankTab>军衔</BEWH.Framework.RankSystem.RankTab>
+
+  <!-- EN: Pawn must have the following:  -->
+  <BEWH.Framework.RankSystem.CategoryRequiresUnlock>殖民者必须具备以下条件：</BEWH.Framework.RankSystem.CategoryRequiresUnlock>
+  <!-- EN: Pawn may not have the following:  -->
+  <BEWH.Framework.RankSystem.CategoryRequiresLock>殖民者*不得*具备以下条件：</BEWH.Framework.RankSystem.CategoryRequiresLock>
+  <!-- EN: No category selected. -->
+  <BEWH.Framework.RankSystem.NoCategorySelected>未选择类别。</BEWH.Framework.RankSystem.NoCategorySelected>
+
+  <!-- EN: the {0} gene -->
+  <BEWH.Framework.RankSystem.CategoryRequiredGene>{0}基因</BEWH.Framework.RankSystem.CategoryRequiredGene>
+  <!-- EN: the {0} hediff -->
+  <BEWH.Framework.RankSystem.CategoryRequiredHediff>{0}健康状态</BEWH.Framework.RankSystem.CategoryRequiredHediff>
+  <!-- EN: the {0} trait -->
+  <BEWH.Framework.RankSystem.CategoryRequiredTrait>{0}特性</BEWH.Framework.RankSystem.CategoryRequiredTrait>
+  <!-- EN:  and  -->
+  <BEWH.Framework.RankSystem.And>  和  </BEWH.Framework.RankSystem.And>
+
+  <!-- EN: No rank selected. -->
+  <BEWH.Framework.RankSystem.NoRankSelected>未选择军衔。</BEWH.Framework.RankSystem.NoRankSelected>
+  <!-- EN: Description -->
+  <BEWH.Framework.RankSystem.RankDescription>描述</BEWH.Framework.RankSystem.RankDescription>
+  <!-- EN: Requirements -->
+  <BEWH.Framework.RankSystem.RankRequirements>要求</BEWH.Framework.RankSystem.RankRequirements>
+  <!-- EN: Bonuses from rank -->
+  <BEWH.Framework.RankSystem.RankBonuses>军衔奖励</BEWH.Framework.RankSystem.RankBonuses>
+  <!-- EN: {0} days since rank was given -->
+  <BEWH.Framework.RankSystem.DaysSinceRankGiven>自授予军衔以来已经过了{0}天。</BEWH.Framework.RankSystem.DaysSinceRankGiven>
+
+
+  <!-- EN: Stats -->
+  <BEWH.Framework.RankSystem.Stats>统计</BEWH.Framework.RankSystem.Stats>
+  <!-- EN: Abilities -->
+  <BEWH.Framework.RankSystem.Abilities>能力</BEWH.Framework.RankSystem.Abilities>
+  <!-- EN: Other Effects -->
+  <BEWH.Framework.RankSystem.OtherEffects>其他效果</BEWH.Framework.RankSystem.OtherEffects>
+  <!-- EN: Unlock rank -->
+  <BEWH.Framework.RankSystem.UnlockRank>解锁军衔</BEWH.Framework.RankSystem.UnlockRank>
+
+  <!-- EN: Relevant ranks -->
+  <BEWH.Framework.RankSystem.StatsReport_Rank>相关军衔</BEWH.Framework.RankSystem.StatsReport_Rank>
+
+  <!-- EN: All of the following skills -->
+  <BEWH.Framework.RankSystem.RequirementsSkills>以下所有技能</BEWH.Framework.RankSystem.RequirementsSkills>
+  <!-- EN: All of the following ranks -->
+  <BEWH.Framework.RankSystem.RequirementsRanks>以下所有军衔</BEWH.Framework.RankSystem.RequirementsRanks>
+
+  <!-- EN: All of the following traits -->
+  <BEWH.Framework.RankSystem.RequirementsTraitAll>以下所有特性</BEWH.Framework.RankSystem.RequirementsTraitAll>
+  <!-- EN: At least one of the following traits -->
+  <BEWH.Framework.RankSystem.RequirementsTraitAtLeastOne>以下至少一项特性</BEWH.Framework.RankSystem.RequirementsTraitAtLeastOne>
+
+  <!-- EN: All of the following genes -->
+  <BEWH.Framework.RankSystem.RequirementsGeneAll>以下所有基因</BEWH.Framework.RankSystem.RequirementsGeneAll>
+  <!-- EN: At least one of the following genes -->
+  <BEWH.Framework.RankSystem.RequirementsGeneAtLeastOne>以下至少一项基因</BEWH.Framework.RankSystem.RequirementsGeneAtLeastOne>
+
+  <!-- EN: Are you sure you want {0} to unlock the rank {1}? -->
+  <BEWH.Framework.RankSystem.UnlockRankConfirm>你确定想要{0}解锁{1}军衔吗？</BEWH.Framework.RankSystem.UnlockRankConfirm>
+
+  <!-- "Every{2} colonist" from the text below is on purpose and should stay as so -->
+  <!-- EN: Only {0} may have this rank at a time. \nEvery{2} colonist will increase this limit by 1. Currently {1} exists. -->
+  <BEWH.Framework.RankSystem.RequirementsLimit>同时只有{0}名殖民者可获得该军衔。\n每有{2}个殖民者都会将此上限+1。目前存在{1}人。</BEWH.Framework.RankSystem.RequirementsLimit>
+  <!-- EN: Only {0} may ever have this rank. Currently {1} exists. -->
+  <BEWH.Framework.RankSystem.RequirementsLimitOnlyOneEver>仅有{0}人可获得该军衔。目前存在{1}人。</BEWH.Framework.RankSystem.RequirementsLimitOnlyOneEver>
+
+  <!-- EN: Must have been a {0} for at least {1} days -->
+  <BEWH.Framework.RankSystem.HaveBeenRankForDays>必须至少保持{0}的军衔{1}天。</BEWH.Framework.RankSystem.HaveBeenRankForDays>
+  <!-- EN: Must have achieved the rank of {0} -->
+  <BEWH.Framework.RankSystem.HaveAchievedRank>必须达到{0}的军衔</BEWH.Framework.RankSystem.HaveAchievedRank>
+
+  <!-- EN: Incompatible with the following ranks -->
+  <BEWH.Framework.RankSystem.IncompatibleRank>与以下军衔相冲突</BEWH.Framework.RankSystem.IncompatibleRank>
+
+  <!-- EN: {0} incapable of obtaining ranks -->
+  <BEWH.Framework.RankSystem.DoesNotHaveRank>{0}无法获得军衔</BEWH.Framework.RankSystem.DoesNotHaveRank>
+  <!-- EN: {0} does not have any ranks -->
+  <BEWH.Framework.RankSystem.NoUnlockedRanks>{0}没有任何军衔</BEWH.Framework.RankSystem.NoUnlockedRanks>
+  <!-- EN: {0} does not have any ranks of category {1} -->
+  <BEWH.Framework.RankSystem.NoUnlockedRanksOfCategory>{0}没有任何{1}类别的军衔</BEWH.Framework.RankSystem.NoUnlockedRanksOfCategory>
+  <!-- EN: {0} rank is too high to reset -->
+  <BEWH.Framework.RankSystem.RankTooHigh>{0}排名过高，无法重置。</BEWH.Framework.RankSystem.RankTooHigh>
+
+  <!--=== Changeable Ammo ===-->
+  <!-- EN: Ammo type: {0}\nClick to change. -->
+  <BEWH.Framework.AmmoChanger.GizmoInfo>弹药类型：{0}\n点击更改。</BEWH.Framework.AmmoChanger.GizmoInfo>
+  <!-- EN: Currently equipped. -->
+  <BEWH.Framework.AmmoChanger.CurrentlyEquipped>当前装备。</BEWH.Framework.AmmoChanger.CurrentlyEquipped>
+  <!-- EN: Missing research: {0} -->
+  <BEWH.Framework.AmmoChanger.MissingResearch>需要研究：{0}</BEWH.Framework.AmmoChanger.MissingResearch>
+
+  <!--=== Misc ===-->
+  <!-- Unbreakable -->
+  <!-- EN: Unbreakable Loyalty -->
+  <BEWH.Framework.Unbreakable.CannotRecruitLetter>忠诚不灭的囚犯</BEWH.Framework.Unbreakable.CannotRecruitLetter>
+  <!-- EN: {1} tried to recruit {0}, but {0}'s unbreakable loyalty to their faction made them resist all attempts.\n\n{0} cannot be recruited. -->
+  <BEWH.Framework.Unbreakable.CannotRecruitMessage>{1}尝试招募{0}，但{0}对其派系忠诚不灭，不为所动。\n\n{0}无法被招募。</BEWH.Framework.Unbreakable.CannotRecruitMessage>
+  <!-- EN: {1} tried to enslave {0}, but {0}'s unbreakable loyalty to their faction made them resist all attempts.\n\n{0} cannot be enslaved. -->
+  <BEWH.Framework.Unbreakable.CannotEnslaveMessage>{1}尝试奴役{0}，但{0}对其派系忠诚不灭，不为所动。\n\n{0}无法被奴役。</BEWH.Framework.Unbreakable.CannotEnslaveMessage>
+
+  <!-- Placement Limit -->
+  <!-- EN: You may only place one {0} per map. -->
+  <BEWH.Framework.PlacementLimit.OnlyOneBuildingAllowedPerMap>每个殖民地你只能放置一个{0}。</BEWH.Framework.PlacementLimit.OnlyOneBuildingAllowedPerMap>
+
+  <!-- Comp-->
+  <!-- EN: {0} does not have the {1} gene -->
+  <BEWH.Framework.Comp.PawnDoesNotHaveRequiredGene>{0}没有{1}基因</BEWH.Framework.Comp.PawnDoesNotHaveRequiredGene>
+
+</LanguageData>

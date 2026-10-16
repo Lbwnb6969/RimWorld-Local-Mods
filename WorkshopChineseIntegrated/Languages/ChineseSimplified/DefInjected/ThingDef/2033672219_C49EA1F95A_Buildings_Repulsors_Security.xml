@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: large repulsor -->
+  <VFES_LargeRepulsor.label>大型斥力护盾发生器</VFES_LargeRepulsor.label>
+  <!-- EN: A large, ultratech device that projects an extremely vast energy field around itself to protect everything inside, but consumes a huge amount of power when active. Works through walls.\n\nRepulsors only activate when there's an active threat present such as a raid or an artillery bombardment. Otherwise, they stay in an inactive state and consume much less power.\n\nCan set surrounding area on fire if enough damage is absorbed in a short period of time. -->
+  <VFES_LargeRepulsor.description>一台大型极致科技装置，能产生大范围的动能排斥场，保护内部的一切不受伤害，但处于激活状态时会消耗巨量电力。效果可以穿墙。\n\n斥力护盾发生器只会在有明确威胁的情况下激活，例如一场袭击或是远程火炮轰炸。在此情况之外，它将保持在一个低耗的休眠状态。\n\n如果动能排斥场在短时间内承受了足够多的伤害，则会使周围的地面着火。</VFES_LargeRepulsor.description>
+  
+  <!-- EN: small repulsor -->
+  <VFES_SmallRepulsor.label>小型斥力护盾发生器</VFES_SmallRepulsor.label>
+  <!-- EN: An ultratech device that projects a potent energy field around itself to protect everything inside, but consumes a huge amount of power when active. Works through walls.\n\nRepulsors only activate when there's an active threat present such as a raid or an artillery bombardment. Otherwise, they stay in an inactive state and consume much less power.\n\nCan set surrounding area on fire if enough damage is absorbed in a short period of time. -->
+  <VFES_SmallRepulsor.description>一台极致科技装置，能产生小范围的动能排斥场，保护内部的一切不受伤害，但处于激活状态时会消耗巨量电力。效果可以穿墙。\n\n斥力护盾发生器只会在有明确威胁的情况下激活，例如一场袭击或是远程火炮轰炸。在此情况之外，它将保持在一个低耗的休眠状态。\n\n如果动能排斥场在短时间内承受了足够多的伤害，则会使周围的地面着火。</VFES_SmallRepulsor.description>
+  
+</LanguageData>

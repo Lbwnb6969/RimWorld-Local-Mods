@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AP_Prefab_Castle_ThroneRoom.description>带有宏伟宝座、火盆、竖琴、大键琴和16个访客用餐位的典雅谒见厅。最高可满足“伯爵”头衔。</AP_Prefab_Castle_ThroneRoom.description>
+
+  <AP_Prefab_ThroneRank4.label>男爵谒见厅</AP_Prefab_ThroneRank4.label>
+  <AP_Prefab_ThroneRank4.description>带有宏伟宝座、火盆和大键琴的谒见厅。最高可满足“男爵”头衔。</AP_Prefab_ThroneRank4.description>
+  <AP_Prefab_ThroneRank4.shortLabel>男爵谒见厅</AP_Prefab_ThroneRank4.shortLabel>
+
+  <AP_Prefab_ThroneRank5.label>伯爵谒见厅</AP_Prefab_ThroneRank5.label>
+  <AP_Prefab_ThroneRank5.description>带有宏伟宝座、火盆和钢琴的谒见厅。最高可满足“伯爵”头衔。</AP_Prefab_ThroneRank5.description>
+  <AP_Prefab_ThroneRank5.shortLabel>伯爵谒见厅</AP_Prefab_ThroneRank5.shortLabel>
+
+  <AP_Prefab_ThroneRank6.label>大伯爵谒见厅</AP_Prefab_ThroneRank6.label>
+  <AP_Prefab_ThroneRank6.description>带有宏伟宝座、火盆、钢琴和无餐位宏伟大桌的谒见厅。最高可满足“大伯爵”头衔。</AP_Prefab_ThroneRank6.description>
+  <AP_Prefab_ThroneRank6.shortLabel>大伯爵谒见厅</AP_Prefab_ThroneRank6.shortLabel>
+
+  <AP_Prefab_ThroneRank7.label>侯爵谒见厅</AP_Prefab_ThroneRank7.label>
+  <AP_Prefab_ThroneRank7.description>带有宏伟宝座、火盆、钢琴和无餐位宏伟大桌的谒见厅。最高可满足“侯爵”头衔。</AP_Prefab_ThroneRank7.description>
+  <AP_Prefab_ThroneRank7.shortLabel>侯爵谒见厅</AP_Prefab_ThroneRank7.shortLabel>
+
+  <AP_Prefab_ThroneRank8.label>公爵谒见厅</AP_Prefab_ThroneRank8.label>
+  <AP_Prefab_ThroneRank8.description>带有宏伟宝座、火盆、钢琴和1个访客用餐位的谒见厅。最高可满足“公爵”头衔。</AP_Prefab_ThroneRank8.description>
+  <AP_Prefab_ThroneRank8.shortLabel>公爵谒见厅</AP_Prefab_ThroneRank8.shortLabel>
+  
+ 
+</LanguageData>

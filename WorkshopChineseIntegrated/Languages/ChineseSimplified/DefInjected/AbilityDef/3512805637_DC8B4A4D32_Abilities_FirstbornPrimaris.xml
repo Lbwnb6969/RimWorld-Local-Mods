@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Revitaliser -->
+  <BEWH_BelisarianFurnaceBoost.label>兴奋剂</BEWH_BelisarianFurnaceBoost.label>
+  <!-- EN: Carriers of the Belisarian Furnace can produce a hyper-cocktail of self-synthesized chemicals that accelerates the regrowth of tissue, bone, and muscle. -->
+  <BEWH_BelisarianFurnaceBoost.description>贝利撒留熔炉的携带者可以产生一种强大的自合成药剂，有助于组织、骨骼和肌肉的快速再生。</BEWH_BelisarianFurnaceBoost.description>
+  
+  <!-- EN: Betcher's spit -->
+  <BEWH_BetchersSpit.label>蚀刻腺体</BEWH_BetchersSpit.label>
+  <!-- EN: Carriers of the Betcher's Gland can turn their saliva into a corrosive, blinding acid when consciously triggered. -->
+  <BEWH_BetchersSpit.description>在蚀刻腺体的携带者的意识操控下，其唾液会变成腐蚀性、令人眩晕的酸液。</BEWH_BetchersSpit.description>
+  
+  <!-- EN: Unsleeping -->
+  <BEWH_CatalepseanNodeUnsleeping.label>不眠不休</BEWH_CatalepseanNodeUnsleeping.label>
+  <!-- EN: Carriers of the Catalepsean Node can consciously "switch off" sections of the brain sequentially, while remaining awake and alert. -->
+  <BEWH_CatalepseanNodeUnsleeping.description>此人的大脑通过循环按序关闭不同的区域进行休息，让部分区域进行休息，而其他区域保持清醒。</BEWH_CatalepseanNodeUnsleeping.description>
+  
+  <!-- EN: Remembrance -->
+  <BEWH_OmophageaCorpseEat.label>基因侦测</BEWH_OmophageaCorpseEat.label>
+  <!-- EN: Carriers of the Omophagea can consume dead pawns to absorb fragments of their knowledge. -->
+  <BEWH_OmophageaCorpseEat.description>基因侦测神经的携带者可以吞噬死去的生物来吸取他们的知识。</BEWH_OmophageaCorpseEat.description>
+  
+  <!-- EN: Stasis -->
+  <BEWH_SusAnMembraneStasis.label>停滞</BEWH_SusAnMembraneStasis.label>
+  <!-- EN: Carriers of the Sus-an Membrane can enter a state of suspended animation, keeping the them alive for years, even if they has suffered otherwise mortal wounds. -->
+  <BEWH_SusAnMembraneStasis.description>Sus-an脑膜的携带者可以进入“假死”的停滞状态。即使携带者遭受了致命伤害，也能继续存活数年。</BEWH_SusAnMembraneStasis.description>
+  
+</LanguageData>

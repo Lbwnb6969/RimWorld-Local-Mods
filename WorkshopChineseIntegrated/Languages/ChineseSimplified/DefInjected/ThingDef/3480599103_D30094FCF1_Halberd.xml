@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: halberd -->
+  <TA_Halberd.label>戟</TA_Halberd.label>
+  <!-- EN: . -->
+  <TA_Halberd.description>结合矛和斧功能的长柄武器，适合对抗骑兵。</TA_Halberd.description>
+  <!-- EN: shaft -->
+  <TA_Halberd.tools.shaft.label>柄</TA_Halberd.tools.shaft.label>
+  <!-- EN: edge -->
+  <TA_Halberd.tools.edge.label>刃</TA_Halberd.tools.edge.label>
+  <!-- EN: point -->
+  <TA_Halberd.tools.point.label>尖</TA_Halberd.tools.point.label>
+  
+</LanguageData>

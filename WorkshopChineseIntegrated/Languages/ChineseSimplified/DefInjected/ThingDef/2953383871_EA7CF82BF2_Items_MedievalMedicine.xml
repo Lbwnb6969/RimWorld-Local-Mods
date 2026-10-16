@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medicine -->
+
+  <MedicineEarlyMedievalMM.label>中世纪前期医疗包</MedicineEarlyMedievalMM.label>
+  <MedicineEarlyMedievalMM.description>一个简易医药盒，里面装着各种草药、酊剂、钻孔工具以及清洁布条。</MedicineEarlyMedievalMM.description>
+
+  <MedicineLateMedievalMM.label>中世纪后期医疗包</MedicineLateMedievalMM.label>
+  <MedicineLateMedievalMM.description>一个医疗包，里面装着各种草药、酊剂、一本医学手稿、酒精浸泡过的绷带，以及各种切割和释放压力的复杂工具。</MedicineLateMedievalMM.description>
+
+  <MedicineParesianMM.label>帕雷的医疗包</MedicineParesianMM.label>
+  <MedicineParesianMM.description>一个令人难以置信的先进的医疗用品包，里面装着消毒绷带、化学品和草药的混合物、用于缝合、切割和钻孔的复杂工具、一份详细的人体解剖学手册，也许还掺杂着一丝魔法。</MedicineParesianMM.description>
+
+
+</LanguageData>

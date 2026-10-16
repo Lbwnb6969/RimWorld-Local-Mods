@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construct slag chunk -->
+  <VR_ChunkConstructSlag.label>构装体炉渣块</VR_ChunkConstructSlag.label>
+  <!-- EN: The remains of a smashed construct. While useless in its current form, it can be smelted to recover steel. -->
+  <VR_ChunkConstructSlag.description>被砸碎的构装体残骸。虽然目前无用，但可熔炼以回收钢材。</VR_ChunkConstructSlag.description>
+  
+  <!-- EN: great steam lift -->
+  <VR_Construct_Lift.label>大型蒸汽升降机</VR_Construct_Lift.label>
+  <!-- EN: A steam-powered lift used by forges to deliver constructs into battle. -->
+  <VR_Construct_Lift.description>锻炉使用的蒸汽动力升降机，用于将构装体送入战斗。</VR_Construct_Lift.description>
+  
+</LanguageData>

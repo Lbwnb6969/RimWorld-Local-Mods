@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: <color=#2C82FF>Talent: Armourer</color> -->
+  <RT_TalentArmourer.degreeDatas.color2C82FFTalent_Armourercolor.label>&lt;color=#2C82FF>军械师&lt;/color></RT_TalentArmourer.degreeDatas.color2C82FFTalent_Armourercolor.label>
+  <!-- EN: [PAWN_nameDef] considers it a sacred duty to produce the highest quality weapons and apparels possible to contribute to the defense of [PAWN_possessive] homeland. -->
+  <RT_TalentArmourer.degreeDatas.color2C82FFTalent_Armourercolor.description>[PAWN_nameDef]认为生产尽可能高质量的武器和服装，为保卫[PAWN_possessive]殖民地做出贡献是神圣的职责。</RT_TalentArmourer.degreeDatas.color2C82FFTalent_Armourercolor.description>
+  
+  <!-- EN: <color=#2C82FF>Talent: Cook</color> -->
+  <RT_TalentCook.degreeDatas.color2C82FFTalent_Cookcolor.label>&lt;color=#2C82FF>厨师&lt;/color></RT_TalentCook.degreeDatas.color2C82FFTalent_Cookcolor.label>
+  <!-- EN: [PAWN_nameDef] loves making food. Mmmmm... -->
+  <RT_TalentCook.degreeDatas.color2C82FFTalent_Cookcolor.description>[PAWN_nameDef]喜欢做饭。嗯！…</RT_TalentCook.degreeDatas.color2C82FFTalent_Cookcolor.description>
+  
+  <!-- EN: <color=#2C82FF>Talent: Engineer</color> -->
+  <RT_TalentEngineer.degreeDatas.color2C82FFTalent_Engineercolor.label>&lt;color=#2C82FF>工程师&lt;/color></RT_TalentEngineer.degreeDatas.color2C82FFTalent_Engineercolor.label>
+  <!-- EN: [PAWN_nameDef] is an expert at building things. Very few construction works are a challenge to [PAWN_pronoun]. -->
+  <RT_TalentEngineer.degreeDatas.color2C82FFTalent_Engineercolor.description>[PAWN_nameDef]是建筑行业的专家。很少有建筑工程对[PAWN_pronoun]来说是个挑战。</RT_TalentEngineer.degreeDatas.color2C82FFTalent_Engineercolor.description>
+  
+  <!-- EN: <color=#2C82FF>Talent: Fletcher</color> -->
+  <RT_TalentFletcher.degreeDatas.color2C82FFTalent_Fletchercolor.label>&lt;color=#2C82FF>造箭师&lt;/color></RT_TalentFletcher.degreeDatas.color2C82FFTalent_Fletchercolor.label>
+  <!-- EN: [PAWN_nameDef] is adept at archery, but unlike many others [PAWN_pronoun] is also relatively competent in craftsmanship. -->
+  <RT_TalentFletcher.degreeDatas.color2C82FFTalent_Fletchercolor.description>[PAWN_nameDef]擅长射箭，但与许多人不同，[PAWN_pronoun]在手工艺方面也能得心应手。</RT_TalentFletcher.degreeDatas.color2C82FFTalent_Fletchercolor.description>
+  
+  <!-- EN: <color=#2C82FF>Talent: Herbalist</color> -->
+  <RT_TalentHerbalist.degreeDatas.color2C82FFTalent_Herbalistcolor.label>&lt;color=#2C82FF>草药师&lt;/color></RT_TalentHerbalist.degreeDatas.color2C82FFTalent_Herbalistcolor.label>
+  <!-- EN: [PAWN_nameDef] has a wide range of botanical knowledge and decent medical skills. -->
+  <RT_TalentHerbalist.degreeDatas.color2C82FFTalent_Herbalistcolor.description>[PAWN_nameDef]有广泛的植物学知识和不错的医术。</RT_TalentHerbalist.degreeDatas.color2C82FFTalent_Herbalistcolor.description>
+  
+  <!-- EN: <color=#2C82FF>Talent: Hunter</color> -->
+  <RT_TalentHunter.degreeDatas.color2C82FFTalent_Huntercolor.label>&lt;color=#2C82FF>猎户&lt;/color></RT_TalentHunter.degreeDatas.color2C82FFTalent_Huntercolor.label>
+  <!-- EN: [PAWN_nameDef] is skilled at interacting with and hunting animals. Although not trained for battle, [PAWN_pronoun] could put up a good fight if needed. -->
+  <RT_TalentHunter.degreeDatas.color2C82FFTalent_Huntercolor.description>[PAWN_nameDef]擅长与动物互动和狩猎。虽然没有受过战斗训练，但如果需要，[PAWN_pronoun]同样可以出色完成。</RT_TalentHunter.degreeDatas.color2C82FFTalent_Huntercolor.description>
+  
+  <!-- EN: <color=#2C82FF>Talent: Veterinarian</color> -->
+  <RT_TalentVeterinarian.degreeDatas.color2C82FFTalent_Veterinariancolor.label>&lt;color=#2C82FF>兽医&lt;/color></RT_TalentVeterinarian.degreeDatas.color2C82FFTalent_Veterinariancolor.label>
+  <!-- EN: [PAWN_nameDef] loves working with and caring for animals, [PAWN_pronoun] could never leave an injured animal to die. -->
+  <RT_TalentVeterinarian.degreeDatas.color2C82FFTalent_Veterinariancolor.description>[PAWN_nameDef]喜欢与动物打交道和照顾动物，[PAWN_pronoun]绝不可能干看着受伤的动物死去。</RT_TalentVeterinarian.degreeDatas.color2C82FFTalent_Veterinariancolor.description>
+  
+  <!-- EN: <color=#2C82FF>Talent: Weapons Master</color> -->
+  <RT_TalentWeaponsMaster.degreeDatas.color2C82FFTalent_Weapons_Mastercolor.label>&lt;color=#2C82FF>武器大师&lt;/color></RT_TalentWeaponsMaster.degreeDatas.color2C82FFTalent_Weapons_Mastercolor.label>
+  <!-- EN: [PAWN_nameDef] is excellent at wielding all weapons. [PAWN_pronoun] could even kill using [PAWN_possessive] little finger. -->
+  <RT_TalentWeaponsMaster.degreeDatas.color2C82FFTalent_Weapons_Mastercolor.description>[PAWN_nameDef]擅长挥舞一切武器。[PAWN_pronoun]甚至可以用[PAWN_possessive]小拇指杀人。</RT_TalentWeaponsMaster.degreeDatas.color2C82FFTalent_Weapons_Mastercolor.description>
+  
+</LanguageData>

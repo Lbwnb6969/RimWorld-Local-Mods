@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alchemy -->
+  <VFEM2_Alchemy.label>炼金术</VFEM2_Alchemy.label>
+  <!-- EN: Learn to plant various alchemical ingredients and combining them into different draughts at an alchemy lab. -->
+  <VFEM2_Alchemy.description>学习种植多种炼金材料，并在灵药炼金台将它们炼制成灵药。</VFEM2_Alchemy.description>
+  <!-- EN:
+    <li>subject->alchemical studies</li>
+    <li>subject_story->unlocked the mysteries of transmutation and concocted potent elixirs</li>
+    <li>subject_story->discovered a rare herb, rumored to grant eternal youth</li>
+    <li>subject_story->became a feared poisoner, selling deadly brews to the highest bidder</li>
+    <li>subject_gerund->brewing alchemical draughts</li>
+  -->
+  <VFEM2_Alchemy.generalRules.rulesStrings>
+    <li>subject->炼金理论</li>
+    <li>subject_story->揭开了物质嬗变的神秘面纱，从而调制出强效的灵药</li>
+    <li>subject_story->发现了一种稀有的药草，传说它能让人永生</li>
+    <li>subject_story->成为了一名令人惧怕的毒师，向出价最高者出售致命的毒药</li>
+    <li>subject_gerund->炼制灵药</li>
+  </VFEM2_Alchemy.generalRules.rulesStrings>
+  
+  <!-- EN: beekeeping -->
+  <VFEM2_Beekeeping.label>养蜂</VFEM2_Beekeeping.label>
+  <!-- EN: Learn how to keep bees to produce honey from nearby plants. Honey can be used in creation of sweetrolls and mead. -->
+  <VFEM2_Beekeeping.description>学习如何养蜂以生产蜂蜜。蜂蜜可以用于制作甜卷和蜜酒。</VFEM2_Beekeeping.description>
+  <!-- EN:
+    <li>subject->apiculture</li>
+    <li>subject_story->studied the intricate social structures of bees</li>
+    <li>subject_story->cultivated vast apiaries, supplying nobles with the finest honey</li>
+    <li>subject_story->perfected the art of mead-making, becoming a renowned brewer</li>
+    <li>subject_gerund->tending to beehives</li>
+  -->
+  <VFEM2_Beekeeping.generalRules.rulesStrings>
+    <li>subject->养蜂文化</li>
+    <li>subject_story->研究了蜜蜂奇特的社会结构</li>
+    <li>subject_story->建造了广大的养蜂场，给贵族提供最精致的蜂蜜。</li>
+    <li>subject_story->完善了蜜酒的技术，成为了远近闻名的酿酒师</li>
+    <li>subject_gerund->照料蜂巢</li>
+  </VFEM2_Beekeeping.generalRules.rulesStrings>
+  
+  <!-- EN: complex workshops -->
+  <VFEM2_ComplexWorkshops.label>复杂工具</VFEM2_ComplexWorkshops.label>
+  <!-- EN: Learn to build various tools and devices to enhance the productivity of the workbenches. -->
+  <VFEM2_ComplexWorkshops.description>学习制造多种生产工具和器械，可以提升各自工作台的生产效率。</VFEM2_ComplexWorkshops.description>
+  <!-- EN:
+    <li>subject->advanced craftsmanship</li>
+    <li>subject_story->refined blacksmithing techniques, crafting tools of unmatched quality</li>
+    <li>subject_story->introduced mechanical innovations that revolutionized production</li>
+    <li>subject_story->formed a powerful guild, controlling the flow of masterwork goods</li>
+    <li>subject_gerund->improving workshop efficiency</li>
+  -->
+  <VFEM2_ComplexWorkshops.generalRules.rulesStrings>
+    <li>subject->先进手工业</li>
+    <li>subject_story->改进了铁匠技艺，制造出了无人可比的优秀工具</li>
+    <li>subject_story->引入了创新的器械，让生产力大幅提升</li>
+    <li>subject_story->成立了一家匠人行会，垄断了高质量商品的流向</li>
+    <li>subject_gerund->提升工作台效率</li>
+  </VFEM2_ComplexWorkshops.generalRules.rulesStrings>
+  
+  <!-- EN: heraldry -->
+  <VFEM2_Heraldry.label>纹章学</VFEM2_Heraldry.label>
+  <!-- EN: Adorn the colors of your faction and construct decorative banners and heraldic rugs. -->
+  <VFEM2_Heraldry.description>设计你派系的专属主题色和纹章图样。</VFEM2_Heraldry.description>
+  <!-- EN:
+    <li>subject->heraldic traditions</li>
+    <li>subject_story->designed banners that struck fear or awe into the hearts of foes</li>
+    <li>subject_story->crafted family crests, immortalizing legacies in fabric and stone</li>
+    <li>subject_story->led the creation of a grand hall adorned with noble insignia</li>
+    <li>subject_gerund->designing heraldic symbols</li>
+  -->
+  <VFEM2_Heraldry.generalRules.rulesStrings>
+    <li>subject->传统纹章学</li>
+    <li>subject_story->设计了让敌人望风而逃的旗帜</li>
+    <li>subject_story->制作出了家族纹章，用布料和石头将它铭刻在历史上</li>
+    <li>subject_story->建造了一间用来陈设各个贵族徽章的大厅</li>
+    <li>subject_gerund->设计纹章图案</li>
+  </VFEM2_Heraldry.generalRules.rulesStrings>
+  
+  <!-- EN: matchlocks -->
+  <VFEM2_Matchlocks.label>火绳机</VFEM2_Matchlocks.label>
+  <!-- EN: Craft ancient, chempowder operated ranged weapons that utilise the matchlock mechanics, such as arquebuses and hand cannons. -->
+  <VFEM2_Matchlocks.description>制作历史悠久的旧式火绳枪。</VFEM2_Matchlocks.description>
+  <!-- EN:
+    <li>subject->early firearms</li>
+    <li>subject_story->perfected the art of matchlock guns, bringing an age of gunpowder warfare</li>
+    <li>subject_story->supplied mercenaries with devastating ranged weaponry</li>
+    <li>subject_story->unleashed fire and thunder on the battlefield, changing warfare forever</li>
+    <li>subject_gerund->crafting matchlock firearms</li>
+  -->
+  <VFEM2_Matchlocks.generalRules.rulesStrings>
+    <li>subject->早期火器</li>
+    <li>subject_story->完善了火绳枪的设计，开启了火药时代的黎明</li>
+    <li>subject_story->给雇佣兵制作了一批威力强大的火器</li>
+    <li>subject_story->将火与雷的力量带到了战场上</li>
+    <li>subject_gerund->制作火绳枪</li>
+  </VFEM2_Matchlocks.generalRules.rulesStrings>
+  
+  <!-- EN: medieval architecture -->
+  <VFEM2_MedievalArchitecture.label>中世纪建筑学</VFEM2_MedievalArchitecture.label>
+  <!-- EN: Learn to construct various medieval structures, including cloth walls. -->
+  <VFEM2_MedievalArchitecture.description>学习建造多种中世纪建筑。</VFEM2_MedievalArchitecture.description>
+  <!-- EN:
+    <li>subject->medieval construction</li>
+    <li>subject_story->oversaw the construction of towering castles and bustling townships</li>
+    <li>subject_story->engineered grand cathedrals, marvels of medieval craftsmanship</li>
+    <li>subject_story->developed secret passages and fortifications for clandestine schemes</li>
+    <li>subject_gerund->designing medieval structures</li>
+  -->
+  <VFEM2_MedievalArchitecture.generalRules.rulesStrings>
+    <li>subject->中世纪建筑</li>
+    <li>subject_story->负责了多个城堡的建造工程</li>
+    <li>subject_story->主持设计了一间大教堂，震惊了整个工匠界</li>
+    <li>subject_story->在要塞中设计了一条无人知晓的密道</li>
+    <li>subject_gerund->设计中世纪结构</li>
+  </VFEM2_MedievalArchitecture.generalRules.rulesStrings>
+  
+  <!-- EN: wine -->
+  <VFEM2_Wine.label>葡萄酒</VFEM2_Wine.label>
+  <!-- EN: Plant grapes which can then be used to create wine must and eventually, high quality wine. -->
+  <VFEM2_Wine.description>种植葡萄，可以将其酿造成高档的葡萄酒。</VFEM2_Wine.description>
+  <!-- EN:
+    <li>subject->viniculture</li>
+    <li>subject_story->established a flourishing vineyard on the sun-kissed slopes</li>
+    <li>subject_story->experimented with fermentation techniques, crafting exquisite vintages</li>
+    <li>subject_story->became infamous for a revelry-fueled dynasty of wine merchants</li>
+    <li>subject_gerund->cultivating grapes and fermenting wine</li>
+  -->
+  <VFEM2_Wine.generalRules.rulesStrings>
+    <li>subject->品酒文化</li>
+    <li>subject_story->在山坡的向阳面建造了繁荣的葡萄园</li>
+    <li>subject_story->实验了多种发酵工艺，最终酿出上佳之品</li>
+    <li>subject_story->成立了臭名昭著的酒商王朝</li>
+    <li>subject_gerund->种植葡萄和酿造葡萄酒</li>
+  </VFEM2_Wine.generalRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mechacker -->
+  <VME_IdeoRole_Mechacker.label>机械黑客</VME_IdeoRole_Mechacker.label>
+  <!-- EN: A brilliant engineer capable of assembling mechanoid effigies. Unlike their lazy counterparts, Mechackers are willing to do all work types. All Mechackers possess the ability to overload and detonate turrets or hostile mechanoids, causing an explosion. -->
+  <VME_IdeoRole_Mechacker.description>一名能组装机械族雕像的杰出工程师。相比他怠惰的同行，机械黑客不会被禁用任何类型的工作。机械黑客拥有超载并引爆炮塔/机械族的能力。</VME_IdeoRole_Mechacker.description>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: trolls -->
+  <DA_Troll.label>巨魔</DA_Troll.label>
+  <!-- EN: Trolls -->
+  <DA_Troll.description>巨魔</DA_Troll.description>
+  <!-- EN: Trolls -->
+  <DA_Troll.fixedName>巨魔</DA_Troll.fixedName>
+  <!-- EN: leader -->
+  <DA_Troll.leaderTitle>领袖</DA_Troll.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <DA_Troll.messageDefendersAttacking>来自{1}的{0}正要攻击你的{2}。</DA_Troll.messageDefendersAttacking>
+  <!-- EN: troll -->
+  <DA_Troll.pawnSingular>巨魔</DA_Troll.pawnSingular>
+  <!-- EN: trolls -->
+  <DA_Troll.pawnsPlural>巨魔们</DA_Troll.pawnsPlural>
+  
+</LanguageData>

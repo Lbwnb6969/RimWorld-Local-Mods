@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_MakeCloth.label>将棉花纺成棉布</DankPyon_MakeCloth.label>
+  <DankPyon_MakeCloth.description>将原棉纺成棉布。</DankPyon_MakeCloth.description>
+  <DankPyon_MakeCloth.jobString>正在纺棉花。</DankPyon_MakeCloth.jobString>
+
+  <DankPyon_MakeClothBulk.label>将棉花纺成棉布 x50</DankPyon_MakeClothBulk.label>
+  <DankPyon_MakeClothBulk.description>将原棉纺成棉布。</DankPyon_MakeClothBulk.description>
+  <DankPyon_MakeClothBulk.jobString>正在纺棉花。</DankPyon_MakeClothBulk.jobString>
+
+  <DankPyon_MakeLinen.label>纺亚麻布</DankPyon_MakeLinen.label>
+  <DankPyon_MakeLinen.description>将亚麻原料纺成亚麻织物。</DankPyon_MakeLinen.description>
+  <DankPyon_MakeLinen.jobString>正在纺亚麻。</DankPyon_MakeLinen.jobString>
+
+  <DankPyon_MakeLinenBulk.label>纺亚麻布 x50</DankPyon_MakeLinenBulk.label>
+  <DankPyon_MakeLinenBulk.description>将亚麻原料纺成亚麻织物。</DankPyon_MakeLinenBulk.description>
+  <DankPyon_MakeLinenBulk.jobString>正在纺亚麻。</DankPyon_MakeLinenBulk.jobString>
+
+  <DankPyon_MakeClothFromWool.label>将动物毛线纺成棉布</DankPyon_MakeClothFromWool.label>
+  <DankPyon_MakeClothFromWool.description>将动物毛纺成棉布。</DankPyon_MakeClothFromWool.description>
+  <DankPyon_MakeClothFromWool.jobString>正在纺动物毛。</DankPyon_MakeClothFromWool.jobString>
+
+  <DankPyon_Make50ClothFromWool.label>将动物毛线纺成棉布 x50</DankPyon_Make50ClothFromWool.label>
+  <DankPyon_Make50ClothFromWool.description>将动物毛纺成棉布。</DankPyon_Make50ClothFromWool.description>
+  <DankPyon_Make50ClothFromWool.jobString>正在纺动物毛。</DankPyon_Make50ClothFromWool.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DV_ExtendedMemory.label>扩展内存</DV_ExtendedMemory.label>
+  <DV_ExtendedMemory.description>这种基因的携带者有着增强的颞叶。这允许他们能长期地记忆好事与坏事，使他们更容易记仇；这还普遍降低了他们的技能丧失率。</DV_ExtendedMemory.description>
+  <DV_ExtendedMemory.customEffectDescriptions.0>降低技能损失率并延长心情持续时间的 25%。</DV_ExtendedMemory.customEffectDescriptions.0>
+
+  <DV_NarrowMemory.label>缩小内存</DV_NarrowMemory.label>
+  <DV_NarrowMemory.description>这种基因的携带者有着萎缩的颞叶。这导致他们更难回想事件，使他们更容易忘记好事与坏事；这还普遍提高了他们的技能丧失率。</DV_NarrowMemory.description>
+  <DV_NarrowMemory.customEffectDescriptions.0>提高技能损失率并缩减心情持续时间的 25%。</DV_NarrowMemory.customEffectDescriptions.0>
+
+  <DV_BushyEyebrows.label>浓眉</DV_BushyEyebrows.label>
+  <DV_BushyEyebrows.description>这种基因的携带者有着浓密的眉毛。</DV_BushyEyebrows.description>
+
+  <DV_Stonecall.label>石嚎</DV_Stonecall.label>
+  <DV_Stonecall.description>这种基因的携带者在声带附近隐藏着一个特殊的器官，可以让他们发出响亮而鼓舞人心的石嚎声，以提高采矿和建筑速度。</DV_Stonecall.description>
+
+  <DV_MightyLiver.label>肝帝</DV_MightyLiver.label>
+  <DV_MightyLiver.description>这种基因的携带者有着异常坚硬是肝脏，那允许他们更好地过滤血液中的有毒素。这使他们对肝脏内部损伤（即肝硬化）具有免疫力。</DV_MightyLiver.description>
+  <DV_MightyLiver.customEffectDescriptions.0>对基本肝硬化免疫。</DV_MightyLiver.customEffectDescriptions.0>
+
+  <DV_LifespanLong.label>长寿</DV_LifespanLong.label>
+  <DV_LifespanLong.description>这种基因携带者有着衰老速度较慢并且功能丧失的时间也较晚的细胞，允许他们更长寿。</DV_LifespanLong.description>
+
+  <DV_Undergrounder.label>地底人</DV_Undergrounder.label>
+  <DV_Undergrounder.description>这种基因的携带者更习惯居住在洞穴和山下。</DV_Undergrounder.description>
+
+  <DV_Aggression_Irascible.label>暴躁</DV_Aggression_Irascible.label>
+  <DV_Aggression_Irascible.description>这种基因的携带者固执且势利。他们更容易无缘无故地开始打斗。</DV_Aggression_Irascible.description>
+
+  
+  <DV_SmallBuild.label>侏儒</DV_SmallBuild.label>
+  <DV_SmallBuild.description>这种基因的携带者患有侏儒症并且比大多数人矮小。</DV_SmallBuild.description>
+</LanguageData>

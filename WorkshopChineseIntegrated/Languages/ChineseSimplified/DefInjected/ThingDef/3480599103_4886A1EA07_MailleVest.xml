@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: maille vest -->
+  <TA_MailleVest.label>锁子甲背心</TA_MailleVest.label>
+  <!-- EN: Vest of maille covering the torso, worn over a gambeson it gives ok portection at significantly less cost than a full length hauberk -->
+  <TA_MailleVest.description>覆盖躯干的锁子甲背心，穿在棉甲外可提供不错的防护，成本远低于全身锁子甲。</TA_MailleVest.description>
+  
+</LanguageData>

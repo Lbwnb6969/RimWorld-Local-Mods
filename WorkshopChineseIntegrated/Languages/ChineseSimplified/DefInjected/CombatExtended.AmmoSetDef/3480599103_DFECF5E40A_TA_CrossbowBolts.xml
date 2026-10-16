@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crossbow bolts -->
+  <AmmoSet_CrossbowBoltComposite.label>复合弩箭</AmmoSet_CrossbowBoltComposite.label>
+  
+  <!-- EN: crossbow bolts -->
+  <AmmoSet_CrossbowBoltWeak.label>普通弩箭</AmmoSet_CrossbowBoltWeak.label>
+  
+</LanguageData>

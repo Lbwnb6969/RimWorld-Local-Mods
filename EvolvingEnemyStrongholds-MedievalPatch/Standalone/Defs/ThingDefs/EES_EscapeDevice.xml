@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ApparelLayerDef>
+    <defName>EES_ConcealedLayer</defName>
+    <label>은닉 장치</label>
+    <drawOrder>65</drawOrder>
+  </ApparelLayerDef>
+
+  <ThingDef ParentName="ApparelNoQualityBase">
+    <defName>EES_EscapeDevice</defName>
+    <label>긴급 탈출 장치</label>
+    <description>정찰/침투 중 도주에 실패하였을 경우에 자동으로 사용합니다. 아이템을 보유하고 있으면 포로/사망이 되는 경우를 반드시 막을 수 있으며, 부상은 발생할 수 있습니다. 이런 걸 어떻게 들고 다니냐고요? 뭐든지 방법이 있기 마련입니다.</description>
+    <thingClass>Apparel</thingClass>
+    <techLevel>Spacer</techLevel>
+    <tradeability>All</tradeability>
+    <smeltable>false</smeltable>
+    <burnableByRecipe>false</burnableByRecipe>
+    <generateCommonality>0</generateCommonality>
+    <graphicData>
+      <texPath>Things/Item/EES_EscapeDevice</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>2200</MarketValue>
+      <Mass>5.2</Mass>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+      <EquipDelay>1</EquipDelay>
+    </statBases>
+    <apparel>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <careIfDamaged>false</careIfDamaged>
+      <wearPerDay>0</wearPerDay>
+      <bodyPartGroups>
+        <li>Waist</li>
+      </bodyPartGroups>
+      <layers>
+        <li>EES_ConcealedLayer</li>
+      </layers>
+    </apparel>
+    <thingCategories>
+      <li>ApparelUtility</li>
+    </thingCategories>
+  </ThingDef>
+
+</Defs>

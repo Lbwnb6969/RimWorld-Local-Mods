@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Visual Effects -->
+  <RG_FXSettings.label>视觉效果</RG_FXSettings.label>
+  
+  <!-- EN: General -->
+  <RG_GeneralSettings.label>常规</RG_GeneralSettings.label>
+  
+  <!-- EN: Make camp options -->
+  <RG_MakeCamp.label>搭建营地设置</RG_MakeCamp.label>
+  
+  <!-- EN: Perspective ores toggles -->
+  <RG_PerspectiveOres.label>矿石贴图材质替换</RG_PerspectiveOres.label>
+  
+  <!-- EN: Textures -->
+  <RG_RetexturesSettings.label>贴图材质</RG_RetexturesSettings.label>
+  
+  <!-- EN: Scattered Flames -->
+  <RG_ScatteredFlames.label>跃动星火</RG_ScatteredFlames.label>
+  
+  <!-- EN: Smart farming -->
+  <RG_SmartFarming.label>智能农耕</RG_SmartFarming.label>
+  
+  <!-- EN: Weather toggles -->
+  <RG_WeatherSettings.label>天气开关</RG_WeatherSettings.label>
+  
+</LanguageData>

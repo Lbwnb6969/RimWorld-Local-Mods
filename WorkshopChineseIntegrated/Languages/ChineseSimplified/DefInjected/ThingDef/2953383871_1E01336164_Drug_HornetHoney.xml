@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_HornetHoney.label>大黄蜂蜂蜜</DankPyon_HornetHoney.label>
+  <DankPyon_HornetHoney.description>由大黄蜂分泌，一种带有致命般甜味的液体。食用它会导致痛觉神经麻木，但会增强其他反应力，提高近战和射击能力。</DankPyon_HornetHoney.description>
+  <DankPyon_HornetHoney.ingestible.ingestCommandString>食用{0}</DankPyon_HornetHoney.ingestible.ingestCommandString>
+  <DankPyon_HornetHoney.ingestible.ingestReportString>正在食用{0}。</DankPyon_HornetHoney.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="GW_Rulers_ValdorArmor"]/costList/DankPyon_Ruby</xpath>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <!-- Apply after the metal balances; paint-swap recipes keep their existing costs. -->
+        <!-- Emperor: body 60, shoulders 40, helmet 30, weapon 100 of each gem. -->
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_EmperorArmor" or defName="GW_Rulers_EmperorArmorW"]/costList/DankPyon_Ruby</xpath>
+          <value><DankPyon_Ruby>60</DankPyon_Ruby></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_EmperorArmor" or defName="GW_Rulers_EmperorArmorW"]/costList/DankPyon_Sapphire</xpath>
+          <value><DankPyon_Sapphire>60</DankPyon_Sapphire></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_EmperorArmor" or defName="GW_Rulers_EmperorArmorW"]/costList/DankPyon_Emerald</xpath>
+          <value><DankPyon_Emerald>60</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_EmperorArmor" or defName="Auto_GW_Rulers_EmperorArmorW"]/ingredients/li[filter/thingDefs/li="DankPyon_Ruby" or filter/thingDefs/li="DankPyon_Sapphire" or filter/thingDefs/li="DankPyon_Emerald"]/count</xpath>
+          <value><count>60</count></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_EmperorShoulder" or defName="GW_Rulers_EmperorShoulderW"]/costList/DankPyon_Ruby</xpath>
+          <value><DankPyon_Ruby>40</DankPyon_Ruby></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_EmperorShoulder" or defName="GW_Rulers_EmperorShoulderW"]/costList/DankPyon_Sapphire</xpath>
+          <value><DankPyon_Sapphire>40</DankPyon_Sapphire></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_EmperorShoulder" or defName="GW_Rulers_EmperorShoulderW"]/costList/DankPyon_Emerald</xpath>
+          <value><DankPyon_Emerald>40</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_EmperorShoulder" or defName="Auto_GW_Rulers_EmperorShoulderW"]/ingredients/li[filter/thingDefs/li="DankPyon_Ruby" or filter/thingDefs/li="DankPyon_Sapphire" or filter/thingDefs/li="DankPyon_Emerald"]/count</xpath>
+          <value><count>40</count></value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_EmperorHelmet" or defName="GW_Rulers_EmperorHelmetW"]/costList</xpath>
+          <value><DankPyon_Ruby>30</DankPyon_Ruby><DankPyon_Sapphire>30</DankPyon_Sapphire><DankPyon_Emerald>30</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_EmperorHelmet" or defName="Auto_GW_Rulers_EmperorHelmetW"]/ingredients</xpath>
+          <value>
+            <li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>30</count></li>
+            <li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>30</count></li>
+            <li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>30</count></li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_EmperorHelmet" or defName="Auto_GW_Rulers_EmperorHelmetW"]/fixedIngredientFilter/thingDefs</xpath>
+          <value><li>DankPyon_Ruby</li><li>DankPyon_Sapphire</li><li>DankPyon_Emerald</li></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_SM_Melee_EmperorClaw"]/costList/DankPyon_Ruby</xpath>
+          <value><DankPyon_Ruby>100</DankPyon_Ruby></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_SM_Melee_EmperorClaw"]/costList/DankPyon_Sapphire</xpath>
+          <value><DankPyon_Sapphire>100</DankPyon_Sapphire></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_SM_Melee_EmperorClaw"]/costList/DankPyon_Emerald</xpath>
+          <value><DankPyon_Emerald>100</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_SM_Melee_EmperorClaw"]/ingredients/li[filter/thingDefs/li="DankPyon_Ruby" or filter/thingDefs/li="DankPyon_Sapphire" or filter/thingDefs/li="DankPyon_Emerald"]/count</xpath>
+          <value><count>100</count></value>
+        </li>
+
+        <!-- Valdor: body 50, shoulders 30, helmet 25, weapon 80 of each gem. -->
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_ValdorArmor" or defName="GW_Rulers_ValdorArmorW"]/costList/DankPyon_Ruby</xpath>
+          <value><DankPyon_Ruby>50</DankPyon_Ruby></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_ValdorArmor" or defName="GW_Rulers_ValdorArmorW"]/costList/DankPyon_Sapphire</xpath>
+          <value><DankPyon_Sapphire>50</DankPyon_Sapphire></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_ValdorArmor" or defName="GW_Rulers_ValdorArmorW"]/costList/DankPyon_Emerald</xpath>
+          <value><DankPyon_Emerald>50</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_ValdorArmor" or defName="Auto_GW_Rulers_ValdorArmorW"]/ingredients/li[filter/thingDefs/li="DankPyon_Ruby" or filter/thingDefs/li="DankPyon_Sapphire" or filter/thingDefs/li="DankPyon_Emerald"]/count</xpath>
+          <value><count>50</count></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_ValdorShoulder" or defName="GW_Rulers_ValdorShoulderW"]/costList/DankPyon_Ruby</xpath>
+          <value><DankPyon_Ruby>30</DankPyon_Ruby></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_ValdorShoulder" or defName="GW_Rulers_ValdorShoulderW"]/costList/DankPyon_Sapphire</xpath>
+          <value><DankPyon_Sapphire>30</DankPyon_Sapphire></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_ValdorShoulder" or defName="GW_Rulers_ValdorShoulderW"]/costList/DankPyon_Emerald</xpath>
+          <value><DankPyon_Emerald>30</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_ValdorShoulder" or defName="Auto_GW_Rulers_ValdorShoulderW"]/ingredients/li[filter/thingDefs/li="DankPyon_Ruby" or filter/thingDefs/li="DankPyon_Sapphire" or filter/thingDefs/li="DankPyon_Emerald"]/count</xpath>
+          <value><count>30</count></value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_ValdorHelmet" or defName="GW_Rulers_ValdorHelmetW"]/costList</xpath>
+          <value><DankPyon_Ruby>25</DankPyon_Ruby><DankPyon_Sapphire>25</DankPyon_Sapphire><DankPyon_Emerald>25</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_ValdorHelmet" or defName="Auto_GW_Rulers_ValdorHelmetW"]/ingredients</xpath>
+          <value>
+            <li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>25</count></li>
+            <li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>25</count></li>
+            <li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>25</count></li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_ValdorHelmet" or defName="Auto_GW_Rulers_ValdorHelmetW"]/fixedIngredientFilter/thingDefs</xpath>
+          <value><li>DankPyon_Ruby</li><li>DankPyon_Sapphire</li><li>DankPyon_Emerald</li></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_SM_Melee_ValdorSpear"]/costList/DankPyon_Ruby</xpath>
+          <value><DankPyon_Ruby>80</DankPyon_Ruby></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_SM_Melee_ValdorSpear"]/costList/DankPyon_Sapphire</xpath>
+          <value><DankPyon_Sapphire>80</DankPyon_Sapphire></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_SM_Melee_ValdorSpear"]/costList/DankPyon_Emerald</xpath>
+          <value><DankPyon_Emerald>80</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_SM_Melee_ValdorSpear"]/ingredients/li[filter/thingDefs/li="DankPyon_Ruby" or filter/thingDefs/li="DankPyon_Sapphire" or filter/thingDefs/li="DankPyon_Emerald"]/count</xpath>
+          <value><count>80</count></value>
+        </li>
+
+        <!-- Malcador: robe 40, helmet 20, weapon 65 of each gem. -->
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_MalcadorOutfit"]/costList/DankPyon_Ruby</xpath>
+          <value><DankPyon_Ruby>40</DankPyon_Ruby></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_MalcadorOutfit"]/costList/DankPyon_Sapphire</xpath>
+          <value><DankPyon_Sapphire>40</DankPyon_Sapphire></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_MalcadorOutfit"]/costList/DankPyon_Emerald</xpath>
+          <value><DankPyon_Emerald>40</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_MalcadorOutfit"]/ingredients/li[filter/thingDefs/li="DankPyon_Ruby" or filter/thingDefs/li="DankPyon_Sapphire" or filter/thingDefs/li="DankPyon_Emerald"]/count</xpath>
+          <value><count>40</count></value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="GW_Rulers_MalcadorHelmet"]/costList</xpath>
+          <value><DankPyon_Ruby>20</DankPyon_Ruby><DankPyon_Sapphire>20</DankPyon_Sapphire><DankPyon_Emerald>20</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_MalcadorHelmet"]/ingredients</xpath>
+          <value>
+            <li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>20</count></li>
+            <li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>20</count></li>
+            <li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>20</count></li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_Rulers_MalcadorHelmet"]/fixedIngredientFilter/thingDefs</xpath>
+          <value><li>DankPyon_Ruby</li><li>DankPyon_Sapphire</li><li>DankPyon_Emerald</li></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_SM_Melee_MalcadorStaff"]/costList/DankPyon_Ruby</xpath>
+          <value><DankPyon_Ruby>65</DankPyon_Ruby></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_SM_Melee_MalcadorStaff"]/costList/DankPyon_Sapphire</xpath>
+          <value><DankPyon_Sapphire>65</DankPyon_Sapphire></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="GW_SM_Melee_MalcadorStaff"]/costList/DankPyon_Emerald</xpath>
+          <value><DankPyon_Emerald>65</DankPyon_Emerald></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RecipeDef[defName="Auto_GW_SM_Melee_MalcadorStaff"]/ingredients/li[filter/thingDefs/li="DankPyon_Ruby" or filter/thingDefs/li="DankPyon_Sapphire" or filter/thingDefs/li="DankPyon_Emerald"]/count</xpath>
+          <value><count>65</count></value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

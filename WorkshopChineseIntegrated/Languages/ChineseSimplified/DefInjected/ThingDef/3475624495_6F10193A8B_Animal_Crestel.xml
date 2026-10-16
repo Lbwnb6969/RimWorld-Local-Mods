@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crestel -->
+  <DA_Crestel.label>冠禽</DA_Crestel.label>
+  <!-- EN: One of the largest flightless birds, and the north's apex predator. The crestel is a fearsome beast that can completely paralyze unfortunate victims for a short duration with its venomous beak, rendering them helpless against its attacks. Despite their delicate look, the crestel's feathers are harder than stone, serving as natural armor.\n\nIts vicious nature and unusual appearance perpetuates numerous myths- legends of a beast capable of turning flesh to stone with its gaze. Some also believe the crestel to be a bad omen, a sign of the coming end, and the start of a new age. -->
+  <DA_Crestel.description>最大型的陆行鸟之一，北境的传奇捕猎者。冠禽是一种能在瞬时用其毒喙将受害者瘫痪的可怕野兽，使得他们在面对其攻击时手足无措。尽管看着华而不实，冠禽的羽毛实际上比石头还坚硬，能作为天然盔甲。\n\n其恶毒天性与出挑的外貌带来了无数传说——瞪一眼就能石化啦；看见它是大凶之兆啦；它是旧时代的终结与新时代的开始啦等等。</DA_Crestel.description>
+  <!-- EN: claws -->
+  <DA_Crestel.tools.claws.label>爪</DA_Crestel.tools.claws.label>
+  <!-- EN: beak -->
+  <DA_Crestel.tools.beak.label>喙</DA_Crestel.tools.beak.label>
+  <!-- EN: head -->
+  <DA_Crestel.tools.head.label>头</DA_Crestel.tools.head.label>
+  
+  <!-- EN: blue feathers -->
+  <DA_Filth_BlueFeathers.label>蓝羽毛</DA_Filth_BlueFeathers.label>
+  
+  <!-- EN: petrified egg (fert.) -->
+  <EggCrestelFertilized.label>石化蛋（已受精）</EggCrestelFertilized.label>
+  <!-- EN: A fertilized crestel egg. If all goes well, it should hatch into a crestel chick. It can be eaten raw, but it's much better cooked. -->
+  <EggCrestelFertilized.description>一枚已经受精的冠禽蛋。如果一切顺利，它能孵出小冠禽幼崽。能生食，但最好煮熟了吃。</EggCrestelFertilized.description>
+  
+  <!-- EN: petrified egg (unfert.) -->
+  <EggCrestelUnfertilized.label>石化蛋（未受精）</EggCrestelUnfertilized.label>
+  <!-- EN: A large crestel egg with a thick rocky shell that serves as a natural disguise. It can be eaten raw, but it's much, much better cooked. -->
+  <EggCrestelUnfertilized.description>一枚包裹着厚石质外壳作为伪装的冠禽蛋。能生食，但最好煮熟了吃。</EggCrestelUnfertilized.description>
+  
+</LanguageData>

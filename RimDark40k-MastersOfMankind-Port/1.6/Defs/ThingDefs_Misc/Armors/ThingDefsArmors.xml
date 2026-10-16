@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Abstract="true" Name="GW_Rulers_ArmorBase" ParentName="ArmorMachineableBase">
+    <techLevel>Spacer</techLevel>
+    <!-- These recipes should use autoforging and cant use the usual recipe maker -->
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef> -->
+    <!-- <skillRequirements> -->
+    <!-- <Crafting>20</Crafting> -->
+    <!-- <Intellectual>15</Intellectual> -->
+    <!-- </skillRequirements> -->
+    <!-- <recipeUsers Inherit="false"> -->
+    <!-- <li>GW_Autoforge</li> -->
+    <!-- </recipeUsers> -->
+    <!-- </recipeMaker> -->
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>1</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>ApparelArmor</li>
+    </thingCategories>
+    <uiIconScale>1</uiIconScale>
+    <equippedStatOffsets>
+      <PawnBeauty>50</PawnBeauty>
+      <HypoxiaResistance MayRequire="kentington.saveourship2">0.75</HypoxiaResistance>
+      <DecompressionResistance MayRequire="kentington.saveourship2">0.75</DecompressionResistance>
+      <VacuumSpeedMultiplier MayRequire="kentington.saveourship2">4</VacuumSpeedMultiplier>
+      <VacuumResistance MayRequire="ludeon.rimworld.odyssey">0.6</VacuumResistance>
+    </equippedStatOffsets>
+    <apparel>
+      <drawData>
+        <dataNorth>
+          <layer>74</layer>
+          <!-- <offset>(0.0, 0.0, 0.0)</offset> -->
+        </dataNorth>
+        <dataWest>
+          <offset>(0.0, 0.0, -0.1)</offset>
+        </dataWest>
+        <dataEast>
+          <offset>(0.0, 0.0, -0.1)</offset>
+        </dataEast>
+        <!--<scale>1.5</scale> Uncomment these to increase size while equipped
+                <childScale>1.5</childScale>-->
+      </drawData>
+      <tags>
+        <li>Spacer</li>
+        <li>EVA</li>
+        <li>PrestigeCombatGear</li>
+        <li>RoyalTier7</li>
+      </tags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+      <countsAsClothingForNudity>true</countsAsClothingForNudity>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+        <li MayRequire="ceteam.combatextended">Hands</li>
+        <li MayRequire="ceteam.combatextended">Feet</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+        <li>Shell</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="VEF.Apparels.ApparelExtension">
+        <isUnifiedApparel>true</isUnifiedApparel>
+        <hideHead>false</hideHead>
+      </li>
+      <li Class="CombatExtended.PartialArmorExt" MayRequire="ceteam.combatextended">
+        <stats>
+          <li>
+            <ArmorRating_Sharp>0.8</ArmorRating_Sharp>
+            <parts>
+              <li>Hand</li>
+            </parts>
+          </li>
+          <li>
+            <ArmorRating_Blunt>0.8</ArmorRating_Blunt>
+            <parts>
+              <li>Hand</li>
+            </parts>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_ArmorBase">
+    <defName>GW_Rulers_EmperorArmorW</defName>
+    <label>One True Armor (W)</label>
+    <description>A truly majestic suit of auramite Power Armor, patterned after the legendary suit worn by the God-Emperor of Mankind. Its protection is unrivalled - but it can only be worn by those with a high degree of psychic potential. \n\nThe Emperor has guided mankind from time immemorial, adopting various guises throughout history. It was only during the Age of Strife that He emerged in His full majesty, founded the Imperium of Mankind, and sallied forth across the galaxy to build His empire.</description>
+    <graphicData>
+      <texPath>Emperor/GW_HRM_Emperor_ArmorW_south</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <equippedStatOffsets>
+      <InjuryHealingFactor>2</InjuryHealingFactor>
+      <PsychicSensitivity>2</PsychicSensitivity>
+      <PsychicSensitivityOffset MayRequire="ludeon.rimworld.royalty">0.20</PsychicSensitivityOffset>
+      <PsychicEntropyRecoveryRate MayRequire="ludeon.rimworld.royalty">0.090</PsychicEntropyRecoveryRate>
+    </equippedStatOffsets>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>1.65</ArmorRating_Sharp>
+      <ArmorRating_Blunt>1.3</ArmorRating_Blunt>
+      <ArmorRating_Heat>1.5</ArmorRating_Heat>
+      <Insulation_Cold>40</Insulation_Cold>
+      <Insulation_Heat>14</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <costList>
+      <Plasteel>350</Plasteel>
+      <Gold>72</Gold>
+      <Uranium>50</Uranium>
+      <ComponentSpacer>18</ComponentSpacer>
+      <ComponentIndustrial>20</ComponentIndustrial>
+    </costList>
+    <apparel>
+      <wornGraphicPath>Emperor/GW_HRM_Emperor_ArmorW</wornGraphicPath>
+      <tags>
+        <li>GW_ChapterMaster</li>
+      </tags>
+      <drawData>
+        <scale>1.2</scale>
+      </drawData>
+    </apparel>
+    <modExtensions>
+      <li Class="RimDark.MastersOfMankind.DefModExtension_ApparelRestriction">
+        <isRestrictStat>true</isRestrictStat>
+        <statDef>PsychicSensitivity</statDef>
+        <reqMode>GreaterEqual</reqMode>
+        <value>1.4</value>
+      </li>
+    </modExtensions>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.CompProperties_ApparelSet">
+        <apparelSetEffect>
+          <allApparels>
+            <li>GW_Rulers_EmperorArmorW</li>
+            <li>GW_Rulers_EmperorShoulderW</li>
+            <li>GW_Rulers_EmperorHelmetW</li>
+          </allApparels>
+          <hediff>GW_Ruler_EmperorAura</hediff>
+        </apparelSetEffect>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_ArmorBase">
+    <defName>GW_Rulers_EmperorArmor</defName>
+    <label>One True Armor</label>
+    <description>A truly majestic suit of auramite Power Armor, patterned after the legendary suit worn by the God-Emperor of Mankind. Its protection is unrivalled - but it can only be worn by those with a high degree of psychic potential. \n\nThe Emperor has guided mankind from time immemorial, adopting various guises throughout history. It was only during the Age of Strife that He emerged in His full majesty, founded the Imperium of Mankind, and sallied forth across the galaxy to build His empire.</description>
+    <graphicData>
+      <texPath>Emperor/GW_HRM_Emperor_ArmorC_south</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <equippedStatOffsets>
+      <InjuryHealingFactor>0.7</InjuryHealingFactor>
+      <PsychicSensitivity>2</PsychicSensitivity>
+      <PsychicSensitivityOffset MayRequire="ludeon.rimworld.royalty">0.20</PsychicSensitivityOffset>
+      <PsychicEntropyRecoveryRate MayRequire="ludeon.rimworld.royalty">0.090</PsychicEntropyRecoveryRate>
+    </equippedStatOffsets>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>1.65</ArmorRating_Sharp>
+      <ArmorRating_Blunt>1.3</ArmorRating_Blunt>
+      <ArmorRating_Heat>1.5</ArmorRating_Heat>
+      <Insulation_Cold>40</Insulation_Cold>
+      <Insulation_Heat>14</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <costList>
+      <Plasteel>350</Plasteel>
+      <Gold>72</Gold>
+      <Uranium>50</Uranium>
+      <ComponentSpacer>18</ComponentSpacer>
+      <ComponentIndustrial>20</ComponentIndustrial>
+    </costList>
+    <apparel>
+      <wornGraphicPath>Emperor/GW_HRM_Emperor_ArmorC</wornGraphicPath>
+      <tags>
+        <li>GW_ChapterMaster</li>
+      </tags>
+      <drawData>
+        <scale>1.2</scale>
+      </drawData>
+    </apparel>
+    <modExtensions>
+      <li Class="RimDark.MastersOfMankind.DefModExtension_ApparelRestriction">
+        <isRestrictStat>true</isRestrictStat>
+        <statDef>PsychicSensitivity</statDef>
+        <reqMode>GreaterEqual</reqMode>
+        <value>1.4</value>
+      </li>
+    </modExtensions>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.CompProperties_ApparelSet">
+        <apparelSetEffect>
+          <allApparels>
+            <li>GW_Rulers_EmperorArmor</li>
+            <li>GW_Rulers_EmperorShoulder</li>
+            <li>GW_Rulers_EmperorHelmet</li>
+          </allApparels>
+          <hediff>GW_Ruler_EmperorAura</hediff>
+        </apparelSetEffect>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_ArmorBase">
+    <defName>GW_Rulers_ValdorArmorW</defName>
+    <label>Corinthine Warplate (W)</label>
+    <description>The Power Armor of Constantin Valdor, the first Captain-General of the Legio Custodes. This armor is the stuff of legend, turning the user into a stalwart, auramite juggernaut. \n\nValdor was the first Custodian successfully produced by the Emperor's gene-craft, and has always been held as the greatest of them all. At the dawn of the Horus Heresy, he had earned nearly two thousand names, and a full transcription of them was enough to fill an entire book.</description>
+    <graphicData>
+      <texPath>Valdor/GW_HRM_Valdor_ArmorW_south</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <equippedStatOffsets>
+      <ShootingAccuracyPawn>0.4</ShootingAccuracyPawn>
+      <PainShockThreshold>0.2</PainShockThreshold>
+      <InjuryHealingFactor>0.4</InjuryHealingFactor>
+    </equippedStatOffsets>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>1.5</ArmorRating_Sharp>
+      <ArmorRating_Blunt>1.75</ArmorRating_Blunt>
+      <ArmorRating_Heat>1.6</ArmorRating_Heat>
+      <Insulation_Cold>15</Insulation_Cold>
+      <Insulation_Heat>15</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+      <EnergyShieldRechargeRate>0.50</EnergyShieldRechargeRate>
+      <EnergyShieldEnergyMax>3</EnergyShieldEnergyMax>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <costList>
+      <Plasteel>360</Plasteel>
+      <Gold>72</Gold>
+      <Uranium>55</Uranium>
+      <ComponentSpacer>15</ComponentSpacer>
+      <ComponentIndustrial>18</ComponentIndustrial>
+    </costList>
+    <apparel>
+      <wornGraphicPath>Valdor/GW_HRM_Valdor_ArmorW</wornGraphicPath>
+      <tags>
+        <li>GW_ChapterMaster</li>
+      </tags>
+      <drawData>
+        <scale>1.4</scale>
+      </drawData>
+    </apparel>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.CompProperties_ApparelSet">
+        <apparelSetEffect>
+          <allApparels>
+            <li>GW_Rulers_ValdorArmorW</li>
+            <li>GW_Rulers_ValdorShoulderW</li>
+            <li>GW_Rulers_ValdorHelmetW</li>
+          </allApparels>
+          <hediff>GW_Ruler_ValdorShieldBonus</hediff>
+        </apparelSetEffect>
+      </li>
+      <li Class="CompProperties_Shield">
+        <startingTicksToReset>3200</startingTicksToReset>
+        <minDrawSize>1.8</minDrawSize>
+        <maxDrawSize>2</maxDrawSize>
+        <energyLossPerDamage>0.033</energyLossPerDamage>
+        <energyOnReset>0.2</energyOnReset>
+        <blocksRangedWeapons>false</blocksRangedWeapons>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_ArmorBase">
+    <defName>GW_Rulers_ValdorArmor</defName>
+    <label>Corinthine Warplate</label>
+    <description>The Power Armor of Constantin Valdor, the first Captain-General of the Legio Custodes. This armor is the stuff of legend, turning the user into a stalwart, auramite juggernaut. \n\nValdor was the first Custodian successfully produced by the Emperor's gene-craft, and has always been held as the greatest of them all. At the dawn of the Horus Heresy, he had earned nearly two thousand names, and a full transcription of them was enough to fill an entire book.</description>
+    <graphicData>
+      <texPath>Valdor/GW_HRM_Valdor_ArmorC_south</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <equippedStatOffsets>
+      <ShootingAccuracyPawn>0.4</ShootingAccuracyPawn>
+      <PainShockThreshold>0.2</PainShockThreshold>
+    </equippedStatOffsets>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>1.5</ArmorRating_Sharp>
+      <ArmorRating_Blunt>1.75</ArmorRating_Blunt>
+      <ArmorRating_Heat>1.6</ArmorRating_Heat>
+      <Insulation_Cold>15</Insulation_Cold>
+      <Insulation_Heat>15</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+      <EnergyShieldRechargeRate>0.50</EnergyShieldRechargeRate>
+      <EnergyShieldEnergyMax>3</EnergyShieldEnergyMax>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <costList>
+      <Plasteel>360</Plasteel>
+      <Gold>72</Gold>
+      <Uranium>55</Uranium>
+      <ComponentSpacer>15</ComponentSpacer>
+      <ComponentIndustrial>18</ComponentIndustrial>
+    </costList>
+    <apparel>
+      <wornGraphicPath>Valdor/GW_HRM_Valdor_ArmorC</wornGraphicPath>
+      <tags>
+        <li>GW_ChapterMaster</li>
+      </tags>
+      <drawData>
+        <scale>1.4</scale>
+      </drawData>
+    </apparel>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.CompProperties_ApparelSet">
+        <apparelSetEffect>
+          <allApparels>
+            <li>GW_Rulers_ValdorArmor</li>
+            <li>GW_Rulers_ValdorShoulder</li>
+            <li>GW_Rulers_ValdorHelmet</li>
+          </allApparels>
+          <hediff>GW_Ruler_ValdorShieldBonus</hediff>
+        </apparelSetEffect>
+      </li>
+      <li Class="CompProperties_Shield">
+        <startingTicksToReset>3200</startingTicksToReset>
+        <minDrawSize>1.8</minDrawSize>
+        <maxDrawSize>2</maxDrawSize>
+        <energyLossPerDamage>0.033</energyLossPerDamage>
+        <energyOnReset>0.2</energyOnReset>
+        <blocksRangedWeapons>false</blocksRangedWeapons>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="GW_Rulers_ArmorBase">
+    <defName>GW_Rulers_MalcadorOutfit</defName>
+    <label>Robes of Malcador</label>
+    <description>A master-crafted set of robes akin to those worn by Malcador the Sigillite, the closest advisor of the Emperor of Mankind. Auramite and ceramite reinforcement makes this a deceptively-protective piece of apparel, but one has to be a potent psyker to wear it. \n\nMalcador met the Emperor as He began His conquest, and was the one who recommended that He take on His title. The Sigillite served loyally as the Imperium ascended to the stars, with his mastery of organisation keeping the ever-expanding empire in order. \n\nHowever, he was also the first Grand Master of Assassins, ordering the elimination of the Imperium's enemies from the shadows.</description>
+    <graphicData>
+      <texPath>Malcador/Apparel/GW_HRM_MalcadorRobe_Male_south</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>GW_Rulers_EmperorRightHand</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <equippedStatOffsets>
+      <TradePriceImprovement>0.3</TradePriceImprovement>
+      <SocialImpact>0.3</SocialImpact>
+      <MoveSpeed>1</MoveSpeed>
+    </equippedStatOffsets>
+    <statBases>
+      <WorkToMake>240000</WorkToMake>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <MarketValue>7800</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>0.75</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.3</ArmorRating_Blunt>
+      <ArmorRating_Heat>1.4</ArmorRating_Heat>
+      <Insulation_Cold>5</Insulation_Cold>
+      <Insulation_Heat>50</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <costList>
+      <Hyperweave>150</Hyperweave>
+      <Gold>60</Gold>
+      <Uranium>40</Uranium>
+      <Plasteel>90</Plasteel>
+      <ComponentSpacer>14</ComponentSpacer>
+    </costList>
+    <apparel>
+      <wornGraphicPath>Malcador/Apparel/GW_HRM_MalcadorRobe</wornGraphicPath>
+      <tags>
+        <li>GW_ChapterMaster</li>
+      </tags>
+    </apparel>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.CompProperties_ApparelSet">
+        <apparelSetEffect>
+          <allApparels>
+            <li>GW_Rulers_MalcadorOutfit</li>
+            <li>GW_Rulers_MalcadorHelmet</li>
+          </allApparels>
+          <hediff>GW_Ruler_MalcadorBonus</hediff>
+        </apparelSetEffect>
+      </li>
+    </comps>
+    <modExtensions Inherit="false">
+      <li Class="CombatExtended.PartialArmorExt" MayRequire="ceteam.combatextended">
+        <stats>
+          <li>
+            <ArmorRating_Sharp>0.8</ArmorRating_Sharp>
+            <parts>
+              <li>Hand</li>
+            </parts>
+          </li>
+          <li>
+            <ArmorRating_Blunt>0.8</ArmorRating_Blunt>
+            <parts>
+              <li>Hand</li>
+            </parts>
+          </li>
+        </stats>
+      </li>
+      <li Class="RimDark.MastersOfMankind.DefModExtension_ApparelRestriction">
+        <isRestrictStat>true</isRestrictStat>
+        <statDef>PsychicSensitivity</statDef>
+        <reqMode>GreaterEqual</reqMode>
+        <value>1.4</value>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef Abstract="true" Name="GW_RulersAOD_ArmorBase" ParentName="ArmorMachineableBase">
+    <techLevel>Spacer</techLevel>
+    <!-- These recipes should use autoforging and cant use the usual recipe maker -->
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef> -->
+    <!-- <skillRequirements> -->
+    <!-- <Crafting>15</Crafting> -->
+    <!-- </skillRequirements> -->
+    <!-- <recipeUsers Inherit="false"> -->
+    <!-- <li>GW_Autoforge</li> -->
+    <!-- </recipeUsers> -->
+    <!-- </recipeMaker> -->
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>1</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>ApparelArmor</li>
+    </thingCategories>
+    <uiIconScale>1.0</uiIconScale>
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.50</ToxicEnvironmentResistance>
+      <VacuumResistance MayRequire="ludeon.rimworld.odyssey">0.6</VacuumResistance>
+      <HypoxiaResistance MayRequire="kentington.saveourship2">0.75</HypoxiaResistance>
+      <DecompressionResistance MayRequire="kentington.saveourship2">0.75</DecompressionResistance>
+      <VacuumSpeedMultiplier MayRequire="kentington.saveourship2">4</VacuumSpeedMultiplier>
+    </equippedStatOffsets>
+    <apparel>
+      <drawData>
+        <dataNorth>
+          <layer>74</layer>
+        </dataNorth>
+        <dataWest>
+          <offset>(0.0, 0.0, -0.1)</offset>
+        </dataWest>
+        <dataEast>
+          <offset>(0.0, 0.0, -0.1)</offset>
+        </dataEast>
+        <!--<scale>1.5</scale> Uncomment these to increase size while equipped
+                <childScale>1.5</childScale>-->
+      </drawData>
+      <tags>
+        <li>Spacer</li>
+        <li>EVA</li>
+      </tags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+      <countsAsClothingForNudity>true</countsAsClothingForNudity>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+        <li MayRequire="ceteam.combatextended">Hands</li>
+        <li MayRequire="ceteam.combatextended">Feet</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+        <li>Shell</li>
+      </layers>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
+    <modExtensions>
+      <!-- <li Class="VEF.Apparels.ApparelExtension"> -->
+      <!-- <isUnifiedApparel>true</isUnifiedApparel> -->
+      <!-- <hideHead>false</hideHead> -->
+      <!-- </li> -->
+      <li Class="CombatExtended.PartialArmorExt" MayRequire="ceteam.combatextended">
+        <stats>
+          <li>
+            <ArmorRating_Sharp>0.8</ArmorRating_Sharp>
+            <parts>
+              <li>Hand</li>
+            </parts>
+          </li>
+          <li>
+            <ArmorRating_Blunt>0.8</ArmorRating_Blunt>
+            <parts>
+              <li>Hand</li>
+            </parts>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="GW_RulersAOD_ArmorBase">
+    <defName>GW_Rulers_FirstbornArmor</defName>
+    <label>Firstborn armor</label>
+    <description>Isstvan V... Isstvan V... Isstvan V...</description>
+    <graphicData>
+      <texPath>LegionOfTheDamned/Firstborn/Shell/LOTDFirstBorn</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>Fabrication</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <statBases>
+      <WorkToMake>72000</WorkToMake>
+      <MaxHitPoints>480</MaxHitPoints>
+      <MarketValue>1700</MarketValue>
+      <Mass>9</Mass>
+      <Flammability>0.1</Flammability>
+      <ArmorRating_Sharp>1.1</ArmorRating_Sharp>
+      <ArmorRating_Blunt>.55</ArmorRating_Blunt>
+      <ArmorRating_Heat>.58</ArmorRating_Heat>
+      <Insulation_Cold>34</Insulation_Cold>
+      <Insulation_Heat>12</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.25</ToxicEnvironmentResistance>
+      <MoveSpeed>-0.2</MoveSpeed>
+    </equippedStatOffsets>
+    <costList>
+      <ComponentSpacer>3</ComponentSpacer>
+      <Plasteel>280</Plasteel>
+    </costList>
+    <apparel>
+      <wornGraphicPath>LegionOfTheDamned/Firstborn/LOTDFirstBorn_Brother</wornGraphicPath>
+      <tags>
+        <li>GW_Firstborn</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="GW_RulersAOD_ArmorBase">
+    <defName>GW_Rulers_PrimarisArmor</defName>
+    <label>Primaris armor</label>
+    <description>Isstvan V... Isstvan V... Isstvan V...</description>
+    <graphicData>
+      <texPath>LegionOfTheDamned/Primaris/Shell/LOTDPrimaris</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>Fabrication</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <statBases>
+      <WorkToMake>72000</WorkToMake>
+      <MaxHitPoints>480</MaxHitPoints>
+      <MarketValue>1700</MarketValue>
+      <Mass>9</Mass>
+      <Flammability>0.1</Flammability>
+      <ArmorRating_Sharp>1.1</ArmorRating_Sharp>
+      <ArmorRating_Blunt>.55</ArmorRating_Blunt>
+      <ArmorRating_Heat>.58</ArmorRating_Heat>
+      <Insulation_Cold>34</Insulation_Cold>
+      <Insulation_Heat>12</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.25</ToxicEnvironmentResistance>
+      <MoveSpeed>-0.2</MoveSpeed>
+    </equippedStatOffsets>
+    <costList>
+      <ComponentSpacer>3</ComponentSpacer>
+      <Plasteel>280</Plasteel>
+    </costList>
+    <comps />
+    <apparel>
+      <wornGraphicPath>LegionOfTheDamned/Primaris/LOTDPrimaris_Brother</wornGraphicPath>
+      <useWornGraphicMask>True</useWornGraphicMask>
+      <tags>
+        <li>GW_Primaris</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="GW_RulersAOD_ArmorBase">
+    <defName>GW_Rulers_GravisArmor</defName>
+    <label>Gravis power armor</label>
+    <description>Isstvan V... Isstvan V... Isstvan V...</description>
+    <graphicData>
+      <texPath>LegionOfTheDamned/Gravis/LOTDGravis_Brother_Male_south</texPath>
+    </graphicData>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <researchPrerequisite>Fabrication</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <statBases>
+      <WorkToMake>80000</WorkToMake>
+      <MaxHitPoints>500</MaxHitPoints>
+      <MarketValue>2300</MarketValue>
+      <Mass>11</Mass>
+      <Flammability>0.0</Flammability>
+      <ArmorRating_Sharp>1.25</ArmorRating_Sharp>
+      <ArmorRating_Blunt>.56</ArmorRating_Blunt>
+      <ArmorRating_Heat>.63</ArmorRating_Heat>
+      <Insulation_Cold>38</Insulation_Cold>
+      <Insulation_Heat>15</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <equippedStatOffsets>
+      <ToxicEnvironmentResistance>0.25</ToxicEnvironmentResistance>
+      <MoveSpeed>-0.3</MoveSpeed>
+    </equippedStatOffsets>
+    <costList>
+      <ComponentSpacer>4</ComponentSpacer>
+      <Plasteel>385</Plasteel>
+    </costList>
+    <apparel>
+      <drawData>
+        <dataWest>
+          <layer>70</layer>
+        </dataWest>
+        <dataEast>
+          <layer>70</layer>
+        </dataEast>
+      </drawData>
+      <!-- <wornGraphicPath>Malcador/Apparel/GW_HRM_MalcadorRobe</wornGraphicPath> -->
+      <wornGraphicPath>LegionOfTheDamned/Gravis/LOTDGravis_Brother</wornGraphicPath>
+      <tags>
+        <li>GW_Gravis</li>
+      </tags>
+    </apparel>
+    <comps>
+      <li Class="RimDark.MastersOfMankind.CompProperties_ApparelSet">
+        <apparelSetEffect>
+          <allApparels>
+            <li>GW_Rulers_GravisArmor</li>
+            <li>GW_Rulers_Xth_Helmet</li>
+          </allApparels>
+          <hediff>GW_Ruler_ValdorShieldBonus</hediff>
+        </apparelSetEffect>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

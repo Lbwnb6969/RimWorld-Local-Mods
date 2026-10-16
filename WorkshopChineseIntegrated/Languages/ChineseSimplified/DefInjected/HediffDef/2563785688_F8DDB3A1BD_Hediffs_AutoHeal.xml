@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: auto heal -->
+  <O21_AutoHeal.label>自愈</O21_AutoHeal.label>
+  <!-- EN: Passive healing for pawns. Can even regrow limbs! Applies to whole body regardless of current body part. -->
+  <O21_AutoHeal.description>此单位具有足以再生肢体的自我痊愈能力。对全身部位都有效果。</O21_AutoHeal.description>
+  <!-- EN: Growth:  -->
+  <O21_AutoHeal.comps.Comp_AutoHeal.growthText>进度：</O21_AutoHeal.comps.Comp_AutoHeal.growthText>
+  
+  <!-- EN: cured bodypart -->
+  <O21_AutoHeal_CuredBodypart.label>治愈的身体部件</O21_AutoHeal_CuredBodypart.label>
+  <!-- EN: You should never actually see this info. -->
+  <O21_AutoHeal_CuredBodypart.description>你不应该看到这些信息的。</O21_AutoHeal_CuredBodypart.description>
+  
+  <!-- EN: regrowing -->
+  <O21_AutoHeal_ProtoBodypart.label>再生</O21_AutoHeal_ProtoBodypart.label>
+  <!-- EN: This body part is regrowing, it will cause quite a bit of pain until it's done doing so. -->
+  <O21_AutoHeal_ProtoBodypart.description>正在再生的身体部件。直至再生完成前都会引发剧烈的疼痛。</O21_AutoHeal_ProtoBodypart.description>
+  <!-- EN: Growth:  -->
+  <O21_AutoHeal_ProtoBodypart.modExtensions.0.growthText>进度：</O21_AutoHeal_ProtoBodypart.modExtensions.0.growthText>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bordeaux mastiff -->
+  <BA_Mastiff.label>波尔多獒犬</BA_Mastiff.label>
+  <!-- EN: The Dogue de Bordeaux, also known as the Bordeaux Mastiff, French Mastiff or Bordeauxdog, is a large French mastiff breed. A typical brachycephalic mastiff breed, the Bordeaux is a very powerful dog, with a very muscular body.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: France</color></i> -->
+  <BA_Mastiff.description>波尔多獒（Dogue de Bordeaux），也被称为波尔多獒犬、法国獒或波尔多犬，是一种大型法国獒犬品种。作为典型的短头颅獒犬品种，波尔多獒犬力量极强，身躯肌肉发达。</BA_Mastiff.description>
+  <!-- EN: left claw -->
+  <BA_Mastiff.tools.left_claw.label>左爪</BA_Mastiff.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <BA_Mastiff.tools.right_claw.label>右爪</BA_Mastiff.tools.right_claw.label>
+  <!-- EN: head -->
+  <BA_Mastiff.tools.head.label>头部</BA_Mastiff.tools.head.label>
+  
+</LanguageData>
+    

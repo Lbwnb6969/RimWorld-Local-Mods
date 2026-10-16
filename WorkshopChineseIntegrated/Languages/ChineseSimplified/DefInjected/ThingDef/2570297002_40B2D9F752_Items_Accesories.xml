@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tackle box -->
+  <VME_TackleBox.label>钓具盒</VME_TackleBox.label>
+  <!-- EN: A small metal box filled with different hooks, bobbers and baits meant to entice fish big and small to latch on before being reeled in via line and rod. -->
+  <VME_TackleBox.description>装有各种鱼钩、浮标和饵料的小金属盒，能够使鱼儿更快的上钩。增加20%的钓鱼速度。</VME_TackleBox.description>
+  
+</LanguageData>

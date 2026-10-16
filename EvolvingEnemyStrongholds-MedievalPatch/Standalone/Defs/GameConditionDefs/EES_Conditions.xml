@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <GameConditionDef>
+    <defName>EES_PsychicShrineDrone</defName>
+    <conditionClass>GameCondition_PsychicEmanation</conditionClass>
+    <label>주술 제단의 정신 파동</label>
+    <description>인근 부족의 주술 제단이 이 지역으로 정신 파동을 퍼뜨리고 있습니다. {0} 정착민들의 정신이 서서히 흔들립니다. 제단을 파괴하기 전까지 계속됩니다.</description>
+    <defaultDroneLevel>BadMedium</defaultDroneLevel>
+    <endMessage>주술 제단의 정신 파동이 멎었습니다.</endMessage>
+    <letterText>인근 주술 제단이 {0} 정착민을 겨냥한 정신 파동을 퍼뜨리고 있습니다.</letterText>
+  </GameConditionDef>
+
+</Defs>

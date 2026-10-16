@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: interrogating TargetA. -->
+  <VFEA_PrisonerInterrogate.reportString>审讯TargetA。</VFEA_PrisonerInterrogate.reportString>
+  
+  <!-- EN: participating in orgy. -->
+  <VME_DanceWithLove.reportString>参加狂欢盛宴。</VME_DanceWithLove.reportString>
+  
+  <!-- EN: uninstalling ancient junk building. -->
+  <VME_DeconstructBuilding.reportString>卸载远古废弃建筑。</VME_DeconstructBuilding.reportString>
+  
+  <!-- EN: maintaining insect nest. -->
+  <VME_MaintainInsectNest.reportString>维护虫巢。</VME_MaintainInsectNest.reportString>
+  
+</LanguageData>

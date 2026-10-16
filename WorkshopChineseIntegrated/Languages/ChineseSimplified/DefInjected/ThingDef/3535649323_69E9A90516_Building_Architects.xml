@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AR_Eave.label>简易屋檐</AR_Eave.label>
+  <AR_Eave.description>简易屋檐适用于简易房屋。这是最常见的屋檐类型，可采用木材、金属或任何石材建造，但外观并不特别引人注目。（可直接建于任何结构之上，无需支撑）</AR_Eave.description>
+  
+  <AR_Eave_half.label>屋檐（半檐）</AR_Eave_half.label>
+  <AR_Eave_half.description>门角和走廊的半檐。可搭建在任何结构之上。（占位符，待更换为更优质的纹理）</AR_Eave_half.description>
+  
+  <AR_EaveCorner.label>外角屋檐</AR_EaveCorner.label>
+  <AR_EaveCorner.description>用于填补空隙的外角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_EaveCorner.description>
+
+  <AR_EaveInnerCorner.label>内角屋檐 (2x2基础型)</AR_EaveInnerCorner.label>
+  <AR_EaveInnerCorner.description>一个内角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_EaveInnerCorner.description>
+
+  <AR_EaveStony.label>石质屋檐</AR_EaveStony.label>
+  <AR_EaveStony.description>用于寺庙或雅致屋舍的华美石质屋檐。（可建造于任何物体上方，无需支撑结构）</AR_EaveStony.description>
+
+  <AR_EaveStony_half.label>石质屋檐 (半宽)</AR_EaveStony_half.label>
+  <AR_EaveStony_half.description>适用于门廊角落和走廊的半宽屋檐。可建造于任何物体上方。（占位符，等待更佳纹理）</AR_EaveStony_half.description>
+
+  <AR_EaveWoody.label>木质屋檐</AR_EaveWoody.label>
+  <AR_EaveWoody.description>用于寺庙或简朴屋舍的木质屋檐，经济实惠且外观整洁。（可建造于任何物体上方，无需支撑结构）</AR_EaveWoody.description>
+
+  <AR_EaveWoody_half.label>木质屋檐 (半宽)</AR_EaveWoody_half.label>
+  <AR_EaveWoody_half.description>适用于门廊角落和走廊的半宽屋檐。可建造于任何物体上方。（占位符，等待更佳纹理）</AR_EaveWoody_half.description>
+
+  <AR_Rafter.label>椽子</AR_Rafter.label>
+  <AR_Rafter.description>能够支撑屋顶的椽子。</AR_Rafter.description>
+
+  <AR_StonyEaveInnerCorner.label>内角屋檐 (2x2石质)</AR_StonyEaveInnerCorner.label>
+  <AR_StonyEaveInnerCorner.description>一个石质内角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_StonyEaveInnerCorner.description>
+
+  <AR_StonyEaveInnerCornerSmall.label>内角屋檐 (1x1石质)</AR_StonyEaveInnerCornerSmall.label>
+  <AR_StonyEaveInnerCornerSmall.description>一个石质内角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_StonyEaveInnerCornerSmall.description>
+
+  <AR_StonyEaveOuterCorner.label>外角屋檐 (2x2石质)</AR_StonyEaveOuterCorner.label>
+  <AR_StonyEaveOuterCorner.description>一个石质外角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_StonyEaveOuterCorner.description>
+
+  <AR_StonyEaveOuterCornerSmall.label>外角屋檐 (1x1石质)</AR_StonyEaveOuterCornerSmall.label>
+  <AR_StonyEaveOuterCornerSmall.description>一个石质外角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_StonyEaveOuterCornerSmall.description>
+
+  <AR_WoodyEaveInnerCorner.label>内角屋檐 (2x2木质)</AR_WoodyEaveInnerCorner.label>
+  <AR_WoodyEaveInnerCorner.description>一个木质内角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_WoodyEaveInnerCorner.description>
+
+  <AR_WoodyEaveInnerCornerSmall.label>内角屋檐 (1x1木质)</AR_WoodyEaveInnerCornerSmall.label>
+  <AR_WoodyEaveInnerCornerSmall.description>一个木质内角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_WoodyEaveInnerCornerSmall.description>
+
+  <AR_WoodyEaveOuterCorner.label>外角屋檐 (2x2木质)</AR_WoodyEaveOuterCorner.label>
+  <AR_WoodyEaveOuterCorner.description>一个木质外角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_WoodyEaveOuterCorner.description>
+
+  <AR_WoodyEaveOuterCornerSmall.label>外角屋檐 (1x1木质)</AR_WoodyEaveOuterCornerSmall.label>
+  <AR_WoodyEaveOuterCornerSmall.description>一个木质外角屋檐。（可建造于任何物体上方，无需支撑结构）</AR_WoodyEaveOuterCornerSmall.description>
+</LanguageData>

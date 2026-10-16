@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: darkening terror -->
+  <DankPyon_AlpEclipse.label>渐深之魇</DankPyon_AlpEclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime.\n(Medieval Overhaul) -->
+  <DankPyon_AlpEclipse.description>一个天体的影子投在了这个星球上，引发了一场日蚀现象。日蚀期间即使在白天也会很暗。</DankPyon_AlpEclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <DankPyon_AlpEclipse.endMessage>日蚀结束了。</DankPyon_AlpEclipse.endMessage>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <DankPyon_AlpEclipse.letterText>本星球的一颗卫星运行到了正阳面，引发了日蚀现象。</DankPyon_AlpEclipse.letterText>
+  
+</LanguageData>

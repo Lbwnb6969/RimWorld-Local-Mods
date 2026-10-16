@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Anatolian shepherd -->
+  <BA_AnatolianShepherd.label>安纳托利亚牧羊犬</BA_AnatolianShepherd.label>
+  <!-- EN: The Anatolian Shepherd Dog is a traditional Turkish breed of large livestock guardian dog. The breed name derives from that of the town and district of Kangal in Sivas Province, the easternmost province of the Central Anatolia Region in central Turkey. The coat colour varies from pale fawn to wolf grey, always with a black mask.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_AnatolianShepherd.description>安纳托利亚牧羊犬是土耳其传统大型畜牧守护犬种，其名称源自土耳其中部安纳托利亚地区最东端锡瓦斯省的坎高镇（Kangal）。这种犬种的被毛颜色从浅黄褐色到狼灰色不等，面部始终带有标志性的黑色面罩。作为游牧文明的守护者，它们凭借双层被毛抵御高原严寒，以敏锐的听觉和威慑性的吠叫驱赶狼群，至今仍在安纳托利亚高原承担着保护羊群的重任。</BA_AnatolianShepherd.description>
+  <!-- EN: left claw -->
+  <BA_AnatolianShepherd.tools.left_claw.label>左爪</BA_AnatolianShepherd.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <BA_AnatolianShepherd.tools.right_claw.label>右爪</BA_AnatolianShepherd.tools.right_claw.label>
+  <!-- EN: bite -->
+  <BA_AnatolianShepherd.tools.bite.label>撕咬</BA_AnatolianShepherd.tools.bite.label>
+  <!-- EN: head -->
+  <BA_AnatolianShepherd.tools.head.label>头部</BA_AnatolianShepherd.tools.head.label>
+  
+</LanguageData>

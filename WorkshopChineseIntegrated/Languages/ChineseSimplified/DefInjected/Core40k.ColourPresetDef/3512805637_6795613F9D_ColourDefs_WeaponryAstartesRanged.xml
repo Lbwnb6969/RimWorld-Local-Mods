@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Apothecary -->
+  <BEWH_WeaponRangedColourApothecary.label>药剂师</BEWH_WeaponRangedColourApothecary.label>
+  
+  <!-- EN: Deathwatch -->
+  <BEWH_WeaponRangedColourDW.label>死亡守望</BEWH_WeaponRangedColourDW.label>
+  
+  <!-- EN: Dark Angels -->
+  <BEWH_WeaponRangedColourI.label>黑暗天使</BEWH_WeaponRangedColourI.label>
+  
+  <!-- EN: Emperor's Children -->
+  <BEWH_WeaponRangedColourIII.label>帝皇之子</BEWH_WeaponRangedColourIII.label>
+  
+  <!-- EN: Iron Warriors -->
+  <BEWH_WeaponRangedColourIV.label>钢铁勇士</BEWH_WeaponRangedColourIV.label>
+  
+  <!-- EN: Blood Angels -->
+  <BEWH_WeaponRangedColourIX.label>圣血天使</BEWH_WeaponRangedColourIX.label>
+  
+  <!-- EN: White Scars -->
+  <BEWH_WeaponRangedColourV.label>白色伤疤</BEWH_WeaponRangedColourV.label>
+  
+  <!-- EN: Space Wolves -->
+  <BEWH_WeaponRangedColourVI.label>太空野狼</BEWH_WeaponRangedColourVI.label>
+  
+  <!-- EN: Imperial Fists -->
+  <BEWH_WeaponRangedColourVII.label>帝国之拳</BEWH_WeaponRangedColourVII.label>
+  
+  <!-- EN: Night Lords -->
+  <BEWH_WeaponRangedColourVIII.label>午夜领主</BEWH_WeaponRangedColourVIII.label>
+  
+  <!-- EN: Iron Hands -->
+  <BEWH_WeaponRangedColourX.label>钢铁之手</BEWH_WeaponRangedColourX.label>
+  
+  <!-- EN: World Eaters -->
+  <BEWH_WeaponRangedColourXII.label>吞世者</BEWH_WeaponRangedColourXII.label>
+  
+  <!-- EN: Ultramarines -->
+  <BEWH_WeaponRangedColourXIII.label>极限战士</BEWH_WeaponRangedColourXIII.label>
+  
+  <!-- EN: Death Guard -->
+  <BEWH_WeaponRangedColourXIV.label>死亡守卫</BEWH_WeaponRangedColourXIV.label>
+  
+  <!-- EN: Raven Guard -->
+  <BEWH_WeaponRangedColourXIX.label>暗鸦守卫</BEWH_WeaponRangedColourXIX.label>
+  
+  <!-- EN: Thousand Sons -->
+  <BEWH_WeaponRangedColourXV.label>千疮之子</BEWH_WeaponRangedColourXV.label>
+  
+  <!-- EN: Sons of Horus -->
+  <BEWH_WeaponRangedColourXVI.label>荷鲁斯之子</BEWH_WeaponRangedColourXVI.label>
+  
+  <!-- EN: Word Bearers -->
+  <BEWH_WeaponRangedColourXVII.label>怀言者</BEWH_WeaponRangedColourXVII.label>
+  
+  <!-- EN: Salamanders -->
+  <BEWH_WeaponRangedColourXVIII.label>火蜥蜴</BEWH_WeaponRangedColourXVIII.label>
+  
+  <!-- EN: Alpha Legion -->
+  <BEWH_WeaponRangedColourXX.label>阿尔法军团</BEWH_WeaponRangedColourXX.label>
+  
+</LanguageData>

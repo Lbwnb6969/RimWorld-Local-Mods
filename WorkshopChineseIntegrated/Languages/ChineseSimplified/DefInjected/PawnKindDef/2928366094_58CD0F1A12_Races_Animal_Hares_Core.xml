@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rabbit -->
+  <RG_Rabbit.label>兔</RG_Rabbit.label>
+  <!-- EN: kit -->
+  <RG_Rabbit.lifeStages.kit.label>兔幼崽</RG_Rabbit.lifeStages.kit.label>
+  
+</LanguageData>

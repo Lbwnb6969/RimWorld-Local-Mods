@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dazzled -->
+  <VFES_Dazzled.label>强光照射（目眩）</VFES_Dazzled.label>
+  <!-- EN: Significant impairment of vision as a result of over-exposure to light. -->
+  <VFES_Dazzled.description>暴露在探照灯的强光下导致的视觉能力受损。</VFES_Dazzled.description>
+  <!-- EN: a dazzled eye -->
+  <VFES_Dazzled.labelNoun>目眩</VFES_Dazzled.labelNoun>
+  
+  <!-- EN: on a platform -->
+  <VFES_PlatformTerrain.label>站在射击平台上</VFES_PlatformTerrain.label>
+  <!-- EN: this person is standing on a platform or other structure. -->
+  <VFES_PlatformTerrain.description>此单位正站在一个射击台或其他类似结构上。</VFES_PlatformTerrain.description>
+  
+  <!-- EN: in a trench -->
+  <VFES_TrenchTerrain.label>站在战壕内</VFES_TrenchTerrain.label>
+  <!-- EN: this person is standing in a trench or other defensive structure. -->
+  <VFES_TrenchTerrain.description>此单位正站在一个战壕或其他类似防御结构中。</VFES_TrenchTerrain.description>
+  
+</LanguageData>

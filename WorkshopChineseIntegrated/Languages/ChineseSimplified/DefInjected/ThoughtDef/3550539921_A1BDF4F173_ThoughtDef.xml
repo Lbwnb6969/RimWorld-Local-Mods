@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: ate raw white truffle -->
+    <DA_AteWhiteTruffle.stages.0.label>生食白松露</DA_AteWhiteTruffle.stages.0.label>
+    <DA_AteWhiteTruffle.stages.0.description>我吞下一朵精致的白蘑菇。虽然经过烹制会更美味，但生吃的滋味已足够惊艳。</DA_AteWhiteTruffle.stages.0.description>
+
+    <!-- EN: ate cooked white truffle -->
+    <DA_AteCookedWhiteTruffle.stages.0.label>食用熟制白松露</DA_AteCookedWhiteTruffle.stages.0.label>
+    <DA_AteCookedWhiteTruffle.stages.0.description>我享用了精致的白蘑菇。那绝妙的风味让这餐臻至完美。</DA_AteCookedWhiteTruffle.stages.0.description>
+</LanguageData>

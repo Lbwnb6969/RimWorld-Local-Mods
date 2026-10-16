@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: overseer -->
+  <VR_Construct_Apocriton.label>憎恶毒蜂</VR_Construct_Apocriton.label>
+  <!-- EN: A large construct commander designed to coordinate and motivate other automatons during long extermination campaigns. combat mech designed as a shock trooper. Its most obvious power is its ability to resurrect recently-damaged constructs by restructuring their tonal signature. -->
+  <VR_Construct_Apocriton.description>一种大型构装体指挥官，旨在在漫长的灭绝战役中协调并激励其他自动机。它是一种作为突击兵设计的战斗机甲。其最显著的能力是通过重构构装体的调音特征，复活最近受损的构装体。</VR_Construct_Apocriton.description>
+  <!-- EN: head -->
+  <VR_Construct_Apocriton.tools.head.label>头部</VR_Construct_Apocriton.tools.head.label>
+  
+  <!-- EN: colossus -->
+  <VR_Construct_Colossus.label>巨像</VR_Construct_Colossus.label>
+  <!-- EN: An ultra-heavy construct equipped with a tonal incinerator. Made for breaking lines of enemies, it can cause widespread panic as the ray emitted will detonate raw magika in the near vicinity. -->
+  <VR_Construct_Colossus.description>一种装备调音焚灭器的超重型构装体。它用于突破敌军阵线，发射的射线会引爆附近的原始魔能，从而引发广泛恐慌。</VR_Construct_Colossus.description>
+  <!-- EN: head -->
+  <VR_Construct_Colossus.tools.head.label>头部</VR_Construct_Colossus.tools.head.label>
+  
+  <!-- EN: colossus -->
+  <VR_Construct_Colossus_Melee.label>巨像</VR_Construct_Colossus_Melee.label>
+  <!-- EN: An ultra-heavy construct equipped with a colossal axe. Made for breaking lines of enemies, it can cause widespread panic as it can level a building in a single swipe. -->
+  <VR_Construct_Colossus_Melee.description>一种装备巨型战斧的超重型构装体。它用于突破敌军阵线，一次横扫即可夷平建筑，从而引发广泛恐慌。</VR_Construct_Colossus_Melee.description>
+  <!-- EN: colossus smash -->
+  <VR_Construct_Colossus_Melee.comps.Comp_VerbProps.verbProps.0.label>巨像重击</VR_Construct_Colossus_Melee.comps.Comp_VerbProps.verbProps.0.label>
+  <!-- EN: Deliver a devastating ground smash that heavily damages walls and structures. -->
+  <VR_Construct_Colossus_Melee.comps.Comp_VerbProps.verbProps.0.description>发动毁灭性的地面重击，重创墙体和建筑。</VR_Construct_Colossus_Melee.comps.Comp_VerbProps.verbProps.0.description>
+  <!-- EN: head -->
+  <VR_Construct_Colossus_Melee.tools.head.label>头部</VR_Construct_Colossus_Melee.tools.head.label>
+  <!-- EN: colossus smash -->
+  <VR_Construct_Colossus_Melee.verbs.colossus_smash.label>巨像重击</VR_Construct_Colossus_Melee.verbs.colossus_smash.label>
+  
+  <!-- EN: scarab queen -->
+  <VR_Construct_ScarabQueen.label>战争女皇</VR_Construct_ScarabQueen.label>
+  <!-- EN: An ultra-heavy construct with a built-in manufactoria. Fed with appropriate resources, the scarab queen can form small scarab combat mechs within its massive carapace and deploy them into combat. While relying mostly swarming enemies with it's scarabs, it can emit a charge of electrical energy from its chest. -->
+  <VR_Construct_ScarabQueen.description>一种内置制造厂的超重型构装体。投入适当资源后，战争女皇可在其巨大的甲壳内培育小型圣甲虫战斗机甲，并将其投入战斗。它主要依靠圣甲虫蜂拥敌人，同时还能从胸腔释放电能冲击。</VR_Construct_ScarabQueen.description>
+  <!-- EN: tesla charge -->
+  <VR_Construct_ScarabQueen.comps.Comp_VerbProps.verbProps.0.label>特斯拉电荷</VR_Construct_ScarabQueen.comps.Comp_VerbProps.verbProps.0.label>
+  <!-- EN: Unleashes a surge electrical energy from its chest. -->
+  <VR_Construct_ScarabQueen.comps.Comp_VerbProps.verbProps.0.description>从胸腔释放一股电能冲击。</VR_Construct_ScarabQueen.comps.Comp_VerbProps.verbProps.0.description>
+  <!-- EN: head -->
+  <VR_Construct_ScarabQueen.tools.head.label>头部</VR_Construct_ScarabQueen.tools.head.label>
+  <!-- EN: tesla charge -->
+  <VR_Construct_ScarabQueen.verbs.tesla_charge.label>特斯拉电荷</VR_Construct_ScarabQueen.verbs.tesla_charge.label>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Remove original MO storage buildings fomr the architect menu -->
+  <MOASF_RemoveDesignator_Label>[!]在建筑选单隐藏MO本体「中世纪储藏」选项卡</MOASF_RemoveDesignator_Label>
+  <!-- EN: If enabled, the original Medieval Overhaul storage buildings will be removed from the architect menu. As those buildings are used for many different things, in dungeons, ruins, hideouts, and so on, they are not entirely removed from the game. -->
+  <MOASF_RemoveDesignator_Desc>启用此选项将隐藏MO本体的「中世纪储藏」建筑选项卡（仅隐藏而非删除物件defs，以避免引用那些建筑的任务地图生成失败）。\n\n注意：某些patch模组可能会将额外的建筑移至「中世纪储藏」选项卡导致一并被隐藏，请谨慎启用。如有使用Tab-sorting/Drag-Sorting等类似模组，可先将有用处的建筑移至其他选项卡内，再开启此选项。\n\n有装饰需求的玩家建议此项关闭，并开启前项(隐藏MO本体储藏建筑内部物品贴图)，依照需求混用MO本体和MO:ASF的两种版本储藏建筑。</MOASF_RemoveDesignator_Desc>
+  
+  <!-- EN: Hide the contained items in MO's storage buildings -->
+  <MOASF_RemoveContained_Label>隐藏MO本体储藏建物中的物品贴图</MOASF_RemoveContained_Label>
+  <!-- EN: If enabled, the game will hide the content of the original Medieval Overhaul storage buildings. -->
+  <MOASF_RemoveContained_Desc>启用此选项将隐藏MO本体储藏建物中存放的物品贴图（仅影响视觉效果）。</MOASF_RemoveContained_Desc>
+</LanguageData>

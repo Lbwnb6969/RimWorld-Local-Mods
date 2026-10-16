@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wheellock carbine -->
+  <TA_WheellockCarbine.label>轮簧卡宾枪</TA_WheellockCarbine.label>
+  <!-- EN: . -->
+  <TA_WheellockCarbine.description>采用轮簧点火机构的短管火枪，精度较高。</TA_WheellockCarbine.description>
+  <!-- EN: stock -->
+  <TA_WheellockCarbine.tools.stock.label>枪托</TA_WheellockCarbine.tools.stock.label>
+  <!-- EN: barrel -->
+  <TA_WheellockCarbine.tools.barrel.label>枪管</TA_WheellockCarbine.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <TA_WheellockCarbine.tools.muzzle.label>枪口</TA_WheellockCarbine.tools.muzzle.label>
+  <!-- EN: wheellock carbine -->
+  <TA_WheellockCarbine.verbs.Verb_ShootCE.label>轮簧卡宾枪射击</TA_WheellockCarbine.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pale scourge -->
+  <DA_TrollOutbreak.label>白祸</DA_TrollOutbreak.label>
+  <!-- EN: The area is suffering the effects of a troll outbreak. -->
+  <DA_TrollOutbreak.description>该区域正遭受巨魔肆虐。</DA_TrollOutbreak.description>
+  <!-- EN: a troll outbreak has been detected in the region surrounding [map_definite], potentially causing dangerous trolls to build burrows or wander in. -->
+  <DA_TrollOutbreak.descriptionFuture>在[map_definite]周围探测到了巨魔们正在肆虐，或许会导致这些危险的巨魔们掘地道或漫游进来。</DA_TrollOutbreak.descriptionFuture>
+  <!-- EN: The pale scourge has ended -->
+  <DA_TrollOutbreak.endMessage>白祸结束了</DA_TrollOutbreak.endMessage>
+  <!-- EN: Growls can be heard from within the dark tunnels serpenting beneath the cold earth. A second winter struck, as countless ravenous trolls tear through the land and emerge to the surface in search of food.\n\nThis can last between days to several weeks. -->
+  <DA_TrollOutbreak.letterText>冰冷的土地下，蜿蜒的漆黑隧道中，传来了低沉的吼叫声。第二波冬袭——数不清的贪婪巨魔撕裂了土地，冲向地表搜寻食物。\n\n这可能持续数天到数周不等。</DA_TrollOutbreak.letterText>
+  <!-- EN: A pale scourge has begun -->
+  <DA_TrollOutbreak.startMessage>白祸开始了</DA_TrollOutbreak.startMessage>
+  
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: If the coffee roasting doesn't go terribly bad, the moralist will brew some coffee for the colony without needing harvested coffee beans. Better outcomes will produce more coffee. A spectacular coffee roasting might produce some specialty coffee if VE Brewing - Coffees and Teas is installed. -->
+  <AM_CoffeeRoastingOutcome.description>如果咖啡烘焙仪式的结果不算太糟糕，则传道者会在不消耗殖民地咖啡豆储备的情况下产出几杯煮好的咖啡。仪式的结果越好，产出的咖啡就越多。如果你安装了原版酿造扩展：咖啡与茶（Vanilla Brewing Expanded - Coffees and Teas），则一场非常完美的咖啡烘焙仪式会额外产出几杯特制的咖啡。</AM_CoffeeRoastingOutcome.description>
+  <!-- EN: room impressiveness -->
+  <AM_CoffeeRoastingOutcome.comps.0.label>房间观感</AM_CoffeeRoastingOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <AM_CoffeeRoastingOutcome.comps.1.label>参与者数量</AM_CoffeeRoastingOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AM_CoffeeRoastingOutcome.comps.2.label>{PAWN_labelShort}的社交效果</AM_CoffeeRoastingOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <AM_CoffeeRoastingOutcome.comps.2.labelAbstract>演讲者的社交效果</AM_CoffeeRoastingOutcome.comps.2.labelAbstract>
+  <!-- EN: Burnt -->
+  <AM_CoffeeRoastingOutcome.outcomeChances.0.label>焦糊不堪的</AM_CoffeeRoastingOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was burnt. The beans were ruined, and the ceremony was an insult to the sacred art of coffee roasting. -->
+  <AM_CoffeeRoastingOutcome.outcomeChances.0.description>{0}焦糊不堪。咖啡豆被完全浪费，这场仪式简直就是在玷污咖啡烘焙的神圣艺术性。</AM_CoffeeRoastingOutcome.outcomeChances.0.description>
+  <!-- EN: Underwhelming -->
+  <AM_CoffeeRoastingOutcome.outcomeChances.1.label>效果甚微的</AM_CoffeeRoastingOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was underwhelming. The roasting lacked the care and skill it deserved, leaving the coffee dull and uninspired. -->
+  <AM_CoffeeRoastingOutcome.outcomeChances.1.description>{0}效果甚微。烘焙过程缺乏应有的细心与技巧，致使咖啡口感平淡且毫无灵感。</AM_CoffeeRoastingOutcome.outcomeChances.1.description>
+  <!-- EN: Rich -->
+  <AM_CoffeeRoastingOutcome.outcomeChances.2.label>浓香四溢的</AM_CoffeeRoastingOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was delightful. The beans were roasted beautifully, filling the air with a rich aroma and leaving us feeling renewed. -->
+  <AM_CoffeeRoastingOutcome.outcomeChances.2.description>{0}浓香四溢。咖啡豆的烘焙相当顺利，空气中弥漫着浓郁的香气，使我们感到精神焕发。</AM_CoffeeRoastingOutcome.outcomeChances.2.description>
+  <!-- EN: Masterful -->
+  <AM_CoffeeRoastingOutcome.outcomeChances.3.label>炉火纯青的</AM_CoffeeRoastingOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was masterful! The beans were roasted to perfection, creating an unforgettable communion with the sacred art of coffee. -->
+  <AM_CoffeeRoastingOutcome.outcomeChances.3.description>{0}炉火纯青。咖啡豆的烘焙非常完美，我们将永远铭记与神圣咖啡艺术间的沟通。</AM_CoffeeRoastingOutcome.outcomeChances.3.description>
+  
+</LanguageData>

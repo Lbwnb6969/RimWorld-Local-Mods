@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic owlcat -->
+  <DA_ArcticOwlcat.label>极地枭猫</DA_ArcticOwlcat.label>
+  <!-- EN: A strange creature combining the features of a feline and that of an owl. The nimble predator referred only as owlcats can be commonly found hunting and nesting in the woodlands. Their long elegant wings are vestigial and primarly serve in the mating season, in order to attract new partners or to scare off predators by appearing bigger than they are.\n\nAdapted to the frozen climates, the arctic owlcat can be seen wandering the white landscapes in search of preys, only to seek shelter in the nearby forests when winter comes.. -->
+  <DA_ArcticOwlcat.description>一种奇特的生物，兼具猫科动物和猫头鹰的特征。这种敏捷的捕食者被称为枭猫，常见于林地狩猎和筑巢。它们修长优美的翅膀已退化，主要在交配季节发挥作用，用于吸引新伴侣或通过显得比实际更大来吓退捕食者。\n\n这些适应了寒冷气候的极地枭猫常在白色的世界里游荡觅食，而当冬季来临，它们便会在附近的森林中寻找庇护所。</DA_ArcticOwlcat.description>
+  <!-- EN: left claw -->
+  <DA_ArcticOwlcat.tools.left_claw.label>左爪</DA_ArcticOwlcat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <DA_ArcticOwlcat.tools.left_claw.labelNoLocation>爪</DA_ArcticOwlcat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <DA_ArcticOwlcat.tools.right_claw.label>右爪</DA_ArcticOwlcat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <DA_ArcticOwlcat.tools.right_claw.labelNoLocation>爪</DA_ArcticOwlcat.tools.right_claw.labelNoLocation>
+  <!-- EN: beak -->
+  <DA_ArcticOwlcat.tools.beak.label>喙</DA_ArcticOwlcat.tools.beak.label>
+  <!-- EN: head -->
+  <DA_ArcticOwlcat.tools.head.label>头</DA_ArcticOwlcat.tools.head.label>
+  
+  <!-- EN: forest owlcat -->
+  <DA_ForestOwlcat.label>森林枭猫</DA_ForestOwlcat.label>
+  <!-- EN: A strange creature combining the features of a feline and that of an owl. The nimble predator referred only as owlcats can be commonly found hunting and nesting in the woodlands. Their long elegant wings are vestigial and primarly serve in the mating season, in order to attract new partners or to scare off predators by appearing bigger than they are.\n\nSome hunters have taken a liking to owlcats for their ability to quickly track and hunt rodents. -->
+  <DA_ForestOwlcat.description>一种奇特的生物，兼具猫科动物和猫头鹰的特征。这种敏捷的捕食者被称为枭猫，常见于林地狩猎和筑巢。它们修长优美的翅膀已退化，主要在交配季节发挥作用，用于吸引新伴侣或通过显得比实际更大来吓退捕食者。\n\n有些猎人喜欢它们迅速追踪并猎捕啮齿类动物的能力。</DA_ForestOwlcat.description>
+  <!-- EN: left claw -->
+  <DA_ForestOwlcat.tools.left_claw.label>左爪</DA_ForestOwlcat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <DA_ForestOwlcat.tools.left_claw.labelNoLocation>爪</DA_ForestOwlcat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <DA_ForestOwlcat.tools.right_claw.label>右爪</DA_ForestOwlcat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <DA_ForestOwlcat.tools.right_claw.labelNoLocation>爪</DA_ForestOwlcat.tools.right_claw.labelNoLocation>
+  <!-- EN: beak -->
+  <DA_ForestOwlcat.tools.beak.label>喙</DA_ForestOwlcat.tools.beak.label>
+  <!-- EN: head -->
+  <DA_ForestOwlcat.tools.head.label>头</DA_ForestOwlcat.tools.head.label>
+  
+  <!-- EN: arctic owlcat egg (fert.) -->
+  <EggArcticOwlcatFertilized.label>极地枭猫蛋(已受精)</EggArcticOwlcatFertilized.label>
+  <!-- EN: A fertilized owlcat egg. If all goes well, it should hatch into a owlkitten. It is very nutritious and can be eaten raw, but it's much better cooked. -->
+  <EggArcticOwlcatFertilized.description>已受精的枭猫蛋。如果一切顺利应该可以孵化出枭猫幼崽。非常有营养，可以生吃，但最好烹饪后食用。</EggArcticOwlcatFertilized.description>
+  
+  <!-- EN: arctic owlcat egg (unfert.) -->
+  <EggArcticOwlcatUnfertilized.label>极地枭猫蛋(未受精)</EggArcticOwlcatUnfertilized.label>
+  <!-- EN: The prickly egg of an owlcat, mimicing the features of a pinecone. It can be eaten raw but it's much better cooked. -->
+  <EggArcticOwlcatUnfertilized.description>枭猫蛋的外形像个松果。可以生吃，但最好烹饪后食用。</EggArcticOwlcatUnfertilized.description>
+  
+  <!-- EN: forest owlcat egg (fert.) -->
+  <EggOwlcatFertilized.label>森林枭猫蛋(已受精)</EggOwlcatFertilized.label>
+  <!-- EN: A fertilized owlcat egg. If all goes well, it should hatch into a owlkitten. It is very nutritious and can be eaten raw, but it's much better cooked. -->
+  <EggOwlcatFertilized.description>已受精的枭猫蛋。如果一切顺利应该可以孵化出枭猫幼崽。非常有营养，可以生吃，但最好烹饪后食用。</EggOwlcatFertilized.description>
+  
+  <!-- EN: forest owlcat egg (unfert.) -->
+  <EggOwlcatUnfertilized.label>森林枭猫蛋(未受精)</EggOwlcatUnfertilized.label>
+  <!-- EN: The prickly egg of an owlcat, mimicing the features of a pinecone. It can be eaten raw but it's much better cooked. -->
+  <EggOwlcatUnfertilized.description>枭猫蛋的外形像个松果。可以生吃，但最好烹饪后食用。</EggOwlcatUnfertilized.description>
+  
+</LanguageData>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleshcrafted arm -->
+  <VME_FleshcraftedArmHediff.label>血肉重塑臂</VME_FleshcraftedArmHediff.label>
+  <!-- EN: An installed fleshcrafted arm. -->
+  <VME_FleshcraftedArmHediff.description>一条已安装的血肉重塑臂。</VME_FleshcraftedArmHediff.description>
+  <!-- EN: fist -->
+  <VME_FleshcraftedArmHediff.comps.HediffComp_VerbGiver.tools.fist.label>拳头</VME_FleshcraftedArmHediff.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a fleshcrafted arm -->
+  <VME_FleshcraftedArmHediff.labelNoun>血肉重塑臂</VME_FleshcraftedArmHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted ear -->
+  <VME_FleshcraftedEarHediff.label>血肉重塑耳</VME_FleshcraftedEarHediff.label>
+  <!-- EN: An installed fleshcrafted ear. -->
+  <VME_FleshcraftedEarHediff.description>一只已安装的血肉重塑耳。</VME_FleshcraftedEarHediff.description>
+  <!-- EN: a fleshcrafted ear -->
+  <VME_FleshcraftedEarHediff.labelNoun>血肉重塑耳</VME_FleshcraftedEarHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted eye -->
+  <VME_FleshcraftedEyeHediff.label>血肉重塑眼</VME_FleshcraftedEyeHediff.label>
+  <!-- EN: An installed fleshcrafted eye. -->
+  <VME_FleshcraftedEyeHediff.description>一个已安装的血肉重塑眼。</VME_FleshcraftedEyeHediff.description>
+  <!-- EN: a fleshcrafted eye -->
+  <VME_FleshcraftedEyeHediff.labelNoun>血肉重塑眼</VME_FleshcraftedEyeHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted finger -->
+  <VME_FleshcraftedFingerHediff.label>血肉重塑指</VME_FleshcraftedFingerHediff.label>
+  <!-- EN: An installed fleshcrafted finger. -->
+  <VME_FleshcraftedFingerHediff.description>一根已安装的血肉重塑指。</VME_FleshcraftedFingerHediff.description>
+  <!-- EN: a fleshcrafted finger -->
+  <VME_FleshcraftedFingerHediff.labelNoun>血肉重塑指</VME_FleshcraftedFingerHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted foot -->
+  <VME_FleshcraftedFootHediff.label>血肉重塑足</VME_FleshcraftedFootHediff.label>
+  <!-- EN: An installed fleshcrafted foot. -->
+  <VME_FleshcraftedFootHediff.description>一个已安装的血肉重塑足。</VME_FleshcraftedFootHediff.description>
+  <!-- EN: a fleshcrafted foot -->
+  <VME_FleshcraftedFootHediff.labelNoun>血肉重塑足</VME_FleshcraftedFootHediff.labelNoun>
+
+  <!-- EN: fleshcrafted hand -->
+  <VME_FleshcraftedHandHediff.label>血肉重塑手</VME_FleshcraftedHandHediff.label>
+  <!-- EN: An installed fleshcrafted hand. -->
+  <VME_FleshcraftedHandHediff.description>一个已安装的血肉重塑手。</VME_FleshcraftedHandHediff.description>
+  <!-- EN: fist -->
+  <VME_FleshcraftedHandHediff.comps.HediffComp_VerbGiver.tools.fist.label>拳头</VME_FleshcraftedHandHediff.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a fleshcrafted hand -->
+  <VME_FleshcraftedHandHediff.labelNoun>血肉重塑手</VME_FleshcraftedHandHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted heart -->
+  <VME_FleshcraftedHeartHediff.label>血肉重塑心脏</VME_FleshcraftedHeartHediff.label>
+  <!-- EN: An installed fleshcrafted heart. -->
+  <VME_FleshcraftedHeartHediff.description>一个已安装的血肉重塑心脏。</VME_FleshcraftedHeartHediff.description>
+  <!-- EN: a fleshcrafted heart -->
+  <VME_FleshcraftedHeartHediff.labelNoun>血肉重塑心脏</VME_FleshcraftedHeartHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted jaw -->
+  <VME_FleshcraftedJawHediff.label>血肉重塑颌</VME_FleshcraftedJawHediff.label>
+  <!-- EN: An installed fleshcrafted jaw. -->
+  <VME_FleshcraftedJawHediff.description>一个已安装的血肉重塑颌。</VME_FleshcraftedJawHediff.description>
+  <!-- EN: a fleshcrafted jaw -->
+  <VME_FleshcraftedJawHediff.labelNoun>血肉重塑颌</VME_FleshcraftedJawHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted kidney -->
+  <VME_FleshcraftedKidneyHediff.label>血肉重塑肾</VME_FleshcraftedKidneyHediff.label>
+  <!-- EN: An installed fleshcrafted kidney. -->
+  <VME_FleshcraftedKidneyHediff.description>一个已安装的血肉重塑肾。</VME_FleshcraftedKidneyHediff.description>
+  <!-- EN: a fleshcrafted kidney -->
+  <VME_FleshcraftedKidneyHediff.labelNoun>血肉重塑肾</VME_FleshcraftedKidneyHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted leg -->
+  <VME_FleshcraftedLegHediff.label>血肉重塑腿</VME_FleshcraftedLegHediff.label>
+  <!-- EN: An installed fleshcrafted leg. -->
+  <VME_FleshcraftedLegHediff.description>一条已安装的血肉重塑腿。</VME_FleshcraftedLegHediff.description>
+  <!-- EN: a fleshcrafted leg -->
+  <VME_FleshcraftedLegHediff.labelNoun>血肉重塑腿</VME_FleshcraftedLegHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted liver -->
+  <VME_FleshcraftedLiverHediff.label>血肉重塑肝</VME_FleshcraftedLiverHediff.label>
+  <!-- EN: An installed fleshcrafted liver. -->
+  <VME_FleshcraftedLiverHediff.description>一个已安装的血肉重塑肝。</VME_FleshcraftedLiverHediff.description>
+  <!-- EN: a fleshcrafted liver -->
+  <VME_FleshcraftedLiverHediff.labelNoun>血肉重塑肝</VME_FleshcraftedLiverHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted lung -->
+  <VME_FleshcraftedLungHediff.label>血肉重塑肺</VME_FleshcraftedLungHediff.label>
+  <!-- EN: An installed fleshcrafted lung. -->
+  <VME_FleshcraftedLungHediff.description>一个已安装的血肉重塑肺。</VME_FleshcraftedLungHediff.description>
+  <!-- EN: a fleshcrafted lung -->
+  <VME_FleshcraftedLungHediff.labelNoun>血肉重塑肺</VME_FleshcraftedLungHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted nose -->
+  <VME_FleshcraftedNoseHediff.label>血肉重塑鼻</VME_FleshcraftedNoseHediff.label>
+  <!-- EN: An installed fleshcrafted nose. -->
+  <VME_FleshcraftedNoseHediff.description>一个已安装的血肉重塑鼻。</VME_FleshcraftedNoseHediff.description>
+  <!-- EN: a fleshcrafted nose -->
+  <VME_FleshcraftedNoseHediff.labelNoun>血肉重塑鼻</VME_FleshcraftedNoseHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted spine -->
+  <VME_FleshcraftedSpineHediff.label>血肉重塑脊椎</VME_FleshcraftedSpineHediff.label>
+  <!-- EN: An installed fleshcrafted spine. -->
+  <VME_FleshcraftedSpineHediff.description>一个已安装的血肉重塑脊椎。</VME_FleshcraftedSpineHediff.description>
+  <!-- EN: a fleshcrafted spine -->
+  <VME_FleshcraftedSpineHediff.labelNoun>血肉重塑脊椎</VME_FleshcraftedSpineHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted stomach -->
+  <VME_FleshcraftedStomachHediff.label>血肉重塑胃</VME_FleshcraftedStomachHediff.label>
+  <!-- EN: An installed fleshcrafted stomach. -->
+  <VME_FleshcraftedStomachHediff.description>一个已安装的血肉重塑胃。</VME_FleshcraftedStomachHediff.description>
+  <!-- EN: a fleshcrafted stomach -->
+  <VME_FleshcraftedStomachHediff.labelNoun>血肉重塑胃</VME_FleshcraftedStomachHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted toe -->
+  <VME_FleshcraftedToeHediff.label>血肉重塑趾</VME_FleshcraftedToeHediff.label>
+  <!-- EN: An installed fleshcrafted toe. -->
+  <VME_FleshcraftedToeHediff.description>一根已安装的血肉重塑趾。</VME_FleshcraftedToeHediff.description>
+  <!-- EN: a fleshcrafted toe -->
+  <VME_FleshcraftedToeHediff.labelNoun>血肉重塑趾</VME_FleshcraftedToeHediff.labelNoun>
+  
+  <!-- EN: fleshcrafted tongue -->
+  <VME_FleshcraftedTongueHediff.label>血肉重塑舌</VME_FleshcraftedTongueHediff.label>
+  <!-- EN: An installed fleshcrafted tongue. -->
+  <VME_FleshcraftedTongueHediff.description>一条已安装的血肉重塑舌。</VME_FleshcraftedTongueHediff.description>
+  <!-- EN: a fleshcrafted tongue -->
+  <VME_FleshcraftedTongueHediff.labelNoun>血肉重塑舌</VME_FleshcraftedTongueHediff.labelNoun>
+  
+</LanguageData>

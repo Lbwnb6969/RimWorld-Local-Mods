@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: frogleap -->
+  <DA_FrogLeap.label>蛙跳</DA_FrogLeap.label>
+  <!-- EN: Jump a short distance using densely-muscled frog legs. -->
+  <DA_FrogLeap.description>用强而有力的蛙腿跳跃一小段距离</DA_FrogLeap.description>
+  <!-- EN: leap -->
+  <DA_FrogLeap.verbProperties.label>跳跃</DA_FrogLeap.verbProperties.label>
+  
+</LanguageData>

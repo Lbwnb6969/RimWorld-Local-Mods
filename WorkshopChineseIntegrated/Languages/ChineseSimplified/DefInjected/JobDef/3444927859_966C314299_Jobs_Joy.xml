@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shooting at archery. -->
+  <VFEM2_Play_Archery.reportString>正在向靶子射箭。</VFEM2_Play_Archery.reportString>
+  
+  <!-- EN: training at dummy. -->
+  <VFEM2_Play_TrainingDummy.reportString>正在和假人对练。</VFEM2_Play_TrainingDummy.reportString>
+  
+</LanguageData>

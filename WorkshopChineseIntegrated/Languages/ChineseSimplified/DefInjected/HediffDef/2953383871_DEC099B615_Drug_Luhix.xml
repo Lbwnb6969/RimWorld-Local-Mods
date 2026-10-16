@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_High_Luhix.label>乐喜思亢奋</DankPyon_High_Luhix.label>
+  <DankPyon_High_Luhix.description>乐喜思的成分经由血液输送到全身，它能大大增强记忆力和学习能力，此外，心灵能力者服用后能略微增加精神力。</DankPyon_High_Luhix.description>
+  <DankPyon_High_Luhix.labelNoun>乐喜思亢奋</DankPyon_High_Luhix.labelNoun>
+
+  <DankPyon_Addiction_Luhix.label>乐喜思成瘾</DankPyon_Addiction_Luhix.label>
+  <DankPyon_Addiction_Luhix.description>乐喜思的化学成瘾。长期饮用乐喜思会造成细胞内的神经适应，导致大脑没有乐喜思的话就无法运作。</DankPyon_Addiction_Luhix.description>
+  <DankPyon_Addiction_Luhix.stages.1.label>戒断</DankPyon_Addiction_Luhix.stages.1.label>
+
+  <DankPyon_Tolerance_Luhix.label>乐喜思耐受</DankPyon_Tolerance_Luhix.label>
+  <DankPyon_Tolerance_Luhix.description>对乐喜思的耐受性。耐受性越严重，达到同样效果所需要摄入的乐喜思也就越多。</DankPyon_Tolerance_Luhix.description>
+  <DankPyon_Tolerance_Luhix.stages.small.label>轻微</DankPyon_Tolerance_Luhix.stages.small.label>
+  <DankPyon_Tolerance_Luhix.stages.large.label>强烈</DankPyon_Tolerance_Luhix.stages.large.label>
+  <DankPyon_Tolerance_Luhix.stages.massive.label>极强</DankPyon_Tolerance_Luhix.stages.massive.label>
+
+</LanguageData>

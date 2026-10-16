@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MOT_MakeOre_Emerald.description>在地下深处开采以获得绿宝石。</MOT_MakeOre_Emerald.description>
+  <MOT_MakeOre_Emerald.label>开采绿宝石(MO Tweaks)</MOT_MakeOre_Emerald.label>
+  <MOT_MakeOre_Emerald.jobString>正在开采绿宝石。</MOT_MakeOre_Emerald.jobString>
+
+  <MOT_MakeOre_Sapphire.description>在地下深处开采以获得蓝宝石。</MOT_MakeOre_Sapphire.description>
+  <MOT_MakeOre_Sapphire.label>开采蓝宝石(MO Tweaks)</MOT_MakeOre_Sapphire.label>
+  <MOT_MakeOre_Sapphire.jobString>正在开采蓝宝石。</MOT_MakeOre_Sapphire.jobString>
+
+  <MOT_MakeOre_Onyx.description>在地下深处开采以获得玛瑙。</MOT_MakeOre_Onyx.description>
+  <MOT_MakeOre_Onyx.label>开采玛瑙(MO Tweaks)</MOT_MakeOre_Onyx.label>
+  <MOT_MakeOre_Onyx.jobString>正在开采玛瑙。</MOT_MakeOre_Onyx.jobString>
+
+  <MOT_MakeOre_Amber.description>在地下深处开采以获得琥珀。</MOT_MakeOre_Amber.description>
+  <MOT_MakeOre_Amber.label>开采琥珀(MO Tweaks)</MOT_MakeOre_Amber.label>
+  <MOT_MakeOre_Amber.jobString>正在开采琥珀。</MOT_MakeOre_Amber.jobString>
+
+  <MOT_MakeOre_Citrine.description>在地下深处开采以获得黄水晶。</MOT_MakeOre_Citrine.description>
+  <MOT_MakeOre_Citrine.label>开采黄水晶(MO Tweaks)</MOT_MakeOre_Citrine.label>
+  <MOT_MakeOre_Citrine.jobString>正在开采黄水晶。</MOT_MakeOre_Citrine.jobString>
+
+  <MOT_MakeOre_Ruby.description>在地下深处开采以获得红宝石。</MOT_MakeOre_Ruby.description>
+  <MOT_MakeOre_Ruby.label>开采红宝石(MO Tweaks)</MOT_MakeOre_Ruby.label>
+  <MOT_MakeOre_Ruby.jobString>正在开采红宝石。</MOT_MakeOre_Ruby.jobString>
+
+  <MOT_MakeOre_jade.description>在地下深处开采以获得翡翠。</MOT_MakeOre_jade.description>
+  <MOT_MakeOre_jade.label>开采翡翠(MO Tweaks)</MOT_MakeOre_jade.label>
+  <MOT_MakeOre_jade.jobString>正在开采翡翠。</MOT_MakeOre_jade.jobString>
+
+</LanguageData>

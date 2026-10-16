@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: strange stone formation -->
+  <DA_HibernatingRockTroll.label>奇怪的石头构造</DA_HibernatingRockTroll.label>
+  <!-- EN: A large jagged rock formation. -->
+  <DA_HibernatingRockTroll.description>一大堆参差不齐的石头</DA_HibernatingRockTroll.description>
+  <!-- EN: Rock troll sighted -->
+  <DA_HibernatingRockTroll.comps.CompEmergingAnimal.earlyEmergeLetterLabel>发现石巨魔</DA_HibernatingRockTroll.comps.CompEmergingAnimal.earlyEmergeLetterLabel>
+  <!-- EN: A large quake occured and a rock troll emerged ! Stories of the beast are told from far and wide. Walls of stone turned into rubble and entire villages ravaged by its wrath. Taking it down will be no small feat. -->
+  <DA_HibernatingRockTroll.comps.CompEmergingAnimal.earlyEmergeLetterText>在剧烈的地震中，一头石巨魔冲出地面。这野兽臭名远扬，传说中石墙会被碾成碎石，整个村庄都会在它的怒火中燃烧。想击倒它可不容易。</DA_HibernatingRockTroll.comps.CompEmergingAnimal.earlyEmergeLetterText>
+  <!-- EN: Strange stone formation -->
+  <DA_HibernatingRockTroll.comps.CompProximityLetter.letterLabel>奇怪的石头构造</DA_HibernatingRockTroll.comps.CompProximityLetter.letterLabel>
+  <!-- EN: {PAWN_nameDef} has noticed a seemingly large chunk of stone emerging from the earth. Valuable minerals could be found within.\n\nA small thumping can be heard from beneath. -->
+  <DA_HibernatingRockTroll.comps.CompProximityLetter.letterText>{PAWN_nameDef}注意到有一大块怪石头突出地表。在其中能找到珍贵的矿物。\n\n地表下能听到微微的心跳声。</DA_HibernatingRockTroll.comps.CompProximityLetter.letterText>
+  
+  <!-- EN: rock troll -->
+  <DA_RockTroll.label>石巨魔</DA_RockTroll.label>
+  <!-- EN: The rock troll is a colossal, eyeless creature often found living in caves and underground chasms. Much more reclusive than its northern cousins, the rock troll will only surface from its underground lair when provoked.\n\nLacking regenerative abilities, the rock troll makes up for it through a strange process known as self-petrification. Any open wound will almost immediately be closed by ultra-fast blood clotting that ossifies soon after, creating dense stone-like formations that provide the beast with temporary ablative armor. -->
+  <DA_RockTroll.description>石巨魔是一直居住在洞穴和地底裂谷中的巨型无眼生物。比它们的北方表亲更罕见，石巨魔只会在被激怒后才会从它们地下的巢穴中起身。\n\n虽然没有超快的再生能力，但它们的自石化能力能将渗出的血液转化为石甲，提供强力的临时保护。</DA_RockTroll.description>
+  <!-- EN: head -->
+  <DA_RockTroll.tools.head.label>头</DA_RockTroll.tools.head.label>
+  <!-- EN: left claw -->
+  <DA_RockTroll.tools.left_claw.label>左爪</DA_RockTroll.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <DA_RockTroll.tools.right_claw.label>右爪</DA_RockTroll.tools.right_claw.label>
+  
+</LanguageData>

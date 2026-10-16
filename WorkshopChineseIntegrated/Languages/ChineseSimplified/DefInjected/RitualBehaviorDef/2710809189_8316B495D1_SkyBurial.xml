@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_SkyBurialBehavior.roles.0.label>演讲者</AM_SkyBurialBehavior.roles.0.label>
+  <!-- EN: Corpse -->
+  <AM_SkyBurialBehavior.roles.1.label>尸体</AM_SkyBurialBehavior.roles.1.label>
+  <!-- EN: Spectators must be alive. -->
+  <AM_SkyBurialBehavior.spectatorFilter.description>观众必须为活着的殖民者。</AM_SkyBurialBehavior.spectatorFilter.description>
+  
+</LanguageData>

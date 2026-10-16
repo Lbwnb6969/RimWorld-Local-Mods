@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallIronArm.label>安装 铁臂</InstallIronArm.label>
+  <InstallIronArm.description>安装 铁臂。</InstallIronArm.description>
+  <InstallIronArm.jobString>正在安装 铁臂。</InstallIronArm.jobString>
+
+  <InstallProstheticHook.label>安装 钩手</InstallProstheticHook.label>
+  <InstallProstheticHook.description>安装 钩手。</InstallProstheticHook.description>
+  <InstallProstheticHook.jobString>正在安装 钩手。</InstallProstheticHook.jobString>
+
+  <InstallWoodenFoot.label>安装 木脚</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>安装 木脚。</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>正在安装 木脚。</InstallWoodenFoot.jobString>
+
+  <InstallWoodenToe.label>安装 木趾</InstallWoodenToe.label>
+  <InstallWoodenToe.description>安装 木趾。</InstallWoodenToe.description>
+  <InstallWoodenToe.jobString>正在安装 木趾。</InstallWoodenToe.jobString>
+
+  <InstallWoodenFinger.label>安装 木指</InstallWoodenFinger.label>
+  <InstallWoodenFinger.description>安装 木指。</InstallWoodenFinger.description>
+  <InstallWoodenFinger.jobString>正在安装 木指。</InstallWoodenFinger.jobString>
+
+  <InstallWoodenNose.label>安装 木鼻</InstallWoodenNose.label>
+  <InstallWoodenNose.description>安装 木鼻。</InstallWoodenNose.description>
+  <InstallWoodenNose.jobString>正在安装 木鼻。</InstallWoodenNose.jobString>
+
+  <InstallEyePatch.label>安装 眼罩</InstallEyePatch.label>
+  <InstallEyePatch.description>安装 眼罩。</InstallEyePatch.description>
+  <InstallEyePatch.jobString>正在安装 眼罩。</InstallEyePatch.jobString>
+
+  <InstallEarPatch.label>安装 耳罩</InstallEarPatch.label>
+  <InstallEarPatch.description>安装 耳罩。</InstallEarPatch.description>
+  <InstallEarPatch.jobString>正在安装 耳罩。</InstallEarPatch.jobString>
+
+
+</LanguageData>

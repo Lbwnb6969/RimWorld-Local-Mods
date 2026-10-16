@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MThingsGeysers_StonevatNotWorking>石制酿造缸当前无法工作。</MThingsGeysers_StonevatNotWorking>
+  <MThingsGeysers_Settings_Category>中世纪工艺：地热喷泉</MThingsGeysers_Settings_Category>
+  <MThingsGeysers_Settings_Label>地热喷泉核心设置：</MThingsGeysers_Settings_Label>
+  <MThingsGeysers_Settings_EnableAutoRefuel>启用地热喷泉核心自动补充燃料</MThingsGeysers_Settings_EnableAutoRefuel>
+  <MThingsGeysers_Settings_WorkSpeedFactor>工作速度加成（需要重载）</MThingsGeysers_Settings_WorkSpeedFactor>
+  <MThingsGeysers_Settings_CoreLinkRange>地热喷泉核心连接范围</MThingsGeysers_Settings_CoreLinkRange>
+  <MThingsGeysers_Settings_MagicyteLabel>魔晶石采集器设置：</MThingsGeysers_Settings_MagicyteLabel>
+  <MThingsGeysers_Settings_MagicytePerDay>每日生产魔晶石：</MThingsGeysers_Settings_MagicytePerDay>
+  <MThingsGeysers_Settings_MaxMagicyte>魔晶石最大储量：</MThingsGeysers_Settings_MaxMagicyte>
+  <MThingsGeysers_Settings_PsyfocusBoosterRate>灵能专注增幅率（需要重载）</MThingsGeysers_Settings_PsyfocusBoosterRate>
+  <MThingsGeysers_Inspect_PoweredBy>地热喷泉驱动。</MThingsGeysers_Inspect_PoweredBy>
+  <MThingsGeysers_Inspect_AutoRefuel>自动补充燃料</MThingsGeysers_Inspect_AutoRefuel>
+  <MThingsGeysers_Command_EjectMagicyte_Label>排出魔晶石</MThingsGeysers_Command_EjectMagicyte_Label>
+  <MThingsGeysers_Command_EjectMagicyte_Desc>将储存的全部魔晶石手动排出到地面。</MThingsGeysers_Command_EjectMagicyte_Desc>
+  <MThingsGeysers_Command_EjectMagicyte_Success>已排出魔晶石。</MThingsGeysers_Command_EjectMagicyte_Success>
+  <MThingsGeysers_Command_EjectMagicyte_Fail>储存的魔晶石不足，无法排出。</MThingsGeysers_Command_EjectMagicyte_Fail>
+  <MThingsGeysers_Inspect_MagicyteStored>储存的魔晶石：</MThingsGeysers_Inspect_MagicyteStored>
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestate farming spider -->
+  <VR_MakeConstruct_Agrihand.label>孕育园艺机</VR_MakeConstruct_Agrihand.label>
+  <!-- EN: Gestate a farming spider construct. -->
+  <VR_MakeConstruct_Agrihand.description>孕育一个园艺机构装体。</VR_MakeConstruct_Agrihand.description>
+  <!-- EN: Gestating mech. -->
+  <VR_MakeConstruct_Agrihand.jobString>孕育构装体中。</VR_MakeConstruct_Agrihand.jobString>
+  
+  <!-- EN: gestate assembler -->
+  <VR_MakeConstruct_Assembler.label>孕育装配机</VR_MakeConstruct_Assembler.label>
+  <!-- EN: Gestate an assembler construct. -->
+  <VR_MakeConstruct_Assembler.description>孕育一个装配机构装体。</VR_MakeConstruct_Assembler.description>
+  <!-- EN: Gestating mech. -->
+  <VR_MakeConstruct_Assembler.jobString>孕育构装体中。</VR_MakeConstruct_Assembler.jobString>
+  
+  <!-- EN: gestate construction spider -->
+  <VR_MakeConstruct_Constructoid.label>孕育建造机</VR_MakeConstruct_Constructoid.label>
+  <!-- EN: Gestate a construction spider construct. -->
+  <VR_MakeConstruct_Constructoid.description>孕育一个建造机构装体。</VR_MakeConstruct_Constructoid.description>
+  <!-- EN: Gestating mech. -->
+  <VR_MakeConstruct_Constructoid.jobString>孕育构装体中。</VR_MakeConstruct_Constructoid.jobString>
+  
+  <!-- EN: gestate transport spider -->
+  <VR_MakeConstruct_Lifter.label>孕育搬运机</VR_MakeConstruct_Lifter.label>
+  <!-- EN: Gestate a transport spider construct. -->
+  <VR_MakeConstruct_Lifter.description>孕育一个搬运机构装体。</VR_MakeConstruct_Lifter.description>
+  <!-- EN: Gestating mech. -->
+  <VR_MakeConstruct_Lifter.jobString>孕育构装体中。</VR_MakeConstruct_Lifter.jobString>
+  
+  <!-- EN: gestate mender -->
+  <VR_MakeConstruct_Mender.label>孕育修护机</VR_MakeConstruct_Mender.label>
+  <!-- EN: Gestate a mender construct. -->
+  <VR_MakeConstruct_Mender.description>孕育一个修护机构装体。</VR_MakeConstruct_Mender.description>
+  <!-- EN: Gestating mech. -->
+  <VR_MakeConstruct_Mender.jobString>孕育构装体中。</VR_MakeConstruct_Mender.jobString>
+  
+  <!-- EN: gestate vanguard (shooter) -->
+  <VR_MakeConstruct_Militor.label>孕育构装体辅兵</VR_MakeConstruct_Militor.label>
+  <!-- EN: Gestate a vanguard construct. -->
+  <VR_MakeConstruct_Militor.description>孕育一个构装体辅兵。</VR_MakeConstruct_Militor.description>
+  <!-- EN: Gestating mech. -->
+  <VR_MakeConstruct_Militor.jobString>孕育构装体中。</VR_MakeConstruct_Militor.jobString>
+  
+  <!-- EN: gestate vanguard (melee) -->
+  <VR_MakeConstruct_Militor_Melee.label>孕育构装体辅兵（近战）</VR_MakeConstruct_Militor_Melee.label>
+  <!-- EN: Gestate a vanguard construct. -->
+  <VR_MakeConstruct_Militor_Melee.description>孕育一个近战构装体辅兵。</VR_MakeConstruct_Militor_Melee.description>
+  <!-- EN: Gestating mech. -->
+  <VR_MakeConstruct_Militor_Melee.jobString>孕育构装体中。</VR_MakeConstruct_Militor_Melee.jobString>
+  
+</LanguageData>

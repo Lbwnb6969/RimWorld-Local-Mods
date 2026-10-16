@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 : Commoner, Laborer, Trader -->
+
+  <Accurex_Medieval_Settlement_Peasant.label>帝国农民</Accurex_Medieval_Settlement_Peasant.label>
+  <Accurex_Medieval_Settlement_Peasant.labelPlural>帝国农民</Accurex_Medieval_Settlement_Peasant.labelPlural>
+
+  <Accurex_Medieval_Settlement_Laborer.label>帝国工人</Accurex_Medieval_Settlement_Laborer.label>
+  <Accurex_Medieval_Settlement_Laborer.labelPlural>帝国工人</Accurex_Medieval_Settlement_Laborer.labelPlural>
+
+  <Accurex_Medieval_Settlement_Trader.label>帝国贸易商</Accurex_Medieval_Settlement_Trader.label>
+  <Accurex_Medieval_Settlement_Trader.labelPlural>帝国贸易商</Accurex_Medieval_Settlement_Trader.labelPlural>
+
+
+  <!-- Tier 1 : Mercenary -->
+
+  <Accurex_Medieval_Settlement_Mercenary.label>帝国佣兵</Accurex_Medieval_Settlement_Mercenary.label>
+  <Accurex_Medieval_Settlement_Mercenary.labelPlural>帝国佣兵</Accurex_Medieval_Settlement_Mercenary.labelPlural>
+
+
+  <!-- Tier 2 : Light Infantry -->
+
+  <Accurex_Medieval_Settlement_Light_Infantry.label>帝国轻步兵</Accurex_Medieval_Settlement_Light_Infantry.label>
+  <Accurex_Medieval_Settlement_Light_Infantry.labelPlural>帝国轻步兵</Accurex_Medieval_Settlement_Light_Infantry.labelPlural>
+
+  <Accurex_Medieval_Settlement_WallGuard.label>帝国轻步兵</Accurex_Medieval_Settlement_WallGuard.label>
+  <Accurex_Medieval_Settlement_WallGuard.labelPlural>帝国轻步兵</Accurex_Medieval_Settlement_WallGuard.labelPlural>
+
+  <!-- Tier 3 : Heavy Infantry -->
+
+  <Accurex_Medieval_Settlement_Grenadier.label>帝国重步兵</Accurex_Medieval_Settlement_Grenadier.label>
+  <Accurex_Medieval_Settlement_Grenadier.labelPlural>帝国重步兵</Accurex_Medieval_Settlement_Grenadier.labelPlural>
+
+  <Accurex_Medieval_Settlement_Heavy_Infantry.label>帝国重步兵</Accurex_Medieval_Settlement_Heavy_Infantry.label>
+  <Accurex_Medieval_Settlement_Heavy_Infantry.labelPlural>帝国重步兵</Accurex_Medieval_Settlement_Heavy_Infantry.labelPlural>
+
+
+  <!-- Tier 4 : Crusader & Lord -->
+
+  <Accurex_Medieval_Settlement_Crusader_M.label>帝国十字军</Accurex_Medieval_Settlement_Crusader_M.label>
+  <Accurex_Medieval_Settlement_Crusader_M.labelPlural>帝国十字军</Accurex_Medieval_Settlement_Crusader_M.labelPlural>
+
+  <Accurex_Medieval_Settlement_Crusader_R.label>帝国十字军</Accurex_Medieval_Settlement_Crusader_R.label>
+  <Accurex_Medieval_Settlement_Crusader_R.labelPlural>帝国十字军</Accurex_Medieval_Settlement_Crusader_R.labelPlural>
+
+  <Accurex_Medieval_Settlement_Crusader.label>帝国十字军</Accurex_Medieval_Settlement_Crusader.label>
+  <Accurex_Medieval_Settlement_Crusader.labelPlural>帝国十字军</Accurex_Medieval_Settlement_Crusader.labelPlural>
+
+  <Accurex_Medieval_Settlement_Lord.label>帝国禁卫军</Accurex_Medieval_Settlement_Lord.label>
+  <Accurex_Medieval_Settlement_Lord.labelPlural>帝国禁卫军</Accurex_Medieval_Settlement_Lord.labelPlural>
+
+  <Accurex_Medieval_Settlement_Ruler.label>封建统治者</Accurex_Medieval_Settlement_Ruler.label>
+  <Accurex_Medieval_Settlement_Ruler.labelPlural>封建统治者</Accurex_Medieval_Settlement_Ruler.labelPlural>
+
+</LanguageData>

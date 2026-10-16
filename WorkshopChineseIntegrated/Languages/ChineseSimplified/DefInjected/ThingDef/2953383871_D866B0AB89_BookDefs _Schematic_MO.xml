@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Schematic -->
+
+  <DankPyon_Schematic_MilitaryBlades.label>原理图：军用刀剑</DankPyon_Schematic_MilitaryBlades.label>
+  <DankPyon_Schematic_MilitaryBlades.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_MilitaryBlades.description>
+
+  <DankPyon_Schematic_NobleBlades.label>原理图：贵族刀剑</DankPyon_Schematic_NobleBlades.label>
+  <DankPyon_Schematic_NobleBlades.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_NobleBlades.description>
+
+  <DankPyon_Schematic_MilitaryMaces.label>原理图：军用棒锤</DankPyon_Schematic_MilitaryMaces.label>
+  <DankPyon_Schematic_MilitaryMaces.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_MilitaryMaces.description>
+
+  <DankPyon_Schematic_NobleMaces.label>原理图：贵族棒锤</DankPyon_Schematic_NobleMaces.label>
+  <DankPyon_Schematic_NobleMaces.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_NobleMaces.description>
+
+  <DankPyon_Schematic_MilitaryPolearms.label>原理图：军用长柄武器</DankPyon_Schematic_MilitaryPolearms.label>
+  <DankPyon_Schematic_MilitaryPolearms.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_MilitaryPolearms.description>
+
+  <DankPyon_Schematic_NoblePolearms.label>原理图：贵族长柄武器</DankPyon_Schematic_NoblePolearms.label>
+  <DankPyon_Schematic_NoblePolearms.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_NoblePolearms.description>
+
+  <DankPyon_Schematic_Crossbow.label>原理图：弩</DankPyon_Schematic_Crossbow.label>
+  <DankPyon_Schematic_Crossbow.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_Crossbow.description>
+
+  <DankPyon_Schematic_HeavyCrossbow.label>原理图：强弩</DankPyon_Schematic_HeavyCrossbow.label>
+  <DankPyon_Schematic_HeavyCrossbow.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_HeavyCrossbow.description>
+
+  <DankPyon_Schematic_Steel.label>原理图：冶钢</DankPyon_Schematic_Steel.label>
+  <DankPyon_Schematic_Steel.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_Steel.description>
+
+  <DankPyon_Schematic_Gunpowder.label>原理图：火药制作</DankPyon_Schematic_Gunpowder.label>
+  <DankPyon_Schematic_Gunpowder.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_Gunpowder.description>
+
+  <DankPyon_Schematic_Tar.label>原理图：焦油制作</DankPyon_Schematic_Tar.label>
+  <DankPyon_Schematic_Tar.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_Tar.description>
+
+  <DankPyon_Schematic_GreatBow.label>原理图：大型弓</DankPyon_Schematic_GreatBow.label>
+  <DankPyon_Schematic_GreatBow.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_GreatBow.description>
+
+  <DankPyon_Schematic_WarBow.label>原理图：战弓</DankPyon_Schematic_WarBow.label>
+  <DankPyon_Schematic_WarBow.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_WarBow.description>
+
+  <DankPyon_Schematic_IntermediateCooking.label>原理图：进阶烹饪</DankPyon_Schematic_IntermediateCooking.label>
+  <DankPyon_Schematic_IntermediateCooking.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_IntermediateCooking.description>
+
+  <DankPyon_Schematic_AdvancedCooking.label>原理图：高级烹饪</DankPyon_Schematic_AdvancedCooking.label>
+  <DankPyon_Schematic_AdvancedCooking.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_AdvancedCooking.description>
+
+  <DankPyon_Schematic_BallistaRepeater.label>原理图：连发弩炮</DankPyon_Schematic_BallistaRepeater.label>
+  <DankPyon_Schematic_BallistaRepeater.description>详尽记载着各式技术及其原理的文件，阅读这些图解文件有助于发现新的科技进展和隐藏的知识。将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Schematic_BallistaRepeater.description>
+
+</LanguageData>

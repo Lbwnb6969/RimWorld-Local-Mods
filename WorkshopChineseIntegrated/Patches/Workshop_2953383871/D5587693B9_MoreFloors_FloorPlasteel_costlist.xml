@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>[T] MoreFloors</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<!--change FloorPlasteel costlist-->
+				<li Class="PatchOperationConditional">
+					<xpath>Defs/TerrainDef[defName="FloorPlasteel"]/costList/ComponentIndustrial</xpath>
+					<match Class="PatchOperationReplace">
+						<xpath>Defs/TerrainDef[defName="FloorPlasteel"]/costList/ComponentIndustrial</xpath>
+							<value>
+								<DankPyon_ComponentBasic>1</DankPyon_ComponentBasic>
+							</value>
+					</match>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

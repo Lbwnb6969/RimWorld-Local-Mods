@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_CoffeeRoastingBehavior.roles.0.label>演讲者</AM_CoffeeRoastingBehavior.roles.0.label>
+  <!-- EN: participate -->
+  <AM_CoffeeRoastingBehavior.spectatorGerund>参加</AM_CoffeeRoastingBehavior.spectatorGerund>
+  <!-- EN: Participants -->
+  <AM_CoffeeRoastingBehavior.spectatorsLabel>参与者</AM_CoffeeRoastingBehavior.spectatorsLabel>
+  
+</LanguageData>

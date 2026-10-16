@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: streamlined arrow (plasteel) -->
+  <Projectile_SteppeBow_Plasteel.label>箭矢 (塑钢)</Projectile_SteppeBow_Plasteel.label>
+  
+  <!-- EN: streamlined arrow (steel) -->
+  <Projectile_SteppeBow_Steel.label>箭矢 (钢铁)</Projectile_SteppeBow_Steel.label>
+  
+  <!-- EN: streamlined arrow (stone) -->
+  <Projectile_SteppeBow_Stone.label>箭矢 (石)</Projectile_SteppeBow_Stone.label>
+  
+  <!-- EN: steppe  warbow -->
+  <TA_Bow_SteppeBow.label>草原战弓</TA_Bow_SteppeBow.label>
+  <!-- EN: . -->
+  <TA_Bow_SteppeBow.description>专为骑射设计的复合弓，射程远且便于马上使用。</TA_Bow_SteppeBow.description>
+  <!-- EN: steppe  warbow -->
+  <TA_Bow_SteppeBow.verbs.Verb_ShootCE.label>射击</TA_Bow_SteppeBow.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

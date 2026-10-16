@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Omega Pariah -->
+  <BEWH_OmegaPariah.stages.Omega_Pariah.label>身为Ⅲ级无魂者</BEWH_OmegaPariah.stages.Omega_Pariah.label>
+  <!-- EN: I am nothing, yet I am everything they fear. The warp crumbles in my presence, its whispers silenced, its corruption halted. I am the void, the end of the unnatural, and the last hope against the darkness. -->
+  <BEWH_OmegaPariah.stages.Omega_Pariah.description>我即虚无，亦为众生所惧。亚空间在我面前崩塌，它的低语沉寂，它的腐化止息。我即虚空，非自然之物的终结，亦是抵御黑暗的最后希望。</BEWH_OmegaPariah.stages.Omega_Pariah.description>
+  
+  <!-- EN: Pariah -->
+  <BEWH_OmegaPariahSocial.stages.Pariah.label>无魂者</BEWH_OmegaPariahSocial.stages.Pariah.label>
+  
+  <!-- EN: Sigma Pariah -->
+  <BEWH_SigmaPariah.stages.Sigma_Pariah.label>身为Ⅰ级无魂者</BEWH_SigmaPariah.stages.Sigma_Pariah.label>
+  <!-- EN: The silence... it's all I know. Others recoil from me, their fear and hatred as loud as a battle cry. I am a void in the warp, a shadow in their light. They call me cursed, but I see it as strength - a shield against the corruption that taints them. If my existence is a weapon, so be it. I will endure their scorn to serve humanity. -->
+  <BEWH_SigmaPariah.stages.Sigma_Pariah.description>沉默...是我唯一的朋友。他人对我退避三舍，他们的恐惧与憎恨如战吼般刺耳。我是亚空间中的虚无，他们光明中的阴影。世人称这是我的诅咒，我却以此为盾——抵御侵蚀他们的腐化。若我的存在注定为武器，便如此吧。我愿承受轻蔑，只为守护人类。</BEWH_SigmaPariah.stages.Sigma_Pariah.description>
+  
+  <!-- EN: Pariah -->
+  <BEWH_SigmaPariahSocial.stages.Pariah.label>无魂者</BEWH_SigmaPariahSocial.stages.Pariah.label>
+  
+  <!-- EN: Upsilon Pariah -->
+  <BEWH_UpsilonPariah.stages.Upsilon_Pariah.label>Ⅱ级无魂者</BEWH_UpsilonPariah.stages.Upsilon_Pariah.label>
+  <!-- EN: The emptiness within me consumes all. I am a walking abyss, a terror even to my own kind. Yet, this curse is my weapon, my strength. The warp recoils from me, and with it, so do its foul servants. If isolation is my burden, I will bear it to stand as humanity's unyielding shield against the darkness. -->
+  <BEWH_UpsilonPariah.stages.Upsilon_Pariah.description>我内心中的虚无吞噬了万物。我即行走的深渊，我的同伴也因此畏惧着我。然而，这诅咒便是我的武器，我的力量。亚空间对我退避三舍，它卑劣的仆从随之一同溃逃。若孤寂是我的枷锁，我愿背负它屹立为人类不屈之盾，直面黑暗。</BEWH_UpsilonPariah.stages.Upsilon_Pariah.description>
+  
+  <!-- EN: Pariah -->
+  <BEWH_UpsilonPariahSocial.stages.Pariah.label>无魂者</BEWH_UpsilonPariahSocial.stages.Pariah.label>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abstract -->
+
+  <DankPyon_Make_HerbalExtract.label>制作药草萃取物</DankPyon_Make_HerbalExtract.label>
+  <DankPyon_Make_HerbalExtract.description>制作药草萃取物。</DankPyon_Make_HerbalExtract.description>
+  <DankPyon_Make_HerbalExtract.jobString>正在制作药草萃取物。</DankPyon_Make_HerbalExtract.jobString>
+
+  <DankPyon_Make_HerbalExtractBulk.label>制作药草萃取物 x5</DankPyon_Make_HerbalExtractBulk.label>
+  <DankPyon_Make_HerbalExtractBulk.description>制作5碗药草萃取物。</DankPyon_Make_HerbalExtractBulk.description>
+  <DankPyon_Make_HerbalExtractBulk.jobString>正在制作药草萃取物。</DankPyon_Make_HerbalExtractBulk.jobString>
+
+  <DankPyon_Make_HerbalExtractBulkExtra.label>制作药草萃取物 x10</DankPyon_Make_HerbalExtractBulkExtra.label>
+  <DankPyon_Make_HerbalExtractBulkExtra.description>制作10碗药草萃取物。</DankPyon_Make_HerbalExtractBulkExtra.description>
+  <DankPyon_Make_HerbalExtractBulkExtra.jobString>正在制作药草萃取物。</DankPyon_Make_HerbalExtractBulkExtra.jobString>
+
+
+</LanguageData>

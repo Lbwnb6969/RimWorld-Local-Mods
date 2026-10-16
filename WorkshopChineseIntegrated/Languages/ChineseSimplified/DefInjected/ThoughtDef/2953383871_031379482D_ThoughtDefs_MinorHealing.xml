@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: humours out of balance -->
+  <Joe_MinorHealingThought.stages.humours_out_of_balance.label>喝了红药水(大)</Joe_MinorHealingThought.stages.humours_out_of_balance.label>
+  <!-- EN: My humours seem to be out of balance. I am angry and irritable, with a bitter taste in my mouth. It must be due to that minor healing potion I consumed. -->
+  <Joe_MinorHealingThought.stages.humours_out_of_balance.description>我的情绪不稳，既生气又烦躁，嘴里盈满苦涩的味道。一定是因为服用了那瓶红药水的缘故。</Joe_MinorHealingThought.stages.humours_out_of_balance.description>
+  
+</LanguageData>

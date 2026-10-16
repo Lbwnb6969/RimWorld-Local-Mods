@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: generous slotmachine -->
+  <GenerousSlotmachine.stages.generous_slotmachine.label>运气极佳</GenerousSlotmachine.stages.generous_slotmachine.label>
+  <!-- EN: Feels like the slot machine is very generous today. -->
+  <GenerousSlotmachine.stages.generous_slotmachine.description>幸运之神伴我左右！</GenerousSlotmachine.stages.generous_slotmachine.description>
+
+  <!-- EN: won a game of slots -->
+  <HC_WonSlotMachineGame.stages.won_a_game_of_slots.label>小赢一把</HC_WonSlotMachineGame.stages.won_a_game_of_slots.label>
+  <!-- EN: I had some luck on the pokies! -->
+  <HC_WonSlotMachineGame.stages.won_a_game_of_slots.description>手气不错！</HC_WonSlotMachineGame.stages.won_a_game_of_slots.description>
+  
+  <!-- EN: rigged slotmachine -->
+  <RiggedSlotmachine.stages.rigged_slotmachine.label>质疑老虎机</RiggedSlotmachine.stages.rigged_slotmachine.label>
+  <!-- EN: I think the slot machine is rigged. -->
+  <RiggedSlotmachine.stages.rigged_slotmachine.description>这老虎机的胜率一定是被暗改过吧？有黑幕啊！</RiggedSlotmachine.stages.rigged_slotmachine.description>
+
+</LanguageData>

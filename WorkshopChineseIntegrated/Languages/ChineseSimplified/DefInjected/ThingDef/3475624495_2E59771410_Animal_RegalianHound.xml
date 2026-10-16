@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: imperial redhound -->
+  <DA_ImperialRedhound.label>皇家赤犬</DA_ImperialRedhound.label>
+  <!-- EN: Nearly the size of a bear, the imperial redhound is the largest dog breed in the world. Trained to protect and serve kings, they are seen as pure and noble with an undying loyalty, even capable of overpowering the fiercest of men with their prodigious strength.\n\nRedhounds are clever beasts, and their intelligence is known throughout the lands, as they are capable of following even the most complex of orders. With only a few sanctioned kennel-masters allowed to breed them, it makes them a rare sight outside of a noble court. -->
+  <DA_ImperialRedhound.description>皇家赤犬是世界上最大型的犬种，身形几乎等同于一头熊。它们被训练来保护和服务国王，被认为是纯洁和高尚的，有着永恒的忠诚，甚至能够用他们惊人的力量压倒最凶猛的人。\n\n赤犬是一种聪明的动物，众所周知它们能执行最复杂的命令。由于只有少数被批准的狗舍主人可以饲养它们，它们在贵族宫廷之外很少见。</DA_ImperialRedhound.description>
+  <!-- EN: left claw -->
+  <DA_ImperialRedhound.tools.left_claw.label>左爪</DA_ImperialRedhound.tools.left_claw.label>
+  <!-- EN: claw -->
+  <DA_ImperialRedhound.tools.left_claw.labelNoLocation>爪子</DA_ImperialRedhound.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <DA_ImperialRedhound.tools.right_claw.label>右爪</DA_ImperialRedhound.tools.right_claw.label>
+  <!-- EN: claw -->
+  <DA_ImperialRedhound.tools.right_claw.labelNoLocation>爪子</DA_ImperialRedhound.tools.right_claw.labelNoLocation>
+  <!-- EN: maw -->
+  <DA_ImperialRedhound.tools.maw.label>咽</DA_ImperialRedhound.tools.maw.label>
+  <!-- EN: head -->
+  <DA_ImperialRedhound.tools.head.label>头</DA_ImperialRedhound.tools.head.label>
+  
+</LanguageData>

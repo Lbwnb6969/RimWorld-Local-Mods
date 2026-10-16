@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <AM_TableQuality_Desired.label>渴望</AM_TableQuality_Desired.label>
+  <!-- EN: Meals are best enjoyed with dignity. A proper table elevates the experience, turning simple sustenance into a moment of refinement.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Eating on a Poor or Awful quality table will cause a mood penalty. -->
+  <AM_TableQuality_Desired.description>虽然就餐是件再平常不过的事情，但也该有尊严地进行。一张得体的桌子可以为我们带来更好的就餐体验，即使是简单的食物也能吃的津津有味。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 在极差或较差品质的桌子上吃饭的殖民者将获得心情减益。</AM_TableQuality_Desired.description>
+  
+</LanguageData>

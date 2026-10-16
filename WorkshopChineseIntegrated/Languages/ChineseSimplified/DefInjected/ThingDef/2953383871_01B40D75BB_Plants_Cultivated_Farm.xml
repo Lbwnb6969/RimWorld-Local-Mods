@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Basic Agriculture -->
+
+  <DankPyon_Plant_Garlic.label>大蒜</DankPyon_Plant_Garlic.label>
+  <DankPyon_Plant_Garlic.description>大蒜具有狭长而扁平的浅绿色叶片(一般称为青蒜或蒜苗)，其基部则由分节的米白色地下鳞茎组成。大蒜做为调味料使用时有去腥增味的作用，也常做为配料直接烹调食用，或剁碎后凉拌/炒。粉碎乾燥后能成为一种便于保存的调味品。</DankPyon_Plant_Garlic.description>
+
+  <DankPyon_Plant_Onions.label>洋葱</DankPyon_Plant_Onions.label>
+  <DankPyon_Plant_Onions.description>洋葱具有绿色的管状叶，茎部经过特化后，形成椭圆状的储存养分的部位，在纸质的表皮下即是层层堆叠的鳞叶和鳞茎盘，具有独特的辛香味。洋葱是一种多用途的配料，是蔬菜菜餚的良好基底，也是肉类餐点的美味佐料。</DankPyon_Plant_Onions.description>
+
+  <DankPyon_Plant_Lentils.label>扁豆</DankPyon_Plant_Lentils.label>
+  <DankPyon_Plant_Lentils.description>一颗娇小的扁豆，长出了无数小芽。扁豆食品具有令人惊讶的营养价值，据说对身体和灵魂都有好处。</DankPyon_Plant_Lentils.description>
+
+  <DankPyon_Plant_Mushrooms.label>蘑菇</DankPyon_Plant_Mushrooms.label>
+  <DankPyon_Plant_Mushrooms.description>有几个品种的真菌已经成功人工培育用于娱乐、药用或烹饪。这些菌茎可以安全地消化，是一种带有土壤气息的特色食物，也是丰富营养的补充来源。</DankPyon_Plant_Mushrooms.description>
+
+
+  <!-- Intermediate Agriculture -->
+
+  <DankPyon_Plant_Wheat.label>小麦</DankPyon_Plant_Wheat.label>
+  <DankPyon_Plant_Wheat.description>一种细而脆弱的谷物植物，能结出黄色的小种子。生长时间相对较长，却能产出大量营养，唯需进一步加工才能食用。肥沃的土壤是最适合种植小麦的环境。</DankPyon_Plant_Wheat.description>
+
+  <DankPyon_Plant_Flax.label>亚麻</DankPyon_Plant_Flax.label>
+  <DankPyon_Plant_Flax.description>一种外观像小麦的纤维状植物。能利用其纤维绞合的特性，制成良好的织物。</DankPyon_Plant_Flax.description>
+
+  <DankPyon_Plant_Sugarcane.label>甘蔗</DankPyon_Plant_Sugarcane.label>
+  <DankPyon_Plant_Sugarcane.description>甜美、粗壮的纤维状植物所生长的茎秆。虽然本身几乎不能食用，但它们经常被加工成糖，广泛用于料理当中。</DankPyon_Plant_Sugarcane.description>
+
+  <DankPyon_Plant_Carrots.label>红萝卜</DankPyon_Plant_Carrots.label>
+  <DankPyon_Plant_Carrots.description>灌木状的短茎，其根部由颜色鲜艳的橙色块茎组成。它们是健康的美味的蔬菜，适合煮、炖或炒。</DankPyon_Plant_Carrots.description>
+
+  <DankPyon_Plant_Herb.label>香草</DankPyon_Plant_Herb.label>
+  <DankPyon_Plant_Herb.description>一种芳香的绿叶植物，能加工为一种增味剂，但它本身几乎无法食用。</DankPyon_Plant_Herb.description>
+
+
+  <!-- Advanced Agriculture -->
+
+  <DankPyon_Plant_Grape.label>葡萄</DankPyon_Plant_Grape.label>
+  <DankPyon_Plant_Grape.description>一种中等大小的葡萄树，采收时能产出葡萄——是生产葡萄酒的重要原料，生吃时也很美味。播种后需要很长的时间来生长，但在整个生命週期内可以多次重复收获。</DankPyon_Plant_Grape.description>
+
+  <DankPyon_Plant_Tomatoes.label>番茄</DankPyon_Plant_Tomatoes.label>
+  <DankPyon_Plant_Tomatoes.description>一种粗大的绿叶藤蔓，结出许多大球状的红色果实。虽然坊间仍在激烈争论着它究竟算水果还是蔬菜，但大众一致认同的是，番茄既多汁又美味。</DankPyon_Plant_Tomatoes.description>
+
+  <DankPyon_Plant_Cabbages.label>卷心菜</DankPyon_Plant_Cabbages.label>
+  <DankPyon_Plant_Cabbages.description>由许多叶子叠在一起的绿色卷心菜。是沙拉和汤的良好配料。</DankPyon_Plant_Cabbages.description>
+
+  <DankPyon_Plant_Pumpkins.label>南瓜</DankPyon_Plant_Pumpkins.label>
+  <DankPyon_Plant_Pumpkins.description>一根细细的绿色藤蔓居然能结出如此巨大的橙色蔬果，是『麻雀虽小，五脏俱全』的良好体现。它单吃并不特别美味，但可以制作各种丰盛的季节性佳餚。</DankPyon_Plant_Pumpkins.description>
+
+
+  <!-- Fruit Trees -->
+
+  <DankPyon_Tree_Apple.label>苹果树</DankPyon_Tree_Apple.label>
+  <DankPyon_Tree_Apple.description>一种硬木树，以其甜美、鲜红色的果实而闻名，既可单独食用，也可混入各种甜点中。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;种植时需要与其他树间隔1格以上的空间，要花很长时间才能结出果实。苹果树可以过冬，在收获后重新结果，但会在达到寿命上限后枯萎。</DankPyon_Tree_Apple.description>
+
+  <DankPyon_Tree_Lemon.label>柠檬树</DankPyon_Tree_Lemon.label>
+  <DankPyon_Tree_Lemon.description>一种小树，能结出略带苦味的黄色酸果实。柠檬经常被拿来食用，因为它富含的维生素有益健康，可以预防坏血症等疾病，还经常被用作许多不同的熟食的原料或釉料。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;种植时需要与其他树间隔1格以上的空间，要花很长时间才能结出果实。柠檬树可以过冬，在收获后重新结果，但会在达到寿命上限后枯萎。</DankPyon_Tree_Lemon.description>
+
+  <DankPyon_Tree_Mulberry.label>桑树</DankPyon_Tree_Mulberry.label>
+  <DankPyon_Tree_Mulberry.description>一种生长迅速的小树，能结出甜美的桑葚果实。桑树上经常能见到蚕，它可以生产原始的蚕丝。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;种植时需要与其他树间隔1格以上的空间，结果的速度较其他果树快，寿命相对较短。桑树可以过冬，在收获后重新结果，但会在达到寿命上限后枯萎。</DankPyon_Tree_Mulberry.description>
+
+
+  <!-- Griffon Berry -->
+
+  <DankPyon_Tree_GriffonBerry.label>狮鹫莓树</DankPyon_Tree_GriffonBerry.label>
+  <DankPyon_Tree_GriffonBerry.description>一种能结出罕见甘美果实的特殊果树，那些红色莓果是狮鹫兽的美味佳肴，因此通常由它们看守。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;种植时需要与其他树间隔1格以上的空间，要花很长时间才能结出果实，这种果树对肥沃度需求很低。狮鹫莓树可以过冬，在收获后重新结果，但会在达到寿命上限后枯萎。</DankPyon_Tree_GriffonBerry.description>
+
+  <DankPyon_MacciPlant.label>芸香</DankPyon_MacciPlant.label>
+  <DankPyon_MacciPlant.description>一种高大的谷物植物，能结出柔软的可食用穗子。虽然芸香的生长需要很长的时间，但与其他作物相比，它的产量很高。收获后的芸香放很久才会变质。</DankPyon_MacciPlant.description>
+
+
+</LanguageData>

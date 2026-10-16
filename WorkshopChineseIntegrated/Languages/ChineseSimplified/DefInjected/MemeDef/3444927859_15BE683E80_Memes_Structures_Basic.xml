@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: norse -->
+  <VFEM2_Structure_Norse.label>诺斯</VFEM2_Structure_Norse.label>
+  <!-- EN: This ideoligion is a descendant of Germanic paganism, also known as Asatru. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <VFEM2_Structure_Norse.description>该文化传承自古代日耳曼人的原始信仰，有时也被称作阿萨神话它的戒律可能与几千年前的戒律大不相同，但它的符号却很相似。</VFEM2_Structure_Norse.description>
+  <!-- EN: Allfather and God of Wisdom -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.0.type>众神之父与智慧之神</VFEM2_Structure_Norse.fixedDeityNameTypes.0.type>
+  <!-- EN: God of Thunder and Strength -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.1.type>雷霆与力量之神</VFEM2_Structure_Norse.fixedDeityNameTypes.1.type>
+  <!-- EN: Goddess of Marriage and Prophecy -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.2.type>婚姻与预言之女神</VFEM2_Structure_Norse.fixedDeityNameTypes.2.type>
+  <!-- EN: God of Mischief and Trickery -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.3.type>欺骗与诡诈之神</VFEM2_Structure_Norse.fixedDeityNameTypes.3.type>
+  <!-- EN: God of Beauty and Light -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.4.type>美与光之神</VFEM2_Structure_Norse.fixedDeityNameTypes.4.type>
+  <!-- EN: God of War and Justice -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.5.type>战争与正义之神</VFEM2_Structure_Norse.fixedDeityNameTypes.5.type>
+  <!-- EN: Goddess of Love and Fertility -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.6.type>爱与生育之女神</VFEM2_Structure_Norse.fixedDeityNameTypes.6.type>
+  <!-- EN: God of Fertility and Peace -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.7.type>生育与和平之神</VFEM2_Structure_Norse.fixedDeityNameTypes.7.type>
+  <!-- EN: God of the Sea and Wealth -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.8.type>海洋与财富之神</VFEM2_Structure_Norse.fixedDeityNameTypes.8.type>
+  <!-- EN: Goddess of Winter and Hunting -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.9.type>冬与狩猎之女神</VFEM2_Structure_Norse.fixedDeityNameTypes.9.type>
+  <!-- EN: Guardian of the Bifrost -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.10.type>彩虹桥的守护神</VFEM2_Structure_Norse.fixedDeityNameTypes.10.type>
+  <!-- EN: Goddess of the Underworld -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.11.type>冥界之女神</VFEM2_Structure_Norse.fixedDeityNameTypes.11.type>
+  <!-- EN: Wolf of Chaos -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.12.type>混沌之狼</VFEM2_Structure_Norse.fixedDeityNameTypes.12.type>
+  <!-- EN: World Serpent -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.13.type>世界蛇</VFEM2_Structure_Norse.fixedDeityNameTypes.13.type>
+  <!-- EN: Goddess of Eternal Youth -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.14.type>青春之女神</VFEM2_Structure_Norse.fixedDeityNameTypes.14.type>
+  <!-- EN: God of Poetry and Eloquence -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.15.type>诗歌与雄辩之神</VFEM2_Structure_Norse.fixedDeityNameTypes.15.type>
+  <!-- EN: Goddess of Fidelity -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.16.type>忠贞之女神</VFEM2_Structure_Norse.fixedDeityNameTypes.16.type>
+  <!-- EN: God of Vengeance and Silence -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.17.type>复仇与沉默之神</VFEM2_Structure_Norse.fixedDeityNameTypes.17.type>
+  <!-- EN: God of Revenge -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.18.type>复仇之神</VFEM2_Structure_Norse.fixedDeityNameTypes.18.type>
+  <!-- EN: God of Strength -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.19.type>力量之神</VFEM2_Structure_Norse.fixedDeityNameTypes.19.type>
+  <!-- EN: God of Courage -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.20.type>勇气之神</VFEM2_Structure_Norse.fixedDeityNameTypes.20.type>
+  <!-- EN: Fire Giant and Harbinger of Ragnarok -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.21.type>宣告诸神黄昏之火焰巨人</VFEM2_Structure_Norse.fixedDeityNameTypes.21.type>
+  <!-- EN: Primordial Giant -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.22.type>原初巨人</VFEM2_Structure_Norse.fixedDeityNameTypes.22.type>
+  <!-- EN: Keeper of Wisdom -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.23.type>智慧守护神</VFEM2_Structure_Norse.fixedDeityNameTypes.23.type>
+  <!-- EN: Goddess of the Sea -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.24.type>海洋之女神</VFEM2_Structure_Norse.fixedDeityNameTypes.24.type>
+  <!-- EN: God of the Ocean -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.25.type>大洋之神</VFEM2_Structure_Norse.fixedDeityNameTypes.25.type>
+  <!-- EN: Dragon of Yggdrasil's Roots -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.26.type>噬根之龙</VFEM2_Structure_Norse.fixedDeityNameTypes.26.type>
+  <!-- EN: Goddess of Sorcery -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.27.type>术法之女神</VFEM2_Structure_Norse.fixedDeityNameTypes.27.type>
+  <!-- EN: God of Inspiration -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.28.type>启迪之神</VFEM2_Structure_Norse.fixedDeityNameTypes.28.type>
+  <!-- EN:
+    <li>memeAdjective->norse</li>
+    <li>memeAdjective->heathen</li>
+    <li>memeAdjective->pagan</li>
+    <li>memeAdjective->ancestral</li>
+    <li>memeAdjective->traditional</li>
+    <li>memeAdjective->old-faith</li>
+    <li>memeLeaderNoun->godi</li>
+    <li>memeLeaderNoun->volva</li>
+    <li>memeLeaderAdjective->sacred</li>
+    <li>memeLeaderAdjective->runic</li>
+    <li>memeMoralist->skald</li>
+    <li>memeMoralist->seer</li>
+    <li>memeMoralist->wise one</li>
+    <li>memeMoralist->sage</li>
+    <li>memeMoralist->keeper of lore</li>
+    <li>memeMoralist->rune master</li>
+    <li>memeMoralist->spiritual guide</li>
+  -->
+  <VFEM2_Structure_Norse.generalRules.rulesStrings>
+    <li>memeAdjective->诺斯</li>
+    <li>memeAdjective->异端</li>
+    <li>memeAdjective->异教</li>
+    <li>memeAdjective->先祖</li>
+    <li>memeAdjective->传统</li>
+    <li>memeAdjective->旧神</li>
+    <li>memeLeaderNoun->天选者</li>
+    <li>memeLeaderNoun->大先知</li>
+    <li>memeLeaderAdjective->神圣</li>
+    <li>memeLeaderAdjective->符文</li>
+    <li>memeMoralist->诗人</li>
+    <li>memeMoralist->先知</li>
+    <li>memeMoralist->智者</li>
+    <li>memeMoralist->圣者</li>
+    <li>memeMoralist->知识卫士</li>
+    <li>memeMoralist->符文大师</li>
+    <li>memeMoralist->灵使</li>
+  </VFEM2_Structure_Norse.generalRules.rulesStrings>
+  <!-- EN: norse -->
+  <VFEM2_Structure_Norse.symbolPacks.0.adjective>诺斯</VFEM2_Structure_Norse.symbolPacks.0.adjective>
+  <!-- EN: viking -->
+  <VFEM2_Structure_Norse.symbolPacks.0.member>维京人</VFEM2_Structure_Norse.symbolPacks.0.member>
+  <!-- EN: vikings -->
+  <VFEM2_Structure_Norse.symbolPacks.0.theme>维京</VFEM2_Structure_Norse.symbolPacks.0.theme>
+  <!-- EN: great hall -->
+  <VFEM2_Structure_Norse.worshipRoomLabel>长屋</VFEM2_Structure_Norse.worshipRoomLabel>
+  
+</LanguageData>

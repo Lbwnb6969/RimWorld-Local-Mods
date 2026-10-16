@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The Big Bad -->
+
+  <DankPyon_LargeCobraForest.label>巨型森林眼镜蛇</DankPyon_LargeCobraForest.label>
+  <DankPyon_LargeCobraForest.description>巨型森林眼镜蛇的体型比牠们的表亲更大，而且更具韧性。当牠狩猎猎物时，会变得非常致命且具有攻击性。牠们会透过毒牙将毒液注入受害者体内。</DankPyon_LargeCobraForest.description>
+  <DankPyon_LargeCobraForest.tools.0.label>毒牙</DankPyon_LargeCobraForest.tools.0.label>
+  <DankPyon_LargeCobraForest.tools.1.label>头</DankPyon_LargeCobraForest.tools.1.label>
+
+  <DankPyon_LargeCobraCave.label>巨型穴居眼镜蛇</DankPyon_LargeCobraCave.label>
+  <DankPyon_LargeCobraCave.description>一种有毒的蛇，当牠受到威胁时，颈部会张大，使牠看上去比实际的体型要大。这种巨大的生物居住在山洞里，会毫不犹豫地保护自己的领地。</DankPyon_LargeCobraCave.description>
+  <DankPyon_LargeCobraCave.tools.0.label>毒牙</DankPyon_LargeCobraCave.tools.0.label>
+  <DankPyon_LargeCobraCave.tools.1.label>头</DankPyon_LargeCobraCave.tools.1.label>
+
+  <DankPyon_GiantConstrictorForest.label>巨型森林蚺</DankPyon_GiantConstrictorForest.label>
+  <DankPyon_GiantConstrictorForest.description>一条原始的蛇，体型巨大，像那些令人感到悲怆的巨木一样古老。</DankPyon_GiantConstrictorForest.description>
+  <DankPyon_GiantConstrictorForest.race.meatLabel>蚺蛇肉</DankPyon_GiantConstrictorForest.race.meatLabel>
+  <DankPyon_GiantConstrictorForest.tools.1.label>头</DankPyon_GiantConstrictorForest.tools.1.label>
+
+  <DankPyon_GiantConstrictorCave.label>巨型穴居蚺</DankPyon_GiantConstrictorCave.label>
+  <DankPyon_GiantConstrictorCave.description>蛇类数量最庞大的亚种之一，蚺的下颚能够张得非常开，足以生吞成年人类。</DankPyon_GiantConstrictorCave.description>
+  <DankPyon_GiantConstrictorCave.race.meatLabel>蚺蛇肉</DankPyon_GiantConstrictorCave.race.meatLabel>
+  <DankPyon_GiantConstrictorCave.tools.1.label>头</DankPyon_GiantConstrictorCave.tools.1.label>
+
+
+  <!-- Lindwurm -->
+
+  <DankPyon_LindwurmForest.label>森居林德虫</DankPyon_LindwurmForest.label>
+  <DankPyon_LindwurmForest.description>一种分类上介于蛇和龙之间的巨大爬虫动物。牠是少数真正不会感到恐惧的生物之一。任何试图越过牠强大而灵活的尾巴的人，若是不知好歹地刺伤了牠坚硬的鳞片，就会立即被具有腐蚀性的血液溅到。林德虫的血是目前已知最强的酸——甚至可以溶解最厚的钢铁，只需几秒钟就能把肉体化掉。</DankPyon_LindwurmForest.description>
+  <DankPyon_LindwurmForest.race.meatLabel>林德虫肉</DankPyon_LindwurmForest.race.meatLabel>
+  <DankPyon_LindwurmForest.tools.venomfangs.label>毒牙</DankPyon_LindwurmForest.tools.venomfangs.label>
+  <DankPyon_LindwurmForest.tools.head.label>头</DankPyon_LindwurmForest.tools.head.label>
+  <DankPyon_LindwurmForest.tools.left_claw.label>左爪</DankPyon_LindwurmForest.tools.left_claw.label>
+  <DankPyon_LindwurmForest.tools.right_claw.label>右爪</DankPyon_LindwurmForest.tools.right_claw.label>
+  <DankPyon_LindwurmForest.tools.tail.label>尾巴</DankPyon_LindwurmForest.tools.tail.label>
+
+  <DankPyon_LindwurmCave.label>穴居林德虫</DankPyon_LindwurmCave.label>
+  <DankPyon_LindwurmCave.description>一种分类上介于蛇和龙之间的巨大爬虫动物。牠是少数真正不会感到恐惧的生物之一。任何试图越过牠强大而灵活的尾巴的人，若是不知好歹地刺伤了牠坚硬的鳞片，就会立即被具有腐蚀性的血液溅到。林德虫的血是目前已知最强的酸——甚至可以溶解最厚的钢铁，只需几秒钟就能把肉体化掉。</DankPyon_LindwurmCave.description>
+  <DankPyon_LindwurmCave.race.meatLabel>林德虫肉</DankPyon_LindwurmCave.race.meatLabel>
+  <DankPyon_LindwurmCave.tools.venomfangs.label>毒牙</DankPyon_LindwurmCave.tools.venomfangs.label>
+  <DankPyon_LindwurmCave.tools.head.label>头</DankPyon_LindwurmCave.tools.head.label>
+  <DankPyon_LindwurmCave.tools.left_claw.label>左爪</DankPyon_LindwurmCave.tools.left_claw.label>
+  <DankPyon_LindwurmCave.tools.right_claw.label>右爪</DankPyon_LindwurmCave.tools.right_claw.label>
+  <DankPyon_LindwurmCave.tools.tail.label>尾巴</DankPyon_LindwurmCave.tools.tail.label>
+</LanguageData>

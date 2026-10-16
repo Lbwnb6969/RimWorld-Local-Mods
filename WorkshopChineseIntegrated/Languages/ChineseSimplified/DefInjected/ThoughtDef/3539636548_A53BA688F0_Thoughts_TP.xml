@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: New fine day -->
+  <EarlyRiserEarlyHours.stages.New_fine_day.label>崭新的一天</EarlyRiserEarlyHours.stages.New_fine_day.label>
+  <!-- EN: Let's see what we can do today! -->
+  <EarlyRiserEarlyHours.stages.New_fine_day.description>让我们看看今天能做些什么！</EarlyRiserEarlyHours.stages.New_fine_day.description>
+
+  <!-- EN: Uncomfortable -->
+  <S1_AllOutOfFucks_OpinionOffset.stages.Uncomfortable.label>不自在</S1_AllOutOfFucks_OpinionOffset.stages.Uncomfortable.label>
+  <!-- EN: The emptiness in their eyes is making me uncomfortable -->
+  <S1_AllOutOfFucks_OpinionOffset.stages.Uncomfortable.description>他们空洞的眼神让我感到不自在。</S1_AllOutOfFucks_OpinionOffset.stages.Uncomfortable.description>
+
+  <!-- EN: Are... are you alright? -->
+  <S1_AllOutOfFucks_OpinionOffset_Plus.stages.Are_are_you_alright.label>你……你还好吗？</S1_AllOutOfFucks_OpinionOffset_Plus.stages.Are_are_you_alright.label>
+  <!-- EN: I think this person needs a hug -->
+  <S1_AllOutOfFucks_OpinionOffset_Plus.stages.Are_are_you_alright.description>我觉得这个人需要一个拥抱。</S1_AllOutOfFucks_OpinionOffset_Plus.stages.Are_are_you_alright.description>
+
+  <!-- EN: A friend of knowledge is a friend of mine! -->
+  <S1_Astronomer_OpinionOffset.stages.A_friend_of_knowledge_is_a_friend_of_mine.label>知识的朋友就是我的朋友！</S1_Astronomer_OpinionOffset.stages.A_friend_of_knowledge_is_a_friend_of_mine.label>
+  <!-- EN: This person is like me. -->
+  <S1_Astronomer_OpinionOffset.stages.A_friend_of_knowledge_is_a_friend_of_mine.description>这个人跟我很像。</S1_Astronomer_OpinionOffset.stages.A_friend_of_knowledge_is_a_friend_of_mine.description>
+
+  <!-- EN: Really? Is that so? -->
+  <S1_Authoritarian_OpinionOffset.stages.Really_Is_that_so.label>哦？是这样啊？</S1_Authoritarian_OpinionOffset.stages.Really_Is_that_so.label>
+  <!-- EN: This person has things down. -->
+  <S1_Authoritarian_OpinionOffset.stages.Really_Is_that_so.description>这个人把事情处理得井井有条。</S1_Authoritarian_OpinionOffset.stages.Really_Is_that_so.description>
+
+  <!-- EN: A simple outdoors person is a friend of mine! -->
+  <S1_Backpacker_OpinionOffset.stages.A_simple_outdoors_person_is_a_friend_of_mine.label>
+    朴实的户外爱好者是我的朋友！</S1_Backpacker_OpinionOffset.stages.A_simple_outdoors_person_is_a_friend_of_mine.label>
+  <!-- EN: This person is like me. -->
+  <S1_Backpacker_OpinionOffset.stages.A_simple_outdoors_person_is_a_friend_of_mine.description>
+    这个人跟我很像。</S1_Backpacker_OpinionOffset.stages.A_simple_outdoors_person_is_a_friend_of_mine.description>
+
+  <!-- EN: Respect for a fellow fighter -->
+  <S1_Blader_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>向战友致敬</S1_Blader_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>
+  <!-- EN: This person is like me. -->
+  <S1_Blader_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>这个人跟我很像。</S1_Blader_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>
+
+  <!-- EN: Fellow close combat fighter, I salute you! -->
+  <S1_Blader_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.label>近战同伴，我向你致敬！</S1_Blader_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.label>
+  <!-- EN: This person is like me. -->
+  <S1_Blader_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.description>这个人跟我很像。</S1_Blader_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.description>
+
+  <!-- EN: A friend of growing things is a friend of mine! -->
+  <S1_Botanist_OpinionOffset.stages.A_friend_of_growing_things_is_a_friend_of_mine.label>
+    热爱种植的朋友就是我的朋友！</S1_Botanist_OpinionOffset.stages.A_friend_of_growing_things_is_a_friend_of_mine.label>
+  <!-- EN: This person is like me. -->
+  <S1_Botanist_OpinionOffset.stages.A_friend_of_growing_things_is_a_friend_of_mine.description>
+    这个人跟我很像。</S1_Botanist_OpinionOffset.stages.A_friend_of_growing_things_is_a_friend_of_mine.description>
+
+  <!-- EN: Blah, blah, blah -->
+  <S1_Braggart_OpinionOffset.stages.Blah_blah_blah.label>吧啦吧啦吧啦</S1_Braggart_OpinionOffset.stages.Blah_blah_blah.label>
+  <!-- EN: Yeah, I know, you're awesome... -->
+  <S1_Braggart_OpinionOffset.stages.Blah_blah_blah.description>是啊，我知道，你最棒了……</S1_Braggart_OpinionOffset.stages.Blah_blah_blah.description>
+
+  <!-- EN: Shut up about yourself already! -->
+  <S1_Braggart_OpinionOffset_Minus.stages.Shut_up_about_yourself_already.label>能不能别再吹嘘你自己了！</S1_Braggart_OpinionOffset_Minus.stages.Shut_up_about_yourself_already.label>
+  <!-- EN: I hate you. Beacause I want to be like you. -->
+  <S1_Braggart_OpinionOffset_Minus.stages.Shut_up_about_yourself_already.description>
+    我讨厌你。因为我想成为你那样的人。</S1_Braggart_OpinionOffset_Minus.stages.Shut_up_about_yourself_already.description>
+
+  <!-- EN: Can we talk about something else now? -->
+  <S1_Braggart_OpinionOffset_Plus.stages.Can_we_talk_about_something_else_now.label>我们现在能聊点别的吗？</S1_Braggart_OpinionOffset_Plus.stages.Can_we_talk_about_something_else_now.label>
+  <!-- EN: Uhuh, okay, yeah, mhm. -->
+  <S1_Braggart_OpinionOffset_Plus.stages.Can_we_talk_about_something_else_now.description>
+    嗯哼，好的，是啊，嗯。</S1_Braggart_OpinionOffset_Plus.stages.Can_we_talk_about_something_else_now.description>
+
+  <!-- EN: There's no room for you here! -->
+  <S1_Braggart_OpinionOffset_SuperMinus.stages.Theres_no_room_for_you_here.label>这里容不下你！</S1_Braggart_OpinionOffset_SuperMinus.stages.Theres_no_room_for_you_here.label>
+  <!-- EN: Only for me. -->
+  <S1_Braggart_OpinionOffset_SuperMinus.stages.Theres_no_room_for_you_here.description>只能容下我。</S1_Braggart_OpinionOffset_SuperMinus.stages.Theres_no_room_for_you_here.description>
+
+  <!-- EN: Respect for a fellow fighter -->
+  <S1_Brawler_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>向战友致敬</S1_Brawler_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>
+  <!-- EN: This person is like me. -->
+  <S1_Brawler_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>这个人跟我很像。</S1_Brawler_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>
+
+  <!-- EN: Fellow close combat fighter, I salute you! -->
+  <S1_Brawler_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.label>近战同伴，我向你致敬！</S1_Brawler_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.label>
+  <!-- EN: This person is like me. -->
+  <S1_Brawler_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.description>
+    这个人跟我很像。</S1_Brawler_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.description>
+
+  <!-- EN: Respect for a fellow fighter -->
+  <S1_CageFighter_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>向战友致敬</S1_CageFighter_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>
+  <!-- EN: This person is like me. -->
+  <S1_CageFighter_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>这个人跟我很像。</S1_CageFighter_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>
+
+  <!-- EN: Fellow close combat fighter, I salute you! -->
+  <S1_CageFighter_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.label>
+    近战同伴，我向你致敬！</S1_CageFighter_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.label>
+  <!-- EN: This person is like me. -->
+  <S1_CageFighter_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.description>
+    这个人跟我很像。</S1_CageFighter_OpinionOffset_Plus.stages.Fellow_close_combat_fighter_I_salute_you.description>
+
+  <!-- EN: Better safe than sorry - very sensible -->
+  <S1_Cautious_OpinionOffset.stages.Better_safe_than_sorry_very_sensible.label>小心驶得万年船——非常明智</S1_Cautious_OpinionOffset.stages.Better_safe_than_sorry_very_sensible.label>
+  <!-- EN: This person is like me. -->
+  <S1_Cautious_OpinionOffset.stages.Better_safe_than_sorry_very_sensible.description>这个人跟我很像。</S1_Cautious_OpinionOffset.stages.Better_safe_than_sorry_very_sensible.description>
+
+  <!-- EN: Coward, we would be better off without you -->
+  <S1_Cautious_OpinionOffset_Minus.stages.Coward_we_would_be_better_off_without_you.label>
+    懦夫，没有你我们会更好</S1_Cautious_OpinionOffset_Minus.stages.Coward_we_would_be_better_off_without_you.label>
+  <!-- EN: This person is not like me. -->
+  <S1_Cautious_OpinionOffset_Minus.stages.Coward_we_would_be_better_off_without_you.description>
+    这个人跟我不一样。</S1_Cautious_OpinionOffset_Minus.stages.Coward_we_would_be_better_off_without_you.description>
+
+  <!-- EN: Cheerful -->
+  <S1_Cheerful_MoodBuff.stages.Cheerful.label>心情愉快</S1_Cheerful_MoodBuff.stages.Cheerful.label>
+  <!-- EN: Happy-happy joy-joy. -->
+  <S1_Cheerful_MoodBuff.stages.Cheerful.description>开心开心，快乐快乐。</S1_Cheerful_MoodBuff.stages.Cheerful.description>
+
+  <!-- EN: Always cheery -->
+  <S1_Cheerful_OpinionOffset.stages.Always_cheery.label>总是乐呵呵的</S1_Cheerful_OpinionOffset.stages.Always_cheery.label>
+  <!-- EN: Always cheery -->
+  <S1_Cheerful_OpinionOffset.stages.Always_cheery.description>总是乐呵呵的。</S1_Cheerful_OpinionOffset.stages.Always_cheery.description>
+
+  <!-- EN: Yay, let's hang out! -->
+  <S1_Cheerful_OpinionOffset_Plus.stages.Yay_lets_hang_out.label>太棒了，我们一起玩吧！</S1_Cheerful_OpinionOffset_Plus.stages.Yay_lets_hang_out.label>
+  <!-- EN: Always cheery -->
+  <S1_Cheerful_OpinionOffset_Plus.stages.Yay_lets_hang_out.description>这个人总是乐呵呵的。</S1_Cheerful_OpinionOffset_Plus.stages.Yay_lets_hang_out.description>
+
+  <!-- EN: Oh, wow, really? I'm listening! -->
+  <S1_Clever_OpinionOffset.stages.Oh_wow_really_Im_listening.label>哦，哇，真的吗？我听着呢！</S1_Clever_OpinionOffset.stages.Oh_wow_really_Im_listening.label>
+  <!-- EN: This person knows a lot of stuff. -->
+  <S1_Clever_OpinionOffset.stages.Oh_wow_really_Im_listening.description>这个人懂的真多。</S1_Clever_OpinionOffset.stages.Oh_wow_really_Im_listening.description>
+
+  <!-- EN: Respect for a fellow fighter -->
+  <S1_CombatMedic_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>向战友致敬</S1_CombatMedic_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>
+  <!-- EN: This person is like me. -->
+  <S1_CombatMedic_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>这个人跟我很像。</S1_CombatMedic_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>
+
+  <!-- EN: Oh, not this again -->
+  <S1_Complainer_OpinionOffset.stages.Oh_not_this_again.label>哦，怎么又来了</S1_Complainer_OpinionOffset.stages.Oh_not_this_again.label>
+  <!-- EN: Just get over it! -->
+  <S1_Complainer_OpinionOffset.stages.Oh_not_this_again.description>赶紧翻篇吧！</S1_Complainer_OpinionOffset.stages.Oh_not_this_again.description>
+
+  <!-- EN: You're right, absolutely right! -->
+  <S1_Complainer_OpinionOffset_Plus.stages.Youre_right_absolutely_right.label>你说得对，完全正确！</S1_Complainer_OpinionOffset_Plus.stages.Youre_right_absolutely_right.label>
+  <!-- EN: I agree, everything is going to shit! -->
+  <S1_Complainer_OpinionOffset_Plus.stages.Youre_right_absolutely_right.description>我同意，一切都糟透了！</S1_Complainer_OpinionOffset_Plus.stages.Youre_right_absolutely_right.description>
+
+  <!-- EN: I really respect your take on life! -->
+  <S1_Daredevil_OpinionOffset.stages.I_really_respect_your_take_on_life.label>我真的很敬佩你的人生态度！</S1_Daredevil_OpinionOffset.stages.I_really_respect_your_take_on_life.label>
+  <!-- EN: This person is scared of nothing and I like it. -->
+  <S1_Daredevil_OpinionOffset.stages.I_really_respect_your_take_on_life.description>这个人无所畏惧，我喜欢这一点。</S1_Daredevil_OpinionOffset.stages.I_really_respect_your_take_on_life.description>
+
+  <!-- EN: Take your foolishness somewhere else -->
+  <S1_Daredevil_OpinionOffset_Minus.stages.Take_your_foolishness_somewhere_else.label>把你的愚蠢行径拿到别处去</S1_Daredevil_OpinionOffset_Minus.stages.Take_your_foolishness_somewhere_else.label>
+  <!-- EN: This person is scared of nothing and it's stupid. -->
+  <S1_Daredevil_OpinionOffset_Minus.stages.Take_your_foolishness_somewhere_else.description>
+    这个人无所畏惧，这很愚蠢。</S1_Daredevil_OpinionOffset_Minus.stages.Take_your_foolishness_somewhere_else.description>
+
+  <!-- EN: I wish I had the guts to do what you do -->
+  <S1_Daredevil_OpinionOffset_SuperMinus.stages.I_wish_I_had_the_guts_to_do_what_you_do.label>
+    我真希望我有胆量做你做的事</S1_Daredevil_OpinionOffset_SuperMinus.stages.I_wish_I_had_the_guts_to_do_what_you_do.label>
+  <!-- EN: This person is scared of nothing. I wish I was like that. -->
+  <S1_Daredevil_OpinionOffset_SuperMinus.stages.I_wish_I_had_the_guts_to_do_what_you_do.description>
+    这个人无所畏惧。我真希望我也能那样。</S1_Daredevil_OpinionOffset_SuperMinus.stages.I_wish_I_had_the_guts_to_do_what_you_do.description>
+
+  <!-- EN: Better safe than sorry - very sensible -->
+  <S1_DefensiveFighter_OpinionOffset.stages.Better_safe_than_sorry_very_sensible.label>小心驶得万年船——非常明智</S1_DefensiveFighter_OpinionOffset.stages.Better_safe_than_sorry_very_sensible.label>
+  <!-- EN: This person is like me. -->
+  <S1_DefensiveFighter_OpinionOffset.stages.Better_safe_than_sorry_very_sensible.description>
+    这个人跟我很像。</S1_DefensiveFighter_OpinionOffset.stages.Better_safe_than_sorry_very_sensible.description>
+
+  <!-- EN: A friend of knowledge is a friend of mine! -->
+  <S1_Developer_OpinionOffset.stages.A_friend_of_knowledge_is_a_friend_of_mine.label>知识的朋友就是我的朋友！</S1_Developer_OpinionOffset.stages.A_friend_of_knowledge_is_a_friend_of_mine.label>
+  <!-- EN: This person is like me. -->
+  <S1_Developer_OpinionOffset.stages.A_friend_of_knowledge_is_a_friend_of_mine.description>这个人跟我很像。</S1_Developer_OpinionOffset.stages.A_friend_of_knowledge_is_a_friend_of_mine.description>
+
+  <!-- EN: I'm doomed. -->
+  <S1_Doomed_MoodDebuff.stages.Im_doomed.label>我完蛋了。</S1_Doomed_MoodDebuff.stages.Im_doomed.label>
+  <!-- EN: Maybe today is the day I die? -->
+  <S1_Doomed_MoodDebuff.stages.Im_doomed.description>也许今天就是我的死期？</S1_Doomed_MoodDebuff.stages.Im_doomed.description>
+
+  <!-- EN: Such. A. Downer! -->
+  <S1_Doomed_OpinionOffset.stages.Such_A_Downer.label>太。丧。了！</S1_Doomed_OpinionOffset.stages.Such_A_Downer.label>
+  <!-- EN: This person is hopeless. -->
+  <S1_Doomed_OpinionOffset.stages.Such_A_Downer.description>这个人无可救药了。</S1_Doomed_OpinionOffset.stages.Such_A_Downer.description>
+
+  <!-- EN: Bad vibes -->
+  <S1_Edgy_OpinionOffset.stages.Bad_vibes.label>气氛不对</S1_Edgy_OpinionOffset.stages.Bad_vibes.label>
+  <!-- EN: You're such bad vibes. -->
+  <S1_Edgy_OpinionOffset.stages.Bad_vibes.description>你这人真让人不爽。</S1_Edgy_OpinionOffset.stages.Bad_vibes.description>
+
+  <!-- EN: Troubled past -->
+  <S1_Exile_MoodDebuff.stages.Troubled_past.label>不堪的过往</S1_Exile_MoodDebuff.stages.Troubled_past.label>
+  <!-- EN: I carry dark memories. -->
+  <S1_Exile_MoodDebuff.stages.Troubled_past.description>我背负着黑暗的记忆。</S1_Exile_MoodDebuff.stages.Troubled_past.description>
+
+  <!-- EN: Respect for a fellow fighter -->
+  <S1_Fighter_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>向战友致敬</S1_Fighter_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>
+  <!-- EN: This person is like me. -->
+  <S1_Fighter_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>这个人跟我很像。</S1_Fighter_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>
+
+  <!-- EN: A friend of growing things is a friend of mine! -->
+  <S1_Florist_OpinionOffset.stages.A_friend_of_growing_things_is_a_friend_of_mine.label>
+    热爱种植的朋友就是我的朋友！</S1_Florist_OpinionOffset.stages.A_friend_of_growing_things_is_a_friend_of_mine.label>
+  <!-- EN: This person is like me. -->
+  <S1_Florist_OpinionOffset.stages.A_friend_of_growing_things_is_a_friend_of_mine.description>
+    这个人跟我很像。</S1_Florist_OpinionOffset.stages.A_friend_of_growing_things_is_a_friend_of_mine.description>
+
+  <!-- EN: Respect for a fellow fighter -->
+  <S1_Riflesmith_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>向战友致敬</S1_Riflesmith_OpinionOffset.stages.Respect_for_a_fellow_fighter.label>
+  <!-- EN: This person is like me. -->
+  <S1_Riflesmith_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>这个人跟我很像。</S1_Riflesmith_OpinionOffset.stages.Respect_for_a_fellow_fighter.description>
+
+  <!-- EN: We can always use more people like you -->
+  <S1_Rolled_OpinionOffset.stages.We_can_always_use_more_people_like_you.label>我们永远需要更多像你这样的人</S1_Rolled_OpinionOffset.stages.We_can_always_use_more_people_like_you.label>
+  <!-- EN: This person is of benefit to me and the colony. -->
+  <S1_Rolled_OpinionOffset.stages.We_can_always_use_more_people_like_you.description>这个人对我和殖民地都有好处。</S1_Rolled_OpinionOffset.stages.We_can_always_use_more_people_like_you.description>
+
+  <!-- EN: ..... -->
+  <S1_WildChild_MoodBuff.stages.0.label>……</S1_WildChild_MoodBuff.stages.0.label>
+  <!-- EN: (Being uncomplicated has it's perks.) -->
+  <S1_WildChild_MoodBuff.stages.0.description>（头脑简单也有好处。）</S1_WildChild_MoodBuff.stages.0.description>
+
+</LanguageData>

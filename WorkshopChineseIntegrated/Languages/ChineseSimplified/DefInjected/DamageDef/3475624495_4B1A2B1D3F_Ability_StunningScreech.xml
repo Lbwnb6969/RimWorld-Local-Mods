@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pierce -->
+  <DA_Pierced.label>穿刺</DA_Pierced.label>
+  <!-- EN: {0} has been killed. -->
+  <DA_Pierced.deathMessage>{0}被杀死了。</DA_Pierced.deathMessage>
+  
+</LanguageData>

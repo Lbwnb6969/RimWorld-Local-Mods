@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: connected to a gauranlen tree -->
+  <AM_GauranlenConnection_Forbidden.stages.connected_to_a_gauranlen_tree.label>母树共鸣</AM_GauranlenConnection_Forbidden.stages.connected_to_a_gauranlen_tree.label>
+  <!-- EN: I'm connected to a parasitic alien tree. It's disgusting. I refuse to tend to it and its disgusting progeny. -->
+  <AM_GauranlenConnection_Forbidden.stages.connected_to_a_gauranlen_tree.description>我和一棵如同寄生虫般的异域怪树产生了共鸣。这种感觉真的很恶心，我可不想照料它和它孕育出的小怪物。</AM_GauranlenConnection_Forbidden.stages.connected_to_a_gauranlen_tree.description>
+  
+  <!-- EN: cut Gauranlen tree --> 
+  <AM_GauranlenConnection_Forbidden_CutGauranlenTree.stages.cut_Gauranlen_tree.label>砍伐了母树</AM_GauranlenConnection_Forbidden_CutGauranlenTree.stages.cut_Gauranlen_tree.label>
+  <!-- EN: Our colony has gotten rid of another of those parasitic alien trees. Good riddance! -->
+  <AM_GauranlenConnection_Forbidden_CutGauranlenTree.stages.cut_Gauranlen_tree.description>我们的殖民地铲除了那些如同寄生虫般的异域怪树。真是谢天谢地！</AM_GauranlenConnection_Forbidden_CutGauranlenTree.stages.cut_Gauranlen_tree.description>
+  
+</LanguageData>

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: silken fleece -->
+  <AnimalTrait_AlpacaSilkenFleece.label>丝绒</AnimalTrait_AlpacaSilkenFleece.label>
+  <!-- EN: This alpaca produces fleece of extraordinary quality - softer, finer, and more luxurious than any other. Textiles made from its fiber are prized by traders across the rim. -->
+  <AnimalTrait_AlpacaSilkenFleece.description>这只羊驼所产的羊毛品质极为上乘——比其他任何羊毛都要柔软、细腻、奢华。用其纤维制成的纺织物深受边缘世界商人的青睐。</AnimalTrait_AlpacaSilkenFleece.description>
+  <!-- EN: Silken Fleece -->
+  <AnimalTrait_AlpacaSilkenFleece.modExtensions.0.traitName>丝绒</AnimalTrait_AlpacaSilkenFleece.modExtensions.0.traitName>
+  
+  <!-- EN: spitter -->
+  <AnimalTrait_AlpacaSpitter.label>吐口水</AnimalTrait_AlpacaSpitter.label>
+  <!-- EN: This alpaca has developed a particularly aggressive spitting habit. While not dangerous, it's certainly unpleasant and makes handlers reluctant to work with it. At least it keeps predators at bay. -->
+  <AnimalTrait_AlpacaSpitter.description>这只羊驼吐口水超凶的！虽然这种行为并不危险，但确实令人不适，也让饲养员不愿与它打交道。不过至少这样能防止捕食者靠近它。</AnimalTrait_AlpacaSpitter.description>
+  
+  <!-- EN: grizzled veteran -->
+  <AnimalTrait_BearGrizzledVeteran.label>百战老兵</AnimalTrait_BearGrizzledVeteran.label>
+  <!-- EN: This bear has survived countless battles and harsh winters. Its hide is a roadmap of scars, and its eyes hold the hard wisdom of a life spent fighting. It fears nothing. -->
+  <AnimalTrait_BearGrizzledVeteran.description>这只熊历经了无数次战斗和严酷的寒冬。它的皮毛上布满了伤痕，仿佛是一幅岁月的印记图；它的眼睛里闪烁着历经战斗磨砺出的深沉智慧。它无所畏惧。</AnimalTrait_BearGrizzledVeteran.description>
+  <!-- EN: Grizzled Veteran -->
+  <AnimalTrait_BearGrizzledVeteran.modExtensions.0.traitName>百战老兵</AnimalTrait_BearGrizzledVeteran.modExtensions.0.traitName>
+  
+  <!-- EN: man-eater -->
+  <AnimalTrait_BearManEater.label>食人熊</AnimalTrait_BearManEater.label>
+  <!-- EN: This bear has developed a taste for human flesh. It actively stalks and hunts people, viewing them as prey rather than threats. Extremely dangerous and nearly impossible to tame. -->
+  <AnimalTrait_BearManEater.description>这只熊已经养成了吃人肉的恶习。它会主动追踪并捕杀人类，将人类视为猎物而非威胁。这只生物极其危险，几乎无法驯服。</AnimalTrait_BearManEater.description>
+  
+  <!-- EN: aloof -->
+  <AnimalTrait_CatAloof.label>猫主子</AnimalTrait_CatAloof.label>
+  <!-- EN: This cat considers itself above the need for human companionship. It tolerates handlers at best and actively avoids attention. Training it is an exercise in frustration, but it's supremely self-sufficient. -->
+  <AnimalTrait_CatAloof.description>这只尊贵的猫自认为无需与人类建立亲密关系。它最多也只是能施舍给人类一个照顾它的机会，而且会极力避免引起关注。训练它简直就是一场令人沮丧的苦差事，不过它确实能养活自己。</AnimalTrait_CatAloof.description>
+  
+  <!-- EN: cuddly -->
+  <AnimalTrait_CatCuddly.label>粘人</AnimalTrait_CatCuddly.label>
+  <!-- EN: This cat craves human affection and seeks out contact constantly. It's unusually cooperative for a feline and trains with ease. A perfect companion animal. -->
+  <AnimalTrait_CatCuddly.description>这只猫非常渴望得到人类的关爱，并且总是寻求与人的接触。对于一只猫来说，它这种异常的顺从程度以及轻松学习训练的能力实属罕见。它堪称完美的宠物。</AnimalTrait_CatCuddly.description>
+  
+  <!-- EN: mouser extraordinaire -->
+  <AnimalTrait_CatMouserExtraordinaire.label>捕鼠能手</AnimalTrait_CatMouserExtraordinaire.label>
+  <!-- EN: This cat is a legendary hunter. It stalks prey with surgical precision and strikes with lightning speed. No vermin is safe when this feline is on patrol. -->
+  <AnimalTrait_CatMouserExtraordinaire.description>这只猫堪称传奇猎手。它捕捉猎物时动作精准如手术一般，出击速度犹如闪电一般迅速。只要这只猫在巡逻，任何害虫都无法幸免。</AnimalTrait_CatMouserExtraordinaire.description>
+  <!-- EN: Mouser Extraordinaire -->
+  <AnimalTrait_CatMouserExtraordinaire.modExtensions.0.traitName>捕鼠能手</AnimalTrait_CatMouserExtraordinaire.modExtensions.0.traitName>
+  
+  <!-- EN: broody -->
+  <AnimalTrait_ChickenBroody.label>伏窝</AnimalTrait_ChickenBroody.label>
+  <!-- EN: This chicken has strong maternal instincts. While it produces fewer eggs, it's more protective of its clutch and raises healthier chicks. The eggs it does produce are more likely to hatch successfully. -->
+  <AnimalTrait_ChickenBroody.description>这只母鸡具有很强的母性本能。虽然它产下的蛋数量较少，但它会更加精心地保护自己的蛋巢，并且能养育出更健康的雏鸡。而且它所产的蛋也有更高的孵化成功率。</AnimalTrait_ChickenBroody.description>
+  
+  <!-- EN: champion layer -->
+  <AnimalTrait_ChickenChampionLayer.label>产卵冠军</AnimalTrait_ChickenChampionLayer.label>
+  <!-- EN: This chicken is an egg-laying machine. It produces eggs with remarkable frequency and reliability, each clutch larger than the norm. A cornerstone of any self-sufficient colony. -->
+  <AnimalTrait_ChickenChampionLayer.description>这只鸡简直就是个产蛋机器。它产蛋的频率极高，可靠性也极强，每次产下的蛋都比同类要多。这是任何想自给自足的殖民地所必备的动物。</AnimalTrait_ChickenChampionLayer.description>
+  <!-- EN: Champion Layer -->
+  <AnimalTrait_ChickenChampionLayer.modExtensions.0.traitName>产卵冠军</AnimalTrait_ChickenChampionLayer.modExtensions.0.traitName>
+  
+  <!-- EN: rooster spirit -->
+  <AnimalTrait_ChickenRoosterSpirit.label>牝鸡司晨</AnimalTrait_ChickenRoosterSpirit.label>
+  <!-- EN: This chicken has the fierce spirit of a rooster regardless of its actual sex. It's aggressive, territorial, and surprisingly dangerous for its size. It guards the flock with zealous dedication. -->
+  <AnimalTrait_ChickenRoosterSpirit.description>先别管这只鸡实际性别如何，它都具有公鸡般的勇猛精神。它好斗、有领地意识，而且就其体型而言，还相当危险。它全身心地守护着鸡群。</AnimalTrait_ChickenRoosterSpirit.description>
+  <!-- EN: Rooster Spirit -->
+  <AnimalTrait_ChickenRoosterSpirit.modExtensions.0.traitName>牝鸡司晨</AnimalTrait_ChickenRoosterSpirit.modExtensions.0.traitName>
+  
+  <!-- EN: prize milker -->
+  <AnimalTrait_CowPrizeMilker.label>产奶冠军</AnimalTrait_CowPrizeMilker.label>
+  <!-- EN: This cow produces exceptional quantities of rich, nutritious milk. It's the dream of any dairy operation and represents generations of careful breeding. -->
+  <AnimalTrait_CowPrizeMilker.description>这头奶牛产奶量惊人，奶质丰富且营养充足。这是任何奶制品生产企业的理想目标，也是经过数代精心培育才得以实现的成果。</AnimalTrait_CowPrizeMilker.description>
+  <!-- EN: Prize Milker -->
+  <AnimalTrait_CowPrizeMilker.modExtensions.0.traitName>产奶冠军</AnimalTrait_CowPrizeMilker.modExtensions.0.traitName>
+  
+  <!-- EN: show quality -->
+  <AnimalTrait_CowShowQuality.label>展览典范</AnimalTrait_CowShowQuality.label>
+  <!-- EN: This cow is a picture-perfect specimen of its breed. Its proportions are ideal, its coat gleaming, its temperament exemplary. It would win prizes at any agricultural fair. -->
+  <AnimalTrait_CowShowQuality.description>这头牛是其所属品种中极为完美的典范。它的体型匀称，毛发光亮，性情温顺。在任何农业展览会上，它都能赢得奖项。</AnimalTrait_CowShowQuality.description>
+  <!-- EN: Show Quality -->
+  <AnimalTrait_CowShowQuality.modExtensions.0.traitName>展览典范</AnimalTrait_CowShowQuality.modExtensions.0.traitName>
+  
+  <!-- EN: bad apple -->
+  <AnimalTrait_DogBadApple.label>坏蛋</AnimalTrait_DogBadApple.label>
+  <!-- EN: This dog has behavioral issues that no amount of training seems to fix. It's disobedient, occasionally aggressive, and has a stubborn streak a mile wide. Still, there might be a good dog in there somewhere. -->
+  <AnimalTrait_DogBadApple.description>这只狗存在一些行为上的问题，无论怎么训练似乎都无法解决。它不听话，有时还会攻击他人，而且极其固执。不过，说不定它内心深处还有一只乖巧可爱的狗狗呢。</AnimalTrait_DogBadApple.description>
+  <!-- EN: Bad Apple -->
+  <AnimalTrait_DogBadApple.modExtensions.0.traitName>坏蛋</AnimalTrait_DogBadApple.modExtensions.0.traitName>
+  
+  <!-- EN: good boy -->
+  <AnimalTrait_DogGoodBoy.label>好狗</AnimalTrait_DogGoodBoy.label>
+  <!-- EN: This dog is the platonic ideal of canine loyalty. It obeys commands instantly, loves unconditionally, and wants nothing more than to please its owner. A true best friend. -->
+  <AnimalTrait_DogGoodBoy.description>这只狗堪称犬类忠诚度的典范。它能迅速听从指令，毫无保留地付出爱意，唯一的心愿就是让主人满意。它是一位真正的挚友。</AnimalTrait_DogGoodBoy.description>
+  <!-- EN: Good Boy -->
+  <AnimalTrait_DogGoodBoy.modExtensions.0.traitName>好狗</AnimalTrait_DogGoodBoy.modExtensions.0.traitName>
+  
+  <!-- EN: working dog -->
+  <AnimalTrait_DogWorkingDog.label>工作犬</AnimalTrait_DogWorkingDog.label>
+  <!-- EN: This dog was bred for work, not companionship. It's tireless, strong, and focused on whatever task it's given. It may not be the cuddliest pet, but it earns its keep. -->
+  <AnimalTrait_DogWorkingDog.description>这只狗是为工作而培育的，而非为了陪伴。它不知疲倦、强壮有力，对所被赋予的任务全神贯注。它或许不是最温顺的宠物，但它确实能为主人提供实际的帮助。</AnimalTrait_DogWorkingDog.description>
+  <!-- EN: Working Dog -->
+  <AnimalTrait_DogWorkingDog.modExtensions.0.traitName>工作犬</AnimalTrait_DogWorkingDog.modExtensions.0.traitName>
+  
+  <!-- EN: matriarch -->
+  <AnimalTrait_ElephantMatriarch.label>女族长</AnimalTrait_ElephantMatriarch.label>
+  <!-- EN: This elephant is the dominant matriarch of its kind. Her years of experience have granted exceptional wisdom, and her protective nature extends to all creatures she considers part of her family. -->
+  <AnimalTrait_ElephantMatriarch.description>这头大象是象群中的族长。它多年的经验赋予了它非凡的智慧，而且它那保护他人的天性也延伸到了所有它视为自己家族成员的生物身上。</AnimalTrait_ElephantMatriarch.description>
+  
+  <!-- EN: in musth -->
+  <AnimalTrait_ElephantMusth.label>发情期</AnimalTrait_ElephantMusth.label>
+  <!-- EN: This elephant is experiencing musth, a period of heightened aggression and testosterone. During this state, even well-trained elephants become extremely dangerous and nearly impossible to control. -->
+  <AnimalTrait_ElephantMusth.description>这头大象正处于发情期，这是一个攻击性增强、睾酮水平升高的时期。在这一状态下，即便是训练有素的大象也会变得极其危险，几乎难以控制。</AnimalTrait_ElephantMusth.description>
+  <!-- EN: In Musth -->
+  <AnimalTrait_ElephantMusth.modExtensions.0.traitName>发情期</AnimalTrait_ElephantMusth.modExtensions.0.traitName>
+  
+  <!-- EN: never forgets -->
+  <AnimalTrait_ElephantNeverForgets.label>老象识途</AnimalTrait_ElephantNeverForgets.label>
+  <!-- EN: This elephant possesses the legendary memory of its kind to an exceptional degree. It learns quickly, remembers every command, and holds grudges against those who have wronged it. -->
+  <AnimalTrait_ElephantNeverForgets.description>这头大象拥有同类中罕见的非凡记忆力。它学习能力很强，能记住每一个指令，并且会对那些伤害过它的人怀有怨恨。</AnimalTrait_ElephantNeverForgets.description>
+  <!-- EN: Never Forgets -->
+  <AnimalTrait_ElephantNeverForgets.modExtensions.0.traitName>老象识途</AnimalTrait_ElephantNeverForgets.modExtensions.0.traitName>
+  
+  <!-- EN: young bull -->
+  <AnimalTrait_ElephantYoungBull.label>青年象</AnimalTrait_ElephantYoungBull.label>
+  <!-- EN: This young male elephant is full of energy and aggression, eager to prove himself. While powerful and fast, his temperament makes him unpredictable and potentially dangerous. -->
+  <AnimalTrait_ElephantYoungBull.description>这只年轻的雄性大象精力充沛且充满攻击性，急于证明自己的价值。它力量强大、速度飞快，但其性格却难以捉摸，还可能具有一定的危险性。</AnimalTrait_ElephantYoungBull.description>
+  <!-- EN: Young Bull -->
+  <AnimalTrait_ElephantYoungBull.modExtensions.0.traitName>青年象</AnimalTrait_ElephantYoungBull.modExtensions.0.traitName>
+  
+  <!-- EN: racehorse -->
+  <AnimalTrait_HorseRacehorse.label>赛马</AnimalTrait_HorseRacehorse.label>
+  <!-- EN: This horse is built for speed. Its lean frame and powerful legs propel it at incredible velocities. It lives to run and can outpace almost any creature on the rim. -->
+  <AnimalTrait_HorseRacehorse.description>这匹马生来就是为了奔跑而生的。它修长的身躯和强壮的双腿使它能够以惊人的速度疾驰。它生来就是为了奔跑，几乎能超越边缘世界任何其他奔跑的生物。</AnimalTrait_HorseRacehorse.description>
+  
+  <!-- EN: skittish -->
+  <AnimalTrait_HorseSkittish.label>易惊</AnimalTrait_HorseSkittish.label>
+  <!-- EN: This horse is highly sensitive and easily startled. While difficult to control in stressful situations, its heightened alertness and explosive speed make it exceptionally fast when fleeing danger. -->
+  <AnimalTrait_HorseSkittish.description>这匹马非常敏感，容易受到惊吓。在压力环境下很难驾驭它，但其高度的警觉性和迅猛的速度使其在逃离危险时速度极快。</AnimalTrait_HorseSkittish.description>
+  
+  <!-- EN: steady mount -->
+  <AnimalTrait_HorseSteadyMount.label>安定</AnimalTrait_HorseSteadyMount.label>
+  <!-- EN: This horse has an unflappable temperament. Nothing seems to rattle it - not gunfire, not predators, not storms. It carries its rider with smooth, effortless grace over any terrain. -->
+  <AnimalTrait_HorseSteadyMount.description>这匹马性情沉稳，无论遇到何种情况都不会惊慌失措——无论是枪声、猛兽还是暴风雨。它都能以流畅、毫不费力的优雅姿态带着骑手在任何地形上驰骋。</AnimalTrait_HorseSteadyMount.description>
+  <!-- EN: Steady Mount -->
+  <AnimalTrait_HorseSteadyMount.modExtensions.0.traitName>安定</AnimalTrait_HorseSteadyMount.modExtensions.0.traitName>
+  
+  <!-- EN: warhorse -->
+  <AnimalTrait_HorseWarhorse.label>战马</AnimalTrait_HorseWarhorse.label>
+  <!-- EN: This horse was bred for combat. It doesn't spook at violence, charges fearlessly into battle, and strikes with powerful hooves. The ideal mount for a warrior. -->
+  <AnimalTrait_HorseWarhorse.description>这匹马是为战斗而培育的。它对暴力毫无惧怕，勇往直前地冲入战场，并以有力的蹄子猛力攻击敌人。它是战士的理想坐骑。</AnimalTrait_HorseWarhorse.description>
+  
+  <!-- EN: herd leader -->
+  <AnimalTrait_MuffaloHerdLeader.label>头牛</AnimalTrait_MuffaloHerdLeader.label>
+  <!-- EN: This muffalo has risen to the top of the herd hierarchy. Its commanding presence keeps the group together and its keen senses warn of approaching danger. Other muffalos follow its lead instinctively. -->
+  <AnimalTrait_MuffaloHerdLeader.description>这头雪牛是牛群的首领。它的威严形象使整个群体保持团结，而它敏锐的感知能力则能及时预警潜在的危险。其他雪牛也会本能地跟随它的引领。</AnimalTrait_MuffaloHerdLeader.description>
+  <!-- EN: Herd Leader -->
+  <AnimalTrait_MuffaloHerdLeader.modExtensions.0.traitName>头牛</AnimalTrait_MuffaloHerdLeader.modExtensions.0.traitName>
+  
+  <!-- EN: herd member -->
+  <AnimalTrait_MuffaloHerdMember.label>牧群成员</AnimalTrait_MuffaloHerdMember.label>
+  <!-- EN: This muffalo is content to follow rather than lead. It finds safety in numbers and responds well to direction from dominant animals or handlers. A cooperative and easy-to-manage beast. -->
+  <AnimalTrait_MuffaloHerdMember.description>这头雪牛倾向于跟随而非引领。它喜欢与同伴们结伴而行，而且在面对头牛或驯养者的指挥时能做出良好的反应。它是一头善于合作且易于管理的动物。</AnimalTrait_MuffaloHerdMember.description>
+  <!-- EN: Herd Member -->
+  <AnimalTrait_MuffaloHerdMember.modExtensions.0.traitName>牧群成员</AnimalTrait_MuffaloHerdMember.modExtensions.0.traitName>
+  
+  <!-- EN: lone wanderer -->
+  <AnimalTrait_MuffaloLoneWanderer.label>离群者</AnimalTrait_MuffaloLoneWanderer.label>
+  <!-- EN: This muffalo prefers solitude over herd life. It has learned to survive independently, developing exceptional self-reliance but struggling with social bonds. Harder to keep with a group. -->
+  <AnimalTrait_MuffaloLoneWanderer.description>这头雪牛更喜欢独处而非群居生活。它已经学会了独立生存，具备了极强的自立能力，但在建立社交关系方面却存在困难。难以与其他雪牛一起管理。</AnimalTrait_MuffaloLoneWanderer.description>
+  <!-- EN: Lone Wanderer -->
+  <AnimalTrait_MuffaloLoneWanderer.modExtensions.0.traitName>离群者</AnimalTrait_MuffaloLoneWanderer.modExtensions.0.traitName>
+  
+  <!-- EN: wool champion -->
+  <AnimalTrait_MuffaloWoolChampion.label>产毛冠军</AnimalTrait_MuffaloWoolChampion.label>
+  <!-- EN: This muffalo has an exceptionally thick and luxurious coat. It produces wool of remarkable quantity and quality, making it a prized asset for any textile operation. -->
+  <AnimalTrait_MuffaloWoolChampion.description>这只雪牛的皮毛异常浓密且极为柔软。它所产的雪牛毛数量丰富、品质上乘，因此对于任何纺织业来说都是一笔宝贵的财富。</AnimalTrait_MuffaloWoolChampion.description>
+  <!-- EN: Wool Champion -->
+  <AnimalTrait_MuffaloWoolChampion.modExtensions.0.traitName>产毛冠军</AnimalTrait_MuffaloWoolChampion.modExtensions.0.traitName>
+  
+  <!-- EN: prolific layer -->
+  <AnimalTrait_ProlificLayer.label>产卵机器</AnimalTrait_ProlificLayer.label>
+  <!-- EN: This chicken is a champion egg producer, in exchange for eating more. Each clutch yields significantly more eggs than normal, making it invaluable for food production. -->
+  <AnimalTrait_ProlificLayer.description>这只鸡是产蛋冠军，为了获取更多鸡蛋，它需要吃得更多。每窝产下的鸡蛋数量比普通鸡多得多，因此对于食品生产来说非常宝贵。</AnimalTrait_ProlificLayer.description>
+  <!-- EN: Prolific Layer -->
+  <AnimalTrait_ProlificLayer.modExtensions.0.traitName>产卵机器</AnimalTrait_ProlificLayer.modExtensions.0.traitName>
+  
+  <!-- EN: charging bull -->
+  <AnimalTrait_RhinoChargingBull.label>冲锋巨犀</AnimalTrait_RhinoChargingBull.label>
+  <!-- EN: This rhinoceros is extraordinarily aggressive and charges at perceived threats with devastating force. Its horn strikes can impale even armored targets, and the impact can shatter bones and crush organs. -->
+  <AnimalTrait_RhinoChargingBull.description>这种犀牛极具攻击性，一旦察觉到威胁便会以极其猛烈的力度发起攻击。它的角击足以刺穿任何坚固的物体，而且撞击所产生的冲击力能够使骨骼断裂、器官受损。</AnimalTrait_RhinoChargingBull.description>
+  <!-- EN: Charging Bull -->
+  <AnimalTrait_RhinoChargingBull.modExtensions.0.traitName>冲锋巨犀</AnimalTrait_RhinoChargingBull.modExtensions.0.traitName>
+  
+  <!-- EN: ironhide -->
+  <AnimalTrait_RhinoIronhide.label>铁皮</AnimalTrait_RhinoIronhide.label>
+  <!-- EN: This rhinoceros has skin like armor plating. Blades glance off, bullets barely penetrate, and even dedicated anti-materiel weapons struggle to bring it down. A walking fortress. -->
+  <AnimalTrait_RhinoIronhide.description>这只犀牛的皮肤犹如坚固的装甲板一般。刀刃擦过它身上也不会留下痕迹，子弹也无法轻易穿透，即便是专门的反装甲武器也难以将其击倒。它简直就是一座行走的堡垒。</AnimalTrait_RhinoIronhide.description>
+  
+  <!-- EN: ancient one -->
+  <AnimalTrait_ThrumboAncientOne.label>远古长者</AnimalTrait_ThrumboAncientOne.label>
+  <!-- EN: This thrumbo has lived for countless centuries, accumulating wisdom beyond measure. Its movements are deliberate, its gaze knowing. It has seen the rise and fall of civilizations and carries that weight with dignity. -->
+  <AnimalTrait_ThrumboAncientOne.description>这头敲击兽已经存活了无数个世纪，积累了难以计数的智慧。它的动作从容不迫，目光深邃而睿智。它见证了各个文明的兴衰，而它始终保持着庄重的风度。</AnimalTrait_ThrumboAncientOne.description>
+  <!-- EN: Ancient One -->
+  <AnimalTrait_ThrumboAncientOne.modExtensions.0.traitName>远古长者</AnimalTrait_ThrumboAncientOne.modExtensions.0.traitName>
+  
+  <!-- EN: horn of legend -->
+  <AnimalTrait_ThrumboHornOfLegend.label>传奇兽角</AnimalTrait_ThrumboHornOfLegend.label>
+  <!-- EN: This thrumbo's horn is of truly exceptional quality - longer, sharper, and more lustrous than typical specimens. It strikes with devastating precision and, should this magnificent creature ever fall, the horn would be of supreme value. -->
+  <AnimalTrait_ThrumboHornOfLegend.description>这只敲击兽的角品质极为上乘——比一般的兽角要长、更锋利、也更加光亮。它攻击时的精准度令人惊叹，倘若这头雄伟的动物不幸倒下，其角的价值将无可估量。</AnimalTrait_ThrumboHornOfLegend.description>
+  <!-- EN: Horn of Legend -->
+  <AnimalTrait_ThrumboHornOfLegend.modExtensions.0.traitName>传奇兽角</AnimalTrait_ThrumboHornOfLegend.modExtensions.0.traitName>
+  
+  <!-- EN: young blood -->
+  <AnimalTrait_ThrumboYoungBlood.label>新血</AnimalTrait_ThrumboYoungBlood.label>
+  <!-- EN: Despite its imposing size, this thrumbo is young by its species' standards. It's more aggressive and energetic than its elders, quick to anger but also quicker on its feet. -->
+  <AnimalTrait_ThrumboYoungBlood.description>尽管体型庞大，但这只敲击兽在它所属物种中算是幼年个体。它比年长的同类更具攻击性且更加精力充沛，容易发怒但行动也更为敏捷。</AnimalTrait_ThrumboYoungBlood.description>
+  <!-- EN: Young Blood -->
+  <AnimalTrait_ThrumboYoungBlood.modExtensions.0.traitName>新血</AnimalTrait_ThrumboYoungBlood.modExtensions.0.traitName>
+  
+  <!-- EN: lone hunter -->
+  <AnimalTrait_WolfLoneHunter.label>独狼</AnimalTrait_WolfLoneHunter.label>
+  <!-- EN: This wolf has abandoned pack life to hunt alone. It's become a supremely efficient solo predator - stealthy, patient, and deadly. It strikes from the shadows and disappears without a trace. -->
+  <AnimalTrait_WolfLoneHunter.description>这只狼已经放弃了群体生活，转而独自狩猎。它已变成了一种极其高效的独行猎手——行动隐秘、耐心且致命。它在阴影中出击，然后消失得无影无踪。</AnimalTrait_WolfLoneHunter.description>
+  <!-- EN: Lone Hunter -->
+  <AnimalTrait_WolfLoneHunter.modExtensions.0.traitName>独狼</AnimalTrait_WolfLoneHunter.modExtensions.0.traitName>
+  
+  <!-- EN: pack alpha -->
+  <AnimalTrait_WolfPackAlpha.label>狼王</AnimalTrait_WolfPackAlpha.label>
+  <!-- EN: This wolf is the undisputed leader of its pack. It commands through strength and cunning, striking down challengers with ruthless efficiency. Its howl coordinates the hunt. -->
+  <AnimalTrait_WolfPackAlpha.description>这只狼是其族群中无可争议的首领。它凭借力量和智谋来指挥战斗，以残酷的效率击倒一切挑战者。它的嚎叫能协调整个狩猎行动。</AnimalTrait_WolfPackAlpha.description>
+  <!-- EN: Pack Alpha -->
+  <AnimalTrait_WolfPackAlpha.modExtensions.0.traitName>狼王</AnimalTrait_WolfPackAlpha.modExtensions.0.traitName>
+  
+  <!-- EN: pack omega -->
+  <AnimalTrait_WolfPackOmega.label>狼众</AnimalTrait_WolfPackOmega.label>
+  <!-- EN: This wolf occupies the lowest rank in pack hierarchy. It's submissive and non-threatening, but years of hardship have made it surprisingly tough and adaptable. -->
+  <AnimalTrait_WolfPackOmega.description>这只狼在狼群的等级体系中处于最底层的位置。它温顺且不具威胁性，但长期的艰难困苦使它变得异常坚韧且适应力极强。</AnimalTrait_WolfPackOmega.description>
+  <!-- EN: Pack Omega -->
+  <AnimalTrait_WolfPackOmega.modExtensions.0.traitName>狼众</AnimalTrait_WolfPackOmega.modExtensions.0.traitName>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Automatic -->
+  <Automatic.label>自动</Automatic.label>
+  <!-- EN: Automatically choose between item names getting displayed with their count when hidden and count only when having visible contents, either directly or through the building only accepting one kind -->
+  <Automatic.description>如果储存建筑不会将已储存物品的贴图显示出来，则它将显示已储存物品的名称和数量。每行仅显示1种物品，已储存物品超过3种时，则改为以数字形式显示已储存物品的总数量。\n\n示例：\n（已储存有15原木，20白银和35钢铁）\n原木 x15\n白银 x20\n钢铁 x35\n\n（已储存有15原木，20白银，35钢铁，50玻璃钢和75黄金）\n[195]\n\n如果储存建筑会将已储存物品的贴图显示出来（例如原版的物品架），则它将显示已储存物品的总数量。\n\n示例：\n（已储存有15原木，20白银和35钢铁）\n[70]\n\n（已储存有15原木，20白银，35钢铁，50玻璃钢和75黄金）\n[195]</Automatic.description>
+  
+  <!-- EN: Item names -->
+  <Names.label>物品名称</Names.label>
+  <!-- EN: Display names of stored items, one entry per line -->
+  <Names.description>储存建筑上将显示已储存物品的名称。每行仅显示1种物品。\n\n示例：\n（已储存有原木，白银和钢铁）\n原木\n白银\n钢铁\n\n（已储存有原木，白银，钢铁和玻璃钢和黄金）\n原木\n白银\n其他物品 x3</Names.description>
+  
+  <!-- EN: Item names or name count -->
+  <NamesOrNameCount.label>物品名称或种类数量</NamesOrNameCount.label>
+  <!-- EN: Display up to 3 names of stored items, one entry per line, or the count of different names when having more items -->
+  <NamesOrNameCount.description>储存建筑上将显示已储存物品的名称。每行仅显示1种物品，已储存物品超过3种时，则改为以数字形式显示已储存物品的种类数量。\n\n示例：\n（已储存有原木，白银和钢铁）\n原木\n白银\n钢铁\n\n（已储存有原木，白银，钢铁，玻璃钢和黄金）\n[5]</NamesOrNameCount.description>
+  
+  <!-- EN: Item names or total count -->
+  <NamesOrTotalCount.label>物品名称或总数量</NamesOrTotalCount.label>
+  <!-- EN: Display up to 3 names of stored items, one entry per line, or the total count when having more items -->
+  <NamesOrTotalCount.description>储存建筑上将显示已储存物品的名称。每行仅显示1种物品，已储存物品超过3种时，则改为以数字形式显示已储存物品的总数量。\n\n示例：\n（已储存有15原木，20白银和35钢铁）\n原木\n白银\n钢铁\n\n（已储存有15原木，20白银，35钢铁，50玻璃钢和75黄金）\n[195]</NamesOrTotalCount.description>
+  
+  <!-- EN: Item names with count -->
+  <NamesWithCount.label>物品名称&amp;数量</NamesWithCount.label>
+  <!-- EN: Display item names and their count in a format of Item xY, one entry per line -->
+  <NamesWithCount.description>储存建筑上将显示已储存物品的名称和数量。每行仅显示1种物品。\n\n示例：\n（已储存有15原木，20白银和35钢铁）\n原木 x15\n白银 x20\n钢铁 x35\n\n（已储存有15原木，20白银，35钢铁，50玻璃钢和75黄金）\n原木 x15\n白银 x20\n其他物品 x160</NamesWithCount.description>
+  
+  <!-- EN: Item names with count or total count -->
+  <NamesWithCountOrTotalCount.label>物品名称&amp;数量或总数量</NamesWithCountOrTotalCount.label>
+  <!-- EN: Display up to 3 item names and their count in a format of Item xY, one entry per line, or the total count when having more items -->
+  <NamesWithCountOrTotalCount.description>储存建筑上将显示已储存物品的名称和数量。每行仅显示1种物品，已储存物品超过3种时，则改为以数字形式显示已储存物品的总数量。\n\n示例：\n（已储存有15原木，20白银和35钢铁）\n原木 x15\n白银 x20\n钢铁 x35\n\n（已储存有15原木，20白银，35钢铁，50玻璃钢和75黄金）\n[195]</NamesWithCountOrTotalCount.description>
+  
+  <!-- EN: None -->
+  <None.label>无</None.label>
+  <!-- EN: Do not display any labels -->
+  <None.description>不显示任何标签。</None.description>
+  
+  <!-- EN: Total count -->
+  <TotalCount.label>总数量</TotalCount.label>
+  <!-- EN: Display the total count of all items in storage in a format [ COUNT ] -->
+  <TotalCount.description>储存建筑上将显示已储存物品的总数量。\n\n示例：\n（已储存有15原木，20白银和35钢铁）\n[70]\n\n（已储存有15原木，20白银，35钢铁，50玻璃钢和75黄金）\n[195]</TotalCount.description>
+  
+  <!-- EN: Vanilla -->
+  <Vanilla.label>原版</Vanilla.label>
+  <!-- EN: Display item counts individually on each item -->
+  <Vanilla.description>储存建筑上将单独显示每种已储存物品的数量。</Vanilla.description>
+  
+</LanguageData>

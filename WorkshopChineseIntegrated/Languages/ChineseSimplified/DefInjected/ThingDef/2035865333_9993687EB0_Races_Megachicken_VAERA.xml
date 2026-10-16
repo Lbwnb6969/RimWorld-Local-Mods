@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megachicken -->
+  <VAERoy_Megachicken.label>巨皇鸡</VAERoy_Megachicken.label>
+  <!-- EN: The unusual royal farm bird, the megachicken is raised by spoiled royalty as a pet project. This bird simply never stops growing, and if taken care of, it can reach gargantuan sizes. Royalty is known to compare their megacocks, and usually the one with the biggest specimen wins. Those that lose often argue that it’s not about the size, it’s about what you do with it.\n\n<color=#E5E54C>Gameplay effect:</color> Megachicken have five growth stages, at 0, 3, 8, 12 and 18 years of age. Their abilities get increasingly powerful as they age. -->
+  <VAERoy_Megachicken.description>这种与众不同的巨型禽类动物是“皇家宠物”项目的基因工程成果之一。如果照料得当，巨皇鸡便会永无止境地成长下去，最终达到极其惊人的大小。破碎帝国的王公贵戚们很喜欢在闲暇之时举行“巨皇鸡评比赛”——体型最大者得胜。落败者们常常会这样安慰自己：“巨皇鸡的体型根本就不重要，能够饲养并安置好它们的人才配称得上是真正的胜利者。”\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>巨皇鸡拥有5个成长阶段（0岁，3岁，8岁，12岁和18岁），它们的体型会随着年龄增长而不断变大。</VAERoy_Megachicken.description>
+  <!-- EN: claws -->
+  <VAERoy_Megachicken.tools.claws.label>爪</VAERoy_Megachicken.tools.claws.label>
+  <!-- EN: beak -->
+  <VAERoy_Megachicken.tools.beak.label>喙</VAERoy_Megachicken.tools.beak.label>
+  <!-- EN: head -->
+  <VAERoy_Megachicken.tools.head.label>头</VAERoy_Megachicken.tools.head.label>
+  
+</LanguageData>

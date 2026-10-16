@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate awful cheese -->
+  <DankPyon_AteCheese.stages.ate_awful_cheese.label>吃了极差奶酪</DankPyon_AteCheese.stages.ate_awful_cheese.label>
+  <!-- EN: I had the unfortunate experience of eating awful-quality cheese. The taste still lingers, haunting my thoughts. -->
+  <DankPyon_AteCheese.stages.ate_awful_cheese.description>我吃了极差奶酪。那味道和恐怖的经历至今仍挥之不去。</DankPyon_AteCheese.stages.ate_awful_cheese.description>
+  <!-- EN: ate poor cheese -->
+  <DankPyon_AteCheese.stages.ate_poor_cheese.label>吃了较差奶酪</DankPyon_AteCheese.stages.ate_poor_cheese.label>
+  <!-- EN: I ate some poor-quality cheese. The taste was less than satisfying -->
+  <DankPyon_AteCheese.stages.ate_poor_cheese.description>我吃了较差奶酪。那味道不太令人满意。</DankPyon_AteCheese.stages.ate_poor_cheese.description>
+  <!-- EN: ate normal cheese -->
+  <DankPyon_AteCheese.stages.ate_normal_cheese.label>吃了一般奶酪</DankPyon_AteCheese.stages.ate_normal_cheese.label>
+  <!-- EN: I ate some average cheese. -->
+  <DankPyon_AteCheese.stages.ate_normal_cheese.description>我吃了一般的奶酪。</DankPyon_AteCheese.stages.ate_normal_cheese.description>
+  <!-- EN: ate good cheese -->
+  <DankPyon_AteCheese.stages.ate_good_cheese.label>吃了良好奶酪</DankPyon_AteCheese.stages.ate_good_cheese.label>
+  <!-- EN: The taste of the good-quality cheese you just ate lingers on your palate, bringing a smile to your face. -->
+  <DankPyon_AteCheese.stages.ate_good_cheese.description>我刚刚品尝到的良好奶酪在味蕾上萦绕，令人不禁绽放笑容。</DankPyon_AteCheese.stages.ate_good_cheese.description>
+  <!-- EN: ate excellent cheese -->
+  <DankPyon_AteCheese.stages.ate_excellent_cheese.label>吃了极佳奶酪</DankPyon_AteCheese.stages.ate_excellent_cheese.label>
+  <!-- EN: The incredible taste of the excellent-quality cheese you just indulged in has left you in a state of pure culinary delight -->
+  <DankPyon_AteCheese.stages.ate_excellent_cheese.description>我刚刚品尝到的极佳奶酪超级美味，令人沉浸在纯粹的美食愉悦中。</DankPyon_AteCheese.stages.ate_excellent_cheese.description>
+  <!-- EN: ate masterwork cheese -->
+  <DankPyon_AteCheese.stages.ate_masterwork_cheese.label>吃了大师奶酪</DankPyon_AteCheese.stages.ate_masterwork_cheese.label>
+  <!-- EN: The unparalleled taste of the masterwork-quality cheese you just savored has transported you to a realm of gustatory ecstasy. -->
+  <DankPyon_AteCheese.stages.ate_masterwork_cheese.description>我刚刚品尝到的大师奶酪美味无与伦比，令人陶醉不已。</DankPyon_AteCheese.stages.ate_masterwork_cheese.description>
+  <!-- EN: ate legendary cheese -->
+  <DankPyon_AteCheese.stages.ate_legendary_cheese.label>吃了传奇奶酪</DankPyon_AteCheese.stages.ate_legendary_cheese.label>
+  <!-- EN: The divine taste of the legendary-quality cheese you just experienced has forever altered your perception of culinary perfection. -->
+  <DankPyon_AteCheese.stages.ate_legendary_cheese.description>我刚刚品尝到的传奇奶酪美味超凡入圣，永远改变了我对完美的看法。</DankPyon_AteCheese.stages.ate_legendary_cheese.description>
+  
+</LanguageData>

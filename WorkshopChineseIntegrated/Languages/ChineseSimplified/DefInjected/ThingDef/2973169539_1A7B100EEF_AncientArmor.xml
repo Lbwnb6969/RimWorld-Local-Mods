@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Heavy -->
+
+  <BotchJob_AncientPlateHelmet.label>远古板甲盔</BotchJob_AncientPlateHelmet.label>
+  <BotchJob_AncientPlateHelmet.description>一顶设计古老的板甲头盔，外层由玻璃钢加固。\n\n能提供有效的利刃防御，但对钝器攻击防御较差。这顶头盔会限制佩戴者的视野。</BotchJob_AncientPlateHelmet.description>
+
+  <BotchJob_AncientPlateArmor.label>远古板甲</BotchJob_AncientPlateArmor.label>
+  <BotchJob_AncientPlateArmor.description>一件设计古老的全身板甲，外层由玻璃钢加固。\n\n能覆盖全身，提供大量的保护，并具一定的御寒能力，但会减慢穿戴者的移动速度。</BotchJob_AncientPlateArmor.description>
+
+
+  <!-- Medium -->
+
+  <BotchJob_AncientJerkin.label>远古皮甲</BotchJob_AncientJerkin.label>
+  <BotchJob_AncientJerkin.description>一件设计古老的皮革甲，外层由玻璃钢钉加固。\n\n虽然保护性不如板甲，但不会拖累穿戴者的移动速度，并能提供一些隔热和防寒功能。</BotchJob_AncientJerkin.description>
+
+  <BotchJob_AncientHoodedHelmet.label>远古兜帽皮盔</BotchJob_AncientHoodedHelmet.label>
+  <BotchJob_AncientHoodedHelmet.description>一顶设计古老的轻巧头盔，上面覆盖着镶有玻璃钢钉的皮革兜帽。\n\n虽然保护性不如板甲头盔，但它不会限制佩戴者的视野，并能提供一些隔热和防寒功能。</BotchJob_AncientHoodedHelmet.description>
+
+
+  <!-- Light -->
+
+  <BotchJob_AncientAcolyteRobe.label>远古侍从长袍</BotchJob_AncientAcolyteRobe.label>
+  <BotchJob_AncientAcolyteRobe.description>一件设计古老的长袍，部分使用超织物编织而成。\n\n它比普通的长袍更具保护性，能略微提高心灵敏感度，并且更快地驱散神经热。</BotchJob_AncientAcolyteRobe.description>
+
+  <BotchJob_AncientAcolyteCowl.label>远古侍从罩帽</BotchJob_AncientAcolyteCowl.label>
+  <BotchJob_AncientAcolyteCowl.description>一顶设计古老的织物罩帽，部分使用超织物编织而成。\n\n这顶帽子能提供少量的保护，略微提高心灵敏感度，并且更快地驱散神经热。</BotchJob_AncientAcolyteCowl.description>
+
+
+</LanguageData>

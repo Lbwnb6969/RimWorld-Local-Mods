@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: divine order -->
+  <BotchJob_DivineOrderFaction.label>神圣秩序</BotchJob_DivineOrderFaction.label>
+  <!-- EN: Either forcefully initiated or born into the order, these people are iron-clad in their faith and consider it their divine mission to cleanse the realm of what they believe to be corruption. They are highly distrustful of outsiders but not completely without reason, and have been know to form uneasy alliances if they see the benefits of doing so. -->
+  <BotchJob_DivineOrderFaction.description>不论是被“征募”，还是出生于秩序之中，这些人对自己的信仰都坚不可摧，并认为清除他们所认为的腐败是他们神圣使命的一部分。他们对外来者非常不信任，但并非毫无理智，一旦看到合作的好处，他们也会形成不稳定的联盟。</BotchJob_DivineOrderFaction.description>
+  <!-- EN: Divine Order -->
+  <BotchJob_DivineOrderFaction.fixedName>神圣秩序</BotchJob_DivineOrderFaction.fixedName>
+  <!-- EN: lord commander -->
+  <BotchJob_DivineOrderFaction.leaderTitle>领主指挥官</BotchJob_DivineOrderFaction.leaderTitle>
+  <!-- EN: disciple -->
+  <BotchJob_DivineOrderFaction.pawnSingular>TODO</BotchJob_DivineOrderFaction.pawnSingular>
+  <!-- EN: disciples -->
+  <BotchJob_DivineOrderFaction.pawnsPlural>信徒</BotchJob_DivineOrderFaction.pawnsPlural>
+
+
+  <BotchJob_DivineOrderPlayerFaction.label>神圣秩序叛逃者</BotchJob_DivineOrderPlayerFaction.label>
+  <BotchJob_DivineOrderPlayerFaction.description>一小群逃离神圣秩序的叛逃者。</BotchJob_DivineOrderPlayerFaction.description>
+  <BotchJob_DivineOrderPlayerFaction.pawnSingular>叛逃者</BotchJob_DivineOrderPlayerFaction.pawnSingular>
+  <BotchJob_DivineOrderPlayerFaction.pawnsPlural>叛逃者</BotchJob_DivineOrderPlayerFaction.pawnsPlural>
+
+</LanguageData>

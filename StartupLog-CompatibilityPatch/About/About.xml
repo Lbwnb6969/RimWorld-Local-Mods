@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Startup Log Compatibility Fixes</name>
+  <author>Local compatibility patch</author>
+  <packageId>Local.StartupLog.CompatibilityFixes</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Fixes startup, save-loading, caravan, world-object, and quest-chain compatibility errors from Medieval Tailor Continued, [OA] Ratkin: Knight Order (Furniture), Map Mode Framework with ReGrowth 2, Vehicle Framework, Vanilla Animals Expanded, Useful Marks Settings Save, Medieval Kingdoms, VFE Medieval, and Hospitality. Invalid quest targets and overlapping merchant-guild sites are skipped safely; existing broken quests are ended without penalties. Medieval players do not receive non-RimDark above-medieval item requests or rewards.</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>cj.rimtalk</li>
+    <li>cj.rimtalk.expandmemory</li>
+    <li>sz.yaopt</li>
+    <li>ReGrowth.BOTR.Core</li>
+    <li>SmashPhil.VehicleFramework</li>
+    <li>NozoMe.MapModeFramework</li>
+    <li>Tinda.Medieval.Tailor.Continued</li>
+    <li>OARK.RatkinKnightOrderFurniture</li>
+    <li>VanillaExpanded.VanillaAnimalsExpanded</li>
+    <li>Aeeda.usefulmarksaddonsettingssave</li>
+    <li>DerekBickley.LTOColonyGroupsFinal</li>
+    <li>Ludeon.RimWorld.Odyssey</li>
+    <li>ferny.progressionagriculture</li>
+    <li>ferny.progressionproduction</li>
+    <li>Local.Progression.Production.ChineseSimplified</li>
+    <li>OskarPotocki.VFE.Classical</li>
+  </loadAfter>
+</ModMetaData>

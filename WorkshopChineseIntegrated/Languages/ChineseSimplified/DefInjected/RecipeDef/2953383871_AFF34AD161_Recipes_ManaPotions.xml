@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Make Lesser Mana Potion -->
+  <Joe_LesserManaRecipe.label>制作蓝药水(小)</Joe_LesserManaRecipe.label>
+  <!-- EN: A vial containing a Tribal Lesser Mana Elixir that restores a small amount of mana, and doubles the speed of arcane load dispersal. Infused with the essence of the Aether Bloom, it has a vibrant blue hue.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_LesserManaRecipe.description>制作蓝药水(小)，这种药水能少量恢复精神力及增加心灵熵消散率。</Joe_LesserManaRecipe.description>
+  <!-- EN: Making Lesser Mana Potion. -->
+  <Joe_LesserManaRecipe.jobString>正在制作蓝药水(小)。</Joe_LesserManaRecipe.jobString>
+  
+  <!-- EN: Make Lesser Mana Potion x5 -->
+  <Joe_LesserManaRecipeBulk.label>制作蓝药水(小) x5</Joe_LesserManaRecipeBulk.label>
+  <!-- EN: A vial containing a Tribal Lesser Mana Elixir that restores a small amount of mana, and doubles the speed of arcane load dispersal. Infused with the essence of the Aether Bloom, it has a vibrant blue hue.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_LesserManaRecipeBulk.description>制作5瓶蓝药水(小)，这种药水能少量恢复精神力及增加心灵熵消散率。</Joe_LesserManaRecipeBulk.description>
+  <!-- EN: Making Lesser Mana Potion x5. -->
+  <Joe_LesserManaRecipeBulk.jobString>正在制作蓝药水(小)。</Joe_LesserManaRecipeBulk.jobString>
+  
+  <!-- EN: Make Minor Mana Potion -->
+  <Joe_MinorManaRecipe.label>制作蓝药水(大)</Joe_MinorManaRecipe.label>
+  <!-- EN: A bottle containing an alchemical Minor Mana Potion that restores as modest amount of mana, and triples the speed of arcane load dispersal. Infused with the essence of the Aether Bloom, it has a vibrant blue hue.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_MinorManaRecipe.description>制作蓝药水(大)，这种药水能恢复精神力及大幅增加心灵熵消散率。</Joe_MinorManaRecipe.description>
+  <!-- EN: Making Minor Mana Potion. -->
+  <Joe_MinorManaRecipe.jobString>正在制作蓝药水(大)。</Joe_MinorManaRecipe.jobString>
+  
+  <!-- EN: Make Minor Mana Potion x5 -->
+  <Joe_MinorManaRecipeBulk.label>制作蓝药水(大) x5</Joe_MinorManaRecipeBulk.label>
+  <!-- EN: A bottle containing an alchemical Minor Mana Potion that restores as modest amount of mana, and triples the speed of arcane load dispersal. Infused with the essence of the Aether Bloom, it has a vibrant blue hue.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_MinorManaRecipeBulk.description>制作5瓶蓝药水(大)，这种药水能恢复精神力及大幅增加心灵熵消散率。</Joe_MinorManaRecipeBulk.description>
+  <!-- EN: Making Minor Mana Potion x5. -->
+  <Joe_MinorManaRecipeBulk.jobString>正在制作蓝药水(大)。</Joe_MinorManaRecipeBulk.jobString>
+  
+</LanguageData>

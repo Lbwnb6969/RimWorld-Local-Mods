@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Override only Mankind's Finest biological projects. The shared parent also owns gear research. -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ResearchProjectDef[defName="BEWH_GeneseedCreation" or defName="BEWH_StasisResurrection" or defName="BEWH_GeneseedPurification" or defName="BEWH_AdvancedProteinSubstitution" or defName="BEWH_GeneseedPerfection" or defName="BEWH_GeneseedExtractionFirstborn" or defName="BEWH_GeneseedExtractionPrimaris" or defName="BEWH_RubiconSurgery" or defName="BEWH_CustodesCreation" or defName="BEWH_PrimarchProject" or defName="BEWH_LegionAstartes"]</xpath>
+    <value>
+      <techLevel>Medieval</techLevel>
+      <requiredResearchBuilding>SimpleResearchBench</requiredResearchBuilding>
+      <requiredResearchFacilities Inherit="False" />
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="BEWH_GeneseedCreation"]/prerequisites</xpath>
+    <value>
+      <prerequisites>
+        <li>VR_MasterArchiteGenetics</li>
+      </prerequisites>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="BEWH_StasisResurrection"]/prerequisites</xpath>
+    <value>
+      <prerequisites>
+        <li>BEWH_GeneseedPurification</li>
+      </prerequisites>
+    </value>
+  </Operation>
+
+  <!-- Custodes must follow the complete Firstborn/Primaris geneseed science chain. -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="BEWH_CustodesCreation"]/prerequisites</xpath>
+    <value>
+      <prerequisites>
+        <li>BEWH_GeneseedPerfection</li>
+      </prerequisites>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="BEWH_PrimarchProject"]/prerequisites</xpath>
+    <value>
+      <prerequisites>
+        <li>BEWH_CustodesCreation</li>
+      </prerequisites>
+    </value>
+  </Operation>
+</Patch>

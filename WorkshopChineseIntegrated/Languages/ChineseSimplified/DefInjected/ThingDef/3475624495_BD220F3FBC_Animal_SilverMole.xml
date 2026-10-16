@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: silver mole -->
+  <!-- EN: A small burrowing mammal with glistening silver fur. Elusive and skittish, the silver mole can rarely be seen outside the safety of its underground den deep in the mountains.\n\nMany woodsmen make a habit of patrolling silver mole habitats, hoping to catch the critter while it digs for its favourite food - white truffles, rare mushrooms with sublime taste that grows under stony soils. -->
+  <!-- EN: left claw -->
+  <DA_SilverMole.tools.left_claw.label>左爪</DA_SilverMole.tools.left_claw.label>
+  <!-- EN: claw -->
+  <DA_SilverMole.tools.left_claw.labelNoLocation>爪</DA_SilverMole.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <DA_SilverMole.tools.right_claw.label>右爪</DA_SilverMole.tools.right_claw.label>
+  <!-- EN: claw -->
+  <DA_SilverMole.tools.right_claw.labelNoLocation>爪</DA_SilverMole.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <DA_SilverMole.tools.head.label>头</DA_SilverMole.tools.head.label>
+  <!-- EN: white truffle -->
+  <!-- EN: Often growing beneath stony soil, the white truffles are a rare delicacy in high demand for their unique taste. -->
+  <!-- EN: Mote -->
+  <Mote_SilverySparkle.label>微粒</Mote_SilverySparkle.label>
+</LanguageData>

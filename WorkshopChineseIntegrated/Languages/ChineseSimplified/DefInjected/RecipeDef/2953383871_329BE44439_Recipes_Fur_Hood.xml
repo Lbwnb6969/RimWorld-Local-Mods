@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_MakeHeadgear_WolfTimber.label>制作森林狼兜帽</DankPyon_MakeHeadgear_WolfTimber.label>
+  <DankPyon_MakeHeadgear_WolfTimber.description>制作动物毛皮兜帽。</DankPyon_MakeHeadgear_WolfTimber.description>
+  <DankPyon_MakeHeadgear_WolfTimber.jobString>正在制作动物毛皮兜帽。</DankPyon_MakeHeadgear_WolfTimber.jobString>
+
+  <DankPyon_MakeHeadgear_WolfArctic.label>制作北极狼兜帽</DankPyon_MakeHeadgear_WolfArctic.label>
+  <DankPyon_MakeHeadgear_WolfArctic.description>制作动物毛皮兜帽。</DankPyon_MakeHeadgear_WolfArctic.description>
+  <DankPyon_MakeHeadgear_WolfArctic.jobString>正在制作动物毛皮兜帽。</DankPyon_MakeHeadgear_WolfArctic.jobString>
+
+  <DankPyon_MakeHeadgear_BearGrizzly.label>制作熊皮兜帽</DankPyon_MakeHeadgear_BearGrizzly.label>
+  <DankPyon_MakeHeadgear_BearGrizzly.description>制作动物毛皮兜帽。</DankPyon_MakeHeadgear_BearGrizzly.description>
+  <DankPyon_MakeHeadgear_BearGrizzly.jobString>正在制作动物毛皮兜帽。</DankPyon_MakeHeadgear_BearGrizzly.jobString>
+
+  <DankPyon_MakeHeadgear_BearPolar.label>制作北极熊兜帽</DankPyon_MakeHeadgear_BearPolar.label>
+  <DankPyon_MakeHeadgear_BearPolar.description>制作动物毛皮兜帽。</DankPyon_MakeHeadgear_BearPolar.description>
+  <DankPyon_MakeHeadgear_BearPolar.jobString>正在制作动物毛皮兜帽。</DankPyon_MakeHeadgear_BearPolar.jobString>
+
+  <DankPyon_MakeHeadgear_Direwolf.label>制作恐狼披肩</DankPyon_MakeHeadgear_Direwolf.label>
+  <DankPyon_MakeHeadgear_Direwolf.description>制作动物毛皮披肩。</DankPyon_MakeHeadgear_Direwolf.description>
+  <DankPyon_MakeHeadgear_Direwolf.jobString>正在制作动物毛皮披肩。</DankPyon_MakeHeadgear_Direwolf.jobString>
+
+  <DankPyon_MakeHeadgear_HyenaPelt.label>制作鬣狗披肩</DankPyon_MakeHeadgear_HyenaPelt.label>
+  <DankPyon_MakeHeadgear_HyenaPelt.description>制作动物毛皮披肩。</DankPyon_MakeHeadgear_HyenaPelt.description>
+  <DankPyon_MakeHeadgear_HyenaPelt.jobString>正在制作动物毛皮披肩。</DankPyon_MakeHeadgear_HyenaPelt.jobString>
+
+  <DankPyon_Apparel_LindwurmCloak.label>制作林德虫斗篷</DankPyon_Apparel_LindwurmCloak.label>
+  <DankPyon_Apparel_LindwurmCloak.description>制作林德虫斗篷。</DankPyon_Apparel_LindwurmCloak.description>
+  <DankPyon_Apparel_LindwurmCloak.jobString>正在制作林德虫斗篷。</DankPyon_Apparel_LindwurmCloak.jobString>
+
+  <DankPyon_Apparel_FurCloak.label>制作巨魔毛皮斗篷</DankPyon_Apparel_FurCloak.label>
+  <DankPyon_Apparel_FurCloak.description>制作巨魔毛皮斗篷。</DankPyon_Apparel_FurCloak.description>
+  <DankPyon_Apparel_FurCloak.jobString>正在制作巨魔毛皮斗篷。</DankPyon_Apparel_FurCloak.jobString>
+
+  <DankPyon_Apparel_BonePlating.label>制作巨魔骨制肩甲</DankPyon_Apparel_BonePlating.label>
+  <DankPyon_Apparel_BonePlating.description>制作巨魔骨制肩甲。</DankPyon_Apparel_BonePlating.description>
+  <DankPyon_Apparel_BonePlating.jobString>正在制作巨魔骨制肩甲。</DankPyon_Apparel_BonePlating.jobString>
+
+  <DankPyon_Apparel_AdditionalFurPadding.label>制作衬垫巨魔毛皮斗篷</DankPyon_Apparel_AdditionalFurPadding.label>
+  <DankPyon_Apparel_AdditionalFurPadding.description>制作衬垫巨魔毛皮斗篷。</DankPyon_Apparel_AdditionalFurPadding.description>
+  <DankPyon_Apparel_AdditionalFurPadding.jobString>正在制作衬垫巨魔毛皮斗篷。</DankPyon_Apparel_AdditionalFurPadding.jobString>
+
+  <DankPyon_Apparel_RunesAndSigils.label>制作符文印记</DankPyon_Apparel_RunesAndSigils.label>
+  <DankPyon_Apparel_RunesAndSigils.description>制作符文印记。</DankPyon_Apparel_RunesAndSigils.description>
+  <DankPyon_Apparel_RunesAndSigils.jobString>正在制作符文印记。</DankPyon_Apparel_RunesAndSigils.jobString>
+
+</LanguageData>

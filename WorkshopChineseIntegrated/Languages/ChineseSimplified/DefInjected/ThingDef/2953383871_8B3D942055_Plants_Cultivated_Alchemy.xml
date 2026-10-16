@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Flowers -->
+
+  <DankPyon_Plant_Mindwort.label>金丝桃</DankPyon_Plant_Mindwort.label>
+  <DankPyon_Plant_Mindwort.description>一种小巧精致的草本植物，叶子呈浅绿色，能绽放出黄色的小花，由于药性强烈，常用于制作浓烈的药水。</DankPyon_Plant_Mindwort.description>
+
+  <DankPyon_Plant_Poppy.label>罂粟花</DankPyon_Plant_Poppy.label>
+  <DankPyon_Plant_Poppy.description>一种富含生机的植物，开着引人注目的红色花朵，以制作药用和炼金制剂的广泛用途而闻名，且因其强大的功效而受到重视。</DankPyon_Plant_Poppy.description>
+
+  <DankPyon_Plant_Fleawort.label>车前草</DankPyon_Plant_Fleawort.label>
+  <DankPyon_Plant_Fleawort.description>一种生命力强韧的植物，因其药性成分而在传统医学中广为使用。</DankPyon_Plant_Fleawort.description>
+
+  <DankPyon_Plant_FlyAgaric.label>毒蝇伞</DankPyon_Plant_FlyAgaric.label>
+  <DankPyon_Plant_FlyAgaric.description>一种引人注目的蘑菇，其鲜红的菌盖上点缀白色的斑点，因其毒性而闻名。尽管它很危险，但在传统疗法和仪式中仍会小剂量的使用（请务必小心）。</DankPyon_Plant_FlyAgaric.description>
+
+
+</LanguageData>

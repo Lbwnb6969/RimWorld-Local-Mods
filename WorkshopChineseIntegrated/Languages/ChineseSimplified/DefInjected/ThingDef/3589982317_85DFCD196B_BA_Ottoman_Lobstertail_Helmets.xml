@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Deli helmet -->
+  <BA_DeliHelmet.label>德利骑兵头盔</BA_DeliHelmet.label>
+  <!-- EN: .\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_DeliHelmet.description>德利骑兵（Deli）的标志性头盔，采用轻型铁制框架搭配锁子甲护颈，盔顶饰有象征「狂战士」精神的金属火焰纹章。这种头盔融合了突厥游牧民族的实用主义与奥斯曼帝国的装饰美学，既提供基础防护，又通过夸张的造型威慑敌人。历史上，德利骑兵作为奥斯曼帝国的先锋突击力量，常戴着此类头盔在巴尔干战场上发起决死冲锋。</BA_DeliHelmet.description>
+  
+  <!-- EN: Djebedji helmet -->
+  <BA_DjebedjiHelmet.label>杰贝吉炮兵头盔</BA_DjebedjiHelmet.label>
+  <!-- EN: .\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_DjebedjiHelmet.description>奥斯曼帝国炮兵部队（Djebedji）的制式头盔，由整块熟铁锻造成圆顶造型，前额铆接加固的V型护鼻，两侧开孔设计兼顾视野与通风。作为精锐火器部队的装备，其防护性能针对早期火枪弹片优化，内衬的棉麻织物可吸收冲击力。头盔边缘刻有阿拉伯文「安拉至大」，既体现宗教信仰，也象征对炮手的神圣庇护。</BA_DjebedjiHelmet.description>
+  
+</LanguageData>

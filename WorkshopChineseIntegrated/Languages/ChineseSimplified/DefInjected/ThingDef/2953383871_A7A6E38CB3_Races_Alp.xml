@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Alp -->
+  <DankPyon_Alp.label>梦魇</DankPyon_Alp.label>
+  <!-- EN: A pale creature of the night, Alps invade the dreams of nearby creatures, trapping them in a nightmare and feeding on their negative emotions. Victims often report extreme signs of distress upon waking, and most travelers will not stay at a settlement without some kind of night watch due to the intense experiences often reported. Despite this, Alps tend to be easy prey with their frail bones, parchment-like skin, and decaying insides. Scholars remain unsure about the origins of these creatures, though some theorize an ancient curse may be responsible.\n(Medieval Overhaul) -->
+  <DankPyon_Alp.description>梦魇是一种苍白的夜行生物，会入侵人们的梦境，将其困在噩梦中，并以负面情绪为食。梦魇的受害者会在清醒后感受到极端的痛苦，因此大多数旅行者都不愿在没有守夜人的聚落逗留。虽然梦魇能造成剧烈的痛苦，但由于它们的骨头脆弱、皮肤像羊皮纸般薄，而且内脏几已腐烂，因此被归类为低难度的猎物。学者们仍不确定这些生物的起源，不过有些人推测可能是源自某种古老的诅咒。</DankPyon_Alp.description>
+  <!-- EN: alp sleep -->
+  <DankPyon_Alp.comps.Comp_VerbProps.verbProps.0.label>噩梦</DankPyon_Alp.comps.Comp_VerbProps.verbProps.0.label>
+  <!-- EN: Force target to hallucinate and experience nightmares -->
+  <DankPyon_Alp.comps.Comp_VerbProps.verbProps.0.description>强迫目标产生幻觉并陷入噩梦。</DankPyon_Alp.comps.Comp_VerbProps.verbProps.0.description>
+  <!-- EN: left claw -->
+  <DankPyon_Alp.tools.left_claw.label>左爪</DankPyon_Alp.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <DankPyon_Alp.tools.right_claw.label>右爪</DankPyon_Alp.tools.right_claw.label>
+  <!-- EN: head -->
+  <DankPyon_Alp.tools.head.label>头</DankPyon_Alp.tools.head.label>
+  <!-- EN: alp sleep -->
+  <DankPyon_Alp.verbs.alp_sleep.label>噩梦</DankPyon_Alp.verbs.alp_sleep.label>
+  
+</LanguageData>

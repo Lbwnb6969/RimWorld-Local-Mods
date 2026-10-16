@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: matting ({0}) -->
+  <VFEM2_Matting_.label>地垫（{0}）</VFEM2_Matting_.label>
+  <!-- EN: Rough matting made from interwoven leather pieces. It's rustic, cozy, and boosts the beauty of the room it's in. It's also quite flammable, and cleaning it is a laborious process. -->
+  <VFEM2_Matting_.description>用多块皮革缝起来的粗糙地垫。它质朴却舒适，能提升房间的美观度。相当易燃，清理起来也很麻烦。</VFEM2_Matting_.description>
+  
+</LanguageData>

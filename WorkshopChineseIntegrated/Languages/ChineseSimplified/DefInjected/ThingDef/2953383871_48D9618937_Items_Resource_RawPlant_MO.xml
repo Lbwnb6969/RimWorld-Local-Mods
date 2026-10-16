@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Raw Plants Resource -->
+
+  <DankPyon_RawFlax.label>亚麻</DankPyon_RawFlax.label>
+  <DankPyon_RawFlax.description>植物纤维的茎。它的纤维可以利用其拉丝特性，制成优质织物。</DankPyon_RawFlax.description>
+
+  <DankPyon_Silkworm.label>蚕</DankPyon_Silkworm.label>
+  <DankPyon_Silkworm.description>能产丝的小蠕虫，蚕茧收获后可制成精美的丝。</DankPyon_Silkworm.description>
+
+  <DankPyon_RawCotton.label>棉花</DankPyon_RawCotton.label>
+  <DankPyon_RawCotton.description>棉花可以纺成棉布。</DankPyon_RawCotton.description>
+
+  <DankPyon_RawWheat.label>小麦</DankPyon_RawWheat.label>
+  <DankPyon_RawWheat.description>小麦是最重要的粮食作物之一，随着麦杆吸收阳光逐渐成熟结穗，农民们无不翘首以盼准备收割那金黄饱满的麦穗。小麦不仅能让人们温饱，它同时也是农村重要的经济来源，保障辛勤​​工作的农民生计和村庄的繁荣，因此经常能看到人们大面积种植这种作物。</DankPyon_RawWheat.description>
+
+  <DankPyon_RawGrapes.label>葡萄</DankPyon_RawGrapes.label>
+  <DankPyon_RawGrapes.description>可以生吃的美味葡萄。用于酿酒会更能发挥其价值。</DankPyon_RawGrapes.description>
+
+  <DankPyon_Sugarcane.label>甘蔗</DankPyon_Sugarcane.label>
+  <DankPyon_Sugarcane.description>新鲜甘蔗。需要压榨成糖才能使用。</DankPyon_Sugarcane.description>
+
+  <DankPyon_RawHerb.label>香草</DankPyon_RawHerb.label>
+  <DankPyon_RawHerb.description>新鲜香草。</DankPyon_RawHerb.description>
+
+
+  <!-- Berry Food -->
+
+  <DankPyon_RawTomatoes.label>番茄</DankPyon_RawTomatoes.label>
+  <DankPyon_RawTomatoes.description>新鲜番茄。</DankPyon_RawTomatoes.description>
+
+
+  <!-- 新鲜Plants Food -->
+
+  <DankPyon_RawApples.label>苹果</DankPyon_RawApples.label>
+  <DankPyon_RawApples.description>新鲜苹果。</DankPyon_RawApples.description>
+
+  <DankPyon_RawLemons.label>柠檬</DankPyon_RawLemons.label>
+  <DankPyon_RawLemons.description>新鲜柠檬</DankPyon_RawLemons.description>
+
+  <DankPyon_RawMulberry.label>桑葚</DankPyon_RawMulberry.label>
+  <DankPyon_RawMulberry.description>新鲜桑葚。</DankPyon_RawMulberry.description>
+
+  <DankPyon_RawCabbages.label>卷心菜</DankPyon_RawCabbages.label>
+  <DankPyon_RawCabbages.description>新鲜卷心菜。</DankPyon_RawCabbages.description>
+
+  <DankPyon_RawCarrots.label>红萝卜</DankPyon_RawCarrots.label>
+  <DankPyon_RawCarrots.description>新鲜红萝卜。</DankPyon_RawCarrots.description>
+
+  <DankPyon_RawGarlic.label>大蒜</DankPyon_RawGarlic.label>
+  <DankPyon_RawGarlic.description>新鲜大蒜。</DankPyon_RawGarlic.description>
+
+  <DankPyon_RawOnions.label>洋葱</DankPyon_RawOnions.label>
+  <DankPyon_RawOnions.description>新鲜洋葱。</DankPyon_RawOnions.description>
+
+  <DankPyon_RawPumpkins.label>南瓜</DankPyon_RawPumpkins.label>
+  <DankPyon_RawPumpkins.description>新鲜南瓜。</DankPyon_RawPumpkins.description>
+
+  <DankPyon_RawLentils.label>扁豆</DankPyon_RawLentils.label>
+  <DankPyon_RawLentils.description>新鲜扁豆。</DankPyon_RawLentils.description>
+
+  <DankPyon_GriffonBerry.label>狮鹫莓</DankPyon_GriffonBerry.label>
+  <DankPyon_GriffonBerry.description>新鲜狮鹫莓。</DankPyon_GriffonBerry.description>
+
+
+
+
+</LanguageData>

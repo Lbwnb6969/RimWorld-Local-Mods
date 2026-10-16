@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Alakh Geh -->
+  <BEWH_AlakhGeh.label>可汗之力</BEWH_AlakhGeh.label>
+  <!-- EN: Through thought, will, and intention alone, the Khan is able to move unimpeded and swiftly. -->
+  <BEWH_AlakhGeh.description>仅凭心念意志，可汗便可御风疾驰，万障莫阻。</BEWH_AlakhGeh.description>
+  
+  <!-- EN: concealed -->
+  <BEWH_Concealed.label>幽影潜行</BEWH_Concealed.label>
+  <!-- EN: Concealed and undetectable to almost everything. -->
+  <BEWH_Concealed.description>遁迹无形，几乎无法被任何事物察觉。</BEWH_Concealed.description>
+  
+  <!-- EN: Denied Witch -->
+  <BEWH_DeniedWitch.label>抗御巫法</BEWH_DeniedWitch.label>
+  <!-- EN: This pawn's psychic and mental abilities have been suppressed, rendering them unable to cast psycasts. -->
+  <BEWH_DeniedWitch.description>此人的精神和灵能已被抑制，无法施展灵能法术。</BEWH_DeniedWitch.description>
+  
+  <!-- EN: necrodermite arm -->
+  <BEWH_NecrodermiteArm.label>惧亡外皮手臂</BEWH_NecrodermiteArm.label>
+  <!-- EN: Arm made from necrodermite, durable, heat resistant and strong. -->
+  <BEWH_NecrodermiteArm.description>由惧亡外皮制成的手臂，制成的手臂，坚固耐用。</BEWH_NecrodermiteArm.description>
+  <!-- EN: necrodermite hand -->
+  <BEWH_NecrodermiteArm.comps.HediffComp_VerbGiver.tools.necrodermite_hand.label>惧亡外皮手</BEWH_NecrodermiteArm.comps.HediffComp_VerbGiver.tools.necrodermite_hand.label>
+  
+  <!-- EN: Opus Maxima -->
+  <BEWH_OpusMaxima.label>至高调度</BEWH_OpusMaxima.label>
+  <!-- EN: No room for rest, no time for doubt! -->
+  <BEWH_OpusMaxima.description>毋需休息，毋需质疑！！</BEWH_OpusMaxima.description>
+  
+  <!-- EN: War planned -->
+  <BEWH_WarPlanning.label>战争计划</BEWH_WarPlanning.label>
+  <!-- EN: Tactics and strategies! -->
+  <BEWH_WarPlanning.description>拟定战术，谋划策略！</BEWH_WarPlanning.description>
+  
+</LanguageData>

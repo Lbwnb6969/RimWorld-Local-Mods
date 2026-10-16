@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Local Simplified Chinese Patches - Integrated</name>
+  <author>Local integration</author>
+  <packageId>Local.Chinese.Integrated</packageId>
+  <supportedVersions><li>1.6</li>  <li>1.7</li>
+  </supportedVersions>
+  <description>Generated integration of local Simplified Chinese patches. Disable the individual local translation patches while using this package.</description>
+  <loadAfter>
+    <li>Local.Workshop.ChineseIntegrated</li>
+  </loadAfter>
+</ModMetaData>

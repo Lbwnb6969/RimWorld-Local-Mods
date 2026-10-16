@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Recieved {TITLE} title -->
+  <O21_GainedTitle.stages.Recieved_title.label>得到{TITLE}头衔</O21_GainedTitle.stages.Recieved_title.label>
+  <!-- EN: I was awarded the title of {TITLE}. It's good to have my accomplishments recognized. -->
+  <O21_GainedTitle.stages.Recieved_title.description>我被授予{TITLE}头衔。很高兴我的成就得到了认可。</O21_GainedTitle.stages.Recieved_title.description>
+  
+  <!-- EN: Lost {TITLE} title -->
+  <O21_LostTitle.stages.Lost_title.label>失去{TITLE}头衔</O21_LostTitle.stages.Lost_title.label>
+  <!-- EN: I lost my title of {TITLE}. It's rough knowing I didn't do enough to retain it. -->
+  <O21_LostTitle.stages.Lost_title.description>我失去了我的{TITLE}头衔。我没有做足够的努力来保住它。</O21_LostTitle.stages.Lost_title.description>
+  
+</LanguageData>

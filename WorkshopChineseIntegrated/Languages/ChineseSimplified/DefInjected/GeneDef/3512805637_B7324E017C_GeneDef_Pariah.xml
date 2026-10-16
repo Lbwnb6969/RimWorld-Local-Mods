@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: omega pariah -->
+  <BEWH_OmegaPariah.label>Ⅲ级无魂者</BEWH_OmegaPariah.label>
+  <!-- EN: Carriers of this gene have no psychic sensitivity. Additionally, they nullify the psychic sensitivity and reduce the consciousness of nearby pawns, while greatly increasing their pain. -->
+  <BEWH_OmegaPariah.description>这种基因的携带者没有心灵敏感度。此外，他们还会降低附近其他人的心灵敏感度和意识，同时也增加了他们的疼痛。</BEWH_OmegaPariah.description>
+  <!-- EN: Nullifies psychic sensitivity of nearby pawns and self. -->
+  <BEWH_OmegaPariah.customEffectDescriptions.0>使附近单位和自己的心灵敏感度失效</BEWH_OmegaPariah.customEffectDescriptions.0>
+  
+  <!-- EN: sigma pariah -->
+  <BEWH_SigmaPariah.label>Ⅰ级无魂者</BEWH_SigmaPariah.label>
+  <!-- EN: Carriers of this gene have reduced psychic sensitivity. Additionally they slightly reduce the psychic sensitivity and consciousness of others nearby whilst also slightly increasing their pain. -->
+  <BEWH_SigmaPariah.description>这种基因的携带者心灵敏感度较低。此外，他们还会降低附近其他人的心灵敏感度和意识，同时也增加了他们的疼痛。</BEWH_SigmaPariah.description>
+  <!-- EN: Reduces psychic sensitivity of nearby pawns and self. -->
+  <BEWH_SigmaPariah.customEffectDescriptions.0>降低附近单位和自己的心灵敏感度</BEWH_SigmaPariah.customEffectDescriptions.0>
+  
+  <!-- EN: upsilon pariah -->
+  <BEWH_UpsilonPariah.label>Ⅱ级无魂者</BEWH_UpsilonPariah.label>
+  <!-- EN: Carriers of this gene have greatly reduced psychic sensitivity. Additionally, they reduce the psychic sensitivity and consciousness of nearby pawns, while also increasing their pain. -->
+  <BEWH_UpsilonPariah.description>这种基因的携带者心灵敏感度大幅降低。此外，他们还会降低附近其他人的心灵敏感度和意识，同时也增加了他们的疼痛。</BEWH_UpsilonPariah.description>
+  <!-- EN: Greatly reduces psychic sensitivity of nearby pawns and self. -->
+  <BEWH_UpsilonPariah.customEffectDescriptions.0>大幅降低附近单位和自己的心灵敏感度</BEWH_UpsilonPariah.customEffectDescriptions.0>
+  
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Retired Hussar -->
+  <BA_Hussar_Scenario.label>退休胡萨尔骑兵</BA_Hussar_Scenario.label>
+  <!-- EN: Once a proud rider of the Commonwealth’s famed winged hussars, you’ve survived countless battles and carried the king’s banner across blood-soaked fields. But glory fades, and the realm you fought for now lies fractured by greed and foreign intrigue. Worn by age and haunted by memory, you’ve laid down your lance for the last time.\n\nNow, far from the courts and command tents, you seek peace in the borderlands — a place where no herald calls, and no war trumpet sounds. Yet the world you left behind is not so easily forgotten. Old enemies, unpaid debts, and the ghosts of comrades still ride beside you. A new life awaits — if the past doesn’t claim you first.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Hussar_Scenario.description>你曾是联邦著名翼骑兵中骄傲的一员，历经无数战役，扛着国王的旗帜驰骋于血染的战场。但荣耀终会消逝，你为之奋战的王国如今已因贪婪与外国阴谋而分崩离析。岁月侵蚀了你的体魄，回忆萦绕在你的心头，你最后一次放下了长矛。\n\n如今，远离宫廷与指挥帐篷的你，在边境之地追寻安宁——一个没有信使传召、没有战号轰鸣的地方。然而，你所告别的那个世界却难以忘怀。旧日仇敌、未偿债务，还有战友的亡魂，仍如影随形。新的人生在等待着你——前提是过去不会先将你吞噬。</BA_Hussar_Scenario.description>
+  <!-- EN: Once a proud rider of the Commonwealth’s famed winged hussars, you’ve survived countless battles and carried the king’s banner across blood-soaked fields. But glory fades, and the realm you fought for now lies fractured by greed and foreign intrigue. Worn by age and haunted by memory, you’ve laid down your lance for the last time.\n\nNow, far from the courts and command tents, you seek peace in the borderlands — a place where no herald calls, and no war trumpet sounds. Yet the world you left behind is not so easily forgotten. Old enemies, unpaid debts, and the ghosts of comrades still ride beside you. A new life awaits — if the past doesn’t claim you first. -->
+  <BA_Hussar_Scenario.scenario.description>你曾是联邦著名翼骑兵中骄傲的一员，历经无数战役，扛着国王的旗帜驰骋于血染的战场。但荣耀终会消逝，你为之奋战的王国如今已因贪婪与外国阴谋而分崩离析。岁月侵蚀了你的体魄，回忆萦绕在你的心头，你最后一次放下了长矛。\n\n如今，远离宫廷与指挥帐篷的你，在边境之地追寻安宁——一个没有信使传召、没有战号轰鸣的地方。然而，你所告别的那个世界却难以忘怀。旧日仇敌、未偿债务，还有战友的亡魂，仍如影随形。新的人生在等待着你——前提是过去不会先将你吞噬。</BA_Hussar_Scenario.scenario.description>
+  <!-- EN: Retired Hussar -->
+  <BA_Hussar_Scenario.scenario.name>退休胡萨尔骑兵</BA_Hussar_Scenario.scenario.name>
+  <!-- EN: Once you rode beneath the Commonwealth’s banner, your wings gleaming in the sun as enemies broke before your charge. Those days are gone — your comrades scattered, your commanders dead or dishonored. The world you fought for no longer exists. \n\nNow you stand alone, far from the castles and battlefields of your youth. The lance has been replaced by a shovel, the warhorse by weary feet. Yet the habits of a soldier die hard — you still wake before dawn, still watch the horizon for banners that will never rise again. \n\nThis land is untamed, dangerous, and full of promise. Perhaps here, at the edge of civilization, a broken warrior can find peace... or a new war worth fighting. -->
+  <BA_Hussar_Scenario.scenario.parts.GameStartDialog.text>你曾在联邦的旗帜下驰骋，羽翼在阳光下闪耀，敌军在你的冲锋面前溃不成军。那样的日子已然逝去——战友星散四方，指挥官或战死沙场或身败名裂。你曾为之奋战的世界早已不复存在。\n\n如今，你孤身一人站在这片土地上，远离了年少时的城堡与战场。长矛已被铁锹取代，战马换成了疲惫的双脚。但军人的习性难以磨灭——你依旧黎明即起，依旧凝望天际，期盼着那些永远不会再升起的旗帜。\n\n这片土地桀骜不驯、危机四伏，却也充满希望。或许在这文明的边缘，一个落魄的战士能找到安宁……或是一场值得再为之奋战的新战争。</BA_Hussar_Scenario.scenario.parts.GameStartDialog.text>
+  <!-- EN: Lone Retired Hussar -->
+  <BA_Hussar_Scenario.scenario.summary>独行的退休胡萨尔骑兵</BA_Hussar_Scenario.scenario.summary>
+  
+</LanguageData>

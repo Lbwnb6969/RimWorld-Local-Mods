@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kaftan -->
+  <TA_KaftanCommoner.label>草原长袍(平民)</TA_KaftanCommoner.label>
+  <!-- EN: . -->
+  <TA_KaftanCommoner.description>草原平民日常穿着的宽松长袍，便于活动。</TA_KaftanCommoner.description>
+  
+  <!-- EN: noble kaftan -->
+  <TA_KaftanNoble.label>草原长袍(贵族)</TA_KaftanNoble.label>
+  <!-- EN: . -->
+  <TA_KaftanNoble.description>草原贵族穿着的精美长袍，带有华丽装饰。</TA_KaftanNoble.description>
+  
+</LanguageData>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corporate overlords -->
+  <VME_Corporate_Overlords.label>巨型企业</VME_Corporate_Overlords.label>
+  <!-- EN: Whether we're led by a board of directors or our savvy CEO we face the reality that money makes the Rimworld go 'round. By automating as much as we can and keeping a lean staff we can maximize our return quadrum over quadrum.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Corporate. -->
+  <VME_Corporate_Overlords.description>无论是由董事会还是精明的CEO来领导，我们的殖民地都要面临这样一个事实：只有足够的金钱才能让我们的公司在边缘世界运转。通过提高自动化程度和精简员工可以最大化我们的利润。\n\n&lt;color=#E5E54C>推荐结构&lt;/color>\n -巨企起源</VME_Corporate_Overlords.description>
+  
+  <!-- EN: cosmic cultists -->
+  <VME_Cosmic_Cultists.label>天文信徒</VME_Cosmic_Cultists.label>
+  <!-- EN: The stars above sing to us, and we respond in kind. May their everlasting glow illuminate the threads of our fate which rest so wearily upon a most capricious spindle. Bathe oneself in the hallowed moonlight and let astral workings of the architects of fate guide you.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Esotericism. -->
+  <VME_Cosmic_Cultists.description>天上的星星为我们而歌唱，我们也以同样的方式回应它们的召唤。愿永恒的光辉能够照亮我们命运的织线，前途是如此变幻莫测，我们沐浴在星光之中，让这些命运的建筑师来指引我们前进的方向。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 秘奥探求</VME_Cosmic_Cultists.description>
+  
+  <!-- EN: dwarven artificers -->
+  <VME_Dwarven_Artificers.label>矮人工会</VME_Dwarven_Artificers.label>
+  <!-- EN: No day is better spent than a day in a hot forge. With our hammers we will echo the roar of flame and the ringing of steel through our mountain halls. Should we put in ample work, our Forgefathers will reward us with a supper fungus in excess so that we may fuel our bodies, just as we fuel our kilns.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Ideological. -->
+  <VME_Dwarven_Artificers.description>只有在炙热的熔炉旁边度过一个又一个充实的日子才会更好，拿起我们的铁锤，让烈焰的轰鸣和钢铁的铿锵回响在我们的山间大厅之中。如果我们专心投入到工作之中，我们的锻造之父会为我们准备丰盛的晚餐来给我们的身体补充能量，就像为我们的窑添加煤炭一样。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 无神论</VME_Dwarven_Artificers.description>
+  
+  <!-- EN: eastern revivalists -->
+  <VME_Eastern_Revivalists.label>东部教义者</VME_Eastern_Revivalists.label>
+  <!-- EN: We are born without sin and should do our best to remain upon the path of many virtues. Respect the wisdom of the wind and those who have lived many summers to feel it caress their faces. Beyond all else, keep your blade near and combat prowess honed should those you once called brothers turn against you.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Shintao. -->
+  <VME_Eastern_Revivalists.description>我们生而无罪，因而我们应该保持追寻充满美德的道路。要学会尊重风的智慧，尊重那些度过了无数个夏天的人，要像风一样去感受他们，抚摸他们的面庞。除此之外，要时刻把剑带在身边，磨练你的战斗能力，以防那些曾经的兄弟背叛你。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 东方教起源</VME_Eastern_Revivalists.description>
+  
+  <!-- EN: ecological fascists -->
+  <VME_Ecological_Fascists.label>生态法西斯</VME_Ecological_Fascists.label>
+  <!-- EN: Spare absolutely no one who dares to pollute or otherwise taint mother nature's soil with their pathetic existence. May our frail bodies give way to nourish the trees that loom over us. Respect the planet we walk or perish at the behest of our Seedseer.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Authoritarian. -->
+  <VME_Ecological_Fascists.description>绝不能宽恕那些以自己可悲的存在来污染大自然母亲的人。愿我们脆弱的身躯能够让位于笼罩、荫庇着我们的树木。要尊重我们所在的星球，否则我们就会在先知的命令下灭亡。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 独裁专制</VME_Ecological_Fascists.description>
+  
+  <!-- EN: egalitarian republic -->
+  <VME_Egalitarian_Republic.label>平等共和国</VME_Egalitarian_Republic.label>
+  <!-- EN: Democracy, freedom, and equality. It’s nothing short of appalling that we should think any of these to be revocable privileges rather than basic rights. People's creeds, cultures, and character all deserve respect and representation.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Agnosticism. -->
+  <VME_Egalitarian_Republic.description>民主、自由、平等。如果我们认为这些都是可剥夺的权利，而不是人们的基本权利，那就太可怕了。每一个人的信仰、文化和性格都值得尊重和体现。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 不可知论</VME_Egalitarian_Republic.description>
+  
+  <!-- EN: exalted gerontocracy -->
+  <VME_Exalted_Gerontocracy.label>长者治国</VME_Exalted_Gerontocracy.label>
+  <!-- EN: Our heavenly clergy will guide us well, age is more than just the gaining of wisdom or wrinkle. With each passing year our elders become closer to god.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Any monotheistic. -->
+  <VME_Exalted_Gerontocracy.description>我们神圣的神职人员将很好地引领我们，年龄不仅仅是获得智慧或增添皱纹。每过一年，我们的长者都更接近于神。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 任意一神论</VME_Exalted_Gerontocracy.description>
+  
+  <!-- EN: factory drones -->
+  <VME_Factory_Drones.label>工业自动化</VME_Factory_Drones.label>
+  <!-- EN: Work and cooperation breeds strength. We’ll sweat and bleed alike together, as a community, to reach an agreeable standard of living for all of us.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Authoritarian. -->
+  <VME_Factory_Drones.description>劳动与合作孕育出力量。作为一个社区，我们将共同流汗流血，以便让社区达到我们所有人都满意的生活标准。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 独裁专制</VME_Factory_Drones.description>
+  
+  <!-- EN: flame seers -->
+  <VME_Flame_Seers.label>烈焰先知团</VME_Flame_Seers.label>
+  <!-- EN: In the beginning - There was flame, and from flame, came warmth, and from warmth, came life. Blessed are we to be enraptured in the gross incandescence of the sun above.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Any. -->
+  <VME_Flame_Seers.description>最初是火焰带来了温暖，因此才诞生了生命。我们对头顶的太阳顶礼膜拜，因为这样可以为我们带来福祉。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 任意</VME_Flame_Seers.description>
+  
+  <!-- EN: god-king radicals -->
+  <VME_GodKing_Radicals.label>神皇崇拜者</VME_GodKing_Radicals.label>
+  <!-- EN: The steel fist of our King or Queen should never come into question, they shall want for nothing. If those who oppose us don't bend the knee we shall feed their legs to the hounds.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Cult of Personality. -->
+  <VME_GodKing_Radicals.description>我们的国王或女王的政策永远不会受到质疑，他们从不犯错。如果那些反对我们的人不向我们屈膝，我们就把他们剁碎拿去喂猎犬。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 个人崇拜</VME_GodKing_Radicals.description>
+  
+  <!-- EN: human hive -->
+  <VME_Human_Hive.label>蜂群人类</VME_Human_Hive.label>
+  <!-- EN: Like clockwork, the lives of our fellow believers are ever intertwined. What causes one of us suffering causes all of us suffering and what brings us higher brings all of us higher. Together, we are one and we are strong. -->
+  <VME_Human_Hive.description>就像发条一样，我们的信徒的生命是永远交织在一起的。让我们其中一人受苦的事也会让我们所有人受苦，让我们更高尚的事也会让我们所有人更高尚。我们是一体的，因而我们更加强大。</VME_Human_Hive.description>
+  
+  <!-- EN: insectoid psykers -->
+  <VME_Insectoid_Psykers.label>虫群灵能团</VME_Insectoid_Psykers.label>
+  <!-- EN: Insects, while seen by most as vermin, are truthfully the most synchronized and organized society found in all of nature; only the truly blind would view them as below us. We can’t begin to unravel the boundless goals of the Insectoid Queen and her hives. We should seek to mimic them, so that we can further understand their ways.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Serketism. -->
+  <VME_Insectoid_Psykers.description>虫族虽然被大多数人视为害虫，但实际上是自然界中最同步、最有组织的群体。只有真正的傻子才会把它们如此贬低。虽然开始我们不能解开虫族女王和她的虫族那无穷无尽的谜团，但我们应该设法模仿它们，这样我们才能进一步了解它们的生活方式。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 虫神崇拜</VME_Insectoid_Psykers.description>
+  
+  <!-- EN: mechanoid technocrat -->
+  <VME_Mechanoid_Technocrat.label>机械技官团</VME_Mechanoid_Technocrat.label>
+  <!-- EN: To think a creature capable of infinite stamina and free from the burdens of free thought is meant to serve mankind is beyond foolish. We can’t begin to unravel the boundless goals of the machine consciousness. We should seek to mimic them so that we can further placate their hostility.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Omnism. -->
+  <VME_Mechanoid_Technocrat.description>让一个具有无限耐力和自由思想的生物为人类服务，这是非常愚蠢的。我们无法解开机械族无限意识的目标是什么，因而我们应该设法模仿他们，以便进一步平息他们的敌意。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 普神论</VME_Mechanoid_Technocrat.description>
+  
+  <!-- EN: medieval monarchists -->
+  <VME_Medieval_Monarchists.label>中世纪君主主义者</VME_Medieval_Monarchists.label>
+  <!-- EN: Our sires and grandsires all followed the foresight and guidance of our King, long may he reign, and we shall do no different. Should another kingdom find it preferable to resort to bow and blade, we have no hesitation in making them our serfs.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Cult of Personality. -->
+  <VME_Medieval_Monarchists.description>我们的祖先都听从了我们国王的远见和指引，愿他能够长久统治，我们也不会有所不同。如果在另一个王国发现更适合我们使用的弓箭和刀剑，我们会毫不犹豫地让他们成为我们的奴隶。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 个人崇拜</VME_Medieval_Monarchists.description>
+  
+  <!-- EN: nordic matriarchy -->
+  <VME_Nordic_Matriarchy.label>北欧母权制</VME_Nordic_Matriarchy.label>
+  <!-- EN: It is by the flurry of snow and crashing of waves we lead our people to the afterlife. Die an honorable death or answer to our shield-maiden.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Pantheism. -->
+  <VME_Nordic_Matriarchy.description>正是在纷飞的大雪和汹涌的波浪中，我们带领我们的人民走向来世。要么光荣地战死，要么服从于我们的盾女。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 泛神论</VME_Nordic_Matriarchy.description>
+  
+  <!-- EN: pestilent doomsayers -->
+  <VME_Pestilent_Doomsayers.label>纳垢疫病体</VME_Pestilent_Doomsayers.label>
+  <!-- EN: The body is a vessel for experimentation and mutation alike. Should one deligitantly push their flesh to its limits they shall be rewarded by the plague god with a most joyous farewell from this doomed world.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Eschatologism. -->
+  <VME_Pestilent_Doomsayers.description>身体是实验和变异的容器。如果一个人追求将他们的肉体推向极限，他们将得到瘟疫之神的奖赏，与这个注定要灭亡的世界可以欢天喜地地告别。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 末世论</VME_Pestilent_Doomsayers.description>
+  
+  <!-- EN: pleasure extremists -->
+  <VME_Pleasure_Extremists.label>色孽探求者</VME_Pleasure_Extremists.label>
+  <!-- EN: Never shall our muscles ache with pain nor shall our hearts swell with sadness. We should embrace all pleasures, even forbidden carnal desires such as luxurious meat or risqué lusting should all be explored.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Hedonism. -->
+  <VME_Pleasure_Extremists.description>我们的肌肉不会因疼痛而疼痛，我们的心也不会因悲伤而膨胀。我们应该拥抱所有的快乐，即使是绝对禁止的肉欲，如奢侈的鱼水之欢或危险的贪欲，都应该进行探索。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 纵情享乐</VME_Pleasure_Extremists.description>
+  
+  <!-- EN: primitivistic nomads -->
+  <VME_Primitivistic_Nomads.label>原始游牧者</VME_Primitivistic_Nomads.label>
+  <!-- EN: For eons have our people wandered this world with little more than steed and saddle, traveling the roads less traveled with only the stars to guide them. From the frigid winter mutes to the teeming jungle canopies, we seek the same answers our ancestors once did.\n\n<color=#E5E54C>Recommended Structure:</color>\n - Animism. -->
+  <VME_Primitivistic_Nomads.description>千百年来，我们的人民在这个世界上流浪，除了骑乘，在很少有人在道路上行走。天空中只有星星指引他们从寒冷的冬季旅行到茂密的丛林树冠群，我们将会与我们的祖先曾经做过的一样寻求我们需要的答案。\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 万物有灵</VME_Primitivistic_Nomads.description>
+  
+  <!-- EN: steamworld ne'er-do-wells -->
+  <VME_Steamworld_Neerdowells.label>蒸汽朋克牧场主</VME_Steamworld_Neerdowells.label>
+  <!-- EN: From saloon to stable we're honest muffalopokes and live by one simple rule. ‘You don't get to live a bad life and have good things happen to you’. ‘Course, not all of us seem too convinced... Just don’t let the long arm of the law catch up y’all, ya’ hear?\n\n<color=#E5E54C>Recommended Structure:</color>\n - Christian Origin. -->
+  <VME_Steamworld_Neerdowells.description>从酒馆到马厩，我们都是诚实的公民，守着一条简单的规矩。“你不能因为过着糟糕的生活，却让好事发生在你身上。”当然，并不是所有人都相信……所以别让法律的铁拳追上你们，听到了吗?\n\n&lt;color=#E5E54C&gt;推荐结构:&lt;/color&gt;\n - 基督教起源</VME_Steamworld_Neerdowells.description>
+  
+</LanguageData>

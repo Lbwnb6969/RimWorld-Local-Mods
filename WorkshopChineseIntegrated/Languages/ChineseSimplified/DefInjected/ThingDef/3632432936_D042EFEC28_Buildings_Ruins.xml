@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient band node -->
+  <AncientBandNode.label>远古频带节点</AncientBandNode.label>
+  <!-- EN: An ancient band node. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientBandNode.description>一台古老生锈的频带节点。贵重的部件早已消失不见，剩余的一切也已老化无用。</AncientBandNode.description>
+  
+  <!-- EN: ancient band node -->
+  <VR_AncientBandNode.label>远古频带节点</VR_AncientBandNode.label>
+  <!-- EN: An ancient band node. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VR_AncientBandNode.description>一台古老生锈的频带节点。贵重的部件早已消失不见，剩余的一切也已老化无用。</VR_AncientBandNode.description>
+  
+  <!-- EN: ancient barrel -->
+  <VR_AncientBarrel_Wooden.label>远古木桶</VR_AncientBarrel_Wooden.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <VR_AncientBarrel_Wooden.description>一个古老破损的木桶，看起来曾装过某种废物。如今只剩一抹干涸的污渍。</VR_AncientBarrel_Wooden.description>
+  
+  <!-- EN: ancient basic recharger -->
+  <VR_AncientBasicRecharger_Steam.label>远古基础充能器</VR_AncientBasicRecharger_Steam.label>
+  <!-- EN: An ancient basic recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VR_AncientBasicRecharger_Steam.description>一台古老的基础充能器。贵重的部件早已消失不见，剩余的一切也已老化无用。</VR_AncientBasicRecharger_Steam.description>
+  
+  <!-- EN: ancient mech gestator -->
+  <VR_AncientConstructGestator.label>远古构装体孕育舱</VR_AncientConstructGestator.label>
+  <!-- EN: An ancient mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VR_AncientConstructGestator.description>一台古老的构装体孕育舱。贵重的部件早已消失不见，剩余的一切也已老化无用。</VR_AncientConstructGestator.description>
+  
+  <!-- EN: ancient steam lamp -->
+  <VR_AncientLamp_Steam.label>远古蒸汽灯</VR_AncientLamp_Steam.label>
+  <!-- EN: An ancient steam lamp. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VR_AncientLamp_Steam.description>一盏古老的蒸汽灯。贵重的部件早已消失不见，剩余的一切也已老化无用。</VR_AncientLamp_Steam.description>
+  
+  <!-- EN: ancient large construct gestator -->
+  <VR_AncientLargeConstructGestator.label>远古大型构装体孕育舱</VR_AncientLargeConstructGestator.label>
+  <!-- EN: An ancient large construct gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VR_AncientLargeConstructGestator.description>一台古老的大型构装体孕育舱。贵重的部件早已消失不见，剩余的一切也已老化无用。</VR_AncientLargeConstructGestator.description>
+  
+  <!-- EN: ancient steam pipe -->
+  <VR_AncientPipe_Steam.label>远古蒸汽管道</VR_AncientPipe_Steam.label>
+  <!-- EN: An ancient steam pipe. Completely corroded to point ofuselessness. -->
+  <VR_AncientPipe_Steam.description>一根古老的蒸汽管道，完全腐蚀到无法使用。</VR_AncientPipe_Steam.description>
+  
+  <!-- EN: ancient standard recharger -->
+  <VR_AncientStandardRecharger_Steam.label>远古标准充能器</VR_AncientStandardRecharger_Steam.label>
+  <!-- EN: An ancient standard recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VR_AncientStandardRecharger_Steam.description>一台古老的标准充能器。贵重的部件早已消失不见，剩余的一切也已老化无用。</VR_AncientStandardRecharger_Steam.description>
+  
+  <!-- EN: ancient steam generator -->
+  <VR_AncientSteamGenerator.label>远古蒸汽发生器</VR_AncientSteamGenerator.label>
+  <!-- EN: An ancient steam generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <VR_AncientSteamGenerator.description>一台古老的蒸汽发生器。可用部件早已被砸毁或掠走，其余部分也锈成废物。</VR_AncientSteamGenerator.description>
+  
+  <!-- EN: ancient steam tank -->
+  <VR_AncientSteamTank.label>远古蒸汽储罐</VR_AncientSteamTank.label>
+  <!-- EN: An ancient steam tank. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <VR_AncientSteamTank.description>一座古老的蒸汽储罐。可用部件早已被砸毁或掠走，其余部分也锈成废物。</VR_AncientSteamTank.description>
+  
+</LanguageData>

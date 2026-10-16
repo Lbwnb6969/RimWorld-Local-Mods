@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ocular priest -->
+  <AM_OcularWarping.roles.0.label>异目祭司</AM_OcularWarping.roles.0.label>
+  <!-- EN: sacrifice -->
+  <AM_OcularWarping.roles.1.label>祭品</AM_OcularWarping.roles.1.label>
+  <!-- EN: a tamed animal, the bigger the better -->
+  <AM_OcularWarping.roles.1.missingDesc>一只已驯服的动物，体型越大越好</AM_OcularWarping.roles.1.missingDesc>
+  <!-- EN: channel -->
+  <AM_OcularWarping.roles.2.label>窥视树精</AM_OcularWarping.roles.2.label>
+  <!-- EN: an ocular dryad from a corrupted gauranlen tree -->
+  <AM_OcularWarping.roles.2.missingDesc>从腐化母树中诞生的窥视树精</AM_OcularWarping.roles.2.missingDesc>
+  <!-- EN: participate -->
+  <AM_OcularWarping.spectatorGerund>参加</AM_OcularWarping.spectatorGerund>
+  <!-- EN: Participants -->
+  <AM_OcularWarping.spectatorsLabel>参与者</AM_OcularWarping.spectatorsLabel>
+  <!-- EN: Animal is not reachable. -->
+  <AM_OcularWarping.stages.0.failTriggers.0.desc>动物不可达。</AM_OcularWarping.stages.0.failTriggers.0.desc>
+  <!-- EN: Dryad is not reachable. -->
+  <AM_OcularWarping.stages.1.failTriggers.0.desc>树精不可达。</AM_OcularWarping.stages.1.failTriggers.0.desc>
+  
+</LanguageData>

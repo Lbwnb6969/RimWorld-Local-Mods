@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: snow taraal -->
+  <DA_SnowTaraal.label>雪地枭熊</DA_SnowTaraal.label>
+  <!-- EN: cub -->
+  <DA_SnowTaraal.lifeStages.cub.label>幼崽</DA_SnowTaraal.lifeStages.cub.label>
+  
+  <!-- EN: taraal -->
+  <DA_Taraal.label>枭熊</DA_Taraal.label>
+  <!-- EN: cub -->
+  <DA_Taraal.lifeStages.cub.label>幼崽</DA_Taraal.lifeStages.cub.label>
+  
+</LanguageData>

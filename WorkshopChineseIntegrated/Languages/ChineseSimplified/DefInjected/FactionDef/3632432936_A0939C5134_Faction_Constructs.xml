@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construct swarm -->
+  <VR_Construct.label>构装体群</VR_Construct.label>
+  <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <VR_Construct.description>来历不明的杀戮机器。它们隐藏在远古结构之中、尘丘之下或海洋深处，机械体可以自我维护数千年。这一支机甲群体目的统一，但行动协调性不足。当地学者认为它们是远古战争遗留的自主武器，而部族传说则把它们描述为沉睡之神的恶魔仆从。</VR_Construct.description>
+  <!-- EN: leader -->
+  <VR_Construct.leaderTitle>领袖</VR_Construct.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VR_Construct.messageDefendersAttacking>{0}来自{1}正在攻击你的{2}。</VR_Construct.messageDefendersAttacking>
+  <!-- EN: construct -->
+  <VR_Construct.pawnSingular>构装体</VR_Construct.pawnSingular>
+  <!-- EN: constructs -->
+  <VR_Construct.pawnsPlural>构装体</VR_Construct.pawnsPlural>
+  
+</LanguageData>

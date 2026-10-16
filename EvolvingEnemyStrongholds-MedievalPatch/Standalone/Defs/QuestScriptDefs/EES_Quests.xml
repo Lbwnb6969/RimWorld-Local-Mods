@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <QuestScriptDef>
+    <defName>EES_HVTBounty</defName>
+    <root Class="EvolvingEnemyStrongholds.QuestNode_Root_EESHVT" />
+    <expireDaysRange>8~8</expireDaysRange>
+  </QuestScriptDef>
+
+</Defs>

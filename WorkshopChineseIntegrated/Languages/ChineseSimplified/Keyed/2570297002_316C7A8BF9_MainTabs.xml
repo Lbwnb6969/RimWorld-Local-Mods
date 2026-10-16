@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Ideoligions -->
+  
+  <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has minor gameplay effects. -->
+  <StructureMemeTip>一个文化形态的结构决定了它认为对宇宙道德结构很重要的实体和力量的种类。它没有直接影响的游戏效果。</StructureMemeTip>
+  <!-- EN: Choose the symbolic structure of your ideoligion. This mostly affects symbols, styles and descriptions - it has minimal effects on gameplay. -->
+  <ChooseStructureMemesInfo>选择你的文化形态的象征结构。这只会影响符号 —— 它不会影响游戏玩法。</ChooseStructureMemesInfo>
+
+</LanguageData>

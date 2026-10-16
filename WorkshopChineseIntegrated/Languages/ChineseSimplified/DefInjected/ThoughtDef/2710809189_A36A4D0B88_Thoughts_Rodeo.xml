@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: underwhelming rodeo -->
+  <AM_BoringRodeo.stages.underwhelming_rodeo.label>平凡无奇的牛仔竞技</AM_BoringRodeo.stages.underwhelming_rodeo.label>
+  <!-- EN: The energy was low, and the performance lacked the excitement I was hoping for. -->
+  <AM_BoringRodeo.stages.underwhelming_rodeo.description>牛仔竞技平凡无奇。骑手看起来没什么干劲，其表演也不够激动人心。</AM_BoringRodeo.stages.underwhelming_rodeo.description>
+  
+  <!-- EN: thrilling rodeo -->
+  <AM_FunRodeo.stages.thrilling_rodeo.label>激动人心的牛仔竞技</AM_FunRodeo.stages.thrilling_rodeo.label>
+  <!-- EN: The performances were energetic, and the crowd's excitement was contagious. I had a great time. -->
+  <AM_FunRodeo.stages.thrilling_rodeo.description>牛仔竞技激动人心。骑手的表演激情十足，观众们全都兴奋地欢呼着。每个人都沉浸在快乐之中。</AM_FunRodeo.stages.thrilling_rodeo.description>
+  
+  <!-- EN: disastrous rodeo -->
+  <AM_TerribleRodeo.stages.disastrous_rodeo.label>糟糕的牛仔竞技</AM_TerribleRodeo.stages.disastrous_rodeo.label>
+  <!-- EN: The event was chaotic and poorly organized. It was embarrassing and left me feeling disappointed. -->
+  <AM_TerribleRodeo.stages.disastrous_rodeo.description>牛仔竞技非常糟糕！这场活动毫无组织且混乱不堪，让每个人都感到尴尬与失望。</AM_TerribleRodeo.stages.disastrous_rodeo.description>
+  
+  <!-- EN: legendary rodeo -->
+  <AM_UnforgettableRodeo.stages.legendary_rodeo.label>精彩绝伦的牛仔竞技</AM_UnforgettableRodeo.stages.legendary_rodeo.label>
+  <!-- EN: The event was electrifying and unforgettable. It was one of the greatest moments in our colony's history! -->
+  <AM_UnforgettableRodeo.stages.legendary_rodeo.description>牛仔竞技精彩绝伦！这场扣人心弦的活动时刻牵动着观众们的心，它将作为我们殖民地历史上最伟大的表演之一而被人铭记。</AM_UnforgettableRodeo.stages.legendary_rodeo.description>
+  
+</LanguageData>

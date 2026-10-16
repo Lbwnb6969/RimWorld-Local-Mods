@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gonczy Polski -->
+  <BA_GonczyPolski.label>波兰猎犬</BA_GonczyPolski.label>
+  <!-- EN: Gonczy Polski puppy -->
+  <BA_GonczyPolski.lifeStages.Gonczy_Polski_puppy.label>波兰猎犬幼犬</BA_GonczyPolski.lifeStages.Gonczy_Polski_puppy.label>
+  <!-- EN: Gonczy Polski puppies -->
+  <BA_GonczyPolski.lifeStages.Gonczy_Polski_puppy.labelPlural>波兰猎犬幼犬们</BA_GonczyPolski.lifeStages.Gonczy_Polski_puppy.labelPlural>
+  
+</LanguageData>

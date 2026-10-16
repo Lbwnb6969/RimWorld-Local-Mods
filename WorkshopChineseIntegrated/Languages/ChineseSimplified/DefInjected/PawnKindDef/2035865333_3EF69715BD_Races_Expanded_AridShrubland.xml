@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cheetah -->
+  <AEXP_Cheetah.label>猎豹</AEXP_Cheetah.label>
+  
+  <!-- EN: coyote -->
+  <AEXP_Coyote.label>郊狼</AEXP_Coyote.label>
+  <!-- EN: coyotes -->
+  <AEXP_Coyote.labelPlural>郊狼</AEXP_Coyote.labelPlural>
+  <!-- EN: coyote puppy -->
+  <AEXP_Coyote.lifeStages.coyote_puppy.label>郊狼幼崽</AEXP_Coyote.lifeStages.coyote_puppy.label>
+  <!-- EN: coyote puppies -->
+  <AEXP_Coyote.lifeStages.coyote_puppy.labelPlural>郊狼幼崽</AEXP_Coyote.lifeStages.coyote_puppy.labelPlural>
+  
+  <!-- EN: crocodile -->
+  <AEXP_Crocodile.label>鳄鱼</AEXP_Crocodile.label>
+  
+  <!-- EN: giraffe -->
+  <AEXP_Giraffe.label>长颈鹿</AEXP_Giraffe.label>
+  <!-- EN: giraffes -->
+  <AEXP_Giraffe.labelPlural>长颈鹿</AEXP_Giraffe.labelPlural>
+  <!-- EN: giraffe calf -->
+  <AEXP_Giraffe.lifeStages.giraffe_calf.label>长颈鹿幼崽</AEXP_Giraffe.lifeStages.giraffe_calf.label>
+  <!-- EN: giraffe calves -->
+  <AEXP_Giraffe.lifeStages.giraffe_calf.labelPlural>长颈鹿幼崽</AEXP_Giraffe.lifeStages.giraffe_calf.labelPlural>
+  
+  <!-- EN: wildebeest -->
+  <AEXP_Wildebeest.label>牛羚</AEXP_Wildebeest.label>
+  <!-- EN: wildebeest cow -->
+  <AEXP_Wildebeest.labelFemale>母牛羚</AEXP_Wildebeest.labelFemale>
+  <!-- EN: wildebeest bull -->
+  <AEXP_Wildebeest.labelMale>公牛羚</AEXP_Wildebeest.labelMale>
+  <!-- EN: wildebeest calf -->
+  <AEXP_Wildebeest.lifeStages.wildebeest_calf.label>牛羚幼崽</AEXP_Wildebeest.lifeStages.wildebeest_calf.label>
+  <!-- EN: wildebeest calves -->
+  <AEXP_Wildebeest.lifeStages.wildebeest_calf.labelPlural>牛羚幼崽</AEXP_Wildebeest.lifeStages.wildebeest_calf.labelPlural>
+  
+  <!-- EN: zebra -->
+  <AEXP_Zebra.label>斑马</AEXP_Zebra.label>
+  <!-- EN: zebra foal -->
+  <AEXP_Zebra.lifeStages.zebra_foal.label>斑马驹</AEXP_Zebra.lifeStages.zebra_foal.label>
+  <!-- EN: zebra foals -->
+  <AEXP_Zebra.lifeStages.zebra_foal.labelPlural>斑马驹</AEXP_Zebra.lifeStages.zebra_foal.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: curryrice -->
+  <EJC_CurryRice.label>咖喱饭</EJC_CurryRice.label>
+  <!-- EN: An age-old blend of spices forms the base of curry, carried from Old Terra since ancient times. This particular style of curry was popular on an island nation, with meat and veggies stewed in the curry sauce and served alongside rice.  Mild and tasty to eat. -->
+  <EJC_CurryRice.description>自很早以前就从古地球传出的食物，古老的混合香料构成了咖喱的基础。这种风味奇特的咖喱在某个岛国上很受欢迎，将肉、蔬菜和咖喱一起炖煮，配合米饭食用。吃起来温和又可口。</EJC_CurryRice.description>
+  
+  <!-- EN: instant ramen -->
+  <EJC_InstantRamen.label>速食拉面</EJC_InstantRamen.label>
+  <!-- EN: Dried noodles and mild seasoning in a convenient cup. Just add hot water for a tasty snack! Warning: no responsibility taken for excessive consumption. -->
+  <EJC_InstantRamen.description>将干面条和调味料装入方便杯子里做成的速食拉面。只需要加热水泡一会就能得到美味的一餐了！\n\n警告：对过量食用不承担任何的责任。</EJC_InstantRamen.description>
+  
+  <!-- EN: katsudon -->
+  <EJC_Katsudon.label>猪排饭</EJC_Katsudon.label>
+  <!-- EN: A cut of meat fried to crispy perfection and served atop a bowl of rice and other toppings. Spacers often eat this meal for luck before landing planetside, but no one remembers why this dish is supposed to be lucky. -->
+  <EJC_Katsudon.description>将炸的金黄酥脆的肉排敷在盛有其它浇汁配料的米饭上，美味的猪排饭就做好了。虽然生活在太空中的人们经常会在飞船着陆前吃这种食物以求好运，不过却没人记得其中的缘由了。</EJC_Katsudon.description>
+  
+  <!-- EN: onigiri -->
+  <EJC_Onigiri.label>饭团</EJC_Onigiri.label>
+  <!-- EN: A simple meal consisting of sticky rice packed into easy-to-hold triangles. There's a topping and filling for everyone's tastes! -->
+  <EJC_Onigiri.description>一种用糯米做成的简单食物，被捏成了易于固定的三角形状。饭团里面包有适合每个人口味的佐料和馅料！</EJC_Onigiri.description>
+  
+  <!-- EN: ramen -->
+  <EJC_Ramen.label>日式拉面</EJC_Ramen.label>
+  <!-- EN: Noodles and a variety of toppings in a broth. Quite variable! Tastiest when slurped while piping hot. -->
+  <EJC_Ramen.description>用面条、骨汤再加上多种多样的配料煮成的日式拉面。在面还热气腾腾时嘶溜嘶溜地吃是最美味的。</EJC_Ramen.description>
+  
+  <!-- EN: tempura -->
+  <EJC_Tempura.label>天妇罗</EJC_Tempura.label>
+  <!-- EN: An assortment of vegetables and meat fried with a light, crispy batter. Best eaten hot! -->
+  <EJC_Tempura.description>将各种各样的肉和蔬菜裹上面糊，用油炸至酥脆制成的天妇罗。最好趁热吃！</EJC_Tempura.description>
+  
+  <!-- EN: udon -->
+  <EJC_Udon.label>乌冬面</EJC_Udon.label>
+  <!-- EN: Thick chewy noodles in a broth. The dough to make the noodles is so thick, it's been known to be used as a punching bag to relieve stress during the kneading process. -->
+  <EJC_Udon.description>用宽厚耐嚼的面条和骨汤煮成的乌冬面。做面条的面团子异常敦实，为了缓解揉面过程中产生的压力，厨师们也会拿它当成沙袋用。</EJC_Udon.description>
+  
+  <!-- EN: unajuu -->
+  <EJC_Unajuu.label>鳗鱼饭</EJC_Unajuu.label>
+  <!-- EN: Glazed and barbecued eel fillets on top of rice, served in a lacquer box. Hearty and packed with plenty of stamina to go all day - and night - long. -->
+  <EJC_Unajuu.description>盛在漆盒中的烤鳗鱼饭。吃下后，一整天都能保持精力充沛的状态。</EJC_Unajuu.description>
+  
+  <!-- EN: yakisoba -->
+  <EJC_Yakisoba.label>炒面</EJC_Yakisoba.label>
+  <!-- EN: Stir-fried noodles with a variety of other ingredients. A common entertainment is watching the cook fry them right in front of you, and some cooks even pull fancy tricks while doing so. -->
+  <EJC_Yakisoba.description>和其它各种原料一起爆炒而成的炒面。看厨师在你面前炒面也是一项有趣的娱乐活动，有些老手艺人甚至会在炒面时做一些高难度的绝活。</EJC_Yakisoba.description>
+  
+  <!-- EN: zarusoba -->
+  <EJC_Zarusoba.label>竹笼荞麦面</EJC_Zarusoba.label>
+  <!-- EN: A light dish of chilled noodles served on a bamboo draining mat with a dipping sauce. The cool noodles and salty sauce make a refreshing meal in the hot summer months. -->
+  <EJC_Zarusoba.description>一盘装在竹笼里的凉面。清爽的面条加上咸沙司，在炎炎夏日里能让人打起十二分的精神来。</EJC_Zarusoba.description>
+  
+</LanguageData>

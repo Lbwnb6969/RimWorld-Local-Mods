@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>initialPhaseLetterLabel->Dimming sky</li>
+    <li>initialPhaseLetterText->The sky is dimming and a dense fog is starting to creep in. Soon it will be hard to see anything not lit by fire.</li>
+    <li>mainPhaseLetterLabel->Darkening terror</li>
+    <li>mainPhaseLetterText->A darkening terror is descending. Reports of screams outside the colony have come in.</li>
+    <li>darknessLiftedLetterLabel->Darkness lifting</li>
+    <li>darknessLiftedLetterText->The darkening terror has begun to dissipate. The alps have started to retreat!</li>
+  -->
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings>
+    <li>initialPhaseLetterLabel-&gt;昏暗天空</li>
+    <li>initialPhaseLetterText-&gt;天色逐渐昏暗。很快就会难以看到任何没有用灯光或火把直接照亮的东西。</li>
+    <li>mainPhaseLetterLabel-&gt;渐深之魇</li>
+    <li>mainPhaseLetterText-&gt;某种怪异的生物正在伴随黑暗降临。令人惊恐的尖叫声从居住地外传来。</li>
+    <li>darknessLiftedLetterLabel-&gt;黑暗消散</li>
+    <li>darknessLiftedLetterText-&gt;黑暗开始消散。梦魇被击退了，你幸存下来了！</li>
+  </DankPyon_AlpEclipse.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription-></li>
+  -->
+  <DankPyon_AlpEclipse.questDescriptionRules.rulesStrings.0>
+    <li>questDescription-&gt;</li>
+  </DankPyon_AlpEclipse.questDescriptionRules.rulesStrings.0>
+  <!-- EN:
+    <li>questDescription->darkening terror</li>
+  -->
+  <DankPyon_AlpEclipse.questNameRules.rulesStrings.0>
+    <li>questDescription-&gt;渐深之魇</li>
+  </DankPyon_AlpEclipse.questNameRules.rulesStrings.0>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.0>initialPhaseLetterLabel-&gt;昏暗天空</DankPyon_AlpEclipse.questContentRules.rulesStrings.0>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.1>initialPhaseLetterText-&gt;天色逐渐昏暗。很快就会难以看到任何没有用灯光或火把直接照亮的东西。</DankPyon_AlpEclipse.questContentRules.rulesStrings.1>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.2>mainPhaseLetterLabel-&gt;渐深之魇</DankPyon_AlpEclipse.questContentRules.rulesStrings.2>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.3>mainPhaseLetterText-&gt;某种怪异的生物正在伴随黑暗降临。令人惊恐的尖叫声从居住地外传来。</DankPyon_AlpEclipse.questContentRules.rulesStrings.3>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.4>darknessLiftedLetterLabel-&gt;黑暗消散</DankPyon_AlpEclipse.questContentRules.rulesStrings.4>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.5>darknessLiftedLetterText-&gt;黑暗开始消散。梦魇被击退了，你幸存下来了！</DankPyon_AlpEclipse.questContentRules.rulesStrings.5>
+</LanguageData>

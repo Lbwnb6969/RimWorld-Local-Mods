@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: couteau de brèche -->
+  <TA_CouteauDeBreche.overrideLabel>破城刀</TA_CouteauDeBreche.overrideLabel>
+  
+  <!-- EN: fauchard -->
+  <TA_Fauchard.overrideLabel>镰枪</TA_Fauchard.overrideLabel>
+  
+  <!-- EN: guisarme -->
+  <TA_Guisarme.overrideLabel>钩镰枪</TA_Guisarme.overrideLabel>
+  
+  <!-- EN: halberd -->
+  <TA_HalberdA.overrideLabel>戟</TA_HalberdA.overrideLabel>
+  
+  <!-- EN: halberd -->
+  <TA_HalberdB.overrideLabel>戟</TA_HalberdB.overrideLabel>
+  
+  <!-- EN: voulge -->
+  <TA_Voulge.overrideLabel>长柄斧</TA_Voulge.overrideLabel>
+  
+</LanguageData>

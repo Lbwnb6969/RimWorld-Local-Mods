@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boulder throw -->
+  <DA_GiantRockThrow.label>巨石投掷</DA_GiantRockThrow.label>
+  <!-- EN: Rip a large boulder from the ground and throw it. -->
+  <DA_GiantRockThrow.description>从地上举起并投掷一块巨石。</DA_GiantRockThrow.description>
+  
+</LanguageData>

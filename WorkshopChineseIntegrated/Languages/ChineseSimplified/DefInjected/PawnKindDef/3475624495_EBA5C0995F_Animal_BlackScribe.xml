@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: black scribe -->
+  <DA_BlackScribe.label>黑书吏</DA_BlackScribe.label>
+  <!-- EN: black scribe scorpling -->
+  <DA_BlackScribe.lifeStages.black_scribe_scorpling.label>黑书吏幼蝎</DA_BlackScribe.lifeStages.black_scribe_scorpling.label>
+  <!-- EN: black scribe scorplings -->
+  <DA_BlackScribe.lifeStages.black_scribe_scorpling.labelPlural>黑书吏幼蝎</DA_BlackScribe.lifeStages.black_scribe_scorpling.labelPlural>
+  
+</LanguageData>

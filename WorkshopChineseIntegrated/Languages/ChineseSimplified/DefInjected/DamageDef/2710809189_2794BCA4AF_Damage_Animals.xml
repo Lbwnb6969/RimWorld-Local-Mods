@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid spit -->
+  <AM_AcidSpit.label>酸液喷吐</AM_AcidSpit.label>
+  <!-- EN: {0} has been corroded to death. -->
+  <AM_AcidSpit.deathMessage>{0}被酸液腐蚀致死。</AM_AcidSpit.deathMessage>
+  
+  <!-- EN: toxic sting -->
+  <AM_ToxicBolt.label>毒素蛰刺</AM_ToxicBolt.label>
+  <!-- EN: {0} has been stung to death. -->
+  <AM_ToxicBolt.deathMessage>{0}被蛰死了。</AM_ToxicBolt.deathMessage>
+  
+  <!-- EN: toxic sting -->
+  <AM_ToxicSting.label>毒素蛰刺</AM_ToxicSting.label>
+  <!-- EN: {0} has been stung to death. -->
+  <AM_ToxicSting.deathMessage>{0}被蛰死了。</AM_ToxicSting.deathMessage>
+  
+</LanguageData>

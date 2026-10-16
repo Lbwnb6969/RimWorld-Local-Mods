@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Maces -->
+
+  <DankPyon_MeleeWeapon_Bludgeon.label>大头短棒</DankPyon_MeleeWeapon_Bludgeon.label>
+  <DankPyon_MeleeWeapon_Bludgeon.description>棍棒最早的原型，在战斗中很实用。金属头可以让冲击力穿透更厚的盔甲，并能轻易击碎没有盔甲的敌人的骨头。</DankPyon_MeleeWeapon_Bludgeon.description>
+  <DankPyon_MeleeWeapon_Bludgeon.tools.0.label>握柄</DankPyon_MeleeWeapon_Bludgeon.tools.0.label>
+  <DankPyon_MeleeWeapon_Bludgeon.tools.1.label>锤头</DankPyon_MeleeWeapon_Bludgeon.tools.1.label>
+
+  <DankPyon_MeleeWeapon_NomadMace.label>游牧狼牙棒</DankPyon_MeleeWeapon_NomadMace.label>
+  <DankPyon_MeleeWeapon_NomadMace.description>在游牧部落中很受欢迎，游牧狼牙棒有一个宽而重的金属头。虽然造成的伤害与其他棍棒武器相似，但由于其锤头的周长，能够对盔甲造成更高的伤害。</DankPyon_MeleeWeapon_NomadMace.description>
+  <DankPyon_MeleeWeapon_NomadMace.tools.0.label>握柄</DankPyon_MeleeWeapon_NomadMace.tools.0.label>
+  <DankPyon_MeleeWeapon_NomadMace.tools.1.label>锤头</DankPyon_MeleeWeapon_NomadMace.tools.1.label>
+
+  <DankPyon_MeleeWeapon_MorningStar.label>晨星锤</DankPyon_MeleeWeapon_MorningStar.label>
+  <DankPyon_MeleeWeapon_MorningStar.description>一把凶猛而致命的棍棒武器，因其钝性伤害以及头部周围安装的尖刺带来的刺穿伤害，这把武器广受袭击者和土匪的喜爱。</DankPyon_MeleeWeapon_MorningStar.description>
+  <DankPyon_MeleeWeapon_MorningStar.tools.0.label>握柄</DankPyon_MeleeWeapon_MorningStar.tools.0.label>
+  <DankPyon_MeleeWeapon_MorningStar.tools.1.label>锤头</DankPyon_MeleeWeapon_MorningStar.tools.1.label>
+
+  <DankPyon_MeleeWeapon_WingedMace.label>凸缘钉锤</DankPyon_MeleeWeapon_WingedMace.label>
+  <DankPyon_MeleeWeapon_WingedMace.description>外观形似于带羽毛的箭，凸缘钉锤的特点是在金属锤头周围有突出的脊线，这进一步增加了盔甲的穿透力。用来对付躲在厚重板甲下的敌人效果最好。</DankPyon_MeleeWeapon_WingedMace.description>
+  <DankPyon_MeleeWeapon_WingedMace.tools.0.label>握柄</DankPyon_MeleeWeapon_WingedMace.tools.0.label>
+  <DankPyon_MeleeWeapon_WingedMace.tools.1.label>锤头</DankPyon_MeleeWeapon_WingedMace.tools.1.label>
+
+
+  <!-- Two-Handed Maces -->
+
+  <DankPyon_MeleeWeapon_Goedendag.label>日安棒</DankPyon_MeleeWeapon_Goedendag.label>
+  <DankPyon_MeleeWeapon_Goedendag.description>一种简单而巧妙的武器，融合了长矛的实用性和棍棒的粗暴力量。它的头部沉重且附带尖刺，既能发出致命的刺击，又能砸碎肋骨。</DankPyon_MeleeWeapon_Goedendag.description>
+  <DankPyon_MeleeWeapon_Goedendag.tools.0.label>握柄</DankPyon_MeleeWeapon_Goedendag.tools.0.label>
+  <DankPyon_MeleeWeapon_Goedendag.tools.1.label>锤头</DankPyon_MeleeWeapon_Goedendag.tools.1.label>
+
+  <DankPyon_MeleeWeapon_TwoHandedMace.label>双手晨星锤</DankPyon_MeleeWeapon_TwoHandedMace.label>
+  <DankPyon_MeleeWeapon_TwoHandedMace.description>晨星锤的双手版本，虽然牺牲了盾牌，但能换取进一步的进攻潜力。手柄较长，可以更轻易地打击坐骑和提供更强大的穿甲能力。</DankPyon_MeleeWeapon_TwoHandedMace.description>
+  <DankPyon_MeleeWeapon_TwoHandedMace.tools.0.label>握柄</DankPyon_MeleeWeapon_TwoHandedMace.tools.0.label>
+  <DankPyon_MeleeWeapon_TwoHandedMace.tools.1.label>锤头</DankPyon_MeleeWeapon_TwoHandedMace.tools.1.label>
+
+  <DankPyon_MeleeWeapon_TwoHandedFlangedMace.label>双手凸缘钉锤</DankPyon_MeleeWeapon_TwoHandedFlangedMace.label>
+  <DankPyon_MeleeWeapon_TwoHandedFlangedMace.description>凸缘钉锤的双手版本，长手柄不仅可以使挥击时造成更高的伤害，还可以提高护甲穿透力。突出的脊线能破坏护具表面和金属板。</DankPyon_MeleeWeapon_TwoHandedFlangedMace.description>
+  <DankPyon_MeleeWeapon_TwoHandedFlangedMace.tools.0.label>握柄</DankPyon_MeleeWeapon_TwoHandedFlangedMace.tools.0.label>
+  <DankPyon_MeleeWeapon_TwoHandedFlangedMace.tools.1.label>锤头</DankPyon_MeleeWeapon_TwoHandedFlangedMace.tools.1.label>
+
+
+  <!-- Spears -->
+
+  <DankPyon_MeleeWeapon_MilitiaSpear.label>民兵长矛</DankPyon_MeleeWeapon_MilitiaSpear.label>
+  <DankPyon_MeleeWeapon_MilitiaSpear.description>自古以来，领主们都会向他们的fyrd(即在战时拿起武器的农民)提供民兵长矛。他们的理由很简单：比起练习弓或剑，一个近战技能低下的人躲在盾牌后面用一根长而尖的棍子刺杀会敌人会更有效率。虽然伤害较低，但穿透盔甲的能力很强，而且易于使用。</DankPyon_MeleeWeapon_MilitiaSpear.description>
+  <DankPyon_MeleeWeapon_MilitiaSpear.tools.0.label>握柄</DankPyon_MeleeWeapon_MilitiaSpear.tools.0.label>
+  <DankPyon_MeleeWeapon_MilitiaSpear.tools.1.label>尖端</DankPyon_MeleeWeapon_MilitiaSpear.tools.1.label>
+
+  <DankPyon_MeleeWeapon_BoarSpear.label>野猪长矛</DankPyon_MeleeWeapon_BoarSpear.label>
+  <DankPyon_MeleeWeapon_BoarSpear.description>在矛座底部有两个翼状的结构作为障碍物，能用来阻止迎面而来的攻击。它们还可以防止长矛穿透太深而被卡住。野猪长矛在用于狩猎和快速刺杀时都很有效果。</DankPyon_MeleeWeapon_BoarSpear.description>
+  <DankPyon_MeleeWeapon_BoarSpear.tools.0.label>握柄</DankPyon_MeleeWeapon_BoarSpear.tools.0.label>
+  <DankPyon_MeleeWeapon_BoarSpear.tools.1.label>尖端</DankPyon_MeleeWeapon_BoarSpear.tools.1.label>
+
+  <DankPyon_MeleeWeapon_FightingSpear.label>战斗长矛</DankPyon_MeleeWeapon_FightingSpear.label>
+  <DankPyon_MeleeWeapon_FightingSpear.description>战斗中最能发挥效果的矛，长而坚固，可以帮助前线保持他们的阵线。战斗长矛借用了野猪长矛的翼状结构设计，还具有两个突起的点，能够更容易阻止敌人挥舞武器。</DankPyon_MeleeWeapon_FightingSpear.description>
+  <DankPyon_MeleeWeapon_FightingSpear.tools.0.label>握柄</DankPyon_MeleeWeapon_FightingSpear.tools.0.label>
+  <DankPyon_MeleeWeapon_FightingSpear.tools.1.label>尖端</DankPyon_MeleeWeapon_FightingSpear.tools.1.label>
+
+
+  <!-- Two-Handed Spears -->
+
+  <DankPyon_MeleeWeapon_Warfork.label>战叉</DankPyon_MeleeWeapon_Warfork.label>
+  <DankPyon_MeleeWeapon_Warfork.description>战叉是对农用乾草叉的改良版本，设计成像长矛一样易于使用，但具有长枪的射程。伤害稳定，使用方便，非常适合初级战士使用。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Warfork.description>
+  <DankPyon_MeleeWeapon_Warfork.tools.0.label>握柄</DankPyon_MeleeWeapon_Warfork.tools.0.label>
+  <DankPyon_MeleeWeapon_Warfork.tools.1.label>尖端</DankPyon_MeleeWeapon_Warfork.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Spetum.label>战戟</DankPyon_MeleeWeapon_Spetum.label>
+  <DankPyon_MeleeWeapon_Spetum.description>长柄武器的一种，顶端有一个矛头，侧翼有几个穿透点。矛头的刺击可以同时伤害多个区域，同时，灵感设计来自于长矛的侧刃则能提供额外的防御。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Spetum.description>
+  <DankPyon_MeleeWeapon_Spetum.tools.0.label>握柄</DankPyon_MeleeWeapon_Spetum.tools.0.label>
+  <DankPyon_MeleeWeapon_Spetum.tools.1.label>尖端</DankPyon_MeleeWeapon_Spetum.tools.1.label>
+
+
+  <!-- Polearms -->
+
+  <DankPyon_MeleeWeapon_Pitchfork.label>乾草叉</DankPyon_MeleeWeapon_Pitchfork.label>
+  <DankPyon_MeleeWeapon_Pitchfork.description>作为一种农业工具，乾草叉的伤害和穿甲能力极低。然而，它的长度和尖锐的两端使它可以作为一种临时性的武器，比单独一只剑或一只矛更有用。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Pitchfork.description>
+  <DankPyon_MeleeWeapon_Pitchfork.tools.0.label>握柄</DankPyon_MeleeWeapon_Pitchfork.tools.0.label>
+  <DankPyon_MeleeWeapon_Pitchfork.tools.1.label>尖端</DankPyon_MeleeWeapon_Pitchfork.tools.1.label>
+
+  <DankPyon_MeleeWeapon_HookedBlade.label>钩刃枪</DankPyon_MeleeWeapon_HookedBlade.label>
+  <DankPyon_MeleeWeapon_HookedBlade.description>当无法近距离打击时，勇敢的战士可以用钩状的弯头将其拉近距离。锋利的刀尖可以刺穿肉体和金属，确保能紧紧抓住敌人。作为本来的一种农业工具，它的伤害力着实令人印象深刻，但实用性才是它最受赞誉的优点。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_HookedBlade.description>
+  <DankPyon_MeleeWeapon_HookedBlade.tools.0.label>握柄</DankPyon_MeleeWeapon_HookedBlade.tools.0.label>
+  <DankPyon_MeleeWeapon_HookedBlade.tools.1.label>刀刃</DankPyon_MeleeWeapon_HookedBlade.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Billhook.label>钩镰枪</DankPyon_MeleeWeapon_Billhook.label>
+  <DankPyon_MeleeWeapon_Billhook.description>一种多功能的长柄武器，有三个致命的末端——用于挥砍的刀刃、用于抓取的钩子，以及用于刺穿锁甲和金属板的矛状物。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Billhook.description>
+  <DankPyon_MeleeWeapon_Billhook.tools.0.label>握柄</DankPyon_MeleeWeapon_Billhook.tools.0.label>
+  <DankPyon_MeleeWeapon_Billhook.tools.1.label>尖端</DankPyon_MeleeWeapon_Billhook.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Pike.label>长柄枪</DankPyon_MeleeWeapon_Pike.label>
+  <DankPyon_MeleeWeapon_Pike.description>与长矛不同，长柄枪必须用双手挥舞才能发挥最大功效。这使得使用长柄枪手可以在远处刺杀敌人，使他们即使不在战线的最前排，也能成为令人畏惧的战士。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Pike.description>
+  <DankPyon_MeleeWeapon_Pike.tools.0.label>握柄</DankPyon_MeleeWeapon_Pike.tools.0.label>
+  <DankPyon_MeleeWeapon_Pike.tools.1.label>尖端</DankPyon_MeleeWeapon_Pike.tools.1.label>
+
+  <DankPyon_MeleeWeapon_PikeAmboise.label>长柄枪(昂布瓦兹)</DankPyon_MeleeWeapon_PikeAmboise.label>
+  <DankPyon_MeleeWeapon_PikeAmboise.description>与长矛不同，长柄枪必须用双手挥舞才能发挥最大功效。这使得使用长柄枪手可以在远处刺杀敌人，使他们即使不在战线的最前排，也能成为令人畏惧的战士。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。\n\n这把长柄枪上的颜色象征着昂布瓦兹家族。</DankPyon_MeleeWeapon_PikeAmboise.description>
+  <DankPyon_MeleeWeapon_PikeAmboise.tools.0.label>握柄</DankPyon_MeleeWeapon_PikeAmboise.tools.0.label>
+  <DankPyon_MeleeWeapon_PikeAmboise.tools.1.label>尖端</DankPyon_MeleeWeapon_PikeAmboise.tools.1.label>
+
+  <DankPyon_MeleeWeapon_PikeSoren.label>长柄枪(索伦)</DankPyon_MeleeWeapon_PikeSoren.label>
+  <DankPyon_MeleeWeapon_PikeSoren.description>与长矛不同，长柄枪必须用双手挥舞才能发挥最大功效。这使得使用长柄枪手可以在远处刺杀敌人，使他们即使不在战线的最前排，也能成为令人畏惧的战士。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。\n\n这把长柄枪上的颜色象征着索伦家族。</DankPyon_MeleeWeapon_PikeSoren.description>
+  <DankPyon_MeleeWeapon_PikeSoren.tools.0.label>握柄</DankPyon_MeleeWeapon_PikeSoren.tools.0.label>
+  <DankPyon_MeleeWeapon_PikeSoren.tools.1.label>尖端</DankPyon_MeleeWeapon_PikeSoren.tools.1.label>
+
+  <DankPyon_MeleeWeapon_PikeOswin.label>长柄枪(傲斯温)</DankPyon_MeleeWeapon_PikeOswin.label>
+  <DankPyon_MeleeWeapon_PikeOswin.description>与长矛不同，长柄枪必须用双手挥舞才能发挥最大功效。这使得使用长柄枪手可以在远处刺杀敌人，使他们即使不在战线的最前排，也能成为令人畏惧的战士。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。\n\n这把长柄枪上的颜色象征着傲斯温家族。</DankPyon_MeleeWeapon_PikeOswin.description>
+  <DankPyon_MeleeWeapon_PikeOswin.tools.0.label>握柄</DankPyon_MeleeWeapon_PikeOswin.tools.0.label>
+  <DankPyon_MeleeWeapon_PikeOswin.tools.1.label>尖端</DankPyon_MeleeWeapon_PikeOswin.tools.1.label>
+
+  <DankPyon_MeleeWeapon_PikeHesse.label>长柄枪(黑森)</DankPyon_MeleeWeapon_PikeHesse.label>
+  <DankPyon_MeleeWeapon_PikeHesse.description>与长矛不同，长柄枪必须用双手挥舞才能发挥最大功效。这使得使用长柄枪手可以在远处刺杀敌人，使他们即使不在战线的最前排，也能成为令人畏惧的战士。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。\n\n这把长柄枪上的颜色象征着黑森家族。</DankPyon_MeleeWeapon_PikeHesse.description>
+  <DankPyon_MeleeWeapon_PikeHesse.tools.0.label>握柄</DankPyon_MeleeWeapon_PikeHesse.tools.0.label>
+  <DankPyon_MeleeWeapon_PikeHesse.tools.1.label>尖端</DankPyon_MeleeWeapon_PikeHesse.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Swordlance.label>长柄大刀</DankPyon_MeleeWeapon_Swordlance.label>
+  <DankPyon_MeleeWeapon_Swordlance.description>长柄枪的变种，虽然弯曲的剑身可以在远处进行猛烈的劈砍。但这牺牲了对盔甲的穿透力。这把剑在有经验的人手中会变得非常致命。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Swordlance.description>
+  <DankPyon_MeleeWeapon_Swordlance.tools.0.label>握柄</DankPyon_MeleeWeapon_Swordlance.tools.0.label>
+  <DankPyon_MeleeWeapon_Swordlance.tools.1.label>刀锋</DankPyon_MeleeWeapon_Swordlance.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Halberd.label>戟</DankPyon_MeleeWeapon_Halberd.label>
+  <DankPyon_MeleeWeapon_Halberd.description>一种多功能的长柄武器，有三个致命的末端——用于挥砍的刀刃、用于抓取的钩子，以及用于刺穿锁甲和金属板的矛状物。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Halberd.description>
+  <DankPyon_MeleeWeapon_Halberd.tools.0.label>握柄</DankPyon_MeleeWeapon_Halberd.tools.0.label>
+  <DankPyon_MeleeWeapon_Halberd.tools.1.label>戟刃</DankPyon_MeleeWeapon_Halberd.tools.1.label>
+
+
+  <!-- Hammers Base -->
+
+  <DankPyon_MeleeWeapon_BlacksmithHammer.label>铁匠锤</DankPyon_MeleeWeapon_BlacksmithHammer.label>
+  <DankPyon_MeleeWeapon_BlacksmithHammer.description>铁匠锤是锻造的基本工具，用于塑造液态金属，锻造出强大的武器和盔甲。虽然铁匠锤的主要功能是制作武器，但其沉重的锤头和粗壮的锤头使其本身也成为一种可怕的武器，能够像敲击金属锭一样高效地击穿防御工事。</DankPyon_MeleeWeapon_BlacksmithHammer.description>
+  <DankPyon_MeleeWeapon_BlacksmithHammer.tools.0.label>握柄</DankPyon_MeleeWeapon_BlacksmithHammer.tools.0.label>
+  <DankPyon_MeleeWeapon_BlacksmithHammer.tools.1.label>锤头</DankPyon_MeleeWeapon_BlacksmithHammer.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Pickaxe.label>鹤嘴锄</DankPyon_MeleeWeapon_Pickaxe.label>
+  <DankPyon_MeleeWeapon_Pickaxe.description>用来敲打石头和金属的采矿工具；虽然主要用于收集经济资源，但鹤嘴锄的两端都有致命的镐头，能够像开采矿石一样有效地斩断盔甲。</DankPyon_MeleeWeapon_Pickaxe.description>
+  <DankPyon_MeleeWeapon_Pickaxe.tools.0.label>握柄</DankPyon_MeleeWeapon_Pickaxe.tools.0.label>
+  <DankPyon_MeleeWeapon_Pickaxe.tools.1.label>鎚头</DankPyon_MeleeWeapon_Pickaxe.tools.1.label>
+
+  <DankPyon_MeleeWeapon_MilitaryPick.label>军用镐</DankPyon_MeleeWeapon_MilitaryPick.label>
+  <DankPyon_MeleeWeapon_MilitaryPick.description>受矿工镐的启发，军用镐包括一支长轴，末端有一个尖尖的钉状设计，旨在更有效地刺穿盔甲。</DankPyon_MeleeWeapon_MilitaryPick.description>
+  <DankPyon_MeleeWeapon_MilitaryPick.tools.0.label>握柄</DankPyon_MeleeWeapon_MilitaryPick.tools.0.label>
+  <DankPyon_MeleeWeapon_MilitaryPick.tools.1.label>尖端</DankPyon_MeleeWeapon_MilitaryPick.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Warhammer.label>战鎚</DankPyon_MeleeWeapon_Warhammer.label>
+  <DankPyon_MeleeWeapon_Warhammer.description>由于金属板其实非常难以刺穿，因此许多战士转而选择用战鎚来破坏盔甲。战鎚很短，因此可以和盾牌一起挥舞，战鎚自古以来都是和富有的贵族和全副武装的骑士对战的可靠选择。</DankPyon_MeleeWeapon_Warhammer.description>
+  <DankPyon_MeleeWeapon_Warhammer.tools.0.label>握柄</DankPyon_MeleeWeapon_Warhammer.tools.0.label>
+  <DankPyon_MeleeWeapon_Warhammer.tools.1.label>鎚头</DankPyon_MeleeWeapon_Warhammer.tools.1.label>
+
+
+  <!-- Two-Handed Hammers -->
+
+  <DankPyon_MeleeWeapon_TwoHandedMallet.label>双手槌</DankPyon_MeleeWeapon_TwoHandedMallet.label>
+  <DankPyon_MeleeWeapon_TwoHandedMallet.description>一种由木头等单一材料组成的基本武器，双手槌可用以扰乱敌人的阵型，无论敌人是否有装甲。</DankPyon_MeleeWeapon_TwoHandedMallet.description>
+  <DankPyon_MeleeWeapon_TwoHandedMallet.tools.0.label>握柄</DankPyon_MeleeWeapon_TwoHandedMallet.tools.0.label>
+  <DankPyon_MeleeWeapon_TwoHandedMallet.tools.1.label>槌头</DankPyon_MeleeWeapon_TwoHandedMallet.tools.1.label>
+
+  <DankPyon_MeleeWeapon_TwoHandedHammer.label>双手战鎚</DankPyon_MeleeWeapon_TwoHandedHammer.label>
+  <DankPyon_MeleeWeapon_TwoHandedHammer.description>作为双手槌的升级版，双手战鎚多加了一个沉重的金属头，以增加对目标的打击力。鎚头击打的巨大力量可以击碎坚固的板材，劈开盾牌。</DankPyon_MeleeWeapon_TwoHandedHammer.description>
+  <DankPyon_MeleeWeapon_TwoHandedHammer.tools.0.label>握柄</DankPyon_MeleeWeapon_TwoHandedHammer.tools.0.label>
+  <DankPyon_MeleeWeapon_TwoHandedHammer.tools.1.label>鎚头</DankPyon_MeleeWeapon_TwoHandedHammer.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Polehammer.label>长柄战鎚</DankPyon_MeleeWeapon_Polehammer.label>
+  <DankPyon_MeleeWeapon_Polehammer.description>双手战鎚的一种变异设计，其特点是头部有两个点。这种设计提供了额外的方法来穿透装甲的敌人，以及轻松地刺穿装甲较少的敌人。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Polehammer.description>
+  <DankPyon_MeleeWeapon_Polehammer.tools.0.label>握柄</DankPyon_MeleeWeapon_Polehammer.tools.0.label>
+  <DankPyon_MeleeWeapon_Polehammer.tools.1.label>鎚头</DankPyon_MeleeWeapon_Polehammer.tools.1.label>
+
+
+  <!-- Cleaver -->
+
+  <DankPyon_MeleeWeapon_ButcherCleaver.label>屠宰刀</DankPyon_MeleeWeapon_ButcherCleaver.label>
+  <DankPyon_MeleeWeapon_ButcherCleaver.description>屠宰刀是一种用于切肉和剁骨的重型刀片，能够在制作食物和肢解动物时发挥功能。请小心，屠宰刀锋利的刀刃也使它成为一把致命的武器。</DankPyon_MeleeWeapon_ButcherCleaver.description>
+  <DankPyon_MeleeWeapon_ButcherCleaver.tools.0.label>握柄</DankPyon_MeleeWeapon_ButcherCleaver.tools.0.label>
+  <DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>刀锋</DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>
+
+
+  <!-- Axes -->
+
+  <DankPyon_MeleeWeapon_Hatchet.label>短柄斧</DankPyon_MeleeWeapon_Hatchet.label>
+  <DankPyon_MeleeWeapon_Hatchet.description>伐木学徒使用的原始工具，对木工和劈裂防护表面都很有用处。如果敌人躲在盾墙后面，斧头将成为能够替代剑的优异武器。</DankPyon_MeleeWeapon_Hatchet.description>
+  <DankPyon_MeleeWeapon_Hatchet.tools.0.label>握柄</DankPyon_MeleeWeapon_Hatchet.tools.0.label>
+  <DankPyon_MeleeWeapon_Hatchet.tools.1.label>斧锋</DankPyon_MeleeWeapon_Hatchet.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Handaxe.label>手斧</DankPyon_MeleeWeapon_Handaxe.label>
+  <DankPyon_MeleeWeapon_Handaxe.description>作为短柄斧的加长版，手斧的长柄可以令使用者在较远处进行更有力的挥舞。由于其使用方便和实用性，这种斧头在对付有盾牌的敌人时很受欢迎。</DankPyon_MeleeWeapon_Handaxe.description>
+  <DankPyon_MeleeWeapon_Handaxe.tools.0.label>握柄</DankPyon_MeleeWeapon_Handaxe.tools.0.label>
+  <DankPyon_MeleeWeapon_Handaxe.tools.1.label>斧锋</DankPyon_MeleeWeapon_Handaxe.tools.1.label>
+
+  <DankPyon_MeleeWeapon_FightingAxe.label>战斧</DankPyon_MeleeWeapon_FightingAxe.label>
+  <DankPyon_MeleeWeapon_FightingAxe.description>为战争目的而锻造的斧头，有一个坚固的金属头，用于击破盾牌，尖锐的尖端则能够用于刺穿锁甲。伤害力强，但挥舞距离短。</DankPyon_MeleeWeapon_FightingAxe.description>
+  <DankPyon_MeleeWeapon_FightingAxe.tools.0.label>握柄</DankPyon_MeleeWeapon_FightingAxe.tools.0.label>
+  <DankPyon_MeleeWeapon_FightingAxe.tools.1.label>斧锋</DankPyon_MeleeWeapon_FightingAxe.tools.1.label>
+
+
+  <!-- Two-Handed Axes -->
+
+  <DankPyon_MeleeWeapon_WoodcuttersAxe.label>伐木斧</DankPyon_MeleeWeapon_WoodcuttersAxe.label>
+  <DankPyon_MeleeWeapon_WoodcuttersAxe.description>有经验的伐木工人和强盗使用的长斧，由于它的长轴和沉重锋利的头部。这种设计使得这把双手斧非常适合砍伐树木——以及敌人。</DankPyon_MeleeWeapon_WoodcuttersAxe.description>
+  <DankPyon_MeleeWeapon_WoodcuttersAxe.tools.0.label>握柄</DankPyon_MeleeWeapon_WoodcuttersAxe.tools.0.label>
+  <DankPyon_MeleeWeapon_WoodcuttersAxe.tools.1.label>斧锋</DankPyon_MeleeWeapon_WoodcuttersAxe.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Bardiche.label>新月战斧</DankPyon_MeleeWeapon_Bardiche.label>
+  <DankPyon_MeleeWeapon_Bardiche.description>新月战斧是一把受长柄枪启发的斧头，它的特点是斧身像长柄枪的头部一样延伸。这种设计使这种双手武器可以适应许多情况，因为它可以像劈开盾牌一样轻易地劈开没有盔甲的敌人。</DankPyon_MeleeWeapon_Bardiche.description>
+  <DankPyon_MeleeWeapon_Bardiche.tools.0.label>握柄</DankPyon_MeleeWeapon_Bardiche.tools.0.label>
+  <DankPyon_MeleeWeapon_Bardiche.tools.1.label>斧锋</DankPyon_MeleeWeapon_Bardiche.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Greataxe.label>巨斧</DankPyon_MeleeWeapon_Greataxe.label>
+  <DankPyon_MeleeWeapon_Greataxe.description>巨斧是一种较重的双手斧，受益于坚实的斧身及重量，它具有高伤害以及高耐久性。巨斧是劈开盾牌或无装甲敌人的最佳选择。需要很大的力量才能有效挥舞。</DankPyon_MeleeWeapon_Greataxe.description>
+  <DankPyon_MeleeWeapon_Greataxe.tools.0.label>握柄</DankPyon_MeleeWeapon_Greataxe.tools.0.label>
+  <DankPyon_MeleeWeapon_Greataxe.tools.1.label>斧锋</DankPyon_MeleeWeapon_Greataxe.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Longaxe.label>长斧</DankPyon_MeleeWeapon_Longaxe.label>
+  <DankPyon_MeleeWeapon_Longaxe.description>一种广泛使用的双手武器，由于其易于使用和高伤害，经常被袭击者们所利用。但由于必须放弃使用盾牌，因此应由技巧纯熟的战斗人员使用。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Longaxe.description>
+  <DankPyon_MeleeWeapon_Longaxe.tools.0.label>握柄</DankPyon_MeleeWeapon_Longaxe.tools.0.label>
+  <DankPyon_MeleeWeapon_Longaxe.tools.1.label>斧锋</DankPyon_MeleeWeapon_Longaxe.tools.1.label>
+
+
+  <!-- Sword -->
+
+  <DankPyon_MeleeWeapon_Falchion.label>弯刃大刀</DankPyon_MeleeWeapon_Falchion.label>
+  <DankPyon_MeleeWeapon_Falchion.description>坚固的宽刃大刀，由于其制造和使用方便，经常出现在民兵和农民手中。最适合用于挥砍，但在紧要关头仍可刺杀。</DankPyon_MeleeWeapon_Falchion.description>
+  <DankPyon_MeleeWeapon_Falchion.tools.0.label>剑柄</DankPyon_MeleeWeapon_Falchion.tools.0.label>
+  <DankPyon_MeleeWeapon_Falchion.tools.1.label>刀锋</DankPyon_MeleeWeapon_Falchion.tools.1.label>
+
+  <DankPyon_MeleeWeapon_ArmingSword.label>武装剑</DankPyon_MeleeWeapon_ArmingSword.label>
+  <DankPyon_MeleeWeapon_ArmingSword.description>许多战士会将他们的武器视为工具使用，因此那些实用的剑也最常被选作武器使用。武装剑因其重量轻、剑身饱满、工艺高超而受到赞誉，对新手和老手都很有用处。剑可以给战士带来财富，所以在选择战争武器时，能挥舞一把武装剑是很幸运的。</DankPyon_MeleeWeapon_ArmingSword.description>
+  <DankPyon_MeleeWeapon_ArmingSword.tools.0.label>剑柄</DankPyon_MeleeWeapon_ArmingSword.tools.0.label>
+  <DankPyon_MeleeWeapon_ArmingSword.tools.1.label>刀锋</DankPyon_MeleeWeapon_ArmingSword.tools.1.label>
+
+  <DankPyon_MeleeWeapon_FencingSword.label>刺剑</DankPyon_MeleeWeapon_FencingSword.label>
+  <DankPyon_MeleeWeapon_FencingSword.description>刺剑是一种既轻便又致命的优雅武器，需要很高超的技巧才能有效使用。然而，对这种武器的掌握可以使决斗者取得很大的优势胜利，尤其是对锁甲，因为精确的打击可以刺穿薄弱的金属环。</DankPyon_MeleeWeapon_FencingSword.description>
+  <DankPyon_MeleeWeapon_FencingSword.tools.0.label>剑柄</DankPyon_MeleeWeapon_FencingSword.tools.0.label>
+  <DankPyon_MeleeWeapon_FencingSword.tools.1.label>刀尖</DankPyon_MeleeWeapon_FencingSword.tools.1.label>
+
+  <DankPyon_MeleeWeapon_NobleSword.label>贵族剑</DankPyon_MeleeWeapon_NobleSword.label>
+  <DankPyon_MeleeWeapon_NobleSword.description>一把锻造精良、平衡性佳的武装剑，装饰华丽，做工精细。既是一件精美的武器，也是一件艺术品。</DankPyon_MeleeWeapon_NobleSword.description>
+  <DankPyon_MeleeWeapon_NobleSword.tools.0.label>剑柄</DankPyon_MeleeWeapon_NobleSword.tools.0.label>
+  <DankPyon_MeleeWeapon_NobleSword.tools.1.label>刀锋</DankPyon_MeleeWeapon_NobleSword.tools.1.label>
+
+
+  <!-- Two-Handed Sword -->
+
+  <DankPyon_MeleeWeapon_Longsword.label>长剑</DankPyon_MeleeWeapon_Longsword.label>
+  <DankPyon_MeleeWeapon_Longsword.description>虽说较短和轻的剑在盾墙阵中最有用，但长剑能够在小规模冲突和决斗中大放异彩。透过加长的刃身，并放弃持盾，战士可以透过挥舞长剑甚至是刺击来增加攻击范围，从而造成更有效的伤害。别因增加的剑身重量而轻忽了长剑的危险性，因为它的快速打击常常让许多敌人措手不及。</DankPyon_MeleeWeapon_Longsword.description>
+  <DankPyon_MeleeWeapon_Longsword.tools.0.label>剑柄</DankPyon_MeleeWeapon_Longsword.tools.0.label>
+  <DankPyon_MeleeWeapon_Longsword.tools.1.label>刀锋</DankPyon_MeleeWeapon_Longsword.tools.1.label>
+
+  <DankPyon_MeleeWeapon_Greatsword.label>巨剑</DankPyon_MeleeWeapon_Greatsword.label>
+  <DankPyon_MeleeWeapon_Greatsword.description>一把巨大的双手剑，剑身很长，能够用猛烈的挥舞和劈砍来斩裂敌人。也能用于长距离刺击。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_Greatsword.description>
+  <DankPyon_MeleeWeapon_Greatsword.tools.0.label>剑柄</DankPyon_MeleeWeapon_Greatsword.tools.0.label>
+  <DankPyon_MeleeWeapon_Greatsword.tools.1.label>刀锋</DankPyon_MeleeWeapon_Greatsword.tools.1.label>
+
+
+  <!-- Named Weapons -->
+
+  <DankPyon_MeleeWeapon_NamedGreatsword.label>铭刻巨剑</DankPyon_MeleeWeapon_NamedGreatsword.label>
+  <DankPyon_MeleeWeapon_NamedGreatsword.description>一把巨大的双手剑，剑身很长，能够用猛烈的挥舞和劈砍来斩裂敌人。也能用于长距离刺击。\n\n这把巨剑属于被遗忘已久的帝国的古老遗物，制作精良，能够轻易切开钢板而毫不影响其锋利度。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_NamedGreatsword.description>
+  <DankPyon_MeleeWeapon_NamedGreatsword.tools.0.label>剑柄</DankPyon_MeleeWeapon_NamedGreatsword.tools.0.label>
+  <DankPyon_MeleeWeapon_NamedGreatsword.tools.1.label>刀锋</DankPyon_MeleeWeapon_NamedGreatsword.tools.1.label>
+
+
+  <!-- REMOVE ONCE NEW OVERSIZED COMP IS COMPATIBLE WITH GRAPHIC_RANDOM -->
+
+  <DankPyon_MeleeWeapon_NamedGreatsword1c.label>铭刻巨剑</DankPyon_MeleeWeapon_NamedGreatsword1c.label>
+  <DankPyon_MeleeWeapon_NamedGreatsword1c.description>一把巨大的双手剑，剑身很长，能够用猛烈的挥舞和劈砍来斩裂敌人。也能用于长距离刺击。\n\n这把巨剑属于被遗忘已久的帝国的古老遗物，制作精良，能够轻易切开钢板而毫不影响其锋利度。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_NamedGreatsword1c.description>
+  <DankPyon_MeleeWeapon_NamedGreatsword1c.tools.0.label>剑柄</DankPyon_MeleeWeapon_NamedGreatsword1c.tools.0.label>
+  <DankPyon_MeleeWeapon_NamedGreatsword1c.tools.1.label>刀锋</DankPyon_MeleeWeapon_NamedGreatsword1c.tools.1.label>
+
+  <DankPyon_MeleeWeapon_NamedGreatsword2c.label>铭刻巨剑</DankPyon_MeleeWeapon_NamedGreatsword2c.label>
+  <DankPyon_MeleeWeapon_NamedGreatsword2c.description>一把巨大的双手剑，剑身很长，能够用猛烈的挥舞和劈砍来斩裂敌人。也能用于长距离刺击。\n\n这把巨剑属于被遗忘已久的帝国的古老遗物，制作精良，能够轻易切开钢板而毫不影响其锋利度。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_NamedGreatsword2c.description>
+  <DankPyon_MeleeWeapon_NamedGreatsword2c.tools.0.label>剑柄</DankPyon_MeleeWeapon_NamedGreatsword2c.tools.0.label>
+  <DankPyon_MeleeWeapon_NamedGreatsword2c.tools.1.label>刀锋</DankPyon_MeleeWeapon_NamedGreatsword2c.tools.1.label>
+
+
+  <!-- Two handed flanged mace -->
+
+  <DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.label>铭刻双手凸缘钉锤</DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.label>
+  <DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.description>凸缘钉锤的双手版本，长手柄不仅可以使挥击时造成更高的伤害，还可以提高护甲穿透力。突出的脊线能破坏护具表面和金属板。</DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.description>
+  <DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.tools.0.label>握柄</DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.tools.0.label>
+  <DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.tools.1.label>锤头</DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.tools.1.label>
+
+
+  <!-- Greataxe -->
+
+  <DankPyon_MeleeWeapon_NamedGreataxe.label>铭刻巨斧</DankPyon_MeleeWeapon_NamedGreataxe.label>
+  <DankPyon_MeleeWeapon_NamedGreataxe.description>巨斧是一种较重的双手斧，受益于坚实的斧身及重量，它具有高伤害以及高耐久性。巨斧是劈开盾牌或无装甲敌人的最佳选择。需要很大的力量才能有效挥舞。</DankPyon_MeleeWeapon_NamedGreataxe.description>
+  <DankPyon_MeleeWeapon_NamedGreataxe.tools.0.label>握柄</DankPyon_MeleeWeapon_NamedGreataxe.tools.0.label>
+  <DankPyon_MeleeWeapon_NamedGreataxe.tools.1.label>斧锋</DankPyon_MeleeWeapon_NamedGreataxe.tools.1.label>
+
+
+  <!-- Two handed hammer -->
+
+  <DankPyon_MeleeWeapon_NamedTwoHandedHammer.label>铭刻双手战鎚</DankPyon_MeleeWeapon_NamedTwoHandedHammer.label>
+  <DankPyon_MeleeWeapon_NamedTwoHandedHammer.description>作为双手槌的升级版，双手战鎚多加了一个沉重的金属头，以增加对目标的打击力。鎚头击打的巨大力量可以击碎坚固的板材，劈开盾牌。</DankPyon_MeleeWeapon_NamedTwoHandedHammer.description>
+  <DankPyon_MeleeWeapon_NamedTwoHandedHammer.tools.0.label>握柄</DankPyon_MeleeWeapon_NamedTwoHandedHammer.tools.0.label>
+  <DankPyon_MeleeWeapon_NamedTwoHandedHammer.tools.1.label>锤头</DankPyon_MeleeWeapon_NamedTwoHandedHammer.tools.1.label>
+
+
+  <!-- REMOVE ONCE NEW OVERSIZED COMP IS COMPATIBLE WITH GRAPHIC_RANDOM -->
+
+  <DankPyon_MeleeWeapon_NamedTwoHandedHammer1c.label>铭刻双手战鎚</DankPyon_MeleeWeapon_NamedTwoHandedHammer1c.label>
+  <DankPyon_MeleeWeapon_NamedTwoHandedHammer1c.description>作为双手槌的升级版，双手战鎚多加了一个沉重的金属头，以增加对目标的打击力。鎚头击打的巨大力量可以击碎坚固的板材，劈开盾牌。</DankPyon_MeleeWeapon_NamedTwoHandedHammer1c.description>
+  <DankPyon_MeleeWeapon_NamedTwoHandedHammer1c.tools.0.label>握柄</DankPyon_MeleeWeapon_NamedTwoHandedHammer1c.tools.0.label>
+  <DankPyon_MeleeWeapon_NamedTwoHandedHammer1c.tools.1.label>锤头</DankPyon_MeleeWeapon_NamedTwoHandedHammer1c.tools.1.label>
+
+
+  <!-- Halberd -->
+
+  <DankPyon_MeleeWeapon_NamedHalberd.label>铭刻戟</DankPyon_MeleeWeapon_NamedHalberd.label>
+  <DankPyon_MeleeWeapon_NamedHalberd.description>一种多功能的长柄武器，有三个致命的末端——用于挥砍的刀刃、用于抓取的钩子，以及用于刺穿锁甲和金属板的矛状物。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_NamedHalberd.description>
+  <DankPyon_MeleeWeapon_NamedHalberd.tools.0.label>握柄</DankPyon_MeleeWeapon_NamedHalberd.tools.0.label>
+  <DankPyon_MeleeWeapon_NamedHalberd.tools.1.label>戟刃</DankPyon_MeleeWeapon_NamedHalberd.tools.1.label>
+
+
+  <!-- REMOVE ONCE NEW OVERSIZED COMP IS COMPATIBLE WITH GRAPHIC_RANDOM -->
+
+  <DankPyon_MeleeWeapon_NamedHalberd1c.label>铭刻戟</DankPyon_MeleeWeapon_NamedHalberd1c.label>
+  <DankPyon_MeleeWeapon_NamedHalberd1c.description>一种多功能的长柄武器，有三个致命的末端——用于挥砍的刀刃、用于抓取的钩子，以及用于刺穿锁甲和金属板的矛状物。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种武器的攻击距离比一般的近战武器稍远。</DankPyon_MeleeWeapon_NamedHalberd1c.description>
+  <DankPyon_MeleeWeapon_NamedHalberd1c.tools.0.label>握柄</DankPyon_MeleeWeapon_NamedHalberd1c.tools.0.label>
+  <DankPyon_MeleeWeapon_NamedHalberd1c.tools.1.label>戟刃</DankPyon_MeleeWeapon_NamedHalberd1c.tools.1.label>
+
+
+</LanguageData>

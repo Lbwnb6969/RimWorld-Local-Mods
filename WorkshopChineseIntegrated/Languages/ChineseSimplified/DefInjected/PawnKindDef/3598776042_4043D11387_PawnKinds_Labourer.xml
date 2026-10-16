@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farmer -->
+  <BA_Mongol_Farmer.label>农夫</BA_Mongol_Farmer.label>
+  
+  <!-- EN: hunter -->
+  <BA_Mongol_Hunter.label>猎人</BA_Mongol_Hunter.label>
+  
+  <!-- EN: logger -->
+  <BA_Mongol_Logger.label>伐木工</BA_Mongol_Logger.label>
+  
+  <!-- EN: miner -->
+  <BA_Mongol_Miner.label>矿工</BA_Mongol_Miner.label>
+  
+</LanguageData>

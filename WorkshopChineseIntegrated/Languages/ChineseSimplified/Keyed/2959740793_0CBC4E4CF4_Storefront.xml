@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<!-- Messages -->
+	<!-- EN: Your store has earned {0} today. -->
+  <StoreMessageIncomeToday>本日店铺收入为：{0}。</StoreMessageIncomeToday>
+	<!-- EN: {PAWN} from {FACTION} bought {ITEM} for {1} silver. -->
+  <GuestBoughtItem>来自{FACTION_name}的一名成员以{1}银的价格购买了{ITEM_label}。</GuestBoughtItem>
+	<!-- EN: {PAWN} from {FACTION} took {ITEM} for free. -->
+  <GuestTookFreeItem>来自{FACTION_name}的一名成员从你这白嫖了{ITEM_label}。</GuestTookFreeItem>
+	
+	<!-- EN: Shop -->
+  <TabRegisterStore>店铺信息</TabRegisterStore>
+	
+	<!-- Store selection -->
+	<!-- EN: store {0} -->
+  <StoreDefaultName>店铺{0}</StoreDefaultName>
+	<!-- EN: Rename this store. -->
+  <StoreTooltipRename>为这家店铺重命名。</StoreTooltipRename>
+	
+	<!-- Mod settings -->
+	<!-- EN: Stand by only when visitors present -->
+  <SettingStandByOnlyWhenCustomers>收银员仅在有访客时工作</SettingStandByOnlyWhenCustomers>
+	<!-- EN: When enabled, colonists assigned to stand by at a cash register will skip that job unless there is at least one friendly visitor or guest currently on the map. Saves labour when the map is empty of customers. -->
+  <SettingStandByOnlyWhenCustomersTooltip>如果启用此项，则收银员仅会在殖民地里有访客时开始轮班和工作，从而节省劳动力。</SettingStandByOnlyWhenCustomersTooltip>
+
+	<!-- Store tab settings -->
+	<!-- EN: Opened -->
+  <TabRegisterOpened>营业</TabRegisterOpened>
+	<!-- EN: When checked, customers can visit while a shift is active. -->
+  <TabRegisterOpenedTooltip>店铺开始营业后，顾客将会在有收银员轮班时前来光顾。</TabRegisterOpenedTooltip>
+	
+	<!-- Stats -->
+	<!-- EN: Radius -->
+  <TabRegisterRadius>作用范围</TabRegisterRadius>
+	<!-- EN: Active staff: -->
+  <TabRegisterActiveStaff>当前收银员：</TabRegisterActiveStaff>
+	<!-- EN: Customers: -->
+  <TabRegisterCustomers>顾客数量：</TabRegisterCustomers>
+	<!-- EN: Stocked: -->
+  <TabRegisterStocked>商品库存：</TabRegisterStocked>
+	<!-- EN: Earned yesterday: -->
+  <TabRegisterEarnedYesterday>昨日收入：</TabRegisterEarnedYesterday>
+	<!-- EN: Earned today: -->
+  <TabRegisterEarnedToday>本日收入：</TabRegisterEarnedToday>
+	
+	<!-- Alerts -->
+	<!-- EN: No register -->
+  <AlertNoRegister>缺少收银机</AlertNoRegister>
+	<!-- EN: To open your store, you need at least one register. This can be built from the production tab. -->
+  <AlertNoRegisterExplanation>你的店铺至少需要一台收银机才能开始营业。可以在「建筑规划」选项卡的「生产」栏中找到并建造收银机。</AlertNoRegisterExplanation>
+	<!-- EN: No cashier -->
+  <AlertNoCashier>缺少收银员</AlertNoCashier>
+	<!-- EN: To operate your store, you need to set up at least one shift at a register and assign a capable cashier. -->
+  <AlertNoCashierExplanation>你的店铺至少需要一名已安排轮班的殖民者才能开始营业。可以在收银机的「轮班管制」选项卡中调整轮班表。</AlertNoCashierExplanation>
+
+</LanguageData>

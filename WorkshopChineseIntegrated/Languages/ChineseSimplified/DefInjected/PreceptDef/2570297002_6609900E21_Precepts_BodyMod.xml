@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: only biological -->
+  <VME_BodyMod_OnlyBiological.label>仅生物器官</VME_BodyMod_OnlyBiological.label>
+  <!-- EN: Flesh only should be replaced by flesh, to replace a body with a machine is forbidden. -->
+  <VME_BodyMod_OnlyBiological.description>只有血肉才能替代血肉，我们永远不会使用机械制成的器官。</VME_BodyMod_OnlyBiological.description>
+  
+</LanguageData>

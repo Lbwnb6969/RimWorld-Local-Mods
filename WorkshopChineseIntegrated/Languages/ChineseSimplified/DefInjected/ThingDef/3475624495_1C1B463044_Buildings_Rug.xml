@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: northern drog rug (3x3) -->
+  <DA_DrogRug.label>北境野猪地毯 (3x3)</DA_DrogRug.label>
+  <!-- EN: A trophy marking the victory over a northern drog. This impressive rug is luxurious and exceptionally warm, but watch out for the tusks. -->
+  <DA_DrogRug.description>战胜北境野猪的战利品。这块令人印象深刻的地毯华贵且非常温暖，不过要小心它的巨牙。</DA_DrogRug.description>
+  
+  <!-- EN: red-horned larpah rug (1x1) -->
+  <DA_LarpahRug.label>红角拉法地毯 (1x1)</DA_LarpahRug.label>
+  <!-- EN: A trophy marking the victory over a red-horned larpah. The warm and durable leather of the larpah makes for the perfect rug, but beware of its antlers. -->
+  <DA_LarpahRug.description>战胜红角拉法的战利品。这块温暖耐用的拉法皮革非常适合作地毯，不过要小心它的红角。</DA_LarpahRug.description>
+  
+  <!-- EN: white red-horned larpah rug (1x1) -->
+  <DA_LarpahRugB.label>白色拉法地毯 (1x1)</DA_LarpahRugB.label>
+  <!-- EN: A trophy marking the victory over a red-horned larpah. The warm and durable leather of the larpah makes for the perfect rug, but beware of its antlers. -->
+  <DA_LarpahRugB.description>战胜红角拉法的战利品。这块温暖耐用的拉法皮革非常适合作地毯，不过要小心它的红角。</DA_LarpahRugB.description>
+  
+  <!-- EN: bearded troll rug (2x2) -->
+  <DA_TrollRug.label>长须巨魔地毯 (2x2)</DA_TrollRug.label>
+  <!-- EN: A trophy marking the victory over a bearded troll. The warm and durable leather of the troll makes for the perfect rug, but beware of the teeth. -->
+  <DA_TrollRug.description>战胜长须巨魔的战利品。这块温暖耐用的巨魔皮革非常适合作地毯，不过要小心它的牙齿。</DA_TrollRug.description>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: divine burn -->
+  <BEWH_HolyBurn.label>神圣灼伤</BEWH_HolyBurn.label>
+  <!-- EN: Flesh scorched not by flame alone, but by the purging light of holy wrath. -->
+  <BEWH_HolyBurn.description>不但被火焰灼烧，还被神圣的净化之光灼烧。</BEWH_HolyBurn.description>
+  <!-- EN: surgical scar -->
+  <BEWH_HolyBurn.comps.HediffComp_GetsPermanent.permanentLabel>手术疤痕</BEWH_HolyBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: a searing divine burn -->
+  <BEWH_HolyBurn.labelNoun>灼热的神圣灼伤</BEWH_HolyBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <BEWH_HolyBurn.labelNounPretty>{0}在{1}。</BEWH_HolyBurn.labelNounPretty>
+  
+</LanguageData>

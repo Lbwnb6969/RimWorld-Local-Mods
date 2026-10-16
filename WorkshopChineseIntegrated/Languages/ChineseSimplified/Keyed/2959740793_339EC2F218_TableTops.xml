@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<!-- Tabletop -->
+	<MustPlaceOnTable>必须放置在桌子上。</MustPlaceOnTable>
+	<MustPlaceOnFreeSurface>必须放置在没有杂物的表面上。</MustPlaceOnFreeSurface>
+	
+	<!-- Shifts -->
+	<TabRegisterShifts>轮班管制</TabRegisterShifts>
+	<TabRegisterShiftsAdd>+</TabRegisterShiftsAdd>
+	<TabRegisterShiftsRemove>×</TabRegisterShiftsRemove>
+	<TabRegisterShiftsEmpty>无</TabRegisterShiftsEmpty>
+	<TabRegisterShiftsAssign>指定</TabRegisterShiftsAssign>
+	<TabRegisterShiftsRejectedMissingMods>未安装依靠收银机来工作的mod</TabRegisterShiftsRejectedMissingMods>
+	<TabRegisterShiftsRejectedNoWork>未安排此类型的工作</TabRegisterShiftsRejectedNoWork>
+	<TabRegisterShiftsStandby>看管店铺</TabRegisterShiftsStandby>
+	<TabRegisterShiftsStandbyDesc>如果没有其他优先级更高的工作或任务，已安排轮班的殖民者会站在此处看管店铺。</TabRegisterShiftsStandbyDesc>
+	
+	<!-- Settings -->
+	<InactiveIfEveryoneIsSleeping>所有人睡觉后自动禁用收银机</InactiveIfEveryoneIsSleeping>
+	<InactiveIfEveryoneIsSleepingDesc>当所有已安排轮班的殖民者睡觉（对外出远行和倒地同样有效）后，会自动禁用收银机和设置的轮班表。</InactiveIfEveryoneIsSleepingDesc>
+	<RegisterRadiusTitle>作用范围</RegisterRadiusTitle>
+	<RegisterRadiusValue>半径</RegisterRadiusValue>
+	<RegisterRadiusIncludeRegion>包括当前房间</RegisterRadiusIncludeRegion>
+	
+</LanguageData>

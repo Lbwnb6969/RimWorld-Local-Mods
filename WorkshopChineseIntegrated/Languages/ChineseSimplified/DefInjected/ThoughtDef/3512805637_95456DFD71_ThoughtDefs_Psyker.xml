@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Alpha Psyker -->
+  <BEWH_AlphaPsyker.stages.Alpha_Psyker.label>Ⅴ级灵能者</BEWH_AlphaPsyker.stages.Alpha_Psyker.label>
+  <!-- EN: The warp bends to my will, its infinite power coursing through me like a roaring tempest. I am a living beacon of the Immaterium, my abilities far beyond what mortals can fathom. Such power is both a blessing and a burden, for even the slightest misstep could unravel worlds. -->
+  <BEWH_AlphaPsyker.stages.Alpha_Psyker.description>亚空间屈服于我的意志，其无穷的力量如同咆哮的风暴般在我体内奔腾。我是亚空间的活体灯塔，我的能力远超凡人所能理解。如此强大的力量既是祝福，也是诅咒，因为即使是我最轻微的失误，也可能摧毁整个世界。</BEWH_AlphaPsyker.stages.Alpha_Psyker.description>
+  
+  <!-- EN: Beta Psyker -->
+  <BEWH_BetaPsyker.stages.Beta_Psyker.label>Ⅳ级灵能者</BEWH_BetaPsyker.stages.Beta_Psyker.label>
+  <!-- EN: The warp is a storm within me, vast and unrelenting. I wield a power few can comprehend, let alone control. Every thought, every action must be precise, for my power hovers on the brink of destruction. Yet I am no mere instrument of the Immaterium - I am its master. -->
+  <BEWH_BetaPsyker.stages.Beta_Psyker.description>亚空间的力量如同风暴在我体内肆虐，磅礴无休。我执掌着凡人难以理解的力量，每一个想法，每一个行动都必须精确至微——这力量在毁灭的边缘徘徊。但我绝非亚空间的傀儡，因为我即它的主宰。</BEWH_BetaPsyker.stages.Beta_Psyker.description>
+  
+  <!-- EN: raining blood -->
+  <BEWH_BloodSoaked.stages.raining_blood.label>血雨滂沱</BEWH_BloodSoaked.stages.raining_blood.label>
+  <!-- EN: It's raining blood... -->
+  <BEWH_BloodSoaked.stages.raining_blood.description>血雨正从天上飘落下来...</BEWH_BloodSoaked.stages.raining_blood.description>
+  
+  <!-- EN: Delta Psyker -->
+  <BEWH_DeltaPsyker.stages.Delta_Psyker.label>Ⅲ级灵能者</BEWH_DeltaPsyker.stages.Delta_Psyker.label>
+  <!-- EN: The warp surges within me, potent and commanding. Its tides are fierce, but I have the strength to harness them. Though the temptation of chaos is ever-present, my resolve keeps me steadfast. -->
+  <BEWH_DeltaPsyker.stages.Delta_Psyker.description>亚空间的力量在我体内涌动，波涛汹涌，但我能够驾驭它。尽管混沌的诱惑无处不在，但我的决心坚若磐石。</BEWH_DeltaPsyker.stages.Delta_Psyker.description>
+  
+  <!-- EN: Epsilon Psyker -->
+  <BEWH_EpsilonPsyker.stages.Epsilon_Psyker.label>Ⅱ级灵能者</BEWH_EpsilonPsyker.stages.Epsilon_Psyker.label>
+  <!-- EN: The warp flows through me, steady and strong. Its whispers guide me, its power fuels me, yet I remain vigilant. -->
+  <BEWH_EpsilonPsyker.stages.Epsilon_Psyker.description>亚空间的力量在我体内流淌，稳定而强劲。它的低语指引着我，它的力量激励着我，但我必须时刻保持警醒。</BEWH_EpsilonPsyker.stages.Epsilon_Psyker.description>
+  
+  <!-- EN: Iota Psyker -->
+  <BEWH_IotaPsyker.stages.Iota_Psyker.label>Ⅰ级灵能者</BEWH_IotaPsyker.stages.Iota_Psyker.label>
+  <!-- EN: The Warp hums softly within me, a faint whisper rather than a roar. My connection is limited, but sufficient. I wield this power with precision and restraint, knowing I walk a finer line than most. -->
+  <BEWH_IotaPsyker.stages.Iota_Psyker.description>亚空间的力量正在在我体内低吟。虽然我和它的连接有限，但这已经足够了。我以精准而克制地驾驭这力量，因为我知道我比其他灵能者更加谨慎。</BEWH_IotaPsyker.stages.Iota_Psyker.description>
+  
+</LanguageData>

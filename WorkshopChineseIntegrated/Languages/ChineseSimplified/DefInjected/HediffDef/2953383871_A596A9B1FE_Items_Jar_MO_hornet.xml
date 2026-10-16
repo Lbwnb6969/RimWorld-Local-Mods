@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: black swarm -->
+  <SV_AngrySwarm.label>愤怒蜂群围攻</SV_AngrySwarm.label>
+  <!-- EN: Swarmed by angry deathstingers. They will slow the movement, and combat capacities of those unlucky enough to be near.\n(Medieval Overhaul : Hornetkeeping) -->
+  <SV_AngrySwarm.description>被愤怒的死亡毒刺蜂群围攻。任何运气不佳深陷其围的人们都会被减缓速度并削弱战斗能力。</SV_AngrySwarm.description>
+  
+</LanguageData>

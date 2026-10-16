@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corruptor dryad -->
+  <AM_Dryad_Corruptor.label>腐化树精</AM_Dryad_Corruptor.label>
+  <!-- EN: A dryad caste with the unique ability to produce corrupted Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three corruptor dryads must slowly merge.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <AM_Dryad_Corruptor.description>一种拥有独特能力的树精，可以产出腐化母树荚囊，并繁育出母树的共生体——树精女王。为了做到这一点，必须由三只腐化树精进行缓慢的融合。</AM_Dryad_Corruptor.description>
+  <!-- EN: left claw -->
+  <AM_Dryad_Corruptor.tools.left_claw.label>左爪</AM_Dryad_Corruptor.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Corruptor.tools.left_claw.labelNoLocation>爪</AM_Dryad_Corruptor.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AM_Dryad_Corruptor.tools.right_claw.label>右爪</AM_Dryad_Corruptor.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Corruptor.tools.right_claw.labelNoLocation>爪</AM_Dryad_Corruptor.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <AM_Dryad_Corruptor.tools.head.label>头</AM_Dryad_Corruptor.tools.head.label>
+  
+  <!-- EN: ocular dryad -->
+  <AM_Dryad_Ocular.label>窥视树精</AM_Dryad_Ocular.label>
+  <!-- EN: A corrupted dryad afflicted by a bizarre extradimensional disease that causes gaping wounds to appear all over its body, from which ocular orbs slowly emerge. Ocular dryads can be further mutated into grotesque beasts by an Ocular Priest.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <AM_Dryad_Ocular.description>一种被异维度疾病折磨腐化的树精，其遍布全身的开裂伤口中长满了怪异的眼球。窥视树精可以持续产出诡红木材料。异目祭司可利用它来召唤出更加强大扭曲的怪物。</AM_Dryad_Ocular.description>
+  <!-- EN: left claw -->
+  <AM_Dryad_Ocular.tools.left_claw.label>左爪</AM_Dryad_Ocular.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Ocular.tools.left_claw.labelNoLocation>爪</AM_Dryad_Ocular.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AM_Dryad_Ocular.tools.right_claw.label>右爪</AM_Dryad_Ocular.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Ocular.tools.right_claw.labelNoLocation>爪</AM_Dryad_Ocular.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <AM_Dryad_Ocular.tools.head.label>头</AM_Dryad_Ocular.tools.head.label>
+  
+  <!-- EN: spitter dryad -->
+  <AM_Dryad_Spitter.label>毒溅树精</AM_Dryad_Spitter.label>
+  <!-- EN: A dryad caste specialized in venomous ranged attacks. Their ranged attacks can be commanded directly, or ordered to attack on their own by their trainer.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <AM_Dryad_Spitter.description>一种擅长以喷吐毒液来击退进犯之敌的树精。可通过手动指挥或指派主人来命令这种树精进行远程攻击。</AM_Dryad_Spitter.description>
+  <!-- EN: left claw -->
+  <AM_Dryad_Spitter.tools.left_claw.label>左爪</AM_Dryad_Spitter.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Spitter.tools.left_claw.labelNoLocation>爪</AM_Dryad_Spitter.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AM_Dryad_Spitter.tools.right_claw.label>右爪</AM_Dryad_Spitter.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Spitter.tools.right_claw.labelNoLocation>爪</AM_Dryad_Spitter.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <AM_Dryad_Spitter.tools.head.label>头</AM_Dryad_Spitter.tools.head.label>
+  <!-- EN: venomous spit -->
+  <AM_Dryad_Spitter.verbs.venomous_spit.label>毒液喷吐</AM_Dryad_Spitter.verbs.venomous_spit.label>
+  
+  <!-- EN: tumorous dryad -->
+  <AM_Dryad_Tumorous.label>肿胀树精</AM_Dryad_Tumorous.label>
+  <!-- EN: A corrupted dryad covered in tumorous growths that constantly appear over its whole body. These growths are edible, and can be used as a meat substitute of... questionable origins to say the least.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <AM_Dryad_Tumorous.description>一种浑身肿胀无比的树精。肿胀树精可以持续产出供人食用的肉类。然而它速度迟缓，在工作或战斗中也没什么用处。</AM_Dryad_Tumorous.description>
+  <!-- EN: left claw -->
+  <AM_Dryad_Tumorous.tools.left_claw.label>左爪</AM_Dryad_Tumorous.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Tumorous.tools.left_claw.labelNoLocation>爪</AM_Dryad_Tumorous.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AM_Dryad_Tumorous.tools.right_claw.label>右爪</AM_Dryad_Tumorous.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Tumorous.tools.right_claw.labelNoLocation>爪</AM_Dryad_Tumorous.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <AM_Dryad_Tumorous.tools.head.label>头</AM_Dryad_Tumorous.tools.head.label>
+  
+  <!-- EN: unstable dryad -->
+  <AM_Dryad_Unstable.label>酸爆树精</AM_Dryad_Unstable.label>
+  <!-- EN: A dangerous dryad caste that will explode with acid when dead. They can be commanded to explode... for the good of the tree.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <AM_Dryad_Unstable.description>一种擅长以生命为代价来造成伤害的树精。这种树精自爆后产生酸液能够轻易地将敌人腐蚀殆尽。</AM_Dryad_Unstable.description>
+  <!-- EN: left claw -->
+  <AM_Dryad_Unstable.tools.left_claw.label>左爪</AM_Dryad_Unstable.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Unstable.tools.left_claw.labelNoLocation>爪</AM_Dryad_Unstable.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AM_Dryad_Unstable.tools.right_claw.label>右爪</AM_Dryad_Unstable.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AM_Dryad_Unstable.tools.right_claw.labelNoLocation>爪</AM_Dryad_Unstable.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <AM_Dryad_Unstable.tools.head.label>头</AM_Dryad_Unstable.tools.head.label>
+  
+</LanguageData>

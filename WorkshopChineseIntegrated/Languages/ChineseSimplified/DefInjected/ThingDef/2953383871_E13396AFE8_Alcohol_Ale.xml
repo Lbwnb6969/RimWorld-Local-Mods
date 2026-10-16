@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Ale.label>麦酒</DankPyon_Ale.label>
+  <DankPyon_Ale.description>深金色的发酵饮料，是此区社交活动的真正命脉。酒馆里的几杯酒足以让你忘记野外工作的艰辛、路上的危险或考虑不周的婚姻誓言。让温暖的醉意笼罩着你，不用担心任何事情，至少在今晚。</DankPyon_Ale.description>
+  <DankPyon_Ale.tools.0.label>瓶身</DankPyon_Ale.tools.0.label>
+  <DankPyon_Ale.tools.1.label>瓶颈</DankPyon_Ale.tools.1.label>
+  <DankPyon_Ale.ingestible.ingestCommandString>饮用{0}</DankPyon_Ale.ingestible.ingestCommandString>
+  <DankPyon_Ale.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Ale.ingestible.ingestReportString>
+
+  <DankPyon_WortAle.label>麦芽浆</DankPyon_WortAle.label>
+  <DankPyon_WortAle.description>尚未发酵的麦酒。麦芽浆需要被装进发酵桶中发酵才能成为可饮用的麦酒。</DankPyon_WortAle.description>
+
+
+</LanguageData>

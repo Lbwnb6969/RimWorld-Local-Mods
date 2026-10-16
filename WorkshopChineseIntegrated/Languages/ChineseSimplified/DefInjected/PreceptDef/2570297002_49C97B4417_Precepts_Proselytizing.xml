@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: forceful -->
+  <VME_Proselytizing_Forceful.label>强制</VME_Proselytizing_Forceful.label>
+  <!-- EN: If somebody can’t see the error in their ways, then we are not beyond resorting to aggression to show them, it’s an obligation to our creed. -->
+  <VME_Proselytizing_Forceful.description>如果有人无法看清他们行事手段中的谬误之处，那我们便有理由诉诸武力来“点醒”他们。</VME_Proselytizing_Forceful.description>
+  
+  <!-- EN: never -->
+  <VME_Proselytizing_Never.label>绝不</VME_Proselytizing_Never.label>
+  <!-- EN: Everyone has their own truth, and everyone should respect the rights of others to follow their own.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Disables conversion rituals and the convert ability of the moralist role. -->
+  <VME_Proselytizing_Never.description>每个人都拥有属于自己的真理，每个人也都该尊重他人遵循内心想法的权利。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 转化仪式与传道者的“教化”技能将被禁用。</VME_Proselytizing_Never.description>
+  
+</LanguageData>

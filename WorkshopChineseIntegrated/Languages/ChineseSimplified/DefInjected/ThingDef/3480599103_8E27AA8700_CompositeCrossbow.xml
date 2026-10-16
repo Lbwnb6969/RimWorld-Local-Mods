@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: military crossbow bolt -->
+  <!-- EN: composite crossbow -->
+  <TA_CompositeCrossbow.label>复合弩</TA_CompositeCrossbow.label>
+  <!-- EN: Properly made military crossbow, limbs similar in construction to eastern composite bows but much thicker and shorter. -->
+  <TA_CompositeCrossbow.description>精制的军用弩，弩臂结构与东方复合弓相似，但更厚更短。</TA_CompositeCrossbow.description>
+  <!-- EN: composite crossbow -->
+  <TA_CompositeCrossbow.verbs.Verb_ShootCE.label>复合弩射击</TA_CompositeCrossbow.verbs.Verb_ShootCE.label>
+</LanguageData>

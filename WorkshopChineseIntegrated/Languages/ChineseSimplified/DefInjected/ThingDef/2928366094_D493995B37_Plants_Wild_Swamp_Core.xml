@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: creep stern -->
+  <RG_Plant_CreepStern.label>匍尾常春藤</RG_Plant_CreepStern.label>
+  <!-- EN: Wild Ivy with star shaped leaves that grows in patches in cold and wet biomes. Takes a long time to grow, but is very frost-resistant. -->
+  <RG_Plant_CreepStern.description>生长在寒冷潮湿地区的野生常春藤，叶子呈星形状。生长周期较长，但抗寒能力很强。</RG_Plant_CreepStern.description>
+  
+  <!-- EN: dervish -->
+  <RG_Plant_Dervish.label>苦行僧花</RG_Plant_Dervish.label>
+  <!-- EN: A beautiful bluish flower growing in colder and wet biomes. Can only be found in cold bogs. -->
+  <RG_Plant_Dervish.description>生长在寒冷潮湿地区的蓝绿色野花，看起来很漂亮。</RG_Plant_Dervish.description>
+  
+  <!-- EN: swamp pod -->
+  <RG_Plant_SwampPod.label>沼泽荚苞</RG_Plant_SwampPod.label>
+  <!-- EN: A small mushroom like plant that looks similar to an eye with a hard shell. It can only be found in swamps. -->
+  <RG_Plant_SwampPod.description>看起来就像包裹在坚硬外壳里的眼睛一样的小型菌状植物。只能在沼泽地区中生长。</RG_Plant_SwampPod.description>
+  
+  <!-- EN: willow tree -->
+  <RG_Plant_TreeWhiteWillow.label>柳树</RG_Plant_TreeWhiteWillow.label>
+  <!-- EN: A genetically modified version of the common willow. Provides a beautiful, leafy canopy in white. It doesn't yield much usable wood. -->
+  <RG_Plant_TreeWhiteWillow.description>经过基因工程改造的柳树，有着美观而又苍翠的树冠。不会产生很多有用的木材。</RG_Plant_TreeWhiteWillow.description>
+  
+  <!-- EN: Sychi cap -->
+  <RG_SychiCap.label>红伞菌</RG_SychiCap.label>
+  <!-- EN: A small redish mushroom growing in clusters. It grows exclusively in cold bogs. -->
+  <RG_SychiCap.description>一种长成一小簇的红色蘑菇，味道不错。只能在寒带沼泽地区中生长。</RG_SychiCap.description>
+  
+</LanguageData>

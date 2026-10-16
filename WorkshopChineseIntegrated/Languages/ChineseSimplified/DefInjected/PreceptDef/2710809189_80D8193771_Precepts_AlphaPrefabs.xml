@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: easy -->
+  <AM_PrefabAcquisition_Easy.label>容易</AM_PrefabAcquisition_Easy.label>
+  <!-- EN: In a pioneering deal with orbital supply enterprises, our colony has secured lucrative contracts that extend beyond mere financial gains. Annually, as part of this groundbreaking alliance, these out-of-world companies generously provide our settlement with a supply of free prefabricated structures.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Will get a free prefab once a year, assuming the colony has the necessary research to build all its components. -->
+  <AM_PrefabAcquisition_Easy.description>通过与各大轨道贸易公司的探索协商，我们成功签下了一份不仅有经济利润可赚的优厚合同。作为新兴商业同盟守则的一部分，这些来自边缘世界外的公司每年都会慷慨地为我们的殖民地免费提供预制建筑。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民地每年都将免费获得一个随机的预制建筑箱（受研究项目完成程度限制）。</AM_PrefabAcquisition_Easy.description>
+  
+  <!-- EN: preferred -->
+  <AM_PrefabBuying_Preferred.label>喜好</AM_PrefabBuying_Preferred.label>
+  <!-- EN: Acquiring prefab structures from merchants is a good use of our money.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Provides a mood bonus when acquiring prefabs from merchants. This only applies to trading them, not buying them from the prefab catalog. -->
+  <AM_PrefabBuying_Preferred.description>方便快捷的预制建筑值得我们花钱从商人那里购置。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民者从商人处购买预制建筑后将获得心情增益。此效果不适用于预制建筑终端。</AM_PrefabBuying_Preferred.description>
+  
+</LanguageData>

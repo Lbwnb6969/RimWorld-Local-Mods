@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Signs -->
+
+  <Mewn_Sign_Bed.label>旅馆标志</Mewn_Sign_Bed.label>
+  <Mewn_Sign_Bed.description>描述房间用途的悬挂式标志牌。</Mewn_Sign_Bed.description>
+
+  <Mewn_Sign_Moon.label>住宿标志</Mewn_Sign_Moon.label>
+  <Mewn_Sign_Moon.description>描述房间用途的悬挂式标志牌。</Mewn_Sign_Moon.description>
+
+  <Mewn_Sign_Swords.label>装备店标志</Mewn_Sign_Swords.label>
+  <Mewn_Sign_Swords.description>描述房间用途的悬挂式标志牌。</Mewn_Sign_Swords.description>
+
+  <Mewn_Sign_Horseshoe.label>马厩标志</Mewn_Sign_Horseshoe.label>
+  <Mewn_Sign_Horseshoe.description>描述房间用途的悬挂式标志牌。</Mewn_Sign_Horseshoe.description>
+
+  <Mewn_Sign_Scales.label>交易所标志</Mewn_Sign_Scales.label>
+  <Mewn_Sign_Scales.description>描述房间用途的悬挂式标志牌。</Mewn_Sign_Scales.description>
+
+  <Mewn_Sign_Scroll.label>魔具店标志</Mewn_Sign_Scroll.label>
+  <Mewn_Sign_Scroll.description>描述房间用途的悬挂式标志牌。</Mewn_Sign_Scroll.description>
+
+  <Mewn_Sign_Bow.label>弓具店标志</Mewn_Sign_Bow.label>
+  <Mewn_Sign_Bow.description>描述房间用途的悬挂式标志牌。</Mewn_Sign_Bow.description>
+
+  <Mewn_Sign_Quarry.label>采石场标志</Mewn_Sign_Quarry.label>
+  <Mewn_Sign_Quarry.description>描述房间用途的悬挂式标志牌。</Mewn_Sign_Quarry.description>
+
+</LanguageData>

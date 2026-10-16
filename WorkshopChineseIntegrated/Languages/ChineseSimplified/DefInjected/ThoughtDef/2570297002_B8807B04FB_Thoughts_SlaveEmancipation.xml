@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amazing slave emancipation -->
+  <VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.label>令人惊异的奴隶解放</VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.label>
+  <!-- EN: Legends will be told about our leader's speech, and how those words will resonate in the future, elevating the cause of emancipation. -->
+  <VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.description>那次奴隶解放令人惊异！我们领袖的演讲将成为历史传奇，这些话将在未来会产生共鸣，并促进我们的解放事业发扬光大。参与的奴隶必定会加入我们的殖民地。</VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.description>
+  
+  <!-- EN: demagogic slave emancipation -->
+  <VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.label>蛊惑人心的奴隶解放</VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.label>
+  <!-- EN: We ended up looking as the evil guys here... With such a display, it's unlikely anyone will freely want to join the colony. -->
+  <VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.description>那次奴隶解放像是在蛊惑人心！我们最终表现得像一群邪教徒...由于这样的表现，不太可能有人自愿加入我们的殖民地。</VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.description>
+  
+  <!-- EN: freethinking slave emancipation -->
+  <VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.label>思想自由的奴隶解放</VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.label>
+  <!-- EN: Our leader's speech was clear and succint, explaining all the evils of slavery in a concise way. -->
+  <VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.description>那次奴隶解放令人感到思想自由的重要性。我们领袖的演讲精简干练，简明扼要地解释了奴隶制的所有罪恶。参与的奴隶有25%的几率会加入我们的殖民地。</VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.description>
+  
+  <!-- EN: liberating slave emancipation -->
+  <VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.label>身体力行的奴隶解放</VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.label>
+  <!-- EN: Our leader's speech was a masterclass in extolling the virtues of a free society, liberated for the shackles of slavery. -->
+  <VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.description>那次奴隶解放令人感到解放主义的优越性。我们领袖的演讲对摆脱了奴隶制枷锁的自由社会和美德进行了一次大师级的颂扬。参与的奴隶有75%的几率会加入我们的殖民地。</VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.description>
+  
+  <!-- EN: unshackling slave emancipation -->
+  <VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.label>思想解放的奴隶解放</VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.label>
+  <!-- EN: Our leader's speech was very inspiring, detailing all the evils caused by slavery and the immense advantages of a free society. -->
+  <VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.description>那次奴隶解放令人感到解放他人的重要性。我们领袖的演讲鼓舞人心，详述了奴隶制造成的所有罪恶和自由社会的巨大好处。参与的奴隶有50%的几率会加入我们的殖民地。</VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.description>
+  
+</LanguageData>

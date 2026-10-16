@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_Allspice.label>多香果</VCE_Allspice.label>
+  <VCE_Allspice.description>一种奇怪又难吃的绿色果实，长在多叶的藤蔓上。当被碾磨时果实会有一种香辣的味道，可以用来给菜品调味。</VCE_Allspice.description>
+  <VCE_Soybean.label>大豆</VCE_Soybean.label>
+  <VCE_Soybean.description>有多种用途的可食用豆类植物。大豆生长很快但是对温度非常敏感，最佳生长环境是20至30 °C（68至86 °F）。在理想温度以外会大大减少生长速度。</VCE_Soybean.description>
+  <VCE_Wasabi.label>山葵</VCE_Wasabi.label>
+  <VCE_Wasabi.description>辣根科植物。其根部磨成的末可以用来调味寿司和其它食物。其辣味主要刺激呼吸道而不是舌头。山葵种植非常困难，因为它对温度和湿度的要求都及其高。如果半径6格内有少于20格水的话生长速度会变慢。</VCE_Wasabi.description>
+</LanguageData>

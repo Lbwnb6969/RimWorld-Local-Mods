@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lion pelt -->
+  <AEXP_Leather_Lion.label>狮子皮</AEXP_Leather_Lion.label>
+  <!-- EN: A strong, luxurious leather of the leader of the animal kingdom. Often sought after by urbworld philanthropists. -->
+  <AEXP_Leather_Lion.description>百兽之王坚韧且奢华的皮，很受都市世界慈善家们的喜爱。</AEXP_Leather_Lion.description>
+  <AEXP_Leather_Lion.stuffProps.stuffAdjective>狮子皮</AEXP_Leather_Lion.stuffProps.stuffAdjective>
+  
+  <!-- EN: platypus leather -->
+  <AEXP_Leather_Platypus.label>鸭嘴兽皮</AEXP_Leather_Platypus.label>
+  <!-- EN: Platypus fur was considered a valuable commodity in the days of old Terra, a fact that almost drove the Platypus to extinction. Luckily, the animal was protected and thrived again. -->
+  <AEXP_Leather_Platypus.description>鸭嘴兽通身长满柔软的皮毛，像一层上好的防水衣。因为其皮毛的良好性能，它们被人类大量捕杀，面临着灭绝的危机。已被列入保护动物。</AEXP_Leather_Platypus.description>
+  <AEXP_Leather_Platypus.stuffProps.stuffAdjective>鸭嘴兽皮</AEXP_Leather_Platypus.stuffProps.stuffAdjective>
+  
+  <!-- EN: wildebeest pelt -->
+  <AEXP_Leather_Wildebeest.label>牛羚皮</AEXP_Leather_Wildebeest.label>
+  <!-- EN: A thick but crumbly wildebeest fur and leather. Whilst it provides some degree of damage protection, the overall longevity of the item decreases. -->
+  <AEXP_Leather_Wildebeest.description>这种皮毛虽然厚，但比较脆。虽然能提供一定防护效果，但使用寿命相对短。</AEXP_Leather_Wildebeest.description>
+  <AEXP_Leather_Wildebeest.stuffProps.stuffAdjective>牛羚皮</AEXP_Leather_Wildebeest.stuffProps.stuffAdjective>
+  
+  <!-- EN: camel wool -->
+  <WoolCamel.label>骆驼毛</WoolCamel.label>
+  <!-- EN: Camel's wool. It provides good insulation from heat. -->
+  <WoolCamel.description>骆驼的毛。隔热能力出色。</WoolCamel.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hibernation spot -->
+  <O21_HibernationSpot.label>休眠点</O21_HibernationSpot.label>
+  <!-- EN: Designated location for pawns that have an energy need to hibernate in for conserving power, they will not leave until instructed. -->
+  <O21_HibernationSpot.description>为有能量需求的单位指定一个休眠保存能量的位置。在得到其它指示前这些单位不会离开。</O21_HibernationSpot.description>
+  
+</LanguageData>

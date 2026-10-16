@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unfinished chapter material -->
+  <BEWH_UnfinishedChapterMaterial.label>军团材料（未完成）</BEWH_UnfinishedChapterMaterial.label>
+  <!-- EN: An unfinished chapter material. -->
+  <BEWH_UnfinishedChapterMaterial.description>未完成的军团材料。</BEWH_UnfinishedChapterMaterial.description>
+  
+  <!-- EN: unfinished gene matrix -->
+  <BEWH_UnfinishedGeneMatrix.label>基因矩阵（未完成）</BEWH_UnfinishedGeneMatrix.label>
+  <!-- EN: An unfinished gene matrix. -->
+  <BEWH_UnfinishedGeneMatrix.description>未完成的基因矩阵。</BEWH_UnfinishedGeneMatrix.description>
+  
+  <!-- EN: unfinished gestation slurry -->
+  <BEWH_UnfinishedGestationSlurry.label>培育液（未完成）</BEWH_UnfinishedGestationSlurry.label>
+  <!-- EN: An unfinished gestation slurry. -->
+  <BEWH_UnfinishedGestationSlurry.description>未完成的培育液。</BEWH_UnfinishedGestationSlurry.description>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_MercenaryStart.label>战场兄弟</DankPyon_MercenaryStart.label>
+  <DankPyon_MercenaryStart.description>你的主人—那位只要还能掏得出钱，你们就会永远为之效忠的主人—意外地在一场短暂的战斗中倒下了。你们因此解除了守誓者的身分，并前往邻近的城镇寻找下一个获得银子和声誉的机会，但却失望地发现那不过是个和平的定居点，满是不用一天就能完成的小小委託。\n\n这些并无法满足你们对过往生活的渴望，于是你和你的伙伴们决定先在荒野中定居，希望有一天能发家致富，重现昔日的辉煌。</DankPyon_MercenaryStart.description>
+  <DankPyon_MercenaryStart.scenario.name>战场兄弟</DankPyon_MercenaryStart.scenario.name>
+  <DankPyon_MercenaryStart.scenario.summary>五名坚强的战士重拾昔日的荣耀。</DankPyon_MercenaryStart.scenario.summary>
+  <DankPyon_MercenaryStart.scenario.description>你的主人—那位只要还能掏得出钱，你们就会永远为之效忠的主人—意外地在一场短暂的战斗中倒下了。你们因此解除了守誓者的身分，并前往邻近的城镇寻找下一个获得银子和声誉的机会，但却失望地发现那不过是个和平的定居点，满是不用一天就能完成的小小委託。\n\n这些并无法满足你们对过往生活的渴望，于是你和你的伙伴们决定先在荒野中定居，希望有一天能发家致富，重现昔日的辉煌。</DankPyon_MercenaryStart.scenario.description>
+  <DankPyon_MercenaryStart.scenario.parts.13.text>你和你的伙伴们找到了一处还算宜居的荒野。\n\n确保食物的来源和最基本的防御，能帮助你们至少先存活下来。</DankPyon_MercenaryStart.scenario.parts.13.text>
+  <DankPyon_MercenaryStart.scenario.parts.VFEC_AddStartingStructure.structureLabel>一座毁坏的城堡</DankPyon_MercenaryStart.scenario.parts.VFEC_AddStartingStructure.structureLabel>
+
+</LanguageData>

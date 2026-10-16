@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite bridge -->
+  <VFEArch_BridgeGranite.label>花岗岩桥梁</VFEArch_BridgeGranite.label>
+  <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes.\n	\nCan be made out of any stone blocks. -->
+  <VFEArch_BridgeGranite.description>石桥是可以建在水上的结构。桥梁允许在水上更快速地移动。一旦建成便可以支撑许多结构，包括重型建筑和各种墙。桥梁可以在沼泽地区建造。\n\n可以用任何种类的石砖进行建造。</VFEArch_BridgeGranite.description>
+  
+  <!-- EN: limestone bridge -->
+  <VFEArch_BridgeLimestone.label>石灰岩桥梁</VFEArch_BridgeLimestone.label>
+  <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes.\n	\nCan be made out of any stone blocks. -->
+  <VFEArch_BridgeLimestone.description>石桥是可以建在水上的结构。桥梁允许在水上更快速地移动。一旦建成便可以支撑许多结构，包括重型建筑和各种墙。桥梁可以在沼泽地区建造。\n\n可以用任何种类的石砖进行建造。</VFEArch_BridgeLimestone.description>
+  
+  <!-- EN: marble bridge -->
+  <VFEArch_BridgeMarble.label>大理石桥梁</VFEArch_BridgeMarble.label>
+  <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes.\n	\nCan be made out of any stone blocks. -->
+  <VFEArch_BridgeMarble.description>石桥是可以建在水上的结构。桥梁允许在水上更快速地移动。一旦建成便可以支撑许多结构，包括重型建筑和各种墙。桥梁可以在沼泽地区建造。\n\n可以用任何种类的石砖进行建造。</VFEArch_BridgeMarble.description>
+  
+  <!-- EN: sandstone bridge -->
+  <VFEArch_BridgeSandstone.label>砂岩桥梁</VFEArch_BridgeSandstone.label>
+  <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes.\n	\nCan be made out of any stone blocks. -->
+  <VFEArch_BridgeSandstone.description>石桥是可以建在水上的结构。桥梁允许在水上更快速地移动。一旦建成便可以支撑许多结构，包括重型建筑和各种墙。桥梁可以在沼泽地区建造。\n\n可以用任何种类的石砖进行建造。</VFEArch_BridgeSandstone.description>
+  
+  <!-- EN: slate bridge -->
+  <VFEArch_BridgeSlate.label>板岩桥梁</VFEArch_BridgeSlate.label>
+  <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes.\n	\nCan be made out of any stone blocks. -->
+  <VFEArch_BridgeSlate.description>石桥是可以建在水上的结构。桥梁允许在水上更快速地移动。一旦建成便可以支撑许多结构，包括重型建筑和各种墙。桥梁可以在沼泽地区建造。\n\n可以用任何种类的石砖进行建造。</VFEArch_BridgeSlate.description>
+  
+  <!-- EN: concrete foundation -->
+  <VFEArch_ConcreteFoundation.label>混凝土地基</VFEArch_ConcreteFoundation.label>
+  <!-- EN: Foundations are structures that can be built on mud, quicksand etc. Foundation allows more rapid movement across these normally slowing ground types. Once built, they can support many structures, including heavy structures and any other type of wall. Foundations allow for easier building in desert and swampy biomes. Floors cannot be built atop foundations. -->
+  <VFEArch_ConcreteFoundation.description>地基是可以建造在泥土、流沙等地形上面的结构。在难走的地形上铺设地基，任何生物都可以更快速地移动。一旦建成便可以支撑许多结构，包括重型建筑和各种墙。地基可以在沼泽地区和沙漠地区建造。</VFEArch_ConcreteFoundation.description>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drank psychite tea -->
+  <AM_DrankPsychiteTea.label>喝了精神茶</AM_DrankPsychiteTea.label>
+  
+  <!-- EN: drank specialty tea -->
+  <AM_DrankSpecialtyTea.label>喝了特制的茶</AM_DrankSpecialtyTea.label>
+  
+  <!-- EN: drank tea -->
+  <AM_DrankTea.label>喝了茶</AM_DrankTea.label>
+  
+</LanguageData>

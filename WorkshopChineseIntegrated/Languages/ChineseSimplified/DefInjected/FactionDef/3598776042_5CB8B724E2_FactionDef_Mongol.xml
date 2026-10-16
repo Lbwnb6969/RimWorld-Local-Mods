@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: the Mongols -->
+  <BA_Mongol_NobleHouse.label>蒙古人</BA_Mongol_NobleHouse.label>
+  <!-- EN: The Mongols are a force unlike any the world has seen — a people forged in the endless steppes of Central Asia, where survival depends on speed, skill, and unbreakable discipline. United under the iron will of their Great Khan, these nomadic warriors have transformed from scattered tribes into a storm that sweeps across continents. Their armies, built upon unmatched mobility, precise coordination, and ruthless efficiency, strike deep into enemy lands before vanishing back into the horizon.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: the Mongols</color></i> -->
+  <BA_Mongol_NobleHouse.description>蒙古人是世界上前所未见的力量——这个民族在中亚无垠的草原中淬炼而成，生存全凭速度、技艺与不可动摇的纪律。在大汗的铁腕意志下统一后，这些游牧战士从分散部落蜕变为席卷各大洲的风暴。他们的军队以无可匹敌的机动性、精准的协同作战和冷酷的效率为基石，深入敌境突袭后便消失于天际。</BA_Mongol_NobleHouse.description>
+  <!-- EN: Sky Father -->
+  <BA_Mongol_NobleHouse.deityPresets.0.nameType.type>天父</BA_Mongol_NobleHouse.deityPresets.0.nameType.type>
+  <!-- EN: the Mongols -->
+  <BA_Mongol_NobleHouse.fixedName>蒙古人</BA_Mongol_NobleHouse.fixedName>
+  <!-- EN: Tengrism (also known as Tengriism, Tengerism, or Tengrianism) is a belief system originating in the Eurasian steppes, based on shamanism and animism. It generally involves the titular sky god Tengri. According to some scholars, adherents of Tengrism view the purpose of life as to be in harmony with the universe. It was the prevailing religion of the Göktürk, Hun, Xianbei, Bulgar, Xiongnu, Yeniseian and Mongolic peoples, as well as the state religion of several medieval states such as the First Turkic Khaganate, the Western Turkic Khaganate, the Eastern Turkic Khaganate, Old Great Bulgaria, the First Bulgarian Empire, Volga Bulgaria, Khazaria, and the Mongol Empire. In the Irk Bitig, a ninth century manuscript on divination, Tengri is mentioned as Türük Tängrisi (God of Turks). According to many academics, Tengrism was, and to some extent still is, a predominantly polytheistic religion based on the shamanistic concept of animism, and was first influenced by monotheism during the imperial period, especially by the 12th–13th centuries. -->
+  <BA_Mongol_NobleHouse.ideoDescription>腾格里信仰（又称Tengriism、Tengerism或Tengrianism）是发源于欧亚草原的信仰体系，以萨满教和万物有灵论为基础。其核心通常是名为腾格里的天空神。部分学者认为，腾格里信仰的追随者将与宇宙和谐共处视为人生的目的。它曾是突厥、匈奴、鲜卑、保加尔、匈奴、叶尼塞及蒙古诸民族的主流信仰，也是突厥第一汗国、西突厥汗国、东突厥汗国、古大保加利亚、第一保加利亚帝国、伏尔加保加利亚、可萨汗国和蒙古帝国等多个中世纪国家的国教。在9世纪的占卜手稿《占卜书》（Irk Bitig）中，腾格里被称为“突厥人的腾格里”（Türük Tängrisi）。许多学者认为，腾格里信仰过去是、在某种程度上至今仍是以萨满教万物有灵论为核心的多神教，在帝国时期（尤其是12至13世纪）首次受到一神论的影响。</BA_Mongol_NobleHouse.ideoDescription>
+  <!-- EN: khan -->
+  <BA_Mongol_NobleHouse.leaderTitle>可汗</BA_Mongol_NobleHouse.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <BA_Mongol_NobleHouse.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</BA_Mongol_NobleHouse.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <BA_Mongol_NobleHouse.pawnSingular>臣民</BA_Mongol_NobleHouse.pawnSingular>
+  <!-- EN: subjects -->
+  <BA_Mongol_NobleHouse.pawnsPlural>臣民们</BA_Mongol_NobleHouse.pawnsPlural>
+  
+</LanguageData>

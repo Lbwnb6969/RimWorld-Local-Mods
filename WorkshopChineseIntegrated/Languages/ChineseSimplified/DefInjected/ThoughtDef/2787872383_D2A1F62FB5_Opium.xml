@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on opium -->
+  <VFEC_OpiumHigh.stages.high_on_opium.label>鸦片亢奋</VFEC_OpiumHigh.stages.high_on_opium.label>
+  <!-- EN: I feel no pain! Let's do this! -->
+  <VFEC_OpiumHigh.stages.high_on_opium.description>感觉飘飘欲仙！身上一点不适都没有了！</VFEC_OpiumHigh.stages.high_on_opium.description>
+  
+  <!-- EN: opium withdrawal -->
+  <VFEC_OpiumWithdrawal.stages.opium_withdrawal.label>鸦片戒断</VFEC_OpiumWithdrawal.stages.opium_withdrawal.label>
+  <!-- EN: I'm really tired. Everything's so dull and the pain is so intense. -->
+  <VFEC_OpiumWithdrawal.stages.opium_withdrawal.description>好累啊好累啊。感觉做什么事都没有意义，只感到身上到处在疼。</VFEC_OpiumWithdrawal.stages.opium_withdrawal.description>
+  
+</LanguageData>

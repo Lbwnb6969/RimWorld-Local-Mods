@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: siège de la dame -->
+  <RimJoust_ConsortSeat.label>配偶席位</RimJoust_ConsortSeat.label>
+  <!-- EN: Pose-le sur (ou juste devant) une belle chaise à côté du siège du seigneur. Au début du tournoi, l'époux ou l'épouse du seigneur vient s'y asseoir pour assister aux joutes à ses côtés. Poses-en plusieurs si le seigneur a plusieurs amours. Sans conjoint, le siège reste vide. -->
+  <RimJoust_ConsortSeat.description>将其放在领主座位旁边（或正前方）的一把漂亮椅子上。锦标赛开始时，领主的配偶会过来坐在那里，在领主身边观看比武。如果领主有多个爱人，可以放置多个。如果没有配偶，座位将空着。</RimJoust_ConsortSeat.description>
+  
+  <!-- EN: point des défunts -->
+  <RimJoust_DeadSpot.label>阵亡点</RimJoust_DeadSpot.label>
+  <!-- EN: Où les écuyers emmènent les chevaliers tués pendant le tournoi, pour pas les laisser traîner sur la lice. Mets des lits autour et l'écuyer ira y allonger le corps s'il y a de la place, sinon il le pose par terre à côté. Si t'en poses pas, les corps sont juste dégagés de la lice. -->
+  <RimJoust_DeadSpot.description>侍从将锦标赛中阵亡的骑士带到这里，以免他们留在赛道上。在周围放置床铺，侍从会将尸体抬到床上（如果有位置），否则放在旁边的地上。如果不放置此标记，尸体只会被从赛道搬走。</RimJoust_DeadSpot.description>
+  
+  <!-- EN: point des chevaux -->
+  <RimJoust_HorseSpot.label>栓马点</RimJoust_HorseSpot.label>
+  <!-- EN: Où les écuyers amènent les chevaux dont le cavalier s'est fait désarçonner, pour les attacher le temps du tournoi. Si tu veux, entoure-le de barrières avec un portail pour faire un vrai enclos. À la fin du tournoi les chevaux sont relâchés et retournent à leur enclos habituel. -->
+  <RimJoust_HorseSpot.description>侍从将骑手被掀翻的马匹带到这里，在锦标赛期间拴好。如果愿意，可以用带门的栅栏围起来，做成真正的围场。锦标赛结束后，马匹会被释放，返回它们通常的围场。</RimJoust_HorseSpot.description>
+  
+  <!-- EN: poste de chevalier -->
+  <RimJoust_KnightPost.label>骑士站位</RimJoust_KnightPost.label>
+  <!-- EN: Un point au sol où un chevalier attend son tour. Pendant le tournoi ils viennent se mettre là, près de la lice, avant d'aller jouter. Pose-en un par participant. Si t'en mets pas, ils se placent tout seuls. -->
+  <RimJoust_KnightPost.description>骑士等待上场的地面标记。锦标赛期间，他们会来到赛道附近的位置，然后上场比武。每位参赛者放置一个。如果不放置，他们会自行站位。</RimJoust_KnightPost.description>
+  
+  <!-- EN: siège du seigneur -->
+  <RimJoust_LordSeat.label>领主席位</RimJoust_LordSeat.label>
+  <!-- EN: Pose-le sur (ou juste devant) un trône ou une belle chaise face à la lice. Au début du tournoi, le colon le plus prestigieux vient s'y asseoir, les chevaliers se présentent en ligne devant lui, et le tournoi s'ouvre en son honneur. Sans siège posé, pas de cérémonie d'ouverture. -->
+  <RimJoust_LordSeat.description>将其放在面对赛道的王座或漂亮椅子上（或正前方）。锦标赛开始时，最有声望的殖民者会过来坐下，骑士们在他面前列队致意，锦标赛以他的名义开幕。不放置座位，就没有开幕仪式。</RimJoust_LordSeat.description>
+  
+  <!-- EN: poste d'écuyer -->
+  <RimJoust_SquirePost.label>侍从站位</RimJoust_SquirePost.label>
+  <!-- EN: Là où se tient un écuyer. Les colons que tu désignes écuyers attendent ici, prêts à ramasser les chevaliers tombés et à les porter vers l'aire de récupération. À poser près de la lice. -->
+  <RimJoust_SquirePost.description>侍从等待的位置。你指定为侍从的殖民者在这里待命，准备拾取落马的骑士并抬往恢复区。放置在赛道附近。</RimJoust_SquirePost.description>
+  
+</LanguageData>

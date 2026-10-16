@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: craft draught -->
+  <VFEM2_DoBillsAlchemyTable.label>炼制灵药</VFEM2_DoBillsAlchemyTable.label>
+  <!-- EN: crafting draught at -->
+  <VFEM2_DoBillsAlchemyTable.gerund>炼制灵药于</VFEM2_DoBillsAlchemyTable.gerund>
+  <!-- EN: crafting draught -->
+  <VFEM2_DoBillsAlchemyTable.verb>炼制灵药</VFEM2_DoBillsAlchemyTable.verb>
+  
+  <!-- EN: craft draught -->
+  <VFEM2_DoBillsAlchemyTable_Electric.label>炼制灵药</VFEM2_DoBillsAlchemyTable_Electric.label>
+  <!-- EN: crafting draught at -->
+  <VFEM2_DoBillsAlchemyTable_Electric.gerund>炼制灵药于</VFEM2_DoBillsAlchemyTable_Electric.gerund>
+  <!-- EN: crafting draught -->
+  <VFEM2_DoBillsAlchemyTable_Electric.verb>炼制灵药</VFEM2_DoBillsAlchemyTable_Electric.verb>
+  
+  <!-- EN: take honey out of apiary -->
+  <VFEM2_TakeHoneyOutOfApiary.label>从蜂箱种取蜜</VFEM2_TakeHoneyOutOfApiary.label>
+  <!-- EN: taking honey from -->
+  <VFEM2_TakeHoneyOutOfApiary.gerund>取蜜于</VFEM2_TakeHoneyOutOfApiary.gerund>
+  <!-- EN: take honey -->
+  <VFEM2_TakeHoneyOutOfApiary.verb>取蜜</VFEM2_TakeHoneyOutOfApiary.verb>
+  
+  <!-- EN: tend to the apiary -->
+  <VFEM2_TendToTheApiary.label>照料蜂箱</VFEM2_TendToTheApiary.label>
+  <!-- EN: tend to -->
+  <VFEM2_TendToTheApiary.gerund>照料</VFEM2_TendToTheApiary.gerund>
+  <!-- EN: tend apiary -->
+  <VFEM2_TendToTheApiary.verb>照料蜂箱</VFEM2_TendToTheApiary.verb>
+  
+</LanguageData>

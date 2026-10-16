@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Shield.label>圆盾</DankPyon_Shield.label>
+  <DankPyon_Shield.description>一面圆形的盾牌，提供体面的覆盖和保护，防止物理打击。</DankPyon_Shield.description>
+  <DankPyon_Shield.tools.0.label>盾身</DankPyon_Shield.tools.0.label>
+  <DankPyon_Shield.tools.1.label>盾心</DankPyon_Shield.tools.1.label>
+
+  <DankPyon_ShieldKite.label>鸢盾</DankPyon_ShieldKite.label>
+  <DankPyon_ShieldKite.description>一面细长的盾牌，提供广泛的保护。对于近战来说有点笨重。</DankPyon_ShieldKite.description>
+  <DankPyon_ShieldKite.tools.0.label>盾身</DankPyon_ShieldKite.tools.0.label>
+  <DankPyon_ShieldKite.tools.1.label>盾心</DankPyon_ShieldKite.tools.1.label>
+
+  <DankPyon_ShieldHeater.label>斗盾</DankPyon_ShieldHeater.label>
+  <DankPyon_ShieldHeater.description>一面轻巧的三角形木质盾牌。</DankPyon_ShieldHeater.description>
+  <DankPyon_ShieldHeater.tools.0.label>盾身</DankPyon_ShieldHeater.tools.0.label>
+  <DankPyon_ShieldHeater.tools.1.label>盾心</DankPyon_ShieldHeater.tools.1.label>
+
+
+  <!-- Cant make the above as a parent because for some reason it inherits the offhand graphic data -->
+
+  <DankPyon_ShieldHeater_Amboise.label>斗盾(昂布瓦兹)</DankPyon_ShieldHeater_Amboise.label>
+  <DankPyon_ShieldHeater_Amboise.description>一面轻巧的三角形木质盾牌。\n\n这面斗盾上的颜色象征着昂布瓦兹家族。</DankPyon_ShieldHeater_Amboise.description>
+  <DankPyon_ShieldHeater_Amboise.tools.0.label>盾身</DankPyon_ShieldHeater_Amboise.tools.0.label>
+  <DankPyon_ShieldHeater_Amboise.tools.1.label>盾心</DankPyon_ShieldHeater_Amboise.tools.1.label>
+
+  <DankPyon_ShieldHeater_Soren.label>斗盾(索伦)</DankPyon_ShieldHeater_Soren.label>
+  <DankPyon_ShieldHeater_Soren.description>一面轻巧的三角形木质盾牌。\n\n这面斗盾上的颜色象征着索伦家族。</DankPyon_ShieldHeater_Soren.description>
+  <DankPyon_ShieldHeater_Soren.tools.0.label>盾身</DankPyon_ShieldHeater_Soren.tools.0.label>
+  <DankPyon_ShieldHeater_Soren.tools.1.label>盾心</DankPyon_ShieldHeater_Soren.tools.1.label>
+
+  <DankPyon_ShieldHeater_Oswin.label>斗盾(傲斯温)</DankPyon_ShieldHeater_Oswin.label>
+  <DankPyon_ShieldHeater_Oswin.description>一面轻巧的三角形木质盾牌。\n\n这面斗盾上的颜色象征着傲斯温家族。</DankPyon_ShieldHeater_Oswin.description>
+  <DankPyon_ShieldHeater_Oswin.tools.0.label>盾身</DankPyon_ShieldHeater_Oswin.tools.0.label>
+  <DankPyon_ShieldHeater_Oswin.tools.1.label>盾心</DankPyon_ShieldHeater_Oswin.tools.1.label>
+
+  <DankPyon_ShieldHeater_Hesse.label>斗盾(黑森)</DankPyon_ShieldHeater_Hesse.label>
+  <DankPyon_ShieldHeater_Hesse.description>一面轻巧的三角形木质盾牌。\n\n这面斗盾上的颜色象征着黑森家族。</DankPyon_ShieldHeater_Hesse.description>
+  <DankPyon_ShieldHeater_Hesse.tools.0.label>盾身</DankPyon_ShieldHeater_Hesse.tools.0.label>
+  <DankPyon_ShieldHeater_Hesse.tools.1.label>盾心</DankPyon_ShieldHeater_Hesse.tools.1.label>
+
+  <DankPyon_ShieldLiving.label>活树盾牌</DankPyon_ShieldLiving.label>
+  <DankPyon_ShieldLiving.description>由活树残骸雕刻而成的盾牌，受到损伤也能缓慢地自行修复。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这面盾牌的耐久度会随时间缓慢恢复。</DankPyon_ShieldLiving.description>
+  <DankPyon_ShieldLiving.tools.0.label>盾身</DankPyon_ShieldLiving.tools.0.label>
+  <DankPyon_ShieldLiving.tools.1.label>盾心</DankPyon_ShieldLiving.tools.1.label>
+
+  <DankPyon_ShieldLindwurm.label>林德虫盾牌</DankPyon_ShieldLindwurm.label>
+  <DankPyon_ShieldLindwurm.description>这面坚固的盾牌由林德虫闪闪发光的鳞片制成，可以抵挡林德虫的酸血，提供近乎坚不可摧的保护。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这面盾牌能使配戴者免疫林德虫酸蚀效果。</DankPyon_ShieldLindwurm.description>
+  <DankPyon_ShieldLindwurm.tools.0.label>盾身</DankPyon_ShieldLindwurm.tools.0.label>
+  <DankPyon_ShieldLindwurm.tools.1.label>盾心</DankPyon_ShieldLindwurm.tools.1.label>
+
+</LanguageData>

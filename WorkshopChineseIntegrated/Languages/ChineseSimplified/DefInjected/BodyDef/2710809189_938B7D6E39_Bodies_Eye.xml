@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: eye -->
+  <AM_EyeBody.label>眼球</AM_EyeBody.label>
+  <!-- EN: stomach pouch -->
+  <AM_EyeBody.corePart.parts.stomach_pouch.customLabel>胃袋</AM_EyeBody.corePart.parts.stomach_pouch.customLabel>
+  <!-- EN: gastrovascular cavity -->
+  <AM_EyeBody.corePart.parts.gastrovascular_cavity.customLabel>腔肠</AM_EyeBody.corePart.parts.gastrovascular_cavity.customLabel>
+  <!-- EN: eye -->
+  <AM_EyeBody.corePart.parts.Head.parts.eye.customLabel>巨眼</AM_EyeBody.corePart.parts.Head.parts.eye.customLabel>
+  <!-- EN: first tentacle -->
+  <AM_EyeBody.corePart.parts.first_tentacle.customLabel>第一触手</AM_EyeBody.corePart.parts.first_tentacle.customLabel>
+  <!-- EN: second tentacle -->
+  <AM_EyeBody.corePart.parts.second_tentacle.customLabel>第二触手</AM_EyeBody.corePart.parts.second_tentacle.customLabel>
+  <!-- EN: third tentacle -->
+  <AM_EyeBody.corePart.parts.third_tentacle.customLabel>第三触手</AM_EyeBody.corePart.parts.third_tentacle.customLabel>
+  
+</LanguageData>

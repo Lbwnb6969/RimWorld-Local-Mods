@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Fighter.degreeDatas.0.label>战士</DankPyon_Fighter.degreeDatas.0.label>
+  <DankPyon_Fighter.degreeDatas.0.description>[PAWN_nameDef]是一名强大的战士。[PAWN_pronoun]知道如何有效地使用武器并进行打击。</DankPyon_Fighter.degreeDatas.0.description>
+
+  <DankPyon_Veteran.degreeDatas.0.label>老将</DankPyon_Veteran.degreeDatas.0.label>
+  <DankPyon_Veteran.degreeDatas.0.description>[PAWN_nameDef]是一名老练的战士。[PAWN_pronoun]经历过无数场足以让普通人崩溃的恐怖战斗。</DankPyon_Veteran.degreeDatas.0.description>
+
+
+</LanguageData>

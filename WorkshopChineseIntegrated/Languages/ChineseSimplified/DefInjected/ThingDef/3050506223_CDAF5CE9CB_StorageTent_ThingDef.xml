@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Storage Tent -->
+  <ASF_StorageTent.label>储物帐篷</ASF_StorageTent.label>
+  <!-- EN: A tent that can store a variety of items. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nTotal Capacity: 27 Stacks -->
+  <ASF_StorageTent.description>用于储存各种物品的简易帐篷。存放在里面的物品永远不会老化，也不会影响周围环境的美观度。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：27组\n【可储存类型】：所有物品</ASF_StorageTent.description>
+  
+</LanguageData>

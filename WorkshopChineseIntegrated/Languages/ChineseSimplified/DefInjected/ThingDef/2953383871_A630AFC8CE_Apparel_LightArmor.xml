@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Apparel_Sackcloth.label>粗背心</DankPyon_Apparel_Sackcloth.label>
+  <DankPyon_Apparel_Sackcloth.description>一件用零碎的各种布料和皮革缝制而成的破烂衣服。</DankPyon_Apparel_Sackcloth.description>
+
+  <DankPyon_Apparel_Leather_Tunic.label>皮背心</DankPyon_Apparel_Leather_Tunic.label>
+  <DankPyon_Apparel_Leather_Tunic.description>这款简单的背心采用经过处理和鞣制的皮革缝制而成，既舒适又实用。厚实的皮革在保护和累赘之间取得了不错的平衡。</DankPyon_Apparel_Leather_Tunic.description>
+
+  <DankPyon_Apparel_Padded_Surcoat.label>衬垫内衫</DankPyon_Apparel_Padded_Surcoat.label>
+  <DankPyon_Apparel_Padded_Surcoat.description>一种布制无袖内衫，缝制方式类似于长袍，填充有厚羊毛。穿上时能提供额外的保护，但无法偏转盾牌下的矛刺。</DankPyon_Apparel_Padded_Surcoat.description>
+
+  <Dankpyon_Apparel_Gambeson.label>布甲内衣</Dankpyon_Apparel_Gambeson.label>
+  <Dankpyon_Apparel_Gambeson.description>一种轻便的防护服，上面舖有缝合紧密的亚麻布，中间夹有一层密实的填絮或羊毛填充物。相当保暖并提供良好的保护，防止割伤和冲击伤害。</Dankpyon_Apparel_Gambeson.description>
+
+  <DankPyon_Apparel_Padded_Leather.label>轻便衬垫皮甲</DankPyon_Apparel_Padded_Leather.label>
+  <DankPyon_Apparel_Padded_Leather.description>带衬垫的亚麻外衣采用锁片和重叠的鞣制皮革加固，以低成本提供轻便的身体保护。属于皮革背心的一种变体，不过带衬垫的皮甲覆盖的身体面积更广，因此更具保护性。</DankPyon_Apparel_Padded_Leather.description>
+
+  <DankPyon_Apparel_Light_Lamellar.label>轻便札甲</DankPyon_Apparel_Light_Lamellar.label>
+  <DankPyon_Apparel_Light_Lamellar.description>由重叠的长方形皮革板组成的皮革层状结构，可以提供大量保护。</DankPyon_Apparel_Light_Lamellar.description>
+
+
+</LanguageData>

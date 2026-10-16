@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blast off funeral -->
+  <AM_BlastOffFuneral.label>升空葬礼</AM_BlastOffFuneral.label>
+  <!-- EN: A gathering to witness our friend be sent off to the stars. -->
+  <AM_BlastOffFuneral.description>在指定地点处举行葬礼，以将死者送入星空中。</AM_BlastOffFuneral.description>
+  <!-- EN: {PAWN_nameDef} should be loaded into a transport pod and blasted off, so {PAWN_possessive} friends and family can move on. -->
+  <AM_BlastOffFuneral.extraTextPawnDeathLetter>{PAWN_nameDef}应当被装入运输舱并发射升空，这样{PAWN_possessive}朋友和家人才能了无牵挂地继续前行。</AM_BlastOffFuneral.extraTextPawnDeathLetter>
+  
+</LanguageData>

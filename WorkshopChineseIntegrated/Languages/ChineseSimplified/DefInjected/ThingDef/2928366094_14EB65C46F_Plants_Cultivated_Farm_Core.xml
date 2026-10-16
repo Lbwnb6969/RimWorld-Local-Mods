@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: berry bush -->
+  <RG_Plant_BerryCultivated.label>山莓丛</RG_Plant_BerryCultivated.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <RG_Plant_BerryCultivated.description>长有可以生吃的美味的蓝色浆果的灌木。</RG_Plant_BerryCultivated.description>
+  
+  <!-- EN: raspberry bush -->
+  <RG_Plant_RaspberryCultivated.label>树莓丛</RG_Plant_RaspberryCultivated.label>
+  <!-- EN: A bushy wild plant which yields delicious red berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <RG_Plant_RaspberryCultivated.description>长有可以生吃的美味的红色浆果的灌木。</RG_Plant_RaspberryCultivated.description>
+  
+</LanguageData>

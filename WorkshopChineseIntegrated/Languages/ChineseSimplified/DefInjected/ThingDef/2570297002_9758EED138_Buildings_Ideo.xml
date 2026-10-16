@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bonfire -->
+  <VME_Bonfire.label>大型篝火</VME_Bonfire.label>
+  <!-- EN: An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors. -->
+  <VME_Bonfire.description>规模庞大且十分明亮的篝火，由一堆精心摆放在石制基座上的木头组成。常被用于和火焰有关的仪式中，必须建造在户外才能使用。</VME_Bonfire.description>
+  
+  <!-- EN: bonfire -->
+  <VME_BonfireAfterRitual.label>大型篝火</VME_BonfireAfterRitual.label>
+  <!-- EN: An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors. Will last for at least two quadrums and provide beauty nearby, as well as count for the Fire: Desired precept. -->
+  <VME_BonfireAfterRitual.description>规模庞大且十分明亮的篝火，由一堆精心摆放在石制基座上的木头组成。常被用于和火焰有关的仪式中，必须建造在户外才能使用。能为周围提供美观度并满足火焰：渴望的戒律。</VME_BonfireAfterRitual.description>
+  
+  <!-- EN: insect nest -->
+  <VME_InsectNest.label>人工虫巢</VME_InsectNest.label>
+  <!-- EN: A large, swollen hive that seems to be seeping high amounts of bubbling insectoid jelly but not incubating any insectoids themselves.\n\nThe nest will need maintenance by a colonist with the insectoid herder role. If maintenance reaches 0%, the nest will be destroyed. -->
+  <VME_InsectNest.description>一个巨大臃肿的人工虫巢，内部满溢的虫胶似乎快要渗出来了。当然，人工虫巢不会孵化出任何虫族。\n\n人工虫巢需要拥有虫族护工职位的殖民者来维护。如果维护值达到0%，虫巢将会损坏。</VME_InsectNest.description>
+  
+  <!-- EN: mechanoid effigy -->
+  <VME_MechanoidEffigy.label>机械族雕像</VME_MechanoidEffigy.label>
+  <!-- EN: A structure assembled from scrapped mechanoid parts. Emits an IFF programming signal capable of confusing ancient mechanoid receptors. Should two exist per colonist enough signal noise will soft reset ancient mechanoid programming, causing an immediate retreat. -->
+  <VME_MechanoidEffigy.description>用报废的机械族部件组装成的装置，能够向外传播IFF(敌我识别)程式信号来“欺骗”机械族的接收器。如果雕像的数量超过殖民者人数的两倍，那么足量的干扰信号将会重置机械族的程序，使它们立即撤退。</VME_MechanoidEffigy.description>
+  
+  <!-- EN: ominous obelisk -->
+  <VME_Obelisk.label>不详方尖碑</VME_Obelisk.label>
+  <!-- EN: An ominous-looking obelisk of pure chiseled stone. It seems to radiate an aura of hopelessness and despair.\n\nThe Corruption need of any colonist in an obelisk's radius of effect won't decrease. -->
+  <VME_Obelisk.description>用精心切制的石砖打造出的方尖碑，通体散发着不详且绝望的气息。\n\n处于方尖碑作用范围内的任何殖民者的堕落需求都不会下降。</VME_Obelisk.description>
+  
+  <!-- EN: wicker man -->
+  <VME_WickerMan.label>柳条人</VME_WickerMan.label>
+  <!-- EN: A large humanoid figure made out of dry brush, thatch, and wood scraps. Prisoners have to be physically restrained to the figurine then burned alive as part of a trial or ritual. -->
+  <VME_WickerMan.description>用柳条、干草和碎木屑制成的巨大人形雕像。囚犯们必须被装进雕像里，作为审判或仪式的一部分而活活烧死。</VME_WickerMan.description>
+  
+</LanguageData>

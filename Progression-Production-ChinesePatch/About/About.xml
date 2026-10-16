@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Progression: Production - Simplified Chinese</name>
+  <author>Local translation patch</author>
+  <packageId>Local.Progression.Production.ChineseSimplified</packageId>
+  <supportedVersions><li>1.6</li>  <li>1.7</li>
+  </supportedVersions>
+  <description>Simplified Chinese translation for Progression: Production and its included compatibility entries.</description>
+  <modDependencies>
+    <li>
+      <packageId>ferny.progressionproduction</packageId>
+      <displayName>Progression: Production</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3453408412</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter><li>ferny.progressionproduction</li></loadAfter>
+</ModMetaData>

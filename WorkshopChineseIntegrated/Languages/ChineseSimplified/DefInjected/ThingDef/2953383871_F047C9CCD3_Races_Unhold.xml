@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Unhold.label>巨魔</DankPyon_Unhold.label>
+  <DankPyon_Unhold.description>巨魔是一种高大的生物，通常独来独往，善于猎杀任何让它中意的猎物。虽然巨魔可以在没有食物的情况下长时间存活，但它们是野外最贪婪的动物，经常吞下整只羊作为零食，并饮空池塘只为解一口渴。</DankPyon_Unhold.description>
+  <DankPyon_Unhold.race.meatLabel>巨魔肉</DankPyon_Unhold.race.meatLabel>
+  <DankPyon_Unhold.tools.left_claw.label>左爪</DankPyon_Unhold.tools.left_claw.label>
+  <DankPyon_Unhold.tools.left_claw.labelNoLocation>爪</DankPyon_Unhold.tools.left_claw.labelNoLocation>
+  <DankPyon_Unhold.tools.left_fist.label>左拳</DankPyon_Unhold.tools.left_fist.label>
+  <DankPyon_Unhold.tools.left_fist.labelNoLocation>拳</DankPyon_Unhold.tools.left_fist.labelNoLocation>
+  <DankPyon_Unhold.tools.right_claw.label>右爪</DankPyon_Unhold.tools.right_claw.label>
+  <DankPyon_Unhold.tools.right_claw.labelNoLocation>爪</DankPyon_Unhold.tools.right_claw.labelNoLocation>
+  <DankPyon_Unhold.tools.right_fist.label>右拳</DankPyon_Unhold.tools.right_fist.label>
+  <DankPyon_Unhold.tools.right_fist.labelNoLocation>拳</DankPyon_Unhold.tools.right_fist.labelNoLocation>
+  <DankPyon_Unhold.tools.teeth.label>獠牙</DankPyon_Unhold.tools.teeth.label>
+  <DankPyon_Unhold.tools.head.label>头</DankPyon_Unhold.tools.head.label>
+
+  <DankPyon_UnholdSnow.label>冰霜巨魔</DankPyon_UnholdSnow.label>
+  <DankPyon_UnholdSnow.description>巨魔的亚种，来自世界上最寒冷的地区，通常独来独往，善于猎杀任何让它中意的猎物。与在温暖气候生活的巨魔不同，这个亚种以其冰霜色皮毛极度优异的耐久性而闻名，它的毛皮几乎能抵抗除最锋利的钢刀以外的一切攻击。</DankPyon_UnholdSnow.description>
+  <DankPyon_UnholdSnow.tools.left_claw.label>左爪</DankPyon_UnholdSnow.tools.left_claw.label>
+  <DankPyon_UnholdSnow.tools.left_claw.labelNoLocation>爪</DankPyon_UnholdSnow.tools.left_claw.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.left_fist.label>左拳</DankPyon_UnholdSnow.tools.left_fist.label>
+  <DankPyon_UnholdSnow.tools.left_fist.labelNoLocation>拳</DankPyon_UnholdSnow.tools.left_fist.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.right_claw.label>右爪</DankPyon_UnholdSnow.tools.right_claw.label>
+  <DankPyon_UnholdSnow.tools.right_claw.labelNoLocation>爪</DankPyon_UnholdSnow.tools.right_claw.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.right_fist.label>右拳</DankPyon_UnholdSnow.tools.right_fist.label>
+  <DankPyon_UnholdSnow.tools.right_fist.labelNoLocation>拳</DankPyon_UnholdSnow.tools.right_fist.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.teeth.label>獠牙</DankPyon_UnholdSnow.tools.teeth.label>
+  <DankPyon_UnholdSnow.tools.head.label>头</DankPyon_UnholdSnow.tools.head.label>
+
+
+</LanguageData>

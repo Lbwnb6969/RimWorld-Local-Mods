@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Local_MastersArmorQuestName>questName-&gt;失落的帝国军械库</Local_MastersArmorQuestName>
+  <Local_MastersArmorQuestDescription>questDescription-&gt;残缺的记录揭示了[map_definite]附近一座封存的帝国军械库。尚存的遗物包括：\n\n[itemStashContents]\n\n该地点由[allSitePartsDescriptionsExceptFirst]守卫。这是一项只适合后期成熟殖民地的高难目标。</Local_MastersArmorQuestDescription>
+  <Local_MastersArmorQuestExpired>军械库已经被洗劫，所有遗物都已消失。</Local_MastersArmorQuestExpired>
+</LanguageData>

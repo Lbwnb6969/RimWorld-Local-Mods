@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: renommée de champion -->
+  <RimJoust_ChampionRenown.label>冠军威名</RimJoust_ChampionRenown.label>
+  <!-- EN: Ce chevalier a gagné le tournoi de joute et tout le monde le sait. Du coup on l'écoute mieux et il en impose. Ça dure un moment, puis ça retombe. -->
+  <RimJoust_ChampionRenown.description>这位骑士赢得了比武锦标赛，人尽皆知。因此他说的话更有分量，也更令人敬畏。这种效果会持续一段时间，然后逐渐消退。</RimJoust_ChampionRenown.description>
+  <!-- EN: une renommée de champion -->
+  <RimJoust_ChampionRenown.labelNoun>一项冠军威名</RimJoust_ChampionRenown.labelNoun>
+  
+  <!-- EN: chute brutale -->
+  <RimJoust_HardFall.label>猛烈坠马</RimJoust_HardFall.label>
+  <!-- EN: S'est pris une grosse chute du haut d'un cheval au galop. Il reste au sol assommé un moment, le temps qu'on vienne le ramasser, puis il se relève sonné et titubant, et traîne des courbatures pendant quelques heures. L'armure fait son travail : c'est spectaculaire, rarement grave. -->
+  <RimJoust_HardFall.description>从奔驰的骏马上重重摔下。他会晕倒在地，然后慢慢爬起来，头晕目眩、浑身酸痛。恢复时间因人而异：有的骑士两小时就能恢复，有的则几乎一整天都起不来。</RimJoust_HardFall.description>
+  <!-- EN: une chute brutale -->
+  <RimJoust_HardFall.labelNoun>一次猛烈坠马</RimJoust_HardFall.labelNoun>
+  <!-- EN: courbaturé -->
+  <RimJoust_HardFall.stages.courbatur.label>浑身酸痛</RimJoust_HardFall.stages.courbatur.label>
+  <!-- EN: sonné -->
+  <RimJoust_HardFall.stages.sonn.label>头晕目眩</RimJoust_HardFall.stages.sonn.label>
+  <!-- EN: au sol -->
+  <RimJoust_HardFall.stages.au_sol.label>倒地不起</RimJoust_HardFall.stages.au_sol.label>
+  
+  <!-- EN: monture de tournoi -->
+  <RimJoust_TourneyMount.label>锦标赛坐骑</RimJoust_TourneyMount.label>
+  <!-- EN: Ce cheval a été préparé pour la joute. Il charge à fond pendant la passe. -->
+  <RimJoust_TourneyMount.description>这匹马已为比武做好准备。它在冲刺时全力冲锋。</RimJoust_TourneyMount.description>
+  
+</LanguageData>

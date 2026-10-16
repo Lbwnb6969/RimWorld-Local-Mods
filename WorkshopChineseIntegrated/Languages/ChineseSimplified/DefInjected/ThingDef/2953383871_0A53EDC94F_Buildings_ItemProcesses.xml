@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dummy leather def for icon -->
+
+  <DankPyon_DummyLeather.label>皮革</DankPyon_DummyLeather.label>
+  <DankPyon_DummyLeather.description>经过鞣制、乾燥、刮制的皮。是传统工艺用来制作衣服和背包的优良材料。</DankPyon_DummyLeather.description>
+
+
+</LanguageData>

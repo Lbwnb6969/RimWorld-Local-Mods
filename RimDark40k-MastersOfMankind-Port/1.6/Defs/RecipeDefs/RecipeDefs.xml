@@ -1,0 +1,1436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Name="GW_Ruler_SwapVariantRecipeBase" Abstract="True">
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>Smelt</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>5000</workAmount>
+    <skillRequirements>
+      <Crafting>5</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapEmperorArmor</defName>
+    <label>make Emperor armor paintable</label>
+    <description>make Emperor armor paintable.</description>
+    <jobString>make Emperor armor paintable.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_EmperorArmor</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_EmperorArmor</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorArmorW>1</GW_Rulers_EmperorArmorW>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapEmperorArmorW</defName>
+    <label>pre-paint Emperor armor</label>
+    <description>pre-paint Emperor armor.</description>
+    <jobString>make Emperor armor pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_EmperorArmorW</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_EmperorArmorW</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorArmor>1</GW_Rulers_EmperorArmor>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapEmperorShoulder</defName>
+    <label>make Emperor shoulder paintable</label>
+    <description>make Emperor shoulder paintable.</description>
+    <jobString>make Emperor shoulder pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_EmperorShoulder</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_EmperorShoulder</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorShoulderW>1</GW_Rulers_EmperorShoulderW>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapEmperorShoulderW</defName>
+    <label>pre-paint Emperor shoulder</label>
+    <description>pre-paint Emperor shoulder.</description>
+    <jobString>make Emperor shoulder pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_EmperorShoulderW</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_EmperorShoulderW</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorShoulder>1</GW_Rulers_EmperorShoulder>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapEmperorCrown</defName>
+    <label>make Emperor crown paintable</label>
+    <description>make Emperor crown paintable.</description>
+    <jobString>make Emperor crown pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_EmperorHelmet</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_EmperorHelmet</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorHelmetW>1</GW_Rulers_EmperorHelmetW>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapEmperorCrownW</defName>
+    <label>pre-paint Emperor crown</label>
+    <description>pre-paint Emperor crown.</description>
+    <jobString>make Emperor crown pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_EmperorHelmetW</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_EmperorHelmetW</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorHelmet>1</GW_Rulers_EmperorHelmet>
+    </products>
+  </RecipeDef>
+  <!-- =========================== -->
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapValdorArmor</defName>
+    <label>make Valdor armor paintable</label>
+    <description>make Valdor armor paintable.</description>
+    <jobString>make Valdor armor paintable.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_ValdorArmor</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_ValdorArmor</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorArmorW>1</GW_Rulers_ValdorArmorW>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapValdorArmorW</defName>
+    <label>pre-paint Valdor armor</label>
+    <description>pre-paint Valdor armor.</description>
+    <jobString>make Valdor armor pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_ValdorArmorW</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_ValdorArmorW</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorArmor>1</GW_Rulers_ValdorArmor>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapValdorShoulder</defName>
+    <label>make Valdor shoulder paintable</label>
+    <description>make Valdor shoulder paintable.</description>
+    <jobString>make Valdor shoulder pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_ValdorShoulder</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_ValdorShoulder</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorShoulderW>1</GW_Rulers_ValdorShoulderW>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapValdorShoulderW</defName>
+    <label>pre-paint Valdor shoulder</label>
+    <description>pre-paint Valdor shoulder.</description>
+    <jobString>make Valdor shoulder pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_ValdorShoulderW</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_ValdorShoulderW</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorShoulder>1</GW_Rulers_ValdorShoulder>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapValdorHelmet</defName>
+    <label>make Valdor helmet paintable</label>
+    <description>make Valdor helmet paintable.</description>
+    <jobString>make Valdor helmet pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_ValdorHelmet</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_ValdorHelmet</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorHelmetW>1</GW_Rulers_ValdorHelmetW>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="GW_Ruler_SwapVariantRecipeBase">
+    <defName>GW_Ruler_SwapValdorHelmetW</defName>
+    <label>pre-paint Valdor helmet</label>
+    <description>pre-paint Valdor crown.</description>
+    <jobString>make Valdor crown pretty.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_Rulers_ValdorHelmetW</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GW_Rulers_ValdorHelmetW</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorHelmet>1</GW_Rulers_ValdorHelmet>
+    </products>
+  </RecipeDef>
+  <!-- Vulcan Autoforging Recipes -->
+  <RecipeDef>
+    <defName>Auto_GW_SM_Melee_EmperorClaw</defName>
+    <label>make emperor's claw</label>
+    <description>Make an emperor's claw.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>65</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>1600</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>562</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>440</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ComponentSpacer</li>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_SM_Melee_EmperorClaw>1</GW_SM_Melee_EmperorClaw>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+      <Intellectual>15</Intellectual>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_SM_Melee_ValdorSpear</defName>
+    <label>make apollonian spear</label>
+    <description>Make an apollonian spear.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>49</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>2300</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>5120</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>440</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ComponentSpacer</li>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_SM_Melee_ValdorSpear>1</GW_SM_Melee_ValdorSpear>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+      <Intellectual>15</Intellectual>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_SM_Melee_MalcadorStaff</defName>
+    <label>make staff of malcador</label>
+    <description>Make a staff of malcador.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>27</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>500</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>450</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>415</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ComponentSpacer</li>
+        <li>Plasteel</li>
+        <li>Steel</li>
+        <li>Gold</li>
+        <li>WoodLog</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_SM_Melee_MalcadorStaff>1</GW_SM_Melee_MalcadorStaff>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+      <Intellectual>15</Intellectual>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_EmperorRightHand</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_EmperorArmorW</defName>
+    <label>make emperor armor(W)</label>
+    <description>Make a emperor armor(W).</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>350</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>72</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>50</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>18</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorArmorW>1</GW_Rulers_EmperorArmorW>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+      <Intellectual>15</Intellectual>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_EmperorArmor</defName>
+    <label>make emperor armor</label>
+    <description>Make a emperor armor.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>350</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>72</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>50</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>18</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorArmor>1</GW_Rulers_EmperorArmor>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+      <Intellectual>15</Intellectual>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_ValdorArmorW</defName>
+    <label>make valdor armor(W)</label>
+    <description>Make a valdor armor(W).</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>360</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>72</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>55</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>18</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorArmorW>1</GW_Rulers_ValdorArmorW>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+      <Intellectual>15</Intellectual>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_ValdorArmor</defName>
+    <label>make valdor armor</label>
+    <description>Make a valdor armor.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>360</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>72</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>55</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>18</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorArmor>1</GW_Rulers_ValdorArmor>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+      <Intellectual>15</Intellectual>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_MalcadorOutfit</defName>
+    <label>make malcador armor</label>
+    <description>Make a malcador armor.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Hyperweave</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>60</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>40</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>90</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>14</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Hyperweave</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+        <li>Plasteel</li>
+        <li>ComponentSpacer</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_MalcadorOutfit>1</GW_Rulers_MalcadorOutfit>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+      <Intellectual>15</Intellectual>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_EmperorRightHand</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_EmperorHelmetW</defName>
+    <label>make emperor laurels (W)</label>
+    <description>Make a emperor laurels (W).</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>205</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>180</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorHelmetW>1</GW_Rulers_EmperorHelmetW>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_EmperorHelmet</defName>
+    <label>make emperor laurels</label>
+    <description>Make a emperor laurels.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>205</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>170</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorHelmet>1</GW_Rulers_EmperorHelmet>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_ValdorHelmetW</defName>
+    <label>make valdor helmet(W)</label>
+    <description>Make a valdor helmet(W).</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>70</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>205</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Gold</li>
+        <li>Plasteel</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorHelmetW>1</GW_Rulers_ValdorHelmetW>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_ValdorHelmet</defName>
+    <label>make valdor helmet</label>
+    <description>Make a valdor helmet.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>70</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>205</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Gold</li>
+        <li>Plasteel</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorHelmet>1</GW_Rulers_ValdorHelmet>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_MalcadorHelmet</defName>
+    <label>make malcador helmet</label>
+    <description>Make a malcador helmet.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>64</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Hyperweave</li>
+          </thingDefs>
+        </filter>
+        <count>80</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Hyperweave</li>
+        <li>ComponentSpacer</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_MalcadorHelmet>1</GW_Rulers_MalcadorHelmet>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_EmperorRightHand</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_EmperorShoulderW</defName>
+    <label>make emperor shoulder(W)</label>
+    <description>Make a emperor shoulder(W).</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>360</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>162</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorShoulderW>1</GW_Rulers_EmperorShoulderW>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_EmperorShoulder</defName>
+    <label>make emperor shoulder</label>
+    <description>Make a emperor shoulder.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>360</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>162</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_EmperorShoulder>1</GW_Rulers_EmperorShoulder>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_ValdorShoulderW</defName>
+    <label>make valdor's shoulder(W)</label>
+    <description>Make a valdor's shoulder(W).</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>370</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>140</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Skull</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+        <li>Skull</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorShoulderW>1</GW_Rulers_ValdorShoulderW>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Auto_GW_Rulers_ValdorShoulder</defName>
+    <label>make valdor's shoulder</label>
+    <description>Make a valdor's shoulder.</description>
+    <jobString>loading autoforge.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <!-- <effectWorking>Cook</effectWorking> -->
+    <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+    <workAmount>1800</workAmount>
+    <!-- <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef> -->
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>370</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>140</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Skull</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>Gold</li>
+        <li>Uranium</li>
+        <li>Skull</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <GW_Rulers_ValdorShoulder>1</GW_Rulers_ValdorShoulder>
+    </products>
+    <skillRequirements>
+      <Crafting>20</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <!-- <displayPriority>0</displayPriority> -->
+    <formingTicks>120000</formingTicks>
+    <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite>
+    <recipeUsers>
+      <li>GW_Autoforge</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

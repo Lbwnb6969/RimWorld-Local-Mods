@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 4-pounder cannon -->
+  <TA_FourPounderCannon_Gun.label>4磅野战炮</TA_FourPounderCannon_Gun.label>
+  <!-- EN: 4-pounder cannon mounted on a carriage. -->
+  <TA_FourPounderCannon_Gun.description>安装在炮架上的4磅野战炮。</TA_FourPounderCannon_Gun.description>
+  <!-- EN: 4-pounder cannon -->
+  <TA_FourPounderCannon_Gun.verbs.Verb_ShootCE.label>4磅野战炮射击</TA_FourPounderCannon_Gun.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: 4 pounder cannon -->
+  <TA_FourPounderCannon_Turret.label>4磅轻型野战炮</TA_FourPounderCannon_Turret.label>
+  <!-- EN: 4-pounder light field cannon mounted on a carriage. -->
+  <TA_FourPounderCannon_Turret.description>安装在炮架上的4磅轻型野战炮。</TA_FourPounderCannon_Turret.description>
+  
+</LanguageData>

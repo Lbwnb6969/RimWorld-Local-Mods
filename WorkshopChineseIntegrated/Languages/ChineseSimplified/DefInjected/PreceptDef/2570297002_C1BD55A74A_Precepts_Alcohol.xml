@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: demanded -->
+  <VME_Alcohol_Demanded.label>渴望</VME_Alcohol_Demanded.label>
+  <!-- EN: Spirits, booze, sauce, whatever you call it, we desire it. At least an occasional drink should be encouraged and we shouldn’t even think of sobriety. -->
+  <VME_Alcohol_Demanded.description>无论是烈酒、啤酒还是其他酒精饮料，我们都来者不拒。酒精即是生活，我们不醉不归！</VME_Alcohol_Demanded.description>
+  <!-- EN: Missing alcohol (3 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>缺少酒饮（3天）</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: No alcohol (5 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>没有酒饮（5天）</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Needs alcohol (10 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>需求酒饮（10天）</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Craves alcohol (15 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>想要酒饮（15天）</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Demands alcohol (30 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>渴求酒饮（30天）</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>
+  
+  <!-- EN: desired -->
+  <VME_Alcohol_Desired.label>需求</VME_Alcohol_Desired.label>
+  <!-- EN: Drinking is just plain fun, though not in excess. -->
+  <VME_Alcohol_Desired.description>饮酒虽好，可不要贪杯。</VME_Alcohol_Desired.description>
+  <!-- EN: Missing alcohol (3 days) -->
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>缺少酒饮（3天）</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Desiring a drink (5 days) -->
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>需求酒饮（5天）</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Wanting a drink (10 days or more) -->
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>想要酒饮（10天以上）</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>
+  
+  <!-- EN: mild abstinence -->
+  <VME_Alcohol_MildAbstinence.label>节制（轻度）</VME_Alcohol_MildAbstinence.label>
+  <!-- EN: Alcohol is okay when consumed in small dosages, but it is better to stay away from it as long as possible. -->
+  <VME_Alcohol_MildAbstinence.description>小斟两杯未尝不可，但为了身体健康，我们最好还是要远离酒精。</VME_Alcohol_MildAbstinence.description>
+  <!-- EN: Consumed alcohol -->
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>喝酒</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Abstained from alcohol -->
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>戒酒</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>
+  
+</LanguageData>

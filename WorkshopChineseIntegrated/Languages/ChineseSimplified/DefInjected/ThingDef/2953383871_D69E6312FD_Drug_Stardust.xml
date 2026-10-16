@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Stardust.label>星尘粉</DankPyon_Stardust.label>
+  <DankPyon_Stardust.description>一种能赋予集中力的强效魔法药，由梦魇的残骸和扭曲心智的花朵所制成，透过鼻腔吸入这种物质，可以立即获得大量精神力并大幅提高冥想专注力。星尘粉还能产生兴奋效果，减少吸入者的睡眠需求。\n\n然而，务必小心，这种粉末同时也会放大痛苦，并容易使心灵像脱缰野马一般失去控制。</DankPyon_Stardust.description>
+  <DankPyon_Stardust.ingestible.ingestCommandString>吸食{0}</DankPyon_Stardust.ingestible.ingestCommandString>
+  <DankPyon_Stardust.ingestible.ingestReportString>正在吸食{0}。</DankPyon_Stardust.ingestible.ingestReportString>
+
+
+</LanguageData>

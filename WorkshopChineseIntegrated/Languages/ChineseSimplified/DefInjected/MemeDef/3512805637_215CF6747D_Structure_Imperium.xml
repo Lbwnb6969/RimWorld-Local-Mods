@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Imperium of Mankind -->
+  <BEWH_ImperialStructure.label>人类帝国</BEWH_ImperialStructure.label>
+  <!-- EN: The Emperor of Mankind, often referred to by His faithful as the "God-Emperor" or simply "The Emperor", is the immortal Perpetual and psyker who serves as the reigning monarch of the Imperium of Man, and is described by the Imperial Ecclesiarchy and Cult Imperialis as the Father, Guardian and God of Humanity. -->
+  <BEWH_ImperialStructure.description>人类帝皇，常被其信徒尊称为“神皇”或简称为“帝皇”，是一位不朽的永生者与灵能者，担任人类帝国的统治君主，并被国教与帝国教廷奉为人类之父、守护者与神明。</BEWH_ImperialStructure.description>
+  <!-- EN:
+    <li>memeAdjective->faithful</li>
+    <li>memeAdjective->loyalist</li>
+    <li>memeLeaderNoun->chapter master</li>
+    <li>memeMoralist->chaplain</li>
+  -->
+  <BEWH_ImperialStructure.generalRules.rulesStrings>
+    <li>memeAdjective->虔诚的</li>
+    <li>memeAdjective->忠诚的</li>
+    <li>memeLeaderNoun->战团长</li>
+    <li>memeMoralist->牧师</li>
+  </BEWH_ImperialStructure.generalRules.rulesStrings>
+  <!-- EN: imperialistic -->
+  <BEWH_ImperialStructure.symbolPacks.0.adjective>帝国的</BEWH_ImperialStructure.symbolPacks.0.adjective>
+  <!-- EN: Imperial -->
+  <BEWH_ImperialStructure.symbolPacks.0.ideoName>帝国</BEWH_ImperialStructure.symbolPacks.0.ideoName>
+  <!-- EN: imperial -->
+  <BEWH_ImperialStructure.symbolPacks.0.member>帝国人</BEWH_ImperialStructure.symbolPacks.0.member>
+  <!-- EN: faith -->
+  <BEWH_ImperialStructure.symbolPacks.0.theme>信仰</BEWH_ImperialStructure.symbolPacks.0.theme>
+  <!-- EN: loyal -->
+  <BEWH_ImperialStructure.symbolPacks.1.adjective>忠诚的</BEWH_ImperialStructure.symbolPacks.1.adjective>
+  <!-- EN: Imperial Cult -->
+  <BEWH_ImperialStructure.symbolPacks.1.ideoName>帝国国教</BEWH_ImperialStructure.symbolPacks.1.ideoName>
+  <!-- EN: loyalist -->
+  <BEWH_ImperialStructure.symbolPacks.1.member>忠诚派</BEWH_ImperialStructure.symbolPacks.1.member>
+  <!-- EN: loyal -->
+  <BEWH_ImperialStructure.symbolPacks.1.theme>忠诚</BEWH_ImperialStructure.symbolPacks.1.theme>
+  <!-- EN: Chapter Hall -->
+  <BEWH_ImperialStructure.worshipRoomLabel>战团圣所</BEWH_ImperialStructure.worshipRoomLabel>
+  
+</LanguageData>

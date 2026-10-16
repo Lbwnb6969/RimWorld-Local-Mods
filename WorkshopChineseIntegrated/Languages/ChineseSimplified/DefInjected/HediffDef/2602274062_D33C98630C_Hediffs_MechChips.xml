@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EXT1 Artillary -->
+  <CAEXT1Artillary.label>EXT1 重炮工厂</CAEXT1Artillary.label>
+  <!-- EN: Enables machines to use advanced combat logic depending on the version, connect to dormant networks and utilize a set of terrifying abilities. -->
+  <CAEXT1Artillary.description>依据机械体的型号所启用的高级战斗逻辑程序，通过链接至已休眠的机械体网络来加载一系列令人闻风丧胆的可怕能力。</CAEXT1Artillary.description>
+  
+  <!-- EN: EXT1 Basic -->
+  <CAEXT1Basic.label>EXT1 基础强化</CAEXT1Basic.label>
+  <!-- EN: Enables machines to use advanced combat logic depending on the version, connect to dormant networks and utilize a set of terrifying abilities. -->
+  <CAEXT1Basic.description>依据机械体的型号所启用的高级战斗逻辑程序，通过链接至已休眠的机械体网络来加载一系列令人闻风丧胆的可怕能力。</CAEXT1Basic.description>
+  
+  <!-- EN: EXT1 Guardian -->
+  <CAEXT1Guardian.label>EXT1 守卫护盾</CAEXT1Guardian.label>
+  <!-- EN: Enables machines to use advanced combat logic depending on the version, connect to dormant networks and utilize a set of terrifying abilities. -->
+  <CAEXT1Guardian.description>依据机械体型号所启用的高级战斗逻辑程序，通过链接至已休眠的机械体网络来加载一系列令人闻风丧胆的可怕能力。</CAEXT1Guardian.description>
+  
+  <!-- EN: EXT1 Laser -->
+  <CAEXT1Laser.label>EXT1 激光暴雨</CAEXT1Laser.label>
+  <!-- EN: Enables machines to use advanced combat logic depending on the version, connect to dormant networks and utilize a set of terrifying abilities. -->
+  <CAEXT1Laser.description>依据机械体型号所启用的高级战斗逻辑程序，通过链接至已休眠的机械体网络来加载一系列令人闻风丧胆的可怕能力。</CAEXT1Laser.description>
+  
+  <!-- EN: EXT1 Melee -->
+  <CAEXT1Melee.label>EXT1 死亡收割</CAEXT1Melee.label>
+  <!-- EN: Enables machines to use advanced combat logic depending on the version, connect to dormant networks and utilize a set of terrifying abilities. -->
+  <CAEXT1Melee.description>依据机械体型号所启用的高级战斗逻辑程序，通过链接至已休眠的机械体网络来加载一系列令人闻风丧胆的可怕能力。</CAEXT1Melee.description>
+  
+  <!-- EN: EXT1 Missile -->
+  <CAEXT1Missile.label>EXT1 导弹齐发</CAEXT1Missile.label>
+  <!-- EN: Enables machines to use advanced combat logic depending on the version, connect to dormant networks and utilize a set of terrifying abilities. -->
+  <CAEXT1Missile.description>依据机械体型号所启用的高级战斗逻辑程序，通过链接至已休眠的机械体网络来加载一系列令人闻风丧胆的可怕能力。</CAEXT1Missile.description>
+  
+</LanguageData>

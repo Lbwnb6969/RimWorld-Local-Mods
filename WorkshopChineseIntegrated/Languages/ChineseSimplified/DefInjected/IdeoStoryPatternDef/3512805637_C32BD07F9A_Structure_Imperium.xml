@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>creation->In an old universe of strife, war was all around, and plagued everyone.</li>
+    <li>salvation->But when it seemed like everything was turning bleak, [deity0_name] came forth.</li>
+    <li>unification->[deity0_name] unified his world and remove all who stood in the way of a new age for us, and brought forth a new era.</li>
+  -->
+  <BEWH_ImperialDescription.rules.rulesStrings>
+    <li>creation->在充满纷争的古老宇宙中，战争无处不在，折磨着所有人。</li>
+    <li>salvation->但就在一切似乎变得黯淡无光之际，伟大的[deity0_name]出现了。</li>
+    <li>unification->伟大的[deity0_name]统一了他的世界，扫除了一切阻挡我们进入新时代的障碍，并开创了人类的新纪元。</li>
+  </BEWH_ImperialDescription.rules.rulesStrings>
+  
+</LanguageData>

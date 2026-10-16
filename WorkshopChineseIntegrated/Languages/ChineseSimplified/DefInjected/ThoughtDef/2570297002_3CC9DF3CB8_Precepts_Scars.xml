@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: faintly scarred -->
+  <VME_Scars_Disgusting.stages.faintly_scarred.label>少量疤痕</VME_Scars_Disgusting.stages.faintly_scarred.label>
+  <!-- EN: scarred -->
+  <VME_Scars_Disgusting.stages.scarred.label>一些疤痕</VME_Scars_Disgusting.stages.scarred.label>
+  <!-- EN: heavily scarred -->
+  <VME_Scars_Disgusting.stages.heavily_scarred.label>许多疤痕</VME_Scars_Disgusting.stages.heavily_scarred.label>
+  <!-- EN: extremely scarred -->
+  <VME_Scars_Disgusting.stages.extremely_scarred.label>大量疤痕</VME_Scars_Disgusting.stages.extremely_scarred.label>
+  <!-- EN: innumerable battlefield scars -->
+  <VME_Scars_Disgusting.stages.innumerable_battlefield_scars.label>战伤累累</VME_Scars_Disgusting.stages.innumerable_battlefield_scars.label>
+  
+  <!-- EN: faintly scarred -->
+  <VME_Scars_Honorable.stages.faintly_scarred.label>少量疤痕</VME_Scars_Honorable.stages.faintly_scarred.label>
+  <!-- EN: scarred -->
+  <VME_Scars_Honorable.stages.scarred.label>一些疤痕</VME_Scars_Honorable.stages.scarred.label>
+  <!-- EN: heavily scarred -->
+  <VME_Scars_Honorable.stages.heavily_scarred.label>许多疤痕</VME_Scars_Honorable.stages.heavily_scarred.label>
+  <!-- EN: extremely scarred -->
+  <VME_Scars_Honorable.stages.extremely_scarred.label>大量疤痕</VME_Scars_Honorable.stages.extremely_scarred.label>
+  <!-- EN: innumerable battlefield scars -->
+  <VME_Scars_Honorable.stages.innumerable_battlefield_scars.label>战伤累累</VME_Scars_Honorable.stages.innumerable_battlefield_scars.label>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suspicious rum -->
+  <AM_CorpseRumBasic.label>可疑朗姆酒</AM_CorpseRumBasic.label>
+  <!-- EN: The drink of choice of pirates everywhere. The quality and source of this rum is very dubious, but it scratches the itch. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
+  <AM_CorpseRumBasic.description>广受各地海盗欢迎的饮料。虽然这种朗姆酒无论质量还是来源都十分可疑，但能实打实地满足饮用者对酒精的渴望。飲酒過量會導致喝醉，長期下來就會上癮。</AM_CorpseRumBasic.description>
+  <!-- EN: Drink {0} -->
+  <AM_CorpseRumBasic.ingestible.ingestCommandString>喝{0}</AM_CorpseRumBasic.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <AM_CorpseRumBasic.ingestible.ingestReportString>正在喝{0}。</AM_CorpseRumBasic.ingestible.ingestReportString>
+  
+  <!-- EN: fine rum -->
+  <AM_CorpseRumFine.label>精致朗姆酒</AM_CorpseRumFine.label>
+  <!-- EN: Fine aged rum, with a unique divine flavour. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
+  <AM_CorpseRumFine.description>风味独特且极妙的精致陈酿朗姆酒。飲酒過量會導致喝醉，長期下來就會上癮。</AM_CorpseRumFine.description>
+  <!-- EN: Drink {0} -->
+  <AM_CorpseRumFine.ingestible.ingestCommandString>喝{0}</AM_CorpseRumFine.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <AM_CorpseRumFine.ingestible.ingestReportString>正在喝{0}。</AM_CorpseRumFine.ingestible.ingestReportString>
+  
+</LanguageData>

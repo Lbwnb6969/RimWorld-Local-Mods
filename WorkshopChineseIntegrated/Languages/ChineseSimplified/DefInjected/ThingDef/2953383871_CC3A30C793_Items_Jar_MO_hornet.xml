@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deathstinger jars belt -->
+  <SV_Apparel_DeathstingerJar.label>死亡毒刺瓶腰带</SV_Apparel_DeathstingerJar.label>
+  <!-- EN: A jar filled with very angry deathstingers. Throwing it will cause the jar to break, releasing a black swarm on those hit, slowing them and reducing their combat capabilities. Best to shake before tossing.\n(Medieval Overhaul : Hornetkeeping) -->
+  <SV_Apparel_DeathstingerJar.description>瓶中盛装着刚破蛹的死亡毒刺蜂群。掷出的瓶罐在碎裂后，会释放出密密麻麻的凶暴蜂群攻击目标，造成缓速并降低目标战斗能力。\np.s.使用前请先摇晃</SV_Apparel_DeathstingerJar.description>
+  <!-- EN: frag -->
+  <SV_Apparel_DeathstingerJar.comps.CompApparelReloadable.chargeNoun>死亡毒刺瓶</SV_Apparel_DeathstingerJar.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <SV_Apparel_DeathstingerJar.comps.CompApparelReloadable.cooldownGerund>冷却时间中</SV_Apparel_DeathstingerJar.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: throw deathstinger jar -->
+  <SV_Apparel_DeathstingerJar.verbs.throw_deathstinger_jar.label>投掷死亡毒刺瓶</SV_Apparel_DeathstingerJar.verbs.throw_deathstinger_jar.label>
+  
+  <!-- EN: deathstinger jar -->
+  <SV_Proj_DeathstingerJar.label>死亡毒刺瓶</SV_Proj_DeathstingerJar.label>
+  
+</LanguageData>

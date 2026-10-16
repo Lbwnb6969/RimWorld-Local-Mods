@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: underwhelming flagellation -->
+  <AM_BoringFlagellation.stages.underwhelming_flagellation.label>效果甚微的鞭笞仪式</AM_BoringFlagellation.stages.underwhelming_flagellation.label>
+  <!-- EN: I bear only a few new scars. It hardly feels like enough to properly mark my devotion. -->
+  <AM_BoringFlagellation.stages.underwhelming_flagellation.description>鞭笞仪式效果甚微。我们只在被鞭笞者身上留下了很少的刻印，远未达到预期所想。</AM_BoringFlagellation.stages.underwhelming_flagellation.description>
+  
+  <!-- EN: satisfying flagellation -->
+  <AM_FunFlagellation.stages.satisfying_flagellation.label>令人满意的鞭笞仪式</AM_FunFlagellation.stages.satisfying_flagellation.label>
+  <!-- EN: I bear several new ritual scars. My devotion is written into my flesh once again. -->
+  <AM_FunFlagellation.stages.satisfying_flagellation.description>鞭笞仪式令人满意。我们在被鞭笞者身上留下了数个刻印，这是其虔诚的证明。</AM_FunFlagellation.stages.satisfying_flagellation.description>
+  
+  <!-- EN: failed flagellation -->
+  <AM_TerribleFlagellation.stages.failed_flagellation.label>失败的鞭笞仪式</AM_TerribleFlagellation.stages.failed_flagellation.label>
+  <!-- EN: The ritual left no scars at all. What was the point of the ceremony if my devotion is not written on my flesh? -->
+  <AM_TerribleFlagellation.stages.failed_flagellation.description>鞭笞仪式失败了。我们未能在被鞭笞者身上留下任何刻印，整场仪式显得毫无意义。</AM_TerribleFlagellation.stages.failed_flagellation.description>
+  
+  <!-- EN: exemplary flagellation -->
+  <AM_UnforgettableFlagellation.stages.exemplary_flagellation.label>堪称典范的鞭笞仪式</AM_UnforgettableFlagellation.stages.exemplary_flagellation.label>
+  <!-- EN: My body is covered in new ritual scars. I have never felt more proud to wear my devotion so openly. -->
+  <AM_UnforgettableFlagellation.stages.exemplary_flagellation.description>鞭笞仪式堪称典范！我们在被鞭笞者身上留下了刻印，向所有人展示了其虔诚。</AM_UnforgettableFlagellation.stages.exemplary_flagellation.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Fantasy Biotech -->
+  <VR_AnimalAttacks.label>奇幻生物科技</VR_AnimalAttacks.label>
+  <!-- EN: Adding animal ranged attacks for Fantasy Biotech creatures -->
+  <VR_AnimalAttacks.description>为奇幻生物科技生物添加动物远程攻击。</VR_AnimalAttacks.description>
+  
+</LanguageData>

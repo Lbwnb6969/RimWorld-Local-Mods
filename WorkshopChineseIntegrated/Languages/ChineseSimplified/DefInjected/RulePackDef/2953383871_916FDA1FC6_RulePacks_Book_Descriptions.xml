@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.0>subject->[subject_primary]</DankPyon_AncientLore_Description.rulePack.rulesStrings.0>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.1>desc->这是一本论述[subject_primary]主题、[writingQualityAdjective][bookType]，[exploresAncientTechOn]。\n[writingQualitySentence]。\n[maybe_date]</DankPyon_AncientLore_Description.rulePack.rulesStrings.1>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.2>exploresAncientTechOn->能带领读者探索与之相关的远古技术</DankPyon_AncientLore_Description.rulePack.rulesStrings.2>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.3>exploresAncientTechOn->能揭开与之相关的远古技术秘密</DankPyon_AncientLore_Description.rulePack.rulesStrings.3>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.4>exploresAncientTechOn->能和读者一起深入探究远古技术的奥秘</DankPyon_AncientLore_Description.rulePack.rulesStrings.4>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.5>exploresAncientTechOn->能揭露与之相关的远古技术</DankPyon_AncientLore_Description.rulePack.rulesStrings.5>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.6>exploresAncientTechOn->能揭示与之相关的远古技术应用</DankPyon_AncientLore_Description.rulePack.rulesStrings.6>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.7>exploresAncientTechOn->能带领读者深入了解用于其的古代技术</DankPyon_AncientLore_Description.rulePack.rulesStrings.7>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.8>writingQualityAdjective(quality==6)->研究极为透彻的</DankPyon_AncientLore_Description.rulePack.rulesStrings.8>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.9>writingQualityAdjective(quality==5)->观点独到且全面的</DankPyon_AncientLore_Description.rulePack.rulesStrings.9>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.10>writingQualityAdjective(quality==4)->发人省思且言之有物的</DankPyon_AncientLore_Description.rulePack.rulesStrings.10>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.11>writingQualityAdjective(quality==3)->做工精良的</DankPyon_AncientLore_Description.rulePack.rulesStrings.11>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.12>writingQualityAdjective(quality==2)->平凡的</DankPyon_AncientLore_Description.rulePack.rulesStrings.12>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.13>writingQualityAdjective(quality==1)->结构欠佳的</DankPyon_AncientLore_Description.rulePack.rulesStrings.13>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.14>writingQualityAdjective(quality==0)->内容缺乏连贯性</DankPyon_AncientLore_Description.rulePack.rulesStrings.14>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.15>writingQualitySentence(quality[greater_than]4)->这本书[excellentDesc] [excellentExtra]</DankPyon_AncientLore_Description.rulePack.rulesStrings.15>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.16>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->这本书[decentDesc] [decentExtra]</DankPyon_AncientLore_Description.rulePack.rulesStrings.16>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.17>writingQualitySentence(quality[less_than]2)->这本书[awfulDesc] [awfulExtra]</DankPyon_AncientLore_Description.rulePack.rulesStrings.17>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.18>excellentDesc->将提供一次对古代知识深刻的探索</DankPyon_AncientLore_Description.rulePack.rulesStrings.18>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.19>excellentDesc->将提供一次穿越古代知识的精彩之旅</DankPyon_AncientLore_Description.rulePack.rulesStrings.19>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.20>excellentDesc->将让人洞悉古代发明的奥秘</DankPyon_AncientLore_Description.rulePack.rulesStrings.20>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.21>excellentDesc->蕴藏着丰富的古文明科技进步的传说</DankPyon_AncientLore_Description.rulePack.rulesStrings.21>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.22>excellentDesc->引人入胜、神秘莫测，对古代机械族研究提出了新的视角</DankPyon_AncientLore_Description.rulePack.rulesStrings.22>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.23>excellentDesc->让人目不暇给地领略过去的科技进步</DankPyon_AncientLore_Description.rulePack.rulesStrings.23>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.24>excellentDesc->充满了等待被发掘的古老秘密，揭示被遗忘的技术奇蹟</DankPyon_AncientLore_Description.rulePack.rulesStrings.24>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.25>excellentExtra->，每个篇章都与永恒的知识产生共鸣</DankPyon_AncientLore_Description.rulePack.rulesStrings.25>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.26>excellentExtra->，以其深刻而复杂的技术洞察力吸引读者</DankPyon_AncientLore_Description.rulePack.rulesStrings.26>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.27>excellentExtra->，书里所提出的见解挑战了人们对古代科技的传统认知</DankPyon_AncientLore_Description.rulePack.rulesStrings.27>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.28>excellentExtra->，透过对科技奇蹟的生动描述，将读者带入远古时代</DankPyon_AncientLore_Description.rulePack.rulesStrings.28>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.29>decentDesc->是一本不错的古代科技文集</DankPyon_AncientLore_Description.rulePack.rulesStrings.29>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.30>decentDesc->关于古代工程的资讯既有趣又详实</DankPyon_AncientLore_Description.rulePack.rulesStrings.30>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.31>decentDesc->专注于古代技术创新的特定领域</DankPyon_AncientLore_Description.rulePack.rulesStrings.31>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.32>decentDesc->为古代技术进步提供了引人入胜的视角</DankPyon_AncientLore_Description.rulePack.rulesStrings.32>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.33>decentDesc->让我们一窥古代人对科技的信仰</DankPyon_AncientLore_Description.rulePack.rulesStrings.33>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.34>decentDesc->是让世人了解古代传统技术的宝贵资料</DankPyon_AncientLore_Description.rulePack.rulesStrings.34>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.35>decentExtra->，但在表述上稍微缺乏连贯性</DankPyon_AncientLore_Description.rulePack.rulesStrings.35>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.36>decentExtra->，但因结构零散稍微降低了可读性</DankPyon_AncientLore_Description.rulePack.rulesStrings.36>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.37>decentExtra->，可惜没有对古代技术进一步详细分析，否则能让人更加受益匪浅</DankPyon_AncientLore_Description.rulePack.rulesStrings.37>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.38>decentExtra->，虽然写作风格有些枯燥，但所提供的资讯仍然很有价值</DankPyon_AncientLore_Description.rulePack.rulesStrings.38>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.39>awfulDesc->写得非常糟糕，因为它没有对古代技术主题做出公正的评价</DankPyon_AncientLore_Description.rulePack.rulesStrings.39>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.40>awfulDesc->缺乏深度和可读性，令人难以解读古老的技术概念</DankPyon_AncientLore_Description.rulePack.rulesStrings.40>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.41>awfulDesc->因为用字不准确导致很难理解，且充满着对古代技术的猜测</DankPyon_AncientLore_Description.rulePack.rulesStrings.41>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.42>awfulDesc->未能形成连贯的叙事，且许多与古代机械无关的细节不断困扰着读者</DankPyon_AncientLore_Description.rulePack.rulesStrings.42>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.43>awfulDesc->以猜测而非事实为主，内容单调乏味</DankPyon_AncientLore_Description.rulePack.rulesStrings.43>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.44>awfulDesc->离奇而缺乏新意，没有与古代技术相关的可识主题或有意义的内容</DankPyon_AncientLore_Description.rulePack.rulesStrings.44>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.45>awfulExtra->，而且文笔极不连贯</DankPyon_AncientLore_Description.rulePack.rulesStrings.45>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.46>awfulExtra->，而且内容极难理解，尤其是有关古代技术的话题</DankPyon_AncientLore_Description.rulePack.rulesStrings.46>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.47>awfulExtra->，而且缺乏古代技术的主题和有意义的内容</DankPyon_AncientLore_Description.rulePack.rulesStrings.47>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.48>awfulExtra->，而且根本无法提出任何关于古代技术的吸引人的观点</DankPyon_AncientLore_Description.rulePack.rulesStrings.48>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.49>awfulExtra->，几乎每一章读起来都令人索然无味</DankPyon_AncientLore_Description.rulePack.rulesStrings.49>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.50>awfulExtra->，而且章章离题</DankPyon_AncientLore_Description.rulePack.rulesStrings.50>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.51>maybe_date->这部古老的钜作可以追溯到[date_form]</DankPyon_AncientLore_Description.rulePack.rulesStrings.51>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.52>date_form->一个被遗忘的时代。</DankPyon_AncientLore_Description.rulePack.rulesStrings.52>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.53>bookType->古文献</DankPyon_AncientLore_Description.rulePack.rulesStrings.53>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.54>bookType->手稿</DankPyon_AncientLore_Description.rulePack.rulesStrings.54>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.55>bookType->刻文</DankPyon_AncientLore_Description.rulePack.rulesStrings.55>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.56>bookType->法典</DankPyon_AncientLore_Description.rulePack.rulesStrings.56>
+
+
+</LanguageData>

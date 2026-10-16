@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_MendApparel.label>修补衣物</DankPyon_MendApparel.label>
+  <DankPyon_MendApparel.description>修补受损的衣物。</DankPyon_MendApparel.description>
+  <DankPyon_MendApparel.jobString>正在修补受损的衣物。</DankPyon_MendApparel.jobString>
+
+  <DankPyon_MendWeapon.label>修补武器</DankPyon_MendWeapon.label>
+  <DankPyon_MendWeapon.description>修补受损的武器。</DankPyon_MendWeapon.description>
+  <DankPyon_MendWeapon.jobString>正在修补受损的武器。</DankPyon_MendWeapon.jobString>
+
+  <DankPyon_MendArmor.label>修补装甲</DankPyon_MendArmor.label>
+  <DankPyon_MendArmor.description>修补受损的装甲。</DankPyon_MendArmor.description>
+  <DankPyon_MendArmor.jobString>正在修补受损的装甲。</DankPyon_MendArmor.jobString>
+
+</LanguageData>

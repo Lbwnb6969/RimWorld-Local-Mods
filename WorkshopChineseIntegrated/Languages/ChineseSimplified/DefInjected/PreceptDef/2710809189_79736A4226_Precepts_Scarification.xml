@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: insane -->
+  <AM_Scarification_Insane.label>疯狂</AM_Scarification_Insane.label>
+  <!-- EN: Every person ought to be covered in ritual scars. An unmarked body is an unfinished one.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Unlike other scarification precepts, pawns with this precept on their ideo won't spawn with scarifications before joining the colony. That's very much intended. Don't blame me for base game bullshit. You have to earn these. -->
+  <AM_Scarification_Insane.description>每个人都应该接受刻印仪式。无痕的身体和残次品无异。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 与其他疤痕戒律不同，未加入你的殖民地前，遵从此戒律者不会在生成时就自带疤痕。这是刻意为之的。别把原版游戏的烂摊子设计怪在我头上。想给你的殖民者留疤痕就自己动手吧。</AM_Scarification_Insane.description>
+  <!-- EN: Scarification (8 scars required) -->
+  <AM_Scarification_Insane.comps.0.thoughtStageDescriptions.0>疤痕化（需要8个疤痕）</AM_Scarification_Insane.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Scarification (8 scars required) -->
+  <AM_Scarification_Insane.comps.1.thoughtStageDescriptions.0>疤痕化（需要8个疤痕）</AM_Scarification_Insane.comps.1.thoughtStageDescriptions.0>
+  
+</LanguageData>

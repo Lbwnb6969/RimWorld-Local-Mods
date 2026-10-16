@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificer suit -->
+  <VR_Apparel_ArtificerSuit_Basic.label>机巧师护甲</VR_Apparel_ArtificerSuit_Basic.label>
+  <!-- EN: An armor suit packed with artificer-assistance gear. This suit amplifies a artificer's bandwidth, but is somewhat less protective than dedicated heavy armor. -->
+  <VR_Apparel_ArtificerSuit_Basic.description>一套装有机巧师辅助装置的护甲。这套护甲会放大机巧师的带宽，但防护力略逊于专用重甲。</VR_Apparel_ArtificerSuit_Basic.description>
+  
+  <!-- EN: artificelord suit -->
+  <VR_Apparel_ArtificerSuit_Lord.label>机巧领主护甲</VR_Apparel_ArtificerSuit_Lord.label>
+  <!-- EN: An armor suit packed with artificer-assistance gear. This suit amplifies a artificer's bandwidth, but is somewhat less protective than dedicated heavy armor. -->
+  <VR_Apparel_ArtificerSuit_Lord.description>一套装有机巧师辅助装置的护甲。这套护甲会放大机巧师的带宽，但防护力略逊于专用重甲。</VR_Apparel_ArtificerSuit_Lord.description>
+  
+</LanguageData>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SC_Pot_RawToRockbread.label>烤岩石面包</SC_Pot_RawToRockbread.label>
+    <SC_Pot_RawToRockbread.description>转换 45 面粉成 45 岩石面包。</SC_Pot_RawToRockbread.description>
+    <SC_Pot_RawToRockbread.labelOverride>烤面粉成岩石面包</SC_Pot_RawToRockbread.labelOverride>
+
+    <SC_Pot_RawToMeatMeal.label>烤制肉食料理</SC_Pot_RawToMeatMeal.label>
+    <SC_Pot_RawToMeatMeal.description>转换 60 面粉和 30 肉类成 30 料理。</SC_Pot_RawToMeatMeal.description>
+    <SC_Pot_RawToMeatMeal.labelOverride>烤面粉和肉食成烤炉料理</SC_Pot_RawToMeatMeal.labelOverride>
+
+    <SC_Pot_RawToVeganMeal.label>烤制素食料理</SC_Pot_RawToVeganMeal.label>
+    <SC_Pot_RawToVeganMeal.description>转换 60 面粉和 30 蔬菜成 30 素食料理。</SC_Pot_RawToVeganMeal.description>
+    <SC_Pot_RawToVeganMeal.labelOverride>烤面粉和蔬菜成烤炉料理</SC_Pot_RawToVeganMeal.labelOverride>
+
+    <SC_Pot_RawToMushroomSoup.label>烹饪奶油蘑菇汤</SC_Pot_RawToMushroomSoup.label>
+    <SC_Pot_RawToMushroomSoup.description>转换 75 菌类和 45 矮人奶成奶油蘑菇汤 (16)</SC_Pot_RawToMushroomSoup.description>
+    <SC_Pot_RawToMushroomSoup.labelOverride>烹饪菌类和矮人奶成奶油蘑菇汤</SC_Pot_RawToMushroomSoup.labelOverride>
+
+    <SC_RawToRockbread.label>烤岩石面包</SC_RawToRockbread.label>
+    <SC_RawToRockbread.description>转换 75 面粉成 75 岩石面包。</SC_RawToRockbread.description>
+    <SC_RawToRockbread.labelOverride>烤面粉成岩石面包</SC_RawToRockbread.labelOverride>
+
+    <SC_RawToMeatMeal.label>烤制肉食料理</SC_RawToMeatMeal.label>
+    <SC_RawToMeatMeal.description>转换 60 面粉和 30 肉类成 30 料理。</SC_RawToMeatMeal.description>
+    <SC_RawToMeatMeal.labelOverride>烤面粉和肉食成烤炉料理</SC_RawToMeatMeal.labelOverride>
+
+    <SC_RawToVeganMeal.label>烤制素食料理</SC_RawToVeganMeal.label>
+    <SC_RawToVeganMeal.description>转换 60 面粉和 30 素食成 30 素食料理。</SC_RawToVeganMeal.description>
+    <SC_RawToVeganMeal.labelOverride>烤面粉和蔬菜成烤炉料理</SC_RawToVeganMeal.labelOverride>
+
+    <SC_DoughToPastry.label>烤制点心</SC_DoughToPastry.label>
+    <SC_DoughToPastry.description>转换 60 面点和 35 虫胶成 75 凝胶点心。</SC_DoughToPastry.description>
+    <SC_DoughToPastry.labelOverride>烤面点和虫胶成点心</SC_DoughToPastry.labelOverride>
+
+    <SC_DoughToBerryPie.label>烤制浆果派</SC_DoughToBerryPie.label>
+    <SC_DoughToBerryPie.description>转换 30 面点和 30 浆果成派 (16)</SC_DoughToBerryPie.description>
+    <SC_DoughToBerryPie.labelOverride>烤面点和浆果成派</SC_DoughToBerryPie.labelOverride>
+
+    <SC_DoughToChocolatePie.label>烤制巧克力派</SC_DoughToChocolatePie.label>
+    <SC_DoughToChocolatePie.description>转换 30 面点和 30 巧克力成派 (16)</SC_DoughToChocolatePie.description>
+    <SC_DoughToChocolatePie.labelOverride>烤面点和巧克力成派</SC_DoughToChocolatePie.labelOverride>
+
+    <SC_DoughToCheesePie.label>烤制奶酪蛋糕</SC_DoughToCheesePie.label>
+    <SC_DoughToCheesePie.description>转换 30 面点和 30 矮人奶酪成派 (16)</SC_DoughToCheesePie.description>
+    <SC_DoughToCheesePie.labelOverride>烤面点和矮人奶酪成派</SC_DoughToCheesePie.labelOverride>
+
+    <SC_DoughToMeatRockpie.label>烤制肉类岩石派</SC_DoughToMeatRockpie.label>
+    <SC_DoughToMeatRockpie.description>转换 30 面团和 45 肉食成岩石派 (16)</SC_DoughToMeatRockpie.description>
+    <SC_DoughToMeatRockpie.labelOverride>烤面团和菌类成岩石派</SC_DoughToMeatRockpie.labelOverride>
+
+    <SC_DoughToVeganRockpie.label>烤制素食岩石派</SC_DoughToVeganRockpie.label>
+    <SC_DoughToVeganRockpie.description>转换 30 面团和 45 蔬菜成岩石派 (16)</SC_DoughToVeganRockpie.description>
+    <SC_DoughToVeganRockpie.labelOverride>烤面团和蔬菜成岩石派</SC_DoughToVeganRockpie.labelOverride>
+
+    <SC_DoughToMushroomRockpie.label>烤制蘑菇岩石派</SC_DoughToMushroomRockpie.label>
+    <SC_DoughToMushroomRockpie.description>转换 30 面团和 45 菌类成岩石派 (16)</SC_DoughToMushroomRockpie.description>
+    <SC_DoughToMushroomRockpie.labelOverride>烤面团和菌类成岩石派</SC_DoughToMushroomRockpie.labelOverride>
+
+    <SC_RawToJellyGlazedShank.label>烤制虫胶裹腿</SC_RawToJellyGlazedShank.label>
+    <SC_RawToJellyGlazedShank.description>转换 75 肉类, 45 蔬菜和 30 虫胶成一份虫胶裹腿 (16)</SC_RawToJellyGlazedShank.description>
+    <SC_RawToJellyGlazedShank.labelOverride>烤肉食，蔬菜和虫胶成一份虫胶裹腿</SC_RawToJellyGlazedShank.labelOverride>
+
+    <SC_RawToRoastedMegascarab.label>烤制烤巨型甲虫</SC_RawToRoastedMegascarab.label>
+    <SC_RawToRoastedMegascarab.description>转换 75 虫肉, 50 菌类和 30 浆果成一份烤巨型甲虫 (16)</SC_RawToRoastedMegascarab.description>
+    <SC_RawToRoastedMegascarab.labelOverride>烤虫肉，菌类和浆果成一份烤巨型甲虫</SC_RawToRoastedMegascarab.labelOverride>
+
+    <SC_RawToMushroomSoup.label>烹饪奶油蘑菇汤</SC_RawToMushroomSoup.label>
+    <SC_RawToMushroomSoup.description>转换 75 菌类和 45 矮人奶成奶油蘑菇汤 (16)</SC_RawToMushroomSoup.description>
+    <SC_RawToMushroomSoup.labelOverride>烹饪菌类和矮人奶成奶油蘑菇汤</SC_RawToMushroomSoup.labelOverride>
+
+    <SC_DoughToRockdoughPizza.label>烤制岩石面团披萨</SC_DoughToRockdoughPizza.label>
+    <SC_DoughToRockdoughPizza.description>转换 30 面团, 10 矮人奶酪和 45 蔬菜成岩石面团披萨(8)</SC_DoughToRockdoughPizza.description>
+    <SC_DoughToRockdoughPizza.labelOverride>烹饪面团，奶酪和蔬菜成岩石面团披萨</SC_DoughToRockdoughPizza.labelOverride>
+
+    <SC_Microwave_ReheatJellyGlazedShank.label>再加热虫胶裹腿</SC_Microwave_ReheatJellyGlazedShank.label>
+    <SC_Microwave_ReheatJellyGlazedShank.description>再加热虫胶裹腿, 去冻结。</SC_Microwave_ReheatJellyGlazedShank.description>
+    <SC_Microwave_ReheatJellyGlazedShank.labelOverride>再加热虫胶裹腿</SC_Microwave_ReheatJellyGlazedShank.labelOverride>
+
+    <SC_Microwave_ReheatRoastedMegascarab.label>再加热烤巨型甲虫</SC_Microwave_ReheatRoastedMegascarab.label>
+    <SC_Microwave_ReheatRoastedMegascarab.description>再加热烤巨型甲虫, 去冻结。</SC_Microwave_ReheatRoastedMegascarab.description>
+    <SC_Microwave_ReheatRoastedMegascarab.labelOverride>再加热烤巨型甲虫</SC_Microwave_ReheatRoastedMegascarab.labelOverride>
+
+    <SC_Microwave_ReheatMushroomSoup.label>再加热奶油蘑菇汤</SC_Microwave_ReheatMushroomSoup.label>
+    <SC_Microwave_ReheatMushroomSoup.description>再加热奶油蘑菇汤, 去冻结。</SC_Microwave_ReheatMushroomSoup.description>
+
+    <SC_Microwave_ReheatRockdoughPizza.label>再加热岩石面团披萨</SC_Microwave_ReheatRockdoughPizza.label>
+    <SC_Microwave_ReheatRockdoughPizza.description>再加热岩石面团披萨, 去冻结。</SC_Microwave_ReheatRockdoughPizza.description>
+
+    <SC_Microwave_HeatMetal.label>加热钢</SC_Microwave_HeatMetal.label>
+    <SC_Microwave_HeatMetal.description>加热成一个爆炸。</SC_Microwave_HeatMetal.description>
+    <SC_Microwave_HeatMetal.labelOverride>加热成一个爆炸</SC_Microwave_HeatMetal.labelOverride>
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no pen markers around -->
+  <VME_Ranching_Disliked.stages.no_pen_markers_around.label>附近没有畜栏标牌</VME_Ranching_Disliked.stages.no_pen_markers_around.label>
+  <!-- EN: We have no imprisoned animals. This is the way things should be. -->
+  <VME_Ranching_Disliked.stages.no_pen_markers_around.description>我们没有把那些可怜的动物关起来。这么做是对的。</VME_Ranching_Disliked.stages.no_pen_markers_around.description>
+  <!-- EN: pen marker around -->
+  <VME_Ranching_Disliked.stages.pen_marker_around.label>附近有畜栏标牌</VME_Ranching_Disliked.stages.pen_marker_around.label>
+  <!-- EN: We have a pen marker in our colony. Animals are not our slaves and shouldn't be kept captive, it's immoral. -->
+  <VME_Ranching_Disliked.stages.pen_marker_around.description>我们的殖民地里有一个畜栏标牌。动物不是奴隶，我们不该把它们关起来。</VME_Ranching_Disliked.stages.pen_marker_around.description>
+  <!-- EN: pen markers around -->
+  <VME_Ranching_Disliked.stages.pen_markers_around.label>附近有许多畜栏标牌</VME_Ranching_Disliked.stages.pen_markers_around.label>
+  <!-- EN: We have several pen markers in our colony. Animals are not our slaves and shouldn't be kept captive, it's immoral! -->
+  <VME_Ranching_Disliked.stages.pen_markers_around.description>我们的殖民地里有许多畜栏标牌。动物不是奴隶，我们不该把它们关起来！</VME_Ranching_Disliked.stages.pen_markers_around.description>
+  <!-- EN: factory farming -->
+  <VME_Ranching_Disliked.stages.factory_farming.label>工厂化饲养</VME_Ranching_Disliked.stages.factory_farming.label>
+  <!-- EN: Our colony has too many pens, filled with poor animals in cramped conditions, bred for the slaughter. I'm disgusted. -->
+  <VME_Ranching_Disliked.stages.factory_farming.description>我们的殖民地里有大量的畜栏，那些为宰杀而生的可怜动物被关在狭窄的空间里，这实在是令人作呕！</VME_Ranching_Disliked.stages.factory_farming.description>
+  
+  <!-- EN: attacked an animal -->
+  <VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.label>伤害了动物</VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.label>
+  <!-- EN: I had to attack an animal. They have rights too! -->
+  <VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.description>我伤害了一只动物。它们也有生存下去的权利！</VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.description>
+  
+  <!-- EN: sowed human food plant -->
+  <VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.label>种植了食用作物</VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.label>
+  <!-- EN: I sowed a human food plant. It's amazing, food free from cruelty and abuse. -->
+  <VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.description>我种植了食用作物。这样做不会造成残忍的虐待。</VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.description>
+  
+</LanguageData>

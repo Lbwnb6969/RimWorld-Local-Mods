@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make things at crafting bench -->
+  <VFEC_DoBillsUseCraftingBench.label>完成工作台的清单</VFEC_DoBillsUseCraftingBench.label>
+  <!-- EN: crafting at -->
+  <VFEC_DoBillsUseCraftingBench.gerund>制作于</VFEC_DoBillsUseCraftingBench.gerund>
+  <!-- EN: craft -->
+  <VFEC_DoBillsUseCraftingBench.verb>制作</VFEC_DoBillsUseCraftingBench.verb>
+  
+</LanguageData>

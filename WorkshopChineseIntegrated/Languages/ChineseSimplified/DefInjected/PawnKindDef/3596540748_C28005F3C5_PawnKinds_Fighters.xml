@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armoured sergeant -->
+  <BA_France_Armoured_Sergeant.label>装甲军士</BA_France_Armoured_Sergeant.label>
+  
+  <!-- EN: arquebusier -->
+  <BA_France_Arquebusier.label>火绳枪手</BA_France_Arquebusier.label>
+  
+  <!-- EN: aventurier -->
+  <BA_France_Aventurier.label>冒险者</BA_France_Aventurier.label>
+  
+  <!-- EN: bannerman -->
+  <BA_France_Bannerman.label>旗手</BA_France_Bannerman.label>
+  
+  <!-- EN: crossbowman -->
+  <BA_France_Crossbowman.label>弩手</BA_France_Crossbowman.label>
+  
+  <!-- EN: gendarme -->
+  <BA_France_Gendarme.label>宪兵骑士</BA_France_Gendarme.label>
+  
+  <!-- EN: king -->
+  <BA_France_King.label>国王</BA_France_King.label>
+  <!-- EN: queen -->
+  <BA_France_King.labelFemale>女王</BA_France_King.labelFemale>
+  
+  <!-- EN: feudal knight -->
+  <BA_France_Knight.label>封建骑士</BA_France_Knight.label>
+  
+  <!-- EN: lord -->
+  <BA_France_Lord.label>领主</BA_France_Lord.label>
+  
+  <!-- EN: peasant -->
+  <BA_France_Peasant.label>农民</BA_France_Peasant.label>
+  
+  <!-- EN: Pikeman -->
+  <BA_France_Pikeman.label>长矛兵</BA_France_Pikeman.label>
+  
+  <!-- EN: sergeant spearmen -->
+  <BA_France_Spear_Militia.label>长矛军士</BA_France_Spear_Militia.label>
+  
+  <!-- EN: voulgier -->
+  <BA_France_Voulgier.label>伏尔吉尔步兵</BA_France_Voulgier.label>
+  
+</LanguageData>

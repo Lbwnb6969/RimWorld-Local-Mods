@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <VFEI_PlasteelDrop.label>空投-钢锭</VFEI_PlasteelDrop.label>
+  <VFEI_PlasteelDrop.description>呼叫一份包含150x钢锭的空投。</VFEI_PlasteelDrop.description>
+
+  <VFEI_SynthreadDrop.label>空投-丝绸</VFEI_SynthreadDrop.label>
+  <VFEI_SynthreadDrop.description>呼叫一份包含125x丝绸的空投。</VFEI_SynthreadDrop.description>
+
+  <VFEI_ClothDrop.label>空投-棉布</VFEI_ClothDrop.label>
+  <VFEI_ClothDrop.description>呼叫一份包含330x棉布的空投。</VFEI_ClothDrop.description>
+
+  <VFEI_StoneDrop.label>空投-砖或锭</VFEI_StoneDrop.label>
+  <VFEI_StoneDrop.description>呼叫一份包含500x随机石砖或金属锭的空投。</VFEI_StoneDrop.description>
+
+  <VFEI_HerbalMedDrop.label>空投-少量草药</VFEI_HerbalMedDrop.label>
+  <VFEI_HerbalMedDrop.description>呼叫一份包含25x草药的空投。</VFEI_HerbalMedDrop.description>
+
+  <VFEI_MedDrop.label>空投-草药</VFEI_MedDrop.label>
+  <VFEI_MedDrop.description>呼叫一份包含50x草药的空投。</VFEI_MedDrop.description>
+
+  <VFEI_ChemfuelDrop.label>空投-220x煤矿</VFEI_ChemfuelDrop.label>
+  <VFEI_ChemfuelDrop.description>呼叫一份包含220x煤矿的空投。</VFEI_ChemfuelDrop.description>
+
+  <VFEI_ComponentDrop.label>空投-少量基础零件</VFEI_ComponentDrop.label>
+  <VFEI_ComponentDrop.description>呼叫一份包含15x基础零件的空投。</VFEI_ComponentDrop.description>
+
+  <VFEI_ComponentSpacerDrop.label>空投-大量基础零件</VFEI_ComponentSpacerDrop.label>
+  <VFEI_ComponentSpacerDrop.description>呼叫一份包含30x基础零件的空投。</VFEI_ComponentSpacerDrop.description>
+
+  <VFEI_HEShellsDrop.label>空投-巨型弩箭矢</VFEI_HEShellsDrop.label>
+  <VFEI_HEShellsDrop.description>呼叫一份包含20x巨型弩箭矢的空投。</VFEI_HEShellsDrop.description>
+
+  <VFEI_NobleFoodDrop.label>空投-罗克斯牛排</VFEI_NobleFoodDrop.label>
+  <VFEI_NobleFoodDrop.description>呼叫一份包含15x罗克斯牛排的空投。</VFEI_NobleFoodDrop.description>
+
+  <VFEI_CallTrooperPlatoon.label>呼叫扩编战队</VFEI_CallTrooperPlatoon.label>
+  <VFEI_CallTrooperPlatoon.description>呼叫一中队（10人）轻步兵来协助你进行战斗。每位士兵都接受过近战和远程作战的训练（7-11级），并配备有锁甲和长矛或弩。</VFEI_CallTrooperPlatoon.description>
+
+  <VFEI_CallJanissaryPlatoon.label>呼叫扩编重装甲战队</VFEI_CallJanissaryPlatoon.label>
+  <VFEI_CallJanissaryPlatoon.description>呼叫一中队（10人）重步兵来协助你进行战斗。每位士兵都接受过近战和远程作战的训练（12-16级），并配备有连身板甲和剑盾或重弩。</VFEI_CallJanissaryPlatoon.description>
+
+  <VFEI_CallCataphractPlatoon.label>呼叫扩编十字军团</VFEI_CallCataphractPlatoon.label>
+  <VFEI_CallCataphractPlatoon.description>呼叫一中队（10人）十字军来协助你进行战斗。每位士兵都接受过近战和远程作战的训练（17-20级），并配备有连身锁铠和双手武器。</VFEI_CallCataphractPlatoon.description>
+
+  <VFEI_CallStellicGuards.label>呼叫星辰卫队</VFEI_CallStellicGuards.label>
+  <VFEI_CallStellicGuards.description>呼叫一队（6人）星辰守卫来协助你进行战斗。</VFEI_CallStellicGuards.description>
+
+  <VFEI_CallImperialRegiment.description>呼叫一队包含10名皇家禁卫和6名十字军的帝国战团乘坐装甲穿梭机前来协助你战斗。你并不能直接控制他们，但他们会主动帮你攻击区域内的所有敌人。当地图内没有敌人存活后他们就会离开。</VFEI_CallImperialRegiment.description>
+
+
+</LanguageData>

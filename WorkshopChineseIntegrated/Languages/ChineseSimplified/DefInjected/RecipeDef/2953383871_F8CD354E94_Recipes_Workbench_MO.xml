@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammuniation: Scorpio Bolts -->
+
+  <DankPyon_MakeBullet_ScorpioBolt.label>制作蝎弩箭 x10</DankPyon_MakeBullet_ScorpioBolt.label>
+  <DankPyon_MakeBullet_ScorpioBolt.jobString>正在制作蝎弩箭。</DankPyon_MakeBullet_ScorpioBolt.jobString>
+
+  <DankPyon_MakeBullet_ScorpioBoltBulk.label>制作蝎弩箭 x50</DankPyon_MakeBullet_ScorpioBoltBulk.label>
+  <DankPyon_MakeBullet_ScorpioBoltBulk.jobString>正在制作蝎弩箭。</DankPyon_MakeBullet_ScorpioBoltBulk.jobString>
+
+
+  <!-- Ammuniation: Ballista Bolts -->
+
+  <DankPyon_MakeBullet_BallistaBolt.label>制作巨型弩箭 x10</DankPyon_MakeBullet_BallistaBolt.label>
+  <DankPyon_MakeBullet_BallistaBolt.jobString>正在制作巨型弩箭。</DankPyon_MakeBullet_BallistaBolt.jobString>
+
+  <DankPyon_MakeBullet_BallistaBoltBulk.label>制作巨型弩箭 x50</DankPyon_MakeBullet_BallistaBoltBulk.label>
+  <DankPyon_MakeBullet_BallistaBoltBulk.jobString>正在制作巨型弩箭。</DankPyon_MakeBullet_BallistaBoltBulk.jobString>
+
+
+  <!-- Ammuniation: Stone Boulder -->
+
+  <DankPyon_MakeBullet_StoneBoulder.label>切割巨石</DankPyon_MakeBullet_StoneBoulder.label>
+  <DankPyon_MakeBullet_StoneBoulder.jobString>正在将石块切割成巨石。</DankPyon_MakeBullet_StoneBoulder.jobString>
+
+  <DankPyon_MakeBullet_StoneBoulderBulk.label>切割巨石 x5</DankPyon_MakeBullet_StoneBoulderBulk.label>
+  <DankPyon_MakeBullet_StoneBoulderBulk.jobString>正在将石块切割成巨石。</DankPyon_MakeBullet_StoneBoulderBulk.jobString>
+
+  <DankPyon_MakeBullet_StoneBoulderTarred.label>制作焦油巨石</DankPyon_MakeBullet_StoneBoulderTarred.label>
+  <DankPyon_MakeBullet_StoneBoulderTarred.jobString>正在用焦油浇淋巨石。</DankPyon_MakeBullet_StoneBoulderTarred.jobString>
+
+  <DankPyon_MakeBullet_StoneBoulderTarredBulk.label>制作焦油巨石 x5</DankPyon_MakeBullet_StoneBoulderTarredBulk.label>
+  <DankPyon_MakeBullet_StoneBoulderTarredBulk.jobString>正在用焦油浇淋巨石。</DankPyon_MakeBullet_StoneBoulderTarredBulk.jobString>
+
+
+  <!-- Make Component Basic -->
+
+  <DankPyon_Make_ComponentBasic.label>制作基础零件</DankPyon_Make_ComponentBasic.label>
+  <DankPyon_Make_ComponentBasic.description>制作基础零件。</DankPyon_Make_ComponentBasic.description>
+  <DankPyon_Make_ComponentBasic.jobString>正在制作基础零件。</DankPyon_Make_ComponentBasic.jobString>
+
+
+  <!-- Make Component Basic Bulk -->
+
+  <DankPyon_Make_ComponentBasicBulk.label>制作基础零件 x5</DankPyon_Make_ComponentBasicBulk.label>
+  <DankPyon_Make_ComponentBasicBulk.description>制作5个基础零件。</DankPyon_Make_ComponentBasicBulk.description>
+  <DankPyon_Make_ComponentBasicBulk.jobString>正在制作基础零件。</DankPyon_Make_ComponentBasicBulk.jobString>
+
+  <!-- Make Repair Tools -->
+
+  <DankPyon_Make_RepairTools.label>制作修补零件</DankPyon_Make_RepairTools.label>
+  <DankPyon_Make_RepairTools.description>制作修补零件。</DankPyon_Make_RepairTools.description>
+  <DankPyon_Make_RepairTools.jobString>正在制作修补零件。</DankPyon_Make_RepairTools.jobString>
+
+
+  <!-- Make Component Basic Bulk -->
+
+  <DankPyon_Make_RepairToolsBulk.label>制作修补零件 x5</DankPyon_Make_RepairToolsBulk.label>
+  <DankPyon_Make_RepairToolsBulk.description>制作5个修补零件。</DankPyon_Make_RepairToolsBulk.description>
+  <DankPyon_Make_RepairToolsBulk.jobString>正在制作5个修补零件。</DankPyon_Make_RepairToolsBulk.jobString>
+
+
+  <!-- Make Paper -->
+
+  <DankPyon_Make_PaperMixture.label>制作纸浆 x5</DankPyon_Make_PaperMixture.label>
+  <DankPyon_Make_PaperMixture.description>用木头制作纸浆。</DankPyon_Make_PaperMixture.description>
+  <DankPyon_Make_PaperMixture.jobString>正在制作纸浆。</DankPyon_Make_PaperMixture.jobString>
+
+
+</LanguageData>

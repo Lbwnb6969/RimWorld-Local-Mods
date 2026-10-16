@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: area of accommodation -->
+  <AccommodationArea.label>住宿区</AccommodationArea.label>
+  
+  <!-- EN: Entertain -->
+  <Entertain.headerTip>改善关系</Entertain.headerTip>
+  
+  <!-- EN: Friends in colony -->
+  <FriendsForRecruiting.headerTip>在殖民地交的朋友</FriendsForRecruiting.headerTip>
+  
+  <!-- EN: Hospitality -->
+  <Hospitality.headerTip>款待满意度</Hospitality.headerTip>
+  
+  <!-- EN: faction -->
+  <Hospitality_Faction.label>派系</Hospitality_Faction.label>
+  
+  <!-- EN: Make friends -->
+  <MakeFriends.headerTip>建立友谊</MakeFriends.headerTip>
+  
+  <!-- EN: shopping area -->
+  <ShoppingArea.label>购物区</ShoppingArea.label>
+  
+</LanguageData>

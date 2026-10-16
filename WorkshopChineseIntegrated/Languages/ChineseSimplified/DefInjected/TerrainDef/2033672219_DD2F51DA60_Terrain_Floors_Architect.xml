@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: asphalt -->
+  <VFEArch_Asphalt.label>沥青</VFEArch_Asphalt.label>
+  <!-- EN: Industrial-style asphalt used to create roads and streets. Very easy to traverse for people and vehicles alike. -->
+  <VFEArch_Asphalt.description>用于铺设道路的工业风格沥青。对于人和车辆来说十分易于行走。</VFEArch_Asphalt.description>
+  
+  <!-- EN: granite cobblestone floor -->
+  <VFEArch_CobblestoneFloorGranite.label>花岗岩鹅卵石地板</VFEArch_CobblestoneFloorGranite.label>
+  <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+  <VFEArch_CobblestoneFloorGranite.description>用大小不一的石块随意铺设出的地砖，给人以乡野城堡一样的感觉。虽然铺设速度要比普通石制地砖砖快得多，也不需要专业的岩石切割知识，但缺乏抛光设计的美感。</VFEArch_CobblestoneFloorGranite.description>
+  
+  <!-- EN: limestone cobblestone floor -->
+  <VFEArch_CobblestoneFloorLimestone.label>石灰岩鹅卵石地板</VFEArch_CobblestoneFloorLimestone.label>
+  <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+  <VFEArch_CobblestoneFloorLimestone.description>用大小不一的石块随意铺设出的地砖，给人以乡野城堡一样的感觉。虽然铺设速度要比普通石制地砖砖快得多，也不需要专业的岩石切割知识，但缺乏抛光设计的美感。</VFEArch_CobblestoneFloorLimestone.description>
+  
+  <!-- EN: marble cobblestone floor -->
+  <VFEArch_CobblestoneFloorMarble.label>大理石鹅卵石地板</VFEArch_CobblestoneFloorMarble.label>
+  <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+  <VFEArch_CobblestoneFloorMarble.description>用大小不一的石块随意铺设出的地砖，给人以乡野城堡一样的感觉。虽然铺设速度要比普通石制地砖砖快得多，也不需要专业的岩石切割知识，但缺乏抛光设计的美感。</VFEArch_CobblestoneFloorMarble.description>
+  
+  <!-- EN: sandstone cobblestone floor -->
+  <VFEArch_CobblestoneFloorSandstone.label>砂岩鹅卵石地板</VFEArch_CobblestoneFloorSandstone.label>
+  <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+  <VFEArch_CobblestoneFloorSandstone.description>用大小不一的石块随意铺设出的地砖，给人以乡野城堡一样的感觉。虽然铺设速度要比普通石制地砖砖快得多，也不需要专业的岩石切割知识，但缺乏抛光设计的美感。</VFEArch_CobblestoneFloorSandstone.description>
+  
+  <!-- EN: slate cobblestone floor -->
+  <VFEArch_CobblestoneFloorSlate.label>板岩鹅卵石地板</VFEArch_CobblestoneFloorSlate.label>
+  <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+  <VFEArch_CobblestoneFloorSlate.description>用大小不一的石块随意铺设出的地砖，给人以乡野城堡一样的感觉。虽然铺设速度要比普通石制地砖砖快得多，也不需要专业的岩石切割知识，但缺乏抛光设计的美感。</VFEArch_CobblestoneFloorSlate.description>
+  
+  <!-- EN: granite polished stone floor -->
+  <VFEArch_PolishedStoneFloorGranite.label>花岗岩抛光地砖</VFEArch_PolishedStoneFloorGranite.label>
+  <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+  <VFEArch_PolishedStoneFloorGranite.description>精美的抛光石砖，很适合用于打造优雅的豪宅。虽然铺设速度要比精致石制地砖快上不少，但需要消耗大量的资源。看起来很漂亮。</VFEArch_PolishedStoneFloorGranite.description>
+  
+  <!-- EN: limestone polished stone floor -->
+  <VFEArch_PolishedStoneFloorLimestone.label>石灰岩抛光地砖</VFEArch_PolishedStoneFloorLimestone.label>
+  <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+  <VFEArch_PolishedStoneFloorLimestone.description>精美的抛光石砖，很适合用于打造优雅的豪宅。虽然铺设速度要比精致石制地砖快上不少，但需要消耗大量的资源。看起来很漂亮。</VFEArch_PolishedStoneFloorLimestone.description>
+  
+  <!-- EN: marble polished stone floor -->
+  <VFEArch_PolishedStoneFloorMarble.label>大理石抛光地砖</VFEArch_PolishedStoneFloorMarble.label>
+  <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+  <VFEArch_PolishedStoneFloorMarble.description>精美的抛光石砖，很适合用于打造优雅的豪宅。虽然铺设速度要比精致石制地砖快上不少，但需要消耗大量的资源。看起来很漂亮。</VFEArch_PolishedStoneFloorMarble.description>
+  
+  <!-- EN: sandstone polished stone floor -->
+  <VFEArch_PolishedStoneFloorSandstone.label>砂岩抛光地砖</VFEArch_PolishedStoneFloorSandstone.label>
+  <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+  <VFEArch_PolishedStoneFloorSandstone.description>精美的抛光石砖，很适合用于打造优雅的豪宅。虽然铺设速度要比精致石制地砖快上不少，但需要消耗大量的资源。看起来很漂亮。</VFEArch_PolishedStoneFloorSandstone.description>
+  
+  <!-- EN: slate polished stone floor -->
+  <VFEArch_PolishedStoneFloorSlate.label>板岩抛光地砖</VFEArch_PolishedStoneFloorSlate.label>
+  <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+  <VFEArch_PolishedStoneFloorSlate.description>精美的抛光石砖，很适合用于打造优雅的豪宅。虽然铺设速度要比精致石制地砖快上不少，但需要消耗大量的资源。看起来很漂亮。</VFEArch_PolishedStoneFloorSlate.description>
+  
+  <!-- EN: granite slabs -->
+  <VFEArch_SlabsGranite.label>花岗岩古朴石板</VFEArch_SlabsGranite.label>
+  <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+  <VFEArch_SlabsGranite.description>用大石板随意铺设出的地砖，很适合用于打造圣殿或神庙。看起来十分漂亮，但需要花费大量的时间与资源进行铺设。</VFEArch_SlabsGranite.description>
+  
+  <!-- EN: limestone slabs -->
+  <VFEArch_SlabsLimestone.label>石灰岩古朴石板</VFEArch_SlabsLimestone.label>
+  <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+  <VFEArch_SlabsLimestone.description>用大石板随意铺设出的地砖，很适合用于打造圣殿或神庙。看起来十分漂亮，但需要花费大量的时间与资源进行铺设。</VFEArch_SlabsLimestone.description>
+  
+  <!-- EN: marble slabs -->
+  <VFEArch_SlabsMarble.label>大理石古朴石板</VFEArch_SlabsMarble.label>
+  <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+  <VFEArch_SlabsMarble.description>用大石板随意铺设出的地砖，很适合用于打造圣殿或神庙。看起来十分漂亮，但需要花费大量的时间与资源进行铺设。</VFEArch_SlabsMarble.description>
+  
+  <!-- EN: sandstone slabs -->
+  <VFEArch_SlabsSandstone.label>砂岩古朴石板</VFEArch_SlabsSandstone.label>
+  <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+  <VFEArch_SlabsSandstone.description>用大石板随意铺设出的地砖，很适合用于打造圣殿或神庙。看起来十分漂亮，但需要花费大量的时间与资源进行铺设。</VFEArch_SlabsSandstone.description>
+  
+  <!-- EN: slate slabs -->
+  <VFEArch_SlabsSlate.label>板岩古朴石板</VFEArch_SlabsSlate.label>
+  <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+  <VFEArch_SlabsSlate.description>用大石板随意铺设出的地砖，很适合用于打造圣殿或神庙。看起来十分漂亮，但需要花费大量的时间与资源进行铺设。</VFEArch_SlabsSlate.description>
+  
+  <!-- EN: wooden parquet -->
+  <VFEArch_WoodenParquet.label>木拼花地板</VFEArch_WoodenParquet.label>
+  <!-- EN: Beautifully laid down wooden flooring for that posh, fancy feeling. Whilst beautiful, it takes a long time to lay down and is also very flammable. -->
+  <VFEArch_WoodenParquet.description>精美的木地板，营造出华丽、别致的感觉。虽然很漂亮，但需要花费大量的时间来建造，而且非常易燃。</VFEArch_WoodenParquet.description>
+  
+  <!-- EN: birch wooden parquet -->
+  <VFEArch_WoodenParquetBirch.label>桦木拼花地板</VFEArch_WoodenParquetBirch.label>
+  <!-- EN: Beautifully laid down wooden flooring for that posh, fancy feeling. Whilst beautiful, it takes a long time to lay down and is also very flammable. -->
+  <VFEArch_WoodenParquetBirch.description>精美的木地板，营造出华丽、别致的感觉。虽然很漂亮，但需要花费大量的时间来建造，而且非常易燃。</VFEArch_WoodenParquetBirch.description>
+  
+  <!-- EN: mahogany wooden parquet -->
+  <VFEArch_WoodenParquetMahogany.label>桃花心木拼花地板</VFEArch_WoodenParquetMahogany.label>
+  <!-- EN: Beautifully laid down wooden flooring for that posh, fancy feeling. Whilst beautiful, it takes a long time to lay down and is also very flammable. -->
+  <VFEArch_WoodenParquetMahogany.description>精美的木地板，营造出华丽、别致的感觉。虽然很漂亮，但需要花费大量的时间来建造，而且非常易燃。</VFEArch_WoodenParquetMahogany.description>
+  
+  <!-- EN: walnut wooden parquet -->
+  <VFEArch_WoodenParquetWalnut.label>胡桃木拼花地板</VFEArch_WoodenParquetWalnut.label>
+  <!-- EN: Beautifully laid down wooden flooring for that posh, fancy feeling. Whilst beautiful, it takes a long time to lay down and is also very flammable. -->
+  <VFEArch_WoodenParquetWalnut.description>精美的木地板，营造出华丽、别致的感觉。虽然很漂亮，但需要花费大量的时间来建造，而且非常易燃。</VFEArch_WoodenParquetWalnut.description>
+  
+  <!-- EN: birch wood floor -->
+  <VFEArch_WoodPlankFloorBirch.label>桦木地板</VFEArch_WoodPlankFloorBirch.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <VFEArch_WoodPlankFloorBirch.description>普通木地板可以营造出温馨、如家的感觉。虽然它可以快速铺设，但也非常易燃。</VFEArch_WoodPlankFloorBirch.description>
+  
+  <!-- EN: mahogany wood floor -->
+  <VFEArch_WoodPlankFloorMahogany.label>桃花心木地板</VFEArch_WoodPlankFloorMahogany.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <VFEArch_WoodPlankFloorMahogany.description>普通木地板可以营造出温馨、如家的感觉。虽然它可以快速铺设，但也非常易燃。</VFEArch_WoodPlankFloorMahogany.description>
+  
+  <!-- EN: walnut wood floor -->
+  <VFEArch_WoodPlankFloorWalnut.label>胡桃木地板</VFEArch_WoodPlankFloorWalnut.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <VFEArch_WoodPlankFloorWalnut.description>普通木地板可以营造出温馨、如家的感觉。虽然它可以快速铺设，但也非常易燃。</VFEArch_WoodPlankFloorWalnut.description>
+  
+</LanguageData>

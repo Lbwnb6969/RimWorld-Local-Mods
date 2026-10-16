@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archery target -->
+  <VFEM2_ArcheryTarget.label>箭靶</VFEM2_ArcheryTarget.label>
+  <!-- EN: A simple archery target mounted on a wooden stand. It's relaxing, and allows oneself to test their accuracy and train over time without risking fatal confrontation. -->
+  <VFEM2_ArcheryTarget.description>一个简单的箭靶。它能在让人放松的同时训练射击技能。</VFEM2_ArcheryTarget.description>
+  
+  <!-- EN: training dummy -->
+  <VFEM2_TrainingDummy.label>训练假人</VFEM2_TrainingDummy.label>
+  <!-- EN: A target dummy made out of wood, soil, and dried plant matter. Surprisingly durable, allows oneself to test their swordsmanship and train over time without risking fatal confrontation. -->
+  <VFEM2_TrainingDummy.description>一个用木头，泥土和干草做成的假人。非常耐操，可以用来无风险地训练战斗技巧。</VFEM2_TrainingDummy.description>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AmmoSet_Ozutsu_direct.label>大筒</AmmoSet_Ozutsu_direct.label>
+  <AmmoSet_Ozutsu_indirect.label>火箭筒</AmmoSet_Ozutsu_indirect.label>
+  
+  <Ammo_TA_BoHiya.label>火箭</Ammo_TA_BoHiya.label>
+  <Ammo_TA_BoHiya.description>纸制外壳填充火药混合物，燃烧时发出明亮光芒。</Ammo_TA_BoHiya.description>
+  
+  <Bullet_TA_Ozutsu_Ball.label>大筒弹丸</Bullet_TA_Ozutsu_Ball.label>
+  <Bullet_TA_Ozutsu_Shot.label>大筒散弹</Bullet_TA_Ozutsu_Shot.label>
+  <Bullet_TA_BoHiya.label>火箭弹</Bullet_TA_BoHiya.label>
+  
+  <MakeAmmo_TA_BoHiya.label>制作火箭x12</MakeAmmo_TA_BoHiya.label>
+  <MakeAmmo_TA_BoHiya.description>制作12枚火箭</MakeAmmo_TA_BoHiya.description>
+  <MakeAmmo_TA_BoHiya.jobString>制作火箭</MakeAmmo_TA_BoHiya.jobString>
+
+</LanguageData>

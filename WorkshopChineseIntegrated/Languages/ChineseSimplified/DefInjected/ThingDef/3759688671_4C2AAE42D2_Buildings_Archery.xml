@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fanion de pas de tir -->
+  <RimJoust_ArcherySpot.label>射箭起射线旗帜</RimJoust_ArcherySpot.label>
+  <!-- EN: Le pas de tir du concours d'archerie. Les archers s'alignent ici, face à la butte de tir. Pose la butte à 10-20 cases, avec une ligne de tir dégagée entre les deux, et rien de précieux ni de vivant derrière : les flèches perdues ne préviennent pas. La couleur vient du matériau utilisé. -->
+  <RimJoust_ArcherySpot.description>射箭比赛的起射线。弓箭手们在此列队，面向射箭靶。将靶子放置在10-20格外，两者之间保持一条畅通的射击线，靶子后面不要有任何贵重或活的东西：流矢可不会先打招呼。颜色取决于使用的材料。</RimJoust_ArcherySpot.description>
+
+  <!-- EN: butte de tir -->
+  <RimJoust_ArcheryTarget.label>射箭靶</RimJoust_ArcheryTarget.label>
+  <!-- EN: Une butte de paille avec une cible peinte, pour les concours d'archerie. Pendant un concours, elle encaisse les flèches sans broncher et chaque touche est comptée. En dehors, c'est juste de la paille qui n'a rien demandé à personne. -->
+  <RimJoust_ArcheryTarget.description>一个带彩绘靶面的稻草靶，用于射箭比赛。比赛期间，它默默承受箭矢，每次命中都会被计入。在非比赛时间，它只是没人招惹的稻草罢了。</RimJoust_ArcheryTarget.description>
+  
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_MeleeWeapon_ArcWrench.label>弧形扳手</DV_MeleeWeapon_ArcWrench.label>
+    <DV_MeleeWeapon_ArcWrench.description>一种沉重的双手电弧焊扳手。电弧在两棱之间形成，熔化填充金属，冷却后形成牢固的接头。</DV_MeleeWeapon_ArcWrench.description>
+    <DV_MeleeWeapon_ArcWrench.tools.0.label>握把</DV_MeleeWeapon_ArcWrench.tools.0.label>
+    <DV_MeleeWeapon_ArcWrench.tools.1.label>头部</DV_MeleeWeapon_ArcWrench.tools.1.label>
+
+    <DV_Apparel_ServiceHeadset.label>服务耳麦</DV_Apparel_ServiceHeadset.label>
+    <DV_Apparel_ServiceHeadset.description>可协助机械师修复机械体的头戴式传感器和诊断设备阵列。</DV_Apparel_ServiceHeadset.description>
+</LanguageData>

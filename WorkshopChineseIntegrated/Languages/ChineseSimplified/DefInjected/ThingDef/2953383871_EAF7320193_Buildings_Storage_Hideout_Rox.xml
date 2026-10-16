@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Presser -->
+
+  <DankPyon_PresserRox.label>压榨机</DankPyon_PresserRox.label>
+  <DankPyon_PresserRox.description>一种用于压榨选定物品的木制装置。用来把水果压榨成浆或把凝乳里的乳清萃取出来。</DankPyon_PresserRox.description>
+
+  <DankPyon_HideoutRusticBarrelStackRox.label>多层储物桶</DankPyon_HideoutRusticBarrelStackRox.label>
+  <DankPyon_HideoutRusticBarrelStackRox.description>用于一般储存的圆柱形桶。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_HideoutRusticBarrelStackRox.description>
+
+  <DankPyon_HideoutTableMarket_MeatsRox.label>(R)肉摊</DankPyon_HideoutTableMarket_MeatsRox.label>
+  <DankPyon_HideoutTableMarket_MeatsRox.description>一张桌子，上面摆满了肉品。</DankPyon_HideoutTableMarket_MeatsRox.description>  
+
+  <DankPyon_HideoutTableMarket_DairyRox.label>(R)乳品摊</DankPyon_HideoutTableMarket_DairyRox.label>
+  <DankPyon_HideoutTableMarket_DairyRox.description>一张桌子，上面摆满了奶制品。</DankPyon_HideoutTableMarket_DairyRox.description>
+
+
+  <!-- Drying Rack -->
+
+  <DankPyon_HideoutDryingRack_BigRox.label>(R)晾晒架</DankPyon_HideoutDryingRack_BigRox.label>
+  <DankPyon_HideoutDryingRack_BigRox.description>用于在阳光下晾干肉类和牧草的木架，方便物品保存和长期使用。</DankPyon_HideoutDryingRack_BigRox.description>
+
+  <!-- Tanning Rack -->
+
+  <DankPyon_HideoutTanningRackRox.label>(R)鞣皮架</DankPyon_HideoutTanningRackRox.label>
+  <DankPyon_HideoutTanningRackRox.description>用于将生皮加工成有用皮革的立架。</DankPyon_HideoutTanningRackRox.description>
+
+  <!-- Misc -->
+
+  <DankPyon_BundledSack1x1cRox.label>捆绑麻袋</DankPyon_BundledSack1x1cRox.label>
+  <DankPyon_BundledSack1x1cRox.description>坚固的存物布袋，旨在有效地储存资源。存放在其中的物品不会影响房间的美观，即使在户外也不会变质。</DankPyon_BundledSack1x1cRox.description>
+
+
+</LanguageData>

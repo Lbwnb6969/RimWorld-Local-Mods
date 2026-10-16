@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beaver -->
+  <AEXP_Beaver.label>海狸</AEXP_Beaver.label>
+  
+  <!-- EN: hedgehog -->
+  <AEXP_Hedgehog.label>刺猬</AEXP_Hedgehog.label>
+  
+  <!-- EN: red panda -->
+  <AEXP_RedPanda.label>小熊猫</AEXP_RedPanda.label>
+  
+  <!-- EN: wild goose -->
+  <AEXP_WildGoose.label>大雁</AEXP_WildGoose.label>
+  <!-- EN: wild gander -->
+  <AEXP_WildGoose.labelMale>大雁</AEXP_WildGoose.labelMale>
+  <!-- EN: wild geese -->
+  <AEXP_WildGoose.labelPlural>大雁</AEXP_WildGoose.labelPlural>
+  <!-- EN: gosling -->
+  <AEXP_WildGoose.lifeStages.gosling.label>大雁仔</AEXP_WildGoose.lifeStages.gosling.label>
+  
+</LanguageData>

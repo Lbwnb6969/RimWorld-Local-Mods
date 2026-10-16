@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_ParalyzingBite.label>毒素注入</DV_ParalyzingBite.label>
+    <DV_ParalyzingBite.description>咬住目标并往其肌肉中注射麻痹神经的毒素，那将使目标在短时间内无法移动。</DV_ParalyzingBite.description>
+    <DV_ParalyzingBite.verbProperties.label>叮咬</DV_ParalyzingBite.verbProperties.label>
+</LanguageData>

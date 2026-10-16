@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: feast -->
+  <RimFeast_Feast.label>宴会</RimFeast_Feast.label>
+  <!-- EN: The feast has been called off. -->
+  <RimFeast_Feast.calledOffMessage>宴会被取消了。</RimFeast_Feast.calledOffMessage>
+  <!-- EN: The feast has wound down. -->
+  <RimFeast_Feast.finishedMessage>宴会已接近尾声。</RimFeast_Feast.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} is presiding over a feast. -->
+  <RimFeast_Feast.letterText>{ORGANIZER_labelShort}正在主持一场宴会。</RimFeast_Feast.letterText>
+  <!-- EN: Feast -->
+  <RimFeast_Feast.letterTitle>宴会</RimFeast_Feast.letterTitle>
+  
+  <!-- EN: feast -->
+  <RimFeast_GuestFeast.label>宴会</RimFeast_GuestFeast.label>
+  <!-- EN: The feast has been called off. -->
+  <RimFeast_GuestFeast.calledOffMessage>宴会被取消了。</RimFeast_GuestFeast.calledOffMessage>
+  <!-- EN: The feast has wound down. -->
+  <RimFeast_GuestFeast.finishedMessage>宴会已接近尾声。</RimFeast_GuestFeast.finishedMessage>
+  <!-- EN: Guests are feasting. -->
+  <RimFeast_GuestFeast.letterText>来宾们正在宴饮。</RimFeast_GuestFeast.letterText>
+  <!-- EN: Feast -->
+  <RimFeast_GuestFeast.letterTitle>宴会</RimFeast_GuestFeast.letterTitle>
+  
+</LanguageData>

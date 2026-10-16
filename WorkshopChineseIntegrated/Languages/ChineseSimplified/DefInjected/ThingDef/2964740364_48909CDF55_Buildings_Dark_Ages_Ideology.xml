@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Reliquary -->
+
+  <DA_SepulchralReliquary.label>墓穴圣物展台</DA_SepulchralReliquary.label>
+  <DA_SepulchralReliquary.description>一座布置着蜡烛的仪式建筑，中间的银制容器能够用以保存和展示圣物。仅仅是圣坛本身流露的神圣氛围，彷彿就能吸引朝圣者前来朝拜。圣物是一些文化、信仰体系或宗教所崇敬的古代物品。</DA_SepulchralReliquary.description>
+
+  <DA_DarklightSepulchralReliquary.label>暗光墓穴圣物箱</DA_DarklightSepulchralReliquary.label>
+  <DA_DarklightSepulchralReliquary.description>一座布置着暗光蜡烛的仪式建筑，中间的银制容器能够用以保存和展示圣物。仅仅是圣坛本身流露的神圣氛围，彷彿就能吸引朝圣者前来朝拜。圣物是一些文化、信仰体系或宗教所崇敬的古代物品。</DA_DarklightSepulchralReliquary.description>
+
+  <DA_BloodflameSepulchralReliquary.label>血色墓穴圣物箱</DA_BloodflameSepulchralReliquary.label>
+  <DA_BloodflameSepulchralReliquary.description>一座布置着血色蜡烛的仪式建筑，中间的银制容器能够用以保存和展示圣物。仅仅是圣坛本身流露的神圣氛围，彷彿就能吸引朝圣者前来朝拜。圣物是一些文化、信仰体系或宗教所崇敬的古代物品。</DA_BloodflameSepulchralReliquary.description>
+
+
+</LanguageData>

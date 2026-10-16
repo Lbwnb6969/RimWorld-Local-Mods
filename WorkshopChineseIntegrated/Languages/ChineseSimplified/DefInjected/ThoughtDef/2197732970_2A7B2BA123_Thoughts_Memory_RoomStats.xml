@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decent library room -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.decent_library_room.label>体面的图书馆</VBE_JoyActivityInImpressiveLibraryRoom.stages.decent_library_room.label>
+  <!-- EN: I had fun in a decent library room. -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.decent_library_room.description>我在一间体面的图书馆里读书。</VBE_JoyActivityInImpressiveLibraryRoom.stages.decent_library_room.description>
+  <!-- EN: slightly impressive library room -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.slightly_impressive_library_room.label>令人小有印象的图书馆</VBE_JoyActivityInImpressiveLibraryRoom.stages.slightly_impressive_library_room.label>
+  <!-- EN: I had fun in a nice library room. -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.slightly_impressive_library_room.description>我在一间令人小有印象的图书馆里读书。</VBE_JoyActivityInImpressiveLibraryRoom.stages.slightly_impressive_library_room.description>
+  <!-- EN: somewhat impressive library room -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.somewhat_impressive_library_room.label>印象非常深刻的图书馆</VBE_JoyActivityInImpressiveLibraryRoom.stages.somewhat_impressive_library_room.label>
+  <!-- EN: I had a great time in an impressive library room. -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.somewhat_impressive_library_room.description>我在一间印象非常深刻的图书馆里读书。</VBE_JoyActivityInImpressiveLibraryRoom.stages.somewhat_impressive_library_room.description>
+  <!-- EN: very impressive library room -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.very_impressive_library_room.label>印象非常深刻的图书馆</VBE_JoyActivityInImpressiveLibraryRoom.stages.very_impressive_library_room.label>
+  <!-- EN: I had a great time in a very impressive library room. -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.very_impressive_library_room.description>我在一间印象非常深刻的图书馆里读书。</VBE_JoyActivityInImpressiveLibraryRoom.stages.very_impressive_library_room.description>
+  <!-- EN: extremely impressive library room -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.extremely_impressive_library_room.label>印象极度深刻的图书馆</VBE_JoyActivityInImpressiveLibraryRoom.stages.extremely_impressive_library_room.label>
+  <!-- EN: I had a great time in an extremely impressive library room. I could stay there forever. -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.extremely_impressive_library_room.description>我在一间印象极度深刻的图书馆里读书，我都不想回来了。</VBE_JoyActivityInImpressiveLibraryRoom.stages.extremely_impressive_library_room.description>
+  <!-- EN: unbelievably impressive library room -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.unbelievably_impressive_library_room.label>难以置信的图书馆</VBE_JoyActivityInImpressiveLibraryRoom.stages.unbelievably_impressive_library_room.label>
+  <!-- EN: I had a great time in an unbelievably impressive library room. I could stay there forever. -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.unbelievably_impressive_library_room.description>我在一间难以置信的图书馆里读书，我都不想回来了。</VBE_JoyActivityInImpressiveLibraryRoom.stages.unbelievably_impressive_library_room.description>
+  <!-- EN: wondrously impressive library room -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.wondrously_impressive_library_room.label>奇迹非凡的图书馆</VBE_JoyActivityInImpressiveLibraryRoom.stages.wondrously_impressive_library_room.label>
+  <!-- EN: I had a great time in a wonderful library room. I could stay there forever. -->
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.wondrously_impressive_library_room.description>我在一间奇迹非凡的图书馆里读书，我都不想回来了。</VBE_JoyActivityInImpressiveLibraryRoom.stages.wondrously_impressive_library_room.description>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Mead.label>烟熏蜂蜜酒</DankPyon_Mead.label>
+  <DankPyon_Mead.description>烟熏蜂蜜加水稀释，经过发酵生成酒精而制成。和麦酒一样是此区社交活动的真正命脉。酒馆里的几杯酒足以让你忘记野外工作的艰辛、路上的危险或考虑不周的婚姻誓言。让温暖的醉意笼罩着你，不用担心任何事情，至少在今晚。</DankPyon_Mead.description>
+  <DankPyon_Mead.tools.0.label>瓶身</DankPyon_Mead.tools.0.label>
+  <DankPyon_Mead.tools.1.label>瓶颈</DankPyon_Mead.tools.1.label>
+  <DankPyon_Mead.ingestible.ingestCommandString>饮用{0}</DankPyon_Mead.ingestible.ingestCommandString>
+  <DankPyon_Mead.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Mead.ingestible.ingestReportString>
+
+
+</LanguageData>

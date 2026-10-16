@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dandelions -->
+  <Plant_DesertDandelion.label>蒲公英</Plant_DesertDandelion.label>
+  <!-- EN: A tiny orange flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_DesertDandelion.description>一种长成一大簇的橙色小花，因为繁殖迅速常被当作野草。实际上也是一种比较好看的花卉。</Plant_DesertDandelion.description>
+  
+  <!-- EN: flower cactus -->
+  <RG_FlowerCactus.label>盛花仙人掌</RG_FlowerCactus.label>
+  <!-- EN: A tiny cactus with a purple flower growing on it. -->
+  <RG_FlowerCactus.description>顶部开有紫花的小型仙人掌。</RG_FlowerCactus.description>
+  
+  <!-- EN: grass -->
+  <RG_Plant_AridGrass.label>草</RG_Plant_AridGrass.label>
+  <!-- EN: Wild grass. Grows in arid regions where there is little light and minimally fertile ground. -->
+  <RG_Plant_AridGrass.description>干旱地区的野草，在稍微有点光线和土地的地方就会长出来。</RG_Plant_AridGrass.description>
+  
+</LanguageData>

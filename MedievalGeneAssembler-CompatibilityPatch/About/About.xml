@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Medieval Gene Assembler - 1.6 Compatibility Patch</name>
+  <author>Local compatibility patch</author>
+  <packageId>Local.DDJY.MedievalGeneAssembler.Compatibility</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Fixes the Medieval Gene Assembler 1.6 Biotech DesignationCategoryDef XPath.</description>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld.Biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+  </modDependencies>
+  <loadBefore>
+    <li>DDJY.MedievalGeneAssembler</li>
+  </loadBefore>
+</ModMetaData>

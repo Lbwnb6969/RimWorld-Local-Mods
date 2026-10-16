@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clarity draught -->
+  <VFEM2_ClarityDraught.label>养神灵药</VFEM2_ClarityDraught.label>
+  <!-- EN: A draught is improving psychic sensitivity of the user, improving their meditation capabilities. -->
+  <VFEM2_ClarityDraught.description>喝下的灵药强化了服用者的心灵敏感度和冥想效果。</VFEM2_ClarityDraught.description>
+  <!-- EN: fading -->
+  <VFEM2_ClarityDraught.stages.fading.label>消退</VFEM2_ClarityDraught.stages.fading.label>
+  <!-- EN: potent -->
+  <VFEM2_ClarityDraught.stages.potent.label>起效</VFEM2_ClarityDraught.stages.potent.label>
+  
+</LanguageData>

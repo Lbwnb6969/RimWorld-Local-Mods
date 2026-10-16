@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gnawed bones -->
+  <DA_Filth_GnawedBones.label>碎骨</DA_Filth_GnawedBones.label>
+  
+  <!-- EN: troll burrow -->
+  <DA_FreshTrollBurrow.label>巨魔地道</DA_FreshTrollBurrow.label>
+  <!-- EN: A large troll burrow that runs deep underground. Growling and scratching can be heard from within. This one is freshly dug. -->
+  <DA_FreshTrollBurrow.description>一个巨大的地道网络。能在里面听到嚎叫和抓挠声。这个洞刚挖出来。</DA_FreshTrollBurrow.description>
+  
+  <!-- EN: gnawed remains -->
+  <DA_GnawedBones.label>嚼过的遗骸</DA_GnawedBones.label>
+  <!-- EN: Skeletal remains covered with teeth dents. Often signifying the presence of a nearby troll nest. -->
+  <DA_GnawedBones.description>有牙印的骷髅。通常意味着附近有一个巨魔巢穴。</DA_GnawedBones.description>
+  
+  <!-- EN: troll burrow -->
+  <DA_TrollBurrow.label>巨魔地道</DA_TrollBurrow.label>
+  <!-- EN: A large troll burrow that runs deep underground. Growling and scratching can be heard from within. -->
+  <DA_TrollBurrow.description>一个巨大的地道网络。能在里面听到嚎叫和抓挠声</DA_TrollBurrow.description>
+  <!-- EN: Troll burrow -->
+  <DA_TrollBurrow.comps.CompProximityLetter.letterLabel>巨魔地道</DA_TrollBurrow.comps.CompProximityLetter.letterLabel>
+  <!-- EN: {PAWN_nameDef} has noticed a large burrow nearby, most likely a troll nest.\n\nTrolls are voracious predators by nature and should be avoided. -->
+  <DA_TrollBurrow.comps.CompProximityLetter.letterText>{PAWN_nameDef}注意到附近有一个大坑道，很可能是一个巨魔巢。\n\n巨魔是天性贪婪的捕食者应该尽量避免遭遇。</DA_TrollBurrow.comps.CompProximityLetter.letterText>
+  
+</LanguageData>

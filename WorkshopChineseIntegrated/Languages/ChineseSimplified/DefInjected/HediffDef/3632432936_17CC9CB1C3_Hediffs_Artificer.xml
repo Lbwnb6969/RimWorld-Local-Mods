@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificer link -->
+  <VR_ArtificerImplant.label>机巧师链接</VR_ArtificerImplant.label>
+  <!-- EN: A bionic implant that allows direct control of mechanoids. Mechlinks are used by soldiers to control war mechs, and by workers to control labor mechs. A person with a mechlink is known as a mechanitor.\n\nMechlinks are self-installable. Pressed into the back of the throat, the unit injects itself through the flesh to clamp inside the base of the skull where it meets the spinal cord. There, it threads a web of ultrafine wires throughout nearby neuronal tissue to make the direct mental link between the user and the mechanoid control band.\n\nMechlinks are not simply devices for sending radio signals to mechanoids, because mechanoids are not merely robots. In addition to traditional computers, mechanoids have a dim psychic presence, so fluently controlling them requires a psychic connection. By linking mechanitor and mechanoid both psychically and electromagnetically, the mechlink permits deeper control than screen-and-button interfaces.\n\nSince the mechlink interlaces deep within the brain tissue, it can only be removed after death.\n\nNote: A mechanitor must be capable of smithing work to gestate mechanoids. -->
+  <VR_ArtificerImplant.description>一种仿生植入体，可直接控制机械体。机控链接用于让士兵操控战斗机甲、让工人操控劳作机甲。拥有机控链接的人被称为机控师。\n\n机控链接可自我安装。装置压入喉后，穿透组织并夹持在颅底与脊髓相接处。随后，它会将极细的导线编织进附近的神经组织，在使用者与机械体控制频带之间建立直接的心灵链接。\n\n机控链接并非只是向机械体发送无线电信号的装置，因为机械体并不仅仅是机器人。除了传统计算机外，机械体还具备微弱的灵能存在，因此要流畅操控它们需要灵能连接。通过在灵能与电磁层面同时链接机控师与机械体，机控链接提供了比屏幕与按钮界面更深层的控制。\n\n由于机控链接深入脑组织交织，只能在死亡后移除。\n\n注意：机控师必须能够进行锻造工作，才能孕育机械体。</VR_ArtificerImplant.description>
+  <!-- EN: Reusable {HEDIFF_label} available -->
+  <VR_ArtificerImplant.comps.HediffComp_LetterOnDeath.letterLabel>可重复使用的{HEDIFF_label}</VR_ArtificerImplant.comps.HediffComp_LetterOnDeath.letterLabel>
+  <!-- EN: {PAWN} has died with a {HEDIFF_label} installed. This can be removed and installed by someone else. -->
+  <VR_ArtificerImplant.comps.HediffComp_LetterOnDeath.letterText>{PAWN}死亡时安装了{HEDIFF_label}。可将其取出并由他人安装。</VR_ArtificerImplant.comps.HediffComp_LetterOnDeath.letterText>
+  <!-- EN: A bionic implant that allows direct control of mechanoids. Can only be removed after death. -->
+  <VR_ArtificerImplant.descriptionShort>一种仿生植入体，可直接控制机械体。只能在死亡后移除。</VR_ArtificerImplant.descriptionShort>
+  
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: interrogation -->
+  <VFEA_Interrogation.label>审讯</VFEA_Interrogation.label>
+  
+  <!-- EN: recruit attempt -->
+  <VFEA_RecruitAttempt.label>试图招募</VFEA_RecruitAttempt.label>
+  
+</LanguageData>

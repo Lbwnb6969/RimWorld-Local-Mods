@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Empire_Fighter_Trooper.label>轻步兵</Empire_Fighter_Trooper.label>
+
+  <Empire_Fighter_Grenadier.label>重型远程步兵</Empire_Fighter_Grenadier.label>
+
+  <Empire_Fighter_Champion.label>重型步兵</Empire_Fighter_Champion.label>
+
+  <Empire_Fighter_Cataphract.label>十字军</Empire_Fighter_Cataphract.label>
+
+  <Empire_Fighter_StellicGuardRanged.label>星辰守卫</Empire_Fighter_StellicGuardRanged.label>
+
+  <Empire_Fighter_StellicGuardMelee.label>星辰守卫</Empire_Fighter_StellicGuardMelee.label>
+
+</LanguageData>

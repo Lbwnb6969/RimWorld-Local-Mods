@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy steam crossbow -->
+  <VR_ConstructGun_HeavyCrossbow.label>蒸汽弩</VR_ConstructGun_HeavyCrossbow.label>
+  <!-- EN: A large mechanical crossbow with a steam-charged catapult. -->
+  <VR_ConstructGun_HeavyCrossbow.description>一把带蒸汽蓄能抛射机构的大型机械弩。</VR_ConstructGun_HeavyCrossbow.description>
+  <!-- EN: barrel -->
+  <VR_ConstructGun_HeavyCrossbow.tools.barrel.label>炮管</VR_ConstructGun_HeavyCrossbow.tools.barrel.label>
+  <!-- EN: heavy steam crossbow -->
+  <VR_ConstructGun_HeavyCrossbow.verbs.Verb_Shoot.label>蒸汽弩</VR_ConstructGun_HeavyCrossbow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: heavy flame cannon -->
+  <VR_ConstructGun_HeavyFlamer.label>重型火焰炮</VR_ConstructGun_HeavyFlamer.label>
+  <!-- EN: Emits a short-range stream of alchemical flame, igniting terrain and melting armor. -->
+  <VR_ConstructGun_HeavyFlamer.description>喷射短程炼金火焰流，点燃地面并熔化装甲。</VR_ConstructGun_HeavyFlamer.description>
+  <!-- EN: barrel -->
+  <VR_ConstructGun_HeavyFlamer.tools.barrel.label>炮管</VR_ConstructGun_HeavyFlamer.tools.barrel.label>
+  <!-- EN: heavy flame cannon -->
+  <VR_ConstructGun_HeavyFlamer.verbs.Verb_ConstructFlame.label>重型火焰炮</VR_ConstructGun_HeavyFlamer.verbs.Verb_ConstructFlame.label>
+  
+  <!-- UNUSED -->
+  <VR_ConstructGun_HeavyFlamer.tools.barrel-1.label>炮管</VR_ConstructGun_HeavyFlamer.tools.barrel-1.label>
+  
+</LanguageData>

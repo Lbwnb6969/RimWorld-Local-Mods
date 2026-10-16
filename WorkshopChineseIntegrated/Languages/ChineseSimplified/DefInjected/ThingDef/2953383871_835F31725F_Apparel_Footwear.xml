@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Leather Shoes -->
+
+  <AMT_Footwear_Peasantshoes.label>农夫鞋</AMT_Footwear_Peasantshoes.label>
+  <AMT_Footwear_Peasantshoes.description>使用鞣制皮革缝制以贴合脚部。提供最低限度的保护。穿上这双鞋子能增加移动速度。</AMT_Footwear_Peasantshoes.description>
+
+  <AMT_Footwear_Nobleshoes.label>贵族鞋</AMT_Footwear_Nobleshoes.label>
+  <AMT_Footwear_Nobleshoes.description>由天才鞋匠使用鞣制皮革精心缝制。这双鞋子显露复杂的设计和工艺。</AMT_Footwear_Nobleshoes.description>
+
+
+  <!-- Leather Boots -->
+
+  <AMT_Footwear_Townboots.label>正装短靴</AMT_Footwear_Townboots.label>
+  <AMT_Footwear_Townboots.description>一般人穿的普通靴子。有助于保护脚部不受外界损伤，并提供良好的机动力。</AMT_Footwear_Townboots.description>
+
+  <AMT_Footwear_Travelboots.label>旅行短靴</AMT_Footwear_Travelboots.label>
+  <AMT_Footwear_Travelboots.description>使用鞣制皮革缝制以贴合脚部。提供最低限度的保护。穿上这双靴子能增加移动速度。</AMT_Footwear_Travelboots.description>
+
+  <AMT_Footwear_Nobleboots.label>贵族长靴</AMT_Footwear_Nobleboots.label>
+  <AMT_Footwear_Nobleboots.description>由天才鞋匠使用鞣制皮革精心缝制。这双靴子显露复杂的设计和工艺。</AMT_Footwear_Nobleboots.description>
+
+
+  <!-- Feet Shackles -->
+
+  <AMT_Footwear_Shackles.label>脚镣</AMT_Footwear_Shackles.label>
+  <AMT_Footwear_Shackles.description>锁在脚上的金属镣铐，会限制装备者的移动速度。</AMT_Footwear_Shackles.description>
+
+
+</LanguageData>

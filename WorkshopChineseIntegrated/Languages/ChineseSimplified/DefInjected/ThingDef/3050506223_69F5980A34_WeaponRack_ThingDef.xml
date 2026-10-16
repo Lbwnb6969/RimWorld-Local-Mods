@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Weapon Rack -->
+  <ASF_WeaponRack.label>简易武器架</ASF_WeaponRack.label>
+  <!-- EN: Sturdy pieces of wood lashed together with leather or fabric for storing large quantities of weaponry. Does not prevent deterioration. Prevents weaponry from affecting the beauty of its surroundings \n\nTotal Capacity: 8 Stacks -->
+  <ASF_WeaponRack.description>经皮革或织物捆扎加固过的结实木架，可用于储存各种武器。存放在里面的物品露天时会老化，但不会影响周围环境的美观度。\n\n&lt;color=#E5E54C&gt;储存能力：&lt;/color&gt;\n\n【最大储存量】：8组\n【可储存类型】：所有物品</ASF_WeaponRack.description>
+  
+</LanguageData>

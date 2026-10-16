@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn apparel -->
+  <CABurnApparel.label>焚烧衣物</CABurnApparel.label>
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
+  <CABurnApparel.description>通过焚烧来完全摧毁不需要的衣物。</CABurnApparel.description>
+  <!-- EN: Burning apparel. -->
+  <CABurnApparel.jobString>正在焚烧衣物。</CABurnApparel.jobString>
+  
+  <!-- EN: cook a grill snack -->
+  <CACookGrillSnack.label>烹饪烧烤小食</CACookGrillSnack.label>
+  <!-- EN: Cook a grill snack. -->
+  <CACookGrillSnack.description>烹饪烧烤小食。</CACookGrillSnack.description>
+  <!-- EN: Cooking grill snack. -->
+  <CACookGrillSnack.jobString>正在烹饪烧烤小食。</CACookGrillSnack.jobString>
+  
+  <!-- EN: cook a grill snack x4 -->
+  <CACookGrillSnackBulk.label>烹饪烧烤小食 x4</CACookGrillSnackBulk.label>
+  <!-- EN: Cook 4 grill snacks. -->
+  <CACookGrillSnackBulk.description>烹饪四份烧烤小食。</CACookGrillSnackBulk.description>
+  <!-- EN: Cooking 4 grill snacks. -->
+  <CACookGrillSnackBulk.jobString>正在烹饪四份烧烤小食。</CACookGrillSnackBulk.jobString>
+  
+  <!-- EN: make chemfuel from corpses -->
+  <CAMake_ChemfuelFromCorpses.label>用尸体制作化合燃料</CAMake_ChemfuelFromCorpses.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic corpses. -->
+  <CAMake_ChemfuelFromCorpses.description>通过从尸体中提取生物燃料以制作一组化合燃料。</CAMake_ChemfuelFromCorpses.description>
+  <!-- EN: Refining chemfuel from corpses. -->
+  <CAMake_ChemfuelFromCorpses.jobString>正在用尸体提炼化合燃料。</CAMake_ChemfuelFromCorpses.jobString>
+  
+  <!-- EN: make chemfuel from organics -->
+  <CAMake_ChemfuelFromOrganics.label>用有机物制作化合燃料</CAMake_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <CAMake_ChemfuelFromOrganics.description>通过从有机原料中提取生物燃料以制作一组化合燃料。</CAMake_ChemfuelFromOrganics.description>
+  <!-- EN: Refining chemfuel from organics. -->
+  <CAMake_ChemfuelFromOrganics.jobString>正在从有机物中提炼化合燃料。</CAMake_ChemfuelFromOrganics.jobString>
+  
+  <!-- EN: make chemfuel from wood -->
+  <CAMake_ChemfuelFromWood.label>用木材制作化合燃料</CAMake_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <CAMake_ChemfuelFromWood.description>通过气化原木以制作一组化合燃料。</CAMake_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <CAMake_ChemfuelFromWood.jobString>正在从木材中提炼化合燃料。</CAMake_ChemfuelFromWood.jobString>
+  
+  <!-- EN: make spacer tent supplies -->
+  <Make_CASpacerTentSupplies.label>制作太空帐篷用具</Make_CASpacerTentSupplies.label>
+  <!-- EN: Create spacer tent supplies, used to build high quality camp sites. -->
+  <Make_CASpacerTentSupplies.description>制作太空帐篷用具，用于搭建高质量的营地。</Make_CASpacerTentSupplies.description>
+  <!-- EN: Making spacer tent supplies. -->
+  <Make_CASpacerTentSupplies.jobString>正在制作太空帐篷用具。</Make_CASpacerTentSupplies.jobString>
+  
+</LanguageData>

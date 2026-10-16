@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cubic bed -->
+  <AM_CubicBed.label>魔方单人床</AM_CubicBed.label>
+  <!-- EN: Rest in the loving embrace of the Cube. -->
+  <AM_CubicBed.description>在魔方慈爱的怀抱中安然入睡吧。</AM_CubicBed.description>
+  
+  <!-- EN: cubic hospital bed -->
+  <AM_CubicHospitalBed.label>魔方医疗床</AM_CubicHospitalBed.label>
+  <!-- EN: Rest in the loving embrace of the Cube. Specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <AM_CubicHospitalBed.description>在魔方慈爱的怀抱中安然入睡吧。专为伤员设计，可以增加治疗的成功率。</AM_CubicHospitalBed.description>
+  
+  <!-- EN: double cubic bed -->
+  <AM_DoubleCubicBed.label>魔方双人床</AM_DoubleCubicBed.label>
+  <!-- EN: Rest in the loving embrace of the Cube. -->
+  <AM_DoubleCubicBed.description>在魔方慈爱的怀抱中安然入睡吧。</AM_DoubleCubicBed.description>
+  
+  <!-- EN: cubic crib -->
+  <AM_CubicCrib.label>魔方婴儿床</AM_CubicCrib.label>
+  <!-- EN: Let your babies rest in the loving embrace of the cube. A high quality crib will make a baby happy. Multiple cribs can be placed in a bedroom without turning it into a barracks. -->
+  <AM_CubicCrib.description>让宝宝在魔方慈爱的怀抱中安然入睡吧。高质量的婴儿床会使婴儿快乐。卧室里可以放置多个婴儿床，而不会把房间变成多人宿舍。</AM_CubicCrib.description>
+
+</LanguageData>

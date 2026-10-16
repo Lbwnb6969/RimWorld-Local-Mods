@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: forbidden -->
+  <VFEA_BeingRecruited_Forbidden.label>禁止</VFEA_BeingRecruited_Forbidden.label>
+  <!-- EN: We are a proud nation and will not join anyone, as it brings us great shame. -->
+  <VFEA_BeingRecruited_Forbidden.description>我们为自己的国家与民族感到骄傲，我们不会加入任何人。投降与变节行为对我们来说是种莫大的耻辱。</VFEA_BeingRecruited_Forbidden.description>
+  
+  <!-- EN: forbidden -->
+  <VFEA_Recruiting_Forbidden.label>禁止</VFEA_Recruiting_Forbidden.label>
+  <!-- EN: We do not need anyone’s help, and will not accept any outsiders into our ranks. -->
+  <VFEA_Recruiting_Forbidden.description>我们不需要任何人的帮助，我们也不会允许任何人加入我们。</VFEA_Recruiting_Forbidden.description>
+  
+</LanguageData>

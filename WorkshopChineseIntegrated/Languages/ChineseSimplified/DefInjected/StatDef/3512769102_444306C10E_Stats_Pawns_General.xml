@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial part affinity -->
+  <BEWH_ArtificialPartsAffinityFactor.label>TODO</BEWH_ArtificialPartsAffinityFactor.label>
+  <!-- EN: A multiplier on how effective artificial parts are on this pawn. -->
+  <BEWH_ArtificialPartsAffinityFactor.description>TODO</BEWH_ArtificialPartsAffinityFactor.description>
+  
+</LanguageData>

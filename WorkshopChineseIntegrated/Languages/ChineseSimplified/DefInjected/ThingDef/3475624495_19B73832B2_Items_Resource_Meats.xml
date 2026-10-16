@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: leviathan whitestripe -->
+  <DA_LeviathanStripes.label>利维坦蟹肉丝</DA_LeviathanStripes.label>
+  <!-- EN: Raw stripes of meat from a leviathan crab.\n\nShattering their dense shell to extract the meat is a long and tedious process, what comes of it is a salty and pale looking meat. Takes a long time to rot. -->
+  <DA_LeviathanStripes.description>利维坦蟹的条状肉丝。\n\n尽管砸碎包裹蟹肉的致密外壳是耗时且无聊的工作，这条盐渍过的白肉需要很长时间才会腐败。</DA_LeviathanStripes.description>
+  
+  <!-- EN: troll slab -->
+  <DA_TrollMeat.label>巨魔肉排</DA_TrollMeat.label>
+  <!-- EN: Raw slab of meat from a troll.\n\nExceptionally tender, juicy and quite nutritious, just be sure to remove the fur first. -->
+  <DA_TrollMeat.description>一块巨魔的生肉块。\n\n非常嫩，多汁而有营养，记得把毛先去掉。</DA_TrollMeat.description>
+  
+</LanguageData>

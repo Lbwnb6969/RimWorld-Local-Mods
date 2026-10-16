@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: relaxing in a bath. -->
+  <VFEC_Relax_Thermaebath.reportString>泡温泉。</VFEC_Relax_Thermaebath.reportString>
+  
+  <!-- EN: performing on stage. -->
+  <VFEC_Stage_Performance.reportString>表演戏剧。</VFEC_Stage_Performance.reportString>
+  
+  <!-- EN: watching a stage performance. -->
+  <VFEC_Stage_WatchPerformance.reportString>看了戏剧表演。</VFEC_Stage_WatchPerformance.reportString>
+  
+</LanguageData>

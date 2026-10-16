@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--Melee weapons-->
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>GW_SM_Melee_EmperorClaw</defName>
+    <label>Emperor's Lightning Claw</label>
+    <description>An auramite-plated Lightning Claw, designed after the one used by the Emperor of Mankind. A single stroke of this weapon could separate an armored warrior into so many pieces.\n\nMuch is said of the Emperor, but one must never say he did not sacrifice much to defeat Horus.</description>
+    <graphicData>
+      <texPath>Things/Weapons/EmperorClaw</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.5</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <equippedAngleOffset>-90</equippedAngleOffset>
+    <weaponTags Inherit="False">
+      <li>GW_EmperorWep</li>
+    </weaponTags>
+    <!-- These recipes should use autoforging and cant use the usual recipe maker -->
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef> -->
+    <!-- <skillRequirements> -->
+    <!-- <Crafting>20</Crafting> -->
+    <!-- <Intellectual>15</Intellectual> -->
+    <!-- </skillRequirements> -->
+    <!-- <recipeUsers Inherit="false"> -->
+    <!-- <li>GW_Autoforge</li> -->
+    <!-- </recipeUsers> -->
+    <!-- <researchPrerequisite>GW_Rulers_OneTrueArmor</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <costList>
+      <ComponentSpacer>65</ComponentSpacer>
+      <Plasteel>1600</Plasteel>
+      <Gold>562</Gold>
+      <Uranium>440</Uranium>
+    </costList>
+    <stuffCategories Inherit="False" IsNull="True" />
+    <costStuffCount />
+    <tradeability>Sellable</tradeability>
+    <uiIconScale>1.2</uiIconScale>
+    <smeltable>false</smeltable>
+    <burnableByRecipe>false</burnableByRecipe>
+    <statBases>
+      <MaxHitPoints>1000</MaxHitPoints>
+      <WorkToMake>240000</WorkToMake>
+      <Mass>12</Mass>
+      <MarketValue>4000</MarketValue>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>0.50</MoveSpeed>
+      <PawnBeauty>10</PawnBeauty>
+    </equippedStatOffsets>
+    <techLevel>Archotech</techLevel>
+    <relicChance>3</relicChance>
+    <weaponClasses>
+      <li>Melee</li>
+      <li>Ultratech</li>
+    </weaponClasses>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>18</power>
+        <cooldownTime>2</cooldownTime>
+        <chanceFactor>0.07</chanceFactor>
+        <armorPenetration>0.17</armorPenetration>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>45</power>
+        <cooldownTime>2.5</cooldownTime>
+        <chanceFactor>0.5</chanceFactor>
+        <armorPenetration>0.70</armorPenetration>
+      </li>
+      <li>
+        <label>edge</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>42</power>
+        <cooldownTime>2.8</cooldownTime>
+        <chanceFactor>1</chanceFactor>
+        <armorPenetration>0.65</armorPenetration>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_Biocodable">
+        <biocodeOnEquip>True</biocodeOnEquip>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>GW_SM_Melee_ValdorSpear</defName>
+    <label>Apollonian Spear</label>
+    <description>A masterfully-crafted Guardian Spear patterned after the right hand of Constantin Valdor himself. Not only does it cleave and blast through foes like so much butter, but it also grants truths to its wielder from those it cuts - as the enemy falls, the wielder reaps their skills.\n\nAfter the disappearance of Constantin Valdor, the true Apollonian Spear was placed in storage, worshipped by the Adeptus Custodes as a holy relic.</description>
+    <possessionCount>1</possessionCount>
+    <graphicData>
+      <texPath>Things/Weapons/GW_HRM_Valdor_Spear</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.5</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <weaponTags Inherit="False">
+      <li>GW_EmperorWep</li>
+    </weaponTags>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef> -->
+    <!-- <skillRequirements> -->
+    <!-- <Crafting>20</Crafting> -->
+    <!-- <Intellectual>15</Intellectual> -->
+    <!-- </skillRequirements> -->
+    <!-- <recipeUsers Inherit="false"> -->
+    <!-- <li>GW_Autoforge</li> -->
+    <!-- </recipeUsers> -->
+    <!-- <researchPrerequisite>GW_Rulers_FirstCaptainr</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <costList>
+      <ComponentSpacer>49</ComponentSpacer>
+      <Plasteel>2300</Plasteel>
+      <Gold>5120</Gold>
+      <Uranium>440</Uranium>
+    </costList>
+    <stuffCategories Inherit="False" IsNull="True" />
+    <costStuffCount />
+    <tradeability>Sellable</tradeability>
+    <uiIconScale>1.2</uiIconScale>
+    <smeltable>false</smeltable>
+    <burnableByRecipe>false</burnableByRecipe>
+    <statBases>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <WorkToMake>240000</WorkToMake>
+      <Mass>12</Mass>
+      <MarketValue>4000</MarketValue>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>0.50</MoveSpeed>
+      <PawnBeauty>10</PawnBeauty>
+    </equippedStatOffsets>
+    <techLevel>Archotech</techLevel>
+    <relicChance>3</relicChance>
+    <weaponClasses>
+      <li>Melee</li>
+      <li>Ultratech</li>
+    </weaponClasses>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>18</power>
+        <cooldownTime>2</cooldownTime>
+        <chanceFactor>0.07</chanceFactor>
+        <armorPenetration>0.17</armorPenetration>
+      </li>
+      <li>
+        <label>edge</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>38</power>
+        <cooldownTime>2</cooldownTime>
+        <chanceFactor>1</chanceFactor>
+        <armorPenetration>0.9</armorPenetration>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>36</power>
+        <cooldownTime>2</cooldownTime>
+        <chanceFactor>0.5</chanceFactor>
+        <armorPenetration>0.8</armorPenetration>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_Biocodable">
+        <biocodeOnEquip>True</biocodeOnEquip>
+      </li>
+      <li Class="RimDark.MastersOfMankind.CompProperties_EquippableGiveHediff">
+        <hediffDef>GW_Ruler_ValdorSpearXpDrain</hediffDef>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="VEF.Things.ThingDefExtension">
+        <weaponDraftedDrawOffsets>
+          <north>
+            <drawOffset>(0.3, 0, 0.5)</drawOffset>
+            <angleOffset>-90</angleOffset>
+          </north>
+          <east>
+            <drawOffset>(0.15, 0, 0.5)</drawOffset>
+            <angleOffset>-90</angleOffset>
+          </east>
+          <south>
+            <drawOffset>(0.40, 0, 0.5)</drawOffset>
+            <angleOffset>-90</angleOffset>
+          </south>
+          <west>
+            <drawOffset>(-0.15, 0, 0.5)</drawOffset>
+            <angleOffset>90</angleOffset>
+          </west>
+        </weaponDraftedDrawOffsets>
+      </li>
+    </modExtensions>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>GW_Rulers_GuardianSpearBolterProjectile</defaultProjectile>
+        <range>25</range>
+        <soundCast>BEWH_SFX_BolterShotHeavy</soundCast>
+        <burstShotCount>3</burstShotCount>
+        <ticksBetweenBurstShots>15</ticksBetweenBurstShots>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+        <warmupTime>1.2</warmupTime>
+      </li>
+    </verbs>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>GW_Rulers_GuardianSpearBolterProjectile</defName>
+    <label>Guardian Spear bolt</label>
+    <graphicData>
+      <texPath>Things/Projectiles/BEWH_BolterRound</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.8</drawSize>
+    </graphicData>
+    <projectile>
+      <damageDef>RangedStab</damageDef>
+      <damageAmountBase>25</damageAmountBase>
+      <stoppingPower>0.8</stoppingPower>
+      <armorPenetrationBase>0.38</armorPenetrationBase>
+      <speed>70</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>GW_SM_Melee_MalcadorStaff</defName>
+    <label>Staff of Malcador</label>
+    <description>A masterfully-crafted staff symbolising high office, patterned after the staff of Malcador the Sigillite. As well as being ornate, it also makes for a surprisingly potent weapon in an emergency. \n\nIt is said that Malcador's staff could unleash a wave of nuclear hellfire at his command, but the man himself considered it a tool rather than a weapon.</description>
+    <possessionCount>1</possessionCount>
+    <graphicData>
+      <texPath>Things/Weapons/GW_HRM_Malcador_Staff</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.2</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <weaponTags Inherit="False">
+      <li>GW_EmperorWep</li>
+    </weaponTags>
+    <recipeMaker Inherit="false" IsNull="True" />
+    <!-- <unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef> -->
+    <!-- <skillRequirements> -->
+    <!-- <Crafting>20</Crafting> -->
+    <!-- <Intellectual>15</Intellectual> -->
+    <!-- </skillRequirements> -->
+    <!-- <recipeUsers Inherit="false"> -->
+    <!-- <li>GW_Autoforge</li> -->
+    <!-- </recipeUsers> -->
+    <!-- <researchPrerequisite>GW_Rulers_EmperorRightHand</researchPrerequisite> -->
+    <!-- </recipeMaker> -->
+    <costList>
+      <ComponentSpacer>27</ComponentSpacer>
+      <Plasteel>500</Plasteel>
+      <Steel>450</Steel>
+      <Gold>415</Gold>
+      <WoodLog>150</WoodLog>
+    </costList>
+    <stuffCategories Inherit="False" IsNull="True" />
+    <costStuffCount />
+    <tradeability>Sellable</tradeability>
+    <uiIconScale>1.2</uiIconScale>
+    <smeltable>false</smeltable>
+    <equippedAngleOffset>-90</equippedAngleOffset>
+    <burnableByRecipe>false</burnableByRecipe>
+    <statBases>
+      <MaxHitPoints>700</MaxHitPoints>
+      <WorkToMake>9000</WorkToMake>
+      <Mass>5</Mass>
+      <MarketValue>4000</MarketValue>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>0.50</MoveSpeed>
+      <PawnBeauty>10</PawnBeauty>
+      <PsychicSensitivityOffset MayRequire="ludeon.rimworld.royalty">0.15</PsychicSensitivityOffset>
+      <PsychicEntropyRecoveryRate MayRequire="ludeon.rimworld.royalty">0.066</PsychicEntropyRecoveryRate>
+      <PsychicSensitivity>1.2</PsychicSensitivity>
+    </equippedStatOffsets>
+    <techLevel>Archotech</techLevel>
+    <relicChance>3</relicChance>
+    <weaponClasses>
+      <li>Melee</li>
+      <li>Ultratech</li>
+    </weaponClasses>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>18</power>
+        <cooldownTime>2</cooldownTime>
+        <chanceFactor>0.07</chanceFactor>
+        <armorPenetration>0.17</armorPenetration>
+        <extraMeleeDamages>
+          <li>
+            <def>Flame</def>
+            <amount>10</amount>
+            <chance>0.2</chance>
+          </li>
+        </extraMeleeDamages>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>45</power>
+        <cooldownTime>2.5</cooldownTime>
+        <chanceFactor>0.5</chanceFactor>
+        <armorPenetration>0.70</armorPenetration>
+        <extraMeleeDamages>
+          <li>
+            <def>Flame</def>
+            <amount>10</amount>
+            <chance>0.2</chance>
+          </li>
+        </extraMeleeDamages>
+      </li>
+      <li>
+        <label>edge</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>42</power>
+        <cooldownTime>2.8</cooldownTime>
+        <chanceFactor>1</chanceFactor>
+        <armorPenetration>0.65</armorPenetration>
+        <extraMeleeDamages>
+          <li>
+            <def>Flame</def>
+            <amount>10</amount>
+            <chance>0.2</chance>
+          </li>
+        </extraMeleeDamages>
+      </li>
+    </tools>
+    <modExtensions>
+      <li Class="VEF.Things.ThingDefExtension">
+        <weaponDraftedDrawOffsets>
+          <north>
+            <drawOffset>(-0.3, 0, 0.2)</drawOffset>
+            <!-- <angleOffset>-143</angleOffset> -->
+          </north>
+          <east>
+            <drawOffset>(-0.15, 0, 0.2)</drawOffset>
+            <!-- <angleOffset>-122</angleOffset> -->
+          </east>
+          <south>
+            <drawOffset>(0.40, 0, 0.2)</drawOffset>
+            <!-- <angleOffset>-143</angleOffset> -->
+          </south>
+          <west>
+            <drawOffset>(0.15, 0, 0.2)</drawOffset>
+            <!-- <angleOffset>122</angleOffset> -->
+          </west>
+        </weaponDraftedDrawOffsets>
+      </li>
+    </modExtensions>
+    <comps>
+      <li Class="CompProperties_Biocodable">
+        <biocodeOnEquip>True</biocodeOnEquip>
+      </li>
+    </comps>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>GW_Bullet_PsychicFlamer</defaultProjectile>
+        <range>20</range>
+        <soundCast>GW_Rulers_PsyFlamer_Sound</soundCast>
+        <burstShotCount>3</burstShotCount>
+        <ticksBetweenBurstShots>15</ticksBetweenBurstShots>
+        <ai_AvoidFriendlyFireRadius>3</ai_AvoidFriendlyFireRadius>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+        <warmupTime>1.2</warmupTime>
+      </li>
+    </verbs>
+  </ThingDef>
+  <VEF.Weapons.ExpandableProjectileDef ParentName="BaseBullet">
+    <defName>GW_Bullet_PsychicFlamer</defName>
+    <label>flamer shot</label>
+    <thingClass>VEF.Weapons.FlamethrowProjectile</thingClass>
+    <graphicData>
+      <texPath>Projectiles/Psy_Flame_Flame</texPath>
+      <texPathFadeOut>Projectiles/Psy_Flame_End</texPathFadeOut>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <projectile>
+      <damageDef>Flame</damageDef>
+      <speed>50</speed>
+      <damageAmountBase>3</damageAmountBase>
+      <armorPenetrationBase>9999</armorPenetrationBase>
+    </projectile>
+    <drawOffscreen>true</drawOffscreen>
+    <lifeTimeDuration>50</lifeTimeDuration>
+    <widthScaleFactor>0.85</widthScaleFactor>
+    <heightScaleFactor>1</heightScaleFactor>
+    <startingPositionOffset>(0, 0, -1)</startingPositionOffset>
+    <totalSizeScale>1.15</totalSizeScale>
+    <tickFrameRate>2</tickFrameRate>
+    <finalTickFrameRate>5</finalTickFrameRate>
+    <tickDamageRate>20</tickDamageRate>
+    <dealsDamageOnce>true</dealsDamageOnce>
+    <minDistanceToAffect>2</minDistanceToAffect>
+  </VEF.Weapons.ExpandableProjectileDef>
+  <SoundDef>
+    <defName>GW_Rulers_PsyFlamer_Sound</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>10</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipPath>Weapons/Flamer</clipPath>
+          </li>
+        </grains>
+        <volumeRange>50~50</volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>

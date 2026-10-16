@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: nobleman -->
+  <BA_HighNoble_Moor.label>贵族</BA_HighNoble_Moor.label>
+  <!-- EN: noblewoman -->
+  <BA_HighNoble_Moor.labelFemale>贵妇人</BA_HighNoble_Moor.labelFemale>
+  
+  <!-- EN: nobleman -->
+  <BA_HighNoble_Portugal.label>贵族</BA_HighNoble_Portugal.label>
+  <!-- EN: noblewoman -->
+  <BA_HighNoble_Portugal.labelFemale>贵妇人</BA_HighNoble_Portugal.labelFemale>
+  
+  <!-- EN: nobleman -->
+  <BA_HighNoble_Spain.label>贵族</BA_HighNoble_Spain.label>
+  <!-- EN: noblewoman -->
+  <BA_HighNoble_Spain.labelFemale>贵妇人</BA_HighNoble_Spain.labelFemale>
+  
+  <!-- EN: merchant -->
+  <BA_Moor_Trader.label>商人</BA_Moor_Trader.label>
+  
+  <!-- EN: merchant -->
+  <BA_Portugal_Trader.label>商人</BA_Portugal_Trader.label>
+  
+  <!-- EN: merchant -->
+  <BA_Spain_Trader.label>商人</BA_Spain_Trader.label>
+  
+  <!-- EN: townsman -->
+  <BA_Urban_Civilian_Moor.label>市民</BA_Urban_Civilian_Moor.label>
+  <!-- EN: townswoman -->
+  <BA_Urban_Civilian_Moor.labelFemale>女市民</BA_Urban_Civilian_Moor.labelFemale>
+  
+  <!-- EN: townsman -->
+  <BA_Urban_Civilian_Portugal.label>市民</BA_Urban_Civilian_Portugal.label>
+  <!-- EN: townswoman -->
+  <BA_Urban_Civilian_Portugal.labelFemale>女市民</BA_Urban_Civilian_Portugal.labelFemale>
+  
+  <!-- EN: townsman -->
+  <BA_Urban_Civilian_Spain.label>市民</BA_Urban_Civilian_Spain.label>
+  <!-- EN: townswoman -->
+  <BA_Urban_Civilian_Spain.labelFemale>女市民</BA_Urban_Civilian_Spain.labelFemale>
+  
+</LanguageData>

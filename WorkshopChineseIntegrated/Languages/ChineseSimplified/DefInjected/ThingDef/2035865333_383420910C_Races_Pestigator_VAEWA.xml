@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pestigator -->
+  <VAEWaste_Pestigator.label>潜猎鳄</VAEWaste_Pestigator.label>
+  <!-- EN: The Pestigator is a massive and fearsome predator that reigns supreme in the polluted swamps of the rimworld. With its heavily armored form and powerful jaws, it is capable of inflicting massive damage on any opponent. Though slow on land, it is nimble and nearly invisible in water, making it a formidable adversary in its native habitat. The Pestigator is not to be underestimated, as its powerful bite can rip apart its prey with ease. Its insatiable hunger and aggression make it impossible to tame, making it a constant threat to any unfortunate enough to encounter it. -->
+  <VAEWaste_Pestigator.description>已对污染和毒素产生抗性的突变生物。作为边缘世界受污染沼泽中的顶级捕食者，骇人的潜猎鳄不仅拥有坚硬无比的外鳞，其异常有力的巨颌更是能轻易重创任何对手。由于在陆地上行动不便，它们通常会选择潜于水中，通过隐匿身形以伺机发动偷袭。无底洞般的胃口与极强的攻击性使潜猎鳄无法被驯服，如果不幸在野外与它们偶遇，那就请祈祷自己不会被视作猎物吧。\n\n潜猎鳄的肉有毒，请三思而后食。</VAEWaste_Pestigator.description>
+  
+</LanguageData>

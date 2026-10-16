@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: had to wait to be served -->
+  <Storefront_HadToWait.stages.had_to_wait_to_be_served.label>等的有些不耐烦了</Storefront_HadToWait.stages.had_to_wait_to_be_served.label>
+  <!-- EN: I had to wait long in the store. -->
+  <Storefront_HadToWait.stages.had_to_wait_to_be_served.description>为什么没有人来接待我？我还要在这家店里等多久？</Storefront_HadToWait.stages.had_to_wait_to_be_served.description>
+  
+  <!-- EN: awful service -->
+  <Storefront_Serviced.stages.awful_service.label>极差的服务</Storefront_Serviced.stages.awful_service.label>
+  <!-- EN: bad service -->
+  <Storefront_Serviced.stages.bad_service.label>较差的服务</Storefront_Serviced.stages.bad_service.label>
+  <!-- EN: decent service -->
+  <Storefront_Serviced.stages.decent_service.label>普通的服务</Storefront_Serviced.stages.decent_service.label>
+  <!-- EN: good service -->
+  <Storefront_Serviced.stages.good_service.label>良好的服务</Storefront_Serviced.stages.good_service.label>
+  <!-- EN: excellent service -->
+  <Storefront_Serviced.stages.excellent_service.label>极佳的服务</Storefront_Serviced.stages.excellent_service.label>
+  
+  <!-- EN: had awful service -->
+  <Storefront_ServicedMood.stages.had_awful_service.label>购物体验极差</Storefront_ServicedMood.stages.had_awful_service.label>
+  <!-- EN: I've been treated awfully. -->
+  <Storefront_ServicedMood.stages.had_awful_service.description>那家店的服务态度真是有够烂的！</Storefront_ServicedMood.stages.had_awful_service.description>
+  <!-- EN: had bad service -->
+  <Storefront_ServicedMood.stages.had_bad_service.label>购物体验较差</Storefront_ServicedMood.stages.had_bad_service.label>
+  <!-- EN: I've been treated poorly. -->
+  <Storefront_ServicedMood.stages.had_bad_service.description>那家店的服务态度有点差劲。</Storefront_ServicedMood.stages.had_bad_service.description>
+  <!-- EN: had decent service -->
+  <Storefront_ServicedMood.stages.had_decent_service.label>购物体验普通</Storefront_ServicedMood.stages.had_decent_service.label>
+  <!-- EN: I've been treated decently. -->
+  <Storefront_ServicedMood.stages.had_decent_service.description>那家店的服务态度还可以。</Storefront_ServicedMood.stages.had_decent_service.description>
+  <!-- EN: had good service -->
+  <Storefront_ServicedMood.stages.had_good_service.label>购物体验良好</Storefront_ServicedMood.stages.had_good_service.label>
+  <!-- EN: I've been treated well. -->
+  <Storefront_ServicedMood.stages.had_good_service.description>那家店的服务态度挺不错的。</Storefront_ServicedMood.stages.had_good_service.description>
+  <!-- EN: had excellent service -->
+  <Storefront_ServicedMood.stages.had_excellent_service.label>购物体验极佳</Storefront_ServicedMood.stages.had_excellent_service.label>
+  <!-- EN: I've been treated exceptionally well. -->
+  <Storefront_ServicedMood.stages.had_excellent_service.description>那家店的服务态度非常出色！</Storefront_ServicedMood.stages.had_excellent_service.description>
+  
+</LanguageData>

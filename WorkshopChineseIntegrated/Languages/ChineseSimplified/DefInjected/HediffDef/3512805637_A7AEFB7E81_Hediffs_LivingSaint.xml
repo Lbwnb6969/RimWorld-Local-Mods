@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Divine Grace fading -->
+  <BEWH_DivineGraceFading.label>恩典正在消逝</BEWH_DivineGraceFading.label>
+  <!-- EN: Without Divine Grace, the Saint's connection to the material plane weakens, causing them to fade and lose stability, unable to remain in the physical world for long. -->
+  <BEWH_DivineGraceFading.description>神圣恩典枯竭，致圣者与物质世界的联系逐渐减弱，这会导致他们逐渐消逝，无法在物质世界中长久停留。</BEWH_DivineGraceFading.description>
+  <!-- EN: minor -->
+  <BEWH_DivineGraceFading.stages.minor.label>较轻</BEWH_DivineGraceFading.stages.minor.label>
+  <!-- EN: moderate -->
+  <BEWH_DivineGraceFading.stages.moderate.label>中等</BEWH_DivineGraceFading.stages.moderate.label>
+  <!-- EN: major -->
+  <BEWH_DivineGraceFading.stages.major.label>严重</BEWH_DivineGraceFading.stages.major.label>
+  <!-- EN: fatal -->
+  <BEWH_DivineGraceFading.stages.fatal.label>极重</BEWH_DivineGraceFading.stages.fatal.label>
+  
+  <!-- EN: Holy Ascension -->
+  <BEWH_LivingSaintHolyAscension.label>神圣之躯</BEWH_LivingSaintHolyAscension.label>
+  <!-- EN: By absorbing a sudden burst of warp energy, the Living Saint is elevated to their full celestial form, radiating pure divine energy and gaining increased strength and resilience. -->
+  <BEWH_LivingSaintHolyAscension.description>通过吸收爆发般的亚空间能量，活圣人将升华至完全的天体形态，散发出纯净的神圣能量，并获得无可匹敌的神力和坚不可摧的韧性。</BEWH_LivingSaintHolyAscension.description>
+  <!-- EN: minor -->
+  <BEWH_LivingSaintHolyAscension.stages.minor.label>较轻</BEWH_LivingSaintHolyAscension.stages.minor.label>
+  <!-- EN: moderate -->
+  <BEWH_LivingSaintHolyAscension.stages.moderate.label>中等</BEWH_LivingSaintHolyAscension.stages.moderate.label>
+  <!-- EN: major -->
+  <BEWH_LivingSaintHolyAscension.stages.major.label>严重</BEWH_LivingSaintHolyAscension.stages.major.label>
+  
+  <!-- EN: Aura of Protection -->
+  <BEWH_LivingSaintInviolableAuraOther.label>神圣护佑</BEWH_LivingSaintInviolableAuraOther.label>
+  <!-- EN: This servant of the Emperor is shielded by the inviolable aura of the Living Saint, reducing incoming damage. -->
+  <BEWH_LivingSaintInviolableAuraOther.description>这位帝皇之仆受到活圣人神圣光环的庇护，受到的伤害减少。</BEWH_LivingSaintInviolableAuraOther.description>
+  
+  <!-- EN: Inviolable Aura -->
+  <BEWH_LivingSaintInviolableAuraSelf.label>神圣光环</BEWH_LivingSaintInviolableAuraSelf.label>
+  <!-- EN: The Living Saint radiates a divine aura that envelops nearby allies in holy protection, reducing incoming damage. The Emperor protects! -->
+  <BEWH_LivingSaintInviolableAuraSelf.description>活圣人的神圣光环将周围的盟友笼罩在神圣的庇护之下，减少他们受到的伤害。帝皇保佑！</BEWH_LivingSaintInviolableAuraSelf.description>
+  
+  <!-- EN: divine coma -->
+  <BEWH_ProofOfFaithComa.label>神圣昏迷</BEWH_ProofOfFaithComa.label>
+  <!-- EN: After willingly giving themselves up for a living saint, this person now lies in a coma, drained of psychic energy. -->
+  <BEWH_ProofOfFaithComa.description>此人自愿为一位活圣人奉献自己，耗尽了其所有精神能量，现处于昏迷状态。</BEWH_ProofOfFaithComa.description>
+  
+</LanguageData>

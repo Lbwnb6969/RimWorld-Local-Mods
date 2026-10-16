@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful -->
+  <VHE_Beautiful.label>美人（VHE）</VHE_Beautiful.label>
+  
+  <!-- EN: bereaved -->
+  <VHE_Bereaved.label>失亲（VHE）</VHE_Bereaved.label>
+  
+  <!-- EN: braid -->
+  <VHE_Braid.label>麻花辫（VHE）</VHE_Braid.label>
+  
+  <!-- EN: brave -->
+  <VHE_Brave.label>恶霸（VHE）</VHE_Brave.label>
+  
+  <!-- EN: buzzcut -->
+  <VHE_Buzzcut.label>超短发（VHE）</VHE_Buzzcut.label>
+  
+  <!-- EN: dean -->
+  <VHE_Dean.label>迪安（VHE）</VHE_Dean.label>
+  
+  <!-- EN: faux hawk -->
+  <VHE_FauxHawk.label>仿莫霍克（VHE）</VHE_FauxHawk.label>
+  
+  <!-- EN: festive -->
+  <VHE_Festive.label>节日（VHE）</VHE_Festive.label>
+  
+  <!-- EN: fox -->
+  <VHE_Fox.label>单马尾（VHE）</VHE_Fox.label>
+  
+  <!-- EN: gangster -->
+  <VHE_Gangster.label>土匪（VHE）</VHE_Gangster.label>
+  
+  <!-- EN: gentleman -->
+  <VHE_Gentleman.label>绅士（VHE）</VHE_Gentleman.label>
+  
+  <!-- EN: hideout -->
+  <VHE_Hideout.label>遮单眼长发（VHE）</VHE_Hideout.label>
+  
+  <!-- EN: high top -->
+  <VHE_HighTop.label>高顶（VHE）</VHE_HighTop.label>
+  
+  <!-- EN: librarian -->
+  <VHE_Librarian.label>图书管理员（VHE）</VHE_Librarian.label>
+  
+  <!-- EN: long -->
+  <VHE_Long.label>长发（VHE）</VHE_Long.label>
+  
+  <!-- EN: long afro -->
+  <VHE_LongAfro.label>大爆炸头（VHE）</VHE_LongAfro.label>
+  
+  <!-- EN: maniac -->
+  <VHE_Maniac.label>疯子（VHE）</VHE_Maniac.label>
+  
+  <!-- EN: messy -->
+  <VHE_Messy.label>乱糟糟（VHE）</VHE_Messy.label>
+  
+  <!-- EN: midlife -->
+  <VHE_Midlife.label>中年（VHE）</VHE_Midlife.label>
+  
+  <!-- EN: oskar -->
+  <VHE_Oskar.label>奥斯卡（VHE）</VHE_Oskar.label>
+  
+  <!-- EN: part -->
+  <VHE_Part.label>侧分（VHE）</VHE_Part.label>
+  
+  <!-- EN: pin up -->
+  <VHE_PinUp.label>名媛（VHE）</VHE_PinUp.label>
+  
+  <!-- EN: quaf -->
+  <VHE_Quaf.label>漩涡刘海短发（VHE）</VHE_Quaf.label>
+  
+  <!-- EN: regal -->
+  <VHE_Regal.label>帝王（VHE）</VHE_Regal.label>
+  
+  <!-- EN: sam -->
+  <VHE_Sam.label>山姆（VHE）</VHE_Sam.label>
+  
+  <!-- EN: small afro -->
+  <VHE_ShortAfro.label>小爆炸头（VHE）</VHE_ShortAfro.label>
+  
+  <!-- EN: side braid -->
+  <VHE_SideBraid.label>侧边麻花辫（VHE）</VHE_SideBraid.label>
+  
+  <!-- EN: slick -->
+  <VHE_Slick.label>油头（VHE）</VHE_Slick.label>
+  
+  <!-- EN: slicked -->
+  <VHE_Slicked.label>大背头（VHE）</VHE_Slicked.label>
+  
+  <!-- EN: slicked short -->
+  <VHE_SlickedShort.label>短梳油头（VHE）</VHE_SlickedShort.label>
+  
+  <!-- EN: smith -->
+  <VHE_Smith.label>铁匠（VHE）</VHE_Smith.label>
+  
+  <!-- EN: strongman -->
+  <VHE_Strongman.label>壮汉（VHE）</VHE_Strongman.label>
+  
+  <!-- EN: two tails -->
+  <VHE_TwoTails.label>双矮髻（VHE）</VHE_TwoTails.label>
+  
+  <!-- EN: vile -->
+  <VHE_Vile.label>邪恶（VHE）</VHE_Vile.label>
+  
+  <!-- EN: willow -->
+  <VHE_Willow.label>薇洛（VHE）</VHE_Willow.label>
+  
+</LanguageData>

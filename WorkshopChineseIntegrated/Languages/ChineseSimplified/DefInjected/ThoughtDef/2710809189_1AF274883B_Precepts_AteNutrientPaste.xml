@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate nutrient paste meal -->
+  <AM_AteNutrientPasteMeal_Forbidden.stages.ate_nutrient_paste_meal.label>吃了营养膏</AM_AteNutrientPasteMeal_Forbidden.stages.ate_nutrient_paste_meal.label>
+  <!-- EN: I'm not eating nutrient paste. I'd rather starve! -->
+  <AM_AteNutrientPasteMeal_Forbidden.stages.ate_nutrient_paste_meal.description>不！我就算饿死，也不想再吃哪怕一口营养膏了！</AM_AteNutrientPasteMeal_Forbidden.stages.ate_nutrient_paste_meal.description>
+  
+  <!-- EN: ate nutrient paste meal -->
+  <AM_AteNutrientPasteMeal_Preferred.stages.ate_nutrient_paste_meal.label>吃了营养膏</AM_AteNutrientPasteMeal_Preferred.stages.ate_nutrient_paste_meal.label>
+  <!-- EN: I ate a delicious nutrient paste meal of unknown composition. The wonders of modern technology! -->
+  <AM_AteNutrientPasteMeal_Preferred.stages.ate_nutrient_paste_meal.description>我吃下了一份原料不明的美味营养膏。这就是现代技术的奇妙之处！</AM_AteNutrientPasteMeal_Preferred.stages.ate_nutrient_paste_meal.description>
+  
+</LanguageData>

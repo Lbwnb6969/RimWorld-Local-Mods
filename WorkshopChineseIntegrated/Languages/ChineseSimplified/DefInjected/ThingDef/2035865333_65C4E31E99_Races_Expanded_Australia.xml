@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boombat -->
+  <AEXP_Boombat.label>爆炸袋熊</AEXP_Boombat.label>
+  <!-- EN: Due to some insane experiment, these cute, fluffy rodents create a powerful fire-starting explosion when killed. -->
+  <AEXP_Boombat.description>疯狂实验的产物。这些可爱而毛茸茸的啮齿类生物在被杀害时会引发可怕的爆炸。</AEXP_Boombat.description>
+  <!-- EN: left claw -->
+  <AEXP_Boombat.tools.left_claw.label>左爪</AEXP_Boombat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Boombat.tools.right_claw.label>右爪</AEXP_Boombat.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Boombat.tools.head.label>头</AEXP_Boombat.tools.head.label>
+  
+  <!-- EN: kangaroo -->
+  <AEXP_Kangaroo.label>袋鼠</AEXP_Kangaroo.label>
+  <!-- EN: Kangaroo is a large, human-sized marsupial with strong legs and powerful arms. It's favoured by tribal hunters due to its tender meat and heat resistant leather. Kangaroos make for powerful adversaries in melee combat, and can be trained easily to become animal super-soldiers. -->
+  <AEXP_Kangaroo.description>袋鼠是袋类动物的典型代表，袋类动物是发育不完全的动物，属早产胎儿。母袋鼠有四个乳头，两个高脂肪，两个低脂肪，母袋鼠一般每胎产3至4个崽，袋鼠出生后即要入袋，食用低脂肪乳水。这就决定了每胎袋鼠仔一般只能存活2个。\n\n袋鼠不会行走，但是跳得最高最远的哺乳类动物。除了强劲有力的后腿外，袋鼠的尾巴也十分强大，能提供高效的平衡、支撑和进攻能力。\n\n袋鼠属夜间动物，通常在太阳下山后几个小时才出来寻食。袋鼠是群居动物，但有着强烈的族群观念，对于外来的袋鼠十分排斥。</AEXP_Kangaroo.description>
+  <!-- EN: head -->
+  <AEXP_Kangaroo.tools.head.label>头</AEXP_Kangaroo.tools.head.label>
+  
+  <!-- EN: koala -->
+  <AEXP_Koala.label>树熊</AEXP_Koala.label>
+  <!-- EN: Koalas are easily recognizable for their stout body and large, round heads with fluffy ears. They typically inhabit arid and temperate woodlands, but can rarely be seen in tropical areas. Favoured by royal families, koalas are great household animals due to their wonderful nuzzling effect. -->
+  <AEXP_Koala.description>树袋熊，又称考拉，其英文名“Koala”来源于土著语，意思是“no drink”。因为树袋熊从它们取食的桉树叶中获得所需的90%的水分，只在生病和干旱的时候喝水。\n\n树熊主要栖息在桉树上，依靠奇特的肝脏分离桉树叶中的有毒物质，因此考拉需要20小时左右的睡眠时间来消化有毒物质。清醒的时候，它们的大部分时间也用来吃东西。一般在夜间及晨昏时活动，因为这比在白天气温较高时活动更能节省水分与能量消耗。\n\n考拉性情温驯，行动迟缓，从不对其他动物构成威胁。由于树熊极度依赖环境，而自然灾害越发频繁、持续、严重，它们正在面临功能性灭绝。</AEXP_Koala.description>
+  <!-- EN: left claw -->
+  <AEXP_Koala.tools.left_claw.label>左爪</AEXP_Koala.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Koala.tools.right_claw.label>右爪</AEXP_Koala.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Koala.tools.head.label>头</AEXP_Koala.tools.head.label>
+  
+  <!-- EN: platypus -->
+  <AEXP_Platypus.label>鸭嘴兽</AEXP_Platypus.label>
+  <!-- EN: Platypus is the sole surviving representative of its animal family. They are beaver-tailed, duck billed mammals, known for the fact that they lay eggs. It is an omnivore animal, capable of killing small rodents with it's venomous ankle spurs. -->
+  <AEXP_Platypus.description>鸭嘴兽是最原始的哺乳类动物之一，它们是未完全进化的哺乳类动物，种类极少，同属之中只有鸭嘴兽一种动物，也是最低等的哺乳类动物之一。\n\n鸭嘴兽全身裹着柔软褐色的浓密短毛。四肢很短，五趾具钩爪，趾间有薄膜似的蹼，酷似鸭足，在行走或挖掘时，蹼反方向褶于掌部。公鸭嘴兽的膝盖背面有一根空心的刺，在用后肢向敌人猛戳时它们会放出毒液。\n\n嘴巴极宽扁，像面具一样装在脑袋上，形似鸭嘴，质地柔软，似皮革一般，上面布满神经，能像雷达扫描器一般，接受其他动物发出的电波。鸭嘴兽仗着这一利器，在水中寻找食物和辨明方向。嘴内有宽的角质牙龈，但没有牙齿，尾大而扁平，占体长的1/4，在水里游泳时起着舵的作用。\n\n鸭嘴兽为哺乳类动物，虽然母体也分泌乳汁哺育幼仔成长，但却不是胎生而是卵生。\n\n鸭嘴兽是夜行性生物，它们惯于白天睡觉，夜晚活动，冬季不活动或冬眠。</AEXP_Platypus.description>
+  <!-- EN: left claw -->
+  <AEXP_Platypus.tools.left_claw.label>左掌</AEXP_Platypus.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Platypus.tools.right_claw.label>右爪</AEXP_Platypus.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Platypus.tools.head.label>头</AEXP_Platypus.tools.head.label>
+  
+</LanguageData>

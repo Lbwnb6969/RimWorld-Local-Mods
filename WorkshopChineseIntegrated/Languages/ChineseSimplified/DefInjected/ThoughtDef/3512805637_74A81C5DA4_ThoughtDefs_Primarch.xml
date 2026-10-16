@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Flawed world -->
+  <BEWH_PrimarchSpecificIVMood.stages.Flawed_world.label>残破不堪的世界</BEWH_PrimarchSpecificIVMood.stages.Flawed_world.label>
+  <!-- EN: No matter where your eyes gaze, they only see flaws. -->
+  <BEWH_PrimarchSpecificIVMood.stages.Flawed_world.description>目光所及之处，唯见缺陷纵横。</BEWH_PrimarchSpecificIVMood.stages.Flawed_world.description>
+  
+  <!-- EN: Shared Burden -->
+  <BEWH_PrimarchSpecificXIIMood.stages.Shared_Burden.label>共承重担</BEWH_PrimarchSpecificXIIMood.stages.Shared_Burden.label>
+  <!-- EN: You have shared the burden of a fellow brother, as such you feel his emotion and what he's been going through. -->
+  <BEWH_PrimarchSpecificXIIMood.stages.Shared_Burden.description>你分担了你的双胞胎兄弟的重荷，此刻正感受着他的情绪与挣扎。</BEWH_PrimarchSpecificXIIMood.stages.Shared_Burden.description>
+  
+  <!-- EN: Lost my other half -->
+  <BEWH_PrimarchSpecificXXMood.stages.Lost_my_other_half.label>半身陨殁</BEWH_PrimarchSpecificXXMood.stages.Lost_my_other_half.label>
+  <!-- EN: It feels so empty with my other half dead... -->
+  <BEWH_PrimarchSpecificXXMood.stages.Lost_my_other_half.description>我的兄弟已逝...我的心中只剩虚无。</BEWH_PrimarchSpecificXXMood.stages.Lost_my_other_half.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mead fermenting barrel -->
+  <VFEM2_MeadFermentingBarrel.label>蜜酒发酵桶</VFEM2_MeadFermentingBarrel.label>
+  <!-- EN: A very simple barrel, held together with a series of mortise and tenon joints. Can turn honey into mead. -->
+  <VFEM2_MeadFermentingBarrel.description>一个结构非常简单的酒桶。用铆钉和榫头连接。用于将蜂蜜发酵成蜜酒。</VFEM2_MeadFermentingBarrel.description>
+  
+</LanguageData>

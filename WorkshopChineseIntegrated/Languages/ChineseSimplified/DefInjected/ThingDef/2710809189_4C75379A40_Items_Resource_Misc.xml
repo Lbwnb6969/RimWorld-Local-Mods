@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: red wood -->
+  <GU_RedWood.label>诡红木</GU_RedWood.label>
+  <!-- EN: This red tinged wood is oddly strong, and a sweet scent emanates from it. Less flammable than terrestrial wood, but quite ugly. -->
+  <GU_RedWood.description>这种通体泛红且散发着阵阵芳香的木材竟出人意料的坚固。比普通的木材更不易燃，但也很难看。</GU_RedWood.description>
+  <!-- EN: red wooden -->
+  <GU_RedWood.stuffProps.stuffAdjective>诡红木</GU_RedWood.stuffProps.stuffAdjective>
+  <!-- EN: red wood log -->
+  <GU_RedWood.tools.red_wood_log.label>诡红木</GU_RedWood.tools.red_wood_log.label>
+  
+</LanguageData>

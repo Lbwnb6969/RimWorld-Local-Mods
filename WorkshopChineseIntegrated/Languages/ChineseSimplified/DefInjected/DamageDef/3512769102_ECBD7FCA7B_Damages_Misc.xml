@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warp burn -->
+  <BEWH_WarpEnergy.label>亚空间燃烧</BEWH_WarpEnergy.label>
+  <!-- EN: {0} has been horribly killed by exposure to the Warp. -->
+  <BEWH_WarpEnergy.deathMessage>{0}因暴露于亚空间而惨死。</BEWH_WarpEnergy.deathMessage>
+  
+  <!-- EN: warp flame -->
+  <BEWH_WarpFlame.label>亚空间燃烧</BEWH_WarpFlame.label>
+  <!-- EN: {0} has warp-burned to death. -->
+  <BEWH_WarpFlame.deathMessage>{0}被亚空间的火焰烧成了灰烬。</BEWH_WarpFlame.deathMessage>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rum burial -->
+  <AM_RumBurial.label>朗姆酒葬礼</AM_RumBurial.label>
+  <!-- EN: A gathering to turn our friends into delicious rum. -->
+  <AM_RumBurial.description>在指定地点处举行葬礼，以将死者转化为美味的朗姆酒。</AM_RumBurial.description>
+  <!-- EN: {PAWN_nameDef} should be placed in a rum vat so {PAWN_possessive} friends and family can enjoy their sweet rum. -->
+  <AM_RumBurial.extraTextPawnDeathLetter>{PAWN_nameDef}应当被放置在朗姆酒桶中，这样{PAWN_possessive}朋友和家人才能享用到由其制成的美味朗姆酒。</AM_RumBurial.extraTextPawnDeathLetter>
+  
+</LanguageData>

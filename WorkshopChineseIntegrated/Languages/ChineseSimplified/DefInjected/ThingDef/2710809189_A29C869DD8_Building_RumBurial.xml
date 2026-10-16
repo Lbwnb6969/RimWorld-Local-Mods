@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corpse rum vat -->
+  <AM_RumBurialSpot.label>陈尸朗姆酒桶</AM_RumBurialSpot.label>
+  <!-- EN: Pirates have to use everything to get rum, this invention turns corpses into delicious rum! -->
+  <AM_RumBurialSpot.description>用于将尸体转化为美味朗姆酒的大桶。为了能喝上一口朗姆酒，海盗们总是会不择手段。</AM_RumBurialSpot.description>
+  
+</LanguageData>

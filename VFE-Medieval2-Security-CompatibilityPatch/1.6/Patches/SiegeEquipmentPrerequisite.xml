@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Progression: Warfare</li>
+    </mods>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs[not(ResearchProjectDef[defName="VFES_SiegeEquipment"])]/ThingDef[defName="VFEM2_Turret_WallMountedArbalest"]/researchPrerequisites/li[text()="VFES_SiegeEquipment"]</xpath>
+      <match Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="VFEM2_Turret_WallMountedArbalest"]/researchPrerequisites/li[text()="VFES_SiegeEquipment"]</xpath>
+        <value>
+          <li>Smithing</li>
+        </value>
+      </match>
+    </match>
+  </Operation>
+</Patch>

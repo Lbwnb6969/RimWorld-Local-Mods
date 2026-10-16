@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_CommanderShield.label>指揮官シールド</EES_CommanderShield.label>
+  <EES_CommanderShield.description>指揮官の周囲に展開される移動式の弾幕バリア。直射弾と曲射弾の両方を防ぐ。</EES_CommanderShield.description>
+  <EES_CommanderShieldBelt.label>シールドベルト(指揮官)</EES_CommanderShieldBelt.label>
+  <EES_CommanderShieldBelt.description>防衛士官が着用する軍用シールド発生装置。着用者の周囲半径8タイルに、直射弾と曲射弾の両方を防ぐバリアを展開する。略奪はできない。</EES_CommanderShieldBelt.description>
+</LanguageData>

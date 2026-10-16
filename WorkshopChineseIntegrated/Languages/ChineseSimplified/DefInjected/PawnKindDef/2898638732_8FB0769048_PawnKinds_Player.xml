@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <RatkinColonist.label>鼠族殖民者</RatkinColonist.label>
+  
+  
+  <RatkinCombatant.label>鼠族战士</RatkinCombatant.label>
+  
+  
+  <RatkinDefender.label>鼠族卫士</RatkinDefender.label>
+  
+  
+  <RatkinDemonMan.label>鼠族恶魔</RatkinDemonMan.label>
+  
+  
+  <RatkinEliteDefender.label>鼠族精英卫士</RatkinEliteDefender.label>
+  
+  
+  <RatkinEliteGuardener.label>鼠族精英卫花使</RatkinEliteGuardener.label>
+  
+  
+  <RatkinEliteSoldier.label>鼠族精英士兵</RatkinEliteSoldier.label>
+  
+  
+  <RatkinKnight.label>鼠族骑士</RatkinKnight.label>
+  
+  
+  <RatkinKnightCommander.label>鼠族骑士长</RatkinKnightCommander.label>
+  
+  
+  <RatkinMercenary.label>鼠族雇佣兵</RatkinMercenary.label>
+  
+  
+  <RatkinMercenaryLight.label>鼠族雇佣兵</RatkinMercenaryLight.label>
+  
+  
+  <RatkinMerchant.label>鼠族商人</RatkinMerchant.label>
+  
+  
+  <RatkinMurderer.label>鼠族刽子手</RatkinMurderer.label>
+  
+  
+  <RatkinNoble.label>鼠族贵族</RatkinNoble.label>
+  
+  
+  <RatkinPettyThief.label>鼠族小偷</RatkinPettyThief.label>
+  
+  
+  <RatkinPriest.label>鼠族牧师</RatkinPriest.label>
+  
+  
+  <RatkinServant.label>鼠族从者</RatkinServant.label>
+  
+  
+  <RatkinSoldier.label>鼠族士兵</RatkinSoldier.label>
+  
+  
+  <RatkinVagabond.label>鼠族漂泊者</RatkinVagabond.label>
+  
+  
+  <RatkinVanguard.label>鼠族先锋队</RatkinVanguard.label>
+  
+  
+  <RK_PawnKind_StandardBearer.label>鼠族旗手</RK_PawnKind_StandardBearer.label>
+  
+</LanguageData>

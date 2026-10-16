@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clumsy -->
+  <RT_Clumsy.degreeDatas.clumsy.label>笨手笨脚</RT_Clumsy.degreeDatas.clumsy.label>
+  <!-- EN: [PAWN_nameDef] is easily distracted and often mess up when it comes to physical activities. -->
+  <RT_Clumsy.degreeDatas.clumsy.description>[PAWN_nameDef] 在各种体力活动中，都容易分心，经常出错。</RT_Clumsy.degreeDatas.clumsy.description>
+  
+  <!-- EN: constantly bemused -->
+  <RT_ConstantlyBemused.degreeDatas.constantly_bemused.label>愁眉苦脸</RT_ConstantlyBemused.degreeDatas.constantly_bemused.label>
+  <!-- EN: Life to [PAWN_nameDef] is an endless, boring joke that [PAWN_pronoun] just can't get away from. -->
+  <RT_ConstantlyBemused.degreeDatas.constantly_bemused.description>生活对[PAWN_nameDef]来说就是一个[PAWN_pronoun]无法逃脱、永不结束还非常无聊的笑话。</RT_ConstantlyBemused.degreeDatas.constantly_bemused.description>
+  
+  <!-- EN: coordinated -->
+  <RT_Coordinated.degreeDatas.coordinated.label>协调</RT_Coordinated.degreeDatas.coordinated.label>
+  <!-- EN: [PAWN_nameDef] has good reaction time and finds physical activities less stressful than [PAWN_possessive] peers. -->
+  <RT_Coordinated.degreeDatas.coordinated.description>[PAWN_nameDef]反应速度很快，觉得各类体力活动都比[PAWN_possessive]身边人压力小。</RT_Coordinated.degreeDatas.coordinated.description>
+  
+  <!-- EN: easily amused -->
+  <RT_EasilyAmused.degreeDatas.easily_amused.label>笑口常开</RT_EasilyAmused.degreeDatas.easily_amused.label>
+  <!-- EN: Whether by sheer optimism or a force of personality, [PAWN_nameDef] always manages to see the bright side of life. -->
+  <RT_EasilyAmused.degreeDatas.easily_amused.description>无论是纯粹的乐观主义还是单纯的人格力量，[PAWN_nameDef]总能看到生活中阳光的一面。</RT_EasilyAmused.degreeDatas.easily_amused.description>
+  
+  <!-- EN: feeble -->
+  <RT_Feeble.degreeDatas.feeble.label>虚弱</RT_Feeble.degreeDatas.feeble.label>
+  <!-- EN: [PAWN_nameDef] is so fragile, it doesn't take much to take [PAWN_objective] out of action. -->
+  <RT_Feeble.degreeDatas.feeble.description>[PAWN_nameDef]身子很虚，没干什么活[PAWN_pronoun]就会累到脱力，失去作用。</RT_Feeble.degreeDatas.feeble.description>
+  
+  <!-- EN: hardy -->
+  <RT_Hardy.degreeDatas.hardy.label>吃苦耐劳</RT_Hardy.degreeDatas.hardy.label>
+  <!-- EN: [PAWN_nameDef] is what people refer to as a 'stronk boi'. -->
+  <RT_Hardy.degreeDatas.hardy.description>[PAWN_nameDef]就是人们口中的“猛男”。</RT_Hardy.degreeDatas.hardy.description>
+  
+  <!-- EN: ignorant -->
+  <RT_Ignorant.degreeDatas.ignorant.label>无知者</RT_Ignorant.degreeDatas.ignorant.label>
+  <!-- EN: Gaps in [PAWN_nameDef]'s education and general lack of curiosity makes life often stressful for [PAWN_objective]. -->
+  <RT_Ignorant.degreeDatas.ignorant.description>[PAWN_nameDef]受教育程度低，缺乏探索精神，使得[PAWN_objective]生活常常充满压力。</RT_Ignorant.degreeDatas.ignorant.description>
+  
+  <!-- EN: inquisitive -->
+  <RT_Inquisitive.degreeDatas.inquisitive.label>好奇心</RT_Inquisitive.degreeDatas.inquisitive.label>
+  <!-- EN: [PAWN_nameDef] has an interest in understanding the workings of the world, and is able to apply [PAWN_possessive] knowledge in daily life. -->
+  <RT_Inquisitive.degreeDatas.inquisitive.description>[PAWN_nameDef]对世界万物的运行机理都有些兴趣，并能将[PAWN_possessive]知识运用在日常生活中。</RT_Inquisitive.degreeDatas.inquisitive.description>
+  
+  <!-- EN: messy -->
+  <RT_Messy.degreeDatas.messy.label>邋遢</RT_Messy.degreeDatas.messy.label>
+  <!-- EN: [PAWN_nameDef] often neglect their surroundings, making it difficult for [PAWN_objective] to get work done. -->
+  <RT_Messy.degreeDatas.messy.description>[PAWN_nameDef]经常忽视周围环境，这让[PAWN_objective]难以完成工作。</RT_Messy.degreeDatas.messy.description>
+  
+  <!-- EN: tidy -->
+  <RT_Tidy.degreeDatas.tidy.label>整洁</RT_Tidy.degreeDatas.tidy.label>
+  <!-- EN: [PAWN_nameDef] likes to keep [PAWN_possessive] surroundings clean, and is used to being in an organised environment. -->
+  <RT_Tidy.degreeDatas.tidy.description>[PAWN_nameDef]喜欢保持[PAWN_possessive]周围环境干净，并且习惯处于整齐有序的环境之中。</RT_Tidy.degreeDatas.tidy.description>
+  
+</LanguageData>

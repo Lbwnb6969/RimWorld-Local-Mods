@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+
+
+
+	<!-- Animal Stats -->
+
+	<!-- EN: Primary Role -->
+  <VAERoy_PrimaryRole>主要作用</VAERoy_PrimaryRole>
+	<!-- EN: Secondary Role -->
+  <VAERoy_SecondaryRole>次要作用</VAERoy_SecondaryRole>
+
+	<!-- Roles -->
+
+	<!-- EN: Combat -->
+  <VAERoy_Combat>战斗动物</VAERoy_Combat>
+	<!-- EN: Egg Layer -->
+  <VAERoy_EggLayer>产蛋动物</VAERoy_EggLayer>
+
+	<!-- EN: Utility -->
+  <VAERoy_Utility>多用途生物</VAERoy_Utility>
+	<!-- EN: Utility - Mood -->
+  <VAERoy_UtilityMood>多用途生物</VAERoy_UtilityMood>
+	<!-- EN: Utility - Social -->
+  <VAERoy_UtilitySocial>多用途生物</VAERoy_UtilitySocial>
+	<!-- EN: Utility - Heat Disipation -->
+  <VAERoy_UtilityHeat>多用途生物</VAERoy_UtilityHeat>
+	<!-- EN: Utility - Psychic -->
+  <VAERoy_UtilityPsychic>多用途生物</VAERoy_UtilityPsychic>
+	<!-- EN: Utility - Crowd Control -->
+  <VAERoy_UtilityCrowd>多用途生物</VAERoy_UtilityCrowd>
+	<!-- EN: Utility - Food -->
+  <VAERoy_UtilityFood>多用途生物</VAERoy_UtilityFood>
+	<!-- EN: Utility - Building -->
+  <VAERoy_UtilityBuilding>多用途生物</VAERoy_UtilityBuilding>
+
+	<!-- Roles Descriptions -->
+
+	<!-- EN: Combat animals are specialized in melee combat. These animals have high attack damage, good resistance, high health, or other abilities that allow them to survive in the front lines.\n\nThis animal gets greatly increased melee attacks as it ages. -->
+  <VAERoy_CombatDescInc>战斗动物擅长近战。这些动物有很高的攻击伤害，很好的护甲，很高的生命值，或者其他能让它们在前线生存的能力。\n\n这种动物会随着年龄增长而变得越来越强。</VAERoy_CombatDescInc>
+	<!-- EN: Combat animals are specialized in melee combat. These animals have high attack damage, good resistance, high health, or other abilities that allow them to survive in the front lines. -->
+  <VAERoy_CombatDesc>战斗动物擅长近战。这些动物有很高的攻击伤害，很好的护甲，很高的生命值，或者其他能让它们在前线生存的能力。</VAERoy_CombatDesc>
+	<!-- EN: This animal lays eggs -->
+  <VAERoy_EggLayerDesc>这种动物会定期下蛋。</VAERoy_EggLayerDesc>
+	<!-- EN: This animal is not suited for combat, being quite physically weak. It will however increase the mood of your colonists. -->
+  <VAERoy_UtilityMoodDesc>这种动物本身十分虚弱，不适合战斗。不过，它能为你的殖民者提供心情增益。</VAERoy_UtilityMoodDesc>
+	<!-- EN: This animal is not suited for combat, being quite physically weak. It will however increase the neural heat disipation of a bonded colonist. -->
+  <VAERoy_UtilityHeatDisipationDesc>这种动物本身十分虚弱，不适合战斗。不过，它能为与其建立牵绊的殖民者提供心灵熵消散速度增益。</VAERoy_UtilityHeatDisipationDesc>
+	<!-- EN: This animal is not suited for combat. It will instead engage your colonists in conversation, increasing their social recreation as well as giving them small amounts of experience in random skills. -->
+  <VAERoy_UtilitySocialDesc>这种动物本身十分虚弱，不适合战斗。不过，它偶尔会与殖民者聊天，并提高他们的娱乐值和随机技能的经验值。</VAERoy_UtilitySocialDesc>
+	<!-- EN: This animal is not suited for combat, being quite physically weak. It will however nuzzle your colonists periodically to increase their psychic sensitivity. -->
+  <VAERoy_UtilityPsychicDesc>这种动物本身十分虚弱，不适合战斗。不过，它会定期亲昵殖民者以提高他们的心灵敏感度。</VAERoy_UtilityPsychicDesc>
+	<!-- EN: This animal is weak, but it has psychic abilities that can help with crowd control and survivavility. -->
+  <VAERoy_UtilityCrowdDesc>这种动物本身十分虚弱，不适合战斗。不过，它能向四周散发隐身心灵波以保护殖民者。</VAERoy_UtilityCrowdDesc>
+	<!-- EN: This is a farm animal that produces specialized meat. -->
+  <VAERoy_UtilityFoodDesc>这种动物能够产出十分美味的肉。</VAERoy_UtilityFoodDesc>
+	<!-- EN: This animal is not suited for combat, being quite physically weak. It will however build nests that act as a very beautiful animal sleeping spot. -->
+  <VAERoy_UtilityBuildingDesc>这种动物本身十分虚弱，不适合战斗。不过，它能用花朵搭建出美观度相当高的花巢。</VAERoy_UtilityBuildingDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mutagenic furnace -->
+  <VR_GeneProcessor.label>诱变熔炉</VR_GeneProcessor.label>
+  <!-- EN: Placed near a graft forge, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple mutagenic furnace will increase the genetic complexity limit further. -->
+  <VR_GeneProcessor.description>放置在嫁接锻炉附近，可提高可组装的异种胚体最大遗传复杂度。建造多个诱变熔炉可进一步提高上限。</VR_GeneProcessor.description>
+  <!-- EN: Gene complexity increase -->
+  <VR_GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>基因复杂度提升</VR_GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
+  
+  <!-- EN: gene rack -->
+  <VR_GeneRack.label>基因架</VR_GeneRack.label>
+  <!-- EN: This building can store genepacks and make them usable to create new xenogerms, when placed near a graft forge. Large gene libraries require many gene banks.\n\nWhen fueled, gene banks prevent genepacks from deteriorating and will slowly repair deterioration. -->
+  <VR_GeneRack.description>该建筑可存放基因包，放置在嫁接锻炉附近时可使其用于制作新的异种胚体。大型基因库需要许多基因架。\n\n当有燃料时，基因架可防止基因包劣化并缓慢修复劣化。</VR_GeneRack.description>
+  <!-- EN: Hemogen -->
+  <VR_GeneRack.comps.CompRefuelable.fuelLabel>血原质</VR_GeneRack.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: gene remover -->
+  <VR_GeneRemover.label>基因剥离台</VR_GeneRemover.label>
+  <!-- EN: An surgery table that allows a doctor to extract a person's genes and create a genepack from them. The extracted genes will be randomly selected from the person's xenogenes and germline genes. You can force someone into the machine, but they won't like it.\n\nDue to the invasive nature of this extraction, there will be blood loss based on the doctor's skill.\n\nExtracting a person's genes while their genes are currently regrowing will kill them.\n\nGenes that require archite capsules are too complex to be extracted. -->
+  <VR_GeneRemover.description>一张手术台，医生可从人体中提取基因并制成基因包。提取出的基因将从该人的异种基因与生殖系基因中随机选择。你可以强迫他人进入机器，但他们不会高兴。\n\n由于提取过程具有侵入性，出血量会取决于医生的技能。\n\n在基因正在再生期间提取其基因会致其死亡。\n\n需要拱元胶囊的基因过于复杂，无法被提取。</VR_GeneRemover.description>
+  
+  <!-- EN: graft forge -->
+  <VR_GraftForge.label>嫁接锻炉</VR_GraftForge.label>
+  <!-- EN: A workbench for creating implantable xenogerms from genepacks stored in nearby gene racks. Genepacks are not consumed in this process and can be reused. -->
+  <VR_GraftForge.description>用于将附近基因架中存放的基因包制作成可植入的异种胚体的工作台。基因包在此过程中不会被消耗，可重复使用。</VR_GraftForge.description>
+  <!-- EN: Hemogen -->
+  <VR_GraftForge.comps.CompRefuelable.fuelLabel>血原质</VR_GraftForge.comps.CompRefuelable.fuelLabel>
+  
+</LanguageData>

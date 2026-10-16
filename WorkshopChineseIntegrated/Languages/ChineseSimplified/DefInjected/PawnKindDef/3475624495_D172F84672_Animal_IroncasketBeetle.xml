@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ironcasket beetle -->
+  <DA_IroncasketBeetle.label>铁棺甲虫</DA_IroncasketBeetle.label>
+  <!-- EN: ironcasket nugget -->
+  <DA_IroncasketBeetle.lifeStages.ironcasket_nugget.label>铁棺甲虫块</DA_IroncasketBeetle.lifeStages.ironcasket_nugget.label>
+  <!-- EN: ironcasket nuggets -->
+  <DA_IroncasketBeetle.lifeStages.ironcasket_nugget.labelPlural>铁棺甲虫块</DA_IroncasketBeetle.lifeStages.ironcasket_nugget.labelPlural>
+  
+</LanguageData>

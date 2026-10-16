@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>story(priority=-999)-></li>
+    <li>setup->[founderName] made us see that the existence of God, of the divine and the supernatural, is unknown and unknowable.</li>
+    <li>setup->[founderName] was the first to realize that we didn't need Gods to explain the Universe.</li>
+    <li>setup->Struck by the non-spiritual nature of the world, [founderName] studied history and philosophy and discovered the new truth that guides us.</li>
+    <li>setup->During an ancient ritual, [founderName] began to question the validity of [founder_possessive] former beliefs. Why put your whole life in service of an unknowable God?</li>
+    <li>setup->[founderName]'s tough life had made [founder_objective] reject [founder_possessive] faith. Gods are unknowable and should have no bearing on a person's day to day.</li>
+    <li>story(uses=1,priority=-10)->The [memberNamePlural] would still be worshipping ancient spirits without [founderName]'s teachings, and thus [founder_pronoun] will always be remembered amongst our people as: [honorific].</li>
+    <li>story(uses=1,priority=-10)->[founderName]'s speech at a [ritualName] inspired many to lead a [memeAdjective] life, free of the shackles of magical thinking. Thus [founder_pronoun] will always be remembered amongst our people as: [honorific].</li>
+    <li>story(uses=1,priority=-10)->[founderName] will always be remembered amongst our people as [honorific]: The one that forever banished magical thinking from our minds.</li>
+    <li>honorific->The Godkiller</li>
+    <li>honorific->The Atheist</li>
+    <li>honorific->The Agnostic</li>
+    <li>honorific->The Disenter</li>
+    <li>honorific->The Light in the Dark</li>
+    <li>honorific->The Unbeliever</li>
+    <li>honorific->The Heretic</li>
+  -->
+  <VME_AgnosticismDescription.rules.rulesStrings>  
+    <li>story(priority=-999)-></li>
+    <li>setup->[founderName]让我们看到了神明、神圣以及超自然的存在，这对我们来说都是未知的。</li>
+    <li>setup->[founderName]是第一个意识到我们不需要神明来阐释宇宙的人。</li>
+    <li>setup->[founderName]被世界的非精神本质所震撼，并为此学习起了历史和哲学，最终发现了指引我们的崭新真理。</li>
+    <li>setup->在某个远古仪式中，[founderName]开始对[founder_possessive]曾经信仰的合理性感到怀疑。为什么要把自己的一生献给一个未知的神明呢？</li>
+    <li>setup->[founderName]艰苦的生活使[founder_objective]拒绝了[founder_possessive]的信仰。神明是未知的，也和人们的生活没有关系。</li>
+    <li>story(uses=1,priority=-10)->如果没有[founderName]的教诲，[memberNamePlural]仍将继续敬拜远古灵魂们。因此，[founder_pronoun]将被我们的人民永远铭记为：[honorific]。</li>
+    <li>story(uses=1,priority=-10)->[founderName]在[ritualName]上发表的演讲激励了许多人，他们过起了[memeAdjective]生活，摆脱了迷信思想的束缚。因此，[founder_pronoun]将被我们的人民永远铭记为：[honorific]。</li>
+    <li>story(uses=1,priority=-10)->[founder_pronoun]将被我们的人民永远铭记为：[honorific]：是他将迷信思想永远地从我们的头脑中驱逐出去的。</li>
+    <li>honorific->弑神者</li>
+    <li>honorific->无神论者</li>
+    <li>honorific->不可知论者</li>
+    <li>honorific->异见者</li>
+    <li>honorific->黑暗中的一缕光明</li>
+    <li>honorific->无信仰者</li>
+    <li>honorific->异教徒</li>
+  </VME_AgnosticismDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>lesson(priority=-1)->stuff happens</li>
+    <li>r_pattern->"[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull], on a [speechadjective] [speech] on the [TerrainFeature]</li>
+    <li>lessonAttribution->[founder_nameFull], [speechadjective] [speech] in the [Community]</li>
+    <li>speechadjective->rousing</li>
+    <li>speechadjective->public</li>
+    <li>speechadjective->multitudinous</li>
+    <li>speechadjective->political</li>
+    <li>speechadjective->passionate</li>
+    <li>speechadjective->fiery</li>
+    <li>speech->Speech</li>
+    <li>speech->Address</li>
+    <li>speech->Disquisition</li>
+    <li>speech->Declamation</li>
+    <li>lessonIntro->The entire struggle for survival is a conquest of the means of existence.</li>
+    <li>lessonIntro->I also extend noble respects to the revolutionary martyrs, both sung and unsung, who sacrificed their precious lives in the sacred war for achieving the reunification and independence of our people.</li>
+    <li>lessonIntro->We cannot think of our people today without remembering the sweats and blood shed by the generation of the victors in the war, the great spirit they demonstrated and the ennobling sacrifice of the warriors.</li>
+    <li>lessonIntro->There is only one order. It is categorical and obligatory for every one. It already wings over and enflames hearts from [place_name] to corners of this world: Conquer!</li>
+    <li>lessonIntro->Nothing is possible unless one will commands, a will which has to be obeyed by others, beginning at the top and ending only at the very bottom.</li>
+    <li>lessonIntro->My fellow-countrymen, man does not exist on theories and phrases, on declarations or on systems of political philosophy; he lives on what he can gain from the soil by his own labor.</li>
+    <li>lessonIntro->Our victory was the victory of the ennobling patriotism and mass heroism of our citizens, the victory of justice and progress over injustice and reaction, the future of mankind over our enemies.</li>
+    <li>lessonMain->To those who can hear me, I say - do not despair</li>
+    <li>lessonMain->No one will be astonished if now, when this phase may be considered overcome, we throw off whatever and whoever would like to deflect us from marching toward fulfillment of our movement</li>
+    <li>lessonMain->We are actors in a new era in which we can have no truck with the mentality of the past</li>
+    <li>lessonMain->Youth marched conscious of its historic responsibility toward a goal sensed but not clearly defined</li>
+    <li>lessonMain->In these days our generations are not merely faced with territorial and political problems, but also with supreme issues of the existence of our faith, our civilization and our culture, which are now at stake once more</li>
+    <li>lessonMain->Certain people wished to be in our ranks in order to create among us a controlling body or a new minority group. That could not be permitted</li>
+    <li>lessonReinforcement->Together, we will march towards the dawn of a new era.</li>
+    <li>lessonReinforcement->Our future is bright, and we will persevere.</li>
+    <li>lessonReinforcement->Whatever projects there may exist now, the historic destiny of our era will be settled.</li>
+    <li>lessonReinforcement->For this reason, because we know that ours is the truth, and because we have labored for it endlessly, we look upon events with serenity.</li>
+    <li>lessonReinforcement->We have called you together to carry our work to completion, for it is heralded by continuous triumphs.</li>
+    <li>lessonReinforcement->It is not enough to set our goal. It must be pursued with constancy and sacrifice.</li>
+  -->
+  <VME_AuthoritarianDescription.rules.rulesStrings>
+    <li>lesson(priority=-1)->事情发生</li>
+    <li>r_pattern->"[r_lessonIntro] [r_lessonMain]。[r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]，在[TerrainFeature]上的[speechadjective][speech]上。</li>
+    <li>lessonAttribution->[founder_nameFull]，[speechadjective][speech]在[Community]。</li>
+    <li>speechadjective->激动人心的</li>
+    <li>speechadjective->公共</li>
+    <li>speechadjective->众多</li>
+    <li>speechadjective->政治</li>
+    <li>speechadjective->充满激情的</li>
+    <li>speechadjective->热烈的</li>
+    <li>speech->演讲</li>
+    <li>speech->地址</li>
+    <li>speech->专题论文</li>
+    <li>speech->慷慨演说</li>
+    <li>lessonIntro->生存斗争就是对整个生存手段的征服。</li>
+    <li>lessonIntro->我还要向在实现祖国统一和民族独立的神圣战争中献出宝贵生命的革命烈士们致以崇高的敬意。</li>
+    <li>lessonIntro->今天，我一想到我们的人民，就不得不想起使战争胜利的一代人付出的汗水和鲜血，他们展现出伟大的精神和无畏的崇高牺牲。</li>
+    <li>lessonIntro->只有一个目标。它对于每个人来说都是绝对和至高无上的。它能够使我们展翅飞翔，点燃我们的心，从[place_name]到世界的每个角落：征服！</li>
+    <li>lessonIntro->除非由一个有能力的人来发号施令，否则我们将一事无成，这是一种必须由他人遵守的意志，从上层开始，直到底层结束。</li>
+    <li>lessonIntro->同胞们，人不是靠理论和言论、宣言或政治哲学体系而存在的；他靠自己的劳动从土地中获得的东西才能生活。</li>
+    <li>lessonIntro->我们的胜利是我们公民崇高的爱国主义和大众英雄主义的胜利，是正义和进步战胜非正义和反动的胜利，是为了人类的未来而战胜敌人的胜利。</li>
+    <li>lessonMain->我要对那些能听到我讲话的人说，不要绝望。</li>
+    <li>lessonMain->没有人会感到惊讶，如果现在，当这个阶段可以被认为是克服了，我们摆脱任何东西和任何人想要使我们前进，以实现我们的运动。</li>
+    <li>lessonMain->我们是新时代的演员，在这个时代，我们不能以过去的心态来面对。</li>
+    <li>lessonMain->青年们意识到自己的历史责任，朝着一个凭借着感觉但没有明确定义的目标前进。</li>
+    <li>lessonMain->在当今时代，我们这一代人不仅面临领土和政治问题，而且还面临我们的信仰、我们的文明和我们的文化的生死存亡这一至高无上的问题，这些问题使现在的我们再次受到威胁。</li>
+    <li>lessonMain->有些人希望加入我们的行列，以便在我们中间建立一个控制机构或一个新的少数群体。这是不被允许的。</li>
+    <li>lessonReinforcement->我们将携手迈向新时代的黎明。</li>
+    <li>lessonReinforcement->我们的未来是光明的，我们将坚持不懈。</li>
+    <li>lessonReinforcement->无论现在存在什么计划，我们这个时代的历史都由命运来决定。</li>
+    <li>lessonReinforcement->由于这个原因，我们得以知道我们的思想即是真理，因而我们为之不懈努力，我们将以平静的心态看待事情。</li>
+    <li>lessonReinforcement->我们把你们召集到一起，是为了完成我们的工作，因为不断的胜利已经为我们作出了揭示。</li>
+    <li>lessonReinforcement->仅仅设定我们的目标是远远不够的，我们必须坚持不懈地将其追求并且毫不畏惧牺牲。</li>
+  </VME_AuthoritarianDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>chthonianBasis   ->There are vast entities in this world that defy any explanation. Concepts far more ancient than mere Gods.</li>
+    <li>chthonianBasis   ->Beyond the Veil, a whole new universe of insanity-inducing Old Gods awaits.</li>
+    <li>chthonianBasis   ->Gods are not the ultimate predator in the Universe, for there are ancient entities far more powerful. Entities that should be respected... and feared.</li>
+    <li>chthonianBasis   ->In the unknown vastness of space, there are insane entities that could remake the whole Universe with a simple wayward thought.</li>
+    <li>chthonianFact    ->We are like insects to these entities. Not even worthy of their attention. As insignificant to them as an ant would be to us.</li>
+    <li>chthonianFact    ->They do not care about humanity. We are nothing to them. Not even a footnote.</li>
+    <li>chthonianFact    ->Though powerful, they are uncaring. So far beyond our intelligence that we are not even sapient in their eyes.</li>
+    <li>chthonianFact    ->From their point of view, we don't even exist. The same way you don't think about the microbes in the surface of the chair you are sitting on.</li>
+    <li>chthonianProphecy->[weMustBe] careful, for it wouldn't be wise to attract their attention, as they could destroy us in an instant.</li>
+    <li>chthonianProphecy->[byWorshipping] them, perhaps we can avoid their gaze.</li>
+    <li>chthonianProphecy->Don't be fooled: they don't deserve our devotion. But perhaps by showing a false façade of piety we can avoid their attention long enough.</li>
+    <li>chthonianProphecy->Even so, a lot can be learned from them. Eldritch knowledge awaits those brave -or foolish- enough to peek into the screaming visage of madness.</li>
+    <li>weMustBe->We must be</li>
+    <li>weMustBe->It is imperative that we are</li>
+    <li>weMustBe->We'd better be</li>
+    <li>byWorshipping->By worshipping</li>
+    <li>byWorshipping->We hope if we worshop</li>
+  -->
+  <VME_ChthonianDescription.rules.rulesStrings>
+    <li>chthonianBasis   ->这个世界上有很多无法解释的东西，有关祂们的概念甚至比单纯的神明还要古老。</li>
+    <li>chthonianBasis   ->在帷幕彼端，一个由疯狂的旧日支配者组成的全新宇宙在等待着我们。</li>
+    <li>chthonianBasis   ->神明并不是宇宙中的终极猎食者，因为有比神明更强大的外神。我们应该敬拜这些外神…以及对祂们抱有恐惧。</li>
+    <li>chthonianBasis   ->在浩瀚的未知宇宙中，有一些外神可以简单而任性地重塑整个宇宙。</li>
+    <li>chthonianFact    ->对于这些外神来说，我们就像蝼蚁一样，甚至不值得祂们注意，无足轻重。</li>
+    <li>chthonianFact    ->祂们并不关心人类。我们对祂们来说什么都不是。</li>
+    <li>chthonianFact    ->虽然强大，祂们却对此漠不关心。祂们的智慧远远超出了我们，以至于在祂们眼中我们甚至都是愚昧无知的。</li>
+    <li>chthonianFact    ->在祂们看来，我们像根本不存在一样，就像你不会去想你所坐的椅子表面的微生物那样。</li>
+    <li>chthonianProphecy->[weMustBe]小心，引起祂们的注意是不明智的行为，祂们可以瞬间摧毁我们。</li>
+    <li>chthonianProphecy->[byWorshipping]祂们，也许我们就可以避开祂们的目光。</li>
+    <li>chthonianProphecy->不要被愚弄了:祂们不值得我们献上忠诚。但是，也许通过展示虚假的虔诚，我们可以长时间避开祂们的注意。</li>
+    <li>chthonianProphecy->即便如此，我们还是可以从祂们身上学到很多东西。外神的知识等待着那些勇敢的——或愚蠢的——有足够意志能够窥视疯狂面孔的人。</li>
+    <li>weMustBe->我们必须</li>
+    <li>weMustBe->我们必须这样做</li>
+    <li>weMustBe->我们最好是</li>
+    <li>byWorshipping->由崇拜</li>
+    <li>byWorshipping->如果我们敬拜，我们希望</li>
+  </VME_ChthonianDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>episodeCorporate(priority=-1)-></li>
+    <li>r_pattern->"To: All Employees\n\nFrom: Upper Management\n\nSubject: [subject]\n\n[r_introMemo] [r_episodeCorporate] [r_episodeCorporate]"</li>
+    <li>introMemo->Coworkers, it has come to my attention that many in the office have been spending time doing unapproved activities.</li>
+    <li>introMemo->This is to remind the division that, starting today, we are now filing all Testing Procedure Specification (TPS) reports with new cover sheets.</li>
+    <li>introMemo->In our efforts to make your orientation a pleasant one, we have implemented an employee self-service system to assist you in completing the new hire process, including benefits enrollment.</li>
+    <li>introMemo->As you know, tomorrow afternoon we’ll be meeting to discuss the status of all of our current projects.</li>
+    <li>introMemo->For tomorrow’s 3 p.m. staff meeting in the conference room, please bring 5 copies of the aforementioned materials.</li>
+    <li>introMemo->Due to your excellent performance in the last year —especially your work in the Northwest Region!— we would like to feature you as one of our spotlight employees.</li>
+    <li>introMemo->Do you know the #1 thing that matters most to our customers? Money, of course.</li>
+    <li>introMemo->Are you using the 3 most useful collaboration tools?. We'd really appreciate it if you get those synergies flowing.</li>
+    <li>introMemo->Good morning. There are some exciting changes coming to our department that I wish to alert you to.</li>
+    <li>introMemo->I am very pleased that you have accepted our offer and are joining our team.</li>
+    <li>introMemo->We are very happy to have you as a part of our team. The staff here is looking forward to helping you fill the management void we have had for some time.</li>
+    <li>episodeCorporate(uses=1)->This memo is a reminder to use your work hours for work.</li>
+    <li>episodeCorporate(uses=1)->Of course, we don't want you to view our organization as a place of drudgery and draconian rules. We encourage a fun and competitive environment.</li>
+    <li>episodeCorporate(uses=1)->Though this change may initially seem like a headache and an extra step, it is necessary to ensure the proper functioning of our company.</li>
+    <li>episodeCorporate(uses=1)->Please be sure to follow this new procedure.</li>
+    <li>episodeCorporate(uses=1)->I think I don't need to remind you all that we are a team, no, a family. And families stick together, no matter the challenge.</li>
+    <li>episodeCorporate(uses=1)->This critical issue will be discussed in an all-hands meeting, ASAP.</li>
+    <li>episodeCorporate(uses=1)->It is prioritary that we start thinking outside the box. And let's all sing from the same hymn sheet.</li>
+    <li>episodeCorporate(uses=1)->Let's take it to the next level, people.</li>
+    <li>episodeCorporate(uses=1)->Our executive management has decided that some restructuring of our department is in order so that our transition through this merger can be as seamless as possible. You'll receive more info shortly.</li>
+    <li>episodeCorporate(uses=1)->We are scheduling a staff meeting for tomorrow from 12 pm to 1 pm where we will outline the steps of this important transition; lunch will be provided.</li>
+    <li>episodeCorporate(uses=1)->Your experience and vision will be a great asset to this group, and I know that the team is looking forward to working with you.</li>
+    <li>subject->Inappropriate use of time on Google Doodle games</li>
+    <li>subject->Please reload ink on the printer once it runs out</li>
+    <li>subject->Fall Clothes Line Promotion</li>
+    <li>subject->Don't invite Steve to the meeting. He'll dress like a ghost</li>
+    <li>subject->Warning: Unattended items in your desks may be stolen. The Company is not responsible for your belongings</li>
+    <li>subject->Office Memo to All Employees</li>
+    <li>subject->Restroom Use Policy</li>
+    <li>subject->Company's Position On "Streaking"</li>
+    <li>subject->Customer Satisfaction</li>
+    <li>subject->Boss's Rules</li>
+    <li>subject->Prospective Employee Assessment</li>
+    <li>subject->Re: Request For A Raise</li>
+    <li>subject->Re: that is my last email!</li>
+    <li>subject->Your Company's Early Retirement Program</li>
+    <li>subject->PARKING VIOLATION</li>
+    <li>subject->Forwarded for Your Consideration</li>
+    <li>subject->For your Information (FYI)</li>
+    <li>subject->Give Us the Benefit of Your Present Thinking</li>
+    <li>subject->Under Consideration</li>
+    <li>subject->The milestones have almost been reached</li>
+    <li>subject->Clarification</li>
+  -->
+  <VME_CorporateDescription.rules.rulesStrings>
+    <li>episodeCorporate(priority=-1)-></li>
+    <li>r_pattern->“致：所有员工\n\n来自：高级管理层\n\n主题：[subject]\n\n[r_introMemo][r_episodeCorporate][r_episodeCorporate]”</li>
+    <li>introMemo->同事们，我注意到办公室里有很多人在花时间做未经批准的事情。</li>
+    <li>introMemo->这是为了提醒该部门，从今天开始，我们将使用新的封面和归档用于所有的测试程序规范(TPS)报告。</li>
+    <li>introMemo->为了使您的入职过程愉快，我们已经实施了员工自助服务系统，以帮助您完成新招聘流程，包括福利登记。</li>
+    <li>introMemo->如你所知，明天下午我们将开会讨论目前所有项目的进展情况。</li>
+    <li>introMemo->明天下午3点将在会议室召开员工会议，请携带5份上述资料。</li>
+    <li>introMemo->由于你过去一年的出色表现——尤其是在西北地区的工作！-我们想让你成为我们的重点员工之一。</li>
+    <li>introMemo->你知道对我们的客户来说最重要的是什么吗?当然,是钱。</li>
+    <li>introMemo->你是否在使用这3个最有用的协作工具?如果能产生协同效应，我们将不胜感激。</li>
+    <li>introMemo->早上好。我们部门即将发生一些令人激动的变化，我想提醒大家。</li>
+    <li>introMemo->我很高兴你接受了我们的工作邀请，加入了我们的团队。</li>
+    <li>introMemo->我们很高兴你成为我们团队的一员。这里的员工期待着您能够帮助填补我们一段时间以来的管理空缺。</li>
+    <li>episodeCorporate(uses=1)->这个备忘录是用来提醒你要在工作时间只能做工作的事情。</li>
+    <li>episodeCorporate(uses=1)->当然，我们不希望你会认为我们的组织是一个充满苦差事和苛刻规则的地方。我们鼓励一个充满趣味的竞争环境。</li>
+    <li>episodeCorporate(uses=1)->虽然这一改变看起来令人厌烦且多此一举，但它是必要的，这会确保我们公司的正常运作。</li>
+    <li>episodeCorporate(uses=1)->请务必遵守这个新程序。</li>
+    <li>episodeCorporate(uses=1)->我想我不需要提醒你我们所有人是一个团队，不，是一个家庭。家人团结在一起，不管面临什么挑战。</li>
+    <li>episodeCorporate(uses=1)->这个关键问题将尽快在全体会议上讨论。</li>
+    <li>episodeCorporate(uses=1)->首先我们要开始跳出固有的思维模式。让我们一起唱一首赞美诗。</li>
+    <li>episodeCorporate(uses=1)->让我们进入下一阶段吧，各位。</li>
+    <li>episodeCorporate(uses=1)->我们的行政管理部门已经决定对我们的部门进行一些重组，以便通过合并实现尽可能无缝的过渡。您将很快收到更多信息。</li>
+    <li>episodeCorporate(uses=1)->我们将在明天下午12点至1点召开员工会议，会上我们将概述这一重要过渡的步骤；并且我们将提供午餐。</li>
+    <li>episodeCorporate(uses=1)->你的经验和愿景将是这个团队的宝贵财富，我知道团队都期待着与你合作。</li>
+    <li>subject->不恰当地浪费时间在谷歌涂鸦游戏里。</li>
+    <li>subject->打印机用完后请重新装墨</li>
+    <li>subject->秋季系列服装推广</li>
+    <li>subject->不要邀请史蒂夫参加会议。他会穿得像个丑鬼</li>
+    <li>subject->警告:您办公桌上无人看管的物品可能被盗。本公司概不负责您的财物</li>
+    <li>subject->致全体员工的办公室备忘录</li>
+    <li>subject->厕所使用规定</li>
+    <li>subject->公司对“裸奔”的立场</li>
+    <li>subject->客户满意度</li>
+    <li>subject->老板的规定</li>
+    <li>subject->未来的员工评估</li>
+    <li>subject->回复:要求加薪</li>
+    <li>subject->回复:这是我的最后一封邮件！</li>
+    <li>subject->贵公司的提前退休计划</li>
+    <li>subject->违规停车</li>
+    <li>subject->已转发供你考虑</li>
+    <li>subject->仅供参考</li>
+    <li>subject->让我们于你现在的想法受益</li>
+    <li>subject->在考虑</li>
+    <li>subject->几乎已经达到里程碑</li>
+    <li>subject->澄清</li>
+  </VME_CorporateDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>story(priority=-999)-></li>
+    <li>setup->There is no order without a firm hand directing things. This was clear to [founderName], our first [leaderTitle].</li>
+    <li>setup->We are the Chosen of [founder_possessive] Divine Will. The sons and daughters of [founderName] [honorific], our first [leaderTitle].</li>
+    <li>setup->It is told that the first [leaderTitle] of our people, [founderName] [honorific] was forged by the Universe from the clay of creation itself.</li>
+    <li>setup->From the terrible chaos embraced by our ancients arose [founderName], our first [leaderTitle].</li>
+    <li>setup->From humble and unremarkable origins, [founderName], our first [leaderTitle], raised above [founder_possessive] station, imposing [founder_possessive] unwavering will.</li>
+    <li>honorific->The Magnificent</li>
+    <li>honorific->The Great</li>
+    <li>honorific->The Saint</li>
+    <li>honorific->The Awe-Inspiring</li>
+    <li>honorific->The Conqueror</li>
+    <li>honorific->The Resplendent</li>
+    <li>story(uses=1,priority=-10)->The [memberNamePlural] swore eternal loyalty to [founderName] and [founder_possessive] descendants, forever bound in devoted servitude.</li>
+    <li>story(uses=1,priority=-10)->[founderName] inspired many to lead a life of righteousness, and thus received our unnending devotion.</li>
+    <li>story(uses=1,priority=-10)->With an army of [founder_possessive] followers at [founder_possessive] command, the line of [founderName] has lasted till the present, represented by our beloved leader.</li>
+    <li>story(uses=1,priority=-10)->Our beloved leader, the latest successor of [founderName], will bring us to prosperity, allowing all of us to live a [memeAdjective] life.</li>
+  -->
+  <VME_CultOfPersonalityDescription.rules.rulesStrings>
+    <li>story(priority=-999)-></li>
+    <li>setup->没有坚定的意志就没有秩序。这一点对[founderName]，我们的第一位[leaderTitle]来说非常清楚。</li>
+    <li>setup->我们是神的旨意[founder_possessive]的选民。[founderName][honorific]的子女，是我们第一任[leaderTitle]。</li>
+    <li>setup->据说我们人类的第一位[leaderTitle]，[founderName][honorific]是宇宙之主以创世之土铸造的。</li>
+    <li>setup->从我们祖先可怕而混沌的拥抱中诞生了[founderName]，我们的第一任[leaderTitle]。</li>
+    <li>setup->[founderName]，我们的第一位领袖[leaderTitle]，来自于卑微而平庸的凡世，超越了[founder_possessive]的地位，树立起[founder_possessive]的坚定意志。</li>
+    <li>honorific->壮丽的</li>
+    <li>honorific->伟大的</li>
+    <li>honorific->神圣的</li>
+    <li>honorific->令人敬畏的</li>
+    <li>honorific->征服者</li>
+    <li>honorific->辉煌的</li>
+    <li>story(uses=1,priority=-10)->[memberNamePlural]宣誓永远效忠[founderName]和[founder_possessive]的后代，愿永远被束缚在忠诚的奴役中。</li>
+    <li>story(uses=1,priority=-10)->[founderName]激励着许多人向往正直的生活，并因此得到我们无尽的奉献。</li>
+    <li>story(uses=1,priority=-10)->有一群[founder_possessive]的追随者在[founder_possessive]的领导下，我们敬爱的领袖[founderName]，这一家族得以延续至今。</li>
+    <li>story(uses=1,priority=-10)->我们敬爱的领袖，[founderName]的最新继任者，将为我们带来繁荣，让我们每个人都过上[memeAdjective]的生活。</li>
+  </VME_CultOfPersonalityDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>eschatologismBasis   ->This world is tainted, impure, and it must be purged. We shall bring the end of days and a new Universe will be reborn from the ashes of the current one.</li>
+    <li>eschatologismBasis   ->There is nothing of value in this world anymore. Vast post-human intelligences scheming in the dark. Vicious genetically engineered creations rampaging across the land. Greedy, stupid, ambitious humans preying on the weak. It must all be destroyed.</li>
+    <li>eschatologismBasis   ->This world needs to be purged. Too long have we left it go unchecked. Human stupidity running rampant and ruining everything.</li>
+    <li>eschatologismBasis   ->It is an inescapable fact: the only way forward is to start over and begin anew. This world must be destroyed.</li>
+    <li>eschatologismBasis   ->There is no longer room for compromise. This world is tainted, impure. It must be destroyed.</li>
+    <li>eschatologismFact    ->Either through atomic fire or another means, we must bring the Apocalypse.</li>
+    <li>eschatologismFact    ->The Great Battle at the End of Everything is coming, and we will be prepared.</li>
+    <li>eschatologismFact    ->No one must be left alive to rebuild, for the seeds of corruption lie deep within each and any of us.</li>
+    <li>eschatologismFact    ->Nothing but charred remains should be left.</li>
+    <li>eschatologismFact    ->Once everything has been destroyed. We, the Chosen, shall recreate the world to our liking.</li>
+    <li>eschatologismProphecy->We will be triumphant.</li>
+    <li>eschatologismProphecy->No one shall be ready for our wrath.</li>
+    <li>eschatologismProphecy->When we finally strike, all shall fall before us.</li>
+    <li>eschatologismProphecy->The days of this world are counted.</li>
+  -->
+  <VME_EschatologismDescription.rules.rulesStrings>
+    <li>eschatologismBasis   ->这个世界是肮脏的，不纯洁的，它必须被净化。我们将为其带来末日，一个新的宇宙将从当前宇宙的灰烬中涅槃重生。</li>
+    <li>eschatologismBasis   ->这世上已经没有什么值得存在的东西了。巨大的人工智能在黑暗中谋划着阴谋，邪恶的基因工程创造物在大地上横冲直撞。贪婪，愚蠢，野心勃勃的人类只会掠夺弱者。这些必须全部毁灭。</li>
+    <li>eschatologismBasis   ->这个世界需要净化，我们放任自流太久了。人类愚蠢横行，毁灭了一切。</li>
+    <li>eschatologismBasis   ->这是一个不可避免的事实：前进的唯一途径便是重生。让我们重新开始，这个旧世界必须毁灭。</li>
+    <li>eschatologismBasis   ->再也没有妥协的余地了。这个世界是如此肮脏而不纯洁，它必须被摧毁。</li>
+    <li>eschatologismFact    ->不管是通过核能、烈焰，还是其他方式，我们都必须为旧世界带来天启。</li>
+    <li>eschatologismFact    ->最后的伟大战役即将来临，我们必须做好准备。</li>
+    <li>eschatologismFact    ->不能让任何人活到重建之日，因为腐败的种子会深埋在我们每个人的内心深处。</li>
+    <li>eschatologismFact    ->除了烧焦的残骸什么都不会留下。</li>
+    <li>eschatologismFact    ->一旦一切都被摧毁。我们作为天选之子，将按照我们的规划重建这个世界。</li>
+    <li>eschatologismProphecy->我们将会胜利。</li>
+    <li>eschatologismProphecy->没人能承受我们的愤怒。</li>
+    <li>eschatologismProphecy->当最终我们出击时，所有人都会倒在我们面前。</li>
+    <li>eschatologismProphecy->世界末日即将来临。</li>
+  </VME_EschatologismDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>esotericismBasis   ->Beyond the grasp of common science, there is an unsurpassed wealth of secret knowledge.</li>
+    <li>esotericismBasis   ->Hidden to the prying eyes of scientists and philosophers, an occult world of hidden knowledge awaits.</li>
+    <li>esotericismBasis   ->Science can only bring you so far. Beyond the veil of reality there is a trove of secret knowledge, waiting to be uncovered.</li>
+    <li>esotericismBasis   ->The Universe is too vast to be limited to the constraints of pure math and physics. Beyond such human limitations there is a vast treasure of secret knowledge that can be accessed by those willing to do so at any cost necessary.</li>
+    <li>esotericismFact    ->Only a select few have the mental strength to acquire such insights.</li>
+    <li>esotericismFact    ->These occult insights are not for everyone. Only a small group of sages can explore and observe them. The Chosen Ones.</li>
+    <li>esotericismFact    ->Such insights would probably be too much for the common folk. Only those with great mental fortitude can peer into the occult... and keep their minds intact.</li>
+    <li>esotericismProphecy->Perhaps by delving into such knowledge we can even trascend our mortal existence.</li>
+    <li>esotericismProphecy->Given enough time, we will crack the most guarded secrets, and finally understand our place in this Universe.</li>
+    <li>esotericismProphecy->The alchemists of antiquity might not have been so foolish in their search for gold, but we are much more ambitious: we will apply the transmundane to our very souls and become more than human.</li>
+    <li>esotericismProphecy->With such knowledge, we will have a clear advantage over the rest of this planet's inhabitants, and our domination will be all but secured.</li>
+  -->
+  <VME_EsotericismDescription.rules.rulesStrings>
+    <li>esotericismBasis   ->在普通科学的范畴之外，还有大量禁忌的神秘学知识。</li>
+    <li>esotericismBasis   ->在科学家和哲学家的窥视下，一个隐藏着知识的神秘世界在等待着你。</li>
+    <li>esotericismBasis   ->科学只能给你带来这么多。在现实的面纱之外，有大量的神秘学知识等待着被发现。</li>
+    <li>esotericismBasis   ->宇宙如此浩瀚，绝不会仅仅单纯受限于数学和物理。在这些人类的认知之外，有一个巨大的神秘学知识宝库，可以由那些愿意不惜任何代价探索的人所获取。</li>
+    <li>esotericismFact    ->只有少数精挑细选出来的人才有获得这种洞察力的精神力量。</li>
+    <li>esotericismFact    ->这些神秘的见解并不适合所有人。只有一小群圣贤才能观察和探索它们。做出选择吧。</li>
+    <li>esotericismFact    ->对于普通人来说，这样的见解可能难以被接受。只有那些意志坚强的人才能窥探到神秘的事物并保持他们的心智完整。</li>
+    <li>esotericismProphecy->也许通过钻研这些知识，我们甚至可以追溯到让我们终有一死的存在。</li>
+    <li>esotericismProphecy->只要有足够的时间，我们就能破解这些严加保守的秘密，最终了解我们在宇宙中的位置。</li>
+    <li>esotericismProphecy->古代的炼金术士在寻找黄金时可能不会如此愚蠢，但我们要更加雄心勃勃：我们要把超凡的东西应用到我们的灵魂之中，使自己超越人类。</li>
+    <li>esotericismProphecy->有了这样的知识，我们将比这个星球上的其他居民有更加明显的优势，我们的统治几乎不会遭受任何威胁。</li>
+  </VME_EsotericismDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>lesson(priority=-1)->stuff happens</li>
+    <li>r_pattern->"[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]</li>
+    <li>lessonAttribution(p=2)-><i>[attributionSource_titleCase]</i> by [founder_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull]'s letter to [believer_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull], on [founder_possessive] deathbed</li>
+    <li>lessonAttribution->[founder_nameFull], just before execution</li>
+    <li>lessonAttribution->[founder_nameFull], [speech] on the [TerrainFeature]</li>
+    <li>lessonAttribution->[founder_nameFull], [speech] in the [Community]</li>
+    <li>attributionSource->[memeConcept]</li>
+    <li>attributionSource->[memeAdjective] [memeConcept]</li>
+    <li>attributionSource->A [memeAdjective] Life</li>
+    <li>attributionSource->Reflections by a [attributionJob]</li>
+    <li>attributionSource->Journal of a [attributionJob]</li>
+    <li>attributionSource->Thoughts of a [attributionJob]</li>
+    <li>attributionSource->Life of a [attributionJob]</li>
+    <li>attributionJob->[memeAdjective] [place_job]</li>
+    <li>attributionJob->[place_job]</li>
+    <li>speech->Speech</li>
+    <li>speech->Address</li>
+    <li>lessonIntro->After so many sleepless nights of careful deliberation, I came to a simple conclussion:</li>
+    <li>lessonIntro->What is a fundamental truth of human existence?</li>
+    <li>lessonIntro->I have suffered a lot in this life. But this suffering has taught me a simple principle:</li>
+    <li>lessonIntro->Growing in squalor on the [place_summary] [place_name], I learned a sincere axiom:</li>
+    <li>lessonIntro->Internalize this lesson, for it will serve you well:</li>
+    <li>lessonIntro->Are you feeling lost? Perhaps you haven't yet figured out this very simple concept:</li>
+    <li>lessonIntro->They tried to tempt me with a life of rich, dull productivity, but they couldn't fool me:</li>
+    <li>lessonMain->pleasure, the satisfaction of bodily desires, is the highest good and proper aim of human life. Whether through religion or philosophy our entire lives should be focused on enjoying ourselves as much as possible</li>
+    <li>lessonMain->I finally figured out the only reason to be alive is to enjoy it</li>
+    <li>lessonMain->the only way to get rid of temptation is to yield to it</li>
+    <li>lessonMain->salvation is for the feeble. I don't want salvation, I want life, all of life, the miserable as well as the superb</li>
+    <li>lessonMain->pleasure is not a need, but an incentive</li>
+    <li>lessonMain->the most responsible way of life right now is to enjoy ourselves while we can</li>
+    <li>lessonMain->you can live to be a hundred if you give up all the things that make you want to live to be a hundred</li>
+    <li>lessonReinforcement->No one can argue with that.</li>
+    <li>lessonReinforcement->Only fools think otherwise.</li>
+    <li>lessonReinforcement->And as we now know, that was soon to become evident to everyone.</li>
+    <li>lessonReinforcement->Everything that has happened since has reinforced that fact.</li>
+    <li>lessonReinforcement->It is as if that is etched directly into my mind.</li>
+    <li>lessonReinforcement->It is something I'll never forget.</li>
+  -->
+  <VME_HedonistDescription.rules.rulesStrings>
+    <li>lesson(priority=-1)->事情发生</li>
+    <li>r_pattern->"[r_lessonIntro][r_lessonMain]。[r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]</li>
+    <li>lessonAttribution(p=2)-><i>[attributionSource_titleCase]</i>来自[founder_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull]给[believer_nameFull]的信</li>
+    <li>lessonAttribution->[founder_nameFull]，在[founder_possessive]临终之前。</li>
+    <li>lessonAttribution->[founder_nameFull]，就在执行之前</li>
+    <li>lessonAttribution->[TerrainFeature]上的[founder_nameFull]，[speech]</li>
+    <li>lessonAttribution->[Community]中的[founder_nameFull]，[speech]</li>
+    <li>attributionSource->[memeConcept]</li>
+    <li>attributionSource->[memeAdjective][memeConcept]</li>
+    <li>attributionSource->[memeAdjective]的生活</li>
+    <li>attributionSource->[attributionJob]的反映</li>
+    <li>attributionSource->[attributionJob]的日志</li>
+    <li>attributionSource->[attributionJob]的想法</li>
+    <li>attributionSource->[attributionJob]的生活</li>
+    <li>attributionJob->[memeAdjective][place_job]</li>
+    <li>attributionJob->[place_job]</li>
+    <li>speech->Speech</li>
+    <li>speech->Address</li>
+    <li>lessonIntro->经过这么多不眠之夜的深思熟虑，我得出了一个简单的结论:</li>
+    <li>lessonIntro->人类存在的基本真理是什么?</li>
+    <li>lessonIntro->我这一生经历了很多苦难。但这些痛苦教授了我一个简单的原则</li>
+    <li>lessonIntro->在[place_summary][place_name]的肮脏环境中成长，我学会了一个真理:</li>
+    <li>lessonIntro->将这一课内化，因为它会很好地帮助你:</li>
+    <li>lessonIntro->你感到迷茫吗?也许你还没有弄明白这个简单的概念:</li>
+    <li>lessonIntro->他们试图用一种物质丰富而精神匮乏的多产生活来诱惑我，但他们无法愚弄我:</li>
+    <li>lessonMain->愉悦，即肉体欲望的满足，是人类生活的最高善与正当目标。无论是通过宗教还是哲学，我们的整个生活都应该专注于尽可能地自我享受</li>
+    <li>lessonMain->我终于明白了活着的唯一理由，那就是享受生活</li>
+    <li>lessonMain->摆脱诱惑的唯一方法就是屈服于诱惑</li>
+    <li>lessonMain->拯救是为软弱的人。我不需要拯救，我需要的是生命，所有的生命，无论是悲惨的还是卓越的</li>
+    <li>lessonMain->快乐不是一种需求，而是一种激励</li>
+    <li>lessonMain->现在最负责任的生活方式是在我们可以享受的时候不忘享受生活</li>
+    <li>lessonMain->如果你放弃所有让你想活到100岁的念想，你就可以活到100岁</li>
+    <li>lessonReinforcement->没有人能反驳这一点。</li>
+    <li>lessonReinforcement->只有傻瓜才不这么想。</li>
+    <li>lessonReinforcement->正如我们现在所知道的，这一点很快就显而易见了。</li>
+    <li>lessonReinforcement->此后发生的一切都强调了这一事实。</li>
+    <li>lessonReinforcement->这句话似乎已经深深地印在我的脑海里了。</li>
+    <li>lessonReinforcement->这是我永远不会忘记的事情。</li>
+  </VME_HedonistDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>episode(priority=-1)-></li>
+    <li>creation->It is limiting beyond words to bind oneself to any particular god or belief. The combined gifts of all supreme beings, philosophers and forces is what should truly be appreciated.</li>
+    <li>creation->All religions and ideologies point to the whole truth, that a single transcendent purpose unites all things.</li>
+    <li>creation->It seems that the teachings of the ancient [religion] and [religion2] scholars had a lot of truth to teach us.</li>
+    <li>creation->Truth can be found in all religions and ideologies, as they are all part of the greater human experience. Whether it is the teachings of the [religion] texts or the philosophies of the ancient [religion2] scholars, we can learn about the universe by opening our minds to this truth.</li>
+    <li>creation->Human beings are inquisitive creatures, and as such we have invented some incredible concepts: either [religion] teachings or [religion2] tennets hold a portion of the complete truth, and as such all beliefs are intrinsically true and useful.</li>
+    <li>creation->All religions and ideologies are legitimate. A single transcendent purpose unites all things and people, and you can reach this universal purpose by any means, either by the study of the ancient [religion] texts or by following the [religion2] dogma.</li>
+    <li>episode(uses=1)->Only through carefully studying all beliefs can we truly understand the nature of reality.</li>
+    <li>episode(uses=1)->We must recognize that all religions contain varying elements of a common truth, and respect all beliefs accordingly.</li>
+    <li>religion->Christian</li>
+    <li>religion->Buddhist</li>
+    <li>religion->Muslim</li>
+    <li>religion->Jewish</li>
+    <li>religion->Taoist</li>
+    <li>religion->Confucianist</li>
+    <li>religion->Zoroastrian</li>
+    <li>religion2->Capitalist</li>
+    <li>religion2->Communist</li>
+    <li>religion2->Authoritarian</li>
+    <li>religion2->Freethinking</li>
+    <li>religion2->Freemason</li>
+    <li>religion2->Ecologist</li>
+    <li>religion2->Anarchist</li>
+    <li>religion2->Libertarian</li>
+    <li>religion2->Utopian</li>
+  -->
+  <VME_OmnismDescription.rules.rulesStrings>
+    <li>episode(priority=-1)-></li>
+    <li>creation->把自己束缚在任何特定的神或信仰上是难以言表的。所有至高无上的生命、哲学和力量的结合才是真正值得我们欣赏的。</li>
+    <li>creation->所有的宗教和意识形态全部都指向真理，那就是一个单一的、超然的目的，它会将所有的事物联合起来。</li>
+    <li>creation->看来古代[religion]和[religion2]的学者有许多真理要传授给我们。</li>
+    <li>creation->真理可以在所有的宗教和意识形态中找到，因为它们都是人类实践的一部分。无论是[religion]文献的教导还是[religion2]学者的哲学理念，我们都可以通过开放我们的思想理念来了解这些真理，来了解真实的宇宙。</li>
+    <li>creation->人类是充满好奇的生物，因此我们发明了一些不可思议的理念：无论是[religion]的教义还是[religion2]的信条中都含有一定的真理，从而可见任何信仰本质上都是有可取之处的。</li>
+    <li>creation->任何宗教与意识形态都是合法的。一个单一的、超然的目标将所有的事物和人联系起来，你可以通过任何手段来达成这个目标，要么通过研究古代[religion]的文献，要么遵循[religion2]的教义。</li>
+    <li>episode(uses=1)->只有通过仔细研究所有的信仰，我们才能真正理解真理的本质。</li>
+    <li>episode(uses=1)->我们必须意识到，所有的宗教都包含于一个共同的真理，尽管带有不同元素，但我们应该相应地尊重所有的信仰。</li>
+    <li>religion->基督教</li>
+    <li>religion->佛教</li>
+    <li>religion->穆斯林</li>
+    <li>religion->犹太教</li>
+    <li>religion->道教</li>
+    <li>religion->儒家</li>
+    <li>religion->琐罗亚斯德教</li>
+    <li>religion2->资本主义</li>
+    <li>religion2->共产主义</li>
+    <li>religion2->独裁主义</li>
+    <li>religion2->自由主义</li>
+    <li>religion2->共济会</li>
+    <li>religion2->生态保护主义</li>
+    <li>religion2->无政府主义</li>
+    <li>religion2->自由意志主义</li>
+    <li>religion2->乌托邦</li>
+  </VME_OmnismDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>episode(priority=-1)-></li>
+    <li>creation->[deity0_name] is in all things. We are all made from stardust, and we are a part of divinity as much as any [Animal] might be.</li>
+    <li>creation->Everything is part of an all-encompassing, immanent God, [deity0_name]. All forms of reality may then be considered either modes of that Being, or identical with it.</li>
+    <li>creation->The Universe, in the sense of the totality of all existence, and God are identical. Divinity is all around us, forming [deity0_name].</li>
+    <li>creation->There was a neverending void. In that void, [deity0_name] was formed, thus beginning the reckoning of time.</li>
+    <li>episode(uses=1)->Only through carefully studying [deity0_name] can we truly understand the nature of reality.</li>
+    <li>episode(uses=1)->We must recognize this immanent divinity in everything around us, and respect all creations inside [deity0_name] as sacred.</li>
+    <li>episode(uses=1)->If we want to truly understand the nature of [deity0_name] we must engage in quiet and respectful contemplation of everything on it.</li>
+    <li>episode(uses=1)->Controlling [deity0_name] would be a natural consequence of our own intrinsic divinity.</li>
+  -->
+  <VME_PantheismDescription.rules.rulesStrings>
+    <li>episode(priority=-1)-></li>
+    <li>creation->[deity0_name]存在于万物之中。我们都是由星尘组成的，我们和任何[Animal]一样都是神性的一部分。</li>
+    <li>creation->一切都是无所不包的、上帝[deity0_name]内在的一部分。一切形式的实在，可以认为是存在的形式，或与存在相同。</li>
+    <li>creation->就所有存在的整体而言，宇宙和上帝是完全等同的。神性就在我们周围，形成了[deity0_name]。</li>
+    <li>creation->有一片永无止尽的虚空。在那片虚空中，[deity0_name]形成了，于是开始了时间的计算。</li>
+    <li>episode(uses=1)->只有通过仔细研究[deity0_name]，我们才能真正理解实相的本质。</li>
+    <li>episode(uses=1)->我们必须认识到我们周围一切事物内在的神性，并尊重所有内在的创造物[deity0_name]是神圣的。</li>
+    <li>episode(uses=1)->如果我们想真正了解神[deity0_name]的本质，我们必须安静地、恭敬地执行上面的一切。</li>
+    <li>episode(uses=1)->控制[deity0_name]将是我们自身内在神性的自然结果。</li>
+  </VME_PantheismDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>lesson(priority=-1)->stuff happens</li>
+    <li>r_pattern->"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull]'s letter to [believer_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull], on [founder_possessive] mindfulness dissertation</li>
+    <li>lessonAttribution->[founder_nameFull], [speech] on the [TerrainFeature]</li>
+    <li>lessonAttribution->[founder_nameFull], [speech] in the [Community]</li>
+    <li>speech->Meditation Speech</li>
+    <li>speech->Know-Yourself Address</li>
+    <li>lessonIntro->I always repeat, "letting go is the hardest asana":</li>
+    <li>lessonIntro->It took me long years of intense meditation to understand that</li>
+    <li>lessonIntro->We must not be like the [foeLeader], who don't know themselves. Observing them did teach me one thing:</li>
+    <li>lessonIntro->By teaching Yoga on the [place_summary] [place_name], I realized that</li>
+    <li>lessonIntro->Find your center and set intentions for the day as you begin to focus on your breath – body connection. You will then realize that</li>
+    <li>lessonIntro->You must start with a series of breath to movement flows, energizing and invigorating the body and the mind. And you will finally know that</li>
+    <li>lessonIntro->A flower does not think of competing to the flower next to it. It just blooms. One thing will become increasingly clear then: that</li>
+    <li>lessonIntro->You will begin the journey of the self, through the self, to the self. Then you'll see that</li>
+    <li>lessonIntro->You cannot always control what goes on outside. But you can always control what goes on inside. Once that is achieved you will see that</li>
+    <li>lessonIntro->The longest journey of any person is the journey inward. This journey shows you that</li>
+    <li>lessonIntro->Truth lies in pursuing a spiritual philosophy without adherence to a religion, personal growth and inner peace of an individual are more important than a relationship with the divine, and thus</li>
+    <li>lessonReinforcement->Just breathe.</li>
+    <li>lessonReinforcement->Be where you are, not where you think you should be.</li>
+    <li>lessonReinforcement->The pose begins when you want to leave it.</li>
+    <li>lessonReinforcement->Inhale the future, exhale the past.</li>
+    <li>lessonReinforcement->It's not about being good at something. It's about being good to yourself.</li>
+  -->
+  <VME_SecularSpiritualityDescription.rules.rulesStrings>
+    <li>lesson(priority=-1)->事情发生</li>
+    <li>r_pattern->"[r_lessonIntro] [r_lesson]。[r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull]给[believer_nameFull]的信</li>
+    <li>lessonAttribution->[founder_nameFull]，关于[founder_possessive]的</li>
+    <li>lessonAttribution->[founder_nameFull], [speech]在[TerrainFeature]</li>
+    <li>lessonAttribution->[founder_nameFull], [speech]在[Community]</li>
+    <li>speech->冥想演讲</li>
+    <li>speech->了解你自己的所在</li>
+    <li>lessonIntro->我总是重复，“放手是最难的形式”:</li>
+    <li>lessonIntro->我花了很多年的时间才明白这一点</li>
+    <li>lessonIntro->我们不能像[foeLeader]那样，连自己都无法认知。观察他们确实教会了我一件事</li>
+    <li>lessonIntro->通过在[place_summary][place_name]上传授瑜伽，我意识到</li>
+    <li>lessonIntro->当你开始专注于你的呼吸与身体的协调时，找到你的重心并为这一天设定目标。然后你就会意识到</li>
+    <li>lessonIntro->你必须从一系列的呼吸到最细微的动作开始，使心灵和肉体充满精神与活力。你最终会明白的</li>
+    <li>lessonIntro->一朵花没必要与它旁边的花竞争，它只是花朵而已。到那时，有一件事将变得越来越清楚:那就是</li>
+    <li>lessonIntro->你将开始一段自我之旅，通过自我，抵达自我。然后你会看到</li>
+    <li>lessonIntro->虽然你不能控制外在发生的事，但你可以控制自己内在的事。一旦实现这些，你就会明白</li>
+    <li>lessonIntro->每个人人生中最漫长的旅程就是内心的旅程。这场旅行向你展示了这一点</li>
+    <li>lessonIntro->真理在于追求一种精神哲学而不是恪守宗教，个人的成长和内心的平静比与神的关系更为重要，因此</li>
+    <li>lessonReinforcement->简单的深呼吸就好。</li>
+    <li>lessonReinforcement->到你现在所在的地方，而不是你认为应该去的地方。</li>
+    <li>lessonReinforcement->当你想离开的时候，这个构成就开始了。</li>
+    <li>lessonReinforcement->吸入未来，呼出过去。</li>
+    <li>lessonReinforcement->这不是关于是否擅长某件事，而是对自己要求更好一点。</li>
+  </VME_SecularSpiritualityDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>serketistBasis   ->There is no higher lifeform than the Hive Queens. Their nourishing jelly is like ambrosia, and the entire world should be remade in their image.</li>
+    <li>serketistBasis   ->In its hubris, humanity accidentally stumbled upon the creation of the perfect lifeform: Insectoids.</li>
+    <li>serketistBasis   ->The runaway creation of some forgotten ancient geneticist, Insectoids have evolved to become the perfect lifeform.</li>
+    <li>serketistBasis   ->Threatened by the Mechanoid menace, mankind engineered the perfect lifeform: Insectoids.</li>
+    <li>serketistBasis   ->Led by the sacred Hive Queens, Insectoids are the perfect lifeform in the galaxy.</li>
+    <li>serketistFact    ->They are the pinnacle of evolution. [InsectAdjective]. [InsectAdjective2]. [InsectAdjective3]. Everyone should strive to become like them.</li>
+    <li>serketistProphecy->[itIsSaid] we will learn from them, becoming like a tidal wave that will wash over our enemies.</li>
+    <li>itIsSaid->Perhaps, with time,</li>
+    <li>itIsSaid->It is written in our destiny that</li>
+    <li>itIsSaid->Either through technology or more arcane means</li>
+    <li>itIsSaid->We will revere their ways, their collective intelligence and</li>
+    <li>itIsSaid->By revering the Will of the Hive Queen</li>
+    <li>InsectAdjective->Adaptive</li>
+    <li>InsectAdjective->Ravenous</li>
+    <li>InsectAdjective->Overpowering</li>
+    <li>InsectAdjective2->Versatile</li>
+    <li>InsectAdjective2->Uncompromising</li>
+    <li>InsectAdjective2->Destructive</li>
+    <li>InsectAdjective3->Complex</li>
+    <li>InsectAdjective3->Indestructible</li>
+    <li>InsectAdjective3->Resistant</li>
+  -->
+  <VME_SerketistDescription.rules.rulesStrings>
+    <li>serketistBasis   ->没有比蜂巢女王更高等的生命形式了。它们的滋养虫胶就像美味佳肴，整个世界都应该按照它们的形象重塑。</li>
+    <li>serketistBasis   ->在它的傲慢中，人类意外地发现了完美的生命形式:虫群。</li>
+    <li>serketistBasis   ->一些被人遗忘的由古代遗传学家创造的失控虫族已经进化成完美的生命形式。</li>
+    <li>serketistBasis   ->由于受到机械族的威胁，人类创造了完美的生命形式:虫族。</li>
+    <li>serketistBasis   ->在神圣的虫巢女王带领下，虫族是银河系中最完美的生命形式。</li>
+    <li>serketistFact    ->它们是进化的巅峰。[InsectAdjective]，[InsectAdjective2]，[InsectAdjective3]，每个人都应该努力成为它们那样的人。</li>
+    <li>serketistProphecy->[itIsSaid]我们将向它们学习，像潮水一样席卷我们的敌人。</li>
+    <li>itIsSaid->也许,随着时间的推移,</li>
+    <li>itIsSaid->我们的命运注定</li>
+    <li>itIsSaid->要么通过科技，要么通过更加神秘的手段</li>
+    <li>itIsSaid->我们将尊重它们的行为和它们的集体智慧</li>
+    <li>itIsSaid->通过尊重虫群女王的意志</li>
+    <li>InsectAdjective->自适应</li>
+    <li>InsectAdjective->贪婪的</li>
+    <li>InsectAdjective->压倒性的</li>
+    <li>InsectAdjective2->多才多艺的</li>
+    <li>InsectAdjective2->坚定的</li>
+    <li>InsectAdjective2->毁灭性的</li>
+    <li>InsectAdjective3->复杂的</li>
+    <li>InsectAdjective3->不可毁灭的</li>
+    <li>InsectAdjective3->反抗的</li>
+  </VME_SerketistDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>episode(priority=-1)-></li>
+    <li>r_pattern->"[r_creation] [r_episode] [r_episode]."\n\n  - Lao Tzu, Tao Te Ching</li>
+    <li>creation->By living in harmony with the Tao, one can achieve perfection and become one with the unplanned rhythms of the universe.</li>
+    <li>creation->Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.</li>
+    <li>creation->Simplicity, patience, compassion. These three are the greatest treasures.</li>
+    <li>creation->The journey of a thousand miles begins with a single step.</li>
+    <li>creation->Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.</li>
+    <li>episode(uses=1)->When you are content to be simply yourself and don't compare or compete, everyone will respect you.</li>
+    <li>episode(uses=1)->The truth is not always beautiful, nor beautiful words the truth.</li>
+    <li>episode(uses=1)->Because one believes in oneself, one doesn't try to convince others. Because one is content with oneself, one doesn't need others' approval. Because one accepts oneself, the whole world accepts him or her.</li>
+    <li>episode(uses=1)->Care about what other people think and you will always be their prisoner.</li>
+  -->
+  <VME_TaoismDescription.rules.rulesStrings>
+    <li>episode(priority=-1)-></li>
+    <li>r_pattern->"[r_creation] [r_episode] [r_episode]"\n\n  - 老子，《道德经》</li>
+    <li>creation->道生一，一生二，二生三，三生万物。万物负阴而抱阳，冲气以为和。</li>
+    <li>creation->人爱者有力 爱人者勇。</li>
+    <li>creation->我有三宝,持而保之,一曰慈、二曰俭、三曰不敢为天下先。</li>
+    <li>creation->千里之行，始于足下。</li>
+    <li>creation->人法地，地法天，天法道，道法自然。</li>
+    <li>episode(uses=1)->甘美食，美其服，安其居，乐其俗。</li>
+    <li>episode(uses=1)->信言不美，美言不信。</li>
+    <li>episode(uses=1)->果而勿矜，果而勿伐，果而勿骄，果而不得已，果而勿强。物壮则老，是谓不道，不道早已。 </li>
+    <li>episode(uses=1)->富贵而骄，自遗其咎。</li>
+  </VME_TaoismDescription.rules.rulesStrings>
+  
+</LanguageData>

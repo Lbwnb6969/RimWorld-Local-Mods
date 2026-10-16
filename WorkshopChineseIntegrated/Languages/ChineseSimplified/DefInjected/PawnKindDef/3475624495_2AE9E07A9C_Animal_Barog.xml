@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barogoth -->
+  <DA_Barog.label>巴罗格斯</DA_Barog.label>
+  <!-- EN: barogoth newt -->
+  <DA_Barog.lifeStages.barogoth_newt.label>巴罗格斯幼崽</DA_Barog.lifeStages.barogoth_newt.label>
+  <!-- EN: barogoth newts -->
+  <DA_Barog.lifeStages.barogoth_newt.labelPlural>巴罗格斯幼崽们</DA_Barog.lifeStages.barogoth_newt.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Harmonic sampling sickness -->
+  <VR_HarmonicSickness.label>谐波采样病</VR_HarmonicSickness.label>
+  <!-- EN: This person underwent harmonic sampling to produce a dynamo core. Minor tonal dissonance lingers in the mind, but the essence remains intact. -->
+  <VR_HarmonicSickness.description>此人经历了谐波采样以生成发电核心。轻微的音调失谐仍在心中萦绕，但本质未受损。</VR_HarmonicSickness.description>
+  
+</LanguageData>

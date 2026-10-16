@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Minor Healing Potion -->
+  <Joe_MinorHealingPotion.label>红药水(大)</Joe_MinorHealingPotion.label>
+  <!-- EN: Through their refined techniques, the apothecaries of the noble houses have transformed the tribal lesser healing elixir into the renowned Minor Healing Potion. By incorporating amber into the recipe, this new concoction boasts enhanced restorative abilities while significantly reducing the adverse effects previously experienced.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_MinorHealingPotion.description>借由贵族世家药剂师们精湛的原料混合技术，这款改良后的红药水加入了琥珀，具有更显著的恢复能力增益，同时也显著减少了副作用。</Joe_MinorHealingPotion.description>
+  <!-- EN: Drink {0} -->
+  <Joe_MinorHealingPotion.ingestible.ingestCommandString>服用{0}</Joe_MinorHealingPotion.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Joe_MinorHealingPotion.ingestible.ingestReportString>正在服用{0}。</Joe_MinorHealingPotion.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Joe_MinorHealingPotion.tools.bottle.label>瓶身</Joe_MinorHealingPotion.tools.bottle.label>
+  <!-- EN: neck -->
+  <Joe_MinorHealingPotion.tools.neck.label>瓶颈</Joe_MinorHealingPotion.tools.neck.label>
+  
+</LanguageData>

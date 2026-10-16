@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EES.Scout.TabLabel>偵察</EES.Scout.TabLabel>
+  <EES.Scout.NoData>(データなし)</EES.Scout.NoData>
+  <EES.Scout.NotScouted>(偵察が必要)</EES.Scout.NotScouted>
+  <EES.Scout.TierOnly>ティア: T{0}  (その他の情報には偵察が必要)</EES.Scout.TierOnly>
+  <EES.Scout.NotScoutedDesc>この拠点の戦力・施設・防衛は、偵察によってのみ判明します。\n\nキャラバンを送って偵察するか、偵察せずに攻撃してください。後者の場合は警戒度が上昇します(直接強襲ペナルティ)。</EES.Scout.NotScoutedDesc>
+
+  <EES.Scout.TierRole>ティア {0}  ·  {1}</EES.Scout.TierRole>
+  <EES.Scout.TierHdr>ティア {0}</EES.Scout.TierHdr>
+  <EES.Scout.Hdr.Strength>戦力</EES.Scout.Hdr.Strength>
+  <EES.Scout.Hdr.Defense>防衛</EES.Scout.Hdr.Defense>
+  <EES.Scout.Hdr.Loot>予想戦利品</EES.Scout.Hdr.Loot>
+  <EES.Scout.Hdr.Facilities>特記事項</EES.Scout.Hdr.Facilities>
+  <EES.Scout.Hdr.Scouted>偵察</EES.Scout.Hdr.Scouted>
+
+  <EES.Scout.Mil>  軍事力: {0}</EES.Scout.Mil>
+  <EES.Scout.Fort>  要塞化: {0}</EES.Scout.Fort>
+  <EES.Scout.Supply>  物資: {0}</EES.Scout.Supply>
+  <EES.Scout.Alert>  警戒度: {0}</EES.Scout.Alert>
+  <EES.Scout.DedicatedNote>この前哨基地は外部MODが生成します。EESは兵力・指揮官・警戒度のみ適用し、タレット・金庫・防御施設はそのMODが管理します。</EES.Scout.DedicatedNote>
+
+  <EES.Scout.Turrets>  直射タレット: 約{0}</EES.Scout.Turrets>
+  <EES.Scout.Mortars>  迫撃砲: {0}</EES.Scout.Mortars>
+  <EES.Scout.NoDefense>  防衛施設なし</EES.Scout.NoDefense>
+
+  <EES.Scout.VaultValueEst>  &lt;color=#FFD24A&gt;金庫の推定価値: 約{0}シルバー&lt;/color&gt;</EES.Scout.VaultValueEst>
+  <EES.Scout.VaultValueExact>  &lt;color=#FFD24A&gt;金庫の確定価値: {0}シルバー&lt;/color&gt;</EES.Scout.VaultValueExact>
+  <EES.Scout.Silver>  シルバー: 約{0}</EES.Scout.Silver>
+  <EES.Scout.Resources>  資源・コンポーネント: ゴールド、プラスチール、コンポーネントなど(ティア・技術に応じて増加)</EES.Scout.Resources>
+  <EES.Scout.RoleLoot>  役割固有の戦利品</EES.Scout.RoleLoot>
+  <EES.Scout.LegendaryT7>  &lt;color=#FFD24A&gt;★伝説級/固有の武器 x1 + 伝説級の防具 x1&lt;/color&gt;</EES.Scout.LegendaryT7>
+  <EES.Scout.LegendaryT6>  &lt;color=#FFD24A&gt;★次のいずれか: 伝説級の武器 · 固有の武器 · 伝説級の防具&lt;/color&gt;</EES.Scout.LegendaryT6>
+
+  <EES.Scout.Fac.None>  (特別な施設なし)</EES.Scout.Fac.None>
+  <EES.Scout.Fac.Comms>通信室(破壊すると増援を阻止)</EES.Scout.Fac.Comms>
+  <EES.Scout.Fac.Ammo>弾薬庫</EES.Scout.Fac.Ammo>
+  <EES.Scout.Fac.Mortar>迫撃砲陣地</EES.Scout.Fac.Mortar>
+  <EES.Scout.Fac.Prison>監獄(捕虜を収容)</EES.Scout.Fac.Prison>
+  <EES.Scout.Fac.Commander>指揮官が在席</EES.Scout.Fac.Commander>
+  <EES.Scout.Fac.Elite>精鋭部隊が在席</EES.Scout.Fac.Elite>
+  <EES.Scout.Fac.Zone>{0}の警備隊が在席</EES.Scout.Fac.Zone>
+  <EES.Scout.Fac.Pursuer>追撃隊を編成</EES.Scout.Fac.Pursuer>
+  <EES.Scout.Fac.Herald>伝令隊が在席</EES.Scout.Fac.Herald>
+  <EES.Scout.Fac.Disruptor>攪乱班が潜伏</EES.Scout.Fac.Disruptor>
+  <EES.Scout.Fac.Assault>強襲隊が待機</EES.Scout.Fac.Assault>
+  <EES.Scout.Fac.Mechs>メカノイド{0}体が駐留</EES.Scout.Fac.Mechs>
+  <EES.Role.CryoBarracks>冬眠兵舎</EES.Role.CryoBarracks>
+  <EES.Scout.CryoSign>クリオスリープ反応を検知(規模不明)</EES.Scout.CryoSign>
+  <EES_Letter_CryoWake>冬眠兵舎が覚醒</EES_Letter_CryoWake>
+  <EES.Cryo.WakeText>{0}の冬眠予備兵力がクリオスリープから目覚め、戦闘に加わります!</EES.Cryo.WakeText>
+  <EES.Role.ArtilleryBase>砲撃基地</EES.Role.ArtilleryBase>
+  <EES.Role.PsychicShrine>呪術祭壇</EES.Role.PsychicShrine>
+  <EES.Role.JammingStation>ジャミング基地</EES.Role.JammingStation>
+  <EES.Scout.Fac.Artillery>長距離砲撃を発信中</EES.Scout.Fac.Artillery>
+  <EES.Scout.Fac.Shrine>サイキックドローンを発信中</EES.Scout.Fac.Shrine>
+  <EES.Scout.Fac.Jamming>広域ジャミングを発信中</EES.Scout.Fac.Jamming>
+  <EES_Letter_ArtyWarn>砲撃基地警報</EES_Letter_ArtyWarn>
+  <EES.Arty.WarnText>砲撃基地を発見: {0}({1})。\n\n3日後から入植地への長距離砲撃が始まります。拠点を破壊するか、迫撃砲を全て破壊すれば砲撃は止まります。</EES.Arty.WarnText>
+  <EES_Letter_ShrineWarn>呪術祭壇の警告</EES_Letter_ShrineWarn>
+  <EES.Shrine.WarnText>呪術祭壇を発見: {0}（{1}）。
+
+3日後から入植地にサイキックドローンが広がり始めます。祭壇を破壊すれば直ちに止まります。</EES.Shrine.WarnText>
+  <EES_Letter_JamWarn>ジャミング基地の警告</EES_Letter_JamWarn>
+  <EES.Jam.WarnText>ジャミング基地を発見: {0}（{1}）。
+
+3日後からその勢力の拠点への偵察が難しくなり、通信傍受と精密攻撃が封じられます。基地を破壊すれば解除されます。</EES.Jam.WarnText>
+  <EES_Letter_JamStart>ジャミング開始</EES_Letter_JamStart>
+  <EES.Jam.StartText>{0}のジャミング基地が稼働を開始しました。
+
+その勢力の拠点への偵察成功率が下がり、通信傍受と精密攻撃が使用できません。基地を破壊すれば解除されます。</EES.Jam.StartText>
+  <EES_Letter_ArtyVolley>砲撃着弾</EES_Letter_ArtyVolley>
+  <EES.Arty.VolleyText>{0}から発射された砲弾が入植地に落下しています!</EES.Arty.VolleyText>
+  <EES.Arty.SilencedMsg>{0}: 迫撃砲が全て破壊され、砲撃は恒久的に停止しました。</EES.Arty.SilencedMsg>
+  <EES_Letter_ShrineStart>サイキックドローン</EES_Letter_ShrineStart>
+  <EES.Shrine.StartText>近隣の呪術祭壇({0}、{1})が入植地に向けて持続的なサイキックドローンの発信を始めました。祭壇を破壊するまで続きます。</EES.Shrine.StartText>
+  <EES.Shrine.EndMsg>サイキックドローンが止みました。</EES.Shrine.EndMsg>
+  <EES.Jam.Blocked>敵のジャミング基地が通信を妨害しています</EES.Jam.Blocked>
+  <EES.Set.Hdr.Emitters>脅威発信拠点</EES.Set.Hdr.Emitters>
+  <EES.Set.ThreatEmitters>脅威発信拠点を有効化 (高難易度)</EES.Set.ThreatEmitters>
+  <EES.Set.ThreatStartDay>脅威発信拠点の登場開始日</EES.Set.ThreatStartDay>
+  <EES.Set.ThreatEmitters.Tip>砲撃基地・呪術祭壇・ジャミング基地の出現と効果を有効にします。オフにすると新規出現と発信効果が全て停止します。</EES.Set.ThreatEmitters.Tip>
+  <EES.Set.EmitterSpawnDays>脅威発信拠点のスポーン周期</EES.Set.EmitterSpawnDays>
+  <EES.Set.ArtyVolleyDays>砲撃間隔</EES.Set.ArtyVolleyDays>
+  <EES.Set.ArtyVolleyDays.Tip>砲撃基地が入植地を砲撃する間隔(日)です。</EES.Set.ArtyVolleyDays.Tip>
+  <EES.Rebuild.DestLabel>破壊された拠点跡地</EES.Rebuild.DestLabel>
+  <EES_Letter_RebuildDepart>再建輸送隊が出発</EES_Letter_RebuildDepart>
+  <EES.Rebuild.DepartText>{0}が破壊された拠点を再建するため輸送隊を派遣しました。\n\n到着前に迎撃して撃破すれば、その跡地の再建は恒久的に中止されます。放置すると拠点は弱体化した状態で復活し、再び成長します。</EES.Rebuild.DepartText>
+  <EES_Letter_RebuildDone>拠点が再建される</EES_Letter_RebuildDone>
+  <EES.Rebuild.DoneText>{0}が跡地に拠点({1})を再建しました。弱体化した状態で始まりますが、時間とともに再び成長します。</EES.Rebuild.DoneText>
+  <EES.Rebuild.CancelMsg>再建輸送隊が消滅し、その跡地の再建は恒久的に中止されました。</EES.Rebuild.CancelMsg>
+  <EES.Set.Hdr.Rebuild>再建輸送隊</EES.Set.Hdr.Rebuild>
+  <EES.Set.Rebuild>再建輸送隊を有効化</EES.Set.Rebuild>
+  <EES.Set.Rebuild.Tip>プレイヤーが破壊した拠点を、その勢力が輸送隊を送って再建します。輸送隊を迎撃・撃破すれば再建は恒久的に中止されます。</EES.Set.Rebuild.Tip>
+  <EES.Set.RebuildDelay>再建出発の遅延</EES.Set.RebuildDelay>
+  <EES.Set.RebuildWD>World Dominationと併用</EES.Set.RebuildWD>
+  <EES.Set.RebuildWD.Tip>World Dominationが有効な場合、再建輸送隊はデフォルトで無効です(WDの廃墟・再入植との重複防止)。このオプションで併用できます。</EES.Set.RebuildWD.Tip>
+
+  <EES.Scout.Date.Done>偵察済み</EES.Scout.Date.Done>
+  <EES.Scout.Date.DaysAgo>{0}日前</EES.Scout.Date.DaysAgo>
+  <EES.Scout.Date.Full>{0} ({1})</EES.Scout.Date.Full>
+
+  <EES.Alert.None>なし</EES.Alert.None>
+  <EES.Alert.Low>低</EES.Alert.Low>
+  <EES.Alert.Medium>中</EES.Alert.Medium>
+  <EES.Alert.High>高</EES.Alert.High>
+
+  <EES.Role.Generic>拠点</EES.Role.Generic>
+  <EES.Role.CommandFortress>司令要塞</EES.Role.CommandFortress>
+  <EES.Role.MilitaryBase>軍事基地</EES.Role.MilitaryBase>
+  <EES.Role.Garrison>駐屯地</EES.Role.Garrison>
+  <EES.Role.AmmoDepot>弾薬庫</EES.Role.AmmoDepot>
+  <EES.Role.MortarBattery>迫撃砲陣地</EES.Role.MortarBattery>
+  <EES.Role.PrisonCamp>捕虜収容所</EES.Role.PrisonCamp>
+  <EES.Role.ResearchOutpost>研究前哨基地</EES.Role.ResearchOutpost>
+  <EES.Role.TreasureVault>宝物庫</EES.Role.TreasureVault>
+  <EES.Role.Outpost>前哨基地</EES.Role.Outpost>
+  <EES.Role.SupplyDepot>補給拠点</EES.Role.SupplyDepot>
+  <EES.Role.TrainingCamp>訓練キャンプ</EES.Role.TrainingCamp>
+  <EES.Role.BlackMarketHub>闇市場拠点</EES.Role.BlackMarketHub>
+  <EES.Role.NobleEstate>貴族の邸宅</EES.Role.NobleEstate>
+  <EES.Role.MechanoidRelay>メカノイド中継基地</EES.Role.MechanoidRelay>
+  <EES.Role.InsectHive>蟲の巣窟</EES.Role.InsectHive>
+  <EES.Role.ThrumboRanch>スランボ牧場</EES.Role.ThrumboRanch>
+  <EES.Role.AlphaThrumboRanch>アルファスランボ牧場</EES.Role.AlphaThrumboRanch>
+  <EES.Role.PollutedOutpost>汚染された前哨基地</EES.Role.PollutedOutpost>
+  <EES.Role.Battlefield>戦場</EES.Role.Battlefield>
+  <EES.Role.Mine>鉱山</EES.Role.Mine>
+  <EES.Role.FakeOutpostInsect>偽の前哨基地(蟲)</EES.Role.FakeOutpostInsect>
+  <EES.Role.FakeOutpostMech>偽の前哨基地(メカノイド)</EES.Role.FakeOutpostMech>
+  <EES.Role.FakeOutpostEntity>偽の前哨基地(実体)</EES.Role.FakeOutpostEntity>
+
+  <EES.Action.ScoutLabel>EES偵察: {0}</EES.Action.ScoutLabel>
+  <EES.Common.SuccessChance>成功率 {0}</EES.Common.SuccessChance>
+  <EES.Action.ScoutLabelChance>EES偵察: {0} (成功率 {1})</EES.Action.ScoutLabelChance>
+  <EES.Action.ScoutReport>EES偵察中: {0}</EES.Action.ScoutReport>
+  <EES.Gizmo.ScoutLabel>偵察</EES.Gizmo.ScoutLabel>
+  <EES.Gizmo.ScoutDescSuffix>\n\nキャラバンを送って偵察を試みます(成功率 {0})。失敗すると発見され、警戒度が上昇し関係が悪化します(-25)。</EES.Gizmo.ScoutDescSuffix>
+  <EES.Scout.PartyWarn>偵察は1人で行うのが最も効果的です。人数が増えるほど発見されやすくなり、効率が低下します。\n\nこの編成での成功率: {0}\n\nこの編成のまま偵察しますか?</EES.Scout.PartyWarn>
+  <EES.Scout.HopelessWarn>現在の研究水準では、ティア{0}の拠点の偵察はほぼ不可能です(成功率 {1})。失敗すると発見され、警戒度が上昇し関係が悪化します(-25)。それでも偵察しますか?</EES.Scout.HopelessWarn>
+  <EES.Debug.InstantScout>[ゴッドモード] 即時偵察(テレポート)</EES.Debug.InstantScout>
+  <EES.Debug.InstantInfiltrate>[ゴッドモード] 即時潜入成功(妨害工作)</EES.Debug.InstantInfiltrate>
+
+  <EES.CanScout.Disabled>偵察システムは無効です</EES.CanScout.Disabled>
+  <EES.CanScout.NoData>データなし</EES.CanScout.NoData>
+  <EES.CanScout.AlreadyScouted>偵察済み(情報を確保)</EES.CanScout.AlreadyScouted>
+  <EES.CanScout.Cooldown>偵察の再試行クールダウン {0}</EES.CanScout.Cooldown>
+  <EES.CanScout.Blind>偵察者が視認できません(視覚効率0%)</EES.CanScout.Blind>
+
+  <EES.Msg.Success>[EES] 偵察成功: {0}の完全な情報を確保しました</EES.Msg.Success>
+  <EES.Msg.Fail>[EES] 偵察が発見された! {0} — 警戒度が上昇し関係が悪化。偵察者の損害: {1}</EES.Msg.Fail>
+
+  <EES.Reinf.Active>[EES] {0}の通信室が稼働中 — 約{1}ごとに増援が到着します。通信室を破壊すれば増援を断てます。</EES.Reinf.Active>
+  <EES.Reinf.Wave>[EES] 敵の増援が到着した! ({0})</EES.Reinf.Wave>
+  <EES.Reinf.BlockedCmd>[EES] 指揮官を排除 — 敵の増援が断たれました。</EES.Reinf.BlockedCmd>
+  <EES.Reinf.Countdown>増援到着まで: {0}</EES.Reinf.Countdown>
+  <EES.Reinf.CountdownDesc>この拠点の通信室が増援を呼んでいます。タイマーが切れると次の波がマップ端から侵入します。
+
+通信室を破壊する(または指揮官を排除する)と増援を断てます。</EES.Reinf.CountdownDesc>
+  <EES.Cmd.Killed>[EES] 敵の指揮官を排除した! 守備隊の士気が崩壊します。</EES.Cmd.Killed>
+  <EES.Vault.Value>[EES] {0}の宝物庫の価値: 約{1}シルバー相当の戦利品。</EES.Vault.Value>
+  <EES.Traps.Cleared>[EES] 拠点を制圧 — 隠された敵の罠を{0}個無力化しました。安全に戦利品を回収できます。</EES.Traps.Cleared>
+  <EES.Cmd.Resurrect>[EES] 狂信的扇動者が倒れた守備隊{0}体を蘇生させた!</EES.Cmd.Resurrect>
+  <EES.Cmd.Rally>[EES] 狂信的扇動者が無力化した守備隊{0}体を立ち上がらせた!</EES.Cmd.Rally>
+  <EES.Cmd.ResearchCore>[EES] 研究指揮官の死により、研究AI亜人格コアを入手した。</EES.Cmd.ResearchCore>
+
+  <EES.BuyIntel.Label>情報を購入</EES.BuyIntel.Label>
+  <EES.BuyIntel.Desc>情報データコアを1つ消費し、この拠点の情報を遠隔で取得します(キャラバン不要・無リスク)。\n\n対象のティアをカバーする最も低ティアのコアから先に使用されます。</EES.BuyIntel.Desc>
+  <EES.BuyIntel.Done>[EES] {0}の情報を取得 — {1}を消費しました。</EES.BuyIntel.Done>
+  <EES.BuyIntel.NoItem>このティア(T{0})をカバーする情報データコアがありません。エキゾチック商人から購入してください。</EES.BuyIntel.NoItem>
+  <EES.BuyIntel.TooHigh>このティアは情報データコアでは取得できません(最大T12)。</EES.BuyIntel.TooHigh>
+
+  <EES.Action.InfiltrateLabel>EES潜入: {0}</EES.Action.InfiltrateLabel>
+  <EES.Action.InfiltrateLabelChance>EES潜入: {0} (成功率 {1})</EES.Action.InfiltrateLabelChance>
+  <EES.Action.InfiltrateReport>EES潜入中: {0}</EES.Action.InfiltrateReport>
+  <EES.Gizmo.InfiltrateLabel>潜入</EES.Gizmo.InfiltrateLabel>
+  <EES.Gizmo.InfiltrateDesc>潜入チーム(最大3人中{1}人)を送り、敵タレットに妨害工作を行います(成功率 {0})。\n\n主要ステータス=移動速度、副次=射撃+格闘(合計40で最大)、比率60:40。人数が増えると成功率が上がります(2人=+5%、3人=+15%)。4人以上では潜入できません。\n\n成功時: 警戒度が大幅に低下し、タレットが永久に無効化されます。失敗時: 参加者は個別に捕縛/排除され、関係が悪化します(-25)。\n\n注: 既に偵察済みの拠点のみ潜入できます。</EES.Gizmo.InfiltrateDesc>
+  <EES.Gizmo.InfiltrateDescLocked>潜入チーム(最大3人中{0}人)を送り、敵タレットに妨害工作を行います。\n\n主要ステータス=移動速度、副次=射撃+格闘(合計40で最大)、比率60:40。人数が増えると成功率が上がります(2人=+5%、3人=+15%)。4人以上では潜入できません。\n\n成功時: 警戒度が大幅に低下し、タレットが永久に無効化されます。失敗時: 参加者は個別に捕縛/排除され、関係が悪化します(-25)。\n\n注: 既に偵察済みの拠点のみ潜入できます。成功率は偵察完了後に表示されます。</EES.Gizmo.InfiltrateDescLocked>
+  <EES.Infil.Success>[EES] 潜入成功: {0}でタレット{1}基に妨害工作を行った!</EES.Infil.Success>
+  <EES.Infil.FakeEmpty>[EES] {0}: タレットの妨害工作には成功したが、そこには誰もいない。</EES.Infil.FakeEmpty>
+  <EES.Infil.FailParty>[EES] 潜入が発覚した! {0} — {1}。関係が悪化しました。</EES.Infil.FailParty>
+  <EES.Infil.FateLine>{0} {1}</EES.Infil.FateLine>
+  <EES.Infil.TooMany>潜入チームは最大{0}人です。{0}人以下に減らせば潜入できます。</EES.Infil.TooMany>
+  <EES.Infil.NeedScout>潜入する前にこの拠点を偵察する必要があります。</EES.Infil.NeedScout>
+  <EES.Infil.DedicatedBase>外部MODが生成した前哨基地には妨害できるタレットがないため、潜入できません。</EES.Infil.DedicatedBase>
+  <EES.Infil.NoAgent>潜入できる工作員(入植者)がキャラバンにいません。</EES.Infil.NoAgent>
+  <EES.Infil.AlreadyDone>この拠点は既に潜入済みです(再潜入はできません)。</EES.Infil.AlreadyDone>
+  <EES.Infil.TierTooHigh>このティア(T13)には潜入できません。</EES.Infil.TierTooHigh>
+  <EES.Infil.Fate.Dead>死亡</EES.Infil.Fate.Dead>
+  <EES.Infil.Fate.Captured>捕縛</EES.Infil.Fate.Captured>
+  <EES.Infil.Fate.Wounded>負傷したが脱出</EES.Infil.Fate.Wounded>
+  <EES.Infil.Fate.Escaped>無傷で脱出</EES.Infil.Fate.Escaped>
+  <EES.Infil.Fate.Device>緊急脱出(装置を使用)</EES.Infil.Fate.Device>
+  <EES.Scout.Sabotaged>  &lt;color=#FF7A4A&gt;└ 直射タレット{0}基が妨害済み(上記に反映済み)&lt;/color&gt;</EES.Scout.Sabotaged>
+  <EES.Scout.SabotagedMortar>  &lt;color=#FF7A4A&gt;└ 迫撃砲{0}基が妨害済み(上記に反映済み)&lt;/color&gt;</EES.Scout.SabotagedMortar>
+  <EES.Intel.Sabotaged>潜入の妨害工作によりタレット{0}基が無効化</EES.Intel.Sabotaged>
+
+  <EES.Intercept.MenuLabel>EES 敵拠点の通信傍受</EES.Intercept.MenuLabel>
+  <EES.Intercept.NoPower>電力なし</EES.Intercept.NoPower>
+  <EES.Intercept.Unreachable>到達不能</EES.Intercept.Unreachable>
+  <EES.Intercept.BadTarget>EES拠点ではありません(敵/中立/同盟の前哨基地を選択してください)。</EES.Intercept.BadTarget>
+  <EES.Intercept.Started>[EES] 傍受開始: {0}(操作者: {1})。結果は約4時間後。</EES.Intercept.Started>
+  <EES.Intercept.Success>[EES] 傍受成功: {0}の完全な情報を取得しました。</EES.Intercept.Success>
+  <EES_Letter_InterceptRaid>傍受を検知 — 報復</EES_Letter_InterceptRaid>
+  <EES.Intercept.RaidText>傍受が検知されました。{0}が激怒し、ただちに入植地を襲撃します。</EES.Intercept.RaidText>
+  <EES_Letter_InterceptMech>傍受を検知 — メカノイド信号の転送</EES_Letter_InterceptMech>
+  <EES.Intercept.MechText>傍受が検知されました。{0}が傍受したメカノイド信号を入植地へ転送 — メカノイドが降下してきます。</EES.Intercept.MechText>
+  <EES.Strike.MenuLabel>敵拠点への精密打撃</EES.Strike.MenuLabel>
+  <EES.Strike.Started>[EES] 精密打撃開始: {0}(操作者: {1})。結果は約4時間後。</EES.Strike.Started>
+  <EES_Letter_StrikeFailed>精密打撃失敗 — 電力網の強制ショート</EES_Letter_StrikeFailed>
+  <EES.Strike.FailText>{0}への遠隔精密打撃が失敗しました。敵が電力網を逆ハッキングし、配線{1}か所に強制的にショート（パジジッ）を発生させました — 埋設配線も例外ではありません。</EES.Strike.FailText>
+
+  <EES.DebugGizmo.Role>EES役割: {0}</EES.DebugGizmo.Role>
+  <EES.DebugGizmo.RoleDesc>[ゴッドモード] この拠点の役割を直接選択します(施設・建物・戦利品・指揮官出現率に影響)。次にこの拠点のマップへ入った時に反映されます。</EES.DebugGizmo.RoleDesc>
+
+  <EES.Cmd.Type.Commander>指揮官</EES.Cmd.Type.Commander>
+  <EES.Cmd.Type.Marksman>射撃手</EES.Cmd.Type.Marksman>
+  <EES.Cmd.Type.Comms>通信士官</EES.Cmd.Type.Comms>
+  <EES.Cmd.Type.Defense>防衛士官</EES.Cmd.Type.Defense>
+  <EES.Cmd.Type.Fanatic>狂信的扇動者</EES.Cmd.Type.Fanatic>
+  <EES.Cmd.Type.Security>保安主任</EES.Cmd.Type.Security>
+  <EES.Cmd.Type.Assault>強襲隊長</EES.Cmd.Type.Assault>
+  <EES.Cmd.Type.Engineer>戦闘工兵</EES.Cmd.Type.Engineer>
+  <EES.Cmd.Type.Research>研究指揮官</EES.Cmd.Type.Research>
+  <EES.Cmd.Type.Warlord>軍閥の長</EES.Cmd.Type.Warlord>
+  <EES.Cmd.Type.Observer>観測士官</EES.Cmd.Type.Observer>
+  <EES.Power.Cut>[EES] 拠点の発電機が破壊され、電力タレットが停止しました。</EES.Power.Cut>
+  <EES.Prisoner.Held>捕縛した偵察者{0}人を収容中 — この拠点を攻撃して解放してください。</EES.Prisoner.Held>
+
+  <EES.Emitter.Inspect>{0} — 破壊するまで入植地へ脅威を発信し続けます。</EES.Emitter.Inspect>
+  <EES.Emitter.AlertLabel>脅威発信拠点 {0}か所</EES.Emitter.AlertLabel>
+  <EES.Emitter.AlertEntry>{0} — {1}（所有: {2}）</EES.Emitter.AlertEntry>
+  <EES.Emitter.AlertDesc>これらの拠点は破壊するまで入植地へ持続的な脅威を発信します。項目をクリックするとその拠点へ移動します。
+
+所有勢力は戦争や征服で変わることがあります。最初の通知に記された勢力と異なる場合、ここに表示されている勢力が現在の所有者です。</EES.Emitter.AlertDesc>
+
+  <!-- 身代金交渉（通信機の勢力ダイアログ） -->
+  <EES.Ransom.Option>捕虜の身代金交渉（{0}人）</EES.Ransom.Option>
+  <EES.Ransom.Intro>お前たちの仲間を預かっている。対価さえ払えば返してやろう。</EES.Ransom.Intro>
+  <EES.Ransom.Entry>{0}（{1}に収容）— 身代金 銀{2}</EES.Ransom.Entry>
+  <EES.Ransom.Paid>身代金として銀{1}を支払いました。{0}が帰還します。</EES.Ransom.Paid>
+
+  <!-- 補給キャラバン -->
+  <EES.Set.Hdr.Supply>補給キャラバン</EES.Set.Hdr.Supply>
+  <EES.Set.Supply>補給キャラバンの出現</EES.Set.Supply>
+  <EES.Set.Supply.Tip>敵対勢力の拠点へ向かう補給キャラバンが周辺に定期的に出現します。迎撃すれば積荷を入手し、目的地拠点を一時的に弱体化できます。</EES.Set.Supply.Tip>
+  <EES.Set.SupplyDays>出現判定周期</EES.Set.SupplyDays>
+  <EES.Set.SupplyMax>同時存在上限</EES.Set.SupplyMax>
+  <EES.Set.SupplyLetter>補給キャラバン検知通知</EES.Set.SupplyLetter>
+  <EES.Set.SupplyLetter.Tip>補給キャラバンがワールドに出現した際に通知レターを表示します。オフにすると通知なしで出現するため、ワールドマップで自分で発見する必要があります。既定値: オン。</EES.Set.SupplyLetter.Tip>
+  <EES.Supply.Inspect.Dest>目的地: {0} — 到着まで約{1}</EES.Supply.Inspect.Dest>
+  <EES.Supply.Inspect.Escort>護衛規模の推定: 約{0}人</EES.Supply.Inspect.Escort>
+  <EES.Supply.Intercept>補給キャラバンを迎撃</EES.Supply.Intercept>
+  <EES.Supply.Intercept.No>迎撃不可 — 到着前に追いつけません</EES.Supply.Intercept.No>
+  <EES.Supply.Intercept.Now>今すぐ交戦</EES.Supply.Intercept.Now>
+  <EES.Supply.Intercept.Wait>待ち伏せ完了 — 補給隊の到着を待ちます</EES.Supply.Intercept.Wait>
+  <EES.Supply.Intercept.Cancel>迎撃を取り消す</EES.Supply.Intercept.Cancel>
+  <EES.Supply.Intercept.Canceled>迎撃を取り消しました — 補給キャラバンが通過しても交戦しません。</EES.Supply.Intercept.Canceled>
+  <EES.Supply.Intercept.WorldWarAlly>世界大戦で同じ陣営 — 迎撃できません</EES.Supply.Intercept.WorldWarAlly>
+  <EES.Supply.Intercept.WorldWarNeutral>世界大戦の中立国 — 他勢力の補給キャラバンは迎撃できません</EES.Supply.Intercept.WorldWarNeutral>
+  <EES.Supply.Intercept.Overlap>拠点と重なっています — 離れてから迎撃可能</EES.Supply.Intercept.Overlap>  <EES.Supply.Intercept.Ordered>迎撃地点へ移動します — 補給キャラバンを遮断します。</EES.Supply.Intercept.Ordered>
+  <EES_Letter_SupplyCaravan>補給キャラバン検知</EES_Letter_SupplyCaravan>
+  <EES.Supply.Letter.Text>{0}の補給キャラバンが{1}へ向かっています。到着前に迎撃すれば積荷を奪い、目的地拠点を一時的に弱体化できます。</EES.Supply.Letter.Text>
+  <EES_Letter_SupplyInvaded>補給キャラバン侵入！</EES_Letter_SupplyInvaded>
+  <EES.Supply.Invaded.Text>敵の補給キャラバンが自軍領域に入りました。護衛隊を全滅させれば積荷を奪い、目的地拠点を弱体化できます。</EES.Supply.Invaded.Text>
+  <EES_Letter_SupplyEngaged>補給キャラバン迎撃</EES_Letter_SupplyEngaged>
+  <EES.Supply.Engaged.Text>補給キャラバンに追いつきました。護衛隊が積荷を守っています。</EES.Supply.Engaged.Text>
+  <EES.Supply.Arrived>補給キャラバンが{0}に到着しました。</EES.Supply.Arrived>
+  <EES.Supply.Missed>補給キャラバンを取り逃がしました — 迎撃は解除されました。</EES.Supply.Missed>
+  <EES.Supply.Cut>{0}の補給が遮断されました — しばらく防御が弱体化します。</EES.Supply.Cut>
+  <EES.Supply.CutInspect>補給遮断中 — 残り{0}</EES.Supply.CutInspect>
+  <EES.Scout.SupplyCut>補給遮断 — 直射タレット-{0}・迫撃砲-{1}を反映（残り{2}）</EES.Scout.SupplyCut>
+
+  <EES.Casualty.NoCaravan>なし(キャラバンなし)</EES.Casualty.NoCaravan>
+  <EES.Casualty.AllEscaped>全員無事に脱出</EES.Casualty.AllEscaped>
+  <EES.Casualty.Summary>負傷 {0} / 捕縛 {1} / 死亡 {2}</EES.Casualty.Summary>
+  <EES.Casualty.DeviceNote> (緊急脱出装置を使用 x{0})</EES.Casualty.DeviceNote>
+
+  <EES.Intel.Faction>派閥: {0} ({1})</EES.Intel.Faction>
+  <EES.Intel.TierOnly>ティア: T{0}(その他の情報は未偵察)</EES.Intel.TierOnly>
+  <EES.Intel.NotScouted>情報: 未偵察(偵察すると完全な情報が判明)</EES.Intel.NotScouted>
+  <EES.Intel.ScoutedHeader>── 偵察済み ──</EES.Intel.ScoutedHeader>
+  <EES.Intel.TierRole>ティア: T{0} / 役割: {1}</EES.Intel.TierRole>
+  <EES.Intel.PawnsAlert>推定戦力: {0} / 警戒度: {1}</EES.Intel.PawnsAlert>
+  <EES.Intel.Defense>防衛: 要塞化 {0}/100 / 物資 {1}</EES.Intel.Defense>
+  <EES.Intel.Commander>指揮官: {0} / 戦利品: {1}</EES.Intel.Commander>
+  <EES.Intel.Military>軍事力: {0}</EES.Intel.Military>
+  <EES.Intel.PawnRange>{0}-{1}人</EES.Intel.PawnRange>
+  <EES.Common.Yes>あり</EES.Common.Yes>
+  <EES.Common.No>なし</EES.Common.No>
+  <EES.Common.Unknown>?</EES.Common.Unknown>
+  <EES.Common.Generic>一般</EES.Common.Generic>
+
+  <EES.Set.Hdr.Basic>── 基本 (ティア・成長) ──</EES.Set.Hdr.Basic>
+  <EES.Set.MaxTier>最大ティア</EES.Set.MaxTier>
+  <EES.Set.Growth>成長速度</EES.Set.Growth>
+  <EES.Set.LootValue>戦利品 / 金庫の価値</EES.Set.LootValue>
+  <EES.Set.LegendaryTier>伝説級装備が出るティア</EES.Set.LegendaryTier>
+  <EES.Set.Hdr.Turret>── タレット / 特別施設 ──</EES.Set.Hdr.Turret>
+  <EES.Set.TurretDensity>タレット密度</EES.Set.TurretDensity>
+  <EES.Set.Hdr.Combat>── 守備隊 / 戦闘ポイント ──</EES.Set.Hdr.Combat>
+  <EES.Set.MilMul>守備隊の軍事力</EES.Set.MilMul>
+  <EES.Set.MilPerTier>ティアごとの戦闘ポイント</EES.Set.MilPerTier>
+  <EES.Set.AlertMil>警戒度ごとの戦闘ポイント</EES.Set.AlertMil>
+  <EES.Set.PerAlert>警戒度</EES.Set.PerAlert>
+  <EES.Set.Facility>特別施設の出現率</EES.Set.Facility>
+  <EES.Set.Hdr.Scout>── 偵察 / 潜入 / 傍受 ──</EES.Set.Hdr.Scout>
+  <EES.Set.ScoutSuccess>偵察成功率</EES.Set.ScoutSuccess>
+  <EES.Set.InfiltrateSuccess>潜入成功率</EES.Set.InfiltrateSuccess>
+  <EES.Set.Sabotage>潜入の妨害工作</EES.Set.Sabotage>
+  <EES.Set.PreventDeath>死亡を防止(偵察/潜入)</EES.Set.PreventDeath>
+  <EES.Set.PreventDeath.Tip>オンの場合、偵察/潜入の失敗時に偵察者/工作員が死亡しなくなります(死亡確率0%)。死亡分は捕縛/負傷/脱出に吸収されます(捕縛は発生し得ます)。オンの間、商人は「緊急脱出装置」を販売しません。既定値: オフ。</EES.Set.PreventDeath.Tip>
+  <EES.Set.ScoutUnlockHigh>高ティア偵察のロック解除</EES.Set.ScoutUnlockHigh>
+  <EES.Set.ScoutUnlockHigh.Tip>オンの場合、ティア8以上の拠点の偵察参入障壁がなくなります。研究を一切していなくても成功率が0%になりません(最低6%)。偵察・傍受・精密打撃に等しく適用されます。失敗時の発見率は変わらず、ティア7以下と終盤の成功率もそのままです。既定値: オフ。</EES.Set.ScoutUnlockHigh.Tip>
+  <EES.Set.InterceptCd>傍受クールダウン</EES.Set.InterceptCd>
+  <EES.Set.InterceptMech>傍受時のメカ信号転送確率(T9+)</EES.Set.InterceptMech>
+  <EES.Set.Days>日</EES.Set.Days>
+  <EES.Set.Hours>時間</EES.Set.Hours>
+  <EES.Set.Hdr.Ambush>── 待ち伏せ(未偵察での強襲) ──</EES.Set.Hdr.Ambush>
+  <EES.Set.AmbushSize>待ち伏せ規模(拠点戦力比)</EES.Set.AmbushSize>
+  <EES.Set.AmbushMax>待ち伏せ最大ポイント</EES.Set.AmbushMax>
+  <EES.Set.AmbushAlert>待ち伏せの警戒度スケーリング</EES.Set.AmbushAlert>
+  <EES.Set.Hdr.Reinforce>── 増援 ──</EES.Set.Hdr.Reinforce>
+  <EES.Set.ReinInterval>増援の間隔</EES.Set.ReinInterval>
+  <EES.Set.ReinSize>増援規模(拠点戦力比)</EES.Set.ReinSize>
+  <EES.Set.Hdr.Toggles>── 機能 On/Off ──</EES.Set.Hdr.Toggles>
+  <EES.Set.WDTierSync>World Domination 拠点を EES で生成</EES.Set.WDTierSync>
+  <EES.WD.InspectTier>EES 等級: T{0} (WD 戦力 {1})</EES.WD.InspectTier>
+  <EES.Set.WDTierSync.Tip>World Domination を導入している場合、WD 拠点の前哨基地生成とティアを EES が引き継ぎます。WD の KCSG 基地ではなく EES 基地が生成され、ティアは各拠点の WD 発展度(strength)を EES ティア(T1〜13、勢力の時代上限内)に換算して表示します。World Domination のワールドシミュ(戦争・拡張・襲撃)はそのまま機能します。オフにすると WD 本来の基地・ティアを維持します。既定値:オン。</EES.Set.WDTierSync.Tip>
+  <EES.Set.TierAmmo>CEティア別弾薬(ライフル/タレット)</EES.Set.TierAmmo>
+  <EES.Set.TierAmmo.Tip>CE連携がオンのとき、守備兵のライフルとCEタレットに装填される弾種を拠点ティアに応じて変えます。低ティアはFMJ・HP中心、ティアが上がるほどAP → 焼夷弾 → 榴弾の比重が増えます。拳銃・SMG・ランチャー等はCE既定の支給のままです。既定値: オン。</EES.Set.TierAmmo.Tip>
+  <EES.Set.WealthScale>プレイヤーの富に応じて増減</EES.Set.WealthScale>
+  <EES.Set.WealthScale.Tip>オンにすると、入植地の資産が拠点の成長進行度にわずかに加算されます(資産が多いほど拠点の成長が少し速まる)。成長の中心はあくまで研究段階で、資産は補助的な加速です。オフにすると資産を一切反映しません。既定値: オン。</EES.Set.WealthScale.Tip>
+  <EES.Set.ResearchScale>プレイヤーの研究に応じて増減</EES.Set.ResearchScale>
+  <EES.Set.ResearchScale.Tip>オンにすると、プレイヤーの研究段階(電気・機械加工・精密製作などの時代関門への到達)が拠点成長進行度の中心軸になります。オフにすると研究を反映せず、拠点は経過日数・資産のみで非常にゆっくり成長し、偵察成功率の算定も経過日数のみを使います。既定値: オン。</EES.Set.ResearchScale.Tip>
+  <EES.Set.AllowMortars>迫撃砲を許可</EES.Set.AllowMortars>
+  <EES.Set.AllowMortars.Tip>オフにすると拠点に迫撃砲が配置されません(迫撃砲陣地の施設があっても0門)。偵察タブ・偵察報告の推定値も同様に0と表示されます。オンにすると迫撃砲陣地を持つ拠点(T6+)にティア別の数が配置されます。既定値: オン。</EES.Set.AllowMortars.Tip>
+  <EES.Set.AlertSystem>警戒システム</EES.Set.AlertSystem>
+  <EES.Set.AlertSystem.Tip>拠点ごとの警戒度(0〜5)を管理します。拠点を攻撃すると警戒度が上がり、同じ勢力の近隣拠点へ伝播し、時間経過で自然減少します。警戒度が高いほど守備隊・待ち伏せの規模が大きくなります(すぐ下の「警戒度ごとの戦闘ポイント」倍率)。オフにすると警戒度は上がらなくなります。既定値: オン。</EES.Set.AlertSystem.Tip>
+  <EES.Set.Scouting>偵察</EES.Set.Scouting>
+  <EES.Set.Scouting.Tip>偵察・潜入・通信傍受システム全体のマスタートグルです。オフにすると拠点の偵察/潜入コマンドが消え、未偵察拠点を攻撃した際の待ち伏せペナルティも発動しません。既定値: オン。</EES.Set.Scouting.Tip>
+  <EES.Set.Reinforcements>増援</EES.Set.Reinforcements>
+  <EES.Set.Reinforcements.Tip>拠点を攻撃している間、通信室と指揮官が健在なら外部から増援が定期的に到着します(間隔・規模は下のスライダー)。通信室の破壊または指揮官の排除で止められます。オフにすると増援は来ません。既定値: オン。</EES.Set.Reinforcements.Tip>
+  <EES.Set.Commanders>指揮官</EES.Set.Commanders>
+  <EES.Set.Commanders.Tip>高ティア拠点に指揮官が配置されます(10タイプ — 守備隊を強化するオーラ・専用装備、生存中は増援を維持など)。オフにすると指揮官は生成されません。既定値: オン。</EES.Set.Commanders.Tip>
+  <EES.Set.DisableBattlefield>戦場(4つ巴)を無効化</EES.Set.DisableBattlefield>
+  <EES.Set.DisableBattlefield.Tip>オンにすると戦場(Battlefield)前哨基地が出現しなくなります。戦場は複数勢力による4つ巴の継続レイドで負荷が大きいです。既定=オフ(戦場が出現)。</EES.Set.DisableBattlefield.Tip>
+  <EES.Set.CEIntegration>CE統合(CE有効時)</EES.Set.CEIntegration>
+  <EES.Set.CEIntegration.Tip>Combat Extended 使用時のEESのCE連携全体のマスタートグルです — 守備兵への弾薬支給保証、機関銃手の編成、CEタレットの弾倉装填と有人タレットの予備弾配置、弾薬庫のCE戦利品、高ティアのCE強化壁/強化ドアなど。CEが未導入ならこの設定に関わらず自動的に無効です。既定値: オン。</EES.Set.CEIntegration.Tip>
+  <EES.Set.DebugLog>[開発] 詳細ログ</EES.Set.DebugLog>
+  <EES.Set.DebugLog.Tip>開発・問題診断用の詳細ログをゲームログに出力します。バグ報告時のみオンにしてください。既定値: オフ。</EES.Set.DebugLog.Tip>
+  <EES.Set.Tab.Values>数値設定</EES.Set.Tab.Values>
+  <EES.Set.Tab.Blacklist>勢力ブラックリスト</EES.Set.Tab.Blacklist>
+  <EES.Set.Blacklist.Desc>チェックした勢力にはEESシステム(ティア・偵察/潜入・指揮官・警戒度・奇襲・戦利品・拠点生成)が適用されません。拠点を築く勢力のみ表示されます。</EES.Set.Blacklist.Desc>
+  <EES.Set.Reset>既定値</EES.Set.Reset>
+  <EES.Set.Tab.TurretBL>タレットブラックリスト</EES.Set.Tab.TurretBL>
+  <EES.Set.TurretBL.RaceHdr>MOD種族関連タレット(勢力別)</EES.Set.TurretBL.RaceHdr>
+  <EES.Set.TurretBL.RaceDesc>チェックしたタレットはその勢力の拠点に配置されません。ある勢力のタレットを全てチェックすると、その勢力はバニラのタレットに置き換わります。</EES.Set.TurretBL.RaceDesc>
+  <EES.Set.TurretBL.ModHdr>MOD追加タレット</EES.Set.TurretBL.ModHdr>
+  <EES.Set.TurretBL.ModDesc>チェックしたタレットはどの拠点にも配置されません。バニラのタレットは影響を受けません。</EES.Set.TurretBL.ModDesc>
+  <EES.Set.TurretBL.None>(該当するMODタレットなし)</EES.Set.TurretBL.None>
+
+  <EES.Observer.Target>観測士官が{0}を標的に指定した。</EES.Observer.Target>
+  <EES.Observer.Countdown>次の標的指定まで: {0}</EES.Observer.Countdown>
+  <EES.Observer.CountdownDesc>観測士官は定期的に味方の1人を標的に指定します。標的は射手を除く全ての敵から集中攻撃を受けます。指揮官(観測士官)を倒すと停止します。</EES.Observer.CountdownDesc>
+  <EES.Observer.CountdownDescTarget>観測士官が{0}を標的に指定しました。射手を除く全ての敵が集中攻撃します。指揮官(観測士官)を倒すと停止します。</EES.Observer.CountdownDescTarget>
+  <EES.Battlefield.Countdown>次の戦場増援まで: {0}</EES.Battlefield.Countdown>
+  <EES.Battlefield.CountdownDesc>まもなく増援が到着: {0}。四つ巴の戦い — 前哨基地・敵対勢力・第三勢力・プレイヤーが入り乱れて戦う。</EES.Battlefield.CountdownDesc>
+  <EES.Battlefield.Wave.C>敵対勢力(前哨基地を攻撃)</EES.Battlefield.Wave.C>
+  <EES.Battlefield.Wave.D>第三勢力(外壁を包囲・侵入せず)</EES.Battlefield.Wave.D>
+  <EES.Battlefield.Wave.B>前哨基地の増援(中央降下)</EES.Battlefield.Wave.B>
+  <EES.Group.PursuerAssault>{0}の追撃隊が追撃を開始！</EES.Group.PursuerAssault>
+  <EES.Group.ZoneRelease>{0}の警備隊が持ち場を離れ追撃！</EES.Group.ZoneRelease>
+  <EES.Group.PursuerAssaultAlly>{0}の追撃隊が侵入者の追撃に出ます！</EES.Group.PursuerAssaultAlly>
+  <EES.Group.ZoneReleaseAlly>{0}の警備隊が持ち場を離れ侵入者を追撃！</EES.Group.ZoneReleaseAlly>
+  <EES.Group.HeraldRetreat>{0}の伝令隊が情報を持って撤退。(警戒度上昇)</EES.Group.HeraldRetreat>
+  <EES.Group.HeraldKilled>{0}の伝令隊を全滅させ、情報漏洩を阻止。</EES.Group.HeraldKilled>
+  <EES.Group.HeraldRetreatAttempt>{0}の伝令隊が撤退を試みます！</EES.Group.HeraldRetreatAttempt>
+  <EES.Group.HeraldDrop>{0}の伝令隊が情報を伝達し、増援部隊が基地中央に降下しました！（{1}）</EES.Group.HeraldDrop>
+  <EES.Group.GroupFlee>{0}の一部部隊が士気低下で撤退します。</EES.Group.GroupFlee>
+  <EES.Assault.SettlementWarning>敵があなたの入植地の位置を特定しました。まもなく強襲が予定されています。備えてください。</EES.Assault.SettlementWarning>
+  <EES.Assault.WalkInLate>強襲は失敗したようです。強襲隊が遅れてあなたを追ってきます。</EES.Assault.WalkInLate>
+
+  <!-- 逆偵察 + HVT賞金 (2026-07-03) -->
+  <EES.Set.Hdr.CScout>逆偵察</EES.Set.Hdr.CScout>
+  <EES.Set.CScout>敵偵察兵</EES.Set.CScout>
+  <EES.Set.CScout.Tip>高ティア(T6+)の敵対拠点が入植地へ隠密偵察兵を送り込みます。逃がすと標的襲撃が来ます。捕獲すれば尋問でその拠点の偵察情報を得られます。</EES.Set.CScout.Tip>
+  <EES.Set.CScoutDays>派遣判定周期</EES.Set.CScoutDays>
+  <EES.Set.Hdr.HVT>賞金</EES.Set.Hdr.HVT>
+  <EES.Set.HVT>指揮官賞金クエスト</EES.Set.HVT>
+  <EES.Set.HVT.Tip>敵対拠点の指揮官に第三勢力が賞金を懸けます。期限内に指揮官を討伐するか拠点を破壊すると報酬(3択)を獲得。</EES.Set.HVT.Tip>
+  <EES.Set.HVTDays>依頼判定周期</EES.Set.HVTDays>
+  <EES_Letter_CounterScoutArrived>敵偵察隊の潜入</EES_Letter_CounterScoutArrived>
+  <EES.CScout.Arrived.Text>{0}の偵察隊が潜入し、マップ{1}の外縁部のどこかに陣取りました。隠密状態のため正確な位置は不明です — 近づけば姿を現します。\n\n偵察隊はその場を動かず、約1日観測したのち離脱します。それまでに{1}の外縁部を捜索し、始末するか捕らえてください。生きて逃がすと、入植地の情報が敵の手に渡ります。</EES.CScout.Arrived.Text>
+  <EES.Dir.N>北</EES.Dir.N>
+  <EES.Dir.NE>北東</EES.Dir.NE>
+  <EES.Dir.E>東</EES.Dir.E>
+  <EES.Dir.SE>南東</EES.Dir.SE>
+  <EES.Dir.S>南</EES.Dir.S>
+  <EES.Dir.SW>南西</EES.Dir.SW>
+  <EES.Dir.W>西</EES.Dir.W>
+  <EES.Dir.NW>北西</EES.Dir.NW>
+  <EES.CScout.Revealed>{0}が隠密中の敵偵察兵を発見しました！偵察兵は逃走を試みます。</EES.CScout.Revealed>
+  <EES.CScout.Captured>偵察兵{0}を尋問: {1}の内部情報を入手しました。(偵察情報 +1)</EES.CScout.Captured>
+  <EES.CScout.CapturedNoIntel>偵察兵{0}を捕獲しましたが、出身拠点の情報は得られませんでした。</EES.CScout.CapturedNoIntel>
+  <EES_Letter_CounterScoutEscaped>偵察隊の離脱</EES_Letter_CounterScoutEscaped>
+  <EES.CScout.Escaped.Text>{0}の偵察隊が入植地の情報を持って逃げ去りました。\n\n近いうちにこの情報に基づく標的襲撃が予想されます。</EES.CScout.Escaped.Text>
+  <EES_Letter_CounterScoutRaid>標的襲撃</EES_Letter_CounterScoutRaid>
+  <EES.CScout.Raid.Text>{0}が偵察で得た入植地情報をもとに襲撃してきました。通常より強力な兵力です。</EES.CScout.Raid.Text>
+  <EES.HVT.Name>賞金: {0}の指揮官</EES.HVT.Name>
+  <EES.HVT.Desc>{0}が、敵対する{1}に仕える指揮官({2})が率いる拠点に賞金を懸けました。\n\n標的拠点ティア: {3}\n{4}\n\n受諾すると、依頼主が居住地付近にある標的前哨基地の座標を伝えます。その前哨基地を破壊すれば達成となり、報酬がドロップポッドで届きます。受諾後15日以内に完了してください。</EES.HVT.Desc>
+  <EES.HVT.DirtyWarn>\n\n警告: {0}は現在あなたと敵対していません。この依頼を遂行すると{0}との関係は破綻し、敵対に転じます。その代償として賞金は大幅に割り増しされています。</EES.HVT.DirtyWarn>
+  <EES.HVT.GoodwillBonus>\n\n達成すると、{0}が感謝のしるしとして友好度を{1}引き上げます。</EES.HVT.GoodwillBonus>
+  <EES.HVT.TruceNotice>\n\n依頼主の{0}は我々と永久敵対関係です — 友好度の代わりに、達成すると{1}日間{0}の襲撃が停止します。（再達成しても期間は累積されず、更新されます）</EES.HVT.TruceNotice>
+  <EES.HVT.TruceStart>{0}が約束どおり{1}日間、襲撃を停止します。</EES.HVT.TruceStart>
+  <EES_Letter_HVTReward>賞金支払い</EES_Letter_HVTReward>
+  <EES.HVT.RewardLetter.Text>{0}が約束の賞金を送ってきました。</EES.HVT.RewardLetter.Text>
+  <EES.HVT.Variant.Scouted>依頼主は事前偵察を済ませています — 拠点情報が公開された状態で始まります。</EES.HVT.Variant.Scouted>
+  <EES.HVT.Variant.Insider>内通者がいます — 拠点情報が公開され、防衛タレットの一部が事前に無力化されます。(報酬 -10%)</EES.HVT.Variant.Insider>
+  <EES.HVT.Variant.HighAlert>標的は厳戒態勢です — 守備兵力が増強されています。(報酬 +30%)</EES.HVT.Variant.HighAlert>
+  <EES_Letter_HVTTargetSpawned>賞金標的の座標を受信</EES_Letter_HVTTargetSpawned>
+  <EES.HVT.SpawnLetter.Text>依頼主が標的前哨基地「{0}」の座標を伝えてきました。指揮官({1})が率いるこの拠点を破壊すれば賞金が支払われます。</EES.HVT.SpawnLetter.Text>
+
+  <!-- 偵察・潜入の結果通知方式 (2026-07-05) -->
+  <EES.Set.ScoutNotify.Msg>偵察・潜入の結果通知: 簡易メッセージ</EES.Set.ScoutNotify.Msg>
+  <EES.Set.ScoutNotify.Msg.Tip>偵察・潜入の成功/発覚の結果を画面上部の簡易メッセージで表示します。（従来方式）</EES.Set.ScoutNotify.Msg.Tip>
+  <EES.Set.ScoutNotify.Letter>偵察・潜入の結果通知: 右側の手紙</EES.Set.ScoutNotify.Letter>
+  <EES.Set.ScoutNotify.Letter.Tip>偵察・潜入の結果を画面右側の手紙で表示します。Event Image Popup MODがあれば状況イメージも表示されます。</EES.Set.ScoutNotify.Letter.Tip>
+  <EES_Letter_ScoutSuccess>偵察成功</EES_Letter_ScoutSuccess>
+  <EES.Ltr.ScoutSuccess.Text>{0}の情報をすべて確保しました。</EES.Ltr.ScoutSuccess.Text>
+  <EES_Letter_ScoutFail>偵察発覚</EES_Letter_ScoutFail>
+  <EES.Ltr.ScoutFail.Text>{0}の偵察が発覚しました。拠点の警戒が強化され、関係が悪化しました。\n\n偵察兵の被害: {1}</EES.Ltr.ScoutFail.Text>
+  <EES_Letter_InfilSuccess>潜入成功</EES_Letter_InfilSuccess>
+  <EES.Ltr.InfilSuccess.Text>{0}の防衛タレット{1}基を妨害工作しました。</EES.Ltr.InfilSuccess.Text>
+  <EES.Ltr.InfilFake.Text>{0}: タレットの妨害工作は成功しましたが、そこには誰もいません。</EES.Ltr.InfilFake.Text>
+  <EES_Letter_InfilFail>潜入発覚</EES_Letter_InfilFail>
+  <EES.Ltr.InfilFail.Text>{0}への潜入が発覚しました。関係が悪化しました。\n\n工作員: {1}</EES.Ltr.InfilFail.Text>
+  <EES_Letter_StrikeSuccess>精密打撃成功</EES_Letter_StrikeSuccess>
+  <EES.Ltr.StrikeSuccess.Text>通信機による遠隔精密打撃で{0}の防衛タレット{1}基を無力化しました。</EES.Ltr.StrikeSuccess.Text>
+  <EES.Ltr.StrikeFake.Text>{0}: 遠隔打撃は命中しましたが、そこには誰もいません。</EES.Ltr.StrikeFake.Text>
+  <EES.Strike.SabSuccess>[EES] 精密打撃成功: {0}のタレット{1}基を遠隔で無力化！</EES.Strike.SabSuccess>
+  <EES.Strike.SabFake>[EES] {0}: 遠隔打撃は成功しましたが、そこには誰もいません。</EES.Strike.SabFake>
+  <EES.Supply.PodDropFallback>着陸演出に失敗したため、搭乗者と貨物を現地に直接降ろしました。(損失なし)</EES.Supply.PodDropFallback>
+
+  <!-- ===== 一般前哨基地のティア低下 (RimPacts 世界大戦の後期段階, 2026-08-23) ===== -->
+  <EES.Outpost.Unavailable>EESの準備がまだできていません。</EES.Outpost.Unavailable>
+  <EES.Outpost.NotTargetPlayer>前哨基地ではありません。</EES.Outpost.NotTargetPlayer>
+  <EES.Outpost.NotTarget>EESが管理していない入植地です。</EES.Outpost.NotTarget>
+  <EES.Outpost.IsPuppet>傀儡国の前哨基地です。</EES.Outpost.IsPuppet>
+  <EES.Outpost.TierFixed>ティアが固定された前哨基地です。</EES.Outpost.TierFixed>
+  <EES.Outpost.AtFloor>すでに最低ティアです(T{0})。これ以上は下がりません。</EES.Outpost.AtFloor>
+  <EES.Outpost.NoTargets>ティアを下げられる前哨基地がありません。</EES.Outpost.NoTargets>
+
+  <!-- ===== 傀儡国の前哨基地 (RimPacts 連携, 2026-08-05) ===== -->
+  <EES.CanScout.Puppet>自国の傀儡国の前哨基地です。</EES.CanScout.Puppet>
+  <EES.CanScout.WorldWarAlly>世界大戦で同じ陣営です。</EES.CanScout.WorldWarAlly>
+  <EES.CanScout.WorldWarNeutral>世界大戦の中立国は他勢力に干渉できません。</EES.CanScout.WorldWarNeutral>
+  <EES.Puppet.NotOutpost>傀儡国の前哨基地ではありません。</EES.Puppet.NotOutpost>
+  <EES.Puppet.NeedSilver>シルバーが足りません（{0} 必要）。</EES.Puppet.NeedSilver>
+  <EES.Puppet.OwnOutpost>自国の僀儀国の前哨基地（偵察不要）</EES.Puppet.OwnOutpost>
+  <EES.Puppet.AtCap>この時代の上限です(T{0})。傀儡国を昇格させると さらに上がります。</EES.Puppet.AtCap>
+  <EES.Puppet.AtFloor>すでに最低ティアです(T{0})。これ以上は下がりません。</EES.Puppet.AtFloor>
+  <EES.Puppet.RoleUnavailable>今は指定できる役割がありません。</EES.Puppet.RoleUnavailable>
+  <EES.Puppet.MortarAlready>すでに迫撃砲陣地があります。</EES.Puppet.MortarAlready>
+  <EES.Puppet.MortarTierLow>T{0} 以上が必要です。</EES.Puppet.MortarTierLow>
+  <EES.Puppet.BadPlan>守備隊の構成値が不正です。</EES.Puppet.BadPlan>
+  <EES.Puppet.AssaultTechLow>強襲隊はスペーサー時代以上から配置できます。</EES.Puppet.AssaultTechLow>
+  <EES.Puppet.CommanderTechLow>この指揮官は{0}時代以上から配置できます。</EES.Puppet.CommanderTechLow>
+  <EES.Puppet.Gizmo.UpgradeLabel>前哨基地 T{0}/{1}</EES.Puppet.Gizmo.UpgradeLabel>
+  <EES.Puppet.Gizmo.UpgradeDesc>銀 {1} 消費 ・ 次のティア T{0}\n\n銀を使わなくても自動昇格まで {2} です。</EES.Puppet.Gizmo.UpgradeDesc>
+  <EES.Puppet.Gizmo.UpgradeDescCap>この時代の上限です(T{0})。傀儡国を昇格させると さらに上がります。</EES.Puppet.Gizmo.UpgradeDescCap>
+  <EES.Puppet.Gizmo.RoleLabel>役割: {0}</EES.Puppet.Gizmo.RoleLabel>
+  <EES.Puppet.Gizmo.RoleDesc>この前哨基地の役割を決めます。次回の進入時に反映されます。</EES.Puppet.Gizmo.RoleDesc>
+  <EES.Puppet.Gizmo.CommanderLabel>指揮官: {0}</EES.Puppet.Gizmo.CommanderLabel>
+  <EES.Puppet.Gizmo.CommanderDesc>この前哨基地の指揮官タイプを決めます。次回の進入時に反映されます。</EES.Puppet.Gizmo.CommanderDesc>
+  <EES.Puppet.Msg.Upgraded>{0} 前哨基地 → T{1}</EES.Puppet.Msg.Upgraded>
+  <EES.Puppet.Msg.RoleSet>{0} 役割 → {1}</EES.Puppet.Msg.RoleSet>
+  <EES.Puppet.Msg.CommanderSet>{0} 指揮官 → {1}</EES.Puppet.Msg.CommanderSet>
+</LanguageData>

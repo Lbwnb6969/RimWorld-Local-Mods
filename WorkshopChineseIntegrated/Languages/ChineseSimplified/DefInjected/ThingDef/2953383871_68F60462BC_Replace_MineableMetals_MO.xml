@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Steel.label>钢锭</Steel.label>
+  <Steel.stuffProps.stuffAdjective>钢制</Steel.stuffProps.stuffAdjective>
+
+  <Gold.label>金锭</Gold.label>
+  <Gold.description>一根金条。已准备好用于制作和建造。</Gold.description>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_deityName->The Gorefather</li>
+    <li>r_deityName->The Sinewlord</li>
+    <li>r_deityName->The Fleshtyrant</li>
+    <li>r_deityName->The Carnagebringer</li>
+    <li>r_deityName->The Rotgiver</li>
+    <li>r_deityName->The Fleshrend</li>
+  -->
+  <AM_NamerDeityFlesh.rulePack.rulesStrings>
+    <li>r_deityName->腐血圣父</li>
+    <li>r_deityName->筋腱尊主</li>
+    <li>r_deityName->血肉暴君</li>
+    <li>r_deityName->杀戮神使</li>
+    <li>r_deityName->腐烂圣者</li>
+    <li>r_deityName->血肉粉碎者</li>
+  </AM_NamerDeityFlesh.rulePack.rulesStrings>
+  
+</LanguageData>

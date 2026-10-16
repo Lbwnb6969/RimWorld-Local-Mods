@@ -1,0 +1,4 @@
+//Medieval specific
+王国
+帝国
+王朝

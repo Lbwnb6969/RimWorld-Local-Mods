@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desert archer -->
+  <BA_Moor_Archer.label>沙漠弓箭手</BA_Moor_Archer.label>
+  
+  <!-- EN: hand gunner -->
+  <BA_Moor_Arquebusier.label>火绳枪手</BA_Moor_Arquebusier.label>
+  
+  <!-- EN: bannerman -->
+  <BA_Moor_Bannerman.label>旗手</BA_Moor_Bannerman.label>
+  
+  <!-- EN: camel gunner -->
+  <BA_Moor_CamelGunner.label>骆驼枪手</BA_Moor_CamelGunner.label>
+  
+  <!-- EN: christian guard -->
+  <BA_Moor_Christian_Guard.label>基督教卫队</BA_Moor_Christian_Guard.label>
+  
+  <!-- EN: crossbowman -->
+  <BA_Moor_Crossbowman.label>弩手</BA_Moor_Crossbowman.label>
+  
+  <!-- EN: Granadine lancer -->
+  <BA_Moor_Granadine.label>格拉纳达枪骑兵</BA_Moor_Granadine.label>
+  
+  <!-- EN: Granadine jinet -->
+  <BA_Moor_Jinet.label>格拉纳达轻骑兵</BA_Moor_Jinet.label>
+  
+  <!-- EN: sultan -->
+  <BA_Moor_King.label>苏丹</BA_Moor_King.label>
+  <!-- EN: sultana -->
+  <BA_Moor_King.labelFemale>女苏丹</BA_Moor_King.labelFemale>
+  
+  <!-- EN: Arab cavalry -->
+  <BA_Moor_Knight.label>阿拉伯骑兵</BA_Moor_Knight.label>
+  
+  <!-- EN: peasant -->
+  <BA_Moor_Peasant.label>农民</BA_Moor_Peasant.label>
+  
+  <!-- EN: berber spearman -->
+  <BA_Moor_Spear_Militia.label>柏柏尔长矛兵</BA_Moor_Spear_Militia.label>
+  
+  <!-- EN: urban militia -->
+  <BA_Moor_Swordsman.label>城市民兵</BA_Moor_Swordsman.label>
+  
+</LanguageData>

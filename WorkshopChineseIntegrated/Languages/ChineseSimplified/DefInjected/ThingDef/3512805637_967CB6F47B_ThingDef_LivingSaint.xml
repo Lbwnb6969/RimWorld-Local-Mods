@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ascendant Wrath -->
+  <BEWH_LSaintBoltPistol.label>升华之怒</BEWH_LSaintBoltPistol.label>
+  <!-- EN: An ancient weapon appearing to resemble a heavy bolt pistol, its true nature obscured by time and conflicting accounts. Some say it was never forged in any traditional sense, but appeared in the midst of battle - formed from blinding light and raw warp energy as the Saint rose to lead the faithful. -->
+  <BEWH_LSaintBoltPistol.description>形似重型爆弹手枪的古代遗物，其本质被时光与矛盾记载所遮蔽。据传此非凡造物从未经凡匠铸造，乃圣徒临阵崛起引领信众时，由刺目圣光与原始亚空间能量凝结而成。</BEWH_LSaintBoltPistol.description>
+  <!-- EN: Handle -->
+  <BEWH_LSaintBoltPistol.tools.Handle.label>握把</BEWH_LSaintBoltPistol.tools.Handle.label>
+  <!-- EN: barrel -->
+  <BEWH_LSaintBoltPistol.tools.barrel.label>枪管</BEWH_LSaintBoltPistol.tools.barrel.label>
+  <!-- EN: Ascendant Wrath -->
+  <BEWH_LSaintBoltPistol.verbs.Verb_Shoot.label>升华之怒</BEWH_LSaintBoltPistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Ardent Blade -->
+  <BEWH_LSaintSword.label>热诚之剑</BEWH_LSaintSword.label>
+  <!-- EN: This power sword is said to be forged from crystallised faith and consecrated alloy. Weightless in the Saint's hand, it strikes with blinding speed and divine fury, burning heretics on impact as if guided by the Emperor Himself. At the wielder's will, the blade unleashes a jet of holy flame - a searing manifestation of His wrath. -->
+  <BEWH_LSaintSword.description>据说这把动力剑以信仰结晶和神圣合金锻铸而成。在活圣人手中，它轻若无物，却能以耀目神速，带着神圣怒火，如同帝皇亲自指引般，将异端焚烧殆尽。持剑者意念所至，剑刃即喷涌神圣烈焰——此乃帝皇怒焰的灼热化身。</BEWH_LSaintSword.description>
+  <!-- EN: charge -->
+  <BEWH_LSaintSword.comps.CompEquippableAbilityReloadable.chargeNoun>充能</BEWH_LSaintSword.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <BEWH_LSaintSword.comps.CompEquippableAbilityReloadable.cooldownGerund>正在冷却</BEWH_LSaintSword.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: handle -->
+  <BEWH_LSaintSword.tools.handle.label>剑柄</BEWH_LSaintSword.tools.handle.label>
+  <!-- EN: edge -->
+  <BEWH_LSaintSword.tools.edge.label>剑刃</BEWH_LSaintSword.tools.edge.label>
+  <!-- EN: point -->
+  <BEWH_LSaintSword.tools.point.label>剑头</BEWH_LSaintSword.tools.point.label>
+  
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: futuristic obelisk -->
+  <AM_FuturisticObelisk.label>未来方尖碑</AM_FuturisticObelisk.label>
+  <!-- EN: A huge metallic obelisk. -->
+  <AM_FuturisticObelisk.description>用金属制成的巨型方尖碑。</AM_FuturisticObelisk.description>
+  
+  <!-- EN: futuristic great pyramid -->
+  <AM_FuturisticPyramid.label>未来大金字塔</AM_FuturisticPyramid.label>
+  <!-- EN: A truly colossal metallic structure whose outer surfaces are triangular and converge to a single step at the top. -->
+  <AM_FuturisticPyramid.description>体积极其巨大的金属制三面角锥体建筑，造型看起来有些像“金”字。</AM_FuturisticPyramid.description>
+  <!-- EN: Contains the last remains of {CORPSE} -->
+  <AM_FuturisticPyramid.comps.Comp_CorpseContainer.inspectString>装有：{CORPSE}</AM_FuturisticPyramid.comps.Comp_CorpseContainer.inspectString>
+  <!-- EN: {CORPSE}'s {LABEL} -->
+  <AM_FuturisticPyramid.comps.Comp_CorpseContainer.transformLabel>{CORPSE}的{LABEL}</AM_FuturisticPyramid.comps.Comp_CorpseContainer.transformLabel>
+  
+  <!-- EN: futuristic stele -->
+  <AM_FuturisticStele.label>未来碑匾</AM_FuturisticStele.label>
+  <!-- EN: A huge metallic stele. -->
+  <AM_FuturisticStele.description>用金属制成的巨型碑匾。</AM_FuturisticStele.description>
+  
+  <!-- EN: grand gate -->
+  <AM_GrandGate.label>宏伟巨门</AM_GrandGate.label>
+  <!-- EN: A huge entrance for a kemetic city. -->
+  <AM_GrandGate.description>常见于古埃及城市入口处的巨门。</AM_GrandGate.description>
+  
+  <!-- EN: great pyramid -->
+  <AM_GreatPyramid.label>大金字塔</AM_GreatPyramid.label>
+  <!-- EN: A truly colossal stone structure whose outer surfaces are triangular and converge to a single step at the top. -->
+  <AM_GreatPyramid.description>体积极其巨大的石制三面角锥体建筑，造型看起来有些像“金”字。</AM_GreatPyramid.description>
+  <!-- EN: Contains the last remains of {CORPSE} -->
+  <AM_GreatPyramid.comps.Comp_CorpseContainer.inspectString>装有：{CORPSE}</AM_GreatPyramid.comps.Comp_CorpseContainer.inspectString>
+  <!-- EN: {CORPSE}'s {LABEL} -->
+  <AM_GreatPyramid.comps.Comp_CorpseContainer.transformLabel>{CORPSE}的{LABEL}</AM_GreatPyramid.comps.Comp_CorpseContainer.transformLabel>
+  
+  <!-- EN: megalith -->
+  <AM_Megalith.label>图腾巨石</AM_Megalith.label>
+  <!-- EN: A large stone used to construct a prehistoric structure or monument, either alone or together with other stones, often hewn in definite shapes for special purposes. -->
+  <AM_Megalith.description>具有建筑或纪念碑用途的巨型石块堆，不仅外形经过了精心雕凿，上面还刻有各种各样的图腾与文字。</AM_Megalith.description>
+  
+  <!-- EN: mesoamerican pyramid -->
+  <AM_MesoamericanPyramid.label>中美洲风格金字塔</AM_MesoamericanPyramid.label>
+  <!-- EN: A stepped stone pyramid crowned by a temple, built to honor the gods and mark the center of the settlement. -->
+  <AM_MesoamericanPyramid.description>顶部建有神庙的石制阶梯式金字塔，通常用于祭拜神明和当作定居点的中心地标。</AM_MesoamericanPyramid.description>
+
+  <!-- EN: pyramid -->
+  <AM_Pyramid.label>金字塔</AM_Pyramid.label>
+  <!-- EN: A gigantic stone structure whose outer surfaces are triangular and converge to a single step at the top. -->
+  <AM_Pyramid.description>体积巨大的石制三面角锥体建筑，造型看起来有些像“金”字。</AM_Pyramid.description>
+  <!-- EN: Contains the remains of: {CORPSES} -->
+  <AM_Pyramid.comps.Comp_CorpseContainerMulti.inspectString>装有：{CORPSES}</AM_Pyramid.comps.Comp_CorpseContainerMulti.inspectString>
+  
+  <!-- EN: sphinx -->
+  <AM_Sphynx.label>狮身人面像</AM_Sphynx.label>
+  <!-- EN: A truly colossal statue of a sphinx, a mythical creature with the head of a human, and the body of a lion. -->
+  <AM_Sphynx.description>以传说中具有狮身人面的生物“斯芬克斯”为原型建造而成的巨大石像。</AM_Sphynx.description>
+  
+</LanguageData>

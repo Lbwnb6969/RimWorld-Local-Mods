@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: argali -->
+  <ERN_Argali.label>盘羊</ERN_Argali.label>
+  <!-- EN: The largest species of wild sheep, the argali was spread through several rim worlds with harsh conditions long ago, in one of mankind's many attempts to solve the various inhospitable conditions such worlds often have. This particular animal was brought to rugged mountainous worlds to become a prey species. -->
+  <ERN_Argali.description>作为体型最大的野生绵羊，早在人类尝试改造边缘世界恶劣环境的多次努力的过程当中，盘羊就被引入到这里了。这种生物作为捕食者被特意投放到崇山峻岭。</ERN_Argali.description>
+  <!-- EN: left hoof -->
+  <ERN_Argali.tools.left_hoof.label>左蹄</ERN_Argali.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <ERN_Argali.tools.right_hoof.label>右蹄</ERN_Argali.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <ERN_Argali.tools.teeth.label>牙齿</ERN_Argali.tools.teeth.label>
+  <!-- EN: head -->
+  <ERN_Argali.tools.head.label>头</ERN_Argali.tools.head.label>
+  
+  <!-- EN: armadillo -->
+  <ERN_Armadillo.label>犰狳</ERN_Armadillo.label>
+  <!-- EN: A small-sized mammal with a leathery armoured shell and sharp claws designed for digging. -->
+  <ERN_Armadillo.description>这种小型哺乳动物拥有皮革般的甲壳和适合挖掘的锐爪。</ERN_Armadillo.description>
+  <!-- EN: small mammal meat -->
+  <ERN_Armadillo.race.meatLabel>小型哺乳动物肉</ERN_Armadillo.race.meatLabel>
+  <!-- EN: left claw -->
+  <ERN_Armadillo.tools.left_claw.label>左爪</ERN_Armadillo.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_Armadillo.tools.right_claw.label>右爪</ERN_Armadillo.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_Armadillo.tools.head.label>头</ERN_Armadillo.tools.head.label>
+  
+  <!-- EN: Ferret -->
+  <ERN_Ferret.label>雪貂</ERN_Ferret.label>
+  <!-- EN: Ferrets are the domesticated form of the European Polecat, a mammal belonging to the Mustelid family. Compared to Mink and Weasels the Ferret has a shorter, more compact body with a sturdier skull and teeth. The ferret is a predator that naturally preys upon small animals such as rodents and amphibians. The history of their domestication is uncertain, but it is most likely that they were domesticated to control rabbit populations, but they are also highly valued as companion animals. A glitterworld celebrity is known for collecting every ferret. -->
+  <ERN_Ferret.description>雪貂是欧洲林鼬的驯化品种，属于鼬科。相比水貂和黄鼬，雪貂体型更短小紧凑，头骨和牙齿更坚固。这种掠食者以啮齿类和两栖动物为食。其驯化历史已不可考，最初可能用于控制兔群，后来成为受欢迎的伴侣动物。据说有位闪耀世界的名流痴迷于收集所有品种的雪貂。</ERN_Ferret.description>
+  <!-- EN: left claw -->
+  <ERN_Ferret.tools.left_claw.label>左爪</ERN_Ferret.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_Ferret.tools.right_claw.label>右爪</ERN_Ferret.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_Ferret.tools.head.label>头</ERN_Ferret.tools.head.label>
+  
+  <!-- EN: gartersnake -->
+  <ERN_Gartersnake.label>束带蛇</ERN_Gartersnake.label>
+  <!-- EN: A beautiful small snake with a striking pattern.  Spacer needs to have vermin hunters in tight quarters resulted in many snake species being propogated off-planet, and this was one of the ones chosen for its coloration and personality. -->
+  <ERN_Gartersnake.description>一种花花绿绿的小蛇。太空居民需要在狭窄空间控制害虫，因此许多蛇类被带离母星，而束带蛇凭借独特的斑纹和温顺的性格成为首屈一指的选择。</ERN_Gartersnake.description>
+  <!-- EN: fangs -->
+  <ERN_Gartersnake.tools.fangs.label>毒牙</ERN_Gartersnake.tools.fangs.label>
+  <!-- EN: head -->
+  <ERN_Gartersnake.tools.head.label>头</ERN_Gartersnake.tools.head.label>
+  
+  <!-- EN: Grey fox -->
+  <ERN_Greyfox.label>灰狐</ERN_Greyfox.label>
+  <!-- EN: A small, omnivorous canid that is only distantly related to the red fox, easily distinguished by the grizzled grey of their backs. Noted for their unusual climbing skills amongst the canids, they prefer to den in wooded, brushy or rocky areas above the ground. -->
+  <ERN_Greyfox.description>与赤狐亲缘较远的小型杂食犬科动物，最显著特征是背部铁灰色的皮毛。作为犬科中罕见的攀爬高手，它们偏好在地势较高的林地、灌木丛或岩区筑巢。</ERN_Greyfox.description>
+  <!-- EN: left claw -->
+  <ERN_Greyfox.tools.left_claw.label>左爪</ERN_Greyfox.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_Greyfox.tools.right_claw.label>右爪</ERN_Greyfox.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_Greyfox.tools.head.label>头</ERN_Greyfox.tools.head.label>
+  
+  <!-- EN: hedgehog -->
+  <ERN_Hedgehog.label>刺猬</ERN_Hedgehog.label>
+  <!-- EN: Hedgehogs are small omnivores, easily recognisable by their needle-like spines all over their back. Though contrary to other spiny animals, the spines of hedgehogs are neither poisonous nor easily detachable.\n\nUsually nocturnal in nature, hedgehogs are usually found under or near bushes and hedges, which gave them their name. Seventeen subspecies of hedgehogs are known, of which many but not all hibernate during the winter. -->
+  <ERN_Hedgehog.description>刺猬是背部布满针状棘刺的小型杂食动物，与其他带刺生物不同，它们的棘刺既无毒也不易脱落。\n\n这种夜行性动物常出没于灌木丛或树篱下（顾名思义）。已知17个亚种中，多数（非全部）具有冬眠习性。</ERN_Hedgehog.description>
+  <!-- EN: left claw -->
+  <ERN_Hedgehog.tools.left_claw.label>左爪</ERN_Hedgehog.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_Hedgehog.tools.right_claw.label>右爪</ERN_Hedgehog.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_Hedgehog.tools.head.label>头</ERN_Hedgehog.tools.head.label>
+  
+  <!-- EN: Mink -->
+  <ERN_Mink.label>水貂</ERN_Mink.label>
+  <!-- EN: The mink is a semiaquatic species of mustelid, that preys upon rodents, crustaceans, and other small animals. It is commonly farmed for its soft, warm pelt and is renowned for escaping from captivity to establish itself in the environment. -->
+  <ERN_Mink.description>这种半水栖鼬科动物以啮齿类、甲壳动物等小型生物为食。因其柔软保暖的毛皮被广泛养殖，同时以动若脱兔并在野外建立种群而闻名遐迩。</ERN_Mink.description>
+  <!-- EN: left claw -->
+  <ERN_Mink.tools.left_claw.label>左爪</ERN_Mink.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_Mink.tools.right_claw.label>右爪</ERN_Mink.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_Mink.tools.head.label>头</ERN_Mink.tools.head.label>
+  
+  <!-- EN: Opossum -->
+  <ERN_Opossum.label>负鼠</ERN_Opossum.label>
+  <!-- EN: A small member of the marsupial family, these little fellows have long, hairless, prehensile tails, which can be used to grab branches and carry small objects. They also have hairless ears and a long, flat nose. They are often referred to interchangeably as possums as well. -->
+  <ERN_Opossum.description>这种有袋目小动物拥有可抓握的无毛长尾，能缠绕树枝或搬运物品。它们还长着无毛的耳朵和扁平的长吻部。"负鼠"与"袋貂"的名称常被混用。</ERN_Opossum.description>
+  <!-- EN: left claw -->
+  <ERN_Opossum.tools.left_claw.label>左爪</ERN_Opossum.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_Opossum.tools.right_claw.label>右爪</ERN_Opossum.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_Opossum.tools.head.label>头</ERN_Opossum.tools.head.label>
+  
+  <!-- EN: pallas' cat -->
+  <ERN_PallasCat.label>兔狲</ERN_PallasCat.label>
+  <!-- EN: A stout felid the size of the normal domestic cat, but much more wild. Adapted to hiding in rocky crevices in its native steppes, this led to it being popular as a vermin exterminator in the various nooks and crannies of spaceships. -->
+  <ERN_PallasCat.description>与家猫体型相仿但更凶悍的猫科动物，原生环境使其擅长藏身岩缝，因而成为太空飞船理想的害虫猎手。</ERN_PallasCat.description>
+  <!-- EN: left claw -->
+  <ERN_PallasCat.tools.left_claw.label>左爪</ERN_PallasCat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_PallasCat.tools.right_claw.label>右爪</ERN_PallasCat.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_PallasCat.tools.head.label>头</ERN_PallasCat.tools.head.label>
+  
+  <!-- EN: pika -->
+  <ERN_Pika.label>鼠兔</ERN_Pika.label>
+  <!-- EN: A small round relative of the rabbit. It is often found in mountain ranges living at altitudes most other mammals shun, where it gathers plant material to dry and store for surviving the harsh mountain winters. -->
+  <ERN_Pika.description>这种兔科近亲的圆胖小动物栖息在多数哺乳动物难以生存的高海拔山区，会收集晾晒植物以备严冬。</ERN_Pika.description>
+  <!-- EN: left claw -->
+  <ERN_Pika.tools.left_claw.label>左爪</ERN_Pika.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_Pika.tools.right_claw.label>右爪</ERN_Pika.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_Pika.tools.head.label>头</ERN_Pika.tools.head.label>
+  
+  <!-- EN: Ptarmigan -->
+  <ERN_ptarmigan.label>雷鸟</ERN_ptarmigan.label>
+  <!-- EN: A resident of arctic and boreal regions, the ptarmigan is known for its feathered feet and chicken-like clucking. Unlike their flightless friends, they can easily survive cold temperatures and are often raised for their tasty, fatty dark meat. -->
+  <ERN_ptarmigan.description>这种北极与寒带居民以生有羽毛的脚部和母鸡般的咯咯声著称。与不会飞的近亲不同，它们能轻松适应严寒，常因其美味多脂的深色肉被饲养。</ERN_ptarmigan.description>
+  <!-- EN: claws -->
+  <ERN_ptarmigan.tools.claws.label>爪</ERN_ptarmigan.tools.claws.label>
+  <!-- EN: beak -->
+  <ERN_ptarmigan.tools.beak.label>喙</ERN_ptarmigan.tools.beak.label>
+  <!-- EN: head -->
+  <ERN_ptarmigan.tools.head.label>头</ERN_ptarmigan.tools.head.label>
+  
+  <!-- EN: Red panda -->
+  <ERN_Redpanda.label>小熊猫</ERN_Redpanda.label>
+  <!-- EN: A small, red-furred mammal with an adorable, cuddly appearance.  Threatened with extinction on the home world, scientific advances during the space expansion era led to them becoming a popular space-faring pet, resulting in its distribution on many far-flung worlds. -->
+  <ERN_Redpanda.description>这种红艳艳、惹人怜爱的小型哺乳动物在母星曾濒临灭绝。太空扩张时代的技术革新使其成为风靡一时的星际宠物，因而遍布诸多偏远世界。</ERN_Redpanda.description>
+  <!-- EN: left claw -->
+  <ERN_Redpanda.tools.left_claw.label>左爪</ERN_Redpanda.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_Redpanda.tools.right_claw.label>右爪</ERN_Redpanda.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_Redpanda.tools.head.label>头</ERN_Redpanda.tools.head.label>
+  
+  <!-- EN: Snow leopard -->
+  <ERN_SnowLeopard.label>雪豹</ERN_SnowLeopard.label>
+  <!-- EN: A large felid from Old Terra adapted to cold climates and rugged mountains. Genetic cloning brought it back from near extinction, and it spread throughout the universe through intergalatic fur farms, but some specimens have escaped to colonize distant rimworld mountains.  Elusive and shy, many tribal rim legends can be traced back to this cat. -->
+  <ERN_SnowLeopard.description>这种适应寒冷山地环境的大型猫科动物通过基因克隆从濒临灭绝的危险当中复归，后因星际毛皮养殖业扩散而生活在宇宙各处，有一些逃逸到边缘世界的群山里头。其神出鬼没的习性催生了许多部落传说。</ERN_SnowLeopard.description>
+  <!-- EN: left claw -->
+  <ERN_SnowLeopard.tools.left_claw.label>左爪</ERN_SnowLeopard.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_SnowLeopard.tools.right_claw.label>右爪</ERN_SnowLeopard.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_SnowLeopard.tools.head.label>头</ERN_SnowLeopard.tools.head.label>
+  
+</LanguageData>

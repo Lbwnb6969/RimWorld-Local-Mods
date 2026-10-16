@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wearing dead person's clothing -->
+  <VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.label>穿着死人的衣服</VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.label>
+  <!-- EN: I'm wearing clothing used by a dead person, I can't imagine anything more disgusting! Someone died wearing these! -->
+  <VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.description>我正穿着一件从死人身上扒下来的衣服，没有什么比这更恶心的了！</VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.description>
+  
+</LanguageData>

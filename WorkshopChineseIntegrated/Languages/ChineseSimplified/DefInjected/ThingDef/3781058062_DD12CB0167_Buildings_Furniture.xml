@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sturdy table (1x1) -->
+  <Tav_1x1Table.label>结实桌子（1x1）</Tav_1x1Table.label>
+  <!-- EN: Sturdy reinforced table. People eat off tables when chairs are placed facing them. -->
+  <Tav_1x1Table.description>经过加固处理的结实桌子。当放置有朝向桌子的椅子时，人们会在上面吃饭。</Tav_1x1Table.description>
+  
+  <!-- EN: sturdy closet -->
+  <Tav_1x1Wardrobe.label>结实橱柜</Tav_1x1Wardrobe.label>
+  <!-- EN: A sturdy closet. Gives a small comfort bonus to all nearby beds. Placing more than one closet near the same bed has no effect. -->
+  <Tav_1x1Wardrobe.description>经过加固处理的结实橱柜。给旁边所有的床提供少量舒适度奖励。在同一个床旁放置多个橱柜不会产生叠加效果。</Tav_1x1Wardrobe.description>
+  
+  <!-- EN: counter (1x2) -->
+  <Tav_1x2Counter.label>结实柜台（1x2）</Tav_1x2Counter.label>
+  <!-- EN: A sturdy counter where people can gather to eat and socialize. People eat off counters when chairs are placed facing them. -->
+  <Tav_1x2Counter.description>经过加固处理的结实柜台，是供人们聚在一起把酒言欢的好地方。当放置有朝向柜台的椅子时，人们会在上面吃饭。</Tav_1x2Counter.description>
+  
+  <!-- EN: sturdy table (1x2) -->
+  <Tav_1x2Table.label>结实桌子（1x2）</Tav_1x2Table.label>
+  <!-- EN: Sturdy reinforced table. People eat off tables when chairs are placed facing them. -->
+  <Tav_1x2Table.description>经过加固处理的结实桌子。当放置有朝向桌子的椅子时，人们会在上面吃饭。</Tav_1x2Table.description>
+  
+  <!-- EN: counter (1x3) -->
+  <Tav_1x3Counter.label>结实柜台（1x3）</Tav_1x3Counter.label>
+  <!-- EN: A sturdy counter where people can gather to eat and socialize. People eat off counters when chairs are placed facing them. -->
+  <Tav_1x3Counter.description>经过加固处理的结实柜台，是供人们聚在一起把酒言欢的好地方。当放置有朝向柜台的椅子时，人们会在上面吃饭。</Tav_1x3Counter.description>
+  
+  <!-- EN: sturdy round table (2x2) -->
+  <Tav_2x2RoundTable.label>结实圆桌（2x2）</Tav_2x2RoundTable.label>
+  <!-- EN: Sturdy reinforced table. People eat off tables when chairs are placed facing them. -->
+  <Tav_2x2RoundTable.description>经过加固处理的结实圆桌。当放置有朝向桌子的椅子时，人们会在上面吃饭。</Tav_2x2RoundTable.description>
+  
+  <!-- EN: sturdy table (2x2) -->
+  <Tav_2x2Table.label>结实桌子（2x2）</Tav_2x2Table.label>
+  <!-- EN: Sturdy reinforced table. People eat off tables when chairs are placed facing them. -->
+  <Tav_2x2Table.description>经过加固处理的结实桌子。当放置有朝向桌子的椅子时，人们会在上面吃饭。</Tav_2x2Table.description>
+  
+  <!-- EN: candleholder -->
+  <Tav_Candleholder.label>壁挂烛台</Tav_Candleholder.label>
+  <!-- EN: A rustic wall-mounted candleholder that casts a warm glow. Creates a cozy atmosphere. -->
+  <Tav_Candleholder.description>发出光芒与暖意的乡野风格壁挂烛台，能为任何房间增添一丝温馨的气氛。</Tav_Candleholder.description>
+  
+  <!-- EN: sturdy chair -->
+  <Tav_ChairA.label>结实餐椅</Tav_ChairA.label>
+  <!-- EN: Sturdy reinforced chair. Can be used at tables, work stations, and elsewhere. -->
+  <Tav_ChairA.description>经过加固处理的结实餐椅。可以在餐桌和工作台或者别的什么附近使用。</Tav_ChairA.description>
+  
+  <!-- EN: flags (1x2) -->
+  <Tav_Dec2x1Flags.label>装饰彩旗（1x2）</Tav_Dec2x1Flags.label>
+  <!-- EN: A colorful set of hanging flags that adds a festive touch to any room.\n\nPerfect for celebrating your colony's achievements or adding a vibrant atmosphere to a tavern or great hall. -->
+  <Tav_Dec2x1Flags.description>一组五颜六色的悬挂彩旗，能为任何房间增添一丝欢快的节日气氛。\n\n无论是用于庆祝殖民地所取得的丰功伟业，还是为酒馆或大厅注入活力，它都是绝佳的选择。</Tav_Dec2x1Flags.description>
+  
+  <!-- EN: flags (1x3) -->
+  <Tav_Dec3x1Flags.label>装饰彩旗（1x3）</Tav_Dec3x1Flags.label>
+  <!-- EN: A colorful set of hanging flags that adds a festive touch to any room.\n\nPerfect for celebrating your colony's achievements or adding a vibrant atmosphere to a tavern or great hall. -->
+  <Tav_Dec3x1Flags.description>一组五颜六色的悬挂彩旗，能为任何房间增添一丝欢快的节日气氛。\n\n无论是用于庆祝殖民地所取得的丰功伟业，还是为酒馆或大厅注入活力，它都是绝佳的选择。</Tav_Dec3x1Flags.description>
+  
+  <!-- EN: flags (1x4) -->
+  <Tav_Dec4x1Flags.label>装饰彩旗（1x4）</Tav_Dec4x1Flags.label>
+  <!-- EN: A colorful set of hanging flags that adds a festive touch to any room.\n\nPerfect for celebrating your colony's achievements or adding a vibrant atmosphere to a tavern or great hall. -->
+  <Tav_Dec4x1Flags.description>一组五颜六色的悬挂彩旗，能为任何房间增添一丝欢快的节日气氛。\n\n无论是用于庆祝殖民地所取得的丰功伟业，还是为酒馆或大厅注入活力，它都是绝佳的选择。</Tav_Dec4x1Flags.description>
+  
+  <!-- EN: trophy -->
+  <Tav_DecTrophy.label>狩猎战利品</Tav_DecTrophy.label>
+  <!-- EN: A trophy that is usually hung on the wall. It looks pretty cute. -->
+  <Tav_DecTrophy.description>通常悬挂在墙上的狩猎战利品。它看起来甚至有点可爱。</Tav_DecTrophy.description>
+  
+  <!-- EN: sturdy dresser -->
+  <Tav_Dresser.label>结实矮柜</Tav_Dresser.label>
+  <!-- EN: A sturdy dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Tav_Dresser.description>经过加固处理的结实床边矮柜。给旁边所有的床提供少量舒适度奖励。在同一个床旁放置多个矮柜不会产生叠加效果。</Tav_Dresser.description>
+  
+  <!-- EN: sturdy end table -->
+  <Tav_EndTable.label>结实床头柜</Tav_EndTable.label>
+  <!-- EN: A small sturdy bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <Tav_EndTable.description>经过加固处理的结实床边小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。在同一个床旁放置多个床头柜不会产生叠加效果。</Tav_EndTable.description>
+  
+  <!-- EN: kitchen counter -->
+  <Tav_Kitchen.label>厨房柜台</Tav_Kitchen.label>
+  <!-- EN: A spacious kitchen counter for storing cookware, spices, and dry ingredients. Keeps your kitchen organized and adds a touch of rustic charm.\n\nCan be linked to stoves to provide a small cooking speed bonus. -->
+  <Tav_Kitchen.description>用于存放厨具、香料和干货的宽敞柜台。它不仅有助于厨房保持整洁，还能赋予其质朴而不失魅力的乡野气息。\n\n提高4%工作速度。需要放置在炉灶附近。一个炉灶最多可以同时连接十个厨房柜台。</Tav_Kitchen.description>
+  
+  <!-- EN: kitchen decoration -->
+  <Tav_KitchenAdd.label>厨房装饰</Tav_KitchenAdd.label>
+  <!-- EN: A simple decoration for your kitchen. -->
+  <Tav_KitchenAdd.description>用于点缀厨房的简易装饰品。</Tav_KitchenAdd.description>
+  
+  <!-- EN: kitchen closet -->
+  <Tav_KitchenCloset.label>厨房橱柜</Tav_KitchenCloset.label>
+  <!-- EN: A spacious kitchen closet for storing cookware, spices, and dry ingredients. Keeps your kitchen organized and adds a touch of rustic charm.\n\nCan be linked to stoves to provide a small cooking speed bonus. -->
+  <Tav_KitchenCloset.description>用于存放厨具、香料和干货的宽敞橱柜。它不仅有助于厨房保持整洁，还能赋予其质朴而不失魅力的乡野气息。\n\n提高10%工作速度。需要放置在炉灶附近。一个炉灶最多可以同时连接十个厨房橱柜。</Tav_KitchenCloset.description>
+  
+  <!-- EN: kitchen shelfs -->
+  <Tav_KitchenShelfs.label>厨房顶柜</Tav_KitchenShelfs.label>
+  <!-- EN: A wall-mounted kitchen shelfs for storing cookware, spices, and dry ingredients. Keeps your kitchen organized and adds a touch of rustic charm.\n\nCan be linked to stoves to provide a small cooking speed bonus. -->
+  <Tav_KitchenShelfs.description>用于存放厨具、香料和干货的壁挂顶柜。它不仅有助于厨房保持整洁，还能赋予其质朴而不失魅力的乡野气息。\n\n提高4%工作速度。需要放置在炉灶附近。一个炉灶最多可以同时连接十个厨房顶柜。</Tav_KitchenShelfs.description>
+  
+  <!-- EN: tavern racks -->
+  <Tav_RackA.label>酒馆货架</Tav_RackA.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Tav_RackA.description>用于存放美酒、餐具等物品的酒馆货架。</Tav_RackA.description>
+  
+  <!-- EN: decorative round rug -->
+  <Tav_RugA.label>精致圆形地毯</Tav_RugA.label>
+  <!-- EN: Decorative rug with rustic pattern for floor decoration. -->
+  <Tav_RugA.description>带有乡野风格图案的精致地毯，可用于装饰地面。</Tav_RugA.description>
+  
+  <!-- EN: rustic round rug -->
+  <Tav_RugB.label>乡野圆形地毯</Tav_RugB.label>
+  <!-- EN: Simple woven rug, for decorating a floor. -->
+  <Tav_RugB.description>简易编织的地毯，可用于装饰地面。</Tav_RugB.description>
+  
+  <!-- EN: rustic large rug -->
+  <Tav_RugSquare4X2A.label>乡野大型地毯</Tav_RugSquare4X2A.label>
+  <!-- EN: Simple woven rug, for decorating a floor. -->
+  <Tav_RugSquare4X2A.description>简易编织的地毯，可用于装饰地面。</Tav_RugSquare4X2A.description>
+  
+  <!-- EN: decorative rug -->
+  <Tav_RugSquareA.label>精致地毯</Tav_RugSquareA.label>
+  <!-- EN: Decorative rug with rustic pattern for floor decoration. -->
+  <Tav_RugSquareA.description>带有乡野风格图案的精致地毯，可用于装饰地面。</Tav_RugSquareA.description>
+  
+  <!-- EN: rustic rug -->
+  <Tav_RugSquareB.label>乡野地毯</Tav_RugSquareB.label>
+  <!-- EN: Simple woven rug, for decorating a floor. -->
+  <Tav_RugSquareB.description>简易编织的地毯，可用于装饰地面。</Tav_RugSquareB.description>
+  
+  <!-- EN: soft armchair -->
+  <Tav_SoftArmchair.label>柔软扶手椅</Tav_SoftArmchair.label>
+  <!-- EN: A large, soft upholstered seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Tav_SoftArmchair.description>一个非常大、柔软且铺有软垫的椅子，很适合用来休闲放松。可以在餐桌和工作台或者别的什么附近使用。</Tav_SoftArmchair.description>
+  
+  <!-- EN: soft bed -->
+  <Tav_SoftBed.label>柔软床</Tav_SoftBed.label>
+  <!-- EN: A cozy soft upholstered mattress and sheets on a frame for resting. -->
+  <Tav_SoftBed.description>一张单人床，在框架上铺了舒适且柔软的床垫和床单用于休息。</Tav_SoftBed.description>
+  
+  <!-- EN: soft chair -->
+  <Tav_SoftChair.label>柔软餐椅</Tav_SoftChair.label>
+  <!-- EN: Soft upholstered chair. Can be used at tables, work stations, and elsewhere. -->
+  <Tav_SoftChair.description>一张柔软且铺有软垫的椅子。可以在餐桌和工作台或者别的什么附近使用。</Tav_SoftChair.description>
+  
+  <!-- EN: double soft bed -->
+  <Tav_SoftDoubleBed.label>柔软双人床</Tav_SoftDoubleBed.label>
+  <!-- EN: A cozy soft upholstered mattress and sheets on a frame that fits two people. -->
+  <Tav_SoftDoubleBed.description>一张双人床，在框架上铺了舒适且柔软的床垫和床单用于休息。适合双人。</Tav_SoftDoubleBed.description>
+  
+  <!-- EN: soft stool -->
+  <Tav_SoftStool.label>柔软凳子</Tav_SoftStool.label>
+  <!-- EN: Soft upholstered stool. Can be used at tables, work stations, and elsewhere. -->
+  <Tav_SoftStool.description>柔软且铺有软垫的凳子。可以在餐桌和工作台或者别的什么附近使用。</Tav_SoftStool.description>
+  
+  <!-- EN: sturdy stool -->
+  <Tav_StoolA.label>结实凳子</Tav_StoolA.label>
+  <!-- EN: A rough and sturdy stool. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Tav_StoolA.description>做工粗糙但结实的凳子。不怎么舒适，但总好过什么也没有。可以在餐桌和工作台或者别的什么附近使用。</Tav_StoolA.description>
+  
+  <!-- EN: straw rug -->
+  <Tav_StrawRugA.label>干草地毯</Tav_StrawRugA.label>
+  <!-- EN: A scattering of hay for floor decoration. -->
+  <Tav_StrawRugA.description>由干草杂乱铺设的地毯，可用于装饰地面。</Tav_StrawRugA.description>
+  
+  <!-- EN: tavern candle -->
+  <Tav_TableLight.label>酒馆蜡烛</Tav_TableLight.label>
+  <!-- EN: A rustic candle that casts a warm glow. Creates a cozy atmosphere. -->
+  <Tav_TableLight.description>发出光芒与暖意的乡野风格蜡烛，能为任何房间增添一丝温馨的气氛。</Tav_TableLight.description>
+  
+  <!-- EN: sturdy bench -->
+  <Tav_TavernBench.label>结实长凳</Tav_TavernBench.label>
+  <!-- EN: A rough and sturdy bench. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Tav_TavernBench.description>做工粗糙但结实的长凳。不怎么舒适，但总好过什么也没有。可以在餐桌和工作台或者别的什么附近使用。</Tav_TavernBench.description>
+  
+  <!-- EN: sturdy wardrobe -->
+  <Tav_Wardrobe.label>结实衣柜</Tav_Wardrobe.label>
+  <!-- EN: A sturdy wardrobe. Gives a small comfort bonus to all nearby beds. Placing more than one wardrobe near the same bed has no effect. -->
+  <Tav_Wardrobe.description>经过加固处理的结实衣柜。给旁边所有的床提供少量舒适度奖励。在同一个床旁放置多个衣柜不会产生叠加效果。</Tav_Wardrobe.description>
+  
+</LanguageData>

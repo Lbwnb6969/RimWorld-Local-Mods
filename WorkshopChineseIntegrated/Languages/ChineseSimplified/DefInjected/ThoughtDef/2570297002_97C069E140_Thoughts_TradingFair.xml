@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: we tried to be cheap -->
+  <VME_CheapTradingFair.stages.we_tried_to_be_cheap.label>敷衍的贸易展会</VME_CheapTradingFair.stages.we_tried_to_be_cheap.label>
+  <!-- EN: We tried to organize a trading fair without spending any money on it. It is shameful to be so cheap. -->
+  <VME_CheapTradingFair.stages.we_tried_to_be_cheap.description>我们居然试图在不花任何钱的情况下组织贸易展会。这种敷衍的行为真是令人羞愧。</VME_CheapTradingFair.stages.we_tried_to_be_cheap.description>
+  
+  <!-- EN: poorly organized trading fair -->
+  <VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.label>组织糟糕的贸易展会</VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.label>
+  <!-- EN: With such a low quality effort, no additional caravans will be attracted to our settlement... -->
+  <VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.description>那次贸易展会组织得非常糟糕！贸易展会如此差劲，没有额外的商队会想造访我们的殖民地的...</VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.description>
+  
+  <!-- EN: unexciting trading fair -->
+  <VME_UnexcitingTradingFair.stages.unexciting_trading_fair.label>枯燥乏味的贸易展会</VME_UnexcitingTradingFair.stages.unexciting_trading_fair.label>
+  <!-- EN: Some exciting transactions took place, but the majority of it was boring business talk. -->
+  <VME_UnexcitingTradingFair.stages.unexciting_trading_fair.description>那次贸易展会{0}枯燥乏味。虽然有几桩令人兴奋的买卖，但大部分都是些无聊的商业会谈。</VME_UnexcitingTradingFair.stages.unexciting_trading_fair.description>
+  
+  <!-- EN: well organized trading fair -->
+  <VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.label>组织良好的贸易展会</VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.label>
+  <!-- EN: There was a lot of back and forth and networking. -->
+  <VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.description>那次贸易展会组织得还算不错。我们在商谈期间进行了许多有来有往的交流。</VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.description>
+  
+  <!-- EN: wondrous trading fair -->
+  <VME_WondrousTradingFair.stages.wondrous_trading_fair.label>精彩绝伦的贸易展会</VME_WondrousTradingFair.stages.wondrous_trading_fair.label>
+  <!-- EN: We discussed exciting and innovative economical paradigms, and our settlement will be renowned as a center of finance learning. -->
+  <VME_WondrousTradingFair.stages.wondrous_trading_fair.description>那次贸易展会真是精彩绝伦！我们讨论了令人期待的创新经济模式，我们的殖民地将成为著名的金融示范中心。</VME_WondrousTradingFair.stages.wondrous_trading_fair.description>
+  
+</LanguageData>

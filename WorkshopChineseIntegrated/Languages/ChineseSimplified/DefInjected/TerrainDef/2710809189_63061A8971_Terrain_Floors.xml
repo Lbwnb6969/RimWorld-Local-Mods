@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_FlagstonePristineLimestone.label>古朴石灰岩石板</AM_FlagstonePristineLimestone.label>
+  
+  <AM_FlagstonePristineLimestone.description>粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。</AM_FlagstonePristineLimestone.description>
+
+  
+  <AM_JewishFineTileGranite.label>犹太风格精致地砖（花岗岩）</AM_JewishFineTileGranite.label>
+  
+  <AM_JewishFineTileGranite.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileGranite.description>
+  
+  
+  <AM_JewishFineTileLimestone.label>犹太风格精致地砖（石灰岩）</AM_JewishFineTileLimestone.label>
+  
+  <AM_JewishFineTileLimestone.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileLimestone.description>
+  
+  
+  <AM_JewishFineTileMarble.label>犹太风格精致地砖（大理石）</AM_JewishFineTileMarble.label>
+  
+  <AM_JewishFineTileMarble.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileMarble.description>
+  
+  
+  <AM_JewishFineTileSandstone.label>犹太风格精致地砖（砂岩）</AM_JewishFineTileSandstone.label>
+  
+  <AM_JewishFineTileSandstone.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileSandstone.description>
+  
+  
+  <AM_JewishFineTileSlate.label>犹太风格精致地砖（板岩）</AM_JewishFineTileSlate.label>
+  
+  <AM_JewishFineTileSlate.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileSlate.description>
+  
+  
+  <AM_JewishTileGranite.label>犹太风格地砖（花岗岩）</AM_JewishTileGranite.label>
+  
+  <AM_JewishTileGranite.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileGranite.description>
+  
+  
+  <AM_JewishTileLimestone.label>犹太风格地砖（石灰岩）</AM_JewishTileLimestone.label>
+  
+  <AM_JewishTileLimestone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileLimestone.description>
+  
+  
+  <AM_JewishTileMarble.label>犹太风格地砖（大理石）</AM_JewishTileMarble.label>
+  
+  <AM_JewishTileMarble.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileMarble.description>
+  
+  
+  <AM_JewishTileSandstone.label>犹太风格地砖（砂岩）</AM_JewishTileSandstone.label>
+  
+  <AM_JewishTileSandstone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileSandstone.description>
+  
+  
+  <AM_JewishTileSlate.label>犹太风格地砖（板岩）</AM_JewishTileSlate.label>
+  
+  <AM_JewishTileSlate.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileSlate.description>
+  
+  
+  <AM_KemeticFineTileGranite.label>埃及风格精致地砖（花岗岩）</AM_KemeticFineTileGranite.label>
+  
+  <AM_KemeticFineTileGranite.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileGranite.description>
+  
+  
+  <AM_KemeticFineTileLimestone.label>埃及风格精致地砖（石灰岩）</AM_KemeticFineTileLimestone.label>
+  
+  <AM_KemeticFineTileLimestone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileLimestone.description>
+  
+  
+  <AM_KemeticFineTileMarble.label>埃及风格精致地砖（大理石）</AM_KemeticFineTileMarble.label>
+  
+  <AM_KemeticFineTileMarble.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileMarble.description>
+  
+  
+  <AM_KemeticFineTilePristineLimestone.label>埃及风格精致地砖（古朴石灰岩）</AM_KemeticFineTilePristineLimestone.label>
+  
+  <AM_KemeticFineTilePristineLimestone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTilePristineLimestone.description>
+  
+  
+  <AM_KemeticFineTileSandstone.label>埃及风格精致地砖（砂岩）</AM_KemeticFineTileSandstone.label>
+  
+  <AM_KemeticFineTileSandstone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileSandstone.description>
+  
+  
+  <AM_KemeticFineTileSlate.label>埃及风格精致地砖（板岩）</AM_KemeticFineTileSlate.label>
+  
+  <AM_KemeticFineTileSlate.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileSlate.description>
+  
+  
+  <AM_KemeticTileGranite.label>埃及风格地砖（花岗岩）</AM_KemeticTileGranite.label>
+  
+  <AM_KemeticTileGranite.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileGranite.description>
+  
+  
+  <AM_KemeticTileLimestone.label>埃及风格地砖（石灰岩）</AM_KemeticTileLimestone.label>
+  
+  <AM_KemeticTileLimestone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileLimestone.description>
+  
+  
+  <AM_KemeticTileMarble.label>埃及风格地砖（大理石）</AM_KemeticTileMarble.label>
+  
+  <AM_KemeticTileMarble.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileMarble.description>
+  
+  
+  <AM_KemeticTilePristineLimestone.label>埃及风格地砖（古朴石灰岩）</AM_KemeticTilePristineLimestone.label>
+  
+  <AM_KemeticTilePristineLimestone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTilePristineLimestone.description>
+  
+  
+  <AM_KemeticTileSandstone.label>埃及风格地砖（砂岩）</AM_KemeticTileSandstone.label>
+  
+  <AM_KemeticTileSandstone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileSandstone.description>
+  
+  
+  <AM_KemeticTileSlate.label>埃及风格地砖（板岩）</AM_KemeticTileSlate.label>
+  
+  <AM_KemeticTileSlate.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileSlate.description>
+  
+  
+  <AM_MesoamericanFineTileGranite.label>中美洲风格精致地砖（花岗岩）</AM_MesoamericanFineTileGranite.label>
+  
+  <AM_MesoamericanFineTileGranite.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTileGranite.description>
+  
+  
+  <AM_MesoamericanFineTileLimestone.label>中美洲风格精致地砖（石灰岩）</AM_MesoamericanFineTileLimestone.label>
+  
+  <AM_MesoamericanFineTileLimestone.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTileLimestone.description>
+  
+  
+  <AM_MesoamericanFineTileMarble.label>中美洲风格精致地砖（大理石）</AM_MesoamericanFineTileMarble.label>
+  
+  <AM_MesoamericanFineTileMarble.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTileMarble.description>
+  
+  
+  <AM_MesoamericanFineTilePristineLimestone.label>中美洲风格精致地砖（古朴石灰岩）</AM_MesoamericanFineTilePristineLimestone.label>
+  
+  <AM_MesoamericanFineTilePristineLimestone.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTilePristineLimestone.description>
+  
+  
+  <AM_MesoamericanFineTileSandstone.label>中美洲风格精致地砖（砂岩）</AM_MesoamericanFineTileSandstone.label>
+  
+  <AM_MesoamericanFineTileSandstone.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTileSandstone.description>
+  
+  
+  <AM_MesoamericanFineTileSlate.label>中美洲风格精致地砖（板岩）</AM_MesoamericanFineTileSlate.label>
+  
+  <AM_MesoamericanFineTileSlate.description>中美洲风格的精美地砖，用来表现地位。铺设速度较慢。</AM_MesoamericanFineTileSlate.description>
+  
+  
+  <AM_MesoamericanTileGranite.label>中美洲风格地砖（花岗岩）</AM_MesoamericanTileGranite.label>
+  
+  <AM_MesoamericanTileGranite.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTileGranite.description>
+  
+  
+  <AM_MesoamericanTileLimestone.label>中美洲风格地砖（石灰岩）</AM_MesoamericanTileLimestone.label>
+  
+  <AM_MesoamericanTileLimestone.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTileLimestone.description>
+  
+  
+  <AM_MesoamericanTileMarble.label>中美洲风格地砖（大理石）</AM_MesoamericanTileMarble.label>
+  
+  <AM_MesoamericanTileMarble.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTileMarble.description>
+  
+  
+  <AM_MesoamericanTilePristineLimestone.label>中美洲风格地砖（古朴石灰岩）</AM_MesoamericanTilePristineLimestone.label>
+  
+  <AM_MesoamericanTilePristineLimestone.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTilePristineLimestone.description>
+  
+  
+  <AM_MesoamericanTileSandstone.label>中美洲风格地砖（砂岩）</AM_MesoamericanTileSandstone.label>
+  
+  <AM_MesoamericanTileSandstone.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTileSandstone.description>
+  
+  
+  <AM_MesoamericanTileSlate.label>中美洲风格地砖（板岩）</AM_MesoamericanTileSlate.label>
+  
+  <AM_MesoamericanTileSlate.description>仔细切割又精心贴合的中美洲风格石制地砖。看起来很漂亮，就是铺设速度较慢。</AM_MesoamericanTileSlate.description>
+
+  
+  <AM_NeolithicTileGranite.label>石器风格土石径（花岗岩）</AM_NeolithicTileGranite.label>
+  
+  <AM_NeolithicTileGranite.description>粗糙铺设的土石小径，看起来并不美观。铺设方便而且造价相当低廉，但也仅比普通的泥土地强一点。</AM_NeolithicTileGranite.description>
+  
+  
+  <AM_NeolithicTileLimestone.label>石器风格土石径（石灰岩）</AM_NeolithicTileLimestone.label>
+  
+  <AM_NeolithicTileLimestone.description>粗糙铺设的土石小径，看起来并不美观。铺设方便而且造价相当低廉，但也仅比普通的泥土地强一点。</AM_NeolithicTileLimestone.description>
+  
+  
+  <AM_NeolithicTileMarble.label>石器风格土石径（大理石）</AM_NeolithicTileMarble.label>
+  
+  <AM_NeolithicTileMarble.description>粗糙铺设的土石小径，看起来并不美观。铺设方便而且造价相当低廉，但也仅比普通的泥土地强一点。</AM_NeolithicTileMarble.description>
+  
+  
+  <AM_NeolithicTileSandstone.label>石器风格土石径（砂岩）</AM_NeolithicTileSandstone.label>
+  
+  <AM_NeolithicTileSandstone.description>粗糙铺设的土石小径，看起来并不美观。铺设方便而且造价相当低廉，但也仅比普通的泥土地强一点。</AM_NeolithicTileSandstone.description>
+  
+  
+  <AM_NeolithicTileSlate.label>石器风格土石径（板岩）</AM_NeolithicTileSlate.label>
+  
+  <AM_NeolithicTileSlate.description>粗糙铺设的土石小径，看起来并不美观。铺设方便而且造价相当低廉，但也仅比普通的泥土地强一点。</AM_NeolithicTileSlate.description>
+  
+  
+  <AM_RichFungalGravel.label>肥沃的真菌土地</AM_RichFungalGravel.label>
+  
+  <AM_RichFungalGravel.description>一种用于在地下种植真菌作物的易扩展沃土地面。它必须放置于深山地下，其潮湿阴凉的环境是真菌孢子最适宜的生长地。铺设速度比真菌沙砾更慢，但肥沃度更高。</AM_RichFungalGravel.description>
+  
+  
+  <AM_SteampunkTileGranite.label>蒸汽朋克风格地砖（花岗岩）</AM_SteampunkTileGranite.label>
+  
+  <AM_SteampunkTileGranite.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileGranite.description>
+  
+  
+  <AM_SteampunkTileLimestone.label>蒸汽朋克风格地砖（石灰岩）</AM_SteampunkTileLimestone.label>
+  
+  <AM_SteampunkTileLimestone.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileLimestone.description>
+  
+  
+  <AM_SteampunkTileMarble.label>蒸汽朋克风格地砖（大理石）</AM_SteampunkTileMarble.label>
+  
+  <AM_SteampunkTileMarble.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileMarble.description>
+  
+  
+  <AM_SteampunkTileSandstone.label>蒸汽朋克风格地砖（砂岩）</AM_SteampunkTileSandstone.label>
+  
+  <AM_SteampunkTileSandstone.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileSandstone.description>
+  
+  
+  <AM_SteampunkTileSlate.label>蒸汽朋克风格地砖（板岩）</AM_SteampunkTileSlate.label>
+  
+  <AM_SteampunkTileSlate.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileSlate.description>
+
+  
+  <AM_Tile_Futuristic_Kemetic.label>未来埃及风格地砖</AM_Tile_Futuristic_Kemetic.label>
+  
+  <AM_Tile_Futuristic_Kemetic.description>六角形图案的精致钢板，具有极致科技的埃及外观风格。</AM_Tile_Futuristic_Kemetic.description>
+
+  
+  <AM_Tile_MorbidMarble.label>异目风格精致地砖（大理石）</AM_Tile_MorbidMarble.label>
+  
+  <AM_Tile_MorbidMarble.description>异目风格的精致地砖。</AM_Tile_MorbidMarble.description>
+  
+  
+  <AM_Tile_OcularGranite.label>异目风格精致地砖（花岗岩）</AM_Tile_OcularGranite.label>
+  
+  <AM_Tile_OcularGranite.description>异目风格的精致地砖。</AM_Tile_OcularGranite.description>
+  
+  
+  <AM_Tile_OcularLimestone.label>异目风格精致地砖（石灰岩）</AM_Tile_OcularLimestone.label>
+  
+  <AM_Tile_OcularLimestone.description>异目风格的精致地砖。</AM_Tile_OcularLimestone.description>
+  
+  
+  <AM_Tile_OcularSandstone.label>异目风格精致地砖（砂岩）</AM_Tile_OcularSandstone.label>
+  
+  <AM_Tile_OcularSandstone.description>异目风格的精致地砖。</AM_Tile_OcularSandstone.description>
+  
+  
+  <AM_Tile_OcularSlate.label>异目风格精致地砖（板岩）</AM_Tile_OcularSlate.label>
+  
+  <AM_Tile_OcularSlate.description>异目风格的精致地砖。</AM_Tile_OcularSlate.description>
+
+  
+  <AM_Tile_Scavenger.label>已修复的锈蚀地砖</AM_Tile_Scavenger.label>
+  
+  <AM_Tile_Scavenger.description>从断壁残垣中找到并修复过的锈蚀钢铁地砖，看起来仍具有一定美观度。</AM_Tile_Scavenger.description>
+  
+  
+  <AM_Tile_Scavenger_Clean.label>已修复的地砖</AM_Tile_Scavenger_Clean.label>
+  
+  <AM_Tile_Scavenger_Clean.description>从断壁残垣中找到并修复过的钢铁地砖，看起来仍具有一定美观度。</AM_Tile_Scavenger_Clean.description>
+  
+  
+  <AM_TilePristineLimestone.label>古朴石灰岩地砖</AM_TilePristineLimestone.label>
+  
+  <AM_TilePristineLimestone.description>坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。</AM_TilePristineLimestone.description>
+
+  <AM_FinestonePristineLimestone.label>精致古朴石灰岩地砖</AM_FinestonePristineLimestone.label>
+  <AM_FinestonePristineLimestone.description>精美的石砖，毫不妥协地制作，用来表现地位。施工缓慢。</AM_FinestonePristineLimestone.description>
+
+</LanguageData>

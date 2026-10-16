@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>buildingName->[descriptor] [category]</li>
+    <li>buildingName->[category] of [specialDetail]</li>
+    <li>descriptor->Opulent</li>
+    <li>descriptor->Lavish</li>
+    <li>descriptor->Extravagant</li>
+    <li>descriptor->Ceremonial</li>
+    <li>descriptor->Majestic</li>
+    <li>category->Banquet Hall</li>
+    <li>category->Dining Pavilion</li>
+    <li>category->Feasting Chamber</li>
+    <li>category->Celebration Hall</li>
+    <li>category->Revelry Table</li>
+    <li>specialDetail->Boundless Plenty</li>
+    <li>specialDetail->Eternal Celebration</li>
+    <li>specialDetail->Glorious Unity</li>
+    <li>specialDetail->the Harvest’s Bounty</li>
+    <li>specialDetail->Unending Prosperity</li>
+    <li>specialDetail->the Feast of Ages</li>
+  -->
+  <AM_BanquetNamer.rulePack.rulesStrings>
+    <li>buildingName->[descriptor][category]</li>
+    <li>buildingName->[specialDetail][category]</li>
+    <li>descriptor->奢华</li>
+    <li>descriptor->奢侈</li>
+    <li>descriptor->奢靡</li>
+    <li>descriptor->仪礼</li>
+    <li>descriptor->宏伟</li>
+    <li>category->盛宴</li>
+    <li>category->珍馐桌</li>
+    <li>category->筵席</li>
+    <li>category->宴会</li>
+    <li>category->狂欢桌</li>
+    <li>specialDetail->无尽富足</li>
+    <li>specialDetail->永恒庆典</li>
+    <li>specialDetail->荣耀团结</li>
+    <li>specialDetail->丰获硕果</li>
+    <li>specialDetail->繁荣不息</li>
+    <li>specialDetail->节庆纪元</li>
+  </AM_BanquetNamer.rulePack.rulesStrings>
+  
+</LanguageData>

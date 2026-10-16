@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: conversion ritual (leader) -->
+  <VME_LeaderConversion.label>转化仪式（领袖）</VME_LeaderConversion.label>
+  <!-- EN: The leader tries to persuade someone into joining your ideoligion. -->
+  <VME_LeaderConversion.description>领袖会试图说服别人加入你们的文化形态。</VME_LeaderConversion.description>
+  
+</LanguageData>

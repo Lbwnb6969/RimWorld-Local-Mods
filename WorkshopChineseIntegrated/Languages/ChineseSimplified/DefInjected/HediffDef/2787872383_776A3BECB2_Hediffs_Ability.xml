@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centurion armor -->
+  <VFEC_CenturionArmor.label>百夫长军团甲</VFEC_CenturionArmor.label>
+  <!-- EN: The prescence of centurion armor encourages nearby allied fighters to fight through pain. -->
+  <VFEC_CenturionArmor.description>身着百夫长军团甲的身影会激励周围的战士克服痛苦。</VFEC_CenturionArmor.description>
+  
+  <!-- EN: centurion armor buff -->
+  <VFEC_CenturionArmorBuff.label>被百夫长军团甲所激励</VFEC_CenturionArmorBuff.label>
+  <!-- EN: The ability to withstand pain is increased thanks to being near someone wearing centurion armor. -->
+  <VFEC_CenturionArmorBuff.description>周围有人穿着百夫长军团甲，提升了此人承受痛苦的能力。</VFEC_CenturionArmorBuff.description>
+  
+</LanguageData>

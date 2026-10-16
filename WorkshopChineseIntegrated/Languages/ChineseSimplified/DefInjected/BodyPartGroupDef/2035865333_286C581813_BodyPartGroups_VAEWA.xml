@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mouth -->
+  <VAEWaste_Mouth.label>口器</VAEWaste_Mouth.label>
+  
+  <!-- EN: pincer -->
+  <VAEWaste_PincerAttackTool.label>螯钳</VAEWaste_PincerAttackTool.label>
+  
+  <!-- EN: stinger -->
+  <VAEWaste_Sting.label>螫刺</VAEWaste_Sting.label>
+  
+</LanguageData>

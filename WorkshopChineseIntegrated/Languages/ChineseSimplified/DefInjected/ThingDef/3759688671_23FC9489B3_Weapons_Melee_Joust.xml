@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lance de joute -->
+  <RimJoust_JoustingLance.label>比武长枪</RimJoust_JoustingLance.label>
+  <!-- EN: Longue lance de tournoi avec un embout coronal émoussé au bout. Faite pour désarçonner l'adversaire, pas pour le tuer. Quand un chevalier tombe de cheval, sa lance se brise dans la chute. -->
+  <RimJoust_JoustingLance.description>带有钝头冠状枪尖的锦标赛长枪。用于将对手掀下马，而非杀死对方。当骑士落马时，他的长枪会在坠落中折断。</RimJoust_JoustingLance.description>
+  <!-- EN: manche -->
+  <RimJoust_JoustingLance.tools.manche.label>枪柄</RimJoust_JoustingLance.tools.manche.label>
+  <!-- EN: coronal -->
+  <RimJoust_JoustingLance.tools.coronal.label>钝头枪尖</RimJoust_JoustingLance.tools.coronal.label>
+  
+  <!-- EN: masse de tournoi -->
+  <RimJoust_TourneyMace.label>比武钉头锤</RimJoust_TourneyMace.label>
+  <!-- EN: Une masse de mêlée générale au bout arrondi, faite pour assommer et désarmer plutôt que tuer. Distribuée à tous les combattants au début d'une mêlée, et récupérée à la fin. Personne ne veut vraiment savoir ce qui arriverait avec de vraies épées. -->
+  <RimJoust_TourneyMace.description>一种大混战用的圆头锤，用于击晕和解除武装，而非杀死对方。大混战开始时发放给所有战士，结束时收回。没人真的想知道如果换成真家伙会发生什么。</RimJoust_TourneyMace.description>
+  <!-- EN: manche -->
+  <RimJoust_TourneyMace.tools.manche.label>锤柄</RimJoust_TourneyMace.tools.manche.label>
+  <!-- EN: tête -->
+  <RimJoust_TourneyMace.tools.tte.label>锤头</RimJoust_TourneyMace.tools.tte.label>
+  
+</LanguageData>

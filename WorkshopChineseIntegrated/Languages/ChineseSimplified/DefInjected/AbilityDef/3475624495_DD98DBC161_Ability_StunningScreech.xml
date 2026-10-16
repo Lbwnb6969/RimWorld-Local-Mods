@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stunning screech -->
+  <DA_StunningScreech.label>眩晕尖啸</DA_StunningScreech.label>
+  <!-- EN: Release a piercing screech which stuns nearby hostile humans and animals. -->
+  <DA_StunningScreech.description>发出足以眩晕附近敌人和动物的尖啸声。</DA_StunningScreech.description>
+  
+</LanguageData>

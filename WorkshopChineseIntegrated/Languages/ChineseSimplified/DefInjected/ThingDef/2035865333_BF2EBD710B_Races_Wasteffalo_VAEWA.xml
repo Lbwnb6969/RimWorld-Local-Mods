@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wasteffalo -->
+  <VAEWaste_Wasteffalo.label>废土雪牛</VAEWaste_Wasteffalo.label>
+  <!-- EN: A large, mutated, herding herbivore descended from buffalo and adapted for high-toxicity environment. While enraged wastefallo are deadly, they can be tamed and even serve as pack animals.\n\nThe mutated secondary head makes them much more deadly, as with 2 sets of eyes and two gigantic jaws they are more than capable of defending themselves from any predators willing to hunt them.\n\nDue to the genetic instability, wastefallo rarely live long enough to be viable farm animals. Their meat is also known to be highly toxic. -->
+  <VAEWaste_Wasteffalo.description>已对污染和毒素产生抗性的突变生物。虽说这些大家伙是草食性动物，但性格可不怎么温和。一旦发起狂来，其威胁度丝毫不逊于食肉的猛兽。不过，对那些居住在受污染地区的人们来说，废土雪牛是相当出色的驮运动物。\n\n由于基因产生突变，废土雪牛长有两颗头（也就是两对眼睛和两个巨大有力的下颌），这使它们完全有能力保护自己免受其他捕食者的袭击。\n\n废土雪牛的肉有毒，请三思而后食。</VAEWaste_Wasteffalo.description>
+  <!-- EN: head -->
+  <VAEWaste_Wasteffalo.tools.head.label>头</VAEWaste_Wasteffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <VAEWaste_Wasteffalo.tools.left_hoof.label>左蹄</VAEWaste_Wasteffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <VAEWaste_Wasteffalo.tools.right_hoof.label>右蹄</VAEWaste_Wasteffalo.tools.right_hoof.label>
+  
+</LanguageData>

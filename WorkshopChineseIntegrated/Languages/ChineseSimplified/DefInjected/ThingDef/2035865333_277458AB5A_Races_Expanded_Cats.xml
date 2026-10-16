@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abyssinian cat -->
+  <AEXP_CatAbyssinian.label>阿比西尼亚猫</AEXP_CatAbyssinian.label>
+  <!-- EN: A slender, fine-boned, medium sized shrubland cat. -->
+  <AEXP_CatAbyssinian.description>传说阿比西尼亚猫是古埃及被崇拜为“神圣之物”的古埃及猫的后裔。由于它们的整体外形、毛色、直立耳均同非洲山猫接近，亦有人认为它们源于非洲山猫。\n\n阿比西尼亚猫身躯柔软灵活，有着楔形的脸蛋、大而尖的耳朵、呈杏仁状的双眼，眼睛的颜色为琥珀色、浅褐色或是绿色，眼睛的周围并有一圈深色的色环，像是画了眼线一般。</AEXP_CatAbyssinian.description>
+  <!-- EN: left claw -->
+  <AEXP_CatAbyssinian.tools.left_claw.label>左爪</AEXP_CatAbyssinian.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatAbyssinian.tools.right_claw.label>右爪</AEXP_CatAbyssinian.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatAbyssinian.tools.head.label>头</AEXP_CatAbyssinian.tools.head.label>
+  
+  <!-- EN: bengal cat -->
+  <AEXP_CatBengal.label>孟加拉豹猫</AEXP_CatBengal.label>
+  <!-- EN: A domesticated hybrid of a domestic cat and tropical leopard. -->
+  <AEXP_CatBengal.description>孟加拉豹猫是一种很独特的猫种。它们的祖先是亚洲豹纹猫和埃及家猫的混种猫。\n\n突出的口鼻与宽大而接近圆形的眼睛、有点小的头部使它们有着狂野的外表。它们凹曲线的侧面轮廓是平滑而接近直线的，相对短的耳朵有着宽的耳根与圆的耳尖更增加了这种猫的独特性。\n\n它们短而稠密的披毛有着独特的柔软与丝绸般的触感。它们的披毛可能有光毛也可能没有，不管有没有都是相当美的。粗厚、低垂、中等至长的尾巴更增加了它们的平衡感与美感。</AEXP_CatBengal.description>
+  <!-- EN: left claw -->
+  <AEXP_CatBengal.tools.left_claw.label>左爪</AEXP_CatBengal.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatBengal.tools.right_claw.label>右爪</AEXP_CatBengal.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatBengal.tools.head.label>头</AEXP_CatBengal.tools.head.label>
+  
+  <!-- EN: british shorthair cat -->
+  <AEXP_CatBritishShorthair.label>英国短毛猫</AEXP_CatBritishShorthair.label>
+  <!-- EN: A pedigreed version of a regular british cat, with a distinctively chunky body, dense coat and a very broad face. While being relatively powerful-looking due to the large chest and massive paws, these cats are absolutely harmless. -->
+  <AEXP_CatBritishShorthair.description>英国短毛猫，体形圆胖，四肢粗短发达，毛短而密，头大脸圆，温柔平静，对人友善，极易饲养。大而圆的眼睛根据被毛不同而呈现各种颜色。\n\n作为一个古老的猫品种，其历史可追溯至古罗马时期的家猫。英国短毛猫除了拥有固定而聚，代表性的遗传特征之外，又具有丰富的变异性，如背毛色眼睛颜色等。</AEXP_CatBritishShorthair.description>
+  <!-- EN: left claw -->
+  <AEXP_CatBritishShorthair.tools.left_claw.label>左爪</AEXP_CatBritishShorthair.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatBritishShorthair.tools.right_claw.label>右爪</AEXP_CatBritishShorthair.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatBritishShorthair.tools.head.label>头</AEXP_CatBritishShorthair.tools.head.label>
+  
+  <!-- EN: maine coon -->
+  <AEXP_CatMaineCoon.label>缅因猫</AEXP_CatMaineCoon.label>
+  <!-- EN: A largest domesticated cat, it has a distinctive physical appearance and valuable hunting skills. It's a large and sociable cat, hence it has been given a nickname "the gentle giant." -->
+  <AEXP_CatMaineCoon.description>缅因猫因原产于古地球美国缅因州而得名，是北美自然产生的第一个大型长毛猫品种。体格强壮，捕鼠技巧精湛，能忍受恶劣的天气。\n\n它们最特别的是以拥有一身顺滑，而浓密的披毛，光滑有层次，底层的绒毛细软，背部和腿部的毛长而浓密，尾部的毛像羽毛一样散开。颈部有毛领圈。\n\n另一不同寻常的特点是它们能发出像小鸟般唧唧的轻叫声，非常动听。</AEXP_CatMaineCoon.description>
+  <!-- EN: left claw -->
+  <AEXP_CatMaineCoon.tools.left_claw.label>左爪</AEXP_CatMaineCoon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatMaineCoon.tools.right_claw.label>右爪</AEXP_CatMaineCoon.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatMaineCoon.tools.head.label>头</AEXP_CatMaineCoon.tools.head.label>
+  
+  <!-- EN: munchkin cat -->
+  <AEXP_CatMunchkin.label>曼切堪猫</AEXP_CatMunchkin.label>
+  <!-- EN: Also known as a sausage cat, this new cat breed has distinctively short legs. Sweet natured, playful and people-oriented, these cats are perfect companions for people with lazy lifestyle. -->
+  <AEXP_CatMunchkin.description>曼切堪猫中等身形，身体略长。有一双特有的短脚，这是由家猫常染色体的显性基因而得来的。\n\n曼切堪猫性格友善、聪明，很快便能学会一些小把戏，终生都保留着小猫的天真活泼的特性。</AEXP_CatMunchkin.description>
+  <!-- EN: left claw -->
+  <AEXP_CatMunchkin.tools.left_claw.label>左爪</AEXP_CatMunchkin.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatMunchkin.tools.right_claw.label>右爪</AEXP_CatMunchkin.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatMunchkin.tools.head.label>头</AEXP_CatMunchkin.tools.head.label>
+  
+  <!-- EN: norwegian forest cat -->
+  <AEXP_CatNorwegianForest.label>挪威森林猫</AEXP_CatNorwegianForest.label>
+  <!-- EN: A cat adapted for very cold climates due to the top coat of glossy, water-shedding hair. -->
+  <AEXP_CatNorwegianForest.description>挪威森林猫常常以像妖精的猫出现在古地球北欧的神话之中。\n\n挪威森林猫生长的环境非常寒冷和恶劣，因此它们长有比其他猫更厚密的被毛和强壮的体格，奔跑速度极快，不怕日晒雨淋，行走时颈毛和尾毛飘逸，非常美丽。</AEXP_CatNorwegianForest.description>
+  <!-- EN: left claw -->
+  <AEXP_CatNorwegianForest.tools.left_claw.label>左爪</AEXP_CatNorwegianForest.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatNorwegianForest.tools.right_claw.label>右爪</AEXP_CatNorwegianForest.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatNorwegianForest.tools.head.label>头</AEXP_CatNorwegianForest.tools.head.label>
+  
+  <!-- EN: persian cat -->
+  <AEXP_CatPersian.label>波斯猫</AEXP_CatPersian.label>
+  <!-- EN: A long haired cat originating from desert wildcats, Persian cats are regal, intelligent and agile, which makes them excellent for hunting small rodents and birds. -->
+  <AEXP_CatPersian.description>波斯猫是以古地球阿富汗的土种长毛猫和土耳其的安哥拉长毛猫为基础，在英国经过100多年的选种繁殖，于1860年诞生的一个品种。\n长毛，圆胖型。中型到大型都有。骨骼粗壮，肌肉发达。四肢短而直，脚掌大呈短圆形。尾巴短与身材对称，毛膨松而长，非常高贵有气派。头大而圆，额、鼻、颚都是平平的。鼻子很短，鼻梁宽。全身满是像丝一般柔软和有光泽的膨松的毛。\n波斯猫一向给人一副高贵傲慢的气质，可爱的脸和表情，膨松的尾巴都是自古以来受欢迎的特征。性格温驯，乖巧，斯文，波斯猫的反应是非常快和热烈，所以深得饲主疼爱。</AEXP_CatPersian.description>
+  <!-- EN: left claw -->
+  <AEXP_CatPersian.tools.left_claw.label>左爪</AEXP_CatPersian.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatPersian.tools.right_claw.label>右爪</AEXP_CatPersian.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatPersian.tools.head.label>头</AEXP_CatPersian.tools.head.label>
+  
+  <!-- EN: siamese cat -->
+  <AEXP_CatSiamese.label>暹罗猫</AEXP_CatSiamese.label>
+  <!-- EN: A cat with distinctively triangular head, blue eyes and long and muscular body, renowned for it's social nature. -->
+  <AEXP_CatSiamese.description>暹罗猫体型中等，修长苗条。骨胳纤细，肌肉结实。颈长，体长，尾细长。从肩至臀部呈圆筒状。\n\n暹罗猫能够较好适应主人当地的气候，且性格刚烈好动，机智灵活，好奇心特强，善解人意。暹罗猫喜欢与人为伴，可用皮带拴着散步。它们需要主人的不断爱抚和关心，对主人忠心耿耿、感情深厚，如果强制与主人分开，则可能会抑郁而死。暹罗猫还十分聪明，能很快学会翻筋斗叼回抛物等技巧。暹罗猫的叫声独特或像小孩的啼哭声，而且声音很大。</AEXP_CatSiamese.description>
+  <!-- EN: left claw -->
+  <AEXP_CatSiamese.tools.left_claw.label>左爪</AEXP_CatSiamese.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatSiamese.tools.right_claw.label>右爪</AEXP_CatSiamese.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatSiamese.tools.head.label>头</AEXP_CatSiamese.tools.head.label>
+  
+  <!-- EN: somali cat -->
+  <AEXP_CatSomali.label>索马里猫</AEXP_CatSomali.label>
+  <!-- EN: A shrubland cat, sharing the same family as the Abyssinian cat. It has a bushy tail and almond shaped eyes. -->
+  <AEXP_CatSomali.description>索马里猫十分聪明、性格温和，善解人意。可以像猴子般横行，而抓食物或东西的方式也像猴子一样。大部份的索马利猫都懂得开水龙头，因为它们都喜欢玩水。\n它们那蹦紧的肌肉和严肃的脸给人一种非常野性的感觉，它们的运动神经极为发达，因而动作敏捷，喜欢自由活动，叫声也特别的清澈响亮，因而不适合养在公寓里。</AEXP_CatSomali.description>
+  <!-- EN: left claw -->
+  <AEXP_CatSomali.tools.left_claw.label>左爪</AEXP_CatSomali.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatSomali.tools.right_claw.label>右爪</AEXP_CatSomali.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatSomali.tools.head.label>头</AEXP_CatSomali.tools.head.label>
+  
+  <!-- EN: sphynx cat -->
+  <AEXP_CatSphynx.label>斯芬克斯猫</AEXP_CatSphynx.label>
+  <!-- EN: A cat known for it's lack of fur, developed due to selective breeding. Being warm to the touch, they lose body temperature easily which makes it seek out heat sources. -->
+  <AEXP_CatSphynx.description>加拿大无毛猫亦称斯芬克斯猫，是古地球多伦多市养猫爱好者在1966年从一窝几乎是无毛的猫仔中，经过近交选育，特意为对猫毛过敏的爱猫者培育成的。\n\n这种猫是自然的基因突变产生的宠物猫，除了在耳、口、鼻、尾前段、脚等部位有些又薄又软的胎毛外，其他全身部分均无毛，皮肤多皱有弹性。\n\n加拿大无毛猫性情温顺，独立性强，无攻击性，能与其他猫狗相处。</AEXP_CatSphynx.description>
+  <!-- EN: left claw -->
+  <AEXP_CatSphynx.tools.left_claw.label>左爪</AEXP_CatSphynx.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_CatSphynx.tools.right_claw.label>右爪</AEXP_CatSphynx.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_CatSphynx.tools.head.label>头</AEXP_CatSphynx.tools.head.label>
+  
+</LanguageData>

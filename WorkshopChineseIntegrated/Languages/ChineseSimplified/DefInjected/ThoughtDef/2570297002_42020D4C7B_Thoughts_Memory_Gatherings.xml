@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attended superb party -->
+  <VME_AttendedParty.stages.attended_superb_party.label>参加豪华聚会</VME_AttendedParty.stages.attended_superb_party.label>
+  <!-- EN: I had a good time at that party. -->
+  <VME_AttendedParty.stages.attended_superb_party.description>我在聚会中玩得很愉快。</VME_AttendedParty.stages.attended_superb_party.description>
+  
+  <!-- EN: compliant -->
+  <VME_EnforcedCompliance.stages.compliant.label>服从</VME_EnforcedCompliance.stages.compliant.label>
+  <!-- EN: Someone was executed for the lack of compliance. I need to be positive. I NEED TO. -->
+  <VME_EnforcedCompliance.stages.compliant.description>有人因不服从命令而被处决了。我应该...我应该乐观一些。</VME_EnforcedCompliance.stages.compliant.description>
+  
+</LanguageData>

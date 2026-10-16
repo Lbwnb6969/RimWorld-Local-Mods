@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN：Snapping tadpole bite -->
+<DA_TadpoleBite.letterLabel>咬咬蝌蚪</DA_TadpoleBite.letterLabel>
+<DA_TadpoleBite.letterText>当{PAWN_possessive}试图收网时，竟然被咬咬蝌蚪咬伤了！
+在混乱中，猎物逃脱了。</DA_TadpoleBite.letterText>
+
+<!-- EN：Froglet Attack -->
+<DA_FrogletAttack.letterLabel>幼蛙袭击</DA_FrogletAttack.letterLabel>
+<DA_FrogletAttack.letterText>经过与疑似鱼类的激烈搏斗，{PAWN_nameDef}在收线时直面了一只暴怒的巨噬蟾蜍幼体！
+该生物已进入狂暴状态，将会持续追击殖民地成员直至力竭。</DA_FrogletAttack.letterText>
+</LanguageData>

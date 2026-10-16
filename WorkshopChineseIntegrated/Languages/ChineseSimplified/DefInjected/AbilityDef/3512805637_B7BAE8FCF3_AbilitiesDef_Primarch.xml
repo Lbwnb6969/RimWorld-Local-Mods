@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Word of Divination -->
+  <BEWH_LorgarWordOfDivination.label>神启箴言</BEWH_LorgarWordOfDivination.label>
+  <!-- EN: By speaking the words of your Lecticio Divinitatus you're able to open your targets mind to the truth of your belief. -->
+  <BEWH_LorgarWordOfDivination.description>通过诵念《圣言录》真言，你可以使目标的心智为你敞开，使其转为信仰你的文化。</BEWH_LorgarWordOfDivination.description>
+  
+  <BEWH_TwinLink.label>建立连接</BEWH_TwinLink.label>
+  <BEWH_TwinLink.description>用于和你的另一位双胞胎原体兄弟建立连接。（死亡不会移除该连接）</BEWH_TwinLink.description>
+</LanguageData>

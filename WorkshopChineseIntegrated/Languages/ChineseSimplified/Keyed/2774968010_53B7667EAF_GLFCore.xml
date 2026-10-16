@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: There are new versions available for some landforms that you previously modified. Would you like to use the new versions, or keep the old modified ones?\n\nAffected landforms: -->
+  <GeologicalLandforms.LandformManager.LandformUpgrade>你曾编辑更改过的某些地图元素现在有了新的版本。你是想要加载新的，还是保留旧有的？\n\n受到影响的地图元素：</GeologicalLandforms.LandformManager.LandformUpgrade>
+  <!-- EN: Replace with new data -->
+  <GeologicalLandforms.LandformManager.LandformUpgradeYes>用新的数据覆盖</GeologicalLandforms.LandformManager.LandformUpgradeYes>
+  <!-- EN: Keep old data -->
+  <GeologicalLandforms.LandformManager.LandformUpgradeNo>保留旧有的数据</GeologicalLandforms.LandformManager.LandformUpgradeNo>
+  
+  <!-- EN: Landform -->
+  <GeologicalLandforms.WorldMap.Landform>地图元素</GeologicalLandforms.WorldMap.Landform>
+  <!-- EN: Bordering biomes -->
+  <GeologicalLandforms.WorldMap.BorderingBiomes>毗邻的生态</GeologicalLandforms.WorldMap.BorderingBiomes>
+  <!-- EN: Select landform -->
+  <GeologicalLandforms.WorldMap.SelectLandform>选择地图元素</GeologicalLandforms.WorldMap.SelectLandform>
+  
+  <!-- EN: northern -->
+  <GeologicalLandforms.Rot4.0>北部有</GeologicalLandforms.Rot4.0>
+  <!-- EN: eastern -->
+  <GeologicalLandforms.Rot4.1>东部有</GeologicalLandforms.Rot4.1>
+  <!-- EN: southern -->
+  <GeologicalLandforms.Rot4.2>南部有</GeologicalLandforms.Rot4.2>
+  <!-- EN: western -->
+  <GeologicalLandforms.Rot4.3>西部有</GeologicalLandforms.Rot4.3>
+  <!-- EN: northeastern -->
+  <GeologicalLandforms.Rot4.Double.0>东北部有</GeologicalLandforms.Rot4.Double.0>
+  <!-- EN: southeastern -->
+  <GeologicalLandforms.Rot4.Double.1>东南部有</GeologicalLandforms.Rot4.Double.1>
+  <!-- EN: southwestern -->
+  <GeologicalLandforms.Rot4.Double.2>西南部有</GeologicalLandforms.Rot4.Double.2>
+  <!-- EN: northwestern -->
+  <GeologicalLandforms.Rot4.Double.3>西北部有</GeologicalLandforms.Rot4.Double.3>
+  
+  <!-- EN: (corner) -->
+  <GeologicalLandforms.Landform.Corner>（边角）</GeologicalLandforms.Landform.Corner>
+  
+  <!-- EN: Geological Landforms -->
+  <GeologicalLandforms.Integration.PrepareLanding.Title>Geological Landforms</GeologicalLandforms.Integration.PrepareLanding.Title>
+
+  <!-- EN: Override rivers and coasts from Geological Landforms -->
+  <GeologicalLandforms.Integration.MapDesigner.RiverCardOverride>用Geological Landforms的设置覆盖河流和海岸</GeologicalLandforms.Integration.MapDesigner.RiverCardOverride>
+
+</LanguageData>

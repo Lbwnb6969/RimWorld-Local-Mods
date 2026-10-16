@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DV_Gun_PrecisionLongrifle.label>精密长枪</DV_Gun_PrecisionLongrifle.label>
+  <DV_Gun_PrecisionLongrifle.description>先进的远程狙击步枪。大口径，高速度的子弹飞向目标的速度极快。远距离瞄准镜只适合有远视基因的人使用，还允许持枪者在极远距离射击。\n\n由于武器的体积和重量，它瞄准速度很慢并且装备后很难移动。\n\n毒鬼赏金猎人和刺客都使用长枪。在他们手中，每一枪都能命中目标。如果你听到枪声，你就不是目标。</DV_Gun_PrecisionLongrifle.description>
+  <tools.0.label>枪托</tools.0.label>
+  <tools.1.label>枪管</tools.1.label>
+  <Bullet_Longrifle.label>长枪子弹</Bullet_Longrifle.label>
+  <DV_Apparel_HunterVisage.label>猎人假面</DV_Apparel_HunterVisage.label>
+  <DV_Apparel_HunterVisage.description>先进的钢制面具配备了微弱的毒素过滤器和先进的热感应器，使佩戴者能够更加隐秘地跟踪猎物。\n\n这种头饰与骄傲和力量有关，它能让佩戴者更加自信，通常是毒鬼种在举行仪式时佩戴的。</DV_Apparel_HunterVisage.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: forge gold from goldwool -->
+  <DA_SmeltGoldwool.label>用金羊毛锻造金子</DA_SmeltGoldwool.label>
+  <!-- EN: Forge gold by smelting goldwool. -->
+  <DA_SmeltGoldwool.description>融化金羊毛以锻造金子。</DA_SmeltGoldwool.description>
+  <!-- EN: Forging gold from goldwool. -->
+  <DA_SmeltGoldwool.jobString>用金羊毛锻造金子。</DA_SmeltGoldwool.jobString>
+  
+  <!-- EN: forge gold from goldwool x50 -->
+  <DA_SmeltGoldwoolBulk.label>用金羊毛锻造金子 x50</DA_SmeltGoldwoolBulk.label>
+  <!-- EN: Forge gold by smelting goldwool. -->
+  <DA_SmeltGoldwoolBulk.description>融化金羊毛以锻造金子。</DA_SmeltGoldwoolBulk.description>
+  <!-- EN: Forging gold from goldwool. -->
+  <DA_SmeltGoldwoolBulk.jobString>用金羊毛锻造金子。</DA_SmeltGoldwoolBulk.jobString>
+  
+</LanguageData>

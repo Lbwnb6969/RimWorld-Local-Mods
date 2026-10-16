@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->jarl</li>
+  -->
+  <VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->酋长</li>
+  </VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->king</li>
+  -->
+  <VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->国王</li>
+  </VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->guildmaster</li>
+  -->
+  <VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->公会长</li>
+  </VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.35)->[PlaceOutlander]</li>
+    <li>r_name->the [political_union_medieval] of [PlaceOutlander]</li>
+    <li>r_name->[PlaceOutlander] [political_union_medieval]</li>
+  -->
+  <VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+    <li>r_name(p=0.35)->[PlaceOutlander]</li>
+    <li>r_name->[PlaceOutlander][political_union_medieval]</li>
+    <li>r_name->[PlaceOutlander][political_union_medieval]</li>
+  </VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->The [AnimalNordic] Clan</li>
+    <li>r_name->The [Color] [AnimalNordic] Clan</li>
+    <li>r_name->[NorseNames]'s Clan</li>
+  -->
+  <VFEM2_NamerFactionViking.rulePack.rulesStrings>
+    <li>r_name->[AnimalNordic]氏族</li>
+    <li>r_name->[Color][AnimalNordic]氏族</li>
+    <li>r_name->[NorseNames]氏族</li>
+  </VFEM2_NamerFactionViking.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=2)->[Medieval_First_Male] [Medieval_Last]</li>
+  -->
+  <VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Medieval_First_Male] [Medieval_Last]</li>
+  </VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=2)->[Medieval_First_Female] [Medieval_Last]</li>
+  -->
+  <VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Medieval_First_Female] [Medieval_Last]</li>
+  </VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=2)->[NorseNames] [NorseNames]son</li>
+    <li>r_name->[NorseNames] [NorseNames]berg</li>
+    <li>r_name->[NorseNames] '[AnimalBadass]slayer' [NorseNames]son</li>
+    <li>r_name->[NorseNames] '[Color] [Animal]' [NorseNames]son</li>
+    <li>r_name->[NorseNames] [NorseNames]-son</li>
+    <li>r_name->[NorseNames] '[NorseNames]son' of [Animal] clan</li>
+  -->
+  <VFEM2_NamerPersonViking.rulePack.rulesStrings>
+    <li>r_name(p=2)->[NorseNames] [NorseNames]森</li>
+    <li>r_name->[NorseNames] [NorseNames]贝格</li>
+    <li>r_name->[NorseNames] '屠[AnimalBadass]者' [NorseNames]之子</li>
+    <li>r_name->[NorseNames] '[Color][Animal]' [NorseNames]之子</li>
+    <li>r_name->[NorseNames] [NorseNames]之子</li>
+    <li>r_name->[NorseNames] [Animal]氏族的[NorseNames]之子</li>
+  </VFEM2_NamerPersonViking.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=4)->[PlaceOutlander] [medievalSettlementEnd]</li>
+    <li>r_name->[AnimalBadass]'s [medievalSettlementEnd]-on-the-[TerrainFeature]</li>
+    <li>r_name->[AnimalBadass]'s [medievalSettlementEnd]-by-the-[TerrainFeature]</li>
+  -->
+  <VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+    <li>r_name(p=4)->[PlaceOutlander][medievalSettlementEnd]</li>
+    <li>r_name->[AnimalBadass][TerrainFeature][medievalSettlementEnd]</li>
+    <li>r_name->[AnimalBadass][TerrainFeature][medievalSettlementEnd]</li>
+  </VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->vast</li>
+    <li>townendevil->varg</li>
+    <li>townendevil->vix</li>
+    <li>townendevil->tor</li>
+    <li>townendevil->tear</li>
+    <li>townendevil->cut</li>
+    <li>townendevil->lop</li>
+    <li>townendevil->oze</li>
+    <li>townendevil->ozzle</li>
+    <li>townendevil->latch</li>
+    <li>townendevil->lock</li>
+    <li>townendevil->burn</li>
+    <li>townendevil->sear</li>
+    <li>townendevil->shank</li>
+    <li>townendevil->hurt</li>
+    <li>townendevil->vash</li>
+    <li>townendevil->warg</li>
+    <li>townendevil->wug</li>
+    <li>townendevil->thot</li>
+    <li>townendevil->thard</li>
+    <li>townendevil->thad</li>
+  -->
+  <VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->瓦斯特</li>
+    <li>townendevil->瓦格</li>
+    <li>townendevil->维克斯</li>
+    <li>townendevil->托尔</li>
+    <li>townendevil->提尔</li>
+    <li>townendevil->卡特</li>
+    <li>townendevil->洛普</li>
+    <li>townendevil->欧兹</li>
+    <li>townendevil->欧泽</li>
+    <li>townendevil->拉齐</li>
+    <li>townendevil->洛克</li>
+    <li>townendevil->伯恩</li>
+    <li>townendevil->希尔</li>
+    <li>townendevil->杉克</li>
+    <li>townendevil->赫特</li>
+    <li>townendevil->瓦希</li>
+    <li>townendevil->瓦尔格</li>
+    <li>townendevil->兀格</li>
+    <li>townendevil->索托</li>
+    <li>townendevil->萨尔德</li>
+    <li>townendevil->查德</li>
+  </VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+  
+</LanguageData>

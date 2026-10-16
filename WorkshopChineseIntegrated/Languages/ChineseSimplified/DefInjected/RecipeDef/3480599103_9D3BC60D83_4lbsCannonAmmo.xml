@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Make 4-poundercanister shot cannon shells x5 -->
+  <MakeAmmo_4lbsCannonBall_Canister.label>制作4磅霰弹炮弹x5</MakeAmmo_4lbsCannonBall_Canister.label>
+  <!-- EN: Craft 5 4-pounder canister shot cannon shells. -->
+  <MakeAmmo_4lbsCannonBall_Canister.description>制作5发4磅霰弹炮弹。</MakeAmmo_4lbsCannonBall_Canister.description>
+  <!-- EN: Making 4-pounder canister shot cannon shells. -->
+  <MakeAmmo_4lbsCannonBall_Canister.jobString>制作4磅霰弹炮弹</MakeAmmo_4lbsCannonBall_Canister.jobString>
+  
+  <!-- EN: Make grape 4-pounder shot cannon shells x5 -->
+  <MakeAmmo_4lbsCannonBall_Grape.label>制作4磅葡萄弹炮弹x5</MakeAmmo_4lbsCannonBall_Grape.label>
+  <!-- EN: Craft 5 4-pounder grape shot cannon shells. -->
+  <MakeAmmo_4lbsCannonBall_Grape.description>制作5发4磅葡萄弹炮弹。</MakeAmmo_4lbsCannonBall_Grape.description>
+  <!-- EN: Making 4-pounder grape shot cannon shells. -->
+  <MakeAmmo_4lbsCannonBall_Grape.jobString>制作4磅葡萄弹炮弹</MakeAmmo_4lbsCannonBall_Grape.jobString>
+  
+  <!-- EN: make 4-pounder round shot cannon balls x5 -->
+  <MakeAmmo_4lbsCannonBall_Round.label>制作4磅实心弹x5</MakeAmmo_4lbsCannonBall_Round.label>
+  <!-- EN: Craft 5 4-pounder round shot cannon balls. -->
+  <MakeAmmo_4lbsCannonBall_Round.description>制作5发4磅实心弹。</MakeAmmo_4lbsCannonBall_Round.description>
+  <!-- EN: Making round shot cannon balls. -->
+  <MakeAmmo_4lbsCannonBall_Round.jobString>制作实心弹</MakeAmmo_4lbsCannonBall_Round.jobString>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: iron pagoda helmet -->
+  <TA_IronPagodaClosed.label>铁质宝塔盔(闭合)</TA_IronPagodaClosed.label>
+  <!-- EN: . -->
+  <TA_IronPagodaClosed.description>带有宝塔形顶部和可开合面甲的草原战士头盔，提供全面防护。</TA_IronPagodaClosed.description>
+  <!-- EN: open visor -->
+  <TA_IronPagodaClosed.comps.CompSwitchApparel.Label>打开面甲</TA_IronPagodaClosed.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: iron pagoda helmet -->
+  <TA_IronPagodaOpen.label>铁质宝塔盔(开启)</TA_IronPagodaOpen.label>
+  <!-- EN: . -->
+  <TA_IronPagodaOpen.description>面甲开启状态的宝塔盔，视野更开阔。</TA_IronPagodaOpen.description>
+  <!-- EN: close visor -->
+  <TA_IronPagodaOpen.comps.CompSwitchApparel.Label>关闭面甲</TA_IronPagodaOpen.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

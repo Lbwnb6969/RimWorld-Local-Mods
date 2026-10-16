@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crane -->
+  <VAERoy_Crane.label>鹤</VAERoy_Crane.label>
+  <!-- EN: crane chick -->
+  <VAERoy_Crane.lifeStages.crane_chick.label>鹤仔</VAERoy_Crane.lifeStages.crane_chick.label>
+  
+</LanguageData>

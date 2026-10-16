@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wastedeer -->
+  <VAEWaste_Wastedeer.label>废土鹿</VAEWaste_Wastedeer.label>
+  <!-- EN: wastedeer doe -->
+  <VAEWaste_Wastedeer.labelFemale>母废土鹿</VAEWaste_Wastedeer.labelFemale>
+  <!-- EN: wastedeer buck -->
+  <VAEWaste_Wastedeer.labelMale>公废土鹿</VAEWaste_Wastedeer.labelMale>
+  <!-- EN: wastedeer -->
+  <VAEWaste_Wastedeer.labelPlural>废土鹿</VAEWaste_Wastedeer.labelPlural>
+  
+</LanguageData>

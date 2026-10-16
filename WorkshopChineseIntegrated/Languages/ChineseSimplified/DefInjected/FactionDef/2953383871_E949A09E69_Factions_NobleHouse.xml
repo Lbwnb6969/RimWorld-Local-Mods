@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- House Amboise -->
+
+  <DankPyon_NobleHouseFierce.label>狂野贵族世家</DankPyon_NobleHouseFierce.label>
+  <DankPyon_NobleHouseFierce.description>[昂布瓦兹家族]对臣民充满仁慈，但对敌人却无情又残酷。自从兽人大举入侵人类王国以来，历史就不曾放过昂布瓦兹家族的骑士。虽然他们从未完全从那场灾难中恢复过来，但随着时间一天天过去，他们仍持续深入兽人领地发动讨伐，誓言要将绿皮兽人赶出这个王国。\n\n虽然他们科技较不发达，但顽强的性格、众多的人口、善于中世纪武器的战斗技巧，让他们成为值得结交的盟友或危险的敌人。\n\n这个家族偏好战斗来维持地位，这表示要和他们化敌为友比较困难。</DankPyon_NobleHouseFierce.description>
+  <DankPyon_NobleHouseFierce.fixedName>昂布瓦兹家族</DankPyon_NobleHouseFierce.fixedName>
+  <DankPyon_NobleHouseFierce.pawnSingular>臣民</DankPyon_NobleHouseFierce.pawnSingular>
+  <DankPyon_NobleHouseFierce.pawnsPlural>臣民</DankPyon_NobleHouseFierce.pawnsPlural>
+  <DankPyon_NobleHouseFierce.leaderTitle>公爵</DankPyon_NobleHouseFierce.leaderTitle>
+  <DankPyon_NobleHouseFierce.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_NobleHouseFierce.messageDefendersAttacking>
+
+
+  <!-- House Soren -->
+
+  <DankPyon_NobleHouseCivil2.label>文明贵族世家</DankPyon_NobleHouseCivil2.label>
+  <DankPyon_NobleHouseCivil2.description>[索伦家族]认为商场即战场，因此商场上的他们冷酷无情，且各个都是狡猾的交易高手，任何一笔有利可图的交易背后都有他们的踪迹。索伦家族确实透过诚实经商获取了许多收益，但同时也有许多不法利益是经由欺骗、贿赂和敲诈获得，因此，不难想象城堡中充斥着自我放纵和整天取乐的臣民，领地内的城镇同样富得流油，街道上随处可见大肚腩的乡绅。
+  \n索伦家族的经商网络遍及陆地和海洋，他们的商船队善于穿梭最危险的航道，凭藉着间谍和线人带来的情报，他们总是领先对手一步，那些装饰在城堡大厅、来自遥远国度的珍宝，就是他们成功拓展贸易的证明。
+  \n即使他们曾臣服于破碎帝国的压迫统治下，但当帝国的控制力减弱时，索伦家族是最早抓住机会独立的家族之一。为了牵制其他家族，他们利用经济实力使天平向有利于自己的方向倾斜。最后，索伦家族利用帝国崩溃后留下的权力真空，成功确立了自己的主导地位。
+  \n虽然他们科技较不发达，但众多的人口、富裕的商队和炼金产品，让他们成为值得结交的盟友或危险的敌人。
+  \n这个家族尽可能追求和平的方式生活。即使是陌生人，也非常愿意交易和结盟。</DankPyon_NobleHouseCivil2.description>
+  <DankPyon_NobleHouseCivil2.fixedName>索伦家族</DankPyon_NobleHouseCivil2.fixedName>
+  <DankPyon_NobleHouseCivil2.pawnSingular>臣民</DankPyon_NobleHouseCivil2.pawnSingular>
+  <DankPyon_NobleHouseCivil2.pawnsPlural>臣民</DankPyon_NobleHouseCivil2.pawnsPlural>
+  <DankPyon_NobleHouseCivil2.leaderTitle>公爵</DankPyon_NobleHouseCivil2.leaderTitle>
+  <DankPyon_NobleHouseCivil2.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_NobleHouseCivil2.messageDefendersAttacking>
+
+
+  <!-- House Oswin -->
+
+  <DankPyon_NobleHouseCivil.label>文明贵族世家</DankPyon_NobleHouseCivil.label>
+  <DankPyon_NobleHouseCivil.description>[傲斯温家族]宣称，当第一位皇帝统治这片土地时，他们就已经存在了。如今，身为众多贵族世家的一员，他们在历史上留名的野心仍未枯竭。为了寻回旧帝国的宝藏，他们的探险队涉足大地的每一处，寻找埋藏在废墟深处的宝藏。
+  \n在古老地图和耳语间的传说指引之下，傲斯温家族的探险家深入被遗忘的地下墓穴和幽暗的洞穴。每次下降都充满危险，因为他们要穿越迷宫般的通道，并面对巨石与钢铁的守护者。然而，他们并没有因此止步，因为他们知道底下埋着数不尽的财富和神秘的知识，他们深信傲斯温的传承不在笔与墨之间，而是以那些亲手掘出土的古老文物和宝藏做为容器盛载传世。
+  \n虽然他们科技较不发达，但顽强的性格、众多的人口、善于中世纪武器的战斗技巧，让他们成为值得结交的盟友或危险的敌人。
+  \n这个家族尽可能追求和平的方式生活。即使是陌生人，也非常愿意交易和结盟。</DankPyon_NobleHouseCivil.description>
+  <DankPyon_NobleHouseCivil.fixedName>傲斯温家族</DankPyon_NobleHouseCivil.fixedName>
+  <DankPyon_NobleHouseCivil.pawnSingular>臣民</DankPyon_NobleHouseCivil.pawnSingular>
+  <DankPyon_NobleHouseCivil.pawnsPlural>臣民</DankPyon_NobleHouseCivil.pawnsPlural>
+  <DankPyon_NobleHouseCivil.leaderTitle>公爵</DankPyon_NobleHouseCivil.leaderTitle>
+  <DankPyon_NobleHouseCivil.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_NobleHouseCivil.messageDefendersAttacking>
+
+
+  <!-- House Hesse -->
+
+  <DankPyon_NobleHouseSavage.label>野蛮贵族世家</DankPyon_NobleHouseSavage.label>
+  <DankPyon_NobleHouseSavage.description>[黑森家族]并不在乎自己的名声是好是坏，他们以残暴的行为而闻名，他们会袭击贸易商队、屠杀农民、蹂躏住宅，使所经之处化为一片荒芜。黑森家族吸引了许多想快速致富的佣兵的青睐。\n\n虽然他们科技较不发达，但顽强的性格、众多的人口、善于中世纪武器的战斗技巧，让他们成为危险的敌人。\n\n这个家族不愿插手社会事务，与其他贵族世家隔绝，你无法和他们结盟。</DankPyon_NobleHouseSavage.description>
+  <DankPyon_NobleHouseSavage.fixedName>黑森家族</DankPyon_NobleHouseSavage.fixedName>
+  <DankPyon_NobleHouseSavage.pawnSingular>臣民</DankPyon_NobleHouseSavage.pawnSingular>
+  <DankPyon_NobleHouseSavage.pawnsPlural>臣民</DankPyon_NobleHouseSavage.pawnsPlural>
+  <DankPyon_NobleHouseSavage.leaderTitle>公爵</DankPyon_NobleHouseSavage.leaderTitle>
+  <DankPyon_NobleHouseSavage.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_NobleHouseSavage.messageDefendersAttacking>
+
+
+</LanguageData>

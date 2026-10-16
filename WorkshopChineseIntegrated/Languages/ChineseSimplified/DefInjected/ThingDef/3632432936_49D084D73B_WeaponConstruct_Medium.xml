@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: steam mace -->
+  <VR_Construct_LightBonk.label>蒸汽钉锤</VR_Construct_LightBonk.label>
+  <!-- EN: steam mace -->
+  <VR_Construct_LightBonk.description>蒸汽钉锤</VR_Construct_LightBonk.description>
+  <!-- EN: handle -->
+  <VR_Construct_LightBonk.tools.handle.label>柄</VR_Construct_LightBonk.tools.handle.label>
+  <!-- EN: head -->
+  <VR_Construct_LightBonk.tools.head.label>锤头</VR_Construct_LightBonk.tools.head.label>
+  
+  <!-- EN: steam hammer -->
+  <VR_Construct_SteamHammer.label>蒸汽锤</VR_Construct_SteamHammer.label>
+  <!-- EN: steam hammer -->
+  <VR_Construct_SteamHammer.description>蒸汽锤</VR_Construct_SteamHammer.description>
+  <!-- EN: handle -->
+  <VR_Construct_SteamHammer.tools.handle.label>柄</VR_Construct_SteamHammer.tools.handle.label>
+  <!-- EN: head -->
+  <VR_Construct_SteamHammer.tools.head.label>锤头</VR_Construct_SteamHammer.tools.head.label>
+  
+  <!-- EN: steam lance -->
+  <VR_Construct_SteamLance.label>蒸汽骑枪</VR_Construct_SteamLance.label>
+  <!-- EN: steam lance -->
+  <VR_Construct_SteamLance.description>蒸汽骑枪</VR_Construct_SteamLance.description>
+  <!-- EN: handle -->
+  <VR_Construct_SteamLance.tools.handle.label>柄</VR_Construct_SteamLance.tools.handle.label>
+  <!-- EN: point -->
+  <VR_Construct_SteamLance.tools.point.label>尖</VR_Construct_SteamLance.tools.point.label>
+  <!-- EN: lance -->
+  <VR_Construct_SteamLance.tools.point.labelNoLocation>骑枪</VR_Construct_SteamLance.tools.point.labelNoLocation>
+  
+  <!-- EN: steam sword -->
+  <VR_Construct_SteamSword.label>蒸汽剑</VR_Construct_SteamSword.label>
+  <!-- EN: steam blade -->
+  <VR_Construct_SteamSword.description>蒸汽刃</VR_Construct_SteamSword.description>
+  <!-- EN: handle -->
+  <VR_Construct_SteamSword.tools.handle.label>柄</VR_Construct_SteamSword.tools.handle.label>
+  <!-- EN: point -->
+  <VR_Construct_SteamSword.tools.point.label>尖</VR_Construct_SteamSword.tools.point.label>
+  <!-- EN: blade -->
+  <VR_Construct_SteamSword.tools.point.labelNoLocation>刃</VR_Construct_SteamSword.tools.point.labelNoLocation>
+  <!-- EN: edge -->
+  <VR_Construct_SteamSword.tools.edge.label>刃口</VR_Construct_SteamSword.tools.edge.label>
+  
+</LanguageData>

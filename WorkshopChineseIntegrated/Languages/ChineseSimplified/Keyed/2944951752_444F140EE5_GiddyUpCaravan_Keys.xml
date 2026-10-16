@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <GU_Car_NotReachable_DropAnimal_NPC_Message>访客无法到达坐骑释放区，请确保所有的坐骑释放区都可到达</GU_Car_NotReachable_DropAnimal_NPC_Message>
+
+  <GU_Car_visitorMountChance_Title>访客骑手－机率（范围: {0}~{1}% 默认: {2}% 当前: {3}%）</GU_Car_visitorMountChance_Title>
+  <GU_Car_visitorMountChance_Description>访客骑乘动物的机率。</GU_Car_visitorMountChance_Description>
+
+  <GU_Car_visitorMountChanceTribal_Title>部落访客骑手－机率 （范围: {0}~{1}% 默认: {2}% 当前: {3}%）</GU_Car_visitorMountChanceTribal_Title>
+  <GU_Car_visitorMountChanceTribal_Description>原始部落、中世纪派系访客骑乘动物机率</GU_Car_visitorMountChanceTribal_Description>
+  
+  <GU_Car_GiveCaravanSpeed_Title>旅队速度加成－非骑乘动物</GU_Car_GiveCaravanSpeed_Title>
+  <GU_Car_GiveCaravanSpeed_Description>在原版，旅队会默认部分动物可骑乘并增加行进效率。启用后所有动物的体型、速度、野性与价格都会并入计算,为旅队增加行走效率。</GU_Car_GiveCaravanSpeed_Description>
+
+	<GU_Car_RidePackAnimals_Title>贸易旅队骑乘－货运动物</GU_Car_RidePackAnimals_Title>
+	<GU_Car_RidePackAnimals_Description>贸易商队将有机率骑着货运动物进入地图&#10;&#13;如果遇到某些模组上的冲突，你可以在&#10;&#13;设置中关闭此行为。</GU_Car_RidePackAnimals_Description>
+
+  <GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>删除坐骑释放区</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>
+  <GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>删除坐骑释放区</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>
+
+  <GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>坐骑释放区</GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>
+  <GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>当访客或商人到来时会在这里释放坐骑，坐骑会在这里耐心地守候直到主人归来。</GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>
+
+  <!-- note for translators: The following items need to be really short to fit -->
+  <GU_Car_No_Rider>无骑乘者</GU_Car_No_Rider>
+  <GU_Car_Set_Rider>设置骑乘者</GU_Car_Set_Rider>
+  <GU_Car_NotInModOptions>禁止骑乘</GU_Car_NotInModOptions>
+  <GU_Car_NotFullyGrown>未完全成熟</GU_Car_NotFullyGrown>
+  <GU_Car_NeedsObedience>需要训练服从</GU_Car_NeedsObedience>
+  <GU_Car_AnimalNotSelected>未选择</GU_Car_AnimalNotSelected>
+  <GU_Car_PawnNotSelected>未选择</GU_Car_PawnNotSelected>
+
+</LanguageData>

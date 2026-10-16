@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: giant bone -->
+  <DA_GiantBone.label>巨骨</DA_GiantBone.label>
+  <!-- EN: A giant and robust bone that came from a large creature. Commonly used for armors and weapons because of its durability. -->
+  <DA_GiantBone.description>从大型生物身上获取的巨骨。因为很坚固，经常用于武器与装备。</DA_GiantBone.description>
+  
+  <!-- EN: leviathan hardchitin -->
+  <DA_LeviathanChitin.label>利维坦几丁质</DA_LeviathanChitin.label>
+  <!-- EN: The rigid blue chitin of a leviathan crab. While incredibly hard on itself, it can be softened and used as a substitute to leather by boiling it long enough. -->
+  <DA_LeviathanChitin.description>利维坦蟹坚硬的蓝色几丁质。尽管本身非常的坚固，但在长时间的熬煮后它能够作为皮革的替代物。</DA_LeviathanChitin.description>
+  
+  <!-- EN: sangonite -->
+  <DA_Sangonite.label>血石</DA_Sangonite.label>
+  <!-- EN: The petrified blood of a rock troll. Sangonite is a exceedingly hard and dense material which can be shaped into weapons and armors given the right amount of heat.\n\nThe sangonite carapace of a rock troll is often shaped by countless battles, as they fight for territory. Some even say that the mountains themselves are colossal trolls which existed ever since the first dust settled on the earth. -->
+  <DA_Sangonite.description>石巨魔的凝血。血石是一种极其坚硬而致密的矿物，在合适的热量下能塑形为武器和盔甲。\n\n这些石巨魔的血石外壳是在无数争夺领地的战斗中形成的。有些人说，山峰实际上是自世界开辟之时就在斗争的石巨魔。</DA_Sangonite.description>
+  
+</LanguageData>

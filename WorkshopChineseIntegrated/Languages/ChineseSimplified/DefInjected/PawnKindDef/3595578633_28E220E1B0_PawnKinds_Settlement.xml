@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: merchant -->
+  <BA_Byzantium_Trader.label>商人</BA_Byzantium_Trader.label>
+  
+  <!-- EN: nobleman -->
+  <BA_HighNoble_Byzantium.label>高级贵族</BA_HighNoble_Byzantium.label>
+  <!-- EN: noblewoman -->
+  <BA_HighNoble_Byzantium.labelFemale>高级贵妇</BA_HighNoble_Byzantium.labelFemale>
+  
+  <!-- EN: townsman -->
+  <BA_Urban_Civilian_Byzantium.label>城市平民</BA_Urban_Civilian_Byzantium.label>
+  <!-- EN: townswoman -->
+  <BA_Urban_Civilian_Byzantium.labelFemale>城市妇人</BA_Urban_Civilian_Byzantium.labelFemale>
+  
+</LanguageData>

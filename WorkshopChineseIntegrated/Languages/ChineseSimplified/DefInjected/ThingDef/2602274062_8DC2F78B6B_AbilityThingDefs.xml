@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: magical light -->
+  <CAMagicLight.label>指引秘灯</CAMagicLight.label>
+  <!-- EN: Brightens the darkness. -->
+  <CAMagicLight.description>驱散黑暗。</CAMagicLight.description>
+  
+</LanguageData>

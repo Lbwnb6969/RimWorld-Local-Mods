@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gene-seed Material: Dark Angels -->
+  <BEWH_ChapterIDarkAngels.label>基因种子材料：黑暗天使</BEWH_ChapterIDarkAngels.label>
+  <!-- EN: Your gene-seed comes from Lion El'Jonson and is relatively pure, allowing for more successful and less deadly implantation. -->
+  <BEWH_ChapterIDarkAngels.description>你的基因种子来自莱昂·庄森，其纯度相对较高，可以提高植入的成功率，并降低其致死率。</BEWH_ChapterIDarkAngels.description>
+  <!-- EN: 15% decrease to gene-seed implantation failure chance. -->
+  <BEWH_ChapterIDarkAngels.customEffectDescriptions.0>基因种子植入失败率降低15%</BEWH_ChapterIDarkAngels.customEffectDescriptions.0>
+  <!-- EN: 15% decrease to gene-seed implantation failure chance cap. -->
+  <BEWH_ChapterIDarkAngels.customEffectDescriptions.1>基因种子植入失败率上限降低15%</BEWH_ChapterIDarkAngels.customEffectDescriptions.1>
+  <!-- EN: Increased chance for rubicon surgery survival. -->
+  <BEWH_ChapterIDarkAngels.customEffectDescriptions.2>增加转化手术存活率。</BEWH_ChapterIDarkAngels.customEffectDescriptions.2>
+  <!-- EN: Dark Angels -->
+  <BEWH_ChapterIDarkAngels.modExtensions.0.chapterName>黑暗天使</BEWH_ChapterIDarkAngels.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Emperor's Children -->
+  <BEWH_ChapterIIIEmperorsChildren.label>基因种子材料：帝皇之子</BEWH_ChapterIIIEmperorsChildren.label>
+  <!-- EN: Your gene-seed comes from Fulgrim. Like him, you take pleasure in the finer arts of the world, but prefer not to share them with others. -->
+  <BEWH_ChapterIIIEmperorsChildren.description>你的基因种子来自福格瑞姆。和他一样，你也很喜欢欣赏世间的精致艺术，但不愿与他人分享。</BEWH_ChapterIIIEmperorsChildren.description>
+  <!-- EN: Emperor's Children -->
+  <BEWH_ChapterIIIEmperorsChildren.modExtensions.0.chapterName>帝皇之子</BEWH_ChapterIIIEmperorsChildren.modExtensions.0.chapterName>
+  
+  <!-- UNUSED -->
+  <BEWH_ChapterIIIEmperorsChildren.customEffectDescriptions.0>增加观赏艺术获得的娱乐值。</BEWH_ChapterIIIEmperorsChildren.customEffectDescriptions.0>
+  
+  <!-- EN: Gene-seed Material: Iron Warriors -->
+  <BEWH_ChapterIVIronWarriors.label>基因种子材料：钢铁勇士</BEWH_ChapterIVIronWarriors.label>
+  <!-- EN: Your gene-seed comes from Perturabo and is somewhat pure. You are able to quickly set up siege armaments and fortifications. -->
+  <BEWH_ChapterIVIronWarriors.description>你的基因种子来自佩图拉博，并且较为纯净。受其影响，你可以迅速设置攻城器械和构筑防御工事。</BEWH_ChapterIVIronWarriors.description>
+  <!-- EN: Chance to have either Psychopath or Transhumanist trait. -->
+  <BEWH_ChapterIVIronWarriors.customEffectDescriptions.0>有几率获得“心理变态”或“超人主义”特性。</BEWH_ChapterIVIronWarriors.customEffectDescriptions.0>
+  <!-- EN: 7% decrease to gene-seed implantation failure chance. -->
+  <BEWH_ChapterIVIronWarriors.customEffectDescriptions.1>基因种子植入失败率降低7%</BEWH_ChapterIVIronWarriors.customEffectDescriptions.1>
+  <!-- EN: 7% decrease to gene-seed implantation failure chance cap. -->
+  <BEWH_ChapterIVIronWarriors.customEffectDescriptions.2>基因种子植入失败率上限降低7%</BEWH_ChapterIVIronWarriors.customEffectDescriptions.2>
+  <!-- EN: Iron Warriors -->
+  <BEWH_ChapterIVIronWarriors.modExtensions.0.chapterName>钢铁勇士</BEWH_ChapterIVIronWarriors.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Blood Angels -->
+  <BEWH_ChapterIXBloodAngels.label>基因种子材料：圣血天使</BEWH_ChapterIXBloodAngels.label>
+  <!-- EN: Your gene-seed comes from Sanguinius. You carry his righteous wrath against those who threaten your people. -->
+  <BEWH_ChapterIXBloodAngels.description>你的基因种子来自圣吉列斯。你将带着他的圣血之怒，粉碎一切与你族众为敌的人。</BEWH_ChapterIXBloodAngels.description>
+  <!-- EN: Gives the Red Thirst gene. -->
+  <BEWH_ChapterIXBloodAngels.customEffectDescriptions.0>添加“血渴”基因。</BEWH_ChapterIXBloodAngels.customEffectDescriptions.0>
+  <!-- EN: Blood Angels -->
+  <BEWH_ChapterIXBloodAngels.modExtensions.0.chapterName>圣血天使</BEWH_ChapterIXBloodAngels.modExtensions.0.chapterName>
+  
+  <!-- EN: Red Thirst -->
+  <BEWH_ChapterIXBloodAngelsFlaw.label>TODO</BEWH_ChapterIXBloodAngelsFlaw.label>
+  <!-- EN: The Red Thirst causes warriors to suffer an unusual bloodlust, instilling them with a thirst for the blood of their enemies. They also possess elongated teeth and pale skin. -->
+  <BEWH_ChapterIXBloodAngelsFlaw.description>TODO</BEWH_ChapterIXBloodAngelsFlaw.description>
+  <!-- EN: Gives hemogenic gene. -->
+  <BEWH_ChapterIXBloodAngelsFlaw.customEffectDescriptions.0>TODO</BEWH_ChapterIXBloodAngelsFlaw.customEffectDescriptions.0>
+  <!-- EN: Gives bloodfeeder gene. -->
+  <BEWH_ChapterIXBloodAngelsFlaw.customEffectDescriptions.1>TODO</BEWH_ChapterIXBloodAngelsFlaw.customEffectDescriptions.1>
+  <!-- EN: Gives elongated teeth. -->
+  <BEWH_ChapterIXBloodAngelsFlaw.customEffectDescriptions.2>TODO</BEWH_ChapterIXBloodAngelsFlaw.customEffectDescriptions.2>
+  
+  <!-- EN: Red Thirst -->
+  <BEWH_ChapterIXFlaw.label>血渴</BEWH_ChapterIXFlaw.label>
+  <!-- EN: The Red Thirst causes warriors to suffer an unusual bloodlust, instilling them with a thirst for the blood of their enemies. They also possess elongated teeth and pale skin. -->
+  <BEWH_ChapterIXFlaw.description>血渴会战士们产生异常的嗜血欲望，他们渴望吸食敌人的鲜血。所有继承了圣血天使基因中子的战士们均有着尖利的牙齿和苍白的皮肤。</BEWH_ChapterIXFlaw.description>
+  <!-- EN: Gives hemogen supply. -->
+  <BEWH_ChapterIXFlaw.customEffectDescriptions.0>可以使用血原质</BEWH_ChapterIXFlaw.customEffectDescriptions.0>
+  <!-- EN: Gives elongated teeth. -->
+  <BEWH_ChapterIXFlaw.customEffectDescriptions.1>长出有助于肉搏的长牙</BEWH_ChapterIXFlaw.customEffectDescriptions.1>
+  <!-- EN: A reserve of biological strength which can be gained and spent in a variety of ways.\n\nHemogen can be increased by bloodfeeding from a human or consuming hemogen packs. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nIf hemogen reaches zero, {PAWN_nameDef} will become very unhappy. -->
+  <BEWH_ChapterIXFlaw.resourceDescription>储备一种叫做血原质的生物能能源，这种资源的来源和使用方法可以由其他基因解锁。\n\n血原质可通过对其他人类使用汲血或是摄入血原包来补充。对没有“血原化”基因的人类执行“抽取血原包”的手术即可获得血原包。\n\n当血原质储备归零时，{PAWN_nameDef}的心情会大幅度下降。</BEWH_ChapterIXFlaw.resourceDescription>
+  <!-- EN: hemogen -->
+  <BEWH_ChapterIXFlaw.resourceLabel>血原质</BEWH_ChapterIXFlaw.resourceLabel>
+  
+  <!-- EN: Canis Helix -->
+  <BEWH_ChapterVIFlaw.label>狼之螺旋</BEWH_ChapterVIFlaw.label>
+  <!-- EN: The Canis Helix is a mutation of standard gene-seed that grants the Wolves enhanced abilities, including hyper-acute senses, elongated canines capable of denting plasteel, and leathery, resilient skin. -->
+  <BEWH_ChapterVIFlaw.description>狼之螺旋由标准基因种子的突变而来，它赋予了太空野狼们更强的能力，包括敏锐的感官、致命的犬齿，以及坚韧的皮肤。</BEWH_ChapterVIFlaw.description>
+  <!-- EN: Curse of the Wulfen. -->
+  <BEWH_ChapterVIFlaw.customEffectDescriptions.0>狼人诅咒</BEWH_ChapterVIFlaw.customEffectDescriptions.0>
+  
+  <!-- EN: Gene-seed Material: Imperial Fists -->
+  <BEWH_ChapterVIIImperialFists.label>基因种子材料：帝国之拳</BEWH_ChapterVIIImperialFists.label>
+  <!-- EN: Your gene-seed comes from Rogal Dorn. You possess formidable fortitude and excel at constructing strong defenses. -->
+  <BEWH_ChapterVIIImperialFists.description>你的基因种子来自罗格·多恩。你意志如钢，并且擅长建造坚固的防御工事。</BEWH_ChapterVIIImperialFists.description>
+  <!-- EN: Non-functioning Sus-an Membrane. -->
+  <BEWH_ChapterVIIImperialFists.customEffectDescriptions.0>Sus-an脑膜失效。</BEWH_ChapterVIIImperialFists.customEffectDescriptions.0>
+  <!-- EN: Non-functioning Betcher's Gland. -->
+  <BEWH_ChapterVIIImperialFists.customEffectDescriptions.1>蚀刻腺体失效。</BEWH_ChapterVIIImperialFists.customEffectDescriptions.1>
+  <!-- EN: Imperial Fists -->
+  <BEWH_ChapterVIIImperialFists.modExtensions.0.chapterName>帝国之拳</BEWH_ChapterVIIImperialFists.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Night Lords -->
+  <BEWH_ChapterVIIINightLords.label>基因种子材料：午夜领主</BEWH_ChapterVIIINightLords.label>
+  <!-- EN: Your gene-seed comes from Konrad Curze. You excel at inducing fear in your enemies and thrive in darkness. -->
+  <BEWH_ChapterVIIINightLords.description>你的基因种子来自康拉德·科兹。你擅长散播恐惧；在黑暗中，你如鱼得水。</BEWH_ChapterVIIINightLords.description>
+  <!-- EN: Chance to induce fear in enemies, causing them to flee. -->
+  <BEWH_ChapterVIIINightLords.customEffectDescriptions.0>概率激发敌人的恐惧，使其逃跑。</BEWH_ChapterVIIINightLords.customEffectDescriptions.0>
+  <!-- EN: Night Lords -->
+  <BEWH_ChapterVIIINightLords.modExtensions.0.chapterName>午夜领主</BEWH_ChapterVIIINightLords.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Space Wolves -->
+  <BEWH_ChapterVISpaceWolves.label>基因种子材料：太空野狼</BEWH_ChapterVISpaceWolves.label>
+  <!-- EN: Your gene-seed comes from Leman Russ. You've inherited his wolf-like attributes and unrelenting nature. -->
+  <BEWH_ChapterVISpaceWolves.description>你继承了他如狼一般的天性，和百折不饶的意志。</BEWH_ChapterVISpaceWolves.description>
+  <!-- EN: Chance to have either Brawler or Abrasive trait. -->
+  <BEWH_ChapterVISpaceWolves.customEffectDescriptions.0>有几率获得"直来直去"或"格斗者"特性。</BEWH_ChapterVISpaceWolves.customEffectDescriptions.0>
+  <!-- EN: Gives the Canis Helix gene. -->
+  <BEWH_ChapterVISpaceWolves.customEffectDescriptions.1>添加“狼之螺旋”基因。</BEWH_ChapterVISpaceWolves.customEffectDescriptions.1>
+  <!-- EN: Space Wolves -->
+  <BEWH_ChapterVISpaceWolves.modExtensions.0.chapterName>太空野狼</BEWH_ChapterVISpaceWolves.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: White Scars -->
+  <BEWH_ChapterVWhiteScars.label>基因种子材料：白色疤痕</BEWH_ChapterVWhiteScars.label>
+  <!-- EN: Your gene-seed comes from Jaghatai Khan. You've inherited some of his unmatched speed. -->
+  <BEWH_ChapterVWhiteScars.description>你的基因种子来自察合台可汗。你继承了他无与伦比的速度。</BEWH_ChapterVWhiteScars.description>
+  <!-- EN: White Scars -->
+  <BEWH_ChapterVWhiteScars.modExtensions.0.chapterName>白色疤痕</BEWH_ChapterVWhiteScars.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Ultramarines -->
+  <BEWH_ChapterXIIIUltramarines.label>基因种子材料：极限战士</BEWH_ChapterXIIIUltramarines.label>
+  <!-- EN: Your gene-seed comes from Roboute Guilliman. You've inherited his industriousness. Additionally, your gene-seed stock is relatively pure, allowing for easier implantation. -->
+  <BEWH_ChapterXIIIUltramarines.description>你的基因种子来自罗伯特·基里曼。你继承了他处事的勤勉精神。此外，你的基因种子相对纯净，更易植入。</BEWH_ChapterXIIIUltramarines.description>
+  <!-- EN: 10% decrease to gene-seed implantation failure chance. -->
+  <BEWH_ChapterXIIIUltramarines.customEffectDescriptions.0>基因种子植入失败率降低10%</BEWH_ChapterXIIIUltramarines.customEffectDescriptions.0>
+  <!-- EN: 5% decrease to gene-seed implantation failure chance cap. -->
+  <BEWH_ChapterXIIIUltramarines.customEffectDescriptions.1>基因种子植入失败率上限降低10%</BEWH_ChapterXIIIUltramarines.customEffectDescriptions.1>
+  
+  <!-- EN: Gene-seed Material: World Eaters -->
+  <BEWH_ChapterXIIWorldEaters.label>基因种子材料：吞世者</BEWH_ChapterXIIWorldEaters.label>
+  <!-- EN: Your gene-seed comes from Angron. You possess an innate lust for fighting and brawling. -->
+  <BEWH_ChapterXIIWorldEaters.description>你的基因种子来自安格隆。你天生就渴望战斗和争斗。</BEWH_ChapterXIIWorldEaters.description>
+  <!-- EN: Chance to have either Bloodlust or Psychopath trait. -->
+  <BEWH_ChapterXIIWorldEaters.customEffectDescriptions.0>有几率获得"嗜血"或"心理变态"特性</BEWH_ChapterXIIWorldEaters.customEffectDescriptions.0>
+  <!-- EN: World Eaters -->
+  <BEWH_ChapterXIIWorldEaters.modExtensions.0.chapterName>吞世者</BEWH_ChapterXIIWorldEaters.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Iron Hands -->
+  <BEWH_ChapterXIronHands.label>基因种子材料：钢铁之手</BEWH_ChapterXIronHands.label>
+  <!-- EN: Your gene-seed comes from Ferrus Manus. You possess an urge to replace your flesh with machine parts to enhance your form. -->
+  <BEWH_ChapterXIronHands.description>你的基因种子来自费鲁斯·马努斯。你渴望用机械零件替换你的肉体，飞升至一个更为强大的形态。</BEWH_ChapterXIronHands.description>
+  <!-- EN: Iron Hands -->
+  <BEWH_ChapterXIronHands.modExtensions.0.chapterName>钢铁之手</BEWH_ChapterXIronHands.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Death Guard -->
+  <BEWH_ChapterXIVDeathGuard.label>基因种子材料：死亡守卫</BEWH_ChapterXIVDeathGuard.label>
+  <!-- EN: Your gene-seed comes from Mortarion. You share his resilience to disease and toxins. -->
+  <BEWH_ChapterXIVDeathGuard.description>你的基因种子来自莫塔里安。和他一样，你也有对疾病和毒素的抵抗力。</BEWH_ChapterXIVDeathGuard.description>
+  <!-- EN: Death Guard -->
+  <BEWH_ChapterXIVDeathGuard.modExtensions.0.chapterName>死亡守卫</BEWH_ChapterXIVDeathGuard.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Raven Guard -->
+  <BEWH_ChapterXIXRavenGuard.label>基因种子材料：暗鸦守卫</BEWH_ChapterXIXRavenGuard.label>
+  <!-- EN: Your gene-seed comes from Corvus Corax. You have a knack for using the shadows to your advantage. -->
+  <BEWH_ChapterXIXRavenGuard.description>你的基因种子来自科沃斯·科拉克斯。黑暗与阴影将为你所用。</BEWH_ChapterXIXRavenGuard.description>
+  <!-- EN: Non-functioning Mucranoid. -->
+  <BEWH_ChapterXIXRavenGuard.customEffectDescriptions.0>汗腺改进器官失效。</BEWH_ChapterXIXRavenGuard.customEffectDescriptions.0>
+  <!-- EN: Non-functioning Betcher's Gland. -->
+  <BEWH_ChapterXIXRavenGuard.customEffectDescriptions.1>蚀刻腺体失效。</BEWH_ChapterXIXRavenGuard.customEffectDescriptions.1>
+  <!-- EN: Raven Guard -->
+  <BEWH_ChapterXIXRavenGuard.modExtensions.0.chapterName>暗鸦守卫</BEWH_ChapterXIXRavenGuard.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Salamanders -->
+  <BEWH_ChapterXVIIISalamanders.label>基因种子材料：火蜥蜴</BEWH_ChapterXVIIISalamanders.label>
+  <!-- EN: Your gene-seed comes from Vulkan. You share his passion for crafting. Additionally, your gene-seed contains flaws, granting you black skin and red eyes. -->
+  <BEWH_ChapterXVIIISalamanders.description>你的基因种子来自伏尔甘。你和他一样热爱手工。此外，你的基因种子存在缺陷，这赋予了你黑色的皮肤和红色的眼睛。</BEWH_ChapterXVIIISalamanders.description>
+  
+  <!-- EN: Gene-seed Material: Word Bearers -->
+  <BEWH_ChapterXVIIWordBearers.label>基因种子材料：怀言者</BEWH_ChapterXVIIWordBearers.label>
+  <!-- EN: Your gene-seed comes from Lorgar Aurelian. Like him, you wield words as one of your greatest strengths. -->
+  <BEWH_ChapterXVIIWordBearers.description>你的基因种子来自洛嘉·奥雷利安。和他一样，语言是你最为强大的力量。</BEWH_ChapterXVIIWordBearers.description>
+  <!-- EN: Word Bearers -->
+  <BEWH_ChapterXVIIWordBearers.modExtensions.0.chapterName>怀言者</BEWH_ChapterXVIIWordBearers.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Sons of Horus -->
+  <BEWH_ChapterXVISonsOfHorus.label>基因种子材料：荷鲁斯之子</BEWH_ChapterXVISonsOfHorus.label>
+  <!-- EN: Your gene-seed comes from Horus. You have a keen understanding of striking at a close range. -->
+  <BEWH_ChapterXVISonsOfHorus.description>你的基因种子来自荷鲁斯。近距离战斗对你来说不在话下。</BEWH_ChapterXVISonsOfHorus.description>
+  <!-- EN: Sons of Horus -->
+  <BEWH_ChapterXVISonsOfHorus.modExtensions.0.chapterName>荷鲁斯之子</BEWH_ChapterXVISonsOfHorus.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Thousand Sons -->
+  <BEWH_ChapterXVThousandSons.label>基因种子材料：千疮之子</BEWH_ChapterXVThousandSons.label>
+  <!-- EN: Your gene-seed comes from Magnus the Red, the Crimson King, and as such you have inherited some of his psychic potential. -->
+  <BEWH_ChapterXVThousandSons.description>你的基因种子来自赤红之马格努斯，深红之王，因此你继承了他的一些灵能潜质。</BEWH_ChapterXVThousandSons.description>
+  <!-- EN: Gives a psyker gene. -->
+  <BEWH_ChapterXVThousandSons.customEffectDescriptions.0>添加“灵能者”基因</BEWH_ChapterXVThousandSons.customEffectDescriptions.0>
+  <!-- EN: Thousand Sons -->
+  <BEWH_ChapterXVThousandSons.modExtensions.0.chapterName>千疮之子</BEWH_ChapterXVThousandSons.modExtensions.0.chapterName>
+  
+  <!-- EN: Gene-seed Material: Alpha Legion -->
+  <BEWH_ChapterXXAlphaLegion.label>基因种子材料：阿尔法军团</BEWH_ChapterXXAlphaLegion.label>
+  <!-- EN: Your gene-seed comes from Alpharius/Omegon. You have a talent for deception and manipulation. -->
+  <BEWH_ChapterXXAlphaLegion.description>你的基因种子来自阿尔法瑞斯/欧米伽。你拥有欺骗和操纵他人的天赋。</BEWH_ChapterXXAlphaLegion.description>
+  <!-- EN: Alpha Legion -->
+  <BEWH_ChapterXXAlphaLegion.modExtensions.0.chapterName>阿尔法军团</BEWH_ChapterXXAlphaLegion.modExtensions.0.chapterName>
+  
+</LanguageData>

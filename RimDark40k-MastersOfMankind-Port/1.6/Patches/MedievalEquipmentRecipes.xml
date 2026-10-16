@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>RimDark 40k - Mankind's Finest - Medieval Compatibility Patch</li>
+    </mods>
+    <match Class="PatchOperationFindMod">
+      <mods>
+        <li>Medieval Overhaul</li>
+      </mods>
+      <match Class="PatchOperationSequence">
+        <operations>
+          <!-- The port disables vanilla recipe makers; these are the missing forge-only bills. -->
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_FirstbornArmor"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_FirstbornArmor</defName>
+                  <label>make firstborn armor</label>
+                  <description>Make a firstborn armor at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>3</count></li>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>280</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>DankPyon_ComponentBasic</li><li>Plasteel</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_FirstbornArmor>1</GW_Rulers_FirstbornArmor></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_PrimarisArmor"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_PrimarisArmor</defName>
+                  <label>make primaris armor</label>
+                  <description>Make a primaris armor at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>3</count></li>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>280</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>DankPyon_ComponentBasic</li><li>Plasteel</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_PrimarisArmor>1</GW_Rulers_PrimarisArmor></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_GravisArmor"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_GravisArmor</defName>
+                  <label>make gravis armor</label>
+                  <description>Make gravis armor at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>4</count></li>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>385</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>DankPyon_ComponentBasic</li><li>Plasteel</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_GravisArmor>1</GW_Rulers_GravisArmor></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_SM_FirstbornHelmet"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_SM_FirstbornHelmet</defName>
+                  <label>make firstborn helmet</label>
+                  <description>Make a firstborn helmet at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>3</count></li>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>80</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>DankPyon_ComponentBasic</li><li>Plasteel</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_SM_FirstbornHelmet>1</GW_SM_FirstbornHelmet></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_PrimarisHelmet"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_PrimarisHelmet</defName>
+                  <label>make primaris helmet</label>
+                  <description>Make a primaris helmet at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>3</count></li>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>80</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>DankPyon_ComponentBasic</li><li>Plasteel</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_PrimarisHelmet>1</GW_Rulers_PrimarisHelmet></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_PrimarisTenatHelmet"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_PrimarisTenatHelmet</defName>
+                  <label>make primaris lieutenant helmet</label>
+                  <description>Make a primaris lieutenant helmet at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>3</count></li>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>80</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>DankPyon_ComponentBasic</li><li>Plasteel</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_PrimarisTenatHelmet>1</GW_Rulers_PrimarisTenatHelmet></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_GravisHelmet"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_GravisHelmet</defName>
+                  <label>make gravis helmet</label>
+                  <description>Make a gravis helmet at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>3</count></li>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>80</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>DankPyon_ComponentBasic</li><li>Plasteel</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_GravisHelmet>1</GW_Rulers_GravisHelmet></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_XthHelmet"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_XthHelmet</defName>
+                  <label>make Xth helmet</label>
+                  <description>Make an Xth helmet at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>3</count></li>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>80</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>DankPyon_ComponentBasic</li><li>Plasteel</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_Xth_Helmet>1</GW_Rulers_Xth_Helmet></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_Gun_AstartesPlasmaCannon"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_Gun_AstartesPlasmaCannon</defName>
+                  <label>make Astartes plasma cannon</label>
+                  <description>Make an Astartes plasma cannon at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>100</count></li>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>4</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>Plasteel</li><li>DankPyon_ComponentBasic</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_Gun_AstartesPlasmaCannon>1</GW_Rulers_Gun_AstartesPlasmaCannon></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_Bolter_Gun_Bolter"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_Bolter_Gun_Bolter</defName>
+                  <label>make Astartes bolter</label>
+                  <description>Make an Astartes bolter at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>50</count></li>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>1</count></li>
+                    <li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>6</count></li>
+                    <li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>6</count></li>
+                    <li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>6</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>Plasteel</li><li>DankPyon_ComponentBasic</li><li>DankPyon_Ruby</li><li>DankPyon_Sapphire</li><li>DankPyon_Emerald</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_Bolter_Gun_Bolter>1</GW_Rulers_Bolter_Gun_Bolter></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_MeltaGun"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_MeltaGun</defName>
+                  <label>make Astartes melta gun</label>
+                  <description>Make an Astartes melta gun at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>60</count></li>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>4</count></li>
+                    <li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>1</count></li>
+                    <li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>1</count></li>
+                    <li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>1</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>Plasteel</li><li>DankPyon_ComponentBasic</li><li>DankPyon_Ruby</li><li>DankPyon_Sapphire</li><li>DankPyon_Emerald</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_MeltaGun>1</GW_Rulers_MeltaGun></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs[not(RecipeDef[defName="Auto_GW_Rulers_AstartesShotgun"])]</xpath>
+            <match Class="PatchOperationAdd">
+              <xpath>Defs</xpath>
+              <value>
+                <RecipeDef>
+                  <defName>Auto_GW_Rulers_AstartesShotgun</defName>
+                  <label>make Astartes shotgun</label>
+                  <description>Make an Astartes shotgun at Vulkan's forge.</description>
+                  <jobString>loading autoforge.</jobString>
+                  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+                  <soundWorking>MechGestatorCycle_Initiating</soundWorking>
+                  <workAmount>1800</workAmount>
+                  <ingredients>
+                    <li><filter><thingDefs><li>Plasteel</li></thingDefs></filter><count>30</count></li>
+                    <li><filter><thingDefs><li>DankPyon_ComponentBasic</li></thingDefs></filter><count>5</count></li>
+                    <li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>3</count></li>
+                    <li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>3</count></li>
+                    <li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>3</count></li>
+                  </ingredients>
+                  <fixedIngredientFilter><thingDefs><li>Plasteel</li><li>DankPyon_ComponentBasic</li><li>DankPyon_Ruby</li><li>DankPyon_Sapphire</li><li>DankPyon_Emerald</li></thingDefs></fixedIngredientFilter>
+                  <products><GW_Rulers_AstartesShotgun>1</GW_Rulers_AstartesShotgun></products>
+                  <skillRequirements><Crafting>20</Crafting></skillRequirements>
+                  <workSkill>Crafting</workSkill>
+                  <researchPrerequisite>GW_Rulers_MasterForge</researchPrerequisite>
+                  <recipeUsers><li>GW_Autoforge</li></recipeUsers>
+                </RecipeDef>
+              </value>
+            </match>
+          </li>
+        </operations>
+      </match>
+    </match>
+  </Operation>
+</Patch>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cap -->
+  <VFEM2_Apparel_Cap.label>猎帽</VFEM2_Apparel_Cap.label>
+  <!-- EN: A sleek, feathered cap worn by skilled archers and woodland hunters. Its lightweight design keeps vision clear and focus sharp, making it easier to land precise shots. -->
+  <VFEM2_Apparel_Cap.description>一顶有羽毛装饰的轻薄帽子，常由弓箭手和猎人佩戴。它轻便舒适的设计让视野十分开阔，让人射击更准。</VFEM2_Apparel_Cap.description>
+  
+  <!-- EN: chaperon -->
+  <VFEM2_Apparel_Chaperon.label>陪护帽</VFEM2_Apparel_Chaperon.label>
+  <!-- EN: A stylish and versatile hood with a wrapped tail, favored by diplomats and merchants. It lends an air of authority, subtly improving negotiation skills. -->
+  <VFEM2_Apparel_Chaperon.description>一顶轻便美观的帽子，拖着一根布条，深受说客和商人的喜爱。它能创造一种威压的感觉，增加谈判效果。</VFEM2_Apparel_Chaperon.description>
+  
+  <!-- EN: dame hat -->
+  <VFEM2_Apparel_DameHat.label>贵妇帽</VFEM2_Apparel_DameHat.label>
+  <!-- EN: A beautiful long cone hat for a dame. -->
+  <VFEM2_Apparel_DameHat.description>贵妇喜欢戴的高耸锥形帽。</VFEM2_Apparel_DameHat.description>
+  
+  <!-- EN: heavy leather helmet -->
+  <VFEM2_Apparel_HeavyLeatherHelmet.label>重型皮盔</VFEM2_Apparel_HeavyLeatherHelmet.label>
+  <!-- EN: A strong medieval helmet that provides full-head coverage. While it offers fantastic protection, one's vision is greatly obscured, thus it is only recommended for front line infantry, particularly those foregoing shields. -->
+  <VFEM2_Apparel_HeavyLeatherHelmet.description>一顶兼顾的中世纪头盔，包裹了整个头部。在提供优秀的防护性的同时也阻碍了佩戴者的视野，适合配给没有携带盾牌的前排士兵。</VFEM2_Apparel_HeavyLeatherHelmet.description>
+  
+  <!-- EN: jester hat -->
+  <VFEM2_Apparel_JesterHat.label>弄臣帽</VFEM2_Apparel_JesterHat.label>
+  <!-- EN: A hat worthy of a jester. Each half is different from the other one in color. -->
+  <VFEM2_Apparel_JesterHat.description>一顶配得上弄臣的帽子。每一半都有不同的颜色。</VFEM2_Apparel_JesterHat.description>
+  
+  <!-- EN: king's crown -->
+  <VFEM2_Apparel_KingsCrown.label>王冠</VFEM2_Apparel_KingsCrown.label>
+  <!-- EN: A beautiful metal crown. The wearer becomes very influential, but at the same time they will refuse to do any work. -->
+  <VFEM2_Apparel_KingsCrown.description>一顶漂亮的金属王冠。穿戴者会变得非常有影响力，但同时他们会拒绝做任何工作。</VFEM2_Apparel_KingsCrown.description>
+  
+  <!-- EN: leather helmet -->
+  <VFEM2_Apparel_LeatherHelmet.label>皮盔</VFEM2_Apparel_LeatherHelmet.label>
+  <!-- EN: A simple leather helmet designed to not block ones communication during combat. Often worn by front line, shield-wielding infantry to soak damage. -->
+  <VFEM2_Apparel_LeatherHelmet.description>一顶轻型的中世纪头盔，设计为没有覆盖脸部方便士兵交流。通常由携带盾牌的前排士兵佩戴。</VFEM2_Apparel_LeatherHelmet.description>
+  
+  <!-- EN: padded helmet -->
+  <VFEM2_Apparel_PaddedHelmet.label>衬垫软盔</VFEM2_Apparel_PaddedHelmet.label>
+  <!-- EN: A simple leather helmet designed to not block one's communication during combat. Often worn by front line, shield-wielding infantry to soak damage. -->
+  <VFEM2_Apparel_PaddedHelmet.description>一顶轻型的中世纪皮革头盔，设计为没有覆盖脸部方便士兵交流。通常由携带盾牌的前排士兵佩戴。</VFEM2_Apparel_PaddedHelmet.description>
+  
+  <!-- EN: plague mask -->
+  <VFEM2_Apparel_PlagueMask.label>疫医面罩</VFEM2_Apparel_PlagueMask.label>
+  <!-- EN: A mask with a long ‘beak’ filled with herbal medicine that keeps infected pawns at a distance. -->
+  <VFEM2_Apparel_PlagueMask.description>一个带有长“喙”的面罩，里面装满了草药，可以在一定程度上隔绝传染病。</VFEM2_Apparel_PlagueMask.description>
+  
+  <!-- EN: heavy plate helmet -->
+  <VFEM2_Apparel_PlateHelmetHeavy.label>重型板甲头盔</VFEM2_Apparel_PlateHelmetHeavy.label>
+  <!-- EN: A bulky medieval helmet that provides full-head coverage. Offers a considerable amount of protection but restricts the wearer's field of vision. -->
+  <VFEM2_Apparel_PlateHelmetHeavy.description>笨重的中世纪头盔，提供极佳的防护效果，但牺牲了视野。</VFEM2_Apparel_PlateHelmetHeavy.description>
+  
+</LanguageData>

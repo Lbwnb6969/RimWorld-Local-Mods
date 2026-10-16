@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kite shield -->
+  <TA_KiteShield.label>鸢形盾</TA_KiteShield.label>
+  <!-- EN: Simple shield that can block simple projectiles and hits with melee weapons. -->
+  <TA_KiteShield.description>简单的盾牌，可以格挡普通投射物和近战武器的攻击。</TA_KiteShield.description>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_SchratDark_Sapling.label>树灵幼苗</DankPyon_SchratDark_Sapling.label>
+  <DankPyon_SchratDark_Sapling.labelPlural>树灵幼苗</DankPyon_SchratDark_Sapling.labelPlural>
+  <DankPyon_SchratDark_Sapling.labelMale>公树灵幼苗</DankPyon_SchratDark_Sapling.labelMale>
+  <DankPyon_SchratDark_Sapling.labelMalePlural>公树灵幼苗</DankPyon_SchratDark_Sapling.labelMalePlural>
+  <DankPyon_SchratDark_Sapling.labelFemale>母树灵幼苗</DankPyon_SchratDark_Sapling.labelFemale>
+  <DankPyon_SchratDark_Sapling.labelFemalePlural>母树灵幼苗</DankPyon_SchratDark_Sapling.labelFemalePlural>
+
+
+  <!-- Schrat Plains -->
+
+  <DankPyon_SchratPlain_Sapling.label>树灵幼苗</DankPyon_SchratPlain_Sapling.label>
+  <DankPyon_SchratPlain_Sapling.labelPlural>树灵幼苗</DankPyon_SchratPlain_Sapling.labelPlural>
+  <DankPyon_SchratPlain_Sapling.labelMale>公树灵幼苗</DankPyon_SchratPlain_Sapling.labelMale>
+  <DankPyon_SchratPlain_Sapling.labelMalePlural>公树灵幼苗</DankPyon_SchratPlain_Sapling.labelMalePlural>
+  <DankPyon_SchratPlain_Sapling.labelFemale>母树灵幼苗</DankPyon_SchratPlain_Sapling.labelFemale>
+  <DankPyon_SchratPlain_Sapling.labelFemalePlural>母树灵幼苗</DankPyon_SchratPlain_Sapling.labelFemalePlural>
+
+
+</LanguageData>

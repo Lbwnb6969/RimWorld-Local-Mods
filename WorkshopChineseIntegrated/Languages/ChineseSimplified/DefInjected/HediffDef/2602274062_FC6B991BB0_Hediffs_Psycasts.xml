@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient coordiantor -->
+  <CAAncientCoordinator.label>远古调谐</CAAncientCoordinator.label>
+  <!-- EN: The caster aswell as 4 other colonists are granted the power of the ancient protective aura without any downsides as long as the caster is alive. However, every other pawn exceeding the pawn limit will die. Requires the ancient gift. -->
+  <CAAncientCoordinator.description>为施法者自身与其他四名殖民者施加的无任何副作用的远古守护光环。只要施法者还活着，光环效果就不会消散。但是请一定要注意：只要你的总人数超过此能力的人数限制(四人，不包括施法者本身)，那么超出上限部分的殖民者将会当场毙命。再次施展可解除能力效果。只有获得远古天赋的天选之人才能使用此能力。</CAAncientCoordinator.description>
+  
+  <!-- EN: Ancient Gift -->
+  <CAAncientGift.label>远古天赋</CAAncientGift.label>
+  <!-- EN: The Ancient Gift, a power to access long forgotten potential which enables the gifted to cast ancient spells. Slow psyfocus recovery even without meditation and superb speed in melee combat or with a blade is spoken about in stories aswell. -->
+  <CAAncientGift.description>一种神秘的远古天赋，可打通与遗忘已久的深层潜能之间的灵能链接，使天赋获得者能够施展来自远古的心灵能力。在传说故事中也多次提到过：持有远古天赋者，即使不进行冥想也能慢慢恢复精神力；持有远古天赋者，在战斗中可以惊人的速度挥动武器。</CAAncientGift.description>
+  
+  <!-- EN: ancient protective aura -->
+  <CAAncientProtectiveAura.label>远古守护光环</CAAncientProtectiveAura.label>
+  <!-- EN: Protects the target from a large part of incoming damage, fire and heals wounds over time (even permanent ones when active long enough). \n\nReduces the overall heat a pawn can handle and accelerates psyfocus drain by 2% / day while active. The effect of this spell disappears if it is cast a second time on the target or if the targetted pawn runs out of psyfocus. \n\nRequires the ancient gift, unless enhanced by The Ancient Coordinator spell. -->
+  <CAAncientProtectiveAura.description>远古守护光环可以大幅减轻施法者所受的伤害并免疫燃烧，还能随时间推移渐渐治愈身上的伤口(包括永久性疤痕，但需要足够长的时间)。\n\n远古守护光环会降低施法者的最大心灵熵阈值，并在其活动时以每天2%的速度消耗精神力。再次施展或精神力归零可解除能力效果。\n\n只有获得远古天赋的天选之人才能使用此能力。</CAAncientProtectiveAura.description>
+  
+  <!-- EN: ancient protective aura (linked) -->
+  <CAAncientProtectiveAuraLinked.label>远古守护光环(已联结)</CAAncientProtectiveAuraLinked.label>
+  <!-- EN: Protects the target from a large part of incoming damage, fire and heals wounds over time (even permanent ones when active long enough). \n\nReduces the overall heat a pawn can handle and accelerates psyfocus drain by 2% / day while active. The effect of this spell disappears if it is cast a second time on the target or if the targetted pawn runs out of psyfocus. \n\nRequires the ancient gift, unless enhanced by The Ancient Coordinator spell. -->
+  <CAAncientProtectiveAuraLinked.description>远古守护光环可以大幅减轻施法者所受的伤害并免疫燃烧，还能随时间推移渐渐治愈身上的伤口(包括永久性疤痕，但需要足够长的时间)。\n\n远古守护光环会降低施法者的最大心灵熵阈值，并在其活动时以每天2%的速度消耗精神力。再次施展或精神力归零可解除能力效果。\n\n只有获得远古天赋的天选之人才能使用此能力。</CAAncientProtectiveAuraLinked.description>
+  
+  <!-- EN: mystical guiding light -->
+  <CAConjuredLight.label>指引秘灯</CAConjuredLight.label>
+  <!-- EN: A support light for travels that increases the travelers speed, may it be on a map or caravan. Can't be cast on the road and has a lengthy preperation time. Lasts 3 days. -->
+  <CAConjuredLight.description>召唤一盏指引秘灯，提高施法者在当前地图或远行时的移动速度。此能力的释放时间较长，且无法在远行途中使用。能力效果持续三天。</CAConjuredLight.description>
+  
+  <!-- EN: Draining nature -->
+  <CADrainNature.label>自然能量汲取</CADrainNature.label>
+  <!-- EN: A powerful being is draining the power from nearby plants. -->
+  <CADrainNature.description>此单位正从周围的植物中汲取能量。</CADrainNature.description>
+  
+  <!-- EN: Overheating brain -->
+  <CAOverheatingBrain.label>处理器过热</CAOverheatingBrain.label>
+  <!-- EN: Due to unnatural programming or production of the unit and it's components, the brain is overheating due to the expenentially growing errors occuring which can't be resolved. -->
+  <CAOverheatingBrain.description>此单位由于异常的编程或生产制造，导致仿生大脑处理器因无法解决大量产生的报错而进入过热状态。</CAOverheatingBrain.description>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional" MayRequire="athelas.medievalkingdoms.france">
+    <xpath>Defs/FactionDef[defName="BA_France_NobleHouse"]/modExtensions/li[@Class="KCSG.CustomGenOption"]/chooseFromSettlements</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/FactionDef[defName="BA_France_NobleHouse"]/modExtensions/li[@Class="KCSG.CustomGenOption"]/chooseFromSettlements</xpath>
+      <value>
+        <chooseFromSettlements>
+          <li>BA_HRETown</li><li>BA_HRETown</li><li>BA_HRETown</li>
+          <li>BA_HRETown</li><li>BA_HRETown</li><li>BA_HRETown</li>
+          <li>EESMK_France_BastideTownV3</li>
+          <li>EESMK_France_RoyalBoroughTownV3</li>
+          <li>EESMK_France_ChateauMarketTownV3</li>
+          <li>EESMK_France_CathedralCloseTownV3</li>
+        </chooseFromSettlements>
+      </value>
+    </match>
+  </Operation>
+</Patch>

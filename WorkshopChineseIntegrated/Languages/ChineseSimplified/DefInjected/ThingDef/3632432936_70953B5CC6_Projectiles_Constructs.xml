@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blunderbuss blast -->
+  <Bullet_VR_MiniBlunderbuss.label>喇叭枪齐射</Bullet_VR_MiniBlunderbuss.label>
+  
+  <!-- EN: crossbow bolt -->
+  <VR_Bullet_ConstructGun_Crossbow.label>弩箭</VR_Bullet_ConstructGun_Crossbow.label>
+  
+  <!-- EN: heavy bowgun shot -->
+  <VR_Bullet_ConstructGun_HeavyBowGun.label>重弓炮射击</VR_Bullet_ConstructGun_HeavyBowGun.label>
+  
+  <!-- EN: heavy crossbow bolt -->
+  <VR_Bullet_ConstructGun_HeavyCrossbow.label>重弩箭</VR_Bullet_ConstructGun_HeavyCrossbow.label>
+  
+  <!-- EN: lightning projectile -->
+  <VR_Bullet_LightingGunProjectile.label>闪电投射物</VR_Bullet_LightingGunProjectile.label>
+  
+  <!-- EN: lightning projectile -->
+  <VR_Bullet_TeslaChestProjectile.label>闪电投射物</VR_Bullet_TeslaChestProjectile.label>
+  
+  <!-- EN: lightning projectile -->
+  <VR_Bullet_TeslaTurretProjectile.label>闪电投射物</VR_Bullet_TeslaTurretProjectile.label>
+  
+  <!-- EN: colossus smash -->
+  <VR_ColossusSmashProj.label>巨像重击</VR_ColossusSmashProj.label>
+  
+  <!-- EN: ballistae shot -->
+  <VR_Construct_BallistaShot.label>弩炮射击</VR_Construct_BallistaShot.label>
+  
+</LanguageData>

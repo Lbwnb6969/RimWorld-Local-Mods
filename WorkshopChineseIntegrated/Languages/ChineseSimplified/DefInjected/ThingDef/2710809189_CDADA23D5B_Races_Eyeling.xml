@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: eyeling -->
+  <AA_Eyeling.label>眼灵</AA_Eyeling.label>
+  <!-- EN: A grotesquely enlarged eye, crawling around with the help of a few fleshy tentacles. Not very useful at all. Created by infusing an animal with the strange energies from an extradimensional corruption. -->
+  <AA_Eyeling.description>通过向动物体内注入来自腐化异纬度的奇异能量而突变成的诡异存在。这种借助几根肉质触手在周围爬行的怪诞巨眼看起来似乎毫无用处。</AA_Eyeling.description>
+  <!-- EN: eye -->
+  <AA_Eyeling.tools.eye.label>巨眼</AA_Eyeling.tools.eye.label>
+  
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: civil clan -->
+  <VFEM2_CivilClan.label>温和的氏族</VFEM2_CivilClan.label>
+  <!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan is more progressive than others, and is more likely to engage in trade and diplomacy with other factions. -->
+  <VFEM2_CivilClan.description>这些人在这里已经存在了很长时间。也许如同他们传说中隐喻的一样，他们的祖先于千年以前坠毁在这里。不管怎样，这些彪悍的维京人靠抢夺他人的劳动果实为生，在使用暴力时也不会有任何犹豫。\n\n虽说比起其它派系，他们的科技并不怎么发达，但是由于他们暴力，激进的天性，在战场上没人敢轻视他们。\n\n这种氏族比起其它维京人更加开放，不会抗拒与其它派系进行外交和贸易。</VFEM2_CivilClan.description>
+  <!-- EN: jarl -->
+  <VFEM2_CivilClan.leaderTitle>酋长</VFEM2_CivilClan.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_CivilClan.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</VFEM2_CivilClan.messageDefendersAttacking>
+  <!-- EN: nordsman -->
+  <VFEM2_CivilClan.pawnSingular>维京人</VFEM2_CivilClan.pawnSingular>
+  <!-- EN: nordspeople -->
+  <VFEM2_CivilClan.pawnsPlural>维京人</VFEM2_CivilClan.pawnsPlural>
+  
+  <!-- EN: rough clan -->
+  <VFEM2_ClanRough.label>粗野的氏族</VFEM2_ClanRough.label>
+  <!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan values warlike dominance; it may be difficult to turn them into an ally. -->
+  <VFEM2_ClanRough.description>这些人在这里已经存在了很长时间。也许如同他们传说中隐喻的一样，他们的祖先于千年以前坠毁在这里。不管怎样，这些彪悍的维京人靠抢夺他人的劳动果实为生，在使用暴力时也不会有任何犹豫。\n\n虽说比起其它派系，他们的科技并不怎么发达，但是由于他们暴力，激进的天性，在战场上没人敢轻视他们。\n\n这种氏族生性好斗，和他们维持好关系会很困难。</VFEM2_ClanRough.description>
+  <!-- EN: jarl -->
+  <VFEM2_ClanRough.leaderTitle>酋长</VFEM2_ClanRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_ClanRough.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</VFEM2_ClanRough.messageDefendersAttacking>
+  <!-- EN: nordsman -->
+  <VFEM2_ClanRough.pawnSingular>维京人</VFEM2_ClanRough.pawnSingular>
+  <!-- EN: nordspeople -->
+  <VFEM2_ClanRough.pawnsPlural>维京人</VFEM2_ClanRough.pawnsPlural>
+  
+  <!-- EN: savage clan -->
+  <VFEM2_ClanSavage.label>残暴的氏族</VFEM2_ClanSavage.label>
+  <!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan wreaks havoc in surrounding settlements and takes any survivors into slavery - it will be impossible to become their ally! -->
+  <VFEM2_ClanSavage.description>这些人在这里已经存在了很长时间。也许如同他们传说中隐喻的一样，他们的祖先于千年以前坠毁在这里。不管怎样，这些彪悍的维京人靠抢夺他人的劳动果实为生，在使用暴力时也不会有任何犹豫。\n\n虽说比起其它派系，他们的科技并不怎么发达，但是由于他们暴力，激进的天性，在战场上没人敢轻视他们。\n\n这种氏族喜欢主动挑起战争，掠夺周边派系的财富并将俘虏抓成奴隶，绝无可能成为他们的盟友。</VFEM2_ClanSavage.description>
+  <!-- EN: jarl -->
+  <VFEM2_ClanSavage.leaderTitle>酋长</VFEM2_ClanSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_ClanSavage.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</VFEM2_ClanSavage.messageDefendersAttacking>
+  <!-- EN: nordsman -->
+  <VFEM2_ClanSavage.pawnSingular>维京人</VFEM2_ClanSavage.pawnSingular>
+  <!-- EN: nordspeople -->
+  <VFEM2_ClanSavage.pawnsPlural>维京人</VFEM2_ClanSavage.pawnsPlural>
+  
+</LanguageData>

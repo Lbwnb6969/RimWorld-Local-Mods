@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate in shoddy table -->
+  <AM_TableQuality_Desired_AteInLowQualityTable.stages.ate_in_shoddy_table.label>在简陋的桌子上吃饭</AM_TableQuality_Desired_AteInLowQualityTable.stages.ate_in_shoddy_table.label>
+  <!-- EN: I had to eat at that ramshackle excuse for a table. Its wobbling legs and splintered surface were an insult to the act of dining itself. -->
+  <AM_TableQuality_Desired_AteInLowQualityTable.stages.ate_in_shoddy_table.description>我不得不在一张破烂不堪的桌子上吃饭。它摇晃的桌腿和破裂的桌面简直就是在侮辱进餐这一行为。</AM_TableQuality_Desired_AteInLowQualityTable.stages.ate_in_shoddy_table.description>
+  
+</LanguageData>

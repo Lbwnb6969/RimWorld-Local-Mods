@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Empire -->
+  <VFEC_NewEmpire.label>新帝国</VFEC_NewEmpire.label>
+  <!-- EN: Squabbling in the senate and cutthroat politics left you with distaste for anything regarding the will of the people. You deserve so much more - as your blood is royal and your wreath is golden. You gathered a few of the senators that sided with you and left the comforts of the Republic. It is time you unite them on your terms, under your rule. Glory to the empire. Glory to the Emperor! \nNote: Since you start being hostile to the Republic factions, this is a difficult scenario. -->
+  <VFEC_NewEmpire.description>你已经厌倦了元老院中终日的争吵和暗流涌动的政治斗争，以及事事都要受民意的束手束脚。你本应拥有更多——你的血统是如此高贵，你的桂冠是如此华丽。你召集了几个志同道合的元老议员离开了在共和国衣食无忧的生活。现在是你大展拳脚的时候了，将共和国的公民们再次收服为忠于你的子民，属于你的子民！帝国万岁！吾皇万岁！\n\n注意：你开局会和所有共和国敌对，这是个高难度的剧本。</VFEC_NewEmpire.description>
+  <!-- EN: Squabbling in the senate and cutthroat politics left you with distaste for anything regarding the will of the people. You deserve so much more - as your blood is royal and your wreath is golden. You gathered a few of the senators that sided with you and left the comforts of the Republic. It is time you unite them on your terms, under your rule. Glory to the empire. Glory to the Emperor! \nNote: Since you start being hostile to the Republic factions, this is a difficult scenario. -->
+  <VFEC_NewEmpire.scenario.description>你已经厌倦了元老院中终日的争吵和暗流涌动的政治斗争，以及事事都要受民意的束手束脚。你本应拥有更多——你的血统是如此高贵，你的桂冠是如此华丽。你召集了几个志同道合的元老议员离开了在共和国衣食无忧的生活。现在是你大展拳脚的时候了，将共和国的公民们再次收服为忠于你的子民，属于你的子民！帝国万岁！吾皇万岁！\n\n注意：你开局会和所有共和国敌对，这是个高难度的剧本。</VFEC_NewEmpire.scenario.description>
+  <!-- EN: New Empire -->
+  <VFEC_NewEmpire.scenario.name>新帝国</VFEC_NewEmpire.scenario.name>
+  <!-- EN: Squabbling in the senate and cutthroat politics left you with distaste for anything regarding the will of the people. You deserve so much more - as your blood is royal and your wreath is golden. You gathered a few of the senators that sided with you and left the comforts of the Republic. It is time you unite them on your terms, under your rule. -->
+  <VFEC_NewEmpire.scenario.parts.GameStartDialog.text>你已经厌倦了元老院中终日的争吵和暗流涌动的政治斗争，以及事事都要受民意的束手束脚。你本应拥有更多——你的血统是如此高贵，你的桂冠是如此华丽。你召集了几个志同道合的元老议员离开了在共和国衣食无忧的生活。现在是你大展拳脚的时候了，将共和国的公民们再次收服为忠于你的子民，属于你的子民！帝国万岁！吾皇万岁！</VFEC_NewEmpire.scenario.parts.GameStartDialog.text>
+  <!-- EN: A small camp -->
+  <VFEC_NewEmpire.scenario.parts.VFEC_AddStartingStructure.structureLabel>小营地</VFEC_NewEmpire.scenario.parts.VFEC_AddStartingStructure.structureLabel>
+  <!-- EN: A gathering of nobility with a grand purpose. A default Classical experience. -->
+  <VFEC_NewEmpire.scenario.summary>一群贵族的王道征途。标准的古典游戏体验。</VFEC_NewEmpire.scenario.summary>
+  
+</LanguageData>

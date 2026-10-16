@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: simple pinniped -->
+  <AEXP_SimplePinniped.label>鳍足类</AEXP_SimplePinniped.label>
+  <!-- EN: left lung -->
+  <AEXP_SimplePinniped.corePart.parts.left_lung.customLabel>左肺</AEXP_SimplePinniped.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <AEXP_SimplePinniped.corePart.parts.right_lung.customLabel>右肺</AEXP_SimplePinniped.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <AEXP_SimplePinniped.corePart.parts.left_kidney.customLabel>左肾</AEXP_SimplePinniped.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <AEXP_SimplePinniped.corePart.parts.right_kidney.customLabel>右肾</AEXP_SimplePinniped.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left fore-flipper -->
+  <AEXP_SimplePinniped.corePart.parts.left_foreflipper.customLabel>左前鳍肢</AEXP_SimplePinniped.corePart.parts.left_foreflipper.customLabel>
+  <!-- EN: right fore-flipper -->
+  <AEXP_SimplePinniped.corePart.parts.right_foreflipper.customLabel>右前鳍肢</AEXP_SimplePinniped.corePart.parts.right_foreflipper.customLabel>
+  
+  <!-- EN: tusked pinniped -->
+  <AEXP_TuskedPinniped.label>带长牙的鳍足类</AEXP_TuskedPinniped.label>
+  <!-- EN: left lung -->
+  <AEXP_TuskedPinniped.corePart.parts.left_lung.customLabel>左肺</AEXP_TuskedPinniped.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <AEXP_TuskedPinniped.corePart.parts.right_lung.customLabel>右肺</AEXP_TuskedPinniped.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <AEXP_TuskedPinniped.corePart.parts.left_kidney.customLabel>左肾</AEXP_TuskedPinniped.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <AEXP_TuskedPinniped.corePart.parts.right_kidney.customLabel>右肾</AEXP_TuskedPinniped.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>左长牙</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>右长牙</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: left fore-flipper -->
+  <AEXP_TuskedPinniped.corePart.parts.left_foreflipper.customLabel>左前鳍肢</AEXP_TuskedPinniped.corePart.parts.left_foreflipper.customLabel>
+  <!-- EN: right fore-flipper -->
+  <AEXP_TuskedPinniped.corePart.parts.right_foreflipper.customLabel>右前鳍肢</AEXP_TuskedPinniped.corePart.parts.right_foreflipper.customLabel>
+  
+</LanguageData>

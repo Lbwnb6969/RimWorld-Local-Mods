@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeTanningLiquorFromWood.label>以木头制作鞣酸 x6</MakeTanningLiquorFromWood.label>
+  <MakeTanningLiquorFromWood.description>使用原木的树皮和木材等成分制作一批鞣酸。</MakeTanningLiquorFromWood.description>
+  <MakeTanningLiquorFromWood.jobString>正在制作鞣酸。</MakeTanningLiquorFromWood.jobString>
+
+  <DankPyon_MakeTanningLiquorFromFood.label>以植物制作鞣酸 x6</DankPyon_MakeTanningLiquorFromFood.label>
+  <DankPyon_MakeTanningLiquorFromFood.description>使用含有单宁成分的植物制作一批鞣酸。</DankPyon_MakeTanningLiquorFromFood.description>
+  <DankPyon_MakeTanningLiquorFromFood.jobString>正在制作鞣酸。</DankPyon_MakeTanningLiquorFromFood.jobString>
+
+  <DankPyon_MakeTanningLiquorFromMeat.label>以肉类制作鞣酸 x6</DankPyon_MakeTanningLiquorFromMeat.label>
+  <DankPyon_MakeTanningLiquorFromMeat.description>使用含有单宁成分的有机物制作一批鞣酸。</DankPyon_MakeTanningLiquorFromMeat.description>
+  <DankPyon_MakeTanningLiquorFromMeat.jobString>正在制作鞣酸。</DankPyon_MakeTanningLiquorFromMeat.jobString>
+
+
+  <!-- 10X -->
+
+  <MakeTanningLiquorFromWood10X.label>以木头制作鞣酸 x60</MakeTanningLiquorFromWood10X.label>
+  <MakeTanningLiquorFromWood10X.description>使用原木的树皮和木材等成分制作一批鞣酸。</MakeTanningLiquorFromWood10X.description>
+  <MakeTanningLiquorFromWood10X.jobString>正在制作鞣酸。</MakeTanningLiquorFromWood10X.jobString>
+
+  <DankPyon_MakeTanningLiquorFromFood10X.label>以植物制作鞣酸 x60</DankPyon_MakeTanningLiquorFromFood10X.label>
+  <DankPyon_MakeTanningLiquorFromFood10X.description>使用含有单宁成分的植物制作一批鞣酸。</DankPyon_MakeTanningLiquorFromFood10X.description>
+  <DankPyon_MakeTanningLiquorFromFood10X.jobString>正在制作鞣酸。</DankPyon_MakeTanningLiquorFromFood10X.jobString>
+
+  <DankPyon_MakeTanningLiquorFromMeat10X.label>以肉类制作鞣酸 x60</DankPyon_MakeTanningLiquorFromMeat10X.label>
+  <DankPyon_MakeTanningLiquorFromMeat10X.description>使用含有单宁成分的有机物制作一批鞣酸。</DankPyon_MakeTanningLiquorFromMeat10X.description>
+  <DankPyon_MakeTanningLiquorFromMeat10X.jobString>正在制作鞣酸。</DankPyon_MakeTanningLiquorFromMeat10X.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: best crafter -->
+  <VME_Leader_BestCrafter.label>最强匠人</VME_Leader_BestCrafter.label>
+  <!-- EN: Our most skilled artisan is our leader, through their keen eye and delicate touch our workshops will sing the song of creation.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest level crafter in the colony (this will only work if the ideology is the primary one). -->
+  <VME_Leader_BestCrafter.description>唯有真正的良工巧匠才能成为我们的领袖。藉由他锐利的双眼与精湛的技艺，我们将在工作间里共同唱响造物颂歌。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 领袖职位将定期被强制委任给拥有最高手工等级的殖民者（只会在作为主流文化时生效）。</VME_Leader_BestCrafter.description>
+  
+  <!-- EN: best fighter -->
+  <VME_Leader_BestFighter.label>最强斗士</VME_Leader_BestFighter.label>
+  <!-- EN: Martial expertise, be it with a blade or spear is a show of strength and courage. Our most talented fighter will be our leader, no questions asked (this will only work if the ideology is the primary one). -->
+  <VME_Leader_BestFighter.description>无论擅长的兵器为何，格斗技能都是勇气与力量的体现。只有天赋异禀的强大战士才能成为我们的领袖（只会在作为主流文化时生效）。</VME_Leader_BestFighter.description>
+  
+  <!-- EN: godlike -->
+  <VME_Leader_Godlike.label>神皇</VME_Leader_Godlike.label>
+  <!-- EN: Our leader should be exalted as a god, to treat them as any less assures our demise.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Opinion of the leader depends on a person's certainty in its ideoligion. -->
+  <VME_Leader_Godlike.description>我们将伟大领袖奉为至高的神明，他即是我们兴衰荣辱的实质体现。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 殖民者对领袖的意见取决于他们对当前文化的认可度。</VME_Leader_Godlike.description>
+  <!-- EN: Supreme god emperor (certainty above 75%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>无上神皇（认可度高于75%）</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: God emperor (certainty above 50%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>伟大神皇（认可度高于50%）</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Dubious divinity (certainty above 25%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>神性猜忌（认可度高于25%）</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: False god (certainty below 25%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>堕落伪神（认可度低于25%）</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>
+  
+  <!-- EN: moralist -->
+  <VME_Leader_Moralist.label>道德先知</VME_Leader_Moralist.label>
+  <!-- EN: Our leader is a morale bastion, and through them and their divinity we shall flourish.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The colony's leader can use moralist abilities too. -->
+  <VME_Leader_Moralist.description>领袖不倒，士气永存。神圣的领袖必将带领我们走向繁荣与昌盛。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 殖民地的领袖也可以使用传道者的技能。</VME_Leader_Moralist.description>
+  
+  <!-- EN: three -->
+  <VME_Leader_Three.label>三位</VME_Leader_Three.label>
+  <!-- EN: It’s vital that we put our trust in the hands of few rather than the hand of one.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Up to three people can be designated as leader. -->
+  <VME_Leader_Three.description>权力必须要在三位领袖间得到制衡，我们无法容忍独揽大权的行为。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 最多可以委任三名领袖。</VME_Leader_Three.description>
+  
+</LanguageData>

@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Enable autumn leaf filth spawning. -->
+  <RG.SpawnAutumnLeaves>生成秋天落叶</RG.SpawnAutumnLeaves>
+	<!-- EN: Enable aspen leaf spawning. -->
+  <RG.SpawnLeaves>生成白杨落叶</RG.SpawnLeaves>
+	<!-- EN: Cold fog -->
+  <RG.ColdFog>寒雾</RG.ColdFog>
+	<!-- EN: Ice layer -->
+  <RG.IceLayer>冰层</RG.IceLayer>
+	<!-- EN: Fog velocity -->
+  <RG.FogVelocity>雾气速度</RG.FogVelocity>
+	<!-- EN: Fog temperature -->
+  <RG.FogTemp>雾气温度</RG.FogTemp>
+	<!-- EN: Spawn fogs on hot springs -->
+  <RG.SpawnFogOnHotSprings>温泉会生成雾气</RG.SpawnFogOnHotSprings>
+	<!-- EN: The dust devil has left the map. -->
+  <RG.SandDevilLeftTheMap>尘旋风离开了这片区域。</RG.SandDevilLeftTheMap>
+	<!-- EN: The dust devil has dissipated. -->
+  <RG.SandDevilDissipated>尘旋风消散了。</RG.SandDevilDissipated>
+	<!-- EN: Disable hail damage -->
+  <RG.DisableHailDamage>禁用冰雹伤害</RG.DisableHailDamage>
+	<!-- EN: Bathing zone -->
+  <RG.BatheZone>洗浴区</RG.BatheZone>
+	<!-- EN: Create a zone where your colonists are allowed to bathe in water. -->
+  <RG.DesignatorBatheZoneDesc>创建一片可供殖民者洗浴的区域。</RG.DesignatorBatheZoneDesc>
+	<!-- EN: {PAWN_nameDef} stopped bathing. Reason: {1}. -->
+  <RG.StoppedBathingMessage>{PAWN_nameDef}已停止洗浴。原因：{1}</RG.StoppedBathingMessage>
+	<!-- EN: Temperature too low. -->
+  <RG.TooCold>温度过低。</RG.TooCold>
+	<!-- EN: Temperature too high. -->
+  <RG.TooHot>温度过高。</RG.TooHot>
+	<!-- EN: Bathing is not possible: {0} -->
+  <RG.BathingIsNotPossible>无法洗浴：{0}</RG.BathingIsNotPossible>
+	<!-- EN: Bathing season is here! -->
+  <RG.BathingSeasonIsHere>当前季节可洗浴。</RG.BathingSeasonIsHere>
+	<!-- EN: Bathing zone is removed. -->
+  <RG.BathingZoneRemoved>洗浴区已被移除。</RG.BathingZoneRemoved>
+	<!-- EN: Bathing period: {0}/{1} days ({2} - {3}) -->
+  <RG.BathingPeriod>洗浴期：{0}/{1} 天 ({2} - {3})</RG.BathingPeriod>
+	<!-- EN: bathing -->
+  <RG.BathingGroup>洗浴</RG.BathingGroup>
+	<!-- EN: {0} has died because of heat. -->
+  <RG.MessagePlantDiedOfHeat>{0}因高温而枯死。</RG.MessagePlantDiedOfHeat>
+	<!-- EN: Any items checked here will be altered. -->
+  <PerspectiveOres.Settings.Header>贴图替换为即时生效，无需重启游戏。</PerspectiveOres.Settings.Header>
+	<!-- EN: Enable the "Make Camp" feature -->
+  <RG.EnableMakeCamp>启用“设立营地”功能</RG.EnableMakeCamp>
+	<!-- EN: Toggle it to allow player caravans to set up temporary camps on the world map. -->
+  <RG.EnableMakeCampDesc>启用此项可以让玩家的远行队在世界地图上设立一个临时的营地。</RG.EnableMakeCampDesc>
+	<!-- EN: Make camp -->
+  <RG.MakeCamp>设立营地</RG.MakeCamp>
+	<!-- EN: Make a temporary camp in this area. Your colonists will enter this area and you can forage, build simple structures, stage an attack or plan your next move. -->
+  <RG.MakeCampDesc>在此区域设立一个临时的营地。殖民者可以进入营地地图内觅食、建造简易建筑、筹备进攻或下一步行动。</RG.MakeCampDesc>
+	<!-- EN: Camp map preservation period -->
+  <RG.PreserveSavedCamps>营地地图存在时间</RG.PreserveSavedCamps>
+	<!-- EN: After leaving your camp, the local map is saved for some time. This allows you to return if you forgot something, as well as prevents cheating. Adjust the preserve period after which the saved maps should be generated anew. -->
+  <RG.PreserveSavedCampsDesc>当你的远行队离开营地后，营地所处的地图不会立即消失，而是保留一段时间。如果你忘带了什么东西或忘做了什么事情，还能及时返回，并防止作弊。营地地图到期消失后，其内部所有的一切都将重置（和原版机制相同）。</RG.PreserveSavedCampsDesc>
+	<!-- EN: empty camp -->
+  <RG.EmptyCamp>远行队营地（空）</RG.EmptyCamp>
+	<!-- EN: Time remaining: {0} -->
+  <RG.TimeRemaining>剩余时间：{0}</RG.TimeRemaining>
+	<!-- EN: Visit abandoned camp -->
+  <RG.VisitCamp>查看废弃营地</RG.VisitCamp>
+	<!-- EN: Plants no longer die from pollution -->
+  <RG.PlantPollutionNoDeath>植物不再因污染而死</RG.PlantPollutionNoDeath>
+	<!-- EN: When enabled, plants will no longer die as a result of pollution. They will still be polluted, but will not die. -->
+  <RG.PlantPollutionNoDeathDesc>如果启用此项，则植物不会再因受污染影响而死亡。</RG.PlantPollutionNoDeathDesc>
+	<!-- EN: Contains ore: {0} -->
+  <RG.ChunkContains>含有矿物：{0}</RG.ChunkContains>
+	<!-- EN: Toggle world map beautification -->
+  <RG.ToggleWorldMapBeautification>开关世界地图美化</RG.ToggleWorldMapBeautification>
+	<!-- EN: Enable {0} -->
+  <RG.Enable>启用{0}</RG.Enable>
+	<!-- EN: Splash size (default: {0}): {3} -->
+  <SimpleFxSplashes.Settings.SizeMultiplier>雨水滴溅效果大小（默认：{0}）：{3}</SimpleFxSplashes.Settings.SizeMultiplier>
+	<!-- EN: Adjust how big the splash particles are. -->
+  <SimpleFxSplashes.Settings.SizeMultiplier.Desc>调整雨水滴溅在地上时，产生的粒子效果的大小。</SimpleFxSplashes.Settings.SizeMultiplier.Desc>
+
+	<!-- EN: Splash rarity (default: {0}): {3} -->
+  <SimpleFxSplashes.Settings.SplashRarity>雨水滴溅效果罕见度（默认：{0}）：{3}</SimpleFxSplashes.Settings.SplashRarity>
+	<!-- EN: Lowering this will spawn more splash particle, and increasing will make them rarer. This impacts performance. -->
+  <SimpleFxSplashes.Settings.SplashRarity.Desc>降低此项的值会生成更多的雨水滴溅粒子效果，提高此项的值则反之。这会对游戏性能造成影响。</SimpleFxSplashes.Settings.SplashRarity.Desc>
+
+	<!-- EN: Filter natural tiles (default: {0}): {3} -->
+  <SimpleFxSplashes.Settings.FilterNature>自然地格过滤限制（默认：{0}）：{3}</SimpleFxSplashes.Settings.FilterNature>
+	<!-- EN: A reduction on natural cells (such as rough stone) allowed to splash rain. Only allow {0}% of natural tiles to splash rain. Increasing this impacts performance. -->
+  <SimpleFxSplashes.Settings.FilterNature.Desc>按百分比来限制可以产生雨水滴溅粒子效果的自然地格（比如粗糙的岩石地面）数量。当前只允许{0}%的自然地格产生雨水滴溅粒子效果。提高此项的值会对游戏性能造成影响。</SimpleFxSplashes.Settings.FilterNature.Desc>
+
+	<!-- EN: Consider outdoor temperature -->
+  <SimpleFxVapor.Settings.ConsiderOutdoors>室内低温寒气效果考虑室外温度</SimpleFxVapor.Settings.ConsiderOutdoors>
+	<!-- EN: Do not show indoor vapors if it's freezing cold outside. -->
+  <SimpleFxVapor.Settings.ConsiderOutdoors.Desc>本Mod集成了Simple FX: Vapor的功能，因此当室内温度过低时，会显示一层朦胧的寒冷雾气效果。如果启用此项，则当室外和室内温度都过低时，不会产生寒冷雾气效果。</SimpleFxVapor.Settings.ConsiderOutdoors.Desc>
+
+	<!-- EN: On -->
+  <SmartFarming.Icon.On>允许种植</SmartFarming.Icon.On>
+	<!-- EN: Sow the selected plant so long as it is currently the grow season. -->
+  <SmartFarming.Icon.On.Desc>只要季节温度适宜，就种植所选的植物。</SmartFarming.Icon.On.Desc>
+	<!-- EN: Off -->
+  <SmartFarming.Icon.Off>禁止种植</SmartFarming.Icon.Off>
+	<!-- EN: Do not sow any plants. -->
+  <SmartFarming.Icon.Off.Desc>禁止种植任何植物。</SmartFarming.Icon.Off.Desc>
+	<!-- EN: Smart -->
+  <SmartFarming.Icon.Smart>智能种植</SmartFarming.Icon.Smart>
+	<!-- EN: Sow plants so long as its predicted growth will reach the minimum harvest threshold before it is expected to die from cold or toxin. -->
+  <SmartFarming.Icon.Smart.Desc>只要能赶在被冻死或毒死前生长至最小收获阈值，就种植所选的植物。</SmartFarming.Icon.Smart.Desc>
+	<!-- EN: Force -->
+  <SmartFarming.Icon.Force>强制种植</SmartFarming.Icon.Force>
+	<!-- EN: Sow plants regardless of grow season status. -->
+  <SmartFarming.Icon.Force.Desc>无论季节温度是否适宜，都种植所选的植物。</SmartFarming.Icon.Force.Desc>
+	<!-- EN: Harvest now -->
+  <SmartFarming.Icon.HarvestNow>立即收获</SmartFarming.Icon.HarvestNow>
+	<!-- EN: Designate all plants in this zone for harvesting, even if they are not fully grown yet. -->
+  <SmartFarming.Icon.HarvestNow.Desc>将此区域内的所有植物标记为收获，即使它们未完全成熟。</SmartFarming.Icon.HarvestNow.Desc>
+	<!-- EN: Allow harvest -->
+  <SmartFarming.Icon.AllowHarvest>允许收获</SmartFarming.Icon.AllowHarvest>
+	<!-- EN: Turn this off to forbid pawns from harvesting this zone. -->
+  <SmartFarming.Icon.AllowHarvest.Desc>取消勾选此项将禁止殖民者在此区域收获。</SmartFarming.Icon.AllowHarvest.Desc>
+	<!-- EN: Align plants -->
+  <SmartFarming.Icon.OrchardAlignment>整齐种植</SmartFarming.Icon.OrchardAlignment>
+	<!-- EN: For plants that need a clearance zone, such as trees, pawns will try to align them in rows. This may not work well for oddly shaped zones. -->
+  <SmartFarming.Icon.OrchardAlignment.Desc>对于像树木这样无法相邻种植的植物而言，殖民者会试着将它们种植得更整齐。如果此区域的形状很不规则，则有可能不会生效。</SmartFarming.Icon.OrchardAlignment.Desc>
+	<!-- EN: Merge zones -->
+  <SmartFarming.Icon.MergeZones>合并区域</SmartFarming.Icon.MergeZones>
+	<!-- EN: Merge the selected zones into a single zone, using the first selected zone as the reference.
+	 -->
+  <SmartFarming.Icon.MergeZones.Desc>将选中的多个区域合并为一，并以首个选中的区域为主体。</SmartFarming.Icon.MergeZones.Desc>
+
+	<!-- EN: Low -->
+  <SmartFarming.Icon.Low>优先级:较低</SmartFarming.Icon.Low>
+	<!-- EN: Normal -->
+  <SmartFarming.Icon.Normal>优先级:普通</SmartFarming.Icon.Normal>
+	<!-- EN: Preferred -->
+  <SmartFarming.Icon.Preferred>优先级:优先</SmartFarming.Icon.Preferred>
+	<!-- EN: Important -->
+  <SmartFarming.Icon.Important>优先级:重要</SmartFarming.Icon.Important>
+	<!-- EN: Critical -->
+  <SmartFarming.Icon.Critical>优先级:关键</SmartFarming.Icon.Critical>
+	<!-- EN: Pawns are encouraged to sow and harvest plants in order of priority. -->
+  <SmartFarming.Icon.Priority.Desc>让殖民者尽可能地遵照优先级顺序来种植和收获各个区域内的植物。</SmartFarming.Icon.Priority.Desc>
+
+	<!-- EN: No petty jobs -->
+  <SmartFarming.Icon.NoPettyJobs>禁止零散补种</SmartFarming.Icon.NoPettyJobs>
+	<!-- EN: Pawns will not sow new plants to this zone unless there is enough work to do, configured in the settings. -->
+  <SmartFarming.Icon.NoPettyJobs.Desc>殖民者只会在此区域内空置的地格数量足够多时补种植物。可以在Mod设置中调整相关的值。</SmartFarming.Icon.NoPettyJobs.Desc>
+	<!-- EN: Enable -->
+  <SmartFarming.Settings.Enabled>启用“智能农耕”功能</SmartFarming.Settings.Enabled>
+	<!-- EN: Enable or disable smart farming. -->
+  <SmartFarming.Settings.Enabled.Desc>启用/禁用“智能农耕”功能。</SmartFarming.Settings.Enabled.Desc>
+
+	<!-- EN: Allow cold sowing -->
+  <SmartFarming.Settings.ColdSowing>允许低温种植</SmartFarming.Settings.ColdSowing>
+	<!-- EN: Normally, the game does not allow sowing when the ground is frozen, even if the type of plant being sown tolerates freezing temperatures. Disable this to maintain vanilla rules. -->
+  <SmartFarming.Settings.ColdSowing.Desc>通常而言，殖民者无法在温度过低时种植植物，即使它们并不受低温的影响。禁用此项将保持这一原版机制。</SmartFarming.Settings.ColdSowing.Desc>
+
+	<!-- EN: Allow harvest gizmo -->
+  <SmartFarming.Settings.AllowHarvest>显示“允许收获”按钮</SmartFarming.Settings.AllowHarvest>
+	<!-- EN: Show the "allow harvest" gizmo. Enabling this may have some performance impact for high population colonies with many crop workers. Changing this requires a game restart. -->
+  <SmartFarming.Settings.AllowHarvest.Desc>选中种植区时，在屏幕下方显示“允许收获”按钮。如果你的殖民地人口基数大且安排了许多种植者，启用此项可能会对游戏性能造成影响。更改此项需要重启游戏才能生效。</SmartFarming.Settings.AllowHarvest.Desc>
+
+	<!-- EN: Smart sow: -->
+  <SmartFarming.Settings.SmartSowLabel>智能种植：</SmartFarming.Settings.SmartSowLabel>
+	<!-- EN: Processed food factor: -->
+  <SmartFarming.Settings.ProcessedFoodLabel>烹饪食物系数：</SmartFarming.Settings.ProcessedFoodLabel>
+
+	<!-- EN: Use average temperature prediction instead of low -->
+  <SmartFarming.Settings.UseAverageTemperature>使用平均温度预测而非最低温度预测</SmartFarming.Settings.UseAverageTemperature>
+	<!-- EN: When predicting the weather for the Smart Sow feature, use the average temperature for the day instead of the low. Using the average will extend the grow season at the risk of losing some crops. -->
+  <SmartFarming.Settings.UseAverageTemperature.Desc>当智能种植功能预测温度阈值时，会基于当天的平均温度而非最低温度。使用平均温度会延长植物的可生长季节，但有损失部分植物的风险。</SmartFarming.Settings.UseAverageTemperature.Desc>
+
+	<!-- EN: Use average zone fertility instead of weakest -->
+  <SmartFarming.Settings.UseAverageFertility>使用种植区平均肥沃度而非最低肥沃度</SmartFarming.Settings.UseAverageFertility>
+	<!-- EN: When predicting plant growth, use the average zone fertility instead of the zone's weakest fertility. -->
+  <SmartFarming.Settings.UseAverageFertility.Desc>当预测植物生长程度时，会基于种植区的平均肥沃度而非最低肥沃度。</SmartFarming.Settings.UseAverageFertility.Desc>
+
+	<!-- EN: Automatically designate blighted crops for disposal -->
+  <SmartFarming.Settings.AutoCutBlighted>自动割除枯萎病植物</SmartFarming.Settings.AutoCutBlighted>
+	<!-- EN: If a crop becomes blighted, a cut work order will automatically be designated. -->
+  <SmartFarming.Settings.AutoCutBlighted.Desc>如果有植物患上了枯萎病，则会自动将它们标记为割除。</SmartFarming.Settings.AutoCutBlighted.Desc>
+
+	<!-- EN: Harvest early if threatened -->
+  <SmartFarming.Settings.AutoHarvestNow>遭受低温威胁时提前收获</SmartFarming.Settings.AutoHarvestNow>
+	<!-- EN: If tonight's weather is going to be deadly cold, designate all plants for an immediate harvest. -->
+  <SmartFarming.Settings.AutoHarvestNow.Desc>如果今晚有温度过低的风险，则立即将种植区内的所有植物标记为收获。</SmartFarming.Settings.AutoHarvestNow.Desc>
+	<!-- EN: Plants designated for an early harvest due tonight's forecasted weather. -->
+  <SmartFarming.Message.AutoHarvestNow>由于今晚温度过低，已提前将种植区内的所有植物标记为收获。</SmartFarming.Message.AutoHarvestNow>
+
+	<!-- EN: Alignment gizmo -->
+  <SmartFarming.Settings.OrchardAlignment>显示“整齐种植”按钮</SmartFarming.Settings.OrchardAlignment>
+	<!-- EN: Enables a gizmo that prompts pawns to plant trees in careful rows. -->
+  <SmartFarming.Settings.OrchardAlignment.Desc>选中种植区时，在屏幕下方显示“整齐种植”按钮，可以让殖民者将树木这样的植物种植得更整齐。</SmartFarming.Settings.OrchardAlignment.Desc>
+
+	<!-- EN: Automatically try to harvest dying crops -->
+  <SmartFarming.Settings.AutoCutDying>自动收获即将死亡的植物</SmartFarming.Settings.AutoCutDying>
+	<!-- EN: If a crop dies to the cold, try to automatically harvest any surviving crops before it is too late. Changing this requires a game restart. -->
+  <SmartFarming.Settings.AutoCutDying.Desc>如果有植物即将被冻死，则会自动将所有幸存的植物标记为收获。更改此项需要重启游戏才能生效。</SmartFarming.Settings.AutoCutDying.Desc>
+
+	<!-- EN: When grow zones give an estimated potential nutrition yield, it multiplies the raw food's nutrition by this value. For reference, a Simple Meal multiplies the value by 1.8, Fine Meals by 1.2, and Lavish Meals by 1.0. -->
+  <SmartFarming.Settings.ProcessedFood.Desc>当种植区显示预估的潜在营养值产量时，会将烹饪食物的营养值乘以此项的值。作为参考，简单食物会乘以1.8，精制食物会乘以1.2，奢侈食物会乘以1.0。</SmartFarming.Settings.ProcessedFood.Desc>
+
+	<!-- EN: Minimum temperature allowance (Mod default: {0}, Min: {1}, Max: {2}):  -->
+  <SmartFarming.Settings.MinTempSlider>最低温度容许值（默认：{0}，最小：{1}，最大：{2}）：</SmartFarming.Settings.MinTempSlider>
+	<!-- EN: When predicting the weather of the earliest harvest day, consider anything below this temperature unacceptable. Plants can potentially die at 0C, but can usually survive if it's only barely freezing for a few hours. However, random daily temperatre deviation may reduce accuracy. -->
+  <SmartFarming.Settings.MinTemp>当预测最早收获日期的温度阈值时，只要低于此温度就会视为不被容许的状态。植物有可能会在0℃时死亡，但如果仅短暂略低于0℃数小时，则通常会幸免于难。需要注意的是，随机的每日温度波动可能会降低预测准确性。</SmartFarming.Settings.MinTemp>
+
+	<!-- EN: Petty jobs margin (Mod default: {0}, Min: {1}, Max: {2}):  -->
+  <SmartFarming.Settings.PettyJobsSlider>禁止零散补种阈值（默认：{0}，最小：{1}，最大：{2}）：</SmartFarming.Settings.PettyJobsSlider>
+	<!-- EN: If "no petty jobs" is enabled on a zone, pawns will not sow a field unless there is at least this percentage of empty tiles to sow. This can be useful for animal grazing zones. -->
+  <SmartFarming.Settings.PettyJobs>如果有种植区勾选了“禁止零散补种”，则殖民者只会在空置的地格数量达到此项的百分比时补种植物。本功能对动物放牧区而言尤其实用。</SmartFarming.Settings.PettyJobs>
+
+	<!-- EN: \nEarliest harvest day:  -->
+  <SmartFarming.Inspector.MinHarvestDay>\n最早收获日期：</SmartFarming.Inspector.MinHarvestDay>
+	<!-- EN: \nPlants will likely die before harvest -->
+  <SmartFarming.Inspector.MinHarvestDayFail>\n植物可能会在收获前死亡</SmartFarming.Inspector.MinHarvestDayFail>
+	<!-- EN: \nFertility: {0} average / {1} weakest -->
+  <SmartFarming.Inspector.Fertility>\n平均肥沃度：{0}\n最低肥沃度：{1}</SmartFarming.Inspector.Fertility>
+	<!-- EN: \nAverage growth:  -->
+  <SmartFarming.Inspector.AverageGrowth>\n平均生长程度：</SmartFarming.Inspector.AverageGrowth>
+	<!-- EN: \nPotential nutrition:  -->
+  <SmartFarming.Inspector.Yield>\n潜在营养值：</SmartFarming.Inspector.Yield>
+	<!-- EN:  ({0} days worth) -->
+  <SmartFarming.Inspector.DaysWorth>（{0}/每天）</SmartFarming.Inspector.DaysWorth>
+
+	<!-- EN: Set zones to  -->
+  <SmartFarming.Icon.SetAll>将所有区域\n设置为\n</SmartFarming.Icon.SetAll>
+	<!-- EN: Are you sure you want to merge these zones? This action cannot be undone. -->
+  <SmartFarming.Icon.ConfirmMergeZones>你确定要将这些选中的区域合并吗？此操作无法撤销。</SmartFarming.Icon.ConfirmMergeZones>
+
+	<!-- EN: Disable all these features if you just want high performance vanilla fire. -->
+  <ScatteredFlames.Settings.DisableAll>禁用所有相关功能以保持对游戏性能更友好的原版火焰效果。</ScatteredFlames.Settings.DisableAll>
+	<!-- EN: Enable multi-flame graphics -->
+  <ScatteredFlames.Settings.MultiFlames>启用多团火焰贴图</ScatteredFlames.Settings.MultiFlames>
+	<!-- EN: Enabling this will allow multiple flames to inhabit the same tile. This is a cosmetic change, and mechanically it still works like one flame. -->
+  <ScatteredFlames.Settings.MultiFlames.Desc>如果启用此项，则允许单个地格内存在多团火焰。实际只有视觉上的变化，在游戏机制方面仍作为单团火焰判定。</ScatteredFlames.Settings.MultiFlames.Desc>
+	<!-- EN: Enable particle effects -->
+  <ScatteredFlames.Settings.SpecialFX>启用粒子效果</ScatteredFlames.Settings.SpecialFX>
+	<!-- EN: Allows wild fires to emit special effects such as sparks. -->
+  <ScatteredFlames.Settings.SpecialFX.Desc>使火焰能产生火星等粒子效果。</ScatteredFlames.Settings.SpecialFX.Desc>
+	<!-- EN: Enable smoke -->
+  <ScatteredFlames.Settings.Smoke>启用烟雾效果</ScatteredFlames.Settings.Smoke>
+	<!-- EN: If Simple FX: Smoke is installed, enabling this will cause wild fires to emit smoke, which will respect the current wind speed and direction. -->
+  <ScatteredFlames.Settings.Smoke.Desc>如果安装了Mod“Simple FX: Smoke”，则启用此项会使火焰产生烟雾效果，并受到风速和风向的影响。</ScatteredFlames.Settings.Smoke.Desc>
+	<!-- EN: Optimize shadows -->
+  <ScatteredFlames.Settings.OptimizeShadows>燃烧阴影优化</ScatteredFlames.Settings.OptimizeShadows>
+	<!-- EN: When enabled, things that are currently on fire will not emit a shadow. -->
+  <ScatteredFlames.Settings.OptimizeShadows.Desc>如果启用此项，则物品燃烧时将不会产生阴影。</ScatteredFlames.Settings.OptimizeShadows.Desc>
+	<!-- EN: Disable fire watcher -->
+  <ScatteredFlames.Settings.FireWatcher>禁用火灾降雨机制</ScatteredFlames.Settings.FireWatcher>
+	<!-- EN: Normally, if a wild fire spirals out of control long enough, the storyteller will summon rain. You can disable this feature here. -->
+  <ScatteredFlames.Settings.FireWatcher.Desc>通常情况下，如果火灾因失控而蔓延了足够长的时间，则游戏的叙事者会自动下雨救急。你可以通过禁用此项来关闭这一机制。</ScatteredFlames.Settings.FireWatcher.Desc>
+	<!-- EN: These require reloading your save (you do not need to restart the entire game). -->
+  <ScatteredFlames.ReloadRequired>更改此项需要重新加载你的游戏存档才能生效（不需要重启游戏）。</ScatteredFlames.ReloadRequired>
+	<!-- EN: Reload required -->
+  <ScatteredFlames.ReloadHeader>需要重新加载游戏存档</ScatteredFlames.ReloadHeader>
+	<!-- EN: Graphics: -->
+  <ScatteredFlames.Settings.Header.Graphics>贴图：</ScatteredFlames.Settings.Header.Graphics>
+	<!-- EN: Misc: -->
+  <ScatteredFlames.Settings.Header.Misc>杂项：</ScatteredFlames.Settings.Header.Misc>
+	<!-- EN: Ignite -->
+  <ScatteredFlames.Ignite.Label>点燃</ScatteredFlames.Ignite.Label>
+	<!-- EN: Set something aflame. -->
+  <ScatteredFlames.Ignite.Desc>命令选定的殖民者点燃目标。</ScatteredFlames.Ignite.Desc>
+	<!-- EN: This pawn is afraid of fire. -->
+  <ScatteredFlames.Ignite.Scared>此单位畏惧火焰。</ScatteredFlames.Ignite.Scared>
+	<!-- EN: Enable ignite gizmo -->
+  <ScatteredFlames.Settings.IgniteGizmo>启用“点燃”功能</ScatteredFlames.Settings.IgniteGizmo>
+	<!-- EN: Adds an "Ignite" gizmo buttons to your colonists, allowing them to manually start fires, similar to how raiders can. -->
+  <ScatteredFlames.Settings.IgniteGizmo.Desc>如果启用此项，则当选中殖民者时，会在屏幕下方新增一个“点燃”按钮，允许你手动命令殖民者点燃指定目标，就像那些喜欢冲进家里到处放火的袭击者们一样。</ScatteredFlames.Settings.IgniteGizmo.Desc>
+
+	<!-- EN: Enable scattered flames -->
+  <RG.EnableScatteredFlames>启用“跃动星火”功能</RG.EnableScatteredFlames>
+	<!-- EN: Toggles the scattered flames visual effect. (Default: True) -->
+  <RG.EnableScatteredFlames.Desc>启用/禁用“跃动星火”功能。默认为启用状态。</RG.EnableScatteredFlames.Desc>
+
+	<!-- EN: Enable water puddles -->
+  <RG.RainWaterPuddles>启用“水洼生成”功能</RG.RainWaterPuddles>
+	<!-- EN: Enable/disable formation of water puddles during rain. -->
+  <RG.RainWaterPuddles.Desc>启用/禁用下雨时在地上生成水洼的功能。</RG.RainWaterPuddles.Desc>
+	<!-- EN: Clean water puddles -->
+  <RG.RainCleanWaterPuddles>清理水洼</RG.RainCleanWaterPuddles>
+	<!-- EN: Enable/disable cleaning of water puddles on home area. -->
+  <RG.RainCleanWaterPuddles.Desc>启用/禁用自动清理居住区内的水洼。</RG.RainCleanWaterPuddles.Desc>
+	<!-- EN: Puddle chance -->
+  <RG.PuddleChance>水洼生成率</RG.PuddleChance>
+	<!-- EN: Chance at which puddles will spawn on the map (Default 20%) -->
+  <RG.PuddleChance.Desc>在地图上生成水洼的几率。默认为20%。</RG.PuddleChance.Desc>
+</LanguageData>

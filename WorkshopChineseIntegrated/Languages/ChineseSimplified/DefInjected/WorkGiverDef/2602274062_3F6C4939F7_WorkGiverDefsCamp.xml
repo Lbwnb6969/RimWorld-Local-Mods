@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook meals at campfire -->
+  <CADoBillsCookCampfireRoast.label>在篝火烹饪食物</CADoBillsCookCampfireRoast.label>
+  <!-- EN: cooking at -->
+  <CADoBillsCookCampfireRoast.gerund>烹饪于</CADoBillsCookCampfireRoast.gerund>
+  <!-- EN: cook -->
+  <CADoBillsCookCampfireRoast.verb>烹饪</CADoBillsCookCampfireRoast.verb>
+  
+  <!-- EN: do bills at campfire -->
+  <CADoBillsHaulCampfireRoast.label>在篝火工作</CADoBillsHaulCampfireRoast.label>
+  <!-- EN: working at -->
+  <CADoBillsHaulCampfireRoast.gerund>工作于</CADoBillsHaulCampfireRoast.gerund>
+  <!-- EN: work at -->
+  <CADoBillsHaulCampfireRoast.verb>工作于</CADoBillsHaulCampfireRoast.verb>
+  
+  <!-- EN: work at refinery -->
+  <CADoBillsSpacerRefinery.label>操作精炼设备</CADoBillsSpacerRefinery.label>
+  <!-- EN: refining chemicals at -->
+  <CADoBillsSpacerRefinery.gerund>提炼于</CADoBillsSpacerRefinery.gerund>
+  <!-- EN: refine chemicals -->
+  <CADoBillsSpacerRefinery.verb>提炼</CADoBillsSpacerRefinery.verb>
+  
+</LanguageData>

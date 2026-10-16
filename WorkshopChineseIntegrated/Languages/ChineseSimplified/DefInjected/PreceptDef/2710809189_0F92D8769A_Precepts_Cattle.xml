@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_Cattle_Improved.label>改善</AM_Cattle_Improved.label>
+  
+  <AM_Cattle_Improved.description>通过精心饲养与照料，我们将尽可能地让我们的牛保持在最佳状态。更强壮、更健康且更多产的牧群是牧场走向繁荣的基石，也是我们辛勤付出的佐证。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 此戒律对于“牛”的定义其实相当宽泛：任何可以挤奶的动物都包括在内，再额外加上雪牛和野牛。没错，其他mod添加的动物也算。你甚至可以打造一座霜之巨螨牧场！\n - 殖民地饲养的牛类动物将获得-15%营养需求，+25%进食速度和+15%免疫速度的加成。</AM_Cattle_Improved.description>
+  
+</LanguageData>

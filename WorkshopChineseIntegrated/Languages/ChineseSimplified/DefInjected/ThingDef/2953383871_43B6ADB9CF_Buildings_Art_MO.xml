@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_SculptureSmall_Ice.label>小型冰雕</DankPyon_SculptureSmall_Ice.label>
+  <DankPyon_SculptureSmall_Ice.description>跟身体大小成正比的雕像。</DankPyon_SculptureSmall_Ice.description>
+
+  <DankPyon_SculptureLarge_Ice.label>大型冰雕</DankPyon_SculptureLarge_Ice.label>
+  <DankPyon_SculptureLarge_Ice.description>跟人物大小成正比的雕像。</DankPyon_SculptureLarge_Ice.description>
+
+  <DankPyon_SculptureGrand_Ice.label>巨型冰雕</DankPyon_SculptureGrand_Ice.label>
+  <DankPyon_SculptureGrand_Ice.description>能塞满房间的巨大雕像。</DankPyon_SculptureGrand_Ice.description>
+
+  <DankPyon_MinifiedIceThing.label>打包的物品</DankPyon_MinifiedIceThing.label>
+
+  <!-- Grand Statue Base -->
+
+  <DankPyon_Bust.label>半身像</DankPyon_Bust.label>
+  <DankPyon_Bust.description>一块躯干大小的材料雕刻成的艺术品。</DankPyon_Bust.description>
+
+  <DankPyon_Pedestal.label>底座</DankPyon_Pedestal.label>
+  <DankPyon_Pedestal.description>用作展示物品的底座的支架。</DankPyon_Pedestal.description>
+
+  <DankPyon_ArmorStatue.label>盔甲雕像</DankPyon_ArmorStatue.label>
+  <DankPyon_ArmorStatue.description>真人大小骑士的复制品。</DankPyon_ArmorStatue.description>
+
+
+  <!-- Large Ancient Statues -->
+
+  <DankPyon_Ancient_Column.label>远古高柱</DankPyon_Ancient_Column.label>
+  <DankPyon_Ancient_Column.description>设计华丽的高柱子。</DankPyon_Ancient_Column.description>
+
+  <DankPyon_RNGLarge2x2c.label>伟大骰子神雕塑</DankPyon_RNGLarge2x2c.label>
+  <DankPyon_RNGLarge2x2c.description>地下帝国崇拜的众多神灵之一。众所周知，骰子之神有时是仁慈的……但大多数时候是无情的。</DankPyon_RNGLarge2x2c.description>
+
+  <DankPyon_RNG2x2c.label>伟大骰子神方尖碑</DankPyon_RNG2x2c.label>
+  <DankPyon_RNG2x2c.description>地下帝国崇拜的众多神灵之一。众所周知，骰子之神有时是仁慈的……但大多数时候是无情的。</DankPyon_RNG2x2c.description>
+
+  <DankPyon_ArchonSculpture2x2c.label>大执政官雕塑</DankPyon_ArchonSculpture2x2c.label>
+  <DankPyon_ArchonSculpture2x2c.description>曾经身分显赫的统治者的化身。</DankPyon_ArchonSculpture2x2c.description>
+
+  <DankPyon_ArchonObeliskSculpture2x2c.label>大执政官方尖碑</DankPyon_ArchonObeliskSculpture2x2c.label>
+  <DankPyon_ArchonObeliskSculpture2x2c.description>曾经身分显赫的统治者的化身。</DankPyon_ArchonObeliskSculpture2x2c.description>
+
+  <DankPyon_Obelisk2x2c.label>大方尖碑</DankPyon_Obelisk2x2c.label>
+  <DankPyon_Obelisk2x2c.description>一座刻有未知语言铭文的古老纪念碑。</DankPyon_Obelisk2x2c.description>
+
+  <DankPyon_Brazier2x2c.label>远古方尖碑火盆</DankPyon_Brazier2x2c.label>
+  <DankPyon_Brazier2x2c.description>一座古老的纪念碑，上面有一个火盆，燃烧得如此明亮。</DankPyon_Brazier2x2c.description>
+
+  <DankPyon_Brazier1x1c.label>远古火盆</DankPyon_Brazier1x1c.label>
+  <DankPyon_Brazier1x1c.description>一个古老的火盆，燃烧得如此明亮。</DankPyon_Brazier1x1c.description>
+
+
+</LanguageData>

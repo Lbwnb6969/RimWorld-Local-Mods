@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: It's fall -->
+  <QuadrumLikesFall.stages.Its_fall.label>现在是秋天</QuadrumLikesFall.stages.Its_fall.label>
+  <!-- EN: Best time of the year! -->
+  <QuadrumLikesFall.stages.Its_fall.description>一年中最美好的时光！</QuadrumLikesFall.stages.Its_fall.description>
+
+  <!-- EN: Longing for fall -->
+  <QuadrumLikesFallS.stages.Longing_for_fall.label>思念秋天</QuadrumLikesFallS.stages.Longing_for_fall.label>
+  <!-- EN: I miss fall! -->
+  <QuadrumLikesFallS.stages.Longing_for_fall.description>我想念秋天！</QuadrumLikesFallS.stages.Longing_for_fall.description>
+
+  <!-- EN: It's spring -->
+  <QuadrumLikesSpring.stages.Its_spring.label>现在是春天</QuadrumLikesSpring.stages.Its_spring.label>
+  <!-- EN: Best time of the year! -->
+  <QuadrumLikesSpring.stages.Its_spring.description>一年中最美好的时光！</QuadrumLikesSpring.stages.Its_spring.description>
+
+  <!-- EN: Longing for spring -->
+  <QuadrumLikesSpringF.stages.Longing_for_spring.label>思念春天</QuadrumLikesSpringF.stages.Longing_for_spring.label>
+  <!-- EN: I miss spring! -->
+  <QuadrumLikesSpringF.stages.Longing_for_spring.description>我想念春天！</QuadrumLikesSpringF.stages.Longing_for_spring.description>
+
+  <!-- EN: It's summer -->
+  <QuadrumLikesSummer.stages.Its_summer.label>现在是夏天</QuadrumLikesSummer.stages.Its_summer.label>
+  <!-- EN: Best time of the year! -->
+  <QuadrumLikesSummer.stages.Its_summer.description>一年中最美好的时光！</QuadrumLikesSummer.stages.Its_summer.description>
+
+  <!-- EN: Longing for summer -->
+  <QuadrumLikesSummerW.stages.Longing_for_summer.label>思念夏天</QuadrumLikesSummerW.stages.Longing_for_summer.label>
+  <!-- EN: I miss summer! -->
+  <QuadrumLikesSummerW.stages.Longing_for_summer.description>我想念夏天！</QuadrumLikesSummerW.stages.Longing_for_summer.description>
+
+  <!-- EN: It's winter -->
+  <QuadrumLikesWinter.stages.Its_winter.label>现在是冬天</QuadrumLikesWinter.stages.Its_winter.label>
+  <!-- EN: Best time of the year! -->
+  <QuadrumLikesWinter.stages.Its_winter.description>一年中最美好的时光！</QuadrumLikesWinter.stages.Its_winter.description>
+
+  <!-- EN: Longing for winter -->
+  <QuadrumLikesWinterS.stages.Longing_for_winter.label>思念冬天</QuadrumLikesWinterS.stages.Longing_for_winter.label>
+  <!-- EN: I miss winter! -->
+  <QuadrumLikesWinterS.stages.Longing_for_winter.description>我想念冬天！</QuadrumLikesWinterS.stages.Longing_for_winter.description>
+
+</LanguageData>

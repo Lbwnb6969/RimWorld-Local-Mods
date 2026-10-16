@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <JobDef>
+    <defName>EES_InterceptComms</defName>
+    <driverClass>EvolvingEnemyStrongholds.JobDriver_InterceptComms</driverClass>
+    <reportString>적 통신을 감청하는 중.</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+  </JobDef>
+
+  <JobDef>
+    <defName>EES_PrecisionStrike</defName>
+    <driverClass>EvolvingEnemyStrongholds.JobDriver_InterceptComms</driverClass>
+    <reportString>적 전초기지를 원격 정밀 타격하는 중.</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+  </JobDef>
+
+</Defs>

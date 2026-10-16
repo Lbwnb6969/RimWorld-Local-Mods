@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Apothecary -->
+  <BEWH_ChapterColourApothecary.label>药剂师</BEWH_ChapterColourApothecary.label>
+  
+  <!-- EN: Deathwatch -->
+  <BEWH_ChapterColourDW.label>死亡守望</BEWH_ChapterColourDW.label>
+  
+  <!-- EN: Dark Angels -->
+  <BEWH_ChapterColourI.label>黑暗天使</BEWH_ChapterColourI.label>
+  
+  <!-- EN: Emperor's Children -->
+  <BEWH_ChapterColourIII.label>帝皇之子</BEWH_ChapterColourIII.label>
+  
+  <!-- EN: Iron Warriors -->
+  <BEWH_ChapterColourIV.label>钢铁勇士</BEWH_ChapterColourIV.label>
+  
+  <!-- EN: Blood Angels -->
+  <BEWH_ChapterColourIX.label>圣血天使</BEWH_ChapterColourIX.label>
+  
+  <!-- EN: White Scars -->
+  <BEWH_ChapterColourV.label>白色伤疤</BEWH_ChapterColourV.label>
+  
+  <!-- EN: Space Wolves -->
+  <BEWH_ChapterColourVI.label>太空野狼</BEWH_ChapterColourVI.label>
+  
+  <!-- EN: Imperial Fists -->
+  <BEWH_ChapterColourVII.label>帝国之拳</BEWH_ChapterColourVII.label>
+  
+  <!-- EN: Night Lords -->
+  <BEWH_ChapterColourVIII.label>午夜领主</BEWH_ChapterColourVIII.label>
+  
+  <!-- EN: Iron Hands -->
+  <BEWH_ChapterColourX.label>钢铁之手</BEWH_ChapterColourX.label>
+  
+  <!-- EN: World Eaters -->
+  <BEWH_ChapterColourXII.label>吞世者</BEWH_ChapterColourXII.label>
+  
+  <!-- EN: Ultramarines -->
+  <BEWH_ChapterColourXIII.label>极限战士</BEWH_ChapterColourXIII.label>
+  
+  <!-- EN: Death Guard -->
+  <BEWH_ChapterColourXIV.label>死亡守卫</BEWH_ChapterColourXIV.label>
+  
+  <!-- EN: Raven Guard -->
+  <BEWH_ChapterColourXIX.label>暗鸦守卫</BEWH_ChapterColourXIX.label>
+  
+  <!-- EN: Thousand Sons -->
+  <BEWH_ChapterColourXV.label>千疮之子</BEWH_ChapterColourXV.label>
+  
+  <!-- EN: Sons of Horus -->
+  <BEWH_ChapterColourXVI.label>荷鲁斯之子</BEWH_ChapterColourXVI.label>
+  
+  <!-- EN: Word Bearers -->
+  <BEWH_ChapterColourXVII.label>怀言者</BEWH_ChapterColourXVII.label>
+  
+  <!-- EN: Salamanders -->
+  <BEWH_ChapterColourXVIII.label>火蜥蜴</BEWH_ChapterColourXVIII.label>
+  
+  <!-- EN: Alpha Legion -->
+  <BEWH_ChapterColourXX.label>阿尔法军团</BEWH_ChapterColourXX.label>
+  
+</LanguageData>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>lesson(priority=-1)->things happen</li>
+    <li>r_pattern->"[r_asatruLessonIntro] [r_lesson]. [r_lessonReinforcement] [r_asatruLessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->fragment of a [edited] [saga] found [museum]</li>
+    <li>edited->damaged</li>
+    <li>edited->misinterpreted</li>
+    <li>edited->ancient</li>
+    <li>edited->forgotten</li>
+    <li>edited->preserved</li>
+    <li>saga->Edda</li>
+    <li>saga->rune stone inscription</li>
+    <li>saga->skaldic verse</li>
+    <li>saga->ancient saga</li>
+    <li>museum->in the archive of Yggdrasil Station</li>
+    <li>museum->on a distant star colony named Himinbjörg</li>
+    <li>museum->in the Imperial Hall of Ancient Relics</li>
+    <li>museum->in the ruins of Jotunheim Prime</li>
+    <li>museum->in the vaults of the Keepers of Memory</li>
+    <li>asatruLessonIntro->Hear the words of Odin, All-Father, who whispers from the Well of Urd:</li>
+    <li>asatruLessonIntro->Lo, the verses of the Völuspá proclaim to all who would listen:</li>
+    <li>asatruLessonIntro->Take heed of Thor's hammer as it strikes, for it teaches:</li>
+    <li>asatruLessonIntro->Hark, the ravens Huginn and Muninn circle and cry their truth:</li>
+    <li>asatruLessonIntro->Under the shade of Yggdrasil, the gods did gather and declare:</li>
+    <li>asatruLessonIntro->By the light of Baldr's blessing, know this:</li>
+    <li>asatruLessonIntro->On the fjords of the Nine Worlds, wisdom echoes, saying:</li>
+    <li>asatruLessonIntro->The runes carved deep into the stones of Midgard teach us thus:</li>
+    <li>asatruLessonReinforcement->May your deeds echo in the halls of Valhalla.</li>
+    <li>asatruLessonReinforcement->The Norns weave your destiny with threads of honor.</li>
+    <li>asatruLessonReinforcement->Stand firm, for the gods reward courage and resolve.</li>
+    <li>asatruLessonReinforcement->Hail, for your actions shall inspire skalds to song.</li>
+    <li>asatruLessonReinforcement->The hammer of Thor blesses those who uphold truth and strength.</li>
+    <li>asatruLessonReinforcement->The All-Father watches those who honor the old ways.</li>
+    <li>asatruLessonReinforcement->May you find victory in the sacred bonds of kinship.</li>
+    <li>lessonReinforcement->And so the tale will live on.</li>
+  -->
+  <VFEM2_Structure_Norse_Description.rules.rulesStrings>
+    <li>lesson(priority=-1)->风水轮转</li>
+    <li>r_pattern->“[r_asatruLessonIntro][r_lesson]。[r_lessonReinforcement][r_asatruLessonReinforcement]”\n\n ——[lessonAttribution]</li>
+    <li>lessonAttribution->一块[museum]找到的[edited][saga]</li>
+    <li>edited->破损</li>
+    <li>edited->模糊</li>
+    <li>edited->古代</li>
+    <li>edited->尘封</li>
+    <li>edited->祖传</li>
+    <li>saga->埃达经</li>
+    <li>saga->符文石板</li>
+    <li>saga->吟游诗篇</li>
+    <li>saga->史诗</li>
+    <li>museum->在“世界树”太空站的档案库中</li>
+    <li>museum->在遥远的“天卫之宫”殖民星上</li>
+    <li>museum->在皇家古迹馆里</li>
+    <li>museum->在约顿海姆主星的废墟中</li>
+    <li>museum->在“密米尔”避难所中</li>
+    <li>asatruLessonIntro->聆听众神之父奥丁于乌尔德之泉边的布道吧：</li>
+    <li>asatruLessonIntro->瞧，《女巫预言》的诗句向所有愿意倾听的人宣告：</li>
+    <li>asatruLessonIntro->听，雷神之锤在挥舞，每一次敲击都在教导我们：</li>
+    <li>asatruLessonIntro->听，福金和雾尼二鸦围成一圈，啼叫着它们的真理：</li>
+    <li>asatruLessonIntro->在世界树的阴影之下，众神聚在一起宣告：</li>
+    <li>asatruLessonIntro->以巴尔德尔的祝福之光的名义，请牢记：</li>
+    <li>asatruLessonIntro->在九界的峡湾上，回响的智慧之音在诉说：</li>
+    <li>asatruLessonIntro->米德加德的石头上铭刻的符文教育我们：</li>
+    <li>asatruLessonReinforcement->愿你的功名在英灵殿的大堂中回响。</li>
+    <li>asatruLessonReinforcement->你的命运由诺伦三女神用荣誉之线织成。</li>
+    <li>asatruLessonReinforcement->保持坚强，众神会奖励你的勇气与决心。</li>
+    <li>asatruLessonReinforcement->称颂你，你的事迹将会被吟游诗人们传唱。</li>
+    <li>asatruLessonReinforcement->索尔的战锤会保佑所有身拥力量和真理的人。</li>
+    <li>asatruLessonReinforcement->众神之父会关照所有尊崇传统之人。</li>
+    <li>asatruLessonReinforcement->愿你携带这血脉的羁绊百战百胜。</li>
+    <li>lessonReinforcement->而这传奇将流芳百世。</li>
+  </VFEM2_Structure_Norse_Description.rules.rulesStrings>
+  
+</LanguageData>

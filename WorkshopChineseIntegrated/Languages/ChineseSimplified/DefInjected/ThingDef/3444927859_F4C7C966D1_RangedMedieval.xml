@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arbalest -->
+  <VFEM2_Arbalest.label>钢弩</VFEM2_Arbalest.label>
+  <!-- EN: A powerful crossbow. Fires a heavy bolt over extreme distances, but takes a long time to cock it due to the need to use the cranequin. -->
+  <VFEM2_Arbalest.description>一把威力强大的重弩。能将重型弩矢射往很远的距离，但需要用滑轮组来装填，速度很慢。</VFEM2_Arbalest.description>
+  <!-- EN: limb -->
+  <VFEM2_Arbalest.tools.limb.label>弩身</VFEM2_Arbalest.tools.limb.label>
+  <!-- EN: arbalest -->
+  <VFEM2_Arbalest.verbs.Verb_Shoot.label>钢弩</VFEM2_Arbalest.verbs.Verb_Shoot.label>
+  
+  <!-- EN: warbow arrow -->
+  <VFEM2_Arrow_Warbow.label>钢弩矢</VFEM2_Arrow_Warbow.label>
+  
+  <!-- EN: arbalest bolt -->
+  <VFEM2_Bolt_Arbalest.label>钢弩矢</VFEM2_Bolt_Arbalest.label>
+  
+  <!-- EN: arquebus grapeshot -->
+  <VFEM2_Bullet_Arquebus.label>鸟铳弹丸</VFEM2_Bullet_Arquebus.label>
+  
+  <!-- EN: flintlock shot -->
+  <VFEM2_Bullet_Flintlock.label>燧发枪弹丸</VFEM2_Bullet_Flintlock.label>
+  
+  <!-- EN: handcannon grapeshot -->
+  <VFEM2_Bullet_HandCannon.label>手铳弹丸</VFEM2_Bullet_HandCannon.label>
+  
+  <!-- EN: musket shot -->
+  <VFEM2_Bullet_Musket.label>滑膛枪弹丸</VFEM2_Bullet_Musket.label>
+  
+  <!-- EN: arquebus -->
+  <VFEM2_Gun_Arquebus.label>鸟铳</VFEM2_Gun_Arquebus.label>
+  <!-- EN: An ancient firearm with a smoothbore barrel, the arquebus delivers powerful shots at decent range. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
+  <VFEM2_Gun_Arquebus.description>古老的滑膛火器，可以在一定距离外射出威力不俗的弹丸。它打出的球形铅弹会在空气摩擦中快速流失动能，而且穿甲性能十分低下。击发火铳时的火药燃烧反应会产生一团影响视线的烟雾。</VFEM2_Gun_Arquebus.description>
+  <!-- EN: stock -->
+  <VFEM2_Gun_Arquebus.tools.stock.label>枪托</VFEM2_Gun_Arquebus.tools.stock.label>
+  <!-- EN: barrel -->
+  <VFEM2_Gun_Arquebus.tools.barrel.label>枪管</VFEM2_Gun_Arquebus.tools.barrel.label>
+  <!-- EN: arquebus -->
+  <VFEM2_Gun_Arquebus.verbs.Verb_ShootWithSmoke.label>鸟铳</VFEM2_Gun_Arquebus.verbs.Verb_ShootWithSmoke.label>
+  
+  <!-- EN: flintlock -->
+  <VFEM2_Gun_Flintlock.label>燧发手枪</VFEM2_Gun_Flintlock.label>
+  <!-- EN: A simple, heavy pistol utilizing a flintlock mechanism. It fires a powerful shot at close-to-medium range but is slow to reload. The lead ball loses velocity and damage with distance, and is extremely ineffective against armor. Due to the chempowder reaction when firing the flintlock, plumes of blindsmoke are ejected from the barrel. -->
+  <VFEM2_Gun_Flintlock.description>一把简易的大口径燧发手枪。它能在中近距离打出威力不俗的弹丸，但装填速度很慢。它打出的球形铅弹会在空气摩擦中快速流失动能，而且穿甲性能十分低下。击发火铳时的火药燃烧反应会产生一团影响视线的烟雾。</VFEM2_Gun_Flintlock.description>
+  <!-- EN: grip -->
+  <VFEM2_Gun_Flintlock.tools.grip.label>握把</VFEM2_Gun_Flintlock.tools.grip.label>
+  <!-- EN: barrel -->
+  <VFEM2_Gun_Flintlock.tools.barrel.label>枪管</VFEM2_Gun_Flintlock.tools.barrel.label>
+  <!-- EN: flintlock -->
+  <VFEM2_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>燧发手枪</VFEM2_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>
+  
+  <!-- EN: hand cannon -->
+  <VFEM2_Gun_HandCannon.label>手铳</VFEM2_Gun_HandCannon.label>
+  <!-- EN: An ancient crude but deadly firearm, the hand cannon fires a devastating grapeshot over a short distance. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
+  <VFEM2_Gun_HandCannon.description>古老的滑膛火器，粗糙但致命，能在近处打出毁灭性的葡萄弹。它打出的球形铅弹会在空气摩擦中快速流失动能，而且穿甲性能十分低下。击发火铳时的火药燃烧反应会产生一团影响视线的烟雾。</VFEM2_Gun_HandCannon.description>
+  <!-- EN: stock -->
+  <VFEM2_Gun_HandCannon.tools.stock.label>枪托</VFEM2_Gun_HandCannon.tools.stock.label>
+  <!-- EN: barrel -->
+  <VFEM2_Gun_HandCannon.tools.barrel.label>枪管</VFEM2_Gun_HandCannon.tools.barrel.label>
+  <!-- EN: hand cannon -->
+  <VFEM2_Gun_HandCannon.verbs.Verb_ShootWithSmoke.label>手铳</VFEM2_Gun_HandCannon.verbs.Verb_ShootWithSmoke.label>
+  
+  <!-- EN: musket -->
+  <VFEM2_Gun_Musket.label>滑膛枪</VFEM2_Gun_Musket.label>
+  <!-- EN: A long-barreled, smoothbore firearm, the musket is a weapon of the line infantry. The lead ball loses velocity and damage with distance, and is extremely ineffective against armor. Due to the chempowder reaction when firing the musket, plumes of blindsmoke are ejected from the barrel. -->
+  <VFEM2_Gun_Musket.description>一把长管的滑膛火枪，是线列步兵时代的常见武器。它打出的球形铅弹会在空气摩擦中快速流失动能，而且穿甲性能十分低下。击发火铳时的火药燃烧反应会产生一团影响视线的烟雾。</VFEM2_Gun_Musket.description>
+  <!-- EN: stock -->
+  <VFEM2_Gun_Musket.tools.stock.label>枪托</VFEM2_Gun_Musket.tools.stock.label>
+  <!-- EN: barrel -->
+  <VFEM2_Gun_Musket.tools.barrel.label>枪管</VFEM2_Gun_Musket.tools.barrel.label>
+  <!-- EN: bayonet -->
+  <VFEM2_Gun_Musket.tools.bayonet.label>刺刀</VFEM2_Gun_Musket.tools.bayonet.label>
+  <!-- EN: musket -->
+  <VFEM2_Gun_Musket.verbs.Verb_ShootWithSmoke.label>滑膛枪</VFEM2_Gun_Musket.verbs.Verb_ShootWithSmoke.label>
+  
+  <!-- EN: throwing axe -->
+  <VFEM2_ThrowingAxe.label>投斧</VFEM2_ThrowingAxe.label>
+  <!-- EN: A single-handed axe made for throwing. Light enough to be thrown accurately at medium range, it's also a great melee weapon in the hands of a capable warrior. -->
+  <VFEM2_ThrowingAxe.description>一把用来投掷的单手斧。可以在中距离命中目标，同时也是把趁手的近战武器。</VFEM2_ThrowingAxe.description>
+  <!-- EN: handle -->
+  <VFEM2_ThrowingAxe.tools.handle.label>斧柄</VFEM2_ThrowingAxe.tools.handle.label>
+  <!-- EN: blade -->
+  <VFEM2_ThrowingAxe.tools.blade.label>斧刃</VFEM2_ThrowingAxe.tools.blade.label>
+  <!-- EN: throwing axe -->
+  <VFEM2_ThrowingAxe.verbs.Verb_Shoot.label>投斧</VFEM2_ThrowingAxe.verbs.Verb_Shoot.label>
+  
+  <!-- EN: warbow -->
+  <VFEM2_Warbow.label>战弓</VFEM2_Warbow.label>
+  <!-- EN: A powerful, long variant of the greatbow. While it doesn’t excel at hitting nearby enemies, arrows fired from the warbow curve over walls and can be fired without requiring line of sight. -->
+  <VFEM2_Warbow.description>一把加长版的巨弓，威力巨大。不适合射击近处敌人，但可以通过抛物线曲射跨过墙攻击敌人，即便不能直接看到目标。</VFEM2_Warbow.description>
+  <!-- EN: limb -->
+  <VFEM2_Warbow.tools.limb.label>弓背</VFEM2_Warbow.tools.limb.label>
+  <!-- EN: warbow -->
+  <VFEM2_Warbow.verbs.Verb_Shoot.label>战弓</VFEM2_Warbow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: thrown axe -->
+  <VFEM2V_ThrowingAxe_Thrown.label>投斧</VFEM2V_ThrowingAxe_Thrown.label>
+  
+</LanguageData>

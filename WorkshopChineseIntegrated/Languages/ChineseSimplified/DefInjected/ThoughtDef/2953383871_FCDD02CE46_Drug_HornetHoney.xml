@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_HornetHoneyHigh.stages.0.label>大黄蜂蜂蜜亢奋</DankPyon_HornetHoneyHigh.stages.0.label>
+  <DankPyon_HornetHoneyHigh.stages.0.description>我感到全身热血沸腾和前所未有的稳定性。我就像飞行中的子弹，随时准备击穿你。</DankPyon_HornetHoneyHigh.stages.0.description>
+
+
+  <!-- Hornet honey addiction -->
+
+  <DankPyon_HornetHoneyWithdrawal.stages.1.label>大黄蜂蜂蜜戒断</DankPyon_HornetHoneyWithdrawal.stages.1.label>
+  <DankPyon_HornetHoneyWithdrawal.stages.1.description>我的脑袋一片空白，无法理清思路。我觉得四肢沉重，又累又饿，无处不疼。为什么我的视线无法聚焦？</DankPyon_HornetHoneyWithdrawal.stages.1.description>
+
+
+  <!-- Hangover -->
+
+  <DankPyon_UnpleasantAftermathThought.stages.0.label>大黄蜂蜂蜜宿醉(轻微)</DankPyon_UnpleasantAftermathThought.stages.0.label>
+  <DankPyon_UnpleasantAftermathThought.stages.0.description>头似乎没那么痛了。</DankPyon_UnpleasantAftermathThought.stages.0.description>
+  <DankPyon_UnpleasantAftermathThought.stages.1.label>大黄蜂蜂蜜宿醉(强烈)</DankPyon_UnpleasantAftermathThought.stages.1.label>
+  <DankPyon_UnpleasantAftermathThought.stages.1.description>头痛得像是那些蜂蜜在我的脑袋中搅和。</DankPyon_UnpleasantAftermathThought.stages.1.description>
+  <DankPyon_UnpleasantAftermathThought.stages.2.label>大黄蜂蜂蜜宿醉(剧烈)</DankPyon_UnpleasantAftermathThought.stages.2.label>
+  <DankPyon_UnpleasantAftermathThought.stages.2.description>感觉就像一群鹅在啄我的脑袋！</DankPyon_UnpleasantAftermathThought.stages.2.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li>1.6</li>
+    <li IfModNotActive="wowgag.EvolvingEnemyStrongholds">Standalone</li>
+  </v1.6>
+  <v1.7>
+    <li>/</li>
+    <li>1.6</li>
+    <li IfModNotActive="wowgag.EvolvingEnemyStrongholds">Standalone</li>
+    <li>1.7</li>
+    <li IfModNotActive="wowgag.EvolvingEnemyStrongholds">Standalone17</li>
+  </v1.7>
+</loadFolders>

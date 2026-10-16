@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Cultist_1Tier.modExtensions.0.label>小型影宗据点</DankPyon_Cultist_1Tier.modExtensions.0.label>
+  <DankPyon_Cultist_1Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.label.slateRef>肃清成功！</DankPyon_Cultist_1Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.label.slateRef>
+  <DankPyon_Cultist_1Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.text.slateRef>你进入院子里，成功地消灭了里头所有的月影邪教成员，肃清了他们的据点。你收集到了大量的情报，包括能够进一步引导你找到其他据点的资讯。由于你成功破坏了其中一个邪教据点，对他们的密谋行动造成了打击。干得好！</DankPyon_Cultist_1Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.text.slateRef>
+  <DankPyon_Cultist_1Tier.questDescriptionRules.rulesStrings.0>questDescription(siteFaction==DankPyon_ShadowSect)-&gt;乍看之下，这座院子似乎是一个小型的、不起眼的建筑物集合。其中几座破烂的建筑看起来是居住和储存物品的场所，还有一座较大、结构较为完整的建筑，可能是一座工坊或集会场所。这座院子外围被低矮的栅栏包围着，中间一扇大门，似乎是主要入口。\n\n然而，仔细观察后，一些奇怪的细节引起了你的怀疑。每扇窗户都被厚厚的窗帘遮住，似乎鲜少有活动的迹象。这座院子有可能就是月影邪教用来进行秘密活动的据点，里面应该藏有一个通往他们实际藏身之处的隐密入口。你可以决定是否要进一步调查这座院子以发掘真相。</DankPyon_Cultist_1Tier.questDescriptionRules.rulesStrings.0>
+  <DankPyon_Cultist_1Tier.questNameRules.rulesStrings.0>questName(siteFaction==DankPyon_ShadowSect)-&gt;发现小型影宗据点！</DankPyon_Cultist_1Tier.questNameRules.rulesStrings.0>
+
+  <DankPyon_Cultists_2Tier.modExtensions.0.label>中型影宗据点</DankPyon_Cultists_2Tier.modExtensions.0.label>
+  <DankPyon_Cultists_2Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.label.slateRef>肃清成功！</DankPyon_Cultists_2Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.label.slateRef>
+  <DankPyon_Cultists_2Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.text.slateRef>你进入寺庙里，成功地消灭了里头所有的月影邪教成员，肃清了他们的据点。你收集到了大量的情报，包括能够进一步引导你找到其他据点的资讯。由于你成功破坏了其中一个邪教据点，对他们的密谋行动造成了打击。干得好！</DankPyon_Cultists_2Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.text.slateRef>
+  <DankPyon_Cultists_2Tier.questDescriptionRules.rulesStrings.0>questDescription(siteFaction==DankPyon_ShadowSect)-&gt;乍看之下，这座寺庙似乎是一个宁静、隐蔽的礼拜场所。它被盛开的花园所包围，坐落在一座山上，俯瞰着周围的乡村。主建筑是一座大型的、令人印象深刻的砖造结构，妆点着高大的拱形窗户和一座宏伟的大门。\n\n然而，仔细观察后，一些奇怪的细节引起了你的怀疑。每扇窗户都被厚厚的窗帘遮住，似乎鲜少有活动的迹象。这座寺庙有可能就是月影邪教用来进行秘密活动的据点，里面应该藏有一些隐密的房间或通道。你可以决定是否要进一步调查这座寺庙以发掘真相。</DankPyon_Cultists_2Tier.questDescriptionRules.rulesStrings.0>
+  <DankPyon_Cultists_2Tier.questNameRules.rulesStrings.0>questName(siteFaction==DankPyon_ShadowSect)-&gt;发现中型影宗据点！</DankPyon_Cultists_2Tier.questNameRules.rulesStrings.0>
+
+  <DankPyon_Cultist_3Tier.modExtensions.0.label>大型影宗据点</DankPyon_Cultist_3Tier.modExtensions.0.label>
+  <DankPyon_Cultist_3Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.label.slateRef>肃清成功！</DankPyon_Cultist_3Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.label.slateRef>
+  <DankPyon_Cultist_3Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.text.slateRef>你进入寺庙里，成功地消灭了里头所有的月影邪教成员，肃清了他们的据点。你收集到了大量的情报，包括能够进一步引导你找到其他据点的资讯。你成功扰乱了邪教徒的活动，对他们的密谋行动造成了巨大打击。干得好！</DankPyon_Cultist_3Tier.root.nodes.conditionCauserDestroyed.node.nodes.Letter.text.slateRef>
+  <DankPyon_Cultist_3Tier.questDescriptionRules.rulesStrings.0>questDescription(siteFaction==DankPyon_ShadowSect)-&gt;乍看之下，这座寺庙似乎是一个宁静、隐蔽的礼拜场所。它被盛开的花园所包围，坐落在一座山上，俯瞰着周围的乡村。主建筑是一座大型的、令人印象深刻的砖造结构，妆点着高大的拱形窗户和一座宏伟的大门。\n\n然而，仔细观察后，一些奇怪的细节引起了你的怀疑。每扇窗户都被厚厚的窗帘遮住，似乎鲜少有活动的迹象。这座寺庙有可能就是月影邪教用来进行秘密活动的据点，里面应该藏有一些隐密的房间或通道。你可以决定是否要进一步调查这座寺庙以发掘真相。</DankPyon_Cultist_3Tier.questDescriptionRules.rulesStrings.0>
+  <DankPyon_Cultist_3Tier.questNameRules.rulesStrings.0>questName(siteFaction==DankPyon_ShadowSect)-&gt;发现大型影宗据点！</DankPyon_Cultist_3Tier.questNameRules.rulesStrings.0>
+
+</LanguageData>

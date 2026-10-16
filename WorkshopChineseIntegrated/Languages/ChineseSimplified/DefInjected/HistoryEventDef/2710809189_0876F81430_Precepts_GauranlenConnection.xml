@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gauranlen tree cut -->
+  <AM_CutGauranlenTree.label>砍伐母树</AM_CutGauranlenTree.label>
+  
+  <!-- EN: prune Gauranlen tree -->
+  <AM_PruneGauranlenTree.label>修剪母树</AM_PruneGauranlenTree.label>
+  
+</LanguageData>

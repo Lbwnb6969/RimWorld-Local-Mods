@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_VFEArch_WoodenParquetDarkWood.label>黑暗木拼花地板</DankPyon_VFEArch_WoodenParquetDarkWood.label>
+  <DankPyon_VFEArch_WoodenParquetDarkWood.description>精美的木地板，营造出华丽、别致的感觉。虽然很漂亮，但需要花费大量的时间来建造，而且非常易燃。</DankPyon_VFEArch_WoodenParquetDarkWood.description>
+
+  <DankPyon_VFEArch_CobblestoneFloorClay.label>粘土岩鹅卵石地板</DankPyon_VFEArch_CobblestoneFloorClay.label>
+  <DankPyon_VFEArch_CobblestoneFloorClay.description>用大小不一的石块随意铺设出的地砖，给人以乡野城堡一样的感觉。虽然铺设速度要比普通石制地砖砖快得多，也不需要专业的岩石切割知识，但缺乏抛光设计的美感。</DankPyon_VFEArch_CobblestoneFloorClay.description>
+
+  <DankPyon_VFEArch_PolishedStoneFloorClay.label>粘土岩抛光地砖</DankPyon_VFEArch_PolishedStoneFloorClay.label>
+  <DankPyon_VFEArch_PolishedStoneFloorClay.description>精美的抛光石砖，很适合用于打造优雅的豪宅。虽然铺设速度要比精致石制地砖快上不少，但需要消耗大量的资源。看起来很漂亮。</DankPyon_VFEArch_PolishedStoneFloorClay.description>
+
+  <DankPyon_VFEArch_SlabsClay.label>粘土岩古朴石板</DankPyon_VFEArch_SlabsClay.label>
+  <DankPyon_VFEArch_SlabsClay.description>用大石板随意铺设出的地砖，很适合用于打造圣殿或神庙。看起来十分漂亮，但需要花费大量的时间与资源进行铺设。</DankPyon_VFEArch_SlabsClay.description>
+
+
+  <DankPyon_Floor_RusticWoodFloor_Walnut.label>质朴胡桃木地板</DankPyon_Floor_RusticWoodFloor_Walnut.label>
+  <DankPyon_Floor_RusticWoodFloor_Walnut.description>木头地板让人有温暖、温馨的感觉。铺设容易，但非常容易燃烧。</DankPyon_Floor_RusticWoodFloor_Walnut.description>
+
+  <DankPyon_Floor_RusticWoodFloor_Birch.label>质朴桦木地板</DankPyon_Floor_RusticWoodFloor_Birch.label>
+  <DankPyon_Floor_RusticWoodFloor_Birch.description>木头地板让人有温暖、温馨的感觉。铺设容易，但非常容易燃烧。</DankPyon_Floor_RusticWoodFloor_Birch.description>
+
+  <DankPyon_Floor_RusticWoodFloor_Mahogany.label>质朴桃花心木地板</DankPyon_Floor_RusticWoodFloor_Mahogany.label>
+  <DankPyon_Floor_RusticWoodFloor_Mahogany.description>木头地板让人有温暖、温馨的感觉。铺设容易，但非常容易燃烧。</DankPyon_Floor_RusticWoodFloor_Mahogany.description>
+
+  <DankPyon_VFEArch_FineDarkWoodenFloor.label>精致黑暗木地板</DankPyon_VFEArch_FineDarkWoodenFloor.label>
+  <DankPyon_VFEArch_FineDarkWoodenFloor.description>精致的木质拼花地板，能很好地彰显经济实力与地位。铺设速度较慢。</DankPyon_VFEArch_FineDarkWoodenFloor.description>
+
+  <DankPyon_VFEArch_FineIronTile.label>精致铁质地砖</DankPyon_VFEArch_FineIronTile.label>
+  <DankPyon_VFEArch_FineIronTile.description>精致的铁质地砖，能很好地彰显经济实力与地位。铺设速度较慢。</DankPyon_VFEArch_FineIronTile.description>
+
+</LanguageData>

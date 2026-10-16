@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: horse -->
+  <BotchJob_DivineOrderHorse.label>神圣秩序马</BotchJob_DivineOrderHorse.label>
+  <!-- EN: mare -->
+  <BotchJob_DivineOrderHorse.labelFemale>母神圣秩序马</BotchJob_DivineOrderHorse.labelFemale>
+  <BotchJob_DivineOrderHorse.labelFemalePlural>母神圣秩序马</BotchJob_DivineOrderHorse.labelFemalePlural>
+  <!-- EN: stallion -->
+  <BotchJob_DivineOrderHorse.labelMale>公神圣秩序马</BotchJob_DivineOrderHorse.labelMale>
+  <BotchJob_DivineOrderHorse.labelMalePlural>公神圣秩序马</BotchJob_DivineOrderHorse.labelMalePlural>
+  <BotchJob_DivineOrderHorse.labelPlural>神圣秩序马</BotchJob_DivineOrderHorse.labelPlural>
+  <!-- EN: foal -->
+  <BotchJob_DivineOrderHorse.lifeStages.foal.label>神圣秩序小马驹</BotchJob_DivineOrderHorse.lifeStages.foal.label>
+  <BotchJob_DivineOrderHorse.lifeStages.foal.labelFemale>母神圣秩序小马驹</BotchJob_DivineOrderHorse.lifeStages.foal.labelFemale>
+  <BotchJob_DivineOrderHorse.lifeStages.foal.labelFemalePlural>母神圣秩序小马驹</BotchJob_DivineOrderHorse.lifeStages.foal.labelFemalePlural>
+  <BotchJob_DivineOrderHorse.lifeStages.foal.labelMale>公神圣秩序小马驹</BotchJob_DivineOrderHorse.lifeStages.foal.labelMale>
+  <BotchJob_DivineOrderHorse.lifeStages.foal.labelMalePlural>公神圣秩序小马驹</BotchJob_DivineOrderHorse.lifeStages.foal.labelMalePlural>
+  <BotchJob_DivineOrderHorse.lifeStages.foal.labelPlural>神圣秩序小马驹</BotchJob_DivineOrderHorse.lifeStages.foal.labelPlural>
+  <BotchJob_DivineOrderHorse.lifeStages.1.label>神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.1.label>
+  <BotchJob_DivineOrderHorse.lifeStages.1.labelFemale>母神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.1.labelFemale>
+  <BotchJob_DivineOrderHorse.lifeStages.1.labelFemalePlural>母神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.1.labelFemalePlural>
+  <BotchJob_DivineOrderHorse.lifeStages.1.labelMale>公神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.1.labelMale>
+  <BotchJob_DivineOrderHorse.lifeStages.1.labelMalePlural>公神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.1.labelMalePlural>
+  <BotchJob_DivineOrderHorse.lifeStages.1.labelPlural>神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.1.labelPlural>
+  <BotchJob_DivineOrderHorse.lifeStages.2.label>神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.2.label>
+  <BotchJob_DivineOrderHorse.lifeStages.2.labelFemale>母神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.2.labelFemale>
+  <BotchJob_DivineOrderHorse.lifeStages.2.labelFemalePlural>母神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.2.labelFemalePlural>
+  <BotchJob_DivineOrderHorse.lifeStages.2.labelMale>公神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.2.labelMale>
+  <BotchJob_DivineOrderHorse.lifeStages.2.labelMalePlural>公神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.2.labelMalePlural>
+  <BotchJob_DivineOrderHorse.lifeStages.2.labelPlural>神圣秩序马</BotchJob_DivineOrderHorse.lifeStages.2.labelPlural>
+  
+</LanguageData>

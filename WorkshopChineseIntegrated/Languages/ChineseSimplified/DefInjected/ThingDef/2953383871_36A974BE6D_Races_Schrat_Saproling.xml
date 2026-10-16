@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Schrat_Sapling.label>树灵残枝</DankPyon_Schrat_Sapling.label>
+  <DankPyon_Schrat_Sapling.description>古老树灵的最后残枝，远古树脂固化所形成的琥珀仍残留在这些残枝身上，并被其小心翼翼地保护着，但也因此使它们成为猎人眼馋的目标。虽然它们比完全体的树灵要弱小得多，但在歼灭行动中仍应对其保持警惕。</DankPyon_Schrat_Sapling.description>
+  <DankPyon_Schrat_Sapling.tools.left_fist.label>左拳</DankPyon_Schrat_Sapling.tools.left_fist.label>
+  <DankPyon_Schrat_Sapling.tools.right_fist.label>右拳</DankPyon_Schrat_Sapling.tools.right_fist.label>
+  <DankPyon_Schrat_Sapling.tools.head.label>头</DankPyon_Schrat_Sapling.tools.head.label>
+
+  <!-- Schrat Plains -->
+
+  <DankPyon_SchratPlain_Sapling.label>树灵残枝</DankPyon_SchratPlain_Sapling.label>
+  <DankPyon_SchratPlain_Sapling.description>古老树灵的最后残枝，远古树脂固化所形成的琥珀仍残留在这些残枝身上，并被其小心翼翼地保护着，但也因此使它们成为猎人眼馋的目标。虽然它们比完全体的树灵要弱小得多，但在歼灭行动中仍应对其保持警惕。</DankPyon_SchratPlain_Sapling.description>
+  <DankPyon_SchratPlain_Sapling.tools.left_fist.label>左拳</DankPyon_SchratPlain_Sapling.tools.left_fist.label>
+  <DankPyon_SchratPlain_Sapling.tools.right_fist.label>右拳</DankPyon_SchratPlain_Sapling.tools.right_fist.label>
+  <DankPyon_SchratPlain_Sapling.tools.head.label>头</DankPyon_SchratPlain_Sapling.tools.head.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clarity draught -->
+  <VFEM2_ClarityDraught.label>养神灵药</VFEM2_ClarityDraught.label>
+  <!-- EN: A light blue liquid that’s sparkling with a subtle effervescence. When the user drinks it, it restores some of their psychic focus and enhances their psychic sensitivity, allowing for clearer mental processing and heightened awareness. However, this increased mental activity significantly raises the user's hunger rate, making them need to eat more often. Additionally, the relentless mental buzz from the draught leads to a noticeable drop in mood due to the overwhelming flow of thoughts. -->
+  <VFEM2_ClarityDraught.description>一瓶带气泡的淡蓝色液体。被喝下时会给服用者恢复一部分精神力，并使其耳聪目明，强化心灵敏感度。然而它在强化服用者心灵活动的同时也会使服用者更容易饥饿。除此之外，服用者脑内也会被大量混沌的思维冲击，从而降低心情。</VFEM2_ClarityDraught.description>
+  <!-- EN: Use {0_label} -->
+  <VFEM2_ClarityDraught.comps.CompUsable.useLabel>服用{0_label}</VFEM2_ClarityDraught.comps.CompUsable.useLabel>
+  <!-- EN: Ingest {0} -->
+  <VFEM2_ClarityDraught.ingestible.ingestCommandString>服用{0}</VFEM2_ClarityDraught.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <VFEM2_ClarityDraught.ingestible.ingestReportString>正在服用{0}</VFEM2_ClarityDraught.ingestible.ingestReportString>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/RecipeDef[(defName="BEWH_MakeThunderWarriorMatrix" or defName="BEWH_MakeFirstbornMatrix" or defName="BEWH_MakePrimarisMatrix" or defName="BEWH_MakeCustodesMatrix" or defName="BEWH_MakePrimarchMatrix" or defName="BEWH_MakeThunderWarriorMatrixRefined" or defName="BEWH_MakeFirstbornMatrixRefined" or defName="BEWH_MakePrimarisMatrixRefined" or defName="BEWH_MakeCustodesMatrixRefined" or defName="BEWH_MakePrimarchMatrixRefined") and not(recipeUsers)]</xpath>
+    <value>
+      <recipeUsers>
+        <li>BEWH_GeneManipulationTable</li>
+      </recipeUsers>
+    </value>
+  </Operation>
+</Patch>

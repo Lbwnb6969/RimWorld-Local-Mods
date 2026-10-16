@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_ToxResist_Terrible.label>毒素弱点</DV_ToxResist_Terrible.label>
+    <DV_ToxResist_Terrible.description>这种基因的携带者对环境毒素的抵抗力较弱。他们的皮肤和肺会吸收有毒气体且受污染地形和毒物降解带来到的伤害要更多。他们还会更快地积累腐气。</DV_ToxResist_Terrible.description>
+
+    <DV_PsychicInebriation.label>灵醉</DV_PsychicInebriation.label>
+    <DV_PsychicInebriation.description>这种基因的携带者会形成独特的神经脉络，那允许他们在饮用酿造的饮料时获得灵敏度，主要是啤酒和其他酒精。</DV_PsychicInebriation.description>
+    <DV_PsychicInebriation.customEffectDescriptions>醉酒后提升心灵敏感度。</DV_PsychicInebriation.customEffectDescriptions>
+
+    <DV_Head_Avaloi.label>三眼头颅</DV_Head_Avaloi.label>
+    <DV_Head_Avaloi.description>这种基因的携带者有着光滑的头部和两只正常的眼睛，以及额头上的第三只不太有用的眼睛。</DV_Head_Avaloi.description>
+
+    <DV_Coral_Beards.label>珊瑚扇</DV_Coral_Beards.label>
+    <DV_Coral_Beards.description>这种基因的携带者会在脸颊上长出可以有各种图案和形状的胡须状附属物。</DV_Coral_Beards.description>
+
+    <DV_Coral_Antlers.label>珊瑚角</DV_Coral_Antlers.label>
+    <DV_Coral_Antlers.description>这种基因的携带者会在头顶上长出可以有各种图案和形状的肉质角状物。</DV_Coral_Antlers.description>
+
+    <DV_AvaloiHairColors.label>鲜艳发色</DV_AvaloiHairColors.label>
+    <DV_AvaloiHairColors.description>这种基因的携带者会产生一种可以将头发染成各种不同粉色的独特色素。</DV_AvaloiHairColors.description>
+
+    <Skin_SoftPink.label>柔粉皮肤</Skin_SoftPink.label>
+    <Skin_SoftPink.description>这种基因的携带者会生产一种将他们的皮肤转变为柔粉色的色素。</Skin_SoftPink.description>
+
+    <Skin_SoftRed.label>柔红皮肤</Skin_SoftRed.label>
+    <Skin_SoftRed.description>这种基因的携带者会生产一种将他们的皮肤转变为柔红色的色素。</Skin_SoftRed.description>
+
+    <Skin_SoftBlue.label>柔蓝皮肤</Skin_SoftBlue.label>
+    <Skin_SoftBlue.description>这种基因的携带者会生产一种将他们的皮肤转变为柔蓝色的色素。</Skin_SoftBlue.description>
+
+    <Skin_SoftGreen.label>柔绿皮肤</Skin_SoftGreen.label>
+    <Skin_SoftGreen.description>这种基因的携带者会生产一种将他们的皮肤转变为柔绿色的色素。</Skin_SoftGreen.description>
+
+    <Skin_SoftYellow.label>柔黄皮肤</Skin_SoftYellow.label>
+    <Skin_SoftYellow.description>这种基因的携带者会生产一种将他们的皮肤转变为柔黄色的色素。</Skin_SoftYellow.description>
+
+    <Hair_PaleOrange.label>浅橙发</Hair_PaleOrange.label>
+    <Hair_PaleGreen.label>浅绿发</Hair_PaleGreen.label>
+    <Hair_PaleBlue.label>浅蓝发</Hair_PaleBlue.label>
+    <Hair_PaleMagenta.label>浅品红发</Hair_PaleMagenta.label>
+    <Hair_PalePurple.label>浅紫发</Hair_PalePurple.label>
+</LanguageData>

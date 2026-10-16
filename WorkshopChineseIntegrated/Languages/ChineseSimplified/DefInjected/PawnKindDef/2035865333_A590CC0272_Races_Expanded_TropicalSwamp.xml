@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anaconda -->
+  <AEXP_Anaconda.label>水蟒</AEXP_Anaconda.label>
+  
+  <!-- EN: indian elephant -->
+  <AEXP_IndianElephant.label>印度象</AEXP_IndianElephant.label>
+  <!-- EN: indian elephant calf -->
+  <AEXP_IndianElephant.lifeStages.indian_elephant_calf.label>印度象幼崽</AEXP_IndianElephant.lifeStages.indian_elephant_calf.label>
+  
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awakened barkskin dryad -->
+  <VDE_AwakenedDryad_Barkskin.label>觉醒盾皮树精</VDE_AwakenedDryad_Barkskin.label>
+  
+  <!-- EN: awakened berrymaker dryad -->
+  <VDE_AwakenedDryad_Berrymaker.label>觉醒蜜果树精</VDE_AwakenedDryad_Berrymaker.label>
+  
+  <!-- EN: awakened carrier dryad -->
+  <VDE_AwakenedDryad_Carrier.label>觉醒协运树精</VDE_AwakenedDryad_Carrier.label>
+  
+  <!-- EN: awakened clawer dryad -->
+  <VDE_AwakenedDryad_Clawer.label>觉醒利爪树精</VDE_AwakenedDryad_Clawer.label>
+  
+  <!-- EN: awakened gaubricmaker dryad -->
+  <VDE_AwakenedDryad_Gaubricmaker.label>觉醒纺绸树精</VDE_AwakenedDryad_Gaubricmaker.label>
+  
+  <!-- EN: awakened medicinemaker dryad -->
+  <VDE_AwakenedDryad_Medicinemaker.label>觉醒药师树精</VDE_AwakenedDryad_Medicinemaker.label>
+  
+  <!-- EN: awakened nectarmaker dryad -->
+  <VDE_AwakenedDryad_Nectarmaker.label>觉醒甘馐树精</VDE_AwakenedDryad_Nectarmaker.label>
+  
+  <!-- EN: awakened spitter dryad -->
+  <VDE_AwakenedDryad_Spitter.label>觉醒酸蚀树精</VDE_AwakenedDryad_Spitter.label>
+  
+  <!-- EN: awakened stonedigger dryad -->
+  <VDE_AwakenedDryad_Stonedigger.label>觉醒采石树精</VDE_AwakenedDryad_Stonedigger.label>
+  
+  <!-- EN: awakened woodmaker dryad -->
+  <VDE_AwakenedDryad_Woodmaker.label>觉醒供木树精</VDE_AwakenedDryad_Woodmaker.label>
+  
+</LanguageData>

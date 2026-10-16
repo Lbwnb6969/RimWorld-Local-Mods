@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bolter -->
+  <BEWH_AstartesBolter.label>爆弹卡宾枪</BEWH_AstartesBolter.label>
+  <!-- EN: The Mk Vb boltgun is the iconic standard-issue firearm of the Adeptus Astartes. Firing mass-reactive rounds with deadly efficiency, it combines reliability, adaptability, and stopping power, making it the definitive Space Marine weapon. \n\nAvalible Loadout: Standard, Inferno, Metal Storm -->
+  <BEWH_AstartesBolter.description>爆弹卡宾枪是由星际战士使用的一款紧凑型速射枪械，发射爆矢。它轻巧灵活，射击威力强大，精准度极高，是近距离和中距离作战的理想选择。</BEWH_AstartesBolter.description>
+  <!-- EN: stock -->
+  <BEWH_AstartesBolter.tools.stock.label>枪托</BEWH_AstartesBolter.tools.stock.label>
+  <!-- EN: barrel -->
+  <BEWH_AstartesBolter.tools.barrel.label>握把</BEWH_AstartesBolter.tools.barrel.label>
+  <!-- EN: bolter -->
+  <BEWH_AstartesBolter.verbs.Verb_ShootChangeableBullets.label>爆矢</BEWH_AstartesBolter.verbs.Verb_ShootChangeableBullets.label>
+  
+  <!-- UNUSED -->
+  <BEWH_AstartesBolter.verbs.Verb_Shoot.label>爆弹卡宾枪</BEWH_AstartesBolter.verbs.Verb_Shoot.label>
+  
+  <!-- EN: chainsword -->
+  <BEWH_AstartesChainsword.label>链锯剑</BEWH_AstartesChainsword.label>
+  <!-- EN: A vicious and brutal weapon, the Chainsword is an iconic tool of the Adeptus Astartes. It tears through flesh with ease and is relatively inexpensive to produce. However, it lacks the armor-penetrating capability of more advanced power weapons. -->
+  <BEWH_AstartesChainsword.description>星际战士的标志性凶残武器，可轻易撕裂血肉且造价低廉。但缺乏装甲穿透能力。</BEWH_AstartesChainsword.description>
+  <!-- EN: handle -->
+  <BEWH_AstartesChainsword.tools.handle-0.label>握把</BEWH_AstartesChainsword.tools.handle-0.label>
+  <!-- EN: handle -->
+  <BEWH_AstartesChainsword.tools.handle-1.label>握把</BEWH_AstartesChainsword.tools.handle-1.label>
+  <!-- EN: chain -->
+  <BEWH_AstartesChainsword.tools.chain.label>锯链</BEWH_AstartesChainsword.tools.chain.label>
+  
+  <!-- EN: power sword -->
+  <BEWH_AstartesPowerSword.label>动力剑</BEWH_AstartesPowerSword.label>
+  <!-- EN: A melee weapon with an energy field, the Power Sword is capable of slicing through armor with ease. Its energy blade hums with deadly force, allowing the wielder to strike with precision and overwhelming power. -->
+  <BEWH_AstartesPowerSword.description>搭载能量力场的近战武器，可轻松切割装甲。嗡鸣的能量剑刃蕴含致命威能，使持剑者能发动精准而压倒性的斩击。</BEWH_AstartesPowerSword.description>
+  <!-- EN: handle -->
+  <BEWH_AstartesPowerSword.tools.handle-0.label>剑柄</BEWH_AstartesPowerSword.tools.handle-0.label>
+  <!-- EN: handle -->
+  <BEWH_AstartesPowerSword.tools.handle-1.label>握把</BEWH_AstartesPowerSword.tools.handle-1.label>
+  <!-- EN: edge -->
+  <BEWH_AstartesPowerSword.tools.edge.label>剑刃</BEWH_AstartesPowerSword.tools.edge.label>
+  
+</LanguageData>

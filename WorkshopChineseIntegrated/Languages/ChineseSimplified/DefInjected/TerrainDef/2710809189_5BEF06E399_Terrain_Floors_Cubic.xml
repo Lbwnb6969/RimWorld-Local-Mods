@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cubic tile -->
+  <AM_Tile_Cubic.label>魔方地砖</AM_Tile_Cubic.label>
+  <!-- EN: Cheap gold plated steel tiles built to resemble the pristine surface of the Divine Cube. -->
+  <AM_Tile_Cubic.description>成本低廉的镀金钢铁地砖，看起来与金色魔方的圣洁表面非常相似。</AM_Tile_Cubic.description>
+  
+</LanguageData>

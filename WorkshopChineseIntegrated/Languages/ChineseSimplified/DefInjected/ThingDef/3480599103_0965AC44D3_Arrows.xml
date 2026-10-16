@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: streamlined arrow (plasteel) -->
+  <Projectile_TurkBow_Plasteel.label>塑钢箭</Projectile_TurkBow_Plasteel.label>
+  
+  <!-- EN: streamlined arrow (steel) -->
+  <Projectile_TurkBow_Steel.label>钢箭</Projectile_TurkBow_Steel.label>
+  
+</LanguageData>

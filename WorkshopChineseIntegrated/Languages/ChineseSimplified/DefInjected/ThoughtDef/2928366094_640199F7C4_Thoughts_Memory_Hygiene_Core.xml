@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bathed in marsh -->
+  <RG_BathingMarsh.stages.bathed_in_marsh.label>在沼泽中洗浴</RG_BathingMarsh.stages.bathed_in_marsh.label>
+  <!-- EN: I took a relaxing bath in a marsh. -->
+  <RG_BathingMarsh.stages.bathed_in_marsh.description>我泡在沼泽中放松了一下。</RG_BathingMarsh.stages.bathed_in_marsh.description>
+  
+  <!-- EN: bathed in ocean -->
+  <RG_BathingOcean.stages.bathed_in_ocean.label>在海水中洗浴</RG_BathingOcean.stages.bathed_in_ocean.label>
+  <!-- EN: I took a relaxing bath in the ocean. Really helps to forget all the troubles of the day for a bit. -->
+  <RG_BathingOcean.stages.bathed_in_ocean.description>我泡在海水中放松了一下。心中的阴霾似乎渐渐散去了。</RG_BathingOcean.stages.bathed_in_ocean.description>
+  
+  <!-- EN: bathed in water -->
+  <RG_BathingWater.stages.bathed_in_water.label>在水中洗浴</RG_BathingWater.stages.bathed_in_water.label>
+  <!-- EN: I took a relaxing bath, that always lifts the spirits. -->
+  <RG_BathingWater.stages.bathed_in_water.description>我泡在水中放松了一下。感觉稍微振作一些了。</RG_BathingWater.stages.bathed_in_water.description>
+  
+  <!-- EN: bathed in hot spring -->
+  <RG_HotSpringBathing.stages.bathed_in_hot_spring.label>在温泉中洗浴</RG_HotSpringBathing.stages.bathed_in_hot_spring.label>
+  <!-- EN: I took a relaxing bath in a warm hot spring. There is nothing quite like it. -->
+  <RG_HotSpringBathing.stages.bathed_in_hot_spring.description>我泡在温泉中放松了一下。还有比这更美妙的事情吗？</RG_HotSpringBathing.stages.bathed_in_hot_spring.description>
+  
+  <!-- EN: bathed in toxic waste -->
+  <RG_WasteBathing.stages.bathed_in_toxic_waste.label>在污毒废水中洗浴</RG_WasteBathing.stages.bathed_in_toxic_waste.label>
+  <!-- EN: I took a bath in toxic waste. Absolutely disgusting, I feel dirty. -->
+  <RG_WasteBathing.stages.bathed_in_toxic_waste.description>我泡在污毒废水中...放松了一下？开什么玩笑！这太恶心了！</RG_WasteBathing.stages.bathed_in_toxic_waste.description>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wheellock pistol pair -->
+  <TA_WheellockPistolPair.label>轮燧手枪(双持)</TA_WheellockPistolPair.label>
+  <!-- EN: . -->
+  <TA_WheellockPistolPair.description>早期燧发手枪的改进型，采用轮式击发机构，成对使用。</TA_WheellockPistolPair.description>
+  <!-- EN: grip -->
+  <TA_WheellockPistolPair.tools.grip.label>握把</TA_WheellockPistolPair.tools.grip.label>
+  <!-- EN: muzzle -->
+  <TA_WheellockPistolPair.tools.muzzle.label>枪口</TA_WheellockPistolPair.tools.muzzle.label>
+  <!-- EN: wheellock pistol pair -->
+  <TA_WheellockPistolPair.verbs.Verb_ShootCE.label>轮燧手枪射击</TA_WheellockPistolPair.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

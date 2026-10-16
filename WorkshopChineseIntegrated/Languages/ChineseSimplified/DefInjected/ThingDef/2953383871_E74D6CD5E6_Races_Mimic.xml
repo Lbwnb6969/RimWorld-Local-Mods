@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_RusticMimic.label>宝箱怪</DankPyon_RusticMimic.label>
+  <DankPyon_RusticMimic.description>人们对于这种披着宝箱外衣的怪物所知甚少。虽然在讲述童话和贪婪的故事中，宝箱怪总有诸多出场的机会，但它们的起源却一直是个未解之谜。最广为流传的说法是，它们是古代学者出于某种原因用受诅咒的木头创造出来的，而另一派说法则称，它们是地下城回应人类无比贪婪意念的产物。</DankPyon_RusticMimic.description>
+  <!--<DankPyon_RusticMimic.comps.1.letterLabel>DankPyon_TrollSwallLabel</DankPyon_RusticMimic.comps.1.letterLabel>
+  <DankPyon_RusticMimic.comps.1.letterText>DankPyon_TrollSwallowDesc</DankPyon_RusticMimic.comps.1.letterText>-->
+  <DankPyon_RusticMimic.tools.left_side.label>左面</DankPyon_RusticMimic.tools.left_side.label>
+  <DankPyon_RusticMimic.tools.left_side.labelNoLocation>爪</DankPyon_RusticMimic.tools.left_side.labelNoLocation>
+  <DankPyon_RusticMimic.tools.right_side.label>右面</DankPyon_RusticMimic.tools.right_side.label>
+  <DankPyon_RusticMimic.tools.right_side.labelNoLocation>爪</DankPyon_RusticMimic.tools.right_side.labelNoLocation>
+  <DankPyon_RusticMimic.tools.lid.label>上盖</DankPyon_RusticMimic.tools.lid.label>
+  <DankPyon_RusticMimic.tools.mouth.label>嘴</DankPyon_RusticMimic.tools.mouth.label>
+
+  <DankPyon_RoyalMimic.label>豪华宝箱怪</DankPyon_RoyalMimic.label>
+  <DankPyon_RoyalMimic.description>一种披着皇家宝箱外衣的优雅怪物，人们对宝箱怪知之甚少，更不用提豪华宝箱怪了。它们最初出现在数百年前一位古代尊贵征服者的藏宝室中，但它们与普通宝箱怪的关联至今仍不得而知。</DankPyon_RoyalMimic.description>
+  <!--<DankPyon_RoyalMimic.comps.1.letterLabel>DankPyon_TrollSwallLabel</DankPyon_RoyalMimic.comps.1.letterLabel>
+  <DankPyon_RoyalMimic.comps.1.letterText>DankPyon_TrollSwallowDesc</DankPyon_RoyalMimic.comps.1.letterText>-->
+  <DankPyon_RoyalMimic.tools.left_side.label>左面</DankPyon_RoyalMimic.tools.left_side.label>
+  <DankPyon_RoyalMimic.tools.left_side.labelNoLocation>爪</DankPyon_RoyalMimic.tools.left_side.labelNoLocation>
+  <DankPyon_RoyalMimic.tools.right_side.label>右面</DankPyon_RoyalMimic.tools.right_side.label>
+  <DankPyon_RoyalMimic.tools.right_side.labelNoLocation>爪</DankPyon_RoyalMimic.tools.right_side.labelNoLocation>
+  <DankPyon_RoyalMimic.tools.lid.label>上盖</DankPyon_RoyalMimic.tools.lid.label>
+  <DankPyon_RoyalMimic.tools.mouth.label>嘴</DankPyon_RoyalMimic.tools.mouth.label>
+
+</LanguageData>

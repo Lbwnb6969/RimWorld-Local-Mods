@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Alpha Vehicles - Age of Sail - Simplified Chinese</name>
+  <author>Local translation patch</author>
+  <packageId>Local.AlphaVehicles.AgeOfSail.ChineseSimplified</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Simplified Chinese translation for Alpha Vehicles - Age of Sail.</description>
+  <modDependencies>
+    <li>
+      <packageId>sarg.alphavehiclesageofsail</packageId>
+      <displayName>Alpha Vehicles - Age of Sail</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3177395100</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>sarg.alphavehiclesageofsail</li>
+  </loadAfter>
+</ModMetaData>

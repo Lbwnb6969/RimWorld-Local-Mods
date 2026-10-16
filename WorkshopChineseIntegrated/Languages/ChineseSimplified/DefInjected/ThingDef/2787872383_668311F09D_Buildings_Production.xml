@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cement press -->
+  <VFEC_ConcretePress.label>水泥压制机</VFEC_ConcretePress.label>
+  <!-- EN: A very strong, open stone basin meant to cure and shape a mixture of clay, sand, and powdered stone known as cement into blocks. -->
+  <VFEC_ConcretePress.description>一个沉重的石质机器，能将粘土，沙子和碎石制成的水泥压制成混凝土块。</VFEC_ConcretePress.description>
+  
+  <!-- EN: crafting bench -->
+  <VFEC_CraftingBench.label>工作台</VFEC_CraftingBench.label>
+  <!-- EN: A simple bench stocked with equally simple tools meant to assist in the crafting of primitive goods and weapons. -->
+  <VFEC_CraftingBench.description>一个简易的工作台，配备有少量基础的工具来制造原始的物品和装备。</VFEC_CraftingBench.description>
+  
+  <!-- EN: meat drying rack -->
+  <VFEC_MeatDryingRack.label>干肉架</VFEC_MeatDryingRack.label>
+  <!-- EN: A solid wooden rack featuring a series of dangling metal hooks across a central beam meant to hang slabs of meat. Meat hung by it will very slowly air dry over time, allowing an indefinite form of preservation. The air drying process can be quickened by a warm environment. -->
+  <VFEC_MeatDryingRack.description>一个悬挂着不少金属钩子的木头架子，可以将肉悬挂在上面。挂住的肉会被慢慢风干，延长它的保质期。这一过程在炎热环境下会加速。</VFEC_MeatDryingRack.description>
+  
+  <!-- EN: tyrian farm -->
+  <VFEC_TyrianFarm.label>骨螺池</VFEC_TyrianFarm.label>
+  <!-- EN: A large wooden enclosure meant to be placed in shallow water and filled with cloth. A unique breed of snails found in many rimworlds are known to wash up and leave residue on the cloth contained within, dying it. Creates a small amount of royal fabric over time. -->
+  <VFEC_TyrianFarm.description>一个在浅水里划出的池子。池子里会饲养一种骨螺，如果将布料浸泡在池内，骨螺的分泌物会慢慢将它染成珍贵的皇家紫布。</VFEC_TyrianFarm.description>
+  
+  <!-- EN: wood-fired crematorium -->
+  <VFEC_WoodFiredCrematorium.label>木柴火化炉</VFEC_WoodFiredCrematorium.label>
+  <!-- EN: A wood fired receptacle meant for disposal of unneeded junk or bodies. -->
+  <VFEC_WoodFiredCrematorium.description>一个巨大的木柴火化炉，能够产生极高的温度来火化尸体和衣物。</VFEC_WoodFiredCrematorium.description>
+  
+</LanguageData>

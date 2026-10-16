@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs[not(ResearchProjectDef[defName="Devilstrand"])]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs</xpath>
+      <value>
+        <ResearchProjectDef>
+          <defName>Devilstrand</defName>
+          <label>devilstrand</label>
+          <description>Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber.</description>
+          <baseCost>800</baseCost>
+          <techLevel>Neolithic</techLevel>
+          <researchViewX>0.00</researchViewX>
+          <researchViewY>2.80</researchViewY>
+          <generalRules>
+            <rulesStrings>
+              <li>subject-&gt;devilstrand cultivation</li>
+              <li>subject_story-&gt;used devilstrand as a natural firebreak</li>
+              <li>subject_story-&gt;established the techniques for cultivating devilstrand easily</li>
+              <li>subject_story-&gt;became obsessed with mushrooms and became the self-declared Princess of [ANYPAWN_possessive] kingdom</li>
+              <li>subject_gerund-&gt;cultivating devilstrand</li>
+            </rulesStrings>
+          </generalRules>
+        </ResearchProjectDef>
+      </value>
+    </match>
+  </Operation>
+</Patch>

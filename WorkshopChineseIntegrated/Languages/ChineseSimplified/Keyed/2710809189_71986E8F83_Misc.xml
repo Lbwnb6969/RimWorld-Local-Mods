@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	
+	
+	
+  <AM_ArtTableExtraSpeed>艺术制作速度：提高 戒律</AM_ArtTableExtraSpeed>
+	
+  <AM_ExtraBluntArmorFactor>护甲：钝器 戒律</AM_ExtraBluntArmorFactor>
+	
+  <AM_ExtraSharpArmorFactor>护甲：利器 戒律</AM_ExtraSharpArmorFactor>
+	
+  <AM_ExtraHeatArmorFactor>护甲：热能 戒律</AM_ExtraHeatArmorFactor>
+	
+  <AM_MeditationFocusStrengthFactor>精神力增幅：降低 戒律</AM_MeditationFocusStrengthFactor>
+	
+  <AM_DespisedAnimals>害兽</AM_DespisedAnimals>
+	
+  <AM_AddDespisedAnimals>害兽</AM_AddDespisedAnimals>
+	
+  <AM_DespisedXenotypes>害种</AM_DespisedXenotypes>
+	
+  <AM_AddDespisedXenotypes>害种</AM_AddDespisedXenotypes>
+	
+  <AM_AbilityNeedsADownedPawn>此能力必须以倒地的人形生物作为目标。</AM_AbilityNeedsADownedPawn>
+	
+  <AM_AbilityNeedsAValidAnimal>此能力必须以活着的非树精生物作为目标。</AM_AbilityNeedsAValidAnimal>
+	
+  <AM_AbilityNeedsABlueprint>此能力必须以正在建造的建筑作为目标。</AM_AbilityNeedsABlueprint>
+	
+  <AM_AbilityNeedsResourcesDelivered>所需的资源必须全部运送至建筑蓝图中。</AM_AbilityNeedsResourcesDelivered>
+	
+  <AM_NoDataBaseFound>在使用此能力前，你需要建造一个生物数据基站。</AM_NoDataBaseFound>
+	
+  <AM_NotAnalyzed>未扫描</AM_NotAnalyzed>
+	
+  <AM_Analyzed>基因解析完毕</AM_Analyzed>
+	
+  <AM_OnlyTaggedAnimals>仅显示扫描过的生物</AM_OnlyTaggedAnimals>
+	
+  <AM_StatsReport_Analyzed>动物解析完毕</AM_StatsReport_Analyzed>
+	
+  <AM_AnalyzedAnimalBonuses>通过对这种动物进行解析，它将获得-25%污物规模、+25%远行骑乘速度和驯服所需的最低驯兽等级-2的加成。</AM_AnalyzedAnimalBonuses>
+	
+  <AM_ShowAnimalAnalysis>查看基因解析表</AM_ShowAnimalAnalysis>
+	
+  <AM_ShowAnimalAnalysisDesc>显示所有扫描与未扫描生物的列表。</AM_ShowAnimalAnalysisDesc>
+	
+  <AM_OnlyOneDatabase>只能建造一台数据基站。</AM_OnlyOneDatabase>
+	
+  <AM_AnimalAlreadyScanned>这种生物已经扫描过了。</AM_AnimalAlreadyScanned>
+	
+  <AM_AnimalScanned>{0}的情报数据已录入至生物数据基站中。</AM_AnimalScanned>
+	
+  <AM_CompletionDescription>情报数据录入率：{0}</AM_CompletionDescription>
+	
+  <AM_InstallInReliquary>安装在圣物粉碎祭坛中</AM_InstallInReliquary>
+	
+  <AM_NoEmptyReliquary>没有空的可接近的圣物粉碎祭坛</AM_NoEmptyReliquary>
+	
+  <AM_NeedsFullAltar>需要在圣物粉碎祭坛中安装圣物才能开始仪式</AM_NeedsFullAltar>
+	
+  <AM_AbilityNeedsMeme>如果殖民者的文化中没有必要的模因，此能力将无法使用。</AM_AbilityNeedsMeme>
+	
+  <AM_MakeChangeStyleAbilityUseAllStyles>解锁“风格变更”能力的可选风格限制</AM_MakeChangeStyleAbilityUseAllStyles>
+	
+  <AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>解锁“风格变更”能力的可选风格限制。默认设置下，此能力可用作替换的风格样式仅限于殖民地主流文化形态所拥有的风格样式。启用此项后，所有的文化风格样式都可以用作替换。</AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>
+	
+  <AM_AbilityNiceTry>这份建筑蓝图已经超出建筑大师的能力范围了！</AM_AbilityNiceTry>
+	
+  <AM_LetterLabelPrefabDelivered>预制建筑送达</AM_LetterLabelPrefabDelivered>
+	
+  <AM_LetterPrefabDelivered>某个与我们签订合同的轨道贸易商已向殖民地发送了一个全新的预制建筑箱！\n\n预制建筑箱会优先交付至远行队牵引点所在的位置。</AM_LetterPrefabDelivered>
+	
+  <AM_OtherAlphaModsNeeded>必须安装Alpha Animals或Alpha Biomes才能使用此能力。</AM_OtherAlphaModsNeeded>
+	
+  <AM_Detonate>酸液爆破</AM_Detonate>
+	
+  <AM_DetonateDesc>迫使这只动物引爆自身。这会杀死它并引发酸液爆炸。</AM_DetonateDesc>
+	
+  <AM_MessageRitualRoleNeedsDryad>必须通过腐化母树培育一只窥视树精才能举行此仪式。</AM_MessageRitualRoleNeedsDryad>
+	
+  <AM_MessageRitualRoleNeedsCattle>需要一只殖民地饲养的牛类动物才能举行牛仔竞技。</AM_MessageRitualRoleNeedsCattle>
+	
+  <AM_DryadUnlinked>窥视树精必须与腐化母树建立联系。</AM_DryadUnlinked>
+	
+  <AM_CurrentTotalCattleBodySizePerColonist>当前牛类生物总体型（基于每个殖民者）</AM_CurrentTotalCattleBodySizePerColonist>
+	
+  <AM_StatsReport_HorseDesired>马：渴望 戒律</AM_StatsReport_HorseDesired>
+	
+  <AM_StatsReport_CattleImproved>牛：改善 戒律</AM_StatsReport_CattleImproved>
+	  
+  <AM_CantStartNotEnoughSpaceRodeo>空间不足，牛仔竞技无法正常举行。必须要有一个半径为{MINRADIUS}的空旷圆形场地。半径范围内至少要有{1}个可立足的点位。</AM_CantStartNotEnoughSpaceRodeo>
+	
+  <AM_IdeoMemeImpactLabel_4>极端</AM_IdeoMemeImpactLabel_4>
+	
+  <AM_IdeoImpactLabel_10>非常极端</AM_IdeoImpactLabel_10>
+	
+  <AM_IdeoImpactLabel_11>疯狂</AM_IdeoImpactLabel_11>
+	
+  <AM_IdeoImpactLabel_12>难以游玩</AM_IdeoImpactLabel_12>
+	
+  <AM_NakedTruthCantWearArmor>文化形态禁止</AM_NakedTruthCantWearArmor>
+
+	
+	
+  <Funeral_NeedsPower>{0}未通电。</Funeral_NeedsPower>
+	
+  <Funeral_ThingInfoPower>一个已通电或燃料充足的{0}。</Funeral_ThingInfoPower>
+	
+  <Funeral_WorstResult>{RITUAL}糟糕透顶！</Funeral_WorstResult>
+	
+  <Funeral_BestResult>{RITUAL}非常完美！</Funeral_BestResult>
+	
+  <Funeral_RoleNotDead>只有死去的殖民者才能被当做{0}。</Funeral_RoleNotDead>
+	
+  <Funeral_ConflictingPrecepts>（不相容的戒律：{CONFLICTS}）</Funeral_ConflictingPrecepts>
+	
+  <Funeral_ConflictingMemes>（不相容的模因：{CONFLICTS}）</Funeral_ConflictingMemes>
+	
+  <Funeral_MissingResearch>（需要完成研究项目：{RESARCH}）</Funeral_MissingResearch>
+	
+  <Funeral_DisabledCorpseInaccessible>没有可用的已死亡殖民者，如果可能的话请找回其尸体。</Funeral_DisabledCorpseInaccessible>
+	
+  <AM_SelectStuffToUse>选择需要使用的材料</AM_SelectStuffToUse>
+	
+  <Funeral_XOf>{0}份材料：</Funeral_XOf>
+	
+  <Funeral_XOfThing>需求：</Funeral_XOfThing>
+	
+  <Funeral_NotEnoughStuff>缺少足够的材料：需要{STUFF} x20。</Funeral_NotEnoughStuff>
+	
+  <AM_RitualCrafterOutcome>{LABEL}的{SKILL}等级</AM_RitualCrafterOutcome>
+	
+  <AM_RitualRolePsyker>启灵等级</AM_RitualRolePsyker>
+	
+  <AM_PsychicSensitivty>死者的心灵敏感度</AM_PsychicSensitivty>
+	
+  <Funeral_LaunchableRoofed>无法发射：运输舱被屋顶遮挡。</Funeral_LaunchableRoofed>
+	
+  <Funeral_LaunchableNoFuel>无法发射：运输舱缺少燃料。</Funeral_LaunchableNoFuel>
+	
+  <Funeral_ThingLaunchable>一个燃料充足且未被屋顶遮挡的{0}</Funeral_ThingLaunchable>
+	
+  <Funeral_NoHopper>营养膏合成机附近没有可抵达的进料口。</Funeral_NoHopper>
+	
+  <Funeral_NutrientPaste>一个拥有进料口且通电的营养膏合成机</Funeral_NutrientPaste>
+	
+  <Funeral_NotEnoughThings>材料不足，缺少：\n{Missing}</Funeral_NotEnoughThings>
+	
+  <Funeral_DreadnoughtFailure>无畏战棺没能维持住{CORPSE}的生命，我们永远失去了一位朋友。</Funeral_DreadnoughtFailure>
+	
+  <Funeral_DreadnoughtViable>尸体必须仍然保有大脑，且不能处于风干状态。</Funeral_DreadnoughtViable>
+	
+  <Funeral_DreadnoughtDessicated>{CORPSE}的尸体已经风干，无法再进行抢救了。</Funeral_DreadnoughtDessicated>
+	
+  <Funeral_DreadnoughtBrainGone>{CORPSE}已被摧毁，无法再进行抢救了。</Funeral_DreadnoughtBrainGone>
+	
+  <Funeral_DreadnoughtBrainGoneMessage>{PAWN}的大脑已被摧毁！我们无法再举行{RITUAL}来将其抢救回来了。</Funeral_DreadnoughtBrainGoneMessage>
+	
+  <Funeral_DreadnoughtToYoung>令人遗憾的是，{PAWN}因为年龄过小，我们无法为他举行{RITUAL}！</Funeral_DreadnoughtToYoung>
+	
+  <Funeral_ResearchNotCompleted>举行此仪式需要完成研究项目（{0}）。</Funeral_ResearchNotCompleted>
+	
+  <Funeral_OpportunitiesFor>{PAWN}的葬礼</Funeral_OpportunitiesFor>
+	
+  <Funeral_OptionsCount>目前有{0}种可用的葬礼类型。</Funeral_OptionsCount>	
+	
+  <Funeral_ThingNotEmpty>{0}不是空的。</Funeral_ThingNotEmpty>
+	
+  <Funeral_CorpseContainerFull>{0}已经满了。</Funeral_CorpseContainerFull>
+	
+  <Funeral_Gauralen>母树</Funeral_Gauralen>
+	
+  <AM_CorpseContainerOpen>此操作将不可逆转！一旦尸体被取出，就无法再安置回去了。</AM_CorpseContainerOpen>
+	
+  <AM_CorpseContainerFailedToEject>无法取出尸体。如果可能的话，请试着将物体的位置移动一下。</AM_CorpseContainerFailedToEject>
+	
+  <Funeral_FreshCorpse>未腐烂的尸体</Funeral_FreshCorpse>
+	
+  <Funeral_CorpseNotFresh>{CORPSE}因腐烂而无法被使用。</Funeral_CorpseNotFresh>
+	
+  <AM_InsectBurialInsectBorn>虫族们很快就享用掉了{CORPSE}！{INSECT}已孵化。</AM_InsectBurialInsectBorn>
+	
+  <AM_ArtificialBuildings>人工建筑</AM_ArtificialBuildings>
+	
+  <AM_UnnaturalThingsAffecting>仪式结果受半径{0}内所有建筑的影响</AM_UnnaturalThingsAffecting>		
+	
+  <AM_CorpseContainerMultiDiedOn>{NAME}死于{DATE}</AM_CorpseContainerMultiDiedOn>
+	
+  <Funeral_SkyburialAnimalsWanderIn>露天葬礼成功使一些动物迁徙到了此地。</Funeral_SkyburialAnimalsWanderIn>	
+	
+  <AM_TantrumDestoryed>我们摧毁了总价值为{1}的建筑。\n\n我们摧毁了：\n{0}</AM_TantrumDestoryed>
+	
+  <AM_TantrumOutcomeComp>摧毁建筑的财富值</AM_TantrumOutcomeComp>
+	
+  <AM_TantrumMustBePlayerHome>只能在你的殖民地里举行。</AM_TantrumMustBePlayerHome>
+	
+  <AM_ScrapperHighTechThing>一个可被搬运的、技术级别为“太空时代”及以上的高科技物品</AM_ScrapperHighTechThing>	
+	
+  <AM_ScrapperRitualOutcome>我们拆解了{0}，{1}{2}。</AM_ScrapperRitualOutcome>
+	
+  <AM_ScrapperComponentCount>并获得了{0}个零部件</AM_ScrapperComponentCount>
+	
+  <AM_ScrapperAdvComponentCount>和{0}高级零部件。</AM_ScrapperAdvComponentCount>
+	
+  <AM_RumVatInteruptFerment>朗姆酒尚未全部酿造完成。虽然尸体仍能从桶中取出，但所有朗姆酒都会被浪费。</AM_RumVatInteruptFerment>
+	
+  <AM_RumComplete>朗姆酒已全部酿造完成</AM_RumComplete>
+	
+  <AM_RumOutput>现在打开将产出朗姆酒 x{0}</AM_RumOutput>
+	
+	
+  <AM_DefaultStyle>默认风格样式</AM_DefaultStyle>
+	
+  <AM_ChooseStyle>选择此物体的风格样式</AM_ChooseStyle>
+	
+	<AM_ChooseStyle_Multiple>选择这些物体的风格样式</AM_ChooseStyle_Multiple>
+	
+  <AM_ChooseStyle_Swap_First>选择A风格样式</AM_ChooseStyle_Swap_First>
+	
+  <AM_ChooseStyle_Swap_Second>选择B风格样式</AM_ChooseStyle_Swap_Second>
+	
+  <AM_NoStyles>此物体缺少可用的风格样式。</AM_NoStyles>
+
+	
+	
+  <AM_PrimaryRole>主要作用</AM_PrimaryRole>
+	
+  <AM_RangedAttacks>使用远程攻击</AM_RangedAttacks>
+	
+  <AM_No>否</AM_No>
+	
+  <AM_NoRanged>这种动物无法远程攻击。为了命令它攻击，需要先完成“顺从”和“出击”训练，然后为其设定“主人被征召/进行野外工作时跟随”。选中主人后，点击下方命令栏中的“出击”按钮即可令动物发动近战攻击。</AM_NoRanged>
+	
+	
+	
+  <AM_Pet>宠物</AM_Pet>
+	
+	
+	
+  <AM_PetDesc>这种动物可当作宠物来养。你不觉得它们很可爱嘛？</AM_PetDesc>
+	
+	
+	
+	
+  <VME_Reset>重设</VME_Reset>
+	
+  <VME_Meme>最大模因数量</VME_Meme>
+	
+  <VME_Ritual>最大仪式数量</VME_Ritual>
+	
+  <VME_Styles>最大风格数量</VME_Styles>
+	
+  <VME_Relics>最大圣物数量</VME_Relics>
+	
+  <VME_Buildings>最大建筑数量</VME_Buildings>
+	
+  <VME_MemeAmount>可选择的最大模因数量（默认值为4）</VME_MemeAmount>
+	
+  <VME_MemeAmountTooltip>可选择的最大模因数量。仅对玩家派系的文化有效。</VME_MemeAmountTooltip>
+	
+  <VME_RitualAmount>可选择的最大非模因限定仪式数量（默认值为6，需要重启游戏）</VME_RitualAmount>
+	
+  <VME_RitualAmountTooltip>可选择的最大非模因限定仪式数量。由模因强制增加的仪式“通常”不受此项的限制，虽然事情总会出现例外（需要重启游戏）。</VME_RitualAmountTooltip>
+	
+  <VME_StylesAmount>可选择的最大文化风格数量（默认值为3，需要重启游戏）</VME_StylesAmount>
+	
+  <VME_StylesAmountTooltip>可选择的最大文化风格数量。请注意：我们将此项默认调至了5，而原版则是3，这是因为我们增加了许多新风格（需要重启游戏）。</VME_StylesAmountTooltip>
+	
+  <VME_RelicsAmount>可选择的最大圣物数量（默认值为3）</VME_RelicsAmount>
+	
+  <VME_RelicsAmountTooltip>可选择的最大圣物数量。</VME_RelicsAmountTooltip>
+	
+  <VME_BuildingsAmount>可选择的最大文化建筑数量（默认值为2）</VME_BuildingsAmount>
+	
+  <VME_BuildingsAmountTooltip>可选择的最大文化建筑数量。这包括了祭坛以及符号图像等建筑，但由模因添加的建筑并不包括在内。</VME_BuildingsAmountTooltip>
+	
+  <AM_AllowHighImpactMemesForFluidIdeos>允许演进文化选择高影响度模因</AM_AllowHighImpactMemesForFluidIdeos>
+	
+  <AM_AllowHighImpactMemesForFluidIdeos_Tooltip>默认情况下，演进文化仅允许你选择一个影响度为1或2的模因，而影响度为3的模因则被禁用了。如果启用此项，则将可以选择影响度为3的模因。</AM_AllowHighImpactMemesForFluidIdeos_Tooltip>
+
+</LanguageData>

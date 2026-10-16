@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pike -->
+
+  <DankPyon_MeleeWeapon_PikeRoxmont.label>长柄枪(罗克斯蒙)</DankPyon_MeleeWeapon_PikeRoxmont.label>
+  <DankPyon_MeleeWeapon_PikeRoxmont.description>与长矛不同，长柄枪必须用双手挥舞才能发挥最大功效。这使得使用长柄枪手可以在远处刺杀敌人，使他们即使不在战线的最前排，也能成为令人畏惧的战士。\n\n这把长柄枪上的颜色象征着罗克斯蒙家族。</DankPyon_MeleeWeapon_PikeRoxmont.description>
+  <DankPyon_MeleeWeapon_PikeRoxmont.tools.shaft.label>握柄</DankPyon_MeleeWeapon_PikeRoxmont.tools.shaft.label>
+  <DankPyon_MeleeWeapon_PikeRoxmont.tools.Point.label>尖端</DankPyon_MeleeWeapon_PikeRoxmont.tools.Point.label>
+
+
+  <!-- Waraxe -->
+
+  <DankPyon_MeleeWeapon_RoxWaraxe.label>罗克斯巨斧</DankPyon_MeleeWeapon_RoxWaraxe.label>
+  <DankPyon_MeleeWeapon_RoxWaraxe.description>罗克斯巨斧是一种较重的双手斧，受益于坚实的斧身及重量，它具有高伤害以及高耐久性。巨斧是劈开盾牌或无装甲敌人的最佳选择。需要很大的力量才能有效挥舞。\n\n斧身一面为扇形斧刃，另一侧则为罗克斯角所制成的尖锤，可以对重甲骑士进行致命的穿甲攻击。</DankPyon_MeleeWeapon_RoxWaraxe.description>
+  <DankPyon_MeleeWeapon_RoxWaraxe.tools.shaft.label>握柄</DankPyon_MeleeWeapon_RoxWaraxe.tools.shaft.label>
+  <DankPyon_MeleeWeapon_RoxWaraxe.tools.Point.label>角尖</DankPyon_MeleeWeapon_RoxWaraxe.tools.Point.label>
+  <DankPyon_MeleeWeapon_RoxWaraxe.tools.edge.label>斧锋</DankPyon_MeleeWeapon_RoxWaraxe.tools.edge.label>
+
+
+</LanguageData>

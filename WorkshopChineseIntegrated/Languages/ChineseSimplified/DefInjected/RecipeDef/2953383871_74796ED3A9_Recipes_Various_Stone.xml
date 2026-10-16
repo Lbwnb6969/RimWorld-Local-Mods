@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make clay blocks -->
+  <DankPyon_Make_StoneBlocksClay.label>制作粘土砖</DankPyon_Make_StoneBlocksClay.label>
+  <!-- EN: Cuts clay chunks into usable blocks.\n(Medieval Overhaul) -->
+  <DankPyon_Make_StoneBlocksClay.description>将粘土岩块切割成可用的砖块。</DankPyon_Make_StoneBlocksClay.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <DankPyon_Make_StoneBlocksClay.jobString>正在切割石材。</DankPyon_Make_StoneBlocksClay.jobString>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Dry meat into jerky -->
+  <VFEC_DryMeat.label>制作肉干</VFEC_DryMeat.label>
+  <!-- EN: Turns 75 meat into 75 jerky. -->
+  <VFEC_DryMeat.description>用肉 x75 风干制作肉干 x75。</VFEC_DryMeat.description>
+  <!-- EN: Dry 75 meat into 75 jerky -->
+  <VFEC_DryMeat.labelOverride>用肉 x75 风干制作肉干 x75</VFEC_DryMeat.labelOverride>
+  
+  <!-- EN: Press chunks into concrete -->
+  <VFEC_PressConcrete.label>压制混凝土</VFEC_PressConcrete.label>
+  <!-- EN: Turns 1 chunk into 75 concrete. -->
+  <VFEC_PressConcrete.description>用石块 x1 压制混凝土 x75。</VFEC_PressConcrete.description>
+  <!-- EN: Press 1 chunk into 75 concrete -->
+  <VFEC_PressConcrete.labelOverride>用石块 x1 压制混凝土 x75</VFEC_PressConcrete.labelOverride>
+  
+  <!-- EN: Process cloth into tyrian -->
+  <VFEC_ProcessCloth.label>染制皇家紫布</VFEC_ProcessCloth.label>
+  <!-- EN: Turns 150 cloth into 150 tyrian. -->
+  <VFEC_ProcessCloth.description>用布 x150 染制皇家紫布 x150。</VFEC_ProcessCloth.description>
+  <!-- EN: Process 150 cloth into 150 tyrian -->
+  <VFEC_ProcessCloth.labelOverride>用布 x150 染制皇家紫布 x150</VFEC_ProcessCloth.labelOverride>
+  
+</LanguageData>

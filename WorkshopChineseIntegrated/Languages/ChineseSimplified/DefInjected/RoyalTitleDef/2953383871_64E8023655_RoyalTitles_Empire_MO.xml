@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Freeholder.description>自由民的头衔通常授予那些透过服务或忠诚赢得帝国尊重和信任的人。\n\n自由民是具有较高地位的帝国平民，他们受到尊重并被认为是对社会有贡献的成员。</Freeholder.description>
+ 
+  <Yeoman.description>修士的头衔由那些忠心耿耿地为贵族领主服务的人所拥有。\n\n修士通常是有技能和成就的人，他们赢得了领主的信任，并被授予某些特权和责任，虽然这不是贵族头衔，但它确实赋予了持有者使用低级心灵能力的权利。</Yeoman.description>
+
+  <Acolyte.description>扈从头衔是第一个具有荣耀使命的头衔，授予那些对贵族有奉献精神和承诺的人。\n\n扈从涵盖了广泛的实际职位，包括作为学生学习战争、管理社会或在专门学校中学习使用心灵能力。其他人则来自富裕的家庭，可能拥有土地、建筑或农场等设施，并以勤奋和负责的态度管理它们。\n\n在战争期间，扈从可能会率领一队士兵或担任军队顾问。\n\n他们的爵位等级使得他们作为外交官时甚至不如修士。派一个地位低下的爵士参与谈判本身就可以被视为一种侮辱，而修士作为谈判代表则被视为与其主人同等地位。</Acolyte.description>
+
+  <Knight.description>骑士是低级贵族头衔中地位最高一级，但没有领导权力。骑士们的所有行动是都为更高级的领主服务的，但他们的地位很高，足以赢得所有人的尊重。\n\n大多数骑士都有些财富，但有些仍然很穷，而另一些则非常富有。\n\n在和平期间，骑士可能管理一间工坊、商业区或小型农业区。在战争中，骑士通常率领部队联队或一支突击中队。而专注于心灵能力的骑士则从事间谍活动，破坏计划和战场上的心灵战斗。</Knight.description>
+
+  <Praetor.description>法务官是一个享有盛誉的职位，授予那些在军事和政治事务中表现出卓越的领导能力和技能的人。他们也是下级贵族与上级贵族之间沟通的桥梁。\n\n在和平期间，法务官通常管理一个城市或农业区。在战争中，他们一般指挥一支最小的独立作战单位——陆军部队、驱逐船或战斗团。</Praetor.description>
+
+  <Baron.label>男爵</Baron.label>
+  <Baron.description>男爵头衔是中级贵族地位最低的一级，授予那些已经证明他们对贵族阶层的忠诚和服务的人。等级比男爵低的头衔侧重于个人在战争中的服务或在君主统治下的商业活动，而男爵则是一种拥有半独立统治地位的头衔。\n\n每一个男爵都隶属于他的君主，但他的义务主要是提供税金和军队，而不是个人服务。\n\n在帝国中，男爵通常拥有土地，如城镇、城堡或庄园，并以财富、军队或资源的形式向其君主提供支持。</Baron.description>
+  <Baron.labelFemale>女爵</Baron.labelFemale>
+
+  <Count.label>伯爵</Count.label>
+  <Count.description>伯爵头衔是中级贵族地位中等的阶级，授予那些在军事和政治事务中表现出特殊技能的人。\n\n平时，伯爵拥有一个城市或地区，并且可能有一支小型的私人船队，甚至主力船。</Count.description>
+  <Count.labelFemale>女伯爵</Count.labelFemale>
+
+  <VFEE_Archcount.label>大伯爵</VFEE_Archcount.label>
+  <VFEE_Archcount.description>大伯爵的头衔通常被册封给伯爵中的杰出者。\n\n大伯爵是受人尊敬的贵族阶层成员，可以拥有土地，如城市或大庄园，并指挥军队或船队。</VFEE_Archcount.description>
+  <VFEE_Archcount.labelFemale>女大伯爵</VFEE_Archcount.labelFemale>
+
+  <VFEE_Marquess.label>侯爵</VFEE_Marquess.label>
+  <VFEE_Marquess.description>侯爵头衔在中级贵族地位位列第二，授予那些在军事和政治事务中表现出忠诚、服务和技能的人。\n\n在帝国，侯爵通常拥有数块位于边境地区的土地，并在战争中统帅卫戍军队或船队防止敌人侵入帝国领土，或是支持附近的友军。</VFEE_Marquess.description>
+  <VFEE_Marquess.labelFemale>女侯爵</VFEE_Marquess.labelFemale>
+
+  <Duke.label>公爵</Duke.label>
+  <Duke.description>公爵头衔是中级贵族地位最高的一级，授予那些表现出卓越的领导力、勇气和对帝国的服务的人。\n\n在帝国中，公爵通常拥有一个省、大城市或战略领土。在战争中，公爵可以派出一支师团，或是一支拥有主力船和几十艘支持船的船队。</Duke.description>
+  <Duke.labelFemale>女公爵</Duke.labelFemale>
+
+  <VFEE_Archduke.description>大公头衔通常被册封给公爵当中最有影响力之人，负责维持领土秩序和稳定。\n\n他们需要一个称职的随从，以及维持一支师级的常备卫队。在和平期间，通常能在帝国内拥有一个小型家族。</VFEE_Archduke.description>
+  <VFEE_Archduke.labelFemale>女大公</VFEE_Archduke.labelFemale>
+
+  <Consul.description>执政官头衔是帝国上级贵族地位最低的一级，授予负责监督整个省或地区的个人所担任，他们负责维护法律和秩序，征收税收，并执行皇帝的命令。\n\n在战争时期，执政官可能会带领一支由骑士、步兵和弓箭手组成的军队参战，并由忠诚的顾问和保镖组成的随从陪同。</Consul.description>
+
+  <VFEE_Magister.description>将军的头衔在高级贵族头衔中占据中等的地位，由皇帝军队中最高级的顾问和将领担任。\n\n帝国的将军们无论在平时或战时都必须维持训练一支强大的武装军队，在需要时会以皇帝的名义统帅军队作战，由于将军的决策能够左右战争结果，他们也被要求掌握相应的战术和战略知识。</VFEE_Magister.description>
+  <VFEE_Magister.labelFemale>女将军</VFEE_Magister.labelFemale>
+
+  <VFEE_Despot.description>帝国中，近卫总长负责管理重要的战略地区。他们通常被认为是压迫和暴虐的，用铁腕统治来维持他们的权力。\n\n近卫总长的职责是保证领地内的资源能源源不断地流向帝国的金库和工坊。他们的家族在官僚体系中有着庞大的影响力。</VFEE_Despot.description>
+
+  <Stellarch.label>国王</Stellarch.label>
+  <Stellarch.description>国王的头衔由那些被皇帝授予土地和统治权的人所持有。\n\n在帝国中，他们负责管理一个特定地区，并被期望征收税款、维持秩序和保卫他们的土地免受入侵。通常有一支由骑士和士兵组成的小规模个人军队供其支配。</Stellarch.description>
+  <Stellarch.labelFemale>女王</Stellarch.labelFemale>
+
+  <VFEE_HighStellarch.label>至高王</VFEE_HighStellarch.label>
+  <VFEE_HighStellarch.description>至高王的头衔由被皇帝授予大量土地和统治权的人所持有，负责维护法律和秩序。\n\n至高王宣誓效忠于皇帝，并在帝国中拥有一个地位举足轻重的家族，他的职责不仅仅是守护已有的领地，更有义务不断扩张帝国的影响力。\n\n至高王拥有比国王更大规模的个人军队，由骑士、士兵和弓箭手组成。只有极少数的帝国臣民有资格获得这个头衔，其中愿意接受这一职责的更是少之又少。</VFEE_HighStellarch.description>
+  <VFEE_HighStellarch.labelFemale>至高女王</VFEE_HighStellarch.labelFemale>
+
+  <Emperor.label>皇帝</Emperor.label>
+  <Emperor.description>皇帝的头衔意味着对整个帝国及其所有民族、土地和军队的统治权。其他的所有贵族都需要宣誓效忠于一个更高位的贵族，而皇帝不需要对任何人宣誓效忠。然而，即使是皇帝也要依靠下级贵族的支持才能继续掌权。</Emperor.description>
+  <Emperor.labelFemale>女皇</Emperor.labelFemale>
+
+</LanguageData>

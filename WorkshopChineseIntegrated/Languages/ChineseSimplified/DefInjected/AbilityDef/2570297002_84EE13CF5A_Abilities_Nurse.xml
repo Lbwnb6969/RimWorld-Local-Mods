@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: medical emergency -->
+  <VME_MedicalEmergency.label>急救命令</VME_MedicalEmergency.label>
+  <!-- EN: Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly. -->
+  <VME_MedicalEmergency.description>暂停选定者的休息、娱乐以及饮食需求12小时。在此期间，被选定者将会专注从事与医护有关的工作。</VME_MedicalEmergency.description>
+  
+</LanguageData>

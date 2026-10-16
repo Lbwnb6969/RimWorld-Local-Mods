@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disliked -->
+  <VME_DumbLabor_Disliked.label>反感</VME_DumbLabor_Disliked.label>
+  <!-- EN: We'd rather not do cleaning and hauling tasks, as they are incredibly exhausting, but they are necessary. -->
+  <VME_DumbLabor_Disliked.description>我们不喜欢做那些又脏又累的体力活，但...它们也是十分必要的。</VME_DumbLabor_Disliked.description>
+  
+  <!-- EN: exalted -->
+  <VME_DumbLabor_Exalted.label>高尚</VME_DumbLabor_Exalted.label>
+  <!-- EN: An aching body is to be revered. Nearly nothing is found more rewarding than a day of hard work. -->
+  <VME_DumbLabor_Exalted.description>没有什么是比一整天的辛勤劳动更棒的了。酸痛的身体给予了我们极大的充实感。</VME_DumbLabor_Exalted.description>
+  
+  <!-- EN: horrible -->
+  <VME_DumbLabor_Horrible.label>畏惧</VME_DumbLabor_Horrible.label>
+  <!-- EN: We should not suffer the laborious degradation of our bodies, nor the degradation of sweat forming on our brow.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Leader and Moralist roles will be incapable of Dumb Labor. -->
+  <VME_DumbLabor_Horrible.description>我们无法容忍身体上的劳累，也无法容忍额头上滴落的汗水。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 拥有领袖或传道者职位的殖民者将无法进行简易工作。</VME_DumbLabor_Horrible.description>
+  
+  <!-- EN: indifferent -->
+  <VME_DumbLabor_Indifferent.label>漠视</VME_DumbLabor_Indifferent.label>
+  <!-- EN: Dumb tasks are necessary. That's all there is to it. -->
+  <VME_DumbLabor_Indifferent.description>体力活是十分必要的。就这样。</VME_DumbLabor_Indifferent.description>
+  
+  <!-- EN: liked -->
+  <VME_DumbLabor_Liked.label>喜好</VME_DumbLabor_Liked.label>
+  <!-- EN: Hard work is good for your body and for your mind. -->
+  <VME_DumbLabor_Liked.description>刻苦劳动能够磨砺我们的身心。</VME_DumbLabor_Liked.description>
+  
+</LanguageData>

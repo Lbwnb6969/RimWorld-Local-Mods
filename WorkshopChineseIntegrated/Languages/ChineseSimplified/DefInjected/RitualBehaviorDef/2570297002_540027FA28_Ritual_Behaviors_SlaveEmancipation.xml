@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <VME_SlaveEmancipationBehavior.roles.0.label>演讲者</VME_SlaveEmancipationBehavior.roles.0.label>
+  <!-- EN: slaves -->
+  <VME_SlaveEmancipationBehavior.roles.1.label>奴隶</VME_SlaveEmancipationBehavior.roles.1.label>
+  <!-- EN: slaves -->
+  <VME_SlaveEmancipationBehavior.roles.1.categoryLabel>奴隶</VME_SlaveEmancipationBehavior.roles.1.categoryLabel>
+  <!-- EN: slaves -->
+  <VME_SlaveEmancipationBehavior.roles.1.missingDesc>奴隶</VME_SlaveEmancipationBehavior.roles.1.missingDesc>
+  <!-- EN: participate -->
+  <VME_SlaveEmancipationBehavior.spectatorGerund>参加</VME_SlaveEmancipationBehavior.spectatorGerund>
+  <!-- EN: Participants -->
+  <VME_SlaveEmancipationBehavior.spectatorsLabel>参与者</VME_SlaveEmancipationBehavior.spectatorsLabel>
+  
+</LanguageData>

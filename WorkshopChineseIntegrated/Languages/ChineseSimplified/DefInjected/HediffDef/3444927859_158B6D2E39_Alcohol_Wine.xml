@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wine -->
+  <VFEM2_WineAlcoholHigh.label>葡萄酒醉酒</VFEM2_WineAlcoholHigh.label>
+  <!-- EN: Wine in the bloodstream. It makes people happy and more psychically sensitive, but reduces capacities. -->
+  <VFEM2_WineAlcoholHigh.description>淌在血液里的酒精，使人快乐，但又让人神志不清。略微增加心灵敏感度。</VFEM2_WineAlcoholHigh.description>
+  <!-- EN: wine drunkenness -->
+  <VFEM2_WineAlcoholHigh.labelNoun>葡萄酒醉酒</VFEM2_WineAlcoholHigh.labelNoun>
+  <!-- EN: warm -->
+  <VFEM2_WineAlcoholHigh.stages.warm.label>暖和</VFEM2_WineAlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <VFEM2_WineAlcoholHigh.stages.tipsy.label>微醺</VFEM2_WineAlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <VFEM2_WineAlcoholHigh.stages.drunk.label>飘飘然</VFEM2_WineAlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <VFEM2_WineAlcoholHigh.stages.hammered.label>酩酊大醉</VFEM2_WineAlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <VFEM2_WineAlcoholHigh.stages.blackout.label>昏醉不醒</VFEM2_WineAlcoholHigh.stages.blackout.label>
+  
+</LanguageData>

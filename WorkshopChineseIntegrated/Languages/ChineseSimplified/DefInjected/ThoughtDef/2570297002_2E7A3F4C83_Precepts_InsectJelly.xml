@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate insect jelly -->
+  <VME_AteInsectJellyDirect.stages.ate_insect_jelly.label>吃了虫胶</VME_AteInsectJellyDirect.stages.ate_insect_jelly.label>
+  <!-- EN: I ate some insect jelly. Not bad. -->
+  <VME_AteInsectJellyDirect.stages.ate_insect_jelly.description>我吃了一些虫胶，味道还不错。</VME_AteInsectJellyDirect.stages.ate_insect_jelly.description>
+  
+  <!-- EN: ate insect jelly -->
+  <VME_AteInsectJellyDirect_Despised.stages.ate_insect_jelly.label>吃了虫胶</VME_AteInsectJellyDirect_Despised.stages.ate_insect_jelly.label>
+  <!-- EN: Insect jelly is disgusting. -->
+  <VME_AteInsectJellyDirect_Despised.stages.ate_insect_jelly.description>我怎么会吃下那些恶心的虫胶？</VME_AteInsectJellyDirect_Despised.stages.ate_insect_jelly.description>
+  
+  <!-- EN: ate insect jelly -->
+  <VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.label>吃了虫胶</VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.label>
+  <!-- EN: Insect jelly is divine ambrosia, a gift from perfect creatures. -->
+  <VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.description>虫胶如同仙馐佳肴般美味，它们是完美的虫族给予我们的礼物。</VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.description>
+  
+</LanguageData>

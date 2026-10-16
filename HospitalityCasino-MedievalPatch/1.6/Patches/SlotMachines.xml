@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[@Name="HC_SlotMachineBase"]/costList</xpath>
+    <value>
+      <costList>
+        <DankPyon_IronIngot>60</DankPyon_IronIngot>
+        <DankPyon_ComponentBasic>12</DankPyon_ComponentBasic>
+        <WoodLog>30</WoodLog>
+      </costList>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[@Name="HC_SlotMachineBase"]/researchPrerequisites</xpath>
+    <value>
+      <researchPrerequisites>
+        <li>DankPyon_Engineering</li>
+      </researchPrerequisites>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[@Name="HC_SlotMachineBase"]</xpath>
+    <value>
+      <minTechLevelToBuild>Medieval</minTechLevelToBuild>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="HC_SlotMachineRed" or defName="HC_SlotMachineGreen" or defName="HC_SlotMachineBlue"]/comps/li[@Class="CompProperties_Power" or @Class="CompProperties_Glower" or @Class="CompProperties_Flickable" or @Class="CompProperties_Breakdownable"]</xpath>
+  </Operation>
+</Patch>

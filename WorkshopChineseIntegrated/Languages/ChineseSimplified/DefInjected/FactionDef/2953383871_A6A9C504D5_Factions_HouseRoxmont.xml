@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_NobleHouseRoxmont.label>文明贵族世家</DankPyon_NobleHouseRoxmont.label>
+  <DankPyon_NobleHouseRoxmont.description>[罗克斯蒙家族]建立于一个充满纷争和苦难的古老时代。当其他家族起起落落时，罗克斯蒙家族却历久弥新。\n\n虽然他们科技较不发达，但顽强的性格、众多的人口、善于中世纪武器的战斗技巧，让他们成为值得结交的盟友或危险的敌人。\n\n他们定居在寒冷幽暗的森林中，不愿插手社会事务，与其他贵族世家隔绝。</DankPyon_NobleHouseRoxmont.description>
+  <DankPyon_NobleHouseRoxmont.fixedName>罗克斯蒙家族</DankPyon_NobleHouseRoxmont.fixedName>
+  <DankPyon_NobleHouseRoxmont.pawnSingular>臣民</DankPyon_NobleHouseRoxmont.pawnSingular>
+  <DankPyon_NobleHouseRoxmont.pawnsPlural>臣民</DankPyon_NobleHouseRoxmont.pawnsPlural>
+  <DankPyon_NobleHouseRoxmont.leaderTitle>公爵</DankPyon_NobleHouseRoxmont.leaderTitle>
+
+</LanguageData>

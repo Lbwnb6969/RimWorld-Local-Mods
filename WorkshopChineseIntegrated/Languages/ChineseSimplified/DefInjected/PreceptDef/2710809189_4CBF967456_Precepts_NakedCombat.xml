@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: preferred -->
+  <AM_NakedCombat_Preferred.label>喜好</AM_NakedCombat_Preferred.label>
+  <!-- EN: Fighting naked allows us to move freely and evade attacks with greater ease. -->
+  <AM_NakedCombat_Preferred.description>赤身战斗能让我们行动自如，并更轻松地躲避攻击。</AM_NakedCombat_Preferred.description>
+  
+</LanguageData>

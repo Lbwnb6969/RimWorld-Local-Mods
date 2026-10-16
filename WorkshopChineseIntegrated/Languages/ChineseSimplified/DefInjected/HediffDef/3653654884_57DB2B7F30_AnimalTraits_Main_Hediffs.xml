@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpha -->
+  <AnimalTrait_Alpha.label>领袖</AnimalTrait_Alpha.label>
+  <!-- EN: This animal is the apex of its kind - a dominant specimen of extraordinary power. It strikes with devastating force, shrugs off injuries, and commands respect through sheer presence. However, its dominant nature makes it extremely difficult to control. -->
+  <AnimalTrait_Alpha.description>这只动物是其族群中的首领-有着超乎寻常的力量。它攻击起来威力巨大，即便受伤也能迅速恢复，而且凭借其强大的气场就能赢得同伴的敬畏。然而，其强烈的统治欲也使得它极难被控制。</AnimalTrait_Alpha.description>
+  
+  <!-- EN: barren -->
+  <AnimalTrait_Barren.label>不育</AnimalTrait_Barren.label>
+  <!-- EN: This animal has diminished reproductive capability. It produces smaller litters and fewer eggs, though it requires less food as a result. -->
+  <AnimalTrait_Barren.description>这只动物的繁殖能力有所下降。它的后代数量或产卵数变少了，但与此同时，它也不需要太多食物。</AnimalTrait_Barren.description>
+  
+  <!-- EN: clever -->
+  <AnimalTrait_Clever.label>聪慧</AnimalTrait_Clever.label>
+  <!-- EN: This animal displays extraordinary cognitive abilities. It anticipates commands, adapts to new situations rapidly, and demonstrates problem-solving skills that border on unsettling. -->
+  <AnimalTrait_Clever.description>这只动物展现出了非凡的认知能力。它能够预见指令，迅速适应新环境，并展现出近乎令人不安的解决问题的能力。</AnimalTrait_Clever.description>
+  
+  <!-- EN: diligent -->
+  <AnimalTrait_Diligent.label>勤奋</AnimalTrait_Diligent.label>
+  <!-- EN: This animal throws itself into every task with enthusiasm. It's attentive, responsive, and seems genuinely eager to please its handlers. -->
+  <AnimalTrait_Diligent.description>这只动物对待每项任务都充满热情。它专注、反应迅速，而且显然非常渴望让训练人员满意。</AnimalTrait_Diligent.description>
+  
+  <!-- EN: docile -->
+  <AnimalTrait_Docile.label>温顺</AnimalTrait_Docile.label>
+  <!-- EN: This animal has an exceptionally calm temperament. It rarely shows aggression and is content to follow its handler's lead. A joy to work with, though not much of a fighter. -->
+  <AnimalTrait_Docile.description>这只动物性情异常冷静。它很少表现出攻击性，并且喜欢跟随它的主人。和它一起工作很愉快，不过它不擅长战斗。</AnimalTrait_Docile.description>
+  
+  <!-- EN: dumb -->
+  <AnimalTrait_Dumb.label>蠢笨</AnimalTrait_Dumb.label>
+  <!-- EN: This animal isn't the brightest specimen. It struggles to learn new commands and often seems oblivious to its surroundings. Training requires exceptional patience. -->
+  <AnimalTrait_Dumb.description>这只动物不太聪明。它很难学习新的命令，而且经常对周围的环境视而不见。训练它需要很耐心。</AnimalTrait_Dumb.description>
+  
+  <!-- EN: fast -->
+  <AnimalTrait_Fast.label>迅捷</AnimalTrait_Fast.label>
+  <!-- EN: This animal moves with remarkable speed and grace. Its reflexes are lightning-quick, allowing it to outpace predators and prey alike. An excellent caravan animal. -->
+  <AnimalTrait_Fast.description>这只动物的移动速度和优雅令人惊叹。它的反应速度快如闪电，这使得它胜过捕食者或猎物。适合成为商队的一员。</AnimalTrait_Fast.description>
+  
+  <!-- EN: fat -->
+  <AnimalTrait_Fat.label>肥胖</AnimalTrait_Fat.label>
+  <!-- EN: This animal is considerably larger and heavier than normal. It yields substantially more meat and leather, but its bulk makes movement cumbersome. -->
+  <AnimalTrait_Fat.description>这只动物比它的同类更大更重。能产出更多的皮肉，但这肥胖的体型也让它步履阑珊。</AnimalTrait_Fat.description>
+  
+  <!-- EN: fertile -->
+  <AnimalTrait_Fertile.label>多子</AnimalTrait_Fertile.label>
+  <!-- EN: This animal has exceptional reproductive capability. It produces larger litters and raises healthy offspring, making it perfect for breeding programs. -->
+  <AnimalTrait_Fertile.description>这只动物的生殖能力很强。能生育更多更健康的后代，适合参与育种项目。</AnimalTrait_Fertile.description>
+  
+  <!-- EN: fluffy -->
+  <AnimalTrait_Fluffy.label>高产</AnimalTrait_Fluffy.label>
+  <!-- EN: This animal has an exceptionally productive coat or glands. Whether it's wool, milk, or other harvestable products, it yields significantly more than average specimens. -->
+  <AnimalTrait_Fluffy.description>这只动物的毛孔或腺体异常发达。不论是乳汁或是毛皮的产出都远胜于同类动物。</AnimalTrait_Fluffy.description>
+  
+  <!-- EN: fragile -->
+  <AnimalTrait_Fragile.label>脆弱</AnimalTrait_Fragile.label>
+  <!-- EN: This animal's body is delicate and easily damaged. However, its heightened awareness of its own vulnerability has made it exceptionally alert to danger. -->
+  <AnimalTrait_Fragile.description>这只动物的身体脆弱不堪。然而这也提高了其对任何危险的警惕性。</AnimalTrait_Fragile.description>
+  
+  <!-- EN: hungry -->
+  <AnimalTrait_Hungry.label>饥饿</AnimalTrait_Hungry.label>
+  <!-- EN: This animal has a ravenous appetite and lightning-fast metabolism. It burns through food quickly but converts it into raw energy with remarkable efficiency. -->
+  <AnimalTrait_Hungry.description>这只动物有着强烈的食欲和极快的代谢速度。它能迅速消化食物，又能以极高的效率将其转化为原始能量。</AnimalTrait_Hungry.description>
+  
+  <!-- EN: lazy -->
+  <AnimalTrait_Lazy.label>懒惰</AnimalTrait_Lazy.label>
+  <!-- EN: This animal would rather nap than do anything else. It lacks motivation and learns slowly, but its lethargy makes it exceptionally docile and unlikely to cause trouble. -->
+  <AnimalTrait_Lazy.description>这只动物宁愿睡觉也不愿做其他事情。它缺乏动力，学习速度也很慢，但它的慵懒状态使它异常温顺，不太可能惹麻烦。</AnimalTrait_Lazy.description>
+  
+  <!-- EN: lean -->
+  <AnimalTrait_Lean.label>精瘦</AnimalTrait_Lean.label>
+  <!-- EN: This animal is all sinew and muscle, with no excess weight. It moves with fluid grace and dodges attacks with ease, though it lacks the bulk to absorb punishment. -->
+  <AnimalTrait_Lean.description>这只动物浑身肌肉发达，没有多余的赘肉。它行动轻盈流畅，能轻松躲避攻击，但体型不够庞大，无法承受重击。</AnimalTrait_Lean.description>
+  
+  <!-- EN: peaceful -->
+  <AnimalTrait_Peaceful.label>平和</AnimalTrait_Peaceful.label>
+  <!-- EN: This animal embodies tranquility. It shows no aggression under any circumstances and responds to threats by fleeing rather than fighting. Perfect for a calm colony. -->
+  <AnimalTrait_Peaceful.description>这只动物心如止水。无论在何种情况下，它都不会表现出攻击性，遇到威胁时只会逃跑。非常适合一个一心求道的殖民地。</AnimalTrait_Peaceful.description>
+  
+  <!-- EN: plump -->
+  <AnimalTrait_Plump.label>丰满</AnimalTrait_Plump.label>
+  <!-- EN: This animal carries substantial extra weight. Its generous fat reserves provide excellent protection and energy storage, though mobility suffers somewhat. -->
+  <AnimalTrait_Plump.description>这只动物体重较重。它体内丰富的脂肪储备能提供良好的保护和充足的能量储备，不过其行动能力会有所下降。</AnimalTrait_Plump.description>
+  
+  <!-- EN: prime specimen -->
+  <AnimalTrait_PrimeSpecimen.label>巅峰样本</AnimalTrait_PrimeSpecimen.label>
+  <!-- EN: This animal represents the pinnacle of its species - a truly exceptional creature in every way. It's larger, more productive, healthier, and more robust than any normal member of its kind. A treasure beyond measure. -->
+  <AnimalTrait_PrimeSpecimen.description>这只动物代表了其所属物种的巅峰状态——它在各个方面都堪称独一无二的杰出生物。它体型更大、繁殖力更强、身体更健康、体质也更健壮，比任何同类都要出色得多。堪称无价之宝。</AnimalTrait_PrimeSpecimen.description>
+  <!-- EN: Prime Specimen -->
+  <AnimalTrait_PrimeSpecimen.modExtensions.0.traitName>巅峰样本</AnimalTrait_PrimeSpecimen.modExtensions.0.traitName>
+  
+  <!-- EN: regenerative -->
+  <AnimalTrait_Regenerative.label>再生</AnimalTrait_Regenerative.label>
+  <!-- EN: This animal possesses remarkable regenerative capabilities. Wounds that would take weeks to heal close in days. Its immune system is equally robust, fighting off infections with ease. -->
+  <AnimalTrait_Regenerative.description>这只动物具有非凡的再生能力。原本需要数周时间才能愈合的伤口，现在几天内就能痊愈。它的免疫系统同样强大，能够轻松抵御感染。</AnimalTrait_Regenerative.description>
+  
+  <!-- EN: sated -->
+  <AnimalTrait_Sated.label>铁胃</AnimalTrait_Sated.label>
+  <!-- EN: This animal has an exceptionally efficient digestive system. It extracts maximum nutrition from minimal food, thriving on portions that would leave others hungry. -->
+  <AnimalTrait_Sated.description>这只动物拥有极其高效的消化系统。它能从极少的食物中获取最多的营养，能够轻松消化那些会让其他动物感到饥饿的食物。</AnimalTrait_Sated.description>
+  
+  <!-- EN: skinny -->
+  <AnimalTrait_Skinny.label>消瘦</AnimalTrait_Skinny.label>
+  <!-- EN: This animal is noticeably smaller and lighter than average. It moves with exceptional speed and requires less food, though it provides less when butchered. -->
+  <AnimalTrait_Skinny.description>这只动物明显比一般同类体型更小、体重更轻。它行动速度极快，所需食物也较少，不过被宰杀后所产出的肉量也较少。</AnimalTrait_Skinny.description>
+  
+  <!-- EN: slowpoke -->
+  <AnimalTrait_Slowpoke.label>迟缓</AnimalTrait_Slowpoke.label>
+  <!-- EN: This animal moves at a leisurely pace, never in a hurry. While it won't win any races, its unhurried nature has allowed it to develop keen observational skills. -->
+  <AnimalTrait_Slowpoke.description>这只动物行动缓慢从容，从不匆忙。虽然它在比赛中无法获胜，但其从容不迫的习性使它养成了敏锐的观察能力。</AnimalTrait_Slowpoke.description>
+  
+  <!-- EN: smart -->
+  <AnimalTrait_Smart.label>聪明</AnimalTrait_Smart.label>
+  <!-- EN: This animal displays remarkable intelligence. It learns commands quickly, solves problems with ease, and shows an almost uncanny awareness of its surroundings. -->
+  <AnimalTrait_Smart.description>这只动物展现出了非凡的智慧。它能迅速学会指令，解决难题，并且对周围环境有着近乎不可思议的敏锐感知能力。</AnimalTrait_Smart.description>
+  
+  <!-- EN: strong -->
+  <AnimalTrait_Strong.label>强壮</AnimalTrait_Strong.label>
+  <!-- EN: This animal possesses extraordinary muscular development. Its powerful frame allows it to strike with devastating force and carry heavy loads with ease. -->
+  <AnimalTrait_Strong.description>这只动物肌肉发育极为发达。其强壮的身躯使它能够以极强的力量进行攻击，并且能够轻松地搬运重物。</AnimalTrait_Strong.description>
+  
+  <!-- EN: territorial -->
+  <AnimalTrait_Territorial.label>领地性</AnimalTrait_Territorial.label>
+  <!-- EN: This animal fiercely defends what it considers its territory. It's always alert for intruders and responds to threats with immediate aggression. Excellent as a guard animal. -->
+  <AnimalTrait_Territorial.description>这只动物会极力捍卫它的领地。它时刻对入侵者保持高度警惕，并会迅速采取攻击行动来应对威胁。堪称出色的守卫动物。</AnimalTrait_Territorial.description>
+  
+  <!-- EN: tough -->
+  <AnimalTrait_Tough.label>坚韧</AnimalTrait_Tough.label>
+  <!-- EN: This animal is built like a fortress. Dense muscle and thick hide allow it to shrug off blows that would cripple lesser creatures. It recovers steadily and endures far longer than expected. -->
+  <AnimalTrait_Tough.description>这只动物的体型就像一座坚固的堡垒。其肌肉紧实、皮毛厚实，这使它能够抵御那些会令其他生物致残的攻击。它恢复得非常迅速，而且能持续存活的时间远远超出预期。</AnimalTrait_Tough.description>
+  
+  <!-- EN: vicious -->
+  <AnimalTrait_Vicious.label>凶猛</AnimalTrait_Vicious.label>
+  <!-- EN: This animal has a mean streak a mile wide. It's quick to anger, holds grudges, and attacks with savage intensity. Extremely dangerous when provoked, but a terror in combat. -->
+  <AnimalTrait_Vicious.description>这只动物性格凶残，毫无怜悯之心。它极易发怒，手段极其残忍。一旦被激怒就会极其危险，而在战斗中更是令人闻风丧胆。</AnimalTrait_Vicious.description>
+  
+  <!-- EN: weak -->
+  <AnimalTrait_Weak.label>虚弱</AnimalTrait_Weak.label>
+  <!-- EN: This animal lacks raw physical power. Its muscles are underdeveloped and its strikes lack impact. However, it has learned to rely on evasion and cunning rather than brute force. -->
+  <AnimalTrait_Weak.description>这只动物没有强大的体能。它的肌肉发育不良，攻击力度也不大。不过，它已经学会了依靠躲避和机智而非蛮力来应对。</AnimalTrait_Weak.description>
+  
+</LanguageData>

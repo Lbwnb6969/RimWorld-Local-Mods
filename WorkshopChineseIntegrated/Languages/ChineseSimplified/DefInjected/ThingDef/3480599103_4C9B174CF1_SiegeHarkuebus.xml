@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: musket bullet -->
+  <TA_Bullet_SiegeHarkebus.label>火枪子弹</TA_Bullet_SiegeHarkebus.label>
+  
+  <!-- EN: siege arquebus -->
+  <TA_SiegeHarkebus.label>攻城火绳枪</TA_SiegeHarkebus.label>
+  <!-- EN: proto-musket. -->
+  <TA_SiegeHarkebus.description>原始火枪。</TA_SiegeHarkebus.description>
+  <!-- EN: stock -->
+  <TA_SiegeHarkebus.tools.stock.label>枪托</TA_SiegeHarkebus.tools.stock.label>
+  <!-- EN: barrel -->
+  <TA_SiegeHarkebus.tools.barrel.label>枪管</TA_SiegeHarkebus.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <TA_SiegeHarkebus.tools.muzzle.label>枪口</TA_SiegeHarkebus.tools.muzzle.label>
+  <!-- EN: siege arquebus -->
+  <TA_SiegeHarkebus.verbs.Verb_ShootCE.label>攻城火绳枪</TA_SiegeHarkebus.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

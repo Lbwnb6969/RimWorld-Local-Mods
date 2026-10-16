@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 安布鲁瓦兹义肢(手) -->
+
+  <AmbroisenMedHand.label>安布鲁瓦兹义肢(手)</AmbroisenMedHand.label>
+  <AmbroisenMedHand.description>一只已安装的安布鲁瓦兹义肢(手)。</AmbroisenMedHand.description>
+  <AmbroisenMedHand.comps.0.tools.0.label>安布鲁瓦兹义肢(手)</AmbroisenMedHand.comps.0.tools.0.label>
+  <AmbroisenMedHand.labelNoun>一只安布鲁瓦兹义肢(手)</AmbroisenMedHand.labelNoun>
+
+
+  <!-- 安布鲁瓦兹义肢(手臂) -->
+
+  <AmbroisenMedArm.label>安布鲁瓦兹义肢(手臂)</AmbroisenMedArm.label>
+  <AmbroisenMedArm.description>一只已安装的安布鲁瓦兹义肢(手臂)。</AmbroisenMedArm.description>
+  <AmbroisenMedArm.comps.0.tools.0.label>安布鲁瓦兹义肢(手臂)</AmbroisenMedArm.comps.0.tools.0.label>
+  <AmbroisenMedArm.labelNoun>一只安布鲁瓦兹义肢(手臂)</AmbroisenMedArm.labelNoun>
+
+
+  <!-- 安布鲁瓦兹义肢(腿) -->
+
+  <AmbroisenMedLeg.label>安布鲁瓦兹义肢(腿)</AmbroisenMedLeg.label>
+  <AmbroisenMedLeg.description>一只已安装的安布鲁瓦兹义肢(腿)。</AmbroisenMedLeg.description>
+  <AmbroisenMedLeg.labelNoun>一只安布鲁瓦兹义肢(腿)</AmbroisenMedLeg.labelNoun>
+
+
+  <!-- 安布鲁瓦兹义肢(脚) -->
+
+  <AmbroisenMedFoot.label>安布鲁瓦兹义肢(脚)</AmbroisenMedFoot.label>
+  <AmbroisenMedFoot.description>一只已安装的安布鲁瓦兹义肢(脚)。</AmbroisenMedFoot.description>
+  <AmbroisenMedFoot.labelNoun>一只安布鲁瓦兹义肢(脚)</AmbroisenMedFoot.labelNoun>
+
+
+  <!-- 安布鲁瓦兹义肢(脚趾) -->
+
+  <AmbroisenMedToe.label>安布鲁瓦兹义肢(脚趾)</AmbroisenMedToe.label>
+  <AmbroisenMedToe.description>一只已安装的安布鲁瓦兹义肢(脚趾)。</AmbroisenMedToe.description>
+  <AmbroisenMedToe.labelNoun>一只安布鲁瓦兹义肢(脚趾)</AmbroisenMedToe.labelNoun>
+
+
+  <!-- 安布鲁瓦兹义肢(手指) -->
+
+  <AmbroisenMedFinger.label>安布鲁瓦兹义肢(手指)</AmbroisenMedFinger.label>
+  <AmbroisenMedFinger.description>一只已安装的安布鲁瓦兹义肢(手指)。</AmbroisenMedFinger.description>
+  <AmbroisenMedFinger.labelNoun>一只安布鲁瓦兹义肢(手指)</AmbroisenMedFinger.labelNoun>
+
+
+  <!-- 安布鲁瓦兹义肢(鼻) -->
+
+  <AmbroisenMedNose.label>安布鲁瓦兹义肢(鼻)</AmbroisenMedNose.label>
+  <AmbroisenMedNose.description>一只已安装的安布鲁瓦兹义肢(鼻)。</AmbroisenMedNose.description>
+  <AmbroisenMedNose.labelNoun>一只安布鲁瓦兹义肢(鼻)</AmbroisenMedNose.labelNoun>
+
+
+  <!-- 安布鲁瓦兹义肢(眼) -->
+
+  <AmbroisenMedEye.label>安布鲁瓦兹义肢(眼)</AmbroisenMedEye.label>
+  <AmbroisenMedEye.description>一只已安装的安布鲁瓦兹义肢(眼)。</AmbroisenMedEye.description>
+  <AmbroisenMedEye.labelNoun>一只安布鲁瓦兹义肢(眼)</AmbroisenMedEye.labelNoun>
+
+
+  <!-- 安布鲁瓦兹义肢(耳) -->
+
+  <AmbroisenMedEar.label>安布鲁瓦兹义肢(耳)</AmbroisenMedEar.label>
+  <AmbroisenMedEar.description>一只已安装的安布鲁瓦兹义肢(耳)。</AmbroisenMedEar.description>
+  <AmbroisenMedEar.labelNoun>一只安布鲁瓦兹义肢(耳)</AmbroisenMedEar.labelNoun>
+
+
+</LanguageData>

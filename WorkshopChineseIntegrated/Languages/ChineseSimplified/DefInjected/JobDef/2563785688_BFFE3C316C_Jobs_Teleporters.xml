@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: using Recall. -->
+  <TabulaRasa_UseRecall.reportString>使用召回。</TabulaRasa_UseRecall.reportString>
+  
+  <!-- EN: using Teleporter. -->
+  <TabulaRasa_UseTeleporter.reportString>使用传送器。</TabulaRasa_UseTeleporter.reportString>
+  
+</LanguageData>

@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--=== Mod Setting related ===-->
+  <!-- EN: RimDark 40k - Mankinds Finest - {0} -->
+  <BEWH.MankindsFinest.ModSettings.ModName>RimDark 40k - Mankinds Finest</BEWH.MankindsFinest.ModSettings.ModName>
+
+  <!-- EN: When enabled, psykers suffering a mental breakdown will trigger psychic phenomena. -->
+  <BEWH.MankindsFinest.ModSettings.PsychicPhenomena>启用时，精神崩溃的灵能者会引发灵能现象。</BEWH.MankindsFinest.ModSettings.PsychicPhenomena>
+  <!-- EN: When a psychic phenomena occur and table is rolled on a random effect is chosen, these can wary from harmless to severely destructive. -->
+  <BEWH.MankindsFinest.ModSettings.PsychicPhenomenaDesc>当灵能现象产生时，使用随机数选择一个效果，这些效果从无害到极具破坏性不等。。</BEWH.MankindsFinest.ModSettings.PsychicPhenomenaDesc>
+
+  <!-- EN: When enabled, children may rarely and randomly be born as psykers or pariahs. -->
+  <BEWH.MankindsFinest.ModSettings.PsykerPariahBirth>启用时，儿童出生时有极小概率会成为灵能者或无魂者。</BEWH.MankindsFinest.ModSettings.PsykerPariahBirth>
+  <!-- EN: Chance for newly born children to be psykers or pariahs: {0}% -->
+  <BEWH.MankindsFinest.ModSettings.PsykerPariahBirthChance>新生儿成为灵能者或无魂者的几率：{0}%</BEWH.MankindsFinest.ModSettings.PsykerPariahBirthChance>
+  <!-- EN: Chance for newly born children to have a psyker or pariah gene. Parent genes have no effect on this. -->
+  <BEWH.MankindsFinest.ModSettings.PsykerPariahBirthChanceDesc>新生儿成为灵能者或无魂者的几率：{0}%。父母的基因对此没有影响。</BEWH.MankindsFinest.ModSettings.PsykerPariahBirthChanceDesc>
+
+  <!-- EN: When enabled, children may rarely and randomly be born as perpetuals. -->
+  <BEWH.MankindsFinest.ModSettings.PerpetualBirth>启用时，儿童出生时有极小概率会成为永生者。</BEWH.MankindsFinest.ModSettings.PerpetualBirth>
+  <!-- EN: Chance for newly born children to be a perpetual: {0}% -->
+  <BEWH.MankindsFinest.ModSettings.PerpetualBirthChance>新生儿成为永生者的几率：{0}%</BEWH.MankindsFinest.ModSettings.PerpetualBirthChance>
+  <!-- EN: Chance for newly born children to have a perpetual gene. Parent genes have no effect on this. -->
+  <BEWH.MankindsFinest.ModSettings.PerpetualBirthChanceDesc>新生儿成为永生者的几率：{0}%。父母的基因对此没有影响。</BEWH.MankindsFinest.ModSettings.PerpetualBirthChanceDesc>
+
+  <!-- EN: Default legion colors: {0} -->
+  <BEWH.MankindsFinest.ModSettings.DefaultChapterColours>默认军团颜色：{0}</BEWH.MankindsFinest.ModSettings.DefaultChapterColours>
+  <!-- EN: Changes the default color of crafted armor, drop pods, NPC Astartes, Legion decorative banners, and other items related to the player's Legion or Chapter. -->
+  <BEWH.MankindsFinest.ModSettings.DefaultChapterColoursDesc>更改以下物品的默认颜色：盔甲、空投舱、战团旗帜以及与玩家“战团”相关的其他物品。</BEWH.MankindsFinest.ModSettings.DefaultChapterColoursDesc>
+  <!-- EN: Default legion icon: {0} -->
+  <BEWH.MankindsFinest.ModSettings.SelectDefaultChapterIcon>默认军团图标：{0}</BEWH.MankindsFinest.ModSettings.SelectDefaultChapterIcon>
+  <!-- EN: Color Preset: {0} -->
+  <BEWH.MankindsFinest.ModSettings.ColourPreset>颜色预设：{0}</BEWH.MankindsFinest.ModSettings.ColourPreset>
+  <!-- EN: Custom Color -->
+  <BEWH.MankindsFinest.ModSettings.CustomColour>自定义颜色</BEWH.MankindsFinest.ModSettings.CustomColour>
+
+  <!-- EN: Main -->
+  <BEWH.MankindsFinest.ModSettings.TabMain>主要</BEWH.MankindsFinest.ModSettings.TabMain>
+  <!-- EN: Living Saint -->
+  <BEWH.MankindsFinest.ModSettings.TabLivingSaint>活圣人</BEWH.MankindsFinest.ModSettings.TabLivingSaint>
+  <!-- EN: Psychic -->
+  <BEWH.MankindsFinest.ModSettings.TabPsychic>灵能</BEWH.MankindsFinest.ModSettings.TabPsychic>
+  <!-- EN: Gene-seed -->
+  <BEWH.MankindsFinest.ModSettings.TabGeneseed>基因种子</BEWH.MankindsFinest.ModSettings.TabGeneseed>
+  <!-- EN: Misc -->
+  <BEWH.MankindsFinest.ModSettings.TabMisc>杂项</BEWH.MankindsFinest.ModSettings.TabMisc>
+
+  <!-- EN: Enabling this will allow colonist being killed to resurrect as Living Saints. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintSystem>允许将死亡的殖民者复活为活圣人。</BEWH.MankindsFinest.ModSettings.LivingSaintSystem>
+  <!-- EN: Living Saint pawn limit: {0} -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintPawnLimit>活圣人殖民者数量限制：{0}</BEWH.MankindsFinest.ModSettings.LivingSaintPawnLimit>
+  <!-- EN: This is the limit of how many Living Saints may exist at any time, both living and dead. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintPawnLimitDesc>这是活圣人的人数上限，包括还活着的和死了的。</BEWH.MankindsFinest.ModSettings.LivingSaintPawnLimitDesc>
+  <!-- EN: Male colonists can become Living Saints -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintMale>男性殖民者可以成为活圣人。</BEWH.MankindsFinest.ModSettings.LivingSaintMale>
+  <!-- EN: Only females can become Living Saints normally, this enables males to also be able to ascend. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintMaleDesc>通常只有女性殖民者可以成为活圣人，该选项可以让男性也能成为活圣人。</BEWH.MankindsFinest.ModSettings.LivingSaintMaleDesc>
+
+  <!-- EN: Chances for a lost Living Saint to return in a time of threat to the colony. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintChance>角色死亡后成为活圣人的几率</BEWH.MankindsFinest.ModSettings.LivingSaintChance>
+  <!-- EN: Big threat: {0}% -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintBigThreat>在面对大型威胁时死亡：{0}%</BEWH.MankindsFinest.ModSettings.LivingSaintBigThreat>
+  <!-- EN: Chance for Living Saints to resurrect on a big threat raid. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintBigThreatDesc>面对大规模袭击时重生为活圣人的几率。</BEWH.MankindsFinest.ModSettings.LivingSaintBigThreatDesc>
+  <!-- EN: Small threat: {0}% -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintSmallThreat>在面对小型威胁时死亡：{0}%</BEWH.MankindsFinest.ModSettings.LivingSaintSmallThreat>
+  <!-- EN: Chance for Living Saints to resurrect on a small threat raid. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintSmallThreatDesc>面对小规模袭击时重生为活圣人的几率。</BEWH.MankindsFinest.ModSettings.LivingSaintSmallThreatDesc>
+
+  <!-- EN: Living Saints base chance: {0}% -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintBaseChance>成为活圣人的基础几率：{0}%</BEWH.MankindsFinest.ModSettings.LivingSaintBaseChance>
+  <!-- EN: Other modifiers may increase beyond this, such as psysensitivity traits or violence skills if enabled. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintBaseChanceDesc>其他修正值可能在此基础上增加，例如心灵敏感和或者战斗技能（如果启用了该选项）</BEWH.MankindsFinest.ModSettings.LivingSaintBaseChanceDesc>
+  <!-- EN: Extra chance to become living saint depending on shooting and melee skill. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintExtraChanceFromViolence>根据射击和近战技能成为活圣人的额外几率</BEWH.MankindsFinest.ModSettings.LivingSaintExtraChanceFromViolence>
+  <!-- EN: For each skill point in melee and/or shooting above 10 your pawn get higher chance to become a saint. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintExtraChanceFromViolenceDesc>近战与射击技能每超过10点，殖民者成为活圣人的几率就会更高。</BEWH.MankindsFinest.ModSettings.LivingSaintExtraChanceFromViolenceDesc>
+
+  <!-- EN: Limit Living Saint ascension to baseliners -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintAscensionLimit>重生为活圣人仅限人类</BEWH.MankindsFinest.ModSettings.LivingSaintAscensionLimit>
+  <!-- EN: This limits the the Living Saint ascension system to only apply to baseliners.\nAny xenotype such as Impids will not be able to ascend. -->
+  <BEWH.MankindsFinest.ModSettings.LivingSaintAscensionLimitDesc>只有智人种可以重生为活圣人。\n其他异形渣滓绝对不行！！</BEWH.MankindsFinest.ModSettings.LivingSaintAscensionLimitDesc>
+
+  <!-- EN: Gene-seed implantation offsets. -->
+  <BEWH.MankindsFinest.ModSettings.ImplantationDesc>基因种子植入的成功率偏移</BEWH.MankindsFinest.ModSettings.ImplantationDesc>
+  <!-- EN: Implantation success chance offset: {0}% -->
+  <BEWH.MankindsFinest.ModSettings.ImplantationSuccessOffset>植入成功率偏移量：{0}%</BEWH.MankindsFinest.ModSettings.ImplantationSuccessOffset>
+  <!-- EN: Base implantation success chance is increased or decreased by this value. -->
+  <BEWH.MankindsFinest.ModSettings.ImplantationSuccessOffsetDesc>植入成功率会因该值而增加或减少。</BEWH.MankindsFinest.ModSettings.ImplantationSuccessOffsetDesc>
+  <!-- EN: Implantation success cap offset: {0}% -->
+  <BEWH.MankindsFinest.ModSettings.ImplantationCapOffset>植入成功率上限偏移：{0}%</BEWH.MankindsFinest.ModSettings.ImplantationCapOffset>
+  <!-- EN: Base implantation cap is increased or decreased by this value. Implantation cap is the maximum value of success an implantation can have. -->
+  <BEWH.MankindsFinest.ModSettings.ImplantationCapOffsetDesc>基础植入成功率上限会因此值增加或减少。植入成功率上限是植入成功率的最大值。</BEWH.MankindsFinest.ModSettings.ImplantationCapOffsetDesc>
+  <!-- EN: Matrix gestation time factor of default: {0}% -->
+  <BEWH.MankindsFinest.ModSettings.MatrixGestationFactor>默认矩阵培育系数：{0}%</BEWH.MankindsFinest.ModSettings.MatrixGestationFactor>
+  <!-- EN: Gestation time of all matrices are modified by this value. -->
+  <BEWH.MankindsFinest.ModSettings.MatrixGestationFactorDesc>所有矩阵的培育时间均受此值影响。</BEWH.MankindsFinest.ModSettings.MatrixGestationFactorDesc>
+
+  <!-- EN: Allow vat-grown Primarchs to be female -->
+  <BEWH.MankindsFinest.ModSettings.AllowFemalePrimarchs>允许培育女性基因原体。</BEWH.MankindsFinest.ModSettings.AllowFemalePrimarchs>
+
+  <!-- EN: Enable psychic crafting for custodes and primarch matrices -->
+  <BEWH.MankindsFinest.ModSettings.PsychicCrafting>使用灵能制造禁军和基因原体的矩阵</BEWH.MankindsFinest.ModSettings.PsychicCrafting>
+  <!-- EN: When enabled, pawns will slowly lose consciousness while creating genetic matrices.\nIf the Royalty DLC is installed and the pawn is psychic, they will lose psyfocus first. -->
+  <BEWH.MankindsFinest.ModSettings.PsychicCraftingDesc>启用时，殖民者在制造基因矩阵时会逐渐失去意识。\n如果安装了皇权DLC并且殖民者具有灵能能力，他们会先失去精神力。</BEWH.MankindsFinest.ModSettings.PsychicCraftingDesc>
+
+  <!--=== Common keywords ===-->
+  <!-- EN: primarch -->
+  <BEWH.MankindsFinest.CommonKeywords.Primarch>基因原体</BEWH.MankindsFinest.CommonKeywords.Primarch>
+  <!-- EN: legion -->
+  <BEWH.MankindsFinest.CommonKeywords.Chapter>军团</BEWH.MankindsFinest.CommonKeywords.Chapter>
+
+  <!-- EN: psyker -->
+  <BEWH.MankindsFinest.CommonKeywords.Psyker>灵能者</BEWH.MankindsFinest.CommonKeywords.Psyker>
+  <!-- EN: pariah -->
+  <BEWH.MankindsFinest.CommonKeywords.Pariah>无魂者</BEWH.MankindsFinest.CommonKeywords.Pariah>
+  <!-- EN: perpetual -->
+  <BEWH.MankindsFinest.CommonKeywords.Perpetual>永生者</BEWH.MankindsFinest.CommonKeywords.Perpetual>
+
+  <!-- EN: living saint -->
+  <BEWH.MankindsFinest.CommonKeywords.LivingSaint>活圣人</BEWH.MankindsFinest.CommonKeywords.LivingSaint>
+
+  <!-- EN: on -->
+  <BEWH.MankindsFinest.CommonKeywords.On>开启</BEWH.MankindsFinest.CommonKeywords.On>
+  <!-- EN: off -->
+  <BEWH.MankindsFinest.CommonKeywords.Off>关闭</BEWH.MankindsFinest.CommonKeywords.Off>
+
+  <!-- EN:  (acquired) -->
+  <BEWH.MankindsFinest.CommonKeywords.Acquired>（已获得）</BEWH.MankindsFinest.CommonKeywords.Acquired>
+
+  <!-- EN: Unknown -->
+  <BEWH.MankindsFinest.CommonKeywords.Unknown>未知</BEWH.MankindsFinest.CommonKeywords.Unknown>
+
+  <!--=== Buildings ===-->
+  <!-- Gestator -->
+  <!-- EN: Matrix Gestated -->
+  <BEWH.MankindsFinest.GeneGestator.GestateFinishLetter>基因完成</BEWH.MankindsFinest.GeneGestator.GestateFinishLetter>
+  <!-- EN: {0} has been gestated into {1} and can now be implanted into a suitable pawn. -->
+  <BEWH.MankindsFinest.GeneGestator.GestateFinishMessage>{0}已孕育成{1}，现在可以植入到合适的人选中。</BEWH.MankindsFinest.GeneGestator.GestateFinishMessage>
+
+  <!-- EN: Contains no gene matrix -->
+  <BEWH.MankindsFinest.GeneGestator.ContainsNoGeneMatrix>未装载基因矩阵</BEWH.MankindsFinest.GeneGestator.ContainsNoGeneMatrix>
+  <!-- EN: Contains matrix: {0} -->
+  <BEWH.MankindsFinest.GeneGestator.ContainsGeneMatrix>装有矩阵：{0}</BEWH.MankindsFinest.GeneGestator.ContainsGeneMatrix>
+  <!-- EN: Contains material: {0} -->
+  <BEWH.MankindsFinest.GeneGestator.ContainsExtraMaterial>装有材料：{0}</BEWH.MankindsFinest.GeneGestator.ContainsExtraMaterial>
+
+  <!-- EN: Ascendance vial can be extracted -->
+  <BEWH.MankindsFinest.GeneGestator.GeneVialFinished>可提取升华原液</BEWH.MankindsFinest.GeneGestator.GeneVialFinished>
+  <!-- EN: Ascendance vial creation finishes in {0}{1} -->
+  <BEWH.MankindsFinest.GeneGestator.GeneVialFinishesIn>升华原液的制作在{0}{1}完成。</BEWH.MankindsFinest.GeneGestator.GeneVialFinishesIn>
+
+  <!-- EN: Select {0} material -->
+  <BEWH.MankindsFinest.GeneGestator.SelectXMaterial>选择{0}材料</BEWH.MankindsFinest.GeneGestator.SelectXMaterial>
+  <!-- EN: Select {0} material from among your available materials, if you have any. -->
+  <BEWH.MankindsFinest.GeneGestator.SelectXMaterialDesc>从你的可用材料中选择{0}材料。（如果有）</BEWH.MankindsFinest.GeneGestator.SelectXMaterialDesc>
+  <!-- EN: No extra genetic material available -->
+  <BEWH.MankindsFinest.GeneGestator.NoAvailableMaterial>没有可用的遗传物质。</BEWH.MankindsFinest.GeneGestator.NoAvailableMaterial>
+
+  <!-- EN: Eject {0} -->
+  <BEWH.MankindsFinest.GeneGestator.EjectGeneMatrix>弹出{0}</BEWH.MankindsFinest.GeneGestator.EjectGeneMatrix>
+  <!-- EN: Ejects {0} from the gene gestator, allowing you to insert another. -->
+  <BEWH.MankindsFinest.GeneGestator.EjectGeneMatrixDesc>从基因种子培育器种弹出{0}，以插入另一个。</BEWH.MankindsFinest.GeneGestator.EjectGeneMatrixDesc>
+
+  <!-- EN: Start gestating -->
+  <BEWH.MankindsFinest.GeneGestator.StartGeneGestating>启动培育</BEWH.MankindsFinest.GeneGestator.StartGeneGestating>
+  <!-- EN: Starts the gestating process, once started it cannot be stopped. -->
+  <BEWH.MankindsFinest.GeneGestator.StartGeneGestatingDesc>开始培育过程，一旦启动将无法中止。</BEWH.MankindsFinest.GeneGestator.StartGeneGestatingDesc>
+
+  <!-- EN: Select matrix -->
+  <BEWH.MankindsFinest.GeneGestator.SelectMatrix>选择矩阵</BEWH.MankindsFinest.GeneGestator.SelectMatrix>
+  <!-- EN: Select matrix to gestate from among your matrices. -->
+  <BEWH.MankindsFinest.GeneGestator.SelectMatrixDesc>从你的矩阵中选择要培育的矩阵。</BEWH.MankindsFinest.GeneGestator.SelectMatrixDesc>
+
+  <!-- EN: You have not researched any gestatable genetic matrices projects -->
+  <BEWH.MankindsFinest.GeneGestator.MissingGestateResearch>你尚未研究任何基因矩阵相关的科研项目</BEWH.MankindsFinest.GeneGestator.MissingGestateResearch>
+
+  <!-- EN: No gene matrices -->
+  <BEWH.MankindsFinest.GeneGestator.NoGeneMatrix>无基因矩阵</BEWH.MankindsFinest.GeneGestator.NoGeneMatrix>
+
+  <!-- EN: No gene material have been selected, but you have available material.\nProceed? -->
+  <BEWH.MankindsFinest.GeneGestator.NoGeneMaterialSelectedProceed>未选择任何基因材料，但您拥有可用的基因材料。\n继续吗？</BEWH.MankindsFinest.GeneGestator.NoGeneMaterialSelectedProceed>
+
+  <!-- Primarch Growth Vat -->
+  <!-- EN: Start primarch growth -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.StartPrimarchGrowth>开始培育基因原体</BEWH.MankindsFinest.PrimarchGrowthVat.StartPrimarchGrowth>
+  <!-- EN: Starts the primarch growth process, once started it cannot be stopped. -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.StartPrimarchGrowthDesc>开始培育基因原体，一旦启动将无法中止。</BEWH.MankindsFinest.PrimarchGrowthVat.StartPrimarchGrowthDesc>
+  <!-- EN: Are you sure you want to start this process?\n\nOnce started, the machine cannot be stopped, and destroying it will result in the loss of the embryo. -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.PrimarchVatStartConfirmation>你确定要开始培育吗？\n\n机器一旦启动将无法中止止，摧毁它将导致胚胎丢失。</BEWH.MankindsFinest.PrimarchGrowthVat.PrimarchVatStartConfirmation>
+
+  <!-- EN: Contains no embryo -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.ContainsNoEmbryo>未置入胚胎</BEWH.MankindsFinest.PrimarchGrowthVat.ContainsNoEmbryo>
+
+  <!-- EN: Eject Embryo -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.EjectPrimarchEmbryo>弹出胚胎</BEWH.MankindsFinest.PrimarchGrowthVat.EjectPrimarchEmbryo>
+  <!-- EN: Eject currently loaded primarch embryo. -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.EjectPrimarchEmbryoDesc>弹出当前置入的原体胚胎。</BEWH.MankindsFinest.PrimarchGrowthVat.EjectPrimarchEmbryoDesc>
+
+  <!-- EN: Primarch Father: {0} -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.PrimarchFather>原体之父：{0}</BEWH.MankindsFinest.PrimarchGrowthVat.PrimarchFather>
+  <!-- EN: Mother: {0} -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.PrimarchMother>母亲:{0}</BEWH.MankindsFinest.PrimarchGrowthVat.PrimarchMother>
+
+  <!-- EN: No primarch embryos -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.NoPrimarchEmbryo>无基因原体胚胎</BEWH.MankindsFinest.PrimarchGrowthVat.NoPrimarchEmbryo>
+  <!-- EN: No genetic slurry -->
+  <BEWH.MankindsFinest.PrimarchGrowthVat.NoSlurry>无培育液</BEWH.MankindsFinest.PrimarchGrowthVat.NoSlurry>
+
+  <!-- Gene Manipulation Table -->
+  <!-- EN: Select primarch ascendance vial -->
+  <BEWH.MankindsFinest.GeneManupulationTable.PrimarchGeneseedVialSelection>选择升华原液</BEWH.MankindsFinest.GeneManupulationTable.PrimarchGeneseedVialSelection>
+  <!-- EN: Select human embryo -->
+  <BEWH.MankindsFinest.GeneManupulationTable.HumanEmbryoSelection>选择人类胚胎</BEWH.MankindsFinest.GeneManupulationTable.HumanEmbryoSelection>
+  <!-- EN: Select pawn for crafting -->
+  <BEWH.MankindsFinest.GeneManupulationTable.PawnSelection>选择制作者</BEWH.MankindsFinest.GeneManupulationTable.PawnSelection>
+  <!-- EN: Nothing selected -->
+  <BEWH.MankindsFinest.GeneManupulationTable.NothingSelected>没有可供选择的物品</BEWH.MankindsFinest.GeneManupulationTable.NothingSelected>
+  <!-- EN: None available to select -->
+  <BEWH.MankindsFinest.GeneManupulationTable.NoneToSelect>没有可供选择的工作者</BEWH.MankindsFinest.GeneManupulationTable.NoneToSelect>
+  <!-- EN: {0} is not skilled enough to craft a primarch embryo, needs {1} -->
+  <BEWH.MankindsFinest.GeneManupulationTable.NotSkilledEnoughPrimarchEmbryo>{0}的技能不足以制作基因原体胚胎，需要技能等级{1}</BEWH.MankindsFinest.GeneManupulationTable.NotSkilledEnoughPrimarchEmbryo>
+
+  <!-- EN: Craft primarch embryo -->
+  <BEWH.MankindsFinest.GeneManupulationTable.CraftPrimarchEmbryo>制作基因原体胚胎</BEWH.MankindsFinest.GeneManupulationTable.CraftPrimarchEmbryo>
+  <!-- EN: Select ascendance vial and human embryo for creation of a primarch embryo. -->
+  <BEWH.MankindsFinest.GeneManupulationTable.CraftPrimarchEmbryoDesc>选择用于制作基因原体胚胎的飞升原液和人类胚胎。</BEWH.MankindsFinest.GeneManupulationTable.CraftPrimarchEmbryoDesc>
+
+  <!-- EN: Cannot craft {0}, requires psychic sensitivity higher than 0% -->
+  <BEWH.MankindsFinest.GeneManupulationTable.PsychicSensitivityRequired>无法制作{0}，需要心灵敏感度高于0%。</BEWH.MankindsFinest.GeneManupulationTable.PsychicSensitivityRequired>
+  <!-- EN: Cannot craft {0}, requires {1} to be in linked Sangprimus -->
+  <BEWH.MankindsFinest.GeneManupulationTable.MissingLegionMaterial>无法制作{0}，需要{1}处于已链接的圣血之柜中。</BEWH.MankindsFinest.GeneManupulationTable.MissingLegionMaterial>
+
+  <!-- Containers -->
+  <!-- EN: Deteriorates outside suitable container. -->
+  <BEWH.MankindsFinest.Containers.DeterioratingOutsideContainer>在合适的容器之外会老化。</BEWH.MankindsFinest.Containers.DeterioratingOutsideContainer>
+  <!-- EN: Suitable containers: -->
+  <BEWH.MankindsFinest.Containers.SuitableContainers>合适的容器：</BEWH.MankindsFinest.Containers.SuitableContainers>
+  <!-- EN: not in safe container -->
+  <BEWH.MankindsFinest.Containers.ItemDeterioratingNotInContainer>未放在合适的容器中。</BEWH.MankindsFinest.Containers.ItemDeterioratingNotInContainer>
+
+  <!-- EN: Materials -->
+  <BEWH.MankindsFinest.Containers.SangprimusPortumAcquired>材料</BEWH.MankindsFinest.Containers.SangprimusPortumAcquired>
+  <!-- EN: Click for more info on this gene. -->
+  <BEWH.MankindsFinest.Containers.SangprimusPortumMoreInfo>点击以查看该基因的更多信息。</BEWH.MankindsFinest.Containers.SangprimusPortumMoreInfo>
+
+  <!-- Flag -->
+  <!-- EN: Banner Insignia -->
+  <BEWH.MankindsFinest.Decorations.FlagInsignia>旗帜徽章</BEWH.MankindsFinest.Decorations.FlagInsignia>
+  <!-- EN: Edit banner -->
+  <BEWH.MankindsFinest.Decorations.EditFlag>编辑旗帜</BEWH.MankindsFinest.Decorations.EditFlag>
+  <!-- EN: Edit the color and insignia of the banner. -->
+  <BEWH.MankindsFinest.Decorations.EditFlagDesc>编辑旗帜的颜色和徽章。</BEWH.MankindsFinest.Decorations.EditFlagDesc>
+
+  <!--=== Genes ===-->
+  <!-- Thunder Warrior -->
+  <!-- EN: {0}% chance to go berserk within half a day. -->
+  <BEWH.MankindsFinest.ThunderWarrior.ChanceToBerserk>12小时内有{0}%的概率陷入狂暴。</BEWH.MankindsFinest.ThunderWarrior.ChanceToBerserk>
+
+  <!-- EN: Organ decay: {0} -->
+  <BEWH.MankindsFinest.ThunderWarrior.OrganDecayTitle>器官衰竭：{0}</BEWH.MankindsFinest.ThunderWarrior.OrganDecayTitle>
+  <!-- EN: {0}'s {1} is unable to handle the experimental implanted extra organs!\n\nThe affected organ will slowly lose function, before dying completely.\n\nIf you want {0} to stay healthy, install a replacement {1}. This could be a bionic, or a natural organ taken from a donor. -->
+  <BEWH.MankindsFinest.ThunderWarrior.OrganDecayMessage>{0}的{1}无法处理植入的额外器官！\n\n受影响的器官将逐渐丧失功能，直至完全死亡。\n\n尽快替换这些器官以保持{0}的健康。考虑使用仿生体器官，或是找好心人噶两件来。</BEWH.MankindsFinest.ThunderWarrior.OrganDecayMessage>
+
+  <!-- Space Marine -->
+  <!-- EN: Does not have any progenoid glands -->
+  <BEWH.MankindsFinest.SpaceMarine.NoProgenoidGlands>无基因存收腺</BEWH.MankindsFinest.SpaceMarine.NoProgenoidGlands>
+  <!-- EN: Secondary progenoid glands already harvested -->
+  <BEWH.MankindsFinest.SpaceMarine.SecondaryGlandsAlreadyHarvested>次要基因存收腺已提取</BEWH.MankindsFinest.SpaceMarine.SecondaryGlandsAlreadyHarvested>
+  <!-- EN: Space Marine gene-seed extraction not researched -->
+  <BEWH.MankindsFinest.SpaceMarine.SMGeneseedExtractionNotResearched>未研究基因种子提取科技</BEWH.MankindsFinest.SpaceMarine.SMGeneseedExtractionNotResearched>
+  <!-- EN: Primaris Marine gene-seed extraction not researched -->
+  <BEWH.MankindsFinest.SpaceMarine.PMGeneseedExtractionNotResearched>未研究基因种子提取科技</BEWH.MankindsFinest.SpaceMarine.PMGeneseedExtractionNotResearched>
+
+  <!-- EN: Gene-seeds harvestable. -->
+  <BEWH.MankindsFinest.SpaceMarine.ProgrenoidGlandGrown>可收获基因种子</BEWH.MankindsFinest.SpaceMarine.ProgrenoidGlandGrown>
+  <!-- EN: {0}'s gene-seeds are ready to be harvested. -->
+  <BEWH.MankindsFinest.SpaceMarine.ProgrenoidGlandGrownDesc>可以收获{0}的基因种子了。</BEWH.MankindsFinest.SpaceMarine.ProgrenoidGlandGrownDesc>
+
+  <!-- EN: Gene-seeds have already been harvested. -->
+  <BEWH.MankindsFinest.SpaceMarine.FirstGeneseedsHarvested>基因种子已收获。</BEWH.MankindsFinest.SpaceMarine.FirstGeneseedsHarvested>
+  <!-- EN: Gene-seeds ready to be harvested. -->
+  <BEWH.MankindsFinest.SpaceMarine.FirstGeneseedsHarvestable>可以收获基因种子了。</BEWH.MankindsFinest.SpaceMarine.FirstGeneseedsHarvestable>
+  <!-- EN: Gene-seeds can be harvested in {0} days{1}. -->
+  <BEWH.MankindsFinest.SpaceMarine.FirstGeneseedsHarvestableIn>基因种子可在{0}天后收获{1}</BEWH.MankindsFinest.SpaceMarine.FirstGeneseedsHarvestableIn>
+  <!-- EN: and upon death -->
+  <BEWH.MankindsFinest.SpaceMarine.SecondGeneseedsHarvestableUponDeath>以及死亡后</BEWH.MankindsFinest.SpaceMarine.SecondGeneseedsHarvestableUponDeath>
+
+  <!-- EN: Gene-seeds have already been harvested. -->
+  <BEWH.MankindsFinest.SpaceMarine.SecondGeneseedsHarvested>基因种子已收获。</BEWH.MankindsFinest.SpaceMarine.SecondGeneseedsHarvested>
+  <!-- EN: Gene-seeds ready to be harvested. -->
+  <BEWH.MankindsFinest.SpaceMarine.SecondGeneseedsHarvestable>可以收获基因种子了。</BEWH.MankindsFinest.SpaceMarine.SecondGeneseedsHarvestable>
+
+  <!-- EN: {0}% chance of successfully extracting the gene-seed. -->
+  <BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionChance>成功提取基因种子的几率为{0}%。</BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionChance>
+
+  <!-- EN: Gene-seed extraction failed. -->
+  <BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionFail>基因种子提取失败。</BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionFail>
+  <!-- EN: Gene-seed extraction of {0} failed and was ruined in the process. -->
+  <BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionFailDesc>{0}的基因种子提取失败，并在提取过程中被破坏。</BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionFailDesc>
+
+  <!-- EN: Gene-seed extraction succeeded. -->
+  <BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionSuccess>基因种子提取成功。</BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionSuccess>
+  <!-- EN: Gene-seed extraction of {0} succeeded and a vial was created. -->
+  <BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionSuccessDesc>已成功提取{0}的基因种子，并已制造出飞升原液。</BEWH.MankindsFinest.SpaceMarine.GeneseedExtractionSuccessDesc>
+
+  <!-- Living Saint -->
+  <!-- EN: Divine Grace Cost: {0} -->
+  <BEWH.MankindsFinest.LivingSaint.DivineGraceCost>消耗的神圣恩典：{0}</BEWH.MankindsFinest.LivingSaint.DivineGraceCost>
+
+  <!-- EN: In {0}'s final moments they felt a surge of energy coursing through them, invigorating and strengthening them. {0} was reborn as a Living Saint - stronger, faster, and more devoted than ever. -->
+  <BEWH.MankindsFinest.LivingSaint.LivingSaintMessage>在{0}生命的最后时刻，他们感到一股能量涌遍全身，赋予他们活力和力量。{0}重生为活圣人，他更加强大、更加迅捷，也更加忠诚。</BEWH.MankindsFinest.LivingSaint.LivingSaintMessage>
+
+  <!-- EN: Living Saint Returns -->
+  <BEWH.MankindsFinest.LivingSaint.LivingSaintReturn>活圣人回归</BEWH.MankindsFinest.LivingSaint.LivingSaintReturn>
+  <!-- EN: Though thought dead, {0}'s miracles keep coming. It seems {0} sensed our situation from beyond and returned to help. -->
+  <BEWH.MankindsFinest.LivingSaint.LivingSaintReturnMessage>尽管{0}似乎已经死了，但奇迹发生了。似乎{0}在某个地方感受到了我们的艰难处境，他来帮助我们了。</BEWH.MankindsFinest.LivingSaint.LivingSaintReturnMessage>
+
+  <!-- EN: {0_labelShort} divine grace supply is dwindling. -->
+  <BEWH.MankindsFinest.LivingSaint.LowHolyGrace>{0_labelShort}的神圣恩典正在减少。</BEWH.MankindsFinest.LivingSaint.LowHolyGrace>
+
+  <!-- Perpetual -->
+  <!-- EN: Perpetual Resurrects -->
+  <BEWH.MankindsFinest.Perpetual.PerpetualReturn>永生者</BEWH.MankindsFinest.Perpetual.PerpetualReturn>
+  <!-- EN: Though thought dead, it seems {0} has regenerated even their most dire wounds. -->
+  <BEWH.MankindsFinest.Perpetual.PerpetualReturnMessage>尽管{0}好像已经死了，但即便是最致命的伤口也已经再生了。</BEWH.MankindsFinest.Perpetual.PerpetualReturnMessage>
+
+
+  <!-- Shared Gene -->
+  <!-- EN: Warp Shield -->
+  <BEWH.MankindsFinest.WarpShield.Conditional>心灵屏障</BEWH.MankindsFinest.WarpShield.Conditional>
+  <!-- EN: Currently turned {0} -->
+  <BEWH.MankindsFinest.WarpShield.Tooltip>当前已转变为{0}</BEWH.MankindsFinest.WarpShield.Tooltip>
+
+
+  <!--=== Abilities ===-->
+  <!-- Lorgar -->
+  <!-- EN: {0} is already part of {1} faction -->
+  <BEWH.MankindsFinest.Ability.LorgarAuthority>{0}是{1}派系的成员。</BEWH.MankindsFinest.Ability.LorgarAuthority>
+  <!-- EN: {0} is already part of {1} ideology -->
+  <BEWH.MankindsFinest.Ability.LorgarDivination>{0}信仰着{1}文化。</BEWH.MankindsFinest.Ability.LorgarDivination>
+  <!-- EN: {0} is not part of any ideology -->
+  <BEWH.MankindsFinest.Ability.LorgarDivinationNoIdeo>{0}不信仰任何文化。</BEWH.MankindsFinest.Ability.LorgarDivinationNoIdeo>
+
+  <!-- Angron -->
+  <!-- EN: {0} is not in mental state or have any negative thoughts or memories -->
+  <BEWH.MankindsFinest.Ability.ChillgronAbility>{0}目前并未处于精神崩溃状态，也没有任何负面想法与记忆。</BEWH.MankindsFinest.Ability.ChillgronAbility>
+
+  <!-- Warp Shield -->
+  <!-- EN: Warp shield is currently toggled {0} -->
+  <BEWH.MankindsFinest.Ability.CurrentToggle>心灵屏障目前已开启{0}。</BEWH.MankindsFinest.Ability.CurrentToggle>
+
+  <!-- Twin Teleport -->
+  <!-- EN: No twin -->
+  <BEWH.MankindsFinest.Ability.NoTwin>没有双胞胎兄弟</BEWH.MankindsFinest.Ability.NoTwin>
+  <!-- EN: The twin is dead -->
+  <BEWH.MankindsFinest.Ability.TwinConnectedDead>双胞胎兄弟死了</BEWH.MankindsFinest.Ability.TwinConnectedDead>
+  <!-- EN: The twin is on a different map -->
+  <BEWH.MankindsFinest.Ability.TwinConnectedDifferentMap>双胞胎兄弟位于不同的地图上</BEWH.MankindsFinest.Ability.TwinConnectedDifferentMap>
+
+  <!-- EN: Does not have the Alpharius/Omegon primarch specific gene -->
+  <BEWH.MankindsFinest.Ability.DoesNotHaveAlphariusGene>此人不具备阿尔法瑞斯/欧米伽原体特有的基因</BEWH.MankindsFinest.Ability.DoesNotHaveAlphariusGene>
+  <!-- EN: Already have a twin -->
+  <BEWH.MankindsFinest.Ability.HaveTwin>已有一个双胞胎兄弟</BEWH.MankindsFinest.Ability.HaveTwin>
+
+  <!-- Denied Witch -->
+  <!-- EN: {0} psychic powers have been severed (Deny the Witch) -->
+  <BEWH.MankindsFinest.Ability.DeniedWitch>{0}的灵能已被抑制。</BEWH.MankindsFinest.Ability.DeniedWitch>
+
+  <!-- Iron Circle -->
+  <!-- EN: {0} does not have the {1} gene which is required to control this mech -->
+  <BEWH.MankindsFinest.Ability.PawnDoesNotHaveGeneToControl>{0}缺少用于控制此机械族的{1}基因。</BEWH.MankindsFinest.Ability.PawnDoesNotHaveGeneToControl>
+  <!-- EN: {0} cannot control anymore {1} mechs, limit is {2} -->
+  <BEWH.MankindsFinest.Ability.PawnCannotControlMoreMechsOfType>{0}无法再控制更多的此类机械族，其上限为{2}。</BEWH.MankindsFinest.Ability.PawnCannotControlMoreMechsOfType>
+
+  <!-- EN: Will not summon any {0} as limit has been reached -->
+  <BEWH.MankindsFinest.Ability.WillNotSummonAny>不会再召唤任何{0}，因为其数量已经达到上限。</BEWH.MankindsFinest.Ability.WillNotSummonAny>
+
+  <!-- Living Saint -->
+  <!-- EN: {0_labelShort}'s {1} is below or at 0. -->
+  <BEWH.MankindsFinest.Ability.ProofOfFaithNoStat>{0_labelShort}的{1}低于0。</BEWH.MankindsFinest.Ability.ProofOfFaithNoStat>
+  <!-- EN: Will give {1} Grace and induce {0_labelShort} with coma for {2} days. -->
+  <BEWH.MankindsFinest.Ability.ProofOfFaithGain>{1}将获得神圣恩典,{0_labelShort}将昏迷{2}天。</BEWH.MankindsFinest.Ability.ProofOfFaithGain>
+
+  <!-- EN: {0_labelShort} does not have enough Divine Grace. -->
+  <BEWH.MankindsFinest.Ability.NoDivineGrace>{0_labelShort}的神圣恩典不足。</BEWH.MankindsFinest.Ability.NoDivineGrace>
+  <!-- EN: {0_labelShort} is not divine. -->
+  <BEWH.MankindsFinest.Ability.NoDivineGraceGene>{0_labelShort}并非神圣。</BEWH.MankindsFinest.Ability.NoDivineGraceGene>
+
+  <!-- Space Marine -->
+  <!-- EN: {0} is about to enter stasis. You have not researched {1} and will have a hard time resurrecting {0} from stasis.\n\nUse with caution! -->
+  <BEWH.MankindsFinest.Ability.StasisResearchNotCompleted>{0}即将进入停滞状态。你尚未研究{1}，因此很难将{0}从停滞状态中唤醒。\n\n请谨慎使用！</BEWH.MankindsFinest.Ability.StasisResearchNotCompleted>
+
+  <!-- Thunder Warrior -->
+  <!-- EN: {0} does not have any bleeding wounds. -->
+  <BEWH.MankindsFinest.Ability.NoBleedingWounds>{0}没有还在流血的伤口。</BEWH.MankindsFinest.Ability.NoBleedingWounds>
+  <!-- EN: Stapling wounds would kill pawn. -->
+  <BEWH.MankindsFinest.Ability.WouldKillPawn>缝合伤口会杀死该角色。</BEWH.MankindsFinest.Ability.WouldKillPawn>
+  <!-- EN: {0} does not have {1}. -->
+  <BEWH.MankindsFinest.Ability.MustHaveVigoranis>{0}没有{1}</BEWH.MankindsFinest.Ability.MustHaveVigoranis>
+  <!-- EN: Target must be a corpse. -->
+  <BEWH.MankindsFinest.Ability.MustBeCorpse>目标必须是尸体。</BEWH.MankindsFinest.Ability.MustBeCorpse>
+
+  <!-- Apothecary -->
+  <!-- EN: Target must be a pawn. -->
+  <BEWH.MankindsFinest.Ability.MustBePawn>目标必须为人类。</BEWH.MankindsFinest.Ability.MustBePawn>
+  <!-- EN: {0} is not downed or in bed. -->
+  <BEWH.MankindsFinest.Ability.MustBeDownedOrInBed>{0}未处于倒地或卧床状态。</BEWH.MankindsFinest.Ability.MustBeDownedOrInBed>
+
+  <!-- Chaplain -->
+  <!-- EN: {0} must be part of an ideology. -->
+  <BEWH.MankindsFinest.Ability.MustHaveIdeo>{0}必须信仰同样的文化。</BEWH.MankindsFinest.Ability.MustHaveIdeo>
+  <!-- EN: {0} must be part of {1} ideology. -->
+  <BEWH.MankindsFinest.Ability.MustHaveSameIdeo>{0}必须信仰{1}文化。</BEWH.MankindsFinest.Ability.MustHaveSameIdeo>
+
+  <!-- Misc -->
+  <!-- EN: {0} does not have the {1} gene. -->
+  <BEWH.MankindsFinest.Ability.DoesNotHaveGene>{0}没有所需的{1}基因。</BEWH.MankindsFinest.Ability.DoesNotHaveGene>
+  <!-- EN: Cannot use {0} in vacuum. -->
+  <BEWH.MankindsFinest.Ability.CantUseInVacuum>无法在真空中使用{0}</BEWH.MankindsFinest.Ability.CantUseInVacuum>
+
+  <!--=== Apparel Two ===-->
+  <!-- Shoulder Icons -->
+  <!-- EN: Swap shoulder icons -->
+  <BEWH.MankindsFinest.ShoulderIcon.Flip>交换肩章位置</BEWH.MankindsFinest.ShoulderIcon.Flip>
+  <!-- EN: Reset to default -->
+  <BEWH.MankindsFinest.ShoulderIcon.ResetToDefault>重置为默认值</BEWH.MankindsFinest.ShoulderIcon.ResetToDefault>
+  <!-- EN: Left Shoulder -->
+  <BEWH.MankindsFinest.ShoulderIcon.LeftShoulder>左肩</BEWH.MankindsFinest.ShoulderIcon.LeftShoulder>
+  <!-- EN: Right Shoulder -->
+  <BEWH.MankindsFinest.ShoulderIcon.RightShoulder>右肩</BEWH.MankindsFinest.ShoulderIcon.RightShoulder>
+
+  <!--=== Gene-seed vial ===-->
+  <!-- Implantation -->
+  <!-- EN: You are about to implant {0}, making them a {1}. -->
+  <BEWH.MankindsFinest.GeneseedVial.ImplantGeneseedDesc>你即将植入{0}，使其成为{1}。</BEWH.MankindsFinest.GeneseedVial.ImplantGeneseedDesc>
+  <!-- EN: {0} is outside the optimal age range of {1}~{2} for this procedure -->
+  <BEWH.MankindsFinest.GeneseedVial.OutsideOptimalAgeRange>{0}超出了此手术的最佳年龄范围{1}~{2}。</BEWH.MankindsFinest.GeneseedVial.OutsideOptimalAgeRange>
+  <!-- EN: Current failure chance: {0}%. Failure results in death and loss of the ascendance vial. This failure chance is determined after a successful surgery. -->
+  <BEWH.MankindsFinest.GeneseedVial.CurrentFailureChance>当前失败率：{0}%。失败将导致被植入者死亡并损失升华原液。</BEWH.MankindsFinest.GeneseedVial.CurrentFailureChance>
+  <!-- EN: base failure chance -->
+  <BEWH.MankindsFinest.GeneseedVial.BaseFailureChance>基础失败率</BEWH.MankindsFinest.GeneseedVial.BaseFailureChance>
+  <!-- EN: Current failure chance breakdown: -->
+  <BEWH.MankindsFinest.GeneseedVial.FailureChanceCausedBy>当前失败率：</BEWH.MankindsFinest.GeneseedVial.FailureChanceCausedBy>
+  <!-- EN: {0}% - caused by {1} -->
+  <BEWH.MankindsFinest.GeneseedVial.FailureChanceCause>{0}% - {1}</BEWH.MankindsFinest.GeneseedVial.FailureChanceCause>
+  <!-- EN: Procedure failure chance was capped at {0}% -->
+  <BEWH.MankindsFinest.GeneseedVial.FailureChanceCapped>手术失败率上限为{0}%</BEWH.MankindsFinest.GeneseedVial.FailureChanceCapped>
+
+  <!-- EN: {0} ascendance vial -->
+  <BEWH.MankindsFinest.GeneseedVial.NamedGeneseedVial>{0}个飞升原液</BEWH.MankindsFinest.GeneseedVial.NamedGeneseedVial>
+
+
+  <!--=== Events ===-->
+  <!-- Psyker Mental Break -->
+  <!-- EN: Psychic Phenomena -->
+  <BEWH.MankindsFinest.Event.PsychicPhenomenaLetter>灵能现象</BEWH.MankindsFinest.Event.PsychicPhenomenaLetter>
+  <!-- EN: Perils of the Warp -->
+  <BEWH.MankindsFinest.Event.PerilsOfTheWarpLetter>亚空间危机</BEWH.MankindsFinest.Event.PerilsOfTheWarpLetter>
+
+  <!-- EN: A psychic blast surged through {0} and into the world, causing a warp explosion completely annihilating {0} and severely damaging everything around them. -->
+  <BEWH.MankindsFinest.Event.Annihilation>一股灵能冲击波穿过了{0}并进入物质世界，引发了亚空间爆炸，彻底摧毁了{0}，并严重损坏了他周围的一切。</BEWH.MankindsFinest.Event.Annihilation>
+  <!-- EN: A strong link was established between {0} and one of the Chaos Gods, allowing them to send in daemons. -->
+  <BEWH.MankindsFinest.Event.DaemonHost>{0}与一位亚空间邪神之间建立了链接，恶魔从中召唤而来。</BEWH.MankindsFinest.Event.DaemonHost>
+  <!-- EN: In a temporary loss of control over their powers, {0} caused a warp explosion that damaged everyone nearby. -->
+  <BEWH.MankindsFinest.Event.UncontrollablePowers>{0}暂时失去了对其力量的控制，这引发了一次亚空间爆炸，对周围的所有人造成了伤害。</BEWH.MankindsFinest.Event.UncontrollablePowers>
+  <!-- EN: Overwhelmed by the warp, {0} has fallen into a psychic coma. -->
+  <BEWH.MankindsFinest.Event.PsychicComa>{0}被亚空间所吞没，陷入了昏迷。</BEWH.MankindsFinest.Event.PsychicComa>
+  <!-- EN: In an instant {0} no longer felt any connection to the warp, as if completely cut off. -->
+  <BEWH.MankindsFinest.Event.PsychicConnectionSevered>{0}感觉不到与亚空间的任何联系，仿佛连接完全被切断了。</BEWH.MankindsFinest.Event.PsychicConnectionSevered>
+  <!-- EN: As if a cruel joke, it began raining blood. -->
+  <BEWH.MankindsFinest.Event.BloodRain>像是亚空间的一个残酷玩笑，血雨倾盆而下。</BEWH.MankindsFinest.Event.BloodRain>
+  <!-- EN: All plant life seems to rot in {0}'s presence, leaving it lifeless. -->
+  <BEWH.MankindsFinest.Event.PlantRot>在{0}的面前，所有植物似乎都腐烂了，毫无生机。</BEWH.MankindsFinest.Event.PlantRot>
+
+  <!-- Natural Born Abhuman -->
+  <!-- EN: Natural Born {0} -->
+  <BEWH.MankindsFinest.Event.NaturalBornXLetter>天生非人</BEWH.MankindsFinest.Event.NaturalBornXLetter>
+  <!-- EN: Something felt off from the moment {1} was conceived. It has now come to light that {1} was born a {2}. -->
+  <BEWH.MankindsFinest.Event.NaturalBornXMessage>从{1}怀孕的那一刻起，就感觉有些不对劲。现在才发现{1}生来就是一个{2}。</BEWH.MankindsFinest.Event.NaturalBornXMessage>
+
+
+  <!--=== Misc ===-->
+  <!-- Ideology -->
+  <!-- EN: Must be a Space Marine -->
+  <BEWH.MankindsFinest.Ideology.MustBeSpaceMarine>必须是一位星际战士</BEWH.MankindsFinest.Ideology.MustBeSpaceMarine>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTME.OpenWorldEditor>编辑世界地块</WTME.OpenWorldEditor>
+  <WTME.OpenWorldEditorDesc>编辑该地块的地形和地图特征</WTME.OpenWorldEditorDesc>
+  <WTME.Title>世界地块编辑器</WTME.Title>
+  <WTME.TileSummary>地块：{0} | 地形：{1} | 已生成地图：{2}</WTME.TileSummary>
+  <WTME.Hilliness>地形起伏</WTME.Hilliness>
+  <WTME.ReadOnlyGenerated>该地块已有地图，不能修改。</WTME.ReadOnlyGenerated>
+  <WTME.CurrentMutators>当前地图特征</WTME.CurrentMutators>
+  <WTME.Search>搜索地图特征</WTME.Search>
+  <WTME.Add>添加</WTME.Add>
+  <WTME.Remove>移除</WTME.Remove>
+  <WTME.Invalid>不可用</WTME.Invalid>
+  <WTME.Confirm>确认</WTME.Confirm>
+  <WTME.Cancel>取消</WTME.Cancel>
+  <WTME.ConflictTitle>地图特征冲突</WTME.ConflictTitle>
+  <WTME.ConflictText>“{0}”与现有特征冲突：{1}。是否继续？</WTME.ConflictText>
+  <WTME.HillinessConflictText>更改为“{0}”会使以下特征失效：{1}。是否继续？</WTME.HillinessConflictText>
+</LanguageData>

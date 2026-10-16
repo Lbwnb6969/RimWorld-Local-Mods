@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The Artificer -->
+  <Artificer.label>机巧师</Artificer.label>
+  <!-- EN: You long knew that true greatness could not be achieved alone. Yet people proved fickle and untrustworthy, so you turned instead to the faithful service of your crafted constructs—your tireless hands, loyal guardians, and steadfast companions. As your influence grew, so too did the fear of those around you. It soon became clear you had to flee the grasp of suspicious folk.\n\nNow you have journeyed to this sparsely settled area, bringing a few of your metalbound creations with you. Here, at last, you have the freedom and space to pursue the heights of your art.\n\nNote: Because your starting character lacks many essential skills, this scenario is considered difficult. -->
+  <Artificer.description>你早已明白，真正的伟业无法独自完成。然而人心善变且不可信，于是你转而依靠自己打造的构装体——不知疲倦的双手、忠诚的卫士与坚定的伙伴。随着影响力扩张，周遭的恐惧也随之增长，很快你意识到必须逃离那些多疑之人的掌控。\n\n如今你来到这片人烟稀少的区域，带着几位金属束缚的造物。终于，在这里你拥有追求工艺巅峰所需的自由与空间。\n\n注意：由于你的开局角色缺乏许多关键技能，本剧本具有较高难度。</Artificer.description>
+  <!-- EN: You long knew that true greatness could not be achieved alone. Yet people proved fickle and untrustworthy, so you turned instead to the faithful service of your crafted constructs—your tireless hands, loyal guardians, and steadfast companions. As your influence grew, so too did the fear of those around you. It soon became clear you had to flee the grasp of suspicious folk.\n\nNow you have journeyed to this sparsely settled area, bringing a few of your metalbound creations with you. Here, at last, you have the freedom and space to pursue the heights of your art.\n\nNote: Because your starting character lacks many essential skills, this scenario is considered difficult. -->
+  <Artificer.scenario.description>你早已明白，真正的伟业无法独自完成。然而人心善变且不可信，于是你转而依靠自己打造的构装体——不知疲倦的双手、忠诚的卫士与坚定的伙伴。随着影响力扩张，周遭的恐惧也随之增长，很快你意识到必须逃离那些多疑之人的掌控。\n\n如今你来到这片人烟稀少的区域，带着几位金属束缚的造物。终于，在这里你拥有追求工艺巅峰所需的自由与空间。\n\n注意：由于你的开局角色缺乏许多关键技能，本剧本具有较高难度。</Artificer.scenario.description>
+  <!-- EN: The Artificer -->
+  <Artificer.scenario.name>机巧师</Artificer.scenario.name>
+  <!-- EN: You long knew that true greatness could not be achieved alone. Yet people proved fickle and untrustworthy, so you turned instead to the faithful service of your crafted constructs—your tireless hands, loyal guardians, and steadfast companions. As your influence grew, so too did the fear of those around you. It soon became clear you had to flee the grasp of suspicious folk.\n\nNow you have journeyed to this sparsely settled area, bringing a few of your metalbound creations with you. Here, at last, you have the freedom and space to pursue the heights of your art. -->
+  <Artificer.scenario.parts.GameStartDialog.text>你早已明白，真正的伟业无法独自完成。然而人心善变且不可信，于是你转而依靠自己打造的构装体——不知疲倦的双手、忠诚的卫士与坚定的伙伴。随着影响力扩张，周遭的恐惧也随之增长，很快你意识到必须逃离那些多疑之人的掌控。\n\n如今你来到这片人烟稀少的区域，带着几位金属束缚的造物。终于，在这里你拥有追求工艺巅峰所需的自由与空间。</Artificer.scenario.parts.GameStartDialog.text>
+  <!-- EN: One artificer and a few servant constructs. -->
+  <Artificer.scenario.summary>一名机巧师和几名侍从构装体。</Artificer.scenario.summary>
+  
+</LanguageData>

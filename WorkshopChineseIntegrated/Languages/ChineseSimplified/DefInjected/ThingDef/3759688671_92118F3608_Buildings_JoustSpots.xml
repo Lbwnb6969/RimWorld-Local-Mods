@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: poteau de mêlée -->
+  <RimJoust_MeleeSpot.label>大混战立柱</RimJoust_MeleeSpot.label>
+  <!-- EN: Le poteau trophée qui marque le centre du terrain de mêlée générale : un bouclier cerclé de fer et deux haches croisées, pour que personne ne se demande ce qui se passe ici. Sélectionne le poteau pour voir la limite de l'arène : le bouton auto la cale sur ton enceinte (rambardes, murs, portes), les boutons + et - règlent un cercle à la main. Les combattants qui sortent de la limite sont ramenés au centre. -->
+  <RimJoust_MeleeSpot.description>标明大混战场地中心的奖杯立柱：一面铁箍盾牌和两把交叉的斧头，让所有人都明白这里正在进行什么。选中立柱即可查看竞技场边界：自动按钮会将边界匹配到你的围栏（栏杆、墙壁、门），+ 和 - 按钮手动设置圆形。越出边界的战斗者会被赶回中心。</RimJoust_MeleeSpot.description>
+  
+  <!-- EN: fanion de joute A -->
+  <RimJoust_SpotA.label>比武旗帜A</RimJoust_SpotA.label>
+  <!-- EN: Le point de départ A d'une joute. Mets-le à un bout de la lice, et pose le fanion B à l'autre bout sur la même carte. La couleur vient du matériau utilisé (tissu ou métal). Prends une couleur bien différente du fanion B, genre rouge, sinon tu vas t'y perdre. -->
+  <RimJoust_SpotA.description>比武的起点A。将其放在赛道的一端，然后在同一地图的另一端放置旗帜B。颜色取决于使用的材料（布料或金属）。选择与旗帜B明显不同的颜色，比如红色，否则你会搞混的。</RimJoust_SpotA.description>
+  
+  <!-- EN: fanion de joute B -->
+  <RimJoust_SpotB.label>比武旗帜B</RimJoust_SpotB.label>
+  <!-- EN: Le point de départ B d'une joute. Mets-le à l'autre bout de la lice, en face du fanion A, sur la même carte. La couleur vient du matériau utilisé (tissu ou métal). Prends quelque chose comme du bleu pour pas le confondre avec le fanion A. -->
+  <RimJoust_SpotB.description>比武的起点B。将其放在赛道的另一端，与旗帜A相对，在同一地图上。颜色取决于使用的材料（布料或金属）。选择类似蓝色的颜色，以免与旗帜A混淆。</RimJoust_SpotB.description>
+  
+</LanguageData>

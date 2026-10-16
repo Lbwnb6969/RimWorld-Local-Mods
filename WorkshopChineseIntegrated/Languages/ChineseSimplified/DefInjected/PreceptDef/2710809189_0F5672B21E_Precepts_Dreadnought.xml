@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crypto funeral -->
+  <AM_DreadnoughtCryptoFuneral.label>低温休眠葬礼</AM_DreadnoughtCryptoFuneral.label>
+  <!-- EN: A gathering to witness our friend be preserved for the future. -->
+  <AM_DreadnoughtCryptoFuneral.description>在指定地点处举行葬礼，以将死者置于低温休眠状态下保存。</AM_DreadnoughtCryptoFuneral.description>
+  <!-- EN: {PAWN_nameDef} should be saved in crypto sleep so {PAWN_possessive} friends and family can know they are safe -->
+  <AM_DreadnoughtCryptoFuneral.extraTextPawnDeathLetter>{PAWN_nameDef}应当被放置在低温休眠舱中，这样{PAWN_possessive}朋友和家人才能确保其安全。</AM_DreadnoughtCryptoFuneral.extraTextPawnDeathLetter>
+  
+  <!-- EN: dreadnought funeral -->
+  <AM_DreadnoughtFuneral.label>战棺葬礼</AM_DreadnoughtFuneral.label>
+  <!-- EN: A gathering to witness the venerated deceased be turned into a true machine of war. -->
+  <AM_DreadnoughtFuneral.description>在指定地点处举行“葬礼”，借助战棺来将刚逝去不久的死者抢救回来，使其化作真正的战争机器。</AM_DreadnoughtFuneral.description>
+  <!-- EN: {PAWN_nameDef} should be put in a sarcophagus warcasket, so even in death they can serve! -->
+  <AM_DreadnoughtFuneral.extraTextPawnDeathLetter>{PAWN_nameDef}应当被放进死灵型无畏战棺中，这样就能继续为我们的事业服务了!</AM_DreadnoughtFuneral.extraTextPawnDeathLetter>
+  
+</LanguageData>

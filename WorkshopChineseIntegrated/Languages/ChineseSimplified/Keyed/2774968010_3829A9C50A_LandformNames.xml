@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: coast -->
+  <GeologicalLandforms.Landform.Coast>海岸</GeologicalLandforms.Landform.Coast>
+  <!-- EN: coast -->
+  <GeologicalLandforms.Landform.CoastCorner>海岸</GeologicalLandforms.Landform.CoastCorner>
+  <!-- EN: cove -->
+  <GeologicalLandforms.Landform.Cove>小海湾</GeologicalLandforms.Landform.Cove>
+  <!-- EN: cove with island -->
+  <GeologicalLandforms.Landform.CoveWithIsland>小海湾（中央有岛）</GeologicalLandforms.Landform.CoveWithIsland>
+  <!-- EN: peninsula -->
+  <GeologicalLandforms.Landform.Peninsula>半岛</GeologicalLandforms.Landform.Peninsula>
+  <!-- EN: isthmus -->
+  <GeologicalLandforms.Landform.Landbridge>地峡</GeologicalLandforms.Landform.Landbridge>
+  <!-- EN: tombolo -->
+  <GeologicalLandforms.Landform.Tombolo>连岛沙洲</GeologicalLandforms.Landform.Tombolo>
+  <!-- EN: coastal island -->
+  <GeologicalLandforms.Landform.CoastalIsland>滨海岛屿</GeologicalLandforms.Landform.CoastalIsland>
+  <!-- EN: island -->
+  <GeologicalLandforms.Landform.Island>岛屿</GeologicalLandforms.Landform.Island>
+  <!-- EN: atoll -->
+  <GeologicalLandforms.Landform.Atoll>环礁</GeologicalLandforms.Landform.Atoll>
+  <!-- EN: archipelago -->
+  <GeologicalLandforms.Landform.Archipelago>群岛</GeologicalLandforms.Landform.Archipelago>
+  <!-- EN: lake -->
+  <GeologicalLandforms.Landform.Lake>湖泊</GeologicalLandforms.Landform.Lake>
+  <!-- EN: lake with island -->
+  <GeologicalLandforms.Landform.LakeWithIsland>岛屿湖</GeologicalLandforms.Landform.LakeWithIsland>
+  <!-- EN: dry lake -->
+  <GeologicalLandforms.Landform.DryLake>干涸湖</GeologicalLandforms.Landform.DryLake>
+  <!-- EN: cliff -->
+  <GeologicalLandforms.Landform.Cliff>山崖</GeologicalLandforms.Landform.Cliff>
+  <!-- EN: cliff -->
+  <GeologicalLandforms.Landform.CliffCorner>山崖</GeologicalLandforms.Landform.CliffCorner>
+  <!-- EN: coast with cliff -->
+  <GeologicalLandforms.Landform.CliffAndCoast>滨海山崖</GeologicalLandforms.Landform.CliffAndCoast>
+  <!-- EN: cirque -->
+  <GeologicalLandforms.Landform.Cirque>环形山谷</GeologicalLandforms.Landform.Cirque>
+  <!-- EN: valley -->
+  <GeologicalLandforms.Landform.Valley>山谷</GeologicalLandforms.Landform.Valley>
+  <!-- EN: canyon -->
+  <GeologicalLandforms.Landform.Canyon>峡谷</GeologicalLandforms.Landform.Canyon>
+  <!-- EN: lone mountain -->
+  <GeologicalLandforms.Landform.LoneMountain>孤山</GeologicalLandforms.Landform.LoneMountain>
+  <!-- EN: caldera -->
+  <GeologicalLandforms.Landform.Caldera>破火山口</GeologicalLandforms.Landform.Caldera>
+  <!-- EN: rift -->
+  <GeologicalLandforms.Landform.Rift>裂谷</GeologicalLandforms.Landform.Rift>
+  <!-- EN: crater -->
+  <GeologicalLandforms.Landform.Crater>凹地</GeologicalLandforms.Landform.Crater>
+  <!-- EN: oasis -->
+  <GeologicalLandforms.Landform.Oasis>绿洲</GeologicalLandforms.Landform.Oasis>
+  <!-- EN: swamp hill -->
+  <GeologicalLandforms.Landform.SwampHill>沼泽丘陵</GeologicalLandforms.Landform.SwampHill>
+  <!-- EN: ice oasis -->
+  <GeologicalLandforms.Landform.IceOasis>冰原绿洲</GeologicalLandforms.Landform.IceOasis>
+  <!-- EN: badlands -->
+  <GeologicalLandforms.Landform.Badlands>恶地</GeologicalLandforms.Landform.Badlands>
+  <!-- EN: desert plateau -->
+  <GeologicalLandforms.Landform.DesertPlateau>沙漠高原</GeologicalLandforms.Landform.DesertPlateau>
+  <!-- EN: skerry -->
+  <GeologicalLandforms.Landform.Skerry>礁石屿</GeologicalLandforms.Landform.Skerry>
+  <!-- EN: fjord -->
+  <GeologicalLandforms.Landform.Fjord>峡湾</GeologicalLandforms.Landform.Fjord>
+  <!-- EN: secluded cove -->
+  <GeologicalLandforms.Landform.SecludedCove>僻静海湾</GeologicalLandforms.Landform.SecludedCove>
+  <!-- EN: surface cave -->
+  <GeologicalLandforms.Landform.SurfaceCave>地表洞穴</GeologicalLandforms.Landform.SurfaceCave>
+  <!-- EN: cave entrance -->
+  <GeologicalLandforms.Landform.CaveEntrance>洞穴入口</GeologicalLandforms.Landform.CaveEntrance>
+  <!-- EN: sinkhole -->
+  <GeologicalLandforms.Landform.Sinkhole>天坑</GeologicalLandforms.Landform.Sinkhole>
+  <!-- EN: secluded valley -->
+  <GeologicalLandforms.Landform.SecludedValley>隐世幽谷</GeologicalLandforms.Landform.SecludedValley>
+  <!-- EN: river -->
+  <GeologicalLandforms.Landform.River>河流</GeologicalLandforms.Landform.River>
+  <!-- EN: river terrain -->
+  <GeologicalLandforms.Landform.RiverTerrain>河流地形</GeologicalLandforms.Landform.RiverTerrain>
+  <!-- EN: river confluence -->
+  <GeologicalLandforms.Landform.RiverConfluence>汇流点</GeologicalLandforms.Landform.RiverConfluence>
+  <!-- EN: river source -->
+  <GeologicalLandforms.Landform.RiverSource>河流源头</GeologicalLandforms.Landform.RiverSource>
+  <!-- EN: river island -->
+  <GeologicalLandforms.Landform.RiverIsland>河中岛</GeologicalLandforms.Landform.RiverIsland>
+  <!-- EN: river delta -->
+  <GeologicalLandforms.Landform.RiverDelta>河流三角洲</GeologicalLandforms.Landform.RiverDelta>
+  <!-- EN: gorge -->
+  <GeologicalLandforms.Landform.Gorge>河流峡谷</GeologicalLandforms.Landform.Gorge>
+  <!-- EN: glacier -->
+  <GeologicalLandforms.Landform.Glacier>冰川</GeologicalLandforms.Landform.Glacier>
+
+</LanguageData>

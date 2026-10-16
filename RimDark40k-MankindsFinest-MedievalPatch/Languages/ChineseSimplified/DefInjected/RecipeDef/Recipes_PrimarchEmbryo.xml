@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BEWH_MedievalExtractOvum.label>为原体计划提取卵子</BEWH_MedievalExtractOvum.label>
+  <BEWH_MedievalExtractOvum.description>使用中世纪医疗手段提取卵子。卵子可由男性殖民者受精，生成用于原体计划的人类胚胎。</BEWH_MedievalExtractOvum.description>
+  <BEWH_MedievalExtractOvum.jobString>正在从 TargetA 体内提取卵子。</BEWH_MedievalExtractOvum.jobString>
+</LanguageData>

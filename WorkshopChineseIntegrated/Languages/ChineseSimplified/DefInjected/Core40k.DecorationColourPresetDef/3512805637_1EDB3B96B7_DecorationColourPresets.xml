@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Light Red -->
+  <BEWH_DecoPaletteApothecaryRed.label>药剂师红</BEWH_DecoPaletteApothecaryRed.label>
+  
+  <!-- EN: Bronze -->
+  <BEWH_DecoPaletteBronze.label>青铜色</BEWH_DecoPaletteBronze.label>
+  
+  <!-- EN: Beige -->
+  <BEWH_DecoPaletteFabricBeige.label>米色</BEWH_DecoPaletteFabricBeige.label>
+  
+  <!-- EN: Maroon -->
+  <BEWH_DecoPaletteFabricRed.label>栗色</BEWH_DecoPaletteFabricRed.label>
+  
+  <!-- EN: Brown -->
+  <BEWH_DecoPaletteFurBrown.label>棕色</BEWH_DecoPaletteFurBrown.label>
+  
+  <!-- EN: Blue -->
+  <BEWH_DecoPaletteGlassBlue.label>蓝色</BEWH_DecoPaletteGlassBlue.label>
+  
+  <!-- EN: Green -->
+  <BEWH_DecoPaletteGlassGreen.label>绿色</BEWH_DecoPaletteGlassGreen.label>
+  
+  <!-- EN: Red -->
+  <BEWH_DecoPaletteGlassRed.label>红色</BEWH_DecoPaletteGlassRed.label>
+  
+  <!-- EN: Gold -->
+  <BEWH_DecoPaletteGold.label>金色</BEWH_DecoPaletteGold.label>
+  
+  <!-- EN: Green -->
+  <BEWH_DecoPaletteGreen.label>绿色</BEWH_DecoPaletteGreen.label>
+  
+  <!-- EN: Black -->
+  <BEWH_DecoPaletteIFBlack.label>黑色</BEWH_DecoPaletteIFBlack.label>
+  
+  <!-- EN: Brown -->
+  <BEWH_DecoPaletteLeatherBrown.label>棕色</BEWH_DecoPaletteLeatherBrown.label>
+  
+  <!-- EN: Grey -->
+  <BEWH_DecoPaletteLeatherGrey.label>灰色</BEWH_DecoPaletteLeatherGrey.label>
+  
+  <!-- EN: Blue Glow -->
+  <BEWH_DecoPaletteLenseGlowBlue.label>荧光蓝</BEWH_DecoPaletteLenseGlowBlue.label>
+  
+  <!-- EN: Green Glow -->
+  <BEWH_DecoPaletteLenseGlowGreen.label>荧光绿</BEWH_DecoPaletteLenseGlowGreen.label>
+  
+  <!-- EN: Orange Glow -->
+  <BEWH_DecoPaletteLenseGlowOrange.label>荧光橙</BEWH_DecoPaletteLenseGlowOrange.label>
+  
+  <!-- EN: Red Glow -->
+  <BEWH_DecoPaletteLenseGlowRed.label>荧光红</BEWH_DecoPaletteLenseGlowRed.label>
+  
+  <!-- EN: White Glow -->
+  <BEWH_DecoPaletteLenseGlowWhite.label>荧光白</BEWH_DecoPaletteLenseGlowWhite.label>
+  
+  <!-- EN: Yellow Glow -->
+  <BEWH_DecoPaletteLenseGlowYellow.label>荧光黄</BEWH_DecoPaletteLenseGlowYellow.label>
+  
+  <!-- EN: Saint's Light -->
+  <BEWH_DecoPaletteSaintLight.label>圣人之光</BEWH_DecoPaletteSaintLight.label>
+  
+  <!-- EN: Rose -->
+  <BEWH_DecoPaletteSaintRose.label>玫瑰色</BEWH_DecoPaletteSaintRose.label>
+  
+  <!-- EN: Vengeance -->
+  <BEWH_DecoPaletteSaintVengeance.label>复仇</BEWH_DecoPaletteSaintVengeance.label>
+  
+  <!-- EN: Silver -->
+  <BEWH_DecoPaletteSilver.label>银色</BEWH_DecoPaletteSilver.label>
+  
+  <!-- EN: UM Red -->
+  <BEWH_DecoPaletteStripeRed.label>极限战士红</BEWH_DecoPaletteStripeRed.label>
+  
+</LanguageData>

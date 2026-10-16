@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate in wooden table -->
+  <AM_AteInWoodenTable.label>在木制桌子上吃饭</AM_AteInWoodenTable.label>
+  
+  <!-- EN: ate without a table -->
+  <AM_AteWithoutATable.label>在地上吃饭</AM_AteWithoutATable.label>
+  
+  <!-- EN: slept in wooden bed -->
+  <AM_SleptInWoodenBed.label>在木制床上睡觉</AM_SleptInWoodenBed.label>
+  
+</LanguageData>

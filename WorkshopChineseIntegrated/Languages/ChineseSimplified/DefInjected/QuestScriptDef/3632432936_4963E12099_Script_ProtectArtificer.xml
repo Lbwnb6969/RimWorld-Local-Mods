@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], an explorer has sent a missive. [asker_possessive] has acquired a rare artificer implant during a ruins dig and their guards were killed in an ambush. [asker_pronoun] escaped, but is now being followed by (*Threat)a reclamation squad(/Threat).\n\n[asker_nameDef] wants to join your colony.</li>
+  -->
+  <VR_ArtificerProtect.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull]这位探险者送来一封讯函。[asker_possessive]在遗迹挖掘中获得了一枚稀有的机巧师植入体，其护卫在伏击中被杀。[asker_pronoun]虽已逃脱，但正被(*Threat)回收小队(/Threat)追踪。\n\n[asker_nameDef]希望加入你的殖民地。</li>
+  </VR_ArtificerProtect.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Protect the Artificer</li>
+    <li>adjAny->hunted</li>
+    <li>adjAny->fleeing</li>
+    <li>adjAny->solitary</li>
+    <li>adjAny->ambushed</li>
+  -->
+  <VR_ArtificerProtect.questNameRules.rulesStrings>
+    <li>questName->保护机巧师</li>
+    <li>adjAny->被追猎的</li>
+    <li>adjAny->逃亡的</li>
+    <li>adjAny->孤身的</li>
+    <li>adjAny->遭伏击的</li>
+  </VR_ArtificerProtect.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL}: Construct reclamation squad -->
+  <VR_ArtificerProtect.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>{BASELABEL}：构装体回收小队</VR_ArtificerProtect.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>
+  <!-- EN: {BASETEXT}\n\nThis is the construct reclamation squad that was hunting [../asker_nameFull]. -->
+  <VR_ArtificerProtect.root.nodes.Delay.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\n这是追猎[../asker_nameFull]的构装体回收小队。</VR_ArtificerProtect.root.nodes.Delay.node.parms.customLetterText.value.slateRef>
+  
+</LanguageData>

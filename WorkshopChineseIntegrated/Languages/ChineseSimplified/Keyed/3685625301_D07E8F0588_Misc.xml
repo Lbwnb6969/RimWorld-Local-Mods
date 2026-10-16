@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Plants -->
+  <NPM_Plants>植物</NPM_Plants>
+  <!-- EN: Description -->
+  <NPM_Description>描述</NPM_Description>
+  <!-- EN: Plants will likely not mature before seasons end -->
+  <NPM_PlantsNotMature>作物可能在生长季结束前不会成熟。</NPM_PlantsNotMature>
+  <!-- EN: Requires {0} skill in Growing to sow -->
+  <NPM_SkillNotSatisfied>需要{0}种植技能来播种</NPM_SkillNotSatisfied>
+  <!-- EN: Expected harvest date -->
+  <NPM_ExpectedDateHarvest>预计收割</NPM_ExpectedDateHarvest>
+  <!-- EN: {0}\n{1} days -->
+  <NPM_FormatDays>{0}\n{1}天</NPM_FormatDays>
+  <!-- EN: Growth temperature -->
+  <NPM_GrowthTemperature>生长温度</NPM_GrowthTemperature>
+  <!-- EN: Food for -->
+  <NPM_FoodFor>食物适于</NPM_FoodFor>
+  <!-- EN: humans -->
+  <NPM_Human>人类</NPM_Human>
+  <!-- EN: animals -->
+  <NPM_Animal>动物</NPM_Animal>
+  <!-- EN: Insufficient soil fertility ({0}) -->
+  <NPM_RequiresFertility>土壤肥沃度不足({0})</NPM_RequiresFertility>
+  <!-- EN: Can grow -->
+  <NPM_CanGrowIn>可以生长</NPM_CanGrowIn>
+  <!-- EN: indoors -->
+  <NPM_Indoors>室内</NPM_Indoors>
+  <!-- EN: caves -->
+  <NPM_Caves>洞穴</NPM_Caves>
+  <!-- EN: Amount -->
+  <NPM_Amount>产出数量</NPM_Amount>
+  <!-- EN: {0} cells -->
+  <NPM_Cells>{0}格</NPM_Cells>
+  <!-- EN: Enough to feed -->
+  <NPM_EnoughToFeed>足够喂养</NPM_EnoughToFeed>
+  <!-- EN: {0} colonists -->
+  <NPM_HumanCount>{0}殖民者</NPM_HumanCount>
+  <!-- EN: Colony pets -->
+  <NPM_AllColonyPets>殖民地宠物</NPM_AllColonyPets>
+  <!-- EN: Animals in pen -->
+  <NPM_AnimalsInPen>围栏内的动物</NPM_AnimalsInPen>
+  <!-- EN: Need more ({0}) cells -->
+  <NPM_MoreCells>需要({0}格)更多土地</NPM_MoreCells>
+  <!-- EN: Dies in light -->
+  <NPM_DiesInLight>光照致死</NPM_DiesInLight>
+  <!-- EN: Related recipes -->
+  <NPM_RelatedRecipes>相关制作</NPM_RelatedRecipes>
+  <!-- EN: Product -->
+  <NPM_Product>制成产品</NPM_Product>
+  <!-- EN: {0}/year -->
+  <NPM_PerYear>{0}/年</NPM_PerYear>
+  <!-- EN: Pollution -->
+  <NPM_Pollution>污染</NPM_Pollution>
+  <!-- EN: Required -->
+  <NPM_Required>需要</NPM_Required>
+  <!-- EN: May grow -->
+  <NPM_May>可能生长</NPM_May>
+  <!-- EN: There are no suitable cells for this plant -->
+  <NPM_NoCells>没有足够的格子给该植物</NPM_NoCells>
+  <!-- EN: Not all cells are protected from sunlight -->
+  <NPM_ShouldBeRoofed>并非所有格子都有防晒遮蔽</NPM_ShouldBeRoofed>
+  <!-- EN: Market value -->
+  <NPM_MarketValueShort>市场价格</NPM_MarketValueShort>
+  <!-- EN: Optimal -->
+  <NPM_OptimalTemperature>最佳</NPM_OptimalTemperature>
+  <!-- EN: Total nutrition -->
+  <NPM_TotalNutrition>总营养值</NPM_TotalNutrition>
+  <!-- EN: None -->
+  <NPM_None>无</NPM_None>
+  <!-- EN: Soil sensitivity -->
+  <NPM_Sensitivity>肥沃度敏感</NPM_Sensitivity>
+  <!-- EN: Skill requirements -->
+  <NPM_SkillRequirements>所需技能</NPM_SkillRequirements>
+
+  <!-- EN: If all harvest is processed, this field will feed -->
+  <NPM_FeedHumanTip>若加工所有收获，这片土地能喂养</NPM_FeedHumanTip>
+  <!-- EN: Calculated for animals: -->
+  <NPM_CalculatedForAnimals>为动物计算：</NPM_CalculatedForAnimals>
+  <!-- EN: Expected {0} days to grow\n\nAverage soil {1}\nDaylight {2} -->
+  <NPM_DateCalcTip>预计需要{0}天生长\n\n平均肥沃度{1}\n日照{2}</NPM_DateCalcTip>
+  <!-- EN: Growth time calculated at ideal temperature -->
+  <NPM_DateCalcTipWarning>理想温度下的生长时间</NPM_DateCalcTipWarning>
+  <!-- EN: sun -->
+  <NPM_DateCalcTip_Sun>日照</NPM_DateCalcTip_Sun>
+  <!-- EN: lamp -->
+  <NPM_DateCalcTip_Lamp>灯光</NPM_DateCalcTip_Lamp>
+  <!-- EN: darkness -->
+  <NPM_DateCalcTip_Darkness>黑暗</NPM_DateCalcTip_Darkness>
+
+  <!-- EN: Food -->
+  <NPM_Filter_Category_Food>食物</NPM_Filter_Category_Food>
+  <!-- EN: Animals -->
+  <NPM_Filter_Category_Animals>动物</NPM_Filter_Category_Animals>
+  <!-- EN: Medicine -->
+  <NPM_Filter_Category_Medicine>药物</NPM_Filter_Category_Medicine>
+  <!-- EN: Drugs -->
+  <NPM_Filter_Category_Drug>成瘾品</NPM_Filter_Category_Drug>
+  <!-- EN: Other -->
+  <NPM_Filter_Category_Misc>其他</NPM_Filter_Category_Misc>
+  <!-- EN: Trees -->
+  <NPM_Filter_Category_Tree>树木</NPM_Filter_Category_Tree>
+  <!-- EN: Pollution -->
+  <NPM_Filter_Category_Pollution>污染</NPM_Filter_Category_Pollution>
+  <!-- EN: Caves -->
+  <NPM_Filter_Category_Cave>洞穴</NPM_Filter_Category_Cave>
+  <!-- EN: Indoors -->
+  <NPM_Filter_Category_Houseplant>室内</NPM_Filter_Category_Houseplant>
+  <!-- EN: From mods -->
+  <NPM_Filter_Mod_Any>来自模组</NPM_Filter_Mod_Any>
+
+  <!-- EN: Count plants in row -->
+  <NPM_Settings_CountInRow>每行展示数量</NPM_Settings_CountInRow>
+  <!-- EN: Split plants by categories -->
+  <NPM_Settings_SplitByCategories>按类划分植物</NPM_Settings_SplitByCategories>
+  <!-- EN: Show category icons -->
+  <NPM_Settings_ShowCategoryIcons>展示分类标签</NPM_Settings_ShowCategoryIcons>
+  <!-- EN: Always show all info -->
+  <NPM_Settings_AlwaysShowAllInfo>总是展示所有信息</NPM_Settings_AlwaysShowAllInfo>
+  <!-- EN: Allow resizing window -->
+  <NPM_Settings_AllowResizeWindow>允许调整窗口大小</NPM_Settings_AllowResizeWindow>
+  <!-- EN: Reopen window for changes -->
+  <NPM_Settings_ReopenWindow>重新打开窗口以应用更改</NPM_Settings_ReopenWindow>
+</LanguageData>

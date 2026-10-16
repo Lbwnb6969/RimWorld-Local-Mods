@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flak pirate hat -->
+  <AM_Corsair_AdvancedHelmet.overrideLabel>防弹海盗帽</AM_Corsair_AdvancedHelmet.overrideLabel>
+  
+  <!-- EN: brown pirate hat -->
+  <AM_Corsair_BowlerHat.overrideLabel>棕色海盗帽</AM_Corsair_BowlerHat.overrideLabel>
+
+  <!-- EN: oar -->
+  <AM_Corsair_Club.overrideLabel>船桨</AM_Corsair_Club.overrideLabel>
+  
+  <!-- EN: cutlass -->
+  <AM_Corsair_Gladius.overrideLabel>水手弯刀</AM_Corsair_Gladius.overrideLabel>
+  
+  <!-- EN: rapier -->
+  <AM_Corsair_Ikwa.overrideLabel>护手刺剑</AM_Corsair_Ikwa.overrideLabel>
+  
+  <!-- EN: hook -->
+  <AM_Corsair_Knife.overrideLabel>手钩</AM_Corsair_Knife.overrideLabel>
+  
+  <!-- EN: anchor -->
+  <AM_Corsair_Mace.overrideLabel>船锚</AM_Corsair_Mace.overrideLabel>
+  
+  <!-- EN: monosaber -->
+  <AM_Corsair_Monosword.overrideLabel>单分子弯刀</AM_Corsair_Monosword.overrideLabel>
+  
+  <!-- EN: pirate hat -->
+  <AM_Corsair_SimpleHelmet.overrideLabel>海盗帽</AM_Corsair_SimpleHelmet.overrideLabel>
+
+  <!-- EN: harpoon -->
+  <AM_Corsair_Spear.overrideLabel>鱼叉</AM_Corsair_Spear.overrideLabel>
+  
+  <!-- EN: throwing harpoon -->
+  <AM_Corsair_SpearThrown.overrideLabel>鱼叉</AM_Corsair_SpearThrown.overrideLabel>
+  
+  <!-- EN: saber -->
+  <AM_Corsair_Sword.overrideLabel>弯刀</AM_Corsair_Sword.overrideLabel>
+  
+  <!-- EN: ship wheel table -->
+  <AM_Corsair_Table2x2c.overrideLabel>船舵圆桌</AM_Corsair_Table2x2c.overrideLabel>
+  
+  <!-- EN: ship wheel table -->
+  <AM_Corsair_Table3x3c.overrideLabel>船舵圆桌</AM_Corsair_Table3x3c.overrideLabel>
+  
+  <!-- EN: tricorn -->
+  <AM_Corsair_Tricorn.overrideLabel>三角帽</AM_Corsair_Tricorn.overrideLabel>
+  
+  <!-- EN: pirate bandana -->
+  <AM_Corsair_Tuque.overrideLabel>海盗头巾</AM_Corsair_Tuque.overrideLabel>
+
+  <!-- EN: grog -->
+  <AM_MealNutrientPaste.overrideLabel>格罗格酒</AM_MealNutrientPaste.overrideLabel>
+  
+</LanguageData>

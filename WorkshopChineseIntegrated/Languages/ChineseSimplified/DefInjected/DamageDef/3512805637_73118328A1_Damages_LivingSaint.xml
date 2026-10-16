@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: holy -->
+  <BEWH_LivingSaintHoly.label>神圣</BEWH_LivingSaintHoly.label>
+  <!-- EN: {0} met their death through holy energy. -->
+  <BEWH_LivingSaintHoly.deathMessage>{0}遭圣能诛灭。</BEWH_LivingSaintHoly.deathMessage>
+  
+</LanguageData>

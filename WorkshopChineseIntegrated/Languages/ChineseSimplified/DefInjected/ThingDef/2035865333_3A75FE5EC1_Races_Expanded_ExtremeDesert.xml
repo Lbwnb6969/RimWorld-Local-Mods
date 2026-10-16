@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: camel -->
+  <AEXP_Camel.label>骆驼</AEXP_Camel.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but two humps make it extremely uncomfortable to ride.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <AEXP_Camel.description>一种大型的旱地哺乳类动物，从古时就开始被驯养，皮毛有不错的加工价值，在干旱的坏境下也能产不少的乳汁。同时也是出色的驼运动物，但因为自带的驼峰，可能骑起来不会太舒适。\n\n会在驼峰里存水，还能通过呼吸吸收空气中的水分，能在无水饮用的情况下生存两周。</AEXP_Camel.description>
+  <!-- EN: left hoof -->
+  <AEXP_Camel.tools.left_hoof.label>左蹄</AEXP_Camel.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <AEXP_Camel.tools.right_hoof.label>右蹄</AEXP_Camel.tools.right_hoof.label>
+  <!-- EN: head -->
+  <AEXP_Camel.tools.head.label>头</AEXP_Camel.tools.head.label>
+  
+  <!-- EN: megascorpion -->
+  <AEXP_Megascorpion.label>巨蝎</AEXP_Megascorpion.label>
+  <!-- EN: A giant, genetically-engineered scorpion. Once created as a perfect assassination tool, it is not often seen returning to it's natural habitat - desert. A very potent poison in it's stinger helps it in tacking even much bigger prey. A eusocial creature, it cannot reproduce individually. -->
+  <AEXP_Megascorpion.description>这种巨大的蝎子是基因工程的产物，被用于袭击和刺杀。拥有极其强力的毒液，可以毒倒远比其强壮的猎物。</AEXP_Megascorpion.description>
+  <!-- EN: stinger -->
+  <AEXP_Megascorpion.tools.stinger.label>针刺</AEXP_Megascorpion.tools.stinger.label>
+  <!-- EN: mandibles -->
+  <AEXP_Megascorpion.tools.mandibles.label>下颌</AEXP_Megascorpion.tools.mandibles.label>
+  <!-- EN: head -->
+  <AEXP_Megascorpion.tools.head.label>头</AEXP_Megascorpion.tools.head.label>
+  
+  <!-- EN: rattlesnake -->
+  <AEXP_Rattlesnake.label>响尾蛇</AEXP_Rattlesnake.label>
+  <!-- EN: A highly venomous snake, recieving it's name from a rattle at the end of their tail. The sound generated sounds as a warning to any predators, however in case it doesn't work, rattlesnake's venom-fangs inflict extremely painful toxin. -->
+  <AEXP_Rattlesnake.description>一种剧毒蛇类，可以震动尾部发出响声，警告冒犯者。如警告无效，毒牙也能给对方带来极大的痛苦。</AEXP_Rattlesnake.description>
+  <!-- EN: venom-fangs -->
+  <AEXP_Rattlesnake.tools.venomfangs.label>毒牙</AEXP_Rattlesnake.tools.venomfangs.label>
+  <!-- EN: head -->
+  <AEXP_Rattlesnake.tools.head.label>头</AEXP_Rattlesnake.tools.head.label>
+  
+</LanguageData>

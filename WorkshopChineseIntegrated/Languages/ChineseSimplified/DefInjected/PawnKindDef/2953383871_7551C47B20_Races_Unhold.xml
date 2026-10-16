@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_UnholdPlain.label>巨魔</DankPyon_UnholdPlain.label>
+  <DankPyon_UnholdPlain.labelPlural>巨魔</DankPyon_UnholdPlain.labelPlural>
+  <DankPyon_UnholdPlain.lifeStages.0.label>巨魔婴儿</DankPyon_UnholdPlain.lifeStages.0.label>
+  <DankPyon_UnholdPlain.lifeStages.0.labelPlural>巨魔婴儿</DankPyon_UnholdPlain.lifeStages.0.labelPlural>
+  <DankPyon_UnholdPlain.lifeStages.0.labelMale>公巨魔婴儿</DankPyon_UnholdPlain.lifeStages.0.labelMale>
+  <DankPyon_UnholdPlain.lifeStages.0.labelMalePlural>公巨魔婴儿</DankPyon_UnholdPlain.lifeStages.0.labelMalePlural>
+  <DankPyon_UnholdPlain.lifeStages.0.labelFemale>母巨魔婴儿</DankPyon_UnholdPlain.lifeStages.0.labelFemale>
+  <DankPyon_UnholdPlain.lifeStages.0.labelFemalePlural>母巨魔婴儿</DankPyon_UnholdPlain.lifeStages.0.labelFemalePlural>
+  <DankPyon_UnholdPlain.lifeStages.1.label>巨魔</DankPyon_UnholdPlain.lifeStages.1.label>
+  <DankPyon_UnholdPlain.lifeStages.1.labelPlural>巨魔</DankPyon_UnholdPlain.lifeStages.1.labelPlural>
+  <DankPyon_UnholdPlain.lifeStages.1.labelMale>公巨魔</DankPyon_UnholdPlain.lifeStages.1.labelMale>
+  <DankPyon_UnholdPlain.lifeStages.1.labelMalePlural>公巨魔</DankPyon_UnholdPlain.lifeStages.1.labelMalePlural>
+  <DankPyon_UnholdPlain.lifeStages.1.labelFemale>母巨魔</DankPyon_UnholdPlain.lifeStages.1.labelFemale>
+  <DankPyon_UnholdPlain.lifeStages.1.labelFemalePlural>母巨魔</DankPyon_UnholdPlain.lifeStages.1.labelFemalePlural>
+  <DankPyon_UnholdPlain.lifeStages.2.label>巨魔</DankPyon_UnholdPlain.lifeStages.2.label>
+  <DankPyon_UnholdPlain.lifeStages.2.labelPlural>巨魔</DankPyon_UnholdPlain.lifeStages.2.labelPlural>
+  <DankPyon_UnholdPlain.lifeStages.2.labelMale>公巨魔</DankPyon_UnholdPlain.lifeStages.2.labelMale>
+  <DankPyon_UnholdPlain.lifeStages.2.labelMalePlural>公巨魔</DankPyon_UnholdPlain.lifeStages.2.labelMalePlural>
+  <DankPyon_UnholdPlain.lifeStages.2.labelFemale>母巨魔</DankPyon_UnholdPlain.lifeStages.2.labelFemale>
+  <DankPyon_UnholdPlain.lifeStages.2.labelFemalePlural>母巨魔</DankPyon_UnholdPlain.lifeStages.2.labelFemalePlural>
+  <DankPyon_UnholdPlain.labelMale>公巨魔</DankPyon_UnholdPlain.labelMale>
+  <DankPyon_UnholdPlain.labelMalePlural>公巨魔</DankPyon_UnholdPlain.labelMalePlural>
+  <DankPyon_UnholdPlain.labelFemale>母巨魔</DankPyon_UnholdPlain.labelFemale>
+  <DankPyon_UnholdPlain.labelFemalePlural>母巨魔</DankPyon_UnholdPlain.labelFemalePlural>
+
+  <DankPyon_UnholdSwamp.label>巨魔</DankPyon_UnholdSwamp.label>
+  <DankPyon_UnholdSwamp.labelPlural>巨魔</DankPyon_UnholdSwamp.labelPlural>
+  <DankPyon_UnholdSwamp.lifeStages.0.label>巨魔婴儿</DankPyon_UnholdSwamp.lifeStages.0.label>
+  <DankPyon_UnholdSwamp.lifeStages.0.labelPlural>巨魔婴儿</DankPyon_UnholdSwamp.lifeStages.0.labelPlural>
+  <DankPyon_UnholdSwamp.lifeStages.0.labelMale>公巨魔婴儿</DankPyon_UnholdSwamp.lifeStages.0.labelMale>
+  <DankPyon_UnholdSwamp.lifeStages.0.labelMalePlural>公巨魔婴儿</DankPyon_UnholdSwamp.lifeStages.0.labelMalePlural>
+  <DankPyon_UnholdSwamp.lifeStages.0.labelFemale>母巨魔婴儿</DankPyon_UnholdSwamp.lifeStages.0.labelFemale>
+  <DankPyon_UnholdSwamp.lifeStages.0.labelFemalePlural>母巨魔婴儿</DankPyon_UnholdSwamp.lifeStages.0.labelFemalePlural>
+  <DankPyon_UnholdSwamp.lifeStages.1.label>巨魔</DankPyon_UnholdSwamp.lifeStages.1.label>
+  <DankPyon_UnholdSwamp.lifeStages.1.labelPlural>巨魔</DankPyon_UnholdSwamp.lifeStages.1.labelPlural>
+  <DankPyon_UnholdSwamp.lifeStages.1.labelMale>公巨魔</DankPyon_UnholdSwamp.lifeStages.1.labelMale>
+  <DankPyon_UnholdSwamp.lifeStages.1.labelMalePlural>公巨魔</DankPyon_UnholdSwamp.lifeStages.1.labelMalePlural>
+  <DankPyon_UnholdSwamp.lifeStages.1.labelFemale>母巨魔</DankPyon_UnholdSwamp.lifeStages.1.labelFemale>
+  <DankPyon_UnholdSwamp.lifeStages.1.labelFemalePlural>母巨魔</DankPyon_UnholdSwamp.lifeStages.1.labelFemalePlural>
+  <DankPyon_UnholdSwamp.lifeStages.2.label>巨魔</DankPyon_UnholdSwamp.lifeStages.2.label>
+  <DankPyon_UnholdSwamp.lifeStages.2.labelPlural>巨魔</DankPyon_UnholdSwamp.lifeStages.2.labelPlural>
+  <DankPyon_UnholdSwamp.lifeStages.2.labelMale>公巨魔</DankPyon_UnholdSwamp.lifeStages.2.labelMale>
+  <DankPyon_UnholdSwamp.lifeStages.2.labelMalePlural>公巨魔</DankPyon_UnholdSwamp.lifeStages.2.labelMalePlural>
+  <DankPyon_UnholdSwamp.lifeStages.2.labelFemale>母巨魔</DankPyon_UnholdSwamp.lifeStages.2.labelFemale>
+  <DankPyon_UnholdSwamp.lifeStages.2.labelFemalePlural>母巨魔</DankPyon_UnholdSwamp.lifeStages.2.labelFemalePlural>
+  <DankPyon_UnholdSwamp.labelMale>公巨魔</DankPyon_UnholdSwamp.labelMale>
+  <DankPyon_UnholdSwamp.labelMalePlural>公巨魔</DankPyon_UnholdSwamp.labelMalePlural>
+  <DankPyon_UnholdSwamp.labelFemale>母巨魔</DankPyon_UnholdSwamp.labelFemale>
+  <DankPyon_UnholdSwamp.labelFemalePlural>母巨魔</DankPyon_UnholdSwamp.labelFemalePlural>
+
+  <DankPyon_UnholdSnow.label>冰霜巨魔</DankPyon_UnholdSnow.label>
+  <DankPyon_UnholdSnow.labelPlural>冰霜巨魔</DankPyon_UnholdSnow.labelPlural>
+  <DankPyon_UnholdSnow.lifeStages.0.label>冰霜巨魔婴儿</DankPyon_UnholdSnow.lifeStages.0.label>
+  <DankPyon_UnholdSnow.lifeStages.0.labelPlural>冰霜巨魔婴儿</DankPyon_UnholdSnow.lifeStages.0.labelPlural>
+  <DankPyon_UnholdSnow.lifeStages.0.labelMale>公冰霜巨魔婴儿</DankPyon_UnholdSnow.lifeStages.0.labelMale>
+  <DankPyon_UnholdSnow.lifeStages.0.labelMalePlural>公冰霜巨魔婴儿</DankPyon_UnholdSnow.lifeStages.0.labelMalePlural>
+  <DankPyon_UnholdSnow.lifeStages.0.labelFemale>母冰霜巨魔婴儿</DankPyon_UnholdSnow.lifeStages.0.labelFemale>
+  <DankPyon_UnholdSnow.lifeStages.0.labelFemalePlural>母冰霜巨魔婴儿</DankPyon_UnholdSnow.lifeStages.0.labelFemalePlural>
+  <DankPyon_UnholdSnow.lifeStages.1.label>冰霜巨魔</DankPyon_UnholdSnow.lifeStages.1.label>
+  <DankPyon_UnholdSnow.lifeStages.1.labelPlural>冰霜巨魔</DankPyon_UnholdSnow.lifeStages.1.labelPlural>
+  <DankPyon_UnholdSnow.lifeStages.1.labelMale>公冰霜巨魔</DankPyon_UnholdSnow.lifeStages.1.labelMale>
+  <DankPyon_UnholdSnow.lifeStages.1.labelMalePlural>公冰霜巨魔</DankPyon_UnholdSnow.lifeStages.1.labelMalePlural>
+  <DankPyon_UnholdSnow.lifeStages.1.labelFemale>母冰霜巨魔</DankPyon_UnholdSnow.lifeStages.1.labelFemale>
+  <DankPyon_UnholdSnow.lifeStages.1.labelFemalePlural>母冰霜巨魔</DankPyon_UnholdSnow.lifeStages.1.labelFemalePlural>
+  <DankPyon_UnholdSnow.lifeStages.2.label>冰霜巨魔</DankPyon_UnholdSnow.lifeStages.2.label>
+  <DankPyon_UnholdSnow.lifeStages.2.labelPlural>冰霜巨魔</DankPyon_UnholdSnow.lifeStages.2.labelPlural>
+  <DankPyon_UnholdSnow.lifeStages.2.labelMale>公冰霜巨魔</DankPyon_UnholdSnow.lifeStages.2.labelMale>
+  <DankPyon_UnholdSnow.lifeStages.2.labelMalePlural>公冰霜巨魔</DankPyon_UnholdSnow.lifeStages.2.labelMalePlural>
+  <DankPyon_UnholdSnow.lifeStages.2.labelFemale>母冰霜巨魔</DankPyon_UnholdSnow.lifeStages.2.labelFemale>
+  <DankPyon_UnholdSnow.lifeStages.2.labelFemalePlural>母冰霜巨魔</DankPyon_UnholdSnow.lifeStages.2.labelFemalePlural>
+  <DankPyon_UnholdSnow.labelMale>公冰霜巨魔</DankPyon_UnholdSnow.labelMale>
+  <DankPyon_UnholdSnow.labelMalePlural>公冰霜巨魔</DankPyon_UnholdSnow.labelMalePlural>
+  <DankPyon_UnholdSnow.labelFemale>母冰霜巨魔</DankPyon_UnholdSnow.labelFemale>
+  <DankPyon_UnholdSnow.labelFemalePlural>母冰霜巨魔</DankPyon_UnholdSnow.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_SnakeCave_Faction.label>穴居蛇</DankPyon_SnakeCave_Faction.label>
+  <DankPyon_SnakeCave_Faction.description>这些巨大的爬虫类生活本地下，当被噪音或费洛蒙吸引时，牠们会钻出洞进行攻击。</DankPyon_SnakeCave_Faction.description>
+  <DankPyon_SnakeCave_Faction.fixedName>穴居蛇</DankPyon_SnakeCave_Faction.fixedName>
+  <DankPyon_SnakeCave_Faction.leaderTitle>蛇群首领</DankPyon_SnakeCave_Faction.leaderTitle>
+  <DankPyon_SnakeCave_Faction.pawnSingular>穴居蛇</DankPyon_SnakeCave_Faction.pawnSingular>
+  <DankPyon_SnakeCave_Faction.pawnsPlural>穴居蛇</DankPyon_SnakeCave_Faction.pawnsPlural>
+  <DankPyon_SnakeCave_Faction.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_SnakeCave_Faction.messageDefendersAttacking>
+
+
+</LanguageData>

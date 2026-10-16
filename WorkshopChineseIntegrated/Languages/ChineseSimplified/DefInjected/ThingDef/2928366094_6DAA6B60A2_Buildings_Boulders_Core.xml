@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite boulder -->
+  <RG_BoulderRockLargeGranite.label>大型花岗岩块</RG_BoulderRockLargeGranite.label>
+  <!-- EN: A largely sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockLargeGranite.description>一块相当巨大的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockLargeGranite.description>
+  
+  <!-- EN: limestone boulder -->
+  <RG_BoulderRockLargeLimestone.label>大型石灰岩块</RG_BoulderRockLargeLimestone.label>
+  <!-- EN: A largely sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockLargeLimestone.description>一块相当巨大的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockLargeLimestone.description>
+  
+  <!-- EN: marble boulder -->
+  <RG_BoulderRockLargeMarble.label>大型大理石块</RG_BoulderRockLargeMarble.label>
+  <!-- EN: A largely sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockLargeMarble.description>一块相当巨大的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockLargeMarble.description>
+  
+  <!-- EN: sandstone boulder -->
+  <RG_BoulderRockLargeSandstone.label>大型砂岩块</RG_BoulderRockLargeSandstone.label>
+  <!-- EN: A largely sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockLargeSandstone.description>一块相当巨大的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockLargeSandstone.description>
+  
+  <!-- EN: slate boulder -->
+  <RG_BoulderRockLargeSlate.label>大型板岩块</RG_BoulderRockLargeSlate.label>
+  <!-- EN: A largely sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockLargeSlate.description>一块相当巨大的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockLargeSlate.description>
+  
+  <!-- EN: granite boulder -->
+  <RG_BoulderRockMediumGranite.label>中型花岗岩块</RG_BoulderRockMediumGranite.label>
+  <!-- EN: A medium sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockMediumGranite.description>一块中等大小的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockMediumGranite.description>
+  
+  <!-- EN: limestone boulder -->
+  <RG_BoulderRockMediumLimestone.label>中型石灰岩块</RG_BoulderRockMediumLimestone.label>
+  <!-- EN: A medium sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockMediumLimestone.description>一块中等大小的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockMediumLimestone.description>
+  
+  <!-- EN: marble boulder -->
+  <RG_BoulderRockMediumMarble.label>中型大理石块</RG_BoulderRockMediumMarble.label>
+  <!-- EN: A medium sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockMediumMarble.description>一块中等大小的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockMediumMarble.description>
+  
+  <!-- EN: sandstone boulder -->
+  <RG_BoulderRockMediumSandstone.label>中型砂岩块</RG_BoulderRockMediumSandstone.label>
+  <!-- EN: A medium sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockMediumSandstone.description>一块中等大小的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockMediumSandstone.description>
+  
+  <!-- EN: slate boulder -->
+  <RG_BoulderRockMediumSlate.label>中型板岩块</RG_BoulderRockMediumSlate.label>
+  <!-- EN: A medium sized chunk of rock. Can be mined into smaller chunks with a chance of occasional ores. -->
+  <RG_BoulderRockMediumSlate.description>一块中等大小的岩石，可以将其开采成更小的石块，且有几率产出矿物之类的意外收获。</RG_BoulderRockMediumSlate.description>
+  
+</LanguageData>

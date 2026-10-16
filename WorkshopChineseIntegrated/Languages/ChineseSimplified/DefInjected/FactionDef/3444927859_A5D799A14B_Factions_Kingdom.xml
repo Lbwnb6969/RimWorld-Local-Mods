@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: civil kingdom -->
+  <VFEM2_KingdomCivil.label>文明的国度</VFEM2_KingdomCivil.label>
+  <!-- EN: These people have been here for a shorter period of time than their neolithic bretheren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is open to keeping trade relations good with other settlements to bolster their economic position. -->
+  <VFEM2_KingdomCivil.description>这些人比起部落民来看更加发达。据说他们大多来自部落和外来者，形成了一种类似中世纪的封建社会存续了下来。\n\n虽说比起其它派系，他们的科技并不怎么发达，但是十分擅长建造城堡工事来保卫自己的领土，以及热爱磨练自己的武艺。\n\n这个国度致力于和其他派系友好往来、互通贸易、发展经济。</VFEM2_KingdomCivil.description>
+  <!-- EN: king -->
+  <VFEM2_KingdomCivil.leaderTitle>国王</VFEM2_KingdomCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_KingdomCivil.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</VFEM2_KingdomCivil.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <VFEM2_KingdomCivil.pawnSingular>臣民</VFEM2_KingdomCivil.pawnSingular>
+  <!-- EN: subjects -->
+  <VFEM2_KingdomCivil.pawnsPlural>臣民</VFEM2_KingdomCivil.pawnsPlural>
+  
+  <!-- EN: rough kingdom -->
+  <VFEM2_KingdomRough.label>彪悍的国度</VFEM2_KingdomRough.label>
+  <!-- EN: These people have been here for a shorter period of time than their neolithic bretheren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is ruled under a heavy hand and wishes to expand by laying the less fortunate to waste - though it is still possible to befriend them. -->
+  <VFEM2_KingdomRough.description>这些人比起部落民来看更加发达。据说他们大多来自部落和外来者，形成了一种类似中世纪的封建社会存续了下来。\n\n虽说比起其它派系，他们的科技并不怎么发达，但是十分擅长建造城堡工事来保卫自己的领土，以及热爱磨练自己的武艺。\n\n这个国度致力于铁腕统治、扩张征伐、开疆辟土，和他们成为盟友不是一件容易的事情。</VFEM2_KingdomRough.description>
+  <!-- EN: king -->
+  <VFEM2_KingdomRough.leaderTitle>国王</VFEM2_KingdomRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_KingdomRough.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</VFEM2_KingdomRough.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <VFEM2_KingdomRough.pawnSingular>臣民</VFEM2_KingdomRough.pawnSingular>
+  <!-- EN: subjects -->
+  <VFEM2_KingdomRough.pawnsPlural>臣民</VFEM2_KingdomRough.pawnsPlural>
+  
+  <!-- EN: savage kingdom -->
+  <VFEM2_KingdomSavage.label>残暴的国度</VFEM2_KingdomSavage.label>
+  <!-- EN: These people have been here for a shorter period of time than their neolithic bretheren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is driven by a warband styled culture; you will not be able to ally with them! -->
+  <VFEM2_KingdomSavage.description>这些人比起部落民来看更加发达。据说他们大多来自部落和外来者，形成了一种类似中世纪的封建社会存续了下来。\n\n虽说比起其它派系，他们的科技并不怎么发达，但是十分擅长建造城堡工事来保卫自己的领土，以及热爱磨练自己的武艺。\n\n这个国度极端排外、充斥着血与荣耀的文化，你和他们永远都不会成为朋友。</VFEM2_KingdomSavage.description>
+  <!-- EN: king -->
+  <VFEM2_KingdomSavage.leaderTitle>国王</VFEM2_KingdomSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_KingdomSavage.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</VFEM2_KingdomSavage.messageDefendersAttacking>
+  <!-- EN: subject -->
+  <VFEM2_KingdomSavage.pawnSingular>臣民</VFEM2_KingdomSavage.pawnSingular>
+  <!-- EN: subjects -->
+  <VFEM2_KingdomSavage.pawnsPlural>臣民</VFEM2_KingdomSavage.pawnsPlural>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AV_MastAndSails.label>桅杆与船帆</AV_MastAndSails.label>
+  <AV_MastAndSails.description>为帆船提供动力并保证航行所必需的桅杆和船帆。</AV_MastAndSails.description>
+  <AV_Rigging.label>索具</AV_Rigging.label>
+  <AV_Rigging.description>由绳索、缆线和链条组成的系统，用于支撑并控制帆船的桅杆和船帆。</AV_Rigging.description>
+  <AV_SailingInstruments.label>航海仪器</AV_SailingInstruments.label>
+  <AV_SailingInstruments.description>船上用来测量和监控风速、风向、水深及导航数据等信息的设备，帮助水手安全、高效地航行。</AV_SailingInstruments.description>
+  <AV_ReinforcedWood.label>加固木材</AV_ReinforcedWood.label>
+  <AV_ReinforcedWood.description>经过加固的木板，能够承受撞击和水压。</AV_ReinforcedWood.description>
+  <AV_Cannonball.label>炮弹</AV_Cannonball.label>
+</LanguageData>

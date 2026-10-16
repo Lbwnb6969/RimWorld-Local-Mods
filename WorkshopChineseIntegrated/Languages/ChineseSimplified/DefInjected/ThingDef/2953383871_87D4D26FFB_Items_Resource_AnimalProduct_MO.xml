@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Cobra_EggUnfertilized.label>巨型眼镜蛇蛋</DankPyon_Cobra_EggUnfertilized.label>
+  <!-- EN: An unfertilized cobra egg. It can be eaten raw, but it's much, much better cooked.\n(Medieval Overhaul) -->
+  <DankPyon_Cobra_EggUnfertilized.description>未受精的巨型眼镜蛇蛋。蛋可以生吃，但烹调后风味更佳。</DankPyon_Cobra_EggUnfertilized.description>
+  
+  <!-- EN: giant constrictor egg (unfert.) -->
+  <DankPyon_Constrictor_EggUnfertilized.label>巨蚺蛋</DankPyon_Constrictor_EggUnfertilized.label>
+  <!-- EN: An unfertilized giant constrictor egg. It can be eaten raw, but it's much, much better cooked.\n(Medieval Overhaul) -->
+  <DankPyon_Constrictor_EggUnfertilized.description>未受精的巨蚺蛋。蛋可以生吃，但烹调后风味更佳。</DankPyon_Constrictor_EggUnfertilized.description>
+
+  <DankPyon_Griffon_EggUnfertilized.label>狮鹫蛋</DankPyon_Griffon_EggUnfertilized.label>
+  <!-- EN: An unfertilized griffon egg. It can be eaten raw, but it's much, much better cooked.\n(Medieval Overhaul) -->
+  <DankPyon_Griffon_EggUnfertilized.description>未受精的狮鹫蛋。蛋可以生吃，但烹调后风味更佳。</DankPyon_Griffon_EggUnfertilized.description>
+
+  <DankPyon_Lindwurm_EggUnfertilized.label>林德虫蛋</DankPyon_Lindwurm_EggUnfertilized.label>
+  <!-- EN: An unfertilized lindwurm egg. It can be eaten raw, but it's much, much better cooked.\n(Medieval Overhaul) -->
+  <DankPyon_Lindwurm_EggUnfertilized.description>未受精的林德虫蛋。蛋可以生吃，但烹调后风味更佳。</DankPyon_Lindwurm_EggUnfertilized.description>
+
+  <DankPyon_Webknecht_EggUnfertilized.label>蛛魔蛋</DankPyon_Webknecht_EggUnfertilized.label>
+  <!-- EN: An unfertilized webknecht egg. It can be eaten raw, but it's much, much better cooked.\n(Medieval Overhaul) -->
+  <DankPyon_Webknecht_EggUnfertilized.description>未受精的蛛魔蛋。蛋可以生吃，但烹调后风味更佳。</DankPyon_Webknecht_EggUnfertilized.description>
+
+
+  <!-- Large Cobra -->
+
+  <DankPyon_EggLargeForestCobraFertilized.label>巨型森林眼镜蛇蛋（已受精）</DankPyon_EggLargeForestCobraFertilized.label>
+  <DankPyon_EggLargeForestCobraFertilized.description>已受精的蛇蛋。如果顺利，蛋将会孵出幼蛇。蛋可以生吃，但烹调后风味更佳。</DankPyon_EggLargeForestCobraFertilized.description>
+
+  <DankPyon_EggLargeCobraCaveFertilized.label>巨型穴居眼镜蛇蛋（已受精）</DankPyon_EggLargeCobraCaveFertilized.label>
+  <DankPyon_EggLargeCobraCaveFertilized.description>已受精的蛇蛋。如果顺利，蛋将会孵出幼蛇。蛋可以生吃，但烹调后风味更佳。</DankPyon_EggLargeCobraCaveFertilized.description>
+
+
+  <!-- Giant Constrictor -->
+
+  <DankPyon_EggConstrictorForestFertilized.label>巨型森林蚺蛋（已受精）</DankPyon_EggConstrictorForestFertilized.label>
+  <DankPyon_EggConstrictorForestFertilized.description>已受精的蛇蛋。如果顺利，蛋将会孵出幼蛇。蛋可以生吃，但烹调后风味更佳。</DankPyon_EggConstrictorForestFertilized.description>
+
+  <DankPyon_EggConstrictorCaveFertilized.label>巨型穴居蚺蛋（已受精）</DankPyon_EggConstrictorCaveFertilized.label>
+  <DankPyon_EggConstrictorCaveFertilized.description>已受精的蛇蛋。如果顺利，蛋将会孵出幼蛇。蛋可以生吃，但烹调后风味更佳。</DankPyon_EggConstrictorCaveFertilized.description>
+
+
+  <!-- Lindwurm -->
+
+  <DankPyon_EggLindwurmForestFertilized.label>森居林德虫蛋（已受精）</DankPyon_EggLindwurmForestFertilized.label>
+  <DankPyon_EggLindwurmForestFertilized.description>已受精的林德虫蛋。如果顺利，蛋将会孵出林德虫雏龙。蛋可以生吃，但烹调后风味更佳。</DankPyon_EggLindwurmForestFertilized.description>
+
+  <DankPyon_EggLindwurmCaveFertilized.label>穴居林德虫蛋（已受精）</DankPyon_EggLindwurmCaveFertilized.label>
+  <DankPyon_EggLindwurmCaveFertilized.description>已受精的林德虫蛋。如果顺利，蛋将会孵出林德虫雏龙。蛋可以生吃，但烹调后风味更佳。</DankPyon_EggLindwurmCaveFertilized.description>
+
+  <!-- Webknecht -->
+
+  <DankPyon_Webknecht_EggFertilized.label>蛛魔蛋（已受精）</DankPyon_Webknecht_EggFertilized.label>
+  <DankPyon_Webknecht_EggFertilized.description>已受精的蛛魔蛋。如果顺利，蛋将会孵出幼蛛魔。蛋可以生吃，但烹调后风味更佳。</DankPyon_Webknecht_EggFertilized.description>
+
+  <DankPyon_EggWebknechtFertilized.label>蛛魔蛋（已受精）</DankPyon_EggWebknechtFertilized.label>
+  <DankPyon_EggWebknechtFertilized.description>已受精的蛛魔蛋。如果顺利，蛋将会孵出幼蛛魔。蛋可以生吃，但烹调后风味更佳。</DankPyon_EggWebknechtFertilized.description>
+
+  <!-- Griffon -->
+
+  <DankPyon_Griffon_EggFertilized.label>狮鹫蛋（已受精）</DankPyon_Griffon_EggFertilized.label>
+  <DankPyon_Griffon_EggFertilized.description>已受精的狮鹫蛋。如果顺利，蛋将会孵出小狮鹫。蛋可以生吃，但烹调后风味更佳。</DankPyon_Griffon_EggFertilized.description>
+
+
+  <DankPyon_HornetJelly.label>大黄蜂蜂胶</DankPyon_HornetJelly.label>
+  <DankPyon_HornetJelly.description>大黄蜂储存用来作为食物的蜂胶，外表盈滑，营养丰富，而且味道令人满意。因为独特的化学特性，它能供几乎所有的生物食用，而且能永久保存。</DankPyon_HornetJelly.description>
+
+</LanguageData>

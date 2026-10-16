@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: nutrient paste funeral -->
+  <AM_PastedFuneral.label>营养膏葬礼</AM_PastedFuneral.label>
+  <!-- EN: A gathering to ensure nothing goes to waste -->
+  <AM_PastedFuneral.description>在指定地点处举行葬礼，以将死者转化为营养膏。</AM_PastedFuneral.description>
+  <!-- EN: {PAWN_nameDef} should be turned into paste. It's what they'd want. -->
+  <AM_PastedFuneral.extraTextPawnDeathLetter>{PAWN_nameDef}应当被制成营养膏，这样才能避免不必要的浪费。</AM_PastedFuneral.extraTextPawnDeathLetter>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corrupted Gauranlen seed -->
+  <AM_CorruptedGauranlenSeed.label>腐化母树种子</AM_CorruptedGauranlenSeed.label>
+  <!-- EN: The corrupted seed of a Gauranlan tree. It can be planted to create a new Gauranlen tree. -->
+  <AM_CorruptedGauranlenSeed.description>腐化母树的种子，种植后可以长出新的腐化母树。</AM_CorruptedGauranlenSeed.description>
+  
+  <!-- EN: corrupted Gauranlen pod -->
+  <AM_Plant_CorruptedPodGauranlen.label>腐化母树荚囊</AM_Plant_CorruptedPodGauranlen.label>
+  <!-- EN: A small pod that protects a single corrupted Gauranlen seed. This seed can be harvested and used to plant a Gauranlen tree. -->
+  <AM_Plant_CorruptedPodGauranlen.description>保护腐化母树种子的小荚囊。将种子收获并种植后可以长出新的腐化母树。</AM_Plant_CorruptedPodGauranlen.description>
+  
+</LanguageData>

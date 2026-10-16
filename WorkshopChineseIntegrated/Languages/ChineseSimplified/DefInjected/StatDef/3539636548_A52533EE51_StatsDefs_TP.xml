@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: chems need rate multiplier -->
+  <ChemsNeedRateMultiplier.label>成瘾品需求速率乘数</ChemsNeedRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a person needs chems. -->
+  <ChemsNeedRateMultiplier.description>影响角色对成瘾品需求增长速度的乘数。</ChemsNeedRateMultiplier.description>
+
+  <!-- EN: joy need rate multiplier -->
+  <JoyNeedRateMultiplier.label>娱乐需求速率乘数</JoyNeedRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a person needs recreation. -->
+  <JoyNeedRateMultiplier.description>影响角色对娱乐需求增长速度的乘数。</JoyNeedRateMultiplier.description>
+
+  <!-- EN: lifespan factor multiplier -->
+  <LifespanMultiplier.label>寿命系数乘数</LifespanMultiplier.label>
+  <!-- EN: A multiplier on lifespan -->
+  <LifespanMultiplier.description>对寿命的乘数。</LifespanMultiplier.description>
+
+</LanguageData>

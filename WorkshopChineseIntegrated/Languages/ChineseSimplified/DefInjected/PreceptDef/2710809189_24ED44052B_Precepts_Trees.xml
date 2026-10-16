@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: despised -->
+  <AM_Trees_Despised.label>厌恶</AM_Trees_Despised.label>
+  <!-- EN: Trees are obstacles, standing in the way of our true potential. Their roots choke the earth, their branches block the sky. We must rid the land of these leafy oppressors, for only then will we be free to shape the world as we see fit. -->
+  <AM_Trees_Despised.description>在树木的妨害下，我们无法发挥出真正的潜力。它们的劣根阻塞了大地，它们的瑕枝遮蔽了天空。我们必须帮助这片土地摆脱那些树叶繁茂的压迫者，如此才能自由地将世界塑造成我们想要的样子。</AM_Trees_Despised.description>
+  <!-- EN: +9 to -9 mood depending on number of trees watched by the colonist -->
+  <AM_Trees_Despised.comps.0.thoughtStageDescriptions.0>殖民者将根据看到树木的数量，获得+9到-9的心情增益/减益</AM_Trees_Despised.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: +10 to -15 mood depending on number of trees destroyed on each quadrum -->
+  <AM_Trees_Despised.comps.1.thoughtStageDescriptions.0>殖民者将根据每象摧毁树木的数量，获得+10到-15的心情增益/减益</AM_Trees_Despised.comps.1.thoughtStageDescriptions.0>
+  
+</LanguageData>

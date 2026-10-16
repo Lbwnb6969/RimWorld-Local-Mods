@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: siege petard -->
+  <RimSiege_Petard.label>攻城爆破筒</RimSiege_Petard.label>
+  <!-- EN: A powder charge planted against a wall by a sapper. The fuse burns for a few seconds before it detonates. Kill the sapper, or shoot the charge, before it blows a breach. -->
+  <RimSiege_Petard.description>由工兵安放在城墙上的火药装药。引信燃烧数秒后引爆。在它炸开缺口之前，杀死工兵或射爆火药装药。</RimSiege_Petard.description>
+  
+</LanguageData>

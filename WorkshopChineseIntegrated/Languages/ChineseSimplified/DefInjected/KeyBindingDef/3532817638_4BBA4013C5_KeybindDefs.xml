@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <KAU_Allow.label>允许</KAU_Allow.label>
+  <KAU_Forbid.label>禁止</KAU_Forbid.label>
+  <KAU_SelectSimilar.label>选择同类型</KAU_SelectSimilar.label>
+  <KAU_SelectSimilarDesignator.label>选择同类型 (Designator)</KAU_SelectSimilarDesignator.label>
+  <KAU_HarvestFullyGrown.label>收获成熟作物</KAU_HarvestFullyGrown.label>
+  <KAU_HarvestFullyGrownWood.label>砍伐成熟树木</KAU_HarvestFullyGrownWood.label>
+  <KAU_CutFullyGrown.label>割除成熟植物</KAU_CutFullyGrown.label>
+  <KAU_HarvestAll.label>全部收获（任意生长进度）</KAU_HarvestAll.label>
+  <KAU_HarvestAllWood.label>全部砍伐（任意生长进度）</KAU_HarvestAllWood.label>
+  <KAU_StripMine.label>网格开采</KAU_StripMine.label>
+  <KAU_FertileGrowArea.label>种植区 (仅肥沃的土地)</KAU_FertileGrowArea.label>
+  <KAU_FertileGrowAreaExpand.label>扩展区域 (仅肥沃的土地)</KAU_FertileGrowAreaExpand.label>
+  <KAU_HaulUrgently.label>紧急搬运</KAU_HaulUrgently.label>
+  <KAU_HaulUrgentlySelection.label>紧急搬运（框选）</KAU_HaulUrgentlySelection.label>
+  <KAU_FinishOff.label>处决</KAU_FinishOff.label>
+  <KAU_CutBlighted.label>割除枯萎病</KAU_CutBlighted.label>
+  <KAU_SelectFloor.label>选择地板</KAU_SelectFloor.label>
+
+</LanguageData>

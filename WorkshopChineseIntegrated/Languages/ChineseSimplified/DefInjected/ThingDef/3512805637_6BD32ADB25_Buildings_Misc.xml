@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Legion Standard -->
+  <BEWH_AncientChapterBanner.label>军团旗帜</BEWH_AncientChapterBanner.label>
+  <!-- EN: The Legion Standard is a symbol of honor and unity, a sacred emblem raised in key locations to strengthen the resolve of the Space Marines. When unfurled, the banner inspires all nearby Marines, granting them increased morale and combat effectiveness as they fight in the name of their legion's legacy. -->
+  <BEWH_AncientChapterBanner.description>军团旗帜是荣誉与团结的象征，是一枚在关键位置升起的神圣徽章，旨在增强星际战士的士气。旗帜展开时，能够激励周围所有星际战士，提升他们的士气和战斗力，让他们以军团的传承之名奋战。</BEWH_AncientChapterBanner.description>
+  
+  <!-- EN: decorative Legion Standard -->
+  <BEWH_DecorativeChapterBannerImperium.label>军团旗帜（装饰）</BEWH_DecorativeChapterBannerImperium.label>
+  <!-- EN: A beautifully crafted banner adorned with the legion's symbols and colors. It stands as a proud testament to the legion's history and glory. -->
+  <BEWH_DecorativeChapterBannerImperium.description>一面精美的旗帜，饰有军团的标志和颜色。它是军团历史与荣耀的骄傲见证。</BEWH_DecorativeChapterBannerImperium.description>
+  
+</LanguageData>

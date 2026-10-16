@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abigail -->
+  <VHE_Abigail.label>阿比盖尔（VHE）</VHE_Abigail.label>
+  
+  <!-- EN: beth -->
+  <VHE_Beth.label>贝丝（VHE）</VHE_Beth.label>
+  
+  <!-- EN: bill -->
+  <VHE_Bill.label>比尔（VHE）</VHE_Bill.label>
+  
+  <!-- EN: blinder -->
+  <VHE_Blinder.label>布林德（VHE）</VHE_Blinder.label>
+  
+  <!-- EN: connor -->
+  <VHE_Connor.label>康纳（VHE）</VHE_Connor.label>
+  
+  <!-- EN: corporal -->
+  <VHE_Corporal.label>下士（VHE）</VHE_Corporal.label>
+  
+  <!-- EN: cyberpunk -->
+  <VHE_Cyberpunk.label>赛博朋克（VHE）</VHE_Cyberpunk.label>
+  
+  <!-- EN: dapp -->
+  <VHE_Dapp.label>达普（VHE）</VHE_Dapp.label>
+  
+  <!-- EN: dusk -->
+  <VHE_Dusk.label>侧边飞机头（VHE）</VHE_Dusk.label>
+  
+  <!-- EN: dutch -->
+  <VHE_Dutch.label>荷兰人（VHE）</VHE_Dutch.label>
+  
+  <!-- EN: faerie -->
+  <VHE_Faerie.label>精灵（VHE）</VHE_Faerie.label>
+  
+  <!-- EN: flak -->
+  <VHE_Flak.label>弗拉克（VHE）</VHE_Flak.label>
+  
+  <!-- EN: general -->
+  <VHE_General.label>将军（VHE）</VHE_General.label>
+  
+  <!-- EN: grimshaw -->
+  <VHE_Grimshaw.label>格里姆肖（VHE）</VHE_Grimshaw.label>
+  
+  <!-- EN: jerry -->
+  <VHE_Jerry.label>杰里（VHE）</VHE_Jerry.label>
+  
+  <!-- EN: major -->
+  <VHE_Major.label>少校（VHE）</VHE_Major.label>
+  
+  <!-- EN: marston -->
+  <VHE_Marston.label>马斯顿（VHE）</VHE_Marston.label>
+  
+  <!-- EN: micah -->
+  <VHE_Micah.label>迈卡（VHE）</VHE_Micah.label>
+  
+  <!-- EN: mohawk -->
+  <VHE_Mohawk.label>莫霍克（VHE）</VHE_Mohawk.label>
+  
+  <!-- EN: mortimer -->
+  <VHE_Mortimer.label>莫蒂默（VHE）</VHE_Mortimer.label>
+  
+  <!-- EN: pearson -->
+  <VHE_Pearson.label>皮尔逊（VHE）</VHE_Pearson.label>
+  
+  <!-- EN: private -->
+  <VHE_Private.label>海盗（VHE）</VHE_Private.label>
+  
+  <!-- EN: raider -->
+  <VHE_Raider.label>掠袭者（VHE）</VHE_Raider.label>
+  
+  <!-- EN: sanchez -->
+  <VHE_Sanchez.label>桑切斯（VHE）</VHE_Sanchez.label>
+  
+  <!-- EN: sarge -->
+  <VHE_Sarge.label>军士（VHE）</VHE_Sarge.label>
+  
+  <!-- EN: shelby -->
+  <VHE_Shelby.label>谢尔比（VHE）</VHE_Shelby.label>
+  
+  <!-- EN: summer -->
+  <VHE_Summer.label>萨默（VHE）</VHE_Summer.label>
+  
+</LanguageData>

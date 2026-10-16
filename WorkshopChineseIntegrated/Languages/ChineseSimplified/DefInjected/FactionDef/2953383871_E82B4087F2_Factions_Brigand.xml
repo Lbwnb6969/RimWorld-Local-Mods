@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_BrigandFaction.label>土匪</DankPyon_BrigandFaction.label>
+  <DankPyon_BrigandFaction.description>掠夺者和强盗，法律对他们来说毫无意义。经常会遇到掠夺者怀着恶意侵占附近的定居点。</DankPyon_BrigandFaction.description>
+  <DankPyon_BrigandFaction.pawnSingular>土匪</DankPyon_BrigandFaction.pawnSingular>
+  <DankPyon_BrigandFaction.pawnsPlural>土匪</DankPyon_BrigandFaction.pawnsPlural>
+  <DankPyon_BrigandFaction.leaderTitle>土匪首领</DankPyon_BrigandFaction.leaderTitle>
+  <DankPyon_BrigandFaction.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</DankPyon_BrigandFaction.messageDefendersAttacking>
+
+
+</LanguageData>

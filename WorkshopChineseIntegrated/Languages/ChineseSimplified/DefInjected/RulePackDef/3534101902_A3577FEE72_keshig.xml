@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <LeaderTitleMaker_Keshig.rulePack.rulesStrings.0>r_leaderTitle-&gt;可汗</LeaderTitleMaker_Keshig.rulePack.rulesStrings.0>
+
+    <!-- <DV_KeshigUtility.rulePack.rulesStrings.0>placeNameCore-&gt;[SylY][placeEnd]</DV_KeshigUtility.rulePack.rulesStrings.0>
+    <DV_KeshigUtility.rulePack.rulesStrings.1>placeNameCore-&gt;[SylY][SylY][placeEnd]</DV_KeshigUtility.rulePack.rulesStrings.1> -->
+    <DV_KeshigUtility.rulePack.rulesStrings.2>placeEnd-&gt;米维</DV_KeshigUtility.rulePack.rulesStrings.2>
+    <DV_KeshigUtility.rulePack.rulesStrings.3>placeEnd-&gt;叶茨</DV_KeshigUtility.rulePack.rulesStrings.3>
+    <DV_KeshigUtility.rulePack.rulesStrings.4>placeEnd-&gt;奥克</DV_KeshigUtility.rulePack.rulesStrings.4>
+    <DV_KeshigUtility.rulePack.rulesStrings.5>placeEnd-&gt;梅格</DV_KeshigUtility.rulePack.rulesStrings.5>
+    <DV_KeshigUtility.rulePack.rulesStrings.6>placeEnd-&gt;奥西克</DV_KeshigUtility.rulePack.rulesStrings.6>
+    <DV_KeshigUtility.rulePack.rulesStrings.7>placeEnd-&gt;巴吉</DV_KeshigUtility.rulePack.rulesStrings.7>
+    <DV_KeshigUtility.rulePack.rulesStrings.8>placeEnd-&gt;雷茨</DV_KeshigUtility.rulePack.rulesStrings.8>
+    <DV_KeshigUtility.rulePack.rulesStrings.9>placeEnd-&gt;盖合</DV_KeshigUtility.rulePack.rulesStrings.9>
+    <DV_KeshigUtility.rulePack.rulesStrings.10>placeEnd-&gt;卡尔</DV_KeshigUtility.rulePack.rulesStrings.10>
+    <DV_KeshigUtility.rulePack.rulesStrings.11>placeEnd-&gt;格利尔</DV_KeshigUtility.rulePack.rulesStrings.11>
+    <DV_KeshigUtility.rulePack.rulesStrings.12>placeEnd-&gt;奥易弗</DV_KeshigUtility.rulePack.rulesStrings.12>
+    <DV_KeshigUtility.rulePack.rulesStrings.13>placeEnd-&gt;格尔</DV_KeshigUtility.rulePack.rulesStrings.13>
+    <DV_KeshigUtility.rulePack.rulesStrings.14>placeEnd-&gt;杜尔</DV_KeshigUtility.rulePack.rulesStrings.14>
+    <DV_KeshigUtility.rulePack.rulesStrings.15>placeEnd-&gt;义卫</DV_KeshigUtility.rulePack.rulesStrings.15>
+    <DV_KeshigUtility.rulePack.rulesStrings.16>placeEnd-&gt;月克</DV_KeshigUtility.rulePack.rulesStrings.16>
+    <DV_KeshigUtility.rulePack.rulesStrings.17>placeEnd-&gt;诺斯</DV_KeshigUtility.rulePack.rulesStrings.17>
+    <DV_KeshigUtility.rulePack.rulesStrings.18>placeEnd-&gt;瓦斯</DV_KeshigUtility.rulePack.rulesStrings.18>
+    <DV_KeshigUtility.rulePack.rulesStrings.19>placeEnd-&gt;文</DV_KeshigUtility.rulePack.rulesStrings.19>
+    <DV_KeshigUtility.rulePack.rulesStrings.20>placeEnd-&gt;义拾</DV_KeshigUtility.rulePack.rulesStrings.20>
+    <!-- <DV_KeshigUtility.rulePack.rulesFiles.0>SylY-&gt;WordParts/Syllables_Yttakin</DV_KeshigUtility.rulePack.rulesFiles.0> -->
+
+    <!-- <DV_NamerFactionPirateKeshig.rulePack.rulesStrings.0>r_name(p=2)-&gt;[placeNameCore]</DV_NamerFactionPirateKeshig.rulePack.rulesStrings.0>
+    <DV_NamerFactionPirateKeshig.rulePack.rulesStrings.1>r_name-&gt;[placeNameCore] [faction]</DV_NamerFactionPirateKeshig.rulePack.rulesStrings.1>
+    <DV_NamerFactionPirateKeshig.rulePack.rulesStrings.2>r_name-&gt;[faction] of [placeNameCore]</DV_NamerFactionPirateKeshig.rulePack.rulesStrings.2> -->
+    <DV_NamerFactionPirateKeshig.rulePack.rulesStrings.3>faction-&gt;战队</DV_NamerFactionPirateKeshig.rulePack.rulesStrings.3>
+    <DV_NamerFactionPirateKeshig.rulePack.rulesStrings.4>faction-&gt;氏族</DV_NamerFactionPirateKeshig.rulePack.rulesStrings.4>
+    <DV_NamerFactionPirateKeshig.rulePack.rulesStrings.5>faction-&gt;家族</DV_NamerFactionPirateKeshig.rulePack.rulesStrings.5>
+    <DV_NamerFactionPirateKeshig.rulePack.rulesStrings.6>faction-&gt;军团</DV_NamerFactionPirateKeshig.rulePack.rulesStrings.6>
+    <DV_NamerFactionPirateKeshig.rulePack.rulesStrings.7>faction-&gt;部落</DV_NamerFactionPirateKeshig.rulePack.rulesStrings.7>
+    <DV_NamerFactionPirateKeshig.rulePack.rulesStrings.8>faction-&gt;房子</DV_NamerFactionPirateKeshig.rulePack.rulesStrings.8>
+
+    <!-- <DV_NamerSettlementPirateKeshig.rulePack.rulesStrings.0>r_name-&gt;[placeNameCore]</DV_NamerSettlementPirateKeshig.rulePack.rulesStrings.0> -->
+
+    <!-- <NamerPersonKeshig.rulePack.include.0>NamerFirstnamesKeshig</NamerPersonKeshig.rulePack.include.0>
+    <NamerPersonKeshig.rulePack.include.1>NamerLastNamesKeshig</NamerPersonKeshig.rulePack.include.1>
+    <NamerPersonKeshig.rulePack.rulesStrings.0>r_name-&gt;[firstName] [lastName]</NamerPersonKeshig.rulePack.rulesStrings.0> -->
+
+    <!-- <NamerFirstnamesKeshig.rulePack.rulesStrings.0>firstName(p=2)-&gt;[firstNamePrefix][firstNameSuffix]</NamerFirstnamesKeshig.rulePack.rulesStrings.0> -->
+    <!-- <NamerFirstnamesKeshig.rulePack.rulesStrings.1>firstName(p=0.5)-&gt;[firstNamePrefix]'[firstNameSuffix]</NamerFirstnamesKeshig.rulePack.rulesStrings.1> -->
+    <!-- <NamerFirstnamesKeshig.rulePack.rulesStrings.2>firstName(p=0.5)-&gt;[presetName]</NamerFirstnamesKeshig.rulePack.rulesStrings.2> -->
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.3>firstNamePrefix-&gt;克味</NamerFirstnamesKeshig.rulePack.rulesStrings.3>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.4>firstNamePrefix-&gt;克袄</NamerFirstnamesKeshig.rulePack.rulesStrings.4>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.5>firstNamePrefix-&gt;克恶</NamerFirstnamesKeshig.rulePack.rulesStrings.5>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.6>firstNamePrefix-&gt;克纳</NamerFirstnamesKeshig.rulePack.rulesStrings.6>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.7>firstNamePrefix-&gt;克吉</NamerFirstnamesKeshig.rulePack.rulesStrings.7>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.8>firstNamePrefix-&gt;克地</NamerFirstnamesKeshig.rulePack.rulesStrings.8>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.9>firstNamePrefix-&gt;克麻</NamerFirstnamesKeshig.rulePack.rulesStrings.9>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.10>firstNamePrefix-&gt;克爱</NamerFirstnamesKeshig.rulePack.rulesStrings.10>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.11>firstNamePrefix-&gt;克沃奥</NamerFirstnamesKeshig.rulePack.rulesStrings.11>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.12>firstNamePrefix-&gt;克乐奥</NamerFirstnamesKeshig.rulePack.rulesStrings.12>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.13>firstNamePrefix-&gt;克硬</NamerFirstnamesKeshig.rulePack.rulesStrings.13>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.14>firstNamePrefix-&gt;克义</NamerFirstnamesKeshig.rulePack.rulesStrings.14>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.15>firstNamePrefix-&gt;克海</NamerFirstnamesKeshig.rulePack.rulesStrings.15>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.16>firstNamePrefix-&gt;克奥萨</NamerFirstnamesKeshig.rulePack.rulesStrings.16>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.17>firstNamePrefix-&gt;克恶萨</NamerFirstnamesKeshig.rulePack.rulesStrings.17>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.18>firstNamePrefix-&gt;克赢</NamerFirstnamesKeshig.rulePack.rulesStrings.18>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.19>firstNamePrefix-&gt;克爱哈</NamerFirstnamesKeshig.rulePack.rulesStrings.19>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.20>firstNamePrefix-&gt;克欧哈</NamerFirstnamesKeshig.rulePack.rulesStrings.20>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.21>firstNamePrefix-&gt;克恶哈</NamerFirstnamesKeshig.rulePack.rulesStrings.21>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.22>firstNamePrefix-&gt;哈</NamerFirstnamesKeshig.rulePack.rulesStrings.22>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.23>firstNamePrefix-&gt;伊</NamerFirstnamesKeshig.rulePack.rulesStrings.23>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.24>firstNamePrefix-&gt;克</NamerFirstnamesKeshig.rulePack.rulesStrings.24>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.25>firstNamePrefix-&gt;玛</NamerFirstnamesKeshig.rulePack.rulesStrings.25>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.26>firstNamePrefix-&gt;吉武</NamerFirstnamesKeshig.rulePack.rulesStrings.26>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.27>firstNamePrefix-&gt;吉恶</NamerFirstnamesKeshig.rulePack.rulesStrings.27>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.28>firstNamePrefix-&gt;吉威</NamerFirstnamesKeshig.rulePack.rulesStrings.28>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.29>firstNamePrefix-&gt;吉纳</NamerFirstnamesKeshig.rulePack.rulesStrings.29>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.30>firstNamePrefix-&gt;吉玛</NamerFirstnamesKeshig.rulePack.rulesStrings.30>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.31>firstNamePrefix-&gt;吉哈</NamerFirstnamesKeshig.rulePack.rulesStrings.31>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.32>firstNamePrefix-&gt;吉尔伊里</NamerFirstnamesKeshig.rulePack.rulesStrings.32>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.33>firstNamePrefix-&gt;吉尔阿里</NamerFirstnamesKeshig.rulePack.rulesStrings.33>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.34>firstNamePrefix-&gt;勾尔</NamerFirstnamesKeshig.rulePack.rulesStrings.34>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.35>firstNamePrefix-&gt;勾尔克</NamerFirstnamesKeshig.rulePack.rulesStrings.35>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.36>firstNamePrefix-&gt;巴哈</NamerFirstnamesKeshig.rulePack.rulesStrings.36>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.37>firstNamePrefix-&gt;比哈</NamerFirstnamesKeshig.rulePack.rulesStrings.37>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.38>firstNamePrefix-&gt;比</NamerFirstnamesKeshig.rulePack.rulesStrings.38>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.39>firstNamePrefix-&gt;巴</NamerFirstnamesKeshig.rulePack.rulesStrings.39>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.40>firstNamePrefix-&gt;博</NamerFirstnamesKeshig.rulePack.rulesStrings.40>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.41>firstNamePrefix-&gt;博尔</NamerFirstnamesKeshig.rulePack.rulesStrings.41>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.42>firstNamePrefix-&gt;巴尔</NamerFirstnamesKeshig.rulePack.rulesStrings.42>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.43>firstNamePrefix-&gt;比尔</NamerFirstnamesKeshig.rulePack.rulesStrings.43>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.44>firstNamePrefix-&gt;玛尔</NamerFirstnamesKeshig.rulePack.rulesStrings.44>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.45>firstNamePrefix-&gt;玛</NamerFirstnamesKeshig.rulePack.rulesStrings.45>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.46>firstNameSuffix-&gt;吉昂</NamerFirstnamesKeshig.rulePack.rulesStrings.46>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.47>firstNameSuffix-&gt;昂</NamerFirstnamesKeshig.rulePack.rulesStrings.47>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.48>firstNameSuffix-&gt;维阿</NamerFirstnamesKeshig.rulePack.rulesStrings.48>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.49>firstNameSuffix-&gt;噶尔</NamerFirstnamesKeshig.rulePack.rulesStrings.49>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.50>firstNameSuffix-&gt;拉尔</NamerFirstnamesKeshig.rulePack.rulesStrings.50>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.51>firstNameSuffix-&gt;雷尔</NamerFirstnamesKeshig.rulePack.rulesStrings.51>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.52>firstNameSuffix-&gt;瓦瓦尔</NamerFirstnamesKeshig.rulePack.rulesStrings.52>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.53>firstNameSuffix-&gt;维尔</NamerFirstnamesKeshig.rulePack.rulesStrings.53>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.54>firstNameSuffix-&gt;格尔</NamerFirstnamesKeshig.rulePack.rulesStrings.54>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.55>firstNameSuffix-&gt;威尔</NamerFirstnamesKeshig.rulePack.rulesStrings.55>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.56>firstNameSuffix-&gt;冯</NamerFirstnamesKeshig.rulePack.rulesStrings.56>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.57>firstNameSuffix-&gt;完</NamerFirstnamesKeshig.rulePack.rulesStrings.57>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.58>firstNameSuffix-&gt;索尔</NamerFirstnamesKeshig.rulePack.rulesStrings.58>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.59>firstNameSuffix-&gt;所阿尔</NamerFirstnamesKeshig.rulePack.rulesStrings.59>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.60>firstNameSuffix-&gt;所伊尔</NamerFirstnamesKeshig.rulePack.rulesStrings.60>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.61>firstNameSuffix-&gt;威索尔</NamerFirstnamesKeshig.rulePack.rulesStrings.61>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.62>firstNameSuffix-&gt;玛尔</NamerFirstnamesKeshig.rulePack.rulesStrings.62>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.63>firstNameSuffix-&gt;梅尔</NamerFirstnamesKeshig.rulePack.rulesStrings.63>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.64>firstNameSuffix-&gt;奥合尔</NamerFirstnamesKeshig.rulePack.rulesStrings.64>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.65>firstNameSuffix-&gt;奥哈尔</NamerFirstnamesKeshig.rulePack.rulesStrings.65>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.66>firstNameSuffix-&gt;洛克</NamerFirstnamesKeshig.rulePack.rulesStrings.66>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.67>firstNameSuffix-&gt;里克</NamerFirstnamesKeshig.rulePack.rulesStrings.67>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.68>firstNameSuffix-&gt;吉哈尔</NamerFirstnamesKeshig.rulePack.rulesStrings.68>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.69>firstNameSuffix-&gt;吉合尔</NamerFirstnamesKeshig.rulePack.rulesStrings.69>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.70>firstNameSuffix-&gt;日阿</NamerFirstnamesKeshig.rulePack.rulesStrings.70>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.71>firstNameSuffix-&gt;若阿</NamerFirstnamesKeshig.rulePack.rulesStrings.71>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.72>firstNameSuffix-&gt;若</NamerFirstnamesKeshig.rulePack.rulesStrings.72>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.73>firstNameSuffix-&gt;日托克</NamerFirstnamesKeshig.rulePack.rulesStrings.73>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.74>firstNameSuffix-&gt;托克</NamerFirstnamesKeshig.rulePack.rulesStrings.74>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.75>firstNameSuffix-&gt;日阿克</NamerFirstnamesKeshig.rulePack.rulesStrings.75>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.76>firstNameSuffix-&gt;欧拉</NamerFirstnamesKeshig.rulePack.rulesStrings.76>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.77>firstNameSuffix-&gt;欧里</NamerFirstnamesKeshig.rulePack.rulesStrings.77>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.78>firstNameSuffix-&gt;伊奥</NamerFirstnamesKeshig.rulePack.rulesStrings.78>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.79>firstNameSuffix-&gt;伊里</NamerFirstnamesKeshig.rulePack.rulesStrings.79>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.80>firstNameSuffix-&gt;雷斯</NamerFirstnamesKeshig.rulePack.rulesStrings.80>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.81>firstNameSuffix-&gt;拉斯</NamerFirstnamesKeshig.rulePack.rulesStrings.81>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.82>firstNameSuffix-&gt;罗斯</NamerFirstnamesKeshig.rulePack.rulesStrings.82>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.83>firstNameSuffix-&gt;里斯</NamerFirstnamesKeshig.rulePack.rulesStrings.83>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.84>firstNameSuffix-&gt;吉伊奥</NamerFirstnamesKeshig.rulePack.rulesStrings.84>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.85>firstNameSuffix-&gt;吉伊里</NamerFirstnamesKeshig.rulePack.rulesStrings.85>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.86>firstNameSuffix-&gt;耶奥</NamerFirstnamesKeshig.rulePack.rulesStrings.86>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.87>firstNameSuffix-&gt;耶里</NamerFirstnamesKeshig.rulePack.rulesStrings.87>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.88>firstNameSuffix-&gt;日恶伊奥</NamerFirstnamesKeshig.rulePack.rulesStrings.88>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.89>firstNameSuffix-&gt;尤斯</NamerFirstnamesKeshig.rulePack.rulesStrings.89>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.90>presetName-&gt;玛托克</NamerFirstnamesKeshig.rulePack.rulesStrings.90>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.91>presetName-&gt;莫托克</NamerFirstnamesKeshig.rulePack.rulesStrings.91>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.92>presetName-&gt;沃尔弗</NamerFirstnamesKeshig.rulePack.rulesStrings.92>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.93>presetName-&gt;莫赤</NamerFirstnamesKeshig.rulePack.rulesStrings.93>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.94>presetName-&gt;玛赤</NamerFirstnamesKeshig.rulePack.rulesStrings.94>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.95>presetName-&gt;莫罗尔</NamerFirstnamesKeshig.rulePack.rulesStrings.95>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.96>presetName-&gt;玛尔玛</NamerFirstnamesKeshig.rulePack.rulesStrings.96>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.97>presetName-&gt;鲁萨</NamerFirstnamesKeshig.rulePack.rulesStrings.97>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.98>presetName-&gt;鲁卡</NamerFirstnamesKeshig.rulePack.rulesStrings.98>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.99>presetName-&gt;奥瑞里</NamerFirstnamesKeshig.rulePack.rulesStrings.99>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.100>presetName-&gt;比若特</NamerFirstnamesKeshig.rulePack.rulesStrings.100>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.101>presetName-&gt;巴弱特</NamerFirstnamesKeshig.rulePack.rulesStrings.101>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.102>presetName-&gt;比伊托尔</NamerFirstnamesKeshig.rulePack.rulesStrings.102>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.103>presetName-&gt;比阿托尔</NamerFirstnamesKeshig.rulePack.rulesStrings.103>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.104>presetName-&gt;迪格尔</NamerFirstnamesKeshig.rulePack.rulesStrings.104>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.105>presetName-&gt;迪恩纳斯</NamerFirstnamesKeshig.rulePack.rulesStrings.105>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.106>presetName-&gt;杜阿斯</NamerFirstnamesKeshig.rulePack.rulesStrings.106>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.107>presetName-&gt;迪瑞里</NamerFirstnamesKeshig.rulePack.rulesStrings.107>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.108>presetName-&gt;比爱托尔</NamerFirstnamesKeshig.rulePack.rulesStrings.108>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.109>presetName-&gt;格隆</NamerFirstnamesKeshig.rulePack.rulesStrings.109>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.110>presetName-&gt;噶弗卡</NamerFirstnamesKeshig.rulePack.rulesStrings.110>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.111>presetName-&gt;格伊里卡</NamerFirstnamesKeshig.rulePack.rulesStrings.111>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.112>presetName-&gt;格尔孔</NamerFirstnamesKeshig.rulePack.rulesStrings.112>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.113>presetName-&gt;欧热格</NamerFirstnamesKeshig.rulePack.rulesStrings.113>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.114>presetName-&gt;欧日格</NamerFirstnamesKeshig.rulePack.rulesStrings.114>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.115>presetName-&gt;博科</NamerFirstnamesKeshig.rulePack.rulesStrings.115>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.116>presetName-&gt;托尔吉</NamerFirstnamesKeshig.rulePack.rulesStrings.116>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.117>presetName-&gt;托尔哈纳</NamerFirstnamesKeshig.rulePack.rulesStrings.117>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.118>presetName-&gt;塔尔吉</NamerFirstnamesKeshig.rulePack.rulesStrings.118>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.119>presetName-&gt;塔尔吉哈纳</NamerFirstnamesKeshig.rulePack.rulesStrings.119>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.120>presetName-&gt;提维斯</NamerFirstnamesKeshig.rulePack.rulesStrings.120>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.121>presetName-&gt;提阿维斯</NamerFirstnamesKeshig.rulePack.rulesStrings.121>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.122>presetName-&gt;提耶维斯</NamerFirstnamesKeshig.rulePack.rulesStrings.122>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.123>presetName-&gt;提库瓦玛</NamerFirstnamesKeshig.rulePack.rulesStrings.123>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.124>presetName-&gt;提克乌玛</NamerFirstnamesKeshig.rulePack.rulesStrings.124>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.125>presetName-&gt;瓦奥克里斯</NamerFirstnamesKeshig.rulePack.rulesStrings.125>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.126>presetName-&gt;乌奥克里斯</NamerFirstnamesKeshig.rulePack.rulesStrings.126>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.127>presetName-&gt;耶奥克里斯</NamerFirstnamesKeshig.rulePack.rulesStrings.127>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.128>presetName-&gt;威克里斯</NamerFirstnamesKeshig.rulePack.rulesStrings.128>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.129>presetName-&gt;阿托玛</NamerFirstnamesKeshig.rulePack.rulesStrings.129>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.130>presetName-&gt;阿泽帖木尔</NamerFirstnamesKeshig.rulePack.rulesStrings.130>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.131>presetName-&gt;阿泽帖巴尔</NamerFirstnamesKeshig.rulePack.rulesStrings.131>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.132>presetName-&gt;克拉阿塔布</NamerFirstnamesKeshig.rulePack.rulesStrings.132>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.133>presetName-&gt;克拉皮托克</NamerFirstnamesKeshig.rulePack.rulesStrings.133>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.134>presetName-&gt;克耶里</NamerFirstnamesKeshig.rulePack.rulesStrings.134>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.135>presetName-&gt;克沃尔塔玛格</NamerFirstnamesKeshig.rulePack.rulesStrings.135>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.136>presetName-&gt;克日斯</NamerFirstnamesKeshig.rulePack.rulesStrings.136>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.137>presetName-&gt;克热那</NamerFirstnamesKeshig.rulePack.rulesStrings.137>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.138>presetName-&gt;克乌格</NamerFirstnamesKeshig.rulePack.rulesStrings.138>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.139>presetName-&gt;克阿克斯</NamerFirstnamesKeshig.rulePack.rulesStrings.139>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.140>presetName-&gt;克尔</NamerFirstnamesKeshig.rulePack.rulesStrings.140>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.141>presetName-&gt;克奥</NamerFirstnamesKeshig.rulePack.rulesStrings.141>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.142>presetName-&gt;克奥奥索</NamerFirstnamesKeshig.rulePack.rulesStrings.142>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.143>presetName-&gt;阔雷克</NamerFirstnamesKeshig.rulePack.rulesStrings.143>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.144>presetName-&gt;阔拉尔</NamerFirstnamesKeshig.rulePack.rulesStrings.144>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.145>presetName-&gt;克玛茨</NamerFirstnamesKeshig.rulePack.rulesStrings.145>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.146>presetName-&gt;卡那格</NamerFirstnamesKeshig.rulePack.rulesStrings.146>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.147>presetName-&gt;卡拉干</NamerFirstnamesKeshig.rulePack.rulesStrings.147>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.148>presetName-&gt;卡拉文克</NamerFirstnamesKeshig.rulePack.rulesStrings.148>
+    <NamerFirstnamesKeshig.rulePack.rulesStrings.149>presetName-&gt;克奥拉</NamerFirstnamesKeshig.rulePack.rulesStrings.149>
+
+    <!-- <NamerLastNamesKeshig.rulePack.rulesStrings.0>lastName(p=5)-&gt;[lastNamePrefix][lastNameSuffix]</NamerLastNamesKeshig.rulePack.rulesStrings.0>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.1>lastName(p=0.5)-&gt;Kla'[lastNamePrefix][lastNameSuffix]</NamerLastNamesKeshig.rulePack.rulesStrings.1>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.2>lastName(p=0.5)-&gt;Mle'[lastNamePrefix][lastNameSuffix]</NamerLastNamesKeshig.rulePack.rulesStrings.2> -->
+    <NamerLastNamesKeshig.rulePack.rulesStrings.3>lastNamePrefix-&gt;玛奥</NamerLastNamesKeshig.rulePack.rulesStrings.3>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.4>lastNamePrefix-&gt;玛克</NamerLastNamesKeshig.rulePack.rulesStrings.4>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.5>lastNamePrefix-&gt;莫</NamerLastNamesKeshig.rulePack.rulesStrings.5>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.6>lastNamePrefix-&gt;梅尔</NamerLastNamesKeshig.rulePack.rulesStrings.6>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.7>lastNamePrefix-&gt;莫尔</NamerLastNamesKeshig.rulePack.rulesStrings.7>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.8>lastNamePrefix-&gt;噶奥</NamerLastNamesKeshig.rulePack.rulesStrings.8>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.9>lastNamePrefix-&gt;吉奥</NamerLastNamesKeshig.rulePack.rulesStrings.9>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.10>lastNamePrefix-&gt;吉</NamerLastNamesKeshig.rulePack.rulesStrings.10>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.11>lastNamePrefix-&gt;噶</NamerLastNamesKeshig.rulePack.rulesStrings.11>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.12>lastNamePrefix-&gt;克纳</NamerLastNamesKeshig.rulePack.rulesStrings.12>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.13>lastNamePrefix-&gt;克恶</NamerLastNamesKeshig.rulePack.rulesStrings.13>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.14>lastNamePrefix-&gt;克恶奥</NamerLastNamesKeshig.rulePack.rulesStrings.14>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.15>lastNamePrefix-&gt;卡奥</NamerLastNamesKeshig.rulePack.rulesStrings.15>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.16>lastNamePrefix-&gt;卡</NamerLastNamesKeshig.rulePack.rulesStrings.16>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.17>lastNameSuffix-&gt;茨</NamerLastNamesKeshig.rulePack.rulesStrings.17>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.18>lastNameSuffix-&gt;格奥</NamerLastNamesKeshig.rulePack.rulesStrings.18>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.19>lastNameSuffix-&gt;吉尔哈</NamerLastNamesKeshig.rulePack.rulesStrings.19>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.20>lastNameSuffix-&gt;吉哈玛</NamerLastNamesKeshig.rulePack.rulesStrings.20>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.21>lastNameSuffix-&gt;吉哈玛</NamerLastNamesKeshig.rulePack.rulesStrings.21>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.22>lastNameSuffix-&gt;阿尔</NamerLastNamesKeshig.rulePack.rulesStrings.22>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.23>lastNameSuffix-&gt;恶尔</NamerLastNamesKeshig.rulePack.rulesStrings.23>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.24>lastNameSuffix-&gt;克恶克斯</NamerLastNamesKeshig.rulePack.rulesStrings.24>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.25>lastNameSuffix-&gt;吉哈克斯</NamerLastNamesKeshig.rulePack.rulesStrings.25>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.26>lastNameSuffix-&gt;克恶哈克斯</NamerLastNamesKeshig.rulePack.rulesStrings.26>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.27>lastNameSuffix-&gt;克阿哈克斯</NamerLastNamesKeshig.rulePack.rulesStrings.27>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.28>lastNameSuffix-&gt;罗克斯</NamerLastNamesKeshig.rulePack.rulesStrings.28>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.29>lastNameSuffix-&gt;里克斯</NamerLastNamesKeshig.rulePack.rulesStrings.29>
+    <NamerLastNamesKeshig.rulePack.rulesStrings.30>lastNameSuffix-&gt;梅克斯</NamerLastNamesKeshig.rulePack.rulesStrings.30>
+
+</LanguageData>

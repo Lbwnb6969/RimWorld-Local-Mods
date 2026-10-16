@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: {0} stacks -->
+  <ASF_XStacks>{0}组</ASF_XStacks><!-- displayed in parentheses as eg. 1 / 3 stacks -->
+	<!-- EN: empty -->
+  <ASF_Empty>空的</ASF_Empty>
+	<!-- EN: You have filled the map. -->
+  <ASF_MapFilled>空间不足。</ASF_MapFilled>
+	<!-- EN: Contents tab to display on adaptive storage buildings: -->
+  <ASF_SettingContentsTabSelection>储存建筑“内容”选项卡的风格：</ASF_SettingContentsTabSelection>
+	<!-- EN: That's the tab saying 'Contents' on the bottom left panel with a building selected. 'None' displays contents in the vanilla way through 'Select x' gizmos on the bar to the right instead of tab. -->
+  <ASF_SettingContentsTabDescription>这是指选中储存建筑时，左下角弹出面板中的“内容”选项卡，你可以通过它来清楚直观地浏览已储存的物品。如果你更喜欢原版风格（就是以小方格“选择XX”的形式在屏幕下方显示所有已储存的物品），那就请切换至“无”选项吧。</ASF_SettingContentsTabDescription>
+	<!-- EN: maximum number of stacks per cell -->
+  <ASF_MaxNumStacks>每格最大储存量</ASF_MaxNumStacks> <!-- identical to LWM's https://github.com/lilwhitemouse/RimWorld-LWM.DeepStorage/blob/master/_Mod/LWM.DeepStorage/Languages/English/Keyed/LWM.DeepStorage.Keys.xml -->
+	<!-- EN: The maximum number of stacks that can go in a single space.  Buildings two-cells large will have twice as much storage capacity.\n\nNote that other factors may reduce storage capacity. -->
+  <ASF_MaxNumStacksDesc>此储存建筑每个地格的最大储存量。总储存量=每格最大储存量*占地格数\n\n请注意，实际储存量可能会受其他系数影响而降低。</ASF_MaxNumStacksDesc>
+	<!-- EN: Drop specific count -->
+  <ASF_DropSpecificCount>丢下指定数量</ASF_DropSpecificCount>
+	<!-- EN: total storage capacity -->
+  <ASF_TotalStorageCapacity>总储存量</ASF_TotalStorageCapacity>
+	<!-- EN: The maximum number of stacks fitting into this storage building for all cells combined.\n\n{sizeX} * {sizeZ} cells with individually set capacities. -->
+  <ASF_StorageCapacityDescriptionCustomized>此储存建筑的总储存量。总储存量=每格最大储存量*占地格数\n\n此储存建筑的占地面积为{sizeX}*{sizeZ}格，其储存量受单独设置的影响。</ASF_StorageCapacityDescriptionCustomized>
+	<!-- EN: The maximum number of stacks fitting into this storage building for all cells combined.\n\n{sizeX} * {sizeZ} cells with a maximum capacity of {maxItemsInCell} stacks per cell. -->
+  <ASF_StorageCapacityDescriptionStacksPerCell>此储存建筑的总储存量。总储存量=每格最大储存量*占地格数\n\n此储存建筑的占地面积为{sizeX}*{sizeZ}格，其每格最大储存量为{maxItemsInCell}。</ASF_StorageCapacityDescriptionStacksPerCell>
+	<!-- EN: Automatically open contents tab -->
+  <ASF_AutomaticallyOpenContentsTab>自动打开“内容”选项卡</ASF_AutomaticallyOpenContentsTab>
+	<!-- EN: Selecting a storage building automatically opens its Contents tab with this enabled, or storage settings when empty. -->
+  <ASF_AutomaticallyOpenContentsTabDescription>如果启用此项，则当你选中储存建筑时，会自动打开其“内容”选项卡。</ASF_AutomaticallyOpenContentsTabDescription>
+	<!-- EN: Hide labels when zoomed out -->
+  <ASF_HideLabelsZoomSetting>镜头缩小时隐藏标签</ASF_HideLabelsZoomSetting>
+	<!-- EN: Affects labels shown on the map, like [ count ] or Item xY. Only show them at a close zoom level when enabled. -->
+  <ASF_HideLabelsZoomDescription>影响地图中的储存建筑上的标签，例如“[数量]”或“物品 x数量”。如果启用此项，则仅会在镜头放大到一定程度时显示这些标签。</ASF_HideLabelsZoomDescription>
+	<!-- EN: Hide labels until mouseover -->
+  <ASF_HideLabelsMouseOverSetting>仅在鼠标悬停时显示标签</ASF_HideLabelsMouseOverSetting>
+	<!-- EN: Affects labels shown on the map, like [ count ] or Item xY. Only show them when pointed at with the mouse when enabled. Overridden by the Toggleable Overlays mod when having that mod enabled. -->
+  <ASF_HideLabelsMouseOverDescription>影响地图中的储存建筑上的标签，例如“[数量]”或“物品 x数量”。如果启用此项，则仅会在鼠标悬停于储存建筑上时显示这些标签。注意：此项会被Toggleable Overlays这个Mod的设置覆盖。</ASF_HideLabelsMouseOverDescription>
+	<!-- EN: Default label style -->
+  <ASF_DefaultLabelStyleSetting>默认标签风格</ASF_DefaultLabelStyleSetting>
+	<!-- EN: What to display for storage labels on the map. Individual buildings can override this in their config. -->
+  <ASF_DefaultLabelStyleDescription>地图中的储存建筑上显示的标签风格。</ASF_DefaultLabelStyleDescription>
+	<!-- EN: Maximum zoom level -->
+  <ASF_MaxZoomLevelSetting>最大缩放等级</ASF_MaxZoomLevelSetting>
+	<!-- EN: The maximum zoom level to show labels for. They get hidden past this point. -->
+  <ASF_MaxZoomLevelDescription>显示标签的最大镜头缩放等级。当镜头缩放等级高于此项的值时，标签将会隐藏。</ASF_MaxZoomLevelDescription>
+	<!-- EN: Other items -->
+  <ASF_OtherItems>其他物品</ASF_OtherItems><!-- Displayed at the bottom of long storage labels as Other items xY -->
+</LanguageData>

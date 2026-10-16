@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: red ink -->
+  <DA_Chemical_RedInk.label>红墨</DA_Chemical_RedInk.label>
+  <!-- EN: Because of an red tear addiction, this person needs to regularly consume the venom to avoid withdrawal symptoms. -->
+  <DA_Chemical_RedInk.description>由于红墨上瘾，该人需要定期摄取这种毒液以避免戒断反应。</DA_Chemical_RedInk.description>
+  
+</LanguageData>

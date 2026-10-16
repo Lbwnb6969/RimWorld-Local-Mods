@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[@Name="EES_IntelDataBase"]/techLevel</xpath>
+    <value><techLevel>Medieval</techLevel></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="EES_EscapeDevice"]/techLevel</xpath>
+    <value><techLevel>Medieval</techLevel></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[starts-with(defName,"EES_IntelData_")]/graphicData/texPath</xpath>
+    <value><texPath>Things/Item/Book/Schematic/Schematic</texPath></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="EES_EscapeDevice"]/graphicData/texPath</xpath>
+    <value><texPath>Things/Pawn/Humanlike/Apparel/SmokepopPack/SmokepopPack</texPath></value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="EES_EscapeDevice"]/apparel</xpath>
+    <value><wornGraphicPath>Things/Pawn/Humanlike/Apparel/SmokepopPack/SmokepopPack</wornGraphicPath></value>
+  </Operation>
+</Patch>

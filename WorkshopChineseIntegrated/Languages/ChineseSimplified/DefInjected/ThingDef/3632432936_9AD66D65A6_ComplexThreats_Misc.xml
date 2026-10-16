@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient enemy terminal -->
+  <VR_AncientEnemyTerminal.label>远古敌对终端</VR_AncientEnemyTerminal.label>
+  <!-- EN: An ancient computer terminal. It can be activated to call nearby enemies. -->
+  <VR_AncientEnemyTerminal.description>一台古老的计算机终端。激活后可呼叫附近的敌人。</VR_AncientEnemyTerminal.description>
+  <!-- EN: Activating this {0} will alert enemies and cause them to attack. -->
+  <VR_AncientEnemyTerminal.comps.CompHackable.autohackWarningString>激活此{0}将警觉敌人并引发攻击。</VR_AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
+  <!-- EN: Activate to call nearby enemies. -->
+  <VR_AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>激活以呼叫附近敌人。</VR_AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
+  
+</LanguageData>

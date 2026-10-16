@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: quintain -->
+  <RimJoust_Quintain.label>训练假人</RimJoust_Quintain.label>
+  <!-- EN: Un mannequin d'entraînement pour la joute. Un poteau avec un bras qui tourne, un écu d'un côté et un sac de sable de l'autre. Tes colons s'entraînent dessus à la lance et progressent en joute (leur Melee et leurs Animaux), sans le risque d'un vrai tournoi. Pour lancer un entraînement, sélectionne un colon et fais clic droit sur le quintain. -->
+  <RimJoust_Quintain.description>一种比武训练假人。一根带旋转臂的柱子，一边是盾牌，另一边是沙袋。你的殖民者可以在上面练习长枪，提升比武技能（格斗和驯兽），没有真实锦标赛的风险。若要开始训练，请选择一名殖民者，然后右键点击训练假人。</RimJoust_Quintain.description>
+  
+</LanguageData>

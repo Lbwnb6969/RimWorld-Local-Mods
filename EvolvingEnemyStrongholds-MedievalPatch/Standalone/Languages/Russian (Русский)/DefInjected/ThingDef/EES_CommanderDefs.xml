@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_CommanderShield.label>щит командира</EES_CommanderShield.label>
+  <EES_CommanderShield.description>Мобильный барьер против снарядов, развёрнутый вокруг командира. Он блокирует снаряды как прямого огня, так и навесной траектории.</EES_CommanderShield.description>
+  <EES_CommanderShieldBelt.label>пояс-щит (командир)</EES_CommanderShieldBelt.label>
+  <EES_CommanderShieldBelt.description>Военный проектор щита, носимый офицером обороны. Он развёртывает барьер радиусом 8 клеток вокруг носителя против снарядов как прямого огня, так и навесной траектории. Его нельзя забрать в качестве добычи.</EES_CommanderShieldBelt.description>
+</LanguageData>

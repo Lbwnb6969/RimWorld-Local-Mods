@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <DankPyon_KnowledgePotion.label>知识灵药</DankPyon_KnowledgePotion.label>
+  <DankPyon_KnowledgePotion.description>这瓶灵药融合了萃取自怪物、森林和梦魇的各种元素。服用后能从意识底层－甚至是从虚无之中－唤出知识。提高服用者随机一项技能1级。</DankPyon_KnowledgePotion.description>
+  <DankPyon_KnowledgePotion.comps.CompUsable.useLabel>服用{0}</DankPyon_KnowledgePotion.comps.CompUsable.useLabel>
+  
+</LanguageData>

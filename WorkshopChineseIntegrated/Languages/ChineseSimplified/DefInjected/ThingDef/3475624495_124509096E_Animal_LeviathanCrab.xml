@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: leviathan -->
+  <DA_LeviathanCrab.label>利维坦蟹</DA_LeviathanCrab.label>
+  <!-- EN: A giant crustacean who lives most of its life under the cold blanket of the sea. When the tide is low, leviathans may wander inland to prey on the unfortunate using their massive claw.n\n\Some courageous fishermen have made a habit out of hunting for leviathan juveniles, as their flesh can last a long time without spoiling away. -->
+  <DA_LeviathanCrab.description>一种长期生活在海底的巨大甲壳纲生物。利维坦在退潮时可能上岸用巨大的螯猎捕受害者。\n\n因为它们的血肉不易腐烂，有些勇敢的渔夫习惯捕杀利维坦幼崽。</DA_LeviathanCrab.description>
+  <!-- EN: right claw -->
+  <DA_LeviathanCrab.tools.right_claw.label>左螯</DA_LeviathanCrab.tools.right_claw.label>
+  <!-- EN: claw -->
+  <DA_LeviathanCrab.tools.right_claw.labelNoLocation>螯</DA_LeviathanCrab.tools.right_claw.labelNoLocation>
+  <!-- EN: giant claw -->
+  <DA_LeviathanCrab.tools.giant_claw.label>巨螯</DA_LeviathanCrab.tools.giant_claw.label>
+  <!-- EN: claw -->
+  <DA_LeviathanCrab.tools.giant_claw.labelNoLocation>螯</DA_LeviathanCrab.tools.giant_claw.labelNoLocation>
+  <!-- EN: head -->
+  <DA_LeviathanCrab.tools.head.label>头</DA_LeviathanCrab.tools.head.label>
+  
+</LanguageData>

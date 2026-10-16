@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bronze working -->
+  <VFEC_BronzeWorking.label>青铜铸造</VFEC_BronzeWorking.label>
+  <!-- EN: Mix steel with stone chunks to create slightly weaker metal in large quantities. -->
+  <VFEC_BronzeWorking.description>用石块和钢铁铸造青铜，比钢铁强度低，但是产量很大。</VFEC_BronzeWorking.description>
+  <!-- EN:
+    <li>subject->the alloy of antiquity</li>
+    <li>subject_story->discovered the alchemy of combining steel with stone to produce bronze, marking the dawn of a new era in metallurgy</li>
+    <li>subject_gerund->ushering in an age where metal becomes the backbone of progress and power</li>
+  -->
+  <VFEC_BronzeWorking.generalRules.rulesStrings>
+    <li>subject->古老的合金</li>
+    <li>subject_story->将钢铁与石头合成，制造出青铜，唤醒冶金术的黎明</li>
+    <li>subject_gerund->让金属成为新时代的栋梁</li>
+  </VFEC_BronzeWorking.generalRules.rulesStrings>
+  
+  <!-- EN: cement making -->
+  <VFEC_CementMaking.label>水泥制造</VFEC_CementMaking.label>
+  <!-- EN: Construct a cement press, which allows you to create extremely durable stone material out of stone chunks. -->
+  <VFEC_CementMaking.description>建造水泥压制机，让你可以用石块制造混凝土，一种非常厚实的石材。</VFEC_CementMaking.description>
+  <!-- EN:
+    <li>subject->the bedrock of civilization</li>
+    <li>subject_story->innovated the creation of cement, turning stone into the durable foundation upon which empires are built</li>
+    <li>subject_gerund->laying the groundwork for enduring structures and monuments with the strength of cement</li>
+  -->
+  <VFEC_CementMaking.generalRules.rulesStrings>
+    <li>subject->文明的地基</li>
+    <li>subject_story->发明了制造水泥的技术，将石头转变成结实的地基，在此之后帝国才得以兴起</li>
+    <li>subject_gerund->用水泥铺设的基础让奇观建筑成为可能</li>
+  </VFEC_CementMaking.generalRules.rulesStrings>
+  
+  <!-- EN: crafting bench -->
+  <VFEC_CraftingBench.label>工作台</VFEC_CraftingBench.label>
+  <!-- EN: Build a workbench for crafting simple things like clubs or bows. -->
+  <VFEC_CraftingBench.description>一个制作简单物品的地方，比如大麻烟、棍棒和短弓。</VFEC_CraftingBench.description>
+  <!-- EN:
+    <li>subject->the artisan's foundation</li>
+    <li>subject_story->established crafting benches as the heart of production, where raw materials are transformed into tools and treasures</li>
+    <li>subject_gerund->carving the future with every crafted item, from the simplest club to the most precise bow</li>
+  -->
+  <VFEC_CraftingBench.generalRules.rulesStrings>
+    <li>subject->手工艺的第一步</li>
+    <li>subject_story->制造出的工作台可以将原材料加工成工具，生产力自此开始进步</li>
+    <li>subject_gerund->用工具为自己蚀刻未来的道路，不管是简单的棍棒还是精准的弓箭</li>
+  </VFEC_CraftingBench.generalRules.rulesStrings>
+  
+  <!-- EN: road building -->
+  <VFEC_RoadBuilding.label>修路</VFEC_RoadBuilding.label>
+  <!-- EN: Construct paths, dirt roads and stone roads directly on the world map, allowing for faster caravan travel. -->
+  <VFEC_RoadBuilding.description>在世界地图上修筑小径，土路和石路方便远行队的交通。</VFEC_RoadBuilding.description>
+  <!-- EN:
+    <li>subject->pathways of progress</li>
+    <li>subject_story->paved the way for civilization's expansion with the construction of roads, connecting communities and fostering trade</li>
+    <li>subject_gerund->tracing the arteries of trade and communication with each road built, propelling the civilization forward</li>
+  -->
+  <VFEC_RoadBuilding.generalRules.rulesStrings>
+    <li>subject->进步的道路</li>
+    <li>subject_story->为文明的扩张铺设大路，让孤立的聚落得以团结在一起</li>
+    <li>subject_gerund->让道路成为贸易与通讯的基础，推动文明前进</li>
+  </VFEC_RoadBuilding.generalRules.rulesStrings>
+  
+  <!-- EN: tyrian production -->
+  <VFEC_TyrianProduction.label>骨螺养殖</VFEC_TyrianProduction.label>
+  <!-- EN: Create a tyrian farm - a river-bank structure that dyes cloth, which can then be extracted in the form of extremely valuable royal fabric. -->
+  <VFEC_TyrianProduction.description>制造骨螺池，一种河床上的结构，可以将织物染成皇家紫布。</VFEC_TyrianProduction.description>
+  <!-- EN:
+    <li>subject->the hue of royalty</li>
+    <li>subject_story->cultivated tyrian farms along the riverbanks, mastering the art of dyeing cloth into royal fabric, a symbol of wealth and status</li>
+    <li>subject_gerund->weaving the fabric of society with colors that command respect and admiration</li>
+  -->
+  <VFEC_TyrianProduction.generalRules.rulesStrings>
+    <li>subject->尊贵的颜色</li>
+    <li>subject_story->在河床上制造骨螺池，将织物染成皇家紫布，一种财富和地位的象征</li>
+    <li>subject_gerund->用这种代表着尊严与敬仰的颜色赢得社会的尊重</li>
+  </VFEC_TyrianProduction.generalRules.rulesStrings>
+  
+  <!-- EN: wood-fired crematorium -->
+  <VFEC_WoodfiredCrematorium.label>木柴火化炉</VFEC_WoodfiredCrematorium.label>
+  <!-- EN: Build a huge, wood-fired stone crematorium which vaporizes corpses with high temperatures. -->
+  <VFEC_WoodfiredCrematorium.description>一个巨大的木柴火化炉，能够产生极高的温度来火化尸体和衣物。</VFEC_WoodfiredCrematorium.description>
+  <!-- EN:
+    <li>subject->purification by flame</li>
+    <li>subject_story->conceived the wood-fired crematorium, a testament to dealing with the departed in a manner that respects both cultural customs and sanitation needs</li>
+    <li>subject_gerund->embracing the cycle of life and death through the elemental purity of fire</li>
+  -->
+  <VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+    <li>subject->净化之火焰</li>
+    <li>subject_story->用木质焚化炉将死者送离凡世</li>
+    <li>subject_gerund->用火焰推动生死循环</li>
+  </VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drank coffee -->
+  <AM_DrankCoffee.label>喝了咖啡</AM_DrankCoffee.label>
+  
+  <!-- EN: drank specialty coffee -->
+  <AM_DrankSpecialtyCoffee.label>喝了特制的咖啡</AM_DrankSpecialtyCoffee.label>
+  
+</LanguageData>

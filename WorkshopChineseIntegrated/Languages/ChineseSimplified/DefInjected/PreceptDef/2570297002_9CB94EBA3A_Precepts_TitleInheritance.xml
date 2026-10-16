@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: inherited -->
+  <VME_TitleInheritance_Inherited.label>继承</VME_TitleInheritance_Inherited.label>
+  <!-- EN: Nobility flows through blood, as titles pass from the fallen to their kin. A parent's demise elevates the firstborn, inheriting the mantle of leadership. -->
+  <VME_TitleInheritance_Inherited.description>死亡并不意味着皇权的终结。我们的荣誉头衔将以血脉为托代代传承下去。</VME_TitleInheritance_Inherited.description>
+  
+</LanguageData>

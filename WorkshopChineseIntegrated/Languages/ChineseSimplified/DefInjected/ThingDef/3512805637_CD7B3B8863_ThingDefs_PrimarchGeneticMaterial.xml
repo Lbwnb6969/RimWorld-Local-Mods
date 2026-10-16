@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: primarch material I - Lion El'Jonson -->
+  <BEWH_PrimarchMaterialI.label>原体材料 I - 莱恩·庄森</BEWH_PrimarchMaterialI.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch I - Lion El'Jonson. -->
+  <BEWH_PrimarchMaterialI.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体一号——莱昂·艾尔·庄森的基因物质。</BEWH_PrimarchMaterialI.description>
+  <!-- EN: Lion El'Jonson -->
+  <BEWH_PrimarchMaterialI.modExtensions.0.shownMaterialName>莱恩·庄森</BEWH_PrimarchMaterialI.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material III - Fulgrim -->
+  <BEWH_PrimarchMaterialIII.label>原体材料 III - 福格瑞姆 </BEWH_PrimarchMaterialIII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch III - Fulgrim. -->
+  <BEWH_PrimarchMaterialIII.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体三号——福格瑞姆的基因物质。</BEWH_PrimarchMaterialIII.description>
+  <!-- EN: Fulgrim -->
+  <BEWH_PrimarchMaterialIII.modExtensions.0.shownMaterialName>福格瑞姆</BEWH_PrimarchMaterialIII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material IV - Perturabo -->
+  <BEWH_PrimarchMaterialIV.label>原体材料 IV - 佩图拉博</BEWH_PrimarchMaterialIV.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch IV - Perturabo. -->
+  <BEWH_PrimarchMaterialIV.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体四号——佩图拉博的基因物质。</BEWH_PrimarchMaterialIV.description>
+  <!-- EN: Perturabo -->
+  <BEWH_PrimarchMaterialIV.modExtensions.0.shownMaterialName>佩图拉博</BEWH_PrimarchMaterialIV.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material IX - Sanguinius -->
+  <BEWH_PrimarchMaterialIX.label>原体材料 IX - 圣吉列斯 </BEWH_PrimarchMaterialIX.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch IX - Sanguinius. -->
+  <BEWH_PrimarchMaterialIX.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体九号——圣吉列斯的基因物质。</BEWH_PrimarchMaterialIX.description>
+  <!-- EN: Sanguinius -->
+  <BEWH_PrimarchMaterialIX.modExtensions.0.shownMaterialName>圣吉列斯</BEWH_PrimarchMaterialIX.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material V - Jaghatai Khan -->
+  <BEWH_PrimarchMaterialV.label>原体材料 V - 察合台可汗</BEWH_PrimarchMaterialV.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch V - Jaghatai Khan. -->
+  <BEWH_PrimarchMaterialV.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体五号——察合台可汗的基因物质。</BEWH_PrimarchMaterialV.description>
+  <!-- EN: Jaghatai Khan -->
+  <BEWH_PrimarchMaterialV.modExtensions.0.shownMaterialName>察合台可汗</BEWH_PrimarchMaterialV.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material VI - Leman Russ -->
+  <BEWH_PrimarchMaterialVI.label>原体材料 VI - 黎曼·鲁斯</BEWH_PrimarchMaterialVI.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch VI - Leman Russ. -->
+  <BEWH_PrimarchMaterialVI.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体六号——黎曼·鲁斯的基因物质。</BEWH_PrimarchMaterialVI.description>
+  <!-- EN: Leman Russ -->
+  <BEWH_PrimarchMaterialVI.modExtensions.0.shownMaterialName>黎曼·鲁斯</BEWH_PrimarchMaterialVI.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material VII - Rogal Dorn -->
+  <BEWH_PrimarchMaterialVII.label>原体材料 VII - 罗格·多恩</BEWH_PrimarchMaterialVII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch VII - Rogal Dorn. -->
+  <BEWH_PrimarchMaterialVII.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体七号——罗格·多恩的基因物质。</BEWH_PrimarchMaterialVII.description>
+  <!-- EN: Rogal Dorn -->
+  <BEWH_PrimarchMaterialVII.modExtensions.0.shownMaterialName>罗格·多恩</BEWH_PrimarchMaterialVII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material VIII - Konrad Curze -->
+  <BEWH_PrimarchMaterialVIII.label>原体材料 VIII - 康拉德·科兹 </BEWH_PrimarchMaterialVIII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch VIII - Konrad Curze. -->
+  <BEWH_PrimarchMaterialVIII.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体八号——康拉德·科兹的基因物质。</BEWH_PrimarchMaterialVIII.description>
+  <!-- EN: Konrad Curze -->
+  <BEWH_PrimarchMaterialVIII.modExtensions.0.shownMaterialName>康拉德·科兹</BEWH_PrimarchMaterialVIII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material X - Ferrus Manus -->
+  <BEWH_PrimarchMaterialX.label>原体材料 X - 费鲁斯·马努斯</BEWH_PrimarchMaterialX.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch X - Ferrus Manus. -->
+  <BEWH_PrimarchMaterialX.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体十号——费鲁斯·马努斯基因物质。</BEWH_PrimarchMaterialX.description>
+  <!-- EN: Ferrus Manus -->
+  <BEWH_PrimarchMaterialX.modExtensions.0.shownMaterialName>费鲁斯·马努斯</BEWH_PrimarchMaterialX.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material XII - Angron -->
+  <BEWH_PrimarchMaterialXII.label>原体材料 XII - 安格隆</BEWH_PrimarchMaterialXII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch XII - Angron. -->
+  <BEWH_PrimarchMaterialXII.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体十二号——安格隆的基因物质。</BEWH_PrimarchMaterialXII.description>
+  <!-- EN: Angron -->
+  <BEWH_PrimarchMaterialXII.modExtensions.0.shownMaterialName>安格隆</BEWH_PrimarchMaterialXII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material XIII - Roboute Guilliman -->
+  <BEWH_PrimarchMaterialXIII.label>原体材料 XIII - 罗伯特·基里曼 </BEWH_PrimarchMaterialXIII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch XIII - Roboute Guilliman. -->
+  <BEWH_PrimarchMaterialXIII.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体十三号——罗伯特·基里曼的基因物质。</BEWH_PrimarchMaterialXIII.description>
+  <!-- EN: Roboute Guilliman -->
+  <BEWH_PrimarchMaterialXIII.modExtensions.0.shownMaterialName>罗伯特·基里曼</BEWH_PrimarchMaterialXIII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material XIV - Mortarion -->
+  <BEWH_PrimarchMaterialXIV.label>原体材料 XIV - 莫塔利安 </BEWH_PrimarchMaterialXIV.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch XIV - Mortarion. -->
+  <BEWH_PrimarchMaterialXIV.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体十四号——莫塔利安的基因物质。</BEWH_PrimarchMaterialXIV.description>
+  <!-- EN: Mortarion -->
+  <BEWH_PrimarchMaterialXIV.modExtensions.0.shownMaterialName>莫塔利安</BEWH_PrimarchMaterialXIV.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material XIX - Corvus Corax -->
+  <BEWH_PrimarchMaterialXIX.label>原体材料 XIX - 科沃斯·科拉克斯 </BEWH_PrimarchMaterialXIX.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch XIX - Corvus Corax. -->
+  <BEWH_PrimarchMaterialXIX.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体十九号——科沃斯·科拉克斯的基因物质。</BEWH_PrimarchMaterialXIX.description>
+  <!-- EN: Corvus Corax -->
+  <BEWH_PrimarchMaterialXIX.modExtensions.0.shownMaterialName>科沃斯·科拉克斯</BEWH_PrimarchMaterialXIX.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material XV - Magnus the Red -->
+  <BEWH_PrimarchMaterialXV.label>原体材料 XV - “赤红之王”马格努斯</BEWH_PrimarchMaterialXV.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch XV - Magnus the Red. -->
+  <BEWH_PrimarchMaterialXV.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体十五号——“赤红之王”马格努斯的基因物质。</BEWH_PrimarchMaterialXV.description>
+  <!-- EN: Magnus the Red -->
+  <BEWH_PrimarchMaterialXV.modExtensions.0.shownMaterialName>“赤红之王”马格努斯</BEWH_PrimarchMaterialXV.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material XVI - Horus Lupercal -->
+  <BEWH_PrimarchMaterialXVI.label>原体材料 XVI - 荷鲁斯·卢佩卡尔 </BEWH_PrimarchMaterialXVI.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch XVI - Horus Lupercal. -->
+  <BEWH_PrimarchMaterialXVI.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体十六号——荷鲁斯·卢佩卡尔的基因物质。</BEWH_PrimarchMaterialXVI.description>
+  <!-- EN: Horus Lupercal -->
+  <BEWH_PrimarchMaterialXVI.modExtensions.0.shownMaterialName>荷鲁斯·卢佩卡尔</BEWH_PrimarchMaterialXVI.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material XVII - Lorgar -->
+  <BEWH_PrimarchMaterialXVII.label>原体材料 XVII - 洛嘉</BEWH_PrimarchMaterialXVII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch XVII - Lorgar. -->
+  <BEWH_PrimarchMaterialXVII.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体十七号——洛嘉的基因物质。</BEWH_PrimarchMaterialXVII.description>
+  <!-- EN: Lorgar -->
+  <BEWH_PrimarchMaterialXVII.modExtensions.0.shownMaterialName>洛嘉</BEWH_PrimarchMaterialXVII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material XVIII - Vulkan -->
+  <BEWH_PrimarchMaterialXVIII.label>原体材料 XVIII - 沃肯 </BEWH_PrimarchMaterialXVIII.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch XVIII - Vulkan. -->
+  <BEWH_PrimarchMaterialXVIII.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体十八号——沃肯的基因物质。</BEWH_PrimarchMaterialXVIII.description>
+  <!-- EN: Vulkan -->
+  <BEWH_PrimarchMaterialXVIII.modExtensions.0.shownMaterialName>沃肯</BEWH_PrimarchMaterialXVIII.modExtensions.0.shownMaterialName>
+  
+  <!-- EN: primarch material XX - Alpharius/Omegon -->
+  <BEWH_PrimarchMaterialXX.label>原体材料 XX - 阿尔法瑞斯/欧米冈</BEWH_PrimarchMaterialXX.label>
+  <!-- EN: A specialized container designed to store and preserve the sacred genetic data of a specific Astartes Primarch.\n\nThis unit holds the genetic material of Primarch XX - Alpharius/Omegon. -->
+  <BEWH_PrimarchMaterialXX.description>专为储存特定基因原体神圣基因数据设计的容器。\n\n此容器包含保存着原体二十号——阿尔法瑞斯/欧米冈的基因物质。</BEWH_PrimarchMaterialXX.description>
+  <!-- EN: Alpharius Omegon -->
+  <BEWH_PrimarchMaterialXX.modExtensions.0.shownMaterialName>阿尔法瑞斯/欧米冈</BEWH_PrimarchMaterialXX.modExtensions.0.shownMaterialName>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: berry cultivation -->
+  <RG_BerryCultivation.label>莓果种植</RG_BerryCultivation.label>
+  <!-- EN: Cultivate and grow berry bushes. -->
+  <RG_BerryCultivation.description>解锁种植各种莓果丛。</RG_BerryCultivation.description>
+  <!-- EN:
+    <li>subject->agriculture</li>
+    <li>subject_story->uncovered the secrets of wild berry bushes, fostering the community's first steps towards agriculture</li>
+    <li>subject_story->led the tribe from nomadic wanderers to settled cultivators, revered for their lush berry groves</li>
+    <li>subject_story->brokered peace through the shared cultivation and exchange of berries, uniting neighboring tribes</li>
+    <li>subject_gerund->growing berries</li>
+  -->
+  <RG_BerryCultivation.generalRules.rulesStrings>
+    <li>subject->莓果种植</li>
+    <li>subject_story->揭露了野山莓的秘密，促使社区迈出了农业之路的第一步</li>
+    <li>subject_story->带领部落从游牧生活转变为农业定居，且因栽培了茂盛的莓果丛而备受尊敬</li>
+    <li>subject_story->通过合作耕种与交换莓果，将数个部落团结起来，走向和平之路</li>
+    <li>subject_gerund->种植莓果丛</li>
+  </RG_BerryCultivation.generalRules.rulesStrings>
+  
+  <!-- EN: mushroom cultivation -->
+  <RG_MushroomCultivation.label>菌菇种植</RG_MushroomCultivation.label>
+  <!-- EN: Cultivate and grow mushrooms. -->
+  <RG_MushroomCultivation.description>解锁种植各种菌菇。</RG_MushroomCultivation.description>
+  <!-- EN:
+    <li>subject->mushroom cultivation</li>
+    <li>subject_story->harnessed the forest's hidden bounty, elevating their tribe's nutrition and medicine</li>
+    <li>subject_story->mastered the art of the spore, leading to a revolution in sustainable food sources</li>
+    <li>subject_story->explored the mystical properties of fungi, intertwining their culture with the sacred mycelium</li>
+    <li>subject_gerund->cultivating mushrooms</li>
+    <li>subject_gerund->growing your mushroom</li>
+  -->
+  <RG_MushroomCultivation.generalRules.rulesStrings>
+    <li>subject->菌菇种植</li>
+    <li>subject_story->利用蕴藏在森林里的自然馈赠，提高了部落的营养与医疗水平</li>
+    <li>subject_story->精通了孢子培育的技艺，引领了食物自给自足的大变革</li>
+    <li>subject_story->探索了菌菇的神秘特性，将其文化与神圣的菌丝紧密相连</li>
+    <li>subject_gerund->栽培蘑菇</li>
+    <li>subject_gerund->种植菌菇</li>
+  </RG_MushroomCultivation.generalRules.rulesStrings>
+  
+</LanguageData>

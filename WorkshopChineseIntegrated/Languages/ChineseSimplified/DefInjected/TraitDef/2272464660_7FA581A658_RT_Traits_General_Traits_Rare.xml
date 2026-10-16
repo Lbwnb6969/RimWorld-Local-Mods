@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chronically ill -->
+  <RT_ChronicallyIll.degreeDatas.chronically_ill.label>慢性病患者</RT_ChronicallyIll.degreeDatas.chronically_ill.label>
+  <!-- EN: [PAWN_nameDef] gets ill quite often, and seem to require more effort to get out of bed than the average person. -->
+  <RT_ChronicallyIll.degreeDatas.chronically_ill.description>[PAWN_nameDef]经常生病，似乎需要比一般人付出更大的努力才能起床。</RT_ChronicallyIll.degreeDatas.chronically_ill.description>
+  
+  <!-- EN: gifted -->
+  <RT_Gifted.degreeDatas.gifted.label>天资聪颖</RT_Gifted.degreeDatas.gifted.label>
+  <!-- EN: [PAWN_nameDef] is naturally talented, [PAWN_pronoun] gets a headstart before everyone else. -->
+  <RT_Gifted.degreeDatas.gifted.description>[PAWN_nameDef]天资聪颖，[PAWN_pronoun]总能快人一步。</RT_Gifted.degreeDatas.gifted.description>
+  
+  <!-- EN: healthy -->
+  <RT_Healthy.degreeDatas.healthy.label>健康</RT_Healthy.degreeDatas.healthy.label>
+  <!-- EN: [PAWN_nameDef] lives a healthy lifestyle, and wakes up feeling energetic and cheerful. -->
+  <RT_Healthy.degreeDatas.healthy.description>[PAWN_nameDef]生活方式健康，总能在起床后感觉精力充沛，心情愉悦。</RT_Healthy.degreeDatas.healthy.description>
+  
+  <!-- EN: impatient cook -->
+  <RT_ImpatientCook.degreeDatas.impatient_cook.label>急躁的厨师</RT_ImpatientCook.degreeDatas.impatient_cook.label>
+  <!-- EN: [PAWN_nameDef] couldn't care less about following the recipes as long as [PAWN_pronoun] can get food into [PAWN_possessive] mouth in record time. -->
+  <RT_ImpatientCook.degreeDatas.impatient_cook.description>[PAWN_nameDef]完全不在乎食谱，[PAWN_pronoun]只想用能创纪录的速度将食物塞进[PAWN_possessive]嘴里。</RT_ImpatientCook.degreeDatas.impatient_cook.description>
+  
+  <!-- EN: incompetent -->
+  <RT_Incompetent.degreeDatas.incompetent.label>无能</RT_Incompetent.degreeDatas.incompetent.label>
+  <!-- EN: [PAWN_nameDef] is someone everyone loves to hate. -->
+  <RT_Incompetent.degreeDatas.incompetent.description>[PAWN_nameDef]是一个所有人都会讨厌的人。</RT_Incompetent.degreeDatas.incompetent.description>
+  
+  <!-- EN: patient cook -->
+  <RT_PatientCook.degreeDatas.patient_cook.label>耐心的厨师</RT_PatientCook.degreeDatas.patient_cook.label>
+  <!-- EN: [PAWN_nameDef] takes great care in the preparation of food, [PAWN_pronoun] never skip a step just to have an early meal. -->
+  <RT_PatientCook.degreeDatas.patient_cook.description>[PAWN_nameDef]在准备食物时十分信心， [PAWN_pronoun]永远不会为了快点吃上早餐而跳过任何一步。</RT_PatientCook.degreeDatas.patient_cook.description>
+  
+  <!-- EN: temperature intolerant -->
+  <RT_TemperatureIntolerant.degreeDatas.temperature_intolerant.label>温度敏感</RT_TemperatureIntolerant.degreeDatas.temperature_intolerant.label>
+  <!-- EN: [PAWN_nameDef] thinks that summer is way too hot, and winter is way too cold. -->
+  <RT_TemperatureIntolerant.degreeDatas.temperature_intolerant.description>[PAWN_nameDef]觉得夏天太热了，又觉得冬天太冷了。</RT_TemperatureIntolerant.degreeDatas.temperature_intolerant.description>
+  
+  <!-- EN: temperature tolerant -->
+  <RT_TemperatureTolerant.degreeDatas.temperature_tolerant.label>耐温</RT_TemperatureTolerant.degreeDatas.temperature_tolerant.label>
+  <!-- EN: [PAWN_nameDef] is comfortable in all seasons. -->
+  <RT_TemperatureTolerant.degreeDatas.temperature_tolerant.description>[PAWN_nameDef]感觉四季都很舒适。</RT_TemperatureTolerant.degreeDatas.temperature_tolerant.description>
+  
+</LanguageData>

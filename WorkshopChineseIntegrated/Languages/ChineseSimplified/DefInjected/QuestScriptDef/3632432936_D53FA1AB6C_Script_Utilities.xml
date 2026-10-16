@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>threatDescription->a construct cluster will land at [map_definite] containing:\n\n[allThreats]</li>
+  -->
+  <VR_Util_ConstructCluster.questDescriptionRules.rulesStrings>
+    <li>threatDescription->一支构装体集群将落在[map_definite]，包含：\n\n[allThreats]</li>
+  </VR_Util_ConstructCluster.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>threatDescription->[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack you. Their group is composed of:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+  -->
+  <VR_Util_Raid.questDescriptionRules.rulesStrings>
+    <li>threatDescription->[enemyFaction_name]的[enemyFaction_pawnsPlural]将来袭。他们的队伍由以下成员组成：\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+  </VR_Util_Raid.questDescriptionRules.rulesStrings>
+  
+</LanguageData>

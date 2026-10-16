@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armoured sergeant -->
+  <BA_HRE_Armoured_Sergeant.label>装甲中士</BA_HRE_Armoured_Sergeant.label>
+  
+  <!-- EN: arquebusier -->
+  <BA_HRE_Arquebusier.label>火绳枪兵</BA_HRE_Arquebusier.label>
+  
+  <!-- EN: bannerman -->
+  <BA_HRE_Bannerman.label>旗手</BA_HRE_Bannerman.label>
+  
+  <!-- EN: peasant crossbowman -->
+  <BA_HRE_Crossbowman.label>农民弩手</BA_HRE_Crossbowman.label>
+  
+  <!-- EN: kaiser -->
+  <BA_HRE_Emperor.label>凯撒</BA_HRE_Emperor.label>
+  <!-- EN: kaiserin -->
+  <BA_HRE_Emperor.labelFemale>女凯撒</BA_HRE_Emperor.labelFemale>
+  
+  <!-- EN: forlorn hope -->
+  <BA_HRE_Forlorn.label>敢死队</BA_HRE_Forlorn.label>
+  
+  <!-- EN: fürst -->
+  <BA_HRE_Furst.label>亲王</BA_HRE_Furst.label>
+  
+  <!-- EN: gothic knight -->
+  <BA_HRE_Gothic_Knight.label>哥特骑士</BA_HRE_Gothic_Knight.label>
+  
+  <!-- EN: halberd militia -->
+  <BA_HRE_Halberdier.label>长戟民兵</BA_HRE_Halberdier.label>
+  
+  <!-- EN: imperial knight -->
+  <BA_HRE_ImperialKnight.label>帝国骑士</BA_HRE_ImperialKnight.label>
+  
+  <!-- EN: feudal knight -->
+  <BA_HRE_Knight.label>封建骑士</BA_HRE_Knight.label>
+  
+  <!-- EN: Landsknecht -->
+  <BA_HRE_Landsknecht.label>德意志雇佣步兵</BA_HRE_Landsknecht.label>
+  
+  <!-- EN: pavise crossbowman -->
+  <BA_HRE_Pavise_Crossbowman.label>巨盾弩手</BA_HRE_Pavise_Crossbowman.label>
+  
+  <!-- EN: peasant -->
+  <BA_HRE_Peasant.label>农民</BA_HRE_Peasant.label>
+  
+  <!-- EN: reiter -->
+  <BA_HRE_Reiters.label>德意志骑兵</BA_HRE_Reiters.label>
+  
+  <!-- EN: sergeant spearmen -->
+  <BA_HRE_Spear_Militia.label>长矛士官</BA_HRE_Spear_Militia.label>
+  
+</LanguageData>

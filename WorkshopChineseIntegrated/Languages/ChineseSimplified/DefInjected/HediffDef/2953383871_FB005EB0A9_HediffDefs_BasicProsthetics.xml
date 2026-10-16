@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 铁臂 -->
+
+  <IronArm.label>铁臂</IronArm.label>
+  <IronArm.description>一只已安装的铁臂。</IronArm.description>
+  <IronArm.comps.0.tools.0.label>铁拳</IronArm.comps.0.tools.0.label>
+  <IronArm.labelNoun>一只铁臂</IronArm.labelNoun>
+
+
+  <!-- 钩手 -->
+
+  <ProstheticHook.label>钩手</ProstheticHook.label>
+  <ProstheticHook.description>一只已安装的钩手。</ProstheticHook.description>
+  <ProstheticHook.comps.0.tools.0.label>钩手</ProstheticHook.comps.0.tools.0.label>
+  <ProstheticHook.labelNoun>一只钩手</ProstheticHook.labelNoun>
+
+
+  <!-- 木脚 -->
+
+  <WoodenFoot.label>木脚</WoodenFoot.label>
+  <WoodenFoot.description>一只已安装的木脚。</WoodenFoot.description>
+  <WoodenFoot.labelNoun>一只木脚</WoodenFoot.labelNoun>
+
+
+  <!-- 木趾 -->
+
+  <WoodenToe.label>木趾</WoodenToe.label>
+  <WoodenToe.description>一只已安装的木趾。</WoodenToe.description>
+  <WoodenToe.labelNoun>一只木趾</WoodenToe.labelNoun>
+
+
+  <!-- 木指 -->
+
+  <WoodenFinger.label>木指</WoodenFinger.label>
+  <WoodenFinger.description>一只已安装的木指。</WoodenFinger.description>
+  <WoodenFinger.labelNoun>一只木指</WoodenFinger.labelNoun>
+
+
+  <!-- 木鼻 -->
+
+  <WoodenNose.label>木鼻</WoodenNose.label>
+  <WoodenNose.description>一只已安装的木鼻。</WoodenNose.description>
+  <WoodenNose.labelNoun>一只木鼻</WoodenNose.labelNoun>
+
+
+  <!-- eyepatch -->
+
+  <EyePatch.label>眼罩</EyePatch.label>
+  <EyePatch.description>一只已安装的眼罩。</EyePatch.description>
+  <EyePatch.labelNoun>一只眼罩</EyePatch.labelNoun>
+
+
+  <!-- Earpatch -->
+
+  <EarPatch.label>耳罩</EarPatch.label>
+  <EarPatch.description>一只已安装的耳罩。</EarPatch.description>
+  <EarPatch.labelNoun>一只耳罩</EarPatch.labelNoun>
+
+
+</LanguageData>

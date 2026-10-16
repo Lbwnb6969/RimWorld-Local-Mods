@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemdrench -->
+  <VFEM2_Chemdrench.label>易燃草垫</VFEM2_Chemdrench.label>
+  <!-- EN: Rough straw matting drenched heavily in chemfuel. Ignites very easily and spreads rapidly between all connected areas. -->
+  <VFEM2_Chemdrench.description>浸满了化和燃料的草垫。十分易燃，一旦起火便会迅速蔓延火势。</VFEM2_Chemdrench.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slave emancipation -->
+  <VME_SlaveEmancipationPrecept.label>奴隶解放</VME_SlaveEmancipationPrecept.label>
+  <!-- EN: Cast off your shackles, and should you find us suitable, be welcomed within our community as kin and kith alike. Should you find your new home ill-suited for your needs, we wish you a warm, albeit melancholy goodbye. -->
+  <VME_SlaveEmancipationPrecept.description>一场解放奴隶的仪式。\n\n“我们将会解开束缚你们的枷锁。若你们想融入这个集体，我们会像亲朋好友一样欢迎你；若你们觉得这里不适合作为新家，我们也会给予你们悲伤但温暖的告别。”</VME_SlaveEmancipationPrecept.description>
+  
+</LanguageData>

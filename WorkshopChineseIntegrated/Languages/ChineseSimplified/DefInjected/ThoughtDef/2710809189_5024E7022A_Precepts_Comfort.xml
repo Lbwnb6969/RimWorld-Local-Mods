@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: uncomfortable -->
+  <AM_Comfort_DiscomfortPreferred.stages.uncomfortable.label>感到不适</AM_Comfort_DiscomfortPreferred.stages.uncomfortable.label>
+  <!-- EN: I've been pleasantly uncomfortable recently. This hardship reminds me that I am strong enough to endure it. -->
+  <AM_Comfort_DiscomfortPreferred.stages.uncomfortable.description>最近的不适令我心生愉悦。艰苦和不适的存在提醒着我，我已强大到足以承受它们了。</AM_Comfort_DiscomfortPreferred.stages.uncomfortable.description>
+  <!-- EN: comfortable -->
+  <AM_Comfort_DiscomfortPreferred.stages.comfortable.label>感到舒适</AM_Comfort_DiscomfortPreferred.stages.comfortable.label>
+  <!-- EN: I've been too comfortable recently. I need some hardship in my life. -->
+  <AM_Comfort_DiscomfortPreferred.stages.comfortable.description>最近我过得太舒适了。我需要体验一些艰苦和不适来充实生活。</AM_Comfort_DiscomfortPreferred.stages.comfortable.description>
+  <!-- EN: quite comfortable -->
+  <AM_Comfort_DiscomfortPreferred.stages.quite_comfortable.label>感到相当舒适</AM_Comfort_DiscomfortPreferred.stages.quite_comfortable.label>
+  <!-- EN: I've been far too comfortable recently. All this luxury is making me soft. -->
+  <AM_Comfort_DiscomfortPreferred.stages.quite_comfortable.description>最近我过得实在太舒适了。沉溺于奢华中会让我变得软弱。</AM_Comfort_DiscomfortPreferred.stages.quite_comfortable.description>
+  <!-- EN: extremely comfortable -->
+  <AM_Comfort_DiscomfortPreferred.stages.extremely_comfortable.label>感到非常舒适</AM_Comfort_DiscomfortPreferred.stages.extremely_comfortable.label>
+  <!-- EN: I've been living in disgusting luxury. I need to experience some real discomfort. -->
+  <AM_Comfort_DiscomfortPreferred.stages.extremely_comfortable.description>我生活在令人厌恶的奢华环境中。我急需体验一些真正的艰苦和不适。</AM_Comfort_DiscomfortPreferred.stages.extremely_comfortable.description>
+  <!-- EN: luxuriantly comfortable -->
+  <AM_Comfort_DiscomfortPreferred.stages.luxuriantly_comfortable.label>感到极其舒适</AM_Comfort_DiscomfortPreferred.stages.luxuriantly_comfortable.label>
+  <!-- EN: This is unbearable. I am surrounded by softness and comfort, and I can feel myself becoming weak. -->
+  <AM_Comfort_DiscomfortPreferred.stages.luxuriantly_comfortable.description>这简直无法忍受。我被柔软和舒适所包围，且能感觉到自己正变得越来越弱小。</AM_Comfort_DiscomfortPreferred.stages.luxuriantly_comfortable.description>
+  
+</LanguageData>

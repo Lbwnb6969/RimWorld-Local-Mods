@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: exalted -->
+  <VME_Illness_Exalted.label>高尚</VME_Illness_Exalted.label>
+  <!-- EN: To be infected is to be blessed, and to go long without blessing is regrettable. -->
+  <VME_Illness_Exalted.description>感染疫病是慈父赐予我们的祝福，而长久得不到祝福会让我们心生不安。</VME_Illness_Exalted.description>
+  
+  <!-- EN: indifferent -->
+  <VME_Illness_Indifferent.label>漠视</VME_Illness_Indifferent.label>
+  <!-- EN: Illness is just another fact of life. -->
+  <VME_Illness_Indifferent.description>得病对我们来说再正常不过了。</VME_Illness_Indifferent.description>
+  
+  <!-- EN: preferred -->
+  <VME_Illness_Preferred.label>喜好</VME_Illness_Preferred.label>
+  <!-- EN: Being sick gives you an excuse to lie down and work less. It's worth it! -->
+  <VME_Illness_Preferred.description>得病给了我们一个摸鱼的好借口。这还蛮划算的！</VME_Illness_Preferred.description>
+  
+</LanguageData>

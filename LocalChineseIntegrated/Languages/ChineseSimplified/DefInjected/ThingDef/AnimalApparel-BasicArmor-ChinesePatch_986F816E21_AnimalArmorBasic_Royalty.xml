@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: animal cataphract armor -->
+  <Apparel_ArmorCataphract_Animal.label>动物全覆式动力甲</Apparel_ArmorCataphract_Animal.label>
+  <!-- EN: A suit of heavy powered armor for a variety of animals, built for maximum protection at the cost of mobility. -->
+  <Apparel_ArmorCataphract_Animal.description>一套为多种动物打造的重型动力装甲，以牺牲机动性为代价换取最大限度的防护。多层玻璃钢纤维装甲板与坚固的抗烧蚀涂层几乎能够挡下所有攻击，除非攻击格外精准或威力极强。神经模因辅助装置可避免装甲的巨大重量让穿戴者完全无法移动，但它依然十分笨重。\n\n帝国坐骑会穿着这种装甲，在别无选择时从正面突破防守严密的阵地。</Apparel_ArmorCataphract_Animal.description>
+
+  <!-- EN: animal cataphract helmet -->
+  <Apparel_ArmorHelmetCataphract_Animal.label>动物全覆式头盔</Apparel_ArmorHelmetCataphract_Animal.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. -->
+  <Apparel_ArmorHelmetCataphract_Animal.description>一顶防护厚重的高科技头盔，采用坚固的玻璃钢纤维外壳，并配有用于观察非正面角度的间接视觉系统。除非攻击威力极强或恰好命中薄弱处，否则很难将其击穿。\n\n帝国坐骑会佩戴这种头盔，在别无选择时从正面突破防守严密的阵地。</Apparel_ArmorHelmetCataphract_Animal.description>
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_MakeMetalHelm.label>制作 蛮族金属盔 I</pphhyy_Barbarian_MakeMetalHelm.label>
+  <pphhyy_Barbarian_MakeMetalHelm.description>制作蛮族金属盔 I</pphhyy_Barbarian_MakeMetalHelm.description>
+  <pphhyy_Barbarian_MakeMetalHelm.jobString>正在制作蛮族金属盔 I。</pphhyy_Barbarian_MakeMetalHelm.jobString>
+
+  <pphhyy_Barbarian_MakeMetalHelmII.label>制作 蛮族金属盔 II</pphhyy_Barbarian_MakeMetalHelmII.label>
+  <pphhyy_Barbarian_MakeMetalHelmII.description>制作蛮族金属盔 II</pphhyy_Barbarian_MakeMetalHelmII.description>
+  <pphhyy_Barbarian_MakeMetalHelmII.jobString>正在制作蛮族金属盔 II。</pphhyy_Barbarian_MakeMetalHelmII.jobString>
+
+  <pphhyy_Barbarian_MakeMetalHelmIII.label>制作 蛮族金属盔 III</pphhyy_Barbarian_MakeMetalHelmIII.label>
+  <pphhyy_Barbarian_MakeMetalHelmIII.description>制作蛮族金属盔 III</pphhyy_Barbarian_MakeMetalHelmIII.description>
+  <pphhyy_Barbarian_MakeMetalHelmIII.jobString>正在制作蛮族金属盔 III。</pphhyy_Barbarian_MakeMetalHelmIII.jobString>
+
+  <pphhyy_Barbarian_MakeSpikedCap.label>制作 蛮族尖顶盔 I</pphhyy_Barbarian_MakeSpikedCap.label>
+  <pphhyy_Barbarian_MakeSpikedCap.description>制作蛮族尖顶盔 I</pphhyy_Barbarian_MakeSpikedCap.description>
+  <pphhyy_Barbarian_MakeSpikedCap.jobString>正在制作蛮族尖顶盔 I。</pphhyy_Barbarian_MakeSpikedCap.jobString>
+
+  <pphhyy_Barbarian_MakeSpikedCapII.label>制作 蛮族尖顶盔 II</pphhyy_Barbarian_MakeSpikedCapII.label>
+  <pphhyy_Barbarian_MakeSpikedCapII.description>制作蛮族尖顶盔 II</pphhyy_Barbarian_MakeSpikedCapII.description>
+  <pphhyy_Barbarian_MakeSpikedCapII.jobString>正在制作蛮族尖顶盔 II。</pphhyy_Barbarian_MakeSpikedCapII.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: feasting -->
+  <RimFeast_ColonistFeastDuty.label>宴会</RimFeast_ColonistFeastDuty.label>
+  
+  <!-- EN: feasting -->
+  <RimFeast_FeastDuty.label>宴会</RimFeast_FeastDuty.label>
+  
+  <!-- EN: playing for the feast -->
+  <RimFeast_MinstrelDuty.label>为宴会演奏</RimFeast_MinstrelDuty.label>
+  
+  <!-- EN: giving a toast -->
+  <RimFeast_ToastDuty.label>祝酒致辞</RimFeast_ToastDuty.label>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high -->
+  <VME_FarmingYield_High.label>提高</VME_FarmingYield_High.label>
+  <!-- EN: Each vegetable or fruit harvested should be harvested down to the last stem, root, or leaf. Leave not a single bit of produce unharvested.\n\n<color=#E5E54C>Stats:</color>\n - Farming yield: +10%. -->
+  <VME_FarmingYield_High.description>作物结出的每一颗蔬果我们都不会浪费。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 农耕产出：+10%。</VME_FarmingYield_High.description>
+  
+</LanguageData>

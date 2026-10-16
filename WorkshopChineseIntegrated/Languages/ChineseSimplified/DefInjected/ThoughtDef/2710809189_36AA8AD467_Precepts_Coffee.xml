@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drank coffee -->
+  <AM_CoffeeDrinking_Required_DrankCoffee.stages.drank_coffee.label>喝了咖啡</AM_CoffeeDrinking_Required_DrankCoffee.stages.drank_coffee.label>
+  <!-- EN: That coffee was refreshing and invigorating. A nice moment of energy and focus. -->
+  <AM_CoffeeDrinking_Required_DrankCoffee.stages.drank_coffee.description>喝咖啡可以提神醒脑并为身体注入活力。真是美妙的活力与专注时刻啊。</AM_CoffeeDrinking_Required_DrankCoffee.stages.drank_coffee.description>
+  
+  <!-- EN: drank specialty coffee -->
+  <AM_CoffeeDrinking_Required_DrankSpecialtyCoffee.stages.drank_specialty_coffee.label>喝了特制的咖啡</AM_CoffeeDrinking_Required_DrankSpecialtyCoffee.stages.drank_specialty_coffee.label>
+  <!-- EN: That specialty coffee was exquisite—rich, aromatic, and exactly what I needed. -->
+  <AM_CoffeeDrinking_Required_DrankSpecialtyCoffee.stages.drank_specialty_coffee.description>这种特制的咖啡闻起来浓香扑鼻，正是我们所需要的。</AM_CoffeeDrinking_Required_DrankSpecialtyCoffee.stages.drank_specialty_coffee.description>
+  
+</LanguageData>

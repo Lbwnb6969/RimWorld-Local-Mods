@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<GU_Mech_CraftGiddyUpModule.label>制作骑乘模块</GU_Mech_CraftGiddyUpModule.label>
+	<GU_Mech_CraftGiddyUpModule.description>制作骑乘模块</GU_Mech_CraftGiddyUpModule.description>
+	<GU_Mech_CraftGiddyUpModule.jobString>正在制作</GU_Mech_CraftGiddyUpModule.jobString>
+
+	<GU_Mech_InstallGiddyUpModule.label>安装骑乘模块</GU_Mech_InstallGiddyUpModule.label>
+	<GU_Mech_InstallGiddyUpModule.description>使机械体具备坐骑功能。</GU_Mech_InstallGiddyUpModule.description>
+	<GU_Mech_InstallGiddyUpModule.jobString>正在改装机械体</GU_Mech_InstallGiddyUpModule.jobString>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DV_LungPurifier.label>肺部净化器</DV_LungPurifier.label>
+    <DV_LungPurifier.description>一种直接通过肺部吸收的速效净化剂。清除小量毒素积累。</DV_LungPurifier.description>
+    <DV_LungPurifier.ingestible.ingestCommandString>吸食 {0}</DV_LungPurifier.ingestible.ingestCommandString>
+    <DV_LungPurifier.ingestible.ingestReportString>吸 {0}.</DV_LungPurifier.ingestible.ingestReportString>
+
+</LanguageData>

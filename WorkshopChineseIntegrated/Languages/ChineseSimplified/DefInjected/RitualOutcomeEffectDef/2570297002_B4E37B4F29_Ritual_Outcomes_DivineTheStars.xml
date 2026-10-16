@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Participants will get completely random results, with no regard for ritual quality. -->
+  <VME_DivineStarsRitualOutcome.description>参与者得到的结果完全随机，与仪式的效果无关。</VME_DivineStarsRitualOutcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_DivineStarsRitualOutcome.comps.0.label>{PAWN_labelShort}的社交影响</VME_DivineStarsRitualOutcome.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <VME_DivineStarsRitualOutcome.comps.0.labelAbstract>演讲者的社交影响</VME_DivineStarsRitualOutcome.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <VME_DivineStarsRitualOutcome.comps.1.label>参与者数量</VME_DivineStarsRitualOutcome.comps.1.label>
+  <!-- EN: Inscrutable -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.label>神秘的</VME_DivineStarsRitualOutcome.outcomeChances.0.label>
+  <!-- EN: Our destiny has been revealed by the stars. -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.description>我们的命运已由星辰揭示。</VME_DivineStarsRitualOutcome.outcomeChances.0.description>
+  <!-- EN: Inscrutable -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.label>神秘的</VME_DivineStarsRitualOutcome.outcomeChances.1.label>
+  <!-- EN: Our destiny has been revealed by the stars. -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.description>我们的命运已由星辰揭示。</VME_DivineStarsRitualOutcome.outcomeChances.1.description>
+  
+</LanguageData>

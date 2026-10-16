@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Changing ammo for TargetA. -->
+  <BEWH_ChangeAmmo.reportString>切换TargetA的弹药种类。</BEWH_ChangeAmmo.reportString>
+  
+  <!-- EN: Changing apparel colors at TargetA. -->
+  <BEWH_OpenStylingStationDialogForApparelMultiColor.reportString>在TargetA处改变盔甲颜色。</BEWH_OpenStylingStationDialogForApparelMultiColor.reportString>
+  
+  <!-- EN: Changing weapon colors at TargetA. -->
+  <BEWH_OpenStylingStationDialogForWeaponMultiColor.reportString>在TargetA处改变武器颜色。</BEWH_OpenStylingStationDialogForWeaponMultiColor.reportString>
+  
+</LanguageData>

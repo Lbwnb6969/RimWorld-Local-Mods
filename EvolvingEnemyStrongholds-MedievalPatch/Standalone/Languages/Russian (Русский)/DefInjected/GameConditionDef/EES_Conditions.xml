@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EES_PsychicShrineDrone.label>дрон шаманского алтаря</EES_PsychicShrineDrone.label>
+  <EES_PsychicShrineDrone.description>Шаманский алтарь соседнего племени излучает пси-дрон на эту местность. Разум колонистов ({0}) постепенно расшатывается. Это продолжится, пока алтарь не будет уничтожен.</EES_PsychicShrineDrone.description>
+  <EES_PsychicShrineDrone.endMessage>Пси-дрон шаманского алтаря прекратился.</EES_PsychicShrineDrone.endMessage>
+  <EES_PsychicShrineDrone.letterText>Соседний шаманский алтарь излучает пси-дрон, настроенный на колонистов ({0}).</EES_PsychicShrineDrone.letterText>
+</LanguageData>

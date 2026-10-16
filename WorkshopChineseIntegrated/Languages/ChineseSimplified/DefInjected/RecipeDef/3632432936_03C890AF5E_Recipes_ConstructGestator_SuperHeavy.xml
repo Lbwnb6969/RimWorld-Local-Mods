@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestate colossus -->
+  <VR_Construct_Colossus.label>孕育巨像</VR_Construct_Colossus.label>
+  <!-- EN: Gestate a colossus construct. -->
+  <VR_Construct_Colossus.description>孕育一个巨像构装体。</VR_Construct_Colossus.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_Colossus.jobString>孕育构装体中。</VR_Construct_Colossus.jobString>
+  
+  <!-- EN: gestate scarab queen -->
+  <VR_Construct_ScarabQueen.label>孕育战争女皇</VR_Construct_ScarabQueen.label>
+  <!-- EN: Gestate a scarab queen construct. -->
+  <VR_Construct_ScarabQueen.description>孕育一个战争女皇构装体。</VR_Construct_ScarabQueen.description>
+  <!-- EN: Gestating mech. -->
+  <VR_Construct_ScarabQueen.jobString>孕育构装体中。</VR_Construct_ScarabQueen.jobString>
+  
+</LanguageData>

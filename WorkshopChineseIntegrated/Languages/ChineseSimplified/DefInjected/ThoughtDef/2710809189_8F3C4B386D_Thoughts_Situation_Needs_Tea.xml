@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <AM_TeaNeed.stages.craving_tea.label>渴求饮茶</AM_TeaNeed.stages.craving_tea.label>
+  
+  <AM_TeaNeed.stages.craving_tea.description>我真的好想来杯茶啊...我的头昏昏沉沉，神经也十分紧绷...如果皮鞋闻起来能有茶味儿的话，我肯定会把它丢进锅里煮了...</AM_TeaNeed.stages.craving_tea.description>
+  
+  <AM_TeaNeed.stages.desiring_tea.label>需求饮茶</AM_TeaNeed.stages.desiring_tea.label>
+  
+  <AM_TeaNeed.stages.desiring_tea.description>我已经很久没饮茶了。不来上一杯，我这一天都过得不顺心。</AM_TeaNeed.stages.desiring_tea.description>
+  
+  <AM_TeaNeed.stages.wanting_tea.label>想要饮茶</AM_TeaNeed.stages.wanting_tea.label>
+  
+  <AM_TeaNeed.stages.wanting_tea.description>给我来杯茶吧。只要抿一口就能暖暖身子，并享受片刻的安宁了。</AM_TeaNeed.stages.wanting_tea.description>
+  
+  <AM_TeaNeed.stages.content.label>饮茶满足</AM_TeaNeed.stages.content.label>
+  
+  <AM_TeaNeed.stages.content.description>啊...这茶可真棒。我的世界看起来变得更光明了。</AM_TeaNeed.stages.content.description>
+  
+  <AM_TeaNeed.stages.perfectly_steeped.label>甜点满足（完全）</AM_TeaNeed.stages.perfectly_steeped.label>
+  
+  <AM_TeaNeed.stages.perfectly_steeped.description>这可真是太美妙了。沏得如此完美的茶，不仅温暖了我的灵魂，也抚慰了我的心智。</AM_TeaNeed.stages.perfectly_steeped.description>
+  
+</LanguageData>

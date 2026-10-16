@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: introduce Dark Angels material -->
+  <BEWH_IntroduceMaterialChapterI.label>植入黑暗天使军团材料</BEWH_IntroduceMaterialChapterI.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterI.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterI.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterI.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterI.jobString>
+  
+  <!-- EN: introduce Emperor's Children material -->
+  <BEWH_IntroduceMaterialChapterIII.label>植入帝皇之子军团材料</BEWH_IntroduceMaterialChapterIII.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterIII.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterIII.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterIII.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterIII.jobString>
+  
+  <!-- EN: introduce Iron Warriors material -->
+  <BEWH_IntroduceMaterialChapterIV.label>植入钢铁勇士军团材料</BEWH_IntroduceMaterialChapterIV.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterIV.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterIV.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterIV.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterIV.jobString>
+  
+  <!-- EN: introduce Blood Angels material -->
+  <BEWH_IntroduceMaterialChapterIX.label>植入圣血天使军团材料</BEWH_IntroduceMaterialChapterIX.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterIX.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterIX.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterIX.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterIX.jobString>
+  
+  <!-- EN: introduce White Scars material -->
+  <BEWH_IntroduceMaterialChapterV.label>植入白色伤疤军团材料</BEWH_IntroduceMaterialChapterV.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterV.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterV.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterV.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterV.jobString>
+  
+  <!-- EN: introduce Space Wolves material -->
+  <BEWH_IntroduceMaterialChapterVI.label>植入太空野狼军团材料</BEWH_IntroduceMaterialChapterVI.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterVI.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterVI.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterVI.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterVI.jobString>
+  
+  <!-- EN: introduce Imperial Fists material -->
+  <BEWH_IntroduceMaterialChapterVII.label>植入帝皇之拳军团材料</BEWH_IntroduceMaterialChapterVII.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterVII.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterVII.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterVII.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterVII.jobString>
+  
+  <!-- EN: introduce Night Lords material -->
+  <BEWH_IntroduceMaterialChapterVIII.label>植入午夜领主军团材料</BEWH_IntroduceMaterialChapterVIII.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterVIII.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterVIII.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterVIII.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterVIII.jobString>
+  
+  <!-- EN: introduce Iron Hands material -->
+  <BEWH_IntroduceMaterialChapterX.label>植入钢铁之手军团材料</BEWH_IntroduceMaterialChapterX.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterX.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterX.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterX.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterX.jobString>
+  
+  <!-- EN: introduce World Eaters material -->
+  <BEWH_IntroduceMaterialChapterXII.label>植入吞世者军团材料</BEWH_IntroduceMaterialChapterXII.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterXII.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterXII.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterXII.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterXII.jobString>
+  
+  <!-- EN: introduce Ultramarines material -->
+  <BEWH_IntroduceMaterialChapterXIII.label>植入极限战士军团材料</BEWH_IntroduceMaterialChapterXIII.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterXIII.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterXIII.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterXIII.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterXIII.jobString>
+  
+  <!-- EN: introduce Death Guard material -->
+  <BEWH_IntroduceMaterialChapterXIV.label>植入死亡守卫军团材料</BEWH_IntroduceMaterialChapterXIV.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterXIV.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterXIV.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterXIV.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterXIV.jobString>
+  
+  <!-- EN: introduce Raven Guard material -->
+  <BEWH_IntroduceMaterialChapterXIX.label>植入暗鸦守卫军团材料</BEWH_IntroduceMaterialChapterXIX.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterXIX.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterXIX.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterXIX.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterXIX.jobString>
+  
+  <!-- EN: introduce Thousand Sons material -->
+  <BEWH_IntroduceMaterialChapterXV.label>植入千疮之子军团材料</BEWH_IntroduceMaterialChapterXV.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterXV.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterXV.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterXV.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterXV.jobString>
+  
+  <!-- EN: introduce Sons of Horus material -->
+  <BEWH_IntroduceMaterialChapterXVI.label>植入荷鲁斯之子军团材料</BEWH_IntroduceMaterialChapterXVI.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterXVI.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterXVI.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterXVI.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterXVI.jobString>
+  
+  <!-- EN: introduce Word Bearers material -->
+  <BEWH_IntroduceMaterialChapterXVII.label>植入怀言者军团材料</BEWH_IntroduceMaterialChapterXVII.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterXVII.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterXVII.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterXVII.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterXVII.jobString>
+  
+  <!-- EN: introduce Salamanders material -->
+  <BEWH_IntroduceMaterialChapterXVIII.label>植入火蜥蜴军团材料</BEWH_IntroduceMaterialChapterXVIII.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterXVIII.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterXVIII.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterXVIII.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterXVIII.jobString>
+  
+  <!-- EN: introduce Alpha Legion material -->
+  <BEWH_IntroduceMaterialChapterXX.label>植入阿尔法军团军团材料</BEWH_IntroduceMaterialChapterXX.label>
+  <!-- EN: Implant legion material into a patient. -->
+  <BEWH_IntroduceMaterialChapterXX.description>将军团材料植入到该角色体内。</BEWH_IntroduceMaterialChapterXX.description>
+  <!-- EN: Implanting legion material. -->
+  <BEWH_IntroduceMaterialChapterXX.jobString>植入军团材料中。</BEWH_IntroduceMaterialChapterXX.jobString>
+  
+</LanguageData>

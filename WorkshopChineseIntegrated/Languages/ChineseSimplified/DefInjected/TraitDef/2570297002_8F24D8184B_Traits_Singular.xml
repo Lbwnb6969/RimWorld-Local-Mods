@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: elder -->
+  <VME_Elder.degreeDatas.elder.label>睿智长者</VME_Elder.degreeDatas.elder.label>
+  <!-- EN: Either the body or mind of {PAWN_nameDef} is one of insight and experience. While some find them old fashioned, others will respect their guidance. -->
+  <VME_Elder.degreeDatas.elder.description>{PAWN_nameDef}的身体与头脑都饱经过岁月的历练。虽然有些人觉得{PAWN_pronoun}只是个跟不上时代的老家伙，不过其他人都很重视{PAWN_pronoun}给出的指导意见。</VME_Elder.degreeDatas.elder.description>
+  
+</LanguageData>

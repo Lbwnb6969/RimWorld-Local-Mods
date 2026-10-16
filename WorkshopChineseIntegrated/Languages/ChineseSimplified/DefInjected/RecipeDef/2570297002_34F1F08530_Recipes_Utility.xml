@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make tackle box -->
+  <VME_Make_TackleBox.label>制作钓具盒</VME_Make_TackleBox.label>
+  <!-- EN: Make a tackle box. -->
+  <VME_Make_TackleBox.description>制作一个钓具盒。</VME_Make_TackleBox.description>
+  <!-- EN: Making tackle box. -->
+  <VME_Make_TackleBox.jobString>正在制作钓具盒。</VME_Make_TackleBox.jobString>
+  
+</LanguageData>

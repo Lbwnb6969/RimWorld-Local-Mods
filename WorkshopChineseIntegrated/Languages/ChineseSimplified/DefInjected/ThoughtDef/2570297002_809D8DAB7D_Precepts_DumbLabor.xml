@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: did dumb labor -->
+  <VME_DumbLabor_Disliked.stages.did_dumb_labor.label>做了简易工作</VME_DumbLabor_Disliked.stages.did_dumb_labor.label>
+  <!-- EN: I had to do dumb labor. So exhausting! -->
+  <VME_DumbLabor_Disliked.stages.did_dumb_labor.description>我被迫做了些粗重的体力活。真的好累啊！</VME_DumbLabor_Disliked.stages.did_dumb_labor.description>
+  
+  <!-- EN: did dumb labor -->
+  <VME_DumbLabor_Exalted.stages.did_dumb_labor.label>做了简易工作</VME_DumbLabor_Exalted.stages.did_dumb_labor.label>
+  <!-- EN: I had to do dumb labor. I am an excellent example of the working class. -->
+  <VME_DumbLabor_Exalted.stages.did_dumb_labor.description>劳动最光荣。我就是工人阶级的杰出榜样！</VME_DumbLabor_Exalted.stages.did_dumb_labor.description>
+  
+  <!-- EN: did dumb labor -->
+  <VME_DumbLabor_Horrible.stages.did_dumb_labor.label>做了简易工作</VME_DumbLabor_Horrible.stages.did_dumb_labor.label>
+  <!-- EN: I had to do dumb labor. It’s horrible. I don’t want it. -->
+  <VME_DumbLabor_Horrible.stages.did_dumb_labor.description>我被迫做了些粗重的体力活。这真是太可怕了！</VME_DumbLabor_Horrible.stages.did_dumb_labor.description>
+  
+  <!-- EN: did dumb labor -->
+  <VME_DumbLabor_Liked.stages.did_dumb_labor.label>做了简易工作</VME_DumbLabor_Liked.stages.did_dumb_labor.label>
+  <!-- EN: I had to do dumb labor. Broke a sweat but it was some honest work. -->
+  <VME_DumbLabor_Liked.stages.did_dumb_labor.description>虽然劳动很辛苦，但这一切都是值得的。</VME_DumbLabor_Liked.stages.did_dumb_labor.description>
+  
+</LanguageData>

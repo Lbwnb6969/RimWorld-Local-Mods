@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no fires nearby -->
+  <VME_Fire_Desired.stages.no_fires_nearby.label>附近没有火焰</VME_Fire_Desired.stages.no_fires_nearby.label>
+  <!-- EN: It has been too long since I’ve seen a fire. -->
+  <VME_Fire_Desired.stages.no_fires_nearby.description>我已经很久没看到火焰了。</VME_Fire_Desired.stages.no_fires_nearby.description>
+  <!-- EN: very few fires -->
+  <VME_Fire_Desired.stages.very_few_fires.label>极少的火焰</VME_Fire_Desired.stages.very_few_fires.label>
+  <!-- EN: I miss seeing the open flames. -->
+  <VME_Fire_Desired.stages.very_few_fires.description>我几乎看不到哪里有火焰在燃烧。</VME_Fire_Desired.stages.very_few_fires.description>
+  <!-- EN: small fire -->
+  <VME_Fire_Desired.stages.small_fire.label>少量的火焰</VME_Fire_Desired.stages.small_fire.label>
+  <!-- EN: I recently saw a small fire. -->
+  <VME_Fire_Desired.stages.small_fire.description>我最近看到了一小团火焰。</VME_Fire_Desired.stages.small_fire.description>
+  <!-- EN: saw fire -->
+  <VME_Fire_Desired.stages.saw_fire.label>看到了火焰</VME_Fire_Desired.stages.saw_fire.label>
+  <!-- EN: I recently saw a burning flame. -->
+  <VME_Fire_Desired.stages.saw_fire.description>我最近看到了一团熊熊的火焰。</VME_Fire_Desired.stages.saw_fire.description>
+  <!-- EN: amazing fires -->
+  <VME_Fire_Desired.stages.amazing_fires.label>美妙的火焰</VME_Fire_Desired.stages.amazing_fires.label>
+  <!-- EN: I am surrounded by fire. -->
+  <VME_Fire_Desired.stages.amazing_fires.description>我正被美妙的火焰环绕着！</VME_Fire_Desired.stages.amazing_fires.description>
+  <!-- EN: beautiful fires -->
+  <VME_Fire_Desired.stages.beautiful_fires.label>绚丽的火焰</VME_Fire_Desired.stages.beautiful_fires.label>
+  <!-- EN: I am surrounded by many beautiful flames. This is fine. -->
+  <VME_Fire_Desired.stages.beautiful_fires.description>我正被许多绚丽的火焰环绕着！这真是太棒了！</VME_Fire_Desired.stages.beautiful_fires.description>
+  
+  <!-- EN: no fires nearby -->
+  <VME_Fire_Despised.stages.no_fires_nearby.label>附近没有火焰</VME_Fire_Despised.stages.no_fires_nearby.label>
+  <!-- EN: There are no fires nearby. That's good. -->
+  <VME_Fire_Despised.stages.no_fires_nearby.description>很好，附近没有着火的迹象。</VME_Fire_Despised.stages.no_fires_nearby.description>
+  <!-- EN: very few fires -->
+  <VME_Fire_Despised.stages.very_few_fires.label>极少的火焰</VME_Fire_Despised.stages.very_few_fires.label>
+  <!-- EN: Looking at those fires makes me uneasy. -->
+  <VME_Fire_Despised.stages.very_few_fires.description>看着那些火焰让我有些不安。</VME_Fire_Despised.stages.very_few_fires.description>
+  <!-- EN: small fire -->
+  <VME_Fire_Despised.stages.small_fire.label>少量的火焰</VME_Fire_Despised.stages.small_fire.label>
+  <!-- EN: I recently saw a small fire. I'd rather see it extinguished. -->
+  <VME_Fire_Despised.stages.small_fire.description>我最近看到了一小团火焰。真希望它能赶快被扑灭掉。</VME_Fire_Despised.stages.small_fire.description>
+  <!-- EN: saw fire -->
+  <VME_Fire_Despised.stages.saw_fire.label>看到了火焰</VME_Fire_Despised.stages.saw_fire.label>
+  <!-- EN: I recently saw a burning flame. It makes me very uncomfortable! -->
+  <VME_Fire_Despised.stages.saw_fire.description>我最近看到了一团熊熊的火焰。这让我感觉非常不适！</VME_Fire_Despised.stages.saw_fire.description>
+  <!-- EN: blazing fires -->
+  <VME_Fire_Despised.stages.blazing_fires.label>炽热的火焰</VME_Fire_Despised.stages.blazing_fires.label>
+  <!-- EN: I am surrounded by fire! This is horrible! -->
+  <VME_Fire_Despised.stages.blazing_fires.description>我正被火焰环绕着！这太可怕了！</VME_Fire_Despised.stages.blazing_fires.description>
+  <!-- EN: conflagration -->
+  <VME_Fire_Despised.stages.conflagration.label>可怕的火灾</VME_Fire_Despised.stages.conflagration.label>
+  <!-- EN: AHHHHHH! Everything is on fire! -->
+  <VME_Fire_Despised.stages.conflagration.description>啊啊啊啊啊啊！所有东西都烧起来了！</VME_Fire_Despised.stages.conflagration.description>
+  
+</LanguageData>

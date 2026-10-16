@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: bar maid dress -->
+  <AMT_Apparel_BarMaidDress.label>酒馆侍女裙</AMT_Apparel_BarMaidDress.label>
+  <!-- EN: A dress made for the everday toils. -->
+  <AMT_Apparel_BarMaidDress.description>一件为日常工作准备的工作裙。</AMT_Apparel_BarMaidDress.description>
+  
+  <!-- EN: commonor tunic -->
+  <AMT_Apparel_CommonerTunic.label>简朴丘尼卡</AMT_Apparel_CommonerTunic.label>
+  <!-- EN: A medieval long sleeved tunic, usually girded, and worn by men and women. -->
+  <AMT_Apparel_CommonerTunic.description>中世纪的长袖外衣，通常有腰带，男女均可穿着。</AMT_Apparel_CommonerTunic.description>
+  
+  <!-- EN: fancy tunic -->
+  <AMT_Apparel_FancyTunic.label>华丽丘尼卡</AMT_Apparel_FancyTunic.label>
+  <!-- EN: A fancy medieval long sleeved tunic, usually girded, and worn by men and women.This one has been tailored to the wearers dimensions quite well. -->
+  <AMT_Apparel_FancyTunic.description>一件华丽的中世纪长袖外衣，通常有腰带，男女均可穿着。根据穿著者的尺寸做了适当的修改。</AMT_Apparel_FancyTunic.description>
+  
+  <!-- EN: jerkin -->
+  <AMT_Apparel_Jerkin.label>紧身夹克</AMT_Apparel_Jerkin.label>
+  <!-- EN: A sleeveless long garment made from leather to protect and keep the user warm. -->
+  <AMT_Apparel_Jerkin.description>由皮革制成的无袖紧身长衣，用于保护和保持使用者的温暖。</AMT_Apparel_Jerkin.description>
+  
+  <!-- EN: long doublet -->
+  <AMT_Apparel_LongDoublet.label>长布甲外衣</AMT_Apparel_LongDoublet.label>
+  <!-- EN: A long doublet helpful to protect the wearer from the grit of the outdoors.\n(Medieval Tailor Continued) -->
+  <AMT_Apparel_LongDoublet.description>一件长度覆盖至腿部的布甲，有助于保护穿戴者免受室外的沙尘之苦。</AMT_Apparel_LongDoublet.description>
+  
+  <!-- EN: padded doublet -->
+  <AMT_Apparel_PaddedDoublet.label>布甲背心</AMT_Apparel_PaddedDoublet.label>
+  <!-- EN: A padded doublet stitched from fabrics, both comfortable and pragmatic. The thick fabric is a decent balance between protection and encumbrance.\n(Medieval Tailor Continued) -->
+  <AMT_Apparel_PaddedDoublet.description>一件由织物缝制的加衬背心，既舒适又实用。厚实的面料在保护和负载之间取得了合适的平衡。</AMT_Apparel_PaddedDoublet.description>
+  
+  <!-- EN: patchy shirt -->
+  <AMT_Apparel_PathcyShirt.label>破旧衬衫</AMT_Apparel_PathcyShirt.label>
+  <!-- EN: An patchy shirt.\n(Medieval Tailor Continued) -->
+  <AMT_Apparel_PathcyShirt.description>一件破旧的衬衫，没什么保护力。</AMT_Apparel_PathcyShirt.description>
+  
+  <!-- EN: rags -->
+  <AMT_Apparel_Rags.label>乞丐裤</AMT_Apparel_Rags.label>
+  <!-- EN: Tatterd pieces of fabric or leather. Just enough to cover the wearers legs. -->
+  <AMT_Apparel_Rags.description>用布料或皮革的碎块做成的裤子，勉强能覆盖穿戴者的腿。</AMT_Apparel_Rags.description>
+  
+  <!-- EN: royal hose -->
+  <AMT_Apparel_RoyalHose.label>皇家紧身裤</AMT_Apparel_RoyalHose.label>
+  <!-- EN: A fancy set of hose made for nobles. -->
+  <AMT_Apparel_RoyalHose.description>一套为贵族制作的华贵紧身裤。</AMT_Apparel_RoyalHose.description>
+  
+  <!-- EN: royal tunic -->
+  <AMT_Apparel_RoyalTunic.label>皇家丘尼卡</AMT_Apparel_RoyalTunic.label>
+  <!-- EN: The fanciest medieval long sleeved tunic money can buy. The craftsmanship is very delicate and intricate, this one has been tailored to the wearers dimensions perfectly. -->
+  <AMT_Apparel_RoyalTunic.description>最为华贵的中世纪长袖外衣。工艺非常精细和复杂，这件衣服是根据穿戴者的尺寸完美订制的。</AMT_Apparel_RoyalTunic.description>
+  
+  <!-- EN: short coat -->
+  <AMT_Apparel_ShortCoat.label>短外套</AMT_Apparel_ShortCoat.label>
+  <!-- EN: A tough short coat to stop scrapes and bruises, and to keep one warm in chilly weather. -->
+  <AMT_Apparel_ShortCoat.description>一件坚毅的短外套可以阻止擦伤和擦伤，并在寒冷的天气里保持温暖。</AMT_Apparel_ShortCoat.description>
+  
+  <!-- EN: simple shirt -->
+  <AMT_Apparel_SimpleShirt.label>简易衬衫</AMT_Apparel_SimpleShirt.label>
+  <!-- EN: A simple shirt. -->
+  <AMT_Apparel_SimpleShirt.description>一件简单的衬衫，没什么保护力。</AMT_Apparel_SimpleShirt.description>
+  
+  <!-- EN: sleeveless doublet -->
+  <AMT_Apparel_SleevelessDoublet.label>无袖布甲背心</AMT_Apparel_SleevelessDoublet.label>
+  <!-- EN: A beautiful garment that is suitable for a night out, a duel, or both at the same time. You'll look appropriate either way.\n(Medieval Tailor Continued) -->
+  <AMT_Apparel_SleevelessDoublet.description>一件漂亮的背心，适合在晚上外出、决斗，或两者同时进行……总之，你都会看起来很体面。</AMT_Apparel_SleevelessDoublet.description>
+  
+  <!-- EN: trousers -->
+  <AMT_Apparel_Trousers.label>踝带裤</AMT_Apparel_Trousers.label>
+  <!-- EN: Sturdy and durable trousers made to keep the lower body covered and protected from the elements. -->
+  <AMT_Apparel_Trousers.description>坚固耐用的长裤，使下半身得到保护，免于接触外界环境。</AMT_Apparel_Trousers.description>
+ 
+</LanguageData>

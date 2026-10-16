@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: long toxflu -->
+  <VAEWaste_LongToxflu.label>组织损伤</VAEWaste_LongToxflu.label>
+  <!-- EN: A long-term scar tissue damage to the airways in the lungs. It doesn’t require tending. -->
+  <VAEWaste_LongToxflu.description>污毒流感对肺部造成的永久性损伤。</VAEWaste_LongToxflu.description>
+  
+  <!-- EN: underwater -->
+  <VAEWaste_PestigatorUnderwater.label>潜于水中</VAEWaste_PestigatorUnderwater.label>
+  <!-- EN: This Pestigator is partially submerged, making it swifter and more defended. -->
+  <VAEWaste_PestigatorUnderwater.description>由于潜伏在水中，此单位的移动速度与防护能力得到了提升。</VAEWaste_PestigatorUnderwater.description>
+  
+  <!-- EN: toxflu -->
+  <VAEWaste_Toxflu.label>污毒流感</VAEWaste_Toxflu.label>
+  <!-- EN: Toxflu is a highly contagious and rapidly striking disease, characterized by fever, cough, fatigue, and difficulty breathing. It spreads quickly through contact with infected bodily fluids. Those who contract Toxflu can experience severe respiratory distress and, in severe cases, death. It goes away nearly as quickly as it appears, however anyone who interacted socially with a person suffering from toxflu has a chance of catching it. -->
+  <VAEWaste_Toxflu.description>发作速度快、传染性极强的疾病，患者通常会产生发烧、咳嗽、无力、呼吸困难等症状。污毒流感也能通过体液传播，为了防止交叉感染，请尽量避免让患者与其他人进行社交互动。这种疾病会随着时间流逝慢慢康复，但有可能对肺部造成永久性的损伤。</VAEWaste_Toxflu.description>
+  <!-- EN: recovering -->
+  <VAEWaste_Toxflu.stages.recovering.label>恢复</VAEWaste_Toxflu.stages.recovering.label>
+  <!-- EN: major -->
+  <VAEWaste_Toxflu.stages.major.label>严重</VAEWaste_Toxflu.stages.major.label>
+  <!-- EN: initial -->
+  <VAEWaste_Toxflu.stages.initial.label>轻微</VAEWaste_Toxflu.stages.initial.label>
+  
+</LanguageData>

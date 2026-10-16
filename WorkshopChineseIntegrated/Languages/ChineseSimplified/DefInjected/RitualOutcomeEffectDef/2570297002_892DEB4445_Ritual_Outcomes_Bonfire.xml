@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will receive a recreation boost that last between 4 hours and 3 days that will raise their recreation bar. They'll also get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nThe ritual bonfire will stay lit for at least two quadrums, providing a beauty bonus nearby and counting towards the number of fires around for the Fire: Desired precept. -->
+  <VME_BonfireOutcome.description>参与者将获得 4小时 到 3天 的娱乐值增幅并在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。\n\n大型篝火将持续燃烧一段时间，并为周围提供美观度加成，同时也会对“火焰：渴望”戒律的增益效果生效。</VME_BonfireOutcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_BonfireOutcome.comps.0.label>{PAWN_labelShort}的社交影响</VME_BonfireOutcome.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <VME_BonfireOutcome.comps.0.labelAbstract>演讲者的社交影响</VME_BonfireOutcome.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <VME_BonfireOutcome.comps.1.label>参与者数量</VME_BonfireOutcome.comps.1.label>
+  <!-- EN: Terrible -->
+  <VME_BonfireOutcome.outcomeChances.0.label>糟糕的</VME_BonfireOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Some pathetic little flames drifted around, and they went away too soon (no recreation effect applied). -->
+  <VME_BonfireOutcome.outcomeChances.0.description>{0}非常糟糕！一些微小的火花四处迸射，篝火很快就被烧干净了。\n\n此次仪式没有获得任何娱乐加成。</VME_BonfireOutcome.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <VME_BonfireOutcome.outcomeChances.1.label>枯燥乏味的</VME_BonfireOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. We were expecting a wondrous conflagration, and instead we got an oversized campfire. At least it was kinda entertaining.\n\nRecreation of all participants will be raised for 4 hours. -->
+  <VME_BonfireOutcome.outcomeChances.1.description>{0}枯燥乏味。我们本以为会有一场美妙的火灾，结果却只是一堆大号的营火。不过至少还有点意思。\n\n所有参与者将获得4小时的娱乐值增幅。</VME_BonfireOutcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <VME_BonfireOutcome.outcomeChances.2.label>令人满意的</VME_BonfireOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The flames rose and crackled majestically over the settlement, and it lifted all our spirits considerably.\n\nRecreation of all participants will be raised for 1 day. -->
+  <VME_BonfireOutcome.outcomeChances.2.description>{0}令人满意。熊熊燃烧的烈火使我们每个人的精神都振奋了起来。\n\n所有参与者将获得1天的娱乐值增幅。</VME_BonfireOutcome.outcomeChances.2.description>
+  <!-- EN: Glorious -->
+  <VME_BonfireOutcome.outcomeChances.3.label>充满荣耀的</VME_BonfireOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was glorious! It was super fun and we really connected with each other with the shared experience.\n\nRecreation of all participants will be raised for 3 days. -->
+  <VME_BonfireOutcome.outcomeChances.3.description>{0}充满荣耀！每个人都意犹未尽，我们分享了彼此的经验，并真正地联系在了一起。\n\n所有参与者将获得3天的娱乐值增幅。</VME_BonfireOutcome.outcomeChances.3.description>
+  
+</LanguageData>

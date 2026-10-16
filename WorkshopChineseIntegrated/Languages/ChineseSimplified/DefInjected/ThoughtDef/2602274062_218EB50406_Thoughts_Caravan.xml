@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Outsider -->
+  <TravelCompanions.stages.Outsider.label>外人</TravelCompanions.stages.Outsider.label>
+  <!-- EN: I had no choice but to join them... i'd have died alone, but i'm scared what they might do to me. -->
+  <TravelCompanions.stages.Outsider.description>唉，我别无选择，只能加入他们...我也许会就此孤苦死去，但我更害怕他们会对我做些不好的事！</TravelCompanions.stages.Outsider.description>
+  <!-- EN: Third wheel -->
+  <TravelCompanions.stages.Third_wheel.label>累赘</TravelCompanions.stages.Third_wheel.label>
+  <!-- EN: I don't really know these people, should i stay? -->
+  <TravelCompanions.stages.Third_wheel.description>这里好像没人在乎我的想法和感受，大家也在刻意和我保持距离。留在这里真的是个正确的选择吗？</TravelCompanions.stages.Third_wheel.description>
+  <!-- EN: Familiar companion -->
+  <TravelCompanions.stages.Familiar_companion.label>熟识的同伴</TravelCompanions.stages.Familiar_companion.label>
+  <!-- EN: Most jokes are on me and i get to do all the crappy work, but i seem to start being accepted! -->
+  <TravelCompanions.stages.Familiar_companion.description>虽然他们仍然很喜欢拿我开涮，所有的脏累活也都丢给我一个人干，但大家似乎也渐渐地接受我了！</TravelCompanions.stages.Familiar_companion.description>
+  <!-- EN: Part of the gang -->
+  <TravelCompanions.stages.Part_of_the_gang.label>团体中的一员</TravelCompanions.stages.Part_of_the_gang.label>
+  <!-- EN: My companions start to value my skills and insight, i get to sit at the table! -->
+  <TravelCompanions.stages.Part_of_the_gang.description>同伴们开始认可我的技能与观察力了，我终于能在这个团体中占有一席之地了！</TravelCompanions.stages.Part_of_the_gang.description>
+  <!-- EN: Trusted mate -->
+  <TravelCompanions.stages.Trusted_mate.label>可靠的同伴</TravelCompanions.stages.Trusted_mate.label>
+  <!-- EN: My companions are there when i need them and they can count on me! -->
+  <TravelCompanions.stages.Trusted_mate.description>我和同伴们相互信任，相互依靠！</TravelCompanions.stages.Trusted_mate.description>
+  <!-- EN: True friend -->
+  <TravelCompanions.stages.True_friend.label>挚友</TravelCompanions.stages.True_friend.label>
+  <!-- EN: We have been through alot together and always have each others backs. We would die for each other! -->
+  <TravelCompanions.stages.True_friend.description>我们推心置腹，肝胆相照。我们愿意为彼此慷慨赴死！</TravelCompanions.stages.True_friend.description>
+  
+</LanguageData>

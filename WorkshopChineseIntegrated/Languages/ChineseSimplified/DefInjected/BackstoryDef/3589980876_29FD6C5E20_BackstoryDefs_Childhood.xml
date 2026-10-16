@@ -1,0 +1,676 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] grew up herding goats and sheep in the quiet hills. Long hours alone taught [PAWN_pronoun] patience and calm.\n\n[PAWN_pronoun] prefers the company of animals to the noise of people.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_1.description>[PAWN_nameDef] 在宁静的山间放羊长大。漫长的独处时光教会了[PAWN_pronoun] 耐心与沉稳。[PAWN_pronoun] 偏爱动物的陪伴，胜过人群的喧嚣。</BA_Medieval_Basic_Child_1.description>
+  <!-- EN: Shepherd Child -->
+  <BA_Medieval_Basic_Child_1.title>牧羊孩童</BA_Medieval_Basic_Child_1.title>
+  <!-- EN: Shepherd -->
+  <BA_Medieval_Basic_Child_1.titleShort>牧羊人</BA_Medieval_Basic_Child_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] hauled buckets and barrels day after day. The work built strength, but left little room for thought.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_10.description>[PAWN_nameDef] 日复一日地搬运水桶与木桶。这份工作锻炼了力量，却没留下多少思考的空间。</BA_Medieval_Basic_Child_10.description>
+  <!-- EN: Water Carrier -->
+  <BA_Medieval_Basic_Child_10.title>运水孩童</BA_Medieval_Basic_Child_10.title>
+  <!-- EN: Carrier -->
+  <BA_Medieval_Basic_Child_10.titleShort>搬运工</BA_Medieval_Basic_Child_10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to stalk game and move unseen through forests. [PAWN_pronoun] gained a steady aim and a quiet soul.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_11.description>[PAWN_nameDef] 学会了在森林中追踪猎物、潜行穿梭。[PAWN_pronoun] 练就了沉稳的准头与沉静的品性。</BA_Medieval_Basic_Child_11.description>
+  <!-- EN: Village Hunter -->
+  <BA_Medieval_Basic_Child_11.title>乡村猎人学徒</BA_Medieval_Basic_Child_11.title>
+  <!-- EN: Hunter -->
+  <BA_Medieval_Basic_Child_11.titleShort>猎人</BA_Medieval_Basic_Child_11.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent youth pruning trees and harvesting fruit. [PAWN_pronoun] learned patience and care, but little of the wider world.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_12.description>[PAWN_nameDef] 年少时修剪树木、采摘果实。[PAWN_pronoun] 学会了耐心与细心，却对外面的广阔世界知之甚少。</BA_Medieval_Basic_Child_12.description>
+  <!-- EN: Orchard Child -->
+  <BA_Medieval_Basic_Child_12.title>果园孩童</BA_Medieval_Basic_Child_12.title>
+  <!-- EN: Gardener -->
+  <BA_Medieval_Basic_Child_12.titleShort>园丁</BA_Medieval_Basic_Child_12.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped carve, sew, and shape alongside family craftsmen. [PAWN_pronoun] developed skilled hands and a love of precision.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_13.description>[PAWN_nameDef] 跟着家族工匠学习雕刻、缝纫与塑形。[PAWN_pronoun] 练就了灵巧的双手，也爱上了精准的技艺。</BA_Medieval_Basic_Child_13.description>
+  <!-- EN: Craftsman's Child -->
+  <BA_Medieval_Basic_Child_13.title>工匠之子</BA_Medieval_Basic_Child_13.title>
+  <!-- EN: Apprentice -->
+  <BA_Medieval_Basic_Child_13.titleShort>学徒</BA_Medieval_Basic_Child_13.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a bustling bazaar, surrounded by noise, laughter, and endless negotiation.\n\n[PAWN_pronoun] became quick-witted but impatient.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_14.description>[PAWN_nameDef] 在热闹的集市中长大，被喧嚣、欢笑与无休止的议价声环绕。[PAWN_pronoun] 变得头脑灵活却缺乏耐心。</BA_Medieval_Basic_Child_14.description>
+  <!-- EN: Bazaar Child -->
+  <BA_Medieval_Basic_Child_14.title>集市孩童</BA_Medieval_Basic_Child_14.title>
+  <!-- EN: Trader -->
+  <BA_Medieval_Basic_Child_14.titleShort>商人</BA_Medieval_Basic_Child_14.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked near grinding wheels and rushing water, learning patience through repetition.\n\n[PAWN_pronoun] values order and steady rhythm.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_15.description>[PAWN_nameDef] 在磨轮与流水旁劳作，从重复的工作中学会了耐心。[PAWN_pronoun] 重视秩序与稳定的节奏。</BA_Medieval_Basic_Child_15.description>
+  <!-- EN: Mill Worker's Child -->
+  <BA_Medieval_Basic_Child_15.title>磨坊工人之子</BA_Medieval_Basic_Child_15.title>
+  <!-- EN: Miller -->
+  <BA_Medieval_Basic_Child_15.titleShort>磨坊主</BA_Medieval_Basic_Child_15.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent long days waiting by quiet waters. [PAWN_pronoun] learned stillness and patience, though not ambition.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_16.description>[PAWN_nameDef] 在宁静的水边日复一日地等待。[PAWN_pronoun] 学会了沉静与耐心，却未曾滋生野心。</BA_Medieval_Basic_Child_16.description>
+  <!-- EN: Fisher's Child -->
+  <BA_Medieval_Basic_Child_16.title>渔夫之子</BA_Medieval_Basic_Child_16.title>
+  <!-- EN: Fisher -->
+  <BA_Medieval_Basic_Child_16.titleShort>渔夫</BA_Medieval_Basic_Child_16.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up shaping clay beside the kiln, learning precision and calm. [PAWN_pronoun] dislikes disorder and noise.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_17.description>[PAWN_nameDef] 在窑边捏制黏土长大，学会了精准与沉稳。[PAWN_pronoun] 厌恶混乱与喧嚣。</BA_Medieval_Basic_Child_17.description>
+  <!-- EN: Potter's Apprentice -->
+  <BA_Medieval_Basic_Child_17.title>陶工学徒</BA_Medieval_Basic_Child_17.title>
+  <!-- EN: Potter -->
+  <BA_Medieval_Basic_Child_17.titleShort>陶工</BA_Medieval_Basic_Child_17.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned by watching and trying, hammering scraps into shape with raw determination.\n\n[PAWN_pronoun] values hard work over words.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_18.description>[PAWN_nameDef] 靠观察与尝试学习，凭着纯粹的毅力将金属碎片锻造成型。[PAWN_pronoun] 重实干而非空谈。</BA_Medieval_Basic_Child_18.description>
+  <!-- EN: Self-taught Blacksmith -->
+  <BA_Medieval_Basic_Child_18.title>自学铁匠</BA_Medieval_Basic_Child_18.title>
+  <!-- EN: Smith -->
+  <BA_Medieval_Basic_Child_18.titleShort>铁匠</BA_Medieval_Basic_Child_18.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent early mornings baking bread beside warm ovens. The routine built discipline and patience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_19.description>[PAWN_nameDef] 每日清晨在温暖的烤炉边烤面包。规律的劳作培养了[PAWN_nameDef] 的自律与耐心。</BA_Medieval_Basic_Child_19.description>
+  <!-- EN: Baker's Child -->
+  <BA_Medieval_Basic_Child_19.title>面包师之子</BA_Medieval_Basic_Child_19.title>
+  <!-- EN: Baker -->
+  <BA_Medieval_Basic_Child_19.titleShort>面包师</BA_Medieval_Basic_Child_19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood copying texts for a local scholar. Ink-stained fingers and dim candlelight shaped [PAWN_possessive] early years.\n\n[PAWN_pronoun] learned to think deeply but grew frail from long study.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_2.description>[PAWN_nameDef] 童年时为当地学者抄写文稿。沾满墨水的手指与昏暗的烛光，塑造了[PAWN_possessive] 的早年时光。[PAWN_pronoun] 学会了深入思考，却因长期苦读变得体弱。</BA_Medieval_Basic_Child_2.description>
+  <!-- EN: Apprentice Scribe -->
+  <BA_Medieval_Basic_Child_2.title>抄写员学徒</BA_Medieval_Basic_Child_2.title>
+  <!-- EN: Scribe -->
+  <BA_Medieval_Basic_Child_2.titleShort>抄写员</BA_Medieval_Basic_Child_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up on the road, never calling one place home. [PAWN_pronoun] learned to adapt but never to settle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_20.description>[PAWN_nameDef] 在旅途上长大，从未有过真正的家。[PAWN_pronoun] 学会了适应一切，却始终无法安定下来。</BA_Medieval_Basic_Child_20.description>
+  <!-- EN: Wanderer's Child -->
+  <BA_Medieval_Basic_Child_20.title>流浪者之子</BA_Medieval_Basic_Child_20.title>
+  <!-- EN: Drifter -->
+  <BA_Medieval_Basic_Child_20.titleShort>漂泊者</BA_Medieval_Basic_Child_20.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] loved weaving stories and songs of heroes. [PAWN_pronoun] learned to charm others with words and wit.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_24.description>[PAWN_nameDef] 热爱编织英雄的故事与歌谣。[PAWN_pronoun] 学会了用言辞与机智打动他人。</BA_Medieval_Basic_Child_24.description>
+  <!-- EN: Story Weaver Child -->
+  <BA_Medieval_Basic_Child_24.title>故事编织孩童</BA_Medieval_Basic_Child_24.title>
+  <!-- EN: Weaver -->
+  <BA_Medieval_Basic_Child_24.titleShort>说书人</BA_Medieval_Basic_Child_24.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked from dawn to dusk cleaning stalls and feeding horses. The work was rough, but [PAWN_pronoun] learned endurance and respect for beasts.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_3.description>[PAWN_nameDef] 从黎明到黄昏清扫马厩、喂养马匹。工作虽艰辛，[PAWN_pronoun] 却学会了坚韧，也懂得了尊重牲畜。</BA_Medieval_Basic_Child_3.description>
+  <!-- EN: Stable Hand -->
+  <BA_Medieval_Basic_Child_3.title>马厩杂役</BA_Medieval_Basic_Child_3.title>
+  <!-- EN: Stablehand -->
+  <BA_Medieval_Basic_Child_3.titleShort>马夫</BA_Medieval_Basic_Child_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned the art of archery from a young age, honing precision through countless hours of practice.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_5.description>[PAWN_nameDef] 自幼学习射箭技艺，通过无数小时的练习打磨精准度。</BA_Medieval_Basic_Child_5.description>
+  <!-- EN: Apprentice Archer -->
+  <BA_Medieval_Basic_Child_5.title>弓箭学徒</BA_Medieval_Basic_Child_5.title>
+  <!-- EN: Bowman -->
+  <BA_Medieval_Basic_Child_5.titleShort>弓箭手</BA_Medieval_Basic_Child_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled across dusty roads with caravans, learning to trade and survive on the move.\n\n[PAWN_pronoun] became shrewd but restless.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_6.description>[PAWN_nameDef] 跟随商队在尘土飞扬的道路上穿行，学会了经商与途中求生。[PAWN_pronoun] 变得精明却躁动不安。</BA_Medieval_Basic_Child_6.description>
+  <!-- EN: Caravan Helper -->
+  <BA_Medieval_Basic_Child_6.title>商队帮手</BA_Medieval_Basic_Child_6.title>
+  <!-- EN: Caravan Kid -->
+  <BA_Medieval_Basic_Child_6.titleShort>商队少年</BA_Medieval_Basic_Child_6.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up among anvils and roaring forges, shaping metal before learning to write.\n\n[PAWN_pronoun] is strong and steady-handed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_7.description>[PAWN_nameDef] 在铁砧与轰鸣的熔炉旁长大，学会写字前就已开始锻造金属。[PAWN_pronoun] 体格健壮，双手沉稳有力。</BA_Medieval_Basic_Child_7.description>
+  <!-- EN: Village Blacksmith's Child -->
+  <BA_Medieval_Basic_Child_7.title>乡村铁匠之子</BA_Medieval_Basic_Child_7.title>
+  <!-- EN: Blacksmith -->
+  <BA_Medieval_Basic_Child_7.titleShort>铁匠</BA_Medieval_Basic_Child_7.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to gather herbs and make simple remedies under a village healer.\n\n[PAWN_pronoun] became calm and patient but avoids violence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_8.description>[PAWN_nameDef] 在乡村医者门下学习采集草药、制作简易药剂。[PAWN_pronoun] 变得沉静耐心，却极力回避暴力。</BA_Medieval_Basic_Child_8.description>
+  <!-- EN: Herbalist's Apprentice -->
+  <BA_Medieval_Basic_Child_8.title>草药师学徒</BA_Medieval_Basic_Child_8.title>
+  <!-- EN: Healer -->
+  <BA_Medieval_Basic_Child_8.titleShort>医者</BA_Medieval_Basic_Child_8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood behind market stalls, learning to read faces and haggle for every coin.\n\n[PAWN_pronoun] became confident, but proud.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_9.description>[PAWN_nameDef] 童年在集市摊位后度过，学会了察言观色，为每一枚硬币讨价还价。[PAWN_pronoun] 变得自信，却也骄傲自满。</BA_Medieval_Basic_Child_9.description>
+  <!-- EN: Merchant's Child -->
+  <BA_Medieval_Basic_Child_9.title>商人之子</BA_Medieval_Basic_Child_9.title>
+  <!-- EN: Trader -->
+  <BA_Medieval_Basic_Child_9.titleShort>商人</BA_Medieval_Basic_Child_9.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up among outlaws, watching ambushes and campfires. [PAWN_pronoun] learned loyalty to strength alone.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_BanditsSpawn.description>[PAWN_nameDef] 在亡命之徒中长大，见证伏击与篝火。[PAWN_pronoun] 只向强者效忠。</BA_Medieval_Basic_Child_BanditsSpawn.description>
+  <!-- EN: Bandit's Spawn -->
+  <BA_Medieval_Basic_Child_BanditsSpawn.title>匪徒之子</BA_Medieval_Basic_Child_BanditsSpawn.title>
+  <!-- EN: Bandit -->
+  <BA_Medieval_Basic_Child_BanditsSpawn.titleShort>匪徒</BA_Medieval_Basic_Child_BanditsSpawn.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] begged in markets and temples, learning which words earned pity and which earned stones.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_BeggarChild.description>[PAWN_nameDef] 在集市与神庙乞讨为生，学会了哪些话能换来怜悯，哪些话只会招来石块。</BA_Medieval_Basic_Child_BeggarChild.description>
+  <!-- EN: Beggar's Child -->
+  <BA_Medieval_Basic_Child_BeggarChild.title>乞丐之子</BA_Medieval_Basic_Child_BeggarChild.title>
+  <!-- EN: Beggar -->
+  <BA_Medieval_Basic_Child_BeggarChild.titleShort>乞丐</BA_Medieval_Basic_Child_BeggarChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood tending ropes and bells in a local temple tower. The rhythmic clangs became [PAWN_possessive] world.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_Bellringer.description>[PAWN_nameDef] 童年在当地寺庙的塔楼里照料绳索与铃铛。富有节奏的钟声，构成了[PAWN_possessive] 的整个世界。</BA_Medieval_Basic_Child_Bellringer.description>
+  <!-- EN: Bellringer's Child -->
+  <BA_Medieval_Basic_Child_Bellringer.title>敲钟人之子</BA_Medieval_Basic_Child_Bellringer.title>
+  <!-- EN: Bellringer -->
+  <BA_Medieval_Basic_Child_Bellringer.titleShort>敲钟人</BA_Medieval_Basic_Child_Bellringer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped stoke the forge and carry iron. Strength and precision came with the heat and hammer's rhythm.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_BlacksmithsKin.description>[PAWN_nameDef] 帮忙给熔炉添火、搬运铁器。在高温与铁锤的节奏中，[PAWN_nameDef] 练就了力量与精准。</BA_Medieval_Basic_Child_BlacksmithsKin.description>
+  <!-- EN: Blacksmith's Kin -->
+  <BA_Medieval_Basic_Child_BlacksmithsKin.title>铁匠亲属</BA_Medieval_Basic_Child_BlacksmithsKin.title>
+  <!-- EN: Smith -->
+  <BA_Medieval_Basic_Child_BlacksmithsKin.titleShort>铁匠</BA_Medieval_Basic_Child_BlacksmithsKin.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled with merchants, running messages between wagons and scouting roads. [PAWN_pronoun] learned speed and caution.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_CaravanRunner.description>[PAWN_nameDef] 跟随商人出行，在马车之间传递消息、探查路况。[PAWN_pronoun] 学会了敏捷与谨慎。</BA_Medieval_Basic_Child_CaravanRunner.description>
+  <!-- EN: Caravan Runner -->
+  <BA_Medieval_Basic_Child_CaravanRunner.title>商队信使</BA_Medieval_Basic_Child_CaravanRunner.title>
+  <!-- EN: Runner -->
+  <BA_Medieval_Basic_Child_CaravanRunner.titleShort>信使</BA_Medieval_Basic_Child_CaravanRunner.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] copied history by candlelight, memorizing the deeds of heroes and fools alike. [PAWN_pronoun] learned that memory can be power.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_ChroniclersWard.description>[PAWN_nameDef] 在烛光下抄写历史，铭记英雄与愚者的事迹。[PAWN_pronoun] 明白了记忆亦能成为力量。</BA_Medieval_Basic_Child_ChroniclersWard.description>
+  <!-- EN: Chronicler's Ward -->
+  <BA_Medieval_Basic_Child_ChroniclersWard.title>编年史家受监护人</BA_Medieval_Basic_Child_ChroniclersWard.title>
+  <!-- EN: Chronicler -->
+  <BA_Medieval_Basic_Child_ChroniclersWard.titleShort>编年史家</BA_Medieval_Basic_Child_ChroniclersWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped stir pots and bake bread for the household. [PAWN_pronoun] learned the joy of taste and routine.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_CookHelper.description>[PAWN_nameDef] 帮忙给家里搅拌锅具、烤制面包。[PAWN_pronoun] 体会到了味觉的乐趣与规律生活的意义。</BA_Medieval_Basic_Child_CookHelper.description>
+  <!-- EN: Cook's Helper -->
+  <BA_Medieval_Basic_Child_CookHelper.title>厨师助手</BA_Medieval_Basic_Child_CookHelper.title>
+  <!-- EN: Cook -->
+  <BA_Medieval_Basic_Child_CookHelper.titleShort>厨师</BA_Medieval_Basic_Child_CookHelper.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up working the fields from sunrise to dusk, learning the rhythm of the seasons and the weight of toil.\n\n[PAWN_pronoun] knows hard work but little rest.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_FieldLaborer.description>[PAWN_nameDef] 日出而作、日落而息地在田里劳作长大，熟悉了季节的节奏与劳作的沉重。[PAWN_pronoun] 深谙辛劳，却鲜少休息。</BA_Medieval_Basic_Child_FieldLaborer.description>
+  <!-- EN: Field Laborer's Child -->
+  <BA_Medieval_Basic_Child_FieldLaborer.title>农夫之子</BA_Medieval_Basic_Child_FieldLaborer.title>
+  <!-- EN: Fieldhand -->
+  <BA_Medieval_Basic_Child_FieldLaborer.titleShort>农夫</BA_Medieval_Basic_Child_FieldLaborer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to mend nets and handle boats along quiet shores. The sea taught patience and respect for nature.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_FisherVillageKid.description>[PAWN_nameDef] 在宁静的海岸边学会了修补渔网与驾船。大海教会了[PAWN_nameDef] 耐心与对自然的敬畏。</BA_Medieval_Basic_Child_FisherVillageKid.description>
+  <!-- EN: Fisher Village Kid -->
+  <BA_Medieval_Basic_Child_FisherVillageKid.title>渔村孩童</BA_Medieval_Basic_Child_FisherVillageKid.title>
+  <!-- EN: Fisher -->
+  <BA_Medieval_Basic_Child_FisherVillageKid.titleShort>渔夫</BA_Medieval_Basic_Child_FisherVillageKid.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised by a recluse deep in the woods, far from towns and gossip. [PAWN_pronoun] learned solitude and patience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_ForestHermitsWard.description>[PAWN_nameDef] 由深林中的隐士抚养长大，远离城镇与流言。[PAWN_pronoun] 学会了独处与耐心。</BA_Medieval_Basic_Child_ForestHermitsWard.description>
+  <!-- EN: Hermit's Ward -->
+  <BA_Medieval_Basic_Child_ForestHermitsWard.title>隐士受监护人</BA_Medieval_Basic_Child_ForestHermitsWard.title>
+  <!-- EN: Hermit -->
+  <BA_Medieval_Basic_Child_ForestHermitsWard.titleShort>隐士</BA_Medieval_Basic_Child_ForestHermitsWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up watching drills and sparring matches. [PAWN_pronoun] admired bravery and dreamed of defending others.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_GuardsChild.description>[PAWN_nameDef] 看着操练与格斗比赛长大。[PAWN_pronoun] 崇拜勇气，梦想着守护他人。</BA_Medieval_Basic_Child_GuardsChild.description>
+  <!-- EN: Village Guard's Child -->
+  <BA_Medieval_Basic_Child_GuardsChild.title>乡村守卫之子</BA_Medieval_Basic_Child_GuardsChild.title>
+  <!-- EN: Guard's Kid -->
+  <BA_Medieval_Basic_Child_GuardsChild.titleShort>守卫子弟</BA_Medieval_Basic_Child_GuardsChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent days moving herds between green pastures. [PAWN_pronoun] learned to read the sky and trust the animals' moods.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_HerdersChild.description>[PAWN_nameDef] 整日驱赶牧群在青草地间迁徙。[PAWN_pronoun] 学会了观测天象，也懂得了揣摩动物的情绪。</BA_Medieval_Basic_Child_HerdersChild.description>
+  <!-- EN: Herder's Child -->
+  <BA_Medieval_Basic_Child_HerdersChild.title>牧人之子</BA_Medieval_Basic_Child_HerdersChild.title>
+  <!-- EN: Herder -->
+  <BA_Medieval_Basic_Child_HerdersChild.titleShort>牧人</BA_Medieval_Basic_Child_HerdersChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to track and shoot from [PAWN_possessive] parent, who provided food for the village.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_HuntersHeir.description>[PAWN_nameDef] 从为村庄提供食物的父母那里，学会了追踪与射击。</BA_Medieval_Basic_Child_HuntersHeir.description>
+  <!-- EN: Hunter's Heir -->
+  <BA_Medieval_Basic_Child_HuntersHeir.title>猎人继承者</BA_Medieval_Basic_Child_HuntersHeir.title>
+  <!-- EN: Hunter -->
+  <BA_Medieval_Basic_Child_HuntersHeir.titleShort>猎人</BA_Medieval_Basic_Child_HuntersHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood among dusty scrolls and forgotten lore, learning curiosity and reverence for knowledge.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_LibrariansApprentice.description>[PAWN_nameDef] 童年在尘封的卷轴与被遗忘的学识中度过，培养了好奇心与对知识的敬畏。</BA_Medieval_Basic_Child_LibrariansApprentice.description>
+  <!-- EN: Librarian's Apprentice -->
+  <BA_Medieval_Basic_Child_LibrariansApprentice.title>图书管理员学徒</BA_Medieval_Basic_Child_LibrariansApprentice.title>
+  <!-- EN: Librarian -->
+  <BA_Medieval_Basic_Child_LibrariansApprentice.titleShort>图书管理员</BA_Medieval_Basic_Child_LibrariansApprentice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carried messages through busy towns and dusty roads. Speed and focus kept [PAWN_pronoun] safe.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_Messenger.description>[PAWN_nameDef] 在繁忙的城镇与尘土飞扬的道路上传递消息。速度与专注保障了[PAWN_pronoun] 的安全。</BA_Medieval_Basic_Child_Messenger.description>
+  <!-- EN: Messenger Boy -->
+  <BA_Medieval_Basic_Child_Messenger.title>信使男孩</BA_Medieval_Basic_Child_Messenger.title>
+  <!-- EN: Messenger -->
+  <BA_Medieval_Basic_Child_Messenger.titleShort>信使</BA_Medieval_Basic_Child_Messenger.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew among the whirling dust of the mill, learning the rhythm of work and the art of balance between stone and grain.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_MillersHeir.description>[PAWN_nameDef] 在磨坊纷飞的尘土中长大，学会了工作的节奏，也掌握了石头与谷物间的平衡之道。</BA_Medieval_Basic_Child_MillersHeir.description>
+  <!-- EN: Miller's Child -->
+  <BA_Medieval_Basic_Child_MillersHeir.title>磨坊主之子</BA_Medieval_Basic_Child_MillersHeir.title>
+  <!-- EN: Miller -->
+  <BA_Medieval_Basic_Child_MillersHeir.titleShort>磨坊主</BA_Medieval_Basic_Child_MillersHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up near the dark tunnels of a mine, learning to respect the earth's weight and danger.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_MinersChild.description>[PAWN_nameDef] 在矿井黑暗的巷道附近长大，学会了敬畏大地的重量与潜藏的危险。</BA_Medieval_Basic_Child_MinersChild.description>
+  <!-- EN: Miner's Child -->
+  <BA_Medieval_Basic_Child_MinersChild.title>矿工之子</BA_Medieval_Basic_Child_MinersChild.title>
+  <!-- EN: Miner -->
+  <BA_Medieval_Basic_Child_MinersChild.titleShort>矿工</BA_Medieval_Basic_Child_MinersChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was abandoned at the monastery gates and raised by monks. Books replaced toys; silence replaced warmth.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_MonasteryFoundling.description>[PAWN_nameDef] 被遗弃在修道院门口，由修士们抚养长大。书本取代了玩具，沉默取代了温暖。</BA_Medieval_Basic_Child_MonasteryFoundling.description>
+  <!-- EN: Monastery Foundling -->
+  <BA_Medieval_Basic_Child_MonasteryFoundling.title>修道院弃婴</BA_Medieval_Basic_Child_MonasteryFoundling.title>
+  <!-- EN: Foundling -->
+  <BA_Medieval_Basic_Child_MonasteryFoundling.titleShort>弃婴</BA_Medieval_Basic_Child_MonasteryFoundling.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lost family to war and learned to survive among ruins. Violence became a language [PAWN_pronoun] understood too well.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_OrphanOfWar.description>[PAWN_nameDef] 在战争中失去家人，学会了在废墟中求生。暴力成了[PAWN_pronoun] 太过熟悉的语言。</BA_Medieval_Basic_Child_OrphanOfWar.description>
+  <!-- EN: Orphan of War -->
+  <BA_Medieval_Basic_Child_OrphanOfWar.title>战争孤儿</BA_Medieval_Basic_Child_OrphanOfWar.title>
+  <!-- EN: Orphan -->
+  <BA_Medieval_Basic_Child_OrphanOfWar.titleShort>孤儿</BA_Medieval_Basic_Child_OrphanOfWar.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] followed parents on endless pilgrimages, learning compassion for strangers and peace in hardship.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_PilgrimsChild.description>[PAWN_nameDef] 跟随父母踏上无尽的朝圣之旅，学会了同情陌生人，也懂得了在苦难中寻求平静。</BA_Medieval_Basic_Child_PilgrimsChild.description>
+  <!-- EN: Pilgrim's Child -->
+  <BA_Medieval_Basic_Child_PilgrimsChild.title>朝圣者之子</BA_Medieval_Basic_Child_PilgrimsChild.title>
+  <!-- EN: Pilgrim -->
+  <BA_Medieval_Basic_Child_PilgrimsChild.titleShort>朝圣者</BA_Medieval_Basic_Child_PilgrimsChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] shaped clay with gentle hands, learning patience and rhythm from the spinning wheel.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_PottersApprentice.description>[PAWN_nameDef] 用温柔的双手揉捏黏土，从纺轮中学会了耐心与节奏。</BA_Medieval_Basic_Child_PottersApprentice.description>
+  <!-- EN: Potter's Apprentice -->
+  <BA_Medieval_Basic_Child_PottersApprentice.title>陶工学徒</BA_Medieval_Basic_Child_PottersApprentice.title>
+  <!-- EN: Potter -->
+  <BA_Medieval_Basic_Child_PottersApprentice.titleShort>陶工</BA_Medieval_Basic_Child_PottersApprentice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fled home at a young age, sleeping under stars and stealing food to survive. Independence became [PAWN_possessive] nature.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_Runaway.description>[PAWN_nameDef] 年少时离家出走，露宿星空下，靠偷窃食物求生。独立成了[PAWN_possessive] 的天性。</BA_Medieval_Basic_Child_Runaway.description>
+  <!-- EN: Runaway Child -->
+  <BA_Medieval_Basic_Child_Runaway.title>逃亡孩童</BA_Medieval_Basic_Child_Runaway.title>
+  <!-- EN: Runaway -->
+  <BA_Medieval_Basic_Child_Runaway.titleShort>逃亡者</BA_Medieval_Basic_Child_Runaway.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was taught letters and ink before [PAWN_pronoun] could hold a hammer. Quiet days and dusty tomes shaped [PAWN_possessive] mind.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_ScribesWard.description>[PAWN_nameDef] 还握不稳铁锤时，就已开始学习文字与笔墨。宁静的日子与尘封的书卷，塑造了[PAWN_possessive] 的心智。</BA_Medieval_Basic_Child_ScribesWard.description>
+  <!-- EN: Scribe's Ward -->
+  <BA_Medieval_Basic_Child_ScribesWard.title>抄写员受监护人</BA_Medieval_Basic_Child_ScribesWard.title>
+  <!-- EN: Scribe -->
+  <BA_Medieval_Basic_Child_ScribesWard.titleShort>抄写员</BA_Medieval_Basic_Child_ScribesWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up among the servants of a noble house, learning etiquette, silence, and envy.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_ServantsChild.description>[PAWN_nameDef] 在贵族宅邸的仆人间长大，学会了礼仪、沉默，也滋生了嫉妒。</BA_Medieval_Basic_Child_ServantsChild.description>
+  <!-- EN: Servant's Child -->
+  <BA_Medieval_Basic_Child_ServantsChild.title>仆人之子</BA_Medieval_Basic_Child_ServantsChild.title>
+  <!-- EN: Servant -->
+  <BA_Medieval_Basic_Child_ServantsChild.titleShort>仆人</BA_Medieval_Basic_Child_ServantsChild.titleShort>
+  
+  <!-- EN: Frequent illness kept [PAWN_nameDef] indoors, reading stories or dreaming while others played. [PAWN_pronoun] grew thoughtful but frail.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_Sickly.description>频繁的疾病将[PAWN_nameDef] 困在室内，当其他人玩耍时，[PAWN_nameDef] 只能阅读故事或沉浸在幻想中。[PAWN_pronoun] 变得善于思考，却体弱多病。</BA_Medieval_Basic_Child_Sickly.description>
+  <!-- EN: Sickly Child -->
+  <BA_Medieval_Basic_Child_Sickly.title>体弱孩童</BA_Medieval_Basic_Child_Sickly.title>
+  <!-- EN: Sickly -->
+  <BA_Medieval_Basic_Child_Sickly.titleShort>体弱</BA_Medieval_Basic_Child_Sickly.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] followed an army camp, learning discipline and fear in equal measure. The clash of arms was [PAWN_possessive] cradle song.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_SoldiersWard.description>[PAWN_nameDef] 跟随军营生活，既学会了纪律，也深深体会到恐惧。兵器的碰撞声，成了[PAWN_possessive] 的摇篮曲。</BA_Medieval_Basic_Child_SoldiersWard.description>
+  <!-- EN: Soldier's Ward -->
+  <BA_Medieval_Basic_Child_SoldiersWard.title>士兵受监护人</BA_Medieval_Basic_Child_SoldiersWard.title>
+  <!-- EN: Soldier's Ward -->
+  <BA_Medieval_Basic_Child_SoldiersWard.titleShort>士兵眷属</BA_Medieval_Basic_Child_SoldiersWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served under an older squire, polishing armor and feeding horses. The clang of steel became [PAWN_possessive] lullaby.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_SquiresHelper.description>[PAWN_nameDef] 跟随年长的侍从服役，擦拭铠甲、喂养马匹。钢铁的铿锵声，成了[PAWN_possessive] 的催眠曲。</BA_Medieval_Basic_Child_SquiresHelper.description>
+  <!-- EN: Squire's Helper -->
+  <BA_Medieval_Basic_Child_SquiresHelper.title>侍从助手</BA_Medieval_Basic_Child_SquiresHelper.title>
+  <!-- EN: Helper -->
+  <BA_Medieval_Basic_Child_SquiresHelper.titleShort>助手</BA_Medieval_Basic_Child_SquiresHelper.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up listening to tales of heroes and monsters. [PAWN_pronoun] quickly learned to tell stories of [PAWN_possessive] own.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_StorytellerChild.description>[PAWN_nameDef] 听着英雄与怪兽的故事长大。[PAWN_pronoun] 很快就学会了讲述自己的故事。</BA_Medieval_Basic_Child_StorytellerChild.description>
+  <!-- EN: Storyteller's Child -->
+  <BA_Medieval_Basic_Child_StorytellerChild.title>说书人之子</BA_Medieval_Basic_Child_StorytellerChild.title>
+  <!-- EN: Storyteller -->
+  <BA_Medieval_Basic_Child_StorytellerChild.titleShort>说书人</BA_Medieval_Basic_Child_StorytellerChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived by wit and luck on the streets, picking pockets and dodging guards.\n\n[PAWN_pronoun] learned fast—or didn't eat.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_StreetUrchin.description>[PAWN_nameDef] 靠机智与运气在街头求生，扒窃口袋、躲避守卫。[PAWN_pronoun] 学得飞快——否则就会挨饿。</BA_Medieval_Basic_Child_StreetUrchin.description>
+  <!-- EN: Street Urchin -->
+  <BA_Medieval_Basic_Child_StreetUrchin.title>街头顽童</BA_Medieval_Basic_Child_StreetUrchin.title>
+  <!-- EN: Urchin -->
+  <BA_Medieval_Basic_Child_StreetUrchin.titleShort>顽童</BA_Medieval_Basic_Child_StreetUrchin.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood helping tan hides in the foul-smelling workshop of a tanner. It was unpleasant work, but it built endurance.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_TannerApprentice.description>[PAWN_nameDef] 童年在鞣皮匠气味难闻的作坊里帮忙加工兽皮。工作虽令人不适，却锻炼了[PAWN_nameDef] 的耐力。</BA_Medieval_Basic_Child_TannerApprentice.description>
+  <!-- EN: Tanner's Apprentice -->
+  <BA_Medieval_Basic_Child_TannerApprentice.title>鞣皮匠学徒</BA_Medieval_Basic_Child_TannerApprentice.title>
+  <!-- EN: Tanner -->
+  <BA_Medieval_Basic_Child_TannerApprentice.titleShort>鞣皮匠</BA_Medieval_Basic_Child_TannerApprentice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] swept temple floors and copied prayers by candlelight. The quiet halls taught discipline and reflection.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_TempleAcolyte.description>[PAWN_nameDef] 清扫寺庙地板，在烛光下抄写祷文。宁静的殿堂教会了[PAWN_nameDef] 自律与自省。</BA_Medieval_Basic_Child_TempleAcolyte.description>
+  <!-- EN: Temple Acolyte -->
+  <BA_Medieval_Basic_Child_TempleAcolyte.title>神庙学徒修士</BA_Medieval_Basic_Child_TempleAcolyte.title>
+  <!-- EN: Acolyte -->
+  <BA_Medieval_Basic_Child_TempleAcolyte.titleShort>学徒修士</BA_Medieval_Basic_Child_TempleAcolyte.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised among traveling entertainers. Songs, laughter, and long roads were all [PAWN_pronoun] knew.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_TravelingPerformer.description>[PAWN_nameDef] 在游艺班子中长大。歌曲、欢笑与漫长的旅途，便是[PAWN_pronoun] 所知的一切。</BA_Medieval_Basic_Child_TravelingPerformer.description>
+  <!-- EN: Traveling Performer -->
+  <BA_Medieval_Basic_Child_TravelingPerformer.title>游艺孩童</BA_Medieval_Basic_Child_TravelingPerformer.title>
+  <!-- EN: Performer -->
+  <BA_Medieval_Basic_Child_TravelingPerformer.titleShort>艺人</BA_Medieval_Basic_Child_TravelingPerformer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled with a tinker's caravan, fixing tools and selling trinkets in every village. [PAWN_pronoun] learned invention and trade by doing.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_TravelingTinker.description>[PAWN_nameDef] 跟随补锅匠的商队出行，在每个村庄修理工具、售卖小饰品。[PAWN_pronoun] 在实践中学会了发明与经商。</BA_Medieval_Basic_Child_TravelingTinker.description>
+  <!-- EN: Traveling Tinker -->
+  <BA_Medieval_Basic_Child_TravelingTinker.title>游方补锅匠学徒</BA_Medieval_Basic_Child_TravelingTinker.title>
+  <!-- EN: Tinker -->
+  <BA_Medieval_Basic_Child_TravelingTinker.titleShort>补锅匠</BA_Medieval_Basic_Child_TravelingTinker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born to poverty and served everyone—fetching water, chopping wood, scrubbing floors. Hardship was [PAWN_possessive] teacher.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_VillageDrudge.description>[PAWN_nameDef] 生于贫困，为所有人效劳——挑水、砍柴、擦地板。苦难是[PAWN_possessive] 的导师。</BA_Medieval_Basic_Child_VillageDrudge.description>
+  <!-- EN: Village Drudge -->
+  <BA_Medieval_Basic_Child_VillageDrudge.title>乡村苦役孩童</BA_Medieval_Basic_Child_VillageDrudge.title>
+  <!-- EN: Drudge -->
+  <BA_Medieval_Basic_Child_VillageDrudge.titleShort>苦役</BA_Medieval_Basic_Child_VillageDrudge.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up among herbs and poultices, watching [PAWN_possessive] parent tend the sick and wounded. The scent of dried leaves still brings memories of care and loss.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_VillageHealer.description>[PAWN_nameDef] 在草药与膏药间长大，看着[PAWN_possessive] 的父母照料病患与伤者。干树叶的气息至今仍能勾起[PAWN_nameDef] 关于关怀与失去的回忆。</BA_Medieval_Basic_Child_VillageHealer.description>
+  <!-- EN: Village Healer's Child -->
+  <BA_Medieval_Basic_Child_VillageHealer.title>乡村医者之子</BA_Medieval_Basic_Child_VillageHealer.title>
+  <!-- EN: Healer -->
+  <BA_Medieval_Basic_Child_VillageHealer.titleShort>医者</BA_Medieval_Basic_Child_VillageHealer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised by traveling merchants and mercenaries, learning to adapt and survive anywhere.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_WanderersWard.description>[PAWN_nameDef] 由游商与雇佣兵抚养长大，学会了在任何地方适应与求生。</BA_Medieval_Basic_Child_WanderersWard.description>
+  <!-- EN: Wanderer's Ward -->
+  <BA_Medieval_Basic_Child_WanderersWard.title>流浪者受监护人</BA_Medieval_Basic_Child_WanderersWard.title>
+  <!-- EN: Wanderer -->
+  <BA_Medieval_Basic_Child_WanderersWard.titleShort>流浪者</BA_Medieval_Basic_Child_WanderersWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] guarded the village's most precious resource: water. Every drop taught caution and respect for patience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_WellkeepersChild.description>[PAWN_nameDef] 守护着村庄最宝贵的资源——水。每一滴水都教会了[PAWN_nameDef] 谨慎与对耐心的敬畏。</BA_Medieval_Basic_Child_WellkeepersChild.description>
+  <!-- EN: Well Keeper's Child -->
+  <BA_Medieval_Basic_Child_WellkeepersChild.title>守井人之子</BA_Medieval_Basic_Child_WellkeepersChild.title>
+  <!-- EN: Wellkeeper -->
+  <BA_Medieval_Basic_Child_WellkeepersChild.titleShort>守井人</BA_Medieval_Basic_Child_WellkeepersChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] wandered the woods collecting herbs and berries, learning the secrets of plants and silence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Basic_Child_WoodsGatherer.description>[PAWN_nameDef] 在森林中游荡，采集草药与浆果，探寻植物的奥秘与沉默的真谛。</BA_Medieval_Basic_Child_WoodsGatherer.description>
+  <!-- EN: Woods Gatherer -->
+  <BA_Medieval_Basic_Child_WoodsGatherer.title>森林采集孩童</BA_Medieval_Basic_Child_WoodsGatherer.title>
+  <!-- EN: Gatherer -->
+  <BA_Medieval_Basic_Child_WoodsGatherer.titleShort>采集者</BA_Medieval_Basic_Child_WoodsGatherer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent youth in deep thought, studying words and meaning. [PAWN_pronoun] became wise but distant.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Educated_Child_2.description>[PAWN_nameDef] 年少时深陷思考，钻研文字与意义。[PAWN_pronoun] 变得聪慧，却也疏离。</BA_Medieval_Educated_Child_2.description>
+  <!-- EN: Philosopher's Pupil -->
+  <BA_Medieval_Educated_Child_2.title>哲学家弟子</BA_Medieval_Educated_Child_2.title>
+  <!-- EN: Philosopher -->
+  <BA_Medieval_Educated_Child_2.titleShort>哲学家</BA_Medieval_Educated_Child_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied under quiet monks, learning writing and reflection. [PAWN_pronoun] grew thoughtful, yet solitary.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Educated_Child_3.description>[PAWN_nameDef] 在沉静的修士门下学习，掌握书写与自省。[PAWN_pronoun] 变得善于思考，却性格孤僻。</BA_Medieval_Educated_Child_3.description>
+  <!-- EN: Monastery Student -->
+  <BA_Medieval_Educated_Child_3.title>修道院学生</BA_Medieval_Educated_Child_3.title>
+  <!-- EN: Student -->
+  <BA_Medieval_Educated_Child_3.titleShort>学生</BA_Medieval_Educated_Child_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] taught younger children their first words and numbers. [PAWN_pronoun] gained patience and empathy for others.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Educated_Child_4.description>[PAWN_nameDef] 教年幼的孩子认识第一个字、学会第一个数字。[PAWN_pronoun] 收获了耐心与对他人的同理心。</BA_Medieval_Educated_Child_4.description>
+  <!-- EN: Apprentice Tutor -->
+  <BA_Medieval_Educated_Child_4.title>助教学徒</BA_Medieval_Educated_Child_4.title>
+  <!-- EN: Tutor -->
+  <BA_Medieval_Educated_Child_4.titleShort>教师</BA_Medieval_Educated_Child_4.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised around weapons and armor, learning early to strike and defend.\n\n[PAWN_pronoun] respects strength and despises cowardice.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Military_Child_2.description>[PAWN_nameDef] 在武器与铠甲的环绕中长大，自幼学会攻击与防御。[PAWN_pronoun] 崇尚力量，鄙视怯懦。</BA_Medieval_Military_Child_2.description>
+  <!-- EN: Weapon Apprentice -->
+  <BA_Medieval_Military_Child_2.title>武器学徒</BA_Medieval_Military_Child_2.title>
+  <!-- EN: Blade Learner -->
+  <BA_Medieval_Military_Child_2.titleShort>习刀者</BA_Medieval_Military_Child_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised in a castle barracks, surrounded by armor, drills, and stories of battle. [PAWN_pronoun] learned discipline and courage early on.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Military_Child_3.description>[PAWN_nameDef] 在城堡军营中长大，被铠甲、操练与战斗故事环绕。[PAWN_pronoun] 早早便学会了纪律与勇气。</BA_Medieval_Military_Child_3.description>
+  <!-- EN: Garrison Brat -->
+  <BA_Medieval_Military_Child_3.title>驻军孩童</BA_Medieval_Military_Child_3.title>
+  <!-- EN: Soldier's Kid -->
+  <BA_Medieval_Military_Child_3.titleShort>士兵子弟</BA_Medieval_Military_Child_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] followed [PAWN_possessive] parent on long patrols through forests and hills, learning tracking and survival skills.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Military_Child_4.description>[PAWN_nameDef] 跟随父母在森林与山间长途巡逻，学会了追踪与生存技能。</BA_Medieval_Military_Child_4.description>
+  <!-- EN: Scout's Child -->
+  <BA_Medieval_Military_Child_4.title>斥候之子</BA_Medieval_Military_Child_4.title>
+  <!-- EN: Scout -->
+  <BA_Medieval_Military_Child_4.titleShort>斥候</BA_Medieval_Military_Child_4.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent childhood beside the standard, learning the language of signals and the rituals that bind men to a lord. Where the banner went, loyalty followed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Militarylineage_BannerHeir.description>[PAWN_nameDef] 童年在旗帜旁度过，学会了信号的语言以及维系士兵对领主忠诚的仪式。旗帜所至，忠诚随行。</BA_Medieval_Militarylineage_BannerHeir.description>
+  <!-- EN: Banner Heir -->
+  <BA_Medieval_Militarylineage_BannerHeir.title>旗帜继承人</BA_Medieval_Militarylineage_BannerHeir.title>
+  <!-- EN: Bannerbearer -->
+  <BA_Medieval_Militarylineage_BannerHeir.titleShort>旗手</BA_Medieval_Militarylineage_BannerHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the shadow of banners and war councils. Tutors read maps by candlelight while captains taught formal courtesy and the cadence of orders. [PAWN_pronoun] learned to carry words as skillfully as a blade.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Militarylineage_CommanderHeir.description>[PAWN_nameDef] 在旗帜与军事会议的阴影中长大。导师在烛光下讲解地图，队长传授礼仪规范与发号施令的节奏。[PAWN_pronoun] 学会了运用言辞，其娴熟程度不亚于挥舞利刃。</BA_Medieval_Militarylineage_CommanderHeir.description>
+  <!-- EN: Commander's Heir -->
+  <BA_Medieval_Militarylineage_CommanderHeir.title>指挥官继承人</BA_Medieval_Militarylineage_CommanderHeir.title>
+  <!-- EN: Heir -->
+  <BA_Medieval_Militarylineage_CommanderHeir.titleShort>继承人</BA_Medieval_Militarylineage_CommanderHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was reared in courtly halls where ceremony outweighed blunt force. Manners, reading, and the small cruelties of gossip taught [PAWN_pronoun] how to move among powerful people.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Militarylineage_CourtPage.description>[PAWN_nameDef] 在宫廷殿堂中长大，那里的礼仪仪式远比蛮力重要。礼仪、阅读以及流言中的细微恶意，教会了[PAWN_pronoun] 如何在权贵之间周旋。</BA_Medieval_Militarylineage_CourtPage.description>
+  <!-- EN: Court Page -->
+  <BA_Medieval_Militarylineage_CourtPage.title>宫廷侍童</BA_Medieval_Militarylineage_CourtPage.title>
+  <!-- EN: Page -->
+  <BA_Medieval_Militarylineage_CourtPage.titleShort>侍童</BA_Medieval_Militarylineage_CourtPage.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned cadence and formation from childhood—the shuffle of feet, the swing of practice weapons. Order was taught before play, and duty before dreams.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Militarylineage_DrillmasterHeir.description>[PAWN_nameDef] 自幼学习节奏与队列——脚步的挪动、练习武器的挥舞。先学纪律，再谈玩耍；先明职责，再怀梦想。</BA_Medieval_Militarylineage_DrillmasterHeir.description>
+  <!-- EN: Drillmaster's Heir -->
+  <BA_Medieval_Militarylineage_DrillmasterHeir.title>操练大师继承人</BA_Medieval_Militarylineage_DrillmasterHeir.title>
+  <!-- EN: Drill Heir -->
+  <BA_Medieval_Militarylineage_DrillmasterHeir.titleShort>操练继承人</BA_Medieval_Militarylineage_DrillmasterHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned saddle and spur before other children learned shoes. Nights in stables and mornings in the saddle taught horsemanship and the calm required for charge and counter-charge.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Militarylineage_MountedHeir.description>[PAWN_nameDef] 在其他孩子学会穿鞋前，就已掌握了马鞍与马刺的用法。在马厩度过的夜晚与在马鞍上迎来的清晨，教会了[PAWN_nameDef] 马术，以及冲锋与反击所需的沉稳。</BA_Medieval_Militarylineage_MountedHeir.description>
+  <!-- EN: Mounted Squire -->
+  <BA_Medieval_Militarylineage_MountedHeir.title>骑兵侍从</BA_Medieval_Militarylineage_MountedHeir.title>
+  <!-- EN: Cavalry Squire -->
+  <BA_Medieval_Militarylineage_MountedHeir.titleShort>骑兵侍从</BA_Medieval_Militarylineage_MountedHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was groomed at lance and anvil: polishing armour, holding horses, learning to fall and rise. Discipline and combat drills shaped [PAWN_possessive] limbs and temper.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Militarylineage_NobleSquire.description>[PAWN_nameDef] 钻研长矛与锻造之术：擦拭铠甲、牵扶马匹、学习跌倒与站起。纪律与格斗训练，塑造了[PAWN_possessive] 的体魄与性情。</BA_Medieval_Militarylineage_NobleSquire.description>
+  <!-- EN: Noble Squire -->
+  <BA_Medieval_Militarylineage_NobleSquire.title>贵族侍从</BA_Medieval_Militarylineage_NobleSquire.title>
+  <!-- EN: Squire -->
+  <BA_Medieval_Militarylineage_NobleSquire.titleShort>侍从</BA_Medieval_Militarylineage_NobleSquire.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sat at strategy tables before [PAWN_possessive] peers could tie their boots. Lessons in formation and tactics sharpened [PAWN_possessive] mind as surely as practice sharpened a blade.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Militarylineage_OfficersWard.description>[PAWN_nameDef] 在同龄人还不会系鞋带时，就已坐在战略桌前。队列与战术课程磨砺了[PAWN_possessive] 的心智，如同练习打磨利刃一般。</BA_Medieval_Militarylineage_OfficersWard.description>
+  <!-- EN: Officer's Ward -->
+  <BA_Medieval_Militarylineage_OfficersWard.title>军官受监护人</BA_Medieval_Militarylineage_OfficersWard.title>
+  <!-- EN: Officer's Ward -->
+  <BA_Medieval_Militarylineage_OfficersWard.titleShort>军官眷属</BA_Medieval_Militarylineage_OfficersWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rode with scouts at dawn and learned silent steps, the reading of tracks, and the hush of ambush. Quiet eyes and quick feet became [PAWN_possessive] advantage.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Militarylineage_ScoutHeir.description>[PAWN_nameDef] 黎明时分与斥候一同骑行，学会了悄无声息的步伐、追踪足迹的技巧以及伏击时的静默。敏锐的观察力与迅捷的脚步，成了[PAWN_possessive] 的优势。</BA_Medieval_Militarylineage_ScoutHeir.description>
+  <!-- EN: Scout Commander's Child -->
+  <BA_Medieval_Militarylineage_ScoutHeir.title>斥候指挥官之子</BA_Medieval_Militarylineage_ScoutHeir.title>
+  <!-- EN: Scout -->
+  <BA_Medieval_Militarylineage_ScoutHeir.titleShort>斥候</BA_Medieval_Militarylineage_ScoutHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up among ropes, pulleys, and the smell of pitch. Where others saw ruin, [PAWN_pronoun] learned calculation and the patient art of bringing walls down.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Militarylineage_SiegeHeir.description>[PAWN_nameDef] 在绳索、滑轮与沥青的气味中长大。在他人眼中的废墟之处，[PAWN_pronoun] 学会了计算，以及攻破城墙的耐心技巧。</BA_Medieval_Militarylineage_SiegeHeir.description>
+  <!-- EN: Siege Engineer's Heir -->
+  <BA_Medieval_Militarylineage_SiegeHeir.title>攻城工程师继承人</BA_Medieval_Militarylineage_SiegeHeir.title>
+  <!-- EN: Siege Heir -->
+  <BA_Medieval_Militarylineage_SiegeHeir.titleShort>攻城继承人</BA_Medieval_Militarylineage_SiegeHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born to a noble household, destined from birth to inherit land and responsibility. Tutors drilled [PAWN_objective] in manners and lineage, but not in humility.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_1.description>[PAWN_nameDef] 出生于贵族家庭，自降生便注定继承土地与责任。导师们向[PAWN_objective] 反复灌输礼仪与血统知识，却从未教过谦逊之道。</BA_Medieval_Noble_Child_1.description>
+  <!-- EN: Lord’s Heir -->
+  <BA_Medieval_Noble_Child_1.title>领主继承人</BA_Medieval_Noble_Child_1.title>
+  <!-- EN: Heir -->
+  <BA_Medieval_Noble_Child_1.titleShort>继承人</BA_Medieval_Noble_Child_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was trained to represent noble interests abroad, learning languages, customs, and the art of persuasion before adulthood.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_10.description>[PAWN_nameDef] 接受专门训练，以代表贵族的海外利益。成年前便已习得多国语言、异域习俗与说服的艺术。</BA_Medieval_Noble_Child_10.description>
+  <!-- EN: Young Diplomat -->
+  <BA_Medieval_Noble_Child_10.title>青年外交官</BA_Medieval_Noble_Child_10.title>
+  <!-- EN: Diplomat -->
+  <BA_Medieval_Noble_Child_10.titleShort>外交官</BA_Medieval_Noble_Child_10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up surrounded by luxury and servants, free to dream but rarely challenged. [PAWN_pronoun] learned imagination without labor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_11.description>[PAWN_nameDef] 在奢华与仆人的环绕中长大，可自由畅想却鲜少遭遇挑战。[PAWN_pronoun] 学会了天马行空的想象，却从未体会过劳作的艰辛。</BA_Medieval_Noble_Child_11.description>
+  <!-- EN: Privileged Dreamer -->
+  <BA_Medieval_Noble_Child_11.title>特权梦想家</BA_Medieval_Noble_Child_11.title>
+  <!-- EN: Dreamer -->
+  <BA_Medieval_Noble_Child_11.titleShort>梦想家</BA_Medieval_Noble_Child_11.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent youth learning etiquette beside noblewomen, serving as a confidant and pupil in refinement, music, and social grace.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_2.description>[PAWN_nameDef] 年少时陪伴贵妇学习礼仪，既是她们的知己，也是钻研优雅举止、音乐与社交风度的学徒。</BA_Medieval_Noble_Child_2.description>
+  <!-- EN: Lady’s Companion -->
+  <BA_Medieval_Noble_Child_2.title>贵妇侍女</BA_Medieval_Noble_Child_2.title>
+  <!-- EN: Companion -->
+  <BA_Medieval_Noble_Child_2.titleShort>侍女</BA_Medieval_Noble_Child_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was sent to serve in a lord’s hall, polishing armor and learning courtly customs. The experience taught discipline and ambition in equal measure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_3.description>[PAWN_nameDef] 被送往领主的殿堂服役，擦拭铠甲并学习宫廷礼仪。这段经历既培养了[PAWN_nameDef] 的纪律性，也点燃了[PAWN_nameDef] 的野心。</BA_Medieval_Noble_Child_3.description>
+  <!-- EN: Castle Page -->
+  <BA_Medieval_Noble_Child_3.title>城堡侍童</BA_Medieval_Noble_Child_3.title>
+  <!-- EN: Page -->
+  <BA_Medieval_Noble_Child_3.titleShort>侍童</BA_Medieval_Noble_Child_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied under a private tutor in philosophy, rhetoric, and history. Surrounded by books rather than fields, [PAWN_pronoun] developed a sharp but sheltered mind.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_4.description>[PAWN_nameDef] 在私人导师的指导下学习哲学、修辞与历史。终日被书籍环绕而非田野，[PAWN_pronoun] 练就了敏锐却不谙世事的心智。</BA_Medieval_Noble_Child_4.description>
+  <!-- EN: Noble Scholar -->
+  <BA_Medieval_Noble_Child_4.title>贵族学者</BA_Medieval_Noble_Child_4.title>
+  <!-- EN: Scholar -->
+  <BA_Medieval_Noble_Child_4.titleShort>学者</BA_Medieval_Noble_Child_4.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up amid the intrigues of a royal court, watching adults trade favors and lies with equal grace. [PAWN_pronoun] learned early how to smile through deceit.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_5.description>[PAWN_nameDef] 在王室宫廷的阴谋诡计中长大，目睹大人们优雅地交换利益与谎言。[PAWN_pronoun] 早早便学会了在欺骗中强装笑颜。</BA_Medieval_Noble_Child_5.description>
+  <!-- EN: Young Courtier -->
+  <BA_Medieval_Noble_Child_5.title>青年廷臣</BA_Medieval_Noble_Child_5.title>
+  <!-- EN: Courtier -->
+  <BA_Medieval_Noble_Child_5.titleShort>廷臣</BA_Medieval_Noble_Child_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was trained as a squire to a knight of noble blood, learning chivalry, discipline, and combat under close supervision. Pain and honor were constant companions.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_6.description>[PAWN_nameDef] 成为贵族骑士的侍从，在严密督导下学习骑士精神、纪律与格斗之术。痛苦与荣耀，是[PAWN_nameDef] 形影不离的伙伴。</BA_Medieval_Noble_Child_6.description>
+  <!-- EN: Squire to Nobility -->
+  <BA_Medieval_Noble_Child_6.title>贵族侍从</BA_Medieval_Noble_Child_6.title>
+  <!-- EN: Squire -->
+  <BA_Medieval_Noble_Child_6.titleShort>侍从</BA_Medieval_Noble_Child_6.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised in another noble’s household as a political hostage and guest. [PAWN_pronoun] learned diplomacy, restraint, and the cost of silence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_7.description>[PAWN_nameDef] 作为政治人质与宾客，在另一位贵族的宅邸中长大。[PAWN_pronoun] 学会了外交手腕、自我克制，也懂得了沉默的代价。</BA_Medieval_Noble_Child_7.description>
+  <!-- EN: Castle Ward -->
+  <BA_Medieval_Noble_Child_7.title>城堡受监护人</BA_Medieval_Noble_Child_7.title>
+  <!-- EN: Ward -->
+  <BA_Medieval_Noble_Child_7.titleShort>受监护人</BA_Medieval_Noble_Child_7.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up under a commander’s watchful eye, trained from childhood in swordplay and leadership. Nobility came with expectations of war.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_8.description>[PAWN_nameDef] 在指挥官的严密注视下长大，自幼接受剑术与领导力训练。贵族的身份，注定伴随着参战的期许。</BA_Medieval_Noble_Child_8.description>
+  <!-- EN: Heir of Blades -->
+  <BA_Medieval_Noble_Child_8.title>利刃继承人</BA_Medieval_Noble_Child_8.title>
+  <!-- EN: Blade Heir -->
+  <BA_Medieval_Noble_Child_8.titleShort>利刃继承者</BA_Medieval_Noble_Child_8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in a royal household, attending banquets, ceremonies, and councils. [PAWN_pronoun] absorbed grace and manipulation in equal parts.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Noble_Child_9.description>[PAWN_nameDef] 在王室宅邸中服役，参与宴会、仪式与议事会。[PAWN_pronoun] 既习得优雅仪态，也掌握了操纵人心之术，两者兼而有之。</BA_Medieval_Noble_Child_9.description>
+  <!-- EN: Royal Attendant -->
+  <BA_Medieval_Noble_Child_9.title>王室侍从</BA_Medieval_Noble_Child_9.title>
+  <!-- EN: Attendant -->
+  <BA_Medieval_Noble_Child_9.titleShort>侍从</BA_Medieval_Noble_Child_9.titleShort>
+  
+  <!-- EN: Born under the weight of destiny, [PAWN_nameDef] was raised to rule from the moment [PAWN_pronoun] could walk. Every tutor, guard, and servant drilled duty into [PAWN_objective]. Games were lessons, and laughter was rare.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_1.description>[PAWN_nameDef] 身负天命而生，自会走路起便以统治者的标准被培养。每位导师、守卫与仆人都向[PAWN_objective] 反复灌输职责理念。游戏即是课程，欢笑却寥寥无几。</BA_Medieval_Prince_Child_1.description>
+  <!-- EN: Groomed Heir -->
+  <BA_Medieval_Prince_Child_1.title>精英继承人</BA_Medieval_Prince_Child_1.title>
+  <!-- EN: Heir -->
+  <BA_Medieval_Prince_Child_1.titleShort>继承人</BA_Medieval_Prince_Child_1.titleShort>
+  
+  <!-- EN: The people adored [PAWN_nameDef], the prince who smiled at peasants and listened to servants. [PAWN_pronoun] learned the language of hearts before the art of rule.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_10.description>民众爱戴[PAWN_nameDef] 这位对农夫微笑、倾听仆人心声的王子。[PAWN_pronoun] 先学会了读懂人心的语言，而后才接触统治之术。</BA_Medieval_Prince_Child_10.description>
+  <!-- EN: Beloved Prince -->
+  <BA_Medieval_Prince_Child_10.title>受爱戴的王子</BA_Medieval_Prince_Child_10.title>
+  <!-- EN: Beloved -->
+  <BA_Medieval_Prince_Child_10.titleShort>受爱戴者</BA_Medieval_Prince_Child_10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained daily in the yard with knights and squires, mastering the blade before learning the pen. [PAWN_pronoun] idolized the hero-kings of old, dreaming of valor more than governance.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_2.description>[PAWN_nameDef] 每日在训练场与骑士、侍从一同操练，精通剑术之后才开始学习书写。[PAWN_pronoun] 崇拜古代的英雄国王，向往英勇无畏，而非治国理政。</BA_Medieval_Prince_Child_2.description>
+  <!-- EN: Sword Prince -->
+  <BA_Medieval_Prince_Child_2.title>剑王子</BA_Medieval_Prince_Child_2.title>
+  <!-- EN: Sword Prince -->
+  <BA_Medieval_Prince_Child_2.titleShort>剑王子</BA_Medieval_Prince_Child_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent long nights among scrolls and tomes, far from the training grounds. While others studied war, [PAWN_pronoun] sought to master philosophy, law, and the histories of kings.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_3.description>[PAWN_nameDef] 远离训练场，在卷轴与典籍中度过无数夜晚。当他人钻研战争之术时，[PAWN_pronoun] 却致力于精通哲学、法律与国王史话。</BA_Medieval_Prince_Child_3.description>
+  <!-- EN: Scholar Prince -->
+  <BA_Medieval_Prince_Child_3.title>学者王子</BA_Medieval_Prince_Child_3.title>
+  <!-- EN: Scholar -->
+  <BA_Medieval_Prince_Child_3.titleShort>学者</BA_Medieval_Prince_Child_3.titleShort>
+  
+  <!-- EN: Lavished with gifts and praise, [PAWN_nameDef] was taught that the world existed for [PAWN_objective]. Surrounded by servants and flatterers, [PAWN_pronoun] grew charming but entitled.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_4.description>[PAWN_nameDef] 被赠予无数珍宝与溢美之词，从小便被灌输“世界为[PAWN_objective] 而存在”的理念。在仆人与谄媚者的环绕中，[PAWN_pronoun] 变得魅力十足，却也妄自尊大。</BA_Medieval_Prince_Child_4.description>
+  <!-- EN: Spoiled Prince -->
+  <BA_Medieval_Prince_Child_4.title>娇生惯养的王子</BA_Medieval_Prince_Child_4.title>
+  <!-- EN: Spoiled -->
+  <BA_Medieval_Prince_Child_4.titleShort>娇惯者</BA_Medieval_Prince_Child_4.titleShort>
+  
+  <!-- EN: A courtly feud forced [PAWN_nameDef] into exile as a child, raised far from the throne among humble guardians. [PAWN_pronoun] learned humility and adaptability, but never forgot what was taken.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_5.description>一场宫廷纷争迫使[PAWN_nameDef] 自幼流亡，在身份低微的监护人身边长大，远离王座。[PAWN_pronoun] 学会了谦逊与适应能力，却从未忘记被夺走的一切。</BA_Medieval_Prince_Child_5.description>
+  <!-- EN: Exiled Prince -->
+  <BA_Medieval_Prince_Child_5.title>流亡王子</BA_Medieval_Prince_Child_5.title>
+  <!-- EN: Exiled -->
+  <BA_Medieval_Prince_Child_5.titleShort>流亡者</BA_Medieval_Prince_Child_5.titleShort>
+  
+  <!-- EN: In a court of whispers and plots, [PAWN_nameDef] learned to stay quiet and listen. Words were weapons, and silence was armor. [PAWN_pronoun] trusted no one, even as others bowed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_6.description>在充斥着窃窃私语与阴谋诡计的宫廷中，[PAWN_nameDef] 学会了保持沉默、仔细倾听。言语是武器，而沉默是铠甲。即便众人俯首称臣，[PAWN_pronoun] 也不相信任何人。</BA_Medieval_Prince_Child_6.description>
+  <!-- EN: Silent Prince -->
+  <BA_Medieval_Prince_Child_6.title>沉默王子</BA_Medieval_Prince_Child_6.title>
+  <!-- EN: Silent -->
+  <BA_Medieval_Prince_Child_6.titleShort>沉默者</BA_Medieval_Prince_Child_6.titleShort>
+  
+  <!-- EN: A hunting accident in youth left [PAWN_nameDef] scarred and withdrawn. While others practiced command, [PAWN_pronoun] found solace in reflection and resilience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_7.description>年少时的一场狩猎事故给[PAWN_nameDef] 留下了伤疤，也让[PAWN_nameDef] 变得孤僻寡言。当他人练习指挥之术时，[PAWN_pronoun] 在沉思与坚韧中找到了慰藉。</BA_Medieval_Prince_Child_7.description>
+  <!-- EN: Wounded Prince -->
+  <BA_Medieval_Prince_Child_7.title>受伤的王子</BA_Medieval_Prince_Child_7.title>
+  <!-- EN: Wounded -->
+  <BA_Medieval_Prince_Child_7.titleShort>受伤者</BA_Medieval_Prince_Child_7.titleShort>
+  
+  <!-- EN: Not the favored child, [PAWN_nameDef] lived in the shadow of a stronger heir. Neglected by tutors and courtiers, [PAWN_pronoun] learned to fend for [PAWN_objective] with quiet persistence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_8.description>[PAWN_nameDef] 并非受宠的孩子，活在更具实力的继承人的阴影之下。被导师与廷臣忽视的[PAWN_pronoun]，凭借默默的坚持学会了自力更生。</BA_Medieval_Prince_Child_8.description>
+  <!-- EN: Forgotten Prince -->
+  <BA_Medieval_Prince_Child_8.title>被遗忘的王子</BA_Medieval_Prince_Child_8.title>
+  <!-- EN: Forgotten -->
+  <BA_Medieval_Prince_Child_8.titleShort>被遗忘者</BA_Medieval_Prince_Child_8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] followed the royal army from a young age, witnessing the clash of steel and the cries of victory. The brutality of war became both fascination and fear.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Prince_Child_9.description>[PAWN_nameDef] 自幼便跟随王室军队，目睹钢铁交锋与胜利的欢呼。战争的残酷，既让[PAWN_nameDef] 心生着迷，也让[PAWN_nameDef] 充满恐惧。</BA_Medieval_Prince_Child_9.description>
+  <!-- EN: War Prince -->
+  <BA_Medieval_Prince_Child_9.title>战争王子</BA_Medieval_Prince_Child_9.title>
+  <!-- EN: War Prince -->
+  <BA_Medieval_Prince_Child_9.titleShort>战争王子</BA_Medieval_Prince_Child_9.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to pack, herd, and survive while moving from place to place. [PAWN_pronoun] became resilient and independent.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Traveller_Child_1.description>[PAWN_nameDef] 在辗转迁徙中学会了整理行装、驱赶牧群与野外求生。[PAWN_pronoun] 变得坚韧而独立。</BA_Medieval_Traveller_Child_1.description>
+  <!-- EN: Camp Wanderer -->
+  <BA_Medieval_Traveller_Child_1.title>营地流浪者</BA_Medieval_Traveller_Child_1.title>
+  <!-- EN: Wanderer -->
+  <BA_Medieval_Traveller_Child_1.titleShort>流浪者</BA_Medieval_Traveller_Child_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up traveling river paths with traders. [PAWN_pronoun] learned to read currents, skies, and faces alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Core</color></i> -->
+  <BA_Medieval_Traveller_Child_2.description>[PAWN_nameDef] 与商人一同沿河道穿行长大。[PAWN_pronoun] 学会了解读水流、天象与人心，三者无一不精。</BA_Medieval_Traveller_Child_2.description>
+  <!-- EN: River Nomad -->
+  <BA_Medieval_Traveller_Child_2.title>河道游牧者</BA_Medieval_Traveller_Child_2.title>
+  <!-- EN: Nomad -->
+  <BA_Medieval_Traveller_Child_2.titleShort>游牧者</BA_Medieval_Traveller_Child_2.titleShort>
+  
+</LanguageData>

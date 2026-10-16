@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corporate fine granite tile -->
+  <VME_CorporateFineTileGranite.label>巨企风格地砖（花岗岩）</VME_CorporateFineTileGranite.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileGranite.description>巨企风格的精美地砖，能很好地彰显经济实力与地位。铺设速度较慢。</VME_CorporateFineTileGranite.description>
+  
+  <!-- EN: corporate fine limestone tile -->
+  <VME_CorporateFineTileLimestone.label>巨企风格地砖（石灰岩）</VME_CorporateFineTileLimestone.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileLimestone.description>巨企风格的精美地砖，能很好地彰显经济实力与地位。铺设速度较慢。</VME_CorporateFineTileLimestone.description>
+  
+  <!-- EN: corporate fine marble tile -->
+  <VME_CorporateFineTileMarble.label>巨企风格地砖（大理石）</VME_CorporateFineTileMarble.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileMarble.description>巨企风格的精美地砖，能很好地彰显经济实力与地位。铺设速度较慢。</VME_CorporateFineTileMarble.description>
+  
+  <!-- EN: corporate fine sandstone tile -->
+  <VME_CorporateFineTileSandstone.label>巨企风格地砖（砂岩）</VME_CorporateFineTileSandstone.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileSandstone.description>巨企风格的精美地砖，能很好地彰显经济实力与地位。铺设速度较慢。</VME_CorporateFineTileSandstone.description>
+  
+  <!-- EN: corporate fine slate tile -->
+  <VME_CorporateFineTileSlate.label>巨企风格地砖（板岩）</VME_CorporateFineTileSlate.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileSlate.description>巨企风格的精美地砖，能很好地彰显经济实力与地位。铺设速度较慢。</VME_CorporateFineTileSlate.description>
+  
+  <!-- EN: shintao blue carpet -->
+  <VME_ShintaoCarpetBlue.label>东方风格地毯（蓝色）</VME_ShintaoCarpetBlue.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
+  <VME_ShintaoCarpetBlue.description>东方风格的蓝色地毯。</VME_ShintaoCarpetBlue.description>
+  
+  <!-- EN: shintao cream carpet -->
+  <VME_ShintaoCarpetCream.label>东方风格地毯（奶油色）</VME_ShintaoCarpetCream.label>
+  <!-- EN: Inviting cream-colored carpet. -->
+  <VME_ShintaoCarpetCream.description>东方风格的奶油色地毯。</VME_ShintaoCarpetCream.description>
+  
+  <!-- EN: shintao dark carpet -->
+  <VME_ShintaoCarpetDark.label>东方风格地毯（黑色）</VME_ShintaoCarpetDark.label>
+  <!-- EN: Professional-looking dark gray carpet. -->
+  <VME_ShintaoCarpetDark.description>东方风格的黑色地毯。</VME_ShintaoCarpetDark.description>
+  
+  <!-- EN: fine shintao burgundy carpet -->
+  <VME_ShintaoCarpetFineBurgundy.label>东方风格精致地毯（紫红色）</VME_ShintaoCarpetFineBurgundy.label>
+  <!-- EN: Classic burgundy carpet for that classic rich look. -->
+  <VME_ShintaoCarpetFineBurgundy.description>东方风格的紫红色地毯。</VME_ShintaoCarpetFineBurgundy.description>
+  
+  <!-- EN: fine shintao indigo carpet -->
+  <VME_ShintaoCarpetFineIndigo.label>东方风格精致地毯（靛蓝色）</VME_ShintaoCarpetFineIndigo.label>
+  <!-- EN: Soft and silky indigo carpet, for that extra sense of pomp. -->
+  <VME_ShintaoCarpetFineIndigo.description>东方风格的靛蓝色地毯。</VME_ShintaoCarpetFineIndigo.description>
+  
+  <!-- EN: fine shintao white carpet -->
+  <VME_ShintaoCarpetFineWhite.label>东方风格精致地毯（纯白色）</VME_ShintaoCarpetFineWhite.label>
+  <!-- EN: Sublime white carpet, glimmering with subtle patterns. -->
+  <VME_ShintaoCarpetFineWhite.description>东方风格的纯白色地毯。</VME_ShintaoCarpetFineWhite.description>
+  
+  <!-- EN: shintao green carpet -->
+  <VME_ShintaoCarpetGreen.label>东方风格地毯（绿色）</VME_ShintaoCarpetGreen.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <VME_ShintaoCarpetGreen.description>东方风格的绿色地毯。</VME_ShintaoCarpetGreen.description>
+  
+  <!-- EN: shintao red carpet -->
+  <VME_ShintaoCarpetRed.label>东方风格地毯（红色）</VME_ShintaoCarpetRed.label>
+  <!-- EN: Plush carpet in a lovely rose hue. -->
+  <VME_ShintaoCarpetRed.description>东方风格的红色地毯。</VME_ShintaoCarpetRed.description>
+  
+  <!-- EN: shintao fine granite tile -->
+  <VME_ShintaoFineTileGranite.label>东方风格精致地砖（花岗岩）</VME_ShintaoFineTileGranite.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileGranite.description>东方风格的精美地砖。铺设速度较慢。</VME_ShintaoFineTileGranite.description>
+  
+  <!-- EN: shintao fine limestone tile -->
+  <VME_ShintaoFineTileLimestone.label>东方风格精致地砖（石灰岩）</VME_ShintaoFineTileLimestone.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileLimestone.description>东方风格的精美地砖。铺设速度较慢。</VME_ShintaoFineTileLimestone.description>
+  
+  <!-- EN: shintao fine marble tile -->
+  <VME_ShintaoFineTileMarble.label>东方风格精致地砖（大理石）</VME_ShintaoFineTileMarble.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileMarble.description>东方风格的精美地砖。铺设速度较慢。</VME_ShintaoFineTileMarble.description>
+  
+  <!-- EN: shintao fine sandstone tile -->
+  <VME_ShintaoFineTileSandstone.label>东方风格精致地砖（砂岩）</VME_ShintaoFineTileSandstone.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileSandstone.description>东方风格的精美地砖。铺设速度较慢。</VME_ShintaoFineTileSandstone.description>
+  
+  <!-- EN: shintao fine slate tile -->
+  <VME_ShintaoFineTileSlate.label>东方风格精致地砖（板岩）</VME_ShintaoFineTileSlate.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileSlate.description>东方风格的精美地砖。铺设速度较慢。</VME_ShintaoFineTileSlate.description>
+  
+</LanguageData>

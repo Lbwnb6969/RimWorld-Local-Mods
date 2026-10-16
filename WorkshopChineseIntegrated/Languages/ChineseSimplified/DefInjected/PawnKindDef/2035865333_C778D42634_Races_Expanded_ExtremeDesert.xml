@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: camel -->
+  <AEXP_Camel.label>骆驼</AEXP_Camel.label>
+  <!-- EN: camels -->
+  <AEXP_Camel.labelPlural>骆驼</AEXP_Camel.labelPlural>
+  <!-- EN: camel calf -->
+  <AEXP_Camel.lifeStages.camel_calf.label>骆驼幼崽</AEXP_Camel.lifeStages.camel_calf.label>
+  <!-- EN: camel calves -->
+  <AEXP_Camel.lifeStages.camel_calf.labelPlural>骆驼幼崽</AEXP_Camel.lifeStages.camel_calf.labelPlural>
+  
+  <!-- EN: megascorpion -->
+  <AEXP_Megascorpion.label>巨蝎</AEXP_Megascorpion.label>
+  
+  <!-- EN: rattlesnake -->
+  <AEXP_Rattlesnake.label>响尾蛇</AEXP_Rattlesnake.label>
+  
+</LanguageData>

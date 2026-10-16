@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: need hospital -->
+  <VME_Hospital_Required.stages.need_hospital.label>需要医务室</VME_Hospital_Required.stages.need_hospital.label>
+  <!-- EN: We lack a place to help people and should have a dedicated hospital. -->
+  <VME_Hospital_Required.stages.need_hospital.description>我们应当专门建立一间医务室来帮助人们。</VME_Hospital_Required.stages.need_hospital.description>
+  <!-- EN: lame hospital -->
+  <VME_Hospital_Required.stages.lame_hospital.label>平庸的医务室</VME_Hospital_Required.stages.lame_hospital.label>
+  <!-- EN: We have a hospital, but it needs to be "decent" at least! -->
+  <VME_Hospital_Required.stages.lame_hospital.description>虽然我们有一间医务室，但它的房间观感甚至都达不到“体面”等级！</VME_Hospital_Required.stages.lame_hospital.description>
+  <!-- EN: dirty hospital -->
+  <VME_Hospital_Required.stages.dirty_hospital.label>脏乱的医务室</VME_Hospital_Required.stages.dirty_hospital.label>
+  <!-- EN: We have a hospital, but it is incredibly dirty. We are not animals! -->
+  <VME_Hospital_Required.stages.dirty_hospital.description>虽然我们有一间医务室，但里面却脏乱的惨不忍睹。嘿，我们可不是那些喜欢在泥巴里打滚的牲畜！</VME_Hospital_Required.stages.dirty_hospital.description>
+  <!-- EN: small hospital -->
+  <VME_Hospital_Required.stages.small_hospital.label>狭小的医务室</VME_Hospital_Required.stages.small_hospital.label>
+  <!-- EN: We have a small hospital. -->
+  <VME_Hospital_Required.stages.small_hospital.description>我们有一间狭小的医务室。</VME_Hospital_Required.stages.small_hospital.description>
+  <!-- EN: spacious hospital -->
+  <VME_Hospital_Required.stages.spacious_hospital.label>宽敞的医务室</VME_Hospital_Required.stages.spacious_hospital.label>
+  <!-- EN: We have a very spacious hospital. -->
+  <VME_Hospital_Required.stages.spacious_hospital.description>我们有一间十分宽敞的医务室。</VME_Hospital_Required.stages.spacious_hospital.description>
+  <!-- EN: huge hospital -->
+  <VME_Hospital_Required.stages.huge_hospital.label>很大的医务室</VME_Hospital_Required.stages.huge_hospital.label>
+  <!-- EN: We have a huge, professional hospital! -->
+  <VME_Hospital_Required.stages.huge_hospital.description>我们有一间很大的专业医务室！</VME_Hospital_Required.stages.huge_hospital.description>
+  
+</LanguageData>

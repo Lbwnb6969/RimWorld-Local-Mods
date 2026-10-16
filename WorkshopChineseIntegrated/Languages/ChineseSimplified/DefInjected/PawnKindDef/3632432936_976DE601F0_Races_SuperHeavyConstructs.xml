@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: overseer -->
+  <VR_Construct_Apocriton.label>憎恶毒蜂</VR_Construct_Apocriton.label>
+  
+  <!-- EN: colossus -->
+  <VR_Construct_Colossus.label>巨像</VR_Construct_Colossus.label>
+  
+  <!-- EN: colossus -->
+  <VR_Construct_Colossus_Melee.label>巨像</VR_Construct_Colossus_Melee.label>
+  
+  <!-- EN: scarab queen -->
+  <VR_Construct_ScarabQueen.label>战争女皇</VR_Construct_ScarabQueen.label>
+  <!-- EN: scarab queens -->
+  <VR_Construct_ScarabQueen.labelPlural>战争女皇</VR_Construct_ScarabQueen.labelPlural>
+  
+</LanguageData>

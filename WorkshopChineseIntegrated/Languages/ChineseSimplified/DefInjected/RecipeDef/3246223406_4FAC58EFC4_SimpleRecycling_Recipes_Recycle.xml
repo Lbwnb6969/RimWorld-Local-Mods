@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recycle primitive apparel -->
+  <NeolithicRecycleApparel.label>分解回收低技术衣物</NeolithicRecycleApparel.label>
+  <!-- EN: Recycle primitive apparel into raw materials. -->
+  <NeolithicRecycleApparel.description>把低技术水平的衣物分解，回收原材料。</NeolithicRecycleApparel.description>
+  <!-- EN: Recycling apparel. -->
+  <NeolithicRecycleApparel.jobString>正在分解回收衣物</NeolithicRecycleApparel.jobString>
+  
+  <!-- EN: recycle apparel -->
+  <SimpleRecycleApparel.label>分解回收衣物</SimpleRecycleApparel.label>
+  <!-- EN: Recycle apparel into raw materials. -->
+  <SimpleRecycleApparel.description>把衣物分解，回收原材料。</SimpleRecycleApparel.description>
+  <!-- EN: Recycling apparel. -->
+  <SimpleRecycleApparel.jobString>正在分解回收衣物</SimpleRecycleApparel.jobString>
+  
+</LanguageData>

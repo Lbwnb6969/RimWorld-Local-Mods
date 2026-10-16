@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: double draw bridge up -->
+  <sd_bridges_doubledrawbridge_down.label>升起的双吊桥</sd_bridges_doubledrawbridge_down.label>
+  <!-- EN: double drawbridge down. -->
+  <sd_bridges_doubledrawbridge_down.description>放下的双吊桥</sd_bridges_doubledrawbridge_down.description>
+  
+  <!-- EN: double draw bridge up -->
+  <sd_bridges_doubledrawbridge_up.label>升起的双吊桥</sd_bridges_doubledrawbridge_up.label>
+  <!-- EN: double drawbridge up. -->
+  <sd_bridges_doubledrawbridge_up.description>升起的双吊桥</sd_bridges_doubledrawbridge_up.description>
+  
+  <!-- EN: draw bridge up -->
+  <sd_bridges_drawbridge_down.label>吊桥</sd_bridges_drawbridge_down.label>
+  <!-- EN: drawbridge down. -->
+  <sd_bridges_drawbridge_down.description>放下的吊桥</sd_bridges_drawbridge_down.description>
+  
+  <!-- EN: draw bridge up -->
+  <sd_bridges_drawbridge_up.label>吊桥</sd_bridges_drawbridge_up.label>
+  <!-- EN: drawbridge up. -->
+  <sd_bridges_drawbridge_up.description>升起的吊桥</sd_bridges_drawbridge_up.description>
+  
+</LanguageData>

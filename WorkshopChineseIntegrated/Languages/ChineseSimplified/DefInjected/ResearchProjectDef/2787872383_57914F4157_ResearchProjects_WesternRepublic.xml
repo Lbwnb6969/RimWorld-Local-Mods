@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beacons -->
+  <VFEC_Beacons.label>烽火台</VFEC_Beacons.label>
+  <!-- EN: Build large wooden pyres, that when lit on fire are guaranteed to summon friendly reinforcements. -->
+  <VFEC_Beacons.description>将大量木头堆成堆，点燃时可以召唤友军支援。</VFEC_Beacons.description>
+  <!-- EN:
+    <li>subject->pyres of summoning</li>
+    <li>subject_story->constructed large wooden pyres, a signal to the skies that calls forth allies to the battlefield</li>
+    <li>subject_gerund->binding the fates of allies with flames that guide them to the fray</li>
+  -->
+  <VFEC_Beacons.generalRules.rulesStrings>
+    <li>subject->召唤之火</li>
+    <li>subject_story->点燃巨大的柴堆，将烽火与狼烟送上天空，召唤盟友前来助战</li>
+    <li>subject_gerund->用火光铸造盟友之情</li>
+  </VFEC_Beacons.generalRules.rulesStrings>
+  
+  <!-- EN: centurion armor -->
+  <VFEC_CenturionArmor.label>百夫长军团甲</VFEC_CenturionArmor.label>
+  <!-- EN: Smith suits of centurion armor, excellent for leading men into heroic battles. -->
+  <VFEC_CenturionArmor.description>制造精良的百夫长军团甲，可以激励士兵们努力战斗。</VFEC_CenturionArmor.description>
+  <!-- EN:
+    <li>subject->mantle of command</li>
+    <li>subject_story->smithed suits of centurion armor, imbuing leaders with both protection and a distinguished presence</li>
+    <li>subject_gerund->clothing the ranks of leadership in armor befitting their valor and virtue</li>
+  -->
+  <VFEC_CenturionArmor.generalRules.rulesStrings>
+    <li>subject->领军者的盔甲</li>
+    <li>subject_story->铸造百夫长军团甲，彰显战场上领袖的存在</li>
+    <li>subject_gerund->用非同一般的设计让军队阶级上下有序</li>
+  </VFEC_CenturionArmor.generalRules.rulesStrings>
+  
+  <!-- EN: heavy shield making -->
+  <VFEC_HeavyShieldMaking.label>塔盾制作</VFEC_HeavyShieldMaking.label>
+  <!-- EN: Create heavy scuta shields typically associated with legionnaires. -->
+  <VFEC_HeavyShieldMaking.description>制造厚重的罗马军团塔盾。</VFEC_HeavyShieldMaking.description>
+  <!-- EN:
+    <li>subject->bulwarks of the legion</li>
+    <li>subject_story->reinvigorated the tradition of heavy shield crafting, providing unmatched protection to those who hold the line</li>
+    <li>subject_gerund->forging the scuta shields, the steadfast guardians of the legionnaires</li>
+  -->
+  <VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+    <li>subject->军团的坚墙</li>
+    <li>subject_story->开发出了重型塔盾，为前排的战士提供最优的防御手段</li>
+    <li>subject_gerund->制造军团塔盾，军团士兵最可靠的伙伴</li>
+  </VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+  
+  <!-- EN: legionary armaments -->
+  <VFEC_LegionaryArmaments.label>军团装备</VFEC_LegionaryArmaments.label>
+  <!-- EN: Craft tents, javelins, spathas and daggers, constituting towards the legionary armory. -->
+  <VFEC_LegionaryArmaments.description>制造行军帐，标枪，罗马直剑，双刃匕首这类罗马军团的常备装备。</VFEC_LegionaryArmaments.description>
+  <!-- EN:
+    <li>subject->arsenal of the ancients</li>
+    <li>subject_story->mastered the fabrication of javelins, spathas, and daggers, ensuring the legion's versatility and readiness in battle</li>
+    <li>subject_gerund->equipping the legions with a diverse armory for conquest and defense</li>
+  -->
+  <VFEC_LegionaryArmaments.generalRules.rulesStrings>
+    <li>subject->古典军备</li>
+    <li>subject_story->学习制造标枪，罗马直剑，双刃匕首等装备，增强军团的韧性和战斗力</li>
+    <li>subject_gerund->为军团装备多样化的装备以应对各种任务</li>
+  </VFEC_LegionaryArmaments.generalRules.rulesStrings>
+  
+  <!-- EN: legionary armor -->
+  <VFEC_LegionnaireArmor.label>军团甲</VFEC_LegionnaireArmor.label>
+  <!-- EN: Create heavy armor of legionaries, capable of withstanding a high degree of sharp damage. -->
+  <VFEC_LegionnaireArmor.description>制造军团士兵使用的重型板片甲，可以承受大量锐器伤害。</VFEC_LegionnaireArmor.description>
+  <!-- EN:
+    <li>subject->the iron skin</li>
+    <li>subject_story->crafted heavy armor that turns warriors into indomitable forces on the battlefield, capable of withstanding the fiercest strikes</li>
+    <li>subject_gerund->donning the legionnaires in armor that weaves invincibility with the threads of war</li>
+  -->
+  <VFEC_LegionnaireArmor.generalRules.rulesStrings>
+    <li>subject->铁甲护体</li>
+    <li>subject_story->为战士们铸造独特的重型铠甲，让他们在战场中所向披靡</li>
+    <li>subject_gerund->为军团战士们制造为战而生的军团甲</li>
+  </VFEC_LegionnaireArmor.generalRules.rulesStrings>
+  
+  <!-- EN: scorpion -->
+  <VFEC_Scorpion.label>蝎炮</VFEC_Scorpion.label>
+  <!-- EN: Construct scorpions, a portable field artillery piece which doubles as a semi-automatic heavy crossbow. -->
+  <VFEC_Scorpion.description>制造蝎炮，一种可以随时部署和转移的野战炮塔，类似半自动的重型十字弩。</VFEC_Scorpion.description>
+  <!-- EN:
+    <li>subject->sting of the legion</li>
+    <li>subject_story->engineered scorpions, merging the precision of a crossbow with the destructive force of field artillery</li>
+    <li>subject_gerund->unleashing the lethal precision of ancient war machines upon the modern battlefield</li>
+  -->
+  <VFEC_Scorpion.generalRules.rulesStrings>
+    <li>subject->军团之刺</li>
+    <li>subject_story->设计出蝎炮，将强弩的力量放大到火炮的水平</li>
+    <li>subject_gerund->在这个时代的战场上重现古代大杀器的威力</li>
+  </VFEC_Scorpion.generalRules.rulesStrings>
+  
+</LanguageData>

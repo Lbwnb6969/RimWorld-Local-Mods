@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arbalest bolt -->
+  <VFEM2_Bolt_ArbalestTurret.label>钢弩矢</VFEM2_Bolt_ArbalestTurret.label>
+  
+  <!-- EN: arbalest -->
+  <VFEM2_Gun_ArbalestTurret.label>钢弩</VFEM2_Gun_ArbalestTurret.label>
+  <!-- EN: A stationary heavy arbalest mounted on a low castle wall to grant cover. While reload speed leaves a lot to be desired, arbalest has an extremely long range, provided there is line of sight on the target. -->
+  <VFEM2_Gun_ArbalestTurret.description>一把安装在城堡矮墙上的固定式钢弩。钢弩虽然装填速度很慢，但射程很长。</VFEM2_Gun_ArbalestTurret.description>
+  <!-- EN: arbalest -->
+  <VFEM2_Gun_ArbalestTurret.verbs.Verb_Shoot.label>钢弩</VFEM2_Gun_ArbalestTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: arquebus -->
+  <VFEM2_Gun_ArquebusTurret.label>鸟铳</VFEM2_Gun_ArquebusTurret.label>
+  <!-- EN: A stationary arquebus mounted on a low castle wall to grant cover. Because of the added stability, the wall-mounted arquebus can fire much further than normal. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
+  <VFEM2_Gun_ArquebusTurret.description>一把安装在城堡矮墙上的固定式鸟铳。固定支架使得鸟铳的射击更加平稳，比手持版的射程更长一些。它打出的球形铅弹会在空气摩擦中快速流失动能，而且穿甲性能十分低下。击发火铳时的火药燃烧反应会产生一团影响视线的烟雾。</VFEM2_Gun_ArquebusTurret.description>
+  <!-- EN: arquebus -->
+  <VFEM2_Gun_ArquebusTurret.verbs.Verb_ShootWithSmoke.label>鸟铳</VFEM2_Gun_ArquebusTurret.verbs.Verb_ShootWithSmoke.label>
+  
+  <!-- EN: wall-mounted arbalest -->
+  <VFEM2_Turret_WallMountedArbalest.label>固定式钢弩</VFEM2_Turret_WallMountedArbalest.label>
+  <!-- EN: A stationary heavy arbalest mounted on a low castle wall to grant cover. While reload speed leaves a lot to be desired, arbalest has an extremely long range, provided there is line of sight on the target. -->
+  <VFEM2_Turret_WallMountedArbalest.description>一把安装在城堡矮墙上的固定式钢弩。钢弩虽然装填速度很慢，但射程很长。</VFEM2_Turret_WallMountedArbalest.description>
+  <!-- EN: Arbalest bolts -->
+  <VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelGizmoLabel>钢弩矢</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Arbalest bolts loaded -->
+  <VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelLabel>已装填钢弩矢</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs reloading -->
+  <VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.outOfFuelMessage>无法射击：需要弹药</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: wall-mounted arquebus -->
+  <VFEM2_Turret_WallMountedArquebus.label>固定式鸟铳</VFEM2_Turret_WallMountedArquebus.label>
+  <!-- EN: A stationary arquebus mounted on a low castle wall to grant cover. Because of the added stability, the wall-mounted arquebus can fire much further than normal. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
+  <VFEM2_Turret_WallMountedArquebus.description>一把安装在城堡矮墙上的固定式鸟铳。固定支架使得鸟铳的射击更加平稳，比手持版的射程更长一些。它打出的球形铅弹会在空气摩擦中快速流失动能，而且穿甲性能十分低下。击发火铳时的火药燃烧反应会产生一团影响视线的烟雾。</VFEM2_Turret_WallMountedArquebus.description>
+  <!-- EN: Barrel durability -->
+  <VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelGizmoLabel>炮管耐久度</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelLabel>更换炮管前剩余射击次数</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.outOfFuelMessage>需要新的炮管</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

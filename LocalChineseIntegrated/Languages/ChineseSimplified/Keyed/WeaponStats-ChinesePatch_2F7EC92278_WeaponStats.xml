@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WeaponStats.Ground>地面</WeaponStats.Ground>
+  <WeaponStats.Colonists>殖民者</WeaponStats.Colonists>
+  <WeaponStats.Prisoners>囚犯</WeaponStats.Prisoners>
+  <WeaponStats.Hostiles>敌对者</WeaponStats.Hostiles>
+  <WeaponStats.Friendlies>友方</WeaponStats.Friendlies>
+  <WeaponStats.Corpses>尸体</WeaponStats.Corpses>
+  <WeaponStats.All>全部</WeaponStats.All>
+  <WeaponStats.Craftable>可制造</WeaponStats.Craftable>
+  <WeaponStats.Storage>仓储</WeaponStats.Storage>
+
+  <WeaponStats.Ranged>远程武器</WeaponStats.Ranged>
+  <WeaponStats.Melee>近战武器</WeaponStats.Melee>
+  <WeaponStats.Grenades>投掷武器</WeaponStats.Grenades>
+  <WeaponStats.Apparel>服装</WeaponStats.Apparel>
+  <WeaponStats.Tools>工具</WeaponStats.Tools>
+  <WeaponStats.Turrets>炮塔</WeaponStats.Turrets>
+  <WeaponStats.Other>其他</WeaponStats.Other>
+
+  <WeaponStats.ColName>名称</WeaponStats.ColName>
+  <WeaponStats.ColQuality>品质</WeaponStats.ColQuality>
+  <WeaponStats.ColHP>耐久</WeaponStats.ColHP>
+  <WeaponStats.ColValue>市场价值</WeaponStats.ColValue>
+  <WeaponStats.ColRange>射程</WeaponStats.ColRange>
+  <WeaponStats.ColCooldwn>冷却时间</WeaponStats.ColCooldwn>
+  <WeaponStats.ColWarmup>瞄准时间</WeaponStats.ColWarmup>
+  <WeaponStats.ColSights>瞄准效率</WeaponStats.ColSights>
+  <WeaponStats.ColSpread>散布</WeaponStats.ColSpread>
+  <WeaponStats.ColSway>晃动</WeaponStats.ColSway>
+  <WeaponStats.ColBulk>体积</WeaponStats.ColBulk>
+  <WeaponStats.ColMagazineCapacity>弹匣容量</WeaponStats.ColMagazineCapacity>
+  <WeaponStats.ColDPS>DPS</WeaponStats.ColDPS>
+  <WeaponStats.ColDPSA>考虑命中率的 DPS</WeaponStats.ColDPSA>
+  <WeaponStats.ColDamage>伤害</WeaponStats.ColDamage>
+  <WeaponStats.ColAccuracy>命中率</WeaponStats.ColAccuracy>
+  <WeaponStats.ColType></WeaponStats.ColType>
+  <WeaponStats.ColRadius>爆炸半径</WeaponStats.ColRadius>
+  <WeaponStats.ColDelay>爆炸延迟</WeaponStats.ColDelay>
+  <WeaponStats.ColBlunt>钝击护甲</WeaponStats.ColBlunt>
+  <WeaponStats.ColSharp>锐器护甲</WeaponStats.ColSharp>
+  <WeaponStats.ColHeat>热能护甲</WeaponStats.ColHeat>
+  <WeaponStats.ColICold>低温隔热</WeaponStats.ColICold>
+  <WeaponStats.ColIHeat>高温隔热</WeaponStats.ColIHeat>
+  <WeaponStats.ColArmorPenetration>护甲穿透</WeaponStats.ColArmorPenetration>
+  <WeaponStats.ColCounterParry>反击招架</WeaponStats.ColCounterParry>
+
+  <WeaponStats.AccRbName.All>综合</WeaponStats.AccRbName.All>
+  <WeaponStats.AccRbName.Touch>贴身</WeaponStats.AccRbName.Touch>
+  <WeaponStats.AccRbName.Short>近距离</WeaponStats.AccRbName.Short>
+  <WeaponStats.AccRbName.Medium>中距离</WeaponStats.AccRbName.Medium>
+  <WeaponStats.AccRbName.Long>远距离</WeaponStats.AccRbName.Long>
+</LanguageData>

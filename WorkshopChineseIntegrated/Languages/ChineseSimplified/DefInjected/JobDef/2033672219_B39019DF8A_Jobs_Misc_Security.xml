@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manning TargetA. -->
+  <VFES_ManSecondary.reportString>操作TargetA。</VFES_ManSecondary.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <VFES_RearmTrap.reportString>重新装备TargetA。</VFES_RearmTrap.reportString>
+  
+</LanguageData>

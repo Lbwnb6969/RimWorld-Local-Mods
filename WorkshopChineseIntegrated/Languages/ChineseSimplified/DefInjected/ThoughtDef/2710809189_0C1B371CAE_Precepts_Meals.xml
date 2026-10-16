@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate delightful meal -->
+  <AM_Meals_QualityDesired_AteLavishMeal.stages.ate_delightful_meal.label>吃了相当美味的食物</AM_Meals_QualityDesired_AteLavishMeal.stages.ate_delightful_meal.label>
+  <!-- EN: That meal was a masterpiece—a symphony of flavors and textures. For a moment, all felt right with the world. -->
+  <AM_Meals_QualityDesired_AteLavishMeal.stages.ate_delightful_meal.description>那些食物简直就是杰作——好似由风味和口感织构成的交响乐般。有那么一小会儿，我感觉世间的一切都美妙无比。</AM_Meals_QualityDesired_AteLavishMeal.stages.ate_delightful_meal.description>
+  
+  <!-- EN: ate raw food -->
+  <AM_Meals_QualityDesired_AteRawFood.stages.ate_raw_food.label>吃了生食</AM_Meals_QualityDesired_AteRawFood.stages.ate_raw_food.label>
+  <!-- EN: I was forced to eat raw food. It’s an utter abomination—filthy, revolting, and beneath any sense of decency. We’re not beasts scavenging in the dirt! -->
+  <AM_Meals_QualityDesired_AteRawFood.stages.ate_raw_food.description>我不得不吃下了生的食物。这些令人无比作呕的垃圾是如此污秽和恶心，根本没法让我们保持体面。我们可不是刨土觅食的野兽！</AM_Meals_QualityDesired_AteRawFood.stages.ate_raw_food.description>
+  
+  <!-- EN: ate simple meal -->
+  <AM_Meals_QualityDesired_AteSimpleMeal.stages.ate_simple_meal.label>吃了简单的食物</AM_Meals_QualityDesired_AteSimpleMeal.stages.ate_simple_meal.label>
+  <!-- EN: Really? Was that the best we can do? What a bland, simple meal. -->
+  <AM_Meals_QualityDesired_AteSimpleMeal.stages.ate_simple_meal.description>开玩笑吧？这就是我们所能端出来的最好的食物？它的味道如此寡淡，真是太简陋了。</AM_Meals_QualityDesired_AteSimpleMeal.stages.ate_simple_meal.description>
+  
+</LanguageData>

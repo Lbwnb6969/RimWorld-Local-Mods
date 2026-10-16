@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heater shield -->
+  <TA_TA_HeaterShield.label>扇形盾</TA_TA_HeaterShield.label>
+  <!-- EN: Simple shield that can block simple projectiles and hits with melee weapons. -->
+  <TA_TA_HeaterShield.description>能阻挡简单投射物和近战武器攻击的基础盾牌。</TA_TA_HeaterShield.description>
+  
+</LanguageData>

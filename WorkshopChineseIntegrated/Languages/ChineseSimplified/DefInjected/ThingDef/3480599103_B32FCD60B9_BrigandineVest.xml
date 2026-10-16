@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brigandine vest -->
+  <TA_BrigandineVest.label>布面甲背心</TA_BrigandineVest.label>
+  <!-- EN: A vest with small overlapping armor plates riveted on it's inside, a more ergonomic successor of the coat of plates -->
+  <TA_BrigandineVest.description>内部铆接有小块重叠装甲板的背心，是板甲衣的更符合人体工学的改进版。</TA_BrigandineVest.description>
+  
+</LanguageData>

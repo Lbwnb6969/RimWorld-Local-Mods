@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: in a watery biome -->
+  <AM_Water_Desired.stages.in_a_watery_biome.label>身处水源充足的生态群落中</AM_Water_Desired.stages.in_a_watery_biome.label>
+  <!-- EN: Being near water fills me with peace and purpose. Its presence is a gift we must honor. -->
+  <AM_Water_Desired.stages.in_a_watery_biome.description>靠近水源能让我感到平静，并坚定自己心中的目标。它的存在是我们必须敬重的恩惠。</AM_Water_Desired.stages.in_a_watery_biome.description>
+  <!-- EN: in a non-watery biome -->
+  <AM_Water_Desired.stages.in_a_nonwatery_biome.label>身处水源不足的生态群落中</AM_Water_Desired.stages.in_a_nonwatery_biome.label>
+  <!-- EN: The absence of water weighs on my soul. This land feels barren and lifeless. -->
+  <AM_Water_Desired.stages.in_a_nonwatery_biome.description>远离水源让我的灵魂变得十分沉重。这片贫瘠的土地实在是缺乏生机。</AM_Water_Desired.stages.in_a_nonwatery_biome.description>
+  
+</LanguageData>

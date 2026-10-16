@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construct a nest -->
+  <VME_ConstructANest.label>虫巢构建</VME_ConstructANest.label>
+  <!-- EN: Constructs an insectoid nest that produces insect jelly. A sucessful insectoid hymn ritual must be conducted to reduce the cooldown of this ability. -->
+  <VME_ConstructANest.description>构建一个能产出虫胶的人工虫巢。成功的虫族礼赞仪式能够重置此技能的冷却时间。</VME_ConstructANest.description>
+  
+  <!-- EN: tame insectoid -->
+  <VME_TameInsectoid.label>虫族驯服</VME_TameInsectoid.label>
+  <!-- EN: Targets an insectoid creature and tames it instantly. -->
+  <VME_TameInsectoid.description>立即驯服所选定的虫类生物。</VME_TameInsectoid.description>
+  
+</LanguageData>

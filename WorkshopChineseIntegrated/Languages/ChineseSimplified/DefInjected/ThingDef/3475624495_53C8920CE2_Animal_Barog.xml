@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barogoth -->
+  <DA_Barog.label>巴罗格斯</DA_Barog.label>
+  <!-- EN: A large herbivorous amphibian that thrives in humid environments. Barogoth are often found near swamps and wetlands, where they will mate and lay eggs for the great majority of their lives. Quite docile when tamed, they are regularly used as pack animals.\n\nBarogoth secrete a thick oily liquid that can be collected and used as a medicinal ointment. While applied on the body, it increase one's recovery against diseases and physical traumas. -->
+  <DA_Barog.description>一种在潮湿环境繁育的大型两栖草食动物。人们经常在沼泽和湿地附近看到巴罗格斯，它们大部分时间于此交配产卵。它们被驯服后非常温顺，经常被用作驮畜。\n\n巴罗格斯分泌一种粘稠的油状液体，可以收集起来用作药膏。当涂抹在身体上时，它会增加一个人对疾病和身体创伤的恢复。</DA_Barog.description>
+  <!-- EN: head -->
+  <DA_Barog.tools.head.label>头</DA_Barog.tools.head.label>
+  <!-- EN: left claw -->
+  <DA_Barog.tools.left_claw.label>左爪</DA_Barog.tools.left_claw.label>
+  <!-- EN: claw -->
+  <DA_Barog.tools.left_claw.labelNoLocation>爪</DA_Barog.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <DA_Barog.tools.right_claw.label>右爪</DA_Barog.tools.right_claw.label>
+  <!-- EN: claw -->
+  <DA_Barog.tools.right_claw.labelNoLocation>爪</DA_Barog.tools.right_claw.labelNoLocation>
+  
+  <!-- EN: barogoth oil -->
+  <DA_BarogOil.label>巴罗格斯油</DA_BarogOil.label>
+  <!-- EN: The potent oil extracted from a barogoth, it is often applied on the body to help the body recover from various diseases and traumas. -->
+  <DA_BarogOil.description>从巴罗格斯提取的强效油脂，通常外用以帮助身体从各种疾病和创伤中恢复。</DA_BarogOil.description>
+  <!-- EN: Apply {0} -->
+  <DA_BarogOil.ingestible.ingestCommandString>涂敷{0}</DA_BarogOil.ingestible.ingestCommandString>
+  <!-- EN: Applying {0}. -->
+  <DA_BarogOil.ingestible.ingestReportString>涂敷{0}</DA_BarogOil.ingestible.ingestReportString>
+  
+  <!-- EN: barogoth egg (fert.) -->
+  <EggBarogFertilized.label>巴罗格斯卵（已受精）</EggBarogFertilized.label>
+  <!-- EN: A fertilized barogoth egg. If all goes well, it should hatch into a barogoth newt. It can be eaten raw, but it's much better cooked. -->
+  <EggBarogFertilized.description>已受精的巴罗格斯卵。如果一切顺利，应该会孵化出小巴罗格斯。能生食，但最好煮熟了吃。</EggBarogFertilized.description>
+  
+  <!-- EN: barogoth egg (unfert.) -->
+  <EggBarogUnfertilized.label>巴罗格斯卵（未受精）</EggBarogUnfertilized.label>
+  <!-- EN: The unfertilized egg of a barogoth. It can be eaten raw, but it's much, much better cooked. -->
+  <EggBarogUnfertilized.description>已受精的巴罗格斯卵。能生食，但最好煮熟了吃。</EggBarogUnfertilized.description>
+  
+</LanguageData>

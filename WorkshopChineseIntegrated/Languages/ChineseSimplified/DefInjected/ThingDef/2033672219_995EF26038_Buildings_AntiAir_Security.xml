@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: point defense gun -->
+  <VFES_Gun_PointDefense.label>点防御炮塔</VFES_Gun_PointDefense.label>
+  <!-- EN: A rapid-fire gun for point-defense applications. -->
+  <VFES_Gun_PointDefense.description>点防御速射炮塔。</VFES_Gun_PointDefense.description>
+  <!-- EN: point defense gun -->
+  <VFES_Gun_PointDefense.verbs.Verb_Shoot.label>点防御炮塔</VFES_Gun_PointDefense.verbs.Verb_Shoot.label>
+  
+  <!-- EN: anti-air turret -->
+  <VFES_Turret_AntiAir.label>防空炮塔</VFES_Turret_AntiAir.label>
+  <!-- EN: A specialized defensive turret that intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target's velocity. Requires steel to refurbish its barrels after heavy use. -->
+  <VFES_Turret_AntiAir.description>一种专为防空而设计的点防御速射炮塔。可在其保护范围内拦截爆炸投射物和来袭的运输舱，但无法攻击地面单位。拦截成功率与目标速度成正比。长期使用后需要大量的钢铁维护炮管。</VFES_Turret_AntiAir.description>
+  <!-- EN: Ammunition -->
+  <VFES_Turret_AntiAir.comps.CompRefuelable.fuelGizmoLabel>弹药</VFES_Turret_AntiAir.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Ammunition -->
+  <VFES_Turret_AntiAir.comps.CompRefuelable.fuelLabel>弹药</VFES_Turret_AntiAir.comps.CompRefuelable.fuelLabel>
+  
+</LanguageData>

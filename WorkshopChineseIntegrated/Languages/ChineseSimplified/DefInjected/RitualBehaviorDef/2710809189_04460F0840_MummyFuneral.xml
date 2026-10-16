@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_MummificationBehavior.roles.0.label>演讲者</AM_MummificationBehavior.roles.0.label>
+  <!-- EN: Corpse -->
+  <AM_MummificationBehavior.roles.1.label>尸体</AM_MummificationBehavior.roles.1.label>
+  <!-- EN: crafter -->
+  <AM_MummificationBehavior.roles.2.label>木乃伊制作者</AM_MummificationBehavior.roles.2.label>
+  <!-- EN: Spectators must be alive. -->
+  <AM_MummificationBehavior.spectatorFilter.description>观众必须为活着的殖民者。</AM_MummificationBehavior.spectatorFilter.description>
+  <!-- EN: Selected stuff is not reachable -->
+  <AM_MummificationBehavior.stages.0.failTriggers.0.desc>无法抵达所需材料的位置。</AM_MummificationBehavior.stages.0.failTriggers.0.desc>
+  <!-- EN: {0}: The speech is over, and the embalming is beginning. -->
+  <AM_MummificationBehavior.stages.1.postAction.text>{0}: 演讲结束了，木乃伊制作开始了。</AM_MummificationBehavior.stages.1.postAction.text>
+  
+</LanguageData>

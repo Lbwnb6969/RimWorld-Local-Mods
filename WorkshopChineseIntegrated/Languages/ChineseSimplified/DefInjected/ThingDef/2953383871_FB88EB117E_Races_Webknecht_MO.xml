@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Webknecht.label>蛛魔</DankPyon_Webknecht.label>
+  <DankPyon_Webknecht.description>蛛魔是一种大型蛛形纲动物，在整个《战场兄弟》世界的森林暗处都有相当大的群落。牠们在树林间结网，捕食所有体型介于鸟到鹿之间的生物。</DankPyon_Webknecht.description>
+  <DankPyon_Webknecht.verbs.0.label>蛛网射击</DankPyon_Webknecht.verbs.0.label>
+  <DankPyon_Webknecht.tools.0.label>左前爪</DankPyon_Webknecht.tools.0.label>
+  <DankPyon_Webknecht.tools.1.label>右前爪</DankPyon_Webknecht.tools.1.label>
+  <DankPyon_Webknecht.tools.2.label>头</DankPyon_Webknecht.tools.2.label>
+  <DankPyon_Webknecht.tools.3.label>毒牙</DankPyon_Webknecht.tools.3.label>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ptarmigan egg (fert.) -->
+  <EggPtarmiganFertilized.label>雷鸟蛋（受精）</EggPtarmiganFertilized.label>
+  <!-- EN: A fertilized ptarmigan egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
+  <EggPtarmiganFertilized.description>枚受精的雷鸟蛋。如果一切顺利应该可以孵化出雏鸟。可以生吃，但是最好烹饪后食用。</EggPtarmiganFertilized.description>
+  
+  <!-- EN: ptarmigan egg (unfert.) -->
+  <EggPtarmiganUnfertilized.label>雷鸟蛋（未受精）</EggPtarmiganUnfertilized.label>
+  <!-- EN: An unfertilized ptarmigan egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggPtarmiganUnfertilized.description>未受精的雷鸟蛋。可以生吃，但是最好烹饪后食用。</EggPtarmiganUnfertilized.description>
+  
+</LanguageData>

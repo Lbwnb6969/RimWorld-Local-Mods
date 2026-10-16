@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: atheist -->
+  <AM_Atheist.label>无神文化</AM_Atheist.label>
+  
+  <!-- EN: corsair -->
+  <AM_Corsair.label>海盗文化</AM_Corsair.label>
+  
+  <!-- EN: jain -->
+  <AM_Jain.label>耆那文化</AM_Jain.label>
+  
+  <!-- EN: jewish -->
+  <AM_Jewish.label>犹太文化</AM_Jewish.label>
+  
+  <!-- EN: kemetic -->
+  <AM_Kemetic.label>埃及文化</AM_Kemetic.label>
+  
+  <!-- EN: neolithic -->
+  <AM_Neolithic.label>石器文化</AM_Neolithic.label>
+  
+  <!-- EN: scavenger -->
+  <AM_Scavenger.label>拾荒文化</AM_Scavenger.label>
+  
+  <!-- EN: sikh -->
+  <AM_Sikh.label>锡克文化</AM_Sikh.label>
+  
+  <!-- EN: steampunk -->
+  <AM_SteampunkRevival.label>蒸汽朋克文化</AM_SteampunkRevival.label>
+  
+</LanguageData>

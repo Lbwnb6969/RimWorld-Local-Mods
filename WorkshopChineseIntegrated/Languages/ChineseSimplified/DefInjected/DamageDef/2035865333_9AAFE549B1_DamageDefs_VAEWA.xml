@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid spit -->
+  <VAEWaste_AcidBolt.label>酸液喷吐</VAEWaste_AcidBolt.label>
+  <!-- EN: {0} has been corroded to death. -->
+  <VAEWaste_AcidBolt.deathMessage>{0}被酸液腐蚀致死。</VAEWaste_AcidBolt.deathMessage>
+  
+  <!-- EN: toxflu bite -->
+  <VAEWaste_FluBite.label>污毒流感撕咬</VAEWaste_FluBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <VAEWaste_FluBite.deathMessage>{0}被咬死了。</VAEWaste_FluBite.deathMessage>
+  
+  <!-- EN: toxflu claws -->
+  <VAEWaste_FluClaws.label>污毒流感爪</VAEWaste_FluClaws.label>
+  <!-- EN: {0} has been cut to death. -->
+  <VAEWaste_FluClaws.deathMessage>{0}死于割伤。</VAEWaste_FluClaws.deathMessage>
+  
+  <!-- EN: ripping bite -->
+  <VAEWaste_RippingBite.label>撕咬</VAEWaste_RippingBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <VAEWaste_RippingBite.deathMessage>{0}被咬死了。</VAEWaste_RippingBite.deathMessage>
+  
+  <!-- EN: toxic sting -->
+  <VAEWaste_Sting.label>剧毒螫刺</VAEWaste_Sting.label>
+  <!-- EN: {0} has been stung to death. -->
+  <VAEWaste_Sting.deathMessage>{0}被刺死了。</VAEWaste_Sting.deathMessage>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_MakeScale.label>制作 蛮族鳞甲 I</pphhyy_Barbarian_MakeScale.label>
+  <pphhyy_Barbarian_MakeScale.description>制作蛮族鳞甲 I</pphhyy_Barbarian_MakeScale.description>
+  <pphhyy_Barbarian_MakeScale.jobString>正在制作蛮族鳞甲 I。</pphhyy_Barbarian_MakeScale.jobString>
+
+  <pphhyy_Barbarian_MakeScaleII.label>制作 蛮族鳞甲 II</pphhyy_Barbarian_MakeScaleII.label>
+  <pphhyy_Barbarian_MakeScaleII.description>制作蛮族鳞甲 II</pphhyy_Barbarian_MakeScaleII.description>
+  <pphhyy_Barbarian_MakeScaleII.jobString>正在制作蛮族鳞甲 II。</pphhyy_Barbarian_MakeScaleII.jobString>
+
+
+</LanguageData>

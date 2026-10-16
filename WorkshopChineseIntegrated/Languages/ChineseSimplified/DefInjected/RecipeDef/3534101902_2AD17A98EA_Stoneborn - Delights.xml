@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Make_GlimmerCrystals.label>制作微光水晶</Make_GlimmerCrystals.label>
+    <Make_GlimmerCrystals.description>将微光石英切割成一口大小的块。</Make_GlimmerCrystals.description>
+
+    <SD_Make_RawShatterbrew.label>制作生破片茶</SD_Make_RawShatterbrew.label>
+    <SD_Make_RawShatterbrew.description>混合肥帽菇，蔬菜和肉进一个超大的酒精罐子炖。</SD_Make_RawShatterbrew.description>
+
+    <SD_MakeLiquorSmush.label>製作鍛造糊糊</SD_MakeLiquorSmush.label>
+    <SD_MakeLiquorSmush.description>用肥帽菇和公牛角還有石塊製作锻造糊糊。</SD_MakeLiquorSmush.description>
+
+    <SD_MakeElixirMush.label>制作灵药糊糊</SD_MakeElixirMush.label>
+    <SD_MakeElixirMush.description>用刃根和公牛角制作灵药糊糊。</SD_MakeElixirMush.description>
+
+</LanguageData>

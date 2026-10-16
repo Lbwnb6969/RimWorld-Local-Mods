@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corrupted pod -->
+  <AM_CorruptedGaumakerCocoon.label>腐化荚种</AM_CorruptedGaumakerCocoon.label>
+  <!-- EN: The result of the merging of several Corruptor dryads, this symbiotic plant/animal pod is an essential part of the corrupted Gauranlen life cycle. After some time, it will flower into a mature Gauranlen pod which can be harvested to plant a new Gauranlen tree. -->
+  <AM_CorruptedGaumakerCocoon.description>这是数个腐化树精合并后形成的荚种，这种共生态（植物/动物）荚种是在腐化树精的整个生命周期当中的最重要阶段。经过一段时间后，它会开花长成为可产出种子的腐化母树荚囊。</AM_CorruptedGaumakerCocoon.description>
+
+  <!-- EN: relic smashing altar -->
+  <AM_RelicSmashingAltar.label>圣物粉碎祭坛</AM_RelicSmashingAltar.label>
+  <!-- EN: A small bowl with capacity for one relic. Relics can be slotted in the altar to start a relic destruction ritual, but the colonists won't extract the relic from it. -->
+  <AM_RelicSmashingAltar.description>正好能装下一件圣物的钵体，用于执行“圣物销毁”仪式。</AM_RelicSmashingAltar.description>
+  
+</LanguageData>

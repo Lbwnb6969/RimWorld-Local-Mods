@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleshmass piece (1x1) -->
+  <AM_Building_Misc_FleshmassPiece1x1c.label>血肉碎块</AM_Building_Misc_FleshmassPiece1x1c.label>
+  <!-- EN: A piece of fleshmass. -->
+  <AM_Building_Misc_FleshmassPiece1x1c.description>血肉碎块。</AM_Building_Misc_FleshmassPiece1x1c.description>
+  
+  <!-- EN: fleshmass piece (2x2) -->
+  <AM_Building_Misc_FleshmassPiece2x2c.label>血肉碎块</AM_Building_Misc_FleshmassPiece2x2c.label>
+  <!-- EN: A piece of fleshmass. -->
+  <AM_Building_Misc_FleshmassPiece2x2c.description>血肉碎块。</AM_Building_Misc_FleshmassPiece2x2c.description>
+  
+</LanguageData>

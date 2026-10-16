@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armorsmith -->
+  <VFEM2_Caravan_Medieval_Armourer.label>盔甲匠</VFEM2_Caravan_Medieval_Armourer.label>
+  
+  <!-- EN: art patron -->
+  <VFEM2_Caravan_Medieval_ArtPatron.label>艺术赞助者</VFEM2_Caravan_Medieval_ArtPatron.label>
+  
+  <!-- EN: animal herder -->
+  <VFEM2_Caravan_Medieval_Farmer.label>游牧商人</VFEM2_Caravan_Medieval_Farmer.label>
+  
+  <!-- EN: weaponsmith -->
+  <VFEM2_Caravan_Medieval_Weaponsmith.label>武器匠</VFEM2_Caravan_Medieval_Weaponsmith.label>
+  
+  <!-- EN: wine merchant -->
+  <VFEM2_Caravan_Medieval_WineMerchant.label>葡萄酒商人</VFEM2_Caravan_Medieval_WineMerchant.label>
+  
+</LanguageData>

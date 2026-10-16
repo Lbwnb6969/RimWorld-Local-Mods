@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: work command -->
+  <VME_WorkCommand.label>工作命令</VME_WorkCommand.label>
+  <!-- EN: Instruct everyone around to work harder and be more diligent, boosting global work speed and the cost of depleting recreation. The effect remains attached to the caster for 24 hours. -->
+  <VME_WorkCommand.description>提供工作技术指导，提高附近所有人的全局工作速度。作为代价，所有受影响者的娱乐值会下降的更快。该效果在施术者身上持续24小时。</VME_WorkCommand.description>
+  
+  <!-- EN: work command -->
+  <VME_WorkCommandBuff.label>工作命令</VME_WorkCommandBuff.label>
+  <!-- EN: This person's work speed is boosted thanks to being near someone who is using the work command ability. -->
+  <VME_WorkCommandBuff.description>由于靠近正在使用工作命令能力的人，这个人的全局工作速度得到了提升。</VME_WorkCommandBuff.description>
+  
+</LanguageData>

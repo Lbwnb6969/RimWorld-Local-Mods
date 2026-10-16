@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: traps rearmed -->
+  <VFES_TrapsRearmed.label>重置陷阱</VFES_TrapsRearmed.label>
+  <!-- EN: Number of traps rearmed. -->
+  <VFES_TrapsRearmed.description>我重置的陷阱数量。</VFES_TrapsRearmed.description>
+  
+</LanguageData>

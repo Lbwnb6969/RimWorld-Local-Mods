@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: phrak -->
+  <DA_Phrak.label>弗拉克</DA_Phrak.label>
+  <!-- EN: phrak nymphling -->
+  <DA_Phrak.lifeStages.phrak_nymphling.label>弗拉克孑孓</DA_Phrak.lifeStages.phrak_nymphling.label>
+  <!-- EN: phrak nymphlings -->
+  <DA_Phrak.lifeStages.phrak_nymphling.labelPlural>弗拉克孑孓</DA_Phrak.lifeStages.phrak_nymphling.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: royal tiger -->
+  <VAERoy_RoyalTiger.label>皇家虎</VAERoy_RoyalTiger.label>
+  <!-- EN: A large, genetically engineered sabretooth tiger that evolved in captivity. Nobility often buys them for their spoiled children, as in reality, royal tiger is not dangerous at all, and prefers fleeing at the first sight of danger. -->
+  <VAERoy_RoyalTiger.description>样貌与剑齿虎相似的大型猫科动物。破碎帝国的王公贵戚们常常会为自己娇生惯养的孩子购买这些经过基因工程改造的皇家虎，因为它们根本就不可怕，甚至一遇到危险就会迅速逃跑。</VAERoy_RoyalTiger.description>
+  <!-- EN: left claw -->
+  <VAERoy_RoyalTiger.tools.left_claw.label>左爪</VAERoy_RoyalTiger.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <VAERoy_RoyalTiger.tools.right_claw.label>右爪</VAERoy_RoyalTiger.tools.right_claw.label>
+  <!-- EN: head -->
+  <VAERoy_RoyalTiger.tools.head.label>头</VAERoy_RoyalTiger.tools.head.label>
+  
+</LanguageData>

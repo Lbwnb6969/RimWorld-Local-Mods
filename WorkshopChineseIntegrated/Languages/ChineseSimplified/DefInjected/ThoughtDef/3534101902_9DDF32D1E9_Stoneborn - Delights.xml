@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SD_BladerootHighThought.stages.0.label>刃根亢奋</SD_BladerootHighThought.stages.0.label>
+    <SD_BladerootHighThought.stages.0.description>呼！我能打败一个大块头！</SD_BladerootHighThought.stages.0.description>
+
+    <BullgrogInebriated.stages.0.label>卖酒暖和</BullgrogInebriated.stages.0.label>
+    <BullgrogInebriated.stages.0.description>呕，这个超难吃..但是我感觉很好！！</BullgrogInebriated.stages.0.description>
+    <BullgrogInebriated.stages.1.label>微醺</BullgrogInebriated.stages.1.label>
+    <BullgrogInebriated.stages.1.description>我感到很饿，但我感觉缓和！</BullgrogInebriated.stages.1.description>
+    <BullgrogInebriated.stages.2.label>飘飘然</BullgrogInebriated.stages.2.label>
+    <BullgrogInebriated.stages.2.description>天哪，现在我真的感到很饿..</BullgrogInebriated.stages.2.description>
+    <BullgrogInebriated.stages.3.label>伶仃大醉</BullgrogInebriated.stages.3.label>
+    <BullgrogInebriated.stages.3.description>我是如此的饥饿啊，我可以吃掉一整头棕牛！</BullgrogInebriated.stages.3.description>
+
+    <SD_FeywingHighThought.stages.0.label>柔软</SD_FeywingHighThought.stages.0.label>
+    <SD_FeywingHighThought.stages.0.description>我感觉我在漂浮。我是这么柔软。</SD_FeywingHighThought.stages.0.description>
+
+    <FLInebriated.stages.0.label>酒饮暖和</FLInebriated.stages.0.label>
+    <FLInebriated.stages.0.description>燃烧.. 燃烧很棒！</FLInebriated.stages.0.description>
+    <FLInebriated.stages.1.label>微醺</FLInebriated.stages.1.label>
+    <FLInebriated.stages.1.description>我只是想做一些事！</FLInebriated.stages.1.description>
+    <FLInebriated.stages.2.label>飘飘然</FLInebriated.stages.2.label>
+    <FLInebriated.stages.2.description>我温暖极了！</FLInebriated.stages.2.description>
+    <FLInebriated.stages.3.label>伶仃大醉</FLInebriated.stages.3.label>
+    <FLInebriated.stages.3.description>嘿傲 耶！ 我做了很多叫人惊叹的事!</FLInebriated.stages.3.description>
+
+    <SD_GlimmerHighThought.stages.0.label>微光亢奋</SD_GlimmerHighThought.stages.0.label>
+    <SD_GlimmerHighThought.stages.0.description>借过一下！</SD_GlimmerHighThought.stages.0.description>
+
+    <SD_LighHangoverThought.stages.0.label>轻微宿醉</SD_LighHangoverThought.stages.0.label>
+    <SD_LighHangoverThought.stages.0.description>头几乎要消失了</SD_LighHangoverThought.stages.0.description>
+    <SD_LighHangoverThought.stages.1.label>严重的宿醉</SD_LighHangoverThought.stages.1.label>
+    <SD_LighHangoverThought.stages.1.description>所有酒使我头痛..</SD_LighHangoverThought.stages.1.description>
+    <SD_LighHangoverThought.stages.2.label>剧烈的宿醉</SD_LighHangoverThought.stages.2.label>
+    <SD_LighHangoverThought.stages.2.description>我感觉像是一群异虫在啃食我的骨头。</SD_LighHangoverThought.stages.2.description>
+
+    <SD_HeavyHangoverThought.stages.0.label>严重的宿醉</SD_HeavyHangoverThought.stages.0.label>
+    <SD_HeavyHangoverThought.stages.0.description>这头痛正在杀死我...</SD_HeavyHangoverThought.stages.0.description>
+    <SD_HeavyHangoverThought.stages.1.label>宿醉的痛苦</SD_HeavyHangoverThought.stages.1.label>
+    <SD_HeavyHangoverThought.stages.1.description>所有酒使我头痛.. 哦呜..</SD_HeavyHangoverThought.stages.1.description>
+    <SD_HeavyHangoverThought.stages.2.label>使人麻痹的宿醉</SD_HeavyHangoverThought.stages.2.label>
+    <SD_HeavyHangoverThought.stages.2.description>感觉就像整个虫群都在啃噬我的头骨。</SD_HeavyHangoverThought.stages.2.description>
+
+    <HiveInebriated.stages.0.label>暖和</HiveInebriated.stages.0.label>
+    <HiveInebriated.stages.0.description>这么甜！我感觉好极了！</HiveInebriated.stages.0.description>
+    <HiveInebriated.stages.1.label>微醺</HiveInebriated.stages.1.label>
+    <HiveInebriated.stages.1.description>我感觉很愉悦和非常放松还有...</HiveInebriated.stages.1.description>
+    <HiveInebriated.stages.2.label>飘飘然</HiveInebriated.stages.2.label>
+    <HiveInebriated.stages.2.description>这很有趣！但是我有点小累..</HiveInebriated.stages.2.description>
+    <HiveInebriated.stages.3.label>伶仃大醉</HiveInebriated.stages.3.label>
+    <HiveInebriated.stages.3.description>芜芜芜芜芜芜！我能一整天都做这个！其实..也许不。</HiveInebriated.stages.3.description>
+
+    <SD_MDHighThought.stages.0.label>矿工乐事</SD_MDHighThought.stages.0.label>
+    <SD_MDHighThought.stages.0.description>我感觉到了！我在挖！</SD_MDHighThought.stages.0.description>
+
+    <SD_ElixirHighThought.stages.0.label>是红色</SD_ElixirHighThought.stages.0.label>
+    <SD_ElixirHighThought.stages.0.description>我要疯了..</SD_ElixirHighThought.stages.0.description>
+
+    <SD_RedspiceHighThought.stages.0.label>风味增加</SD_RedspiceHighThought.stages.0.label>
+    <SD_RedspiceHighThought.stages.0.description>我闻到了颜色的味道。</SD_RedspiceHighThought.stages.0.description>
+
+    <SD_ShatterbrewHighThought.stages.0.label>充实且自豪</SD_ShatterbrewHighThought.stages.0.label>
+    <SD_ShatterbrewHighThought.stages.0.description>我喝完了全部，你们些个懦夫！</SD_ShatterbrewHighThought.stages.0.description>
+
+    <Inebriated.stages.0.label>麦酒暖和</Inebriated.stages.0.label>
+    <Inebriated.stages.0.description>我感觉到了一小点精神。很好！</Inebriated.stages.0.description>
+    <Inebriated.stages.1.label>微醺</Inebriated.stages.1.label>
+    <Inebriated.stages.1.description>我迫不及待要战斗了...</Inebriated.stages.1.description>
+    <Inebriated.stages.2.label>飘飘然</Inebriated.stages.2.label>
+    <Inebriated.stages.2.description>我需要一把枪！我需要射点什么东西！</Inebriated.stages.2.description>
+    <Inebriated.stages.3.label>伶仃大醉</Inebriated.stages.3.label>
+    <Inebriated.stages.3.description>芜芜！杀死那些该死的虫族！砰砰！</Inebriated.stages.3.description>
+
+    <SWInebriated.stages.0.label>活泼</SWInebriated.stages.0.label>
+    <SWInebriated.stages.0.description>好，这个味道有点节奏！</SWInebriated.stages.0.description>
+    <SWInebriated.stages.1.label>非常精神</SWInebriated.stages.1.label>
+    <SWInebriated.stages.1.description>嗷...我能做这个一整天</SWInebriated.stages.1.description>
+    <SWInebriated.stages.2.label>微醺</SWInebriated.stages.2.label>
+    <SWInebriated.stages.2.description>更多！给我更多！</SWInebriated.stages.2.description>
+    <SWInebriated.stages.3.label>过度活跃</SWInebriated.stages.3.label>
+    <SWInebriated.stages.3.description>彻夜的派对！</SWInebriated.stages.3.description>
+
+</LanguageData>

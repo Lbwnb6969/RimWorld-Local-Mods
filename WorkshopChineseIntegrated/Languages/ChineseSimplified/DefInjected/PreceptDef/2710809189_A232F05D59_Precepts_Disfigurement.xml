@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disliked -->
+  <AM_Disfigurement_Disliked.label>反感</AM_Disfigurement_Disliked.label>
+  <!-- EN: Disfigurement is unsettling. -->
+  <AM_Disfigurement_Disliked.description>毁容让我们感到很不舒服。</AM_Disfigurement_Disliked.description>
+  
+  <!-- EN: don't care -->
+  <AM_Disfigurement_DontCare.label>漠视</AM_Disfigurement_DontCare.label>
+  <!-- EN: Who cares if a person is disfigured? We shouldn't judge others based on such trivial matters. -->
+  <AM_Disfigurement_DontCare.description>谁会在意一个人有没有毁容呢？我们不该以这种小事去评判他人。</AM_Disfigurement_DontCare.description>
+  
+  <!-- EN: preferred -->
+  <AM_Disfigurement_Preferred.label>喜好</AM_Disfigurement_Preferred.label>
+  <!-- EN: Disfigurement is beautiful. To alter the body is to improve it, and the more thoroughly a person is reshaped, the more worthy they become.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Missing eyes, ears, nose, jaw or tongue count as disfigurement. -->
+  <AM_Disfigurement_Preferred.description>毁容才是真正美丽的象征，而改造身体就是在完善这一点。一个人被重塑得越彻底，就越有价值。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 缺失眼睛、耳朵、鼻子、下颌或舌头均被视为毁容。</AM_Disfigurement_Preferred.description>
+  
+</LanguageData>

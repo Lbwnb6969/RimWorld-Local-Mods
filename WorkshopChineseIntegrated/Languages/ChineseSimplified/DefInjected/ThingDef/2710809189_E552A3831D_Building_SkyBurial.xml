@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sky burial spot -->
+  <AM_SkyBurialSpot.label>露天葬礼点</AM_SkyBurialSpot.label>
+  <!-- EN: A place to leave the last remains of a colonist for them to be consumed by nature -->
+  <AM_SkyBurialSpot.description>用于举行露天葬礼的位置。死者的尸体会逐渐风化消散，最终回归自然的怀抱中。</AM_SkyBurialSpot.description>
+  
+</LanguageData>

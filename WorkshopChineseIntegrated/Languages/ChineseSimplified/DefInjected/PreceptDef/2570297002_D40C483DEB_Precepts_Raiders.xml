@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <VME_Raiding_Abhorrent.label>厌恶</VME_Raiding_Abhorrent.label>
+  <!-- EN: We worked hard for what we have, we cannot take from the weak as we too were once weak. Doing so is a tremendous shame. -->
+  <VME_Raiding_Abhorrent.description>我们将为自己所拥有的而辛勤劳作，掠夺弱者对我们来说是一种莫大的耻辱。</VME_Raiding_Abhorrent.description>
+  <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>距离我们上次袭击不足 {DAYSSINCELASTRAIDTHRESHOLD} 天</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>
+  <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>距离我们上次袭击已经超过了 {DAYSSINCELASTRAIDTHRESHOLD} 天</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>
+  
+  <!-- EN: honorable -->
+  <VME_Raiding_Honorable.label>推崇</VME_Raiding_Honorable.label>
+  <!-- EN: We display our strength and perseverance through conquest, and in doing so we bring honor to our colony. -->
+  <VME_Raiding_Honorable.description>我们将通过征服来展示我们的力量与坚毅，这样做可以为我们的殖民地带来荣誉。</VME_Raiding_Honorable.description>
+  <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>距离我们上次袭击不足 {DAYSSINCELASTRAIDTHRESHOLD} 天</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>
+  <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>距离我们上次袭击已经超过了 {DAYSSINCELASTRAIDTHRESHOLD} 天</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>
+  
+</LanguageData>

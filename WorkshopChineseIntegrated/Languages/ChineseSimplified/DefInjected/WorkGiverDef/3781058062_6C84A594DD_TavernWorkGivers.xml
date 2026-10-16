@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook meals at tavern oven -->
+  <DoBills_Tav_Oven.label>在酒馆烤炉烹饪食物</DoBills_Tav_Oven.label>
+  <!-- EN: cooking at -->
+  <DoBills_Tav_Oven.gerund>烹饪于</DoBills_Tav_Oven.gerund>
+  <!-- EN: cook at -->
+  <DoBills_Tav_Oven.verb>烹饪于</DoBills_Tav_Oven.verb>
+  
+  <!-- EN: craft decorations at tailoring station -->
+  <DoBills_Tav_TableDecor.label>在装饰制作台制作装饰品</DoBills_Tav_TableDecor.label>
+  <!-- EN: crafting at -->
+  <DoBills_Tav_TableDecor.gerund>制作于</DoBills_Tav_TableDecor.gerund>
+  <!-- EN: craft at -->
+  <DoBills_Tav_TableDecor.verb>制作于</DoBills_Tav_TableDecor.verb>
+  
+</LanguageData>

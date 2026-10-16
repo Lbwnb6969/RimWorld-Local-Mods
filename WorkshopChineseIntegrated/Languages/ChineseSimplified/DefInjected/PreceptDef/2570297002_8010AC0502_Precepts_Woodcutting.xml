@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high -->
+  <VME_WoodcuttingYield_High.label>提高</VME_WoodcuttingYield_High.label>
+  <!-- EN: Lumber is infinitely useful, not even stumps go to waste when our kind is in charge.\n\n<color=#E5E54C>Stats:</color>\n - Woodcutting yield: +10%. -->
+  <VME_WoodcuttingYield_High.description>木材的用途数不胜数，即便是木桩也不该被浪费。\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - 伐木产出：+10%。</VME_WoodcuttingYield_High.description>
+  
+</LanguageData>

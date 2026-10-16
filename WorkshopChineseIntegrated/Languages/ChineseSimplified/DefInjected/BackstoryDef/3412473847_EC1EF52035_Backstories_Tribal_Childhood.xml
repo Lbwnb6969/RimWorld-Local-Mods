@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef]’s actions led to the death of one [PAWN_possessive] tribe’s most sacred animals. While normally the punishment for such a crime was death, the tribe elders’ took [PAWN_nameDef]’s young age into account, and instead sent [PAWN_objective] to live with another tribe. -->
+  <Shenanigans_Tribal_AnimalSlayer.description>部落最神圣的动物之一因[PAWN_nameDef]而死。虽然通常这样的罪行会被处死，但部落的长者考虑到[PAWN_nameDef]还小，决定将[PAWN_objective]送到另一个部落生活。</Shenanigans_Tribal_AnimalSlayer.description>
+  <!-- EN: Banished child -->
+  <Shenanigans_Tribal_AnimalSlayer.title>放逐儿童</Shenanigans_Tribal_AnimalSlayer.title>
+  <!-- EN: Banished -->
+  <Shenanigans_Tribal_AnimalSlayer.titleShort>放逐儿童</Shenanigans_Tribal_AnimalSlayer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was chosen to be trained as a healer. [PAWN_possessive] tribe’s kindly medicine woman was a skilled and patient teacher, and taught [PAWN_nameDef] how to tend to the sick, as well as how to grow healing herbs. -->
+  <Shenanigans_Tribal_ApprenticeHealer.description>[PAWN_nameDef]被选中为未来的治疗者。和蔼的部落女治疗者是一位熟练且有耐心的老师，她教[PAWN_nameDef]如何照顾病人以及如何种植治疗草药。</Shenanigans_Tribal_ApprenticeHealer.description>
+  <!-- EN: Apprentice healer -->
+  <Shenanigans_Tribal_ApprenticeHealer.title>治疗学徒</Shenanigans_Tribal_ApprenticeHealer.title>
+  <!-- EN: Healer -->
+  <Shenanigans_Tribal_ApprenticeHealer.titleShort>治疗者</Shenanigans_Tribal_ApprenticeHealer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] dexterously spun loose fibres into thread, which [PAWN_possessive] teacher then wove into clothing and other textiles for the tribe. [PAWN_nameDef] favourite part of [PAWN_possessive] work was helping to pick and prepare the plants for making the colourful dyes that were used for the thread. -->
+  <Shenanigans_Tribal_ApprenticeWeaver.description>[PAWN_nameDef]熟练地将松散的纤维纺成线，然后[PAWN_possessive]老师将这些线编织成部落所需的衣物和其他纺织品。[PAWN_nameDef]最喜欢的部分是帮助挑选和准备用于制作彩色染料的植物。</Shenanigans_Tribal_ApprenticeWeaver.description>
+  <!-- EN: Apprentice weaver -->
+  <Shenanigans_Tribal_ApprenticeWeaver.title>织工学徒</Shenanigans_Tribal_ApprenticeWeaver.title>
+  <!-- EN: Weaver -->
+  <Shenanigans_Tribal_ApprenticeWeaver.titleShort>织工</Shenanigans_Tribal_ApprenticeWeaver.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] greatly admired the hunters of [PAWN_possessive] tribe. [PAWN_pronoun] would often shirk [PAWN_possessive] chores to sneak away and practice with [PAWN_possessive] toy bow and arrow. -->
+  <Shenanigans_Tribal_AspiringHunter.description>[PAWN_nameDef]非常崇敬部落的猎人。[PAWN_pronoun]经常逃避属于[PAWN_possessive]杂务，偷偷溜出去练习[PAWN_possessive]玩具弓箭。</Shenanigans_Tribal_AspiringHunter.description>
+  <!-- EN: Aspiring hunter -->
+  <Shenanigans_Tribal_AspiringHunter.title>上进猎人</Shenanigans_Tribal_AspiringHunter.title>
+  <!-- EN: Hunter -->
+  <Shenanigans_Tribal_AspiringHunter.titleShort>猎人</Shenanigans_Tribal_AspiringHunter.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] dug in the dirt to collect worms and grubs for [PAWN_possessive] tribe’s fishers to use as bait. When [PAWN_pronoun] was particularly successful, [PAWN_pronoun] would feed some of the spare bugs to the birds, daydreaming about what it might be like to fly as [PAWN_pronoun] watched them. -->
+  <Shenanigans_Tribal_BaitCollector.description>[PAWN_nameDef]在土里挖虫子和蛆，供部落的渔夫用作鱼饵。当[PAWN_possessive]收获特别丰富时，[PAWN_pronoun]会将一些多余的虫子喂给鸟吃，一边看着它们，一边想象着飞翔的感觉。</Shenanigans_Tribal_BaitCollector.description>
+  <!-- EN: Bait collector -->
+  <Shenanigans_Tribal_BaitCollector.title>饵料工</Shenanigans_Tribal_BaitCollector.title>
+  <!-- EN: Bait collector -->
+  <Shenanigans_Tribal_BaitCollector.titleShort>饵料工</Shenanigans_Tribal_BaitCollector.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] loved to play board games and was constantly begging the other children of [PAWN_possessive] village to play The Game of Ur with [PAWN_objective]. A kind craftsman noticed [PAWN_nameDef]’s passion, and showed [PAWN_objective] how to make [PAWN_possessive] own custom gameboard. -->
+  <Shenanigans_Tribal_BoardGameMaster.description>[PAWN_nameDef]喜欢玩桌游，并不断恳求村庄的其他孩子和[PAWN_objective]一起玩《乌尔的游戏》。一位善良的工匠注意到了[PAWN_nameDef]的热情，并向[PAWN_objective]展示了如何制作[PAWN_possessive]自己的定制游戏板。</Shenanigans_Tribal_BoardGameMaster.description>
+  <!-- EN: Board game master -->
+  <Shenanigans_Tribal_BoardGameMaster.title>桌游大师</Shenanigans_Tribal_BoardGameMaster.title>
+  <!-- EN: Strategist -->
+  <Shenanigans_Tribal_BoardGameMaster.titleShort>战略家</Shenanigans_Tribal_BoardGameMaster.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]’s tribe faced starvation when [PAWN_pronoun] was barely a year old. Desperate to keep their child alive, [PAWN_nameDef]‘s parents did what they felt they had to do, and fed [PAWN_objective] the flesh of a tribe member who had recently died. -->
+  <Shenanigans_Tribal_CannibalChild.description>[PAWN_nameDef]的部落经历了饥荒，当时[PAWN_pronoun]还不到一岁。为了让孩子活下去，[PAWN_nameDef]的父母做了他们认为必须做的事，给[PAWN_objective]喂食了一位刚去世的部落成员的肉。</Shenanigans_Tribal_CannibalChild.description>
+  <!-- EN: Cannibal child -->
+  <Shenanigans_Tribal_CannibalChild.title>食人儿童</Shenanigans_Tribal_CannibalChild.title>
+  <!-- EN: Cannibal child -->
+  <Shenanigans_Tribal_CannibalChild.titleShort>食人儿童</Shenanigans_Tribal_CannibalChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] frequently travelled with a trading caravan, helping the adults by tending to the pack animals. [PAWN_pronoun] got to see far-off places and met many interesting people. -->
+  <Shenanigans_Tribal_CaravanChild.description>[PAWN_nameDef]经常与商队一起旅行，通过照顾驮畜来帮助成年人。[PAWN_pronoun]见识了许多遥远的地方，遇到了许多有趣的人。</Shenanigans_Tribal_CaravanChild.description>
+  <!-- EN: Caravan child -->
+  <Shenanigans_Tribal_CaravanChild.title>商队儿童</Shenanigans_Tribal_CaravanChild.title>
+  <!-- EN: Caravan child -->
+  <Shenanigans_Tribal_CaravanChild.titleShort>商队儿童</Shenanigans_Tribal_CaravanChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was chosen to be one of the children who were annually sacrificed to [PAWN_possessive] tribe’s gods, something that was considered a great honour. However, when the time came, [PAWN_nameDef] ran away. [PAWN_pronoun] survived on roots and berries in the wild until a different tribe, who worshiped gods that did not demand death, found [PAWN_objective]. -->
+  <Shenanigans_Tribal_ChildSacrifice.description>[PAWN_nameDef]被选中成为每年被献给[PAWN_possessive]部落神灵的儿童之一，这被认为是非常光荣的事情。然而，当时间到来时，[PAWN_nameDef]逃跑了。[PAWN_pronoun]在野外靠吃根茎和浆果生存，直到一个所敬神灵不要求死亡的部落发现了[PAWN_objective]。</Shenanigans_Tribal_ChildSacrifice.description>
+  <!-- EN: Child sacrifice -->
+  <Shenanigans_Tribal_ChildSacrifice.title>儿童祭品</Shenanigans_Tribal_ChildSacrifice.title>
+  <!-- EN: Child sacrifice -->
+  <Shenanigans_Tribal_ChildSacrifice.titleShort>儿童祭品</Shenanigans_Tribal_ChildSacrifice.titleShort>
+  
+  <!-- EN: After many years of war with a much stronger tribe, [PAWN_nameDef]’s people were all but wiped out. With very few able-bodied adults left to fight, the children of the tribe, including [PAWN_nameDef], were forced to take up arms to defend their homes and loved ones. -->
+  <Shenanigans_Tribal_ChildWarrior.description>在与一个更强大的部落进行多年的战争后，[PAWN_nameDef]的部众几乎被消灭殆尽。由于已经几乎没有能够战斗的成年人，包括[PAWN_nameDef]在内的部落儿童被迫拿起武器保卫他们的家园和所爱。</Shenanigans_Tribal_ChildWarrior.description>
+  <!-- EN: Child warrior -->
+  <Shenanigans_Tribal_ChildWarrior.title>儿童战士</Shenanigans_Tribal_ChildWarrior.title>
+  <!-- EN: Warrior -->
+  <Shenanigans_Tribal_ChildWarrior.titleShort>战士</Shenanigans_Tribal_ChildWarrior.titleShort>
+  
+  <!-- EN: The other children of [PAWN_nameDef]’s tribe always did their best to avoid [PAWN_objective]. Even the adults gave [PAWN_objective] a wide berth. There was just something off about [PAWN_objective]. [PAWN_nameDef] spent most of [PAWN_possessive] time alone, throwing rocks at defenseless animals. -->
+  <Shenanigans_Tribal_CreepyChild.description>[PAWN_nameDef]部落的其他孩子总是尽量避免与[PAWN_objective]接触，即使是成年人也会与[PAWN_objective]保持距离。总之[PAWN_objective]有些不对劲。[PAWN_nameDef]大部分时间都是独自一人，向无助的动物投掷石头。</Shenanigans_Tribal_CreepyChild.description>
+  <!-- EN: Creepy child -->
+  <Shenanigans_Tribal_CreepyChild.title>诡异小孩</Shenanigans_Tribal_CreepyChild.title>
+  <!-- EN: Creepy child -->
+  <Shenanigans_Tribal_CreepyChild.titleShort>诡异小孩</Shenanigans_Tribal_CreepyChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was naturally curious, constantly asking the adults of [PAWN_possessive] tribe questions about how things worked. Although this annoyed some, others were happy to teach [PAWN_nameDef] what [PAWN_pronoun] wanted to know. -->
+  <Shenanigans_Tribal_CuriousChild.description>[PAWN_nameDef]天生好奇，总是向部落的成年人询问事物是如何运作的。[PAWN_pronoun]的好奇心虽然让一些人感到烦恼，但其他人都乐于教[PAWN_nameDef]想知道的东西。</Shenanigans_Tribal_CuriousChild.description>
+  <!-- EN: Curious child -->
+  <Shenanigans_Tribal_CuriousChild.title>好奇儿童</Shenanigans_Tribal_CuriousChild.title>
+  <!-- EN: Curious child -->
+  <Shenanigans_Tribal_CuriousChild.titleShort>好奇儿童</Shenanigans_Tribal_CuriousChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was frequently sick as a child, coming close to death many times. [PAWN_possessive] family believed [PAWN_pronoun] had been hexed by an evil witch doctor, and tried all manner of rituals and prayers in order to remove the curse. [PAWN_nameDef] became somewhat good at identifying plants from constantly being around healing herbs. -->
+  <Shenanigans_Tribal_CursedChild.description>[PAWN_nameDef]童年经常生病，多次濒临死亡。[PAWN_possessive]家人相信[PAWN_pronoun]被一个邪恶的巫医下了诅咒，并尝试了各种仪式和祈祷来去除诅咒。由于经常接触治疗草药，[PAWN_nameDef]变得相当擅长识别植物。</Shenanigans_Tribal_CursedChild.description>
+  <!-- EN: Cursed child -->
+  <Shenanigans_Tribal_CursedChild.title>受诅咒儿童</Shenanigans_Tribal_CursedChild.title>
+  <!-- EN: Cursed child -->
+  <Shenanigans_Tribal_CursedChild.titleShort>受诅咒儿童</Shenanigans_Tribal_CursedChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was often put in charge of watching over the younger children. To entertain them, [PAWN_pronoun] learned to make dolls out of dried leaves. [PAWN_possessive] dolls were so popular that [PAWN_pronoun] was eventually given other, more valuable, materials to make them with. -->
+  <Shenanigans_Tribal_DollMaker.description>[PAWN_nameDef]经常负责照看年幼的孩子。为了给孩子们解闷，[PAWN_pronoun]学会了用干树叶制作玩偶。[PAWN_possessive]玩偶非常受欢迎，以至于[PAWN_pronoun]最终被给予其他更有价值的材料来制作它们。</Shenanigans_Tribal_DollMaker.description>
+  <!-- EN: Doll maker -->
+  <Shenanigans_Tribal_DollMaker.title>玩偶匠</Shenanigans_Tribal_DollMaker.title>
+  <!-- EN: Doll maker -->
+  <Shenanigans_Tribal_DollMaker.titleShort>玩偶匠</Shenanigans_Tribal_DollMaker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]’s mother was exiled from her village while she was pregnant with [PAWN_objective]. She raised [PAWN_nameDef] alone as best she could, teaching [PAWN_objective] how to survive in the wilderness without the support of a tribe. -->
+  <Shenanigans_Tribal_ExileChild.description>母亲在怀孕[PAWN_nameDef]期间被逐出了村庄。她尽其所能独自抚养[PAWN_nameDef]，教导[PAWN_objective]没有部落的支持如何在荒野中生存。</Shenanigans_Tribal_ExileChild.description>
+  <!-- EN: Child of an exile -->
+  <Shenanigans_Tribal_ExileChild.title>流放者之子</Shenanigans_Tribal_ExileChild.title>
+  <!-- EN: Exile -->
+  <Shenanigans_Tribal_ExileChild.titleShort>流放者</Shenanigans_Tribal_ExileChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped to mix the mud and clay mixture that [PAWN_possessive] tribe’s builders used to make bricks. The builders often allowed [PAWN_objective] to watch them work, teaching [PAWN_objective] the best way to lay the bricks to create sturdy structures. -->
+  <Shenanigans_Tribal_MudMixer.description>[PAWN_nameDef]帮助混合部落建筑工人制作砖块所需的泥和粘土混合物。建筑工人经常让[PAWN_objective]观看他们工作，并教导[PAWN_objective]如何正确地铺设砖块以筑成坚固的结构。</Shenanigans_Tribal_MudMixer.description>
+  <!-- EN: Mud mixer -->
+  <Shenanigans_Tribal_MudMixer.title>泥工</Shenanigans_Tribal_MudMixer.title>
+  <!-- EN: Mud mixer -->
+  <Shenanigans_Tribal_MudMixer.titleShort>泥工</Shenanigans_Tribal_MudMixer.titleShort>
+  
+  <!-- EN: When plague struck [PAWN_nameDef]’s tribe, [PAWN_pronoun] was the only child to survive. [PAWN_pronoun] was quite lonely growing up, having no peers [PAWN_possessive] own age to talk to. -->
+  <Shenanigans_Tribal_PlagueSurvivor.description>当瘟疫袭击[PAWN_nameDef]的部落时，[PAWN_pronoun]是唯一幸存的孩子。[PAWN_pronoun]在成长过程中非常孤独，没有同龄的伙伴可以交谈。</Shenanigans_Tribal_PlagueSurvivor.description>
+  <!-- EN: Plague survivor -->
+  <Shenanigans_Tribal_PlagueSurvivor.title>瘟疫幸存者</Shenanigans_Tribal_PlagueSurvivor.title>
+  <!-- EN: Plague survivor -->
+  <Shenanigans_Tribal_PlagueSurvivor.titleShort>瘟疫幸存者</Shenanigans_Tribal_PlagueSurvivor.titleShort>
+  
+  <!-- EN: Whether on purpose or by accident, [PAWN_nameDef] was somehow seperated from [PAWN_possessive] parents as a baby. A pack of wolves came across the helpless infant and adopted [PAWN_objective] as one of their own. It wasn’t until many years later that [PAWN_nameDef] was finally found by a tribe of [PAWN_possessive] own species. By then, it was too late for [PAWN_objective] to fully learn many fundamental social skills. -->
+  <Shenanigans_Tribal_RaisedByWolves.description>不知是故意还是意外，[PAWN_nameDef]在婴儿时就与父母分离了。一群狼发现了这个无助的婴儿，并将[PAWN_objective]当作自己的一员抚养。直到许多年后，[PAWN_objective]才被同种族的部落发现。但对于[PAWN_nameDef]来说，再学习许多基本的社会技能已经太晚了。</Shenanigans_Tribal_RaisedByWolves.description>
+  <!-- EN: Raised by wolves -->
+  <Shenanigans_Tribal_RaisedByWolves.title>狼孩</Shenanigans_Tribal_RaisedByWolves.title>
+  <!-- EN: Wild child -->
+  <Shenanigans_Tribal_RaisedByWolves.titleShort>野孩子</Shenanigans_Tribal_RaisedByWolves.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped to chase away rats and other pests from [PAWN_possessive] village’s grain stores. [PAWN_pronoun] loved to play with the cats that hunted near the storage house. -->
+  <Shenanigans_Tribal_RatChaser.description>[PAWN_nameDef]帮助将老鼠和其他有害物种从村庄的粮仓中赶走。[PAWN_pronoun]喜欢和储藏室附近狩猎的猫玩耍。</Shenanigans_Tribal_RatChaser.description>
+  <!-- EN: Rat chaser -->
+  <Shenanigans_Tribal_RatChaser.title>驱鼠人</Shenanigans_Tribal_RatChaser.title>
+  <!-- EN: Rat chaser -->
+  <Shenanigans_Tribal_RatChaser.titleShort>驱鼠人</Shenanigans_Tribal_RatChaser.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] free time collecting different types of rocks and minerals. [PAWN_pronoun] sometimes made simple jewelry out of [PAWN_possessive] favourite stones by tying them with twine. -->
+  <Shenanigans_Tribal_RockCollector.description>[PAWN_nameDef]在空闲时间收集不同类型的岩石和矿物。[PAWN_pronoun]有时会用绳子将[PAWN_possessive]最喜欢的石头绑在一起，制作简单的珠宝。</Shenanigans_Tribal_RockCollector.description>
+  <!-- EN: Rock collector -->
+  <Shenanigans_Tribal_RockCollector.title>集石爱好者</Shenanigans_Tribal_RockCollector.title>
+  <!-- EN: Rock collector -->
+  <Shenanigans_Tribal_RockCollector.titleShort>集石爱好者</Shenanigans_Tribal_RockCollector.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up during a time of plenty in a family that was particularly wealthy. [PAWN_pronoun] enjoyed being the envy of the other children in the village, and frequently got into fights and arguments. -->
+  <Shenanigans_Tribal_SpoiledChild.description>[PAWN_nameDef]成长于一个富裕的家庭。[PAWN_pronoun]喜欢成为村里其他孩子羡慕的对象，经常打架斗殴。</Shenanigans_Tribal_SpoiledChild.description>
+  <!-- EN: Spoiled child -->
+  <Shenanigans_Tribal_SpoiledChild.title>纨绔</Shenanigans_Tribal_SpoiledChild.title>
+  <!-- EN: Spoiled child -->
+  <Shenanigans_Tribal_SpoiledChild.titleShort>纨绔</Shenanigans_Tribal_SpoiledChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was barely a toddler when [PAWN_pronoun] was kidnapped from [PAWN_possessive] settlement in a raid. The tribe who stole [PAWN_objective] believed that the advanced technology [PAWN_possessive] people had was magic, and that [PAWN_nameDef] was magic too. Although [PAWN_pronoun] did not manifest magical powers, the superior nutrition [PAWN_nameDef] received as an infant meant [PAWN_pronoun] was stronger than the other children in the tribe. -->
+  <Shenanigans_Tribal_StolenChild.description>还没学会走路时，[PAWN_nameDef]就在一次袭击中被绑走了。绑架[PAWN_objective]的部落认为[PAWN_possessive]人民的先进技术是魔法，甚至认为[PAWN_nameDef]本身也是魔法。尽管[PAWN_pronoun]没有表现出魔法能力，但[PAWN_nameDef]婴儿时获得的优越营养意味着[PAWN_pronoun]比部落中的其他孩子更强壮。</Shenanigans_Tribal_StolenChild.description>
+  <!-- EN: Stolen child -->
+  <Shenanigans_Tribal_StolenChild.title>抢来的小孩</Shenanigans_Tribal_StolenChild.title>
+  <!-- EN: Stolen child -->
+  <Shenanigans_Tribal_StolenChild.titleShort>抢来的小孩</Shenanigans_Tribal_StolenChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] loved climbing trees more than anything else. [PAWN_pronoun] could climb higher than any of the other children in [PAWN_possessive] tribe, and enjoyed spending time watching the world below from up in the branches of the tallest trees. -->
+  <Shenanigans_Tribal_TreeClimber.description>[PAWN_nameDef]最喜欢的就是爬树。[PAWN_pronoun]能爬得比部落中的其他孩子都要高，喜欢在高高的树枝上俯瞰世界。</Shenanigans_Tribal_TreeClimber.description>
+  <!-- EN: Tree climber -->
+  <Shenanigans_Tribal_TreeClimber.title>爬树小孩</Shenanigans_Tribal_TreeClimber.title>
+  <!-- EN: Tree climber -->
+  <Shenanigans_Tribal_TreeClimber.titleShort>爬树小孩</Shenanigans_Tribal_TreeClimber.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was constantly up to no good. Stealing and hiding things, harassing animals, and taunting the other children, [PAWN_pronoun] always found a way to make a nuisance of [PAWN_objective]self. As punishment, [PAWN_nameDef] was often sent to bed with no supper, but [PAWN_pronoun] would simply sneak out of bed and cook something for [PAWN_objective]self. -->
+  <Shenanigans_Tribal_TroubleMaker.description>[PAWN_nameDef]总是调皮捣蛋。偷东西、藏东西、骚扰动物、嘲笑其他孩子，[PAWN_pronoun]总是能找到方法给自己找麻烦。[PAWN_nameDef]经常被罚不能吃饭直接去睡觉，但[PAWN_pronoun]会偷偷下床溜出去，为自己煮点东西吃。</Shenanigans_Tribal_TroubleMaker.description>
+  <!-- EN: Troublemaker -->
+  <Shenanigans_Tribal_TroubleMaker.title>麻烦鬼</Shenanigans_Tribal_TroubleMaker.title>
+  <!-- EN: Troublemaker -->
+  <Shenanigans_Tribal_TroubleMaker.titleShort>麻烦鬼</Shenanigans_Tribal_TroubleMaker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped to collect twigs and branches to keep [PAWN_possessive] tribe’s fires lit. [PAWN_pronoun] enjoyed stacking the twigs up into little forts and tepees, discovering how to make sturdier and sturdier versions of the tiny structures. -->
+  <Shenanigans_Tribal_TwigCollector.description>[PAWN_nameDef]帮助收集树枝和细材，以维持部落的火堆。[PAWN_pronoun]喜欢将小树枝堆叠成小堡垒和小帐篷，探索制作更坚固的版本。</Shenanigans_Tribal_TwigCollector.description>
+  <!-- EN: Twig collector -->
+  <Shenanigans_Tribal_TwigCollector.title>拾枝者</Shenanigans_Tribal_TwigCollector.title>
+  <!-- EN: Gatherer -->
+  <Shenanigans_Tribal_TwigCollector.titleShort>拾枝者</Shenanigans_Tribal_TwigCollector.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was sent to live with another tribe in order to secure and strengthen an alliance. Because the alliance would fall apart if [PAWN_pronoun] was harmed, [PAWN_nameDef] was assigned the relatively safe job of helping to mind the cooking fires. -->
+  <Shenanigans_Tribal_Ward.description>[PAWN_nameDef]被派往另一个部落生活以巩固加强联盟。一旦[PAWN_pronoun]受到伤害，联盟就会分崩离析，所以[PAWN_nameDef]被分配了相对安全的工作，即帮助照看烹饪火堆。</Shenanigans_Tribal_Ward.description>
+  <!-- EN: Ward of the tribe -->
+  <Shenanigans_Tribal_Ward.title>部落看护人</Shenanigans_Tribal_Ward.title>
+  <!-- EN: Ward -->
+  <Shenanigans_Tribal_Ward.titleShort>看护人</Shenanigans_Tribal_Ward.titleShort>
+  
+  <!-- EN: According to the beliefs of [PAWN_nameDef]’s tribe, children who are born during harsh winters and survive are destined to become mighty warriors. [PAWN_nameDef] was born during just such a winter. -->
+  <Shenanigans_Tribal_Winterborn.description>根据[PAWN_nameDef]部落的信仰，在严冬出生并幸存下来的孩子注定要成为强大的战士。[PAWN_nameDef]就是在这样一个冬天出生的。</Shenanigans_Tribal_Winterborn.description>
+  <!-- EN: Winterborn -->
+  <Shenanigans_Tribal_Winterborn.title>冬之子</Shenanigans_Tribal_Winterborn.title>
+  <!-- EN: Winterborn -->
+  <Shenanigans_Tribal_Winterborn.titleShort>冬之子</Shenanigans_Tribal_Winterborn.titleShort>
+  
+</LanguageData>

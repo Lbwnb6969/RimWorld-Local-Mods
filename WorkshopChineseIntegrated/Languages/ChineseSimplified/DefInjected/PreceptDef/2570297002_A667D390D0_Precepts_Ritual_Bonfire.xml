@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bonfire -->
+  <VME_BonfirePrecept.label>篝火集会</VME_BonfirePrecept.label>
+  <!-- EN: A huge ritual bonfire. -->
+  <VME_BonfirePrecept.description>一堆规模庞大的仪式篝火。</VME_BonfirePrecept.description>
+  
+</LanguageData>

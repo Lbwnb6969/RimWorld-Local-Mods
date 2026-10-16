@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: woolly stegosaurus -->
+  <RG_WoollyStegosaurus.label>长毛剑龙</RG_WoollyStegosaurus.label>
+  <!-- EN: A variation of the more common “roof lizard”, this creature is a herbivore characterized by their distinctive kite-shaped upright bony scales along the back which help regulate their body temperature and acts as a mating display.\n\nThe Woolly Stegosaurus finds their home in cold biomes, preferring to eat low-lying vegetation due to a short neck and small head. The spines on the end of the tail differ from the regular Stegosaurus, in that they are curved instead of straight. While this does hinder their ability to defend against predators somewhat, they are much better suited to digging into hard soil and flinging it away to exposed nutritious roots. -->
+  <RG_WoollyStegosaurus.description>通过基因工程技术复活出的灭绝生物。长毛剑龙是剑龙属的一种变异分支，身上厚重的皮毛使它们能在寒冷环境中生存。\n\n长毛剑龙是食草性的四足动物，由于具有短脖子和小脑袋的特点，它们更喜欢进食低洼处的灌木丛。长毛剑龙背部的骨板主要用于求偶展示或调节体温，而尾刺则有所不同——普通剑龙的尾刺是直的，而长毛剑龙的尾刺是弯的。虽然这在一定程度上降低了它们的自我防卫能力，但弯尾刺也使它们更擅长挖出硬土下富含营养的植物根茎。</RG_WoollyStegosaurus.description>
+  <!-- EN: dinosaur meat -->
+  <RG_WoollyStegosaurus.race.meatLabel>剑龙肉</RG_WoollyStegosaurus.race.meatLabel>
+  <!-- EN: head -->
+  <RG_WoollyStegosaurus.tools.head.label>头</RG_WoollyStegosaurus.tools.head.label>
+  <!-- EN: left foot -->
+  <RG_WoollyStegosaurus.tools.left_foot.label>左足</RG_WoollyStegosaurus.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <RG_WoollyStegosaurus.tools.right_foot.label>右足</RG_WoollyStegosaurus.tools.right_foot.label>
+  <!-- EN: tail spikes -->
+  <RG_WoollyStegosaurus.tools.tail_spikes.label>尾刺</RG_WoollyStegosaurus.tools.tail_spikes.label>
+  
+</LanguageData>

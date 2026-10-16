@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alchemist -->
+
+  <!--EN: Alchemist-->
+  <AssassinsBro_Medieval_Alchemist.title>炼金术士</AssassinsBro_Medieval_Alchemist.title>
+  <!--EN: Alchemist-->
+  <AssassinsBro_Medieval_Alchemist.titleShort>炼金术士</AssassinsBro_Medieval_Alchemist.titleShort>
+  <!--EN: [PAWN_nameDef] devoted [PAWN_possessive] life to continuing [PAWN_possessive] master’s quest to discover the formula for the legendary Panacea Elixir and cure all of the world’s illnesses. [PAWN_pronoun] became renowned as an expert in medicine, and many people came to [PAWN_objective] when they were sick or injured.-->
+  <AssassinsBro_Medieval_Alchemist.baseDesc>[PAWN_nameDef]将[PAWN_possessive]毕生致力于继续[PAWN_possessive]师傅对传说中的万灵药的配方的探索以及治愈世界上的全数疾病。[PAWN_pronoun]成为了著名的医学专家，很多人都在他们生病或受伤时来向[PAWN_objective]求诊。</AssassinsBro_Medieval_Alchemist.baseDesc>
+  <!--EN: [PAWN_nameDef] devoted [PAWN_possessive] life to continuing [PAWN_possessive] master’s quest to discover the formula for the legendary Panacea Elixir and cure all of the world’s illnesses. [PAWN_pronoun] became renowned as an expert in medicine, and many people came to [PAWN_objective] when they were sick or injured.-->
+  <AssassinsBro_Medieval_Alchemist.description>[PAWN_nameDef]将[PAWN_possessive]毕生致力于继续[PAWN_possessive]师傅对传说中的万灵药的配方的探索以及治愈世界上的全数疾病。[PAWN_pronoun]成为了著名的医学专家，很多人都在他们生病或受伤时来向[PAWN_objective]求诊。</AssassinsBro_Medieval_Alchemist.description>
+
+
+  <!-- Knight -->
+
+  <!--EN: Chivalrous knight-->
+  <AssassinsBro_Medieval_ChivalrousKnight.title>正直的骑士</AssassinsBro_Medieval_ChivalrousKnight.title>
+  <!--EN: Knight-->
+  <AssassinsBro_Medieval_ChivalrousKnight.titleShort>骑士</AssassinsBro_Medieval_ChivalrousKnight.titleShort>
+  <!--EN: [PAWN_nameDef] lived to uphold [PAWN_possessive] oaths as a knight. [PAWN_pronoun] protected the weak and defenseless, gave succour to the poor, and always refused any form of reward beyond a word of thanks for [PAWN_possessive] actions.-->
+  <AssassinsBro_Medieval_ChivalrousKnight.baseDesc>[PAWN_nameDef]用一生去维护[PAWN_possessive]骑士誓言。[PAWN_pronoun]济弱扶危，救助穷人，并且总是拒绝除了对[PAWN_possessive]一声感谢之外的任何报酬。</AssassinsBro_Medieval_ChivalrousKnight.baseDesc>
+  <!--EN: [PAWN_nameDef] lived to uphold [PAWN_possessive] oaths as a knight. [PAWN_pronoun] protected the weak and defenseless, gave succour to the poor, and always refused any form of reward beyond a word of thanks for [PAWN_possessive] actions.-->
+  <AssassinsBro_Medieval_ChivalrousKnight.description>[PAWN_nameDef]用一生去维护[PAWN_possessive]骑士誓言。[PAWN_pronoun]济弱扶危，救助穷人，并且总是拒绝除了对[PAWN_possessive]一声感谢之外的任何报酬。</AssassinsBro_Medieval_ChivalrousKnight.description>
+
+  <!--EN: Disgraced knight-->
+  <AssassinsBro_Medieval_DisgracedKnight.title>丢人骑士</AssassinsBro_Medieval_DisgracedKnight.title>
+  <!--EN: Knight-->
+  <AssassinsBro_Medieval_DisgracedKnight.titleShort>骑士</AssassinsBro_Medieval_DisgracedKnight.titleShort>
+  <!--EN: [PAWN_nameDef] swore an oath when [PAWN_pronoun] became a knight to "never refuse a challenge from an equal." However, when challenged to a duel by a fellow knight for accidentally causing offense, [PAWN_nameDef] fled.-->
+  <AssassinsBro_Medieval_DisgracedKnight.baseDesc>在[PAWN_nameDef]成为骑士时，[PAWN_pronoun]曾经宣誓“绝不回拒同等之人的挑战”。然而，当另一位骑士因为被意外冒犯而提出决斗时，[PAWN_nameDef]逃跑了。</AssassinsBro_Medieval_DisgracedKnight.baseDesc>
+  <!--EN: [PAWN_nameDef] swore an oath when [PAWN_pronoun] became a knight to "never refuse a challenge from an equal." However, when challenged to a duel by a fellow knight for accidentally causing offense, [PAWN_nameDef] fled.-->
+  <AssassinsBro_Medieval_DisgracedKnight.description>在[PAWN_nameDef]成为骑士时，[PAWN_pronoun]曾经宣誓“绝不回拒同等之人的挑战”。然而，当另一位骑士因为被意外冒犯而提出决斗时，[PAWN_nameDef]逃跑了。</AssassinsBro_Medieval_DisgracedKnight.description>
+
+  <!--EN: Knight errant-->
+  <AssassinsBro_Medieval_QuestingKnight.title>游侠骑士</AssassinsBro_Medieval_QuestingKnight.title>
+  <!--EN: Knight-->
+  <AssassinsBro_Medieval_QuestingKnight.titleShort>骑士</AssassinsBro_Medieval_QuestingKnight.titleShort>
+  <!--EN: In order to prove [PAWN_objective]self, [PAWN_nameDef] set off on a quest to seek a legendary relic. Many said that such a thing was impossible, and that the relic did not even exist. However, [PAWN_nameDef]'s oaths as a knight stated that [PAWN_pronoun] must “persevere to the end in any enterprise begun” and [PAWN_pronoun] refused to lose hope.-->
+  <AssassinsBro_Medieval_QuestingKnight.baseDesc>为了证明自己，[PAWN_nameDef]前去探寻一件传说中的圣物。很多人说这件事是不可能的，而且这件圣物可能根本不存在。但是，[PAWN_nameDef]的骑士誓言要求[PAWN_pronoun]必须“坚持到底”，而[PAWN_pronoun]拒绝放弃希望。</AssassinsBro_Medieval_QuestingKnight.baseDesc>
+  <!--EN: In order to prove [PAWN_objective]self, [PAWN_nameDef] set off on a quest to seek a legendary relic. Many said that such a thing was impossible, and that the relic did not even exist. However, [PAWN_nameDef]'s oaths as a knight stated that [PAWN_pronoun] must “persevere to the end in any enterprise begun” and [PAWN_pronoun] refused to lose hope.-->
+  <AssassinsBro_Medieval_QuestingKnight.description>为了证明自己，[PAWN_nameDef]前去探寻一件传说中的圣物。很多人说这件事是不可能的，而且这件圣物可能根本不存在。但是，[PAWN_nameDef]的骑士誓言要求[PAWN_pronoun]必须“坚持到底”，而[PAWN_pronoun]拒绝放弃希望。</AssassinsBro_Medieval_QuestingKnight.description>
+
+  <!--EN: Unscrupulous knight-->
+  <AssassinsBro_Medieval_UnscrupulousKnight.title>逐利骑士</AssassinsBro_Medieval_UnscrupulousKnight.title>
+  <!--EN: Knight-->
+  <AssassinsBro_Medieval_UnscrupulousKnight.titleShort>骑士</AssassinsBro_Medieval_UnscrupulousKnight.titleShort>
+  <!--EN: [PAWN_nameDef] held to [PAWN_possessive] oaths as a knight to help those in need, but only if there was something in it for [PAWN_objective]. [PAWN_pronoun] frequently accepted payments and bribes and was very slow to do anything for those that couldn’t pay.-->
+  <AssassinsBro_Medieval_UnscrupulousKnight.baseDesc>[PAWN_nameDef]信守[PAWN_possessive]骑士誓言，去帮助那些需要帮助的人，但前提是[PAWN_objective]能从中获利。[PAWN_pronoun]常常收受报答和贿赂，而对那些无法提供回报之人请求的任何事情，[PAWN_pronoun]都办得很慢。</AssassinsBro_Medieval_UnscrupulousKnight.baseDesc>
+  <!--EN: [PAWN_nameDef] held to [PAWN_possessive] oaths as a knight to help those in need, but only if there was something in it for [PAWN_objective]. [PAWN_pronoun] frequently accepted payments and bribes and was very slow to do anything for those that couldn’t pay.-->
+  <AssassinsBro_Medieval_UnscrupulousKnight.description>[PAWN_nameDef]信守[PAWN_possessive]骑士誓言，去帮助那些需要帮助的人，但前提是[PAWN_objective]能从中获利。[PAWN_pronoun]常常收受报答和贿赂，而对那些无法提供回报之人请求的任何事情，[PAWN_pronoun]都办得很慢。</AssassinsBro_Medieval_UnscrupulousKnight.description>
+
+
+  <!-- Merchant -->
+
+  <!--EN: Well-travelled merchant-->
+  <AssassinsBro_Medieval_WellTravelledMerchant.title>四海行商</AssassinsBro_Medieval_WellTravelledMerchant.title>
+  <!--EN: Merchant-->
+  <AssassinsBro_Medieval_WellTravelledMerchant.titleShort>商人</AssassinsBro_Medieval_WellTravelledMerchant.titleShort>
+  <!--EN: [PAWN_nameDef] dealt in luxury wares. [PAWN_pronoun] frequently travelled far from home in order to acquire rare goods. [PAWN_nameDef] was extremely personable, and was always able to get the price [PAWN_pronoun] wanted.-->
+  <AssassinsBro_Medieval_WellTravelledMerchant.baseDesc>[PAWN_nameDef]经营奢侈品。[PAWN_pronoun]常常为了购买稀有品而离家远游。[PAWN_nameDef]十分和蔼，并且总能得到[PAWN_pronoun]想要的价格。</AssassinsBro_Medieval_WellTravelledMerchant.baseDesc>
+  <!--EN: [PAWN_nameDef] dealt in luxury wares. [PAWN_pronoun] frequently travelled far from home in order to acquire rare goods. [PAWN_nameDef] was extremely personable, and was always able to get the price [PAWN_pronoun] wanted.-->
+  <AssassinsBro_Medieval_WellTravelledMerchant.description>[PAWN_nameDef]经营奢侈品。[PAWN_pronoun]常常为了购买稀有品而离家远游。[PAWN_nameDef]十分和蔼，并且总能得到[PAWN_pronoun]想要的价格。</AssassinsBro_Medieval_WellTravelledMerchant.description>
+
+  <!--EN: Local merchant-->
+  <AssassinsBro_Medieval_LocalMerchant.title>本地商人</AssassinsBro_Medieval_LocalMerchant.title>
+  <!--EN: Merchant-->
+  <AssassinsBro_Medieval_LocalMerchant.titleShort>商人</AssassinsBro_Medieval_LocalMerchant.titleShort>
+  <!--EN: [PAWN_nameDef] dealt in everyday goods. [PAWN_pronoun] rarely journeyed as far as merchants who dealt in more exotic wares, instead travelling to small local farming villages to buy basics like wool and flour that [PAWN_pronoun] brought back to the city to sell.-->
+  <AssassinsBro_Medieval_LocalMerchant.baseDesc>[PAWN_nameDef]经营日常商品。[PAWN_pronoun]很少像那些经营异国情调的商品的商人们一样远游，而是旅行到当地的小农村去购买羊毛和面粉这样的基础商品，再由[PAWN_pronoun]带回城市里销售。</AssassinsBro_Medieval_LocalMerchant.baseDesc>
+  <!--EN: [PAWN_nameDef] dealt in everyday goods. [PAWN_pronoun] rarely journeyed as far as merchants who dealt in more exotic wares, instead travelling to small local farming villages to buy basics like wool and flour that [PAWN_pronoun] brought back to the city to sell.-->
+  <AssassinsBro_Medieval_LocalMerchant.description>[PAWN_nameDef]经营日常商品。[PAWN_pronoun]很少像那些经营异国情调的商品的商人们一样远游，而是旅行到当地的小农村去购买羊毛和面粉这样的基础商品，再由[PAWN_pronoun]带回城市里销售。</AssassinsBro_Medieval_LocalMerchant.description>
+
+
+  <!-- Royal -->
+
+  <!--EN: Beloved king-->
+  <AssassinsBro_Medieval_BelovedKing.title>为人所爱的国王</AssassinsBro_Medieval_BelovedKing.title>
+  <!--EN: King-->
+  <AssassinsBro_Medieval_BelovedKing.titleShort>国王</AssassinsBro_Medieval_BelovedKing.titleShort>
+  <!--EN: [PAWN_nameDef] was the king of the realm. [PAWN_pronoun] did [PAWN_possessive] best to be a wise and just ruler and was widely loved by [PAWN_possessive] subjects.-->
+  <AssassinsBro_Medieval_BelovedKing.baseDesc>[PAWN_nameDef]是某个王国的国王。[PAWN_pronoun]尽[PAWN_possessive]最大努力成为了一位智慧而正直的统治者，并受到[PAWN_possessive]臣民们普遍的敬爱。</AssassinsBro_Medieval_BelovedKing.baseDesc>
+  <!--EN: [PAWN_nameDef] was the king of the realm. [PAWN_pronoun] did [PAWN_possessive] best to be a wise and just ruler and was widely loved by [PAWN_possessive] subjects.-->
+  <AssassinsBro_Medieval_BelovedKing.description>[PAWN_nameDef]是某个王国的国王。[PAWN_pronoun]尽[PAWN_possessive]最大努力成为了一位智慧而正直的统治者，并受到[PAWN_possessive]臣民们普遍的敬爱。</AssassinsBro_Medieval_BelovedKing.description>
+
+  <!--EN: Beloved queen-->
+  <AssassinsBro_Medieval_BelovedQueen.title>为人所爱的女王</AssassinsBro_Medieval_BelovedQueen.title>
+  <!--EN: Queen-->
+  <AssassinsBro_Medieval_BelovedQueen.titleShort>女王</AssassinsBro_Medieval_BelovedQueen.titleShort>
+  <!--EN: [PAWN_nameDef] was the queen of the realm. [PAWN_pronoun] did [PAWN_possessive] best to be a wise and just ruler and was widely loved by [PAWN_possessive] subjects.-->
+  <AssassinsBro_Medieval_BelovedQueen.baseDesc>[PAWN_nameDef]是某个王国的女王。[PAWN_pronoun]尽[PAWN_possessive]最大努力成为了一位智慧而正直的统治者，并受到[PAWN_possessive]臣民们普遍的敬爱。</AssassinsBro_Medieval_BelovedQueen.baseDesc>
+  <!--EN: [PAWN_nameDef] was the queen of the realm. [PAWN_pronoun] did [PAWN_possessive] best to be a wise and just ruler and was widely loved by [PAWN_possessive] subjects.-->
+  <AssassinsBro_Medieval_BelovedQueen.description>[PAWN_nameDef]是某个王国的女王。[PAWN_pronoun]尽[PAWN_possessive]最大努力成为了一位智慧而正直的统治者，并受到[PAWN_possessive]臣民们普遍的敬爱。</AssassinsBro_Medieval_BelovedQueen.description>
+
+  <!--EN: Mad king-->
+  <AssassinsBro_Medieval_MadKing.title>疯狂的国王</AssassinsBro_Medieval_MadKing.title>
+  <!--EN: Mad king-->
+  <AssassinsBro_Medieval_MadKing.titleShort>国王</AssassinsBro_Medieval_MadKing.titleShort>
+  <!--EN: [PAWN_nameDef] was the king of the realm. The absolute power [PAWN_pronoun] had drove [PAWN_objective] insane and [PAWN_pronoun] was widely considered to be a dangerous tyrant. [PAWN_pronoun] remained unchecked due to the machinations of those who benefitted from [PAWN_possessive] madness. [PAWN_nameDef] was incredibly paranoid, and frequently ordered the execution of innocent people for imagined assassination plots.-->
+  <AssassinsBro_Medieval_MadKing.baseDesc>[PAWN_nameDef]是某个王国的国王。[PAWN_possessive]绝对权力使[PAWN_pronoun]陷入疯狂，因此[PAWN_pronoun]被普遍认为是位危险的暴君。由于从[PAWN_possessive]疯狂中受益的人们的阴谋诡计，[PAWN_pronoun]至今未被制止。[PAWN_nameDef]极度偏执，并且常常因臆想的暗杀密谋而下令处决无辜之人。</AssassinsBro_Medieval_MadKing.baseDesc>
+  <!--EN: [PAWN_nameDef] was the king of the realm. The absolute power [PAWN_pronoun] had drove [PAWN_objective] insane and [PAWN_pronoun] was widely considered to be a dangerous tyrant. [PAWN_pronoun] remained unchecked due to the machinations of those who benefitted from [PAWN_possessive] madness. [PAWN_nameDef] was incredibly paranoid, and frequently ordered the execution of innocent people for imagined assassination plots.-->
+  <AssassinsBro_Medieval_MadKing.description>[PAWN_nameDef]是某个王国的国王。[PAWN_possessive]绝对权力使[PAWN_pronoun]陷入疯狂，因此[PAWN_pronoun]被普遍认为是位危险的暴君。由于从[PAWN_possessive]疯狂中受益的人们的阴谋诡计，[PAWN_pronoun]至今未被制止。[PAWN_nameDef]极度偏执，并且常常因臆想的暗杀密谋而下令处决无辜之人。</AssassinsBro_Medieval_MadKing.description>
+
+  <!--EN: Mad queen-->
+  <AssassinsBro_Medieval_MadQueen.title>疯狂的女王</AssassinsBro_Medieval_MadQueen.title>
+  <!--EN: Queen-->
+  <AssassinsBro_Medieval_MadQueen.titleShort>女王</AssassinsBro_Medieval_MadQueen.titleShort>
+  <!--EN: [PAWN_nameDef] was the queen of the realm. The absolute power [PAWN_pronoun] had drove [PAWN_objective] insane and [PAWN_pronoun] was widely considered to be a dangerous tyrant. [PAWN_pronoun] remained unchecked due to the machinations of those who benefitted from [PAWN_possessive] madness. [PAWN_nameDef] was incredibly paranoid, and frequently ordered the execution of innocent people for imagined assassination plots.-->
+  <AssassinsBro_Medieval_MadQueen.baseDesc>[PAWN_nameDef]是某个王国的女王。[PAWN_possessive]绝对权力使[PAWN_pronoun]陷入疯狂，因此[PAWN_pronoun]被普遍认为是位危险的暴君。由于从[PAWN_possessive]疯狂中受益的人们的阴谋诡计，[PAWN_pronoun]至今未被制止。[PAWN_nameDef]极度偏执，并且常常因臆想的暗杀密谋而下令处决无辜之人。</AssassinsBro_Medieval_MadQueen.baseDesc>
+  <!--EN: [PAWN_nameDef] was the queen of the realm. The absolute power [PAWN_pronoun] had drove [PAWN_objective] insane and [PAWN_pronoun] was widely considered to be a dangerous tyrant. [PAWN_pronoun] remained unchecked due to the machinations of those who benefitted from [PAWN_possessive] madness. [PAWN_nameDef] was incredibly paranoid, and frequently ordered the execution of innocent people for imagined assassination plots.-->
+  <AssassinsBro_Medieval_MadQueen.description>[PAWN_nameDef]是某个王国的女王。[PAWN_possessive]绝对权力使[PAWN_pronoun]陷入疯狂，因此[PAWN_pronoun]被普遍认为是位危险的暴君。由于从[PAWN_possessive]疯狂中受益的人们的阴谋诡计，[PAWN_pronoun]至今未被制止。[PAWN_nameDef]极度偏执，并且常常因臆想的暗杀密谋而下令处决无辜之人。</AssassinsBro_Medieval_MadQueen.description>
+
+  <!--EN: Heir apparent-->
+  <AssassinsBro_Medieval_HeirApparent.title>储君</AssassinsBro_Medieval_HeirApparent.title>
+  <!--EN: Crown prince-->
+  <AssassinsBro_Medieval_HeirApparent.titleShort>王储</AssassinsBro_Medieval_HeirApparent.titleShort>
+  <!--EN: Crown princess-->
+  <AssassinsBro_Medieval_HeirApparent.titleShortFemale>女王储</AssassinsBro_Medieval_HeirApparent.titleShortFemale>
+  <!--EN: As the heir to the crown, [PAWN_nameDef] had an endless list of royal duties to attend to. [PAWN_possessive] future as monarch depended on gaining the confidence of the royal court and [PAWN_pronoun] took every opportunity to display [PAWN_possessive] leadership and decision making skills. [PAWN_nameDef] also frequently had to meet with prospective marriage partners.-->
+  <AssassinsBro_Medieval_HeirApparent.baseDesc>作为王位的继承人，[PAWN_nameDef]有一系列无尽的皇家义务需要履行。[PAWN_nameDef]未来能否成为君主取决于获得皇家宫廷的信赖，所以[PAWN_pronoun]用一切的机会来展示[PAWN_possessive]领导能力和决策能力。[PAWN_nameDef]还要经常与未来的结婚对象见面。</AssassinsBro_Medieval_HeirApparent.baseDesc>
+  <!--EN: As the heir to the crown, [PAWN_nameDef] had an endless list of royal duties to attend to. [PAWN_possessive] future as monarch depended on gaining the confidence of the royal court and [PAWN_pronoun] took every opportunity to display [PAWN_possessive] leadership and decision making skills. [PAWN_nameDef] also frequently had to meet with prospective marriage partners.-->
+  <AssassinsBro_Medieval_HeirApparent.description>作为王位的继承人，[PAWN_nameDef]有一系列无尽的皇家义务需要履行。[PAWN_nameDef]未来能否成为君主取决于获得皇家宫廷的信赖，所以[PAWN_pronoun]用一切的机会来展示[PAWN_possessive]领导能力和决策能力。[PAWN_nameDef]还要经常与未来的结婚对象见面。</AssassinsBro_Medieval_HeirApparent.description>
+
+  <!--EN: Renegade royal-->
+  <AssassinsBro_Medieval_RenegadeRoyal.title>皇室叛徒</AssassinsBro_Medieval_RenegadeRoyal.title>
+  <!--EN: Renegade royal-->
+  <AssassinsBro_Medieval_RenegadeRoyal.titleShort>皇室叛徒</AssassinsBro_Medieval_RenegadeRoyal.titleShort>
+  <!--EN: [PAWN_nameDef]’s father was a cruel and corrupt king. He outright ignored his starving subjects and had anyone who said anything against him tortured and killed. [PAWN_nameDef] could stand for it no longer, and fled the kingdom with [PAWN_possessive] allies and some peasant refugees in order to begin building an army to overthrow the tyrant.-->
+  <AssassinsBro_Medieval_RenegadeRoyal.baseDesc>[PAWN_nameDef]的父亲是位残忍而腐朽的国王。他完全无视饥饿的臣民，还让任何反对他的人都被折磨并杀害。 [PAWN_nameDef]无法再容忍这一切，与[PAWN_possessive]盟友们和一些佃农难民一起逃离了这个王国，并且开始为了推翻暴君组织起一支军队。</AssassinsBro_Medieval_RenegadeRoyal.baseDesc>
+  <!--EN: [PAWN_nameDef]’s father was a cruel and corrupt king. He outright ignored his starving subjects and had anyone who said anything against him tortured and killed. [PAWN_nameDef] could stand for it no longer, and fled the kingdom with [PAWN_possessive] allies and some peasant refugees in order to begin building an army to overthrow the tyrant.-->
+  <AssassinsBro_Medieval_RenegadeRoyal.description>[PAWN_nameDef]的父亲是位残忍而腐朽的国王。他完全无视饥饿的臣民，还让任何反对他的人都被折磨并杀害。 [PAWN_nameDef]无法再容忍这一切，与[PAWN_possessive]盟友们和一些佃农难民一起逃离了这个王国，并且开始为了推翻暴君组织起一支军队。</AssassinsBro_Medieval_RenegadeRoyal.description>
+
+  <!--EN: Runaway royal-->
+  <AssassinsBro_Medieval_RunawayRoyal.title>脱逃的皇室成员</AssassinsBro_Medieval_RunawayRoyal.title>
+  <!--EN: Runaway prince-->
+  <AssassinsBro_Medieval_RunawayRoyal.titleShort>脱逃的王子</AssassinsBro_Medieval_RunawayRoyal.titleShort>
+  <!--EN: Runaway princess-->
+  <AssassinsBro_Medieval_RunawayRoyal.titleShortFemale>脱逃的公主</AssassinsBro_Medieval_RunawayRoyal.titleShortFemale>
+  <!--EN: [PAWN_nameDef] couldn’t take the pressure of being the future ruler of the kingdom. [PAWN_pronoun] fled to distant lands, disguising [PAWN_objective]self as a wealthy merchant who happened to be selling some “legitimately acquired” royal silverware.-->
+  <AssassinsBro_Medieval_RunawayRoyal.baseDesc>[PAWN_nameDef]无法忍受成为未来的王国统治者的压力。[PAWN_pronoun]逃到了遥远的地方，将[PAWN_objective]自己伪装成一位碰巧在出售一些“正当获得的”皇室银器的富商。</AssassinsBro_Medieval_RunawayRoyal.baseDesc>
+  <!--EN: [PAWN_nameDef] couldn’t take the pressure of being the future ruler of the kingdom. [PAWN_pronoun] fled to distant lands, disguising [PAWN_objective]self as a wealthy merchant who happened to be selling some “legitimately acquired” royal silverware.-->
+  <AssassinsBro_Medieval_RunawayRoyal.description>[PAWN_nameDef]无法忍受成为未来的王国统治者的压力。[PAWN_pronoun]逃到了遥远的地方，将[PAWN_objective]自己伪装成一位碰巧在出售一些“正当获得的”皇室银器的富商。</AssassinsBro_Medieval_RunawayRoyal.description>
+
+
+  <!-- Noble -->
+
+  <!--EN: Lady-in-waiting-->
+  <AssassinsBro_Medieval_LadyInWaiting.title>宫廷女侍</AssassinsBro_Medieval_LadyInWaiting.title>
+  <!--EN: Lady-in-waiting-->
+  <AssassinsBro_Medieval_LadyInWaiting.titleShort>宫廷女侍</AssassinsBro_Medieval_LadyInWaiting.titleShort>
+  <!--EN: [PAWN_nameDef] was the personal attendant to the queen herself. [PAWN_pronoun] kept the queen informed about all of the gossip and goings-on of the court, took care of correspondence on the queen’s behalf, and supervised the queen’s other attendants. [PAWN_nameDef] enjoyed sewing and embroidery, and sometimes helped in taking care of the queen’s extensive wardrobe, even though such a task was below her station.-->
+  <AssassinsBro_Medieval_LadyInWaiting.baseDesc>[PAWN_nameDef]是一位女王本人的贴身侍从。[PAWN_pronoun]让女王了解宫廷内的所有闲言碎语和异常情况，代表女王处理往来书信，并监督女王的其他侍从。[PAWN_nameDef]享受缝纫和刺绣，有时还会帮忙打理女王的宽阔衣柜，尽管这个任务并不在她的职责范围内。</AssassinsBro_Medieval_LadyInWaiting.baseDesc>
+  <!--EN: [PAWN_nameDef] was the personal attendant to the queen herself. [PAWN_pronoun] kept the queen informed about all of the gossip and goings-on of the court, took care of correspondence on the queen’s behalf, and supervised the queen’s other attendants. [PAWN_nameDef] enjoyed sewing and embroidery, and sometimes helped in taking care of the queen’s extensive wardrobe, even though such a task was below her station.-->
+  <AssassinsBro_Medieval_LadyInWaiting.description>[PAWN_nameDef]是一位女王本人的贴身侍从。[PAWN_pronoun]让女王了解宫廷内的所有闲言碎语和异常情况，代表女王处理往来书信，并监督女王的其他侍从。[PAWN_nameDef]享受缝纫和刺绣，有时还会帮忙打理女王的宽阔衣柜，尽管这个任务并不在她的职责范围内。</AssassinsBro_Medieval_LadyInWaiting.description>
+
+  <!--EN: Wise royal advisor-->
+  <AssassinsBro_Medieval_WiseRoyalAdvisor.title>英明的皇家顾问</AssassinsBro_Medieval_WiseRoyalAdvisor.title>
+  <!--EN: Royal advisor-->
+  <AssassinsBro_Medieval_WiseRoyalAdvisor.titleShort>皇家顾问</AssassinsBro_Medieval_WiseRoyalAdvisor.titleShort>
+  <!--EN: [PAWN_nameDef] was an advisor to the reigning monarch. [PAWN_pronoun] tried [PAWN_possessive] best to advocate for the interests of the commonfolk, being of the opinion that without the peasantry, the kingdom would collapse.-->
+  <AssassinsBro_Medieval_WiseRoyalAdvisor.baseDesc>[PAWN_nameDef]是一位执政君主的顾问。[PAWN_pronoun]坚持“如果没有农民，王国就会崩溃”的观点，尽其所能去主张平民的利益。</AssassinsBro_Medieval_WiseRoyalAdvisor.baseDesc>
+  <!--EN: [PAWN_nameDef] was an advisor to the reigning monarch. [PAWN_pronoun] tried [PAWN_possessive] best to advocate for the interests of the commonfolk, being of the opinion that without the peasantry, the kingdom would collapse.-->
+  <AssassinsBro_Medieval_WiseRoyalAdvisor.description>[PAWN_nameDef]是一位执政君主的顾问。[PAWN_pronoun]坚持“如果没有农民，王国就会崩溃”的观点，尽其所能去主张平民的利益。</AssassinsBro_Medieval_WiseRoyalAdvisor.description>
+
+  <!--EN: Greedy royal advisor-->
+  <AssassinsBro_Medieval_GreedyRoyalAdvisor.title>贪婪的皇家顾问</AssassinsBro_Medieval_GreedyRoyalAdvisor.title>
+  <!--EN: Royal advisor-->
+  <AssassinsBro_Medieval_GreedyRoyalAdvisor.titleShort>皇家顾问</AssassinsBro_Medieval_GreedyRoyalAdvisor.titleShort>
+  <!--EN: [PAWN_nameDef] was an advisor to the reigning monarch. Most of [PAWN_possessive] advice was self-serving, and [PAWN_nameDef] was able to become obscenely wealthy and powerful by subtly guiding the decisions of the Crown to always favour [PAWN_possessive] interests.-->
+  <AssassinsBro_Medieval_GreedyRoyalAdvisor.baseDesc>[PAWN_nameDef]是一位执政君主的顾问。[PAWN_possessive]大部分建议都自私自利，而且[PAWN_nameDef]擅长于巧妙引导君主的决定倾向于[PAWN_possessive]利益，借此变得富可敌国、权势滔天。</AssassinsBro_Medieval_GreedyRoyalAdvisor.baseDesc>
+  <!--EN: [PAWN_nameDef] was an advisor to the reigning monarch. Most of [PAWN_possessive] advice was self-serving, and [PAWN_nameDef] was able to become obscenely wealthy and powerful by subtly guiding the decisions of the Crown to always favour [PAWN_possessive] interests.-->
+  <AssassinsBro_Medieval_GreedyRoyalAdvisor.description>[PAWN_nameDef]是一位执政君主的顾问。[PAWN_possessive]大部分建议都自私自利，而且[PAWN_nameDef]擅长于巧妙引导君主的决定倾向于[PAWN_possessive]利益，借此变得富可敌国、权势滔天。</AssassinsBro_Medieval_GreedyRoyalAdvisor.description>
+
+  <!--EN: Landowner-->
+  <AssassinsBro_Medieval_Landowner.title>领主</AssassinsBro_Medieval_Landowner.title>
+  <!--EN: Landowner-->
+  <AssassinsBro_Medieval_Landowner.titleShort>领主</AssassinsBro_Medieval_Landowner.titleShort>
+  <!--EN: [PAWN_nameDef] held a considerable amount of land. [PAWN_pronoun] granted use of this land to vassal farmers in exchange for a share of what they grew. [PAWN_nameDef] had to be at least vaguely knowledgeable about agriculture in order to properly manage [PAWN_possessive] lands.-->
+  <AssassinsBro_Medieval_Landowner.baseDesc>[PAWN_nameDef]拥有大片的土地。[PAWN_pronoun]允许附庸的农民耕种这片土地，以换取他们收获的一部分。为了恰当管理[PAWN_possessive]土地，[PAWN_nameDef]至少得对农业略知一二。</AssassinsBro_Medieval_Landowner.baseDesc>
+  <!--EN: [PAWN_nameDef] held a considerable amount of land. [PAWN_pronoun] granted use of this land to vassal farmers in exchange for a share of what they grew. [PAWN_nameDef] had to be at least vaguely knowledgeable about agriculture in order to properly manage [PAWN_possessive] lands.-->
+  <AssassinsBro_Medieval_Landowner.description>[PAWN_nameDef]拥有大片的土地。[PAWN_pronoun]允许附庸的农民耕种这片土地，以换取他们收获的一部分。为了恰当管理[PAWN_possessive]土地，[PAWN_nameDef]至少得对农业略知一二。</AssassinsBro_Medieval_Landowner.description>
+
+  <!--EN: Courtier-->
+  <AssassinsBro_Medieval_Courtier.title>廷臣</AssassinsBro_Medieval_Courtier.title>
+  <!--EN: Courtier-->
+  <AssassinsBro_Medieval_Courtier.titleShort>廷臣</AssassinsBro_Medieval_Courtier.titleShort>
+  <!--EN: [PAWN_nameDef] was a member of the royal court. [PAWN_pronoun] had very little political knowledge and did not have a formal role within the court. [PAWN_pronoun] was simply there as a “close friend of the royal family.” Despite this, [PAWN_nameDef] tried to make [PAWN_objective]self useful in various ways, such as keeping the king and queen informed of any useful gossip and offering advice on personal matters.-->
+  <AssassinsBro_Medieval_Courtier.baseDesc>[PAWN_nameDef]是皇家宫廷的一员。[PAWN_pronoun]只有些许政治知识并且在宫廷内没有正式职位。[PAWN_pronoun]只是作为“皇室的密友”。尽管如此，[PAWN_nameDef]还是通过各种方式让[PAWN_objective]显得有用，比如让国王和女王了解那些有用的闲言碎语，并且在私人事务上提供建议。</AssassinsBro_Medieval_Courtier.baseDesc>
+  <!--EN: [PAWN_nameDef] was a member of the royal court. [PAWN_pronoun] had very little political knowledge and did not have a formal role within the court. [PAWN_pronoun] was simply there as a “close friend of the royal family.” Despite this, [PAWN_nameDef] tried to make [PAWN_objective]self useful in various ways, such as keeping the king and queen informed of any useful gossip and offering advice on personal matters.-->
+  <AssassinsBro_Medieval_Courtier.description>[PAWN_nameDef]是皇家宫廷的一员。[PAWN_pronoun]只有些许政治知识并且在宫廷内没有正式职位。[PAWN_pronoun]只是作为“皇室的密友”。尽管如此，[PAWN_nameDef]还是通过各种方式让[PAWN_objective]显得有用，比如让国王和女王了解那些有用的闲言碎语，并且在私人事务上提供建议。</AssassinsBro_Medieval_Courtier.description>
+
+
+  <!-- Servant -->
+
+  <!--EN: Stable master-->
+  <AssassinsBro_Medieval_StableMaster.title>马厩管理员</AssassinsBro_Medieval_StableMaster.title>
+  <!--EN: Stable master-->
+  <AssassinsBro_Medieval_StableMaster.titleShort>马厩管理员</AssassinsBro_Medieval_StableMaster.titleShort>
+  <!--EN: [PAWN_nameDef] ran the stables of a noble family. [PAWN_pronoun] oversaw the stablehands, helped with caring for the animals, and provided veterinary care. [PAWN_nameDef] was even entrusted with assisting with the buying and selling of the horses due to [PAWN_possessive] extensive knowledge.-->
+  <AssassinsBro_Medieval_StableMaster.baseDesc>[PAWN_nameDef]负责管理一个贵族家庭的马厩。[PAWN_pronoun]监督马夫，帮忙照顾动物，并且提供兽医护理。 由于[PAWN_possessive]渊博知识，[PAWN_nameDef]甚至被委托协助处理马匹的买卖。</AssassinsBro_Medieval_StableMaster.baseDesc>
+  <!--EN: [PAWN_nameDef] ran the stables of a noble family. [PAWN_pronoun] oversaw the stablehands, helped with caring for the animals, and provided veterinary care. [PAWN_nameDef] was even entrusted with assisting with the buying and selling of the horses due to [PAWN_possessive] extensive knowledge.-->
+  <AssassinsBro_Medieval_StableMaster.description>[PAWN_nameDef]负责管理一个贵族家庭的马厩。[PAWN_pronoun]监督马夫，帮忙照顾动物，并且提供兽医护理。 由于[PAWN_possessive]渊博知识，[PAWN_nameDef]甚至被委托协助处理马匹的买卖。</AssassinsBro_Medieval_StableMaster.description>
+
+  <!--EN: Milkmaid-->
+  <AssassinsBro_Medieval_Milkmaid.title>挤奶女工</AssassinsBro_Medieval_Milkmaid.title>
+  <!--EN: Milkmaid-->
+  <AssassinsBro_Medieval_Milkmaid.titleShort>挤奶女工</AssassinsBro_Medieval_Milkmaid.titleShort>
+  <!--EN: [PAWN_nameDef] was employed by a wealthy family to milk their cows. [PAWN_pronoun] was also tasked with churning the milk into cream and butter. [PAWN_nameDef] worked with a number of other milkmaids, and [PAWN_pronoun] enjoyed chatting with them as [PAWN_pronoun] worked.-->
+  <AssassinsBro_Medieval_Milkmaid.baseDesc>[PAWN_nameDef]被一个富裕家庭雇佣，为他们的牛挤奶。[PAWN_pronoun]也负责把牛奶搅拌成奶油和黄油。[PAWN_nameDef]和另一些挤奶女工一起工作，[PAWN_pronoun]十分享受在[PAWN_pronoun]工作时和其他人聊天。</AssassinsBro_Medieval_Milkmaid.baseDesc>
+  <!--EN: [PAWN_nameDef] was employed by a wealthy family to milk their cows. [PAWN_pronoun] was also tasked with churning the milk into cream and butter. [PAWN_nameDef] worked with a number of other milkmaids, and [PAWN_pronoun] enjoyed chatting with them as [PAWN_pronoun] worked.-->
+  <AssassinsBro_Medieval_Milkmaid.description>[PAWN_nameDef]被一个富裕家庭雇佣，为他们的牛挤奶。[PAWN_pronoun]也负责把牛奶搅拌成奶油和黄油。[PAWN_nameDef]和另一些挤奶女工一起工作，[PAWN_pronoun]十分享受在[PAWN_pronoun]工作时和其他人聊天。</AssassinsBro_Medieval_Milkmaid.description>
+
+  <!--EN: Houndmaster-->
+  <AssassinsBro_Medieval_Houndmaster.title>驯犬师</AssassinsBro_Medieval_Houndmaster.title>
+  <!--EN: Houndmaster-->
+  <AssassinsBro_Medieval_Houndmaster.titleShort>驯犬师</AssassinsBro_Medieval_Houndmaster.titleShort>
+  <!--EN: [PAWN_nameDef] took care of the royal hunting hounds. [PAWN_pronoun] trained the dogs to respond to the sound of [PAWN_possessive] hunting horn. [PAWN_nameDef] cared deeply for every single one of his charges. If a dog was injured or sick, [PAWN_pronoun] spared no effort in nursing it back to health.-->
+  <AssassinsBro_Medieval_Houndmaster.baseDesc>[PAWN_nameDef]负责照顾皇家猎犬。[PAWN_pronoun]训练猎犬回应[PAWN_possessive]狩猎号角声。[PAWN_nameDef]对他管理的每一只猎犬都认真照顾。如果一只猎犬受伤或者生病，[PAWN_pronoun]会不遗余力的照顾它恢复健康。</AssassinsBro_Medieval_Houndmaster.baseDesc>
+  <!--EN: [PAWN_nameDef] took care of the royal hunting hounds. [PAWN_pronoun] trained the dogs to respond to the sound of [PAWN_possessive] hunting horn. [PAWN_nameDef] cared deeply for every single one of his charges. If a dog was injured or sick, [PAWN_pronoun] spared no effort in nursing it back to health.-->
+  <AssassinsBro_Medieval_Houndmaster.description>[PAWN_nameDef]负责照顾皇家猎犬。[PAWN_pronoun]训练猎犬回应[PAWN_possessive]狩猎号角声。[PAWN_nameDef]对他管理的每一只猎犬都认真照顾。如果一只猎犬受伤或者生病，[PAWN_pronoun]会不遗余力的照顾它恢复健康。</AssassinsBro_Medieval_Houndmaster.description>
+
+  <!--EN: Chambermaid-->
+  <AssassinsBro_Medieval_Chambermaid.title>清洁女佣</AssassinsBro_Medieval_Chambermaid.title>
+  <!--EN: Chambermaid-->
+  <AssassinsBro_Medieval_Chambermaid.titleShort>清洁女佣</AssassinsBro_Medieval_Chambermaid.titleShort>
+  <!--EN: [PAWN_nameDef] kept the castle [PAWN_pronoun] worked in clean. [PAWN_possessive] most common task was sweeping up. [PAWN_pronoun] also polished any gold or silver, kept the fireplaces lit, and made the beds. If [PAWN_pronoun] managed to finish [PAWN_possessive] work early, [PAWN_nameDef] would go to help out in the kitchens and chat with the cooks there.-->
+  <AssassinsBro_Medieval_Chambermaid.baseDesc>[PAWN_nameDef]负责让[PAWN_pronoun]工作的这座城堡保持清洁。[PAWN_possessive]大部分工作都是清扫。 [PAWN_pronoun]也负责抛光金银器，让壁炉保持燃烧，还有铺床。如果[PAWN_pronoun]设法早点完成了[PAWN_possessive]工作，[PAWN_nameDef]会去厨房帮忙并和那里的厨师们闲聊。</AssassinsBro_Medieval_Chambermaid.baseDesc>
+  <!--EN: [PAWN_nameDef] kept the castle [PAWN_pronoun] worked in clean. [PAWN_possessive] most common task was sweeping up. [PAWN_pronoun] also polished any gold or silver, kept the fireplaces lit, and made the beds. If [PAWN_pronoun] managed to finish [PAWN_possessive] work early, [PAWN_nameDef] would go to help out in the kitchens and chat with the cooks there.-->
+  <AssassinsBro_Medieval_Chambermaid.description>[PAWN_nameDef]负责让[PAWN_pronoun]工作的这座城堡保持清洁。[PAWN_possessive]大部分工作都是清扫。 [PAWN_pronoun]也负责抛光金银器，让壁炉保持燃烧，还有铺床。如果[PAWN_pronoun]设法早点完成了[PAWN_possessive]工作，[PAWN_nameDef]会去厨房帮忙并和那里的厨师们闲聊。</AssassinsBro_Medieval_Chambermaid.description>
+  
+
+  <!--EN: Castle laundress-->
+  <AssassinsBro_Medieval_CastleLaundress.title>城堡洗衣女工</AssassinsBro_Medieval_CastleLaundress.title>
+  <!--EN: Laundress-->
+  <AssassinsBro_Medieval_CastleLaundress.titleShort>洗衣女工</AssassinsBro_Medieval_CastleLaundress.titleShort>
+  <!--EN: [PAWN_nameDef] washed the bedding and clothes of everyone who lived in the castle. [PAWN_pronoun] was quite strong from carrying the water used to fill the wooden washing basins and from handling heavy, wet linen every day.-->
+  <AssassinsBro_Medieval_CastleLaundress.baseDesc>[PAWN_nameDef]负责洗所有住在城堡里的人的衣服和寝具。因为每天都要拎用来装满木洗衣盆的水和搬又重又湿的亚麻布，[PAWN_pronoun]变得相当强壮。</AssassinsBro_Medieval_CastleLaundress.baseDesc>
+  <!--EN: [PAWN_nameDef] washed the bedding and clothes of everyone who lived in the castle. [PAWN_pronoun] was quite strong from carrying the water used to fill the wooden washing basins and from handling heavy, wet linen every day.-->
+  <AssassinsBro_Medieval_CastleLaundress.description>[PAWN_nameDef]负责洗所有住在城堡里的人的衣服和寝具。因为每天都要拎用来装满木洗衣盆的水和搬又重又湿的亚麻布，[PAWN_pronoun]变得相当强壮。</AssassinsBro_Medieval_CastleLaundress.description>
+
+  <!--EN: Royal cook-->
+  <AssassinsBro_Medieval_RoyalCook.title>皇家厨师</AssassinsBro_Medieval_RoyalCook.title>
+  <!--EN: Royal cook-->
+  <AssassinsBro_Medieval_RoyalCook.titleShort>皇家厨师</AssassinsBro_Medieval_RoyalCook.titleShort>
+  <!--EN: [PAWN_nameDef] was in charge of the royal kitchens and all who worked within them. [PAWN_pronoun] was a fantastic cook and was especially renowned for [PAWN_possessive] banquet feasts. [PAWN_pronoun] ran [PAWN_possessive] kitchen well, and was generally liked and respected by those who worked under [PAWN_objective].-->
+  <AssassinsBro_Medieval_RoyalCook.baseDesc>[PAWN_nameDef]负责管理皇家厨房以及所有在里面工作的人。[PAWN_pronoun]是位极为优秀的厨师，以[PAWN_possessive]饕餮盛宴名扬天下。[PAWN_pronoun]将[PAWN_possessive]厨房管理得很好，也被在[PAWN_objective]手下工作的人喜爱和尊重着。</AssassinsBro_Medieval_RoyalCook.baseDesc>
+  <!--EN: [PAWN_nameDef] was in charge of the royal kitchens and all who worked within them. [PAWN_pronoun] was a fantastic cook and was especially renowned for [PAWN_possessive] banquet feasts. [PAWN_pronoun] ran [PAWN_possessive] kitchen well, and was generally liked and respected by those who worked under [PAWN_objective].-->
+  <AssassinsBro_Medieval_RoyalCook.description>[PAWN_nameDef]负责管理皇家厨房以及所有在里面工作的人。[PAWN_pronoun]是位极为优秀的厨师，以[PAWN_possessive]饕餮盛宴名扬天下。[PAWN_pronoun]将[PAWN_possessive]厨房管理得很好，也被在[PAWN_objective]手下工作的人喜爱和尊重着。</AssassinsBro_Medieval_RoyalCook.description>
+
+
+  <!-- Craftsmen -->
+
+  <!--EN: Goldsmith-->
+  <AssassinsBro_Medieval_Goldsmith.title>金匠</AssassinsBro_Medieval_Goldsmith.title>
+  <!--EN: Goldsmith-->
+  <AssassinsBro_Medieval_Goldsmith.titleShort>金匠</AssassinsBro_Medieval_Goldsmith.titleShort>
+  <!--EN: [PAWN_nameDef] crafted jewellery and other trinkets out of gold. Because he worked with such valuable materials, [PAWN_possessive] customers tended to be almost exclusively wealthy nobles. [PAWN_nameDef] had to know how to behave appropriately when dealing with the upper class, and was an expert on etiquette.-->
+  <AssassinsBro_Medieval_Goldsmith.baseDesc>[PAWN_nameDef]制作金质的珠宝和其他小饰品。因为使用的材料是如此珍贵，[PAWN_possessive]主顾基本上是相当富裕的贵族。[PAWN_nameDef]应当了解如何在和上流社会打交道时表现得体，并且还是礼仪上的专家。</AssassinsBro_Medieval_Goldsmith.baseDesc>
+  <!--EN: [PAWN_nameDef] crafted jewellery and other trinkets out of gold. Because he worked with such valuable materials, [PAWN_possessive] customers tended to be almost exclusively wealthy nobles. [PAWN_nameDef] had to know how to behave appropriately when dealing with the upper class, and was an expert on etiquette.-->
+  <AssassinsBro_Medieval_Goldsmith.description>[PAWN_nameDef]制作金质的珠宝和其他小饰品。因为使用的材料是如此珍贵，[PAWN_possessive]主顾基本上是相当富裕的贵族。[PAWN_nameDef]应当了解如何在和上流社会打交道时表现得体，并且还是礼仪上的专家。</AssassinsBro_Medieval_Goldsmith.description>
+
+  <!--EN: Silversmith-->
+  <AssassinsBro_Medieval_Silversmith.title>银匠</AssassinsBro_Medieval_Silversmith.title>
+  <!--EN: Silversmith-->
+  <AssassinsBro_Medieval_Silversmith.titleShort>银匠</AssassinsBro_Medieval_Silversmith.titleShort>
+  <!--EN: [PAWN_nameDef] crafted jewellery and other trinkets out of silver. Most of [PAWN_possessive] customers were successful, worldly merchants. [PAWN_nameDef] learned a great deal about all manner of things from listening to tales of [PAWN_possessive] customers’ travels. -->
+  <AssassinsBro_Medieval_Silversmith.baseDesc>[PAWN_nameDef]制作银质的珠宝和其他小饰品。大部分[PAWN_possessive]主顾都是成功且世故的商人。[PAWN_nameDef]从听[PAWN_possessive]主顾旅行时的故事中学到了许多有关各种各样的事情的知识。</AssassinsBro_Medieval_Silversmith.baseDesc>
+  <!--EN: [PAWN_nameDef] crafted jewellery and other trinkets out of silver. Most of [PAWN_possessive] customers were successful, worldly merchants. [PAWN_nameDef] learned a great deal about all manner of things from listening to tales of [PAWN_possessive] customers’ travels. -->
+  <AssassinsBro_Medieval_Silversmith.description>[PAWN_nameDef]制作银质的珠宝和其他小饰品。大部分[PAWN_possessive]主顾都是成功且世故的商人。[PAWN_nameDef]从听[PAWN_possessive]主顾旅行时的故事中学到了许多有关各种各样的事情的知识。</AssassinsBro_Medieval_Silversmith.description>
+
+  <!--EN: Busy blacksmith-->
+  <AssassinsBro_Medieval_BusyBlacksmith.title>忙碌的铁匠</AssassinsBro_Medieval_BusyBlacksmith.title>
+  <!--EN: Blacksmith-->
+  <AssassinsBro_Medieval_BusyBlacksmith.titleShort>铁匠</AssassinsBro_Medieval_BusyBlacksmith.titleShort>
+  <!--EN: [PAWN_nameDef] forged tools and weapons from metal. [PAWN_pronoun] worked in a town that was along a busy trade route, and had to be skilled at making and repairing a large variety of goods for the people who lived there, as well as for the many travellers who passed through. Constantly hammering metal made [PAWN_nameDef] extremely strong.-->
+  <AssassinsBro_Medieval_BusyBlacksmith.baseDesc>[PAWN_nameDef]用金属锻造工具和武器。[PAWN_pronoun]在一个毗邻一条繁忙商道的小镇工作，而且必须熟练的为当地居民和许多路过的旅行者制作和修理各式各样的物品。不断地捶打金属使得[PAWN_nameDef]十分强壮。</AssassinsBro_Medieval_BusyBlacksmith.baseDesc>
+  <!--EN: [PAWN_nameDef] forged tools and weapons from metal. [PAWN_pronoun] worked in a town that was along a busy trade route, and had to be skilled at making and repairing a large variety of goods for the people who lived there, as well as for the many travellers who passed through. Constantly hammering metal made [PAWN_nameDef] extremely strong.-->
+  <AssassinsBro_Medieval_BusyBlacksmith.description>[PAWN_nameDef]用金属锻造工具和武器。[PAWN_pronoun]在一个毗邻一条繁忙商道的小镇工作，而且必须熟练的为当地居民和许多路过的旅行者制作和修理各式各样的物品。不断地捶打金属使得[PAWN_nameDef]十分强壮。</AssassinsBro_Medieval_BusyBlacksmith.description>
+
+  <!--EN: Village blacksmith-->
+  <AssassinsBro_Medieval_VillageBlacksmith.title>村中铁匠</AssassinsBro_Medieval_VillageBlacksmith.title>
+  <!--EN: Blacksmith-->
+  <AssassinsBro_Medieval_VillageBlacksmith.titleShort>铁匠</AssassinsBro_Medieval_VillageBlacksmith.titleShort>
+  <!--EN: [PAWN_nameDef] forged tools and weapons from metal. [PAWN_pronoun] worked in a small village and mostly made and repaired farming tools. Proper coal for the smithy was hard to come by, and [PAWN_nameDef] instead used charcoal made from wood that [PAWN_pronoun] chopped [PAWN_objective]self. Constantly hammering metal made [PAWN_nameDef] extremely strong.-->
+  <AssassinsBro_Medieval_VillageBlacksmith.baseDesc>[PAWN_nameDef]用金属锻造工具和武器。[PAWN_pronoun]在一个小村庄工作，并且大部分时间都在制作和修理农具。当地很难找到适合铁匠铺使用的煤，因此[PAWN_nameDef]使用由[PAWN_pronoun]自己砍伐的木头亲手制作的木炭。不断地捶打金属使得[PAWN_nameDef]十分强壮。</AssassinsBro_Medieval_VillageBlacksmith.baseDesc>
+  <!--EN: [PAWN_nameDef] forged tools and weapons from metal. [PAWN_pronoun] worked in a small village and mostly made and repaired farming tools. Proper coal for the smithy was hard to come by, and [PAWN_nameDef] instead used charcoal made from wood that [PAWN_pronoun] chopped [PAWN_objective]self. Constantly hammering metal made [PAWN_nameDef] extremely strong.-->
+  <AssassinsBro_Medieval_VillageBlacksmith.description>[PAWN_nameDef]用金属锻造工具和武器。[PAWN_pronoun]在一个小村庄工作，并且大部分时间都在制作和修理农具。当地很难找到适合铁匠铺使用的煤，因此[PAWN_nameDef]使用由[PAWN_pronoun]自己砍伐的木头亲手制作的木炭。不断地捶打金属使得[PAWN_nameDef]十分强壮。</AssassinsBro_Medieval_VillageBlacksmith.description>
+
+  <!--EN: Cobbler-->
+  <AssassinsBro_Medieval_Cobbler.title>鞋匠</AssassinsBro_Medieval_Cobbler.title>
+  <!--EN: Cobbler-->
+  <AssassinsBro_Medieval_Cobbler.titleShort>鞋匠</AssassinsBro_Medieval_Cobbler.titleShort>
+  <!--EN: [PAWN_nameDef] made and repaired boots, shoes, and clogs. [PAWN_nameDef] was very good with [PAWN_possessive] customers, and often engaged in idle chit-chat with them while [PAWN_pronoun] was taking their measurements.-->
+  <AssassinsBro_Medieval_Cobbler.baseDesc>[PAWN_nameDef]制作并修理靴子、鞋子和木鞋。[PAWN_nameDef]和[PAWN_possessive]主顾们关系不错，在测量主顾们的尺寸时，[PAWN_pronoun]常常和他们闲聊。</AssassinsBro_Medieval_Cobbler.baseDesc>
+  <!--EN: [PAWN_nameDef] made and repaired boots, shoes, and clogs. [PAWN_nameDef] was very good with [PAWN_possessive] customers, and often engaged in idle chit-chat with them while [PAWN_pronoun] was taking their measurements.-->
+  <AssassinsBro_Medieval_Cobbler.description>[PAWN_nameDef]制作并修理靴子、鞋子和木鞋。[PAWN_nameDef]和[PAWN_possessive]主顾们关系不错，在测量主顾们的尺寸时，[PAWN_pronoun]常常和他们闲聊。</AssassinsBro_Medieval_Cobbler.description>
+
+  <!--EN: Kindly cartwright-->
+  <AssassinsBro_Medieval_KindlyCartwright.title>好心的车匠</AssassinsBro_Medieval_KindlyCartwright.title>
+  <!--EN: Cartwright-->
+  <AssassinsBro_Medieval_KindlyCartwright.titleShort>车匠</AssassinsBro_Medieval_KindlyCartwright.titleShort>
+  <!--EN: [PAWN_nameDef] built and repaired wooden carts and wagons. Merchants and traders frequented [PAWN_possessive] workshop. However, [PAWN_pronoun] most commonly provided [PAWN_possessive] services to poor farmers, often at a discount. The grateful farmers provided [PAWN_nameDef] with so many home-cooked meals, that [PAWN_pronoun] hardly ever had to cook for [PAWN_objective]self.-->
+  <AssassinsBro_Medieval_KindlyCartwright.baseDesc>[PAWN_nameDef]建造并修理手推车和运货马车。商人和小贩经常光顾[PAWN_possessive]工坊。但是，[PAWN_pronoun]常常给贫穷的农民提供[PAWN_possessive]服务，通常还会打折。感激的农民们为[PAWN_nameDef]提供了相当之多的自制食物，以至于[PAWN_pronoun]极少亲自下厨。</AssassinsBro_Medieval_KindlyCartwright.baseDesc>
+  <!--EN: [PAWN_nameDef] built and repaired wooden carts and wagons. Merchants and traders frequented [PAWN_possessive] workshop. However, [PAWN_pronoun] most commonly provided [PAWN_possessive] services to poor farmers, often at a discount. The grateful farmers provided [PAWN_nameDef] with so many home-cooked meals, that [PAWN_pronoun] hardly ever had to cook for [PAWN_objective]self.-->
+  <AssassinsBro_Medieval_KindlyCartwright.description>[PAWN_nameDef]建造并修理手推车和运货马车。商人和小贩经常光顾[PAWN_possessive]工坊。但是，[PAWN_pronoun]常常给贫穷的农民提供[PAWN_possessive]服务，通常还会打折。感激的农民们为[PAWN_nameDef]提供了相当之多的自制食物，以至于[PAWN_pronoun]极少亲自下厨。</AssassinsBro_Medieval_KindlyCartwright.description>
+
+  <!--EN: Seamstress-->
+  <AssassinsBro_Medieval_Seamstress.title>裁缝</AssassinsBro_Medieval_Seamstress.title>
+  <!--EN: Seamstress-->
+  <AssassinsBro_Medieval_Seamstress.titleShort>裁缝</AssassinsBro_Medieval_Seamstress.titleShort>
+  <!--EN: [PAWN_nameDef] sewed and mended clothing and other items made of fabric. Time and materials permitting, [PAWN_pronoun] liked to add little embroidered flowers to the things [PAWN_pronoun] made.-->
+  <AssassinsBro_Medieval_Seamstress.baseDesc>[PAWN_nameDef]缝纫和修补衣服和其他布料制作的物品。如果时间和材料允许，[PAWN_pronoun]喜欢在[PAWN_pronoun] 制作的物品上加一些小小的绣花。</AssassinsBro_Medieval_Seamstress.baseDesc>
+  <!--EN: [PAWN_nameDef] sewed and mended clothing and other items made of fabric. Time and materials permitting, [PAWN_pronoun] liked to add little embroidered flowers to the things [PAWN_pronoun] made.-->
+  <AssassinsBro_Medieval_Seamstress.description>[PAWN_nameDef]缝纫和修补衣服和其他布料制作的物品。如果时间和材料允许，[PAWN_pronoun]喜欢在[PAWN_pronoun] 制作的物品上加一些小小的绣花。</AssassinsBro_Medieval_Seamstress.description>
+
+  <!--EN: Stonemason-->
+  <AssassinsBro_Medieval_Stonemason.title>石匠</AssassinsBro_Medieval_Stonemason.title>
+  <!--EN: Stonemason-->
+  <AssassinsBro_Medieval_Stonemason.titleShort>石匠</AssassinsBro_Medieval_Stonemason.titleShort>
+  <!--EN: [PAWN_nameDef] shaped rough chunks of rock into usable bricks, which [PAWN_pronoun] used to build with. [PAWN_pronoun] never lived in one place for long, going wherever there was work to do.-->
+  <AssassinsBro_Medieval_Stonemason.baseDesc>[PAWN_nameDef]将粗糙的大块岩石切割成可用的石块，[PAWN_pronoun]用这些来建造建筑。[PAWN_pronoun]从来没有在一个地方长期居住过，而总是前往任何需要工作的地方。</AssassinsBro_Medieval_Stonemason.baseDesc>
+  <!--EN: [PAWN_nameDef] shaped rough chunks of rock into usable bricks, which [PAWN_pronoun] used to build with. [PAWN_pronoun] never lived in one place for long, going wherever there was work to do.-->
+  <AssassinsBro_Medieval_Stonemason.description>[PAWN_nameDef]将粗糙的大块岩石切割成可用的石块，[PAWN_pronoun]用这些来建造建筑。[PAWN_pronoun]从来没有在一个地方长期居住过，而总是前往任何需要工作的地方。</AssassinsBro_Medieval_Stonemason.description>
+
+  <!--EN: Carpenter-->
+  <AssassinsBro_Medieval_Carpenter.title>木匠</AssassinsBro_Medieval_Carpenter.title>
+  <!--EN: Carpenter-->
+  <AssassinsBro_Medieval_Carpenter.titleShort>木匠</AssassinsBro_Medieval_Carpenter.titleShort>
+  <!--EN: [PAWN_nameDef] cut wood into usable planks which [PAWN_pronoun] provided to builders. [PAWN_pronoun] also created finely crafted furniture, utensils, and tools. [PAWN_nameDef] had to be quite good at math in order to correctly calculate measurements for [PAWN_possessive] work.-->
+  <AssassinsBro_Medieval_Carpenter.baseDesc>[PAWN_nameDef]把木头切成可用的木板，[PAWN_pronoun]将这些木板提供给建筑工。[PAWN_pronoun]同时也制作做工精细的家具、器皿和工具。[PAWN_nameDef]必须非常擅长数学，才能准确计算[PAWN_possessive]作品的尺寸。</AssassinsBro_Medieval_Carpenter.baseDesc>
+  <!--EN: [PAWN_nameDef] cut wood into usable planks which [PAWN_pronoun] provided to builders. [PAWN_pronoun] also created finely crafted furniture, utensils, and tools. [PAWN_nameDef] had to be quite good at math in order to correctly calculate measurements for [PAWN_possessive] work.-->
+  <AssassinsBro_Medieval_Carpenter.description>[PAWN_nameDef]把木头切成可用的木板，[PAWN_pronoun]将这些木板提供给建筑工。[PAWN_pronoun]同时也制作做工精细的家具、器皿和工具。[PAWN_nameDef]必须非常擅长数学，才能准确计算[PAWN_possessive]作品的尺寸。</AssassinsBro_Medieval_Carpenter.description>
+
+
+  <!-- Peasant -->
+
+  <!--EN: Fishmonger-->
+  <AssassinsBro_Medieval_Fishmonger.title>鱼贩</AssassinsBro_Medieval_Fishmonger.title>
+  <!--EN: Fishmonger-->
+  <AssassinsBro_Medieval_Fishmonger.titleShort>鱼贩</AssassinsBro_Medieval_Fishmonger.titleShort>
+  <!--EN: [PAWN_nameDef] sold fish at the market. Because [PAWN_possessive] wares were quick to spoil, [PAWN_nameDef] had to be relentless when it came to sales in order to unload [PAWN_possessive] stock quickly. [PAWN_pronoun] was well known for [PAWN_possessive] loud voice carrying across the market all day long, crying out “fish for sale!”-->
+  <AssassinsBro_Medieval_Fishmonger.baseDesc>[PAWN_nameDef]在市场上售卖鱼。因为[PAWN_possessive]货物会很快变质，为了尽快卖出[PAWN_possessive]货品，[PAWN_nameDef]在售卖货物上必须坚持不懈。[PAWN_pronoun]因为整日在市场上以[PAWN_possessive]洪亮嗓门喊着“卖鱼啦！”而相当出名。</AssassinsBro_Medieval_Fishmonger.baseDesc>
+  <!--EN: [PAWN_nameDef] sold fish at the market. Because [PAWN_possessive] wares were quick to spoil, [PAWN_nameDef] had to be relentless when it came to sales in order to unload [PAWN_possessive] stock quickly. [PAWN_pronoun] was well known for [PAWN_possessive] loud voice carrying across the market all day long, crying out “fish for sale!”-->
+  <AssassinsBro_Medieval_Fishmonger.description>[PAWN_nameDef]在市场上售卖鱼。因为[PAWN_possessive]货物会很快变质，为了尽快卖出[PAWN_possessive]货品，[PAWN_nameDef]在售卖货物上必须坚持不懈。[PAWN_pronoun]因为整日在市场上以[PAWN_possessive]洪亮嗓门喊着“卖鱼啦！”而相当出名。</AssassinsBro_Medieval_Fishmonger.description>
+
+  <!--EN: Net fisher-->
+  <AssassinsBro_Medieval_NetFisher.title>渔网渔民</AssassinsBro_Medieval_NetFisher.title>
+  <!--EN: Fisher-->
+  <AssassinsBro_Medieval_NetFisher.titleShort>渔民</AssassinsBro_Medieval_NetFisher.titleShort>
+  <!--EN: [PAWN_nameDef] owned a small boat which [PAWN_pronoun] used to earn a living through fishing. [PAWN_pronoun] mainly fished using nets which [PAWN_pronoun] wove and repaired [PAWN_objective]self.-->
+  <AssassinsBro_Medieval_NetFisher.baseDesc>[PAWN_nameDef]以捕鱼为生并拥有一艘属于[PAWN_pronoun]的小船。[PAWN_pronoun]主要使用由[PAWN_pronoun]亲手编织，[PAWN_objective]自己修理的渔网捕鱼。</AssassinsBro_Medieval_NetFisher.baseDesc>
+  <!--EN: [PAWN_nameDef] owned a small boat which [PAWN_pronoun] used to earn a living through fishing. [PAWN_pronoun] mainly fished using nets which [PAWN_pronoun] wove and repaired [PAWN_objective]self.-->
+  <AssassinsBro_Medieval_NetFisher.description>[PAWN_nameDef]以捕鱼为生并拥有一艘属于[PAWN_pronoun]的小船。[PAWN_pronoun]主要使用由[PAWN_pronoun]亲手编织，[PAWN_objective]自己修理的渔网捕鱼。</AssassinsBro_Medieval_NetFisher.description>
+
+  <!--EN: Weir fisher-->
+  <AssassinsBro_Medieval_WeirFisher.title>鱼堰渔民</AssassinsBro_Medieval_WeirFisher.title>
+  <!--EN: Fisher-->
+  <AssassinsBro_Medieval_WeirFisher.titleShort>渔民</AssassinsBro_Medieval_WeirFisher.titleShort>
+  <!--EN: [PAWN_nameDef] built a weir across the river that [PAWN_pronoun] lived next to in order to catch fish. The flow of the river was rapid, meaning [PAWN_nameDef] had to frequently repair and replace [PAWN_possessive] fish traps.-->
+  <AssassinsBro_Medieval_WeirFisher.baseDesc>[PAWN_nameDef]在[PAWN_pronoun]居住的地方附近的河流建造了一处拦鱼堰，用于捕鱼。这条河的水流很急，这意味着[PAWN_nameDef]必须经常维修和更换[PAWN_possessive]鱼笼。</AssassinsBro_Medieval_WeirFisher.baseDesc>
+  <!--EN: [PAWN_nameDef] built a weir across the river that [PAWN_pronoun] lived next to in order to catch fish. The flow of the river was rapid, meaning [PAWN_nameDef] had to frequently repair and replace [PAWN_possessive] fish traps.-->
+  <AssassinsBro_Medieval_WeirFisher.description>[PAWN_nameDef]在[PAWN_pronoun]居住的地方附近的河流建造了一处拦鱼堰，用于捕鱼。这条河的水流很急，这意味着[PAWN_nameDef]必须经常维修和更换[PAWN_possessive]鱼笼。</AssassinsBro_Medieval_WeirFisher.description>
+
+  <!--EN: Woodcutter-->
+  <AssassinsBro_Medieval_Woodcutter.title>伐木工</AssassinsBro_Medieval_Woodcutter.title>
+  <!--EN: Woodcutter-->
+  <AssassinsBro_Medieval_Woodcutter.titleShort>伐木工</AssassinsBro_Medieval_Woodcutter.titleShort>
+  <!--EN: [PAWN_nameDef] chopped wood which [PAWN_pronoun] sold as fuel and building material. [PAWN_pronoun] spent much of [PAWN_possessive] time deep inside a dense and dangerous forest, and had to know how to defend [PAWN_objective]self from animal attacks.-->
+  <AssassinsBro_Medieval_Woodcutter.baseDesc>[PAWN_nameDef]将[PAWN_pronoun]砍伐的木头作为燃料和建筑材料出售。[PAWN_pronoun]将[PAWN_possessive]很多时间花在茂密而危险的森林里，而[PAWN_objective]知道如何保护自己免受动物攻击。</AssassinsBro_Medieval_Woodcutter.baseDesc>
+  <!--EN: [PAWN_nameDef] chopped wood which [PAWN_pronoun] sold as fuel and building material. [PAWN_pronoun] spent much of [PAWN_possessive] time deep inside a dense and dangerous forest, and had to know how to defend [PAWN_objective]self from animal attacks.-->
+  <AssassinsBro_Medieval_Woodcutter.description>[PAWN_nameDef]将[PAWN_pronoun]砍伐的木头作为燃料和建筑材料出售。[PAWN_pronoun]将[PAWN_possessive]很多时间花在茂密而危险的森林里，而[PAWN_objective]知道如何保护自己免受动物攻击。</AssassinsBro_Medieval_Woodcutter.description>
+
+  <!--EN: Shepherd-->
+  <AssassinsBro_Medieval_Shepherd.title>牧羊人</AssassinsBro_Medieval_Shepherd.title>
+  <!--EN: Shepherd-->
+  <AssassinsBro_Medieval_Shepherd.titleShort>牧羊人</AssassinsBro_Medieval_Shepherd.titleShort>
+  <!--EN: [PAWN_nameDef] tended to a large flock of sheep. [PAWN_pronoun] led a relatively isolated life, living far from civilization in a small covered wagon with [PAWN_possessive] sheep and herding dogs.-->
+  <AssassinsBro_Medieval_Shepherd.baseDesc>[PAWN_nameDef]照管一大群绵羊。[PAWN_pronoun]过着相对孤独的生活，和[PAWN_possessive]羊群还有牧羊犬们一起住在远离文明社会的一辆小篷顶马车上。</AssassinsBro_Medieval_Shepherd.baseDesc>
+  <!--EN: [PAWN_nameDef] tended to a large flock of sheep. [PAWN_pronoun] led a relatively isolated life, living far from civilization in a small covered wagon with [PAWN_possessive] sheep and herding dogs.-->
+  <AssassinsBro_Medieval_Shepherd.description>[PAWN_nameDef]照管一大群绵羊。[PAWN_pronoun]过着相对孤独的生活，和[PAWN_possessive]羊群还有牧羊犬们一起住在远离文明社会的一辆小篷顶马车上。</AssassinsBro_Medieval_Shepherd.description>
+
+  <!--EN: Crop farmer-->
+  <AssassinsBro_Medieval_CropFarmer.title>农民</AssassinsBro_Medieval_CropFarmer.title>
+  <!--EN: Farmer-->
+  <AssassinsBro_Medieval_CropFarmer.titleShort>农民</AssassinsBro_Medieval_CropFarmer.titleShort>
+  <!--EN: [PAWN_nameDef] worked the fields, growing crops such as wheat, barley, and various vegetables. It was often gruelling work, but [PAWN_nameDef]’s fellow farmers were always willing to pitch in and help [PAWN_objective], just as [PAWN_pronoun] was always willing to help them.-->
+  <AssassinsBro_Medieval_CropFarmer.baseDesc>[PAWN_nameDef]耕种田地,种植像小麦、大麦和各种各样的蔬菜之类的作物。这是份累人的活计，但[PAWN_nameDef]的农民同伴们总是乐意给[PAWN_objective]搭把手，就像[PAWN_pronoun]也总是乐意帮助他们一样。</AssassinsBro_Medieval_CropFarmer.baseDesc>
+  <!--EN: [PAWN_nameDef] worked the fields, growing crops such as wheat, barley, and various vegetables. It was often gruelling work, but [PAWN_nameDef]’s fellow farmers were always willing to pitch in and help [PAWN_objective], just as [PAWN_pronoun] was always willing to help them.-->
+  <AssassinsBro_Medieval_CropFarmer.description>[PAWN_nameDef]耕种田地,种植像小麦、大麦和各种各样的蔬菜之类的作物。这是份累人的活计，但[PAWN_nameDef]的农民同伴们总是乐意给[PAWN_objective]搭把手，就像[PAWN_pronoun]也总是乐意帮助他们一样。</AssassinsBro_Medieval_CropFarmer.description>
+
+  <!--EN: Miller-->
+  <AssassinsBro_Medieval_Miller.title>磨坊主</AssassinsBro_Medieval_Miller.title>
+  <!--EN: Miller-->
+  <AssassinsBro_Medieval_Miller.titleShort>磨坊主</AssassinsBro_Medieval_Miller.titleShort>
+  <!--EN: [PAWN_nameDef] owned and operated a mill, which was used to grind grain into flour. While the mill usually used windpower to run, [PAWN_nameDef] had a donkey that helped to turn the millstone on days when the weather was unfavourable.-->
+  <AssassinsBro_Medieval_Miller.baseDesc>[PAWN_nameDef]拥有并经营着一间用于把谷物磨成面粉的磨坊。虽然磨坊大多使用风力带动风车运作，不过[PAWN_nameDef]拥有一头驴，用来在天气不好的日子里帮着推动磨盘。</AssassinsBro_Medieval_Miller.baseDesc>
+  <!--EN: [PAWN_nameDef] owned and operated a mill, which was used to grind grain into flour. While the mill usually used windpower to run, [PAWN_nameDef] had a donkey that helped to turn the millstone on days when the weather was unfavourable.-->
+  <AssassinsBro_Medieval_Miller.description>[PAWN_nameDef]拥有并经营着一间用于把谷物磨成面粉的磨坊。虽然磨坊大多使用风力带动风车运作，不过[PAWN_nameDef]拥有一头驴，用来在天气不好的日子里帮着推动磨盘。</AssassinsBro_Medieval_Miller.description>
+
+  <!--EN: Vassal footsoldier-->
+  <AssassinsBro_Medieval_VassalFootsoldier.title>附庸步兵</AssassinsBro_Medieval_VassalFootsoldier.title>
+  <!--EN: Footsoldier-->
+  <AssassinsBro_Medieval_VassalFootsoldier.titleShort>步兵</AssassinsBro_Medieval_VassalFootsoldier.titleShort>
+  <!--EN: [PAWN_nameDef] was often called upon for military service by [PAWN_possessive] liege lord. Because [PAWN_pronoun] could not afford a horse, [PAWN_nameDef] served as a footsoldier. [PAWN_pronoun] was promised that any military campaign [PAWN_pronoun] served in would be finished by harvest season so [PAWN_pronoun] could get back to [PAWN_possessive] farm.-->
+  <AssassinsBro_Medieval_VassalFootsoldier.baseDesc>[PAWN_nameDef]常常被[PAWN_possessive]领主征召去服兵役。因为[PAWN_pronoun]买不起马，[PAWN_nameDef]就作为步兵效力。[PAWN_pronoun]被承诺[PAWN_pronoun]效力的任何战争都会在收获季节前结束，这样[PAWN_pronoun]就能回到[PAWN_possessive]农场。</AssassinsBro_Medieval_VassalFootsoldier.baseDesc>
+  <!--EN: [PAWN_nameDef] was often called upon for military service by [PAWN_possessive] liege lord. Because [PAWN_pronoun] could not afford a horse, [PAWN_nameDef] served as a footsoldier. [PAWN_pronoun] was promised that any military campaign [PAWN_pronoun] served in would be finished by harvest season so [PAWN_pronoun] could get back to [PAWN_possessive] farm.-->
+  <AssassinsBro_Medieval_VassalFootsoldier.description>[PAWN_nameDef]常常被[PAWN_possessive]领主征召去服兵役。因为[PAWN_pronoun]买不起马，[PAWN_nameDef]就作为步兵效力。[PAWN_pronoun]被承诺[PAWN_pronoun]效力的任何战争都会在收获季节前结束，这样[PAWN_pronoun]就能回到[PAWN_possessive]农场。</AssassinsBro_Medieval_VassalFootsoldier.description>
+
+  <!--EN: Vassal longbowman-->
+  <AssassinsBro_Medieval_VassalLongbowman.title>附庸长弓手</AssassinsBro_Medieval_VassalLongbowman.title>
+  <!--EN: longbowman-->
+  <AssassinsBro_Medieval_VassalLongbowman.titleShort>长弓手</AssassinsBro_Medieval_VassalLongbowman.titleShort>
+  <!--EN: [PAWN_nameDef] marched with [PAWN_possessive] liege lord’s army as a longbowman. [PAWN_pronoun] was well practised at marksmanship, having often hunted for food with a small homemade bow, and proved to be incredibly deadly when given a professionally made weapon.-->
+  <AssassinsBro_Medieval_VassalLongbowman.baseDesc>[PAWN_nameDef]以长弓手的身份和[PAWN_possessive]领主的军队同行。[PAWN_pronoun]擅于射箭，经常用自制的小弓打猎以寻找食物，在得到专业制造的武器时则展现出令人难以置信的破坏性。</AssassinsBro_Medieval_VassalLongbowman.baseDesc>
+  <!--EN: [PAWN_nameDef] marched with [PAWN_possessive] liege lord’s army as a longbowman. [PAWN_pronoun] was well practised at marksmanship, having often hunted for food with a small homemade bow, and proved to be incredibly deadly when given a professionally made weapon.-->
+  <AssassinsBro_Medieval_VassalLongbowman.description>[PAWN_nameDef]以长弓手的身份和[PAWN_possessive]领主的军队同行。[PAWN_pronoun]擅于射箭，经常用自制的小弓打猎以寻找食物，在得到专业制造的武器时则展现出令人难以置信的破坏性。</AssassinsBro_Medieval_VassalLongbowman.description>
+
+
+  <!-- Artist -->
+
+  <!--EN: Playwright-->
+  <AssassinsBro_Medieval_Playwright.title>剧作家</AssassinsBro_Medieval_Playwright.title>
+  <!--EN: Playwright-->
+  <AssassinsBro_Medieval_Playwright.titleShort>剧作家</AssassinsBro_Medieval_Playwright.titleShort>
+  <!--EN: [PAWN_nameDef] was a dramatist. While such a profession was normally not particularly lucrative, [PAWN_nameDef] and the actors [PAWN_pronoun] worked with had a wealthy patron who paid them all handsomely.-->
+  <AssassinsBro_Medieval_Playwright.baseDesc>[PAWN_nameDef]是一位剧作家。虽然这个职业通常挣不了大钱，但[PAWN_nameDef]和同[PAWN_pronoun]合作的演员有一位付钱慷慨大方的富裕赞助人。</AssassinsBro_Medieval_Playwright.baseDesc>
+  <!--EN: [PAWN_nameDef] was a dramatist. While such a profession was normally not particularly lucrative, [PAWN_nameDef] and the actors [PAWN_pronoun] worked with had a wealthy patron who paid them all handsomely.-->
+  <AssassinsBro_Medieval_Playwright.description>[PAWN_nameDef]是一位剧作家。虽然这个职业通常挣不了大钱，但[PAWN_nameDef]和同[PAWN_pronoun]合作的演员有一位付钱慷慨大方的富裕赞助人。</AssassinsBro_Medieval_Playwright.description>
+
+  <!--EN: Poet-->
+  <AssassinsBro_Medieval_Poet.title>诗人</AssassinsBro_Medieval_Poet.title>
+  <!--EN: Poet-->
+  <AssassinsBro_Medieval_Poet.titleShort>诗人</AssassinsBro_Medieval_Poet.titleShort>
+  <!--EN: [PAWN_nameDef] was renowned for [PAWN_possessive] poetry. [PAWN_possessive] works were often quite bawdy, earning [PAWN_objective] both fans and detractors.-->
+  <AssassinsBro_Medieval_Poet.baseDesc>[PAWN_nameDef]因为[PAWN_possessive]诗歌而闻名。[PAWN_possessive]作品往往十分下流，为[PAWN_objective]同时招来了粉丝和诋毁者。</AssassinsBro_Medieval_Poet.baseDesc>
+  <!--EN: [PAWN_nameDef] was renowned for [PAWN_possessive] poetry. [PAWN_possessive] works were often quite bawdy, earning [PAWN_objective] both fans and detractors.-->
+  <AssassinsBro_Medieval_Poet.description>[PAWN_nameDef]因为[PAWN_possessive]诗歌而闻名。[PAWN_possessive]作品往往十分下流，为[PAWN_objective]同时招来了粉丝和诋毁者。</AssassinsBro_Medieval_Poet.description>
+
+  <!--EN: Portrait artist-->
+  <AssassinsBro_Medieval_PortraitArtist.title>肖像画家</AssassinsBro_Medieval_PortraitArtist.title>
+  <!--EN: Portrait artist-->
+  <AssassinsBro_Medieval_PortraitArtist.titleShort>肖像画家</AssassinsBro_Medieval_PortraitArtist.titleShort>
+  <!--EN: [PAWN_nameDef] painted portraits for wealthy aristocrats. [PAWN_pronoun] was always careful to depict [PAWN_possessive] clients as flatteringly as possible, and was praised for [PAWN_possessive] dedication to “realism” by those [PAWN_pronoun] painted.-->
+  <AssassinsBro_Medieval_PortraitArtist.baseDesc>[PAWN_nameDef]为富裕贵族们绘制肖像。[PAWN_pronoun]总是小心翼翼、尽其所能奉承的描绘[PAWN_possessive]主顾，并因为[PAWN_pronoun]致力于“如实绘制”，而受到[PAWN_possessive]模特们的赞扬。</AssassinsBro_Medieval_PortraitArtist.baseDesc>
+  <!--EN: [PAWN_nameDef] painted portraits for wealthy aristocrats. [PAWN_pronoun] was always careful to depict [PAWN_possessive] clients as flatteringly as possible, and was praised for [PAWN_possessive] dedication to “realism” by those [PAWN_pronoun] painted.-->
+  <AssassinsBro_Medieval_PortraitArtist.description>[PAWN_nameDef]为富裕贵族们绘制肖像。[PAWN_pronoun]总是小心翼翼、尽其所能奉承的描绘[PAWN_possessive]主顾，并因为[PAWN_pronoun]致力于“如实绘制”，而受到[PAWN_possessive]模特们的赞扬。</AssassinsBro_Medieval_PortraitArtist.description>
+
+  <!--EN: Puppeteer-->
+  <AssassinsBro_Medieval_Puppeteer.title>操偶师</AssassinsBro_Medieval_Puppeteer.title>
+  <!--EN: Puppeteer-->
+  <AssassinsBro_Medieval_Puppeteer.titleShort>操偶师</AssassinsBro_Medieval_Puppeteer.titleShort>
+  <!--EN: [PAWN_nameDef] travelled around in [PAWN_possessive] brightly painted donkey cart, putting on comedic puppet shows wherever there was an audience. [PAWN_nameDef] crafted the marionettes for [PAWN_possessive] show [PAWN_objective]self, and occasionally spoke to them as though they were real people when there was nobody else around.-->
+  <AssassinsBro_Medieval_Puppeteer.baseDesc>[PAWN_nameDef]乘坐[PAWN_possessive]色彩鲜艳的驴车四处旅行，只要去的地方有观众就上演喜剧木偶秀。[PAWN_nameDef]为了[PAWN_possessive]表演亲手制作了[PAWN_objective]自己的牵线木偶，而且偶尔会在四下无人时和木偶们说话，就像它们是真人一样。</AssassinsBro_Medieval_Puppeteer.baseDesc>
+  <!--EN: [PAWN_nameDef] travelled around in [PAWN_possessive] brightly painted donkey cart, putting on comedic puppet shows wherever there was an audience. [PAWN_nameDef] crafted the marionettes for [PAWN_possessive] show [PAWN_objective]self, and occasionally spoke to them as though they were real people when there was nobody else around.-->
+  <AssassinsBro_Medieval_Puppeteer.description>[PAWN_nameDef]乘坐[PAWN_possessive]色彩鲜艳的驴车四处旅行，只要去的地方有观众就上演喜剧木偶秀。[PAWN_nameDef]为了[PAWN_possessive]表演亲手制作了[PAWN_objective]自己的牵线木偶，而且偶尔会在四下无人时和木偶们说话，就像它们是真人一样。</AssassinsBro_Medieval_Puppeteer.description>
+
+  <!--EN: Jester-->
+  <AssassinsBro_Medieval_Jester.title>宫廷小丑</AssassinsBro_Medieval_Jester.title>
+  <!--EN: Jester-->
+  <AssassinsBro_Medieval_Jester.titleShort>宫廷小丑</AssassinsBro_Medieval_Jester.titleShort>
+  <!--EN: [PAWN_nameDef] was employed by the royal court to provide amusement. Although [PAWN_nameDef] acted foolish in order to entertain, [PAWN_pronoun] was actually extremely smart and was a master at wordplay.-->
+  <AssassinsBro_Medieval_Jester.baseDesc>[PAWN_nameDef]受雇于皇家宫廷来提供娱乐。尽管[PAWN_nameDef]为了令人快乐而装傻，[PAWN_pronoun]实际上十分聪明，还是位双关语大师。</AssassinsBro_Medieval_Jester.baseDesc>
+  <!--EN: [PAWN_nameDef] was employed by the royal court to provide amusement. Although [PAWN_nameDef] acted foolish in order to entertain, [PAWN_pronoun] was actually extremely smart and was a master at wordplay.-->
+  <AssassinsBro_Medieval_Jester.description>[PAWN_nameDef]受雇于皇家宫廷来提供娱乐。尽管[PAWN_nameDef]为了令人快乐而装傻，[PAWN_pronoun]实际上十分聪明，还是位双关语大师。</AssassinsBro_Medieval_Jester.description>
+
+  <!--EN: Acrobat-->
+  <AssassinsBro_Medieval_Acrobat.title>杂技演员</AssassinsBro_Medieval_Acrobat.title>
+  <!--EN: Acrobat-->
+  <AssassinsBro_Medieval_Acrobat.titleShort>杂技演员</AssassinsBro_Medieval_Acrobat.titleShort>
+  <!--EN: [PAWN_nameDef] travelled the kingdom performing amazing feats of acrobatics for audiences both noble and common. The highlight of [PAWN_possessive] act was contorting [PAWN_objective]self into a seemingly impossible position and then shooting a bow and arrow using [PAWN_possessive] feet.-->
+  <AssassinsBro_Medieval_Acrobat.baseDesc>[PAWN_nameDef]游历遍整个王国，并为贵族和平民们提供令人惊叹的杂技表演。[PAWN_possessive]表演的亮点是把[PAWN_objective]自己扭曲成一个看似不可能的姿势，再以[PAWN_possessive]脚拉弓射箭。</AssassinsBro_Medieval_Acrobat.baseDesc>
+  <!--EN: [PAWN_nameDef] travelled the kingdom performing amazing feats of acrobatics for audiences both noble and common. The highlight of [PAWN_possessive] act was contorting [PAWN_objective]self into a seemingly impossible position and then shooting a bow and arrow using [PAWN_possessive] feet.-->
+  <AssassinsBro_Medieval_Acrobat.description>[PAWN_nameDef]游历遍整个王国，并为贵族和平民们提供令人惊叹的杂技表演。[PAWN_possessive]表演的亮点是把[PAWN_objective]自己扭曲成一个看似不可能的姿势，再以[PAWN_possessive]脚拉弓射箭。</AssassinsBro_Medieval_Acrobat.description>
+
+
+  <!-- Townsfolk -->
+
+  <!--EN: Town crier-->
+  <AssassinsBro_Medieval_Towncrier.title>街头公告员</AssassinsBro_Medieval_Towncrier.title>
+  <!--EN: Town crier-->
+  <AssassinsBro_Medieval_Towncrier.titleShort>街头公告员</AssassinsBro_Medieval_Towncrier.titleShort>
+  <!--EN: [PAWN_nameDef] was employed as an official town crier. Everyday, [PAWN_pronoun] rang [PAWN_possessive] handbell and made announcements to the people of [PAWN_possessive] town. [PAWN_nameDef] had a booming voice and an air of authority, causing many to look to [PAWN_objective] as a community leader.-->
+  <AssassinsBro_Medieval_Towncrier.baseDesc>[PAWN_nameDef]被聘任为官方的街头公告员。每天，[PAWN_pronoun]摇动[PAWN_possessive]手摇铃来向[PAWN_possessive]小镇上的人们发布公告。[PAWN_nameDef]有着洪亮的嗓音和权威之人的气质，这令[PAWN_objective]被许多人视为社区领袖。</AssassinsBro_Medieval_Towncrier.baseDesc>
+  <!--EN: [PAWN_nameDef] was employed as an official town crier. Everyday, [PAWN_pronoun] rang [PAWN_possessive] handbell and made announcements to the people of [PAWN_possessive] town. [PAWN_nameDef] had a booming voice and an air of authority, causing many to look to [PAWN_objective] as a community leader.-->
+  <AssassinsBro_Medieval_Towncrier.description>[PAWN_nameDef]被聘任为官方的街头公告员。每天，[PAWN_pronoun]摇动[PAWN_possessive]手摇铃来向[PAWN_possessive]小镇上的人们发布公告。[PAWN_nameDef]有着洪亮的嗓音和权威之人的气质，这令[PAWN_objective]被许多人视为社区领袖。</AssassinsBro_Medieval_Towncrier.description>
+
+  <!--EN: Innkeeper-->
+  <AssassinsBro_Medieval_Innkeeper.title>旅店老板</AssassinsBro_Medieval_Innkeeper.title>
+  <!--EN: Innkeeper-->
+  <AssassinsBro_Medieval_Innkeeper.titleShort>旅店老板</AssassinsBro_Medieval_Innkeeper.titleShort>
+  <!--EN: [PAWN_nameDef] ran a large inn. The inn was used as both lodgings for travellers and as a community meeting spot for locals. [PAWN_nameDef] was kept busy hosting and providing food and drink for everyone.-->
+  <AssassinsBro_Medieval_Innkeeper.baseDesc>[PAWN_nameDef]经营一家大型旅店。这间旅店既是旅行者的寄宿地，又是当地人的社交中心。[PAWN_nameDef]一直忙于接待和为每个人提供饮食。</AssassinsBro_Medieval_Innkeeper.baseDesc>
+  <!--EN: [PAWN_nameDef] ran a large inn. The inn was used as both lodgings for travellers and as a community meeting spot for locals. [PAWN_nameDef] was kept busy hosting and providing food and drink for everyone.-->
+  <AssassinsBro_Medieval_Innkeeper.description>[PAWN_nameDef]经营一家大型旅店。这间旅店既是旅行者的寄宿地，又是当地人的社交中心。[PAWN_nameDef]一直忙于接待和为每个人提供饮食。</AssassinsBro_Medieval_Innkeeper.description>
+
+  <!--EN: Barber surgeon-->
+  <AssassinsBro_Medieval_BarberSurgeon.title>医疗理发师</AssassinsBro_Medieval_BarberSurgeon.title>
+  <!--EN: Barber surgeon-->
+  <AssassinsBro_Medieval_BarberSurgeon.titleShort>医疗理发师</AssassinsBro_Medieval_BarberSurgeon.titleShort>
+  <!--EN: On most days, [PAWN_nameDef] simply cut hair and trimmed and shaved beards. However, when required, [PAWN_pronoun] was called upon to perform amputations and surgeries due [PAWN_possessive] to steady hand and skill with a razor.-->
+  <AssassinsBro_Medieval_BarberSurgeon.baseDesc>大部分时间，[PAWN_nameDef]仅仅只是理发和剃须。但是，如果需要，[PAWN_pronoun]也会因为[PAWN_possessive]稳定双手和使用剃刀的技巧被叫去进行截肢和外科手术。</AssassinsBro_Medieval_BarberSurgeon.baseDesc>
+  <!--EN: On most days, [PAWN_nameDef] simply cut hair and trimmed and shaved beards. However, when required, [PAWN_pronoun] was called upon to perform amputations and surgeries due [PAWN_possessive] to steady hand and skill with a razor.-->
+  <AssassinsBro_Medieval_BarberSurgeon.description>大部分时间，[PAWN_nameDef]仅仅只是理发和剃须。但是，如果需要，[PAWN_pronoun]也会因为[PAWN_possessive]稳定双手和使用剃刀的技巧被叫去进行截肢和外科手术。</AssassinsBro_Medieval_BarberSurgeon.description>
+
+  <!--EN: Midwife-->
+  <AssassinsBro_Medieval_Midwife.title>助产士</AssassinsBro_Medieval_Midwife.title>
+  <!--EN: Midwife-->
+  <AssassinsBro_Medieval_Midwife.titleShort>助产士</AssassinsBro_Medieval_Midwife.titleShort>
+  <!--EN: [PAWN_nameDef] assisted women during pregnancy and childbirth. [PAWN_pronoun] mostly practiced in the small town that [PAWN_pronoun] lived in, but occasionally travelled to the smaller surrounding villages when needed.-->
+  <AssassinsBro_Medieval_Midwife.baseDesc>[PAWN_nameDef]在怀孕和生子期间帮助妇女。[PAWN_pronoun]大部分时间在[PAWN_pronoun]居住的小镇上出诊，但偶尔也会在被需要时前往周围的小村庄。</AssassinsBro_Medieval_Midwife.baseDesc>
+  <!--EN: [PAWN_nameDef] assisted women during pregnancy and childbirth. [PAWN_pronoun] mostly practiced in the small town that [PAWN_pronoun] lived in, but occasionally travelled to the smaller surrounding villages when needed.-->
+  <AssassinsBro_Medieval_Midwife.description>[PAWN_nameDef]在怀孕和生子期间帮助妇女。[PAWN_pronoun]大部分时间在[PAWN_pronoun]居住的小镇上出诊，但偶尔也会在被需要时前往周围的小村庄。</AssassinsBro_Medieval_Midwife.description>
+
+  <!--EN: Tavern wench-->
+  <AssassinsBro_Medieval_TavernWench.title>酒馆女侍</AssassinsBro_Medieval_TavernWench.title>
+  <!--EN: Tavern wench-->
+  <AssassinsBro_Medieval_TavernWench.titleShort>酒馆女侍</AssassinsBro_Medieval_TavernWench.titleShort>
+  <!--EN: [PAWN_nameDef] served ale at a popular tavern. The customers were often rowdy, but [PAWN_nameDef] was both tough and charming and [PAWN_pronoun] always managed to keep them in line.-->
+  <AssassinsBro_Medieval_TavernWench.baseDesc>[PAWN_nameDef]在一家受欢迎的酒馆里端啤酒。顾客们往往会很吵闹，但[PAWN_nameDef]既强硬又迷人，[PAWN_pronoun]总能让她的顾客保持一致。</AssassinsBro_Medieval_TavernWench.baseDesc>
+  <!--EN: [PAWN_nameDef] served ale at a popular tavern. The customers were often rowdy, but [PAWN_nameDef] was both tough and charming and [PAWN_pronoun] always managed to keep them in line.-->
+  <AssassinsBro_Medieval_TavernWench.description>[PAWN_nameDef]在一家受欢迎的酒馆里端啤酒。顾客们往往会很吵闹，但[PAWN_nameDef]既强硬又迷人，[PAWN_pronoun]总能让她的顾客保持一致。</AssassinsBro_Medieval_TavernWench.description>
+
+  <!--EN: Hostler-->
+  <AssassinsBro_Medieval_Hostler.title>马倌</AssassinsBro_Medieval_Hostler.title>
+  <!--EN: Hostler-->
+  <AssassinsBro_Medieval_Hostler.titleShort>马倌</AssassinsBro_Medieval_Hostler.titleShort>
+  <!--EN: [PAWN_nameDef] tended to guests’ horses at an inn along a busy travelling route. [PAWN_pronoun] made sure the animals were fed, watered, rested, and even brushed. [PAWN_nameDef] could get even the most skittish or stubborn horses to cooperate with [PAWN_objective].-->
+  <AssassinsBro_Medieval_Hostler.baseDesc>[PAWN_nameDef]在一家毗邻繁忙旅路的旅店里照顾客人的马。[PAWN_pronoun]得确保马儿们得到了喂食、饮水、休息，甚至是刷毛。[PAWN_nameDef]甚至能够让最容易受惊或最顽固的马和[PAWN_objective]合作。</AssassinsBro_Medieval_Hostler.baseDesc>
+  <!--EN: [PAWN_nameDef] tended to guests’ horses at an inn along a busy travelling route. [PAWN_pronoun] made sure the animals were fed, watered, rested, and even brushed. [PAWN_nameDef] could get even the most skittish or stubborn horses to cooperate with [PAWN_objective].-->
+  <AssassinsBro_Medieval_Hostler.description>[PAWN_nameDef]在一家毗邻繁忙旅路的旅店里照顾客人的马。[PAWN_pronoun]得确保马儿们得到了喂食、饮水、休息，甚至是刷毛。[PAWN_nameDef]甚至能够让最容易受惊或最顽固的马和[PAWN_objective]合作。</AssassinsBro_Medieval_Hostler.description>
+
+  <!--EN: Town guard-->
+  <AssassinsBro_Medieval_TownGuard.title>城镇守卫</AssassinsBro_Medieval_TownGuard.title>
+  <!--EN: Town guard-->
+  <AssassinsBro_Medieval_TownGuard.titleShort>城镇守卫</AssassinsBro_Medieval_TownGuard.titleShort>
+  <!--EN: [PAWN_nameDef] was responsible for the protection of [PAWN_possessive] town. [PAWN_pronoun] had to be skilled with both a sword and a bow in order to more effectively protect the townspeople from threats that came from both outside the walls and from within.-->
+  <AssassinsBro_Medieval_TownGuard.baseDesc>[PAWN_nameDef]负责保护[PAWN_possessive]所在城镇。为了更有效地保护市民免受来自城墙内外的危险，[PAWN_pronoun]必须熟练的使用剑和弓。</AssassinsBro_Medieval_TownGuard.baseDesc>
+  <!--EN: [PAWN_nameDef] was responsible for the protection of [PAWN_possessive] town. [PAWN_pronoun] had to be skilled with both a sword and a bow in order to more effectively protect the townspeople from threats that came from both outside the walls and from within.-->
+  <AssassinsBro_Medieval_TownGuard.description>[PAWN_nameDef]负责保护[PAWN_possessive]所在城镇。为了更有效地保护市民免受来自城墙内外的危险，[PAWN_pronoun]必须熟练的使用剑和弓。</AssassinsBro_Medieval_TownGuard.description>
+
+  <!--EN: Lamplighter-->
+  <AssassinsBro_Medieval_Lamplighter.title>点灯人</AssassinsBro_Medieval_Lamplighter.title>
+  <!--EN: Lamplighter-->
+  <AssassinsBro_Medieval_Lamplighter.titleShort>点灯人</AssassinsBro_Medieval_Lamplighter.titleShort>
+  <!--EN: [PAWN_nameDef] was responsible for lighting the candles in the lamps that lined the streets of [PAWN_possessive] town. [PAWN_pronoun] preferred the dawn shift, enjoying the solitude that the early morning brought.-->
+  <AssassinsBro_Medieval_Lamplighter.baseDesc>[PAWN_nameDef]负责点亮[PAWN_possessive]所在城镇街边路灯中的蜡烛。[PAWN_pronoun]比较倾向于早班，好享受清晨带来的独处时光。</AssassinsBro_Medieval_Lamplighter.baseDesc>
+  <!--EN: [PAWN_nameDef] was responsible for lighting the candles in the lamps that lined the streets of [PAWN_possessive] town. [PAWN_pronoun] preferred the dawn shift, enjoying the solitude that the early morning brought.-->
+  <AssassinsBro_Medieval_Lamplighter.description>[PAWN_nameDef]负责点亮[PAWN_possessive]所在城镇街边路灯中的蜡烛。[PAWN_pronoun]比较倾向于早班，好享受清晨带来的独处时光。</AssassinsBro_Medieval_Lamplighter.description>
+
+  <!--EN: Graveyard keeper-->
+  <AssassinsBro_Medieval_GraveyardKeeper.title>守墓人</AssassinsBro_Medieval_GraveyardKeeper.title>
+  <!--EN: Graveyard keeper-->
+  <AssassinsBro_Medieval_GraveyardKeeper.titleShort>守墓人</AssassinsBro_Medieval_GraveyardKeeper.titleShort>
+  <!--EN: [PAWN_nameDef] tended to the town cemetery. [PAWN_pronoun] dug graves as needed and made sure the cemetery was kept tidy. [PAWN_nameDef] knew the names on every tombstone and planted flowers for any of the deceased who did not get visitors.-->
+  <AssassinsBro_Medieval_GraveyardKeeper.baseDesc>[PAWN_nameDef]照管城镇公墓。[PAWN_pronoun]根据需求挖掘墓穴，并确保墓地保持整洁。[PAWN_nameDef]知道每块墓碑上的每个名字，并且为那些没有祭扫者的逝者种上花朵。</AssassinsBro_Medieval_GraveyardKeeper.baseDesc>
+  <!--EN: [PAWN_nameDef] tended to the town cemetery. [PAWN_pronoun] dug graves as needed and made sure the cemetery was kept tidy. [PAWN_nameDef] knew the names on every tombstone and planted flowers for any of the deceased who did not get visitors.-->
+  <AssassinsBro_Medieval_GraveyardKeeper.description>[PAWN_nameDef]照管城镇公墓。[PAWN_pronoun]根据需求挖掘墓穴，并确保墓地保持整洁。[PAWN_nameDef]知道每块墓碑上的每个名字，并且为那些没有祭扫者的逝者种上花朵。</AssassinsBro_Medieval_GraveyardKeeper.description>
+
+  <!--EN: Laundress-->
+  <AssassinsBro_Medieval_Laundress.title>洗衣女工</AssassinsBro_Medieval_Laundress.title>
+  <!--EN: Laundress-->
+  <AssassinsBro_Medieval_Laundress.titleShort>洗衣女工</AssassinsBro_Medieval_Laundress.titleShort>
+  <!--EN: [PAWN_nameDef] washed linens and clothes for the local inn. Thieves would sometimes attempt to steal the things that [PAWN_pronoun] hung up to dry, but the only thing they ever came away with were bumps and bruises from [PAWN_nameDef] deftly wielded broom.-->
+  <AssassinsBro_Medieval_Laundress.baseDesc>[PAWN_nameDef]为当地的旅店清洗衣服和日用织品。小偷偶尔会试图偷走[PAWN_pronoun]挂起来晾干的东西，但他们逃跑时唯一能带走的就是[PAWN_nameDef]熟练挥舞扫帚驱赶带来的肿包和淤青。</AssassinsBro_Medieval_Laundress.baseDesc>
+  <!--EN: [PAWN_nameDef] washed linens and clothes for the local inn. Thieves would sometimes attempt to steal the things that [PAWN_pronoun] hung up to dry, but the only thing they ever came away with were bumps and bruises from [PAWN_nameDef] deftly wielded broom.-->
+  <AssassinsBro_Medieval_Laundress.description>[PAWN_nameDef]为当地的旅店清洗衣服和日用织品。小偷偶尔会试图偷走[PAWN_pronoun]挂起来晾干的东西，但他们逃跑时唯一能带走的就是[PAWN_nameDef]熟练挥舞扫帚驱赶带来的肿包和淤青。</AssassinsBro_Medieval_Laundress.description>
+
+
+  <!-- Criminal -->
+
+  <!--EN: Graverobber-->
+  <AssassinsBro_Medieval_Graverobber.title>盗墓者</AssassinsBro_Medieval_Graverobber.title>
+  <!--EN: Graverobber-->
+  <AssassinsBro_Medieval_Graverobber.titleShort>盗墓者</AssassinsBro_Medieval_Graverobber.titleShort>
+  <!--EN: [PAWN_nameDef] robbed graves, relieving the dead of any valuables they had been buried with. [PAWN_pronoun] travelled frequently so as not to be caught, masquerading as a simple, honest merchant. [PAWN_possessive] prices were so cheap that customers rarely questioned why [PAWN_possessive] wares were so often covered in dirt.-->
+  <AssassinsBro_Medieval_Graverobber.baseDesc>[PAWN_nameDef]盗墓，拿走随死者下葬的任何贵重物品。[PAWN_pronoun]经常旅行以免被抓获，把自己伪装成一个简单、诚实的商人。[PAWN_possessive]开价实在是太低，以至于顾客很少质疑[PAWN_possessive]货物上为何总带着泥土。</AssassinsBro_Medieval_Graverobber.baseDesc>
+  <!--EN: [PAWN_nameDef] robbed graves, relieving the dead of any valuables they had been buried with. [PAWN_pronoun] travelled frequently so as not to be caught, masquerading as a simple, honest merchant. [PAWN_possessive] prices were so cheap that customers rarely questioned why [PAWN_possessive] wares were so often covered in dirt.-->
+  <AssassinsBro_Medieval_Graverobber.description>[PAWN_nameDef]盗墓，拿走随死者下葬的任何贵重物品。[PAWN_pronoun]经常旅行以免被抓获，把自己伪装成一个简单、诚实的商人。[PAWN_possessive]开价实在是太低，以至于顾客很少质疑[PAWN_possessive]货物上为何总带着泥土。</AssassinsBro_Medieval_Graverobber.description>
+
+  <!--EN: Highwayman-->
+  <AssassinsBro_Medieval_Highwayman.title>拦路强盗</AssassinsBro_Medieval_Highwayman.title>
+  <!--EN: Highwayman-->
+  <AssassinsBro_Medieval_Highwayman.titleShort>拦路强盗</AssassinsBro_Medieval_Highwayman.titleShort>
+  <!--EN: [PAWN_nameDef] stalked an isolated stretch of road, ambushing travellers in order to steal their valuables. He always offered [PAWN_possessive] victims a choice: “your money or your life.” Most chose the former, and [PAWN_nameDef] would ride away with [PAWN_possessive] loot before anyone had the time to get help.-->
+  <AssassinsBro_Medieval_Highwayman.baseDesc>[PAWN_nameDef]潜伏在偏僻小道上，伏击旅行者以夺走他们的贵重物品。[PAWN_pronoun]经常给[PAWN_possessive]受害者们一个选择：“你的钱还是你的命？”大部分人选择前者，并且[PAWN_nameDef]会在受害者试图寻求帮助之前带着[PAWN_possessive]战利品逃跑。</AssassinsBro_Medieval_Highwayman.baseDesc>
+  <!--EN: [PAWN_nameDef] stalked an isolated stretch of road, ambushing travellers in order to steal their valuables. He always offered [PAWN_possessive] victims a choice: “your money or your life.” Most chose the former, and [PAWN_nameDef] would ride away with [PAWN_possessive] loot before anyone had the time to get help.-->
+  <AssassinsBro_Medieval_Highwayman.description>[PAWN_nameDef]潜伏在偏僻小道上，伏击旅行者以夺走他们的贵重物品。[PAWN_pronoun]经常给[PAWN_possessive]受害者们一个选择：“你的钱还是你的命？”大部分人选择前者，并且[PAWN_nameDef]会在受害者试图寻求帮助之前带着[PAWN_possessive]战利品逃跑。</AssassinsBro_Medieval_Highwayman.description>
+
+
+  <!-- Clergy -->
+
+  <!--EN: Charitable nun-->
+  <AssassinsBro_Medieval_CharitableNun.title>慈善修女</AssassinsBro_Medieval_CharitableNun.title>
+  <!--EN: Nun-->
+  <AssassinsBro_Medieval_CharitableNun.titleShort>修女</AssassinsBro_Medieval_CharitableNun.titleShort>
+  <!--EN: [PAWN_nameDef] took a vow of poverty so that [PAWN_pronoun] could wholly devote [PAWN_objective]self to helping the needy. [PAWN_pronoun] often worked with the sick and dying poor, aiding those who could be healed and comforting those who couldn’t be.-->
+  <AssassinsBro_Medieval_CharitableNun.baseDesc>[PAWN_nameDef]发下了守贫誓言，因此[PAWN_pronoun]能够全身心的将[PAWN_objective]自己投入到帮助穷困之人中。[PAWN_pronoun]经常和病人和濒死的穷人待在一起，治疗那些可以痊愈之人，安慰那些无法痊愈之人。</AssassinsBro_Medieval_CharitableNun.baseDesc>
+  <!--EN: [PAWN_nameDef] took a vow of poverty so that [PAWN_pronoun] could wholly devote [PAWN_objective]self to helping the needy. [PAWN_pronoun] often worked with the sick and dying poor, aiding those who could be healed and comforting those who couldn’t be.-->
+  <AssassinsBro_Medieval_CharitableNun.description>[PAWN_nameDef]发下了守贫誓言，因此[PAWN_pronoun]能够全身心的将[PAWN_objective]自己投入到帮助穷困之人中。[PAWN_pronoun]经常和病人和濒死的穷人待在一起，治疗那些可以痊愈之人，安慰那些无法痊愈之人。</AssassinsBro_Medieval_CharitableNun.description>
+
+  <!--EN: Monk scribe-->
+  <AssassinsBro_Medieval_MonkScribe.title>抄书僧侣</AssassinsBro_Medieval_MonkScribe.title>
+  <!--EN: Monk-->
+  <AssassinsBro_Medieval_MonkScribe.titleShort>僧侣</AssassinsBro_Medieval_MonkScribe.titleShort>
+  <!--EN: [PAWN_nameDef] took a vow of silence so that [PAWN_pronoun] could wholly devote [PAWN_objective]self to serving and worshipping [PAWN_possessive] God. [PAWN_nameDef] spent most of [PAWN_objective] days painstakingly creating beautiful illuminated manuscripts, for which [PAWN_pronoun] mixed the inks [PAWN_objective]self.-->
+  <AssassinsBro_Medieval_MonkScribe.baseDesc>[PAWN_nameDef]发下了沉默誓言，因此[PAWN_pronoun]能够全身心的将[PAWN_objective]自己投入到侍奉和取悦[PAWN_possessive]上帝之中。[PAWN_nameDef]将[PAWN_objective]的大部分时间用于煞费苦心创作美轮美奂的手稿中，为此，[PAWN_pronoun]为[PAWN_objective]自己调配了一种墨水。</AssassinsBro_Medieval_MonkScribe.baseDesc>
+  <!--EN: [PAWN_nameDef] took a vow of silence so that [PAWN_pronoun] could wholly devote [PAWN_objective]self to serving and worshipping [PAWN_possessive] God. [PAWN_nameDef] spent most of [PAWN_objective] days painstakingly creating beautiful illuminated manuscripts, for which [PAWN_pronoun] mixed the inks [PAWN_objective]self.-->
+  <AssassinsBro_Medieval_MonkScribe.description>[PAWN_nameDef]发下了沉默誓言，因此[PAWN_pronoun]能够全身心的将[PAWN_objective]自己投入到侍奉和取悦[PAWN_possessive]上帝之中。[PAWN_nameDef]将[PAWN_objective]的大部分时间用于煞费苦心创作美轮美奂的手稿中，为此，[PAWN_pronoun]为[PAWN_objective]自己调配了一种墨水。</AssassinsBro_Medieval_MonkScribe.description>
+
+
+  <!-- Scholar -->
+
+  <!--EN: Scholar of philosophy-->
+  <AssassinsBro_Medieval_ScholarOfPhilosophy.title>哲学学者</AssassinsBro_Medieval_ScholarOfPhilosophy.title>
+  <!--EN: Scholar-->
+  <AssassinsBro_Medieval_ScholarOfPhilosophy.titleShort>学者</AssassinsBro_Medieval_ScholarOfPhilosophy.titleShort>
+  <!--EN: [PAWN_nameDef] wrote extensively on moral philosophy. The nature of ethics, of what it truly means to be “good” or “evil,” fascinated [PAWN_objective]. [PAWN_nameDef] was quite sociable for someone who spent hours locked away writing, and enjoyed having friendly discussions and debates with [PAWN_possessive] scholarly cohorts.-->
+  <AssassinsBro_Medieval_ScholarOfPhilosophy.baseDesc>[PAWN_nameDef]撰写了大量关于伦理哲学的文章。道德准则的本质，也就是“善”与“恶”的真正含义，令[PAWN_objective]着迷。对于一个花费了许多时间写作的人来说，[PAWN_nameDef]是非常善于交际的，并享受与[PAWN_possessive]学术团体进行友好的讨论和辩论的乐趣。</AssassinsBro_Medieval_ScholarOfPhilosophy.baseDesc>
+  <!--EN: [PAWN_nameDef] wrote extensively on moral philosophy. The nature of ethics, of what it truly means to be “good” or “evil,” fascinated [PAWN_objective]. [PAWN_nameDef] was quite sociable for someone who spent hours locked away writing, and enjoyed having friendly discussions and debates with [PAWN_possessive] scholarly cohorts.-->
+  <AssassinsBro_Medieval_ScholarOfPhilosophy.description>[PAWN_nameDef]撰写了大量关于伦理哲学的文章。道德准则的本质，也就是“善”与“恶”的真正含义，令[PAWN_objective]着迷。对于一个花费了许多时间写作的人来说，[PAWN_nameDef]是非常善于交际的，并享受与[PAWN_possessive]学术团体进行友好的讨论和辩论的乐趣。</AssassinsBro_Medieval_ScholarOfPhilosophy.description>
+
+
+  <!-- Misc -->
+
+  <!--EN: Reclusive witch-->
+  <AssassinsBro_Medieval_ReclusiveWitch.title>隐居的巫师</AssassinsBro_Medieval_ReclusiveWitch.title>
+  <!--EN: Witch-->
+  <AssassinsBro_Medieval_ReclusiveWitch.titleShort>巫师</AssassinsBro_Medieval_ReclusiveWitch.titleShort>
+  <!--EN: [PAWN_nameDef] was accused of practising witchcraft, an offence punishable by death.  [PAWN_pronoun] fled [PAWN_possessive] village and travelled far away until [PAWN_pronoun] finally settled deep in a secluded forest. Desperate travellers who heard rumours of [PAWN_possessive] existence sometimes visited, begging for magic potions to cure their woes.-->
+  <AssassinsBro_Medieval_ReclusiveWitch.baseDesc>[PAWN_nameDef]被控告使用巫术，这是一种可以被判处死刑的罪行。[PAWN_pronoun]逃离了[PAWN_possessive]故乡，远行他乡，直到[PAWN_pronoun]最终定居在一片与世隔绝的森林深处。那些听到了有关[PAWN_possessive]存在的传言的绝望旅行者偶尔会前来拜访，祈求魔药以治愈他们的痛苦。</AssassinsBro_Medieval_ReclusiveWitch.baseDesc>
+  <!--EN: [PAWN_nameDef] was accused of practising witchcraft, an offence punishable by death.  [PAWN_pronoun] fled [PAWN_possessive] village and travelled far away until [PAWN_pronoun] finally settled deep in a secluded forest. Desperate travellers who heard rumours of [PAWN_possessive] existence sometimes visited, begging for magic potions to cure their woes.-->
+  <AssassinsBro_Medieval_ReclusiveWitch.description>[PAWN_nameDef]被控告使用巫术，这是一种可以被判处死刑的罪行。[PAWN_pronoun]逃离了[PAWN_possessive]故乡，远行他乡，直到[PAWN_pronoun]最终定居在一片与世隔绝的森林深处。那些听到了有关[PAWN_possessive]存在的传言的绝望旅行者偶尔会前来拜访，祈求魔药以治愈他们的痛苦。</AssassinsBro_Medieval_ReclusiveWitch.description>
+
+  <!--EN: Seer-->
+  <AssassinsBro_Medieval_Seer.title>先知</AssassinsBro_Medieval_Seer.title>
+  <!--EN: Seer-->
+  <AssassinsBro_Medieval_Seer.titleShort>先知</AssassinsBro_Medieval_Seer.titleShort>
+  <!--EN: On a seemingly normal day, [PAWN_nameDef] suddenly developed a strange sensitivity to something hard to describe. [PAWN_pronoun] could somehow sense things before they happened and was able to make uncannily accurate predictions about the future. While some feared this power, many others willingly went to [PAWN_nameDef] for advice.-->
+  <AssassinsBro_Medieval_Seer.baseDesc>在一个看似普通的日子，[PAWN_nameDef]对一些难以描述之事突然产生了奇怪的悟性。[PAWN_pronoun]可以在事情发生之前以某种方式察觉，并且能够对未来做出惊人的准确预测。尽管有些人害怕这种力量，但更多人很乐意向[PAWN_nameDef]寻求建议。</AssassinsBro_Medieval_Seer.baseDesc>
+  <!--EN: On a seemingly normal day, [PAWN_nameDef] suddenly developed a strange sensitivity to something hard to describe. [PAWN_pronoun] could somehow sense things before they happened and was able to make uncannily accurate predictions about the future. While some feared this power, many others willingly went to [PAWN_nameDef] for advice.-->
+  <AssassinsBro_Medieval_Seer.description>在一个看似普通的日子，[PAWN_nameDef]对一些难以描述之事突然产生了奇怪的悟性。[PAWN_pronoun]可以在事情发生之前以某种方式察觉，并且能够对未来做出惊人的准确预测。尽管有些人害怕这种力量，但更多人很乐意向[PAWN_nameDef]寻求建议。</AssassinsBro_Medieval_Seer.description>
+
+  <!--EN: Village fool-->
+  <AssassinsBro_Medieval_VillageFool.title>村中愚人</AssassinsBro_Medieval_VillageFool.title>
+  <!--EN: Village fool-->
+  <AssassinsBro_Medieval_VillageFool.titleShort>村中愚人</AssassinsBro_Medieval_VillageFool.titleShort>
+  <!--EN: [PAWN_nameDef]’s very existence served as a form of entertainment for [PAWN_possessive] village. [PAWN_possessive] strange appearance and lack of intelligence was a source of derision, pity, and amusement for those around [PAWN_objective]. The people of [PAWN_nameDef]’s village fed and clothed [PAWN_objective] in exchange for  [PAWN_possessive] unwitting service.-->
+  <AssassinsBro_Medieval_VillageFool.baseDesc>[PAWN_nameDef]的特别存在本身就是[PAWN_possessive]村庄的一种娱乐形式。[PAWN_possessive]古怪样貌和低下智力对[PAWN_objective]身边的人们来说是嘲笑、同情和取乐的源泉。[PAWN_nameDef]所在的村庄的人们让[PAWN_objective]吃饱穿暖，以换取[PAWN_possessive]糊涂服务。</AssassinsBro_Medieval_VillageFool.baseDesc>
+  <!--EN: [PAWN_nameDef]’s very existence served as a form of entertainment for [PAWN_possessive] village. [PAWN_possessive] strange appearance and lack of intelligence was a source of derision, pity, and amusement for those around [PAWN_objective]. The people of [PAWN_nameDef]’s village fed and clothed [PAWN_objective] in exchange for  [PAWN_possessive] unwitting service.-->
+  <AssassinsBro_Medieval_VillageFool.description>[PAWN_nameDef]的特别存在本身就是[PAWN_possessive]村庄的一种娱乐形式。[PAWN_possessive]古怪样貌和低下智力对[PAWN_objective]身边的人们来说是嘲笑、同情和取乐的源泉。[PAWN_nameDef]所在的村庄的人们让[PAWN_objective]吃饱穿暖，以换取[PAWN_possessive]糊涂服务。</AssassinsBro_Medieval_VillageFool.description>
+
+  <!--EN: Monster slayer-->
+  <AssassinsBro_Medieval_MonsterSlayer.title>猎魔人</AssassinsBro_Medieval_MonsterSlayer.title>
+  <!--EN: Monster slayer-->
+  <AssassinsBro_Medieval_MonsterSlayer.titleShort>猎魔人</AssassinsBro_Medieval_MonsterSlayer.titleShort>
+  <!--EN: [PAWN_nameDef] travelled far and wide, offering [PAWN_possessive] services as a slayer of monsters. [PAWN_pronoun] received a decent amount of work, mostly from peasants terrified of horrifying creatures stealing their children and livestock. The “monsters” almost always turned out to be wolves, but [PAWN_nameDef] got paid all the same. [PAWN_pronoun] held out hope that, someday, he would get to test [PAWN_objective]self against a real monster.-->
+  <AssassinsBro_Medieval_MonsterSlayer.baseDesc>[PAWN_nameDef]游历四方，以怪物猎人的身份提供[PAWN_possessive]服务。[PAWN_pronoun]得到了许多工作，大部分来自那些害怕自己的孩子和牲畜被恐怖造物偷走的佃农。这些“怪物”基本都是狼，但[PAWN_nameDef]依然会得到报酬。[PAWN_pronoun]希望有一天，[PAWN_objective]能够通过和真正的怪物战斗来测试自己的技艺。</AssassinsBro_Medieval_MonsterSlayer.baseDesc>
+  <!--EN: [PAWN_nameDef] travelled far and wide, offering [PAWN_possessive] services as a slayer of monsters. [PAWN_pronoun] received a decent amount of work, mostly from peasants terrified of horrifying creatures stealing their children and livestock. The “monsters” almost always turned out to be wolves, but [PAWN_nameDef] got paid all the same. [PAWN_pronoun] held out hope that, someday, he would get to test [PAWN_objective]self against a real monster.-->
+  <AssassinsBro_Medieval_MonsterSlayer.description>[PAWN_nameDef]游历四方，以怪物猎人的身份提供[PAWN_possessive]服务。[PAWN_pronoun]得到了许多工作，大部分来自那些害怕自己的孩子和牲畜被恐怖造物偷走的佃农。这些“怪物”基本都是狼，但[PAWN_nameDef]依然会得到报酬。[PAWN_pronoun]希望有一天，[PAWN_objective]能够通过和真正的怪物战斗来测试自己的技艺。</AssassinsBro_Medieval_MonsterSlayer.description>
+
+
+</LanguageData>

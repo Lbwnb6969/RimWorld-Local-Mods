@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+  <GUC_StatPart_Mounted>骑乘</GUC_StatPart_Mounted>
+  <GUC_StatPart_MountMoveSpeed>坐骑移动速度</GUC_StatPart_MountMoveSpeed>
+  <GUC_StatPart_HandlingMultiplier>骑手－骑术倍率</GUC_StatPart_HandlingMultiplier>
+  <GUC_StatPart_HandlingSkill>骑手－驯兽技能</GUC_StatPart_HandlingSkill>
+  <GUC_StatPart_SkillReq>动物等级要求</GUC_StatPart_SkillReq>
+  <GUC_StatPart_LevelsAbove>高于等级要求</GUC_StatPart_LevelsAbove>
+  <GUC_StatPart_HandlingMovementImpact>动物等级－速度影响</GUC_StatPart_HandlingMovementImpact>
+  <GUC_StatPart_MountTypeMultiplier>骑兽类型－倍率</GUC_StatPart_MountTypeMultiplier>
+  
+  <GUC_HandlingAccuracyImpact_Title>骑手射击－精度（范围: {0}~{1}% 默认: {2}% 当前: {3}%）</GUC_HandlingAccuracyImpact_Title>
+  <GUC_HandlingAccuracyImpact_Description>依照(骑手动物技能)和(坐骑技能需求)的&#10;&#13;差距所产生的每级[加成/减益]效果%</GUC_HandlingAccuracyImpact_Description>  
+  
+  <GUC_HandlingMovementImpact_Title>骑手移动－速度（范围: {0}~{1}% 默认: {2}% 当前: {3}%）</GUC_HandlingMovementImpact_Title>
+  <GUC_HandlingMovementImpact_Description>依照(骑手动物技能)和(坐骑技能需求)的&#10;&#13;差距所产生的每级[加成/减益]效果%</GUC_HandlingMovementImpact_Description>
+  
+  <GUC_AccuracyPenalty_Title>骑手射击－减益（范围: {0}~{1}% 默认: {2}% 当前: {3}%）</GUC_AccuracyPenalty_Title>
+  <GUC_AccuracyPenalty_Description>骑乘时射击精度所受到的[减益]效果%</GUC_AccuracyPenalty_Description>
+  
+  <GUC_BodySizeFilter_Title>按体型筛选（最小: {0}）</GUC_BodySizeFilter_Title>
+  <GUC_BodySizeFilter_Description>按体型筛选可骑乘的动物 不会更改手动的设定</GUC_BodySizeFilter_Description>
+    
+  <GUC_CannotMount>无法骑乘: </GUC_CannotMount>
+  <GUC_NotInModOptions>不是一个可骑乘的物种</GUC_NotInModOptions>
+  <GUC_AnimalBusy>处于任务中</GUC_AnimalBusy>
+  <GUC_NotFullyGrown>未完全长大</GUC_NotFullyGrown>
+  <GUC_NeedsObedience>未训练“服从”</GUC_NeedsObedience>
+  <GUC_IsPoorCondition>状态不佳</GUC_IsPoorCondition>
+  <GUC_IsRoped>被绳索束缚</GUC_IsRoped>
+  <GUC_Mount>坐上</GUC_Mount>
+  <GUC_Mount_GodMode>坐上 (上帝模式)</GUC_Mount_GodMode>
+  <GUC_Dismount>翻下</GUC_Dismount>
+  <GUC_DismountWithoutHitching>翻下 (不使用栓绳)</GUC_DismountWithoutHitching>
+  <GUC_SwitchMount>切换</GUC_SwitchMount>
+  
+  <GUC_Mountable_Tab>可骑乘</GUC_Mountable_Tab>
+  <GUC_DrawBehavior_Tab>图层</GUC_DrawBehavior_Tab>
+  <GUC_DrawBehavior_Description>勾选的动物，更改图层渲染的优先级（优先于小人，脖子长的动物建议勾选）。</GUC_DrawBehavior_Description>
+  
+  <GUC_Core_Tab>基础骑乘</GUC_Core_Tab>
+  <GUC_RnR_Tab>工作骑乘</GUC_RnR_Tab>
+  <GUC_BattleMounts_Tab>突袭骑乘</GUC_BattleMounts_Tab>
+  <GUC_Caravans_Tab>旅队骑乘</GUC_Caravans_Tab>
+  <GUC_Ideology_Tab>文化/理念</GUC_Ideology_Tab>
+  
+  <GU_Enable_RnR>启用工作骑乘</GU_Enable_RnR>
+  <GU_Enable_RnR_Description>禁用此模块，将移除殖民者出于方便或工作需要使用坐骑移动的相关功能。更改此设置需要重新启动。</GU_Enable_RnR_Description>
+
+  <GU_Enable_BattleMounts>启用战斗骑乘</GU_Enable_BattleMounts>
+  <GU_Enable_BattleMounts_Description>禁用此模块，将移除小人(殖民者和敌人)&#10;&#13;骑乘动物进行战斗的相关功能。更改此设置需要重新启动。</GU_Enable_BattleMounts_Description>
+
+  <GU_Enable_Caravans>启用旅队骑乘</GU_Enable_Caravans>
+  <GU_Enable_Caravans_Description>禁用此模块，将移除小人(殖民者和友军)&#10;&#13;出入地图时骑乘动物的相关功能。更改此设置需要重新启动。</GU_Enable_Caravans_Description>
+
+  <GU_Enable_Mechanoids>启用机械骑乘</GU_Enable_Mechanoids>
+	<GU_Enable_Mechanoids_Description>禁用此模块，将移除小人(殖民者和敌人)&#10;&#13;骑乘机械体的相关功能。更改此设置需要重新启动。</GU_Enable_Mechanoids_Description>
+
+	<GU_Enable_SaddleUp>启用Saddle Up</GU_Enable_SaddleUp>
+	<GU_Enable_SaddleUp_Description>禁用此模块将移除以下快捷按钮:&#10;&#13;坐上「前往并骑乘附近动物或机械体。」&#10;&#13;翻下「离开当前骑乘对象。」</GU_Enable_SaddleUp_Description>
+  
+  <GU_Enable_Ideology>启用文化/理念</GU_Enable_Ideology>
+	<GU_Enable_Ideology_Description>禁用此模块，将移除文化/理念的相关功能。更改此设置需要重新启动。</GU_Enable_Ideology_Description>
+  
+  <GU_Reset_Cache>重置</GU_Reset_Cache>
+
+  <GU_Car_TooYoung>太年轻</GU_Car_TooYoung>
+	<GU_IncompatibleEquipment>不兼容的装备</GU_IncompatibleEquipment>
+	<GU_CannotRide>骑手缺乏能力</GU_CannotRide>
+	<GUC_TooHeavy>太重了</GUC_TooHeavy>
+  <GUC_DisAgeCap>无视年龄限制</GUC_DisAgeCap>
+	<GU_DrawOffsetEditor_Gizmo_Label>编辑贴图偏移</GU_DrawOffsetEditor_Gizmo_Label>
+	<GU_DrawOffsetEditor_Gizmo_Description>开启 {0} 的贴图偏移编辑器。</GU_DrawOffsetEditor_Gizmo_Description>
+	<GU_DrawOffsetEditor_Title>{0} :: {1} :: {2}</GU_DrawOffsetEditor_Title>
+	<GU_DrawOffsetEditor_SavePatch>导出补丁档(Patch)</GU_DrawOffsetEditor_SavePatch>
+	<GU_DrawOffsetEditor_Reset>重置</GU_DrawOffsetEditor_Reset>
+	<GU_DrawOffsetEditor_SaveFailed>导出 {0} 的贴图偏移补丁档失败,请查看日志以获取详细资讯。</GU_DrawOffsetEditor_SaveFailed>
+
+</LanguageData>

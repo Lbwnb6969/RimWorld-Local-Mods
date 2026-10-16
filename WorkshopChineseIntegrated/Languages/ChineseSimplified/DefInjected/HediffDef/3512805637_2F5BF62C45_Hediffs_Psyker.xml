@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic coma -->
+  <BEWH_PsychicComa.label>心灵昏迷</BEWH_PsychicComa.label>
+  <!-- EN: This pawn has been exposed to a great deal of warp energy and as a result has fallen into a coma. -->
+  <BEWH_PsychicComa.description>此人暴露在大量亚空间能量中，因此陷入昏迷。</BEWH_PsychicComa.description>
+  <!-- EN: psychic coma -->
+  <BEWH_PsychicComa.stages.psychic_coma.label>心灵昏迷</BEWH_PsychicComa.stages.psychic_coma.label>
+  
+  <!-- EN: psychic connection severed -->
+  <BEWH_PsychicConnectionSevered.label>心灵连接切断</BEWH_PsychicConnectionSevered.label>
+  <!-- EN: This pawn has suddenly lost all connection to the Warp. -->
+  <BEWH_PsychicConnectionSevered.description>此人突然失去了与亚空间的所有连接。</BEWH_PsychicConnectionSevered.description>
+  <!-- EN: psychic connection severed -->
+  <BEWH_PsychicConnectionSevered.stages.psychic_connection_severed.label>心灵连接切断</BEWH_PsychicConnectionSevered.stages.psychic_connection_severed.label>
+  
+</LanguageData>

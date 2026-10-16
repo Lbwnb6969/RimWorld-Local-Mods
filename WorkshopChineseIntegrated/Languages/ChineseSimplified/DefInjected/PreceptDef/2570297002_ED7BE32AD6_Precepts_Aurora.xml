@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amazing -->
+  <VME_Aurora_Amazing.label>美妙</VME_Aurora_Amazing.label>
+  <!-- EN: Auroras are a beautiful respite from the absolute darkness. -->
+  <VME_Aurora_Amazing.description>夜晚的极光美丽无比。</VME_Aurora_Amazing.description>
+  
+  <!-- EN: despised -->
+  <VME_Aurora_Despised.label>厌恶</VME_Aurora_Despised.label>
+  <!-- EN: The blinding lights in the heavens give us a nasty headache. -->
+  <VME_Aurora_Despised.description>天上那些刺眼的光芒令我们头痛。</VME_Aurora_Despised.description>
+  
+</LanguageData>

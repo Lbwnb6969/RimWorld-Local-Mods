@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: paved hex tile -->
+  <RB_PavedTile_Transhumanist.label>铺装六角地砖</RB_PavedTile_Transhumanist.label>
+  <!-- EN: Concrete tiles with a hexagonal pattern for that ultra-technological look. Cheap, but neutral in terms of looks and slow to build. -->
+  <RB_PavedTile_Transhumanist.description>成本低廉且实用的六角形图案混凝土地砖，具有极致科技的外观风格。看起来很一般，而且铺设速度较慢。</RB_PavedTile_Transhumanist.description>
+  
+  <!-- EN: wood hex floor -->
+  <RB_WoodPlankFloor_Transhumanist.label>木六角地板</RB_WoodPlankFloor_Transhumanist.label>
+  <!-- EN: Wood plank flooring with a hexagonal pattern for that ultra-technological look. While it is quick to lay, it is also very flammable. -->
+  <RB_WoodPlankFloor_Transhumanist.description>六角形图案的木地板，具有极致科技的外观风格。虽然铺设方便，但非常易燃。</RB_WoodPlankFloor_Transhumanist.description>
+  
+</LanguageData>

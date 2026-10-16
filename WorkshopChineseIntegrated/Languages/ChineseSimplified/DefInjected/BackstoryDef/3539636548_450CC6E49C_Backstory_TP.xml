@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: [PAWN_nameDef] has spent their life making blueprints and planning off-world colonies. -->
+  <S1_BS_Astronomer.description>[PAWN_nameDef]一生都在绘制蓝图与规划外星殖民地。</S1_BS_Astronomer.description>
+  <!-- EN: Astronomer -->
+  <S1_BS_Astronomer.title>天文学家</S1_BS_Astronomer.title>
+  <!-- EN: Astronomer -->
+  <S1_BS_Astronomer.titleShort>天文学家</S1_BS_Astronomer.titleShort>
+
+  <!-- EN: [PAWN_nameDef] has spent their life growing, cataloging and researching different plants
+  from all over the galaxy. -->
+  <S1_BS_Botanist.description>[PAWN_nameDef]一生都在种植、编目和研究来自银河系各地的不同植物。</S1_BS_Botanist.description>
+  <!-- EN: Botanist -->
+  <S1_BS_Botanist.title>植物学家</S1_BS_Botanist.title>
+  <!-- EN: Botanist -->
+  <S1_BS_Botanist.titleShort>植物学家</S1_BS_Botanist.titleShort>
+
+  <!-- EN: [PAWN_nameDef] has seen war from the medic's perspective. -->
+  <S1_BS_CombatMedic.description>[PAWN_nameDef]从医护兵的视角见证了战争。</S1_BS_CombatMedic.description>
+  <!-- EN: Combat medic -->
+  <S1_BS_CombatMedic.title>战地医生</S1_BS_CombatMedic.title>
+  <!-- EN: Combat medic -->
+  <S1_BS_CombatMedic.titleShort>战地医生</S1_BS_CombatMedic.titleShort>
+
+  <!-- EN: [PAWN_nameDef] has spent most days in front of [PAWN_pronoun] screens, learning and
+  testning new ways to improve this or that project. -->
+  <S1_BS_Developer.description>[PAWN_nameDef]大部分时间都待在屏幕前，学习和测试各种新方法来改进这个或那个项目。</S1_BS_Developer.description>
+  <!-- EN: Developer -->
+  <S1_BS_Developer.title>开发者</S1_BS_Developer.title>
+  <!-- EN: Developer -->
+  <S1_BS_Developer.titleShort>开发者</S1_BS_Developer.titleShort>
+
+  <!-- EN: [PAWN_nameDef] has never been the star of anything, but one of the most important assets
+  of everything they've ever been involved in. -->
+  <S1_BS_Factotum.description>[PAWN_nameDef]从未成为万众瞩目的焦点，但在[PAWN_pronoun]参与过的所有事务中，[PAWN_pronoun]都是不可或缺的重要一员。</S1_BS_Factotum.description>
+  <!-- EN: Factotum -->
+  <S1_BS_Factotum.title>杂务总管</S1_BS_Factotum.title>
+  <!-- EN: Factotum -->
+  <S1_BS_Factotum.titleShort>杂务总管</S1_BS_Factotum.titleShort>
+
+  <!-- EN: The missions and the situations have been wildly different, but for [PAWN_nameDef] the
+  job description has always been the same: fighting. -->
+  <S1_BS_Fighter.description>任务和处境千变万化，但对[PAWN_nameDef]来说，工作内容始终如一：战斗。</S1_BS_Fighter.description>
+  <!-- EN: Fighter -->
+  <S1_BS_Fighter.title>战士</S1_BS_Fighter.title>
+  <!-- EN: Fighter -->
+  <S1_BS_Fighter.titleShort>战士</S1_BS_Fighter.titleShort>
+
+  <!-- EN: [PAWN_nameDef] loves growing pretty flowers. And growing in general. -->
+  <S1_BS_Florist.description>[PAWN_nameDef]热爱种植美丽的花朵。总的来说，[PAWN_pronoun]就是热爱种植。</S1_BS_Florist.description>
+  <!-- EN: Florist -->
+  <S1_BS_Florist.title>花匠</S1_BS_Florist.title>
+  <!-- EN: Florist -->
+  <S1_BS_Florist.titleShort>花匠</S1_BS_Florist.titleShort>
+
+  <!-- EN: [PAWN_nameDef] have spent big parts of [PAWN_possessive] life going through other
+  people's trash. But you couldn't tell from the art [PAWN_pronoun] makes. -->
+  <S1_BS_JunkArtist.description>[PAWN_nameDef]大半辈子都在翻捡别人的垃圾。但从[PAWN_pronoun]创作的艺术品中，你完全看不出这一点。</S1_BS_JunkArtist.description>
+  <!-- EN: Junk artist -->
+  <S1_BS_JunkArtist.title>废品艺术家</S1_BS_JunkArtist.title>
+  <!-- EN: Junk artist -->
+  <S1_BS_JunkArtist.titleShort>废品艺术家</S1_BS_JunkArtist.titleShort>
+
+  <!-- EN: [PAWN_nameDef] has always had a special interest in all things stones. -->
+  <S1_BS_Mason.description>[PAWN_nameDef]一直以来都对所有与石头相关的事物抱有特别的兴趣。</S1_BS_Mason.description>
+  <!-- EN: Mason -->
+  <S1_BS_Mason.title>石匠</S1_BS_Mason.title>
+  <!-- EN: Mason -->
+  <S1_BS_Mason.titleShort>石匠</S1_BS_Mason.titleShort>
+
+  <!-- EN: [PAWN_nameDef] had a renowned workshop where [PAWN_pronoun] made and sold quality guns. -->
+  <S1_BS_Riflesmith.description>[PAWN_nameDef]曾拥有一家著名的工坊，[PAWN_pronoun]在那里制造和销售优质枪械。</S1_BS_Riflesmith.description>
+  <!-- EN: Riflesmith -->
+  <S1_BS_Riflesmith.title>步枪工匠</S1_BS_Riflesmith.title>
+  <!-- EN: Riflesmith -->
+  <S1_BS_Riflesmith.titleShort>步枪工匠</S1_BS_Riflesmith.titleShort>
+
+  <!-- EN: [PAWN_nameDef] made a living fighting in shoddy bars in dirty offworlds. [PAWN_pronoun]'s
+  a tough cookie. -->
+  <S1_CageFighter.description>[PAWN_nameDef]靠在肮脏的边远世界里那些劣质酒吧中格斗为生。[PAWN_pronoun]是个硬茬。</S1_CageFighter.description>
+  <!-- EN: Cage fighter -->
+  <S1_CageFighter.title>笼斗士</S1_CageFighter.title>
+  <!-- EN: Cage fighter -->
+  <S1_CageFighter.titleShort>笼斗士</S1_CageFighter.titleShort>
+
+  <!-- EN: [PAWN_nameDef] was exiled from [PAWN_possessive] last colony and it has changed
+  [PAWN_objective]. It's not an experience [PAWN_pronoun] wants to have again. -->
+  <S1_Exile.description>[PAWN_nameDef]被上一个殖民地放逐了，这件事改变了[PAWN_objective]。[PAWN_pronoun]不想再有第二次这样的经历了。</S1_Exile.description>
+  <!-- EN: Exile -->
+  <S1_Exile.title>流放者</S1_Exile.title>
+  <!-- EN: Exile -->
+  <S1_Exile.titleShort>流放者</S1_Exile.titleShort>
+
+  <!-- EN: [PAWN_nameDef] grew up in the wild, amongst the animals. When [PAWN_pronoun] was found it
+  was already too late to do anything about it.[PAWN_nameDef] will be a wild child all
+  [PAWN_possessive] life. -->
+  <S1_WildChild.description>[PAWN_nameDef]在野外与动物们一同长大。当[PAWN_pronoun]被发现时，一切都为时已晚。[PAWN_nameDef]一生都将是个野孩子。</S1_WildChild.description>
+  <!-- EN: Wild child -->
+  <S1_WildChild.title>野孩子</S1_WildChild.title>
+  <!-- EN: Wild child -->
+  <S1_WildChild.titleShort>野孩子</S1_WildChild.titleShort>
+
+</LanguageData>

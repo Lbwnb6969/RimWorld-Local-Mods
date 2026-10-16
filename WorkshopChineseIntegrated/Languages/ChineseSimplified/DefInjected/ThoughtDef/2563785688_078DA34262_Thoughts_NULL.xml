@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: null thought -->
+  <O21_NullThought.stages.null_thought.label>.</O21_NullThought.stages.null_thought.label>
+  <!-- EN: If you can see this, you fuckin broke something. Well Done. -->
+  <O21_NullThought.stages.null_thought.description>如果你能看到这个，那就说明你他妈的搞坏了什么东西。干的可真棒。</O21_NullThought.stages.null_thought.description>
+  
+  <!-- EN: null thought -->
+  <TabulaRasa_NullThought.stages.null_thought.label>.</TabulaRasa_NullThought.stages.null_thought.label>
+  <!-- EN: If you can see this, you fuckin broke something. Well Done. -->
+  <TabulaRasa_NullThought.stages.null_thought.description>如果你能看到这个，那就说明你他妈的搞坏了什么东西。干的可真棒。</TabulaRasa_NullThought.stages.null_thought.description>
+  
+</LanguageData>

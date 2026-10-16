@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: confined interior -->
+  <AM_RoomSize_Small.stages.confined_interior.label>狭小的空间</AM_RoomSize_Small.stages.confined_interior.label>
+  <!-- EN: This space is wonderfully tiny. I feel safe and comfortable surrounded by solid walls. -->
+  <AM_RoomSize_Small.stages.confined_interior.description>这地方真是小得妙极了。被结实的墙体环绕让我感到安全且舒适。</AM_RoomSize_Small.stages.confined_interior.description>
+  <!-- EN: cramped interior -->
+  <AM_RoomSize_Small.stages.cramped_interior.label>紧凑的空间</AM_RoomSize_Small.stages.cramped_interior.label>
+  <!-- EN: This room is perfectly snug. There's no need for all that wasted space. -->
+  <AM_RoomSize_Small.stages.cramped_interior.description>这地方小得恰到好处。没必要浪费那么多的空间。</AM_RoomSize_Small.stages.cramped_interior.description>
+  <!-- EN: spacious interior -->
+  <AM_RoomSize_Small.stages.spacious_interior.label>宽敞的空间</AM_RoomSize_Small.stages.spacious_interior.label>
+  <!-- EN: This room is far too expansive. All this empty space makes me feel exposed. -->
+  <AM_RoomSize_Small.stages.spacious_interior.description>我身处的空间过于宽敞了。我感觉自己就好像被人看光了一样。</AM_RoomSize_Small.stages.spacious_interior.description>
+  
+</LanguageData>

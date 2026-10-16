@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Presser -->
+  <DankPyon_InsertResourceDesc>放入要压榨的原料</DankPyon_InsertResourceDesc>
+  <DankPyon_InsertResource>放入原料</DankPyon_InsertResource>
+  <DankPyon_InsertResourceVariable>放入{0}</DankPyon_InsertResourceVariable>
+  <DankPyon_NoResourcesFound>当前地图上找不到能压榨的原料。</DankPyon_NoResourcesFound>
+  <DankPyon_SelectResource>选择要压榨的原料种类</DankPyon_SelectResource>
+  <DankPyon_StartInsertionResource>运送原料</DankPyon_StartInsertionResource>
+  <DankPyon_StartInsertionResourceDesc>运送原料以开始制程。</DankPyon_StartInsertionResourceDesc>
+  <DankPyon_RemoveResource>移除原料</DankPyon_RemoveResource>
+  <DankPyon_RemoveResourceDesc>移除原料(只能在开始压榨之前执行此操作)。</DankPyon_RemoveResourceDesc>
+  <DankPyon_CancelBringingResource>取消运送原料</DankPyon_CancelBringingResource>
+  <DankPyon_CancelBringingResourceDesc>取消运送原料到此建筑。</DankPyon_CancelBringingResourceDesc>
+  <DankPyon_WaitTillJobsEndResource>等待原料运送完成，或取消工作。</DankPyon_WaitTillJobsEndResource>
+  <DankPyon_EngageResource>开始作业</DankPyon_EngageResource>
+  <DankPyon_EngageResourceDesc>开始压榨作业，过程需要5天且不能被中断，否则原料将被摧毁。</DankPyon_EngageResourceDesc>
+  <DankPyon_ResourceFinished>一项原料已经完成压榨。</DankPyon_ResourceFinished>
+  <DankPyon_ResourceInProgress>正在压榨{0}，将会在{1}内完成。</DankPyon_ResourceInProgress>
+  <DankPyon_ResourceReady>一项原料已经完成压榨，等待取出。</DankPyon_ResourceReady>
+  <DankPyon_ResourceImproperlyDefined>这项原料并未被适当地定义，如欲使用该原料于生产制程，请联系该mod的作者。</DankPyon_ResourceImproperlyDefined>
+  <DankPyon_RemoveProduct>取出产品({0})</DankPyon_RemoveProduct>
+  <DankPyon_RemoveProductDesc>从压榨机取出产品。</DankPyon_RemoveProductDesc>
+  <DankPyon_PressEmpty>压榨机是空的</DankPyon_PressEmpty>
+  <DankPyon_PressFilled>{0}已填入压榨机</DankPyon_PressFilled>
+  <DankPyon_PressWorking>压榨机正在运作:</DankPyon_PressWorking>
+  <DankPyon_ResourcePercentage>(已填入{0}/{1})</DankPyon_ResourcePercentage>
+  <!-- Smoker -->
+  <DankPyon_InsertMeatDesc>放入要燻制的原肉。</DankPyon_InsertMeatDesc>
+  <DankPyon_InsertMeat>放入原肉</DankPyon_InsertMeat>
+  <DankPyon_InsertMeatVariable>放入{0}</DankPyon_InsertMeatVariable>
+  <DankPyon_NoMeatsFound>当前地图上找不到原肉。</DankPyon_NoMeatsFound>
+  <DankPyon_SelectMeat>选择要燻制的原肉种类</DankPyon_SelectMeat>
+  <DankPyon_StartInsertionMeat>运送原肉</DankPyon_StartInsertionMeat>
+  <DankPyon_StartInsertionMeatDesc>运送原肉以开始制程。</DankPyon_StartInsertionMeatDesc>
+  <DankPyon_RemoveMeat>移除原肉</DankPyon_RemoveMeat>
+  <DankPyon_RemoveMeatDesc>移除原肉(只能在开始燻制之前执行此操作)。</DankPyon_RemoveMeatDesc>
+  <DankPyon_CancelBringingMeat>取消运送原肉</DankPyon_CancelBringingMeat>
+  <DankPyon_CancelBringingMeatDesc>取消运送原肉到此建筑。</DankPyon_CancelBringingMeatDesc>
+  <DankPyon_WaitTillJobsEndMeat>等待原料运送完成，或取消工作。</DankPyon_WaitTillJobsEndMeat>
+  <DankPyon_EngageMeat>开始作业</DankPyon_EngageMeat>
+  <DankPyon_EngageMeatDesc>开始燻制作业，过程需要1天且不能被中断，否则原料将被摧毁。</DankPyon_EngageMeatDesc>
+  <DankPyon_SmokedMeatFinished>一项原肉已经完成燻制。</DankPyon_SmokedMeatFinished>
+  <DankPyon_SmokedMeatInProgress>正在燻制{0}，将会在{1}内完成。</DankPyon_SmokedMeatInProgress>
+  <DankPyon_SmokedMeatReady>原肉已经完成燻制，等待取出。</DankPyon_SmokedMeatReady>
+  <DankPyon_MeatImproperlyDefined>这项原料并未被适当地定义，如欲使用该原料于生产制程，请联系该mod的作者。</DankPyon_MeatImproperlyDefined>
+  <DankPyon_RemoveSmokedMeat>取出产品({0})</DankPyon_RemoveSmokedMeat>
+  <DankPyon_SmokerEmpty>烟燻炉是空的</DankPyon_SmokerEmpty>
+  <DankPyon_SmokerFilled>{0}已放入烟燻炉</DankPyon_SmokerFilled>
+  <DankPyon_SmokerWorking>烟燻炉正在运作:</DankPyon_SmokerWorking>
+  <!-- Drying Rack Meat -->
+  <DankPyon_InsertMeatRackDesc>放入要乾燥的原肉。</DankPyon_InsertMeatRackDesc>
+  <DankPyon_InsertRackMeat>放入原肉</DankPyon_InsertRackMeat>
+  <DankPyon_InsertMeatRackVariable>放入{0}</DankPyon_InsertMeatRackVariable>
+  <DankPyon_StartInsertionMeatRackDesc>运送原肉以开始制程。</DankPyon_StartInsertionMeatRackDesc>
+  <DankPyon_RemoveMeatRackDesc>移除原肉(只能在开始乾燥之前执行此操作)。</DankPyon_RemoveMeatRackDesc>
+  <DankPyon_CancelBringingMeatRackDesc>取消运送原肉到此建筑。</DankPyon_CancelBringingMeatRackDesc>
+  <DankPyon_WaitTillJobsEndMeatRack>等待原料运送完成，或取消工作。</DankPyon_WaitTillJobsEndMeatRack>
+  <DankPyon_EngageMeatRack>开始作业</DankPyon_EngageMeatRack>
+  <DankPyon_EngageMeatRackDesc>开始乾燥作业，过程需要1天且不能被中断，否则原料将被摧毁。</DankPyon_EngageMeatRackDesc>
+  <DankPyon_DriedMeatFinished>一项原肉已经完成乾燥。</DankPyon_DriedMeatFinished>
+  <DankPyon_DriedMeatInProgress>正在乾燥{0}，将会在{1}内完成。</DankPyon_DriedMeatInProgress>
+  <DankPyon_DriedMeatRackReady>原肉已经完成乾燥，等待取出。</DankPyon_DriedMeatRackReady>
+  <DankPyon_MeatRackImproperlyDefined>这项原料并未被适当地定义，如欲使用该原料于生产制程，请联系该mod的作者。</DankPyon_MeatRackImproperlyDefined>
+  <DankPyon_RemoveDriedMeat>取出产品({0})</DankPyon_RemoveDriedMeat>
+  <DankPyon_DryingRackEmpty>乾肉架是空的</DankPyon_DryingRackEmpty>
+  <DankPyon_DryingRackFilled>{0}已放入乾肉架</DankPyon_DryingRackFilled>
+  <DankPyon_DryingRackWorking>乾肉架正在运作:</DankPyon_DryingRackWorking>
+  <!-- Hay Rack Meat -->
+  <DankPyon_InsertHayDesc>放入要乾燥的牧草。</DankPyon_InsertHayDesc>
+  <DankPyon_InsertHay>放入牧草</DankPyon_InsertHay>
+  <DankPyon_InsertHayVariable>放入{0}</DankPyon_InsertHayVariable>
+  <DankPyon_NoHayFound>当前地图上找不到牧草。</DankPyon_NoHayFound>
+  <DankPyon_SelectHay>选择要乾燥的牧草</DankPyon_SelectHay>
+  <DankPyon_StartInsertionHay>运送牧草</DankPyon_StartInsertionHay>
+  <DankPyon_StartInsertionHayDesc>运送牧草以开始制程。</DankPyon_StartInsertionHayDesc>
+  <DankPyon_RemoveHay>移除牧草</DankPyon_RemoveHay>
+  <DankPyon_RemoveHayDesc>移除牧草(只能在开始乾燥之前执行此操作)。</DankPyon_RemoveHayDesc>
+  <DankPyon_CancelBringingHay>取消运送牧草</DankPyon_CancelBringingHay>
+  <DankPyon_CancelBringingHayDesc>取消运送牧草到此建筑。</DankPyon_CancelBringingHayDesc>
+  <DankPyon_WaitTillJobsEndHay>等待原料运送完成，或取消工作。</DankPyon_WaitTillJobsEndHay>
+  <DankPyon_EngageHay>开始作业</DankPyon_EngageHay>
+  <DankPyon_EngageHayDesc>开始乾燥作业，过程需要3天。</DankPyon_EngageHayDesc>
+  <DankPyon_StrawFinished>牧草已经完成乾燥。</DankPyon_StrawFinished>
+  <DankPyon_StrawInProgress>正在乾燥{0}，将会在{1}内完成。</DankPyon_StrawInProgress>
+  <DankPyon_StrawReady>牧草已经完成乾燥，等待取出。</DankPyon_StrawReady>
+  <DankPyon_RemoveStraw>取出产品({0})</DankPyon_RemoveStraw>
+  <!-- Ale -->
+  <DankPyon_InsertAleOrMustDesc>装填麦芽浆或葡萄原浆</DankPyon_InsertAleOrMustDesc>
+  <DankPyon_StartInsertionAleOrMust>运送原料</DankPyon_StartInsertionAleOrMust>
+  <DankPyon_StartInsertionAleOrMustDesc>运送原料以开始发酵制程。</DankPyon_StartInsertionAleOrMustDesc>
+  <DankPyon_CancelBringingAleOrMust>取消运送原料</DankPyon_CancelBringingAleOrMust>
+  <DankPyon_CancelBringingAleOrMustDesc>取消运送原料到发酵桶。</DankPyon_CancelBringingAleOrMustDesc>
+  <DankPyon_JuiceAppleMaturing>正在发酵苹果汁</DankPyon_JuiceAppleMaturing>
+  <DankPyon_JuiceAppleCurrentlyFrozen>苹果汁结冰了，无法发酵为苹果酒</DankPyon_JuiceAppleCurrentlyFrozen>
+  <DankPyon_JuiceAppleCurrentlyRefrigerated>苹果汁温度过低，将减缓发酵制程(在{0}内完成发酵)</DankPyon_JuiceAppleCurrentlyRefrigerated>
+  <DankPyon_JuiceAppleMaturingCorrectly>苹果汁正在发酵(在{0}内完成发酵)</DankPyon_JuiceAppleMaturingCorrectly>
+  <!-- UI -->
+  <DankPyon_GizmoSearch>搜索战利品</DankPyon_GizmoSearch>
+  <!-- Production Chains -->
+  <DankPyon_Hide_Description>这些生皮和生毛皮是从生物身上剥下来的，经过适当的鞣制程序，可以加工成皮革。</DankPyon_Hide_Description>
+  <DankPyon_Hide>{0}(未鞣制)</DankPyon_Hide>
+  <DankPyon_PlainHide>普通皮革(未鞣制)</DankPyon_PlainHide>
+  <DankPyon_Plank_Description>未经加工的木头，是营火的良好燃料，虽然也能用于建造或作成武器，但在适当切割后将更便于运用。</DankPyon_Plank_Description>
+  <DankPyon_Log>{0}原木</DankPyon_Log>
+  <DankPyon_Timber>{0}材</DankPyon_Timber>
+  <DankPyon_Plank></DankPyon_Plank>
+  <!-- Misc -->
+  <DankPyon_Gossamer_Desc>蛛魔丝生产进度</DankPyon_Gossamer_Desc>
+  <DankPyon_TrollSwallowDesc>远古巨魔吞下了一名殖民者！尽快杀死巨魔以确保其生还。</DankPyon_TrollSwallowDesc>
+  <DankPyon_TrollSwallLabel>好吃！</DankPyon_TrollSwallLabel>
+  <DankPyon_StewMealAmount>制作完成</DankPyon_StewMealAmount>
+  <!-- Medieval Nutrient Pots -->
+  <DankPyon_MealSlop_RefueledWithStat>已填充</DankPyon_MealSlop_RefueledWithStat>
+  <DankPyon_MealSlop_CommandSetTargetFuelLevel>设定目标数量</DankPyon_MealSlop_CommandSetTargetFuelLevel>
+  <DankPyon_CommandSetTargetFuelLevelDesc>设定目标餐點数量，殖民者将尝试添加食材以维持目标数量。</DankPyon_CommandSetTargetFuelLevelDesc>
+  <DankPyon_MealSlop_CommandToggleAllowAutoRefuel>自动补充食材</DankPyon_MealSlop_CommandToggleAllowAutoRefuel>
+  <DankPyon_MealSlop_CommandToggleAllowAutoRefuelDesc>设定是否允许自动补充食材。</DankPyon_MealSlop_CommandToggleAllowAutoRefuelDesc>
+  <DankPyon_StewPot_Itab>食材</DankPyon_StewPot_Itab>
+  <DankPyon_MealSlop_Spoiled>餐点已经腐败。</DankPyon_MealSlop_Spoiled>
+  <DankPyon_StewPot_NutritionStored>剩余餐点可提供的营养值</DankPyon_StewPot_NutritionStored>
+  <DankPyon_SlopRotting>由于缺乏燃料，锅内的餐点开始变质了。</DankPyon_SlopRotting>
+  <DankPyon_SlopFuel>需要燃料。</DankPyon_SlopFuel>
+  <DankPyon_EmptyPot>倒空锅子</DankPyon_EmptyPot>
+  <DankPyon_EmptyPot_Cancel>取消倒空锅子</DankPyon_EmptyPot_Cancel>
+  <DankPyon_RetrieveSlopMeals>盛起{0}份餐点</DankPyon_RetrieveSlopMeals>
+  <DankPyon_RetrieveSlopMeals_Cancel>取消盛起餐点。</DankPyon_RetrieveSlopMeals_Cancel>
+  <DankPyon_NoFood>锅子里没有煮好的餐点</DankPyon_NoFood>
+  <DankPyon_CannotUse>无法使用{0}</DankPyon_CannotUse>
+  <DankPyon_GetSlop>食用{0}。</DankPyon_GetSlop>
+  <!-- Ice Stuff -->
+  <DankPyon_Melted>完全融化于</DankPyon_Melted>
+  <DankPyon_GatherIce>凿冰／取水</DankPyon_GatherIce>
+  <DankPyon_GatherIceDesc>在冰上凿取冰块／在水里取水。</DankPyon_GatherIceDesc>
+  <DankPyon_MustBeIce>只能从冰上凿取冰块／从水面取水</DankPyon_MustBeIce>
+  <DankPyon_MustBeOnSoil>只能建造于土壤地形</DankPyon_MustBeOnSoil>
+  <DankPyon_MeltedAwayInStorage>{1_label}融化掉了。</DankPyon_MeltedAwayInStorage>
+  <DankPyon_RequiredSchematic>需要原理图</DankPyon_RequiredSchematic>
+  <!-- Alp Game Condition -->
+  <DankPyon_AlpAttackLetterLabel>目击梦魇</DankPyon_AlpAttackLetterLabel>
+  <DankPyon_AlpAttackLetterText>一群梦魇伴着阴风从黑暗中出现，它们煞白的身影在浓雾中悄然前行。仅仅只是瞥见一眼，那毫无生机的面孔和悚然的牙齿就能带给人们深刻的恐惧。恐惧的低语随着梦魇在营地传播，它们渴求着极端的混乱与绝望。</DankPyon_AlpAttackLetterText>
+</LanguageData>

@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_roleName->Commissar</li>
+  -->
+  <VME_Commissar.rulePack.rulesStrings>
+    <li>r_roleName->政委</li>
+  </VME_Commissar.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName->Fleshcrafter</li>
+  -->
+  <VME_Fleshcrafter.rulePack.rulesStrings>
+    <li>r_roleName->血肉重塑者</li>
+  </VME_Fleshcrafter.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Insectoid Herder</li>
+    <li>firstPart->Spider </li>
+    <li>firstPart->Maggot </li>
+    <li>firstPart->Scarab </li>
+    <li>firstPart->Cricket </li>
+    <li>firstPart->Tick </li>
+    <li>firstPart->Larva </li>
+    <li>firstPart->Beetle </li>
+    <li>firstPart->Locust </li>
+    <li>secondPart(p=4)->Harvester</li>
+    <li>secondPart(p=4)->Handler</li>
+    <li>secondPart(p=4)->Brood-sibling</li>
+    <li>secondPart(p=4)->Devotee</li>
+    <li>secondPart(p=4)->Hive-Psyker</li>
+    <li>secondPart(p=4)->Hive-Commander</li>
+    <li>secondPart(p=4)->Hive-brood</li>
+    <li>secondPart(p=4)->Hive-slave</li>
+  -->
+  <VME_InsectoidHerder.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->虫族护工</li>
+    <li>firstPart->蜘蛛</li>
+    <li>firstPart->蛆虫</li>
+    <li>firstPart->甲虫</li>
+    <li>firstPart->蟋蟀</li>
+    <li>firstPart->扁虱</li>
+    <li>firstPart->幼虫</li>
+    <li>firstPart->甲虫</li>
+    <li>firstPart->蝗虫</li>
+    <li>secondPart(p=4)->收获者</li>
+    <li>secondPart(p=4)->管理者</li>
+    <li>secondPart(p=4)->孵化-同胞</li>
+    <li>secondPart(p=4)->狂信徒</li>
+    <li>secondPart(p=4)->巢穴-灵能者</li>
+    <li>secondPart(p=4)->巢穴-指挥者</li>
+    <li>secondPart(p=4)->巢穴-孵化者</li>
+    <li>secondPart(p=4)->巢穴-奴隶</li>
+  </VME_InsectoidHerder.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_roleName->Majordomo</li>
+  -->
+  <VME_Majordomo.rulePack.rulesStrings>  
+    <li>r_roleName->管家</li>
+  </VME_Majordomo.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Mechacker</li>
+    <li>firstPart->Engine </li>
+    <li>firstPart->Mechanoid </li>
+    <li>firstPart->Bionic </li>
+    <li>firstPart->Technological </li>
+    <li>firstPart->Electronic </li>
+    <li>firstPart->Artificial </li>
+    <li>firstPart->Scientific </li>
+    <li>firstPart->Brilliant </li>
+    <li>secondPart(p=4)->Engineseer</li>
+    <li>secondPart(p=4)->Artificer</li>
+    <li>secondPart(p=4)->Machinist</li>
+    <li>secondPart(p=4)->Soothesayer</li>
+    <li>secondPart(p=4)->Designer</li>
+    <li>secondPart(p=4)->Hackmaster</li>
+    <li>secondPart(p=4)->Mastermind</li>
+    <li>secondPart(p=4)->Inventor</li>
+  -->
+  <VME_Mechacker.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->机械黑客</li>
+    <li>firstPart->引擎 </li>
+    <li>firstPart->机械族 </li>
+    <li>firstPart->仿生 </li>
+    <li>firstPart->技术 </li>
+    <li>firstPart->电子 </li>
+    <li>firstPart->人工 </li>
+    <li>firstPart->科学 </li>
+    <li>firstPart->精巧 </li>
+    <li>secondPart(p=4)->工程师</li>
+    <li>secondPart(p=4)->发明家</li>
+    <li>secondPart(p=4)->机械师</li>
+    <li>secondPart(p=4)->驭械师</li>
+    <li>secondPart(p=4)->设计师</li>
+    <li>secondPart(p=4)->黑客大师</li>
+    <li>secondPart(p=4)->策划者</li>
+    <li>secondPart(p=4)->发明家</li>
+  </VME_Mechacker.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName->second triumvir</li>
+  -->
+  <VME_NamerSecondTriumvir.rulePack.rulesStrings>
+    <li>r_roleName->第二领袖</li>
+  </VME_NamerSecondTriumvir.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName->third triumvir</li>
+  -->
+  <VME_NamerThirdTriumvir.rulePack.rulesStrings>
+    <li>r_roleName->第三领袖</li>
+  </VME_NamerThirdTriumvir.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName->Nurse</li>
+  -->
+  <VME_Nurse.rulePack.rulesStrings>
+    <li>r_roleName->护士</li>
+  </VME_Nurse.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->party host</li>
+    <li>r_roleName->party animal</li>
+    <li>firstPart->exciting </li>
+    <li>firstPart->comedic </li>
+    <li>firstPart->esteemed </li>
+    <li>firstPart->hilarious </li>
+    <li>firstPart->crazed </li>
+    <li>firstPart->wild </li>
+    <li>firstPart->jubilant </li>
+    <li>firstPart->joyous </li>
+    <li>secondPart(p=4)->genius</li>
+    <li>secondPart(p=4)->entertainer</li>
+    <li>secondPart(p=4)->host</li>
+    <li>secondPart(p=4)->jester</li>
+    <li>secondPart(p=4)->joker</li>
+    <li>secondPart(p=4)->animal</li>
+    <li>secondPart(p=4)->performer</li>
+    <li>secondPart(p=4)->comedian</li>
+  -->
+  <VME_PartyHost.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->聚会主办人</li>
+    <li>r_roleName->聚会达人</li>
+    <li>firstPart->兴奋</li>
+    <li>firstPart->喜剧</li>
+    <li>firstPart->德高望重</li>
+    <li>firstPart->滑稽</li>
+    <li>firstPart->疯狂</li>
+    <li>firstPart->狂放</li>
+    <li>firstPart->喜庆</li>
+    <li>firstPart->欢乐</li>
+    <li>secondPart(p=4)->天才</li>
+    <li>secondPart(p=4)->艺人</li>
+    <li>secondPart(p=4)->主持人</li>
+    <li>secondPart(p=4)->弄臣</li>
+    <li>secondPart(p=4)->小丑</li>
+    <li>secondPart(p=4)->达人</li>
+    <li>secondPart(p=4)->演员</li>
+    <li>secondPart(p=4)->演出者</li>
+  </VME_PartyHost.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Patissier</li>
+    <li>firstPart->Deft-handed </li>
+    <li>firstPart->Accomplished </li>
+    <li>firstPart->Talented </li>
+    <li>firstPart->Exquisite </li>
+    <li>firstPart->Seasoned </li>
+    <li>firstPart->Masterful </li>
+    <li>secondPart(p=4)->Culinarian</li>
+    <li>secondPart(p=4)->Epicurian</li>
+    <li>secondPart(p=4)->Baker</li>
+    <li>secondPart(p=4)->Patissier</li>
+    <li>secondPart(p=4)->Banqueter</li>
+    <li>secondPart(p=4)->Glacier</li>
+    <li>secondPart(p=4)->Confectioner</li>
+  -->
+  <VME_Patissier.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->糕点师</li>
+    <li>firstPart->巧手</li>
+    <li>firstPart->老练</li>
+    <li>firstPart->才华横溢</li>
+    <li>firstPart->雅致</li>
+    <li>firstPart->老道</li>
+    <li>firstPart->娴熟</li>
+    <li>secondPart(p=4)->料理师</li>
+    <li>secondPart(p=4)->甜点师</li>
+    <li>secondPart(p=4)->面包师</li>
+    <li>secondPart(p=4)->糕点师</li>
+    <li>secondPart(p=4)->设宴者</li>
+    <li>secondPart(p=4)->糕点大厨</li>
+    <li>secondPart(p=4)->糖果商</li>
+  </VME_Patissier.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->firekeeper</li>
+    <li>r_roleName->flamekeeper</li>
+    <li>firstPart->flame</li>
+    <li>firstPart->ash</li>
+    <li>firstPart->fire</li>
+    <li>firstPart->warmth</li>
+    <li>firstPart->bright</li>
+    <li>firstPart->light</li>
+    <li>firstPart->kiln</li>
+    <li>firstPart->forge</li>
+    <li>secondPart(p=4)->touched</li>
+    <li>secondPart(p=4)->warden</li>
+    <li>secondPart(p=4)->herald</li>
+    <li>secondPart(p=4)->protector</li>
+    <li>secondPart(p=4)->defender</li>
+    <li>secondPart(p=4)->seeker</li>
+    <li>secondPart(p=4)->whisperer</li>
+    <li>secondPart(p=4)->keeper</li>
+  -->
+  <VME_RoleFireKeeper.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->护火者</li>
+    <li>r_roleName->护火者</li>
+    <li>firstPart->火焰</li>
+    <li>firstPart->灰烬</li>
+    <li>firstPart->火焰</li>
+    <li>firstPart->温暖</li>
+    <li>firstPart->明亮</li>
+    <li>firstPart->光明</li>
+    <li>firstPart->窑炉</li>
+    <li>firstPart->熔火</li>
+    <li>secondPart(p=4)->touched</li>
+    <li>secondPart(p=4)->看守人</li>
+    <li>secondPart(p=4)->使者</li>
+    <li>secondPart(p=4)->看护人</li>
+    <li>secondPart(p=4)->守护者</li>
+    <li>secondPart(p=4)->探求者</li>
+    <li>secondPart(p=4)->密语者</li>
+    <li>secondPart(p=4)->看护者</li>
+  </VME_RoleFireKeeper.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Trader</li>
+    <li>firstPart->Bountiful </li>
+    <li>firstPart->Itinerant </li>
+    <li>firstPart->Unscrupulous </li>
+    <li>firstPart->Respectable </li>
+    <li>firstPart->Affluent </li>
+    <li>firstPart->Prosperous </li>
+    <li>firstPart->Opulent </li>
+    <li>firstPart->Rich </li>
+    <li>secondPart(p=4)->Merchant</li>
+    <li>secondPart(p=4)->Operator</li>
+    <li>secondPart(p=4)->Seller</li>
+    <li>secondPart(p=4)->Shopkeeper</li>
+    <li>secondPart(p=4)->Vendor</li>
+    <li>secondPart(p=4)->Broker</li>
+    <li>secondPart(p=4)->Wholesaler</li>
+    <li>secondPart(p=4)->Salesperson</li>
+  -->
+  <VME_Trader.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->商人</li>
+    <li>firstPart->大方</li>
+    <li>firstPart->游走</li>
+    <li>firstPart->不择手段</li>
+    <li>firstPart->可敬</li>
+    <li>firstPart->富裕</li>
+    <li>firstPart->成功</li>
+    <li>firstPart->富裕</li>
+    <li>firstPart->富有</li>
+    <li>secondPart(p=4)->商人</li>
+    <li>secondPart(p=4)->经营者</li>
+    <li>secondPart(p=4)->销售者</li>
+    <li>secondPart(p=4)->店主</li>
+    <li>secondPart(p=4)->供应商</li>
+    <li>secondPart(p=4)->经纪人</li>
+    <li>secondPart(p=4)->批发商</li>
+    <li>secondPart(p=4)->推销员</li>
+  </VME_Trader.rulePack.rulesStrings>
+  
+</LanguageData>

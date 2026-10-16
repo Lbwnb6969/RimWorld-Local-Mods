@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Preserve the original acquisition tiers when Medieval Overhaul is present. -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Overhaul</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <!-- Ultratech medicine: four herbal medicines retain 80% of the original market value. -->
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="35"]/count</xpath><value><count>140</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="20"]/count</xpath><value><count>80</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="15"]/count</xpath><value><count>60</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="8"]/count</xpath><value><count>32</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="7"]/count</xpath><value><count>28</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="6"]/count</xpath><value><count>24</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="5"]/count</xpath><value><count>20</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="3"]/count</xpath><value><count>12</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="2"]/count</xpath><value><count>8</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="MedicineUltratech" and count="1"]/count</xpath><value><count>4</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="MedicineUltratech"]</xpath><value><li>MedicineHerbal</li></value></li>
+
+        <!-- Neutroamine: two psychoid leaves retain 63% of value and require an agricultural supply chain. -->
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Neutroamine" and count="350"]/count</xpath><value><count>700</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Neutroamine" and count="130"]/count</xpath><value><count>260</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Neutroamine" and count="115"]/count</xpath><value><count>230</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Neutroamine" and count="100"]/count</xpath><value><count>200</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Neutroamine" and count="65"]/count</xpath><value><count>130</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Neutroamine" and count="60"]/count</xpath><value><count>120</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Neutroamine" and count="50"]/count</xpath><value><count>100</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="Neutroamine"]</xpath><value><li>PsychoidLeaves</li></value></li>
+
+        <!-- Luciferium: three gold plus one ruby per dose retain 67% of value and add a scarce mineral gate. -->
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_")) and ingredients/li/filter/thingDefs/li="Luciferium"]/fixedIngredientFilter/thingDefs</xpath>
+          <value><li>DankPyon_Ruby</li></value>
+        </li>
+        <li Class="PatchOperationAdd"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_")) and ingredients/li[filter/thingDefs/li="Luciferium" and count="2"]]/ingredients</xpath><value><li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>2</count></li></value></li>
+        <li Class="PatchOperationAdd"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_")) and ingredients/li[filter/thingDefs/li="Luciferium" and count="4"]]/ingredients</xpath><value><li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>4</count></li></value></li>
+        <li Class="PatchOperationAdd"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_")) and ingredients/li[filter/thingDefs/li="Luciferium" and count="20"]]/ingredients</xpath><value><li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>20</count></li></value></li>
+        <li Class="PatchOperationAdd"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_")) and ingredients/li[filter/thingDefs/li="Luciferium" and count="50"]]/ingredients</xpath><value><li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>50</count></li></value></li>
+        <!-- Any Medieval Overhaul gemstone may satisfy the converted rare-gem slot. -->
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li/filter/thingDefs[li="DankPyon_Ruby"]</xpath>
+          <value><categories><li>DankPyon_GemStones</li></categories></value>
+        </li>
+        <li Class="PatchOperationSequence">
+          <operations>
+            <li Class="PatchOperationRemove">
+              <xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/fixedIngredientFilter/thingDefs/li[text()="DankPyon_Ruby"]</xpath>
+            </li>
+            <li Class="PatchOperationConditional">
+              <xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/fixedIngredientFilter/categories</xpath>
+              <match Class="PatchOperationAdd">
+                <xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/fixedIngredientFilter/categories</xpath>
+                <value><li>DankPyon_GemStones</li></value>
+              </match>
+            </li>
+            <li Class="PatchOperationConditional">
+              <xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/fixedIngredientFilter[not(categories)]</xpath>
+              <match Class="PatchOperationAdd">
+                <xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/fixedIngredientFilter[not(categories)]</xpath>
+                <value><categories><li>DankPyon_GemStones</li></categories></value>
+              </match>
+            </li>
+          </operations>
+        </li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Luciferium" and count="2"]/count</xpath><value><count>6</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Luciferium" and count="4"]/count</xpath><value><count>12</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Luciferium" and count="20"]/count</xpath><value><count>60</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="Luciferium" and count="50"]/count</xpath><value><count>150</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="Luciferium"]</xpath><value><li>Gold</li></value></li>
+
+        <!-- Industrial components become two craftable basic components; advanced components become 20 mithril. -->
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="ComponentIndustrial" and count="4"]/count</xpath><value><count>8</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="ComponentIndustrial" and count="10"]/count</xpath><value><count>20</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="ComponentIndustrial"]</xpath><value><li>DankPyon_ComponentBasic</li></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="ComponentSpacer" and count="1"]/count</xpath><value><count>20</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="ComponentSpacer" and count="2"]/count</xpath><value><count>40</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]/ingredients/li[filter/thingDefs/li="ComponentSpacer" and count="3"]/count</xpath><value><count>60</count></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="ComponentSpacer"]</xpath><value><li>Plasteel</li></value></li>
+        <!-- Rubicon already used 10 mithril; merge the converted 40 into one unambiguous requirement. -->
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[@Name="BEWH_RecipeRubiconSurgeryKitBase"]/ingredients/li[filter/thingDefs/li="Plasteel" and count="10"]/count</xpath><value><count>50</count></value></li>
+        <li Class="PatchOperationRemove"><xpath>Defs/RecipeDef[@Name="BEWH_RecipeRubiconSurgeryKitBase"]/ingredients/li[filter/thingDefs/li="Plasteel" and count="40"]</xpath></li>
+        <li Class="PatchOperationConditional">
+          <xpath>Defs/RecipeDef[@Name="BEWH_RecipeRubiconSurgeryKitBase"]/fixedIngredientFilter/thingDefs/li[text()="Plasteel" and preceding-sibling::li[text()="Plasteel"]]</xpath>
+          <match Class="PatchOperationRemove">
+            <xpath>Defs/RecipeDef[@Name="BEWH_RecipeRubiconSurgeryKitBase"]/fixedIngredientFilter/thingDefs/li[text()="Plasteel" and preceding-sibling::li[text()="Plasteel"]]</xpath>
+          </match>
+        </li>
+        <!-- Matrix Luciferium slots are fixed three-gem requirements. -->
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[starts-with(defName,"BEWH_Make") and contains(defName,"Matrix")]/ingredients/li[filter/categories/li="DankPyon_GemStones" and count="2"]</xpath><value><li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>2</count></li><li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>2</count></li><li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>2</count></li></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[starts-with(defName,"BEWH_Make") and contains(defName,"Matrix")]/ingredients/li[filter/categories/li="DankPyon_GemStones" and count="4"]</xpath><value><li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>4</count></li><li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>4</count></li><li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>4</count></li></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[starts-with(defName,"BEWH_Make") and contains(defName,"Matrix")]/ingredients/li[filter/categories/li="DankPyon_GemStones" and count="20"]</xpath><value><li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>20</count></li><li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>20</count></li><li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>20</count></li></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[starts-with(defName,"BEWH_Make") and contains(defName,"Matrix")]/ingredients/li[filter/categories/li="DankPyon_GemStones" and count="50"]</xpath><value><li><filter><thingDefs><li>DankPyon_Ruby</li></thingDefs></filter><count>50</count></li><li><filter><thingDefs><li>DankPyon_Sapphire</li></thingDefs></filter><count>50</count></li><li><filter><thingDefs><li>DankPyon_Emerald</li></thingDefs></filter><count>50</count></li></value></li>
+        <!-- Each finished matrix needs a single filter containing every converted ingredient. -->
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[@Name="BEWH_RecipeGeneticMatrixBase"]/fixedIngredientFilter</xpath><value><fixedIngredientFilter><thingDefs><li>MedicineHerbal</li><li>Meat_Human</li><li>PsychoidLeaves</li></thingDefs></fixedIngredientFilter></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(defName="BEWH_MakeFirstbornMatrix" or defName="BEWH_MakePrimarisMatrix" or defName="BEWH_MakeCustodesMatrix" or defName="BEWH_MakePrimarchMatrix")]/fixedIngredientFilter</xpath><value><fixedIngredientFilter Inherit="False"><thingDefs><li>MedicineHerbal</li><li>Meat_Human</li><li>PsychoidLeaves</li><li>Gold</li><li>DankPyon_Ruby</li><li>DankPyon_Sapphire</li><li>DankPyon_Emerald</li></thingDefs></fixedIngredientFilter></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[@Name="BEWH_RecipeGeneticMatrixBaseRefined"]/fixedIngredientFilter</xpath><value><fixedIngredientFilter><thingDefs><li>MedicineHerbal</li><li>PsychoidLeaves</li></thingDefs><categories><li>MeatRaw</li></categories></fixedIngredientFilter></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(defName="BEWH_MakeFirstbornMatrixRefined" or defName="BEWH_MakePrimarisMatrixRefined" or defName="BEWH_MakeCustodesMatrixRefined" or defName="BEWH_MakePrimarchMatrixRefined")]/fixedIngredientFilter</xpath><value><fixedIngredientFilter Inherit="False"><thingDefs><li>MedicineHerbal</li><li>PsychoidLeaves</li><li>Gold</li><li>DankPyon_Ruby</li><li>DankPyon_Sapphire</li><li>DankPyon_Emerald</li></thingDefs><categories><li>MeatRaw</li></categories></fixedIngredientFilter></value></li>
+        <!-- Medieval Overhaul turns Plasteel into researched, Crafting-14 mithril, so it remains unchanged. -->
+      </operations>
+    </match>
+
+    <!-- Vanilla-only compatibility fallback avoids unavailable Defs; the tuned path is the Medieval Overhaul branch. -->
+    <nomatch Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="MedicineUltratech"]</xpath><value><li>MedicineHerbal</li></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="Neutroamine"]</xpath><value><li>PsychoidLeaves</li></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="Luciferium"]</xpath><value><li>Gold</li></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="ComponentIndustrial"]</xpath><value><li>Steel</li></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="ComponentSpacer"]</xpath><value><li>Gold</li></value></li>
+        <li Class="PatchOperationReplace"><xpath>Defs/RecipeDef[(starts-with(defName,"BEWH_") or starts-with(@Name,"BEWH_"))]//li[text()="Plasteel"]</xpath><value><li>Steel</li></value></li>
+      </operations>
+    </nomatch>
+  </Operation>
+</Patch>

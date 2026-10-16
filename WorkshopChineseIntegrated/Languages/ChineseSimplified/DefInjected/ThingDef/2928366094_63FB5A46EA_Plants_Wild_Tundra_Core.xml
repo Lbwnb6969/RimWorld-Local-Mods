@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brambles -->
+  <RG_Plant_BramblesRed.label>荆棘</RG_Plant_BramblesRed.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <RG_Plant_BramblesRed.description>布满叶子的缠结带棘的小灌木。从上面走过时速度会变慢一点点。</RG_Plant_BramblesRed.description>
+  
+  <!-- EN: brambles -->
+  <RG_Plant_BramblesYellow.label>荆棘</RG_Plant_BramblesYellow.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <RG_Plant_BramblesYellow.description>布满叶子的缠结带棘的小灌木。从上面走过时速度会变慢一点点。</RG_Plant_BramblesYellow.description>
+  
+  <!-- EN: crimson cushion -->
+  <RG_Plant_CrimsonCushion.label>绯红垫草</RG_Plant_CrimsonCushion.label>
+  <!-- EN: Wild crimson colored carpet plant. Takes a long time to grow, but is very frost-resistant. -->
+  <RG_Plant_CrimsonCushion.description>生长在冻土苔原地区的野生植物。生长周期较长，但抗寒能力很强。</RG_Plant_CrimsonCushion.description>
+  
+  <!-- EN: lupine -->
+  <RG_Plant_LupineIceland.label>羽扇豆</RG_Plant_LupineIceland.label>
+  <!-- EN: A long beautiful wildflower that grows in colder climates. -->
+  <RG_Plant_LupineIceland.description>生长在寒冷地区的漂亮野花，也常被人们称为“鲁冰花”。</RG_Plant_LupineIceland.description>
+  
+  <!-- EN: tundra cotton -->
+  <RG_Plant_TundraCotton.label>苔原棉</RG_Plant_TundraCotton.label>
+  <!-- EN: A small flower with large cotton balls. Being very frost-resistant it grows only in tundra regions. -->
+  <RG_Plant_TundraCotton.description>看起来很像棉花球的小花，抗寒能力极强。只能在冻土苔原地区中生长。</RG_Plant_TundraCotton.description>
+  
+  <!-- EN: grass -->
+  <RG_Plant_TundraGrass.label>草</RG_Plant_TundraGrass.label>
+  
+  <!-- EN: tall grass -->
+  <RG_Plant_TundraTallGrass.label>高草</RG_Plant_TundraTallGrass.label>
+  <!-- EN: Wild tall tundra grass. Slows down anyone moving over it. -->
+  <RG_Plant_TundraTallGrass.description>野生的苔原高草。从上面走过时速度会明显变慢。</RG_Plant_TundraTallGrass.description>
+  
+  <!-- EN: pine tree -->
+  <RG_Tree_TundraTreePine.label>松树</RG_Tree_TundraTreePine.label>
+  <!-- EN: A large yellow conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <RG_Tree_TundraTreePine.description>能够结出带刺松果的大型针叶树。它的整个树冠长成独特的圆锥形。</RG_Tree_TundraTreePine.description>
+  
+</LanguageData>

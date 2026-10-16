@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <DankPyon_ExtractMetalFromScrap.label>从废品中提炼金属</DankPyon_ExtractMetalFromScrap.label>
+  <DankPyon_ExtractMetalFromScrap.description>利用高温将有用的金属从金属碎片中提炼出来。</DankPyon_ExtractMetalFromScrap.description>
+  <DankPyon_ExtractMetalFromScrap.jobString>正在从废品中提炼金属。</DankPyon_ExtractMetalFromScrap.jobString>
+
+
+  <!-- Tar -->
+
+  <DankPyon_Make_Tar.label>以木材制作焦油 x5</DankPyon_Make_Tar.label>
+  <DankPyon_Make_Tar.description>透过燃烧木材制作一桶焦油。</DankPyon_Make_Tar.description>
+  <DankPyon_Make_Tar.jobString>正在制作焦油。</DankPyon_Make_Tar.jobString>
+
+  <DankPyon_Make_TarBulk.label>以木材制作焦油 x25</DankPyon_Make_TarBulk.label>
+  <DankPyon_Make_TarBulk.description>透过燃烧木材制作一桶焦油。</DankPyon_Make_TarBulk.description>
+  <DankPyon_Make_TarBulk.jobString>正在制作焦油。</DankPyon_Make_TarBulk.jobString>
+
+
+  <!-- Coal -->
+
+  <DankPyon_MakeChunk_Coal.label>以木材制作煤炭 x15</DankPyon_MakeChunk_Coal.label>
+  <DankPyon_MakeChunk_Coal.description>透过燃烧木材制作一批煤炭。</DankPyon_MakeChunk_Coal.description>
+  <DankPyon_MakeChunk_Coal.jobString>正在制作煤炭。</DankPyon_MakeChunk_Coal.jobString>
+
+
+  <!-- Smelt any ore -->
+
+  <DankPyon_MakeIngots_Any.label>将矿石镕铸成金属锭</DankPyon_MakeIngots_Any.label>
+  <DankPyon_MakeIngots_Any.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_Any.description>
+  <DankPyon_MakeIngots_Any.jobString>正在将矿石镕铸成金属锭。</DankPyon_MakeIngots_Any.jobString>
+
+
+  <!-- Iron Ingots -->
+
+  <DankPyon_MakeIngots_Iron.label>将铁矿石镕铸成铁锭</DankPyon_MakeIngots_Iron.label>
+  <DankPyon_MakeIngots_Iron.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_Iron.description>
+  <DankPyon_MakeIngots_Iron.jobString>正在将铁矿石镕铸成铁锭。</DankPyon_MakeIngots_Iron.jobString>
+
+  <DankPyon_MakeIngots_IronBulk.label>将铁矿石镕铸成铁锭 x30</DankPyon_MakeIngots_IronBulk.label>
+  <DankPyon_MakeIngots_IronBulk.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_IronBulk.description>
+  <DankPyon_MakeIngots_IronBulk.jobString>正在将铁矿石镕铸成铁锭。</DankPyon_MakeIngots_IronBulk.jobString>
+
+  <DankPyon_MakeIngots_IronExtraBulk.label>将铁矿石镕铸成铁锭 x60</DankPyon_MakeIngots_IronExtraBulk.label>
+  <DankPyon_MakeIngots_IronExtraBulk.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_IronExtraBulk.description>
+  <DankPyon_MakeIngots_IronExtraBulk.jobString>正在将铁矿石镕铸成铁锭。</DankPyon_MakeIngots_IronExtraBulk.jobString>
+
+
+  <!-- Silver Ingots -->
+
+  <DankPyon_MakeIngots_Silver.label>将银矿石镕铸成白银</DankPyon_MakeIngots_Silver.label>
+  <DankPyon_MakeIngots_Silver.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_Silver.description>
+  <DankPyon_MakeIngots_Silver.jobString>正在将银矿石镕铸成白银。</DankPyon_MakeIngots_Silver.jobString>
+
+  <DankPyon_MakeIngots_SilverBulk.label>将银矿石镕铸成白银 x30</DankPyon_MakeIngots_SilverBulk.label>
+  <DankPyon_MakeIngots_SilverBulk.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_SilverBulk.description>
+  <DankPyon_MakeIngots_SilverBulk.jobString>正在将银矿石镕铸成白银。</DankPyon_MakeIngots_SilverBulk.jobString>
+
+  <DankPyon_MakeIngots_SilverExtraBulk.label>将银矿石镕铸成白银 x60</DankPyon_MakeIngots_SilverExtraBulk.label>
+  <DankPyon_MakeIngots_SilverExtraBulk.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_SilverExtraBulk.description>
+  <DankPyon_MakeIngots_SilverExtraBulk.jobString>正在将银矿石镕铸成白银。</DankPyon_MakeIngots_SilverExtraBulk.jobString>
+
+
+  <!-- Gold Ingots -->
+
+  <DankPyon_MakeIngots_Gold.label>将金矿石镕铸成金锭</DankPyon_MakeIngots_Gold.label>
+  <DankPyon_MakeIngots_Gold.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_Gold.description>
+  <DankPyon_MakeIngots_Gold.jobString>正在将金矿石镕铸成金锭。</DankPyon_MakeIngots_Gold.jobString>
+
+  <DankPyon_MakeIngots_GoldBulk.label>将金矿石镕铸成金锭 x30</DankPyon_MakeIngots_GoldBulk.label>
+  <DankPyon_MakeIngots_GoldBulk.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_GoldBulk.description>
+  <DankPyon_MakeIngots_GoldBulk.jobString>正在将金矿石镕铸成金锭。</DankPyon_MakeIngots_GoldBulk.jobString>
+
+  <DankPyon_MakeIngots_GoldExtraBulk.label>将金矿石镕铸成金锭 x60</DankPyon_MakeIngots_GoldExtraBulk.label>
+  <DankPyon_MakeIngots_GoldExtraBulk.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_GoldExtraBulk.description>
+  <DankPyon_MakeIngots_GoldExtraBulk.jobString>正在将金矿石镕铸成金锭。</DankPyon_MakeIngots_GoldExtraBulk.jobString>
+
+
+  <!-- Steel Ingots -->
+
+  <DankPyon_MakeIngots_Steel.label>将铁锭精炼为钢锭</DankPyon_MakeIngots_Steel.label>
+  <DankPyon_MakeIngots_Steel.description>将铁锭精炼为钢锭。</DankPyon_MakeIngots_Steel.description>
+  <DankPyon_MakeIngots_Steel.jobString>正在将铁锭精炼为钢锭。</DankPyon_MakeIngots_Steel.jobString>
+
+  <DankPyon_MakeIngots_SteelBulk.label>将铁锭精炼为钢锭 x30</DankPyon_MakeIngots_SteelBulk.label>
+  <DankPyon_MakeIngots_SteelBulk.description>将铁锭精炼为钢锭。</DankPyon_MakeIngots_SteelBulk.description>
+  <DankPyon_MakeIngots_SteelBulk.jobString>正在将铁锭精炼为钢锭。</DankPyon_MakeIngots_SteelBulk.jobString>
+
+  <DankPyon_MakeIngots_SteelExtraBulk.label>将铁锭精炼为钢锭 x60</DankPyon_MakeIngots_SteelExtraBulk.label>
+  <DankPyon_MakeIngots_SteelExtraBulk.description>将铁锭精炼为钢锭。</DankPyon_MakeIngots_SteelExtraBulk.description>
+  <DankPyon_MakeIngots_SteelExtraBulk.jobString>正在将铁锭精炼为钢锭。</DankPyon_MakeIngots_SteelExtraBulk.jobString>
+
+
+  <!-- Plasteel Ingots -->
+
+  <DankPyon_MakeIngots_Plasteel.label>将秘银矿石镕铸成秘银锭</DankPyon_MakeIngots_Plasteel.label>
+  <DankPyon_MakeIngots_Plasteel.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_Plasteel.description>
+  <DankPyon_MakeIngots_Plasteel.jobString>正在将秘银矿石镕铸成秘银锭。</DankPyon_MakeIngots_Plasteel.jobString>
+
+  <DankPyon_MakeIngots_PlasteelBulk.label>将秘银矿石镕铸成秘银锭 x30</DankPyon_MakeIngots_PlasteelBulk.label>
+  <DankPyon_MakeIngots_PlasteelBulk.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_PlasteelBulk.description>
+  <DankPyon_MakeIngots_PlasteelBulk.jobString>正在将秘银矿石镕铸成秘银锭。</DankPyon_MakeIngots_PlasteelBulk.jobString>
+
+  <DankPyon_MakeIngots_PlasteelExtraBulk.label>将秘银矿石镕铸成秘银锭 x60</DankPyon_MakeIngots_PlasteelExtraBulk.label>
+  <DankPyon_MakeIngots_PlasteelExtraBulk.description>将矿石镕铸成有用的金属锭。</DankPyon_MakeIngots_PlasteelExtraBulk.description>
+  <DankPyon_MakeIngots_PlasteelExtraBulk.jobString>正在将秘银矿石镕铸成秘银锭。</DankPyon_MakeIngots_PlasteelExtraBulk.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: All out of fucks -->
+  <S1_AllOutOfFucks.degreeDatas.All_out_of_fucks.label>万念俱灰</S1_AllOutOfFucks.degreeDatas.All_out_of_fucks.label>
+  <!-- EN: [PAWN_nameDef] has no more fucks to give. -->
+  <S1_AllOutOfFucks.degreeDatas.All_out_of_fucks.description>[PAWN_nameDef]已经万念俱灰，什么都不在乎了。</S1_AllOutOfFucks.degreeDatas.All_out_of_fucks.description>
+
+  <!-- EN: Technical -->
+  <S1_Astronomer.degreeDatas.Technical.label>技术型</S1_Astronomer.degreeDatas.Technical.label>
+  <!-- EN: [PAWN_nameDef] is made for designing colonies on the rimworlds. -->
+  <S1_Astronomer.degreeDatas.Technical.description>[PAWN_nameDef]天生就是为了在边缘世界设计殖民地而生的。</S1_Astronomer.degreeDatas.Technical.description>
+
+  <!-- EN: Authoritarian -->
+  <S1_Authoritarian.degreeDatas.Authoritarian.label>独断者</S1_Authoritarian.degreeDatas.Authoritarian.label>
+  <!-- EN: [PAWN_nameDef] is a little pushy, but with it comes natural authority. -->
+  <S1_Authoritarian.degreeDatas.Authoritarian.description>
+    [PAWN_nameDef]有点专横，但这也让[PAWN_pronoun]天生就带有一种权威感。</S1_Authoritarian.degreeDatas.Authoritarian.description>
+
+  <!-- EN: Backpacker -->
+  <S1_Backpacker.degreeDatas.Backpacker.label>背包客</S1_Backpacker.degreeDatas.Backpacker.label>
+  <!-- EN: [PAWN_nameDef] loves being outdoors, exploring new things. And [PAWN_pronoun] knows how
+  to pack for whatever it takes [PAWN_objective]. -->
+  <S1_Backpacker.degreeDatas.Backpacker.description>
+    [PAWN_nameDef]热爱户外活动和探索新事物。而且[PAWN_pronoun]知道如何为任何可能遇到的情况打包行囊。</S1_Backpacker.degreeDatas.Backpacker.description>
+
+  <!-- EN: Behemoth -->
+  <S1_Behemoth.degreeDatas.Behemoth.label>巨兽</S1_Behemoth.degreeDatas.Behemoth.label>
+  <!-- EN: [PAWN_nameDef] is huge. Strong, but slow in two different ways. -->
+  <S1_Behemoth.degreeDatas.Behemoth.description>[PAWN_nameDef]体型庞大。身强力壮，但在两个方面都很迟缓。</S1_Behemoth.degreeDatas.Behemoth.description>
+
+  <!-- EN: Agile fighter -->
+  <S1_Blader.degreeDatas.Agile_fighter.label>敏捷斗士</S1_Blader.degreeDatas.Agile_fighter.label>
+  <!-- EN: [PAWN_nameDef] uses swiftness and finesse with deadly precision. -->
+  <S1_Blader.degreeDatas.Agile_fighter.description>[PAWN_nameDef]能以致命的精准度，运用迅捷和技巧进行战斗。</S1_Blader.degreeDatas.Agile_fighter.description>
+
+  <!-- EN: Love for growing -->
+  <S1_Botanist.degreeDatas.Love_for_growing.label>热爱种植</S1_Botanist.degreeDatas.Love_for_growing.label>
+  <!-- EN: [PAWN_nameDef] loves all things growing. And [PAWN_pronoun] has a very good hand with
+  them. -->
+  <S1_Botanist.degreeDatas.Love_for_growing.description>
+    [PAWN_nameDef]热爱一切生长中的事物。而且[PAWN_pronoun]对此非常在行。</S1_Botanist.degreeDatas.Love_for_growing.description>
+
+  <!-- EN: Braggart -->
+  <S1_Braggart.degreeDatas.Braggart.label>吹牛大王</S1_Braggart.degreeDatas.Braggart.label>
+  <!-- EN: [PAWN_nameDef] always talks about [PAWN_possessive] own accomplishments. It's pretty
+  tiresome, but has its uses. -->
+  <S1_Braggart.degreeDatas.Braggart.description>[PAWN_nameDef]总是喋喋不休地谈论自己的成就。这虽然很烦人，但也有其用处。</S1_Braggart.degreeDatas.Braggart.description>
+
+  <!-- EN: Mauler -->
+  <S1_CageFighter.degreeDatas.Mauler.label>重击者</S1_CageFighter.degreeDatas.Mauler.label>
+  <!-- EN: [PAWN_nameDef] is a fearsome fighter and very dangerous up close. -->
+  <S1_CageFighter.degreeDatas.Mauler.description>[PAWN_nameDef]是一名可怕的斗士，近战时非常危险。</S1_CageFighter.degreeDatas.Mauler.description>
+
+  <!-- EN: Cautious -->
+  <S1_Cautious.degreeDatas.Cautious.label>谨慎</S1_Cautious.degreeDatas.Cautious.label>
+  <!-- EN: [PAWN_nameDef] practices 'better safe than sorry'. -->
+  <S1_Cautious.degreeDatas.Cautious.description>[PAWN_nameDef]信奉“小心驶得万年船”的道理。</S1_Cautious.degreeDatas.Cautious.description>
+
+  <!-- EN: Cheerful -->
+  <S1_Cheerful.degreeDatas.Cheerful.label>开心果</S1_Cheerful.degreeDatas.Cheerful.label>
+  <!-- EN: [PAWN_nameDef] is just a bucket of joy. -->
+  <S1_Cheerful.degreeDatas.Cheerful.description>[PAWN_nameDef]简直就是个开心果。</S1_Cheerful.degreeDatas.Cheerful.description>
+
+  <!-- EN: Clever -->
+  <S1_Clever.degreeDatas.Clever.label>聪慧</S1_Clever.degreeDatas.Clever.label>
+  <!-- EN: [PAWN_nameDef] has a sharp mind. -->
+  <S1_Clever.degreeDatas.Clever.description>[PAWN_nameDef]头脑敏锐。</S1_Clever.degreeDatas.Clever.description>
+
+  <!-- EN: Swift and steady -->
+  <S1_CombatMedic.degreeDatas.Swift_and_steady.label>迅捷稳健</S1_CombatMedic.degreeDatas.Swift_and_steady.label>
+  <!-- EN: [PAWN_nameDef] is trained in speedy treatment. -->
+  <S1_CombatMedic.degreeDatas.Swift_and_steady.description>[PAWN_nameDef]受过快速救治的训练。</S1_CombatMedic.degreeDatas.Swift_and_steady.description>
+
+  <!-- EN: Complainer -->
+  <S1_Complainer.degreeDatas.Complainer.label>抱怨者</S1_Complainer.degreeDatas.Complainer.label>
+  <!-- EN: [PAWN_nameDef] is the kind of person who thinks everything is everbody else's fault. -->
+  <S1_Complainer.degreeDatas.Complainer.description>[PAWN_nameDef]是那种认为一切都是别人过错的人。</S1_Complainer.degreeDatas.Complainer.description>
+
+  <!-- EN: Daredevil -->
+  <S1_Daredevil.degreeDatas.Daredevil.label>莽夫</S1_Daredevil.degreeDatas.Daredevil.label>
+  <!-- EN: [PAWN_nameDef] is the definition of 'head on'. Sometimes it's not to [PAWN_possessive]
+  benefit. -->
+  <S1_Daredevil.degreeDatas.Daredevil.description>
+    [PAWN_nameDef]就是“硬碰硬”的代名词。但这有时对[PAWN_possessive]并没有好处。</S1_Daredevil.degreeDatas.Daredevil.description>
+
+  <!-- EN: Defensive fighter -->
+  <S1_DefensiveFighter.degreeDatas.Defensive_fighter.label>防御型斗士</S1_DefensiveFighter.degreeDatas.Defensive_fighter.label>
+  <!-- EN: [PAWN_nameDef] always takes a defensive stance when fighting. [PAWN_pronoun] takes less
+  damage. -->
+  <S1_DefensiveFighter.degreeDatas.Defensive_fighter.description>
+    [PAWN_nameDef]在战斗中总是采取守势。[PAWN_pronoun]因此受到的伤害更少。</S1_DefensiveFighter.degreeDatas.Defensive_fighter.description>
+
+  <!-- EN: Determined -->
+  <S1_Determined.degreeDatas.Determined.label>意志坚定</S1_Determined.degreeDatas.Determined.label>
+  <!-- EN: [PAWN_nameDef] is determined and won't fold easily. -->
+  <S1_Determined.degreeDatas.Determined.description>[PAWN_nameDef]意志坚定，不会轻易屈服。</S1_Determined.degreeDatas.Determined.description>
+
+  <!-- EN: Improver -->
+  <S1_Developer.degreeDatas.Improver.label>改进者</S1_Developer.degreeDatas.Improver.label>
+  <!-- EN: [PAWN_nameDef] always finds a way to improve things. -->
+  <S1_Developer.degreeDatas.Improver.description>[PAWN_nameDef]总能找到改进事物的方法。</S1_Developer.degreeDatas.Improver.description>
+
+  <!-- EN: Devout -->
+  <S1_Devout.degreeDatas.Devout.label>虔诚</S1_Devout.degreeDatas.Devout.label>
+  <!-- EN: [PAWN_nameDef] is all about spreading the faith through words. -->
+  <S1_Devout.degreeDatas.Devout.description>[PAWN_nameDef]热衷于通过言语传播信仰。</S1_Devout.degreeDatas.Devout.description>
+
+  <!-- EN: Direct hitter -->
+  <S1_DirectHitter.degreeDatas.Direct_hitter.label>精准打击者</S1_DirectHitter.degreeDatas.Direct_hitter.label>
+  <!-- EN: [PAWN_nameDef] has a habit of hitting [PAWN_possessive] enemies the right way. -->
+  <S1_DirectHitter.degreeDatas.Direct_hitter.description>[PAWN_nameDef]习惯于精准地打击[PAWN_possessive]敌人。</S1_DirectHitter.degreeDatas.Direct_hitter.description>
+
+  <!-- EN: Doomed -->
+  <S1_Doomed.degreeDatas.Doomed.label>厄运缠身</S1_Doomed.degreeDatas.Doomed.label>
+  <!-- EN: [PAWN_nameDef] is doomed. -->
+  <S1_Doomed.degreeDatas.Doomed.description>[PAWN_nameDef]厄运缠身。</S1_Doomed.degreeDatas.Doomed.description>
+
+  <!-- EN: Early riser -->
+  <S1_EarlyRiser.degreeDatas.Early_riser.label>早起者</S1_EarlyRiser.degreeDatas.Early_riser.label>
+  <!-- EN: Every new day equals new opportunities.[PAWN_nameDef] is as eager to explore them all. -->
+  <S1_EarlyRiser.degreeDatas.Early_riser.description>新的一天意味着新的机遇。[PAWN_nameDef]渴望探索这一切。</S1_EarlyRiser.degreeDatas.Early_riser.description>
+
+  <!-- EN: Edgy -->
+  <S1_Edgy.degreeDatas.Edgy.label>暴躁易怒</S1_Edgy.degreeDatas.Edgy.label>
+  <!-- EN: [PAWN_nameDef] is almost over the edge. Don't push [PAWN_objective]. -->
+  <S1_Edgy.degreeDatas.Edgy.description>[PAWN_nameDef]几乎处于崩溃的边缘。别去招惹[PAWN_objective]。</S1_Edgy.degreeDatas.Edgy.description>
+
+  <!-- EN: Anxious pleaser -->
+  <S1_Exile.degreeDatas.Anxious_pleaser.label>焦虑的讨好者</S1_Exile.degreeDatas.Anxious_pleaser.label>
+  <!-- EN: [PAWN_nameDef] is doing all [PAWN_pronoun] can to not piss someone off. -->
+  <S1_Exile.degreeDatas.Anxious_pleaser.description>[PAWN_nameDef]竭尽所能地避免惹恼任何人。</S1_Exile.degreeDatas.Anxious_pleaser.description>
+
+  <!-- EN: Fighter -->
+  <S1_Fighter.degreeDatas.Fighter.label>斗士</S1_Fighter.degreeDatas.Fighter.label>
+  <!-- EN: [PAWN_nameDef] likes to fight. And [PAWN_pronoun] is good at it. -->
+  <S1_Fighter.degreeDatas.Fighter.description>[PAWN_nameDef]喜欢战斗，而且[PAWN_pronoun]很擅长这个。</S1_Fighter.degreeDatas.Fighter.description>
+
+  <!-- EN: Flincher -->
+  <S1_Flincher.degreeDatas.Flincher.label>退缩者</S1_Flincher.degreeDatas.Flincher.label>
+  <!-- EN: [PAWN_nameDef] has a pretty bad habit of closing [PAWN_possessive] eyes when something's
+  coming at [PAWN_objective]. -->
+  <S1_Flincher.degreeDatas.Flincher.description>
+    [PAWN_nameDef]有个坏习惯，当有东西朝[PAWN_objective]飞来时，[PAWN_pronoun]会闭上眼睛。</S1_Flincher.degreeDatas.Flincher.description>
+
+  <!-- EN: Plant appreciater -->
+  <S1_Florist.degreeDatas.Plant_appreciater.label>植物鉴赏家</S1_Florist.degreeDatas.Plant_appreciater.label>
+  <!-- EN: [PAWN_nameDef] has a passion for plants and beauty. -->
+  <S1_Florist.degreeDatas.Plant_appreciater.description>[PAWN_nameDef]对植物与美抱有热情。</S1_Florist.degreeDatas.Plant_appreciater.description>
+
+  <!-- EN: Freerunner -->
+  <S1_Freerunner.degreeDatas.Freerunner.label>跑酷者</S1_Freerunner.degreeDatas.Freerunner.label>
+  <!-- EN: [PAWN_nameDef] is everywhere all the time. -->
+  <S1_Freerunner.degreeDatas.Freerunner.description>[PAWN_nameDef]无时无刻不出现在各个地方。</S1_Freerunner.degreeDatas.Freerunner.description>
+
+  <!-- EN: Go-getter -->
+  <S1_GoGetter.degreeDatas.Gogetter.label>实干家</S1_GoGetter.degreeDatas.Gogetter.label>
+  <!-- EN: [PAWN_nameDef] knows what [PAWN_pronoun] wants and usually gets it. -->
+  <S1_GoGetter.degreeDatas.Gogetter.description>[PAWN_nameDef]知道自己想要什么，并且通常都能得到。</S1_GoGetter.degreeDatas.Gogetter.description>
+
+  <!-- EN: Healthy routines -->
+  <S1_HealthyRoutines.degreeDatas.Healthy_routines.label>作息规律</S1_HealthyRoutines.degreeDatas.Healthy_routines.label>
+  <!-- EN: [PAWN_nameDef] takes everyday routines seriously. -->
+  <S1_HealthyRoutines.degreeDatas.Healthy_routines.description>[PAWN_nameDef]非常重视日常作息。</S1_HealthyRoutines.degreeDatas.Healthy_routines.description>
+
+  <!-- EN: Indirect hitter -->
+  <S1_IndirectHitter.degreeDatas.Indirect_hitter.label>失准打击者</S1_IndirectHitter.degreeDatas.Indirect_hitter.label>
+  <!-- EN: [PAWN_nameDef] has a habit of hitting [PAWN_possessive] enemies the wrong way. -->
+  <S1_IndirectHitter.degreeDatas.Indirect_hitter.description>
+    [PAWN_nameDef]习惯于用错误的方式打击[PAWN_possessive]敌人。</S1_IndirectHitter.degreeDatas.Indirect_hitter.description>
+
+  <!-- EN: Crafty artist -->
+  <S1_JunkArtist.degreeDatas.Crafty_artist.label>灵巧艺术家</S1_JunkArtist.degreeDatas.Crafty_artist.label>
+  <!-- EN: [PAWN_nameDef] can make good looking stuff from pretty much anything. -->
+  <S1_JunkArtist.degreeDatas.Crafty_artist.description>[PAWN_nameDef]几乎可以用任何东西制作出好看的玩意儿。</S1_JunkArtist.degreeDatas.Crafty_artist.description>
+
+  <!-- EN: Likes fall -->
+  <S1_LikesFall.degreeDatas.Likes_fall.label>喜好秋天</S1_LikesFall.degreeDatas.Likes_fall.label>
+  <!-- EN: [PAWN_nameDef] believes fall is the best time of year. -->
+  <S1_LikesFall.degreeDatas.Likes_fall.description>[PAWN_nameDef]认为秋天是一年中最美好的季节。</S1_LikesFall.degreeDatas.Likes_fall.description>
+
+  <!-- EN: Likes spring -->
+  <S1_LikesSpring.degreeDatas.Likes_spring.label>喜好春天</S1_LikesSpring.degreeDatas.Likes_spring.label>
+  <!-- EN: [PAWN_nameDef] believes spring is the best time of year. -->
+  <S1_LikesSpring.degreeDatas.Likes_spring.description>[PAWN_nameDef]认为春天是一年中最美好的季节。</S1_LikesSpring.degreeDatas.Likes_spring.description>
+
+  <!-- EN: Likes summer -->
+  <S1_LikesSummer.degreeDatas.Likes_summer.label>喜好夏天</S1_LikesSummer.degreeDatas.Likes_summer.label>
+  <!-- EN: [PAWN_nameDef] believes summer is the best time of year. -->
+  <S1_LikesSummer.degreeDatas.Likes_summer.description>[PAWN_nameDef]认为夏天是一年中最美好的季节。</S1_LikesSummer.degreeDatas.Likes_summer.description>
+
+  <!-- EN: Likes winter -->
+  <S1_LikesWinter.degreeDatas.Likes_winter.label>喜好冬天</S1_LikesWinter.degreeDatas.Likes_winter.label>
+  <!-- EN: [PAWN_nameDef] believes winter is the best time of year. -->
+  <S1_LikesWinter.degreeDatas.Likes_winter.description>[PAWN_nameDef]认为冬天是一年中最美好的季节。</S1_LikesWinter.degreeDatas.Likes_winter.description>
+
+  <!-- EN: Living bioreactor -->
+  <S1_LivingBioreactor.degreeDatas.Living_bioreactor.label>活体生物反应器</S1_LivingBioreactor.degreeDatas.Living_bioreactor.label>
+  <!-- EN: [PAWN_nameDef]'s body just works a bit differently. [PAWN_pronoun] eats a lot, but has a
+  lot of energy an strength in return. -->
+  <S1_LivingBioreactor.degreeDatas.Living_bioreactor.description>
+    [PAWN_nameDef]的身体机能有些与众不同。[PAWN_pronoun]吃得很多，但作为回报，[PAWN_pronoun]也拥有强大的能量和力量。</S1_LivingBioreactor.degreeDatas.Living_bioreactor.description>
+
+  <!-- EN: Rock and stone -->
+  <S1_Mason.degreeDatas.Rock_and_stone.label>岩石与巨石</S1_Mason.degreeDatas.Rock_and_stone.label>
+  <!-- EN: [PAWN_nameDef] is all about the stones. -->
+  <S1_Mason.degreeDatas.Rock_and_stone.description>[PAWN_nameDef]满脑子都是石头。</S1_Mason.degreeDatas.Rock_and_stone.description>
+
+  <!-- EN: Rifle connoisseur -->
+  <S1_Riflesmith.degreeDatas.Rifle_connoisseur.label>步枪鉴赏家</S1_Riflesmith.degreeDatas.Rifle_connoisseur.label>
+  <!-- EN: [PAWN_nameDef] loves crafting and shooting rifles and other bigger guns. And not much
+  else. -->
+  <S1_Riflesmith.degreeDatas.Rifle_connoisseur.description>[PAWN_nameDef]热爱制作和射击步枪以及其他大型枪械。除此之外别无他好。</S1_Riflesmith.degreeDatas.Rifle_connoisseur.description>
+
+  <!-- EN: Doer -->
+  <S1_RolledUpSleeves.degreeDatas.Doer.label>行动派</S1_RolledUpSleeves.degreeDatas.Doer.label>
+  <!-- EN: [PAWN_nameDef] is the sort of person who does [PAWN_possessive] job and let everybody
+  else worry about the rest. -->
+  <S1_RolledUpSleeves.degreeDatas.Doer.description>[PAWN_nameDef]是那种只管做好自己分内之事，把其他烦恼留给别人的人。</S1_RolledUpSleeves.degreeDatas.Doer.description>
+
+  <!-- EN: Ruthless -->
+  <S1_Ruthless.degreeDatas.Ruthless.label>冷酷无情</S1_Ruthless.degreeDatas.Ruthless.label>
+  <!-- EN: [PAWN_nameDef] does whatever it takes and not very often in the nicest of ways. -->
+  <S1_Ruthless.degreeDatas.Ruthless.description>[PAWN_nameDef]会不择手段地达成目的，而且方式通常不怎么友善。</S1_Ruthless.degreeDatas.Ruthless.description>
+
+  <!-- EN: Sloppy -->
+  <S1_Sloppy.degreeDatas.Sloppy.label>马虎</S1_Sloppy.degreeDatas.Sloppy.label>
+  <!-- EN: [PAWN_nameDef] does some things fast and many things sloppy. -->
+  <S1_Sloppy.degreeDatas.Sloppy.description>[PAWN_nameDef]做某些事很快，但做很多事都很马虎。</S1_Sloppy.degreeDatas.Sloppy.description>
+
+  <!-- EN: Small talker -->
+  <S1_SmallTalker.degreeDatas.Small_talker.label>健谈者</S1_SmallTalker.degreeDatas.Small_talker.label>
+  <!-- EN: [PAWN_nameDef] is all about small talk. -->
+  <S1_SmallTalker.degreeDatas.Small_talker.description>[PAWN_nameDef]非常热衷于闲聊。</S1_SmallTalker.degreeDatas.Small_talker.description>
+
+  <!-- EN: Spindly -->
+  <S1_Spindly.degreeDatas.Spindly.label>瘦长</S1_Spindly.degreeDatas.Spindly.label>
+  <!-- EN: [PAWN_nameDef] has long arms and legs. [PAWN_pronoun] moves fast, but is a little frail
+  and doesn't have perfect control of [PAWN_possessive] limbs. -->
+  <S1_Spindly.degreeDatas.Spindly.description>
+    [PAWN_nameDef]四肢修长。[PAWN_pronoun]移动迅速，但身体有些脆弱，而且无法完美控制自己的四肢。</S1_Spindly.degreeDatas.Spindly.description>
+
+  <!-- EN: Steady hands -->
+  <S1_SteadyHands.degreeDatas.Steady_hands.label>手稳</S1_SteadyHands.degreeDatas.Steady_hands.label>
+  <!-- EN: [PAWN_nameDef] has steady hands. -->
+  <S1_SteadyHands.degreeDatas.Steady_hands.description>[PAWN_nameDef]的双手非常稳健。</S1_SteadyHands.degreeDatas.Steady_hands.description>
+
+  <!-- EN: Substance tolerant -->
+  <S1_SubstanceTolerant.degreeDatas.Substance_tolerant.label>药物耐受</S1_SubstanceTolerant.degreeDatas.Substance_tolerant.label>
+  <!-- EN: [PAWN_nameDef]'s body doesn't respond much to any kind of substances. For good or bad. -->
+  <S1_SubstanceTolerant.degreeDatas.Substance_tolerant.description>
+    [PAWN_nameDef]的身体对任何种类的药物反应都不大。这有好有坏。</S1_SubstanceTolerant.degreeDatas.Substance_tolerant.description>
+
+  <!-- EN: Uncultured -->
+  <S1_Uncultured.degreeDatas.Uncultured.label>没品位</S1_Uncultured.degreeDatas.Uncultured.label>
+  <!-- EN: [PAWN_nameDef] is not interested in that. Nope, not that either. -->
+  <S1_Uncultured.degreeDatas.Uncultured.description>[PAWN_nameDef]对那个不感兴趣。不，对这个也没兴趣。</S1_Uncultured.degreeDatas.Uncultured.description>
+
+  <!-- EN: Wild child -->
+  <S1_WildChild.degreeDatas.Wild_child.label>野孩子</S1_WildChild.degreeDatas.Wild_child.label>
+  <!-- EN: [PAWN_nameDef] is gonna be a wild child all [PAWN_possessive] life. -->
+  <S1_WildChild.degreeDatas.Wild_child.description>[PAWN_nameDef]一生都将是个野孩子。</S1_WildChild.degreeDatas.Wild_child.description>
+
+  <!-- EN: Zealot -->
+  <S1_Zealot.degreeDatas.Zealot.label>狂热信徒</S1_Zealot.degreeDatas.Zealot.label>
+  <!-- EN: [PAWN_nameDef] is fighting in the name of [PAWN_possessive] faith. -->
+  <S1_Zealot.degreeDatas.Zealot.description>[PAWN_nameDef]以[PAWN_possessive]信仰之名而战。</S1_Zealot.degreeDatas.Zealot.description>
+
+</LanguageData>

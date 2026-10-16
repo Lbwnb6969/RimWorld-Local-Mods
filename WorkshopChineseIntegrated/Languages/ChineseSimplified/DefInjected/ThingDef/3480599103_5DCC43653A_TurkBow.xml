@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: turkish warbow -->
+  <TA_TurkBow.label>突厥战弓</TA_TurkBow.label>
+  <!-- EN: . -->
+  <TA_TurkBow.description>奥斯曼帝国使用的复合弓，射程远且威力强大。</TA_TurkBow.description>
+  <!-- EN: turkish warbow -->
+  <TA_TurkBow.verbs.Verb_ShootCE.label>突厥战弓射击</TA_TurkBow.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

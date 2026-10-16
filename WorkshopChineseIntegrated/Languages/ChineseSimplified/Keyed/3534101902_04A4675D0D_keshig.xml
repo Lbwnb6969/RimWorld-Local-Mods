@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <KeshigFactionGreetingHostile>{0} 咆哮着用某种不知名的语言斥责你并断开连接。</KeshigFactionGreetingHostile>
+  <KeshigFactionGreetingHostileAppreciative>喘着粗气，用不知名的语言嘟囔着几句脏话， {0} 命令你做出一个友好的举动，比如给 {0_possessive} 定居点之一带去礼物，或者安然无恙地释放 {0_possessive} 派系的囚犯。在此之前， {0_pronoun} 不愿意交谈。\n\n{0_possessive} 喝了一口 {0_pronoun} 断开了联系.</KeshigFactionGreetingHostileAppreciative>
+  <KeshigFactionGreetingWary>{0} 向 {NEGOTIATOR_labelShort} 致敬并询问你需要处理什么。</KeshigFactionGreetingWary>
+  <KeshigFactionGreetingWarm>欢快地吟唱着， {0} 用含糊不清的声音向 {NEGOTIATOR_labelShort} 问好，并询问 {LEADER_pronoun} 能为你做什么.</KeshigFactionGreetingWarm>
+  <KeshigMilitaryAidSent>{0} 接受了怯薛部队的请求，并表示他们会立即到达。</KeshigMilitaryAidSent>
+
+  <DV_InsertBloodmustDesc>加入鲜血原浆</DV_InsertBloodmustDesc>
+	<DV_StartInsertionGoreMust>添加鲜血原浆</DV_StartInsertionGoreMust>
+	<DV_StartInsertionGoreMustDesc>往该酿血酒桶添加鲜血原浆以开始加工。</DV_StartInsertionGoreMustDesc>
+	<DV_CancelBringingGoreMust>取消添加鲜血原浆</DV_CancelBringingGoreMust>
+	<DV_CancelBringingGoreMustDesc>取消往酿血酒桶添加鲜血原浆</DV_CancelBringingGoreMustDesc>
+</LanguageData>

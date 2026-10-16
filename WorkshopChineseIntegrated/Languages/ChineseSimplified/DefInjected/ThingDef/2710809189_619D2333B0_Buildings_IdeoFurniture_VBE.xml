@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tea table -->
+  <AM_TeaCeremonyTable.label>沏茶桌</AM_TeaCeremonyTable.label>
+  <!-- EN: A short-legged table designed specifically for the tea ceremony, offering a stable surface for brewing and presenting tea with care and precision. Its low height encourages a sense of intimacy and tranquility during the ritual. -->
+  <AM_TeaCeremonyTable.description>用于执行茶道仪式的矮桌，平稳的桌面使人们可以细心且准确地沏茶、赏茶和饮茶。它低矮的高度能为茶道仪式营造出和谐与清寂的氛围。</AM_TeaCeremonyTable.description>
+  
+</LanguageData>

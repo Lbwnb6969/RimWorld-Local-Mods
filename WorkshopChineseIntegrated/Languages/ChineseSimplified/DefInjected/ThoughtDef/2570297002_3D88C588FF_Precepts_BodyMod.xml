@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: non-natural part -->
+  <VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.label>人造器官</VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.label>
+  <!-- EN: I have a non-natural body part in me. Flesh only should be replaced by flesh! -->
+  <VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.description>我体内有一个劣质的人造器官！只有血肉才能替代血肉！</VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.description>
+  
+  <!-- EN: non-natural part -->
+  <VME_HasProsthetic_OnlyBiological_Social.stages.nonnatural_part.label>人造器官</VME_HasProsthetic_OnlyBiological_Social.stages.nonnatural_part.label>
+  
+  <!-- EN: installed non-natural prosthetic -->
+  <VME_InstalledProsthetic_Know_OnlyBiological.stages.installed_nonnatural_prosthetic.label>安装了人造假肢</VME_InstalledProsthetic_Know_OnlyBiological.stages.installed_nonnatural_prosthetic.label>
+  
+  <!-- EN: installed non-natural prosthetic -->
+  <VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.label>安装了人造假肢</VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.label>
+  <!-- EN: I had to install a non-natural prosthetic. Flesh only should be replaced by flesh. -->
+  <VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.description>我不得不安装了一个人造假肢。只有血肉才能替代血肉。</VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.description>
+  
+</LanguageData>

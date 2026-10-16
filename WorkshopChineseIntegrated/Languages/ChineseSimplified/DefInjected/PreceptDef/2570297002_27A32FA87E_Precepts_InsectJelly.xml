@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: despised -->
+  <VME_InsectJellyEaten_Despised.label>厌恶</VME_InsectJellyEaten_Despised.label>
+  <!-- EN: Insect jelly is a disgusting concept. -->
+  <VME_InsectJellyEaten_Despised.description>很难想象会有人喜欢虫胶这种恶心的食物。</VME_InsectJellyEaten_Despised.description>
+  
+  <!-- EN: loved -->
+  <VME_InsectJellyEaten_Loved_Classic.label>喜爱</VME_InsectJellyEaten_Loved_Classic.label>
+  <!-- EN: Insect jelly is divine ambrosia, a gift from perfect creatures. -->
+  <VME_InsectJellyEaten_Loved_Classic.description>虫胶如同仙馐佳肴般美味，它们是完美的虫族给予我们的礼物。</VME_InsectJellyEaten_Loved_Classic.description>
+  
+  <!-- EN: neutral -->
+  <VME_InsectJellyEaten_Neutral_Classic.label>中立</VME_InsectJellyEaten_Neutral_Classic.label>
+  <!-- EN: Insect jelly is smooth, rich and nourishing, even though it has some... questionable origins. -->
+  <VME_InsectJellyEaten_Neutral_Classic.description>虫胶口感滑嫩且富有营养，虽然它们的来源有些...令人不适。</VME_InsectJellyEaten_Neutral_Classic.description>
+  
+</LanguageData>

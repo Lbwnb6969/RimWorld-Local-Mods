@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has requested our help in a skirmish against [siteFaction_name].\n\nA small force from [askerFaction_name] is engaging a larger group of [siteFaction_pawnsPlural]. The friendlies will attack immediately upon arrival, but their chances of victory without our help are slim.\n\nThis is an opportunity to strengthen our bond with [askerFaction_name]. However, the enemy force is significant, and this battle will not be without risk.\n\n\nAllied forces include:\n[FriendlyUnitList]\n\n\nEnemies from [siteFaction_name]:\n[EnemyUnitList]</li>
+  -->
+  <VFEM2_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_faction_name]的[asker_faction_leaderTitle]，[asker_nameDef]告诉我们他们与[siteFaction_name]的军队陷入了一场遭遇战，现在向我们求援。\n\n来自[askerFaction_name]的一小股人马正在与[siteFaction_pawnsPlural]的大军交锋。友军将会立刻进入战斗，但没有我们的帮助，寡不敌众的他们胜算渺茫。\n\n这是一次加强与[askerFaction_name]纽带的好机会。但敌军的力量不容小觑，这对我们的风险也很大。\n\n\n友军部队包括：\n[FriendlyUnitList]\n\n\n[siteFaction_name]的敌军部队包括：\n[EnemyUnitList]</li>
+  </VFEM2_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[askerFaction_name] requests aid</li>
+    <li>questName->[askerFaction_name]'s [skirmish]</li>
+    <li>questName->Aid [askerFaction_name] in battle</li>
+    <li>questName->[askerFaction_name] clashes with [enemy_faction_name]</li>
+    <li>questName->[askerFaction_name]'s fight</li>
+    <li>questName->Battle for [askerFaction_name]</li>
+    <li>questName->[askerFaction_name]'s call to arms</li>
+    <li>questName->Defend [askerFaction_name]</li>
+    <li>questName->Support [askerFaction_name]</li>
+    <li>questName->[askerFaction_name]'s Skirmish</li>
+    <li>skirmish->Skirmish</li>
+    <li>skirmish->Battle</li>
+    <li>skirmish->Clash</li>
+    <li>skirmish->Conflict</li>
+  -->
+  <VFEM2_OpportunitySite_Skirmish.questNameRules.rulesStrings>
+    <li>questName->[askerFaction_name]求援</li>
+    <li>questName->[askerFaction_name]的[skirmish]</li>
+    <li>questName->军事援助[askerFaction_name]</li>
+    <li>questName->[askerFaction_name]大战[enemy_faction_name]</li>
+    <li>questName->[askerFaction_name]之战</li>
+    <li>questName->为[askerFaction_name]而战</li>
+    <li>questName->[askerFaction_name]的号召</li>
+    <li>questName->武装保卫[askerFaction_name]</li>
+    <li>questName->支援[askerFaction_name]</li>
+    <li>questName->[askerFaction_name]遭遇战</li>
+    <li>skirmish->遭遇战</li>
+    <li>skirmish->战役</li>
+    <li>skirmish->冲突</li>
+    <li>skirmish->战斗</li>
+  </VFEM2_OpportunitySite_Skirmish.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务已失效：[resolvedQuestName]</VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The allied faction was defeated in the skirmish. The quest [resolvedQuestName] has expired. -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>友军在遭遇战中被击败了。任务“[resolvedQuestName]”已经失效。</VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>任务失败：[resolvedQuestName]</VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: After leaving the site, the battle resolved itself without your help. The quest [resolvedQuestName] has ended. -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>在你转身离开后，战斗很快就结束了。任务“[resolvedQuestName]”已经失效。</VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>奖励已送达</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the enemy forces!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>你成功击败了敌军！\n\n来自[asker_faction_name]的奖励已经送达。</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>这些殖民者参与了任务“[resolvedQuestName]”的战斗。[asker_definite]想要知道谁应该接受这[royalFavorReward_amount] x [asker_faction_royalFavorLabel]。</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+  
+</LanguageData>

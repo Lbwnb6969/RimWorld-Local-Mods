@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heightened -->
+  <VME_PsychicSensitivity_Heightened.label>提高</VME_PsychicSensitivity_Heightened.label>
+  <!-- EN: Reach with your mind to encompass the whole world. Let your mind be a swift weapon of psychic retribution. -->
+  <VME_PsychicSensitivity_Heightened.description>让我们的思想笼罩整个世界。让我们的心灵变成能够迅速反击的武器。</VME_PsychicSensitivity_Heightened.description>
+  
+  <!-- EN: lowered -->
+  <VME_PsychicSensitivity_Lowered.label>降低</VME_PsychicSensitivity_Lowered.label>
+  <!-- EN: Barricade your mind to all thoughts that aren’t your own. Let your mind be a veritable fortress of unwavering mental constitution. -->
+  <VME_PsychicSensitivity_Lowered.description>不要让我们的头脑中拥有任何不属于自己的想法。我们的思想必须坚定不移。</VME_PsychicSensitivity_Lowered.description>
+  
+</LanguageData>

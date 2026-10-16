@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: log gate frame large -->
+  <DankPyon_Frame_Log_Large.label>木桩城门门框(1x2)</DankPyon_Frame_Log_Large.label>
+  <!-- EN: A wooden frame to be placed on top of double doors. -->
+  <DankPyon_Frame_Log_Large.description>一座安装在双开门顶的木框。</DankPyon_Frame_Log_Large.description>
+  
+  <!-- EN: brick gate frame -->
+  <DankPyon_Frame_Stone.label>城门门框</DankPyon_Frame_Stone.label>
+  <!-- EN: A stone frame to be placed on top of doors. -->
+  <DankPyon_Frame_Stone.description>一座安装在城门顶的石制门框。</DankPyon_Frame_Stone.description>
+  
+  <!-- EN: brick gate frame large -->
+  <DankPyon_Frame_Stone_Large.label>城门门框(1x2)</DankPyon_Frame_Stone_Large.label>
+  <!-- EN: A stone frame to be placed on top of double doors. -->
+  <DankPyon_Frame_Stone_Large.description>一座安装在双开城门顶的石制门框。</DankPyon_Frame_Stone_Large.description>
+  
+</LanguageData>

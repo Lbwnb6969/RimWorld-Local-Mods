@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Animal Apparel: Basic Armor - Simplified Chinese</name>
+  <author>Local translation patch</author>
+  <packageId>Local.AnimalApparel.BasicArmor.ChineseSimplified</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Simplified Chinese translation for Animal Apparel: Basic Armor.</description>
+  <modDependencies>
+    <li>
+      <packageId>Ingendum.AnimalArmorBasic</packageId>
+      <displayName>Animal Apparel: Basic Armor</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3513849448</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ingendum.AnimalArmorBasic</li>
+  </loadAfter>
+</ModMetaData>

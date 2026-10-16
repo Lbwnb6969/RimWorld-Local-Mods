@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DV_VoiceCow.label>牛叫</DV_VoiceCow.label>
+  <DV_VoiceCow.description>这种基因的携带者发出的声音和牛叫一样。</DV_VoiceCow.description>
+
+  <DV_RoughPlay.label>粗暴爱爱</DV_RoughPlay.label>
+  <DV_RoughPlay.description>这种基因的携带者有着更大的身体和更“野蛮”的爱爱方式，这意味着那可能会使他们的伴侣受伤。</DV_RoughPlay.description>
+  <DV_RoughPlay.customEffectDescriptions.0>在爱爱时棋子有机会伤害到另一个棋子，后者会获得更大的情绪值，除非他们拥有相同的基因。</DV_RoughPlay.customEffectDescriptions.0>
+
+  <DV_StrongBack.label>强壮后背</DV_StrongBack.label>
+  <DV_StrongBack.description>这种基因的携带者于背部和肩膀上形成强壮的肌肉，并且有更坚硬的脊柱，使他们有更强的长途途运输能力。</DV_StrongBack.description>
+
+  <DV_Melee_Slow.label>缓慢打者</DV_Melee_Slow.label>
+  <DV_Melee_Slow.description>这种基因的携带者有着更沉的胳膊，那使他们在挥舞近战武器的时候更慢。</DV_Melee_Slow.description>
+
+  <DV_Ears_Drooped.label>垂耳</DV_Ears_Drooped.label>
+  <DV_Ears_Drooped.description>这种基因的携带者有着山羊一样勺状的朝下的耳朵。</DV_Ears_Drooped.description>
+
+  <DV_Nose_Snout.label>肥鼻子</DV_Nose_Snout.label>
+  <DV_Nose_Snout.description>这种基因的携带者有着牛一样充血的鼻子。</DV_Nose_Snout.description>
+
+  <DV_ShoulderFur.label>肩毛</DV_ShoulderFur.label>
+  <DV_ShoulderFur.description>这种基因的携带者在肩膀和背部上方长着厚厚的毛发，这给了他们更多寒冷抗性。</DV_ShoulderFur.description>
+
+  <DV_Jaw_Bonechin.label>骨质胡须</DV_Jaw_Bonechin.label>
+  <DV_Jaw_Bonechin.description>这种基因的携带者从他们的下颌骨长出数个“獠牙”，它们可以有多种形状。</DV_Jaw_Bonechin.description>
+
+  <DV_Skin_EarthBrown.label>土质皮肤</DV_Skin_EarthBrown.label>
+  <DV_Skin_EarthBrown.description>这种基因的携带者会生产一种将他们的皮肤转变为土棕色的色素。</DV_Skin_EarthBrown.description>
+
+  <DV_Skin_Cream.label>奶油皮肤</DV_Skin_Cream.label>
+  <DV_Skin_Cream.description>这种基因的携带者会生产一种将他们的皮肤转变为奶油棕色的色素。</DV_Skin_Cream.description>
+
+  <DV_Skin_AshBrown.label>灰棕皮肤</DV_Skin_AshBrown.label>
+  <DV_Skin_AshBrown.description>这种基因的携带者会生产一种将他们的皮肤转变为灰棕色的色素。</DV_Skin_AshBrown.description>
+
+  <DV_Skin_WoodBrown.label>木棕皮肤</DV_Skin_WoodBrown.label>
+  <DV_Skin_WoodBrown.description>这种基因的携带者会生产一种将他们的皮肤转变为木棕色的色素。</DV_Skin_WoodBrown.description>
+
+  <DV_Skin_Charcoal.label>炭色皮肤</DV_Skin_Charcoal.label>
+  <DV_Skin_Charcoal.description>这种基因的携带者会生产一种将他们的皮肤转变为炭色的色素。</DV_Skin_Charcoal.description>
+
+</LanguageData>

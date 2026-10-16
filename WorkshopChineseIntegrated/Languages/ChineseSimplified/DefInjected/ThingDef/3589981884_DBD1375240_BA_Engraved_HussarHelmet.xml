@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: engraved hussar helmet -->
+  <BA_Engraved_HussarHelmet.label>雕花胡萨尔骑兵头盔</BA_Engraved_HussarHelmet.label>
+  <!-- EN: The turban helmet or Tolga in Turkish, is a historical variety of combat helmet with a bulbous shape and fluting that imitates the folds of a turban. Turban helmets originated in Ottoman Turkey, primarily used by warriors and some non-Turkish auxiliaries.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Poland</color></i> -->
+  <BA_Engraved_HussarHelmet.description>头巾式头盔（土耳其语称托尔加）是历史上的一种战斗头盔，呈球形外观，其凹槽纹路模仿头巾的褶皱。这种头盔起源于奥斯曼土耳其，主要供战士以及部分非土耳其籍辅助部队使用。</BA_Engraved_HussarHelmet.description>
+  
+</LanguageData>

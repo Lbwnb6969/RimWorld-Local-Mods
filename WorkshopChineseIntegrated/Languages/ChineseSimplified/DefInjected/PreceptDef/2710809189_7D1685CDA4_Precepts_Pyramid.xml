@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pyramid burial funeral -->
+  <AM_PyramidBurial.label>金字塔葬礼</AM_PyramidBurial.label>
+  <!-- EN: A gathering to entomb our colleague within a subterranean burial chamber underneath a pyramid -->
+  <AM_PyramidBurial.description>在指定地点处举行葬礼，以让死者于地下墓室中安息。</AM_PyramidBurial.description>
+  <!-- EN: {PAWN_nameDef} should be entombed so {PAWN_pronoun} can watch us all from the afterlife. -->
+  <AM_PyramidBurial.extraTextPawnDeathLetter>{PAWN_nameDef}应当被埋葬在金字塔的地下墓室中，这样{PAWN_pronoun}才能在阴世里观察并守望我们。</AM_PyramidBurial.extraTextPawnDeathLetter>
+  
+</LanguageData>

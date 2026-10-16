@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abstract -->
+
+  <DankPyon_RuinedBatteringRam.label>远古攻城锤残骸</DankPyon_RuinedBatteringRam.label>
+  <DankPyon_RuinedBatteringRam.description>远古攻城锤的遗迹。它以前被用来攻破城堡大门，让士兵得以进入城墙后方。摧毁后能获得资源。</DankPyon_RuinedBatteringRam.description>
+
+  <DankPyon_RuinedSiegeTower.label>远古攻城塔残骸</DankPyon_RuinedSiegeTower.label>
+  <DankPyon_RuinedSiegeTower.description>远古攻城塔的遗迹。高大而坚固的攻城塔曾经是为了在其内载运军队而建造的，当靠在城墙上时，士兵们可以爬过城墙攻打堡垒。摧毁后能获得资源。</DankPyon_RuinedSiegeTower.description>
+
+
+  <!-- Bodies -->
+
+  <DankPyon_AncientFootman.label>步兵遗骸</DankPyon_AncientFootman.label>
+  <DankPyon_AncientFootman.description>一名步兵的遗骸。可通过拆除来回收一些资源。</DankPyon_AncientFootman.description>
+
+  <DankPyon_RustedHauberk.label>生锈的锁甲</DankPyon_RustedHauberk.label>
+  <DankPyon_RustedHauberk.description>战场所遗留下的一件生锈的旧锁子甲。可通过摧毁来回收一些资源。</DankPyon_RustedHauberk.description>
+
+  <DankPyon_RustedHelmet.label>生锈的头盔</DankPyon_RustedHelmet.label>
+  <DankPyon_RustedHelmet.description>战场所遗留下的一顶生锈的头盔。可通过摧毁来回收一些资源。</DankPyon_RustedHelmet.description>
+
+  <DankPyon_RustedSwords.label>生锈的剑</DankPyon_RustedSwords.label>
+  <DankPyon_RustedSwords.description>战场所遗留下的一把生锈的剑。可通过摧毁来回收一些资源。</DankPyon_RustedSwords.description>
+
+  <DankPyon_AncientRuinedBanner.label>远古损毁旌旗</DankPyon_AncientRuinedBanner.label>
+  <DankPyon_AncientRuinedBanner.description>战场所遗留下的古老旗帜，属于一个早已被遗忘的古老王国。可通过摧毁来回收一些资源。</DankPyon_AncientRuinedBanner.description>
+
+  <DankPyon_AncientRuinedCart.label>远古马车残骸</DankPyon_AncientRuinedCart.label>
+  <DankPyon_AncientRuinedCart.description>显然属于一支被伏击的商队，似乎还遗留一些货物。可通过摧毁来回收一些资源。</DankPyon_AncientRuinedCart.description>
+
+  <DankPyon_AncientRuinedCrate.label>远古破旧箱子</DankPyon_AncientRuinedCrate.label>
+  <DankPyon_AncientRuinedCrate.description>一个破旧的空箱子。可通过摧毁来回收一些资源。</DankPyon_AncientRuinedCrate.description>
+
+  <DankPyon_AncientRuinedBarrel.label>远古破旧木桶</DankPyon_AncientRuinedBarrel.label>
+  <DankPyon_AncientRuinedBarrel.description>一个破旧的空桶。可通过摧毁来回收一些资源。</DankPyon_AncientRuinedBarrel.description>
+
+
+</LanguageData>

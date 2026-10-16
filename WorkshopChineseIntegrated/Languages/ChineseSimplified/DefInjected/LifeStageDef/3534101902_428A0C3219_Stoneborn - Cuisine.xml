@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SC_InsectLarva.label>幼虫</SC_InsectLarva.label>
+
+    <SC_InsectJuvenile.label>未成</SC_InsectJuvenile.label>
+
+    <SC_InsectAdult.label>成虫</SC_InsectAdult.label>
+
+</LanguageData>

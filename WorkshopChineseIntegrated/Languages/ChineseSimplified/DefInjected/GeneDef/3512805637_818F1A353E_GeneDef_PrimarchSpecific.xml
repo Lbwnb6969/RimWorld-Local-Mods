@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Lion El'Jonson -->
+  <BEWH_PrimarchSpecificGeneI.label>莱恩·庄森</BEWH_PrimarchSpecificGeneI.label>
+  <!-- EN: The genetic material of Lion El'Jonson. -->
+  <BEWH_PrimarchSpecificGeneI.description>莱恩·庄森的基因物质。</BEWH_PrimarchSpecificGeneI.description>
+  <!-- EN: Enables Forestwalking. -->
+  <BEWH_PrimarchSpecificGeneI.customEffectDescriptions.0>允许进行林中漫步。</BEWH_PrimarchSpecificGeneI.customEffectDescriptions.0>
+  
+  <!-- EN: Fulgrim -->
+  <BEWH_PrimarchSpecificGeneIII.label>福格瑞姆</BEWH_PrimarchSpecificGeneIII.label>
+  <!-- EN: The genetic material of Fulgrim. -->
+  <BEWH_PrimarchSpecificGeneIII.description>福格瑞姆的基因物质。</BEWH_PrimarchSpecificGeneIII.description>
+  <!-- EN: Increase quality of artistic creations by 1. -->
+  <BEWH_PrimarchSpecificGeneIII.customEffectDescriptions.0>制造的艺术品的品质+1</BEWH_PrimarchSpecificGeneIII.customEffectDescriptions.0>
+  
+  <!-- EN: Perturabo -->
+  <BEWH_PrimarchSpecificGeneIV.label>佩图拉博</BEWH_PrimarchSpecificGeneIV.label>
+  <!-- EN: The genetic material of Perturabo. -->
+  <BEWH_PrimarchSpecificGeneIV.description>佩图拉博的基因物质。</BEWH_PrimarchSpecificGeneIV.description>
+  <!-- EN: Innate mechlink. -->
+  <BEWH_PrimarchSpecificGeneIV.customEffectDescriptions.0>获得机控中枢。</BEWH_PrimarchSpecificGeneIV.customEffectDescriptions.0>
+  
+  <!-- EN: Sanguinius -->
+  <BEWH_PrimarchSpecificGeneIX.label>圣吉列斯</BEWH_PrimarchSpecificGeneIX.label>
+  <!-- EN: The genetic material of Sanguinius, when implanted, grows a set of featered wings, allow for greater speed and flight. -->
+  <BEWH_PrimarchSpecificGeneIX.description>圣吉列斯的基因物质。植入后，会长出一对羽翼，使携带者移动速度更快，并且能进行飞行。</BEWH_PrimarchSpecificGeneIX.description>
+  <!-- EN: Ignores speed penalty from obstacles. -->
+  <BEWH_PrimarchSpecificGeneIX.customEffectDescriptions.0>无视障碍带来的移动速度惩罚。</BEWH_PrimarchSpecificGeneIX.customEffectDescriptions.0>
+  
+  <!-- EN: Jaghatai Khan -->
+  <BEWH_PrimarchSpecificGeneV.label>察合台可汗</BEWH_PrimarchSpecificGeneV.label>
+  <!-- EN: The genetic material of Jaghatai Khan. -->
+  <BEWH_PrimarchSpecificGeneV.description>察合台可汗的基因物质。</BEWH_PrimarchSpecificGeneV.description>
+  
+  <!-- EN: Leman Russ -->
+  <BEWH_PrimarchSpecificGeneVI.label>黎曼·鲁斯</BEWH_PrimarchSpecificGeneVI.label>
+  <!-- EN: The genetic material of Leman Russ. -->
+  <BEWH_PrimarchSpecificGeneVI.description>黎曼·鲁斯的基因物质。</BEWH_PrimarchSpecificGeneVI.description>
+  
+  <!-- EN: Rogal Dorn -->
+  <BEWH_PrimarchSpecificGeneVII.label>罗格·多恩</BEWH_PrimarchSpecificGeneVII.label>
+  <!-- EN: The genetic material of Rogal Dorn. -->
+  <BEWH_PrimarchSpecificGeneVII.description>罗格·多恩的基因物质。</BEWH_PrimarchSpecificGeneVII.description>
+  <!-- EN: Gives the power to raise a temporary bastion to hold back attackers. -->
+  <BEWH_PrimarchSpecificGeneVII.customEffectDescriptions.0>获得能够构筑临时堡垒的能力。</BEWH_PrimarchSpecificGeneVII.customEffectDescriptions.0>
+  
+  <!-- EN: Konrad Curze -->
+  <BEWH_PrimarchSpecificGeneVIII.label>康拉德·科兹</BEWH_PrimarchSpecificGeneVIII.label>
+  <!-- EN: The genetic material of Konrad Curze. -->
+  <BEWH_PrimarchSpecificGeneVIII.description>康拉德·科兹的基因物质。</BEWH_PrimarchSpecificGeneVIII.description>
+  <!-- EN: Able to let out a psychic scream, destroying lighting sources and stunning enemies. -->
+  <BEWH_PrimarchSpecificGeneVIII.customEffectDescriptions.0>获得发出心灵尖啸的能力。摧毁光源并震慑敌人。</BEWH_PrimarchSpecificGeneVIII.customEffectDescriptions.0>
+  
+  <!-- EN: Ferrus Manus -->
+  <BEWH_PrimarchSpecificGeneX.label>费鲁斯·马努斯</BEWH_PrimarchSpecificGeneX.label>
+  <!-- EN: The genetic material of Ferrus Manus. -->
+  <BEWH_PrimarchSpecificGeneX.description>费鲁斯·马努斯的基因物质。</BEWH_PrimarchSpecificGeneX.description>
+  <!-- EN: Increase quality of crafting creations by 2 tiers. -->
+  <BEWH_PrimarchSpecificGeneX.customEffectDescriptions.0>在制作时有+2品质偏移。</BEWH_PrimarchSpecificGeneX.customEffectDescriptions.0>
+  
+  <!-- EN: Angron -->
+  <BEWH_PrimarchSpecificGeneXII.label>安格隆</BEWH_PrimarchSpecificGeneXII.label>
+  <!-- EN: The genetic material of Angron. -->
+  <BEWH_PrimarchSpecificGeneXII.description>安格隆的基因物质。c</BEWH_PrimarchSpecificGeneXII.description>
+  
+  <!-- EN: Roboute Guilliman -->
+  <BEWH_PrimarchSpecificGeneXIII.label>罗伯特·基里曼</BEWH_PrimarchSpecificGeneXIII.label>
+  <!-- EN: The genetic material of Roboute Guilliman. -->
+  <BEWH_PrimarchSpecificGeneXIII.description>罗伯特·基里曼的基因物质。</BEWH_PrimarchSpecificGeneXIII.description>
+  <!-- EN: Ability to increase productivity of colony pawns. -->
+  <BEWH_PrimarchSpecificGeneXIII.customEffectDescriptions.0>获得能够提高其他殖民者工作速度的激励能力。</BEWH_PrimarchSpecificGeneXIII.customEffectDescriptions.0>
+  
+  <!-- EN: Mortarion -->
+  <BEWH_PrimarchSpecificGeneXIV.label>莫塔利安</BEWH_PrimarchSpecificGeneXIV.label>
+  <!-- EN: The genetic material of Mortarion. -->
+  <BEWH_PrimarchSpecificGeneXIV.description>莫塔利安的基因物质。</BEWH_PrimarchSpecificGeneXIV.description>
+  
+  <!-- EN: Corvus Corax -->
+  <BEWH_PrimarchSpecificGeneXIX.label>科沃斯·科拉克斯</BEWH_PrimarchSpecificGeneXIX.label>
+  <!-- EN: The genetic material of Corvus Corax. -->
+  <BEWH_PrimarchSpecificGeneXIX.description>科沃斯·科拉克斯的基因物质。</BEWH_PrimarchSpecificGeneXIX.description>
+  
+  <!-- EN: Magnus the Red -->
+  <BEWH_PrimarchSpecificGeneXV.label>“赤红之王”马格努斯</BEWH_PrimarchSpecificGeneXV.label>
+  <!-- EN: The genetic material of Magnus the Red, when implanted, greatly improves psychic capabilities. -->
+  <BEWH_PrimarchSpecificGeneXV.description>“赤红之王”马格努斯的基因物质。植入后可大幅提高携带者的灵能能力。</BEWH_PrimarchSpecificGeneXV.description>
+  <!-- EN: Gives the Alpha Psyker gene. -->
+  <BEWH_PrimarchSpecificGeneXV.customEffectDescriptions.0>添加“Ⅳ级灵能者”基因。</BEWH_PrimarchSpecificGeneXV.customEffectDescriptions.0>
+  
+  <!-- EN: Horus Lupercal -->
+  <BEWH_PrimarchSpecificGeneXVI.label>荷鲁斯·卢佩卡尔</BEWH_PrimarchSpecificGeneXVI.label>
+  <!-- EN: The genetic material of Horus Lupercal. -->
+  <BEWH_PrimarchSpecificGeneXVI.description>荷鲁斯·卢佩卡尔的基因物质。</BEWH_PrimarchSpecificGeneXVI.description>
+  <!-- EN: Ability to increase combat usefulness of colony pawns. -->
+  <BEWH_PrimarchSpecificGeneXVI.customEffectDescriptions.0>获得能提高其他殖民者战斗能力的激励能力。</BEWH_PrimarchSpecificGeneXVI.customEffectDescriptions.0>
+  
+  <!-- EN: Lorgar -->
+  <BEWH_PrimarchSpecificGeneXVII.label>洛嘉</BEWH_PrimarchSpecificGeneXVII.label>
+  <!-- EN: The genetic material of Lorgar. -->
+  <BEWH_PrimarchSpecificGeneXVII.description>洛嘉的基因物质。</BEWH_PrimarchSpecificGeneXVII.description>
+  
+  <!-- EN: Vulkan -->
+  <BEWH_PrimarchSpecificGeneXVIII.label>沃肯</BEWH_PrimarchSpecificGeneXVIII.label>
+  <!-- EN: The genetic material of Vulkan. -->
+  <BEWH_PrimarchSpecificGeneXVIII.description>沃肯的基因物质。</BEWH_PrimarchSpecificGeneXVIII.description>
+  <!-- EN: Gives the Beta Perpetual gene. -->
+  <BEWH_PrimarchSpecificGeneXVIII.customEffectDescriptions.0>添加“Ⅱ级永生者”基因。</BEWH_PrimarchSpecificGeneXVIII.customEffectDescriptions.0>
+  
+  <!-- EN: Alpharius/Omegon -->
+  <BEWH_PrimarchSpecificGeneXX.label>阿尔法瑞斯/欧米冈</BEWH_PrimarchSpecificGeneXX.label>
+  <!-- EN: The genetic material of Alpharius/Omegon. -->
+  <BEWH_PrimarchSpecificGeneXX.description>阿尔法瑞斯/欧米冈的基因物质。</BEWH_PrimarchSpecificGeneXX.description>
+  <!-- EN: You have a twin! -->
+  <BEWH_PrimarchSpecificGeneXX.customEffectDescriptions.0>你有一个双胞胎兄弟！</BEWH_PrimarchSpecificGeneXX.customEffectDescriptions.0>
+  
+</LanguageData>

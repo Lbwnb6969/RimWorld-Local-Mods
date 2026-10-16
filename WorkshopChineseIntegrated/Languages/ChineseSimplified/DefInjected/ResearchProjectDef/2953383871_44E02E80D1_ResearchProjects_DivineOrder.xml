@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: divine order elite armor -->
+  <BotchJob_DivineOrderEliteArmor.label>神圣秩序精英护甲</BotchJob_DivineOrderEliteArmor.label>
+  <!-- EN: Learn to craft the powerful armor of crusaders, inquisitors and heralds of the divine order. -->
+  <BotchJob_DivineOrderEliteArmor.description>学习制作十字军、审判官和传令官的强大护甲。</BotchJob_DivineOrderEliteArmor.description>
+  
+  <!-- EN: divine order equipment -->
+  <BotchJob_DivineOrderSmithing.label>神圣秩序装备</BotchJob_DivineOrderSmithing.label>
+  <!-- EN: Learn to craft basic arms, armor and apparel of the divine order. -->
+  <BotchJob_DivineOrderSmithing.description>学习制作神圣秩序装备的基础武器、护甲和服饰。</BotchJob_DivineOrderSmithing.description>
+
+  <BotchJob_DivineOrderStaffResearch.label>神圣秩序法杖</BotchJob_DivineOrderStaffResearch.label>
+  <BotchJob_DivineOrderStaffResearch.description>学习制作神圣秩序的终极武器。</BotchJob_DivineOrderStaffResearch.description>
+
+</LanguageData>

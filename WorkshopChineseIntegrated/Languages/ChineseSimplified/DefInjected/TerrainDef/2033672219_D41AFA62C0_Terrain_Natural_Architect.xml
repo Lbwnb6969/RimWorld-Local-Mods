@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grass -->
+  <VFEArch_Grass.label>草地</VFEArch_Grass.label>
+  <!-- EN: Field of grass with patches of soil here and there. Very pleasant to look at, it requires no resources to construct. -->
+  <VFEArch_Grass.description>混杂着泥土的草地，看起来还不错。无需任何资源即可进行铺设。</VFEArch_Grass.description>
+  <!-- EN: dirt -->
+  <VFEArch_Grass.tools.dirt.label>尘土</VFEArch_Grass.tools.dirt.label>
+  
+  <!-- EN: lawn plot -->
+  <VFEArch_LawnPlot.label>草坪</VFEArch_LawnPlot.label>
+  <!-- EN: Beautifully trimmed grass with very high beauty value. Requires tremendous amounts of work to construct. -->
+  <VFEArch_LawnPlot.description>精心修剪的草坪，看起来很漂亮。需要花费大量的时间进行铺设。</VFEArch_LawnPlot.description>
+  <!-- EN: dirt -->
+  <VFEArch_LawnPlot.tools.dirt.label>尘土</VFEArch_LawnPlot.tools.dirt.label>
+  
+</LanguageData>

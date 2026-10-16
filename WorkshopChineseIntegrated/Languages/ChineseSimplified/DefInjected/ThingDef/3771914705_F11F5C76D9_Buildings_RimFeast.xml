@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: feast spot -->
+  <RimFeast_FeastSpot.label>宴会点</RimFeast_FeastSpot.label>
+  <!-- EN: Marks the head of the table for a grand banquet. From here you can invite a noble house to a feast. Guests will gather around this spot to eat and drink, so set a fine table: food and drink laid out nearby, in a hall worth showing off. -->
+  <RimFeast_FeastSpot.description>标示盛大宴会的主桌位置。你可以在此邀请一个贵族家族前来赴宴。来宾们会聚集在此处享用饮食，所以请布置一桌盛宴：在附近摆好食物和饮品，最好在一个金碧辉煌的大厅里。</RimFeast_FeastSpot.description>
+  
+</LanguageData>

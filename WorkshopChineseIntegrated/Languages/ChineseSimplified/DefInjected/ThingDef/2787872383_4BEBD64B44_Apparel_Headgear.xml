@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centurion helmet -->
+  <VFEC_Apparel_CenturionHelmet.label>百夫长头盔</VFEC_Apparel_CenturionHelmet.label>
+  <!-- EN: A carefully designed and decorated helmet made out of a single large piece of wood or metal. A wide open gap near the mouth and eyes allows full peripheral vision and unmuffled communication. This particular helmet includes accoutrement to inspire both its wearers and onlookers, when fighting side by side a centurion even pain itself seems dulled. -->
+  <VFEC_Apparel_CenturionHelmet.description>用整块木头或金属制成的头盔，上面有着十分华丽的装饰。面部有一个大型的开口，使它不会干扰视野和交流。这种头盔上的装饰会激励穿戴者以及周围的人忍受痛苦，更加努力地作战。</VFEC_Apparel_CenturionHelmet.description>
+  
+  <!-- EN: legionary helmet -->
+  <VFEC_Apparel_LegionnaireHelmet.label>军团头盔</VFEC_Apparel_LegionnaireHelmet.label>
+  <!-- EN: A carefully designed helmet made out of a single large piece of wood or metal. A wide open gap near the mouth and eyes allows full peripheral vision and unmuffled communication. -->
+  <VFEC_Apparel_LegionnaireHelmet.description>用整块木头或金属制成的头盔。面部有一个大型的开口，使它不会干扰视野和交流。</VFEC_Apparel_LegionnaireHelmet.description>
+  
+  <!-- EN: wreath -->
+  <VFEC_Wreath.label>桂冠</VFEC_Wreath.label>
+  <!-- EN: A polished metallic piece of headgear resembling laurels meant to signify wealth and status, equally appealing to both senators and nobles. -->
+  <VFEC_Wreath.description>精美的金属头饰，做成了月桂叶的样式来彰显财富和地位，深受共和国元老议员和贵族们的喜爱。</VFEC_Wreath.description>
+  
+</LanguageData>

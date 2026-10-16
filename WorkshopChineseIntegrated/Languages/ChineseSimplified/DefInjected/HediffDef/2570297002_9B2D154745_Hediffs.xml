@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no pain sensitivity -->
+  <VDE_NoPain.label>痛感屏蔽</VDE_NoPain.label>
+  <!-- EN: This animal has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+  <VDE_NoPain.description>痛觉神经的退化使这只生物很难被击倒。</VDE_NoPain.description>
+  
+  <!-- EN: separation sickness -->
+  <VDE_SeparationSickness.label>诀离症</VDE_SeparationSickness.label>
+  <!-- EN: When an awakened dryad reaches 2 years of age, they start getting affected by separation sickness. This sickness is progressive and always lethal. It is caused by the dryad losing its connection to the Gauranlen tree, and not being able to restore it due to being unshackled.\n\nSeparation sickness can be slowed down by medicine, but eventually every Awakened dryad dies. -->
+  <VDE_SeparationSickness.description>由于失去了与母树间的共生联结，觉醒树精会在寿命满2年时患上诀离症，最终迎来不可避免的死亡。\n\n诀离症可通过药物治疗来缓解，但这依然无法改变觉醒树精最终死亡的命运。</VDE_SeparationSickness.description>
+  <!-- EN: weakened -->
+  <VDE_SeparationSickness.stages.weakened.label>虚弱</VDE_SeparationSickness.stages.weakened.label>
+  <!-- EN: withering -->
+  <VDE_SeparationSickness.stages.withering.label>凋零</VDE_SeparationSickness.stages.withering.label>
+  <!-- EN: vanishing -->
+  <VDE_SeparationSickness.stages.vanishing.label>消亡</VDE_SeparationSickness.stages.vanishing.label>
+  
+</LanguageData>

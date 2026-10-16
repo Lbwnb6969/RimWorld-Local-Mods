@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Senator Joins: {0} -->
+  <VFEC.Letters.SenatorJoins>元老议员加入：{0}</VFEC.Letters.SenatorJoins>
+    <!-- EN: {0}, a senator from {1}, has agreed to join you. This has unlocked the perk {2}. -->
+  <VFEC.Letters.SenatorJoins.Desc>{0}，一名来自{1}的元老议员同意加入你的阵营。你因此解锁了理念：{2}</VFEC.Letters.SenatorJoins.Desc>
+    <!-- EN: They have also shared some knowledge with you, automatically researching {0}. -->
+  <VFEC.Letters.SenatorJoins.Desc.Research>他们也向你分享了一些知识，解锁科技：{0}</VFEC.Letters.SenatorJoins.Desc.Research>
+    <!-- EN: Since you now have all senators from {0}, you have now unlocked the perk {1}. Additionally, perks will no longer be lost if a senator dies. -->
+  <VFEC.Letters.SenatorJoins.Desc.All>你已经获得了{0}的所有元老议员，解锁理念：{1}。并且从现在开始，即便元老议员死亡，所对应的该国理念也不再会丢失。</VFEC.Letters.SenatorJoins.Desc.All>
+    <!-- EN: Finally, combining the knowledge of all {0} senators means you have automatically researched {1}. -->
+  <VFEC.Letters.SenatorJoins.Desc.All.Research>所有{0}的元老议员所带来的知识也让你解锁了科技：{1}。</VFEC.Letters.SenatorJoins.Desc.All.Research>
+    <!-- EN: Senator Lost: {0} -->
+  <VFEC.Letters.SenatorLost>元老议员死亡：{0}</VFEC.Letters.SenatorLost>
+    <!-- EN: {0}, a senator from {1}, has died in your care. {1} will no elect a new senator, who you will have to gain the favor of. As such, the perk {2} has been lost. -->
+  <VFEC.Letters.SenatorLost.Desc>来自{1}的元老议员{0}在你的庇护下死亡了。{1}会选举一个新的元老议员，你必须重新获得支持。理念{2}已经丢失。</VFEC.Letters.SenatorLost.Desc>
+    <!-- EN: Tribute Recieved from {0} -->
+  <VFEC.Letters.Donation>收到来自{0}的税金</VFEC.Letters.Donation>
+    <!-- EN: {0} has provided tribute of {1}. -->
+  <VFEC.Letters.Donation.Desc>{0}向你支付了{1}的税金。</VFEC.Letters.Donation.Desc>
+    <!-- EN: Technology Gained: {0} -->
+  <VFEC.Letters.Researched>获得科技：{0}</VFEC.Letters.Researched>
+    <!-- EN: {1} has recently made a breakthrough in their technological advancements, and they have shared the technology with you.
+Technology unlocked:
+{0} -->
+  <VFEC.Letters.Researched.Desc>{1}最近在科研方面获得了进展，他们已经将知识分享给你。获得科技：\n{0}。</VFEC.Letters.Researched.Desc>
+</LanguageData>

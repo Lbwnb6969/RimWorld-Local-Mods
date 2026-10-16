@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DV_IntimidatingPresence.label>骇人存在</DV_IntimidatingPresence.label>
+  <DV_IntimidatingPresence.description>这种基因的携带者有着宽阔的肩膀和具有威胁性的脸部结构，这使得奴隶更容易听他们的话。</DV_IntimidatingPresence.description>
+  <DV_Silvertongued.label>油嘴滑舌</DV_Silvertongued.label>
+  <DV_Silvertongued.description>这种基因的携带者有着与生俱来的说服力和口才，使他们更善于说服他人和讨价还价。</DV_Silvertongued.description>
+  <DV_FatStorage.label>脂肪储存</DV_FatStorage.label>
+  <DV_FatStorage.description>携带者全身会储存大量的额外脂肪，这些脂肪可以储存营养和脂质，除了使携带者更能抵御钝器的伤害并且更慢之外，还允许让携带者通过燃烧营养来防止饥饿。</DV_FatStorage.description>
+  <DV_FatStorage.customEffectDescriptions.0>允许载体储存营养以供日后使用，增加钝器防护但会随着营养的积累而降低移动速度。</DV_FatStorage.customEffectDescriptions.0>
+  <DV_MuckSpit.label>污秽喷吐</DV_MuckSpit.label>
+  <DV_MuckSpit.description>携带者会在胃部附近的袋子里酝酿一种令人作呕的粘稠淤泥，并在口中有着专门的加压气囊。他们可以将这些淤泥喷洒在一个区域内，使走过的敌人减速并受到阻碍。</DV_MuckSpit.description>
+  <DV_Jaw_FatSac.label>肥褶</DV_Jaw_FatSac.label>
+  <DV_Jaw_FatSac.description>这种基因的携带者会在喉咙，下颌和锁骨之间形成一大袋多余的脂肪。</DV_Jaw_FatSac.description>
+  <DV_Materialistic.label>物质</DV_Materialistic.label>
+  <DV_Materialistic.description>这种基因的携带者贪婪并嫉妒他人，令人讨厌。他们总是想要更多更丰富的物品，得不到时就会很伤心。</DV_Materialistic.description>
+  <DV_Nose_Whiskers.label>触须</DV_Nose_Whiskers.label>
+  <DV_Nose_Whiskers.description>这种基因的携带者上唇会长出肉质的鱼须状附属物。</DV_Nose_Whiskers.description>
+  <Skin_GreenMuddy.label>泥绿皮肤</Skin_GreenMuddy.label>
+  <Skin_GreenMuddy.description>这种基因的携带者会生产一种将他们的皮肤转变为泥绿色的色素。</Skin_GreenMuddy.description>
+  <Skin_BrownMuddy.label>泥棕皮肤</Skin_BrownMuddy.label>
+  <Skin_BrownMuddy.description>这种基因的携带者会生产一种将他们的皮肤转变为泥棕色的色素。</Skin_BrownMuddy.description>
+  <Skin_CyanMuddy.label>泥青皮肤</Skin_CyanMuddy.label>
+  <Skin_CyanMuddy.description>这种基因的携带者会生产一种将他们的皮肤转变为泥青色的色素。</Skin_CyanMuddy.description>
+  <Skin_OliveMuddy.label>泥橄榄皮肤</Skin_OliveMuddy.label>
+  <Skin_OliveMuddy.description>这种基因的携带者会生产一种将他们的皮肤转变为泥橄榄色的色素。</Skin_OliveMuddy.description>
+  <Skin_YellowMuddy.label>泥黄皮肤</Skin_YellowMuddy.label>
+  <Skin_YellowMuddy.description>这种基因的携带者会生产一种将他们的皮肤转变为泥黄色的色素。</Skin_YellowMuddy.description>
+</LanguageData>

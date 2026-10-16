@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Warcasket Life Support -->
+  <AM_WarCasketLifeSupport.label>无畏战棺维生</AM_WarCasketLifeSupport.label>
+  <!-- EN: This person is alive against all odds, without the warcasket they would perish immediately. -->
+  <AM_WarCasketLifeSupport.description>此单位奄奄垂绝，若脱离无畏战棺便会立刻死去。</AM_WarCasketLifeSupport.description>
+  
+</LanguageData>

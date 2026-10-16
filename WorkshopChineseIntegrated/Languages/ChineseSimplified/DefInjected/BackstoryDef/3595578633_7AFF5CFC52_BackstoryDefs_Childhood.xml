@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] molded candles for cathedral altars, learning precision and devotion.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Basic_ChandlerChild.description>[PAWN_nameDef]为大教堂祭坛制作蜡烛，在塑形中习得精准与虔诚。</BA_Byzantium_Childhood_Basic_ChandlerChild.description>
+  <!-- EN: Chandler’s Child -->
+  <BA_Byzantium_Childhood_Basic_ChandlerChild.title>蜡烛匠的孩子</BA_Byzantium_Childhood_Basic_ChandlerChild.title>
+  <!-- EN: Chandler -->
+  <BA_Byzantium_Childhood_Basic_ChandlerChild.titleShort>烛匠学徒</BA_Byzantium_Childhood_Basic_ChandlerChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked refilling lamps in the dark corridors of monasteries, learning silence and patience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Basic_LampOilChild.description>[PAWN_nameDef]在修道院昏暗的走廊里为油灯添油，在寂静中学会忍耐与沉静。</BA_Byzantium_Childhood_Basic_LampOilChild.description>
+  <!-- EN: Lamp Oil Carrier -->
+  <BA_Byzantium_Childhood_Basic_LampOilChild.title>添油童子</BA_Byzantium_Childhood_Basic_LampOilChild.title>
+  <!-- EN: Oil Boy -->
+  <BA_Byzantium_Childhood_Basic_LampOilChild.titleShort>油童</BA_Byzantium_Childhood_Basic_LampOilChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] darted through the Forum of Constantine, running errands for traders and priests alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Basic_MarketRunner.description>[PAWN_nameDef]在君士坦丁广场穿梭，为商人和祭司跑腿办事。</BA_Byzantium_Childhood_Basic_MarketRunner.description>
+  <!-- EN: Forum Runner -->
+  <BA_Byzantium_Childhood_Basic_MarketRunner.title>广场信使</BA_Byzantium_Childhood_Basic_MarketRunner.title>
+  <!-- EN: Messenger -->
+  <BA_Byzantium_Childhood_Basic_MarketRunner.titleShort>信使</BA_Byzantium_Childhood_Basic_MarketRunner.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up along the Mese, the grand avenue of Constantinople, surviving by wit among merchants and beggars.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Basic_StreetOfConstantinople.description>[PAWN_nameDef]在君士坦丁堡的梅塞大道（主街）长大，凭借聪慧在商人和乞丐之间求生。</BA_Byzantium_Childhood_Basic_StreetOfConstantinople.description>
+  <!-- EN: Child of the Mese -->
+  <BA_Byzantium_Childhood_Basic_StreetOfConstantinople.title>梅塞大道孩童</BA_Byzantium_Childhood_Basic_StreetOfConstantinople.title>
+  <!-- EN: Street Child -->
+  <BA_Byzantium_Childhood_Basic_StreetOfConstantinople.titleShort>街头孩童</BA_Byzantium_Childhood_Basic_StreetOfConstantinople.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sang in echoing domes beneath golden mosaics, memorizing psalms more than words of play.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Educated_ChoristerChild.description>[PAWN_nameDef]在镶嵌金箔马赛克的穹顶下吟唱，牢记的圣诗多过孩童的戏言。</BA_Byzantium_Childhood_Educated_ChoristerChild.description>
+  <!-- EN: Cathedral Chorister -->
+  <BA_Byzantium_Childhood_Educated_ChoristerChild.title>大教堂唱诗童</BA_Byzantium_Childhood_Educated_ChoristerChild.title>
+  <!-- EN: Chorister -->
+  <BA_Byzantium_Childhood_Educated_ChoristerChild.titleShort>唱诗童</BA_Byzantium_Childhood_Educated_ChoristerChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained under the clergy, reading scripture and assisting in sacred rites.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Educated_DeaconTrainee.description>[PAWN_nameDef]在神职人员门下学习，诵读经文并协助举行神圣仪式。</BA_Byzantium_Childhood_Educated_DeaconTrainee.description>
+  <!-- EN: Deacon’s Trainee -->
+  <BA_Byzantium_Childhood_Educated_DeaconTrainee.title>执事学徒</BA_Byzantium_Childhood_Educated_DeaconTrainee.title>
+  <!-- EN: Deacon -->
+  <BA_Byzantium_Childhood_Educated_DeaconTrainee.titleShort>见习执事</BA_Byzantium_Childhood_Educated_DeaconTrainee.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived among monks, learning humility and quiet labor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Educated_MonasticNovice.description>[PAWN_nameDef]与修士们同住，习得谦逊与沉静劳作之道。</BA_Byzantium_Childhood_Educated_MonasticNovice.description>
+  <!-- EN: Monastic Novice -->
+  <BA_Byzantium_Childhood_Educated_MonasticNovice.title>修道院见习生</BA_Byzantium_Childhood_Educated_MonasticNovice.title>
+  <!-- EN: Novice -->
+  <BA_Byzantium_Childhood_Educated_MonasticNovice.titleShort>见习生</BA_Byzantium_Childhood_Educated_MonasticNovice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied letters and Greek scripture under the quiet lamps of a monastery.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Educated_MonkScholar.description>[PAWN_nameDef]在修道院安静的油灯下学习文字与希腊文经文。</BA_Byzantium_Childhood_Educated_MonkScholar.description>
+  <!-- EN: Monk’s Pupil -->
+  <BA_Byzantium_Childhood_Educated_MonkScholar.title>修士弟子</BA_Byzantium_Childhood_Educated_MonkScholar.title>
+  <!-- EN: Scholar -->
+  <BA_Byzantium_Childhood_Educated_MonkScholar.titleShort>学童</BA_Byzantium_Childhood_Educated_MonkScholar.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] arranged gold and glass tiles under a master artisan, giving life to saints on walls.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Educated_MosaicApprentice.description>[PAWN_nameDef]在工匠大师指导下排列金箔与玻璃马赛克，让墙壁上的圣像焕发生机。</BA_Byzantium_Childhood_Educated_MosaicApprentice.description>
+  <!-- EN: Mosaic Apprentice -->
+  <BA_Byzantium_Childhood_Educated_MosaicApprentice.title>马赛克学徒</BA_Byzantium_Childhood_Educated_MosaicApprentice.title>
+  <!-- EN: Artist -->
+  <BA_Byzantium_Childhood_Educated_MosaicApprentice.titleShort>艺术学徒</BA_Byzantium_Childhood_Educated_MosaicApprentice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as assistant to a patriarch’s notary, learning discretion and discipline beyond their age.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Educated_PatriarchScribe.description>[PAWN_nameDef]担任牧首公证人的助手，习得超乎年龄的谨慎与自律。</BA_Byzantium_Childhood_Educated_PatriarchScribe.description>
+  <!-- EN: Patriarch’s Scribe -->
+  <BA_Byzantium_Childhood_Educated_PatriarchScribe.title>牧首抄写员学徒</BA_Byzantium_Childhood_Educated_PatriarchScribe.title>
+  <!-- EN: Scribe -->
+  <BA_Byzantium_Childhood_Educated_PatriarchScribe.titleShort>抄写学徒</BA_Byzantium_Childhood_Educated_PatriarchScribe.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied geometry and rhetoric at the capital’s schola, destined for imperial service.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Educated_ScholaStudent.description>[PAWN_nameDef]在首都的学校研习几何学与修辞学，注定为帝国效力。</BA_Byzantium_Childhood_Educated_ScholaStudent.description>
+  <!-- EN: Schola Student -->
+  <BA_Byzantium_Childhood_Educated_ScholaStudent.title>帝国学童</BA_Byzantium_Childhood_Educated_ScholaStudent.title>
+  <!-- EN: Student -->
+  <BA_Byzantium_Childhood_Educated_ScholaStudent.titleShort>学子</BA_Byzantium_Childhood_Educated_ScholaStudent.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent days copying holy texts with trembling hands, learning patience through ink and silence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Educated_ScriptoriumApprentice.description>[PAWN_nameDef]整日用稚嫩的双手抄写神圣经文，在笔墨与寂静中磨炼耐心。</BA_Byzantium_Childhood_Educated_ScriptoriumApprentice.description>
+  <!-- EN: Scriptorium Apprentice -->
+  <BA_Byzantium_Childhood_Educated_ScriptoriumApprentice.title>抄经房学徒</BA_Byzantium_Childhood_Educated_ScriptoriumApprentice.title>
+  <!-- EN: Apprentice -->
+  <BA_Byzantium_Childhood_Educated_ScriptoriumApprentice.titleShort>抄经学徒</BA_Byzantium_Childhood_Educated_ScriptoriumApprentice.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] descended from private retainers of nobles, taught that loyalty and the sword were one.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_MilitaryLineage_BucellariiDescendant.description>[PAWN_nameDef]是贵族私人卫队（布塞拉里亚）的后裔，自幼便被教导忠诚与利剑密不可分。</BA_Byzantium_Childhood_MilitaryLineage_BucellariiDescendant.description>
+  <!-- EN: Bucellarii Descendant -->
+  <BA_Byzantium_Childhood_MilitaryLineage_BucellariiDescendant.title>布塞拉里亚卫队后裔</BA_Byzantium_Childhood_MilitaryLineage_BucellariiDescendant.title>
+  <!-- EN: Bucellarii -->
+  <BA_Byzantium_Childhood_MilitaryLineage_BucellariiDescendant.titleShort>卫队后裔</BA_Byzantium_Childhood_MilitaryLineage_BucellariiDescendant.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up among armored warhorses and glinting lamellar armor, dreaming of glory under imperial banners.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_MilitaryLineage_CataphractHeir.description>[PAWN_nameDef]在披甲战马与闪亮札甲之间长大，梦想着在帝国旗帜下赢得荣耀。</BA_Byzantium_Childhood_MilitaryLineage_CataphractHeir.description>
+  <!-- EN: Cataphract’s Heir -->
+  <BA_Byzantium_Childhood_MilitaryLineage_CataphractHeir.title>甲胄骑兵后裔</BA_Byzantium_Childhood_MilitaryLineage_CataphractHeir.title>
+  <!-- EN: Cataphract Heir -->
+  <BA_Byzantium_Childhood_MilitaryLineage_CataphractHeir.titleShort>骑兵子嗣</BA_Byzantium_Childhood_MilitaryLineage_CataphractHeir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained horses for the Hippodrome’s races, torn between sport and service to the empire’s cavalry.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_MilitaryLineage_HippodromeYouth.description>[PAWN_nameDef]为赛马场训练赛马，在竞技运动与为帝国骑兵效力之间摇摆。</BA_Byzantium_Childhood_MilitaryLineage_HippodromeYouth.description>
+  <!-- EN: Hippodrome Youth -->
+  <BA_Byzantium_Childhood_MilitaryLineage_HippodromeYouth.title>赛马场少年</BA_Byzantium_Childhood_MilitaryLineage_HippodromeYouth.title>
+  <!-- EN: Racer -->
+  <BA_Byzantium_Childhood_MilitaryLineage_HippodromeYouth.titleShort>驯马少年</BA_Byzantium_Childhood_MilitaryLineage_HippodromeYouth.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was drilled in the discipline of the imperial phalanx from an early age, learning precision above all.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_MilitaryLineage_PhalanxTrainee.description>[PAWN_nameDef]自幼接受帝国方阵的纪律训练，将精准奉为首要准则。</BA_Byzantium_Childhood_MilitaryLineage_PhalanxTrainee.description>
+  <!-- EN: Phalanx Trainee -->
+  <BA_Byzantium_Childhood_MilitaryLineage_PhalanxTrainee.title>方阵学徒</BA_Byzantium_Childhood_MilitaryLineage_PhalanxTrainee.title>
+  <!-- EN: Trainee -->
+  <BA_Byzantium_Childhood_MilitaryLineage_PhalanxTrainee.titleShort>方阵学员</BA_Byzantium_Childhood_MilitaryLineage_PhalanxTrainee.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up on campaign maps and war councils, learning patience and calculation instead of play.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_MilitaryLineage_StratigosSon.description>[PAWN_nameDef]在作战地图与军事会议中长大，不学孩童嬉闹，只学忍耐与谋略。</BA_Byzantium_Childhood_MilitaryLineage_StratigosSon.description>
+  <!-- EN: Strategos’ Child -->
+  <BA_Byzantium_Childhood_MilitaryLineage_StratigosSon.title>军区长官之子</BA_Byzantium_Childhood_MilitaryLineage_StratigosSon.title>
+  <!-- EN: General’s Child -->
+  <BA_Byzantium_Childhood_MilitaryLineage_StratigosSon.titleShort>将军子嗣</BA_Byzantium_Childhood_MilitaryLineage_StratigosSon.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served officers of the elite tagmata regiments, polishing armor and absorbing the ways of command.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_MilitaryLineage_TagmataPage.description>[PAWN_nameDef]为精锐中央军团（塔格马）的军官效力，擦拭铠甲的同时，潜移默化习得指挥之道。</BA_Byzantium_Childhood_MilitaryLineage_TagmataPage.description>
+  <!-- EN: Tagmata Page -->
+  <BA_Byzantium_Childhood_MilitaryLineage_TagmataPage.title>中央军团侍从</BA_Byzantium_Childhood_MilitaryLineage_TagmataPage.title>
+  <!-- EN: Page -->
+  <BA_Byzantium_Childhood_MilitaryLineage_TagmataPage.titleShort>军团侍从</BA_Byzantium_Childhood_MilitaryLineage_TagmataPage.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent youth moving between the fortified towns of a military theme, learning order and command.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_MilitaryLineage_ThemeCommanderChild.description>[PAWN_nameDef]年少时在军区的设防城镇间辗转，习得秩序与指挥之道。</BA_Byzantium_Childhood_MilitaryLineage_ThemeCommanderChild.description>
+  <!-- EN: Theme Commander’s Child -->
+  <BA_Byzantium_Childhood_MilitaryLineage_ThemeCommanderChild.title>军区指挥官之子</BA_Byzantium_Childhood_MilitaryLineage_ThemeCommanderChild.title>
+  <!-- EN: Officer’s Child -->
+  <BA_Byzantium_Childhood_MilitaryLineage_ThemeCommanderChild.titleShort>军官之子</BA_Byzantium_Childhood_MilitaryLineage_ThemeCommanderChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised in the shadow of northern guards at the palace gates, learning loyalty and discipline before words.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_MilitaryLineage_VarangianWard.description>[PAWN_nameDef]在宫殿大门的瓦兰吉亚北部卫队阴影下长大，先学会忠诚与纪律，后学会言语。</BA_Byzantium_Childhood_MilitaryLineage_VarangianWard.description>
+  <!-- EN: Varangian Ward -->
+  <BA_Byzantium_Childhood_MilitaryLineage_VarangianWard.title>瓦兰吉亚受监护人</BA_Byzantium_Childhood_MilitaryLineage_VarangianWard.title>
+  <!-- EN: Varangian Child -->
+  <BA_Byzantium_Childhood_MilitaryLineage_VarangianWard.titleShort>瓦兰吉亚孩童</BA_Byzantium_Childhood_MilitaryLineage_VarangianWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was chosen for imperial ceremonies, learning to move like clockwork beneath the Hagia Sophia’s gaze.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Noble_CeremonialYouth.description>[PAWN_nameDef]被选中参与帝国仪式，在圣索菲亚大教堂的注视下，学会如钟表般精准行事。</BA_Byzantium_Childhood_Noble_CeremonialYouth.description>
+  <!-- EN: Ceremonial Attendant -->
+  <BA_Byzantium_Childhood_Noble_CeremonialYouth.title>仪式侍从</BA_Byzantium_Childhood_Noble_CeremonialYouth.title>
+  <!-- EN: Attendant -->
+  <BA_Byzantium_Childhood_Noble_CeremonialYouth.titleShort>侍从</BA_Byzantium_Childhood_Noble_CeremonialYouth.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] inherited an obsession with sacred art, learning reverence and caution after the iconoclast purges.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Noble_IconCollector.description>[PAWN_nameDef]继承了对神圣艺术的痴迷，在圣像破坏运动的清洗之后，学会了敬畏与谨慎。</BA_Byzantium_Childhood_Noble_IconCollector.description>
+  <!-- EN: Icon Collector’s Child -->
+  <BA_Byzantium_Childhood_Noble_IconCollector.title>圣像收藏家之子</BA_Byzantium_Childhood_Noble_IconCollector.title>
+  <!-- EN: Collector -->
+  <BA_Byzantium_Childhood_Noble_IconCollector.titleShort>收藏家学徒</BA_Byzantium_Childhood_Noble_IconCollector.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to bow deeper and speak softer than others, surviving the politics of court even as a child.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Noble_ImperialCourtierChild.description>[PAWN_nameDef]学会比旁人弯腰更低、言语更轻柔，孩童时期便懂得在宫廷权谋中求生。</BA_Byzantium_Childhood_Noble_ImperialCourtierChild.description>
+  <!-- EN: Imperial Courtier’s Child -->
+  <BA_Byzantium_Childhood_Noble_ImperialCourtierChild.title>帝国朝臣之子</BA_Byzantium_Childhood_Noble_ImperialCourtierChild.title>
+  <!-- EN: Courtier -->
+  <BA_Byzantium_Childhood_Noble_ImperialCourtierChild.titleShort>朝臣子弟</BA_Byzantium_Childhood_Noble_ImperialCourtierChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served an empress or noblewoman, learning poise and quiet cunning.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Noble_LadyInWaiting.description>[PAWN_nameDef]侍奉皇后或贵族夫人，习得仪态端庄与不动声色的聪慧。</BA_Byzantium_Childhood_Noble_LadyInWaiting.description>
+  <!-- EN: Lady-in-Waiting -->
+  <BA_Byzantium_Childhood_Noble_LadyInWaiting.title>侍女学徒</BA_Byzantium_Childhood_Noble_LadyInWaiting.title>
+  <!-- EN: Attendant -->
+  <BA_Byzantium_Childhood_Noble_LadyInWaiting.titleShort>侍女</BA_Byzantium_Childhood_Noble_LadyInWaiting.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] inherited the polished arrogance of Constantinople’s oldest families, raised to command, not request.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Noble_PatricianChild.description>[PAWN_nameDef]继承了君士坦丁堡古老贵族家族的优雅傲慢，自幼被教导要发号施令，而非乞求请求。</BA_Byzantium_Childhood_Noble_PatricianChild.description>
+  <!-- EN: Patrician’s Child -->
+  <BA_Byzantium_Childhood_Noble_PatricianChild.title>贵族世家之子</BA_Byzantium_Childhood_Noble_PatricianChild.title>
+  <!-- EN: Patrician -->
+  <BA_Byzantium_Childhood_Noble_PatricianChild.titleShort>贵族子弟</BA_Byzantium_Childhood_Noble_PatricianChild.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was taken in by an empress, learning intrigue from whispers behind golden veils.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Ruler_EmpressWard.description>[PAWN_nameDef]被皇后收养，从金色帷幕后的窃窃私语中习得权谋之道。</BA_Byzantium_Childhood_Ruler_EmpressWard.description>
+  <!-- EN: Empress’s Ward -->
+  <BA_Byzantium_Childhood_Ruler_EmpressWard.title>皇后受监护人</BA_Byzantium_Childhood_Ruler_EmpressWard.title>
+  <!-- EN: Ward -->
+  <BA_Byzantium_Childhood_Ruler_EmpressWard.titleShort>受监护人</BA_Byzantium_Childhood_Ruler_EmpressWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived under the shadow of greater rulers, learning the cost of envy and power.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Ruler_ImperialNephew.description>[PAWN_nameDef]在权势更高的统治者阴影下成长，深刻体会到嫉妒与权力的代价。</BA_Byzantium_Childhood_Ruler_ImperialNephew.description>
+  <!-- EN: Imperial Nephew -->
+  <BA_Byzantium_Childhood_Ruler_ImperialNephew.title>帝国皇侄</BA_Byzantium_Childhood_Ruler_ImperialNephew.title>
+  <!-- EN: Prince -->
+  <BA_Byzantium_Childhood_Ruler_ImperialNephew.titleShort>皇侄</BA_Byzantium_Childhood_Ruler_ImperialNephew.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised among eunuchs and tutors, taught to rule but never to trust.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Ruler_ImperialWard.description>[PAWN_nameDef]在宦官与导师的环绕下长大，被教导如何统治，却从未被教导如何信任。</BA_Byzantium_Childhood_Ruler_ImperialWard.description>
+  <!-- EN: Imperial Ward -->
+  <BA_Byzantium_Childhood_Ruler_ImperialWard.title>帝国受监护人</BA_Byzantium_Childhood_Ruler_ImperialWard.title>
+  <!-- EN: Ward -->
+  <BA_Byzantium_Childhood_Ruler_ImperialWard.titleShort>受监护人</BA_Byzantium_Childhood_Ruler_ImperialWard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born in the porphyry chamber of the imperial palace, marked by destiny and isolation alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Ruler_PurpleBorn.description>[PAWN_nameDef]诞生于帝国宫殿的紫斑岩密室，既被命运眷顾，也注定孤独。</BA_Byzantium_Childhood_Ruler_PurpleBorn.description>
+  <!-- EN: Born in the Purple -->
+  <BA_Byzantium_Childhood_Ruler_PurpleBorn.title>生于紫室者</BA_Byzantium_Childhood_Ruler_PurpleBorn.title>
+  <!-- EN: Porphyrogennetos -->
+  <BA_Byzantium_Childhood_Ruler_PurpleBorn.titleShort>紫室子嗣</BA_Byzantium_Childhood_Ruler_PurpleBorn.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carried icons and relics across regions, gaining reverence from priests and peasants alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Traveller_HolyMessenger.description>[PAWN_nameDef]跨区域运送圣像与圣物，赢得祭司与农民的共同敬仰。</BA_Byzantium_Childhood_Traveller_HolyMessenger.description>
+  <!-- EN: Holy Messenger -->
+  <BA_Byzantium_Childhood_Traveller_HolyMessenger.title>神圣信使</BA_Byzantium_Childhood_Traveller_HolyMessenger.title>
+  <!-- EN: Messenger -->
+  <BA_Byzantium_Childhood_Traveller_HolyMessenger.titleShort>信使</BA_Byzantium_Childhood_Traveller_HolyMessenger.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] delivered letters between monasteries, crossing forests and learning to trust silence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Traveller_MonasteryCourier.description>[PAWN_nameDef]在修道院之间传递信件，穿越森林的过程中，学会信任寂静。</BA_Byzantium_Childhood_Traveller_MonasteryCourier.description>
+  <!-- EN: Monastery Courier -->
+  <BA_Byzantium_Childhood_Traveller_MonasteryCourier.title>修道院信使</BA_Byzantium_Childhood_Traveller_MonasteryCourier.title>
+  <!-- EN: Courier -->
+  <BA_Byzantium_Childhood_Traveller_MonasteryCourier.titleShort>信使</BA_Byzantium_Childhood_Traveller_MonasteryCourier.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sang hymns in village chapels for bread, their voice becoming their only home.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: Byzantine Empire</color></i> -->
+  <BA_Byzantium_Childhood_Traveller_WanderingChanter.description>[PAWN_nameDef]在乡村小教堂吟唱圣歌换取面包，嗓音成为唯一的归宿。</BA_Byzantium_Childhood_Traveller_WanderingChanter.description>
+  <!-- EN: Wandering Chanter -->
+  <BA_Byzantium_Childhood_Traveller_WanderingChanter.title>流浪唱诗童</BA_Byzantium_Childhood_Traveller_WanderingChanter.title>
+  <!-- EN: Chanter -->
+  <BA_Byzantium_Childhood_Traveller_WanderingChanter.titleShort>唱诗童</BA_Byzantium_Childhood_Traveller_WanderingChanter.titleShort>
+  
+</LanguageData>

@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ===== Evolving Enemy Strongholds — UI 문자열 (한국어) ===== -->
+  <!-- 진단 로그(EESLog)는 개발용이라 번역하지 않음. -->
+
+  <!-- 정찰 탭 -->
+  <EES.Scout.TabLabel>정찰</EES.Scout.TabLabel>
+  <EES.Scout.NoData>(정보 없음)</EES.Scout.NoData>
+  <EES.Scout.NotScouted>(정찰 필요)</EES.Scout.NotScouted>
+  <EES.Scout.TierOnly>등급: T{0}  (그 외 정보는 정찰 필요)</EES.Scout.TierOnly>
+  <EES.Scout.NotScoutedDesc>이 거점의 전력·시설·방어 정보는 정찰해야 확인할 수 있습니다.\n\n상단을 보내 정찰하거나, 정찰 없이 공격하면 경계도가 상승합니다(직공 페널티).</EES.Scout.NotScoutedDesc>
+
+  <!-- 정찰 탭: 섹션 헤더 -->
+  <EES.Scout.TierRole>티어 {0}  ·  {1}</EES.Scout.TierRole>
+  <EES.Scout.TierHdr>티어 {0}</EES.Scout.TierHdr>
+  <EES.Scout.Hdr.Strength>전력</EES.Scout.Hdr.Strength>
+  <EES.Scout.Hdr.Defense>방어</EES.Scout.Hdr.Defense>
+  <EES.Scout.Hdr.Loot>예상 보상</EES.Scout.Hdr.Loot>
+  <EES.Scout.Hdr.Facilities>특이사항</EES.Scout.Hdr.Facilities>
+  <EES.Scout.Hdr.Scouted>정찰</EES.Scout.Hdr.Scouted>
+
+  <!-- 정찰 탭: 전력 -->
+  <EES.Scout.Mil>  군사력: {0}</EES.Scout.Mil>
+  <EES.Scout.Fort>  요새화: {0}</EES.Scout.Fort>
+  <EES.Scout.Supply>  보급: {0}</EES.Scout.Supply>
+  <EES.Scout.Alert>  경계도: {0}</EES.Scout.Alert>
+  <EES.Scout.DedicatedNote>이 전초기지는 외부 모드가 직접 생성합니다. EES는 병력·지휘관·경계도만 적용하며, 포탑·금고·방어시설은 해당 모드가 관리합니다.</EES.Scout.DedicatedNote>
+
+  <!-- 정찰 탭: 방어 -->
+  <EES.Scout.Turrets>  직사 포탑: 약 {0}기</EES.Scout.Turrets>
+  <EES.Scout.Mortars>  박격포: {0}기</EES.Scout.Mortars>
+  <EES.Scout.NoDefense>  방어 시설 없음</EES.Scout.NoDefense>
+
+  <!-- 정찰 탭: 보상 -->
+  <EES.Scout.VaultValueEst>  &lt;color=#FFD24A&gt;예상 금고 가치: 약 {0} 은&lt;/color&gt;</EES.Scout.VaultValueEst>
+  <EES.Scout.VaultValueExact>  &lt;color=#FFD24A&gt;확인된 금고 가치: {0} 은&lt;/color&gt;</EES.Scout.VaultValueExact>
+  <EES.Scout.Silver>  은: 약 {0}</EES.Scout.Silver>
+  <EES.Scout.Resources>  자원·부품: 금·플라스틸·부품 등 (티어·기술 비례)</EES.Scout.Resources>
+  <EES.Scout.RoleLoot>  역할별 전리품 추가</EES.Scout.RoleLoot>
+  <EES.Scout.LegendaryT7>  &lt;color=#FFD24A&gt;★전설/고유 무기 1 + 전설 방어구 1&lt;/color&gt;</EES.Scout.LegendaryT7>
+  <EES.Scout.LegendaryT6>  &lt;color=#FFD24A&gt;★전설 무기 · 고유 무기 · 전설 방어구 중 1개&lt;/color&gt;</EES.Scout.LegendaryT6>
+
+  <!-- 정찰 탭: 시설 -->
+  <EES.Scout.Fac.None>  (특수 시설 없음)</EES.Scout.Fac.None>
+  <EES.Scout.Fac.Comms>통신실 (파괴 시 증원 차단)</EES.Scout.Fac.Comms>
+  <EES.Scout.Fac.Ammo>탄약고</EES.Scout.Fac.Ammo>
+  <EES.Scout.Fac.Mortar>박격포 진지</EES.Scout.Fac.Mortar>
+  <EES.Scout.Fac.Prison>감옥 (포로 수감)</EES.Scout.Fac.Prison>
+  <EES.Scout.Fac.Commander>지휘관 주둔</EES.Scout.Fac.Commander>
+  <EES.Scout.Fac.Elite>정예병 주둔</EES.Scout.Fac.Elite>
+  <EES.Scout.Fac.Zone>{0} 경비대 주둔</EES.Scout.Fac.Zone>
+  <EES.Scout.Fac.Pursuer>추격대 편성</EES.Scout.Fac.Pursuer>
+  <EES.Scout.Fac.Herald>전령대 주둔</EES.Scout.Fac.Herald>
+  <EES.Scout.Fac.Disruptor>교란조 잠복</EES.Scout.Fac.Disruptor>
+  <EES.Scout.Fac.Assault>강습대 대기</EES.Scout.Fac.Assault>
+  <EES.Scout.Fac.Mechs>메카노이드 {0}기 주둔</EES.Scout.Fac.Mechs>
+  <EES.Role.CryoBarracks>동면 병영</EES.Role.CryoBarracks>
+  <EES.Scout.CryoSign>동면 장치 반응 감지 (규모 불명)</EES.Scout.CryoSign>
+  <EES_Letter_CryoWake>동면 병영 각성</EES_Letter_CryoWake>
+  <EES.Cryo.WakeText>{0}의 동면 예비 병력이 저온수면에서 깨어나 전투에 합류합니다!</EES.Cryo.WakeText>
+  <EES.Role.ArtilleryBase>포격 기지</EES.Role.ArtilleryBase>
+  <EES.Role.PsychicShrine>주술 제단</EES.Role.PsychicShrine>
+  <EES.Role.JammingStation>재밍 기지</EES.Role.JammingStation>
+  <EES.Scout.Fac.Artillery>장거리 포격 발신 중</EES.Scout.Fac.Artillery>
+  <EES.Scout.Fac.Shrine>정신 파동 발신 중</EES.Scout.Fac.Shrine>
+  <EES.Scout.Fac.Jamming>광역 재밍 발신 중</EES.Scout.Fac.Jamming>
+  <EES_Letter_ArtyWarn>포격 기지 경고</EES_Letter_ArtyWarn>
+  <EES.Arty.WarnText>포격 기지 발견: {0} ({1}).\n\n3일 후부터 정착지를 향한 장거리 포격이 시작됩니다. 거점을 파괴하거나 박격포를 전부 파괴하면 포격이 중단됩니다.</EES.Arty.WarnText>
+  <EES_Letter_ShrineWarn>주술 제단 경고</EES_Letter_ShrineWarn>
+  <EES.Shrine.WarnText>주술 제단 발견: {0} ({1}).
+
+3일 후부터 정착지에 정신 파동이 퍼지기 시작합니다. 제단을 파괴하면 즉시 멎습니다.</EES.Shrine.WarnText>
+  <EES_Letter_JamWarn>재밍 기지 경고</EES_Letter_JamWarn>
+  <EES.Jam.WarnText>재밍 기지 발견: {0} ({1}).
+
+3일 후부터 그 세력 거점 정찰이 어려워지고 통신 감청·정밀 타격이 막힙니다. 기지를 파괴하면 즉시 풀립니다.</EES.Jam.WarnText>
+  <EES_Letter_JamStart>재밍 개시</EES_Letter_JamStart>
+  <EES.Jam.StartText>{0}의 재밍 기지가 가동을 시작했습니다.
+
+그 세력 거점 정찰 성공률이 낮아지고, 통신 감청과 정밀 타격을 쓸 수 없습니다. 기지를 파괴하면 풀립니다.</EES.Jam.StartText>
+  <EES_Letter_ArtyVolley>포격 착탄</EES_Letter_ArtyVolley>
+  <EES.Arty.VolleyText>{0}에서 발사된 포탄이 정착지에 떨어지고 있습니다!</EES.Arty.VolleyText>
+  <EES.Arty.SilencedMsg>{0}: 박격포가 전부 파괴되어 포격이 영구히 중단되었습니다.</EES.Arty.SilencedMsg>
+  <EES_Letter_ShrineStart>주술 제단의 정신 파동</EES_Letter_ShrineStart>
+  <EES.Shrine.StartText>인근 주술 제단({0}, {1})이 정착지를 향해 지속 정신 파동을 퍼뜨리기 시작했습니다. 제단을 파괴하기 전까지 계속됩니다.</EES.Shrine.StartText>
+  <EES.Shrine.EndMsg>정신 파동이 멎었습니다.</EES.Shrine.EndMsg>
+  <EES.Jam.Blocked>적 재밍 기지가 통신을 방해하고 있습니다</EES.Jam.Blocked>
+  <EES.Set.Hdr.Emitters>위협 발신 거점</EES.Set.Hdr.Emitters>
+  <EES.Set.ThreatEmitters>위협 발신 거점 활성화 (고난이도)</EES.Set.ThreatEmitters>
+  <EES.Set.ThreatStartDay>위협 발신 거점 등장 시작일</EES.Set.ThreatStartDay>
+  <EES.Set.ThreatEmitters.Tip>포격 기지·주술 제단·재밍 기지의 등장과 효과를 켭니다. 끄면 신규 등장과 발신 효과가 모두 중단됩니다.</EES.Set.ThreatEmitters.Tip>
+  <EES.Set.EmitterSpawnDays>위협 발신 거점 스폰 주기</EES.Set.EmitterSpawnDays>
+  <EES.Set.ArtyVolleyDays>포격 간격</EES.Set.ArtyVolleyDays>
+  <EES.Set.ArtyVolleyDays.Tip>포격 기지가 정착지를 포격하는 간격(일)입니다.</EES.Set.ArtyVolleyDays.Tip>
+  <EES.Rebuild.DestLabel>파괴된 거점 부지</EES.Rebuild.DestLabel>
+  <EES_Letter_RebuildDepart>재건 호송대 출발</EES_Letter_RebuildDepart>
+  <EES.Rebuild.DepartText>{0} 세력이 파괴된 거점을 재건하기 위해 호송대를 보냈습니다.\n\n도착 전에 요격해 격파하면 그 부지의 재건이 영구히 취소됩니다. 방치하면 거점이 약화된 상태로 부활해 다시 성장합니다.</EES.Rebuild.DepartText>
+  <EES_Letter_RebuildDone>거점 재건됨</EES_Letter_RebuildDone>
+  <EES.Rebuild.DoneText>{0} 세력이 파괴된 부지에 거점({1})을 재건했습니다. 약화된 상태로 시작하지만 시간이 지나면 다시 성장합니다.</EES.Rebuild.DoneText>
+  <EES.Rebuild.CancelMsg>재건 호송대가 소멸해 그 부지의 재건이 영구히 취소되었습니다.</EES.Rebuild.CancelMsg>
+  <EES.Set.Hdr.Rebuild>재건 호송대</EES.Set.Hdr.Rebuild>
+  <EES.Set.Rebuild>재건 호송대 활성화</EES.Set.Rebuild>
+  <EES.Set.Rebuild.Tip>플레이어가 파괴한 거점을 그 세력이 호송대를 보내 재건합니다. 호송대를 요격해 격파하면 재건이 영구 취소됩니다.</EES.Set.Rebuild.Tip>
+  <EES.Set.RebuildDelay>재건 발차 지연</EES.Set.RebuildDelay>
+  <EES.Set.RebuildWD>World Domination과 함께 사용</EES.Set.RebuildWD>
+  <EES.Set.RebuildWD.Tip>World Domination 모드가 켜져 있으면 재건 호송대는 기본적으로 비활성화됩니다(WD의 폐허·재정착 시스템과 겹침 방지). 이 옵션을 켜면 함께 사용합니다.</EES.Set.RebuildWD.Tip>
+
+  <!-- 정찰 일자 -->
+  <EES.Scout.Date.Done>정찰 완료</EES.Scout.Date.Done>
+  <EES.Scout.Date.DaysAgo>{0}일 전</EES.Scout.Date.DaysAgo>
+  <EES.Scout.Date.Full>{0} ({1})</EES.Scout.Date.Full>
+
+  <!-- 경계도 텍스트 -->
+  <EES.Alert.None>없음</EES.Alert.None>
+  <EES.Alert.Low>낮음</EES.Alert.Low>
+  <EES.Alert.Medium>보통</EES.Alert.Medium>
+  <EES.Alert.High>높음</EES.Alert.High>
+
+  <!-- 역할 라벨 -->
+  <EES.Role.Generic>일반 거점</EES.Role.Generic>
+  <EES.Role.CommandFortress>지휘 요새</EES.Role.CommandFortress>
+  <EES.Role.MilitaryBase>군사 기지</EES.Role.MilitaryBase>
+  <EES.Role.Garrison>주둔지</EES.Role.Garrison>
+  <EES.Role.AmmoDepot>탄약 보급고</EES.Role.AmmoDepot>
+  <EES.Role.MortarBattery>박격포 진지</EES.Role.MortarBattery>
+  <EES.Role.PrisonCamp>포로 수용소</EES.Role.PrisonCamp>
+  <EES.Role.ResearchOutpost>연구 전초기지</EES.Role.ResearchOutpost>
+  <EES.Role.TreasureVault>보물 금고</EES.Role.TreasureVault>
+  <EES.Role.Outpost>전초기지</EES.Role.Outpost>
+  <EES.Role.SupplyDepot>보급창</EES.Role.SupplyDepot>
+  <EES.Role.TrainingCamp>훈련소</EES.Role.TrainingCamp>
+  <EES.Role.BlackMarketHub>암시장</EES.Role.BlackMarketHub>
+  <EES.Role.NobleEstate>귀족 영지</EES.Role.NobleEstate>
+  <EES.Role.MechanoidRelay>메카노이드 중계소</EES.Role.MechanoidRelay>
+  <EES.Role.InsectHive>곤충 군락</EES.Role.InsectHive>
+  <EES.Role.ThrumboRanch>트럼보 목장</EES.Role.ThrumboRanch>
+  <EES.Role.AlphaThrumboRanch>알파 트럼보 목장</EES.Role.AlphaThrumboRanch>
+  <EES.Role.PollutedOutpost>오염된 전초기지</EES.Role.PollutedOutpost>
+  <EES.Role.Battlefield>전장</EES.Role.Battlefield>
+  <EES.Role.Mine>광산</EES.Role.Mine>
+  <EES.Role.FakeOutpostInsect>가짜 전초기지(곤충)</EES.Role.FakeOutpostInsect>
+  <EES.Role.FakeOutpostMech>가짜 전초기지(메카노이드)</EES.Role.FakeOutpostMech>
+  <EES.Role.FakeOutpostEntity>가짜 전초기지(실체)</EES.Role.FakeOutpostEntity>
+
+  <!-- 상단 / 왕복선 정찰 액션 -->
+  <EES.Action.ScoutLabel>EES 정찰: {0}</EES.Action.ScoutLabel>
+  <EES.Common.SuccessChance>성공률 {0}</EES.Common.SuccessChance>
+  <EES.Action.ScoutLabelChance>EES 정찰: {0} (성공률 {1})</EES.Action.ScoutLabelChance>
+  <EES.Action.ScoutReport>EES 정찰 중: {0}</EES.Action.ScoutReport>
+  <EES.Gizmo.ScoutLabel>정찰</EES.Gizmo.ScoutLabel>
+  <EES.Gizmo.ScoutDescSuffix>\n\n상단으로 정찰 시도(성공률 {0}). 실패 시 발각 — 경계도 상승 + 관계 악화(-25).</EES.Gizmo.ScoutDescSuffix>
+  <EES.Scout.PartyWarn>정찰은 1명일 때 효율이 가장 높습니다. 인원이 많을수록 발각 위험이 커져 효율이 떨어집니다.\n\n이 인원의 성공률: {0}\n\n그래도 이 인원 그대로 정찰하시겠습니까?</EES.Scout.PartyWarn>
+  <EES.Scout.HopelessWarn>지금 연구 수준으로는 등급 T{0} 거점 정찰이 사실상 불가능합니다(성공률 {1}). 실패하면 발각되어 경계도가 오르고 관계가 악화됩니다(-25). 그래도 정찰하시겠습니까?</EES.Scout.HopelessWarn>
+  <EES.Debug.InstantScout>[God Mode] 즉시 정찰(순간이동)</EES.Debug.InstantScout>
+  <EES.Debug.InstantInfiltrate>[God Mode] 즉시 침투 성공(사보타주)</EES.Debug.InstantInfiltrate>
+
+  <!-- CanScoutNow 사유 -->
+  <EES.CanScout.Disabled>정찰 시스템 비활성</EES.CanScout.Disabled>
+  <EES.CanScout.NoData>데이터 없음</EES.CanScout.NoData>
+  <EES.CanScout.AlreadyScouted>이미 정찰 완료(정보 확보됨)</EES.CanScout.AlreadyScouted>
+  <EES.CanScout.Cooldown>정찰 재시도 쿨다운 {0}</EES.CanScout.Cooldown>
+  <EES.CanScout.Blind>정찰병이 앞을 볼 수 없음 (눈 효율 0%)</EES.CanScout.Blind>
+
+  <!-- 정찰 결과 메시지 -->
+  <EES.Msg.Success>[EES] 정찰 성공: {0} 정보 전체 확보</EES.Msg.Success>
+  <EES.Msg.Fail>[EES] 정찰 발각! {0} — 경계 강화 + 관계 악화. 정찰병 피해: {1}</EES.Msg.Fail>
+
+  <!-- 증원 / 통신실 (공성) -->
+  <EES.Reinf.Active>[EES] {0} 통신실 가동 중 — 약 {1}마다 증원이 옵니다. 통신실을 파괴하면 증원이 끊깁니다.</EES.Reinf.Active>
+  <EES.Reinf.Wave>[EES] 적 증원군 도착! ({0})</EES.Reinf.Wave>
+  <EES.Reinf.BlockedCmd>[EES] 지휘관 사망 — 적 증원 차단.</EES.Reinf.BlockedCmd>
+  <EES.Reinf.Countdown>증원 도착까지: {0}</EES.Reinf.Countdown>
+  <EES.Reinf.CountdownDesc>이 전초기지의 통신실이 증원을 호출하고 있습니다. 타이머가 끝나면 다음 증원군이 맵 가장자리로 진입합니다.
+
+통신실을 파괴하거나 지휘관을 처치하면 증원이 끊깁니다.</EES.Reinf.CountdownDesc>
+  <EES.Cmd.Killed>[EES] 적 지휘관 처치! 수비대의 사기가 무너집니다.</EES.Cmd.Killed>
+  <EES.Vault.Value>[EES] {0} 보상 금고 가치: 약 {1} 은(銀) 상당.</EES.Vault.Value>
+  <EES.Traps.Cleared>[EES] 거점 소탕 완료 — 숨겨진 적 함정 {0}개를 무력화했습니다. 안전하게 전리품을 회수하세요.</EES.Traps.Cleared>
+  <EES.Cmd.Resurrect>[EES] 광신 선동가가 쓰러진 수비대 {0}명을 부활시켰습니다!</EES.Cmd.Resurrect>
+  <EES.Cmd.Rally>[EES] 광신 선동가가 무력화된 수비대 {0}명을 다시 일으켜 세웁니다!</EES.Cmd.Rally>
+  <EES.Cmd.ResearchCore>[EES] 연구 책임자가 쓰러지며 기술검증 보조자아 핵을 떨어뜨립니다.</EES.Cmd.ResearchCore>
+
+  <!-- 정보 매수(Buy Intel) -->
+  <EES.BuyIntel.Label>정보 매수</EES.BuyIntel.Label>
+  <EES.BuyIntel.Desc>보유한 정보 자원을 1개 소모해 이 전초기지의 정보를 원격으로 입수합니다(폰 파견·위험 없음).\n\n대상 등급을 커버하는 정보 자원 중 가장 낮은 티어부터 사용됩니다.</EES.BuyIntel.Desc>
+  <EES.BuyIntel.Done>[EES] {0} 정보 입수 — {1} 소모.</EES.BuyIntel.Done>
+  <EES.BuyIntel.NoItem>이 등급(T{0})을 커버하는 정보 자원이 없습니다. 희귀품 상인에게서 구매하세요.</EES.BuyIntel.NoItem>
+  <EES.BuyIntel.TooHigh>이 등급은 정보 자원으로 매수할 수 없습니다(최대 T12).</EES.BuyIntel.TooHigh>
+
+  <!-- 침투(Infiltrate) -->
+  <EES.Action.InfiltrateLabel>EES 침투: {0}</EES.Action.InfiltrateLabel>
+  <EES.Action.InfiltrateLabelChance>EES 침투: {0} (성공률 {1})</EES.Action.InfiltrateLabelChance>
+  <EES.Action.InfiltrateReport>EES 침투 중: {0}</EES.Action.InfiltrateReport>
+  <EES.Gizmo.InfiltrateLabel>침투</EES.Gizmo.InfiltrateLabel>
+  <EES.Gizmo.InfiltrateDesc>침투조({1}명, 최대 3명)를 잠입시켜 적 포탑을 사보타주합니다(성공률 {0}).\n\n주효율=이동속도, 부효율=사격+격투(합 40 만점), 기여도 60:40. 인원이 많을수록 성공↑(2명 +5%, 3명 +15%). 4명 이상은 잠입할 수 없습니다.\n\n성공 시 경계도 대폭 감소 + 포탑 영구 무력화. 실패 시 참여 인원이 각자 개별 확률로 포로/사망하고 관계 악화(-25).\n\n※정찰이 선행된 거점만 침투할 수 있습니다.</EES.Gizmo.InfiltrateDesc>
+  <EES.Gizmo.InfiltrateDescLocked>침투조({0}명, 최대 3명)를 잠입시켜 적 포탑을 사보타주합니다.\n\n주효율=이동속도, 부효율=사격+격투(합 40 만점), 기여도 60:40. 인원이 많을수록 성공↑(2명 +5%, 3명 +15%). 4명 이상은 잠입할 수 없습니다.\n\n성공 시 경계도 대폭 감소 + 포탑 영구 무력화. 실패 시 참여 인원이 각자 개별 확률로 포로/사망하고 관계 악화(-25).\n\n※정찰이 선행된 거점만 침투할 수 있습니다. 성공률은 정찰을 마친 뒤에 표시됩니다.</EES.Gizmo.InfiltrateDescLocked>
+  <EES.Infil.Success>[EES] 침투 성공: {0} 포탑 {1}기 사보타주!</EES.Infil.Success>
+  <EES.Infil.FakeEmpty>[EES] {0}: 포탑 사보타주는 성공했으나 그곳에는 아무도 없습니다.</EES.Infil.FakeEmpty>
+  <EES.Infil.FailParty>[EES] 침투 발각! {0} — {1}. 관계 악화.</EES.Infil.FailParty>
+  <EES.Infil.FateLine>{0} {1}</EES.Infil.FateLine>
+  <EES.Infil.TooMany>침투조는 최대 {0}명입니다. 인원을 {0}명 이하로 줄여야 잠입할 수 있습니다.</EES.Infil.TooMany>
+  <EES.Infil.NeedScout>정찰이 선행되어야 침투할 수 있습니다.</EES.Infil.NeedScout>
+  <EES.Infil.DedicatedBase>외부 모드가 생성한 전초기지엔 사보타주할 포탑이 없어 침투할 수 없습니다.</EES.Infil.DedicatedBase>
+  <EES.Infil.NoAgent>침투할 첩보원(식민지원)이 캐러밴에 없습니다.</EES.Infil.NoAgent>
+  <EES.Infil.AlreadyDone>이미 침투에 성공한 거점입니다(재침투 불가).</EES.Infil.AlreadyDone>
+  <EES.Infil.TierTooHigh>이 등급(T13)은 침투할 수 없습니다.</EES.Infil.TierTooHigh>
+  <EES.Infil.Fate.Dead>사망</EES.Infil.Fate.Dead>
+  <EES.Infil.Fate.Captured>포로</EES.Infil.Fate.Captured>
+  <EES.Infil.Fate.Wounded>부상 후 탈출</EES.Infil.Fate.Wounded>
+  <EES.Infil.Fate.Escaped>무사 탈출</EES.Infil.Fate.Escaped>
+  <EES.Infil.Fate.Device>긴급 탈출(장치 소모)</EES.Infil.Fate.Device>
+  <EES.Scout.Sabotaged>  &lt;color=#FF7A4A&gt;└ 사보타주로 직사 포탑 {0}기 무력화 (위 직사 포탑 수에 반영됨)&lt;/color&gt;</EES.Scout.Sabotaged>
+  <EES.Scout.SabotagedMortar>  &lt;color=#FF7A4A&gt;└ 사보타주로 박격포 {0}기 무력화 (위 박격포 수에 반영됨)&lt;/color&gt;</EES.Scout.SabotagedMortar>
+  <EES.Intel.Sabotaged>침투 사보타주로 포탑 {0}기 무력화됨</EES.Intel.Sabotaged>
+
+  <!-- 통신 감청(Intercept Communications) -->
+  <EES.Intercept.MenuLabel>적 전초기지 통신 감청 시도</EES.Intercept.MenuLabel>
+  <EES.Intercept.NoPower>전력 없음</EES.Intercept.NoPower>
+  <EES.Intercept.Unreachable>도달 불가</EES.Intercept.Unreachable>
+  <EES.Intercept.BadTarget>EES 전초기지가 아닙니다(적/중립/동맹 전초기지를 선택).</EES.Intercept.BadTarget>
+  <EES.Intercept.Started>[EES] 통신 감청 시작: {0} (감청자: {1}). 약 4시간 후 결과가 나옵니다.</EES.Intercept.Started>
+  <EES.Intercept.Success>[EES] 통신 감청 성공: {0}의 정보를 모두 확보했습니다.</EES.Intercept.Success>
+  <EES_Letter_InterceptRaid>감청 발각 — 보복 습격</EES_Letter_InterceptRaid>
+  <EES.Intercept.RaidText>통신 감청이 발각되었습니다. {0}이(가) 분노하여 우리 정착지를 즉시 습격합니다.</EES.Intercept.RaidText>
+  <EES_Letter_InterceptMech>감청 발각 — 메카노이드 신호 우회</EES_Letter_InterceptMech>
+  <EES.Intercept.MechText>통신 감청이 발각되었습니다. {0}이(가) 포착한 메카노이드 신호를 우리 정착지로 우회시켰습니다 — 메카노이드가 강하합니다.</EES.Intercept.MechText>
+  <EES.Strike.MenuLabel>적 전초기지 정밀 타격 시도</EES.Strike.MenuLabel>
+  <EES.Strike.Started>[EES] 정밀 타격 시작: {0} (조작자: {1}). 약 4시간 후 결과가 나옵니다.</EES.Strike.Started>
+  <EES_Letter_StrikeFailed>정밀 타격 실패 — 전력망 강제 단락(파지직)</EES_Letter_StrikeFailed>
+  <EES.Strike.FailText>{0}에 대한 원격 정밀 타격이 실패했습니다. 적이 우리 전력망을 역해킹해 전선 {1}곳에 강제로 단락(파지직)을 일으켰습니다 — 매립 전선도 예외가 아닙니다.</EES.Strike.FailText>
+
+  <!-- 디버그 기즈모 (God Mode) -->
+  <EES.DebugGizmo.Role>EES 역할: {0}</EES.DebugGizmo.Role>
+  <EES.DebugGizmo.RoleDesc>[God Mode] 거점 역할을 직접 선택합니다(시설·테마 건물·전리품·지휘관 확률에 영향). 다음에 이 거점 맵에 진입할 때 반영됩니다.</EES.DebugGizmo.RoleDesc>
+
+  <!-- 지휘관 타입별 이름 (폰 별명 — 맵에 표시됨) -->
+  <EES.Cmd.Type.Commander>지휘관</EES.Cmd.Type.Commander>
+  <EES.Cmd.Type.Marksman>사격 장교</EES.Cmd.Type.Marksman>
+  <EES.Cmd.Type.Comms>통신 장교</EES.Cmd.Type.Comms>
+  <EES.Cmd.Type.Defense>방어 장교</EES.Cmd.Type.Defense>
+  <EES.Cmd.Type.Fanatic>광신 선동가</EES.Cmd.Type.Fanatic>
+  <EES.Cmd.Type.Security>보안 책임자</EES.Cmd.Type.Security>
+  <EES.Cmd.Type.Assault>돌격대장</EES.Cmd.Type.Assault>
+  <EES.Cmd.Type.Engineer>공병 지휘관</EES.Cmd.Type.Engineer>
+  <EES.Cmd.Type.Research>연구 책임자</EES.Cmd.Type.Research>
+  <EES.Cmd.Type.Warlord>전쟁군주</EES.Cmd.Type.Warlord>
+  <EES.Cmd.Type.Observer>관측 장교</EES.Cmd.Type.Observer>
+  <EES.Power.Cut>[EES] 발전기가 파괴되었습니다 — 전초기지의 전력 포탑이 정지합니다.</EES.Power.Cut>
+  <EES.Prisoner.Held>정찰 포로 {0}명 억류 중 — 이 전초기지를 공격해 구출하세요.</EES.Prisoner.Held>
+
+  <EES.Emitter.Inspect>{0} — 파괴하기 전까지 우리 정착지에 위협을 계속 보냅니다.</EES.Emitter.Inspect>
+  <EES.Emitter.AlertLabel>위협 발신 거점 {0}곳</EES.Emitter.AlertLabel>
+  <EES.Emitter.AlertEntry>{0} — {1} (소유: {2})</EES.Emitter.AlertEntry>
+  <EES.Emitter.AlertDesc>이 거점들은 파괴하기 전까지 우리 정착지에 지속 위협을 보냅니다. 항목을 누르면 해당 거점으로 이동합니다.
+
+소유 세력은 전쟁이나 정복으로 바뀔 수 있습니다. 처음 알림에 적힌 세력과 다르면, 여기 표시된 세력이 현재 주인입니다.</EES.Emitter.AlertDesc>
+
+  <!-- 몸값 협상 (통신기 세력 대화) -->
+  <EES.Ransom.Option>억류된 대원 몸값 협상 ({0}명)</EES.Ransom.Option>
+  <EES.Ransom.Intro>그쪽 사람들을 데리고 있지. 값만 치른다면 돌려보내주겠다.</EES.Ransom.Intro>
+  <EES.Ransom.Entry>{0} ({1} 억류) — 몸값 은화 {2}</EES.Ransom.Entry>
+  <EES.Ransom.Paid>몸값 은화 {1}을 지불했습니다. {0}이(가) 돌아옵니다.</EES.Ransom.Paid>
+
+  <!-- 보급 상단 -->
+  <EES.Set.Hdr.Supply>보급 상단</EES.Set.Hdr.Supply>
+  <EES.Set.Supply>보급 상단 등장</EES.Set.Supply>
+  <EES.Set.Supply.Tip>적대 세력 거점으로 향하는 보급 상단이 주변에 주기적으로 나타납니다. 요격하면 화물을 얻고 목적지 거점이 일시 약화됩니다.</EES.Set.Supply.Tip>
+  <EES.Set.SupplyDays>등장 판정 주기</EES.Set.SupplyDays>
+  <EES.Set.SupplyMax>동시 존재 상한</EES.Set.SupplyMax>
+  <EES.Set.SupplyLetter>보급 상단 감지 알림</EES.Set.SupplyLetter>
+  <EES.Set.SupplyLetter.Tip>보급 상단이 월드에 나타나면 알림 레터를 띄웁니다. 끄면 알림 없이 등장하므로 월드맵에서 직접 발견해야 합니다. 기본값: 켜짐.</EES.Set.SupplyLetter.Tip>
+  <EES.Supply.Inspect.Dest>목적지: {0} — 도착까지 약 {1}</EES.Supply.Inspect.Dest>
+  <EES.Supply.Inspect.Escort>호위 규모 추정: 약 {0}명</EES.Supply.Inspect.Escort>
+  <EES.Supply.Intercept>보급 상단 요격</EES.Supply.Intercept>
+  <EES.Supply.Intercept.No>요격 불가 — 도착 전에 따라잡을 수 없음</EES.Supply.Intercept.No>
+  <EES.Supply.Intercept.Now>지금 교전</EES.Supply.Intercept.Now>
+  <EES.Supply.Intercept.Wait>매복 완료 — 상단 도착을 기다립니다</EES.Supply.Intercept.Wait>
+  <EES.Supply.Intercept.Cancel>요격 취소</EES.Supply.Intercept.Cancel>
+  <EES.Supply.Intercept.Canceled>요격이 취소되었습니다 — 보급 상단이 지나가도 교전하지 않습니다.</EES.Supply.Intercept.Canceled>
+  <EES.Supply.Intercept.WorldWarAlly>세계대전에서 같은 진영 — 요격할 수 없음</EES.Supply.Intercept.WorldWarAlly>
+  <EES.Supply.Intercept.WorldWarNeutral>세계대전 중립국 — 다른 세력의 보급 상단을 요격할 수 없음</EES.Supply.Intercept.WorldWarNeutral>
+  <EES.Supply.Intercept.Overlap>거점과 겹쳐 있음 — 벗어난 뒤 요격 가능</EES.Supply.Intercept.Overlap>  <EES.Supply.Intercept.Ordered>요격 지점으로 이동합니다 — 보급 상단을 차단합니다.</EES.Supply.Intercept.Ordered>
+  <EES_Letter_SupplyCaravan>보급 상단 감지</EES_Letter_SupplyCaravan>
+  <EES.Supply.Letter.Text>{0} 세력의 보급 상단이 {1}(으)로 향하고 있습니다. 도착 전에 요격하면 화물을 노획하고 목적지 거점을 일시적으로 약화시킬 수 있습니다.</EES.Supply.Letter.Text>
+  <EES_Letter_SupplyInvaded>보급 상단 진입!</EES_Letter_SupplyInvaded>
+  <EES.Supply.Invaded.Text>적 보급 상단이 아군 지역에 들어섰습니다. 호위대를 전멸시키면 화물을 노획하고 목적지 거점이 약화됩니다.</EES.Supply.Invaded.Text>
+  <EES_Letter_SupplyEngaged>보급 상단 요격</EES_Letter_SupplyEngaged>
+  <EES.Supply.Engaged.Text>보급 상단을 따라잡았습니다. 호위대가 화물을 지키고 있습니다.</EES.Supply.Engaged.Text>
+  <EES.Supply.Arrived>보급 상단이 {0}에 도착했습니다.</EES.Supply.Arrived>
+  <EES.Supply.Missed>보급 상단을 놓쳤습니다 — 요격이 해제되었습니다.</EES.Supply.Missed>
+  <EES.Supply.Cut>{0}의 보급이 차단되었습니다 — 당분간 방어가 약화됩니다.</EES.Supply.Cut>
+  <EES.Supply.CutInspect>보급 차단됨 — {0} 남음</EES.Supply.CutInspect>
+  <EES.Scout.SupplyCut>보급 차단 — 직사 포탑 -{0}·박격포 -{1} 반영됨 ({2} 남음)</EES.Scout.SupplyCut>
+
+  <!-- 사상자 요약 -->
+  <EES.Casualty.NoCaravan>없음(상단 불명)</EES.Casualty.NoCaravan>
+  <EES.Casualty.AllEscaped>전원 무사 탈출</EES.Casualty.AllEscaped>
+  <EES.Casualty.Summary>부상 {0} / 포로 {1} / 사망 {2}</EES.Casualty.Summary>
+  <EES.Casualty.DeviceNote> (긴급 탈출 장치 {0}개 사용)</EES.Casualty.DeviceNote>
+
+  <!-- IntelReport (상단 기즈모 설명) -->
+  <EES.Intel.Faction>세력: {0} ({1})</EES.Intel.Faction>
+  <EES.Intel.TierOnly>등급: T{0} (그 외 정보는 미정찰)</EES.Intel.TierOnly>
+  <EES.Intel.NotScouted>정보: 미정찰 (정찰 시 전체 정보 공개)</EES.Intel.NotScouted>
+  <EES.Intel.ScoutedHeader>── 정찰 완료 ──</EES.Intel.ScoutedHeader>
+  <EES.Intel.TierRole>등급: T{0} / 역할: {1}</EES.Intel.TierRole>
+  <EES.Intel.PawnsAlert>예상 병력: {0} / 경계도: {1}</EES.Intel.PawnsAlert>
+  <EES.Intel.Defense>방어: 요새화 {0}/100 / 보급 {1}</EES.Intel.Defense>
+  <EES.Intel.Commander>지휘관: {0} / 전리품: {1}</EES.Intel.Commander>
+  <EES.Intel.Military>군사력: {0}</EES.Intel.Military>
+  <EES.Intel.PawnRange>{0}~{1}명</EES.Intel.PawnRange>
+  <EES.Common.Yes>있음</EES.Common.Yes>
+  <EES.Common.No>없음</EES.Common.No>
+  <EES.Common.Unknown>?</EES.Common.Unknown>
+  <EES.Common.Generic>일반</EES.Common.Generic>
+
+  <!-- 모드 설정 창 -->
+  <EES.Set.Hdr.Basic>── 기본 (티어·성장) ──</EES.Set.Hdr.Basic>
+  <EES.Set.MaxTier>최대 티어</EES.Set.MaxTier>
+  <EES.Set.Growth>성장 속도</EES.Set.Growth>
+  <EES.Set.LootValue>전리품·금고 가치</EES.Set.LootValue>
+  <EES.Set.LegendaryTier>전설 장비 등장 티어</EES.Set.LegendaryTier>
+  <EES.Set.Hdr.Turret>── 포탑 / 특수시설 ──</EES.Set.Hdr.Turret>
+  <EES.Set.TurretDensity>포탑 밀도</EES.Set.TurretDensity>
+  <EES.Set.Hdr.Combat>── 병력 / 전투 포인트 ──</EES.Set.Hdr.Combat>
+  <EES.Set.MilMul>거점 병력 규모</EES.Set.MilMul>
+  <EES.Set.MilPerTier>티어당 전투 포인트</EES.Set.MilPerTier>
+  <EES.Set.AlertMil>경보당 전투 포인트 증가</EES.Set.AlertMil>
+  <EES.Set.PerAlert>경보 단계</EES.Set.PerAlert>
+  <EES.Set.Facility>특수시설 출현 확률</EES.Set.Facility>
+  <EES.Set.Hdr.Scout>── 정찰 / 침투 / 감청 ──</EES.Set.Hdr.Scout>
+  <EES.Set.ScoutSuccess>정찰 성공률</EES.Set.ScoutSuccess>
+  <EES.Set.InfiltrateSuccess>침투 성공률</EES.Set.InfiltrateSuccess>
+  <EES.Set.Sabotage>침투 사보타주량</EES.Set.Sabotage>
+  <EES.Set.PreventDeath>사망 방지 (정찰·침투)</EES.Set.PreventDeath>
+  <EES.Set.PreventDeath.Tip>켜면 정찰·침투 실패 시 정찰병이 절대 사망하지 않습니다(사망 확률 0%). 사망 확률은 포로·부상·탈출로 흡수됩니다(포로는 여전히 발생 가능). 켜져 있는 동안에는 상인이 "긴급 탈출 장치"를 판매하지 않습니다. 기본값: 꺼짐.</EES.Set.PreventDeath.Tip>
+  <EES.Set.ScoutUnlockHigh>고등급 정찰 잠금 해제</EES.Set.ScoutUnlockHigh>
+  <EES.Set.ScoutUnlockHigh.Tip>켜면 T8 이상 고등급 거점의 정찰 진입 장벽이 사라집니다. 연구를 하나도 하지 않아도 성공률이 0%가 되지 않습니다(최소 6%). 정찰·감청·정밀 타격에 함께 적용됩니다. 실패 시 발각률은 달라지지 않으며, T7 이하와 후반 성공률도 그대로입니다. 기본값: 꺼짐.</EES.Set.ScoutUnlockHigh.Tip>
+  <EES.Set.InterceptCd>통신 감청 쿨다운</EES.Set.InterceptCd>
+  <EES.Set.InterceptMech>감청 실패 메카노이드 우회 확률(T9+)</EES.Set.InterceptMech>
+  <EES.Set.Days>일</EES.Set.Days>
+  <EES.Set.Hours>시간</EES.Set.Hours>
+  <EES.Set.Hdr.Ambush>── 매복 (미정찰 직공) ──</EES.Set.Hdr.Ambush>
+  <EES.Set.AmbushSize>매복 규모(거점 전력 대비)</EES.Set.AmbushSize>
+  <EES.Set.AmbushMax>매복 규모 상한</EES.Set.AmbushMax>
+  <EES.Set.AmbushAlert>매복 경보 스케일링</EES.Set.AmbushAlert>
+  <EES.Set.Hdr.Reinforce>── 증원 ──</EES.Set.Hdr.Reinforce>
+  <EES.Set.ReinInterval>증원 주기</EES.Set.ReinInterval>
+  <EES.Set.ReinSize>증원 규모(거점 전력 대비)</EES.Set.ReinSize>
+  <EES.Set.Hdr.Toggles>── 기능 On/Off ──</EES.Set.Hdr.Toggles>
+  <EES.Set.WDTierSync>World Domination 거점을 EES로 생성</EES.Set.WDTierSync>
+  <EES.WD.InspectTier>EES 등급: T{0} (WD 전력 {1})</EES.WD.InspectTier>
+  <EES.Set.WDTierSync.Tip>World Domination을 함께 쓸 때, WD 거점의 전초기지 생성과 티어를 EES가 가져갑니다. WD의 KCSG 기지 대신 EES 기지가 생성되고, 티어는 그 거점의 WD 발전도(strength)를 EES 티어(T1~13, 세력 시대 한도 내)로 환산해 표시합니다. World Domination의 월드 시뮬(전쟁·확장·습격)은 그대로 작동합니다. 끄면 WD 원본 기지·티어를 그대로 둡니다. 기본값: 켜짐.</EES.Set.WDTierSync.Tip>
+  <EES.Set.TierAmmo>CE 티어별 탄종 차등(라이플·포탑)</EES.Set.TierAmmo>
+  <EES.Set.TierAmmo.Tip>CE 연동이 켜져 있을 때, 수비 병력의 라이플과 CE 포탑에 장전되는 탄종을 거점 티어에 따라 차등 지급합니다. 저티어는 FMJ·HP 위주이고 티어가 오를수록 AP → 소이탄 → 고폭탄 비중이 커집니다. 권총·기관단총·런처 등은 CE 기본 지급을 유지합니다. 기본값: 켜짐.</EES.Set.TierAmmo.Tip>
+  <EES.Set.WealthScale>플레이어 부(富) 연동</EES.Set.WealthScale>
+  <EES.Set.WealthScale.Tip>켜면 정착지 자산이 거점 성장 진행도에 소폭 가산됩니다(자산이 많을수록 거점이 조금 더 빨리 성장). 성장의 중심은 어디까지나 연구 단계이며 자산은 보조 가속입니다. 끄면 자산을 전혀 반영하지 않습니다. 기본값: 켜짐.</EES.Set.WealthScale.Tip>
+  <EES.Set.ResearchScale>플레이어 연구 연동</EES.Set.ResearchScale>
+  <EES.Set.ResearchScale.Tip>켜면 플레이어의 연구 단계(전기·기계공학·정밀제작 등 시대 관문 도달)가 거점 성장 진행도의 중심축이 됩니다. 끄면 연구를 반영하지 않아 거점이 경과일·자산만으로 매우 느리게 성장하고, 정찰 성공률 산정도 경과일만 사용합니다. 기본값: 켜짐.</EES.Set.ResearchScale.Tip>
+  <EES.Set.AllowMortars>박격포 허용</EES.Set.AllowMortars>
+  <EES.Set.AllowMortars.Tip>끄면 거점에 박격포가 배치되지 않습니다(박격포 진지 시설을 보유해도 0문). 정찰 탭·정찰 보고의 추정치도 동일하게 0으로 표시됩니다. 켜면 박격포 진지를 보유한 거점(T6+)에 티어별 수량이 배치됩니다. 기본값: 켜짐.</EES.Set.AllowMortars.Tip>
+  <EES.Set.AlertSystem>경계도 시스템</EES.Set.AlertSystem>
+  <EES.Set.AlertSystem.Tip>거점별 경계도(0~5)를 관리합니다. 거점을 공격하면 경계도가 오르고 같은 세력의 인접 거점으로 전파되며, 시간이 지나면 자연 감소합니다. 경계도가 높을수록 병력·매복 규모가 커집니다(바로 아래 "경보당 전투 포인트 증가" 배율). 끄면 경계도가 더 이상 오르지 않습니다. 기본값: 켜짐.</EES.Set.AlertSystem.Tip>
+  <EES.Set.Scouting>정찰</EES.Set.Scouting>
+  <EES.Set.Scouting.Tip>정찰·침투·통신 감청 시스템 전체를 켜고 끕니다. 끄면 거점 정찰/침투 명령이 사라지고, 미정찰 거점을 공격할 때의 매복 페널티도 발동하지 않습니다. 기본값: 켜짐.</EES.Set.Scouting.Tip>
+  <EES.Set.Reinforcements>증원</EES.Set.Reinforcements>
+  <EES.Set.Reinforcements.Tip>거점을 공격하는 동안 통신실과 지휘관이 살아 있으면 주기적으로 외부 증원이 도착합니다(주기·규모는 아래 슬라이더). 통신실 파괴 또는 지휘관 처치로 끊을 수 있습니다. 끄면 증원이 오지 않습니다. 기본값: 켜짐.</EES.Set.Reinforcements.Tip>
+  <EES.Set.Commanders>지휘관</EES.Set.Commanders>
+  <EES.Set.Commanders.Tip>고티어 거점에 지휘관이 배치됩니다(타입 10종 — 수비대 강화 오라·전용 장비, 살아 있는 동안 증원 유지 등). 끄면 지휘관이 생성되지 않습니다. 기본값: 켜짐.</EES.Set.Commanders.Tip>
+  <EES.Set.DisableBattlefield>전장(4파전) 비활성화</EES.Set.DisableBattlefield>
+  <EES.Set.DisableBattlefield.Tip>켜면 전장(Battlefield) 전초기지가 더 이상 등장하지 않습니다. 전장은 다세력 4파전 지속 레이드라 성능 부하가 큽니다. 기본값=꺼짐(전장 등장).</EES.Set.DisableBattlefield.Tip>
+  <EES.Set.CEIntegration>CE 연동(CE 활성 시)</EES.Set.CEIntegration>
+  <EES.Set.CEIntegration.Tip>Combat Extended 사용 시 EES의 CE 연동 전체를 켜고 끕니다 — 수비 병력 탄약 지급 보장, 기관총 사수 편성, CE 포탑 탄창 충전·사수형 예비탄 배치, 탄약고 CE 전리품, 고티어 CE 강화벽/강화문 등. CE가 없으면 이 설정과 무관하게 자동으로 꺼집니다. 기본값: 켜짐.</EES.Set.CEIntegration.Tip>
+  <EES.Set.DebugLog>[개발] 상세 로그</EES.Set.DebugLog>
+  <EES.Set.DebugLog.Tip>개발·문제 진단용 상세 로그를 게임 로그에 출력합니다. 버그 제보 시에만 켜세요. 기본값: 꺼짐.</EES.Set.DebugLog.Tip>
+  <EES.Set.Tab.Values>수치 설정</EES.Set.Tab.Values>
+  <EES.Set.Tab.Blacklist>세력 블랙리스트</EES.Set.Tab.Blacklist>
+  <EES.Set.Blacklist.Desc>체크한 세력에는 EES 시스템(티어·정찰/침투·지휘관·경계도·매복·전리품·기지생성)이 적용되지 않습니다. 정착지를 세우는 세력만 표시됩니다.</EES.Set.Blacklist.Desc>
+  <EES.Set.Reset>기본값</EES.Set.Reset>
+  <EES.Set.Tab.TurretBL>포탑 블랙리스트</EES.Set.Tab.TurretBL>
+  <EES.Set.TurretBL.RaceHdr>모드 종족 연계 포탑 (세력별)</EES.Set.TurretBL.RaceHdr>
+  <EES.Set.TurretBL.RaceDesc>체크한 포탑은 해당 세력 기지에 배치되지 않습니다. 한 세력의 포탑을 모두 체크하면 그 세력은 바닐라 포탑으로 대체됩니다.</EES.Set.TurretBL.RaceDesc>
+  <EES.Set.TurretBL.ModHdr>모드 추가 포탑</EES.Set.TurretBL.ModHdr>
+  <EES.Set.TurretBL.ModDesc>체크한 포탑은 어떤 기지에도 배치되지 않습니다. 바닐라 포탑은 영향을 받지 않습니다.</EES.Set.TurretBL.ModDesc>
+  <EES.Set.TurretBL.None>(해당하는 모드 포탑 없음)</EES.Set.TurretBL.None>
+
+  <EES.Observer.Target>관측 장교가 {0}을(를) 표적으로 지정했다.</EES.Observer.Target>
+  <EES.Observer.Countdown>다음 표적 지정까지: {0}</EES.Observer.Countdown>
+  <EES.Observer.CountdownDesc>관측 장교가 주기적으로 우리 일행 중 한 명을 표적으로 지정합니다. 표적은 사수를 제외한 모든 적의 집중 공격을 받습니다. 지휘관(관측 장교)을 처치하면 멈춥니다.</EES.Observer.CountdownDesc>
+  <EES.Observer.CountdownDescTarget>관측 장교가 {0}을(를) 표적으로 지정했습니다. 사수를 제외한 모든 적이 집중 공격합니다. 지휘관(관측 장교)을 처치하면 멈춥니다.</EES.Observer.CountdownDescTarget>
+  <EES.Battlefield.Countdown>다음 전장 증원까지: {0}</EES.Battlefield.Countdown>
+  <EES.Battlefield.CountdownDesc>곧 증원 도착: {0}. 4파전 — 전초기지·적대 세력·제3세력·플레이어가 뒤섞여 싸웁니다.</EES.Battlefield.CountdownDesc>
+  <EES.Battlefield.Wave.C>적대 세력 (전초기지 공격)</EES.Battlefield.Wave.C>
+  <EES.Battlefield.Wave.D>제3세력 (외벽 포위·미진입)</EES.Battlefield.Wave.D>
+  <EES.Battlefield.Wave.B>전초기지 지원 (중앙 강하)</EES.Battlefield.Wave.B>
+  <EES.Group.PursuerAssault>{0}의 추격대가 추격을 개시합니다!</EES.Group.PursuerAssault>
+  <EES.Group.ZoneRelease>{0}의 경비대가 거점을 떠나 추격에 나섭니다!</EES.Group.ZoneRelease>
+  <EES.Group.PursuerAssaultAlly>{0}의 추격대가 침입자 추격에 나섭니다!</EES.Group.PursuerAssaultAlly>
+  <EES.Group.ZoneReleaseAlly>{0}의 경비대가 거점을 떠나 침입자 추격에 나섭니다!</EES.Group.ZoneReleaseAlly>
+  <EES.Group.HeraldRetreat>{0}의 전령대가 정보를 가지고 후퇴했습니다. (경계도 상승)</EES.Group.HeraldRetreat>
+  <EES.Group.HeraldKilled>{0}의 전령대를 전멸시켜 정보 유출을 막았습니다.</EES.Group.HeraldKilled>
+  <EES.Group.HeraldRetreatAttempt>{0}의 전령대가 퇴각을 시도합니다!</EES.Group.HeraldRetreatAttempt>
+  <EES.Group.HeraldDrop>{0}의 전령대가 정보를 전달해 증원군이 기지 중앙에 강하했습니다! ({1}명)</EES.Group.HeraldDrop>
+  <EES.Group.GroupFlee>{0}의 일부 병력이 사기 저하로 후퇴합니다.</EES.Group.GroupFlee>
+  <EES.Assault.SettlementWarning>적들이 당신의 정착지 위치를 파악했습니다. 곧 강습이 예정되오니 대비하세요.</EES.Assault.SettlementWarning>
+  <EES.Assault.WalkInLate>강습을 시도했으나 실패한 것으로 보입니다. 강습대가 뒤늦게 당신을 쫓습니다.</EES.Assault.WalkInLate>
+
+  <!-- 역정찰 + HVT 현상금 (2026-07-03) -->
+  <EES.Set.Hdr.CScout>역정찰</EES.Set.Hdr.CScout>
+  <EES.Set.CScout>역정찰 (적 정찰대)</EES.Set.CScout>
+  <EES.Set.CScout.Tip>고티어(T6+) 적대 거점이 정착지로 은신 정찰병을 보냅니다. 놓치면 표적 습격, 생포하면 심문으로 그 거점의 정찰 정보를 얻습니다.</EES.Set.CScout.Tip>
+  <EES.Set.CScoutDays>파견 판정 주기</EES.Set.CScoutDays>
+  <EES.Set.Hdr.HVT>현상금</EES.Set.Hdr.HVT>
+  <EES.Set.HVT>지휘관 현상금 퀘스트</EES.Set.HVT>
+  <EES.Set.HVT.Tip>적대 거점의 지휘관에게 제3세력이 현상금을 겁니다. 기한 내 지휘관 처치 또는 거점 파괴 시 보상(3택 1).</EES.Set.HVT.Tip>
+  <EES.Set.HVTDays>발주 판정 주기</EES.Set.HVTDays>
+  <EES_Letter_CounterScoutArrived>적 정찰대 잠입</EES_Letter_CounterScoutArrived>
+  <EES.CScout.Arrived.Text>{0} 소속 정찰대가 잠입해 맵 {1} 외곽 어딘가에 자리를 잡았습니다. 은신 중이라 정확한 위치는 알 수 없습니다 — 가까이 다가가면 모습이 드러납니다.\n\n정찰대는 자리를 옮기지 않고 하루가량 관측한 뒤 빠져나갑니다. 그 전에 {1} 외곽을 수색해 처치하거나 생포하십시오. 살아서 빠져나가면 정착지 정보가 적의 손에 넘어갑니다.</EES.CScout.Arrived.Text>
+  <EES.Dir.N>북쪽</EES.Dir.N>
+  <EES.Dir.NE>북동쪽</EES.Dir.NE>
+  <EES.Dir.E>동쪽</EES.Dir.E>
+  <EES.Dir.SE>남동쪽</EES.Dir.SE>
+  <EES.Dir.S>남쪽</EES.Dir.S>
+  <EES.Dir.SW>남서쪽</EES.Dir.SW>
+  <EES.Dir.W>서쪽</EES.Dir.W>
+  <EES.Dir.NW>북서쪽</EES.Dir.NW>
+  <EES.CScout.Revealed>{0}이(가) 은신한 적 정찰병을 발견했습니다! 정찰병이 도주를 시도합니다.</EES.CScout.Revealed>
+  <EES.CScout.Captured>정찰병 {0} 심문: {1}의 내부 정보를 알아냈습니다. (정찰 정보 +1)</EES.CScout.Captured>
+  <EES.CScout.CapturedNoIntel>정찰병 {0}을(를) 생포했지만 출신 거점 정보는 알아내지 못했습니다.</EES.CScout.CapturedNoIntel>
+  <EES_Letter_CounterScoutEscaped>정찰대 이탈</EES_Letter_CounterScoutEscaped>
+  <EES.CScout.Escaped.Text>{0} 정찰대가 정착지 정보를 가지고 빠져나갔습니다.\n\n조만간 이 정보를 바탕으로 한 표적 습격이 예상됩니다.</EES.CScout.Escaped.Text>
+  <EES_Letter_CounterScoutRaid>표적 습격</EES_Letter_CounterScoutRaid>
+  <EES.CScout.Raid.Text>{0}이(가) 정찰로 확보한 정착지 정보를 바탕으로 습격해 왔습니다. 평소보다 강력한 병력입니다.</EES.CScout.Raid.Text>
+  <EES.HVT.Name>현상금: {0}의 지휘관</EES.HVT.Name>
+  <EES.HVT.Desc>{0}이(가) 적대 관계인 {1} 소속 지휘관({2})이 이끄는 거점에 현상금을 걸었습니다.\n\n표적 거점 티어: {3}\n{4}\n\n수락하면 발주자가 본거지 인근에 위치한 표적 전초기지의 좌표를 전달합니다. 그 전초기지를 파괴하면 완수로 인정되어 보상이 드랍포드로 도착합니다. 수락 후 15일 이내에 완수해야 합니다.</EES.HVT.Desc>
+  <EES.HVT.DirtyWarn>\n\n경고: {0}은(는) 현재 우리와 적대 관계가 아닙니다. 이 의뢰를 수행하면 {0}과(와)의 관계가 파탄 나 적대로 전환됩니다. 그 대가로 현상금이 크게 할증되어 있습니다.</EES.HVT.DirtyWarn>
+  <EES.HVT.GoodwillBonus>\n\n완수하면 {0}이(가) 감사의 표시로 우호도를 {1} 올려줍니다.</EES.HVT.GoodwillBonus>
+  <EES.HVT.TruceNotice>\n\n발주자 {0}은(는) 우리와 영구 적대 관계입니다 — 우호도 대신, 완수하면 {1}일 동안 {0}의 습격이 중단됩니다. (다시 완수해도 기간은 누적되지 않고 갱신됩니다)</EES.HVT.TruceNotice>
+  <EES.HVT.TruceStart>{0}이(가) 약속대로 {1}일 동안 습격을 중단합니다.</EES.HVT.TruceStart>
+  <EES_Letter_HVTReward>현상금 지급</EES_Letter_HVTReward>
+  <EES.HVT.RewardLetter.Text>{0}이(가) 약속한 현상금을 보냈습니다.</EES.HVT.RewardLetter.Text>
+  <EES.HVT.Variant.Scouted>발주자가 사전 정찰을 마쳤습니다 — 거점 정보가 공개된 상태로 시작합니다.</EES.HVT.Variant.Scouted>
+  <EES.HVT.Variant.Insider>내부 협조자가 있습니다 — 거점 정보가 공개되고 방어 포탑 일부가 사전에 무력화됩니다. (보상 -10%)</EES.HVT.Variant.Insider>
+  <EES.HVT.Variant.HighAlert>표적의 경계가 삼엄합니다 — 수비 병력이 증강되어 있습니다. (보상 +30%)</EES.HVT.Variant.HighAlert>
+  <EES_Letter_HVTTargetSpawned>현상금 표적 좌표 수신</EES_Letter_HVTTargetSpawned>
+  <EES.HVT.SpawnLetter.Text>발주자가 표적 전초기지 '{0}'의 좌표를 전달했습니다. 지휘관({1})이 이끄는 이 거점을 파괴하면 현상금이 지급됩니다.</EES.HVT.SpawnLetter.Text>
+
+  <!-- 정찰/침투 결과 알림 방식(유저 승인 2026-07-05): 설정 라디오 + 우측 알림(레터) 텍스트 -->
+  <EES.Set.ScoutNotify.Msg>정찰·침투 결과 알림: 간소 메시지</EES.Set.ScoutNotify.Msg>
+  <EES.Set.ScoutNotify.Msg.Tip>정찰·침투의 성공/발각 결과를 화면 상단의 간소한 메시지로 표시합니다. (기존 방식)</EES.Set.ScoutNotify.Msg.Tip>
+  <EES.Set.ScoutNotify.Letter>정찰·침투 결과 알림: 우측 알림(레터)</EES.Set.ScoutNotify.Letter>
+  <EES.Set.ScoutNotify.Letter.Tip>정찰·침투의 성공/발각 결과를 화면 우측 알림(레터)으로 표시합니다. Event Image Popup 모드가 있으면 상황 이미지도 함께 표시됩니다.</EES.Set.ScoutNotify.Letter.Tip>
+  <EES_Letter_ScoutSuccess>정찰 성공</EES_Letter_ScoutSuccess>
+  <EES.Ltr.ScoutSuccess.Text>{0}의 정보를 전부 확보했습니다.</EES.Ltr.ScoutSuccess.Text>
+  <EES_Letter_ScoutFail>정찰 발각</EES_Letter_ScoutFail>
+  <EES.Ltr.ScoutFail.Text>{0} 정찰이 발각됐습니다. 거점 경계가 강화되고 관계가 악화됐습니다.\n\n정찰병 피해: {1}</EES.Ltr.ScoutFail.Text>
+  <EES_Letter_InfilSuccess>침투 성공</EES_Letter_InfilSuccess>
+  <EES.Ltr.InfilSuccess.Text>{0}의 방어 포탑 {1}기를 사보타주했습니다.</EES.Ltr.InfilSuccess.Text>
+  <EES.Ltr.InfilFake.Text>{0}: 포탑 사보타주는 성공했으나 그곳에는 아무도 없습니다.</EES.Ltr.InfilFake.Text>
+  <EES_Letter_InfilFail>침투 발각</EES_Letter_InfilFail>
+  <EES.Ltr.InfilFail.Text>{0} 침투가 발각됐습니다. 관계가 악화됐습니다.\n\n첩보원: {1}</EES.Ltr.InfilFail.Text>
+  <EES_Letter_StrikeSuccess>정밀 타격 성공</EES_Letter_StrikeSuccess>
+  <EES.Ltr.StrikeSuccess.Text>통신기 원격 정밀 타격으로 {0}의 방어 포탑 {1}기를 무력화했습니다.</EES.Ltr.StrikeSuccess.Text>
+  <EES.Ltr.StrikeFake.Text>{0}: 원격 타격은 명중했으나 그곳에는 아무도 없습니다.</EES.Ltr.StrikeFake.Text>
+  <EES.Strike.SabSuccess>[EES] 정밀 타격 성공: {0} 포탑 {1}기 원격 무력화!</EES.Strike.SabSuccess>
+  <EES.Strike.SabFake>[EES] {0}: 원격 타격은 성공했으나 그곳에는 아무도 없습니다.</EES.Strike.SabFake>
+  <EES.Supply.PodDropFallback>착륙 연출에 실패해 탑승 인원과 화물을 현장에 직접 내렸습니다. (손실 없음)</EES.Supply.PodDropFallback>
+
+  <!-- ===== 일반 전초기지 티어 하향 (RimPacts 세계대전 후기 단계, 2026-08-23) ===== -->
+  <EES.Outpost.Unavailable>EES가 아직 준비되지 않았습니다.</EES.Outpost.Unavailable>
+  <EES.Outpost.NotTargetPlayer>전초기지가 아닙니다.</EES.Outpost.NotTargetPlayer>
+  <EES.Outpost.NotTarget>EES가 관리하지 않는 정착지입니다.</EES.Outpost.NotTarget>
+  <EES.Outpost.IsPuppet>괴뢰국 전초기지입니다.</EES.Outpost.IsPuppet>
+  <EES.Outpost.TierFixed>티어가 고정된 전초기지입니다.</EES.Outpost.TierFixed>
+  <EES.Outpost.AtFloor>이미 최저 티어입니다(T{0}). 더 내려갈 수 없습니다.</EES.Outpost.AtFloor>
+  <EES.Outpost.NoTargets>티어를 내릴 전초기지가 없습니다.</EES.Outpost.NoTargets>
+
+  <!-- ===== 괴뢰국 전초기지 (RimPacts 연동, 2026-08-05) ===== -->
+  <EES.CanScout.Puppet>우리 괴뢰국의 전초기지입니다.</EES.CanScout.Puppet>
+  <EES.CanScout.WorldWarAlly>세계대전에서 같은 진영입니다.</EES.CanScout.WorldWarAlly>
+  <EES.CanScout.WorldWarNeutral>세계대전 중립국은 다른 세력에 개입할 수 없습니다.</EES.CanScout.WorldWarNeutral>
+  <EES.Puppet.NotOutpost>괴뢰국 전초기지가 아닙니다.</EES.Puppet.NotOutpost>
+  <EES.Puppet.NeedSilver>은 {0}이 모자랍니다.</EES.Puppet.NeedSilver>
+  <EES.Puppet.OwnOutpost>우리 괴뢰국의 전초기지 (정찰 불요)</EES.Puppet.OwnOutpost>
+  <EES.Puppet.AtCap>이 시대의 한계입니다(T{0}). 괴뢰국을 승격시키면 더 오릅니다.</EES.Puppet.AtCap>
+  <EES.Puppet.AtFloor>이미 최저 티어입니다(T{0}). 더 내려갈 수 없습니다.</EES.Puppet.AtFloor>
+  <EES.Puppet.RoleUnavailable>지금 지정할 수 있는 역할이 없습니다.</EES.Puppet.RoleUnavailable>
+  <EES.Puppet.MortarAlready>이미 박격포 진지가 있습니다.</EES.Puppet.MortarAlready>
+  <EES.Puppet.MortarTierLow>T{0} 이상이어야 합니다.</EES.Puppet.MortarTierLow>
+  <EES.Puppet.BadPlan>수비대 구성값이 잘못됐습니다.</EES.Puppet.BadPlan>
+  <EES.Puppet.AssaultTechLow>강습대는 스페이서 시대 이상부터 둘 수 있습니다.</EES.Puppet.AssaultTechLow>
+  <EES.Puppet.CommanderTechLow>이 지휘관은 {0} 시대 이상부터 둘 수 있습니다.</EES.Puppet.CommanderTechLow>
+  <EES.Puppet.Gizmo.UpgradeLabel>전초기지 T{0}/{1}</EES.Puppet.Gizmo.UpgradeLabel>
+  <EES.Puppet.Gizmo.UpgradeDesc>은 {1} 소모 · 다음 티어 T{0}\n\n은을 쓰지 않아도 자동 승급까지 {2} 남았습니다.</EES.Puppet.Gizmo.UpgradeDesc>
+  <EES.Puppet.Gizmo.UpgradeDescCap>이 시대의 한계입니다(T{0}). 괴뢰국을 승격시키면 더 오릅니다.</EES.Puppet.Gizmo.UpgradeDescCap>
+  <EES.Puppet.Gizmo.RoleLabel>역할: {0}</EES.Puppet.Gizmo.RoleLabel>
+  <EES.Puppet.Gizmo.RoleDesc>이 전초기지의 역할을 정합니다. 다음 진입 때 반영됩니다.</EES.Puppet.Gizmo.RoleDesc>
+  <EES.Puppet.Gizmo.CommanderLabel>지휘관: {0}</EES.Puppet.Gizmo.CommanderLabel>
+  <EES.Puppet.Gizmo.CommanderDesc>이 전초기지의 지휘관 유형을 정합니다. 다음 진입 때 반영됩니다.</EES.Puppet.Gizmo.CommanderDesc>
+  <EES.Puppet.Msg.Upgraded>{0} 전초기지 → T{1}</EES.Puppet.Msg.Upgraded>
+  <EES.Puppet.Msg.RoleSet>{0} 역할 → {1}</EES.Puppet.Msg.RoleSet>
+  <EES.Puppet.Msg.CommanderSet>{0} 지휘관 → {1}</EES.Puppet.Msg.CommanderSet>
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dagger -->
+  <VFEC_MeleeWeapon_Dagger.label>双刃匕首</VFEC_MeleeWeapon_Dagger.label>
+  <!-- EN: A simple, elongated knife capable of being swung quite quickly. Generally favored by assassins or used as a backup weapon should one be separated from their spear or spatha. -->
+  <VFEC_MeleeWeapon_Dagger.description>一把灵巧的简易匕首。是刺客们的最爱，也可用作士兵主武器遗失后的备用武器。</VFEC_MeleeWeapon_Dagger.description>
+  <!-- EN: handle -->
+  <VFEC_MeleeWeapon_Dagger.tools.handle.label>柄</VFEC_MeleeWeapon_Dagger.tools.handle.label>
+  <!-- EN: blade -->
+  <VFEC_MeleeWeapon_Dagger.tools.blade.label>刀刃</VFEC_MeleeWeapon_Dagger.tools.blade.label>
+  <!-- EN: point -->
+  <VFEC_MeleeWeapon_Dagger.tools.point.label>刀尖</VFEC_MeleeWeapon_Dagger.tools.point.label>
+  
+  <!-- EN: spatha -->
+  <VFEC_MeleeWeapon_Spatha.label>罗马直剑</VFEC_MeleeWeapon_Spatha.label>
+  <!-- EN: A weighty shortsword meant to deliver piercing attacks as well as occasional slashing swipes. Many scholars consider such a weapon to be a slightly less effective precursor to the longsword. -->
+  <VFEC_MeleeWeapon_Spatha.description>一种主要用来突刺的短剑。很多学者认为它是长剑的前身。</VFEC_MeleeWeapon_Spatha.description>
+  <!-- EN: handle -->
+  <VFEC_MeleeWeapon_Spatha.tools.handle.label>柄</VFEC_MeleeWeapon_Spatha.tools.handle.label>
+  <!-- EN: point -->
+  <VFEC_MeleeWeapon_Spatha.tools.point.label>剑尖</VFEC_MeleeWeapon_Spatha.tools.point.label>
+  <!-- EN: edge -->
+  <VFEC_MeleeWeapon_Spatha.tools.edge.label>剑刃</VFEC_MeleeWeapon_Spatha.tools.edge.label>
+  
+</LanguageData>

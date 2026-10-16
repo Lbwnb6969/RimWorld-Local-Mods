@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: improved -->
+  <AM_CoffeeCultivation_Improved.label>改善</AM_CoffeeCultivation_Improved.label>
+  <!-- EN: Our coffee cultivation has become a craft in its own right. Through careful tending and mastery of the roast, we coax rich, flavorful beans from every plant and ensure our harvest is plentiful.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Coffee plants will receive a +20% growth rate bonus. -->
+  <AM_CoffeeCultivation_Improved.description>我们的咖啡种植事业已自成一派。通过悉心栽培和精进烘焙技术，我们能让每棵咖啡树都结出饱满且香醇的豆子，并确保有个好收成。\n\n&lt;color=#E5E54C>属性：&lt;/color>\n - 咖啡树生长速率：+20%。</AM_CoffeeCultivation_Improved.description>
+  
+</LanguageData>

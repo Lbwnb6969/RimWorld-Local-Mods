@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Griffon Berry thoughts -->
+
+  <DankPyon_AteGriffonBerry.stages.0.label>狮鹫莓</DankPyon_AteGriffonBerry.stages.0.label>
+  <DankPyon_AteGriffonBerry.stages.0.description>我简直无法放下手中的盘子。</DankPyon_AteGriffonBerry.stages.0.description>
+
+
+  <!-- Drinks based thoughts -->
+
+  <DankPyon_DrankAle.stages.0.label>尚醇的麦酒</DankPyon_DrankAle.stages.0.label>
+  <DankPyon_DrankAle.stages.0.description>没有什么比一杯好喝的麦酒更能让我摆脱恐惧的了。</DankPyon_DrankAle.stages.0.description>
+
+  <DankPyon_DrankMead.stages.0.label>尚醇的蜂蜜酒</DankPyon_DrankMead.stages.0.label>
+  <DankPyon_DrankMead.stages.0.description>暖心而甜美，独特的蜂蜜味让人满足。</DankPyon_DrankMead.stages.0.description>
+
+  <DankPyon_DrankWine.stages.0.label>高级葡萄酒</DankPyon_DrankWine.stages.0.label>
+  <DankPyon_DrankWine.stages.0.description>让我觉得自己像个贵族……或许也像个贵族一样思考。</DankPyon_DrankWine.stages.0.description>
+
+
+  <!-- Hearty Stew -->
+
+  <DankPyon_AteHeartyStew.stages.0.label>吃了丰盛炖菜</DankPyon_AteHeartyStew.stages.0.label>
+  <DankPyon_AteHeartyStew.stages.0.description>我吃了丰盛炖菜，这是一顿温暖我身体的美味佳餚。</DankPyon_AteHeartyStew.stages.0.description>
+
+
+  <!-- Weak Stew -->
+
+  <DankPyon_AteWeakStew.stages.0.label>吃了清淡炖菜</DankPyon_AteWeakStew.stages.0.label>
+  <DankPyon_AteWeakStew.stages.0.description>我吃了清淡炖菜，这是一顿温暖我身体的美味佳餚。</DankPyon_AteWeakStew.stages.0.description>
+
+
+  <!-- Cheese -->
+
+  <DankPyon_AteCheese.stages.0.label>吃了奶酪</DankPyon_AteCheese.stages.0.label>
+  <DankPyon_AteCheese.stages.0.description>奶酪！噢～我超爱奶酪！</DankPyon_AteCheese.stages.0.description>
+
+
+  <!-- Rox Steak -->
+
+  <DankPyon_AteRoxSteak.stages.0.label>吃了罗克斯牛排</DankPyon_AteRoxSteak.stages.0.label>
+  <DankPyon_AteRoxSteak.stages.0.description>罗克斯牛排！它的油脂在嘴里融化，而酱汁则散发出美妙的香气！</DankPyon_AteRoxSteak.stages.0.description>
+
+
+  <!-- Griffon Berry Pie -->
+
+  <DankPyon_AteGriffonBerryPie.stages.0.label>吃了狮鹫莓派</DankPyon_AteGriffonBerryPie.stages.0.label>
+  <DankPyon_AteGriffonBerryPie.stages.0.description>为狮鹫兽烤制的派！如此深醇的香气，简直让人欲罢不能！</DankPyon_AteGriffonBerryPie.stages.0.description>
+
+
+  <!-- Smoked Meat -->
+
+  <DankPyon_AteSmokedMeat.stages.0.label>吃了烟燻肉</DankPyon_AteSmokedMeat.stages.0.label>
+  <DankPyon_AteSmokedMeat.stages.0.description>那燻肉有一种质朴的味道。</DankPyon_AteSmokedMeat.stages.0.description>
+
+
+  <!-- Bread Soup -->
+
+  <DankPyon_AteBreadSoup.stages.0.label>吃了面包汤</DankPyon_AteBreadSoup.stages.0.label>
+  <DankPyon_AteBreadSoup.stages.0.description>一大块面包加浓汤——我没有坠入爱河，但我确实觉得自己恢复了活力。</DankPyon_AteBreadSoup.stages.0.description>
+
+
+  <!-- Grilled Sausages -->
+
+  <DankPyon_AteGrilledSausages.stages.0.label>吃了炙烤香肠</DankPyon_AteGrilledSausages.stages.0.label>
+  <DankPyon_AteGrilledSausages.stages.0.description>这些香肠带有咸味和烟燻味！</DankPyon_AteGrilledSausages.stages.0.description>
+
+
+  <!-- Apple Pie -->
+
+  <DankPyon_AteApplePie.stages.0.label>吃了苹果派</DankPyon_AteApplePie.stages.0.label>
+  <DankPyon_AteApplePie.stages.0.description>多么美味的款待！谁知道苹果还能做得更甜？</DankPyon_AteApplePie.stages.0.description>
+
+
+  <!-- Hunters Stew -->
+
+  <DankPyon_AteHuntersStew.stages.0.label>吃了猎人炖菜</DankPyon_AteHuntersStew.stages.0.label>
+  <DankPyon_AteHuntersStew.stages.0.description>炖菜充满了美味的元素。它滋养了我的身体！</DankPyon_AteHuntersStew.stages.0.description>
+
+
+  <!-- Mashed Potatoes -->
+
+  <DankPyon_AteMashedPotatoes.stages.0.label>吃了土豆泥</DankPyon_AteMashedPotatoes.stages.0.label>
+  <DankPyon_AteMashedPotatoes.stages.0.description>那碗土豆泥有一种令人愉快的奶油味。</DankPyon_AteMashedPotatoes.stages.0.description>
+
+
+  <!-- Grilled Cheese -->
+
+  <DankPyon_AteGrilledCheese.stages.0.label>吃了炙烤奶酪</DankPyon_AteGrilledCheese.stages.0.label>
+  <DankPyon_AteGrilledCheese.stages.0.description>我吃了一块粘糊糊的、美味的、豪华的烤奶酪。</DankPyon_AteGrilledCheese.stages.0.description>
+
+
+  <!-- Quiche -->
+
+  <DankPyon_AteQuiche.stages.0.label>吃了法式咸派</DankPyon_AteQuiche.stages.0.label>
+  <DankPyon_AteQuiche.stages.0.description>我吃了一个包满着鸡蛋和肉馅的法式咸派。好吃！</DankPyon_AteQuiche.stages.0.description>
+
+
+  <!-- Sweet Pancakes -->
+
+  <DankPyon_AteSweetPancakes.stages.0.label>吃了松饼</DankPyon_AteSweetPancakes.stages.0.label>
+  <DankPyon_AteSweetPancakes.stages.0.description>我吃了一堆又甜又厚的糖浆松饼。可口！</DankPyon_AteSweetPancakes.stages.0.description>
+
+
+  <!-- Winter Lentil Soup -->
+
+  <DankPyon_AteWinterLentilSoup.stages.0.label>吃了冬扁豆汤</DankPyon_AteWinterLentilSoup.stages.0.label>
+  <DankPyon_AteWinterLentilSoup.stages.0.description>我吃了一碗舒缓的小扁豆和香料汤。一股令人愉快的暖流流经我的全身。</DankPyon_AteWinterLentilSoup.stages.0.description>
+
+
+  <!-- Mushroom Soup -->
+
+  <DankPyon_AteMushroomSoup.stages.0.label>吃了蘑菇浓汤</DankPyon_AteMushroomSoup.stages.0.label>
+  <DankPyon_AteMushroomSoup.stages.0.description>这碗浓汤里有满满的蘑菇碎块。充满着大地的气息，真是棒！</DankPyon_AteMushroomSoup.stages.0.description>
+
+
+  <!-- Tomato Omelette -->
+
+  <DankPyon_AteTomatoOmelette.stages.0.label>吃了番茄欧姆蛋</DankPyon_AteTomatoOmelette.stages.0.label>
+  <DankPyon_AteTomatoOmelette.stages.0.description>我吃了一盘缀满番茄丁的欧姆蛋。汁多味美！</DankPyon_AteTomatoOmelette.stages.0.description>
+
+
+  <!-- Vegetable Pot -->
+
+  <DankPyon_AteVegetablePot.stages.0.label>吃了蔬菜锅</DankPyon_AteVegetablePot.stages.0.label>
+  <DankPyon_AteVegetablePot.stages.0.description>我吃了一道美味的绿色蔬菜炖锅。感觉酣畅淋漓，健康无比。</DankPyon_AteVegetablePot.stages.0.description>
+
+
+  <!-- Pumpkin Pie -->
+
+  <DankPyon_AtePumpkinPie.stages.0.label>吃了南瓜派</DankPyon_AtePumpkinPie.stages.0.label>
+  <DankPyon_AtePumpkinPie.stages.0.description>甜，但略带辛辣。多么美味的馅饼！</DankPyon_AtePumpkinPie.stages.0.description>
+
+
+  <!-- Pumpkin Fritters -->
+
+  <DankPyon_AtePumpkinFritters.stages.0.label>吃了南瓜馅饼</DankPyon_AtePumpkinFritters.stages.0.label>
+  <DankPyon_AtePumpkinFritters.stages.0.description>厚而饱满的馅饼，恰到好处的甜味。有没有人能帮我拿点麦酒来配？</DankPyon_AtePumpkinFritters.stages.0.description>
+
+
+  <!-- Grilled Skewers -->
+
+  <DankPyon_AteGrilledSkewers.stages.0.label>吃了烤串</DankPyon_AteGrilledSkewers.stages.0.label>
+  <DankPyon_AteGrilledSkewers.stages.0.description>吃起来方便又好吃。你对肉串有什么可抱怨的呢？</DankPyon_AteGrilledSkewers.stages.0.description>
+
+
+  <!-- Pumpkin Soup -->
+
+  <DankPyon_AtePumpkinSoup.stages.0.label>吃了南瓜汤</DankPyon_AtePumpkinSoup.stages.0.label>
+  <DankPyon_AtePumpkinSoup.stages.0.description>这碗浓汤充满着南瓜和香料。一种令人愉快的暖流流经我的身体。</DankPyon_AtePumpkinSoup.stages.0.description>
+
+
+  <!-- Steak with Wine -->
+
+  <DankPyon_AteSteakWithWine.stages.0.label>吃了红酒牛排</DankPyon_AteSteakWithWine.stages.0.label>
+  <DankPyon_AteSteakWithWine.stages.0.description>鲜嫩的牛排每一口都入口即化，浓郁的肉汁提升了风味的层次。就算世界上的食物任由我选，我一定还是选红酒牛排。</DankPyon_AteSteakWithWine.stages.0.description>
+
+
+  <!-- Boiled Bean and Onion -->
+
+  <DankPyon_AteBoiledBeansAndOnion.stages.0.label>吃了洋葱扁豆汤</DankPyon_AteBoiledBeansAndOnion.stages.0.label>
+  <DankPyon_AteBoiledBeansAndOnion.stages.0.description>这是一碗加满洋葱和扁豆的汤，令人感觉饱足和精神焕发。味道令人难忘。</DankPyon_AteBoiledBeansAndOnion.stages.0.description>
+
+
+  <!-- Cheese Soup -->
+
+  <DankPyon_AteCheeseSoup.stages.0.label>吃了奶酪浓汤</DankPyon_AteCheeseSoup.stages.0.label>
+  <DankPyon_AteCheeseSoup.stages.0.description>奶酪在五香肉汤中融化的方式让我想跳舞！这汤喝起来唯一的缺点是人们会被香味吸引围观。</DankPyon_AteCheeseSoup.stages.0.description>
+
+  <!-- Slop Pots Thoughts -->
+
+  <DankPyon_AteSlopMeal.stages.0.label>吃了一碗泔水</DankPyon_AteSlopMeal.stages.0.label>
+  <DankPyon_AteSlopMeal.stages.0.description>我不得不吞下那碗恶心的泔水。我知道这都是为了活下去，但没人想吃这鬼东西。</DankPyon_AteSlopMeal.stages.0.description>
+
+  <DankPyon_AteFineSlopMeal.stages.0.label>吃了起司火锅</DankPyon_AteFineSlopMeal.stages.0.label>
+  <DankPyon_AteFineSlopMeal.stages.0.description>热腾腾的起司锅色香味俱全！</DankPyon_AteFineSlopMeal.stages.0.description>
+
+
+  <!-- Carrot Cake -->
+
+  <DankPyon_AteCarrotCake.stages.0.label>吃了红萝卜蛋糕</DankPyon_AteCarrotCake.stages.0.label>
+  <DankPyon_AteCarrotCake.stages.0.description>奔放却又温暖的香气。真是一块令人心情愉悦的蛋糕！</DankPyon_AteCarrotCake.stages.0.description>
+
+
+  <!-- Lemon Cake -->
+
+  <DankPyon_AteLemonCake.stages.0.label>吃了柠檬蛋糕</DankPyon_AteLemonCake.stages.0.label>
+  <DankPyon_AteLemonCake.stages.0.description>香浓爽口，甜味恰到好处。真是一种令人愉悦的享受！</DankPyon_AteLemonCake.stages.0.description>
+
+  <DankPyon_AteDriedMeat.stages.ate_dried_meat.label>吃了肉干</DankPyon_AteDriedMeat.stages.ate_dried_meat.label>
+  <DankPyon_AteDriedMeat.stages.ate_dried_meat.description>那块肉非常干而且味如嚼蜡，吃完后令人口干舌燥。</DankPyon_AteDriedMeat.stages.ate_dried_meat.description>
+
+</LanguageData>

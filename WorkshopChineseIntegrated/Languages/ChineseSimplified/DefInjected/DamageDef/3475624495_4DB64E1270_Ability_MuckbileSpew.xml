@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: muckbile -->
+  <DA_Muckbile.label>恶臭胆汁</DA_Muckbile.label>
+  <!-- EN: {0} has burned to death. -->
+  <DA_Muckbile.deathMessage>{0}被化学烧伤致死。</DA_Muckbile.deathMessage>
+  
+</LanguageData>

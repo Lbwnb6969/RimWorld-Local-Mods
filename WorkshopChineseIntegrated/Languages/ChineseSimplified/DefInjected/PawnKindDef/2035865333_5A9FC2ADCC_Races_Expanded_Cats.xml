@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abyssinian cat -->
+  <AEXP_CatAbyssinian.label>阿比西尼亚猫</AEXP_CatAbyssinian.label>
+  <!-- EN: abyssinian kitten -->
+  <AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.label>阿比西尼亚猫幼崽</AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.label>
+  
+  <!-- EN: bengal cat -->
+  <AEXP_CatBengal.label>孟加拉豹猫</AEXP_CatBengal.label>
+  <!-- EN: bengal kitten -->
+  <AEXP_CatBengal.lifeStages.bengal_kitten.label>孟加拉豹猫幼崽</AEXP_CatBengal.lifeStages.bengal_kitten.label>
+  
+  <!-- EN: british shorthair cat -->
+  <AEXP_CatBritishShorthair.label>英国短毛猫</AEXP_CatBritishShorthair.label>
+  <!-- EN: british shorthair kitten -->
+  <AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.label>英国短毛猫幼崽</AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.label>
+  
+  <!-- EN: maine coon -->
+  <AEXP_CatMaineCoon.label>缅因猫</AEXP_CatMaineCoon.label>
+  <!-- EN: maine coon kitten -->
+  <AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.label>缅因猫幼崽</AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.label>
+  
+  <!-- EN: munchkin cat -->
+  <AEXP_CatMunchkin.label>曼切堪猫</AEXP_CatMunchkin.label>
+  <!-- EN: munchkin kitten -->
+  <AEXP_CatMunchkin.lifeStages.munchkin_kitten.label>曼切堪猫幼崽</AEXP_CatMunchkin.lifeStages.munchkin_kitten.label>
+  
+  <!-- EN: norwegian forest cat -->
+  <AEXP_CatNorwegianForest.label>挪威森林猫</AEXP_CatNorwegianForest.label>
+  <!-- EN: norwegian forest kitten -->
+  <AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.label>挪威森林猫幼崽</AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.label>
+  
+  <!-- EN: persian cat -->
+  <AEXP_CatPersian.label>波斯猫</AEXP_CatPersian.label>
+  <!-- EN: persian kitten -->
+  <AEXP_CatPersian.lifeStages.persian_kitten.label>波斯猫幼崽</AEXP_CatPersian.lifeStages.persian_kitten.label>
+  
+  <!-- EN: siamese cat -->
+  <AEXP_CatSiamese.label>暹罗猫</AEXP_CatSiamese.label>
+  <!-- EN: siamese kitten -->
+  <AEXP_CatSiamese.lifeStages.siamese_kitten.label>暹罗猫幼崽</AEXP_CatSiamese.lifeStages.siamese_kitten.label>
+  
+  <!-- EN: somali cat -->
+  <AEXP_CatSomali.label>索马里猫</AEXP_CatSomali.label>
+  <!-- EN: somali kitten -->
+  <AEXP_CatSomali.lifeStages.somali_kitten.label>索马里猫幼崽</AEXP_CatSomali.lifeStages.somali_kitten.label>
+  
+  <!-- EN: sphynx cat -->
+  <AEXP_CatSphynx.label>斯芬克斯猫</AEXP_CatSphynx.label>
+  <!-- EN: sphynx kitten -->
+  <AEXP_CatSphynx.lifeStages.sphynx_kitten.label>斯芬克斯猫幼崽</AEXP_CatSphynx.lifeStages.sphynx_kitten.label>
+  
+</LanguageData>

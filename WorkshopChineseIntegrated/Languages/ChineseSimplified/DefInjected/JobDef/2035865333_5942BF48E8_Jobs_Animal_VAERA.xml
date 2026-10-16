@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: talking with TargetA. -->
+  <VAERoy_OrangutanTalk.reportString>与TargetA聊天。</VAERoy_OrangutanTalk.reportString>
+  
+  <!-- EN: nuzzling TargetA. -->
+  <VAERoy_PeacockNuzzle.reportString>亲昵TargetA。</VAERoy_PeacockNuzzle.reportString>
+  
+</LanguageData>

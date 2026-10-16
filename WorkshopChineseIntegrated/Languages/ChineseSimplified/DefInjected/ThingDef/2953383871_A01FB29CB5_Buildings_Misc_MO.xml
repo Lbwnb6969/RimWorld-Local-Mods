@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Linkables -->
+
+  <DankPyon_MiningTools.label>采矿工具</DankPyon_MiningTools.label>
+  <DankPyon_MiningTools.description>一套专为在地底开采资源而设计的工具。放置在采矿点和掘土点附近时，可提高工作速度。</DankPyon_MiningTools.description>
+
+  <DankPyon_ToolRack.label>工具架</DankPyon_ToolRack.label>
+  <DankPyon_ToolRack.description>锻造工具架。放置在中世纪工作台附近时可提高工作速度。</DankPyon_ToolRack.description>
+
+  <DankPyon_QuenchingBucket.label>淬火桶</DankPyon_QuenchingBucket.label>
+  <DankPyon_QuenchingBucket.description>一个装满油的桶子，用于急速冷却炙热的金属。放置在中世纪工作台附近时可提高工作速度。</DankPyon_QuenchingBucket.description>
+
+  <DankPyon_Grinder.label>砂轮</DankPyon_Grinder.label>
+  <DankPyon_Grinder.description>用于打磨武器。放置在中世纪工作台附近时可提高工作速度。</DankPyon_Grinder.description>
+
+  <DankPyon_Bellows.label>鼓风机</DankPyon_Bellows.label>
+  <DankPyon_Bellows.description>用于提供强烈的气流帮助燃烧。放置在中世纪工作台附近时可提高工作速度。</DankPyon_Bellows.description>
+
+  <DankPyon_VialsTable.label>调和制备台</DankPyon_VialsTable.label>
+  <DankPyon_VialsTable.description>用于摆放药瓶、试管架和配方的桌子。放置在炼金工作桌或炼金釜附近时可提高工作速度。</DankPyon_VialsTable.description>
+
+  <DankPyon_HerbTable.label>草药桌</DankPyon_HerbTable.label>
+  <DankPyon_HerbTable.description>用于研磨草药和素材。放置在炼金工作桌或炼金釜附近时可提高工作速度。</DankPyon_HerbTable.description>
+
+  <DankPyon_Alembic.label>蒸馏器</DankPyon_Alembic.label>
+  <DankPyon_Alembic.description>用于提纯炼金药剂。放置在炼金工作桌或炼金釜附近时可提高工作速度。</DankPyon_Alembic.description>
+
+
+  <!-- Quill and Inkwell -->
+
+  <DankPyon_PaperHangingRack.label>晾纸架</DankPyon_PaperHangingRack.label>
+  <DankPyon_PaperHangingRack.description>用于晾干新写手稿的处理架。放置在抄写台附近可提高工作速度。</DankPyon_PaperHangingRack.description>
+
+  <DankPyon_QuillAndInkwell.label>笔墨桌</DankPyon_QuillAndInkwell.label>
+  <DankPyon_QuillAndInkwell.description>放有羽毛笔和墨水的小桌。放置在抄写台附近可提高工作速度。</DankPyon_QuillAndInkwell.description>
+
+  <DankPyon_Stack_Books.label>书堆</DankPyon_Stack_Books.label>
+  <DankPyon_Stack_Books.description>一堆用于查阅和对照用的书籍。放置放在抄写台附近可提高工作速度。</DankPyon_Stack_Books.description>
+
+  <DankPyon_Stack_Paper.label>纸堆</DankPyon_Stack_Paper.label>
+  <DankPyon_Stack_Paper.description>一堆易于取得的书写用纸张。放置放在抄写台附近可提高工作速度。</DankPyon_Stack_Paper.description>
+
+
+  <DankPyon_RusticCupboard.label>餐具架</DankPyon_RusticCupboard.label>
+  <DankPyon_RusticCupboard.description>擺滿餐具的壁挂架。放置在烹饪台附近可以提高工作速度。</DankPyon_RusticCupboard.description>
+
+  <DankPyon_RusticCookingTools.label>调理器材</DankPyon_RusticCookingTools.label>
+  <DankPyon_RusticCookingTools.description>满满一桌实用的烹饪工具。放置在烹饪台附近可以提高工作速度。</DankPyon_RusticCookingTools.description>
+
+
+  <!-- Dough -->
+
+  <DankPyon_TableBaking.label>烘焙器材</DankPyon_TableBaking.label>
+  <DankPyon_TableBaking.description>满满一桌实用的烘焙工具。放置在烤炉附近可提高工作速度。</DankPyon_TableBaking.description>
+
+
+  <!-- Medieval Comms -->
+
+  <DankPyon_BirdPost.label>信使鸟站台</DankPyon_BirdPost.label>
+  <DankPyon_BirdPost.description>某些鸟类在专业训练师的训练下，能够飞到指定地点，然后再返回牠们的出发地。假如您能够买得起这种鸟，并能负担后续训练和喂食成本，那么您将能透过牠与邻近派系进行交流。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;需要紧邻放置于通信桌旁，并加入食物做为燃料，才能使通信桌正常运作。</DankPyon_BirdPost.description>
+
+  <DankPyon_ScribeTable.label>通信桌</DankPyon_ScribeTable.label>
+  <DankPyon_ScribeTable.description>一张装有蜡片的桌子，蜡片里存放着各种记录和收据。旁边的石板放着羊皮纸、印章、羽毛笔和墨水，可以用来进行通信。当与信使鸟一起使用时，信件可以比人工传递更快地送达遥远的地方。您可以邀请盟友参加盛宴，邀请竞争对手参加挑战，或邀请中立派系进行贸易。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;功能类似原版通讯台(但无法与星际贸易商通讯)，需要搭配信使鸟站台才能正常运作。</DankPyon_ScribeTable.description>
+
+  <DankPyon_Cart.label>贸易马车</DankPyon_Cart.label>
+<!--  <DankPyon_Cart.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界无情广阔的土地。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;可用来进行长途交易。马车的功能等同原版轨道贸易信标，需要先建造通信桌及信使鸟站台，并将物品置于马车附近，才能与其他派系交易。</DankPyon_Cart.description>-->
+  <DankPyon_Cart.description>一辆可靠的马车，可以载着新奇事物、手工艺品和货物穿越边缘世界无情广阔的土地。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;原本与贸易信标具相同功能，但由于MO某次更新之后，已经不能透过通信桌和星际贸易商通讯，因此马车也没用处了。</DankPyon_Cart.description>
+
+
+</LanguageData>

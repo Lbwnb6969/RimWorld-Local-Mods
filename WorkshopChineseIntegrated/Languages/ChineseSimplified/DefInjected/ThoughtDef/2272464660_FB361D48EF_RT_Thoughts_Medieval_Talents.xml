@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Talent: Adventurer -->
+  <MoodOffsetAdventurer.stages.Talent_Adventurer.label>冒险家</MoodOffsetAdventurer.stages.Talent_Adventurer.label>
+  <!-- EN: Natural bonus from 'Adventurer' trait. -->
+  <MoodOffsetAdventurer.stages.Talent_Adventurer.description>冒险家特性带来的天然加成。</MoodOffsetAdventurer.stages.Talent_Adventurer.description>
+  
+  <!-- EN: Talent: Architect -->
+  <MoodOffsetArchitect.stages.Talent_Architect.label>建筑师</MoodOffsetArchitect.stages.Talent_Architect.label>
+  <!-- EN: Natural bonus from 'Architect' trait. -->
+  <MoodOffsetArchitect.stages.Talent_Architect.description>建筑师特性带来的天然加成。</MoodOffsetArchitect.stages.Talent_Architect.description>
+  
+  <!-- EN: Talent: Armourer -->
+  <MoodOffsetArmourer.stages.Talent_Armourer.label>军械师</MoodOffsetArmourer.stages.Talent_Armourer.label>
+  <!-- EN: Natural bonus from 'Armourer' trait. -->
+  <MoodOffsetArmourer.stages.Talent_Armourer.description>军械师特性带来的天然加成。</MoodOffsetArmourer.stages.Talent_Armourer.description>
+  
+  <!-- EN: Talent: Artist -->
+  <MoodOffsetArtist.stages.Talent_Artist.label>艺术家</MoodOffsetArtist.stages.Talent_Artist.label>
+  <!-- EN: Natural bonus from 'Artist' trait. -->
+  <MoodOffsetArtist.stages.Talent_Artist.description>艺术家特性带来的天然加成。</MoodOffsetArtist.stages.Talent_Artist.description>
+  
+  <!-- EN: Talent: Bowman -->
+  <MoodOffsetBowman.stages.Talent_Bowman.label>弓箭手</MoodOffsetBowman.stages.Talent_Bowman.label>
+  <!-- EN: Natural bonus from 'Bowman' trait. -->
+  <MoodOffsetBowman.stages.Talent_Bowman.description>弓箭手特性带来的天然加成。</MoodOffsetBowman.stages.Talent_Bowman.description>
+  
+  <!-- EN: Talent: Builder -->
+  <MoodOffsetBuilder.stages.Talent_Builder.label>施工者</MoodOffsetBuilder.stages.Talent_Builder.label>
+  <!-- EN: Natural bonus from 'Builder' trait. -->
+  <MoodOffsetBuilder.stages.Talent_Builder.description>施工者特性带来的天然加成。</MoodOffsetBuilder.stages.Talent_Builder.description>
+  
+  <!-- EN: Talent: Butcher -->
+  <MoodOffsetButcher.stages.Talent_Butcher.label>屠夫</MoodOffsetButcher.stages.Talent_Butcher.label>
+  <!-- EN: Natural bonus from 'Butcher' trait. -->
+  <MoodOffsetButcher.stages.Talent_Butcher.description>屠夫特性带来的天然加成。</MoodOffsetButcher.stages.Talent_Butcher.description>
+  
+  <!-- EN: Talent: Chef -->
+  <MoodOffsetChef.stages.Talent_Chef.label>大厨</MoodOffsetChef.stages.Talent_Chef.label>
+  <!-- EN: Natural bonus from 'Chef' trait. -->
+  <MoodOffsetChef.stages.Talent_Chef.description>大厨特性带来的天然加成。</MoodOffsetChef.stages.Talent_Chef.description>
+  
+  <!-- EN: Talent: Cook -->
+  <MoodOffsetCook.stages.Talent_Cook.label>厨师</MoodOffsetCook.stages.Talent_Cook.label>
+  <!-- EN: Natural bonus from 'Cook' trait. -->
+  <MoodOffsetCook.stages.Talent_Cook.description>厨师特性带来的天然加成。</MoodOffsetCook.stages.Talent_Cook.description>
+  
+  <!-- EN: Talent: Copycat -->
+  <MoodOffsetCopycat.stages.Talent_Copycat.label>模仿者</MoodOffsetCopycat.stages.Talent_Copycat.label>
+  <!-- EN: Natural bonus from 'Copycat' trait. -->
+  <MoodOffsetCopycat.stages.Talent_Copycat.description>模仿者特性带来的天然加成。</MoodOffsetCopycat.stages.Talent_Copycat.description>
+  
+  <!-- EN: Talent: Engineer -->
+  <MoodOffsetEngineer.stages.Talent_Engineer.label>工程师</MoodOffsetEngineer.stages.Talent_Engineer.label>
+  <!-- EN: Natural bonus from 'Engineer' trait. -->
+  <MoodOffsetEngineer.stages.Talent_Engineer.description>工程师特性带来的天然加成。</MoodOffsetEngineer.stages.Talent_Engineer.description>
+  
+  <!-- EN: Talent: Farmer -->
+  <MoodOffsetFarmer.stages.Talent_Farmer.label>农夫</MoodOffsetFarmer.stages.Talent_Farmer.label>
+  <!-- EN: Natural bonus from 'Farmer' trait. -->
+  <MoodOffsetFarmer.stages.Talent_Farmer.description>农夫特性带来的天然加成。</MoodOffsetFarmer.stages.Talent_Farmer.description>
+  
+  <!-- EN: Talent: Fletcher -->
+  <MoodOffsetFletcher.stages.Talent_Fletcher.label>造箭师</MoodOffsetFletcher.stages.Talent_Fletcher.label>
+  <!-- EN: Natural bonus from 'Fletcher' trait. -->
+  <MoodOffsetFletcher.stages.Talent_Fletcher.description>造箭师特性带来的天然加成。</MoodOffsetFletcher.stages.Talent_Fletcher.description>
+  
+  <!-- EN: Talent: Groundskeeper -->
+  <MoodOffsetGroundskeeper.stages.Talent_Groundskeeper.label>场务员</MoodOffsetGroundskeeper.stages.Talent_Groundskeeper.label>
+  <!-- EN: Natural bonus from 'Groundskeeper' trait. -->
+  <MoodOffsetGroundskeeper.stages.Talent_Groundskeeper.description>场务员特性带来的天然加成。</MoodOffsetGroundskeeper.stages.Talent_Groundskeeper.description>
+  
+  <!-- EN: Talent: Herald -->
+  <MoodOffsetHerald.stages.Talent_Herald.label>使者</MoodOffsetHerald.stages.Talent_Herald.label>
+  <!-- EN: Natural bonus from 'Herald' trait. -->
+  <MoodOffsetHerald.stages.Talent_Herald.description>使者特性带来的天然加成。</MoodOffsetHerald.stages.Talent_Herald.description>
+  
+  <!-- EN: Talent: Herbalist -->
+  <MoodOffsetHerbalist.stages.Talent_Herbalist.label>草药师</MoodOffsetHerbalist.stages.Talent_Herbalist.label>
+  <!-- EN: Natural bonus from 'Herbalist' trait. -->
+  <MoodOffsetHerbalist.stages.Talent_Herbalist.description>草药师特性带来的天然加成。</MoodOffsetHerbalist.stages.Talent_Herbalist.description>
+  
+  <!-- EN: Talent: Herder -->
+  <MoodOffsetHerder.stages.Talent_Herder.label>牧民</MoodOffsetHerder.stages.Talent_Herder.label>
+  <!-- EN: Natural bonus from 'Herder' trait. -->
+  <MoodOffsetHerder.stages.Talent_Herder.description>牧民特性带来的天然加成。</MoodOffsetHerder.stages.Talent_Herder.description>
+  
+  <!-- EN: Talent: Hero -->
+  <MoodOffsetHero.stages.Talent_Hero.label>英雄</MoodOffsetHero.stages.Talent_Hero.label>
+  <!-- EN: Natural bonus from 'Hero' trait. -->
+  <MoodOffsetHero.stages.Talent_Hero.description>英雄特性带来的天然加成。</MoodOffsetHero.stages.Talent_Hero.description>
+  
+  <!-- EN: Talent: Hunter -->
+  <MoodOffsetHunter.stages.Talent_Hunter.label>猎户</MoodOffsetHunter.stages.Talent_Hunter.label>
+  <!-- EN: Natural bonus from 'Hunter' trait. -->
+  <MoodOffsetHunter.stages.Talent_Hunter.description>猎户特性带来的天然加成。</MoodOffsetHunter.stages.Talent_Hunter.description>
+  
+  <!-- EN: Talent: Jack-of-all-trades -->
+  <MoodOffsetJackOfAllTrades.stages.Talent_Jackofalltrades.label>万事通</MoodOffsetJackOfAllTrades.stages.Talent_Jackofalltrades.label>
+  <!-- EN: Natural bonus from 'Jack-of-all-trades' trait. -->
+  <MoodOffsetJackOfAllTrades.stages.Talent_Jackofalltrades.description>万事通特性带来的天然加成。</MoodOffsetJackOfAllTrades.stages.Talent_Jackofalltrades.description>
+  
+  <!-- EN: Talent: Kitchenhand -->
+  <MoodOffsetKitchenhand.stages.Talent_Kitchenhand.label>厨工</MoodOffsetKitchenhand.stages.Talent_Kitchenhand.label>
+  <!-- EN: Natural bonus from 'Kitchenhand' trait. -->
+  <MoodOffsetKitchenhand.stages.Talent_Kitchenhand.description>厨工特性带来的天然加成。</MoodOffsetKitchenhand.stages.Talent_Kitchenhand.description>
+  
+  <!-- EN: Talent: Miner -->
+  <MoodOffsetMiner.stages.Talent_Miner.label>矿工</MoodOffsetMiner.stages.Talent_Miner.label>
+  <!-- EN: Natural bonus from 'Miner' trait. -->
+  <MoodOffsetMiner.stages.Talent_Miner.description>矿工特性带来的天然加成。</MoodOffsetMiner.stages.Talent_Miner.description>
+  
+  <!-- EN: No Talent -->
+  <MoodOffsetNoTalent.stages.No_Talent.label>无天赋</MoodOffsetNoTalent.stages.No_Talent.label>
+  <!-- EN: Natural bonus from 'No Talent' trait. -->
+  <MoodOffsetNoTalent.stages.No_Talent.description>无天赋特性带来的天然加成。</MoodOffsetNoTalent.stages.No_Talent.description>
+  
+  <!-- EN: Talent: Philosopher -->
+  <MoodOffsetPhilosopher.stages.Talent_Philosopher.label>哲学家</MoodOffsetPhilosopher.stages.Talent_Philosopher.label>
+  <!-- EN: Natural bonus from 'Philosopher' trait. -->
+  <MoodOffsetPhilosopher.stages.Talent_Philosopher.description>哲学家特性带来的天然加成。</MoodOffsetPhilosopher.stages.Talent_Philosopher.description>
+  
+  <!-- EN: Talent: Physician -->
+  <MoodOffsetPhysician.stages.Talent_Physician.label>内科医生</MoodOffsetPhysician.stages.Talent_Physician.label>
+  <!-- EN: Natural bonus from 'Physician' trait. -->
+  <MoodOffsetPhysician.stages.Talent_Physician.description>内科医生特性带来的天然加成。</MoodOffsetPhysician.stages.Talent_Physician.description>
+  
+  <!-- EN: Talent: Recruiter -->
+  <MoodOffsetRecruiter.stages.Talent_Recruiter.label>招聘者</MoodOffsetRecruiter.stages.Talent_Recruiter.label>
+  <!-- EN: Natural bonus from 'Recruiter' trait. -->
+  <MoodOffsetRecruiter.stages.Talent_Recruiter.description>招聘者特性带来的天然加成。</MoodOffsetRecruiter.stages.Talent_Recruiter.description>
+  
+  <!-- EN: Talent: Scholar -->
+  <MoodOffsetScholar.stages.Talent_Scholar.label>学者</MoodOffsetScholar.stages.Talent_Scholar.label>
+  <!-- EN: Natural bonus from 'Scholar' trait. -->
+  <MoodOffsetScholar.stages.Talent_Scholar.description>学者特性带来的天然加成。</MoodOffsetScholar.stages.Talent_Scholar.description>
+  
+  <!-- EN: Talent: Scout -->
+  <MoodOffsetScout.stages.Talent_Scout.label>侦察兵</MoodOffsetScout.stages.Talent_Scout.label>
+  <!-- EN: Natural bonus from 'Scout' trait. -->
+  <MoodOffsetScout.stages.Talent_Scout.description>侦察兵特性带来的天然加成。</MoodOffsetScout.stages.Talent_Scout.description>
+  
+  <!-- EN: Talent: Smith -->
+  <MoodOffsetSmith.stages.Talent_Smith.label>工匠</MoodOffsetSmith.stages.Talent_Smith.label>
+  <!-- EN: Natural bonus from 'Smith' trait. -->
+  <MoodOffsetSmith.stages.Talent_Smith.description>工匠特性带来的天然加成。</MoodOffsetSmith.stages.Talent_Smith.description>
+  
+  <!-- EN: Talent: Surgeon -->
+  <MoodOffsetSurgeon.stages.Talent_Surgeon.label>外科医生</MoodOffsetSurgeon.stages.Talent_Surgeon.label>
+  <!-- EN: Natural bonus from 'Surgeon' trait. -->
+  <MoodOffsetSurgeon.stages.Talent_Surgeon.description>外科医生特性带来的天然加成。</MoodOffsetSurgeon.stages.Talent_Surgeon.description>
+  
+  <!-- EN: Talent: Swordsman -->
+  <MoodOffsetSwordsman.stages.Talent_Swordsman.label>剑士</MoodOffsetSwordsman.stages.Talent_Swordsman.label>
+  <!-- EN: Natural bonus from 'Swordsman' trait. -->
+  <MoodOffsetSwordsman.stages.Talent_Swordsman.description>剑士特性带来的天然加成。</MoodOffsetSwordsman.stages.Talent_Swordsman.description>
+  
+  <!-- EN: Talent: Tailor -->
+  <MoodOffsetTailor.stages.Talent_Tailor.label>裁缝</MoodOffsetTailor.stages.Talent_Tailor.label>
+  <!-- EN: Natural bonus from 'Tailor' trait. -->
+  <MoodOffsetTailor.stages.Talent_Tailor.description>裁缝特性带来的天然加成。</MoodOffsetTailor.stages.Talent_Tailor.description>
+  
+  <!-- EN: Talent: Trader -->
+  <MoodOffsetTrader.stages.Talent_Trader.label>交易者</MoodOffsetTrader.stages.Talent_Trader.label>
+  <!-- EN: Natural bonus from 'Trader' trait. -->
+  <MoodOffsetTrader.stages.Talent_Trader.description>交易者特性带来的天然加成。</MoodOffsetTrader.stages.Talent_Trader.description>
+  
+  <!-- EN: Talent: Veterinarian -->
+  <MoodOffsetVeterinarian.stages.Talent_Veterinarian.label>兽医</MoodOffsetVeterinarian.stages.Talent_Veterinarian.label>
+  <!-- EN: Natural bonus from 'Veterinarian' trait. -->
+  <MoodOffsetVeterinarian.stages.Talent_Veterinarian.description>兽医特性带来的天然加成。</MoodOffsetVeterinarian.stages.Talent_Veterinarian.description>
+  
+  <!-- EN: Talent: Weapons Master -->
+  <MoodOffsetWeaponsMaster.stages.Talent_Weapons_Master.label>武器大师</MoodOffsetWeaponsMaster.stages.Talent_Weapons_Master.label>
+  <!-- EN: Natural bonus from 'Weapons Master' trait. -->
+  <MoodOffsetWeaponsMaster.stages.Talent_Weapons_Master.description>武器大师特性带来的天然加成。</MoodOffsetWeaponsMaster.stages.Talent_Weapons_Master.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: German -->
+  <BA_Culture_HRE.label>德意志</BA_Culture_HRE.label>
+  <!-- EN: Culture of the Germany.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_Culture_HRE.description>德意志地区的文化。</BA_Culture_HRE.description>
+  
+</LanguageData>

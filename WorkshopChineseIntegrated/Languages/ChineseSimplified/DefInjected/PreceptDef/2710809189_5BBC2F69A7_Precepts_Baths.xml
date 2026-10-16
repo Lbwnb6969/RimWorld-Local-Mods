@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <AM_Baths_Desired.label>渴望</AM_Baths_Desired.label>
+  <!-- EN: Water is not just a necessity; it is a sacred medium for renewal and purity. The presence of bathtubs and showers reflects our devotion to cleanliness, both physical and spiritual. To neglect such facilities is to fall into disgrace, while their abundance brings harmony and joy. -->
+  <AM_Baths_Desired.description>水不仅是我们赖以生存的必要之物，更是通向焕新与纯洁所不可或缺的神圣媒介。浴缸和淋浴器的存在能体现我们对清洁自身的热忱。我们以忽视这些设备为耻，而它们的充盈会为我们带来和谐与喜悦。</AM_Baths_Desired.description>
+  <!-- EN: No bathtubs or showers -->
+  <AM_Baths_Desired.comps.0.thoughtStageDescriptions.0>没有浴缸或淋浴器</AM_Baths_Desired.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Very few bathtubs and showers (less than 1 per colonist) -->
+  <AM_Baths_Desired.comps.0.thoughtStageDescriptions.1>较少浴缸或淋浴器（少于每名殖民者1个）</AM_Baths_Desired.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Enough bathtubs and showers (less than 1.25 per colonist) -->
+  <AM_Baths_Desired.comps.0.thoughtStageDescriptions.2>足量浴缸或淋浴器（少于每名殖民者1.25个）</AM_Baths_Desired.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Lots of bathtubs and showers (1.25 per colonist or more) -->
+  <AM_Baths_Desired.comps.0.thoughtStageDescriptions.3>很多浴缸或淋浴器（每名殖民者1.25个及以上）</AM_Baths_Desired.comps.0.thoughtStageDescriptions.3>
+  
+</LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: write animals book -->
+  <VBE_RecipeAnimals.label>撰写驯兽书</VBE_RecipeAnimals.label>
+  <!-- EN: Write animals book. -->
+  <VBE_RecipeAnimals.description>撰写驯兽书</VBE_RecipeAnimals.description>
+  <!-- EN: writing animals book. -->
+  <VBE_RecipeAnimals.jobString>撰写驯兽书</VBE_RecipeAnimals.jobString>
+  
+  <!-- EN: write art book -->
+  <VBE_RecipeArt.label>撰写艺术书</VBE_RecipeArt.label>
+  <!-- EN: Write art book. -->
+  <VBE_RecipeArt.description>撰写艺术书</VBE_RecipeArt.description>
+  <!-- EN: writing art book. -->
+  <VBE_RecipeArt.jobString>撰写艺术书</VBE_RecipeArt.jobString>
+  
+  <!-- EN: write construction book -->
+  <VBE_RecipeConstruction.label>撰写建造书</VBE_RecipeConstruction.label>
+  <!-- EN: Write construction book. -->
+  <VBE_RecipeConstruction.description>撰写建造书</VBE_RecipeConstruction.description>
+  <!-- EN: writing construction book. -->
+  <VBE_RecipeConstruction.jobString>撰写建造书</VBE_RecipeConstruction.jobString>
+  
+  <!-- EN: write cooking book -->
+  <VBE_RecipeCooking.label>撰写烹饪书</VBE_RecipeCooking.label>
+  <!-- EN: Write cooking book. -->
+  <VBE_RecipeCooking.description>撰写烹饪书</VBE_RecipeCooking.description>
+  <!-- EN: writing cooking book. -->
+  <VBE_RecipeCooking.jobString>撰写烹饪书</VBE_RecipeCooking.jobString>
+  
+  <!-- EN: write crafting book -->
+  <VBE_RecipeCrafting.label>撰写手工书</VBE_RecipeCrafting.label>
+  <!-- EN: Write crafting book. -->
+  <VBE_RecipeCrafting.description>撰写手工书</VBE_RecipeCrafting.description>
+  <!-- EN: writing crafting book. -->
+  <VBE_RecipeCrafting.jobString>撰写手工书</VBE_RecipeCrafting.jobString>
+  
+  <!-- EN: write growing book -->
+  <VBE_RecipeGrowing.label>撰写种植书</VBE_RecipeGrowing.label>
+  <!-- EN: Write growing book. -->
+  <VBE_RecipeGrowing.description>撰写种植书</VBE_RecipeGrowing.description>
+  <!-- EN: writing growing book. -->
+  <VBE_RecipeGrowing.jobString>撰写种植书</VBE_RecipeGrowing.jobString>
+  
+  <!-- EN: write intellectual book -->
+  <VBE_RecipeIntellectual.label>撰写智识书</VBE_RecipeIntellectual.label>
+  <!-- EN: Write intellectual book. -->
+  <VBE_RecipeIntellectual.description>撰写智识书</VBE_RecipeIntellectual.description>
+  <!-- EN: writing intellectual book. -->
+  <VBE_RecipeIntellectual.jobString>撰写智识书</VBE_RecipeIntellectual.jobString>
+  
+  <!-- EN: write medical book -->
+  <VBE_RecipeMedical.label>撰写医疗书</VBE_RecipeMedical.label>
+  <!-- EN: Write medical book. -->
+  <VBE_RecipeMedical.description>撰写医疗书</VBE_RecipeMedical.description>
+  <!-- EN: writing medical book. -->
+  <VBE_RecipeMedical.jobString>撰写医疗书</VBE_RecipeMedical.jobString>
+  
+  <!-- EN: write melee book -->
+  <VBE_RecipeMelee.label>撰写格斗书</VBE_RecipeMelee.label>
+  <!-- EN: Write melee book. -->
+  <VBE_RecipeMelee.description>撰写格斗书</VBE_RecipeMelee.description>
+  <!-- EN: writing melee book. -->
+  <VBE_RecipeMelee.jobString>撰写格斗书</VBE_RecipeMelee.jobString>
+  
+  <!-- EN: write mining book -->
+  <VBE_RecipeMining.label>撰写采矿书</VBE_RecipeMining.label>
+  <!-- EN: Write mining book. -->
+  <VBE_RecipeMining.description>撰写采矿书</VBE_RecipeMining.description>
+  <!-- EN: writing mining book. -->
+  <VBE_RecipeMining.jobString>撰写采矿书</VBE_RecipeMining.jobString>
+  
+  <!-- EN: write shooting book -->
+  <VBE_RecipeShooting.label>撰写射击书</VBE_RecipeShooting.label>
+  <!-- EN: Write shooting book. -->
+  <VBE_RecipeShooting.description>撰写射击书</VBE_RecipeShooting.description>
+  <!-- EN: writing shooting book. -->
+  <VBE_RecipeShooting.jobString>撰写射击书</VBE_RecipeShooting.jobString>
+  
+  <!-- EN: write social book -->
+  <VBE_RecipeSocial.label>撰写社交书</VBE_RecipeSocial.label>
+  <!-- EN: Write social book. -->
+  <VBE_RecipeSocial.description>撰写社交书</VBE_RecipeSocial.description>
+  <!-- EN: writing social book. -->
+  <VBE_RecipeSocial.jobString>撰写社交书</VBE_RecipeSocial.jobString>
+  
+</LanguageData>

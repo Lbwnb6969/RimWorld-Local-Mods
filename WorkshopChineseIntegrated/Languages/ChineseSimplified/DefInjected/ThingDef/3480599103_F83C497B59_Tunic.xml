@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tunic -->
+  <TA_PeasantTunic.label>农民束腰外衣</TA_PeasantTunic.label>
+  <!-- EN: . -->
+  <TA_PeasantTunic.description>农民日常穿着的简单束腰外衣。</TA_PeasantTunic.description>
+  
+  <!-- EN: kid's dress -->
+  <TA_KidDress.label>儿童长袖衣裤</TA_KidDress.label>
+  <!-- EN: A dress -->
+  <TA_KidDress.description>一套儿童用的长袖衣裤。</TA_KidDress.description>
+  
+</LanguageData>

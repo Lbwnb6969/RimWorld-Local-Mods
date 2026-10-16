@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beaver dam -->
+  <AEXP_BeaverDam.label>海狸坝</AEXP_BeaverDam.label>
+  <!-- EN: Beaver dams or beaver impoundments are dams built by beavers to provide ponds as protection against predators such as coyotes, wolves, and bears, and to provide easy access to food during winter. -->
+  <AEXP_BeaverDam.description>海狸坝或海狸蓄水池是由海狸建造的堤坝，用以保护水塘，以抵御野狼、狼和熊等掠食者，并在冬季方便其获取食物。</AEXP_BeaverDam.description>
+  
+</LanguageData>

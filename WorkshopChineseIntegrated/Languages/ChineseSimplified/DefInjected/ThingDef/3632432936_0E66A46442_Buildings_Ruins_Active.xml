@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient unstable barrel bomb -->
+  <VR_AncientBarrelBomb.label>远古不稳定桶炸弹</VR_AncientBarrelBomb.label>
+  <!-- EN: An ancient barrel filled with explosive material. It has become dangerously unstable over the years due to lack of maintenance. -->
+  <VR_AncientBarrelBomb.description>一只装满爆炸物的古老桶。多年来缺乏维护使其变得极不稳定。</VR_AncientBarrelBomb.description>
+  
+  <!-- EN: ancient artficer sargophagus pod -->
+  <VR_ArtificerSarcophagus.label>远古机巧师石棺舱</VR_ArtificerSarcophagus.label>
+  <!-- EN: A single-use sarcophagus for preserving one person in a state of suspended animation. -->
+  <VR_ArtificerSarcophagus.description>用于将一人保存在假死状态的单次使用石棺舱。</VR_ArtificerSarcophagus.description>
+  
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_DreadnoughtFuneralBehavior.roles.0.label>演讲者</AM_DreadnoughtFuneralBehavior.roles.0.label>
+  <!-- EN: Corpse -->
+  <AM_DreadnoughtFuneralBehavior.roles.1.label>尸体</AM_DreadnoughtFuneralBehavior.roles.1.label>
+  <!-- EN: Apothecary -->
+  <AM_DreadnoughtFuneralBehavior.roles.2.label>医师</AM_DreadnoughtFuneralBehavior.roles.2.label>
+  <!-- EN: Spectators must be alive. -->
+  <AM_DreadnoughtFuneralBehavior.spectatorFilter.description>观众必须为活着的殖民者。</AM_DreadnoughtFuneralBehavior.spectatorFilter.description>
+  <!-- EN: Unable to retrieve materials -->
+  <AM_DreadnoughtFuneralBehavior.stages.0.failTriggers.0.desc>找不到所需材料。</AM_DreadnoughtFuneralBehavior.stages.0.failTriggers.0.desc>
+  <!-- EN: {0}: The speech is over, and the welding has commenced. -->
+  <AM_DreadnoughtFuneralBehavior.stages.1.postAction.text>{0}: 演讲结束了，无畏战棺组装开始了。</AM_DreadnoughtFuneralBehavior.stages.1.postAction.text>
+  
+</LanguageData>

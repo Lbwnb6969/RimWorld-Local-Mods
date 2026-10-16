@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Schrat Drops -->
+
+  <DankPyon_SchratHeart.label>森林之心</DankPyon_SchratHeart.label>
+  <DankPyon_SchratHeart.description>一颗汇聚着生命能量的球体，仍然滋养着几根扭动着的附根。当握在手中时，这颗球体的脉动速度会加快，贪婪地从接触点吸收热量。它是许多神秘仪式中的重要道具，是货真价值的财宝。</DankPyon_SchratHeart.description>
+
+  <DankPyon_AncientWood.label>古木</DankPyon_AncientWood.label>
+  <DankPyon_AncientWood.description>一块和时间一样古老的深色橡木。这种木材以其强度和耐用性而闻名，可以承受物理打击。是用来制造盾牌的完美材料。</DankPyon_AncientWood.description>
+
+  <DankPyon_GlowingResin.label>发光树脂</DankPyon_GlowingResin.label>
+  <DankPyon_GlowingResin.description>这种树脂明亮但色彩浓艳，就像一颗散发着森林深邃色彩的迷人宝石。能够用来制作药水和其他配方。</DankPyon_GlowingResin.description>
+
+
+  <!-- Unhold Drops -->
+
+  <DankPyon_UnholdBones.label>巨大骨头</DankPyon_UnholdBones.label>
+  <DankPyon_UnholdBones.description>来自巨魔的大型残骸，散发出原始的力量和不寻常的气息。这种骨头因为巨大的尺寸和坚韧的物理抗性使其在材料市场上备受欢迎。</DankPyon_UnholdBones.description>
+
+  <DankPyon_ThickUnholdFur.label>巨魔厚毛皮</DankPyon_ThickUnholdFur.label>
+  <DankPyon_ThickUnholdFur.description>温暖而耐用的巨魔厚毛皮，以其厚度和不受天气影响的特性而闻名，是制作强韧衣服和防护装备的首选材料。</DankPyon_ThickUnholdFur.description>
+
+  <DankPyon_UnholdHide.label>巨魔皮</DankPyon_UnholdHide.label>
+  <DankPyon_UnholdHide.description>坚固而耐用的巨魔皮，以其硬度和不受天气影响的特性而闻名，是制作强韧衣服和防护装备的首选材料。</DankPyon_UnholdHide.description>
+
+  <DankPyon_UnholdHeart.label>巨魔之心</DankPyon_UnholdHeart.label>
+  <DankPyon_UnholdHeart.description>这颗仍在跳动的心脏着实令人生畏，它蕴含着原始的力量和古老的活力，被认为是制造药剂师的奇迹的关键成分。</DankPyon_UnholdHeart.description>
+
+  <!-- Ancient Troll Drops -->
+
+  <DankPyon_TrollHeart.label>古代心脏</DankPyon_TrollHeart.label>
+  <DankPyon_TrollHeart.description>古代山怪的心脏，远比人头还要大。看到它的人都会产生咬上一口的莫名冲动，仿佛只要这么做，就能使他们成为有史以来最勇敢的战士。</DankPyon_TrollHeart.description>
+
+  <!-- Webknecht -->
+
+  <DankPyon_Gossamer.label>蛛魔丝</DankPyon_Gossamer.label>
+  <DankPyon_Gossamer.description>蛛魔强韧的丝线，强度比钢铁还要高、重量也比较轻。</DankPyon_Gossamer.description>
+
+  <DankPyon_PoisonGland.label>蛛魔毒腺</DankPyon_PoisonGland.label>
+  <DankPyon_PoisonGland.description>蛛魔的毒腺，以其毒液可轻易放倒一头罗克斯牛而闻名。</DankPyon_PoisonGland.description>
+
+  <DankPyon_RedbackPoisonGland.label>红背蛛魔毒腺</DankPyon_RedbackPoisonGland.label>
+  <DankPyon_RedbackPoisonGland.description>红背蛛魔的毒腺，里头毒液的毒性比一般蛛魔还要强，甚至能轻易放倒一头鹿熊。</DankPyon_RedbackPoisonGland.description>
+
+  <DankPyon_LindwurmBlood.label>林德虫血液</DankPyon_LindwurmBlood.label>
+  <DankPyon_LindwurmBlood.description>精心保存在玻璃瓶中的林德虫血液。这种酸性的血液具有极强腐蚀性，能在几秒钟内融穿金属板甲。可用于制作攻击性的道具，因此深受炼金术士和猎人们的青睐。</DankPyon_LindwurmBlood.description>
+
+  <DankPyon_LindwurmBones.label>林德虫骨头</DankPyon_LindwurmBones.label>
+  <DankPyon_LindwurmBones.description>取自林德虫身上坚固且轻巧的骨头，因其耐用性而受到工匠的重视，通常用来制作坚固的武器和特殊工具。</DankPyon_LindwurmBones.description>
+
+  <DankPyon_LindwurmScales.label>林德虫鳞片</DankPyon_LindwurmScales.label>
+  <DankPyon_LindwurmScales.description>从林德虫身上剥下的坚硬且耐用的鳞片，因其卓越的强度和弹性而备受推崇。是制作高质量盔甲和防护装备的理想材料。</DankPyon_LindwurmScales.description>
+
+  <!-- Ghoul -->
+
+  <DankPyon_NachHorns.label>尼塔特角</DankPyon_NachHorns.label>
+  <DankPyon_NachHorns.description>尼塔特锋利且扭曲的角，以坚硬著称，可用于制作强大的武器或仪式用品。</DankPyon_NachHorns.description>
+
+  <!-- Alp -->
+
+  <DankPyon_ParchedSkin.label>干瘪皮肤</DankPyon_ParchedSkin.label>
+  <DankPyon_ParchedSkin.description>从梦魇身上剥下来的干瘪皮肤，通常用来制作具有微妙防护功能的服饰或炼金产品。传说，一位古代国王曾在攻城时用了十几张梦魇皮吸干敌人的护城河。</DankPyon_ParchedSkin.description>
+
+  <DankPyon_PetrifiedScream.label>恐怖尖声</DankPyon_PetrifiedScream.label>
+  <DankPyon_PetrifiedScream.description>来自梦魇身上的独特器官，是一种罕见而阴森的材料，可用于制作炼金产品或黑暗仪式。据信每个恐怖尖啸里头都包含了一千名不同受害者死前的尖叫。如果把它放在耳边，还能听到微弱的尖叫声。</DankPyon_PetrifiedScream.description>
+
+  <DankPyon_ThirdEye.label>第三只眼</DankPyon_ThirdEye.label>
+  <DankPyon_ThirdEye.description>来自梦魇身上的神秘器官，以其超越物理领域的感知能力而闻名，虽然是一件令人作呕的战利品，但常被用于强大的仪式或制作具有增强感知/通灵能力的物品。据说梦魇能透过这只眼睛看穿猎物的想法和灵魂，不要和这只眼睛对视，否则你会觉得自己失去了一部分。</DankPyon_ThirdEye.description>
+
+  <!-- Dire Wolf -->
+
+  <DankPyon_AdrenalineGland.label>肾上腺</DankPyon_AdrenalineGland.label>
+  <DankPyon_AdrenalineGland.description>这个器官能显著增强人体的战斗或逃跑反应，当肾上腺大量分泌肾上腺素和皮质醇时可增加力量、速度和反应时间。常用于制造强效的兴奋剂。</DankPyon_AdrenalineGland.description>
+
+</LanguageData>

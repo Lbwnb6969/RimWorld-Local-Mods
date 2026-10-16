@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- mechanical hand -->
+
+  <MechanicalMedHand.label>机械手</MechanicalMedHand.label>
+  <MechanicalMedHand.description>一只机械手。</MechanicalMedHand.description>
+
+
+  <!-- mechanical arm -->
+
+  <MechanicalMedArm.label>机械手臂</MechanicalMedArm.label>
+  <MechanicalMedArm.description>一只机械手臂。</MechanicalMedArm.description>
+
+
+  <!-- mechanical leg -->
+
+  <MechanicalMedLeg.label>机械腿</MechanicalMedLeg.label>
+  <MechanicalMedLeg.description>一只机械腿。</MechanicalMedLeg.description>
+
+
+  <!-- mechanical foot -->
+
+  <MechanicalMedFoot.label>机械脚</MechanicalMedFoot.label>
+  <MechanicalMedFoot.description>一只机械脚。</MechanicalMedFoot.description>
+
+
+  <!-- mechanical toe -->
+
+  <MechanicalMedToe.label>机械趾</MechanicalMedToe.label>
+  <MechanicalMedToe.description>一只机械趾。</MechanicalMedToe.description>
+
+
+  <!-- mechanical  finger -->
+
+  <MechanicalMedFinger.label>机械指</MechanicalMedFinger.label>
+  <MechanicalMedFinger.description>一只机械指。</MechanicalMedFinger.description>
+
+
+  <!-- mechanical nose -->
+
+  <MechanicalMedNose.label>机械鼻</MechanicalMedNose.label>
+  <MechanicalMedNose.description>这只机械鼻复制品虽然没有真正鼻子的功能，但外观非常以假乱真。</MechanicalMedNose.description>
+
+
+  <!-- mechanical eye -->
+
+  <MechanicalMedEye.label>机械眼</MechanicalMedEye.label>
+  <MechanicalMedEye.description>这颗机械眼球复制品虽然没有真正眼睛的功能，但外观非常以假乱真。</MechanicalMedEye.description>
+
+
+  <!-- mechanical ear -->
+
+  <MechanicalMedEar.label>机械耳</MechanicalMedEar.label>
+  <MechanicalMedEar.description>这只机械耳复制品虽然没有真正耳蜗的功能，但外观非常以假乱真。</MechanicalMedEar.description>
+
+
+</LanguageData>

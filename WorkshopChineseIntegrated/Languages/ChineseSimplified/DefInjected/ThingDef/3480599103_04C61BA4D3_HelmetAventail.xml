@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brigandine helmet -->
+  <TA_HelmetAventailBrigandine.label>鳞甲护颈盔</TA_HelmetAventailBrigandine.label>
+  <!-- EN: . -->
+  <TA_HelmetAventailBrigandine.description>带有鳞甲护颈的草原战士头盔，提供额外颈部防护。</TA_HelmetAventailBrigandine.description>
+  
+  <!-- EN: lamellar aventail helmet -->
+  <TA_HelmetAventailLamellar.label>札甲护颈盔</TA_HelmetAventailLamellar.label>
+  <!-- EN: . -->
+  <TA_HelmetAventailLamellar.description>带有札甲护颈的草原战士头盔，提供全面头部和颈部防护。</TA_HelmetAventailLamellar.description>
+  
+</LanguageData>

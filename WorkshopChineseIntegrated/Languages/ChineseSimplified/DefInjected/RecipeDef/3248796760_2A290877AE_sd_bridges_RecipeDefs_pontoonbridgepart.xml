@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make pontoon bridge part -->
+  <sd_bridges_recipe_pontoonbridgepart_tablemachin.label>制作浮筒</sd_bridges_recipe_pontoonbridgepart_tablemachin.label>
+  <!-- EN: Make stuff into pontoon bridge part (10 stuff = pontoon bridge part). This is used to build pontoon bridges. -->
+  <sd_bridges_recipe_pontoonbridgepart_tablemachin.description>把可用材料做成浮筒（10个材料=1浮筒）。 用于建造浮桥。</sd_bridges_recipe_pontoonbridgepart_tablemachin.description>
+  <!-- EN: Making pontoon bridge part. -->
+  <sd_bridges_recipe_pontoonbridgepart_tablemachin.jobString>正在制作浮筒。</sd_bridges_recipe_pontoonbridgepart_tablemachin.jobString>
+  
+  <!-- EN: make pontoon bridge part(10) -->
+  <sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.label>制作浮筒(10)</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.label>
+  <!-- EN: Make stuff into pontoon bridge part (10 stuff = pontoon bridge part). This is used to build pontoon bridges. -->
+  <sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.description>把可用材料做成浮筒（10个材料=1浮筒）。 用于建造浮桥。</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.description>
+  <!-- EN: Making pontoon bridge part. -->
+  <sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.jobString>正在制作浮筒。</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.jobString>
+  
+  <!-- EN: make pontoon bridge part -->
+  <sd_bridges_recipe_pontoonbridgepart_tablestone.label>制作浮筒</sd_bridges_recipe_pontoonbridgepart_tablestone.label>
+  <!-- EN: Make stuff into pontoon bridge part (10 stuff = pontoon bridge part). This is used to build pontoon bridges. -->
+  <sd_bridges_recipe_pontoonbridgepart_tablestone.description>把可用材料做成浮筒（10个材料=1浮筒）。 用于建造浮桥。</sd_bridges_recipe_pontoonbridgepart_tablestone.description>
+  <!-- EN: Making pontoon bridge part. -->
+  <sd_bridges_recipe_pontoonbridgepart_tablestone.jobString>正在制作浮筒。</sd_bridges_recipe_pontoonbridgepart_tablestone.jobString>
+  
+  <!-- EN: make pontoon bridge part(10) -->
+  <sd_bridges_recipe_pontoonbridgepart_tablestone_10times.label>制作浮筒(10)</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.label>
+  <!-- EN: Make stuff into pontoon bridge part (10 stuff = pontoon bridge part). This is used to build pontoon bridges. -->
+  <sd_bridges_recipe_pontoonbridgepart_tablestone_10times.description>把可用材料做成浮筒（10个材料=1浮筒）。 用于建造浮桥。</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.description>
+  <!-- EN: Making pontoon bridge part. -->
+  <sd_bridges_recipe_pontoonbridgepart_tablestone_10times.jobString>正在制作浮筒。</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.jobString>
+  
+</LanguageData>

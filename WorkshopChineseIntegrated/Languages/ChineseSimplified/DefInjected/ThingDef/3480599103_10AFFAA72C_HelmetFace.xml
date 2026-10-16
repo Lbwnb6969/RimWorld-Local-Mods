@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: face helmet -->
+  <TA_HelmetFaceClosed.label>全罩面甲盔</TA_HelmetFaceClosed.label>
+  <!-- EN: . -->
+  <TA_HelmetFaceClosed.description>带有可开合面甲的草原战士头盔，提供全面部防护。</TA_HelmetFaceClosed.description>
+  <!-- EN: open visor -->
+  <TA_HelmetFaceClosed.comps.CompSwitchApparel.Label>打开面甲</TA_HelmetFaceClosed.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: face helmet -->
+  <TA_HelmetFaceOpen.label>开面甲盔</TA_HelmetFaceOpen.label>
+  <!-- EN: . -->
+  <TA_HelmetFaceOpen.description>面甲开启状态的草原战士头盔，视野更开阔。</TA_HelmetFaceOpen.description>
+  <!-- EN: close visor -->
+  <TA_HelmetFaceOpen.comps.CompSwitchApparel.Label>关闭面甲</TA_HelmetFaceOpen.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

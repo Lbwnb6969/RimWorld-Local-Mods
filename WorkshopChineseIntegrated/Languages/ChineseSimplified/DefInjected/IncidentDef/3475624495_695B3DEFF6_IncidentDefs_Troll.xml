@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: troll burrow -->
+  <DA_TrollBurrow_Incident.label>巨魔掘进</DA_TrollBurrow_Incident.label>
+  <!-- EN: troll burrow formed -->
+  <DA_TrollBurrow_Incident.letterLabel>巨魔们挖通地道了</DA_TrollBurrow_Incident.letterLabel>
+  <!-- EN: Trolls have dug their way out from underground and created troll burrows. -->
+  <DA_TrollBurrow_Incident.letterText>巨魔们从地底世界挖通了数条巨魔地道。</DA_TrollBurrow_Incident.letterText>
+  
+  <!-- EN: pale scourge -->
+  <DA_TrollOutbreak_Incident.label>白祸</DA_TrollOutbreak_Incident.label>
+  <!-- EN: pale scourge -->
+  <DA_TrollOutbreak_Incident.letterLabel>白祸</DA_TrollOutbreak_Incident.letterLabel>
+  
+  <!-- EN: hungry trolls -->
+  <DA_TrollWander_Incident.label>饥饿的巨魔</DA_TrollWander_Incident.label>
+  <!-- EN: wandering pale trolls -->
+  <DA_TrollWander_Incident.letterLabel>漫游的巨魔</DA_TrollWander_Incident.letterLabel>
+  <!-- EN: A group of hungry trolls have wandered into the area. -->
+  <DA_TrollWander_Incident.letterText>一群饥饿的巨魔偶然进入了这片区域。</DA_TrollWander_Incident.letterText>
+  
+</LanguageData>

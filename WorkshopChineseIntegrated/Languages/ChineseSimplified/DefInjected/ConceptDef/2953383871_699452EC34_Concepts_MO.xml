@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: MO: Explorer's Table -->
+  <DankPyon_Concept_ExplorerTable.label>MO: 探索者研究桌</DankPyon_Concept_ExplorerTable.label>
+  <!-- EN: Explorer's Table can used to find quest locations by using torn notes as fuel.\nThe more objects linked to the table the higher level of locations can be searched for. -->
+  <DankPyon_Concept_ExplorerTable.helpText>殖民者们可以在探索者研究桌寻找隐密的据点和可开采的矿石，需要破损的笔记才能运作。\n根据研究桌所连结的物件，可以解锁不同的搜索目标。\n（请查阅知识宝典以获得更详细的资讯）</DankPyon_Concept_ExplorerTable.helpText>
+  
+  <!-- EN: MO: Lumber -->
+  <DankPyon_Concept_Lumber.label>MO: 伐木制材</DankPyon_Concept_Lumber.label>
+  <!-- EN: Logs will need to be cut into planks before they can be used for more complex uses.\nA trestle can be used to cut logs into planks. -->
+  <DankPyon_Concept_Lumber.helpText>砍伐树木可获得未经加工的木头，在锯木台将这些原木切割成木材，能运用于更复杂的建筑或其他用途。</DankPyon_Concept_Lumber.helpText>
+  
+  <!-- EN: MO: Schematics -->
+  <DankPyon_Concept_Schematics.label>MO: 原理图</DankPyon_Concept_Schematics.label>
+  <!-- EN: Some research require schematics placed inside a bookshelf to start research.\nSchematics can be found in quest locations from explorer's table or very rarely from traders. -->
+  <DankPyon_Concept_Schematics.helpText>某些中世纪研究项目需要原理图才能推进研究进度，将原理图存放至研究室的书柜，您就可以开始研究相应的项目了。(注意：由于原理图使用了类似原版书籍的半随机命名规则，因此在游戏中获得的原理图名称通常不会叫「原理图」。)\n\n获得原理图的方法：\n1.在通信桌呼叫同盟贵族世家，请求派遣「学者」商队，并在他们抵达后向其购买。\n2.或者您也可以在任务地点(废墟)搜刮，书架上通常会获得1、2个随机的原理图。\n\n※您也可以至设定选项将原理图改为类似原版科技蓝图的可使用道具，此模式下的原理图名称不会套用半随机生成规则。</DankPyon_Concept_Schematics.helpText>
+  
+  <!-- EN: MO: Tanning leather -->
+  <DankPyon_Concept_Tanning.label>MO: 鞣制皮革</DankPyon_Concept_Tanning.label>
+  <!-- EN: Hides will need to be processed before they can be used.\nUse a tanning rack to create leather.\nA drying rack can be used to create weaker rawhide. -->
+  <DankPyon_Concept_Tanning.helpText>屠宰动物后获得的生皮，必须在鞣皮架经过加工后才能成为可用的皮革，过程需消耗鞣酸。\n晾皮架虽然也能用来加工皮革，但因为没有经过鞣酸的化学作用，只能勉强将生皮晒干成较劣质的皮料。</DankPyon_Concept_Tanning.helpText>
+
+  <!-- EN: MO: Regeneration -->
+  <DankPyon_Concept_Regeneration.label>MO: 怪物</DankPyon_Concept_Regeneration.label>
+  <!-- EN: Some monsters have a fast healing factor called "regeneration".\nRegeneration can be turned off with the use of fire. -->
+  <DankPyon_Concept_Regeneration.helpText>栖息在黑暗森林及废墟里的怪物，是旅人们绝对要避开的对象，但世间仍有许多珍宝猎人前仆后继地争相前往狩猎，因为从它们身上能获取到珍稀且价值连城的炼金材料。\n特定的怪物(古代山怪)拥有强大的自愈能力，使用火焰持续点燃它们可以防止其自愈。\n\n部分怪物无法被驯化(如：古代山怪、巨魔、宝箱怪和树灵)，它们长期受到林中女巫的迷魅效果影响，已成为女巫忠诚的嗜血仆从，任何试图强行接近它们的人都会受到猛烈的反击，即便驯服成功，也会因为怪物陷入服从错乱而引发杀戮状态。</DankPyon_Concept_Regeneration.helpText>
+
+</LanguageData>

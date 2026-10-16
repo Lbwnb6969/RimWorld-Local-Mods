@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Colorable shoulder 1 -->
+  <BEWH_DecoColorPauldron_1.label>可着色肩甲（1）</BEWH_DecoColorPauldron_1.label>
+  <!-- EN: ... -->
+  <BEWH_DecoColorPauldron_1.description>...</BEWH_DecoColorPauldron_1.description>
+  
+  <!-- EN: Colorable shoulder 2 -->
+  <BEWH_DecoColorPauldron_2.label>可着色肩甲（2）</BEWH_DecoColorPauldron_2.label>
+  <!-- EN: ... -->
+  <BEWH_DecoColorPauldron_2.description>...</BEWH_DecoColorPauldron_2.description>
+  
+  <!-- EN: Deathwatch pauldron -->
+  <BEWH_DecoDWatchPauldron.label>死亡守望肩甲</BEWH_DecoDWatchPauldron.label>
+  <!-- EN: ... -->
+  <BEWH_DecoDWatchPauldron.description>...</BEWH_DecoDWatchPauldron.description>
+  
+</LanguageData>

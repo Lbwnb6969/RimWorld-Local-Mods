@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: second triumvir -->
+  <VME_IdeoRole_LeaderSecond.label>第二领袖</VME_IdeoRole_LeaderSecond.label>
+  <!-- EN: A leader who holds the group together and represents your faction in diplomatic interactions. -->
+  <VME_IdeoRole_LeaderSecond.description>一名领袖，负责把团队凝聚在一起，并在外交互动中代表你的派系。</VME_IdeoRole_LeaderSecond.description>
+  
+  <!-- EN: third triumvir -->
+  <VME_IdeoRole_LeaderThird.label>第三领袖</VME_IdeoRole_LeaderThird.label>
+  <!-- EN: A leader who holds the group together and represents your faction in diplomatic interactions. -->
+  <VME_IdeoRole_LeaderThird.description>一名领袖，负责把团队凝聚在一起，并在外交互动中代表你的派系。</VME_IdeoRole_LeaderThird.description>
+  
+</LanguageData>

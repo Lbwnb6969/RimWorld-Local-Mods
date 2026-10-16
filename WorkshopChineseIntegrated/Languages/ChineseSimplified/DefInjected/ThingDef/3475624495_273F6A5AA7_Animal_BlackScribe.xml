@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: black scribe -->
+  <DA_BlackScribe.label>黑书吏</DA_BlackScribe.label>
+  <!-- EN: A shade amongst the scorching sands. The black scribe is a deadly insectoid capable of taking down creatures much larger than itself with its dreadful sting. The name of scribe comes from its feather-like stinger, composed of countless small quills that it uses to quickly inject a toxic venom, which greatly weakens its prey.\n\nIt’s venom can be safely extracted every few days, and while the toxin is incredibly dangerous, it procures a sensastion of bliss when consumed in small doses. Making it a highly sought-after drug. -->
+  <DA_BlackScribe.description>作为灼热沙漠中的阴影，黑书吏是一种能用其钉刺猎捕比它大得多的生物的致命昆虫。书吏的名字来源于它那由数不清的小刺羽组成的形如羽毛笔的蛰刺，能快速注入毒液虚弱猎物。\n\n其毒液能每隔几天被提取一次，尽管剧毒，但小剂量服用时能使人兴奋，故而千金难求。</DA_BlackScribe.description>
+  <!-- EN: left pincer -->
+  <DA_BlackScribe.tools.left_pincer.label>左螯</DA_BlackScribe.tools.left_pincer.label>
+  <!-- EN: right pincer -->
+  <DA_BlackScribe.tools.right_pincer.label>右螯</DA_BlackScribe.tools.right_pincer.label>
+  <!-- EN: head -->
+  <DA_BlackScribe.tools.head.label>头</DA_BlackScribe.tools.head.label>
+  
+  <!-- EN: red tear -->
+  <DA_RedTear.label>红墨</DA_RedTear.label>
+  <!-- EN: A droplet of red ink extracted from the venom gland of a black scribe, often consumed by pouring it on an eye. While dangerous, it procures a feeling of euphoria in small doses. -->
+  <DA_RedTear.description>从黑书吏的毒腺中提取出的一滴红墨，一般将其滴入眼睛以摄入。尽管危险，它在小剂量使用时能给人带来极乐。</DA_RedTear.description>
+  <!-- EN: Pour {0} -->
+  <DA_RedTear.ingestible.ingestCommandString>滴{0}</DA_RedTear.ingestible.ingestCommandString>
+  <!-- EN: Pouring {0}. -->
+  <DA_RedTear.ingestible.ingestReportString>滴{0}</DA_RedTear.ingestible.ingestReportString>
+  
+</LanguageData>

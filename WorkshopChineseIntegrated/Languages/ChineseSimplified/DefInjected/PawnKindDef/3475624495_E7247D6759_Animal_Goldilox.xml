@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: goldilox -->
+  <DA_Goldilox.label>金牦</DA_Goldilox.label>
+  <!-- EN: goldilox calf -->
+  <DA_Goldilox.lifeStages.goldilox_calf.label>金牦幼崽</DA_Goldilox.lifeStages.goldilox_calf.label>
+  <!-- EN: goldilox calves -->
+  <DA_Goldilox.lifeStages.goldilox_calf.labelPlural>金牦幼崽们</DA_Goldilox.lifeStages.goldilox_calf.labelPlural>
+  
+</LanguageData>

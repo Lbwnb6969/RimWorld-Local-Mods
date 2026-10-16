@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <GR_ExtractorFuneralOutcome.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</GR_ExtractorFuneralOutcome.description>
+  <!-- EN: moral guide present -->
+  <GR_ExtractorFuneralOutcome.comps.0.label>传道者出席</GR_ExtractorFuneralOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <GR_ExtractorFuneralOutcome.comps.1.label>参与者数量</GR_ExtractorFuneralOutcome.comps.1.label>
+  <!-- EN: Geneticist -->
+  <GR_ExtractorFuneralOutcome.comps.2.label>基因科学家</GR_ExtractorFuneralOutcome.comps.2.label>
+  <!-- EN: {RITUAL} was spectacular! {CORPSE} miraculously produced 2 genomes, perhaps they did eat their twin in the womb -->
+  <GR_ExtractorFuneralOutcome.modExtensions.0.bestOutcomeDesc>{RITUAL}非常完美！{CORPSE}出乎意料地产出了2份基因物质。</GR_ExtractorFuneralOutcome.modExtensions.0.bestOutcomeDesc>
+  <!-- EN: {{RITUAL} was a disaster! {CORPSE}'s genome was destroyed; colonists are having to say goodbye -->
+  <GR_ExtractorFuneralOutcome.modExtensions.0.worstOutcomeDesc>{RITUAL}糟糕透顶！{CORPSE}的基因物质完全损坏了，其他殖民者只得向他们的朋友做最后道别。</GR_ExtractorFuneralOutcome.modExtensions.0.worstOutcomeDesc>
+  <!-- EN: Terrible -->
+  <GR_ExtractorFuneralOutcome.outcomeChances.0.label>糟糕的</GR_ExtractorFuneralOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was a terrible! Everyone felt devestated for having to see the genomes destroyed. -->
+  <GR_ExtractorFuneralOutcome.outcomeChances.0.description>{0}非常糟糕！大家都在为完全损坏的基因物质感到痛心。</GR_ExtractorFuneralOutcome.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <GR_ExtractorFuneralOutcome.outcomeChances.1.label>枯燥乏味的</GR_ExtractorFuneralOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. The speech was long-winded and failed to invoke the imagination. -->
+  <GR_ExtractorFuneralOutcome.outcomeChances.1.description>{0}枯燥乏味。演讲冗长且无趣，完全无法唤起我们对基因实验的遐想。</GR_ExtractorFuneralOutcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <GR_ExtractorFuneralOutcome.outcomeChances.2.label>令人满意的</GR_ExtractorFuneralOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The speaker's final words provided hope for the creations. -->
+  <GR_ExtractorFuneralOutcome.outcomeChances.2.description>{0}令人满意。演讲者的结束语照亮了我们的创作之路。</GR_ExtractorFuneralOutcome.outcomeChances.2.description>
+  <!-- EN: Amazing -->
+  <GR_ExtractorFuneralOutcome.outcomeChances.3.label>令人惊异的</GR_ExtractorFuneralOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was Amazing. The speech was captivating, and everyone came away focused on the creations that could be made. -->
+  <GR_ExtractorFuneralOutcome.outcomeChances.3.description>{0}令人惊异。演讲感人肺腑，大家都在专心思考该创造怎样的混种生物。</GR_ExtractorFuneralOutcome.outcomeChances.3.description>
+  
+</LanguageData>

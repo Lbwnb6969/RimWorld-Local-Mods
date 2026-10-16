@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: participated in raid -->
+  <VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.label>参与袭击</VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.label>
+  <!-- EN: I participated in a raid. How could we do that? It's horribly shameful! -->
+  <VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.description>我参加了一次袭击！我们怎么能干这种可耻的行为！</VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.description>
+  
+  <!-- EN: participated in raid -->
+  <VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.label>参与袭击</VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.label>
+  <!-- EN: I participated in a raid. Through conquest, we bring honor to our colony. -->
+  <VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.description>我参加了一次袭击！通过征服，我们将为殖民地带来无上的荣耀！</VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.description>
+  
+  <!-- EN: recent conquest -->
+  <VME_RecentConquest_Abhorrent.stages.recent_conquest.label>近期征服</VME_RecentConquest_Abhorrent.stages.recent_conquest.label>
+  <!-- EN: We recently raided another faction. This is horrible and brings shame to our colony. -->
+  <VME_RecentConquest_Abhorrent.stages.recent_conquest.description>我们最近袭击了另一个派系。这会让我们的殖民地蒙羞的。</VME_RecentConquest_Abhorrent.stages.recent_conquest.description>
+  <!-- EN: no recent conquest -->
+  <VME_RecentConquest_Abhorrent.stages.no_recent_conquest.label>近期没有征服</VME_RecentConquest_Abhorrent.stages.no_recent_conquest.label>
+  <!-- EN: It's been a long since we raided anyone. This is as it should be, we are not bullies. -->
+  <VME_RecentConquest_Abhorrent.stages.no_recent_conquest.description>我们已经很久没袭击过任何人了。我们并非凶恶之徒，这么做是正确的。</VME_RecentConquest_Abhorrent.stages.no_recent_conquest.description>
+  
+  <!-- EN: recent conquest -->
+  <VME_RecentConquest_Honorable.stages.recent_conquest.label>近期征服</VME_RecentConquest_Honorable.stages.recent_conquest.label>
+  <!-- EN: We recently raided another faction. Through conquest, we bring honor to our colony. -->
+  <VME_RecentConquest_Honorable.stages.recent_conquest.description>我们最近袭击了另一个派系。通过征服，我们将为殖民地带来无上的荣耀！</VME_RecentConquest_Honorable.stages.recent_conquest.description>
+  <!-- EN: no recent conquest -->
+  <VME_RecentConquest_Honorable.stages.no_recent_conquest.label>近期没有征服</VME_RecentConquest_Honorable.stages.no_recent_conquest.label>
+  <!-- EN: It's been far too long since we raided anyone. Through conquest, we bring honor to our colony. -->
+  <VME_RecentConquest_Honorable.stages.no_recent_conquest.description>我们已经很久没袭击过任何人了。通过征服，我们将为殖民地带来无上的荣耀！</VME_RecentConquest_Honorable.stages.no_recent_conquest.description>
+  
+</LanguageData>

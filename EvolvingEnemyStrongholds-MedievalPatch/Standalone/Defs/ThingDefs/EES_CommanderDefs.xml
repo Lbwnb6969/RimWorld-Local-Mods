@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>EES_CommanderShield</defName>
+    <label>지휘관 보호막</label>
+    <description>지휘관을 중심으로 전개되는 이동형 투사체 차단막. 직사·곡사 투사체를 모두 막는다.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <tickerType>Normal</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <drawerType>RealtimeOnly</drawerType>
+    <selectable>false</selectable>
+    <useHitPoints>false</useHitPoints>
+    <size>(1,1)</size>
+    <passability>Standable</passability>
+    <fillPercent>0</fillPercent>
+    <rotatable>false</rotatable>
+    <scatterableOnMapGen>false</scatterableOnMapGen>
+    <graphicData>
+
+      <texPath>Things/Pawn/Humanlike/Apparel/ShieldBelt/ShieldBelt</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(0.05, 0.05)</drawSize>
+    </graphicData>
+    <building>
+      <isInert>true</isInert>
+      <claimable>false</claimable>
+      <isEdifice>false</isEdifice>
+    </building>
+    <comps>
+      <li Class="CompProperties_ProjectileInterceptor">
+        <radius>12</radius>
+        <interceptGroundProjectiles>true</interceptGroundProjectiles>
+        <interceptAirProjectiles>true</interceptAirProjectiles>
+        <color>(0.30, 0.55, 1.0)</color>
+        <hitPoints>2000</hitPoints>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="ApparelBase">
+    <defName>EES_CommanderShieldBelt</defName>
+    <label>보호막 벨트 (지휘관)</label>
+    <description>방어 장교가 착용하는 군용 보호막 투사기. 착용자를 중심으로 반경 8칸의 직사·곡사 차단막을 전개한다. 노획할 수 없다.</description>
+    <techLevel>Spacer</techLevel>
+
+    <tickerType>Normal</tickerType>
+
+    <smeltable>false</smeltable>
+    <tradeability>None</tradeability>
+    <generateCommonality>0</generateCommonality>
+    <thingCategories>
+      <li>ApparelUtility</li>
+    </thingCategories>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/ShieldBelt/ShieldBelt</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <Mass>3</Mass>
+      <MaxHitPoints>100</MaxHitPoints>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>Waist</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+    </apparel>
+    <comps>
+      <li Class="EvolvingEnemyStrongholds.CompProperties_EESCommanderBelt" />
+    </comps>
+  </ThingDef>
+
+</Defs>

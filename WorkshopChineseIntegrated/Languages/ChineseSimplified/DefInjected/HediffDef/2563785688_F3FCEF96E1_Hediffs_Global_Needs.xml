@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: low energy -->
+  <O21_LowEnergy.label>能量不足</O21_LowEnergy.label>
+  <!-- EN: Extremely low energy supplies, only running on emergency reserves. Without additional energy soon, the pawn will not be able to get back up. -->
+  <O21_LowEnergy.description>能量供应极度匮乏，只能依靠应急能量储备维持运转。如果仍然得不到额外的能量供应，此单位将无法重新站起来。</O21_LowEnergy.description>
+  <!-- EN: trivial -->
+  <O21_LowEnergy.stages.trivial.label>轻微</O21_LowEnergy.stages.trivial.label>
+  <!-- EN: minor -->
+  <O21_LowEnergy.stages.minor.label>较轻</O21_LowEnergy.stages.minor.label>
+  <!-- EN: moderate -->
+  <O21_LowEnergy.stages.moderate.label>中等</O21_LowEnergy.stages.moderate.label>
+  <!-- EN: severe -->
+  <O21_LowEnergy.stages.severe.label>严重</O21_LowEnergy.stages.severe.label>
+  <!-- EN: extreme -->
+  <O21_LowEnergy.stages.extreme.label>极重</O21_LowEnergy.stages.extreme.label>
+  
+</LanguageData>

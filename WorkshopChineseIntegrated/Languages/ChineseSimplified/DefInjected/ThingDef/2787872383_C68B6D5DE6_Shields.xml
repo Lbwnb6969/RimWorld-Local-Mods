@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy shield -->
+  <VFEC_Shield_Heavy.label>塔盾</VFEC_Shield_Heavy.label>
+  <!-- EN: A heavily fortified square shield that covers one's body from shin to shoulder, heavy enough to slow those weidling it at the benefit of incredible protection. -->
+  <VFEC_Shield_Heavy.description>一种厚重的盾牌，可以覆盖一个人从腿到肩膀的整个身体。会拖慢持有者的行动，但防御力极强。</VFEC_Shield_Heavy.description>
+  <!-- EN: base -->
+  <VFEC_Shield_Heavy.tools.base.label>盾身</VFEC_Shield_Heavy.tools.base.label>
+  <!-- EN: centre -->
+  <VFEC_Shield_Heavy.tools.centre.label>盾心</VFEC_Shield_Heavy.tools.centre.label>
+  
+</LanguageData>

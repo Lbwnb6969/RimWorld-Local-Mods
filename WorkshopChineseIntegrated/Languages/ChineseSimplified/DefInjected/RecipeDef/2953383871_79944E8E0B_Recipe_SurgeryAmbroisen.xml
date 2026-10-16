@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallAmbroisenMedHand.label>安装 安布鲁瓦兹义肢(手)</InstallAmbroisenMedHand.label>
+  <InstallAmbroisenMedHand.description>安装 安布鲁瓦兹义肢(手)。</InstallAmbroisenMedHand.description>
+  <InstallAmbroisenMedHand.jobString>正在安装 安布鲁瓦兹义肢(手)。</InstallAmbroisenMedHand.jobString>
+
+  <InstallAmbroisenMedArm.label>安装 安布鲁瓦兹义肢(手臂)</InstallAmbroisenMedArm.label>
+  <InstallAmbroisenMedArm.description>安装 安布鲁瓦兹义肢(手臂)。</InstallAmbroisenMedArm.description>
+  <InstallAmbroisenMedArm.jobString>正在安装 安布鲁瓦兹义肢(手臂)。</InstallAmbroisenMedArm.jobString>
+
+  <InstallAmbroisenMedLeg.label>安装 安布鲁瓦兹义肢(腿)</InstallAmbroisenMedLeg.label>
+  <InstallAmbroisenMedLeg.description>安装 安布鲁瓦兹义肢(腿)。</InstallAmbroisenMedLeg.description>
+  <InstallAmbroisenMedLeg.jobString>正在安装 安布鲁瓦兹义肢(腿)。</InstallAmbroisenMedLeg.jobString>
+
+  <InstallAmbroisenMedFoot.label>安装 安布鲁瓦兹义肢(脚)</InstallAmbroisenMedFoot.label>
+  <InstallAmbroisenMedFoot.description>安装 安布鲁瓦兹义肢(脚)。</InstallAmbroisenMedFoot.description>
+  <InstallAmbroisenMedFoot.jobString>正在安装 安布鲁瓦兹义肢(脚)。</InstallAmbroisenMedFoot.jobString>
+
+  <InstallAmbroisenMedFinger.label>安装 安布鲁瓦兹义肢(手指)</InstallAmbroisenMedFinger.label>
+  <InstallAmbroisenMedFinger.description>安装 安布鲁瓦兹义肢(手指)。</InstallAmbroisenMedFinger.description>
+  <InstallAmbroisenMedFinger.jobString>正在安装 安布鲁瓦兹义肢(手指)。</InstallAmbroisenMedFinger.jobString>
+
+  <InstallAmbroisenMedToe.label>安装 安布鲁瓦兹义肢(脚趾)</InstallAmbroisenMedToe.label>
+  <InstallAmbroisenMedToe.description>安装 安布鲁瓦兹义肢(脚趾)。</InstallAmbroisenMedToe.description>
+  <InstallAmbroisenMedToe.jobString>正在安装 安布鲁瓦兹义肢(脚趾)。</InstallAmbroisenMedToe.jobString>
+
+  <InstallAmbroisenMedNose.label>安装 安布鲁瓦兹义肢(鼻)</InstallAmbroisenMedNose.label>
+  <InstallAmbroisenMedNose.description>安装 安布鲁瓦兹义肢(鼻)。</InstallAmbroisenMedNose.description>
+  <InstallAmbroisenMedNose.jobString>正在安装 安布鲁瓦兹义肢(鼻)。</InstallAmbroisenMedNose.jobString>
+
+  <InstallAmbroisenMedEye.label>安装 安布鲁瓦兹义肢(眼)</InstallAmbroisenMedEye.label>
+  <InstallAmbroisenMedEye.description>安装 安布鲁瓦兹义肢(眼)。</InstallAmbroisenMedEye.description>
+  <InstallAmbroisenMedEye.jobString>正在安装 安布鲁瓦兹义肢(眼)。</InstallAmbroisenMedEye.jobString>
+
+  <InstallAmbroisenMedEar.label>安装 安布鲁瓦兹义肢(耳)</InstallAmbroisenMedEar.label>
+  <InstallAmbroisenMedEar.description>安装 安布鲁瓦兹义肢(耳)。</InstallAmbroisenMedEar.description>
+  <InstallAmbroisenMedEar.jobString>正在安装 安布鲁瓦兹义肢(耳)。</InstallAmbroisenMedEar.jobString>
+
+
+</LanguageData>

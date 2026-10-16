@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- +++++ Winter Coat +++++ -->
+
+  <AMT_Apparel_Wintercoat.label>冬季大衣</AMT_Apparel_Wintercoat.label>
+  <AMT_Apparel_Wintercoat.description>一件制作精良的大衣，能够保护穿着者免受最寒冷的夜晚的影响。</AMT_Apparel_Wintercoat.description>
+
+
+  <!-- +++++ Cowl +++++ -->
+
+  <AMT_Headgear_Cowl.label>厚兜帽</AMT_Headgear_Cowl.label>
+  <AMT_Headgear_Cowl.description>用加固的织物或皮革制成的厚头罩。提供一定的保护和保暖性。</AMT_Headgear_Cowl.description>
+
+
+  <!-- +++++ Cloak +++++ -->
+
+  <AMT_Apparel_Cloak.label>披风</AMT_Apparel_Cloak.label>
+  <AMT_Apparel_Cloak.description>一件系在脖子上的宽松披风。</AMT_Apparel_Cloak.description>
+
+
+  <!-- +++++ Winter Cloak +++++ -->
+
+  <AMT_Apparel_WinterCloak.label>冬季披风</AMT_Apparel_WinterCloak.label>
+  <AMT_Apparel_WinterCloak.description>一件扣在脖子上的厚披风。这种披风由皮革或兽皮制成，能为穿戴者保持温暖。</AMT_Apparel_WinterCloak.description>
+
+
+</LanguageData>

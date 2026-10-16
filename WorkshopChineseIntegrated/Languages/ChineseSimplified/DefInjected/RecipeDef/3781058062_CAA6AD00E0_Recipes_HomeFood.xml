@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make corn bread -->
+  <Make_TavCornBread.label>制作玉米面包</Make_TavCornBread.label>
+  <!-- EN: Bake corn dough into warm, crumbly bread. -->
+  <Make_TavCornBread.description>将玉米面团焙烤成温热的酥脆面包。</Make_TavCornBread.description>
+  <!-- EN: Baking corn bread. -->
+  <Make_TavCornBread.jobString>正在制作玉米面包。</Make_TavCornBread.jobString>
+  
+  <!-- EN: make corn bread (x4) -->
+  <Make_TavCornBread_X4.label>制作玉米面包 x4</Make_TavCornBread_X4.label>
+  <!-- EN: Bake a large batch of corn bread. -->
+  <Make_TavCornBread_X4.description>将玉米面团批量焙烤成温热的酥脆面包。</Make_TavCornBread_X4.description>
+  <!-- EN: Baking corn bread. -->
+  <Make_TavCornBread_X4.jobString>正在制作玉米面包。</Make_TavCornBread_X4.jobString>
+  
+  <!-- EN: make corn dough -->
+  <Make_TavCornDough.label>制作玉米面团</Make_TavCornDough.label>
+  <!-- EN: Grind corn into raw dough. -->
+  <Make_TavCornDough.description>用研磨的玉米面制作生面团。</Make_TavCornDough.description>
+  <!-- EN: Making corn dough. -->
+  <Make_TavCornDough.jobString>正在制作玉米面团。</Make_TavCornDough.jobString>
+  
+  <!-- EN: make corn dough (x4) -->
+  <Make_TavCornDough_X4.label>制作玉米面团 x4</Make_TavCornDough_X4.label>
+  <!-- EN: Grind a large batch of corn into dough. -->
+  <Make_TavCornDough_X4.description>用研磨的玉米面批量制作生面团。</Make_TavCornDough_X4.description>
+  <!-- EN: Making corn dough. -->
+  <Make_TavCornDough_X4.jobString>正在制作玉米面团。</Make_TavCornDough_X4.jobString>
+  
+  <!-- EN: make corn mush -->
+  <Make_TavCornMush.label>制作玉米面粥</Make_TavCornMush.label>
+  <!-- EN: Cook ground corn into a warm porridge. -->
+  <Make_TavCornMush.description>用研磨的玉米面制作玉米面粥。</Make_TavCornMush.description>
+  <!-- EN: Cooking corn mush. -->
+  <Make_TavCornMush.jobString>正在制作玉米面粥。</Make_TavCornMush.jobString>
+  
+  <!-- EN: make corn mush (x4) -->
+  <Make_TavCornMush_X4.label>制作玉米面粥 x4</Make_TavCornMush_X4.label>
+  <!-- EN: Cook a large batch of corn mush. -->
+  <Make_TavCornMush_X4.description>用研磨的玉米面批量制作玉米面粥。</Make_TavCornMush_X4.description>
+  <!-- EN: Cooking corn mush. -->
+  <Make_TavCornMush_X4.jobString>正在制作玉米面粥。</Make_TavCornMush_X4.jobString>
+  
+  <!-- EN: make meat and rice -->
+  <Make_TavMeatRice.label>制作炖肉饭</Make_TavMeatRice.label>
+  <!-- EN: Cook meat with rice for a hearty meal. -->
+  <Make_TavMeatRice.description>用肉类和稻米制作炖肉饭。</Make_TavMeatRice.description>
+  <!-- EN: Cooking meat and rice. -->
+  <Make_TavMeatRice.jobString>正在制作炖肉饭。</Make_TavMeatRice.jobString>
+  
+  <!-- EN: make meat and rice (x4) -->
+  <Make_TavMeatRice_X4.label>制作炖肉饭 x4</Make_TavMeatRice_X4.label>
+  <!-- EN: Cook a large batch of meat and rice. -->
+  <Make_TavMeatRice_X4.description>用肉类和稻米批量制作炖肉饭。</Make_TavMeatRice_X4.description>
+  <!-- EN: Cooking meat and rice. -->
+  <Make_TavMeatRice_X4.jobString>正在制作炖肉饭。</Make_TavMeatRice_X4.jobString>
+  
+  <!-- EN: make rice buns -->
+  <Make_TavRiceBuns.label>制作米饼</Make_TavRiceBuns.label>
+  <!-- EN: Bake rice buns from dough and rice. -->
+  <Make_TavRiceBuns.description>用玉米面团和稻米制作米饼。</Make_TavRiceBuns.description>
+  <!-- EN: Steaming rice buns. -->
+  <Make_TavRiceBuns.jobString>正在制作米饼。</Make_TavRiceBuns.jobString>
+  
+  <!-- EN: make rice buns (x4) -->
+  <Make_TavRiceBuns_X4.label>制作米饼 x4</Make_TavRiceBuns_X4.label>
+  <!-- EN: Bake a large batch of rice buns. -->
+  <Make_TavRiceBuns_X4.description>用玉米面团和稻米批量制作米饼。</Make_TavRiceBuns_X4.description>
+  <!-- EN: Steaming rice buns. -->
+  <Make_TavRiceBuns_X4.jobString>正在制作米饼。</Make_TavRiceBuns_X4.jobString>
+  
+  <!-- EN: render tallow -->
+  <Make_TavTallow.label>提炼油脂</Make_TavTallow.label>
+  <!-- EN: Render rotting corpses into adipocere. A long, messy, smelly process, but it turns waste into a useful resource. -->
+  <Make_TavTallow.description>从腐烂的尸体中提炼油脂。这一过程漫长、脏乱且恶臭，但能将废料转化为有用的资源。</Make_TavTallow.description>
+  <!-- EN: Rendering tallow. -->
+  <Make_TavTallow.jobString>正在提炼油脂。</Make_TavTallow.jobString>
+  
+</LanguageData>

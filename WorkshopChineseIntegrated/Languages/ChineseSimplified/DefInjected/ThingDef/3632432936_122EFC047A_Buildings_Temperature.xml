@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: steam fan -->
+  <VR_Cooler_Steam.label>蒸汽风扇</VR_Cooler_Steam.label>
+  <!-- EN: A rudimentary fan powered by a steam turbine. Must be connected to a steam network for it to work. Not efficient enough to refrigerate food. -->
+  <VR_Cooler_Steam.description>一种传统的无电力制冷器，通过水蒸发工作。必须定期补充木材。效率不足以冷藏食物。</VR_Cooler_Steam.description>
+  
+  <!-- EN: steam heater -->
+  <VR_Heater_Steam.label>蒸汽取暖器</VR_Heater_Steam.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <VR_Heater_Steam.description>将电力转化为热量的设备。可自动开关以达到指定温度。</VR_Heater_Steam.description>
+  
+  <!-- EN: steam wall lamp -->
+  <VRSteam_WallLamp.label>蒸汽壁灯</VRSteam_WallLamp.label>
+  <!-- EN: A steam-powered wall-mounted lamp that lights an area. It is less powerful than a torch, but more convenient. -->
+  <VRSteam_WallLamp.description>一盏蒸汽动力的壁挂灯，可照亮区域。亮度不如火把，但更方便。</VRSteam_WallLamp.description>
+  
+</LanguageData>

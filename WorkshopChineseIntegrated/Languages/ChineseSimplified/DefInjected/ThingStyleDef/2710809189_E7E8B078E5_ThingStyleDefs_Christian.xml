@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: halberd -->
+  <AM_Christian_Axe.overrideLabel>戟</AM_Christian_Axe.overrideLabel>
+  
+  <!-- EN: cudgel -->
+  <AM_Christian_Club.overrideLabel>短棒</AM_Christian_Club.overrideLabel>
+  
+  <!-- EN: squire sword -->
+  <AM_Christian_Gladius.overrideLabel>侍卫剑</AM_Christian_Gladius.overrideLabel>
+  
+  <!-- EN: flail -->
+  <AM_Christian_Hammer.overrideLabel>连枷</AM_Christian_Hammer.overrideLabel>
+  
+  <!-- EN: guisarme -->
+  <AM_Christian_Ikwa.overrideLabel>斧枪</AM_Christian_Ikwa.overrideLabel>
+  
+  <!-- EN: poignard -->
+  <AM_Christian_Knife.overrideLabel>单手匕首</AM_Christian_Knife.overrideLabel>
+  
+  <!-- EN: flanged mace -->
+  <AM_Christian_Mace.overrideLabel>凸缘钉头锤</AM_Christian_Mace.overrideLabel>
+  
+  <!-- EN: lance -->
+  <AM_Christian_Spear.overrideLabel>长枪</AM_Christian_Spear.overrideLabel>
+  
+  <!-- EN: knightly sword -->
+  <AM_Christian_Sword.overrideLabel>骑士剑</AM_Christian_Sword.overrideLabel>
+  
+</LanguageData>

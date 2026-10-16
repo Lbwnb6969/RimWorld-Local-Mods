@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] crafted fine weapons and armor for knights and nobles, perfecting [PAWN_possessive] trade in the forge. [PAWN_pronoun] developed an unmatched skill in shaping steel into works of art and tools of war. Though a master artisan, [PAWN_pronoun] often neglected other aspects of life, focusing solely on [PAWN_possessive] craft. -->
+  <VFEM_Armorer57.description>[PAWN_nameDef]为骑士和贵族们制作优良武器和盔甲，在铁匠铺完善[PAWN_possessive]生意。[PAWN_pronoun]在将钢铁打造成艺术品和战争工具方面习得了无双技艺。尽管是一位技艺精湛的工匠，[PAWN_pronoun]却常常忽视生活的其他方面，专注于[PAWN_possessive]作品上。</VFEM_Armorer57.description>
+  <!-- EN: armorer -->
+  <VFEM_Armorer57.title>武器工匠</VFEM_Armorer57.title>
+  <!-- EN: armorer -->
+  <VFEM_Armorer57.titleShort>武器工匠</VFEM_Armorer57.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was granted the title of baron and ruled over a small region in [PAWN_possessive] lord's service. [PAWN_pronoun] managed taxes, enforced laws, and led the local militia when needed. Though [PAWN_pronoun] excelled in leadership, [PAWN_pronoun] saw manual labor as the work of peasants. -->
+  <VFEM_Baron67.description>[PAWN_nameDef]被授予了男爵头衔，并在[PAWN_possessive]领主所辖下统治了一个小地区。[PAWN_pronoun]管理税收、执行律法，并在需要时率领本地军队。尽管[PAWN_pronoun]擅长领导他人，但[PAWN_pronoun]认为体力工作乃是农民的工作。</VFEM_Baron67.description>
+  <!-- EN: baron -->
+  <VFEM_Baron67.title>男爵</VFEM_Baron67.title>
+  <!-- EN: baron -->
+  <VFEM_Baron67.titleShort>男爵</VFEM_Baron67.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] presided over a vast forested estate, managing timber, game, and the people who lived beneath the canopy. [PAWN_pronoun] was skilled at balancing resource exploitation with conservation, ensuring the lordship’s wealth for generations. While [PAWN_pronoun] understood the land and its uses, [PAWN_pronoun] rarely participated in court politics. -->
+  <VFEM_BaronOfTheWoodlands91.description>[PAWN_nameDef]管理着一片被广袤森林覆盖的地产，以及其上的原木、猎物和住在树荫下的人们。[PAWN_pronoun]擅长平衡开发资源与保护，确保领主的财富可以世代延续。虽然[PAWN_pronoun]了解土地和它的用途，[PAWN_pronoun]很少参与宫廷政治。</VFEM_BaronOfTheWoodlands91.description>
+  <!-- EN: baron of the woodlands -->
+  <VFEM_BaronOfTheWoodlands91.title>林地男爵</VFEM_BaronOfTheWoodlands91.title>
+  <!-- EN: woodland baron -->
+  <VFEM_BaronOfTheWoodlands91.titleShort>林地男爵</VFEM_BaronOfTheWoodlands91.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was known for [PAWN_possessive] ability to tame and train even the wildest of animals. [PAWN_pronoun] was often called upon to handle dangerous beasts, a skill that earned both admiration and fear. Years spent with creatures left [PAWN_pronoun] more at ease with animals than people. -->
+  <VFEM_BeastTamer78.description>[PAWN_nameDef]因为善于驯兽而出名，即使最狂野的动物也能由[PAWN_pronoun]驯服和训练。[PAWN_pronoun]经常被要求训练危险的野兽，这项技艺既让人佩服，也让人害怕。在与这些生灵相处多年后，比起人类，[PAWN_pronoun]和动物相处更自在。</VFEM_BeastTamer78.description>
+  <!-- EN: beast tamer -->
+  <VFEM_BeastTamer78.title>驯兽师</VFEM_BeastTamer78.title>
+  <!-- EN: beast tamer -->
+  <VFEM_BeastTamer78.titleShort>驯兽师</VFEM_BeastTamer78.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was entrusted with the management of a noble's castle, ensuring its defenses were maintained and its residents well-cared for. [PAWN_pronoun] became an expert in logistics and leadership, coordinating repairs and overseeing the garrison. While skilled in administration and strategy, [PAWN_pronoun] left manual tasks to the servants. -->
+  <VFEM_Castellan56.description>[PAWN_nameDef]受托管理一座贵族的城堡，确保城堡的防御得到维护、其中的居民受到精心照顾。[PAWN_pronoun]因此成为了后勤和领导方面的专家，协调修缮和监督驻防。尽管善于管理和策略，但[PAWN_pronoun]把体力活留给了仆从。</VFEM_Castellan56.description>
+  <!-- EN: castellan -->
+  <VFEM_Castellan56.title>城堡主</VFEM_Castellan56.title>
+  <!-- EN: castellan -->
+  <VFEM_Castellan56.titleShort>城堡主</VFEM_Castellan56.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was entrusted with the armory of a great castle, overseeing the maintenance and distribution of weapons and armor. [PAWN_pronoun] became an expert in the design and upkeep of equipment, ensuring the garrison was always ready for battle. Though skilled in [PAWN_possessive] craft, [PAWN_pronoun] left combat to the knights [PAWN_pronoun] served. -->
+  <VFEM_CastellanOfArms62.description>[PAWN_nameDef]受托管理一座大城堡的军械库，监督武器与盔甲的维护与分配。[PAWN_pronoun]因此成为了装备设计和维护方面的专家，确保了守军随时可以投入战斗。尽管手艺精湛，但[PAWN_pronoun]将战斗力量留给了那些[PAWN_pronoun]服务的骑士。</VFEM_CastellanOfArms62.description>
+  <!-- EN: castellan of arms -->
+  <VFEM_CastellanOfArms62.title>军械库主</VFEM_CastellanOfArms62.title>
+  <!-- EN: armorer -->
+  <VFEM_CastellanOfArms62.titleShort>武器匠</VFEM_CastellanOfArms62.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led a band of sworn warriors tasked with guarding the borderlands from threats beyond. [PAWN_pronoun] was skilled in tactics, inspiring loyalty in [PAWN_possessive] men while maintaining discipline in harsh conditions. Though [PAWN_pronoun] excelled in combat and leadership, [PAWN_pronoun] remained isolated from the intrigues of court life. -->
+  <VFEM_CommanderOfTheWatch73.description>[PAWN_nameDef]率领一队宣誓的战士，负责保卫边境免受外部威胁。[PAWN_pronoun]擅长战术，并且也擅长在恶劣状况下保持纪律的同时，激发[PAWN_possessive]部下的忠诚。尽管[PAWN_pronoun]在战斗和领导方面表现出色，[PAWN_pronoun]仍然同宫廷生活的阴谋隔绝。</VFEM_CommanderOfTheWatch73.description>
+  <!-- EN: commander of the watch -->
+  <VFEM_CommanderOfTheWatch73.title>哨兵指挥官</VFEM_CommanderOfTheWatch73.title>
+  <!-- EN: commander -->
+  <VFEM_CommanderOfTheWatch73.titleShort>指挥官</VFEM_CommanderOfTheWatch73.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] entertained the courts of lords and kings with poetic tales, music, and sharp wit. [PAWN_pronoun] became a master of performance and an expert in reading the social dynamics of the nobility. Though praised for [PAWN_possessive] artistic brilliance, [PAWN_pronoun] avoided manual labor and relied on [PAWN_possessive] charm to navigate life. -->
+  <VFEM_CourtBard54.description>[PAWN_nameDef]用诗意的故事、优美的音乐和敏锐的智慧取悦宫廷中的领主和国王们。[PAWN_pronoun]因此成为了表演大师和解读贵族社交动态的专家。[PAWN_possessive]艺术才华备受赞誉，因此[PAWN_pronoun]依靠[PAWN_possessive]魅力来领航人生，远离了体力劳动。</VFEM_CourtBard54.description>
+  <!-- EN: court bard -->
+  <VFEM_CourtBard54.title>宫廷吟游诗人</VFEM_CourtBard54.title>
+  <!-- EN: bard -->
+  <VFEM_CourtBard54.titleShort>吟游诗人</VFEM_CourtBard54.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in the noble court, tending to the illnesses and injuries of the ruling family. [PAWN_pronoun] gained expertise in medicine and herbal remedies, becoming a trusted advisor in matters of health. Though valued for [PAWN_possessive] skills, [PAWN_pronoun] had little patience for physical labor. -->
+  <VFEM_CourtPhysician60.description>[PAWN_nameDef]在贵族宫廷任职，治疗领主家族成员的伤病。[PAWN_pronoun]学到了医学和草药方面的专业知识，成为了一位在健康问题上值得信赖的顾问。虽然[PAWN_possessive]专业技能深受重视，但[PAWN_pronoun]对体力劳动耐心不多。</VFEM_CourtPhysician60.description>
+  <!-- EN: court physician -->
+  <VFEM_CourtPhysician60.title>宫廷医师</VFEM_CourtPhysician60.title>
+  <!-- EN: physician -->
+  <VFEM_CourtPhysician60.titleShort>医师</VFEM_CourtPhysician60.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] thrived in the cutthroat world of the royal court, manipulating allies and enemies alike to advance [PAWN_possessive] ambitions. [PAWN_pronoun] became skilled in deception, politics, and reading people’s motives. While [PAWN_pronoun] rarely took to the battlefield, [PAWN_pronoun] wielded words as effectively as others wielded swords. -->
+  <VFEM_CourtSchemer74.description>[PAWN_nameDef]在残酷的皇家宫廷世界中蓬勃发展，暗中操纵[PAWN_possessive]盟友和敌人为[PAWN_possessive]野心铺路。[PAWN_pronoun]也因此变得善于欺骗、政治和解读人们的动机。尽管[PAWN_pronoun]很少上战场，但[PAWN_pronoun]耍嘴皮子和别人用剑一样厉害。</VFEM_CourtSchemer74.description>
+  <!-- EN: court schemer -->
+  <VFEM_CourtSchemer74.title>宫廷阴谋家</VFEM_CourtSchemer74.title>
+  <!-- EN: schemer -->
+  <VFEM_CourtSchemer74.titleShort>阴谋家</VFEM_CourtSchemer74.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] squandered [PAWN_possessive] family’s wealth on lavish parties and indulgent pursuits, earning the ire of [PAWN_possessive] peers. Though well-versed in etiquette and manipulation, [PAWN_pronoun] alienated allies and left [PAWN_possessive] family struggling to maintain their status. [PAWN_pronoun] remains charming but untrustworthy. -->
+  <VFEM_DebauchedAristocrat83.description>[PAWN_nameDef]将[PAWN_possessive]家族的财富浪费在奢侈派对与声色犬马上，这让[PAWN_possessive]同辈们十分愤怒。尽管[PAWN_pronoun]擅长礼仪和操纵，[PAWN_pronoun]却疏远了盟友，让[PAWN_possessive]家族难以维持原本的地位。[PAWN_pronoun]很迷人，但不值得信任。</VFEM_DebauchedAristocrat83.description>
+  <!-- EN: debauched aristocrat -->
+  <VFEM_DebauchedAristocrat83.title>放荡贵族</VFEM_DebauchedAristocrat83.title>
+  <!-- EN: debauched -->
+  <VFEM_DebauchedAristocrat83.titleShort>放荡者</VFEM_DebauchedAristocrat83.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled between courts, negotiating treaties and mediating disputes between noble houses. [PAWN_pronoun] excelled in persuasion and understanding the intricacies of politics, earning a reputation for tact and wisdom. [PAWN_pronoun] left physical tasks to others, relying on [PAWN_possessive] intellect and charm to succeed. -->
+  <VFEM_Diplomat58.description>[PAWN_nameDef]在宫廷之间旅行，为各路条约谈判并调解贵族之间的争端。[PAWN_pronoun]善于说服他人和理解政治的复杂，以老练和智慧而闻名。[PAWN_pronoun]将体力劳动留给了其他人，依靠[PAWN_possessive]智慧和魅力取得成功。</VFEM_Diplomat58.description>
+  <!-- EN: diplomat -->
+  <VFEM_Diplomat58.title>外交官</VFEM_Diplomat58.title>
+  <!-- EN: diplomat -->
+  <VFEM_Diplomat58.titleShort>外交官</VFEM_Diplomat58.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was once poised to inherit a noble title, but a scandal stripped [PAWN_objective] of [PAWN_possessive] birthright. Cast out from [PAWN_possessive] family, [PAWN_pronoun] became a shadow of [PAWN_possessive] former self, surviving through cunning and scraps of [PAWN_possessive] once-great wealth. Though [PAWN_pronoun] retained the manners of a noble, [PAWN_pronoun] was shunned by high society. -->
+  <VFEM_DisgracedHeir81.description>[PAWN_nameDef]曾有望继承一个贵族头衔，但一桩丑闻剥夺了[PAWN_objective]与生俱来的权利。在被赶出家族后，[PAWN_pronoun]变成了曾经的自己的影子，靠着狡猾和[PAWN_pronoun]曾经的大笔财富活了下来。虽然[PAWN_pronoun]拥有贵族的礼仪，但上流社会对[PAWN_pronoun]避之不及。</VFEM_DisgracedHeir81.description>
+  <!-- EN: disgraced heir -->
+  <VFEM_DisgracedHeir81.title>可耻的继承人</VFEM_DisgracedHeir81.title>
+  <!-- EN: disgraced -->
+  <VFEM_DisgracedHeir81.titleShort>可耻之人</VFEM_DisgracedHeir81.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was banished from [PAWN_possessive] homeland after losing a power struggle within [PAWN_possessive] family. Forced to flee, [PAWN_pronoun] lived in obscurity, using [PAWN_possessive] charm and wit to survive in foreign lands. While [PAWN_pronoun] retained noble airs, [PAWN_pronoun] struggled to regain the privileges of [PAWN_possessive] birth. -->
+  <VFEM_ExiledNoble82.description>[PAWN_nameDef]在家族内部权力斗争失利后被[PAWN_possessive]故乡放逐。[PAWN_pronoun]被迫逃离，默默无闻的活着，以[PAWN_possessive]魅力和智慧在异国他乡生存。[PAWN_pronoun]依然保持着贵族气质，[PAWN_pronoun]正为重新获得[PAWN_pronoun]出生时的特权努力着。</VFEM_ExiledNoble82.description>
+  <!-- EN: exiled noble -->
+  <VFEM_ExiledNoble82.title>流亡贵族</VFEM_ExiledNoble82.title>
+  <!-- EN: exiled -->
+  <VFEM_ExiledNoble82.titleShort>流亡者</VFEM_ExiledNoble82.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained and cared for hunting birds, guiding them to track prey for [PAWN_possessive] lord. [PAWN_pronoun] developed a deep understanding of animal behavior and earned respect for [PAWN_possessive] skill in falconry. While skilled with animals, [PAWN_pronoun] had little experience with tasks unrelated to [PAWN_possessive] craft. -->
+  <VFEM_Falconer76.description>[PAWN_nameDef]训练和照顾猎鹰，引导它们为[PAWN_possessive]领主追踪猎物。[PAWN_pronoun]因此对动物习性有了深刻理解，并因为[PAWN_possessive]鹰猎技艺受到了尊重。尽管和动物们很熟悉，但[PAWN_pronoun]对所有和[PAWN_possessive]技艺无关的任务几乎没有经验。</VFEM_Falconer76.description>
+  <!-- EN: falconer -->
+  <VFEM_Falconer76.title>鹰猎人</VFEM_Falconer76.title>
+  <!-- EN: falconer -->
+  <VFEM_Falconer76.titleShort>鹰猎人</VFEM_Falconer76.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] once swore an oath of loyalty as a knight but broke [PAWN_possessive] vows in pursuit of personal gain. Disgraced and stripped of [PAWN_possessive] title, [PAWN_pronoun] now wanders as a sell-sword, haunted by [PAWN_possessive] dishonor. Though [PAWN_pronoun] retains [PAWN_possessive] combat skills, [PAWN_pronoun] struggles to regain the respect [PAWN_pronoun] once commanded. -->
+  <VFEM_FallenKnight85.description>[PAWN_nameDef]曾作为起始宣誓效忠，但为了追求个人利益而打破了自己的誓言。[PAWN_pronoun]因此蒙羞并被剥夺了头衔，像一把待售的剑一样游荡，被自己的耻辱所困扰。尽管[PAWN_pronoun]保留了自己的战斗技艺，但[PAWN_pronoun]很难再赢得[PAWN_pronoun]曾经应得的尊重了。</VFEM_FallenKnight85.description>
+  <!-- EN: fallen knight -->
+  <VFEM_FallenKnight85.title>堕落骑士</VFEM_FallenKnight85.title>
+  <!-- EN: fallen knight -->
+  <VFEM_FallenKnight85.titleShort>堕落骑士</VFEM_FallenKnight85.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led a prosperous guild, coordinating the efforts of skilled artisans and merchants. [PAWN_pronoun] became a shrewd leader and negotiator, balancing trade and politics to secure the guild's interests. While brilliant in leadership, [PAWN_pronoun] rarely engaged in the craft [PAWN_pronoun] oversaw. -->
+  <VFEM_Guildmaster59.description>[PAWN_nameDef]领导着一个成功的公会，协调着熟练工匠和商人的组织活动。[PAWN_pronoun]因此成为了一名精明的领导者和谈判者，平衡着贸易与政治以确保工会的利益。尽管在作为领袖方面很出色，[PAWN_pronoun]却很少参与到[PAWN_pronoun]应当监督的工作中去。</VFEM_Guildmaster59.description>
+  <!-- EN: guildmaster -->
+  <VFEM_Guildmaster59.title>公会长</VFEM_Guildmaster59.title>
+  <!-- EN: guildmaster -->
+  <VFEM_Guildmaster59.titleShort>公会长</VFEM_Guildmaster59.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born into one of the most powerful noble families in the land, growing up surrounded by luxury and political intrigue. [PAWN_pronoun] mastered the art of diplomacy and the subtleties of court politics, earning a reputation as a skilled negotiator. While proficient in social and intellectual pursuits, [PAWN_pronoun] relied entirely on servants for physical tasks. -->
+  <VFEM_HighNoble68.description>[PAWN_nameDef]出生于这片土地上最有权势的贵族家庭之一，被金碧辉煌和政治阴谋环绕着长大。[PAWN_pronoun]精通外交艺术和宫廷政治的微妙之处，[PAWN_pronoun]因此赢得了熟练谈判者的声誉。虽然精通社交和寻求智慧，[PAWN_pronoun]完全依赖仆人进行体力劳动。</VFEM_HighNoble68.description>
+  <!-- EN: high noble -->
+  <VFEM_HighNoble68.title>高级贵族</VFEM_HighNoble68.title>
+  <!-- EN: noble -->
+  <VFEM_HighNoble68.titleShort>贵族</VFEM_HighNoble68.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as the spiritual leader of an influential ideology, presiding over rituals and interpreting sacred texts. [PAWN_pronoun] became a master of oratory and philosophy, guiding [PAWN_possessive] followers through times of prosperity and hardship. Though revered for [PAWN_possessive] wisdom, [PAWN_pronoun] rarely engaged in physical labor. -->
+  <VFEM_HighPriest96.description>[PAWN_nameDef]是某种影响力颇深的信仰的精神领袖，主持仪式并解释经典。[PAWN_pronoun]是演讲和哲学方面的大师，带领追随者走过了兴旺与艰难的时期。尽管[PAWN_possessive]智慧备受推崇，但[PAWN_pronoun]很少从事体力劳动。</VFEM_HighPriest96.description>
+  <!-- EN: high priest -->
+  <VFEM_HighPriest96.title>大主教</VFEM_HighPriest96.title>
+  <!-- EN: priest -->
+  <VFEM_HighPriest96.titleShort>主教</VFEM_HighPriest96.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fought to spread [PAWN_possessive] ideology by force, leading armies in its name. [PAWN_pronoun] was a fearsome warrior and an inspiring leader, rallying others to [PAWN_possessive] cause with [PAWN_possessive] fervor. While skilled in combat and persuasion, [PAWN_pronoun] lacked the patience for intellectual pursuits. -->
+  <VFEM_IdeologicalCrusader99.description>[PAWN_nameDef]依靠武力传播信仰，以信仰的名义领导军队。[PAWN_pronoun]是一位可畏的战士和鼓舞人心的领袖，[PAWN_pronoun]以[PAWN_possessive]热情将其他人团结到[PAWN_possessive]事业中去。虽然擅长战斗和说服，但[PAWN_pronoun]却缺乏寻求智慧的耐心。</VFEM_IdeologicalCrusader99.description>
+  <!-- EN: ideological crusader -->
+  <VFEM_IdeologicalCrusader99.title>宗教十字军</VFEM_IdeologicalCrusader99.title>
+  <!-- EN: crusader -->
+  <VFEM_IdeologicalCrusader99.titleShort>十字军</VFEM_IdeologicalCrusader99.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled from village to village, delivering sermons and spreading the tenets of [PAWN_possessive] ideology. [PAWN_pronoun] was a charismatic speaker, capable of inspiring devotion or stirring up rebellion. Though skilled at rallying others, [PAWN_pronoun] had little experience with physical labor or practical skills. -->
+  <VFEM_IdeologicalOrator100.description>[PAWN_nameDef]从一个村庄到另一个村庄，布道并传播[PAWN_possessive]信仰的信条。[PAWN_pronoun]是一位颇有魅力的演说家，善于激发奉献精神或是引发叛乱。尽管擅长召集裙子，但[PAWN_pronoun]却没有体力劳动或是练习技艺的经验。</VFEM_IdeologicalOrator100.description>
+  <!-- EN: ideological orator -->
+  <VFEM_IdeologicalOrator100.title>宗教雄辩家</VFEM_IdeologicalOrator100.title>
+  <!-- EN: orator -->
+  <VFEM_IdeologicalOrator100.titleShort>雄辩家</VFEM_IdeologicalOrator100.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] devoted [PAWN_possessive] life to studying the tenets of [PAWN_possessive] ideology, crafting treatises and debating its principles with others. [PAWN_pronoun] became highly respected for [PAWN_possessive] intellect and insight, often advising leaders on spiritual and ethical matters. While brilliant in [PAWN_possessive] field, [PAWN_pronoun] avoided manual or practical work. -->
+  <VFEM_IdeologicalScholar97.description>[PAWN_nameDef]毕生致力于研究[PAWN_possessive]信仰的教义，[PAWN_pronoun]撰写论文并和其他人讨论这些信条。[PAWN_pronoun]因其智慧和洞察力而备受尊敬，经常就宗教和道德问题向领导者提出建议。虽然[PAWN_nameDef]在[PAWN_possessive]领域范围内十分出色，但[PAWN_pronoun]远离了体力劳动和实际工作。</VFEM_IdeologicalScholar97.description>
+  <!-- EN: ideological scholar -->
+  <VFEM_IdeologicalScholar97.title>宗教学者</VFEM_IdeologicalScholar97.title>
+  <!-- EN: scholar -->
+  <VFEM_IdeologicalScholar97.titleShort>学者</VFEM_IdeologicalScholar97.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was entrusted with safeguarding the sacred artifacts of [PAWN_possessive] ideology, protecting them from harm and ensuring they were used in rituals. [PAWN_pronoun] developed a meticulous attention to detail and a deep reverence for [PAWN_possessive] duties. However, [PAWN_pronoun] lacked skills outside the preservation of relics and ceremonies. -->
+  <VFEM_KeeperOfRelics98.description>[PAWN_nameDef]受托保管来自[PAWN_possessive]信仰的圣物，保护它们免受伤害及确保它们被用于仪式上。因为责任傍身，[PAWN_pronoun]对细节有着极致的关注。然而，除去保护圣物和相关仪式外，[PAWN_pronoun]缺乏技能。</VFEM_KeeperOfRelics98.description>
+  <!-- EN: keeper of relics -->
+  <VFEM_KeeperOfRelics98.title>圣物保管人</VFEM_KeeperOfRelics98.title>
+  <!-- EN: keeper -->
+  <VFEM_KeeperOfRelics98.titleShort>保管人</VFEM_KeeperOfRelics98.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed vast flocks of sheep and herds of cattle for [PAWN_possessive] noble family, ensuring the animals thrived year-round. [PAWN_pronoun] developed an unmatched understanding of animal care and breeding while overseeing the laborers who worked under [PAWN_objective]. Though well-respected in [PAWN_possessive] rural domain, [PAWN_pronoun] had little experience with urban or military life. -->
+  <VFEM_KeeperOfTheHerds93.description>[PAWN_nameDef]为一个贵族家庭管理着大群牛羊，确保动物一整年都能茁壮成长。[PAWN_pronoun]在监督手下的工人工作时逐渐对照顾动物和繁殖动物有了无与伦比的理解。尽管[PAWN_pronoun]在乡下备受尊重，但[PAWN_pronoun]对城市或军队生活毫无经验。</VFEM_KeeperOfTheHerds93.description>
+  <!-- EN: keeper of the herds -->
+  <VFEM_KeeperOfTheHerds93.title>牧群管理者</VFEM_KeeperOfTheHerds93.title>
+  <!-- EN: herd keeper -->
+  <VFEM_KeeperOfTheHerds93.titleShort>牧群管理者</VFEM_KeeperOfTheHerds93.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] cared for the lord’s hunting dogs, training them for the chase and keeping them healthy. [PAWN_pronoun] became skilled at managing animals and handling their temperaments, earning trust as an expert handler. [PAWN_pronoun] often spent more time with dogs than people, leaving [PAWN_pronoun] socially awkward. -->
+  <VFEM_KennelMaster77.description>[PAWN_nameDef]负责照顾领主的猎犬，训练它们捕猎和保证它们健康。[PAWN_pronoun]因此变得擅长训练动物和管理动物情绪，作为专业的驯兽师而受到信赖。[PAWN_pronoun]和狗相处的时间比和人相处还多，这让[PAWN_pronoun]在社交时很尴尬。</VFEM_KennelMaster77.description>
+  <!-- EN: kennel master -->
+  <VFEM_KennelMaster77.title>犬舍主人</VFEM_KennelMaster77.title>
+  <!-- EN: kennel master -->
+  <VFEM_KennelMaster77.titleShort>犬舍主人</VFEM_KennelMaster77.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rose from the ranks of squires to earn [PAWN_possessive] title as a knight through courage and dedication. [PAWN_pronoun] became a master of swordplay and horseback combat, leading troops and protecting the realm with honor. While skilled in warfare, [PAWN_pronoun] considered manual labor beneath [PAWN_objective] and rarely engaged in menial tasks. -->
+  <VFEM_Knight51.description>[PAWN_nameDef]自扈从行列中崛起，以勇气和奉献精神为自己搏得了骑士头衔。[PAWN_pronoun]成为了剑术和马背战斗的大师，率领军队，光荣的保卫王国。虽然善于战斗，但[PAWN_pronoun]认为体力劳动有失身份，也很少做卑微的工作。</VFEM_Knight51.description>
+  <!-- EN: knight -->
+  <VFEM_Knight51.title>骑士</VFEM_Knight51.title>
+  <!-- EN: knight -->
+  <VFEM_Knight51.titleShort>骑士</VFEM_Knight51.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led a company of knights into battle, earning [PAWN_possessive] title through years of skill and strategy. [PAWN_pronoun] excelled at coordinating troops, inspiring loyalty among [PAWN_possessive] men, and devising battle plans. While unmatched in leadership and combat, [PAWN_pronoun] considered manual labor beneath [PAWN_objective]. -->
+  <VFEM_KnightCommander61.description>[PAWN_nameDef]带领一队骑士加入战斗，凭借多年的技能和策略赢得了[PAWN_possessive]头衔。[PAWN_pronoun]善于指挥部队，激发部下士兵的忠诚度，以及制定作战计划。虽然在作为领袖和战斗方面无与伦比，但[PAWN_pronoun]认为做体力劳动有失身份。</VFEM_KnightCommander61.description>
+  <!-- EN: knight commander -->
+  <VFEM_KnightCommander61.title>骑士指挥官</VFEM_KnightCommander61.title>
+  <!-- EN: commander -->
+  <VFEM_KnightCommander61.titleShort>指挥官</VFEM_KnightCommander61.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] wandered the land as a knight errant, seeking to prove [PAWN_possessive] valor through combat and acts of chivalry. [PAWN_pronoun] mastered swordsmanship and gained a reputation for [PAWN_possessive] fearless bravery. While skilled in combat and diplomacy, [PAWN_pronoun] neglected practical skills during [PAWN_possessive] travels. -->
+  <VFEM_KnightErrant63.description>[PAWN_nameDef]在这片土地上作为一名游侠骑士游荡，试图通过战斗和骑士行为来证明[PAWN_possessive]英勇。[PAWN_pronoun]精通剑术，并以[PAWN_possessive]无畏而闻名。尽管擅长战斗和外交，但[PAWN_pronoun]在旅行中忽略了那些实用的技能。</VFEM_KnightErrant63.description>
+  <!-- EN: knight errant -->
+  <VFEM_KnightErrant63.title>游侠骑士</VFEM_KnightErrant63.title>
+  <!-- EN: errant -->
+  <VFEM_KnightErrant63.titleShort>游侠</VFEM_KnightErrant63.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was granted a small estate in reward for [PAWN_possessive] service in battle. [PAWN_pronoun] balanced managing the land and protecting the local peasants, maintaining [PAWN_possessive] fighting skills while overseeing daily operations. Though a capable warrior and leader, [PAWN_pronoun] lacked the refinement of courtly life. -->
+  <VFEM_LandedKnight87.description>[PAWN_nameDef]因为在战斗中服从领主得到了一小片地产。[PAWN_pronoun]在管理地产和保护当地农民中取得平衡，在监督日常活动时保持[PAWN_possessive]战斗技巧。尽管[PAWN_pronoun]是一位优秀的战士和领袖，却缺乏宫廷生活的精致。</VFEM_LandedKnight87.description>
+  <!-- EN: landed knight -->
+  <VFEM_LandedKnight87.title>有产骑士</VFEM_LandedKnight87.title>
+  <!-- EN: knight -->
+  <VFEM_LandedKnight87.titleShort>骑士</VFEM_LandedKnight87.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born as the eldest child of a noble family, destined to inherit the estate and title. [PAWN_pronoun] received the finest education in governance, diplomacy, and warfare. While skilled in leadership and strategy, [PAWN_pronoun] avoided physical labor, seeing it as beneath [PAWN_objective]. -->
+  <VFEM_LordsHeir66.description>[PAWN_nameDef]是一个贵族家庭的长子，注定要继承家产和头衔。[PAWN_pronoun]接受了治理、外交、战争方面的最佳教育。虽然擅长领导他人和战略，但[PAWN_pronoun]刻意避免做体力劳动，并认为这有失身份。</VFEM_LordsHeir66.description>
+  <!-- EN: lord's heir -->
+  <VFEM_LordsHeir66.title>领主继承人</VFEM_LordsHeir66.title>
+  <!-- EN: heir -->
+  <VFEM_LordsHeir66.titleShort>继承人</VFEM_LordsHeir66.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled over a countryside manor, overseeing the labor of serfs and ensuring the productivity of [PAWN_possessive] lands. [PAWN_pronoun] was skilled in managing people and resources, often mediating disputes and collecting taxes. Though respected locally, [PAWN_pronoun] had little exposure to the broader politics of noble society. -->
+  <VFEM_ManorLord86.description>[PAWN_nameDef]管理着一个乡下农庄，监督农奴的劳动，确保[PAWN_possessive]土地的生产力。[PAWN_pronoun]善于管理人员和资源，经常调解纠纷和征税。尽管在当地深受尊重，[PAWN_pronoun]却不甚了解贵族社会中更广泛的政治。</VFEM_ManorLord86.description>
+  <!-- EN: manor lord -->
+  <VFEM_ManorLord86.title>庄园领主</VFEM_ManorLord86.title>
+  <!-- EN: lord -->
+  <VFEM_ManorLord86.titleShort>领主</VFEM_ManorLord86.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as the spymaster for a great lord, gathering intelligence through a network of informants and spies. [PAWN_pronoun] became an expert in intrigue, manipulation, and uncovering secrets, often wielding information as a weapon. While skilled in subterfuge, [PAWN_pronoun] avoided physical confrontations, preferring to work behind the scenes. -->
+  <VFEM_MasterOfWhispers72.description>[PAWN_nameDef]曾担任一位大领主的间谍首脑，通过线人和间谍组成的网络收集情报。[PAWN_pronoun]因此成为了阴谋、操纵和揭发隐秘的专家，并经常将信息作为武器。尽管[PAWN_pronoun]擅长诡计，却远离了身体对抗，隐藏于幕后工作。</VFEM_MasterOfWhispers72.description>
+  <!-- EN: master of whispers -->
+  <VFEM_MasterOfWhispers72.title>间谍首脑</VFEM_MasterOfWhispers72.title>
+  <!-- EN: spymaster -->
+  <VFEM_MasterOfWhispers72.titleShort>间谍首脑</VFEM_MasterOfWhispers72.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] built [PAWN_possessive] wealth through savvy trade, traveling across regions to barter exotic goods and secure lucrative deals. [PAWN_pronoun] became highly skilled in negotiation and logistics, ensuring the success of [PAWN_possessive] ventures. Though financially successful, [PAWN_pronoun] relied on others for physical labor and practical skills. -->
+  <VFEM_Merchant52.description>[PAWN_nameDef]通过颇有远见的贸易积累起[PAWN_possessive]财富，在不同地区旅行、交换异国商品和进行利润丰厚的交易。[PAWN_pronoun]在谈判和运输方面非常熟练，这确保了[PAWN_possessive]商业活动的成功。尽管在经济上很成功，但[PAWN_pronoun]仍然依靠他人完成体力劳动和练习技艺。</VFEM_Merchant52.description>
+  <!-- EN: merchant -->
+  <VFEM_Merchant52.title>商人</VFEM_Merchant52.title>
+  <!-- EN: merchant -->
+  <VFEM_Merchant52.titleShort>商人</VFEM_Merchant52.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was sent to foreign courts as a representative of [PAWN_possessive] family, brokering alliances and treaties. [PAWN_pronoun] became skilled in diplomacy and negotiation, earning admiration for [PAWN_possessive] eloquence and charm. However, [PAWN_pronoun] relied on servants for physical labor and rarely engaged in manual tasks. -->
+  <VFEM_NobleDiplomat69.description>[PAWN_nameDef]作为家族代表被派驻至外国宫廷，充当联盟和条约的中间人。[PAWN_pronoun]善于外交和谈判，赢得了人们对[PAWN_possessive]口才和魅力的钦佩。然而，[PAWN_pronoun]依靠仆人完成体力劳动，也很少参与到体力活中。</VFEM_NobleDiplomat69.description>
+  <!-- EN: noble diplomat -->
+  <VFEM_NobleDiplomat69.title>贵族外交官</VFEM_NobleDiplomat69.title>
+  <!-- EN: diplomat -->
+  <VFEM_NobleDiplomat69.titleShort>外交官</VFEM_NobleDiplomat69.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up surrounded by wealth and privilege, trained from a young age to govern lands and lead people. [PAWN_pronoun] mastered the art of diplomacy and honed [PAWN_possessive] skills in archery and strategy to prepare for [PAWN_possessive] future responsibilities. However, [PAWN_pronoun] considered manual work beneath [PAWN_objective] and delegated such tasks to servants. -->
+  <VFEM_NobleHeir53.description>[PAWN_nameDef]在财富和特权环绕中长大，从小就接受治理土地和率领人民的训练。[PAWN_pronoun]掌握了外交艺术，并磨练了射箭和战略技巧，为[PAWN_pronoun]未来的责任做准备。然而，[PAWN_pronoun]认为做体力劳动有失身份，并将这些事委托给仆人。</VFEM_NobleHeir53.description>
+  <!-- EN: noble heir -->
+  <VFEM_NobleHeir53.title>贵族继承人</VFEM_NobleHeir53.title>
+  <!-- EN: noble -->
+  <VFEM_NobleHeir53.titleShort>贵族</VFEM_NobleHeir53.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] protected the countryside estates and nearby villages from bandits and wild beasts. [PAWN_pronoun] served as a bridge between the nobility and common folk, maintaining order through diplomacy and strength. Though skilled in combat and negotiation, [PAWN_pronoun] remained rooted in the simplicity of rural life. -->
+  <VFEM_PastoralGuardian90.description>[PAWN_nameDef]保护乡下农庄和临近的村庄免受土匪与野兽的侵扰。[PAWN_pronoun]是贵族和普通民众之间的桥梁，通过外交和力量维持秩序。尽管善于战斗和谈判，[PAWN_pronoun]仍然扎根于淳朴的乡村生活中。</VFEM_PastoralGuardian90.description>
+  <!-- EN: pastoral guardian -->
+  <VFEM_PastoralGuardian90.title>牧民守护者</VFEM_PastoralGuardian90.title>
+  <!-- EN: guardian -->
+  <VFEM_PastoralGuardian90.titleShort>守护者</VFEM_PastoralGuardian90.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for patrolling and protecting the rivers flowing through [PAWN_possessive] family’s lands. [PAWN_pronoun] ensured trade and fishing were conducted lawfully, earning respect as a fair and capable overseer. Though [PAWN_pronoun] excelled in maintaining order, [PAWN_pronoun] lacked skills in diplomacy beyond [PAWN_possessive] domain. -->
+  <VFEM_RiverWarden94.description>[PAWN_nameDef]负责巡逻和保护流经[PAWN_possessive]家族土地的河流。[PAWN_pronoun]确保捕鱼和贸易合法进行，作为一名公平和有能力的监督者赢得了尊重。尽管[PAWN_pronoun]在维持秩序方面保持出色，但[PAWN_pronoun]缺乏在[PAWN_possessive]专业领域之外的外交技能。</VFEM_RiverWarden94.description>
+  <!-- EN: river warden -->
+  <VFEM_RiverWarden94.title>河道管理者</VFEM_RiverWarden94.title>
+  <!-- EN: warden -->
+  <VFEM_RiverWarden94.titleShort>管理者</VFEM_RiverWarden94.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as one of the elite guards sworn to protect the king and [PAWN_possessive] family. [PAWN_pronoun] was trained in both melee and ranged combat, becoming highly skilled in personal defense and loyalty. The prestigious position left [PAWN_pronoun] unaccustomed to menial tasks, focusing solely on [PAWN_possessive] duty. -->
+  <VFEM_RoyalGuard64.description>[PAWN_nameDef]是宣誓保护国王及皇室家族的精英护卫之一。[PAWN_pronoun]同时接受了近战和远距离战斗的训练，在护卫个人和宣誓效忠方面十分娴熟。这个显赫的职务让[PAWN_pronoun]不习惯于基础的工作，专注于[PAWN_possessive]责任。</VFEM_RoyalGuard64.description>
+  <!-- EN: royal guard -->
+  <VFEM_RoyalGuard64.title>皇家护卫</VFEM_RoyalGuard64.title>
+  <!-- EN: guard -->
+  <VFEM_RoyalGuard64.titleShort>护卫</VFEM_RoyalGuard64.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was trained from a young age to serve the king directly as a member of [PAWN_possessive] personal guard. [PAWN_pronoun] became a master of both mounted and melee combat, earning the respect of peers and commanders alike. While [PAWN_pronoun] excelled on the battlefield, [PAWN_pronoun] avoided menial tasks, considering them unworthy of [PAWN_possessive] status. -->
+  <VFEM_RoyalKnight70.description>[PAWN_nameDef]从小就接受训练，作为国王私人卫队的一员直接为国王服务。[PAWN_pronoun]成为了近战和马战的大师，赢得了同辈和指挥官的尊重。虽然[PAWN_pronoun]在战场上表现出色，[PAWN_pronoun]却远离了琐碎的任务，只因为这些任务与[PAWN_possessive]地位并不匹配。</VFEM_RoyalKnight70.description>
+  <!-- EN: royal knight -->
+  <VFEM_RoyalKnight70.title>皇家骑士</VFEM_RoyalKnight70.title>
+  <!-- EN: royal knight -->
+  <VFEM_RoyalKnight70.titleShort>皇家骑士</VFEM_RoyalKnight70.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] oversaw a remote fortress, serving as the noble family’s representative in the countryside. [PAWN_pronoun] maintained the keep, organized the defense of local villages, and managed disputes among the serfs. [PAWN_pronoun] was skilled in construction and leadership but lacked the sophistication of high court life. -->
+  <VFEM_RuralCastellan92.description>[PAWN_nameDef]负责监管一座偏远要塞，担任贵族家族在乡村的代表。[PAWN_pronoun]维护要塞，组织当地村庄的防卫，管理农奴之间的纠纷。[PAWN_pronoun]擅长建造和作为领袖，却缺乏高级宫廷生活的世故。</VFEM_RuralCastellan92.description>
+  <!-- EN: rural castellan -->
+  <VFEM_RuralCastellan92.title>乡村城堡主</VFEM_RuralCastellan92.title>
+  <!-- EN: castellan -->
+  <VFEM_RuralCastellan92.titleShort>城堡主</VFEM_RuralCastellan92.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days guiding flocks of sheep across pastures, protecting them from predators and ensuring their well-being. [PAWN_pronoun] learned to live off the land and gained a natural affinity for animals. Though adept at caring for livestock, [PAWN_pronoun] lacked interest in pursuits beyond [PAWN_possessive] work. -->
+  <VFEM_Shepherd79.description>[PAWN_nameDef]每天的日常就是驱赶羊群免受猛兽袭击。[PAWN_pronoun]学会了如何在野外生活以及如何和动物打交道。[PAWN_pronoun]虽然和牲畜相处很愉快，但[PAWN_pronoun]对任何正经工作都没有兴趣。</VFEM_Shepherd79.description>
+  <!-- EN: shepherd of the flock -->
+  <VFEM_Shepherd79.title>牧羊人</VFEM_Shepherd79.title>
+  <!-- EN: shepherd -->
+  <VFEM_Shepherd79.titleShort>牧羊人</VFEM_Shepherd79.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled over a warm and fertile region, maintaining order and wealth through agriculture and trade. [PAWN_pronoun] developed strong diplomatic skills to navigate the alliances and rivalries of neighboring houses. Though adept at politics, [PAWN_pronoun] relied on others for matters of warfare and manual labor. -->
+  <VFEM_SouthernLord75.description>[PAWN_nameDef]拥有一片温暖肥沃的土地，他在自己的领地上发展农业和贸易。[PAWN_pronoun]在和其它贵族的交际中学会了高明的外交技巧，但在战斗和体力劳动上 离不开自己的下属。</VFEM_SouthernLord75.description>
+  <!-- EN: southern lord -->
+  <VFEM_SouthernLord75.title>南地领主</VFEM_SouthernLord75.title>
+  <!-- EN: lord -->
+  <VFEM_SouthernLord75.titleShort>领主</VFEM_SouthernLord75.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed the estates of a noble, overseeing finances, organizing events, and ensuring the smooth operation of the household. [PAWN_pronoun] excelled in administration and diplomacy, becoming indispensable to the lord [PAWN_pronoun] served. Though proficient in intellectual and social skills, [PAWN_pronoun] saw physical labor as beneath [PAWN_objective]. -->
+  <VFEM_Steward55.description>[PAWN_nameDef]负责管理贵族的地产和账目，并确保家族内一切事物正常运转。[PAWN_pronoun]精通管理和政治，成为了[PAWN_pronoun]领主离不开的亲信。虽然[PAWN_pronoun]擅长智识和社交，但并不屑于参与任何体力劳动。</VFEM_Steward55.description>
+  <!-- EN: steward -->
+  <VFEM_Steward55.title>财政总管</VFEM_Steward55.title>
+  <!-- EN: steward -->
+  <VFEM_Steward55.titleShort>总管</VFEM_Steward55.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for managing the agricultural production of a large estate, ensuring the fields were worked and the harvests collected. [PAWN_pronoun] developed a deep understanding of farming and organization, balancing the needs of the land with the demands of [PAWN_possessive] lord. Though skilled in rural management, [PAWN_pronoun] lacked military and courtly training. -->
+  <VFEM_StewardOfTheFields89.description>[PAWN_nameDef]负责管理一片广大的农业地产，确保每一片农田都运转如常。[PAWN_pronoun]由此对农业和组织有了很深的了解，擅长在农场的实际情况和[PAWN_possessive]领主的命令之间制衡。尽管对农业了解颇深，[PAWN_pronoun]对战斗和宫廷礼仪一窍不通。</VFEM_StewardOfTheFields89.description>
+  <!-- EN: steward of the fields -->
+  <VFEM_StewardOfTheFields89.title>农业总管</VFEM_StewardOfTheFields89.title>
+  <!-- EN: steward -->
+  <VFEM_StewardOfTheFields89.titleShort>总管</VFEM_StewardOfTheFields89.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a master tactician, advising lords and generals on the best paths to victory. [PAWN_pronoun] excelled at reading the battlefield, coordinating troops, and anticipating enemy moves. Though [PAWN_pronoun] rarely fought directly, [PAWN_pronoun] commanded respect for [PAWN_possessive] brilliant mind and sharp tongue. -->
+  <VFEM_Strategist65.description>[PAWN_nameDef]精通战场策略，常为领主和将军们出谋划策赢得胜利。[PAWN_pronoun]擅长分析战场态势，调遣部队并预测敌人的行动。虽然[PAWN_pronoun]很少亲自上阵，[PAWN_pronoun]卓越的头脑依旧为[PAWN_pronoun]在军中赢得了尊重。</VFEM_Strategist65.description>
+  <!-- EN: strategist -->
+  <VFEM_Strategist65.title>军事家</VFEM_Strategist65.title>
+  <!-- EN: strategist -->
+  <VFEM_Strategist65.titleShort>军事家</VFEM_Strategist65.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born into a family that seized power through treachery, earning the scorn of noble society. [PAWN_pronoun] grew up isolated and mistrusted, forced to rely on guile and intelligence to navigate the court. Though skilled in intrigue, [PAWN_pronoun] lacked the respect and alliances of legitimate noble houses. -->
+  <VFEM_UsurpersKin84.description>[PAWN_nameDef]的家族通过背叛和篡权获得了贵族地位。[PAWN_pronoun]在成长中饱受孤立和非议，迫使[PAWN_pronoun]学会依赖自己的头脑混迹宫廷。尽管[PAWN_pronoun]精通奇诡之术，但这依旧没有使[PAWN_pronoun]获得作为一个贵族的尊重。</VFEM_UsurpersKin84.description>
+  <!-- EN: usurper's kin -->
+  <VFEM_UsurpersKin84.title>污点贵族</VFEM_UsurpersKin84.title>
+  <!-- EN: disgraced kin -->
+  <VFEM_UsurpersKin84.titleShort>污点贵族</VFEM_UsurpersKin84.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a respected figure in a rural community, resolving disputes and guiding decisions for the benefit of the village. [PAWN_pronoun] developed wisdom through years of leadership and experience, earning the trust of those under [PAWN_possessive] care. While [PAWN_pronoun] excelled in diplomacy, [PAWN_pronoun] left physical tasks to the younger villagers. -->
+  <VFEM_VillageElder88.description>[PAWN_nameDef]是一个乡间社区里保守尊敬的人物，常常出面解决人们争端并为村庄敲定议程。[PAWN_pronoun]在多年的领导经验下积累了不少智慧和邻里的尊重。尽管[PAWN_pronoun]精通外交技术，[PAWN_pronoun]自己已经很久没做过体力劳动了。</VFEM_VillageElder88.description>
+  <!-- EN: village elder -->
+  <VFEM_VillageElder88.title>乡村长老</VFEM_VillageElder88.title>
+  <!-- EN: elder -->
+  <VFEM_VillageElder88.titleShort>长老</VFEM_VillageElder88.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a benefactor to a local village, funding improvements to infrastructure and ensuring the well-being of [PAWN_possessive] tenants. [PAWN_pronoun] became skilled at balancing generosity with practicality, ensuring the village prospered without excessive costs. Though respected by the villagers, [PAWN_pronoun] had little experience with warfare or courtly intrigue. -->
+  <VFEM_VillagePatron95.description>[PAWN_nameDef]是当地乡村有名的投资人，负责筹集资金建设基础设施，并监管被投资的产业。[PAWN_pronoun]很擅长在慷慨和实用中取舍，确保村庄蓬勃发展的同时不浪费一分钱。虽然[PAWN_pronoun]很受村民尊重，[PAWN_pronoun]并没有多少战争和宫斗的经验。</VFEM_VillagePatron95.description>
+  <!-- EN: village patron -->
+  <VFEM_VillagePatron95.title>乡村投资人</VFEM_VillagePatron95.title>
+  <!-- EN: patron -->
+  <VFEM_VillagePatron95.titleShort>投资人</VFEM_VillagePatron95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained war dogs and other beasts to fight alongside soldiers in battle. [PAWN_pronoun] specialized in teaching animals to obey commands even in the chaos of combat. Though skilled in working with animals, [PAWN_pronoun] struggled with the finer points of diplomacy and negotiation. -->
+  <VFEM_WarBeastTrainer80.description>[PAWN_nameDef]负责训练战犬和其它猛兽，让它们能在战场上和己方士兵并肩作战。[PAWN_pronoun]精通训练动物在混乱的战场上也能服从自己的命令。由于和动物混得太久，[PAWN_pronoun]并不擅长和人打交道。</VFEM_WarBeastTrainer80.description>
+  <!-- EN: war beast trainer -->
+  <VFEM_WarBeastTrainer80.title>战兽训练师</VFEM_WarBeastTrainer80.title>
+  <!-- EN: trainer -->
+  <VFEM_WarBeastTrainer80.titleShort>驯兽师</VFEM_WarBeastTrainer80.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was charged with the defense of a vast and frigid northern realm, managing both its people and its armies. [PAWN_pronoun] excelled in leadership, strategy, and building alliances to keep the lands united under [PAWN_possessive] banner. The harsh conditions forged [PAWN_pronoun] into a hardened and resolute figure. -->
+  <VFEM_WardenOfTheNorth71.description>[PAWN_nameDef]负责在一片广阔的北方领土组织防务工作，管理那里的人民和军队。[PAWN_pronoun]的领导力，战略水平和外交能力都十分出众，成功将多个当地家族团结在自己的麾下。残酷的环境将[PAWN_pronoun]锻炼成了一名坚强的战士和领袖。</VFEM_WardenOfTheNorth71.description>
+  <!-- EN: warden of the north -->
+  <VFEM_WardenOfTheNorth71.title>北境卫士</VFEM_WardenOfTheNorth71.title>
+  <!-- EN: warden -->
+  <VFEM_WardenOfTheNorth71.titleShort>卫士</VFEM_WardenOfTheNorth71.titleShort>
+  
+</LanguageData>

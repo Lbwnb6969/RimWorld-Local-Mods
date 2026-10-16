@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desert tortoise -->
+  <AEXP_DesertTortoise.label>沙漠龟</AEXP_DesertTortoise.label>
+  <!-- EN: This heavily armored desert-dwelling reptile is known for its slow moving speed and extremely hard, flat domed shell, making it tough to kill. Desert tortoises, despite their small size, are great combat animals and are relatively easy to tame. -->
+  <AEXP_DesertTortoise.description>一种身着“重甲”的沙漠爬行类动物，行动缓慢但加壳异常坚硬。虽然体型小，但防御力和咬合力都很好，是不错的战斗动物，也相对容易被驯服。</AEXP_DesertTortoise.description>
+  <!-- EN: beak -->
+  <AEXP_DesertTortoise.tools.beak.label>口</AEXP_DesertTortoise.tools.beak.label>
+  <!-- EN: head -->
+  <AEXP_DesertTortoise.tools.head.label>头</AEXP_DesertTortoise.tools.head.label>
+  
+  <!-- EN: gila monster -->
+  <AEXP_GilaMonster.label>钝尾毒蜥</AEXP_GilaMonster.label>
+  <!-- EN: A large, slow moving type of lizard found mostly in the desert, known for its highly venomous bite which inflicts a severe toxic build-up in its prey. Outlanders to this day believe in tales which state that this lizard is a spawn from hell, and that its foul breath is lethal. -->
+  <AEXP_GilaMonster.description>一种常于沙漠发现的大型蜥蜴，行动缓慢，口部滋养巨量细菌和病毒，能迅速感染猎物。外来者们认为它们来自地狱，仅仅吐息就足以致命。</AEXP_GilaMonster.description>
+  <!-- EN: left claw -->
+  <AEXP_GilaMonster.tools.left_claw.label>左爪</AEXP_GilaMonster.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_GilaMonster.tools.right_claw.label>右爪</AEXP_GilaMonster.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <AEXP_GilaMonster.tools.teeth.label>牙齿</AEXP_GilaMonster.tools.teeth.label>
+  <!-- EN: head -->
+  <AEXP_GilaMonster.tools.head.label>头</AEXP_GilaMonster.tools.head.label>
+  
+  <!-- EN: hyena -->
+  <AEXP_Hyena.label>鬣狗</AEXP_Hyena.label>
+  <!-- EN: A large dog-like carnivore most often found in the shrublands and deserts. A common trope in tribal legends, the laughter produced by these animals can sow fear during the long desert nights. -->
+  <AEXP_Hyena.description>一种大型犬科食肉动物，通常生活灌木林和沙漠共存的地区。在一些原始部落中，常常作为恐惧的象征，在各种传说和故事中出现。</AEXP_Hyena.description>
+  <!-- EN: left claw -->
+  <AEXP_Hyena.tools.left_claw.label>左爪</AEXP_Hyena.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Hyena.tools.right_claw.label>右爪</AEXP_Hyena.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Hyena.tools.head.label>头</AEXP_Hyena.tools.head.label>
+  
+  <!-- EN: lion -->
+  <AEXP_Lion.label>狮子</AEXP_Lion.label>
+  <!-- EN: A king of the animal kingdom, a lion is a muscular, deep-chested cat with a short head and a prominent mane. Being the biggest of the cat species, lions are excellent combat animals despite their Wildness. -->
+  <AEXP_Lion.description>这种猫科动物被誉为百兽之王，肌肉发达，胸部雄浑，头部短小，雄性个体有着显眼的鬃毛。野性十足，是极出色的战斗动物。</AEXP_Lion.description>
+  <!-- EN: left claw -->
+  <AEXP_Lion.tools.left_claw.label>左爪</AEXP_Lion.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Lion.tools.right_claw.label>右爪</AEXP_Lion.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Lion.tools.head.label>头</AEXP_Lion.tools.head.label>
+  
+</LanguageData>

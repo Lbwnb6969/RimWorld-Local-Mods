@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ballista -->
+  <VR_Gun_Steam_Turret_Tesla.label>弩炮</VR_Gun_Steam_Turret_Tesla.label>
+  <!-- EN: A self-loading ballista designed to attach to a turret. -->
+  <VR_Gun_Steam_Turret_Tesla.description>一种为炮塔设计的自动装填弩炮。</VR_Gun_Steam_Turret_Tesla.description>
+  <!-- EN: ballista -->
+  <VR_Gun_Steam_Turret_Tesla.verbs.Verb_Shoot.label>弩炮</VR_Gun_Steam_Turret_Tesla.verbs.Verb_Shoot.label>
+  
+  <!-- EN: ballista -->
+  <VR_Gun_SteamBallista.label>弩炮</VR_Gun_SteamBallista.label>
+  <!-- EN: A self-loading ballista designed to attach to a turret. -->
+  <VR_Gun_SteamBallista.description>一种为炮塔设计的自动装填弩炮。</VR_Gun_SteamBallista.description>
+  <!-- EN: ballista -->
+  <VR_Gun_SteamBallista.verbs.Verb_Shoot.label>弩炮</VR_Gun_SteamBallista.verbs.Verb_Shoot.label>
+  
+  <!-- EN: auto steam ballista -->
+  <VR_Turret_SteamBallista.label>自动蒸汽弩炮</VR_Turret_SteamBallista.label>
+  <!-- EN: A self-powered turret mounted with a ballista. It cannot sense targets at very short ranges. -->
+  <VR_Turret_SteamBallista.description>一座自供能并装有弩炮的炮塔。它无法侦测极近距离的目标。</VR_Turret_SteamBallista.description>
+  
+  <!-- EN: auto steam turret (tesla) -->
+  <VR_Turret_SteamTesla.label>自动蒸汽炮塔（特斯拉）</VR_Turret_SteamTesla.label>
+  <!-- EN: A self-powered turret mounted with a ballista. It cannot sense targets at very short ranges. -->
+  <VR_Turret_SteamTesla.description>一座自供能并装有弩炮的炮塔。它无法侦测极近距离的目标。</VR_Turret_SteamTesla.description>
+  
+</LanguageData>

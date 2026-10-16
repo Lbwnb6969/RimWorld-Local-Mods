@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <DV_Laceration.label>撕裂</DV_Laceration.label>
+    <DV_Laceration.deathMessage>{0} 因撕裂而死。</DV_Laceration.deathMessage>
+
+    <DV_LacerationHediff.label>撕裂</DV_LacerationHediff.label>
+    <DV_LacerationHediff.labelNoun>撕裂</DV_LacerationHediff.labelNoun>
+    <DV_LacerationHediff.description>撕裂</DV_LacerationHediff.description>
+    <DV_LacerationHediff.comps.0.labelTendedWell>缝合</DV_LacerationHediff.comps.0.labelTendedWell>
+    <DV_LacerationHediff.comps.0.labelTendedWellInner>延长</DV_LacerationHediff.comps.0.labelTendedWellInner>
+    <DV_LacerationHediff.comps.0.labelSolidTendedWell>缝合</DV_LacerationHediff.comps.0.labelSolidTendedWell>
+    <DV_LacerationHediff.comps.2.permanentLabel>撕裂疤痕</DV_LacerationHediff.comps.2.permanentLabel>
+    <DV_LacerationHediff.destroyedLabel>撕毁</DV_LacerationHediff.destroyedLabel>
+    <DV_LacerationHediff.destroyedOutLabel>撕掉</DV_LacerationHediff.destroyedOutLabel>
+</LanguageData>

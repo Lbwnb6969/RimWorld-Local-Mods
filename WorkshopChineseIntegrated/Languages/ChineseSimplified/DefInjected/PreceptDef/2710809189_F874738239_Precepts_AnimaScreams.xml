@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: delightful -->
+  <AM_AnimaScreams_Delightful.label>悦耳</AM_AnimaScreams_Delightful.label>
+  <!-- EN: There is nothing sweeter than hearing a cursed anima tree scream after being uprooted. -->
+  <AM_AnimaScreams_Delightful.description>那些该死的仙树被连根拔起后发出的尖啸真是无比悦耳。</AM_AnimaScreams_Delightful.description>
+  <!-- EN: Anima tree around -->
+  <AM_AnimaScreams_Delightful.comps.1.thoughtStageDescriptions.0>附近有仙树</AM_AnimaScreams_Delightful.comps.1.thoughtStageDescriptions.0>
+  <!-- EN: More than 1 anima tree around -->
+  <AM_AnimaScreams_Delightful.comps.1.thoughtStageDescriptions.1>附近有仙树（1棵以上）</AM_AnimaScreams_Delightful.comps.1.thoughtStageDescriptions.1>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <VR_MechGestatorForming_East.label>粒子</VR_MechGestatorForming_East.label>
+  
+  <!-- EN: Mote -->
+  <VR_MechGestatorForming_North.label>粒子</VR_MechGestatorForming_North.label>
+  
+  <!-- EN: Mote -->
+  <VR_MechGestatorForming_South.label>粒子</VR_MechGestatorForming_South.label>
+  
+  <!-- EN: Mote -->
+  <VR_MechGestatorFormingLarge_East.label>粒子</VR_MechGestatorFormingLarge_East.label>
+  
+  <!-- EN: Mote -->
+  <VR_MechGestatorFormingLarge_North.label>粒子</VR_MechGestatorFormingLarge_North.label>
+  
+  <!-- EN: Mote -->
+  <VR_MechGestatorFormingLarge_South.label>粒子</VR_MechGestatorFormingLarge_South.label>
+  
+  <!-- EN: Mote -->
+  <VR_MechGestatorFormingLarge_West.label>粒子</VR_MechGestatorFormingLarge_West.label>
+  
+</LanguageData>

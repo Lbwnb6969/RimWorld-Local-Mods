@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: torch belt -->
+  <VFEM2_Apparel_TorchBelt.label>火把腰带</VFEM2_Apparel_TorchBelt.label>
+  <!-- EN: A belt with a number of wooden torches strapped to it. They can be lit up and thrown to set things ablaze. Can be refueled with wood. -->
+  <VFEM2_Apparel_TorchBelt.description>一个带有数个火把的腰带。火把可以被丢出去点燃物体。可以用木头装填。</VFEM2_Apparel_TorchBelt.description>
+  <!-- EN: torch -->
+  <VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.chargeNoun>火把</VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.cooldownGerund>冷却中</VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: throw torch -->
+  <VFEM2_Apparel_TorchBelt.verbs.throw_torch.label>投掷火把</VFEM2_Apparel_TorchBelt.verbs.throw_torch.label>
+  
+  <!-- EN: thrown torch -->
+  <VFEM2_Proj_GrenadeTorch.label>投掷火把</VFEM2_Proj_GrenadeTorch.label>
+  
+</LanguageData>

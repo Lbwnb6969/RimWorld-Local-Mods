@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Faction Territories and Vassalage -->
+  <FactionTerritories>派系领土</FactionTerritories>
+  <FactionTerritories_MapModeLabel>派系领土</FactionTerritories_MapModeLabel>
+  <FactionTerritories_MapModeDescription>显示各派系定居点周围按固定规则生成的领土区域。</FactionTerritories_MapModeDescription>
+
+  <!-- Vassalage -->
+  <FactionTerritories_Vassalage>附庸关系</FactionTerritories_Vassalage>
+  <FactionTerritories_Vassalise>纳为附庸</FactionTerritories_Vassalise>
+  <FactionTerritories_VassalOutpost>附庸前哨站</FactionTerritories_VassalOutpost>
+  <FactionTerritories_VassalOutpostRenamed>附庸前哨站已重命名</FactionTerritories_VassalOutpostRenamed>
+  <FactionTerritories_VassalisationOpportunity>附庸化机会</FactionTerritories_VassalisationOpportunity>
+  <FactionTerritories_BuyAsVassal>作为附庸购买</FactionTerritories_BuyAsVassal>
+  <FactionTerritories_BuySettlementAsVassal>购买定居点作为附庸</FactionTerritories_BuySettlementAsVassal>
+  <FactionTerritories_NotEnoughVassalagePoints>附庸点数不足。</FactionTerritories_NotEnoughVassalagePoints>
+  <FactionTerritories_NoVassalagePointsAvailable>没有可用的附庸点数。</FactionTerritories_NoVassalagePointsAvailable>
+  <FactionTerritories_VassalagePoints>附庸点数</FactionTerritories_VassalagePoints>
+  <FactionTerritories_OpenVassalageScreen>打开附庸关系界面，使用点数购买物资、道路进度或殖民者。</FactionTerritories_OpenVassalageScreen>
+
+  <!-- Invasions and construction -->
+  <FactionTerritories_BaseInvasions>基地入侵</FactionTerritories_BaseInvasions>
+  <FactionTerritories_BaseInvasion>基地入侵</FactionTerritories_BaseInvasion>
+  <FactionTerritories_SettlementConstruction>定居点建设</FactionTerritories_SettlementConstruction>
+  <FactionTerritories_ConstructionSite>建设工地</FactionTerritories_ConstructionSite>
+  <FactionTerritories_ForceInvasion>强制入侵</FactionTerritories_ForceInvasion>
+
+  <!-- Territory display -->
+  <FactionTerritories_TerritoryGeneration>领土生成</FactionTerritories_TerritoryGeneration>
+  <FactionTerritories_TerritoryColor>领土颜色</FactionTerritories_TerritoryColor>
+  <FactionTerritories_Contested>争夺中</FactionTerritories_Contested>
+  <FactionTerritories_ContestedTerritory>争夺领土</FactionTerritories_ContestedTerritory>
+  <FactionTerritories_MapIncursions>地图侵扰</FactionTerritories_MapIncursions>
+  <FactionTerritories_CaravanIncidents>商队事件</FactionTerritories_CaravanIncidents>
+
+  <!-- Caravan meeting dialog keys used by this mod -->
+  <CaravanMeetingTitle>{0}遭遇了一支商队</CaravanMeetingTitle>
+  <CaravanMeeting_Trade>交易</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>攻击</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>继续前进</CaravanMeeting_MoveOn>
+  <CaravanMeeting_TradeIncapable>没有能交易的人。</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_NoPermit>需要{0}头衔才能与{1}交易。</CaravanMeeting_NoPermit>
+
+  <!-- Shop tabs -->
+  <FactionTerritories_Items>物品</FactionTerritories_Items>
+  <FactionTerritories_Weapons>武器</FactionTerritories_Weapons>
+  <FactionTerritories_Colonists>殖民者</FactionTerritories_Colonists>
+  <FactionTerritories_Roads>道路</FactionTerritories_Roads>
+  <FactionTerritories_InvestPoints>投入点数</FactionTerritories_InvestPoints>
+
+</LanguageData>

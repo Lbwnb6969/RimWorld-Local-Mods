@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cibarius -->
+  <RG_Cibarius.label>鸡油菌</RG_Cibarius.label>
+  <!-- EN: A tiny yellow and very tasty mushroom growing in small clusters. It can be found exclusively in temperate biomes. -->
+  <RG_Cibarius.description>一种长成一小簇的黄色蘑菇，味道极其鲜美。只能在温带地区中生长。</RG_Cibarius.description>
+  
+  <!-- EN: dandelions -->
+  <RG_Plant_BlueDandelion.label>蒲公英</RG_Plant_BlueDandelion.label>
+  <!-- EN: A tiny blue flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <RG_Plant_BlueDandelion.description>一种长成一大簇的蓝色小花，因为繁殖迅速常被当作野草。实际上也是一种比较好看的花卉。</RG_Plant_BlueDandelion.description>
+  
+  <!-- EN: cathedralis -->
+  <RG_Plant_Cathedralis.label>教堂花</RG_Plant_Cathedralis.label>
+  <!-- EN: A large purple beautiful wildflower that grows in warmer climates. -->
+  <RG_Plant_Cathedralis.description>生长在温带地区的大型紫色野花，看起来很漂亮。</RG_Plant_Cathedralis.description>
+  
+  <!-- EN: raspberry bush -->
+  <RG_Plant_Raspberry.label>野树莓</RG_Plant_Raspberry.label>
+  <!-- EN: A bushy wild plant which yields delicious red berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <RG_Plant_Raspberry.description>长有可以生吃的美味的红色浆果的灌木。</RG_Plant_Raspberry.description>
+  
+  <!-- EN: dandelions -->
+  <RG_Plant_RedDandelion.label>蒲公英</RG_Plant_RedDandelion.label>
+  <!-- EN: A tiny red flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <RG_Plant_RedDandelion.description>一种长成一大簇的红色小花，因为繁殖迅速常被当作野草。实际上也是一种比较好看的花卉。</RG_Plant_RedDandelion.description>
+  
+  <!-- EN: fern -->
+  <RG_Plant_TemperateFern.label>蕨草</RG_Plant_TemperateFern.label>
+  <!-- EN: A short shrub with long, fine leaves. Grows in warm forests areas -->
+  <RG_Plant_TemperateFern.description>生长在温带森林地区的矮小灌木，叶子又长又细。</RG_Plant_TemperateFern.description>
+  
+  <!-- EN: ivy -->
+  <RG_Plant_TemperateIvy.label>常春藤</RG_Plant_TemperateIvy.label>
+  <!-- EN: Wild ivy with leafs that grows in patches of leaves in areas of warm temperatures. Takes a long time to grow, but is very frost-resistant. -->
+  <RG_Plant_TemperateIvy.description>生长在温带地区的野生常春藤。生长周期较长，但抗寒能力很强。</RG_Plant_TemperateIvy.description>
+  
+  <!-- EN: cornish tree -->
+  <RG_Plant_TreeCornish.label>康沃尔松树</RG_Plant_TreeCornish.label>
+  <!-- EN: A large mediterranean conifer covered with tiny pine cones. It grows exclusively in temperate biomes. -->
+  <RG_Plant_TreeCornish.description>能够结出松果的大型地中海针叶树。只能在温带地区中生长。</RG_Plant_TreeCornish.description>
+  
+</LanguageData>

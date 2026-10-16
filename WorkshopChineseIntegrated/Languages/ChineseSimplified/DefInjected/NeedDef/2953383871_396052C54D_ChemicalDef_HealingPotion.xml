@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: healing potion -->
+  <Chemical_HealingPotion.label>红药水</Chemical_HealingPotion.label>
+  <!-- EN: Because of a healing potion addiction, this person needs to regularly consume healing potion to avoid withdrawal symptoms.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Chemical_HealingPotion.description>由于对红药水成瘾，此人需要定期服用该药物以避免出现戒断症状。</Chemical_HealingPotion.description>
+  
+</LanguageData>

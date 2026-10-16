@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificer link -->
+  <VR_ArtificerImplant.label>机巧师链接</VR_ArtificerImplant.label>
+  <!-- EN: A bionic implant that allows direct control of constructs. Artificer links are used by soldiers to control war constructs, and by workers to control labor constructs. A person with the link is known as an artificer.\n\nArtificer links are self-installable. Pressed into the back of the throat, the unit injects itself through the flesh to clamp inside the base of the skull where it meets the spinal cord. There, it threads a web of ultrafine wires throughout nearby neuronal tissue to make the direct mental link between the user and the construct control band.\n\Artificer links are not simply devices for sending signals to constructs, because constructs are not merely robots. In addition to traditional computation, constructs have a dim psychic presence, so fluently controlling them requires a psychic connection. By linking artificer and construct both psychically and electromagnetically.\n\nSince the mechlink interlaces deep within the brain tissue, it can only be removed after death.\n\nNote: A mechanitor must be capable of smithing work to gestate mechanoids. -->
+  <VR_ArtificerImplant.description>一种仿生植入体，可直接控制构装体。机巧师链接用于让士兵操控战斗构装体、让工人操控劳作构装体。拥有此链接的人被称为机巧师。\n\n机巧师链接可自我安装。装置压入喉后，穿透组织并夹持在颅底与脊髓相接处。随后，它会将极细的导线编织进附近的神经组织，在使用者与构装体控制频带之间建立直接的心灵链接。\n\n机巧师链接并非只是向构装体发送信号的装置，因为构装体并不仅仅是机器人。除了传统运算外，构装体还具备微弱的灵能存在，因此要流畅操控它们需要灵能连接。通过在灵能与电磁层面同时链接机巧师与构装体，机巧师链接能提供更深层的控制。\n\n由于机巧师链接深入脑组织交织，只能在死亡后移除。\n\n注意：机控师必须能够进行锻造工作，才能孕育机械体。</VR_ArtificerImplant.description>
+  <!-- EN: Install {0_label} to become artificer -->
+  <VR_ArtificerImplant.comps.CompUsableImplant.useLabel>安装{0_label}成为机巧师</VR_ArtificerImplant.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

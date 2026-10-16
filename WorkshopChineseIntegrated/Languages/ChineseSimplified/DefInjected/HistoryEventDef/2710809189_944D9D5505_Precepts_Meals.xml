@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate delightful meal -->
+  <AM_AteLavishMeal.label>吃了相当美味的食物</AM_AteLavishMeal.label>
+  
+  <!-- EN: ate raw food -->
+  <AM_AteRawFood.label>吃了生食</AM_AteRawFood.label>
+  
+  <!-- EN: ate simple meal -->
+  <AM_AteSimpleMeal.label>吃了简单的食物</AM_AteSimpleMeal.label>
+  
+</LanguageData>

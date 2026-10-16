@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drank awful wine -->
+  <VFEM2_DrankWine_Awful.stages.drank_awful_wine.label>喝了极差的葡萄酒</VFEM2_DrankWine_Awful.stages.drank_awful_wine.label>
+  <!-- EN: I can't believe I just drank that. The sour taste still lingers, and my stomach feels unsettled. What was that supposed to be, vinegar? -->
+  <VFEM2_DrankWine_Awful.stages.drank_awful_wine.description>我这是喝了啥？醋吗？那股恶心的酸味一直在舌尖散不掉，我差点吐了。</VFEM2_DrankWine_Awful.stages.drank_awful_wine.description>
+  
+  <!-- EN: drank excellent wine -->
+  <VFEM2_DrankWine_Excellent.stages.drank_excellent_wine.label>喝了极佳的葡萄酒</VFEM2_DrankWine_Excellent.stages.drank_excellent_wine.label>
+  <!-- EN: Now this is what wine is supposed to taste like! Each sip is a delight. I feel my mind clearing, and everything seems just a little more vibrant. -->
+  <VFEM2_DrankWine_Excellent.stages.drank_excellent_wine.description>这才配叫做葡萄酒！每一口都是享受。感觉整个世界都美好了起来。</VFEM2_DrankWine_Excellent.stages.drank_excellent_wine.description>
+  
+  <!-- EN: drank good wine -->
+  <VFEM2_DrankWine_Good.stages.drank_good_wine.label>喝了良好的葡萄酒</VFEM2_DrankWine_Good.stages.drank_good_wine.label>
+  <!-- EN: Ah, this wine is quite pleasant. The flavors blend nicely, and I can feel a comfortable buzz setting in. -->
+  <VFEM2_DrankWine_Good.stages.drank_good_wine.description>啊，这酒真不错。风味浓厚，我已经感觉有点飘了。</VFEM2_DrankWine_Good.stages.drank_good_wine.description>
+  
+  <!-- EN: drank legendary wine -->
+  <VFEM2_DrankWine_Legendary.stages.drank_legendary_wine.label>喝了传奇级的葡萄酒</VFEM2_DrankWine_Legendary.stages.drank_legendary_wine.label>
+  <!-- EN: I've never tasted anything like this before. It’s as though the very essence of joy has been captured in liquid form. -->
+  <VFEM2_DrankWine_Legendary.stages.drank_legendary_wine.description>呜呼呼呀！能尝得此玉露琼浆，我的人生再无遗憾了！</VFEM2_DrankWine_Legendary.stages.drank_legendary_wine.description>
+  
+  <!-- EN: drank masterwork wine -->
+  <VFEM2_DrankWine_Masterwork.stages.drank_masterwork_wine.label>喝了大师级的葡萄酒</VFEM2_DrankWine_Masterwork.stages.drank_masterwork_wine.label>
+  <!-- EN: Absolutely exquisite. The depth of flavor is extraordinary, and I can feel my body relaxing, as if every worry is drifting away. -->
+  <VFEM2_DrankWine_Masterwork.stages.drank_masterwork_wine.description>妙哉！妙哉！风味层次分明真乃上品。我感觉自己整个身体都放松了开来，所有烦恼都飘走……飘走……</VFEM2_DrankWine_Masterwork.stages.drank_masterwork_wine.description>
+  
+  <!-- EN: drank wine -->
+  <VFEM2_DrankWine_Normal.stages.drank_wine.label>喝了一般的葡萄酒</VFEM2_DrankWine_Normal.stages.drank_wine.label>
+  <!-- EN: This is passable. It doesn’t excite the senses, but it’s smooth enough to enjoy. -->
+  <VFEM2_DrankWine_Normal.stages.drank_wine.description>嗯，还算过关吧。滋味没什么特别的，但还是值得品一品。</VFEM2_DrankWine_Normal.stages.drank_wine.description>
+  
+  <!-- EN: drank poor wine -->
+  <VFEM2_DrankWine_Poor.stages.drank_poor_wine.label>喝了较差的葡萄酒</VFEM2_DrankWine_Poor.stages.drank_poor_wine.label>
+  <!-- EN: Not the best I’ve had. It’s bitter and barely drinkable. I guess it'll do if nothing else is around, but I can feel a headache coming on already. -->
+  <VFEM2_DrankWine_Poor.stages.drank_poor_wine.description>这酒真不咋地，又酸又苦。有得选的话绝对不想再喝一次了……唉，我已经开始头痛了。</VFEM2_DrankWine_Poor.stages.drank_poor_wine.description>
+  
+  <!-- EN: twisting pain -->
+  <VFEM2_TorturerDraught.stages.twisting_pain.label>剧烈绞痛</VFEM2_TorturerDraught.stages.twisting_pain.label>
+  <!-- EN: This wicked concoction set my insides on fire! It hurts all over! -->
+  <VFEM2_TorturerDraught.stages.twisting_pain.description>刚才给我喝的是什么鬼玩意？我的五脏六腑都扭在了一起，身体每一处都在痛！</VFEM2_TorturerDraught.stages.twisting_pain.description>
+  
+</LanguageData>

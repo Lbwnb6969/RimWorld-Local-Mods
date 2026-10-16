@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] mastered the art of brewing barley and hops, keeping to the purity laws and serving joy to weary villagers.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_BavarianBrewer.description>[PAWN_nameDef]精通大麦与啤酒花的酿造技艺，恪守纯度法令，为疲惫的村民们带来欢乐。</BA_HRE_Adult_Basic_BavarianBrewer.description>
+  <!-- EN: Bavarian Brewer -->
+  <BA_HRE_Adult_Basic_BavarianBrewer.title>巴伐利亚酿酒师</BA_HRE_Adult_Basic_BavarianBrewer.title>
+  <!-- EN: Brewer -->
+  <BA_HRE_Adult_Basic_BavarianBrewer.titleShort>酿酒师</BA_HRE_Adult_Basic_BavarianBrewer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] brewed ale for monks and villagers, combining patience, skill, and devotion in every barrel.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_BrewMaster.description>[PAWN_nameDef]为僧侣与村民酿造麦芽酒，每一桶酒中都凝聚着耐心、技艺与虔诚。</BA_HRE_Adult_Basic_BrewMaster.description>
+  <!-- EN: Monastic Brewmaster -->
+  <BA_HRE_Adult_Basic_BrewMaster.title>修道院酿酒大师</BA_HRE_Adult_Basic_BrewMaster.title>
+  <!-- EN: Brewmaster -->
+  <BA_HRE_Adult_Basic_BrewMaster.titleShort>酿酒大师</BA_HRE_Adult_Basic_BrewMaster.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] specialized in crafting intricate gears and mechanisms, symbols of the Empire’s growing fascination with precision and time.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_Clockmaker.description>[PAWN_nameDef]专精于打造精密的齿轮与机械装置，这正是帝国对精准与时间日益痴迷的象征。</BA_HRE_Adult_Basic_Clockmaker.description>
+  <!-- EN: Clockmaker of Nuremberg -->
+  <BA_HRE_Adult_Basic_Clockmaker.title>纽伦堡钟表匠</BA_HRE_Adult_Basic_Clockmaker.title>
+  <!-- EN: Clockmaker -->
+  <BA_HRE_Adult_Basic_Clockmaker.titleShort>钟表匠</BA_HRE_Adult_Basic_Clockmaker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] dug deep into the Harz Mountains for silver and salt. Darkness, sweat, and danger forged [PAWN_possessive] endurance.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_Miner.description>[PAWN_nameDef]深入哈尔茨山脉开采银矿与盐矿，黑暗、汗水与危险铸就了[PAWN_possessive]的坚韧耐力。</BA_HRE_Adult_Basic_Miner.description>
+  <!-- EN: Harz Miner -->
+  <BA_HRE_Adult_Basic_Miner.title>哈尔茨矿工</BA_HRE_Adult_Basic_Miner.title>
+  <!-- EN: Miner -->
+  <BA_HRE_Adult_Basic_Miner.titleShort>矿工</BA_HRE_Adult_Basic_Miner.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] toiled in the ore mines of Saxony, breathing dust and danger while bringing silver and salt to the lords above.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_MineshaftLaborer.description>[PAWN_nameDef]在萨克森的矿坑中辛勤劳作，于粉尘与危险中为上层领主开采银矿与盐矿。</BA_HRE_Adult_Basic_MineshaftLaborer.description>
+  <!-- EN: Mineshaft Laborer -->
+  <BA_HRE_Adult_Basic_MineshaftLaborer.title>矿坑劳工</BA_HRE_Adult_Basic_MineshaftLaborer.title>
+  <!-- EN: Miner -->
+  <BA_HRE_Adult_Basic_MineshaftLaborer.titleShort>矿工</BA_HRE_Adult_Basic_MineshaftLaborer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fished along the misty Rhine, learning the moods of the river and its spirits while mending nets in silence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_RhineFisher.description>[PAWN_nameDef]在薄雾笼罩的莱茵河畔捕鱼，于静默补网间洞悉河流的脾性与水之灵韵。</BA_HRE_Adult_Basic_RhineFisher.description>
+  <!-- EN: Rhine Fisher -->
+  <BA_HRE_Adult_Basic_RhineFisher.title>莱茵河渔夫</BA_HRE_Adult_Basic_RhineFisher.title>
+  <!-- EN: Fisher -->
+  <BA_HRE_Adult_Basic_RhineFisher.titleShort>渔夫</BA_HRE_Adult_Basic_RhineFisher.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent long days fishing in the Danube, trading fresh catches in local markets and learning the moods of the river.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_RiverFisher.description>[PAWN_nameDef]在多瑙河中终日捕鱼，将新鲜渔获拿到当地市集交易，同时洞悉着河流的脾性。</BA_HRE_Adult_Basic_RiverFisher.description>
+  <!-- EN: Danube Fisher -->
+  <BA_HRE_Adult_Basic_RiverFisher.title>多瑙河渔夫</BA_HRE_Adult_Basic_RiverFisher.title>
+  <!-- EN: Fisher -->
+  <BA_HRE_Adult_Basic_RiverFisher.titleShort>渔夫</BA_HRE_Adult_Basic_RiverFisher.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended small plots in the fertile Swabian lands, building respect through hard labor and loyalty to the manor.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_SwabianFarmer.description>[PAWN_nameDef]在肥沃的施瓦本土地上耕种小块农田，凭借辛勤劳作与对庄园的忠诚赢得了尊重。</BA_HRE_Adult_Basic_SwabianFarmer.description>
+  <!-- EN: Swabian Farmer -->
+  <BA_HRE_Adult_Basic_SwabianFarmer.title>施瓦本农夫</BA_HRE_Adult_Basic_SwabianFarmer.title>
+  <!-- EN: Farmer -->
+  <BA_HRE_Adult_Basic_SwabianFarmer.titleShort>农夫</BA_HRE_Adult_Basic_SwabianFarmer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked rebuilding the stone walls and cathedrals of the Empire’s towns. The labor was harsh, but the craft left lasting marks on cities and souls alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_TownMason.description>[PAWN_nameDef]参与重建帝国城镇的石墙与大教堂。劳作虽艰苦，但这份技艺在城市与人们的心灵上都留下了永恒的印记。</BA_HRE_Adult_Basic_TownMason.description>
+  <!-- EN: Imperial Mason -->
+  <BA_HRE_Adult_Basic_TownMason.title>帝国石匠</BA_HRE_Adult_Basic_TownMason.title>
+  <!-- EN: Mason -->
+  <BA_HRE_Adult_Basic_TownMason.titleShort>石匠</BA_HRE_Adult_Basic_TownMason.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] cultivated grapes along the Rhine’s sunny slopes, mastering the art of winemaking passed down through generations of monastic growers.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Basic_WineMaker.description>[PAWN_nameDef]在莱茵河畔阳光充足的山坡上种植葡萄，精通由修道院种植者世代相传的酿酒技艺。</BA_HRE_Adult_Basic_WineMaker.description>
+  <!-- EN: Rhineland Vintner -->
+  <BA_HRE_Adult_Basic_WineMaker.title>莱茵兰酿酒师</BA_HRE_Adult_Basic_WineMaker.title>
+  <!-- EN: Vintner -->
+  <BA_HRE_Adult_Basic_WineMaker.titleShort>酿酒师</BA_HRE_Adult_Basic_WineMaker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] experimented with strange metals and powders, dreaming of transmutation and divine perfection.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Educated_Alchemist.description>[PAWN_nameDef]钻研奇异的金属与粉末，怀揣着嬗变与神圣完美的梦想不断实验。</BA_HRE_Adult_Educated_Alchemist.description>
+  <!-- EN: Imperial Alchemist -->
+  <BA_HRE_Adult_Educated_Alchemist.title>帝国炼金术士</BA_HRE_Adult_Educated_Alchemist.title>
+  <!-- EN: Alchemist -->
+  <BA_HRE_Adult_Educated_Alchemist.titleShort>炼金术士</BA_HRE_Adult_Educated_Alchemist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] read the stars for signs of war and fortune, whispering cosmic truths into noble ears.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Educated_Astrologer.description>[PAWN_nameDef]观测星辰以解读战争与命运的征兆，向贵族们低语传达宇宙的真理。</BA_HRE_Adult_Educated_Astrologer.description>
+  <!-- EN: Imperial Astrologer -->
+  <BA_HRE_Adult_Educated_Astrologer.title>帝国占星家</BA_HRE_Adult_Educated_Astrologer.title>
+  <!-- EN: Astrologer -->
+  <BA_HRE_Adult_Educated_Astrologer.titleShort>占星家</BA_HRE_Adult_Educated_Astrologer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] recorded history as it happened, though every line favored those who paid best.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Educated_Chronicler.description>[PAWN_nameDef]记录当下发生的历史，尽管每一笔记录都更偏向于那些出价最高的人。</BA_HRE_Adult_Educated_Chronicler.description>
+  <!-- EN: Imperial Chronicler -->
+  <BA_HRE_Adult_Educated_Chronicler.title>帝国编年史作者</BA_HRE_Adult_Educated_Chronicler.title>
+  <!-- EN: Chronicler -->
+  <BA_HRE_Adult_Educated_Chronicler.titleShort>编年史作者</BA_HRE_Adult_Educated_Chronicler.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a scholar of Roman law, mediating disputes across fragmented principalities.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Educated_Legalist.description>[PAWN_nameDef]身为罗马法学者，在四分五裂的公国之间调解纠纷。</BA_HRE_Adult_Educated_Legalist.description>
+  <!-- EN: Imperial Jurist -->
+  <BA_HRE_Adult_Educated_Legalist.title>帝国法学家</BA_HRE_Adult_Educated_Legalist.title>
+  <!-- EN: Jurist -->
+  <BA_HRE_Adult_Educated_Legalist.titleShort>法学家</BA_HRE_Adult_Educated_Legalist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] copied and preserved ancient manuscripts in a quiet monastery, bridging faith and knowledge.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Educated_MonkScholar.description>[PAWN_nameDef]在宁静的修道院里抄写并保存古代手稿，搭建起信仰与知识之间的桥梁。</BA_HRE_Adult_Educated_MonkScholar.description>
+  <!-- EN: Benedictine Scholar -->
+  <BA_HRE_Adult_Educated_MonkScholar.title>本笃会学者</BA_HRE_Adult_Educated_MonkScholar.title>
+  <!-- EN: Monk -->
+  <BA_HRE_Adult_Educated_MonkScholar.titleShort>修士</BA_HRE_Adult_Educated_MonkScholar.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] treated nobles and soldiers alike, practicing medicine with leeches, herbs, and prayer.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Educated_Physician.description>[PAWN_nameDef]无论贵族还是士兵一视同仁地诊治，运用水蛭、草药与祈祷践行医术。</BA_HRE_Adult_Educated_Physician.description>
+  <!-- EN: Imperial Physician -->
+  <BA_HRE_Adult_Educated_Physician.title>帝国医师</BA_HRE_Adult_Educated_Physician.title>
+  <!-- EN: Physician -->
+  <BA_HRE_Adult_Educated_Physician.titleShort>医师</BA_HRE_Adult_Educated_Physician.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied theology and logic at the University of Prague, seeking truth through ink and argument.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Educated_ScholarOfPrague.description>[PAWN_nameDef]在布拉格大学研习神学与逻辑学，通过笔墨与辩论追寻真理。</BA_HRE_Adult_Educated_ScholarOfPrague.description>
+  <!-- EN: Scholar of Prague -->
+  <BA_HRE_Adult_Educated_ScholarOfPrague.title>布拉格学者</BA_HRE_Adult_Educated_ScholarOfPrague.title>
+  <!-- EN: Scholar -->
+  <BA_HRE_Adult_Educated_ScholarOfPrague.titleShort>学者</BA_HRE_Adult_Educated_ScholarOfPrague.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] transcribed decrees, chronicling the rise and fall of lords with meticulous precision.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Educated_Scribe.description>[PAWN_nameDef]抄写法令，以极致的精准记录领主们的兴衰沉浮。</BA_HRE_Adult_Educated_Scribe.description>
+  <!-- EN: Imperial Scribe -->
+  <BA_HRE_Adult_Educated_Scribe.title>帝国抄写员</BA_HRE_Adult_Educated_Scribe.title>
+  <!-- EN: Scribe -->
+  <BA_HRE_Adult_Educated_Scribe.titleShort>抄写员</BA_HRE_Adult_Educated_Scribe.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] represented a duchy at the Imperial court, a diplomat’s smile masking daggers of politics.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Governing_Ambassador.description>[PAWN_nameDef]在帝国宫廷中代表某个公国，外交官的笑容之下暗藏着政治的利刃。</BA_HRE_Adult_Governing_Ambassador.description>
+  <!-- EN: Ambassador to the Emperor -->
+  <BA_HRE_Adult_Governing_Ambassador.title>帝国大使</BA_HRE_Adult_Governing_Ambassador.title>
+  <!-- EN: Ambassador -->
+  <BA_HRE_Adult_Governing_Ambassador.titleShort>大使</BA_HRE_Adult_Governing_Ambassador.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] enforced imperial taxes and judgments, both feared and bribed in equal measure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Governing_Bailiff.description>[PAWN_nameDef]执行帝国的税收与判决，人们对其既畏惧又争相贿赂，程度不相上下。</BA_HRE_Adult_Governing_Bailiff.description>
+  <!-- EN: Imperial Bailiff -->
+  <BA_HRE_Adult_Governing_Bailiff.title>帝国执行官</BA_HRE_Adult_Governing_Bailiff.title>
+  <!-- EN: Bailiff -->
+  <BA_HRE_Adult_Governing_Bailiff.titleShort>执行官</BA_HRE_Adult_Governing_Bailiff.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] drafted decrees and mediated conflicts between princes, the true hand behind the Emperor’s words.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Governing_Chancellor.description>[PAWN_nameDef]起草法令并调解诸侯间的冲突，是皇帝言辞背后真正的推手。</BA_HRE_Adult_Governing_Chancellor.description>
+  <!-- EN: Imperial Chancellor -->
+  <BA_HRE_Adult_Governing_Chancellor.title>帝国首相</BA_HRE_Adult_Governing_Chancellor.title>
+  <!-- EN: Chancellor -->
+  <BA_HRE_Adult_Governing_Chancellor.titleShort>首相</BA_HRE_Adult_Governing_Chancellor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] dispensed justice in the Emperor’s name, where law and power seldom agreed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Governing_Judge.description>[PAWN_nameDef]以皇帝之名执行司法，在这个领域中法律与权力鲜少达成一致。</BA_HRE_Adult_Governing_Judge.description>
+  <!-- EN: Imperial Judge -->
+  <BA_HRE_Adult_Governing_Judge.title>帝国法官</BA_HRE_Adult_Governing_Judge.title>
+  <!-- EN: Judge -->
+  <BA_HRE_Adult_Governing_Judge.titleShort>法官</BA_HRE_Adult_Governing_Judge.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded the Emperor’s troops in battle and ceremony alike, balancing honor with order.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Governing_Marshal.description>[PAWN_nameDef]无论是在战场还是仪式上都指挥着帝国军队，在荣誉与秩序之间寻求平衡。</BA_HRE_Adult_Governing_Marshal.description>
+  <!-- EN: Imperial Marshal -->
+  <BA_HRE_Adult_Governing_Marshal.title>帝国元帅</BA_HRE_Adult_Governing_Marshal.title>
+  <!-- EN: Marshal -->
+  <BA_HRE_Adult_Governing_Marshal.titleShort>元帅</BA_HRE_Adult_Governing_Marshal.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] oversaw the logistics of a grand castle, ensuring no feast, troop, or intrigue went uncoordinated.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Governing_Seneschal.description>[PAWN_nameDef]掌管宏伟城堡的后勤事务，确保宴会、军队与阴谋活动都能协调有序地进行。</BA_HRE_Adult_Governing_Seneschal.description>
+  <!-- EN: Palatial Seneschal -->
+  <BA_HRE_Adult_Governing_Seneschal.title>宫廷管家</BA_HRE_Adult_Governing_Seneschal.title>
+  <!-- EN: Seneschal -->
+  <BA_HRE_Adult_Governing_Seneschal.titleShort>管家</BA_HRE_Adult_Governing_Seneschal.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carried the Emperor’s standard into battle, a symbol of courage and doom alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_BannerBearer.description>[PAWN_nameDef]高举帝国军旗奔赴战场，这面旗帜既是勇气的象征，也预示着毁灭的降临。</BA_HRE_Adult_Military_BannerBearer.description>
+  <!-- EN: Imperial Banner-Bearer -->
+  <BA_HRE_Adult_Military_BannerBearer.title>帝国旗手</BA_HRE_Adult_Military_BannerBearer.title>
+  <!-- EN: Bearer -->
+  <BA_HRE_Adult_Military_BannerBearer.titleShort>旗手</BA_HRE_Adult_Military_BannerBearer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained in city militias, wielding halberds to guard the walls and markets of proud Bavarian towns.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_BavarianHalberdier.description>[PAWN_nameDef]在城市民兵中接受训练，手持长戟守卫着自豪的巴伐利亚城镇的城墙与市集。</BA_HRE_Adult_Military_BavarianHalberdier.description>
+  <!-- EN: Bavarian Halberdier -->
+  <BA_HRE_Adult_Military_BavarianHalberdier.title>巴伐利亚长戟兵</BA_HRE_Adult_Military_BavarianHalberdier.title>
+  <!-- EN: Halberdier -->
+  <BA_HRE_Adult_Military_BavarianHalberdier.titleShort>长戟兵</BA_HRE_Adult_Military_BavarianHalberdier.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained with the deadly crossbow, defending walled towns and imperial caravans.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_Crossbowman.description>[PAWN_nameDef]苦练致命的弩箭技艺，保卫设防城镇与帝国商队。</BA_HRE_Adult_Military_Crossbowman.description>
+  <!-- EN: Imperial Crossbowman -->
+  <BA_HRE_Adult_Military_Crossbowman.title>帝国弩手</BA_HRE_Adult_Military_Crossbowman.title>
+  <!-- EN: Arbalester -->
+  <BA_HRE_Adult_Military_Crossbowman.titleShort>弩手</BA_HRE_Adult_Military_Crossbowman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fought in distant holy wars and returned scarred but faithful, carrying relics and regrets alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_CrusaderReturnee.description>[PAWN_nameDef]在遥远的圣战中征战，归来时满身伤痕却依旧虔诚，随身携带着圣物与遗憾。</BA_HRE_Adult_Military_CrusaderReturnee.description>
+  <!-- EN: Crusader Returnee -->
+  <BA_HRE_Adult_Military_CrusaderReturnee.title>归来的十字军战士</BA_HRE_Adult_Military_CrusaderReturnee.title>
+  <!-- EN: Crusader -->
+  <BA_HRE_Adult_Military_CrusaderReturnee.titleShort>十字军战士</BA_HRE_Adult_Military_CrusaderReturnee.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived by the blade and reputation, settling disputes of honor across taverns and courts alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_Duellist.description>[PAWN_nameDef]以刀剑与声名为生，在酒馆与宫廷中解决各种荣誉纠纷。</BA_HRE_Adult_Military_Duellist.description>
+  <!-- EN: Imperial Duellist -->
+  <BA_HRE_Adult_Military_Duellist.title>帝国决斗者</BA_HRE_Adult_Military_Duellist.title>
+  <!-- EN: Duellist -->
+  <BA_HRE_Adult_Military_Duellist.titleShort>决斗者</BA_HRE_Adult_Military_Duellist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rode under a local lord’s banner, fighting for gold and honor in border wars.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_Horseman.description>[PAWN_nameDef]在当地领主的旗帜下驰骋，为黄金与荣誉在边境战争中奋战。</BA_HRE_Adult_Military_Horseman.description>
+  <!-- EN: Swabian Horseman -->
+  <BA_HRE_Adult_Military_Horseman.title>施瓦本骑兵</BA_HRE_Adult_Military_Horseman.title>
+  <!-- EN: Horseman -->
+  <BA_HRE_Adult_Military_Horseman.titleShort>骑兵</BA_HRE_Adult_Military_Horseman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] marched beside noble commanders, carrying the Emperor’s eagle into battle with unwavering resolve.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_ImperialBannerBearer.description>[PAWN_nameDef]跟随贵族指挥官进军，怀着坚定的决心高举帝国雄鹰旗帜奔赴战场。</BA_HRE_Adult_Military_ImperialBannerBearer.description>
+  <!-- EN: Imperial Banner Bearer -->
+  <BA_HRE_Adult_Military_ImperialBannerBearer.title>帝国军旗手</BA_HRE_Adult_Military_ImperialBannerBearer.title>
+  <!-- EN: Standard Bearer -->
+  <BA_HRE_Adult_Military_ImperialBannerBearer.titleShort>军旗手</BA_HRE_Adult_Military_ImperialBannerBearer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] constructed siege engines and fortified walls for imperial armies, blending craft with precision.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_ImperialEngineer.description>[PAWN_nameDef]为帝国军队建造攻城器械与防御城墙，将工艺与精准完美结合。</BA_HRE_Adult_Military_ImperialEngineer.description>
+  <!-- EN: Imperial Engineer -->
+  <BA_HRE_Adult_Military_ImperialEngineer.title>帝国工程师</BA_HRE_Adult_Military_ImperialEngineer.title>
+  <!-- EN: Engineer -->
+  <BA_HRE_Adult_Military_ImperialEngineer.titleShort>工程师</BA_HRE_Adult_Military_ImperialEngineer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served the Emperor as a sworn vassal, upholding honor through jousts and battles across duchies.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_ImperialKnight.description>[PAWN_nameDef]作为宣誓效忠的封臣效力于皇帝，通过各公国间的马上比武与战斗坚守荣誉。</BA_HRE_Adult_Military_ImperialKnight.description>
+  <!-- EN: Imperial Knight -->
+  <BA_HRE_Adult_Military_ImperialKnight.title>帝国骑士</BA_HRE_Adult_Military_ImperialKnight.title>
+  <!-- EN: Knight -->
+  <BA_HRE_Adult_Military_ImperialKnight.titleShort>骑士</BA_HRE_Adult_Military_ImperialKnight.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fought for coin under imperial banners, wielding pikes and zweihanders in foreign wars.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_Landsknecht.description>[PAWN_nameDef]在帝国旗帜下为金钱而战，在异国战场上挥舞着长矛与双手剑。</BA_HRE_Adult_Military_Landsknecht.description>
+  <!-- EN: Landsknecht -->
+  <BA_HRE_Adult_Military_Landsknecht.title>德意志雇佣步兵</BA_HRE_Adult_Military_Landsknecht.title>
+  <!-- EN: Landsknecht -->
+  <BA_HRE_Adult_Military_Landsknecht.titleShort>雇佣步兵</BA_HRE_Adult_Military_Landsknecht.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served a border margrave, training in swordsmanship, diplomacy, and the art of ruling frontier lands.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_MargraveSquire.description>[PAWN_nameDef]效力于边境总督，研习剑术、外交术以及治理边境土地的技艺。</BA_HRE_Adult_Military_MargraveSquire.description>
+  <!-- EN: Margrave’s Squire -->
+  <BA_HRE_Adult_Military_MargraveSquire.title>总督侍从</BA_HRE_Adult_Military_MargraveSquire.title>
+  <!-- EN: Squire -->
+  <BA_HRE_Adult_Military_MargraveSquire.titleShort>侍从</BA_HRE_Adult_Military_MargraveSquire.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in a lord’s court, protecting nobles during ceremonies and duels with unflinching loyalty.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_PalatineGuard.description>[PAWN_nameDef]在领主的宫廷中任职，以坚定的忠诚在仪式与决斗中保护贵族。</BA_HRE_Adult_Military_PalatineGuard.description>
+  <!-- EN: Palatine Guard -->
+  <BA_HRE_Adult_Military_PalatineGuard.title>宫廷卫队</BA_HRE_Adult_Military_PalatineGuard.title>
+  <!-- EN: Guard -->
+  <BA_HRE_Adult_Military_PalatineGuard.titleShort>卫兵</BA_HRE_Adult_Military_PalatineGuard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained under guild banners, perfecting the art of the heavy crossbow to defend Saxon lands.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_SaxonCrossbowman.description>[PAWN_nameDef]在行会旗帜下接受训练，精进重型弩箭技艺以保卫萨克森的土地。</BA_HRE_Adult_Military_SaxonCrossbowman.description>
+  <!-- EN: Saxon Crossbowman -->
+  <BA_HRE_Adult_Military_SaxonCrossbowman.title>萨克森弩手</BA_HRE_Adult_Military_SaxonCrossbowman.title>
+  <!-- EN: Crossbowman -->
+  <BA_HRE_Adult_Military_SaxonCrossbowman.titleShort>弩手</BA_HRE_Adult_Military_SaxonCrossbowman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] swore vows of piety and war, marching east to bring faith with sword and cross.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_TeutonicBrother.description>[PAWN_nameDef]立下虔诚与战争的誓言，向东进军，以刀剑与十字架传播信仰。</BA_HRE_Adult_Military_TeutonicBrother.description>
+  <!-- EN: Teutonic Brother -->
+  <BA_HRE_Adult_Military_TeutonicBrother.title>条顿兄弟骑士</BA_HRE_Adult_Military_TeutonicBrother.title>
+  <!-- EN: Brother-Knight -->
+  <BA_HRE_Adult_Military_TeutonicBrother.titleShort>兄弟骑士</BA_HRE_Adult_Military_TeutonicBrother.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] took the vows of the Teutonic Order, fighting for faith and Empire in distant lands.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_TeutonicKnight.description>[PAWN_nameDef]立下条顿骑士团的誓言，在遥远的土地上为信仰与帝国而战。</BA_HRE_Adult_Military_TeutonicKnight.description>
+  <!-- EN: Teutonic Knight -->
+  <BA_HRE_Adult_Military_TeutonicKnight.title>条顿骑士</BA_HRE_Adult_Military_TeutonicKnight.title>
+  <!-- EN: Knight -->
+  <BA_HRE_Adult_Military_TeutonicKnight.titleShort>骑士</BA_HRE_Adult_Military_TeutonicKnight.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] took up arms when the Empire called, defending walls and families against marauders.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Military_TownMilitia.description>[PAWN_nameDef]在帝国征召时拿起武器，保卫城墙与民众免受劫掠者侵害。</BA_HRE_Adult_Military_TownMilitia.description>
+  <!-- EN: Town Militiaman -->
+  <BA_HRE_Adult_Military_TownMilitia.title>城镇民兵</BA_HRE_Adult_Military_TownMilitia.title>
+  <!-- EN: Militia -->
+  <BA_HRE_Adult_Military_TownMilitia.titleShort>民兵</BA_HRE_Adult_Military_TownMilitia.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed estates and intrigues along the Rhine, where gold and secrets flowed in equal measure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Nobility_Countess.description>[PAWN_nameDef]管理着莱茵河畔的庄园与各类阴谋活动，在这片土地上黄金与秘密的流通量不相上下。</BA_HRE_Adult_Nobility_Countess.description>
+  <!-- EN: Countess of the Rhine -->
+  <BA_HRE_Adult_Nobility_Countess.title>莱茵伯爵夫人</BA_HRE_Adult_Nobility_Countess.title>
+  <!-- EN: Countess -->
+  <BA_HRE_Adult_Nobility_Countess.titleShort>伯爵夫人</BA_HRE_Adult_Nobility_Countess.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] earned knighthood through valor and favor, forever balancing pride and obedience.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Nobility_CourtKnight.description>[PAWN_nameDef]凭借英勇表现与领主的青睐获得骑士头衔，终其一生在骄傲与顺从之间寻求平衡。</BA_HRE_Adult_Nobility_CourtKnight.description>
+  <!-- EN: Knight of the Golden Spur -->
+  <BA_HRE_Adult_Nobility_CourtKnight.title>金马刺骑士</BA_HRE_Adult_Nobility_CourtKnight.title>
+  <!-- EN: Knight -->
+  <BA_HRE_Adult_Nobility_CourtKnight.titleShort>骑士</BA_HRE_Adult_Nobility_CourtKnight.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led a retinue of sworn knights under the Emperor’s banner, earning scars and renown.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Nobility_KnightCommander.description>[PAWN_nameDef]在帝国旗帜下率领一队宣誓效忠的骑士，在征战中留下伤痕，也赢得了声誉。</BA_HRE_Adult_Nobility_KnightCommander.description>
+  <!-- EN: Knight Commander -->
+  <BA_HRE_Adult_Nobility_KnightCommander.title>骑士指挥官</BA_HRE_Adult_Nobility_KnightCommander.title>
+  <!-- EN: Commander -->
+  <BA_HRE_Adult_Nobility_KnightCommander.titleShort>指挥官</BA_HRE_Adult_Nobility_KnightCommander.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled the Empire’s eastern borderlands, defending civilization against invaders and ambition.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Nobility_Margrave.description>[PAWN_nameDef]统治着帝国的东部边境地区，抵御入侵者与野心家，守护着文明之地。</BA_HRE_Adult_Nobility_Margrave.description>
+  <!-- EN: Margrave of the East -->
+  <BA_HRE_Adult_Nobility_Margrave.title>东部总督</BA_HRE_Adult_Nobility_Margrave.title>
+  <!-- EN: Margrave -->
+  <BA_HRE_Adult_Nobility_Margrave.titleShort>总督</BA_HRE_Adult_Nobility_Margrave.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] held the power to choose emperors, wielding influence greater than any sword.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Nobility_PrinceElector.description>[PAWN_nameDef]拥有选举皇帝的权力，其影响力远超任何刀剑。</BA_HRE_Adult_Nobility_PrinceElector.description>
+  <!-- EN: Prince-Elector -->
+  <BA_HRE_Adult_Nobility_PrinceElector.title>选帝侯</BA_HRE_Adult_Nobility_PrinceElector.title>
+  <!-- EN: Elector -->
+  <BA_HRE_Adult_Nobility_PrinceElector.titleShort>选帝侯</BA_HRE_Adult_Nobility_PrinceElector.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] oversaw the Emperor’s private quarters and household, managing wealth and whispers alike.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Palace_Chamberlain.description>[PAWN_nameDef]掌管皇帝的私人寝宫与皇室家庭事务，同时打理着财富与各类秘密传闻。</BA_HRE_Adult_Palace_Chamberlain.description>
+  <!-- EN: Imperial Chamberlain -->
+  <BA_HRE_Adult_Palace_Chamberlain.title>帝国内侍官</BA_HRE_Adult_Palace_Chamberlain.title>
+  <!-- EN: Chamberlain -->
+  <BA_HRE_Adult_Palace_Chamberlain.titleShort>内侍官</BA_HRE_Adult_Palace_Chamberlain.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained the Emperor’s hunting birds, mastering patience and command in equal measure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Palace_Falconer.description>[PAWN_nameDef]训练皇帝的猎鹰，在这份技艺中同等程度地掌握了耐心与掌控力。</BA_HRE_Adult_Palace_Falconer.description>
+  <!-- EN: Imperial Falconer -->
+  <BA_HRE_Adult_Palace_Falconer.title>帝国驯鹰师</BA_HRE_Adult_Palace_Falconer.title>
+  <!-- EN: Falconer -->
+  <BA_HRE_Adult_Palace_Falconer.titleShort>驯鹰师</BA_HRE_Adult_Palace_Falconer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as the voice of the Emperor, announcing decrees and judgments before crowds.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Palace_Herald.description>[PAWN_nameDef]作为皇帝的代言人，在民众面前宣读法令与判决。</BA_HRE_Adult_Palace_Herald.description>
+  <!-- EN: Imperial Herald -->
+  <BA_HRE_Adult_Palace_Herald.title>帝国传令官</BA_HRE_Adult_Palace_Herald.title>
+  <!-- EN: Herald -->
+  <BA_HRE_Adult_Palace_Herald.titleShort>传令官</BA_HRE_Adult_Palace_Herald.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled vast territories under the imperial banner, often rivaling the Emperor in wealth and ambition.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_Archduke.description>[PAWN_nameDef]在帝国旗帜下统治着广阔的领土，其财富与野心常常能与皇帝相匹敌。</BA_HRE_Adult_Ruler_Archduke.description>
+  <!-- EN: Archduke of Austria -->
+  <BA_HRE_Adult_Ruler_Archduke.title>奥地利大公</BA_HRE_Adult_Ruler_Archduke.title>
+  <!-- EN: Archduke -->
+  <BA_HRE_Adult_Ruler_Archduke.titleShort>大公</BA_HRE_Adult_Ruler_Archduke.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled the Saxon heartlands, torn between loyalty to the Emperor and the ambitions of rebellious princes.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_DukeOfSaxony.description>[PAWN_nameDef]统治着萨克森的核心区域，在对皇帝的忠诚与叛乱诸侯的野心之间左右为难。</BA_HRE_Adult_Ruler_DukeOfSaxony.description>
+  <!-- EN: Duke of Saxony -->
+  <BA_HRE_Adult_Ruler_DukeOfSaxony.title>萨克森公爵</BA_HRE_Adult_Ruler_DukeOfSaxony.title>
+  <!-- EN: Duke -->
+  <BA_HRE_Adult_Ruler_DukeOfSaxony.titleShort>公爵</BA_HRE_Adult_Ruler_DukeOfSaxony.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled as Emperor of the Romans, chosen by princes and crowned by bishops. Balancing faith, politics, and ambition defined [PAWN_possessive] reign.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_EmperorOfTheRomans.description>[PAWN_nameDef]身为罗马人的皇帝进行统治，由诸侯推选并经主教加冕。平衡信仰、政治与野心，是[PAWN_possessive]统治时期的核心主题。</BA_HRE_Adult_Ruler_EmperorOfTheRomans.description>
+  <!-- EN: Emperor of the Romans -->
+  <BA_HRE_Adult_Ruler_EmperorOfTheRomans.title>罗马人皇帝</BA_HRE_Adult_Ruler_EmperorOfTheRomans.title>
+  <!-- EN: Emperor -->
+  <BA_HRE_Adult_Ruler_EmperorOfTheRomans.titleShort>皇帝</BA_HRE_Adult_Ruler_EmperorOfTheRomans.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] governed the Empire during an interregnum, holding fragile unity through cunning diplomacy and veiled threats.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_ImperialRegent.description>[PAWN_nameDef]在空位期治理帝国，通过圆滑的外交手段与隐晦的威胁维持着脆弱的统一。</BA_HRE_Adult_Ruler_ImperialRegent.description>
+  <!-- EN: Imperial Regent -->
+  <BA_HRE_Adult_Ruler_ImperialRegent.title>帝国摄政</BA_HRE_Adult_Ruler_ImperialRegent.title>
+  <!-- EN: Regent -->
+  <BA_HRE_Adult_Ruler_ImperialRegent.titleShort>摄政</BA_HRE_Adult_Ruler_ImperialRegent.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was crowned King of the Romans before ascending to the imperial throne, commanding loyalty through vision and iron will.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_KingOfTheRomans.description>[PAWN_nameDef]在登上帝国王座之前被加冕为罗马人国王，凭借远见卓识与钢铁意志赢得忠诚。</BA_HRE_Adult_Ruler_KingOfTheRomans.description>
+  <!-- EN: King of the Romans -->
+  <BA_HRE_Adult_Ruler_KingOfTheRomans.title>罗马人国王</BA_HRE_Adult_Ruler_KingOfTheRomans.title>
+  <!-- EN: King -->
+  <BA_HRE_Adult_Ruler_KingOfTheRomans.titleShort>国王</BA_HRE_Adult_Ruler_KingOfTheRomans.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded the Empire’s northeastern marches, defending its borders while scheming for greater titles.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_MargraveOfBrandenburg.description>[PAWN_nameDef]掌管帝国的东北边境，在保卫疆土的同时，也在谋划着更高的头衔。</BA_HRE_Adult_Ruler_MargraveOfBrandenburg.description>
+  <!-- EN: Margrave of Brandenburg -->
+  <BA_HRE_Adult_Ruler_MargraveOfBrandenburg.title>勃兰登堡总督</BA_HRE_Adult_Ruler_MargraveOfBrandenburg.title>
+  <!-- EN: Margrave -->
+  <BA_HRE_Adult_Ruler_MargraveOfBrandenburg.titleShort>总督</BA_HRE_Adult_Ruler_MargraveOfBrandenburg.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] governed lands in the Emperor’s name, ruling through both law and charisma. [PAWN_pronoun] was as much judge as lord.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_PalatineCount.description>[PAWN_nameDef]以皇帝之名治理领土，凭借法律与个人魅力进行统治。[PAWN_pronoun]既是领主，也担当着法官的角色。</BA_HRE_Adult_Ruler_PalatineCount.description>
+  <!-- EN: Count Palatine -->
+  <BA_HRE_Adult_Ruler_PalatineCount.title>行宫伯爵</BA_HRE_Adult_Ruler_PalatineCount.title>
+  <!-- EN: Count Palatine -->
+  <BA_HRE_Adult_Ruler_PalatineCount.titleShort>行宫伯爵</BA_HRE_Adult_Ruler_PalatineCount.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ruled both spiritually and politically, uniting church and state under one mitre. Faith and power became indistinguishable.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_PrinceBishop.description>[PAWN_nameDef]既执掌宗教权力，又拥有政治统治权，将教会与国家统一在一顶主教冠之下。信仰与权力在此变得难以区分。</BA_HRE_Adult_Ruler_PrinceBishop.description>
+  <!-- EN: Prince-Bishop -->
+  <BA_HRE_Adult_Ruler_PrinceBishop.title>主教亲王</BA_HRE_Adult_Ruler_PrinceBishop.title>
+  <!-- EN: Bishop -->
+  <BA_HRE_Adult_Ruler_PrinceBishop.titleShort>主教</BA_HRE_Adult_Ruler_PrinceBishop.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] wielded immense influence as a Prince-Elector, deciding who would wear the imperial crown while protecting [PAWN_possessive] own dominion.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_PrinceElector.description>[PAWN_nameDef]作为选帝侯拥有巨大的影响力，在决定谁能戴上帝国皇冠的同时，也在守护着[PAWN_possessive]自己的领地。</BA_HRE_Adult_Ruler_PrinceElector.description>
+  <!-- EN: Prince-Elector of Mainz -->
+  <BA_HRE_Adult_Ruler_PrinceElector.title>美因茨选帝侯</BA_HRE_Adult_Ruler_PrinceElector.title>
+  <!-- EN: Prince-Elector -->
+  <BA_HRE_Adult_Ruler_PrinceElector.titleShort>选帝侯</BA_HRE_Adult_Ruler_PrinceElector.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] presided over a wealthy imperial abbey, commanding respect as both ruler and spiritual guide of noble women.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Ruler_PrincessAbbess.description>[PAWN_nameDef]掌管着一座富裕的帝国修道院，既作为统治者，又作为贵族女性的精神导师，赢得了人们的尊敬。</BA_HRE_Adult_Ruler_PrincessAbbess.description>
+  <!-- EN: Princess-Abbess -->
+  <BA_HRE_Adult_Ruler_PrincessAbbess.title>女修道院院长</BA_HRE_Adult_Ruler_PrincessAbbess.title>
+  <!-- EN: Abbess -->
+  <BA_HRE_Adult_Ruler_PrincessAbbess.titleShort>院长</BA_HRE_Adult_Ruler_PrincessAbbess.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] crossed the Alps with caravans, bringing salt, wine, and fine cloth between German towns and Italian cities.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Traveller_AlpineTrader.description>[PAWN_nameDef]跟随商队穿越阿尔卑斯山脉，在德国城镇与意大利城市之间运输盐、葡萄酒与精美布匹。</BA_HRE_Adult_Traveller_AlpineTrader.description>
+  <!-- EN: Alpine Trader -->
+  <BA_HRE_Adult_Traveller_AlpineTrader.title>阿尔卑斯商人</BA_HRE_Adult_Traveller_AlpineTrader.title>
+  <!-- EN: Trader -->
+  <BA_HRE_Adult_Traveller_AlpineTrader.titleShort>商人</BA_HRE_Adult_Traveller_AlpineTrader.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sang songs of courtly love and noble valor, wandering castles and taverns across the realm.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Traveller_Bard.description>[PAWN_nameDef]吟唱着骑士之爱与贵族英勇的歌谣，在王国各地的城堡与酒馆间漂泊。</BA_HRE_Adult_Traveller_Bard.description>
+  <!-- EN: Wandering Minnesinger -->
+  <BA_HRE_Adult_Traveller_Bard.title>漫游抒情诗人</BA_HRE_Adult_Traveller_Bard.title>
+  <!-- EN: Minstrel -->
+  <BA_HRE_Adult_Traveller_Bard.titleShort>吟游诗人</BA_HRE_Adult_Traveller_Bard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sang of emperors and saints in taverns along the Rhine, trading verses for bread and ale.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Traveller_BardOfTheRhine.description>[PAWN_nameDef]在莱茵河畔的酒馆中吟唱着关于皇帝与圣徒的歌谣，以诗句换取面包与麦芽酒。</BA_HRE_Adult_Traveller_BardOfTheRhine.description>
+  <!-- EN: Bard of the Rhine -->
+  <BA_HRE_Adult_Traveller_BardOfTheRhine.title>莱茵河吟游诗人</BA_HRE_Adult_Traveller_BardOfTheRhine.title>
+  <!-- EN: Bard -->
+  <BA_HRE_Adult_Traveller_BardOfTheRhine.titleShort>吟游诗人</BA_HRE_Adult_Traveller_BardOfTheRhine.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was part of the Hanseatic League, sailing between Baltic ports and Imperial towns, exchanging wares and wisdom.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Traveller_HanseaticTrader.description>[PAWN_nameDef]是汉萨同盟的一员，航行于波罗的海港口与帝国城镇之间，交换商品与知识。</BA_HRE_Adult_Traveller_HanseaticTrader.description>
+  <!-- EN: Hanseatic Trader -->
+  <BA_HRE_Adult_Traveller_HanseaticTrader.title>汉萨商人</BA_HRE_Adult_Traveller_HanseaticTrader.title>
+  <!-- EN: Trader -->
+  <BA_HRE_Adult_Traveller_HanseaticTrader.titleShort>商人</BA_HRE_Adult_Traveller_HanseaticTrader.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled from Augsburg to Venice, dealing in silks, spices, and stories from foreign lands.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Traveller_MerchantRoads.description>[PAWN_nameDef]从奥格斯堡前往威尼斯经商，交易丝绸、香料以及来自异国他乡的故事。</BA_HRE_Adult_Traveller_MerchantRoads.description>
+  <!-- EN: Imperial Merchant -->
+  <BA_HRE_Adult_Traveller_MerchantRoads.title>帝国商人</BA_HRE_Adult_Traveller_MerchantRoads.title>
+  <!-- EN: Merchant -->
+  <BA_HRE_Adult_Traveller_MerchantRoads.titleShort>商人</BA_HRE_Adult_Traveller_MerchantRoads.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] walked barefoot to holy shrines, surviving on faith and alms. Each step a prayer, each night under open sky.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Traveller_Pilgrim.description>[PAWN_nameDef]赤足前往圣地朝圣，依靠信仰与施舍生存。每一步都是一次祈祷，每一夜都露宿星空之下。</BA_HRE_Adult_Traveller_Pilgrim.description>
+  <!-- EN: Canterbury Pilgrim -->
+  <BA_HRE_Adult_Traveller_Pilgrim.title>坎特伯雷朝圣者</BA_HRE_Adult_Traveller_Pilgrim.title>
+  <!-- EN: Pilgrim -->
+  <BA_HRE_Adult_Traveller_Pilgrim.titleShort>朝圣者</BA_HRE_Adult_Traveller_Pilgrim.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] walked barefoot to Aachen, seeking relics of emperors and saints, trading stories and blessings along the way.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Traveller_PilgrimToAachen.description>[PAWN_nameDef]赤足前往亚琛，追寻皇帝与圣徒的圣物，沿途交换故事与祝福。</BA_HRE_Adult_Traveller_PilgrimToAachen.description>
+  <!-- EN: Pilgrim to Aachen -->
+  <BA_HRE_Adult_Traveller_PilgrimToAachen.title>亚琛朝圣者</BA_HRE_Adult_Traveller_PilgrimToAachen.title>
+  <!-- EN: Pilgrim -->
+  <BA_HRE_Adult_Traveller_PilgrimToAachen.titleShort>朝圣者</BA_HRE_Adult_Traveller_PilgrimToAachen.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded a small river barge, navigating currents, tolls, and rival guilds on the Rhine.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Traveller_RiverCaptain.description>[PAWN_nameDef]指挥着一艘小型内河驳船，在莱茵河上应对水流、通行费以及敌对行会的挑战。</BA_HRE_Adult_Traveller_RiverCaptain.description>
+  <!-- EN: Rhine River Captain -->
+  <BA_HRE_Adult_Traveller_RiverCaptain.title>莱茵河船长</BA_HRE_Adult_Traveller_RiverCaptain.title>
+  <!-- EN: Boatman -->
+  <BA_HRE_Adult_Traveller_RiverCaptain.titleShort>船夫</BA_HRE_Adult_Traveller_RiverCaptain.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained hawks for noble courts, traveling far to teach the art of falconry and taming wild skies.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Holy Roman Empire</color></i> -->
+  <BA_HRE_Adult_Traveller_WanderingFalconer.description>[PAWN_nameDef]为贵族宫廷训练猎鹰，远走他乡传授驯鹰技艺，征服苍穹之下的野生猛禽。</BA_HRE_Adult_Traveller_WanderingFalconer.description>
+  <!-- EN: Wandering Falconer -->
+  <BA_HRE_Adult_Traveller_WanderingFalconer.title>漫游驯鹰师</BA_HRE_Adult_Traveller_WanderingFalconer.title>
+  <!-- EN: Falconer -->
+  <BA_HRE_Adult_Traveller_WanderingFalconer.titleShort>驯鹰师</BA_HRE_Adult_Traveller_WanderingFalconer.titleShort>
+  
+</LanguageData>

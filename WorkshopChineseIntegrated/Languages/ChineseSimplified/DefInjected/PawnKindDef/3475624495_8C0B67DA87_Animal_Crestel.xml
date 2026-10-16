@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crestel -->
+  <DA_Crestel.label>冠禽</DA_Crestel.label>
+  <!-- EN: crestel chick -->
+  <DA_Crestel.lifeStages.crestel_chick.label>冠禽幼崽</DA_Crestel.lifeStages.crestel_chick.label>
+  <!-- EN: crestel chicks -->
+  <DA_Crestel.lifeStages.crestel_chick.labelPlural>冠禽幼崽们</DA_Crestel.lifeStages.crestel_chick.labelPlural>
+  
+</LanguageData>

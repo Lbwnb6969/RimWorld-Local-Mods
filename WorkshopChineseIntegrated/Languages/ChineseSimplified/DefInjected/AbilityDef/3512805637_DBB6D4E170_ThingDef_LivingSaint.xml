@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cleansing Fire -->
+  <BEWH_CleansingFire.label>净化之火</BEWH_CleansingFire.label>
+  <!-- EN: The Ardent Blade unleashes a stream of searing flames upon the unfortunates in its path. -->
+  <BEWH_CleansingFire.description>使用热诚之剑向路径上的不幸异端释放一道灼热的烈焰。</BEWH_CleansingFire.description>
+  
+</LanguageData>

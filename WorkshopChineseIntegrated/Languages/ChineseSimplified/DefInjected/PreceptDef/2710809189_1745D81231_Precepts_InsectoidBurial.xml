@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hive burial -->
+  <AM_InsectoidBurial.label>虫巢葬礼</AM_InsectoidBurial.label>
+  <!-- EN: A gathering to witness our friend offered to the greater powers; Insects! -->
+  <AM_InsectoidBurial.description>在指定地点处举行葬礼，以将死者献给完美且伟大的虫族。</AM_InsectoidBurial.description>
+  <!-- EN: {PAWN_nameDef} should be offered to the insectiods so {PAWN_possessive} friends and family will know they are with the superior race -->
+  <AM_InsectoidBurial.extraTextPawnDeathLetter>{PAWN_nameDef}应当被献给虫族，这样{PAWN_possessive}朋友和家人才会对它们乃至上种族一事深信不疑。</AM_InsectoidBurial.extraTextPawnDeathLetter>
+  
+</LanguageData>

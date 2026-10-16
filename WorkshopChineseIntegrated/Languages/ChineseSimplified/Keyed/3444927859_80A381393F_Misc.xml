@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Apiary -->
+	<!-- EN: The apiary needs to be tended to -->
+  <VFEM2_NeedTend>蜂箱需要照料</VFEM2_NeedTend>
+	<!-- EN: The apiary is resting because the ambient temperature is below 10°C -->
+  <VFEM2_Resting>由于温度低于10°C，该蜂箱正在休眠</VFEM2_Resting>
+	<!-- EN: Honey ready -->
+  <VFEM2_Ready>蜂蜜已备好</VFEM2_Ready>
+	<!-- EN: The apiary needs {0} more flowers around it for bees to forage around. -->
+  <VFEM2_NeedFlower>该蜂箱还需要{0}朵花才能养育蜜蜂</VFEM2_NeedFlower>
+	<!-- EN: The apiary needs tending in {0} -->
+  <VFEM2_NeedTIn>在{0}后需要照料</VFEM2_NeedTIn>
+	<!-- EN: The apiary needs to be three cells away from any other apiaries -->
+  <VFEM2_PlaceWorker>蜂箱之间需要隔开至少三格。</VFEM2_PlaceWorker>
+	<!-- EN: The apiary can't be built under a roof -->
+  <VFEM2_PlaceWorkerNoRoof>蜂箱不能建在屋顶下。</VFEM2_PlaceWorkerNoRoof>
+	<!-- EN: Animal skill too low, needs 5 -->
+  <VFEM2_BelowAnimalSkill>驯兽技能太低，需求5</VFEM2_BelowAnimalSkill>
+	<!-- EN: Tending failed -->
+  <VFEM2_TendingFailed>照料失败</VFEM2_TendingFailed>
+	
+	<!-- Mead barrel -->
+	<!-- EN: This mead fermenting barrel is not working at the moment -->
+  <VFEM2_MeadFermentingBarrelNotWorking>该蜜酒发酵桶目前没在工作</VFEM2_MeadFermentingBarrelNotWorking>
+	
+	<!-- Wine barrel -->
+	<!-- EN: This wine fermenting barrel is not working at the moment -->
+  <VFEM2_WineBarrelNotWorking>该葡萄酒桶目前没在工作</VFEM2_WineBarrelNotWorking>
+	
+	<!-- Leather boil pot -->
+	<!-- EN: This boil pot is not working at the moment -->
+  <VFEM2_BoilPotNotWorking>该皮革煮锅目前没在工作</VFEM2_BoilPotNotWorking>
+	
+	<!-- Heraldic -->
+	<!-- EN: Edit Heraldry -->
+  <VFEM2_StyleHeraldics>编辑纹章</VFEM2_StyleHeraldics>
+	<!-- EN: Pattern -->
+  <VFEM2_SetPattern>花纹</VFEM2_SetPattern>
+	<!-- EN: Symbol -->
+  <VFEM2_SetSymbol>图标</VFEM2_SetSymbol>
+	<!-- EN: Edit Faction -->
+  <VFEM2_EditFactionHeraldry>编辑派系</VFEM2_EditFactionHeraldry>
+	<!-- EN: Edit Target -->
+  <VFEM2_EditThingHeraldry>编辑目标</VFEM2_EditThingHeraldry>
+	<!-- EN: Reset -->
+  <VFEM2_ResetToFaction>重置</VFEM2_ResetToFaction>
+
+	<!-- Misc -->
+	<!-- EN: Timbered wall: +50% -->
+  <VFEM2_StatsReport_Flammability>木骨架墙：+50%</VFEM2_StatsReport_Flammability>
+	<!-- EN: {0} has been improved to {1} quality level due to the smithing anvil. -->
+  <VFEM2_ItemImproved_Anvil>由于铁砧的存在，{0}的质量已经被提升至{1}。</VFEM2_ItemImproved_Anvil>
+	<!-- EN: {0} has been improved to {1} quality level due to the stone polisher. -->
+  <VFEM2_ItemImproved_Polisher>由于砂轮的存在，{0}的质量已经被提升至{1}。</VFEM2_ItemImproved_Polisher>
+	<!-- EN: Merchant caravan spawn count (scalable with world polulation size) -->
+  <VFEM2_MerchantCaravanSpawnCount>行商商队生成数量（基于世界人口）</VFEM2_MerchantCaravanSpawnCount>
+	<!-- EN: Merchant's Guild will pack and move in: {0} -->
+  <VFEM2_MerchantCaravanStayPeriod>行商公会停留时间：{0}</VFEM2_MerchantCaravanStayPeriod>
+	<!-- EN: Barter with {0} -->
+  <VFEM2_BarterWith>与{0}易物</VFEM2_BarterWith>
+	<!-- EN: Barter fairness -->
+  <VFEM2_BarterFairness>易物公平度</VFEM2_BarterFairness>
+	<!-- EN: In order to strike a deal with the Merchant's Guild, you need to provide them with enough goods for the deal to become fair. Value of every item is skewed in random direction slightly. Higher negotiation ability will increase the value of your items. -->
+  <VFEM2_BarterExplanation>与行商工会交易时，你需要主动提供出让的物品直到让对方感到足够公平。所有物品的价值都会有随机的偏移。谈判能力能加成你出让物品的价值。</VFEM2_BarterExplanation>
+	<!-- EN: Barter -->
+  <VFEM2_CommandBarter>易物交易</VFEM2_CommandBarter>
+	<!-- EN: Barter with this merchant guild. -->
+  <VFEM2_CommandBarterDesc>与行商公会易物交易</VFEM2_CommandBarterDesc>
+
+  <!-- EN: Merchant's guild camp destroyed -->
+  <VFEM2_LetterLabelFactionBaseDefeated>行商公会营地被毁</VFEM2_LetterLabelFactionBaseDefeated>
+  <!-- EN: The merchant's guild camp has been destroyed. -->
+  <VFEM2_LetterFactionBaseDefeated>该行商公会的营地被摧毁了。</VFEM2_LetterFactionBaseDefeated>
+  <!-- EN: Since this was their last camp, {0} has been defeated. -->
+  <VFEM2_LetterFactionBaseDefeated_FactionDestroyed>这是{0}的最后一个营地，这意味着这个派系已不复存在。</VFEM2_LetterFactionBaseDefeated_FactionDestroyed>
+	<!-- EN: Due to the amount of completed research projects, the research  cost is increased to: {0} -->
+  <VFEM_MaynardMedievalResearchModifier>基于已完成的研究项目，该研究的费用已经增加至：{0}</VFEM_MaynardMedievalResearchModifier>
+		<!-- EN: A group of vikings from {0} have arrived nearby.\nThey will attempt to burn your colony down, stealing whatever they can before they leave.\nPrepare a defense or attack them preemptively. -->
+  <VFEM_PillageRaidDesc>一群来自{0}的维京人到达附近。\n会试图烧毁你的殖民地并尽可能地抢夺财物。\n准备防御或是主动出击。</VFEM_PillageRaidDesc>
+
+</LanguageData>

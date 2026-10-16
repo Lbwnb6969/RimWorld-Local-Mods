@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <VME_BookReading_Desired.label>渴望</VME_BookReading_Desired.label>
+  <!-- EN: It’s important to soak up every bit of information we can, how else are we supposed to learn? Most books are even quite entertaining to boot. -->
+  <VME_BookReading_Desired.description>若不尽可能地吸收理解知识与信息，我们要怎样才能学习呢？读读书还是蛮有趣的。</VME_BookReading_Desired.description>
+  
+  <!-- EN: disliked -->
+  <VME_BookReading_Disliked.label>反感</VME_BookReading_Disliked.label>
+  <!-- EN: Reading is just such a chore. We retain nothing from it. -->
+  <VME_BookReading_Disliked.description>读书既枯燥又乏味，我们也从中学不到什么东西。</VME_BookReading_Disliked.description>
+  
+</LanguageData>

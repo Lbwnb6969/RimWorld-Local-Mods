@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+		<li>Animal Foods Extended</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <!-- ========== grazing feedstock / rendered meat Research Changer ========== -->
+        <!-- changes researchPrerequisite from vanilla Electricity to MO Basic Cooking -->
+        <li Class="PatchOperationReplace">
+        <xpath>/Defs/RecipeDef[defName="CookFeedstockGrazing" or
+                              defName="CookFeedstockGrazingBulk" or
+                              defName="CookRenderedMeat" or
+                              defName="CookRenderedMeatBulk"]/researchPrerequisite</xpath>
+          <value>
+            <researchPrerequisite>DankPyon_BasicCooking</researchPrerequisite>
+          </value>
+        </li>
+        <!-- ========== wet pet food Research Adder ========== -->
+        <!-- adds researchPrerequisite: MO Intermediate Cooking -->
+        <li Class="PatchOperationAdd">
+        <xpath>/Defs/RecipeDef[defName="CookPetFood" or
+                              defName="CookPetFoodBulk"]</xpath>
+          <value>
+            <researchPrerequisite>DankPyon_IntermediateCooking</researchPrerequisite>
+          </value>
+        </li>
+        <!-- ========== grazing feedstock / rendered meat recipeUsers adder ========== -->
+        <!-- grazing feedstock can made in MO Millstone -->
+        <li Class="PatchOperationAdd">
+        <xpath>/Defs/RecipeDef[defName="CookFeedstockGrazing" or
+                              defName="CookFeedstockGrazingBulk"]/recipeUsers</xpath>
+          <value>
+            <li MayRequire="dankpyon.medieval.overhaul">DankPyon_Millstone</li>
+          </value>
+        </li>
+        <!-- rendered meat can made in MO Butchers Block -->
+        <li Class="PatchOperationAdd">
+        <xpath>/Defs/RecipeDef[defName="CookRenderedMeat" or
+                              defName="CookRenderedMeatBulk"]/recipeUsers</xpath>
+          <value>
+            <li MayRequire="dankpyon.medieval.overhaul">DankPyon_ButchersBlock</li>
+            <li>TableButcher</li>
+          </value>
+        </li>   
+      </operations>
+    </match>
+  </Operation>
+</Patch>

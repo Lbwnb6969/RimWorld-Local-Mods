@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <pphhyy_Barbarian_MakeMetalShield.label>制作 蛮族金属盾 I</pphhyy_Barbarian_MakeMetalShield.label>
+  <pphhyy_Barbarian_MakeMetalShield.description>制作蛮族金属盾 I</pphhyy_Barbarian_MakeMetalShield.description>
+  <pphhyy_Barbarian_MakeMetalShield.jobString>正在制作蛮族金属盾 I。</pphhyy_Barbarian_MakeMetalShield.jobString>
+
+  <pphhyy_Barbarian_MakeMetalShieldII.label>制作 蛮族金属盾 II</pphhyy_Barbarian_MakeMetalShieldII.label>
+  <pphhyy_Barbarian_MakeMetalShieldII.description>制作蛮族金属盾 II</pphhyy_Barbarian_MakeMetalShieldII.description>
+  <pphhyy_Barbarian_MakeMetalShieldII.jobString>正在制作蛮族金属盾 II。</pphhyy_Barbarian_MakeMetalShieldII.jobString>
+
+  <pphhyy_Barbarian_MakeMetalShieldIII.label>制作 蛮族金属盾 III</pphhyy_Barbarian_MakeMetalShieldIII.label>
+  <pphhyy_Barbarian_MakeMetalShieldIII.description>制作蛮族金属盾 III</pphhyy_Barbarian_MakeMetalShieldIII.description>
+  <pphhyy_Barbarian_MakeMetalShieldIII.jobString>正在制作蛮族金属盾 III。</pphhyy_Barbarian_MakeMetalShieldIII.jobString>
+
+
+</LanguageData>

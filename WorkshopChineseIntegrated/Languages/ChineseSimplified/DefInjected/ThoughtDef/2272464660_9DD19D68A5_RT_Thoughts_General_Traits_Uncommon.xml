@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bemused -->
+  <MoodOffsetRTConstantlyBemused.stages.Bemused.label>愁眉苦脸</MoodOffsetRTConstantlyBemused.stages.Bemused.label>
+  <!-- EN: Oh man... Can't I get a break?! -->
+  <MoodOffsetRTConstantlyBemused.stages.Bemused.description>唉…不能让我休息会吗？</MoodOffsetRTConstantlyBemused.stages.Bemused.description>
+  
+  <!-- EN: Amused -->
+  <MoodOffsetRTEasilyAmused.stages.Amused.label>笑口常开</MoodOffsetRTEasilyAmused.stages.Amused.label>
+  <!-- EN: Oh wow, would you look at that! -->
+  <MoodOffsetRTEasilyAmused.stages.Amused.description>哇，你能看看这个吗吗！</MoodOffsetRTEasilyAmused.stages.Amused.description>
+  
+</LanguageData>

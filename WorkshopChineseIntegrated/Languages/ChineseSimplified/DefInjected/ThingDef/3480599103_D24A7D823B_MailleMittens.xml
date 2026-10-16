@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: maille mittens -->
+  <TA_MailleMittens.label>锁子甲手套</TA_MailleMittens.label>
+  <!-- EN: Fingerless gloves covered with maille. -->
+  <TA_MailleMittens.description>无指手套外覆锁子甲，兼顾灵活性与防护。</TA_MailleMittens.description>
+  
+</LanguageData>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: claymore -->
+  <VFEM2_MeleeWeapon_Claymore.label>大剑</VFEM2_MeleeWeapon_Claymore.label>
+  <!-- EN: A brutal, ancient weapon of heavy knights, the claymore can be used cleave through enemies with ease.\n\nThis weapon has a chance to deal a critical strike, stunning the opponent. -->
+  <VFEM2_MeleeWeapon_Claymore.description>凶悍的古老武器，常被骑士使用。大剑能轻易地将敌人一斩两断，偶尔能造成暴击，眩晕敌人。</VFEM2_MeleeWeapon_Claymore.description>
+  <!-- EN: handle -->
+  <VFEM2_MeleeWeapon_Claymore.tools.handle.label>剑柄</VFEM2_MeleeWeapon_Claymore.tools.handle.label>
+  <!-- EN: point -->
+  <VFEM2_MeleeWeapon_Claymore.tools.point.label>剑头</VFEM2_MeleeWeapon_Claymore.tools.point.label>
+  <!-- EN: edge -->
+  <VFEM2_MeleeWeapon_Claymore.tools.edge.label>剑刃</VFEM2_MeleeWeapon_Claymore.tools.edge.label>
+  
+  <!-- EN: dane axe -->
+  <VFEM2_MeleeWeapon_DaneAxe.label>丹麦斧</VFEM2_MeleeWeapon_DaneAxe.label>
+  <!-- EN: A mighty weapon on the battlefield in the right kind of hands. Made to cut through flesh and bones alike. The axe edge extends into what's called horns, ideal for cutting through light armor and flesh alike.\n\nThis weapon has a chance to deal a critical strike, stunning the opponent. -->
+  <VFEM2_MeleeWeapon_DaneAxe.description>在能手手里非常致命的古老武器。可以将血肉和骨头像切菜一样砍断。斧刃边缘有向外延申的角刃，能用来击穿轻甲。\n\n该武器偶尔能造成暴击，眩晕敌人。</VFEM2_MeleeWeapon_DaneAxe.description>
+  <!-- EN: handle -->
+  <VFEM2_MeleeWeapon_DaneAxe.tools.handle.label>斧柄</VFEM2_MeleeWeapon_DaneAxe.tools.handle.label>
+  <!-- EN: edge -->
+  <VFEM2_MeleeWeapon_DaneAxe.tools.edge.label>斧刃</VFEM2_MeleeWeapon_DaneAxe.tools.edge.label>
+  
+  <!-- EN: flail -->
+  <VFEM2_MeleeWeapon_Flail.label>流星锤</VFEM2_MeleeWeapon_Flail.label>
+  <!-- EN: A refined mace, with a spiked head connected to the handle with a chain, engineered for efficient swinging and deadly impacts. The randomness of the chain movement means that damage may fluctuate greatly. -->
+  <VFEM2_MeleeWeapon_Flail.description>钉头锤的变种，带刺的锤头通过链子连接在手柄上，方便挥舞起来增加力道。由于锤头难以控制，该武器造成的伤害相当随机。</VFEM2_MeleeWeapon_Flail.description>
+  <!-- EN: handle -->
+  <VFEM2_MeleeWeapon_Flail.tools.handle.label>锤柄</VFEM2_MeleeWeapon_Flail.tools.handle.label>
+  <!-- EN: head -->
+  <VFEM2_MeleeWeapon_Flail.tools.head.label>锤头</VFEM2_MeleeWeapon_Flail.tools.head.label>
+  
+  <!-- EN: halberd -->
+  <VFEM2_MeleeWeapon_Halberd.label>长戟</VFEM2_MeleeWeapon_Halberd.label>
+  <!-- EN: A long, unwieldy polearm with a sharp edge and a sharp point. The simple, ancient design concentrates cutting power generated from strong overhead swings. The reach of the halberd allows to strike enemies much further away. -->
+  <VFEM2_MeleeWeapon_Halberd.description>一把笨重的长柄武器，顶端同时安有枪头和斧刃。长戟的长度使其能在更远的地方击中敌人。</VFEM2_MeleeWeapon_Halberd.description>
+  <!-- EN: shaft -->
+  <VFEM2_MeleeWeapon_Halberd.tools.shaft-0.label>戟杆</VFEM2_MeleeWeapon_Halberd.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <VFEM2_MeleeWeapon_Halberd.tools.shaft-1.label>戟杆</VFEM2_MeleeWeapon_Halberd.tools.shaft-1.label>
+  <!-- EN: point -->
+  <VFEM2_MeleeWeapon_Halberd.tools.point.label>戟尖</VFEM2_MeleeWeapon_Halberd.tools.point.label>
+  <!-- EN: edge -->
+  <VFEM2_MeleeWeapon_Halberd.tools.edge.label>戟刃</VFEM2_MeleeWeapon_Halberd.tools.edge.label>
+  
+  <!-- EN: heavy mace -->
+  <VFEM2_MeleeWeapon_HeavyMace.label>重型钉头锤</VFEM2_MeleeWeapon_HeavyMace.label>
+  <!-- EN: A heavy mace consisting of a shaft and a heavy ball adorned with spikes. Very effective at piercing plate armor, this weapon is often used by more vicious knights and mercenaries. -->
+  <VFEM2_MeleeWeapon_HeavyMace.description>装有沉重的带刺锤头的锤子。十分擅长击穿板甲，嗜血者尤其喜欢它。</VFEM2_MeleeWeapon_HeavyMace.description>
+  <!-- EN: handle -->
+  <VFEM2_MeleeWeapon_HeavyMace.tools.handle.label>锤柄</VFEM2_MeleeWeapon_HeavyMace.tools.handle.label>
+  <!-- EN: head -->
+  <VFEM2_MeleeWeapon_HeavyMace.tools.head.label>锤头</VFEM2_MeleeWeapon_HeavyMace.tools.head.label>
+  
+  <!-- EN: pike -->
+  <VFEM2_MeleeWeapon_Pike.label>长柄枪</VFEM2_MeleeWeapon_Pike.label>
+  <!-- EN: A long, unwieldy polearm tipped with a sharp point for stabbing opponents. The reach of the pike allows to strike enemies much further away. -->
+  <VFEM2_MeleeWeapon_Pike.description>一把笨重的长柄武器，顶端安有枪头专用于刺击敌人。长柄枪的长度使其能在更远的地方击中敌人。</VFEM2_MeleeWeapon_Pike.description>
+  <!-- EN: shaft -->
+  <VFEM2_MeleeWeapon_Pike.tools.shaft-0.label>枪杆</VFEM2_MeleeWeapon_Pike.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <VFEM2_MeleeWeapon_Pike.tools.shaft-1.label>枪杆</VFEM2_MeleeWeapon_Pike.tools.shaft-1.label>
+  <!-- EN: point -->
+  <VFEM2_MeleeWeapon_Pike.tools.point.label>枪尖</VFEM2_MeleeWeapon_Pike.tools.point.label>
+  
+  <!-- EN: shortsword -->
+  <VFEM2_MeleeWeapon_Shortsword.label>武装剑</VFEM2_MeleeWeapon_Shortsword.label>
+  <!-- EN: A versatile and compact blade designed for both thrusting and slashing. Its nimble design makes it effective in close-quarters combat, where quick strikes can overwhelm slower foes. -->
+  <VFEM2_MeleeWeapon_Shortsword.description>一种灵活的轻型剑，劈砍或戳刺都非常有效。轻巧灵活的特点让它有时候能胜过更加巨大和沉重的武器。</VFEM2_MeleeWeapon_Shortsword.description>
+  <!-- EN: handle -->
+  <VFEM2_MeleeWeapon_Shortsword.tools.handle.label>剑柄</VFEM2_MeleeWeapon_Shortsword.tools.handle.label>
+  <!-- EN: point -->
+  <VFEM2_MeleeWeapon_Shortsword.tools.point.label>剑头</VFEM2_MeleeWeapon_Shortsword.tools.point.label>
+  <!-- EN: edge -->
+  <VFEM2_MeleeWeapon_Shortsword.tools.edge.label>剑刃</VFEM2_MeleeWeapon_Shortsword.tools.edge.label>
+  
+  <!-- EN: heraldic standard -->
+  <VFEM2_MeleeWeapon_Standard.label>令旗</VFEM2_MeleeWeapon_Standard.label>
+  <!-- EN: A long wooden pole adorned with a flag bearing the heraldry of its bearer. While it inspires unity and bolsters morale as a rallying point for soldiers, the standard itself is poorly suited for combat, offering little in terms of offense or defense. -->
+  <VFEM2_MeleeWeapon_Standard.description>安装在长柄上的旗帜，展示了持有者的纹章。它能鼓动士气，集结部队，但本身并不是什么趁手的武器，战斗性能极差。</VFEM2_MeleeWeapon_Standard.description>
+  <!-- EN: Can’t use Rally: No enemies on the map. -->
+  <VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReason>无法使用集结号令：地图上没有敌人。</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReason>
+  <!-- EN: Already using Rally. -->
+  <VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReasonAlreadyUsing>已经使用集结号令。</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReasonAlreadyUsing>
+  <!-- EN: Create an aura that rallies everyone nearby, stopping their mental breaks and preventing them from breaking again. The effect lasts 12 hours and remains attached to the standard-bearer for the duration. -->
+  <VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.gizmoDescription>号令其他人集结在自己周围，能终止进行中的精神崩溃并防止未来的精神崩溃。效果与持有令旗的人绑定，持续12小时。</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.gizmoDescription>
+  <!-- EN: shaft -->
+  <VFEM2_MeleeWeapon_Standard.tools.shaft-0.label>旗杆</VFEM2_MeleeWeapon_Standard.tools.shaft-0.label>
+  <!-- EN: shaft -->
+  <VFEM2_MeleeWeapon_Standard.tools.shaft-1.label>旗杆</VFEM2_MeleeWeapon_Standard.tools.shaft-1.label>
+  
+</LanguageData>

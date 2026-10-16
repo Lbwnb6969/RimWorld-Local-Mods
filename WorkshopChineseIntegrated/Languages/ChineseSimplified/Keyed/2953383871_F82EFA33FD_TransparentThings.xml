@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TT.TransparentThings>Medieval Overhaul-物件透明度调整</TT.TransparentThings>
+  <TT.EnableTreeTransparency>允许树木透视</TT.EnableTreeTransparency>
+  <TT.EnableRoofTransparency>允许屋顶透视</TT.EnableRoofTransparency>
+  <TT.MakeRoofsSelectable>允许屋顶被选择</TT.MakeRoofsSelectable>
+
+</LanguageData>

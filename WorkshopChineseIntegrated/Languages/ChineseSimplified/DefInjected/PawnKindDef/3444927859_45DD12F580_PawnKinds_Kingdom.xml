@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sellsword -->
+  <VFEM_SellSword.label>雇佣剑士</VFEM_SellSword.label>
+  
+  <!-- EN: archer -->
+  <VFEM2_Archer.label>弓箭手</VFEM2_Archer.label>
+  
+  <!-- EN: bannerman -->
+  <VFEM2_Bannerman.label>掌旗兵</VFEM2_Bannerman.label>
+  
+  <!-- EN: crossbowman -->
+  <VFEM2_Crossbowman.label>弩手</VFEM2_Crossbowman.label>
+  
+  <!-- EN: greatsword -->
+  <VFEM2_Greatsword.label>大剑士</VFEM2_Greatsword.label>
+  
+  <!-- EN: guildmaster -->
+  <VFEM2_Guildmaster.label>公会长</VFEM2_Guildmaster.label>
+  
+  <!-- EN: halberdier -->
+  <VFEM2_Halberdier.label>长戟兵</VFEM2_Halberdier.label>
+  
+  <!-- EN: handgunner -->
+  <VFEM2_Handgunner.label>火铳手</VFEM2_Handgunner.label>
+  
+  <!-- EN: heavy archer -->
+  <VFEM2_HeavyArcher.label>重型弓箭手</VFEM2_HeavyArcher.label>
+  
+  <!-- EN: hunter -->
+  <VFEM2_Hunter.label>猎手</VFEM2_Hunter.label>
+  
+  <!-- EN: knight -->
+  <VFEM2_Knight.label>骑士</VFEM2_Knight.label>
+  
+  <!-- EN: lord -->
+  <VFEM2_Lord.label>领主</VFEM2_Lord.label>
+  
+  <!-- EN: man-at-arms -->
+  <VFEM2_ManAtArms.label>披甲战士</VFEM2_ManAtArms.label>
+  
+  <!-- EN: militia -->
+  <VFEM2_Militia.label>民兵</VFEM2_Militia.label>
+  
+  <!-- EN: peasant -->
+  <VFEM2_Peasant.label>农民</VFEM2_Peasant.label>
+  
+  <!-- EN: trader -->
+  <VFEM2_Trader.label>商人</VFEM2_Trader.label>
+  
+  <!-- EN: wall-breaker -->
+  <VFEM2_Wallbreaker.label>破墙手</VFEM2_Wallbreaker.label>
+  
+</LanguageData>

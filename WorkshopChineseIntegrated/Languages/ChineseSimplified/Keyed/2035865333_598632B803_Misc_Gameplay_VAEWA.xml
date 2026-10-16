@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+<!-- EN: The Pestigator refuses to be tamed! -->
+  <VAEWaste_PestigatorNotTameable>潜猎鳄拒绝被驯服！</VAEWaste_PestigatorNotTameable>
+<!-- EN: The Toxbear is too maddened to be tamed! -->
+  <VAEWaste_ToxbearNotTameable>污毒熊因过于狂暴而无法被驯服！</VAEWaste_ToxbearNotTameable>
+<!-- EN: The Pestigator rips out {0}'s {1} with its enormous jaws! -->
+  <VAEWaste_PestigatorRips>潜猎鳄用恐怖的巨颌撕碎了{0}的{1}！</VAEWaste_PestigatorRips>
+
+<!-- EN: {0} wander in -->
+  <VAEWaste_WasteAnimalsWanderInLabel>游荡的{0}</VAEWaste_WasteAnimalsWanderInLabel>
+<!-- EN: A group of {0} have wandered into the area.\n\nThey have been attracted by the local pollution. Their arrival might endanger the local ecosystem. You can clean up the pollution in your local area to prevent waste animals from wandering in again. -->
+  <VAEWaste_WasteAnimalsWanderInText>一群{0}来到了本地区。\n\n它们是被这里受污染的环境吸引过来的，且有可能会对生态系统造成危害。你可以通过治理污染的方式来阻止废土动物继续游荡至此。</VAEWaste_WasteAnimalsWanderInText>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LanguageData>

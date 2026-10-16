@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PA.RecipeLabelMakeSeedBundle>制作{0}种子包</PA.RecipeLabelMakeSeedBundle>
+  <PA.RecipeDescriptionCraftSeedBundleFrom>用{1}份{2}制作一包{0}种子。</PA.RecipeDescriptionCraftSeedBundleFrom>
+  <PA.RecipeJobStringPackingSeeds>正在打包{0}种子。</PA.RecipeJobStringPackingSeeds>
+  <PA.SeedBundleLabelSeedBundle>{0}种子包</PA.SeedBundleLabelSeedBundle>
+  <PA.SeedBundleDescriptionBundleOfSeedsForCrop>一包{0}的种子。打开后，你的派系便可种植这种作物。</PA.SeedBundleDescriptionBundleOfSeedsForCrop>
+  <PA.CropUnlocked>获得了{0}种子！</PA.CropUnlocked>
+  <PA.CropUnlockedDesc>种子包里有许多种子，足以维持一片{0}农田！你的派系现在可以种植{0}了。</PA.CropUnlockedDesc>
+  <PA.UnlockCrop>打开{0}种子包</PA.UnlockCrop>
+  <PA.CropAlreadyUnlocked>已收集{0}</PA.CropAlreadyUnlocked>
+  <PA.SeedBundleIngredientCount>种子包原料数量：{0}</PA.SeedBundleIngredientCount>
+  <PA.CropIsNotUnlocked>尚未收集{0}。</PA.CropIsNotUnlocked>
+  <PA.YouUnlockedSeed>你已收集这种种子包。</PA.YouUnlockedSeed>
+  <PA.NothingToSowYet>尚无可播种作物。点击打开菜单。</PA.NothingToSowYet>
+  <PA.UnlockNewSeeds>打开种子包后才能播种相应植物。种子包可通过贸易、袭击或任务奖励获得。</PA.UnlockNewSeeds>
+  <PA.UnlockedSeedLabel>{0}（已拥有）</PA.UnlockedSeedLabel>
+  <PA.ScenPart_StartingSeeds>携带种子包开局</PA.ScenPart_StartingSeeds>
+  <RandomVegetablesSummary>随机一批可食用的农作蔬菜 ×{0}</RandomVegetablesSummary>
+  <RandomVegetablesSliderLabel>随机可食用农作蔬菜的批次数量：{0}</RandomVegetablesSliderLabel>
+  <RandomSeedBundlesSummary>随机可食用蔬菜种子包 ×{0}</RandomSeedBundlesSummary>
+  <RandomSeedBundlesSliderLabel>随机可食用蔬菜种子包数量：{0}</RandomSeedBundlesSliderLabel>
+</LanguageData>

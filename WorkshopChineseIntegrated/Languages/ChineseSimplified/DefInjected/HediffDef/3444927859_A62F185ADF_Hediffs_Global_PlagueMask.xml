@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: plague mask -->
+  <VFEM2_PlagueMask.label>疫医面罩</VFEM2_PlagueMask.label>
+  <!-- EN: Plague mask prevents the wearer from catching plague. -->
+  <VFEM2_PlagueMask.description>疫医面罩保护穿戴者不受疾病和毒素影响。</VFEM2_PlagueMask.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient power pole -->
+  <RG_AncientPowerPole.label>远古电线杆</RG_AncientPowerPole.label>
+  <!-- EN: Part of a long gone power network. No longer functional. -->
+  <RG_AncientPowerPole.description>这根电线杆曾属于某个古老的电网。随着电网的消失，它也失去了本来的作用。</RG_AncientPowerPole.description>
+  
+</LanguageData>

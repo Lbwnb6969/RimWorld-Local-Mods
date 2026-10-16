@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Psychic bolt -->
+  <BEWH_PsykerBolt.label>灵能飞弹</BEWH_PsykerBolt.label>
+  <!-- EN: A bolt made of raw warp energy, able to pierce even the toughest armor. Its power scales with the strength of the psyker who casts it. -->
+  <BEWH_PsykerBolt.description>一种由原始亚空间能量制成的飞弹，它能够穿透最坚固的盔甲。其威力会随着施放它的灵能者的等级而增强</BEWH_PsykerBolt.description>
+  <!-- EN: Using ability: {0} -->
+  <BEWH_PsykerBolt.jobReportString>使用能力：{0}</BEWH_PsykerBolt.jobReportString>
+  <!-- EN: Psychic bolt -->
+  <BEWH_PsykerBolt.verbProperties.label>灵能飞弹</BEWH_PsykerBolt.verbProperties.label>
+  
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make foundation material -->
+  <sd_bridges_recipe_foundationmaterial_tablemachin.label>制作基石</sd_bridges_recipe_foundationmaterial_tablemachin.label>
+  <!-- EN: make stuff into foundation material(1 steel + 3 stuff = 1 foundation material), used to build structures on water. -->
+  <sd_bridges_recipe_foundationmaterial_tablemachin.description>将可用材料制成基石（1 钢 + 3 材料 = 1 基石），用于在水上建造结构。</sd_bridges_recipe_foundationmaterial_tablemachin.description>
+  <!-- EN: Making foundation material. -->
+  <sd_bridges_recipe_foundationmaterial_tablemachin.jobString>正在制作基石。</sd_bridges_recipe_foundationmaterial_tablemachin.jobString>
+  
+  <!-- EN: make foundation material(10) -->
+  <sd_bridges_recipe_foundationmaterial_tablemachin_10times.label>制作基石（10）</sd_bridges_recipe_foundationmaterial_tablemachin_10times.label>
+  <!-- EN: make stuff into foundation material(1 steel + 3 stuff = 1 foundation material), used to build structures on water. -->
+  <sd_bridges_recipe_foundationmaterial_tablemachin_10times.description>将可用材料制成基石（1 钢 + 3 材料 = 1 基石），用于在水上建造结构。</sd_bridges_recipe_foundationmaterial_tablemachin_10times.description>
+  <!-- EN: Making foundation material. -->
+  <sd_bridges_recipe_foundationmaterial_tablemachin_10times.jobString>正在制作基石。</sd_bridges_recipe_foundationmaterial_tablemachin_10times.jobString>
+  
+  <!-- EN: make foundation material -->
+  <sd_bridges_recipe_foundationmaterial_tablestone.label>制作基石</sd_bridges_recipe_foundationmaterial_tablestone.label>
+  <!-- EN: make stuff into foundation material(1 steel + 3 stuff = 1 foundation material), used to build structures on water. -->
+  <sd_bridges_recipe_foundationmaterial_tablestone.description>将可用材料制成基石（1 钢 + 3 材料 = 1 基石），用于在水上建造结构。</sd_bridges_recipe_foundationmaterial_tablestone.description>
+  <!-- EN: Making foundation material. -->
+  <sd_bridges_recipe_foundationmaterial_tablestone.jobString>正在制作基石。</sd_bridges_recipe_foundationmaterial_tablestone.jobString>
+  
+  <!-- EN: make foundation material(10) -->
+  <sd_bridges_recipe_foundationmaterial_tablestone_10times.label>制作基石（10）</sd_bridges_recipe_foundationmaterial_tablestone_10times.label>
+  <!-- EN: make stuff into foundation material(1 steel + 3 stuff = 1 foundation material), used to build structures on water. -->
+  <sd_bridges_recipe_foundationmaterial_tablestone_10times.description>将可用材料制成基石（1 钢 + 3 材料 = 1 基石），用于在水上建造结构。</sd_bridges_recipe_foundationmaterial_tablestone_10times.description>
+  <!-- EN: Making foundation material. -->
+  <sd_bridges_recipe_foundationmaterial_tablestone_10times.jobString>正在制作基石。</sd_bridges_recipe_foundationmaterial_tablestone_10times.jobString>
+  
+</LanguageData>

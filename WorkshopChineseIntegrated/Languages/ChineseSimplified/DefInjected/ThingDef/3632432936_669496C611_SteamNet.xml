@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: geothermal plant -->
+  <VR_GeyserHarvester.label>地热蒸汽采集器</VR_GeyserHarvester.label>
+  <!-- EN: Collects steam from geothermal steam geysers. Must be placed on a steam geyser -->
+  <VR_GeyserHarvester.description>从地热蒸汽喷口收集蒸汽。必须放置在蒸汽喷口上。</VR_GeyserHarvester.description>
+  
+  <!-- EN: steam -->
+  <VR_Steam.label>蒸汽</VR_Steam.label>
+  <!-- EN: steam -->
+  <VR_Steam.description>蒸汽</VR_Steam.description>
+  
+  <!-- EN: steam generator -->
+  <VR_SteamGenerator.label>蒸汽发生器</VR_SteamGenerator.label>
+  <!-- EN: Produces steam by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <VR_SteamGenerator.description>消耗木材产生蒸汽。必须定期手动补充木材燃料。</VR_SteamGenerator.description>
+  
+  <!-- EN: large steam generator -->
+  <VR_SteamGenerator_Large.label>大型蒸汽发生器</VR_SteamGenerator_Large.label>
+  <!-- EN: Produces steam by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <VR_SteamGenerator_Large.description>消耗木材产生蒸汽。必须定期手动补充木材燃料。</VR_SteamGenerator_Large.description>
+  
+  <!-- EN: steam pipe -->
+  <VR_SteamPipe.label>蒸汽管道</VR_SteamPipe.label>
+  <!-- EN: A pipe that’s used to transport steam between generators, storage tanks, and steam-fueled structures. -->
+  <VR_SteamPipe.description>用于在发生器、储罐和蒸汽驱动建筑之间输送蒸汽的管道。</VR_SteamPipe.description>
+  
+  <!-- EN: steam tank -->
+  <VR_SteamTank.label>蒸汽储罐</VR_SteamTank.label>
+  <!-- EN: A storage tank meant for storing pressurized steam delivered via a pipe network. -->
+  <VR_SteamTank.description>用于存储通过管网输送的加压蒸汽的储罐。</VR_SteamTank.description>
+  
+  <!-- EN: large steam tank -->
+  <VR_SteamTank_Large.label>大型蒸汽储罐</VR_SteamTank_Large.label>
+  <!-- EN: A large storage tank meant for storing pressurized steam delivered via a pipe network. -->
+  <VR_SteamTank_Large.description>用于存储通过管网输送的加压蒸汽的大型储罐。</VR_SteamTank_Large.description>
+  
+  <!-- EN: steam valve -->
+  <VR_SteamValve.label>蒸汽阀</VR_SteamValve.label>
+  <!-- EN: Switches steam flow on/off. -->
+  <VR_SteamValve.description>开关蒸汽流动。</VR_SteamValve.description>
+  
+  <!-- EN: hidden steam pipe -->
+  <VR_UndergroundSteamPipe.label>隐藏蒸汽管道</VR_UndergroundSteamPipe.label>
+  <!-- EN: Hidden pipe that’s used to transport steam between generators, storage tanks, and steam-fueled structures. -->
+  <VR_UndergroundSteamPipe.description>用于在发生器、储罐和蒸汽驱动建筑之间输送蒸汽的隐藏管道。</VR_UndergroundSteamPipe.description>
+  
+</LanguageData>

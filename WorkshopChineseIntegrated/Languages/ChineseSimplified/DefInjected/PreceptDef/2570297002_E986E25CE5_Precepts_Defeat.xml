@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dishonorable -->
+  <VME_Defeat_Dishonorable.label>可耻</VME_Defeat_Dishonorable.label>
+  <!-- EN: Suffering a setback on the battlefield is an insult to body, mind, and spirit.\n\n<color=#E5E54C>Gameplay effect:</color>\n - A colonist that is downed in combat by a humanlike enemy twice in less than 30 days will start requiring a ceremonial suicide ritual to cleanse his dishonor. Mechanoids and animals don't count for this. -->
+  <VME_Defeat_Dishonorable.description>在战场上被击败是一种对躯体、精神与灵魂的羞辱。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 如果一名殖民者在不到30天的时间内被人型敌人击败两次，其他殖民者将会要求执行切腹仪式来洗刷此人为殖民地带来的屈辱。机械族与动物不包括在内。</VME_Defeat_Dishonorable.description>
+  
+</LanguageData>

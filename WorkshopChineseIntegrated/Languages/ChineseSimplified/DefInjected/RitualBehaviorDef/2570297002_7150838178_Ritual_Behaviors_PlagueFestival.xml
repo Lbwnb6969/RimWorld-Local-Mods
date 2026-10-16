@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cutter -->
+  <VME_PlagueFestivalRitualBehaviour.roles.0.label>祭司</VME_PlagueFestivalRitualBehaviour.roles.0.label>
+  <!-- EN: sacrifice -->
+  <VME_PlagueFestivalRitualBehaviour.roles.1.label>祭品</VME_PlagueFestivalRitualBehaviour.roles.1.label>
+  <!-- EN: an animal with body size of at least 0.8 -->
+  <VME_PlagueFestivalRitualBehaviour.roles.1.missingDesc>体型至少为0.8的动物。</VME_PlagueFestivalRitualBehaviour.roles.1.missingDesc>
+  <!-- EN: participate -->
+  <VME_PlagueFestivalRitualBehaviour.spectatorGerund>参加</VME_PlagueFestivalRitualBehaviour.spectatorGerund>
+  <!-- EN: Participants -->
+  <VME_PlagueFestivalRitualBehaviour.spectatorsLabel>参与者</VME_PlagueFestivalRitualBehaviour.spectatorsLabel>
+  <!-- EN: Animal is not reachable. -->
+  <VME_PlagueFestivalRitualBehaviour.stages.0.failTriggers.0.desc>T动物无法抵达。</VME_PlagueFestivalRitualBehaviour.stages.0.failTriggers.0.desc>
+  
+</LanguageData>

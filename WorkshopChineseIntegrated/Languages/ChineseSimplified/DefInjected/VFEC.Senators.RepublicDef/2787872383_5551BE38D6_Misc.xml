@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: republic -->
+  <VFEC_Republic.label>共和国</VFEC_Republic.label>
+  <!-- EN: . -->
+  <VFEC_Republic.description>.</VFEC_Republic.description>
+  <!-- EN: Republics United -->
+  <VFEC_Republic.letterLabel>三国统一</VFEC_Republic.letterLabel>
+  <!-- EN: After gaining the support of all 3 parts of the republic, it has now united under your rule. You have now become Emperor. -->
+  <VFEC_Republic.letterText>你已经获得了三大共和国的支持，并将分裂的诸国统一。你现在是它们的皇帝了。</VFEC_Republic.letterText>
+  
+</LanguageData>

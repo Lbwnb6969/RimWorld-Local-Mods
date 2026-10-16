@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hardleather -->
+  <VFEM2_HardLeather.label>复合硬皮</VFEM2_HardLeather.label>
+  <!-- EN: A hardened textile created from patchleather via the leather hardening process. It’s significantly harder and stronger than patchleather, but it’s still lacking in comparison to proper hard leather, such as rhinoceros or elephant hide. -->
+  <VFEM2_HardLeather.description>缝制的杂皮在硬化后的产物。远比杂皮坚固，但比起犀牛皮，大象皮等等真正的优质原皮还是相形见绌。</VFEM2_HardLeather.description>
+  
+</LanguageData>

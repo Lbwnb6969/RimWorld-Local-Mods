@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lamellar vest -->
+  <TA_LamellarVestLeather.label>皮革札甲背心</TA_LamellarVestLeather.label>
+  <!-- EN: . -->
+  <TA_LamellarVestLeather.description>轻便的皮革札甲背心，适合草原战士日常穿着。</TA_LamellarVestLeather.description>
+  
+  <!-- EN: lamellar vest -->
+  <TA_LamellarVestMetal.label>金属札甲背心</TA_LamellarVestMetal.label>
+  <!-- EN: . -->
+  <TA_LamellarVestMetal.description>金属片编织的札甲背心，提供良好的躯干防护。</TA_LamellarVestMetal.description>
+  
+</LanguageData>

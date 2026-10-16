@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Make bursting grenade x12 -->
+  <MakeAmmo_MortarGrenade.label>制作迫击炮榴弹 x6</MakeAmmo_MortarGrenade.label>
+  <!-- EN: Craft 12 Bursting Grenades -->
+  <MakeAmmo_MortarGrenade.description>制作6枚迫击炮榴弹。</MakeAmmo_MortarGrenade.description>
+  <!-- EN: Making Bursting Grenades -->
+  <MakeAmmo_MortarGrenade.jobString>制作迫击炮榴弹。</MakeAmmo_MortarGrenade.jobString>
+  
+  <!-- EN: Make smoke grenades x12 -->
+  <MakeAmmo_TA_SmokeGrenades.label>制作烟雾弹x12</MakeAmmo_TA_SmokeGrenades.label>
+  <!-- EN: Craft 12 Smoke Grenades -->
+  <MakeAmmo_TA_SmokeGrenades.description>制作12枚烟雾弹。</MakeAmmo_TA_SmokeGrenades.description>
+  <!-- EN: Making Fireworks -->
+  <MakeAmmo_TA_SmokeGrenades.jobString>制作烟雾弹。</MakeAmmo_TA_SmokeGrenades.jobString>
+  
+  <!-- EN: Make glass grenade x12 -->
+  <MakeWeapon_TA_GlassGrenade.label>制作玻璃炮榴弹x12</MakeWeapon_TA_GlassGrenade.label>
+  <!-- EN: Craft 12 Glass Grenades -->
+  <MakeWeapon_TA_GlassGrenade.description>制作12枚玻璃炮榴弹。</MakeWeapon_TA_GlassGrenade.description>
+  <!-- EN: Making Glass Grenades -->
+  <MakeWeapon_TA_GlassGrenade.jobString>制作玻璃炮榴弹。</MakeWeapon_TA_GlassGrenade.jobString>
+  
+</LanguageData>

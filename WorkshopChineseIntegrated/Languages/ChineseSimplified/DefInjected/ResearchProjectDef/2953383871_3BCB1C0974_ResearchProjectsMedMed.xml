@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EarlyMedievalMedicine.label>中世纪前期医疗包</EarlyMedievalMedicine.label>
+  <EarlyMedievalMedicine.description>透过使用环锯和放血等技术，我们能够创造出比草药更有效的医药包。</EarlyMedievalMedicine.description>
+
+  <LateMedievalMedicine.label>中世纪后期医疗包</LateMedievalMedicine.label>
+  <LateMedievalMedicine.description>由于对细菌学及传染病知识的初步了解，我们改进了医疗包内的药物，以获得更有效的治疗。</LateMedievalMedicine.description>
+
+  <ParesianMedicine.label>帕雷的医疗包</ParesianMedicine.label>
+  <ParesianMedicine.description>化学知识和消毒概念开启了我们的新视界。透过使用先进的混合药物，以及对伤口、绷带和工具进行全面消毒，对伤口的治疗效果已经有飞跃性的成长。</ParesianMedicine.description>
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Cauldron.label>炼金釜</DankPyon_Cauldron.label>
+  <DankPyon_Cauldron.description>一种制作药剂的坚固容器，用于将成分加热混合后熬煮出强效的药水和药方。</DankPyon_Cauldron.description>
+
+  <DankPyon_CharcoalPile.label>原始炭窑</DankPyon_CharcoalPile.label>
+  <DankPyon_CharcoalPile.description>堆起木材并用泥土覆盖，让其慢慢燃烧碳化为可用于燃料或金属加工的物质。</DankPyon_CharcoalPile.description>
+
+  <!-- Rack -->
+
+  <DankPyon_DryingRack_Small.label>晾晒架(1x2)</DankPyon_DryingRack_Small.label>
+  <DankPyon_DryingRack_Small.description>用于在阳光下晾干肉类和牧草的木架，方便物品保存和长期使用。</DankPyon_DryingRack_Small.description>
+
+  <DankPyon_DryingRack_Big.label>晾晒架(2x2)</DankPyon_DryingRack_Big.label>
+  <DankPyon_DryingRack_Big.description>用于在阳光下晾干肉类和牧草的木架，方便物品保存和长期使用。</DankPyon_DryingRack_Big.description>
+
+
+  <!-- Smoker -->
+
+  <DankPyon_Smoker.label>烟燻炉</DankPyon_Smoker.label>
+  <DankPyon_Smoker.description>堆放在烟燻炉底部木材所产生的烟雾将肉品包裹，提供间接的加温并赋予丰富的烟燻味，同时也提供了一层防腐保护，使肉品可以保存更长期限。</DankPyon_Smoker.description>
+
+
+  <!-- Presser -->
+
+  <DankPyon_Presser.label>压榨机</DankPyon_Presser.label>
+  <DankPyon_Presser.description>一种用于压榨选定物品的木造装置。用来把水果压榨成浆或把凝乳里的乳清萃取出来。</DankPyon_Presser.description>
+
+
+  <!-- kiln -->
+
+  <DankPyon_Kiln.label>粘土窑</DankPyon_Kiln.label>
+  <DankPyon_Kiln.description>用于将粘土烧制成粘土砖的石窑。</DankPyon_Kiln.description>
+
+  <!-- Paper Press -->
+
+  <DankPyon_Press_Paper.label>中世纪制纸机</DankPyon_Press_Paper.label>
+  <DankPyon_Press_Paper.description>一种用于压平纸浆并去除多余水分的木造装置。制纸工人会先以模子将纸浆制成手抄纸，再放入制纸机内，利用重型螺旋机制制造的轴向力挤压槽内，确保制作出的每一张纸都平整光滑，能符合书写或绘画的质量要求。</DankPyon_Press_Paper.description>
+
+
+</LanguageData>

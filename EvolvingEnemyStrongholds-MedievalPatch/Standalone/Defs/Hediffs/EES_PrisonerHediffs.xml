@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <HediffDef>
+    <defName>EES_PrisonerStasis</defName>
+    <label>강제 무력화</label>
+    <description>적 기지에 의해 의식을 잃고 쓰러진 상태. 플레이어에게 구출되거나 포획되기 전까지 깨어나지 못한다.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>true</isBad>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <canApplyDodChanceForCapacityChanges>false</canApplyDodChanceForCapacityChanges>
+    <comps>
+      <li Class="EvolvingEnemyStrongholds.HediffCompProperties_EESPrisonerStasis" />
+    </comps>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <setMax>0.1</setMax>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+
+</Defs>

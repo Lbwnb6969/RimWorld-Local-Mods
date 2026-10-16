@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: trading fair -->
+  <VME_TradingFairPrecept.label>贸易展会</VME_TradingFairPrecept.label>
+  <!-- EN: A trading fair. -->
+  <VME_TradingFairPrecept.description>一场贸易展会。</VME_TradingFairPrecept.description>
+  
+</LanguageData>

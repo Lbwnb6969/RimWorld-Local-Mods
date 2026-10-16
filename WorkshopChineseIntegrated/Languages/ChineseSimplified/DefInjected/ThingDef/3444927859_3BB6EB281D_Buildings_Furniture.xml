@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shelf -->
+  <VFEM2_AutofillShelf.label>物品架</VFEM2_AutofillShelf.label>
+  <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <VFEM2_AutofillShelf.description>一个三层的架子，可以容纳三倍于空地的东西。存放在里面的物品永远不会老化，也不会影响周围环境的美观。\n\n由于空间有限，物品架不能存放块堆、建筑、植物和大型尸体。</VFEM2_AutofillShelf.description>
+  
+  <!-- EN: double fur bed -->
+  <VFEM2_DoubleFurBed.label>毛皮双人床</VFEM2_DoubleFurBed.label>
+  <!-- EN: A two-person, wood-framed bed stuffed with dried grasses and covered in a variety of pelts and furs to provide extra insulation during frigid nights. The warmth of this bed counters hypothermia. -->
+  <VFEM2_DoubleFurBed.description>木头结构的双人床，填充了干草和毛皮用以提供更好的保暖性能。这种床的保暖性能有效对抗低温症。</VFEM2_DoubleFurBed.description>
+  
+  <!-- EN: fur bed -->
+  <VFEM2_FurBed.label>毛皮床</VFEM2_FurBed.label>
+  <!-- EN: A wood-framed bed stuffed with dried grasses and covered in a variety of pelts and furs to provide extra insulation during frigid nights. The warmth of this bed counters hypothermia. -->
+  <VFEM2_FurBed.description>木头结构的床，填充了干草和毛皮用以提供更好的保暖性能。这种床的保暖性能有效对抗低温症。</VFEM2_FurBed.description>
+  
+  <!-- EN: hearth -->
+  <VFEM2_Hearth.label>石炉</VFEM2_Hearth.label>
+  <!-- EN: A large, tightly packed fire pit capable of holding high amounts of wood at once. Provides hefty warmth and light to thronerooms and halls alike and acts as a gathering spot for idle colonists. -->
+  <VFEM2_Hearth.description>一个密集的大型火堆，可以同时燃烧大量木材。可以给谒见厅和客厅提供暖气和光亮，同时也能作为殖民者的聚集点。</VFEM2_Hearth.description>
+  
+  <!-- EN: heraldic standing banner -->
+  <VFEM2_StandingBanner.label>立旗</VFEM2_StandingBanner.label>
+  <!-- EN: A tall fabric banner mounted on a sturdy wooden frame, proudly displaying the heraldry of the faction. -->
+  <VFEM2_StandingBanner.description>结实木制框架上挂着一面长条旗帜，可以自豪地展出派系的纹章。</VFEM2_StandingBanner.description>
+  
+</LanguageData>

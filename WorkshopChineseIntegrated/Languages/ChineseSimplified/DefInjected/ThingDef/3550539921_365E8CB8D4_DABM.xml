@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: snapping tadpole -->
+  <DA_Fish_SnappingTadpole.label>咬咬蝌蚪</DA_Fish_SnappingTadpole.label>
+  <DA_Fish_SnappingTadpole.description>巨噬蟾蜍的幼体阶段。其海绵状的肉质尝起来只有泥土味，却在某些文化中被视为珍馐。</DA_Fish_SnappingTadpole.description>
+
+  <!-- EN: snapping tadpole -->
+  <DA_RawTadpole.label>生咬咬蝌蚪</DA_RawTadpole.label>
+  <DA_RawTadpole.description>巨噬蟾蜍的幼体阶段。虽然海绵质感的肉质仅带有泥土气息，却在特定饮食文化中享有美味盛名。</DA_RawTadpole.description>
+
+  <!-- EN: warty hide -->
+  <DA_Leather_Snaptoad.label>多疣皮</DA_Leather_Snaptoad.label>
+  <DA_Leather_Snaptoad.description>取自巨噬蟾蜍的疣状外皮。坚韧且保暖性好，但外观非常丑陋。</DA_Leather_Snaptoad.description>
+  <!-- EN: giant snaptoad -->
+  <DA_Snaptoad.label>巨噬蟾蜍</DA_Snaptoad.label>
+  <DA_Snaptoad.tools.0.label>头部</DA_Snaptoad.tools.0.label>
+  <DA_Snaptoad.description>这种巨大的肉食性两栖动物是沼泽地的顶级掠食者。一种巨大的食肉两栖动物，是沼泽地的顶级掠食者。其布满利齿的巨口为其赢得了“巨噬蟾蜍”的称号，不仅能轻易咬碎骨头，还能脱臼扩张以吞下整只猎物——它们常利用这种特性从芦苇丛中跃起突袭。其牙齿结构在现代两栖动物中独一无二，学者们因此争论它是否为真正的蟾蜍，或是一种趋同进化出蟾蜍特征的无关两栖动物。
+
+  巨噬蟾蜍采用一种罕见的育儿方式，称为胃育：受精卵会被雌体立即吞入特化的胃室，蝌蚪在其中安全孵化成长，直到完成变态才会被吐出。然而，在少数情况下，个体会放弃这种抚育方式，蝌蚪被遗弃在沼泽水域中自生自灭。</DA_Snaptoad.description>
+
+  <!-- EN: silver mole -->
+  <DA_SilverMole.label>银毛鼹鼠</DA_SilverMole.label>
+  <DA_SilverMole.description>一种披着闪亮银毛的小型穴居哺乳动物。生性警觉胆怯的银毛鼹鼠极少离开它们深藏山中的地穴安全区。
+
+  许多伐木工养成巡逻银毛鼹鼠栖息地的习惯，期望能在它们挖掘最爱的食物——白松露时捕获这种小生灵。这种生长在石质土壤下的稀有蘑菇拥有绝妙风味。</DA_SilverMole.description>
+  <!-- EN: white truffle -->
+  <DA_WhiteTruffle.label>白松露</DA_WhiteTruffle.label>
+  <DA_WhiteTruffle.description>通常生长在石质土壤下的珍稀美味，因其独特风味而备受追捧。</DA_WhiteTruffle.description>
+
+</LanguageData>

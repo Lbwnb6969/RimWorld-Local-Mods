@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Use pawn rank -->
+  <BEWH_FollowRankUp.label>使用殖民者军衔</BEWH_FollowRankUp.label>
+  <!-- EN: Use pawn's rank as icon. -->
+  <BEWH_FollowRankUp.description>使用殖民者军衔图标</BEWH_FollowRankUp.description>
+  
+  <!-- EN: Acolytum -->
+  <BEWH_RankIconAcolytum.label>侍僧</BEWH_RankIconAcolytum.label>
+  <!-- EN: Acolytum rank icon. -->
+  <BEWH_RankIconAcolytum.description>侍僧</BEWH_RankIconAcolytum.description>
+  
+  <!-- EN: Apothecary -->
+  <BEWH_RankIconApothecary.label>药剂师</BEWH_RankIconApothecary.label>
+  <!-- EN: Apothecary rank icon. -->
+  <BEWH_RankIconApothecary.description>药剂师</BEWH_RankIconApothecary.description>
+  
+  <!-- EN: Assault -->
+  <BEWH_RankIconAssault.label>密接支援小组</BEWH_RankIconAssault.label>
+  <!-- EN: Assault rank icon. -->
+  <BEWH_RankIconAssault.description>密接支援小组</BEWH_RankIconAssault.description>
+  
+  <!-- EN: Assault Sergeant -->
+  <BEWH_RankIconAssaultSergeant.label>密接支援小组军士</BEWH_RankIconAssaultSergeant.label>
+  <!-- EN: Assault Sergeant rank icon. -->
+  <BEWH_RankIconAssaultSergeant.description>密接支援小组军士</BEWH_RankIconAssaultSergeant.description>
+  
+  <!-- EN: Battle-Brother -->
+  <BEWH_RankIconBattleBrother.label>战斗兄弟</BEWH_RankIconBattleBrother.label>
+  <!-- EN: Battle-Brother rank icon. -->
+  <BEWH_RankIconBattleBrother.description>战斗兄弟</BEWH_RankIconBattleBrother.description>
+  
+  <!-- EN: Captain -->
+  <BEWH_RankIconCaptain.label>连长</BEWH_RankIconCaptain.label>
+  <!-- EN: Captain rank icon. -->
+  <BEWH_RankIconCaptain.description>连长</BEWH_RankIconCaptain.description>
+  
+  <!-- EN: Chaplain -->
+  <BEWH_RankIconChaplain.label>冠军</BEWH_RankIconChaplain.label>
+  <!-- EN: Chaplain rank icon. -->
+  <BEWH_RankIconChaplain.description>冠军</BEWH_RankIconChaplain.description>
+  
+  <!-- EN: Chapter Ancient -->
+  <BEWH_RankIconChapterAncient.label>战团旗手</BEWH_RankIconChapterAncient.label>
+  <!-- EN: Chapter Ancient rank icon. -->
+  <BEWH_RankIconChapterAncient.description>战团旗手</BEWH_RankIconChapterAncient.description>
+  
+  <!-- EN: Chapter Master -->
+  <BEWH_RankIconChapterMaster.label>战团长</BEWH_RankIconChapterMaster.label>
+  <!-- EN: Chapter Master rank icon. -->
+  <BEWH_RankIconChapterMaster.description>战团长</BEWH_RankIconChapterMaster.description>
+  
+  <!-- EN: Chief Librarian -->
+  <BEWH_RankIconChiefLibrarian.label>首席智库</BEWH_RankIconChiefLibrarian.label>
+  <!-- EN: Chief Librarian rank icon. -->
+  <BEWH_RankIconChiefLibrarian.description>首席智库</BEWH_RankIconChiefLibrarian.description>
+  
+  <!-- EN: Devastator -->
+  <BEWH_RankIconDevastator.label>火力支援小队</BEWH_RankIconDevastator.label>
+  <!-- EN: Devastator rank icon. -->
+  <BEWH_RankIconDevastator.description>火力支援小队</BEWH_RankIconDevastator.description>
+  
+  <!-- EN: Devastator Sergeant -->
+  <BEWH_RankIconDevastatorSergeant.label>火力支援小组军士</BEWH_RankIconDevastatorSergeant.label>
+  <!-- EN: Devastator Sergeant rank icon. -->
+  <BEWH_RankIconDevastatorSergeant.description>火力支援小组军士</BEWH_RankIconDevastatorSergeant.description>
+  
+  <!-- EN: Helix Adept -->
+  <BEWH_RankIconHelixAdept.label>先锋药剂师</BEWH_RankIconHelixAdept.label>
+  <!-- EN: Helix Adept rank icon. -->
+  <BEWH_RankIconHelixAdept.description>先锋药剂师</BEWH_RankIconHelixAdept.description>
+  
+  <!-- EN: Judiciar -->
+  <BEWH_RankIconJudiciar.label>裁决士</BEWH_RankIconJudiciar.label>
+  <!-- EN: Judiciar rank icon. -->
+  <BEWH_RankIconJudiciar.description>裁决士</BEWH_RankIconJudiciar.description>
+  
+  <!-- EN: Librarian -->
+  <BEWH_RankIconLibrarian.label>智库</BEWH_RankIconLibrarian.label>
+  <!-- EN: Librarian rank icon. -->
+  <BEWH_RankIconLibrarian.description>智库</BEWH_RankIconLibrarian.description>
+  
+  <!-- EN: Lieutenant -->
+  <BEWH_RankIconLieutenant.label>副官</BEWH_RankIconLieutenant.label>
+  <!-- EN: Lieutenant rank icon. -->
+  <BEWH_RankIconLieutenant.description>副官</BEWH_RankIconLieutenant.description>
+  
+  <!-- EN: Master of Sanctity -->
+  <BEWH_RankIconMasterOfSanctity.label>圣洁之主</BEWH_RankIconMasterOfSanctity.label>
+  <!-- EN: Master of Sanctity rank icon. -->
+  <BEWH_RankIconMasterOfSanctity.description>圣洁之主</BEWH_RankIconMasterOfSanctity.description>
+  
+  <!-- EN: Master of the Apothecarion -->
+  <BEWH_RankIconMasterOfTheApothecarion.label>首席药剂师</BEWH_RankIconMasterOfTheApothecarion.label>
+  <!-- EN: Master of the Apothecarion rank icon. -->
+  <BEWH_RankIconMasterOfTheApothecarion.description>首席药剂师</BEWH_RankIconMasterOfTheApothecarion.description>
+  
+  <!-- EN: Master of the Forge -->
+  <BEWH_RankIconMasterOfTheForge.label>锻造大师</BEWH_RankIconMasterOfTheForge.label>
+  <!-- EN: Master of the Forge rank icon. -->
+  <BEWH_RankIconMasterOfTheForge.description>锻造大师</BEWH_RankIconMasterOfTheForge.description>
+  
+  <!-- EN: Neophyte -->
+  <BEWH_RankIconNeophyte.label>新兵</BEWH_RankIconNeophyte.label>
+  <!-- EN: Neophyte rank icon. -->
+  <BEWH_RankIconNeophyte.description>新兵</BEWH_RankIconNeophyte.description>
+  
+  <!-- EN: Sergeant -->
+  <BEWH_RankIconSergeant.label>士官</BEWH_RankIconSergeant.label>
+  <!-- EN: Sergeant rank icon. -->
+  <BEWH_RankIconSergeant.description>士官</BEWH_RankIconSergeant.description>
+  
+  <!-- EN: Techmarine -->
+  <BEWH_RankIconTechmarine.label>技术军士</BEWH_RankIconTechmarine.label>
+  <!-- EN: Techmarine rank icon. -->
+  <BEWH_RankIconTechmarine.description>技术军士</BEWH_RankIconTechmarine.description>
+  
+  <!-- EN: Techmarine Novitiate -->
+  <BEWH_RankIconTechmarineNovitiate.label>新进技术军士</BEWH_RankIconTechmarineNovitiate.label>
+  <!-- EN: Techmarine Novitiate rank icon. -->
+  <BEWH_RankIconTechmarineNovitiate.description>新进技术军士</BEWH_RankIconTechmarineNovitiate.description>
+  
+  <!-- EN: Vanguard -->
+  <BEWH_RankIconVanguard.label>入侵者</BEWH_RankIconVanguard.label>
+  <!-- EN: Vanguard rank icon. -->
+  <BEWH_RankIconVanguard.description>入侵者</BEWH_RankIconVanguard.description>
+  
+  <!-- EN: Veteran -->
+  <BEWH_RankIconVeteran.label>先锋老兵</BEWH_RankIconVeteran.label>
+  <!-- EN: Veteran rank icon. -->
+  <BEWH_RankIconVeteran.description>先锋老兵</BEWH_RankIconVeteran.description>
+  
+</LanguageData>

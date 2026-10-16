@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_InsectoidHymnRitualOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</VME_InsectoidHymnRitualOutcome.description>
+  <!-- EN: chanter present -->
+  <VME_InsectoidHymnRitualOutcome.comps.0.label>颂唱者出席</VME_InsectoidHymnRitualOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VME_InsectoidHymnRitualOutcome.comps.1.label>参与者数量</VME_InsectoidHymnRitualOutcome.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <VME_InsectoidHymnRitualOutcome.comps.2.label>令人难忘的房间</VME_InsectoidHymnRitualOutcome.comps.2.label>
+  <!-- EN: Uninteresting -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>无趣的</VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was incredibly uninteresting. Yeah, yeah, insects are cool. Bah.\n\nThe ritual had no effect over the insectoid herder's nest building ability. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>{0}非常无聊。啊，是是是，这些虫子很酷。我呸！\n\n此次仪式对虫族护工的“虫巢构建”技能没有效果。</VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>
+  <!-- EN: Awkward -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>尴尬的</VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was awkward. The speech was repetitive, and it did nothing to convince us of the divinity of our beloved insects.\n\nThe ritual had no effect over the insectoid herder's nest building ability. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>{0}令人尴尬。礼赞颂唱的啰里啰唆，它没能让我们能相信心爱的虫族是神圣的。\n\n此次仪式对虫族护工的“虫巢构建”技能没有效果。</VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>
+  <!-- EN: Rousing -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>振奋人心的</VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was very rousing. The chanter showed impressing skill and the hymn appropriately extolled the virtues of our way of life.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>{0}振奋人心！颂唱者的技巧十分高超，礼赞恰如其分地颂扬了我们生活方式的优点。\n\n此次仪式重置了虫族护工的“虫巢构建”技能冷却时间。</VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>
+  <!-- EN: Entrancing -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>令人欣喜的</VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was entrancing! We can still hear the mesmerizing words of the hymn, like a myriad insectile legs crawling all over our bodies.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability.\n\nThe ritual also made any insectoids that were assaulting the colony flee. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>{0}令人欣喜若狂！我们仿佛仍能听到礼赞动人的颂词，就好像有无数的虫族爬满了全身。\n\n此次仪式重置了虫族护工的“虫巢构建”技能冷却时间。</VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>
+  
+</LanguageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="RatkinGene" or defName="OA_RK_RatkinGene"]/techLevel</xpath>
+    <value>
+      <techLevel>Medieval</techLevel>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ResearchProjectDef[defName="RatkinGene" or defName="OA_RK_RatkinGene"]</xpath>
+    <value>
+      <requiredResearchBuilding>SimpleResearchBench</requiredResearchBuilding>
+      <requiredResearchFacilities Inherit="False" />
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ResearchProjectDef[defName="RatkinGene"]</xpath>
+    <value>
+      <prerequisites>
+        <li>VR_BasicGenetics</li>
+      </prerequisites>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="OA_RK_RatkinGene"]/prerequisites</xpath>
+    <value>
+      <prerequisites>
+        <li>RatkinGene</li>
+        <li>VR_AdvancedGenetics</li>
+      </prerequisites>
+    </value>
+  </Operation>
+</Patch>

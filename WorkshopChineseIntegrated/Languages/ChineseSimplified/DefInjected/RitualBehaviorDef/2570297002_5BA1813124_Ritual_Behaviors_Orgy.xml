@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orgy organizer -->
+  <VME_OrgyRitualBehaviour.roles.0.label>狂欢组织者</VME_OrgyRitualBehaviour.roles.0.label>
+  <!-- EN: Participants must be consenting adults. -->
+  <VME_OrgyRitualBehaviour.spectatorFilter.description>参与者必须是成年人。</VME_OrgyRitualBehaviour.spectatorFilter.description>
+  <!-- EN: participate -->
+  <VME_OrgyRitualBehaviour.spectatorGerund>参加</VME_OrgyRitualBehaviour.spectatorGerund>
+  <!-- EN: Participants -->
+  <VME_OrgyRitualBehaviour.spectatorsLabel>参与者</VME_OrgyRitualBehaviour.spectatorsLabel>
+  
+</LanguageData>

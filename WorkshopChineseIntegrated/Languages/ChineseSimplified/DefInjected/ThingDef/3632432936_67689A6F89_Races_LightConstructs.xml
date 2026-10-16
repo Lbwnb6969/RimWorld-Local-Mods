@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farmhand spider -->
+  <VR_Construct_Agrihand.label>园艺机</VR_Construct_Agrihand.label>
+  <!-- EN: A small construct designed to sow and harvest crops, along with milking and shearing animals. While it is better suited to labor than combat, it can fight with built-in cutting blades if necessary. -->
+  <VR_Construct_Agrihand.description>一种用于播种和收获作物的小型构装体。它更适合劳作而非战斗，但必要时可用内置切割刃作战。</VR_Construct_Agrihand.description>
+  <!-- EN: head -->
+  <VR_Construct_Agrihand.tools.head.label>头部</VR_Construct_Agrihand.tools.head.label>
+  <!-- EN: right blade -->
+  <VR_Construct_Agrihand.tools.right_blade.label>右刃</VR_Construct_Agrihand.tools.right_blade.label>
+  <!-- EN: blade -->
+  <VR_Construct_Agrihand.tools.right_blade.labelNoLocation>刃</VR_Construct_Agrihand.tools.right_blade.labelNoLocation>
+  
+  <!-- EN: assembler -->
+  <VR_Construct_Assembler.label>装配机</VR_Construct_Assembler.label>
+  <!-- EN: A small work construct designed to craft all manner of manufactured objects. -->
+  <VR_Construct_Assembler.description>一种小型工作构装体，专门用于制造各类工业制品。</VR_Construct_Assembler.description>
+  <!-- EN: head -->
+  <VR_Construct_Assembler.tools.head.label>头部</VR_Construct_Assembler.tools.head.label>
+  
+  <!-- EN: construction spider -->
+  <VR_Construct_Constructoid.label>建造机</VR_Construct_Constructoid.label>
+  <!-- EN: A small construct designed to perform construction tasks. It can perform blunt melee attacks if necessary. -->
+  <VR_Construct_Constructoid.description>一种用于施工的小型构装体。必要时可进行钝器近战攻击。</VR_Construct_Constructoid.description>
+  <!-- EN: head -->
+  <VR_Construct_Constructoid.tools.head.label>头部</VR_Construct_Constructoid.tools.head.label>
+  <!-- EN: torso -->
+  <VR_Construct_Constructoid.tools.torso.label>躯干</VR_Construct_Constructoid.tools.torso.label>
+  
+  <!-- EN: transport spider -->
+  <VR_Construct_Lifter.label>搬运机</VR_Construct_Lifter.label>
+  <!-- EN: A small construct designed for hauling. Lacking a ranged weapon, it can make only weak melee attacks. -->
+  <VR_Construct_Lifter.description>一种用于搬运的小型构装体。缺乏远程武器，只能进行较弱的近战攻击。</VR_Construct_Lifter.description>
+  <!-- EN: head -->
+  <VR_Construct_Lifter.tools.head.label>头部</VR_Construct_Lifter.tools.head.label>
+  
+  <!-- EN: mender -->
+  <VR_Construct_Mender.label>修护机</VR_Construct_Mender.label>
+  <!-- EN: A small construct designed for non-violent emergency situation management and medical care. The mender can rescue the wounded, fight fires, treat the sick, and even perform surgery when a more-qualified human is not available. Its built-in jump launcher allows it to jump into, and out of, emergency situations. -->
+  <VR_Construct_Mender.description>一种用于非暴力紧急情况处置与医疗护理的小型构装体。修护机可救援伤者、扑灭火灾、照料病患，甚至在没有更专业人类可用时执行手术。其内置跳跃发射器可让它快速跳入并脱离紧急现场。</VR_Construct_Mender.description>
+  <!-- EN: head -->
+  <VR_Construct_Mender.tools.head.label>头部</VR_Construct_Mender.tools.head.label>
+  
+  <!-- EN: vanguard (shooter) -->
+  <VR_Construct_Militor.label>构装体辅兵</VR_Construct_Militor.label>
+  <!-- EN: A small combat construct armed with a handgonne. Roughly four feet tall, vanguards lack the power, range, and toughness of more senior combat constructs. However, it is cheap to gestate and maintain, and so is often used as a rear guard or swarm attacker.\n\nIn war, constructs armies are known to send vanguards into town ruins to hunt down survivors after breaking the human defenses. For this reason, they are considered by some to be the most cruel of all construct patterns. -->
+  <VR_Construct_Militor.description>一种小型战斗构装体，装备低功率迷你霰弹枪。构装体辅兵身高约四英尺，火力、射程与韧性都不及更高阶的战斗构装体，但孕育与维护成本低，因此常被用作后卫或蜂拥攻击者。\n\n在战争中，构装体军团常在突破人类防线后，将构装体辅兵送入城镇废墟追杀幸存者。因此，有人认为它们是所有构装体型号中最残酷的一类。</VR_Construct_Militor.description>
+  <!-- EN: head -->
+  <VR_Construct_Militor.tools.head.label>头部</VR_Construct_Militor.tools.head.label>
+  
+  <!-- EN: vanguard (melee) -->
+  <VR_Construct_Militor_Melee.label>构装体辅兵（近战）</VR_Construct_Militor_Melee.label>
+  <!-- EN: A small combat construct armed with a baton. Roughly four feet tall, vanguards lack the power, range, and toughness of more senior combat constructs. However, it is cheap to gestate and maintain, and so is often used as a rear guard or swarm attacker.\n\nIn war, constructs armies are known to send vanguards into town ruins to hunt down survivors after breaking the human defenses. For this reason, they are considered by some to be the most cruel of all construct patterns. -->
+  <VR_Construct_Militor_Melee.description>一种装备警棍的小型战斗构装体。构装体辅兵身高约四英尺，火力、射程与韧性都不及更高阶的战斗构装体，但孕育与维护成本低，因此常被用作后卫或蜂拥攻击者。\n\n在战争中，构装体军团常在突破人类防线后，将构装体辅兵送入城镇废墟追杀幸存者。因此，有人认为它们是所有构装体型号中最残酷的一类。</VR_Construct_Militor_Melee.description>
+  <!-- EN: head -->
+  <VR_Construct_Militor_Melee.tools.head.label>头部</VR_Construct_Militor_Melee.tools.head.label>
+  
+  <!-- EN: scarab -->
+  <VR_Construct_Scarab.label>圣甲虫</VR_Construct_Scarab.label>
+  <!-- EN: A small, deployable combat construct that are usually deployed from a Scarab Queen. Scarabs are expendable fighters designed to swarm-attack enemies. -->
+  <VR_Construct_Scarab.description>一种小型可部署的战斗构装体，通常由战争女皇投放。圣甲虫是用于蜂拥攻击敌人的消耗型战士。</VR_Construct_Scarab.description>
+  <!-- EN: head -->
+  <VR_Construct_Scarab.tools.head.label>头部</VR_Construct_Scarab.tools.head.label>
+  <!-- EN: pincers -->
+  <VR_Construct_Scarab.tools.pincers.label>钳</VR_Construct_Scarab.tools.pincers.label>
+  
+</LanguageData>

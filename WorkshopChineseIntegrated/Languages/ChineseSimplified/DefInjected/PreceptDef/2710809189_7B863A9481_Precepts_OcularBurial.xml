@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ocular funeral -->
+  <AM_OcularFuneral.label>异目葬礼</AM_OcularFuneral.label>
+  <!-- EN: A gathering to witness the deceased be offered to the ocular lands! -->
+  <AM_OcularFuneral.description>在指定地点处举行葬礼，以将死者献给这片异目之地。</AM_OcularFuneral.description>
+  <!-- EN: {PAWN_nameDef} should be offered to the ocular lands, so it may reward us with wonderous creatures -->
+  <AM_OcularFuneral.extraTextPawnDeathLetter>{PAWN_nameDef}应当被献给这片异目之地，这样它才会将其转化成强大的异目生物。</AM_OcularFuneral.extraTextPawnDeathLetter>
+  
+</LanguageData>

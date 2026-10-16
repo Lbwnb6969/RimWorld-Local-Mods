@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cheese -->
+
+  <DankPyon_MealRoxwoodCheese.label>罗克斯奶酪</DankPyon_MealRoxwoodCheese.label>
+  <DankPyon_MealRoxwoodCheese.description>罗克斯奶酪是工匠们运用罗克斯鲜奶和独门配方手工制作而成的珍品，这种奶酪口感丝滑，略带浓郁的香味，非常适合搭配乡村面包和醇厚的啤酒。</DankPyon_MealRoxwoodCheese.description>
+
+
+  <!-- Roast Rox -->
+
+  <DankPyon_MealRoxRoast.label>罗克斯烤肉</DankPyon_MealRoxRoast.label>
+  <DankPyon_MealRoxRoast.description>这种大块的带骨烤肉着实带来了令人印象深刻的视觉冲击。罗克斯牛肉经过慢烤后，肉质变得细嫩，并保留了朴实自然的食材风味。</DankPyon_MealRoxRoast.description>
+
+
+  <!-- Steak with Wine -->
+
+  <DankPyon_MealRoxFeast.label>罗克斯盛宴</DankPyon_MealRoxFeast.label>
+  <DankPyon_MealRoxFeast.description>这是一道用香料调味过的罗克斯牛排和烤土豆所组成的丰盛料理。经过原肉煸出的油脂和肉汤收汁，让这道菜肴散发着香料的香气和浓郁肉香，令人愉悦。</DankPyon_MealRoxFeast.description>
+
+
+</LanguageData>

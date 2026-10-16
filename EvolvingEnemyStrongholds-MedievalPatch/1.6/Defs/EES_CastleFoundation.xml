@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="BridgeBase">
+    <defName>EES_MedievalCastleFoundation</defName>
+    <label>stone castle foundation</label>
+    <description>A stone footing that supports castle walls and towers over bridgeable ground.</description>
+    <texturePath>Terrain/Surfaces/TileStone</texturePath>
+    <bridgePropsPath>Terrain/Misc/BridgeProps</bridgePropsPath>
+    <spaceBridgePropsPath>Terrain/Misc/BridgeSpaceProps</spaceBridgePropsPath>
+    <color>(155,155,155)</color>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <constructEffect>ConstructMetal</constructEffect>
+    <statBases>
+      <WorkToBuild>5000</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <costList><BlocksGranite>20</BlocksGranite></costList>
+    <researchPrerequisites><li>Stonecutting</li></researchPrerequisites>
+    <destroyOnBombDamageThreshold>150</destroyOnBombDamageThreshold>
+  </TerrainDef>
+</Defs>

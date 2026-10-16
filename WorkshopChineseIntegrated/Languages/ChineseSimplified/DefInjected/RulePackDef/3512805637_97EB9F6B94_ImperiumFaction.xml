@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name->The Imperium</li>
+  -->
+  <BEWH_FactionNameMaker.rulePack.rulesStrings>
+    <li>r_name->帝国</li>
+  </BEWH_FactionNameMaker.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->Outpost [Letters]</li>
+  -->
+  <BEWH_SettlementNameMaker.rulePack.rulesStrings>
+    <li>r_name->据点 [Letters]</li>
+  </BEWH_SettlementNameMaker.rulePack.rulesStrings>
+  
+</LanguageData>

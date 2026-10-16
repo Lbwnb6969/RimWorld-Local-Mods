@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Necklace -->
+
+  <DankPyon_Necklace_Citrine.label>黄水晶项鍊</DankPyon_Necklace_Citrine.label>
+  <DankPyon_Necklace_Citrine.description>这款镶嵌黄水晶的项鍊，为寻求提高社会地位的男女增添了些微财富。</DankPyon_Necklace_Citrine.description>
+
+  <DankPyon_Necklace_Jade.label>翡翠项鍊</DankPyon_Necklace_Jade.label>
+  <DankPyon_Necklace_Jade.description>这款镶嵌翡翠的项鍊坚韧而美丽，为有能力负担得起的人们提供中等的财富。</DankPyon_Necklace_Jade.description>
+
+  <DankPyon_Necklace_Amber.label>琥珀项鍊</DankPyon_Necklace_Amber.label>
+  <DankPyon_Necklace_Amber.description>这款镶嵌琥珀的项鍊，与宝石的天然黄橙色相互辉映，因其自然之美而为人熟知且价值不菲。</DankPyon_Necklace_Amber.description>
+
+  <DankPyon_Necklace_Onyx.label>玛瑙项鍊</DankPyon_Necklace_Onyx.label>
+  <DankPyon_Necklace_Onyx.description>这款镶嵌玛瑙的项鍊，如玛瑙本身一般漆黑，尽管里头的宝石是深色的，但仍像是在诉说着无法想像的财富一般熠熠生辉。</DankPyon_Necklace_Onyx.description>
+
+
+  <!-- Gold and Above tier -->
+
+  <DankPyon_Necklace_Emerald.label>绿宝石项鍊</DankPyon_Necklace_Emerald.label>
+  <DankPyon_Necklace_Emerald.description>这款金项鍊镶嵌着一颗纯净的绿宝石，能显着增加佩戴者的财富，经常出现在贵族和商人身上。</DankPyon_Necklace_Emerald.description>
+
+  <DankPyon_Necklace_Sapphire.label>蓝宝石项鍊</DankPyon_Necklace_Sapphire.label>
+  <DankPyon_Necklace_Sapphire.description>这款镶嵌蓝宝石的项鍊闪耀着熟悉的蓝色光芒，确保佩戴者周围的人能注意到他们。</DankPyon_Necklace_Sapphire.description>
+
+  <DankPyon_Necklace_Ruby.label>红宝石项鍊</DankPyon_Necklace_Ruby.label>
+  <DankPyon_Necklace_Ruby.description>这款镶嵌着多颗泪滴状红宝石的金项鍊寓意着巨大的财富和强大的力量，买得起或偷得这样一条项鍊的人可不是好惹的。</DankPyon_Necklace_Ruby.description>
+
+
+  <!-- Rings -->
+
+  <DankPyon_Ring_Citrine.label>黄水晶戒指</DankPyon_Ring_Citrine.label>
+  <DankPyon_Ring_Citrine.description>这款镶嵌黄水晶的戒指，为寻求提高社会地位的男女增添了些微财富。</DankPyon_Ring_Citrine.description>
+
+  <DankPyon_Ring_Jade.label>翡翠戒指</DankPyon_Ring_Jade.label>
+  <DankPyon_Ring_Jade.description>这款镶嵌翡翠的戒指坚韧而美丽，为有能力负担得起的人们提供中等的财富。</DankPyon_Ring_Jade.description>
+
+  <DankPyon_Ring_Amber.label>琥珀戒指</DankPyon_Ring_Amber.label>
+  <DankPyon_Ring_Amber.description>这款镶嵌琥珀的戒指，与宝石的天然黄橙色相互辉映，因其自然之美而为人熟知且价值不菲。</DankPyon_Ring_Amber.description>
+
+  <DankPyon_Ring_Onyx.label>玛瑙戒指</DankPyon_Ring_Onyx.label>
+  <DankPyon_Ring_Onyx.description>这款镶嵌玛瑙的戒指，如玛瑙本身一般漆黑，尽管里头的宝石是深色的，但仍像是在诉说着无法想像的财富一般熠熠生辉。</DankPyon_Ring_Onyx.description>
+
+
+  <!-- Gold and Above tier -->
+
+  <DankPyon_Ring_Emerald.label>绿宝石戒指</DankPyon_Ring_Emerald.label>
+  <DankPyon_Ring_Emerald.description>这款金戒指镶嵌着一颗纯净的绿宝石，能显着增加佩戴者的财富，经常出现在贵族和商人身上。</DankPyon_Ring_Emerald.description>
+
+  <DankPyon_Ring_Sapphire.label>蓝宝石戒指</DankPyon_Ring_Sapphire.label>
+  <DankPyon_Ring_Sapphire.description>这款镶嵌蓝宝石的戒指闪耀着熟悉的蓝色光芒，确保佩戴者周围的人能注意到他们。</DankPyon_Ring_Sapphire.description>
+
+  <DankPyon_Ring_Ruby.label>红宝石戒指</DankPyon_Ring_Ruby.label>
+  <DankPyon_Ring_Ruby.description>这款镶嵌着多颗泪滴状红宝石的金戒指寓意着巨大的财富和强大的力量，买得起或偷得这样一条项鍊的人可不是好惹的</DankPyon_Ring_Ruby.description>
+
+
+</LanguageData>

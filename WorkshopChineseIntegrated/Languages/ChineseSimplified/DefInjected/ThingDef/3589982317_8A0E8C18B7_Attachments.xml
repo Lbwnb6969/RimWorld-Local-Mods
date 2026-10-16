@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: leopard pelt -->
+  <BA_LeopardPelt.label>豹皮</BA_LeopardPelt.label>
+  <!-- EN: A warm robust coat sewn from a leopard's fur. Wearing the pelt displays owner's strength, as it is proof that they have slain a ferocious leopard to don the trophy. While intimidating the fearful, the pelt also grants strength and confidence in battle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_LeopardPelt.description>一件用豹毛缝制而成的保暖耐用的毛皮外套。佩戴此皮可彰显主人的力量，因为这是他们猎杀一头凶猛豹子以佩戴这份战利品的证明。它既能威慑胆怯之人，也能为佩戴者在战斗中赋予力量与信心。</BA_LeopardPelt.description>
+  
+</LanguageData>

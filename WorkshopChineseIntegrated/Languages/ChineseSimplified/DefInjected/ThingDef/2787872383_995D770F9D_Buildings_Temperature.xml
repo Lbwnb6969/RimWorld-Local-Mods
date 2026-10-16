@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heat stones -->
+  <VFEC_HeatStones.label>热石暖炉</VFEC_HeatStones.label>
+  <!-- EN: A thin square box made of stone, perforated with tiny holes at the bottom and top. A small fire can be lit and sustained within. The stone container will slowly dissipate heat, allowing prolonged passive warmth. -->
+  <VFEC_HeatStones.description>装着一堆石头的方形盒子顶部和底部钻油许多小孔，在中央点燃一小团火后，周围的石头会缓慢地将热量散发出去，能够高效率地提升温度。</VFEC_HeatStones.description>
+  
+  <!-- EN: large passive cooler -->
+  <VFEC_LargePassiveCooler.label>大型蒸发制冷器</VFEC_LargePassiveCooler.label>
+  <!-- EN: A sturdy unpowered cooler notably larger than the traditional variety, cools rooms to freezing via water evaporation. Will run out and self-destruct after several days. -->
+  <VFEC_LargePassiveCooler.description>一个结实的制冷器，不需要通电即可运行。比传统的蒸发制冷器更大。可以将温度略微降低到冰点，在几天后水分消耗殆尽时会自毁。</VFEC_LargePassiveCooler.description>
+  
+</LanguageData>

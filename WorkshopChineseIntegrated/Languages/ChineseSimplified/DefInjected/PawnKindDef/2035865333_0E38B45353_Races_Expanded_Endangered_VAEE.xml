@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: african wild dog -->
+  <AEXP_AfricanWildDog.label>非洲野犬</AEXP_AfricanWildDog.label>
+  <!-- EN: african wild dog puppy -->
+  <AEXP_AfricanWildDog.lifeStages.african_wild_dog_puppy.label>非洲野犬幼崽</AEXP_AfricanWildDog.lifeStages.african_wild_dog_puppy.label>
+  <!-- EN: african wild dog puppies -->
+  <AEXP_AfricanWildDog.lifeStages.african_wild_dog_puppy.labelPlural>非洲野犬幼崽</AEXP_AfricanWildDog.lifeStages.african_wild_dog_puppy.labelPlural>
+  
+  <!-- EN: black-footed ferret -->
+  <AEXP_BlackFootedFerret.label>黑足鼬</AEXP_BlackFootedFerret.label>
+  
+  <!-- EN: black rhinoceros -->
+  <AEXP_BlackRhino.label>黑犀</AEXP_BlackRhino.label>
+  <!-- EN: black rhinoceroses -->
+  <AEXP_BlackRhino.labelPlural>黑犀</AEXP_BlackRhino.labelPlural>
+  
+  <!-- EN: bonobo -->
+  <AEXP_Bonobo.label>倭黑猩猩</AEXP_Bonobo.label>
+  
+  <!-- EN: moa -->
+  <AEXP_Moa.label>恐鸟</AEXP_Moa.label>
+  
+  <!-- EN: giant pangolin -->
+  <AEXP_Pangolin.label>巨地穿山甲</AEXP_Pangolin.label>
+  
+  <!-- EN: quagga -->
+  <AEXP_Quagga.label>斑驴</AEXP_Quagga.label>
+  <!-- EN: quagga foal -->
+  <AEXP_Quagga.lifeStages.quagga_foal.label>斑驴驹</AEXP_Quagga.lifeStages.quagga_foal.label>
+  <!-- EN: quagga foals -->
+  <AEXP_Quagga.lifeStages.quagga_foal.labelPlural>斑驴驹</AEXP_Quagga.lifeStages.quagga_foal.labelPlural>
+  
+  <!-- EN: rockhopper penguin -->
+  <AEXP_RockhopperPenguin.label>跳岩企鹅</AEXP_RockhopperPenguin.label>
+  <!-- EN: rockhopper penguin -->
+  <AEXP_RockhopperPenguin.labelPlural>跳岩企鹅</AEXP_RockhopperPenguin.labelPlural>
+  
+  <!-- EN: tasmanian devil -->
+  <AEXP_TasmanianDevil.label>袋獾</AEXP_TasmanianDevil.label>
+  
+  <!-- EN: thylacine -->
+  <AEXP_Thylacine.label>袋狼</AEXP_Thylacine.label>
+  
+</LanguageData>

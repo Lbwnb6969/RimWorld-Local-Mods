@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anchor -->
+  <VFEM2_Anchor.label>矛头</VFEM2_Anchor.label>
+  
+  <!-- EN: bat -->
+  <VFEM2_Bat.label>蝙蝠</VFEM2_Bat.label>
+  
+  <!-- EN: bow -->
+  <VFEM2_Bow.label>弓箭</VFEM2_Bow.label>
+  
+  <!-- EN: bull -->
+  <VFEM2_Bull.label>牛</VFEM2_Bull.label>
+  
+  <!-- EN: burning sword -->
+  <VFEM2_BurningSword.label>火剑</VFEM2_BurningSword.label>
+  
+  <!-- EN: castle -->
+  <VFEM2_Castle.label>城堡</VFEM2_Castle.label>
+  
+  <!-- EN: cat -->
+  <VFEM2_Cat.label>猫</VFEM2_Cat.label>
+  
+  <!-- EN: cave -->
+  <VFEM2_Cave.label>山洞</VFEM2_Cave.label>
+  
+  <!-- EN: centipede -->
+  <VFEM2_Centipede.label>蜈蚣</VFEM2_Centipede.label>
+  
+  <!-- EN: chicken -->
+  <VFEM2_Chicken.label>鸡</VFEM2_Chicken.label>
+  
+  <!-- EN: column -->
+  <VFEM2_Column.label>支柱</VFEM2_Column.label>
+  
+  <!-- EN: cross -->
+  <VFEM2_CrossCharge.label>十字</VFEM2_CrossCharge.label>
+  
+  <!-- EN: crossed axes -->
+  <VFEM2_CrossedAxes.label>交叉双斧</VFEM2_CrossedAxes.label>
+  
+  <!-- EN: crossed swords -->
+  <VFEM2_CrossedSwords.label>交叉双剑</VFEM2_CrossedSwords.label>
+  
+  <!-- EN: crown -->
+  <VFEM2_Crown.label>王冠</VFEM2_Crown.label>
+  
+  <!-- EN: dove -->
+  <VFEM2_Dove.label>鸽子</VFEM2_Dove.label>
+  
+  <!-- EN: dragon -->
+  <VFEM2_Dragon.label>巨龙</VFEM2_Dragon.label>
+  
+  <!-- EN: eagle -->
+  <VFEM2_Eagle.label>鹰</VFEM2_Eagle.label>
+  
+  <!-- EN: empire -->
+  <VFEM2_Empire.label>帝国</VFEM2_Empire.label>
+  
+  <!-- EN: eye -->
+  <VFEM2_Eye.label>眼睛</VFEM2_Eye.label>
+  
+  <!-- EN: fangs -->
+  <VFEM2_Fangs.label>獠牙</VFEM2_Fangs.label>
+  
+  <!-- EN: fire -->
+  <VFEM2_Fire.label>火焰</VFEM2_Fire.label>
+  
+  <!-- EN: fishes -->
+  <VFEM2_Fishes.label>双鱼</VFEM2_Fishes.label>
+  
+  <!-- EN: fleur de lis -->
+  <VFEM2_FleurDeLis.label>鸢尾花</VFEM2_FleurDeLis.label>
+  
+  <!-- EN: flower -->
+  <VFEM2_Flower.label>梅花</VFEM2_Flower.label>
+  
+  <!-- EN: goat -->
+  <VFEM2_Goat.label>山羊</VFEM2_Goat.label>
+  
+  <!-- EN: grapes -->
+  <VFEM2_Grapes.label>葡萄</VFEM2_Grapes.label>
+  
+  <!-- EN: helixien slug -->
+  <VFEM2_HelixienSlug.label>蛞蝓</VFEM2_HelixienSlug.label>
+  
+  <!-- EN: horse -->
+  <VFEM2_Horse.label>马</VFEM2_Horse.label>
+  
+  <!-- EN: house -->
+  <VFEM2_House.label>房屋</VFEM2_House.label>
+  
+  <!-- EN: human -->
+  <VFEM2_Human.label>人文</VFEM2_Human.label>
+  
+  <!-- EN: inverted star -->
+  <VFEM2_InvertedStar.label>反色星</VFEM2_InvertedStar.label>
+  
+  <!-- EN: kraken -->
+  <VFEM2_Kraken.label>克拉肯</VFEM2_Kraken.label>
+  
+  <!-- EN: lion -->
+  <VFEM2_Lion.label>狮子</VFEM2_Lion.label>
+  
+  <!-- EN: lobster -->
+  <VFEM2_Lobster.label>龙虾</VFEM2_Lobster.label>
+  
+  <!-- EN: man -->
+  <VFEM2_Man.label>男性</VFEM2_Man.label>
+  
+  <!-- EN: mechanical skull -->
+  <VFEM2_MechanicalSkull.label>机械颅骨</VFEM2_MechanicalSkull.label>
+  
+  <!-- EN: megaspider -->
+  <VFEM2_Megaspider.label>巨型蜘蛛</VFEM2_Megaspider.label>
+  
+  <!-- EN: no subordinary -->
+  <VFEM2_None.label>无</VFEM2_None.label>
+  
+  <!-- EN: pierced heart -->
+  <VFEM2_PiercedHeart.label>穿心</VFEM2_PiercedHeart.label>
+  
+  <!-- EN: psychic eye -->
+  <VFEM2_PsychicEye.label>心灵之眼</VFEM2_PsychicEye.label>
+  
+  <!-- EN: radiation -->
+  <VFEM2_Radiation.label>辐射</VFEM2_Radiation.label>
+  
+  <!-- EN: scales -->
+  <VFEM2_Scales.label>天平</VFEM2_Scales.label>
+  
+  <!-- EN: shell -->
+  <VFEM2_Shell.label>螺壳</VFEM2_Shell.label>
+  
+  <!-- EN: sheriff -->
+  <VFEM2_Sheriff.label>治安官</VFEM2_Sheriff.label>
+  
+  <!-- EN: shield -->
+  <VFEM2_Shield.label>盾牌</VFEM2_Shield.label>
+  
+  <!-- EN: skull -->
+  <VFEM2_Skull.label>颅骨</VFEM2_Skull.label>
+  
+  <!-- EN: smokeleaf -->
+  <VFEM2_Smokeleaf.label>大麻</VFEM2_Smokeleaf.label>
+  
+  <!-- EN: snake -->
+  <VFEM2_Snake.label>蛇</VFEM2_Snake.label>
+  
+  <!-- EN: stag -->
+  <VFEM2_Stag.label>鹿</VFEM2_Stag.label>
+  
+  <!-- EN: sun -->
+  <VFEM2_Sun.label>太阳</VFEM2_Sun.label>
+  
+  <!-- EN: swan -->
+  <VFEM2_Swan.label>天鹅</VFEM2_Swan.label>
+  
+  <!-- EN: temple -->
+  <VFEM2_Temple.label>神庙</VFEM2_Temple.label>
+  
+  <!-- EN: tent -->
+  <VFEM2_Tent.label>帐篷</VFEM2_Tent.label>
+  
+  <!-- EN: thrumbo -->
+  <VFEM2_Thrumbo.label>敲击兽</VFEM2_Thrumbo.label>
+  
+  <!-- EN: tree -->
+  <VFEM2_Tree.label>树</VFEM2_Tree.label>
+  
+  <!-- EN: trinity knot -->
+  <VFEM2_TrinityKnot.label>三一结</VFEM2_TrinityKnot.label>
+  
+  <!-- EN: valknut -->
+  <VFEM2_Valknut.label>奥丁结</VFEM2_Valknut.label>
+  
+  <!-- EN: winged sword -->
+  <VFEM2_WingedSword.label>双翼剑</VFEM2_WingedSword.label>
+  
+  <!-- EN: wolf -->
+  <VFEM2_Wolf.label>狼</VFEM2_Wolf.label>
+  
+  <!-- EN: woman -->
+  <VFEM2_Woman.label>女性</VFEM2_Woman.label>
+  
+</LanguageData>

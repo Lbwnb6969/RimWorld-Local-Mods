@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: couronné reine d'amour et de beauté -->
+  <RimJoust_CrownedQueen.stages.couronn_reine_damour_et_de_beaut.label>被加冕为边缘世界掌管爱与美的女王</RimJoust_CrownedQueen.stages.couronn_reine_damour_et_de_beaut.label>
+  <!-- EN: Le champion du tournoi m'a couronnée reine d'amour et de beauté devant tout le monde. Quel honneur ! -->
+  <RimJoust_CrownedQueen.stages.couronn_reine_damour_et_de_beaut.description>锦标赛冠军当众加冕我为边缘世界掌管爱与美的女王。多么荣耀！</RimJoust_CrownedQueen.stages.couronn_reine_damour_et_de_beaut.description>
+  
+  <!-- EN: m'a humilié au tournoi -->
+  <RimJoust_JiltedAtTourney.stages.ma_humili_au_tournoi.label>在锦标赛中让我蒙羞</RimJoust_JiltedAtTourney.stages.ma_humili_au_tournoi.label>
+  
+  <!-- EN: sorti du tournoi -->
+  <RimJoust_LostJoust.stages.sorti_du_tournoi-0.label>被淘汰出锦标赛</RimJoust_LostJoust.stages.sorti_du_tournoi-0.label>
+  <!-- EN: Je me suis fait sortir du tournoi. Bon, c'est le jeu, on remettra ça la prochaine fois. -->
+  <RimJoust_LostJoust.stages.sorti_du_tournoi-0.description>我被淘汰出锦标赛了。好吧，这就是比赛，下次再来。</RimJoust_LostJoust.stages.sorti_du_tournoi-0.description>
+  <!-- EN: sorti du tournoi -->
+  <RimJoust_LostJoust.stages.sorti_du_tournoi-1.label>被淘汰出锦标赛</RimJoust_LostJoust.stages.sorti_du_tournoi-1.label>
+  <!-- EN: Désarçonné et éliminé du tournoi, devant tout le monde en plus. Ça la fout mal. -->
+  <RimJoust_LostJoust.stages.sorti_du_tournoi-1.description>被掀下马并淘汰出锦标赛，还发生在众目睽睽之下。真是太丢脸了。</RimJoust_LostJoust.stages.sorti_du_tournoi-1.description>
+  <!-- EN: humilié au tournoi -->
+  <RimJoust_LostJoust.stages.humili_au_tournoi.label>在锦标赛中受辱</RimJoust_LostJoust.stages.humili_au_tournoi.label>
+  <!-- EN: Viré du tournoi comme un débutant, devant toute la colonie. J'ai envie de rentrer sous terre. -->
+  <RimJoust_LostJoust.stages.humili_au_tournoi.description>像个新手一样被赶出锦标赛，还是当着整个殖民地的面。我真想找个地缝钻进去。</RimJoust_LostJoust.stages.humili_au_tournoi.description>
+  
+  <!-- EN: le frisson de l'impact -->
+  <RimJoust_MasochistThrill.stages.le_frisson_de_limpact.label>冲击的快感</RimJoust_MasochistThrill.stages.le_frisson_de_limpact.label>
+  <!-- EN: Cette lance qui me percute en pleine charge... j'avoue, ça m'a fait quelque chose. -->
+  <RimJoust_MasochistThrill.stages.le_frisson_de_limpact.description>那柄长枪全速冲击我的感觉……我承认，这让我有点兴奋。</RimJoust_MasochistThrill.stages.le_frisson_de_limpact.description>
+  
+  <!-- EN: délaissé au tournoi -->
+  <RimJoust_PassedOver.stages.dlaiss_au_tournoi.label>在锦标赛中被冷落</RimJoust_PassedOver.stages.dlaiss_au_tournoi.label>
+  <!-- EN: Le champion m'a passé sous le nez pour couronner une autre, devant toute la colonie. Quelle humiliation. Ça, je ne l'oublierai pas. -->
+  <RimJoust_PassedOver.stages.dlaiss_au_tournoi.description>冠军当着整个殖民地的面，从我眼皮底下选了别人加冕。真是奇耻大辱，我不会忘记的。</RimJoust_PassedOver.stages.dlaiss_au_tournoi.description>
+  
+  <!-- EN: couronnée à ma place -->
+  <RimJoust_RivalCrowned.stages.couronne_ma_place.label>取代我被加冕</RimJoust_RivalCrowned.stages.couronne_ma_place.label>
+  
+  <!-- EN: champion du tournoi -->
+  <RimJoust_TournamentChampion.stages.champion_du_tournoi.label>锦标赛冠军</RimJoust_TournamentChampion.stages.champion_du_tournoi.label>
+  <!-- EN: J'ai gagné le tournoi de joute ! La foule a crié mon nom. Tout le monde sait ce que je vaux maintenant. -->
+  <RimJoust_TournamentChampion.stages.champion_du_tournoi.description>我赢得了比武锦标赛！人群高喊我的名字。现在所有人都知道我的价值了。</RimJoust_TournamentChampion.stages.champion_du_tournoi.description>
+  
+  <!-- EN: faveur du tournoi -->
+  <RimJoust_TourneyFavor.stages.faveur_du_tournoi.label>锦标赛的青睐</RimJoust_TourneyFavor.stages.faveur_du_tournoi.label>
+  
+  <!-- EN: a assisté à une joute -->
+  <RimJoust_WatchedJoust.stages.a_assist_une_joute.label>观看了一场比武</RimJoust_WatchedJoust.stages.a_assist_une_joute.label>
+  <!-- EN: J'ai vu un tournoi de joute ! Les charges, les lances qui se brisent, la foule qui hurle. Ça fait du bien. -->
+  <RimJoust_WatchedJoust.stages.a_assist_une_joute.description>我看了一场比武锦标赛！冲锋、长枪断裂、人群呐喊。感觉真不错。</RimJoust_WatchedJoust.stages.a_assist_une_joute.description>
+  
+</LanguageData>

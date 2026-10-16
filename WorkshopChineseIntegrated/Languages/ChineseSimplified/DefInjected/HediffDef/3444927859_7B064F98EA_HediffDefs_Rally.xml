@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rally aura -->
+  <VFEM_RallyAuraBuffHediff.label>集结号令</VFEM_RallyAuraBuffHediff.label>
+  <!-- EN: Rallying aura that prevents mental breaks. -->
+  <VFEM_RallyAuraBuffHediff.description>集结号令，防止精神崩溃的。</VFEM_RallyAuraBuffHediff.description>
+  
+  <!-- EN: rally -->
+  <VFEM_RallyWearerHediff.label>号令集结</VFEM_RallyWearerHediff.label>
+  <!-- EN: Aura that rallies everyone nearby, stopping their mental breaks and preventing them from breaking again. -->
+  <VFEM_RallyWearerHediff.description>号令其他人集结在自己周围，能终止进行中的精神崩溃并防止未来的精神崩溃。</VFEM_RallyWearerHediff.description>
+  
+</LanguageData>

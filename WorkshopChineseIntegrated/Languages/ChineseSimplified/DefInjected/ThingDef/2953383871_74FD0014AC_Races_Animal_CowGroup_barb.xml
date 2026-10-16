@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Horse -->
+
+  <pphyy_NorthernHorse.label>北方马</pphyy_NorthernHorse.label>
+  <pphyy_NorthernHorse.description>北方马是一种健壮的有蹄哺乳动物，拥有浓密且隔热的皮毛、威武的鬃毛和茂密的尾巴。这些马是为了在寒冷的气候条件下茁壮成长而演化而来的，厚厚的皮毛能为牠们提供充足的保护，抵御严酷的冬天。北方部落世世代代都在驯养这些坚韧的骏马，牠们在穿越白雪皑皑的大地时表现出的耐力和韧性备受赞誉。在商队中，北方马的价值不可估量，牠们的力量和稳健的脚步可以帮助商队在险峻的地形中穿行，加快商队在冰天雪地中的步调。</pphyy_NorthernHorse.description>
+  <pphyy_NorthernHorse.tools.0.label>头</pphyy_NorthernHorse.tools.0.label>
+  <pphyy_NorthernHorse.tools.1.label>左蹄</pphyy_NorthernHorse.tools.1.label>
+  <pphyy_NorthernHorse.tools.2.label>左蹄</pphyy_NorthernHorse.tools.2.label>
+  <pphyy_NorthernHorse.race.meatLabel>北方马肉</pphyy_NorthernHorse.race.meatLabel>
+
+</LanguageData>

@@ -1,0 +1,1124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] serves as an Akinci, a light cavalry raider of the Ottoman frontier. [PAWN_pronoun] is skilled in horseback combat, scouting, and quick raids, living a life of danger and adventure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Akinci.description>[PAWN_nameDef]是一名阿金基轻骑兵，即奥斯曼边境的轻装劫掠骑兵。[PAWN_pronoun]精通马术格斗、侦察与快速劫掠，过着充满危险与冒险的生活。</BA_Turkic_Adult_Akinci.description>
+  <!-- EN: Akinci -->
+  <BA_Turkic_Adult_Akinci.title>阿金基</BA_Turkic_Adult_Akinci.title>
+  <!-- EN: Raider -->
+  <BA_Turkic_Adult_Akinci.titleShort>劫掠者</BA_Turkic_Adult_Akinci.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] specializes in mounted archery, shooting from horseback during raids. [PAWN_pronoun] is agile, accurate, and fearless in battle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Akinci_Bowman.description>[PAWN_nameDef]专精骑射技艺，在劫掠行动中于马背上精准射击。[PAWN_pronoun]身手敏捷、命中率高，在战场上无所畏惧。</BA_Turkic_Adult_Akinci_Bowman.description>
+  <!-- EN: Akinci Bowman -->
+  <BA_Turkic_Adult_Akinci_Bowman.title>阿金基弓骑兵</BA_Turkic_Adult_Akinci_Bowman.title>
+  <!-- EN: Archer -->
+  <BA_Turkic_Adult_Akinci_Bowman.titleShort>弓箭手</BA_Turkic_Adult_Akinci_Bowman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fights on foot in Akinci raids, ambushing enemy patrols and raiding villages. [PAWN_pronoun] is hardy, resilient, and well-trained in basic combat tactics.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Akinci_LightInfantry.description>[PAWN_nameDef]在阿金基劫掠行动中徒步作战，伏击敌方巡逻队并突袭村庄。[PAWN_pronoun]体格坚韧、适应力强，熟练掌握基础战斗战术。</BA_Turkic_Adult_Akinci_LightInfantry.description>
+  <!-- EN: Akinci Light Infantry -->
+  <BA_Turkic_Adult_Akinci_LightInfantry.title>阿金基轻步兵</BA_Turkic_Adult_Akinci_LightInfantry.title>
+  <!-- EN: Infantry -->
+  <BA_Turkic_Adult_Akinci_LightInfantry.titleShort>步兵</BA_Turkic_Adult_Akinci_LightInfantry.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rides as a light cavalry Akinci, raiding enemy lands and scouting the frontiers. [PAWN_pronoun] is fast, daring, and used to hardship.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Akinci_Rider.description>[PAWN_nameDef]是一名阿金基轻骑兵，在敌方领土劫掠并侦察边境。[PAWN_pronoun]速度迅猛、胆识过人，早已习惯艰苦环境。</BA_Turkic_Adult_Akinci_Rider.description>
+  <!-- EN: Akinci Rider -->
+  <BA_Turkic_Adult_Akinci_Rider.title>阿金基骑手</BA_Turkic_Adult_Akinci_Rider.title>
+  <!-- EN: Raider -->
+  <BA_Turkic_Adult_Akinci_Rider.titleShort>劫掠者</BA_Turkic_Adult_Akinci_Rider.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] serves as a scout in Akinci units, tracking enemy movements and reporting back. [PAWN_pronoun] is perceptive, quick, and often alone on dangerous missions.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Akinci_Scout.description>[PAWN_nameDef]在阿金基部队中担任侦察兵，追踪敌方动向并反馈情报。[PAWN_pronoun]洞察力敏锐、行动迅速，常独自执行危险任务。</BA_Turkic_Adult_Akinci_Scout.description>
+  <!-- EN: Akinci Scout -->
+  <BA_Turkic_Adult_Akinci_Scout.title>阿金基侦察兵</BA_Turkic_Adult_Akinci_Scout.title>
+  <!-- EN: Scout -->
+  <BA_Turkic_Adult_Akinci_Scout.titleShort>侦察兵</BA_Turkic_Adult_Akinci_Scout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] is an expert in tracking and reconnaissance, guiding raiding parties through difficult terrain. [PAWN_pronoun] is alert, patient, and highly skilled in survival.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Akinci_Tracker.description>[PAWN_nameDef]是追踪与侦察专家，能带领劫掠小队穿越复杂地形。[PAWN_pronoun]警觉性高、极具耐心，拥有高超的生存技能。</BA_Turkic_Adult_Akinci_Tracker.description>
+  <!-- EN: Akinci Tracker -->
+  <BA_Turkic_Adult_Akinci_Tracker.title>阿金基追踪者</BA_Turkic_Adult_Akinci_Tracker.title>
+  <!-- EN: Tracker -->
+  <BA_Turkic_Adult_Akinci_Tracker.titleShort>追踪者</BA_Turkic_Adult_Akinci_Tracker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] roams villages and towns, reciting epic tales and singing folk songs of heroes and love. [PAWN_pronoun] charms listeners with stories woven into music, spreading culture and tradition.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_AsikPerformer.description>[PAWN_nameDef]在村庄与城镇间游历，吟诵史诗传说，演唱关于英雄与爱情的民谣。[PAWN_pronoun]将故事融入音乐，用魅力打动听众，传承文化与传统。</BA_Turkic_Adult_AsikPerformer.description>
+  <!-- EN: Asik Performer -->
+  <BA_Turkic_Adult_AsikPerformer.title>阿希克艺人</BA_Turkic_Adult_AsikPerformer.title>
+  <!-- EN: Asik -->
+  <BA_Turkic_Adult_AsikPerformer.titleShort>阿希克</BA_Turkic_Adult_AsikPerformer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was tasked with gathering provisions and maintaining supply lines during campaigns. [PAWN_pronoun] is resourceful and strong but minimally trained in combat.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Avarizci_1.description>[PAWN_nameDef]在战役期间负责筹集粮草并维护补给线。[PAWN_pronoun]足智多谋、体格健壮，但战斗训练较少。</BA_Turkic_Adult_Avarizci_1.description>
+  <!-- EN: Supply Collector -->
+  <BA_Turkic_Adult_Avarizci_1.title>粮草征集官</BA_Turkic_Adult_Avarizci_1.title>
+  <!-- EN: Avarizci -->
+  <BA_Turkic_Adult_Avarizci_1.titleShort>阿瓦里兹奇</BA_Turkic_Adult_Avarizci_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a low-ranking soldier, often used for harsh labor or penal military duties. [PAWN_pronoun] learned endurance and obedience under strict conditions.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Azap.description>[PAWN_nameDef]曾是一名低阶士兵，常承担繁重劳役或惩罚性军事任务。[PAWN_pronoun]在严苛环境中练就了坚韧的意志与服从的品性。</BA_Turkic_Adult_Azap.description>
+  <!-- EN: Azap -->
+  <BA_Turkic_Adult_Azap.title>阿扎普士兵</BA_Turkic_Adult_Azap.title>
+  <!-- EN: Azap -->
+  <BA_Turkic_Adult_Azap.titleShort>阿扎普</BA_Turkic_Adult_Azap.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as an azap, a low-ranking soldier drawn from commoners. [PAWN_pronoun] learned basic weapons handling and endurance for long marches.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Azap_1.description>[PAWN_nameDef]是一名从平民中征召的阿扎普低阶士兵。[PAWN_pronoun]掌握基础武器使用技巧，能承受长途行军的耐力考验。</BA_Turkic_Adult_Azap_1.description>
+  <!-- EN: Azap Militiaman -->
+  <BA_Turkic_Adult_Azap_1.title>阿扎普民兵</BA_Turkic_Adult_Azap_1.title>
+  <!-- EN: Azap -->
+  <BA_Turkic_Adult_Azap_1.titleShort>阿扎普</BA_Turkic_Adult_Azap_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] assisted in sieges and fortification works. [PAWN_pronoun] learned to handle basic siege tools and endure harsh conditions.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Azap_2.description>[PAWN_nameDef]协助参与攻城战与防御工事建造。[PAWN_pronoun]学会操作基础攻城器械，能适应恶劣环境。</BA_Turkic_Adult_Azap_2.description>
+  <!-- EN: Siege Laborer -->
+  <BA_Turkic_Adult_Azap_2.title>攻城劳工</BA_Turkic_Adult_Azap_2.title>
+  <!-- EN: Azap -->
+  <BA_Turkic_Adult_Azap_2.titleShort>阿扎普</BA_Turkic_Adult_Azap_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] travels across the steppe singing heroic tales, epic stories, and romantic legends. [PAWN_pronoun] is persuasive, charismatic, and beloved by audiences.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Bard.description>[PAWN_nameDef]穿越草原游历，演唱英雄事迹、史诗故事与浪漫传说。[PAWN_pronoun]极具说服力与个人魅力，深受听众喜爱。</BA_Turkic_Adult_Bard.description>
+  <!-- EN: Bard of the Steppe -->
+  <BA_Turkic_Adult_Bard.title>草原吟游诗人</BA_Turkic_Adult_Bard.title>
+  <!-- EN: Bard -->
+  <BA_Turkic_Adult_Bard.titleShort>吟游诗人</BA_Turkic_Adult_Bard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] baked bread for soldiers in campaign camps, learning to manage ovens and maintain consistent quality under pressure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Camp_Baker.description>[PAWN_nameDef]在战役营地为士兵烤制面包，学会了操控烤炉，并能在压力下保持面包品质稳定。</BA_Turkic_Adult_Camp_Baker.description>
+  <!-- EN: Camp Baker -->
+  <BA_Turkic_Adult_Camp_Baker.title>营地面包师</BA_Turkic_Adult_Camp_Baker.title>
+  <!-- EN: Baker -->
+  <BA_Turkic_Adult_Camp_Baker.titleShort>面包师</BA_Turkic_Adult_Camp_Baker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] assisted in field kitchens during campaigns, chopping vegetables, fetching water, and keeping fires alive. [PAWN_pronoun] learned endurance and teamwork.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Camp_Kitchen_Helper.description>[PAWN_nameDef]在战役野外厨房协助工作，负责切菜、取水与维持火种。[PAWN_pronoun]练就了坚韧的耐力与团队协作能力。</BA_Turkic_Adult_Camp_Kitchen_Helper.description>
+  <!-- EN: Camp Kitchen Helper -->
+  <BA_Turkic_Adult_Camp_Kitchen_Helper.title>营地厨房助手</BA_Turkic_Adult_Camp_Kitchen_Helper.title>
+  <!-- EN: Kitchen Helper -->
+  <BA_Turkic_Adult_Camp_Kitchen_Helper.titleShort>厨房助手</BA_Turkic_Adult_Camp_Kitchen_Helper.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a *Djebedji*, responsible for maintaining weapons, armor, and other military equipment. Discipline and craft were as vital as combat skill.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Cebeci.description>[PAWN_nameDef]曾担任塞贝奇（军械士），负责维护武器、盔甲及其他军事装备。纪律性与工艺水平对其而言与战斗技能同等重要。</BA_Turkic_Adult_Cebeci.description>
+  <!-- EN: Djebedji Soldier -->
+  <BA_Turkic_Adult_Cebeci.title>塞贝奇士兵</BA_Turkic_Adult_Cebeci.title>
+  <!-- EN: Djebedji -->
+  <BA_Turkic_Adult_Cebeci.titleShort>塞贝奇</BA_Turkic_Adult_Cebeci.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rose to the rank of *Djebedjibashi*, commanding the armourers of the Ottoman army. Logistics, leadership, and discipline defined [PAWN_possessive] service.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Cebecibashi.description>[PAWN_nameDef]晋升为塞贝奇巴什（军械长），统领奥斯曼军队的军械士部队。后勤管理、领导力与纪律性是其服役期间的核心职责。</BA_Turkic_Adult_Cebecibashi.description>
+  <!-- EN: Djebedjibashi -->
+  <BA_Turkic_Adult_Cebecibashi.title>塞贝奇巴什</BA_Turkic_Adult_Cebecibashi.title>
+  <!-- EN: Djebedjibashi -->
+  <BA_Turkic_Adult_Cebecibashi.titleShort>塞贝奇巴什</BA_Turkic_Adult_Cebecibashi.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained as a cebelu, gaining experience in basic combat and battlefield drills. [PAWN_pronoun] is tougher than an ordinary villager but low-ranking.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Cebelu_1.description>[PAWN_nameDef]接受塞贝卢士兵训练，积累了基础战斗与战场演练经验。[PAWN_pronoun]比普通村民更为坚韧，但军衔较低。</BA_Turkic_Adult_Cebelu_1.description>
+  <!-- EN: Cebelu Warrior -->
+  <BA_Turkic_Adult_Cebelu_1.title>塞贝卢战士</BA_Turkic_Adult_Cebelu_1.title>
+  <!-- EN: Cebelu -->
+  <BA_Turkic_Adult_Cebelu_1.titleShort>塞贝卢</BA_Turkic_Adult_Cebelu_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in light infantry, performing reconnaissance and supporting cavalry in battle. [PAWN_pronoun] is agile and observant.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Cebelu_2.description>[PAWN_nameDef]服役于轻步兵部队，负责执行侦察任务并在战斗中支援骑兵。[PAWN_pronoun]身手敏捷、观察力敏锐。</BA_Turkic_Adult_Cebelu_2.description>
+  <!-- EN: Light Infantry -->
+  <BA_Turkic_Adult_Cebelu_2.title>轻步兵</BA_Turkic_Adult_Cebelu_2.title>
+  <!-- EN: Infantry -->
+  <BA_Turkic_Adult_Cebelu_2.titleShort>步兵</BA_Turkic_Adult_Cebelu_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] became one of the infamous *Deliler*, the reckless shock troops of the sultan's army. Known for fearlessness and wild appearance, [PAWN_pronoun] was often sent to the front lines to break enemy morale.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Deli.description>[PAWN_nameDef]成为了臭名昭著的德莱勒战士——苏丹军队中的敢死突击部队成员。[PAWN_pronoun]以无畏精神与粗犷外形著称，常被派往前线瓦解敌方士气。</BA_Turkic_Adult_Deli.description>
+  <!-- EN: Deli Warrior -->
+  <BA_Turkic_Adult_Deli.title>德莱勒战士</BA_Turkic_Adult_Deli.title>
+  <!-- EN: Deli -->
+  <BA_Turkic_Adult_Deli.titleShort>德莱勒</BA_Turkic_Adult_Deli.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined a local Sufi order, learning meditation, music, and the spiritual arts. [PAWN_pronoun] spends days in contemplation and guiding villagers spiritually.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Dervish.description>[PAWN_nameDef]加入了当地苏菲派教团，学习冥想、音乐与灵性修行之术。[PAWN_pronoun]每日潜心静思，并为村民提供灵性指引。</BA_Turkic_Adult_Dervish.description>
+  <!-- EN: Dervish -->
+  <BA_Turkic_Adult_Dervish.title>德尔维希</BA_Turkic_Adult_Dervish.title>
+  <!-- EN: Dervish -->
+  <BA_Turkic_Adult_Dervish.titleShort>德尔维希</BA_Turkic_Adult_Dervish.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] specializes in telling folktales of love, heroism, and moral lessons, traveling from town to town to entertain and educate. [PAWN_pronoun] is persuasive and culturally knowledgeable.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_FolkStoryteller.description>[PAWN_nameDef]专精讲述关于爱情、英雄主义与道德教化的民间故事，在城镇间游历，兼具娱乐与教化功能。[PAWN_pronoun]极具说服力，拥有深厚的文化素养。</BA_Turkic_Adult_FolkStoryteller.description>
+  <!-- EN: Folk Storyteller -->
+  <BA_Turkic_Adult_FolkStoryteller.title>民间故事家</BA_Turkic_Adult_FolkStoryteller.title>
+  <!-- EN: Storyteller -->
+  <BA_Turkic_Adult_FolkStoryteller.titleShort>故事家</BA_Turkic_Adult_FolkStoryteller.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] organized and transported provisions to camps and palaces, learning logistics and bartering skills.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Food_Supplier.description>[PAWN_nameDef]负责组织粮草运输，将物资送往营地与宫殿，练就了后勤管理与易货交易技能。</BA_Turkic_Adult_Food_Supplier.description>
+  <!-- EN: Food Supplier -->
+  <BA_Turkic_Adult_Food_Supplier.title>粮草供应商</BA_Turkic_Adult_Food_Supplier.title>
+  <!-- EN: Supplier -->
+  <BA_Turkic_Adult_Food_Supplier.titleShort>供应商</BA_Turkic_Adult_Food_Supplier.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent years collecting food, herbs, and firewood for the village. [PAWN_pronoun] is resourceful, observant, and resilient in the face of hardship.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Forager.description>[PAWN_nameDef]多年来为村庄采集食物、草药与柴火。[PAWN_pronoun]足智多谋、观察力敏锐，在困境中极具韧性。</BA_Turkic_Adult_Forager.description>
+  <!-- EN: Village Forager -->
+  <BA_Turkic_Adult_Forager.title>村庄采集者</BA_Turkic_Adult_Forager.title>
+  <!-- EN: Forager -->
+  <BA_Turkic_Adult_Forager.titleShort>采集者</BA_Turkic_Adult_Forager.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served in the janissary kitchens, preparing meals for soldiers. [PAWN_pronoun] learned discipline, timing, and the secrets of feeding an army efficiently.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Janissary_Cook.description>[PAWN_nameDef]在耶尼切里军团厨房服役，为士兵准备餐食。[PAWN_pronoun]学会了纪律执行、时间把控，以及高效为军队供餐的秘诀。</BA_Turkic_Adult_Janissary_Cook.description>
+  <!-- EN: Janissary Cook -->
+  <BA_Turkic_Adult_Janissary_Cook.title>耶尼切里厨师</BA_Turkic_Adult_Janissary_Cook.title>
+  <!-- EN: Cook -->
+  <BA_Turkic_Adult_Janissary_Cook.titleShort>厨师</BA_Turkic_Adult_Janissary_Cook.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served under a sipahi, learning horse riding and light combat. [PAWN_pronoun] is less skilled than a full sipahi but experienced in skirmishes and raids.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_LowSipahi_1.description>[PAWN_nameDef]效力于一名西帕希骑兵，学习马术与轻装战斗。[PAWN_pronoun]技能虽不及正式西帕希，但在小规模冲突与劫掠行动中经验丰富。</BA_Turkic_Adult_LowSipahi_1.description>
+  <!-- EN: Junior Sipahi -->
+  <BA_Turkic_Adult_LowSipahi_1.title>初级西帕希</BA_Turkic_Adult_LowSipahi_1.title>
+  <!-- EN: Light Cavalry -->
+  <BA_Turkic_Adult_LowSipahi_1.titleShort>轻骑兵</BA_Turkic_Adult_LowSipahi_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rode as part of auxiliary cavalry, supporting the main forces in campaigns. [PAWN_pronoun] learned scouting and mounted combat basics.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_LowSipahi_2.description>[PAWN_nameDef]作为辅助骑兵参战，在战役中支援主力部队。[PAWN_pronoun]掌握了侦察与马术战斗的基础技能。</BA_Turkic_Adult_LowSipahi_2.description>
+  <!-- EN: Auxiliary Cavalry -->
+  <BA_Turkic_Adult_LowSipahi_2.title>辅助骑兵</BA_Turkic_Adult_LowSipahi_2.title>
+  <!-- EN: Light Horse -->
+  <BA_Turkic_Adult_LowSipahi_2.titleShort>轻骑</BA_Turkic_Adult_LowSipahi_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the local village militia to protect their home and neighbors. [PAWN_pronoun] trained with basic weapons and learned discipline from older soldiers.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_MilitiaRecruit.description>[PAWN_nameDef]加入当地村庄民兵，保卫家园与邻里。[PAWN_pronoun]接受基础武器训练，并从老兵身上学会了纪律性。</BA_Turkic_Adult_MilitiaRecruit.description>
+  <!-- EN: Militia Recruit -->
+  <BA_Turkic_Adult_MilitiaRecruit.title>民兵新兵</BA_Turkic_Adult_MilitiaRecruit.title>
+  <!-- EN: Militia -->
+  <BA_Turkic_Adult_MilitiaRecruit.titleShort>民兵</BA_Turkic_Adult_MilitiaRecruit.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the Alkaevli clan, mastering scouting and long-range hunting. [PAWN_pronoun] is patient and strategic.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Alkaevli.description>[PAWN_nameDef]在阿尔卡埃夫利部落长大，精通侦察与远程狩猎。[PAWN_pronoun]极具耐心与战略思维。</BA_Turkic_Adult_Nomad_Alkaevli.description>
+  <!-- EN: Alkaevli Nomad -->
+  <BA_Turkic_Adult_Nomad_Alkaevli.title>阿尔卡埃夫利游牧民</BA_Turkic_Adult_Nomad_Alkaevli.title>
+  <!-- EN: Alkaevli -->
+  <BA_Turkic_Adult_Nomad_Alkaevli.titleShort>阿尔卡埃夫利</BA_Turkic_Adult_Nomad_Alkaevli.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] of the Avsar clan is an expert horseman and hunter. [PAWN_pronoun] is strong and agile.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Avsar.description>[PAWN_nameDef]来自阿夫萨尔部落，是一名马术与狩猎专家。[PAWN_pronoun]体格强壮、身手敏捷。</BA_Turkic_Adult_Nomad_Avsar.description>
+  <!-- EN: Avsar Nomad -->
+  <BA_Turkic_Adult_Nomad_Avsar.title>阿夫萨尔游牧民</BA_Turkic_Adult_Nomad_Avsar.title>
+  <!-- EN: Avsar -->
+  <BA_Turkic_Adult_Nomad_Avsar.titleShort>阿夫萨尔</BA_Turkic_Adult_Nomad_Avsar.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] of the Bayat clan learned herding and hunting on the steppe. [PAWN_pronoun] is resourceful and patient.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Bayat.description>[PAWN_nameDef]来自巴亚特部落，在草原上学会了放牧与狩猎。[PAWN_pronoun]足智多谋、极具耐心。</BA_Turkic_Adult_Nomad_Bayat.description>
+  <!-- EN: Bayat Nomad -->
+  <BA_Turkic_Adult_Nomad_Bayat.title>巴亚特游牧民</BA_Turkic_Adult_Nomad_Bayat.title>
+  <!-- EN: Bayat -->
+  <BA_Turkic_Adult_Nomad_Bayat.titleShort>巴亚特</BA_Turkic_Adult_Nomad_Bayat.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the Becenek clan, skilled in archery and horse riding. [PAWN_pronoun] is agile and keen-eyed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Becenek.description>[PAWN_nameDef]在贝切内克部落长大，精通射箭与马术。[PAWN_pronoun]身手敏捷、目光敏锐。</BA_Turkic_Adult_Nomad_Becenek.description>
+  <!-- EN: Becenek Nomad -->
+  <BA_Turkic_Adult_Nomad_Becenek.title>贝切内克游牧民</BA_Turkic_Adult_Nomad_Becenek.title>
+  <!-- EN: Becenek -->
+  <BA_Turkic_Adult_Nomad_Becenek.titleShort>贝切内克</BA_Turkic_Adult_Nomad_Becenek.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] crafted tools, saddles, and simple weapons for the tribe, mastering practical skills with hands. [PAWN_pronoun] is resourceful and skilled.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Craftsman.description>[PAWN_nameDef]为部落制作工具、马鞍与简易武器，练就了精湛的手工实用技能。[PAWN_pronoun]足智多谋、技艺娴熟。</BA_Turkic_Adult_Nomad_Craftsman.description>
+  <!-- EN: Camp Craftsman -->
+  <BA_Turkic_Adult_Nomad_Craftsman.title>营地工匠</BA_Turkic_Adult_Nomad_Craftsman.title>
+  <!-- EN: Craftsman -->
+  <BA_Turkic_Adult_Nomad_Craftsman.titleShort>工匠</BA_Turkic_Adult_Nomad_Craftsman.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was trained in hunting and combat by the Dodurga clan. [PAWN_pronoun] is brave and disciplined.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Dodurga.description>[PAWN_nameDef]接受多杜尔加部落的狩猎与战斗训练。[PAWN_pronoun]勇敢无畏、纪律严明。</BA_Turkic_Adult_Nomad_Dodurga.description>
+  <!-- EN: Dodurga Nomad -->
+  <BA_Turkic_Adult_Nomad_Dodurga.title>多杜尔加游牧民</BA_Turkic_Adult_Nomad_Dodurga.title>
+  <!-- EN: Dodurga -->
+  <BA_Turkic_Adult_Nomad_Dodurga.titleShort>多杜尔加</BA_Turkic_Adult_Nomad_Dodurga.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up learning horse riding and hunting in the Doger clan. [PAWN_pronoun] is agile and alert.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Doger.description>[PAWN_nameDef]在多格尔部落长大，学会了马术与狩猎。[PAWN_pronoun]身手敏捷、警觉性高。</BA_Turkic_Adult_Nomad_Doger.description>
+  <!-- EN: Doger Nomad -->
+  <BA_Turkic_Adult_Nomad_Doger.title>多格尔游牧民</BA_Turkic_Adult_Nomad_Doger.title>
+  <!-- EN: Doger -->
+  <BA_Turkic_Adult_Nomad_Doger.titleShort>多格尔</BA_Turkic_Adult_Nomad_Doger.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up hunting and herding with the Eymur clan. [PAWN_pronoun] is resilient and adaptive.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Eymur.description>[PAWN_nameDef]与埃伊穆尔部落一同狩猎放牧长大。[PAWN_pronoun]坚韧不拔、适应性强。</BA_Turkic_Adult_Nomad_Eymur.description>
+  <!-- EN: Eymur Nomad -->
+  <BA_Turkic_Adult_Nomad_Eymur.title>埃伊穆尔游牧民</BA_Turkic_Adult_Nomad_Eymur.title>
+  <!-- EN: Eymur -->
+  <BA_Turkic_Adult_Nomad_Eymur.titleShort>埃伊穆尔</BA_Turkic_Adult_Nomad_Eymur.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied local herbs and remedies to care for the tribe, gaining knowledge of plants and basic medicine. [PAWN_pronoun] is wise and careful.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Healer.description>[PAWN_nameDef]研究当地草药与疗法以照料部落成员，积累了植物知识与基础医术。[PAWN_pronoun]睿智审慎、细心周到。</BA_Turkic_Adult_Nomad_Healer.description>
+  <!-- EN: Herbal Healer -->
+  <BA_Turkic_Adult_Nomad_Healer.title>草药医师</BA_Turkic_Adult_Nomad_Healer.title>
+  <!-- EN: Healer -->
+  <BA_Turkic_Adult_Nomad_Healer.titleShort>医师</BA_Turkic_Adult_Nomad_Healer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended flocks across the steppes, learning to manage animals and navigate the land. [PAWN_pronoun] is resilient and skilled in animal handling.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Herder.description>[PAWN_nameDef]在草原上照料畜群，学会了动物管理与地形导航。[PAWN_pronoun]坚韧不拔，擅长牲畜饲养。</BA_Turkic_Adult_Nomad_Herder.description>
+  <!-- EN: Herdsman -->
+  <BA_Turkic_Adult_Nomad_Herder.title>牧人</BA_Turkic_Adult_Nomad_Herder.title>
+  <!-- EN: Herdsman -->
+  <BA_Turkic_Adult_Nomad_Herder.titleShort>牧人</BA_Turkic_Adult_Nomad_Herder.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] raised and trained horses from a young age, mastering riding and animal control. [PAWN_pronoun] is agile and patient.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Horse_Tamer.description>[PAWN_nameDef]自幼饲养并训练马匹，精通马术与动物管控。[PAWN_pronoun]身手敏捷、极具耐心。</BA_Turkic_Adult_Nomad_Horse_Tamer.description>
+  <!-- EN: Horse Tamer -->
+  <BA_Turkic_Adult_Nomad_Horse_Tamer.title>驯马师</BA_Turkic_Adult_Nomad_Horse_Tamer.title>
+  <!-- EN: Tamer -->
+  <BA_Turkic_Adult_Nomad_Horse_Tamer.titleShort>驯兽师</BA_Turkic_Adult_Nomad_Horse_Tamer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] hunted game to provide food for the camp, learning patience, tracking, and precision. [PAWN_pronoun] respects nature deeply.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Hunter.description>[PAWN_nameDef]狩猎野生动物为营地提供食物，练就了耐心、追踪与精准射击的技能。[PAWN_pronoun]对自然怀有深厚的敬畏之心。</BA_Turkic_Adult_Nomad_Hunter.description>
+  <!-- EN: Hunter -->
+  <BA_Turkic_Adult_Nomad_Hunter.title>猎人</BA_Turkic_Adult_Nomad_Hunter.title>
+  <!-- EN: Hunter -->
+  <BA_Turkic_Adult_Nomad_Hunter.titleShort>猎人</BA_Turkic_Adult_Nomad_Hunter.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the Kayi clan, mastering horse riding and steppe survival. [PAWN_pronoun] is brave and resilient.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Kayi.description>[PAWN_nameDef]在卡伊部落长大，精通马术与草原生存技能。[PAWN_pronoun]勇敢无畏、坚韧不拔。</BA_Turkic_Adult_Nomad_Kayi.description>
+  <!-- EN: Kayi Nomad -->
+  <BA_Turkic_Adult_Nomad_Kayi.title>卡伊游牧民</BA_Turkic_Adult_Nomad_Kayi.title>
+  <!-- EN: Kayi -->
+  <BA_Turkic_Adult_Nomad_Kayi.titleShort>卡伊</BA_Turkic_Adult_Nomad_Kayi.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the Kinik clan, learning steppe survival and archery. [PAWN_pronoun] is quick and cunning.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Kinik.description>[PAWN_nameDef]在基尼克部落长大，学会了草原生存与射箭技能。[PAWN_pronoun]反应迅速、机智狡黠。</BA_Turkic_Adult_Nomad_Kinik.description>
+  <!-- EN: Kinik Nomad -->
+  <BA_Turkic_Adult_Nomad_Kinik.title>基尼克游牧民</BA_Turkic_Adult_Nomad_Kinik.title>
+  <!-- EN: Kinik -->
+  <BA_Turkic_Adult_Nomad_Kinik.titleShort>基尼克</BA_Turkic_Adult_Nomad_Kinik.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the tribe's militia, defending settlements and assisting with raids. [PAWN_pronoun] is tough, reliable, and moderately skilled in combat.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Militia.description>[PAWN_nameDef]加入部落民兵，保卫定居点并协助参与劫掠行动。[PAWN_pronoun]体格健壮、可靠可信，具备中等战斗技能。</BA_Turkic_Adult_Nomad_Militia.description>
+  <!-- EN: Tribal Militiaman -->
+  <BA_Turkic_Adult_Nomad_Militia.title>部落民兵</BA_Turkic_Adult_Nomad_Militia.title>
+  <!-- EN: Militiaman -->
+  <BA_Turkic_Adult_Nomad_Militia.titleShort>民兵</BA_Turkic_Adult_Nomad_Militia.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] of the Pecenek clan is skilled at horse riding and scouting. [PAWN_pronoun] is alert and brave.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Pecenek.description>[PAWN_nameDef]来自佩切内克部落，擅长马术与侦察。[PAWN_pronoun]警觉性高、勇敢无畏。</BA_Turkic_Adult_Nomad_Pecenek.description>
+  <!-- EN: Pecenek Nomad -->
+  <BA_Turkic_Adult_Nomad_Pecenek.title>佩切内克游牧民</BA_Turkic_Adult_Nomad_Pecenek.title>
+  <!-- EN: Pecenek -->
+  <BA_Turkic_Adult_Nomad_Pecenek.titleShort>佩切内克</BA_Turkic_Adult_Nomad_Pecenek.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] roamed the steppes ahead of the tribe, scouting enemy positions and mapping terrain. [PAWN_pronoun] is perceptive, fast, and alert.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Scout.description>[PAWN_nameDef]在部落前方的草原上游历，侦察敌方阵地并绘制地形地图。[PAWN_pronoun]洞察力敏锐、行动迅速、警觉性高。</BA_Turkic_Adult_Nomad_Scout.description>
+  <!-- EN: Steppe Scout -->
+  <BA_Turkic_Adult_Nomad_Scout.title>草原侦察兵</BA_Turkic_Adult_Nomad_Scout.title>
+  <!-- EN: Scout -->
+  <BA_Turkic_Adult_Nomad_Scout.titleShort>侦察兵</BA_Turkic_Adult_Nomad_Scout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned the epic tales of the tribe and oral history, entertaining the camp and preserving traditions. [PAWN_pronoun] is creative and intelligent.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Storyteller.description>[PAWN_nameDef]习得部落史诗传说与口述历史，为营地带来娱乐的同时传承传统。[PAWN_pronoun]富有创造力、聪慧过人。</BA_Turkic_Adult_Nomad_Storyteller.description>
+  <!-- EN: Storyteller -->
+  <BA_Turkic_Adult_Nomad_Storyteller.title>故事家</BA_Turkic_Adult_Nomad_Storyteller.title>
+  <!-- EN: Storyteller -->
+  <BA_Turkic_Adult_Nomad_Storyteller.titleShort>故事家</BA_Turkic_Adult_Nomad_Storyteller.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled between settlements trading livestock, wool, and goods, learning negotiation and observation. [PAWN_pronoun] is social and clever.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Trader.description>[PAWN_nameDef]在各个定居点间往来贸易，交易牲畜、羊毛与各类商品，练就了谈判与观察技能。[PAWN_pronoun]善于社交、机智灵活。</BA_Turkic_Adult_Nomad_Trader.description>
+  <!-- EN: Caravan Trader -->
+  <BA_Turkic_Adult_Nomad_Trader.title>商队商人</BA_Turkic_Adult_Nomad_Trader.title>
+  <!-- EN: Trader -->
+  <BA_Turkic_Adult_Nomad_Trader.titleShort>商人</BA_Turkic_Adult_Nomad_Trader.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained with bow and spear to defend the tribe, becoming strong and disciplined. [PAWN_pronoun] is courageous and skilled in combat.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Warrior.description>[PAWN_nameDef]为保卫部落接受弓箭与长矛训练，变得体格强壮、纪律严明。[PAWN_pronoun]勇敢无畏、战斗技艺娴熟。</BA_Turkic_Adult_Nomad_Warrior.description>
+  <!-- EN: Steppe Warrior -->
+  <BA_Turkic_Adult_Nomad_Warrior.title>草原战士</BA_Turkic_Adult_Nomad_Warrior.title>
+  <!-- EN: Warrior -->
+  <BA_Turkic_Adult_Nomad_Warrior.titleShort>战士</BA_Turkic_Adult_Nomad_Warrior.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the Yaparli clan, skilled in scouting and herding. [PAWN_pronoun] is alert and resourceful.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Yaparli.description>[PAWN_nameDef]在亚帕尔利部落长大，擅长侦察与放牧。[PAWN_pronoun]警觉性高、足智多谋。</BA_Turkic_Adult_Nomad_Yaparli.description>
+  <!-- EN: Yaparli Nomad -->
+  <BA_Turkic_Adult_Nomad_Yaparli.title>亚帕尔利游牧民</BA_Turkic_Adult_Nomad_Yaparli.title>
+  <!-- EN: Yaparli -->
+  <BA_Turkic_Adult_Nomad_Yaparli.titleShort>亚帕尔利</BA_Turkic_Adult_Nomad_Yaparli.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] of the Yazir clan is skilled in herding, archery, and survival. [PAWN_pronoun] is resilient and practical.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomad_Yazir.description>[PAWN_nameDef]来自亚齐尔部落，擅长放牧、射箭与生存技能。[PAWN_pronoun]坚韧不拔、务实能干。</BA_Turkic_Adult_Nomad_Yazir.description>
+  <!-- EN: Yazir Nomad -->
+  <BA_Turkic_Adult_Nomad_Yazir.title>亚齐尔游牧民</BA_Turkic_Adult_Nomad_Yazir.title>
+  <!-- EN: Yazir -->
+  <BA_Turkic_Adult_Nomad_Yazir.titleShort>亚齐尔</BA_Turkic_Adult_Nomad_Yazir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up herding and hunting in the Bayindir clan. [PAWN_pronoun] is strong and observant.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomadic_Bayindir.description>[PAWN_nameDef]在巴因迪尔部落放牧狩猎长大。[PAWN_pronoun]体格强壮、观察力敏锐。</BA_Turkic_Adult_Nomadic_Bayindir.description>
+  <!-- EN: Bayindir Nomad -->
+  <BA_Turkic_Adult_Nomadic_Bayindir.title>巴因迪尔游牧民</BA_Turkic_Adult_Nomadic_Bayindir.title>
+  <!-- EN: Bayindir -->
+  <BA_Turkic_Adult_Nomadic_Bayindir.titleShort>巴因迪尔</BA_Turkic_Adult_Nomadic_Bayindir.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the Bozok clan, mastering survival and horseback hunting. [PAWN_pronoun] is alert and agile.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomadic_Bozok.description>[PAWN_nameDef]在博佐克部落长大，精通生存与骑马狩猎技能。[PAWN_pronoun]警觉性高、身手敏捷。</BA_Turkic_Adult_Nomadic_Bozok.description>
+  <!-- EN: Bozok Nomad -->
+  <BA_Turkic_Adult_Nomadic_Bozok.title>博佐克游牧民</BA_Turkic_Adult_Nomadic_Bozok.title>
+  <!-- EN: Bozok -->
+  <BA_Turkic_Adult_Nomadic_Bozok.titleShort>博佐克</BA_Turkic_Adult_Nomadic_Bozok.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up hunting and herding in the cavuldur clan. [PAWN_pronoun] is strong and resilient.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomadic_Cavuldur.description>[PAWN_nameDef]在卡武尔杜尔部落狩猎放牧长大。[PAWN_pronoun]体格强壮、坚韧不拔。</BA_Turkic_Adult_Nomadic_Cavuldur.description>
+  <!-- EN: cavuldur Nomad -->
+  <BA_Turkic_Adult_Nomadic_Cavuldur.title>卡武尔杜尔游牧民</BA_Turkic_Adult_Nomadic_Cavuldur.title>
+  <!-- EN: cavuldur -->
+  <BA_Turkic_Adult_Nomadic_Cavuldur.titleShort>卡武尔杜尔</BA_Turkic_Adult_Nomadic_Cavuldur.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the Karakecili clan, mastering hunting and survival. [PAWN_pronoun] is tough and agile.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomadic_Karakecili.description>[PAWN_nameDef]在卡拉凯奇利部落长大，精通狩猎与生存技能。[PAWN_pronoun]体格健壮、身手敏捷。</BA_Turkic_Adult_Nomadic_Karakecili.description>
+  <!-- EN: Karakecili Nomad -->
+  <BA_Turkic_Adult_Nomadic_Karakecili.title>卡拉凯奇利游牧民</BA_Turkic_Adult_Nomadic_Karakecili.title>
+  <!-- EN: Karakecili -->
+  <BA_Turkic_Adult_Nomadic_Karakecili.titleShort>卡拉凯奇利</BA_Turkic_Adult_Nomadic_Karakecili.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the Salur clan, learning archery and horse riding. [PAWN_pronoun] is agile and alert.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomadic_Salur.description>[PAWN_nameDef]在萨卢尔部落长大，学会了射箭与马术。[PAWN_pronoun]身手敏捷、警觉性高。</BA_Turkic_Adult_Nomadic_Salur.description>
+  <!-- EN: Salur Nomad -->
+  <BA_Turkic_Adult_Nomadic_Salur.title>萨卢尔游牧民</BA_Turkic_Adult_Nomadic_Salur.title>
+  <!-- EN: Salur -->
+  <BA_Turkic_Adult_Nomadic_Salur.titleShort>萨卢尔</BA_Turkic_Adult_Nomadic_Salur.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised in the Teke clan, mastering hunting, riding, and steppe survival. [PAWN_pronoun] is strong and resourceful.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomadic_Teke.description>[PAWN_nameDef]在泰凯部落长大，精通狩猎、马术与草原生存技能。[PAWN_pronoun]体格强壮、足智多谋。</BA_Turkic_Adult_Nomadic_Teke.description>
+  <!-- EN: Teke Nomad -->
+  <BA_Turkic_Adult_Nomadic_Teke.title>泰凯游牧民</BA_Turkic_Adult_Nomadic_Teke.title>
+  <!-- EN: Teke -->
+  <BA_Turkic_Adult_Nomadic_Teke.titleShort>泰凯</BA_Turkic_Adult_Nomadic_Teke.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was trained in hunting and horse riding by the ucok clan. [PAWN_pronoun] is skilled and resilient.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomadic_ucok.description>[PAWN_nameDef]接受乌乔克部落的狩猎与马术训练。[PAWN_pronoun]技艺娴熟、坚韧不拔。</BA_Turkic_Adult_Nomadic_ucok.description>
+  <!-- EN: ucok Nomad -->
+  <BA_Turkic_Adult_Nomadic_ucok.title>乌乔克游牧民</BA_Turkic_Adult_Nomadic_ucok.title>
+  <!-- EN: ucok -->
+  <BA_Turkic_Adult_Nomadic_ucok.titleShort>乌乔克</BA_Turkic_Adult_Nomadic_ucok.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] of the Yiva clan is skilled at horse riding and archery. [PAWN_pronoun] is quick and attentive.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Nomadic_Yiva.description>[PAWN_nameDef]来自伊瓦部落，擅长马术与射箭。[PAWN_pronoun]反应迅速、细致周到。</BA_Turkic_Adult_Nomadic_Yiva.description>
+  <!-- EN: Yiva Nomad -->
+  <BA_Turkic_Adult_Nomadic_Yiva.title>伊瓦游牧民</BA_Turkic_Adult_Nomadic_Yiva.title>
+  <!-- EN: Yiva -->
+  <BA_Turkic_Adult_Nomadic_Yiva.titleShort>伊瓦</BA_Turkic_Adult_Nomadic_Yiva.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] prepared elaborate meals for the palace, mastering spices and recipes from across the empire. [PAWN_pronoun] is creative and precise.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Palace_Chef.description>[PAWN_nameDef]为宫殿准备精致餐食，精通来自帝国各地的香料使用与食谱。[PAWN_pronoun]富有创造力、做事精准。</BA_Turkic_Adult_Palace_Chef.description>
+  <!-- EN: Palace Chef -->
+  <BA_Turkic_Adult_Palace_Chef.title>宫廷厨师</BA_Turkic_Adult_Palace_Chef.title>
+  <!-- EN: Chef -->
+  <BA_Turkic_Adult_Palace_Chef.titleShort>厨师</BA_Turkic_Adult_Palace_Chef.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] serves as a Pasha, a high-ranking military and administrative officer. [PAWN_pronoun] is responsible for managing troops, overseeing local governance, and maintaining order in their district. Years of training, education, and experience have made [PAWN_nameDef] disciplined, strategic, and authoritative.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Pasha_1.description>[PAWN_nameDef]担任帕夏——高阶军事与行政官员。[PAWN_pronoun]负责管理军队、监督地方治理，并维护辖区秩序。多年的训练、教育与经验让[PAWN_nameDef]纪律严明、富有战略思维且极具权威。</BA_Turkic_Adult_Pasha_1.description>
+  <!-- EN: Pasha -->
+  <BA_Turkic_Adult_Pasha_1.title>帕夏</BA_Turkic_Adult_Pasha_1.title>
+  <!-- EN: Pasha -->
+  <BA_Turkic_Adult_Pasha_1.titleShort>帕夏</BA_Turkic_Adult_Pasha_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served the Sultan faithfully for decades, commanding troops and managing provinces. Now retired, [PAWN_pronoun] enjoys a quieter life, advising younger leaders and tending to personal estates.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Pasha_Retired.description>[PAWN_nameDef]数十年来忠心效力于苏丹，统领军队并管理行省。如今退休后，[PAWN_pronoun]过上了宁静的生活，为年轻领导者提供建议，同时打理私人领地。</BA_Turkic_Adult_Pasha_Retired.description>
+  <!-- EN: Retired Pasha -->
+  <BA_Turkic_Adult_Pasha_Retired.title>退休帕夏</BA_Turkic_Adult_Pasha_Retired.title>
+  <!-- EN: Pasha -->
+  <BA_Turkic_Adult_Pasha_Retired.titleShort>帕夏</BA_Turkic_Adult_Pasha_Retired.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was conscripted into local military service, learning basic weapon skills and formations. [PAWN_pronoun] is disciplined but unrefined in education.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Recruit.description>[PAWN_nameDef]被征召加入地方军队，学习基础武器技能与战术阵型。[PAWN_pronoun]纪律严明，但文化教育较为欠缺。</BA_Turkic_Adult_Recruit.description>
+  <!-- EN: Recruit -->
+  <BA_Turkic_Adult_Recruit.title>新兵</BA_Turkic_Adult_Recruit.title>
+  <!-- EN: Soldier -->
+  <BA_Turkic_Adult_Recruit.titleShort>士兵</BA_Turkic_Adult_Recruit.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was conscripted for local defense and temporary campaigns. [PAWN_pronoun] is enthusiastic but inexperienced.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_RecruitedMilitia_1.description>[PAWN_nameDef]被征召参与地方防御与临时战役。[PAWN_pronoun]热情高涨，但缺乏实战经验。</BA_Turkic_Adult_RecruitedMilitia_1.description>
+  <!-- EN: Recruited Militiaman -->
+  <BA_Turkic_Adult_RecruitedMilitia_1.title>征召民兵</BA_Turkic_Adult_RecruitedMilitia_1.title>
+  <!-- EN: Militia -->
+  <BA_Turkic_Adult_RecruitedMilitia_1.titleShort>民兵</BA_Turkic_Adult_RecruitedMilitia_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the village forces during wartime, learning basic drills and weapons handling. [PAWN_pronoun] is resilient but untrained.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_RecruitedMilitia_2.description>[PAWN_nameDef]在战时加入村庄武装，学习基础战术训练与武器操作。[PAWN_pronoun]坚韧不拔，但未接受过正规训练。</BA_Turkic_Adult_RecruitedMilitia_2.description>
+  <!-- EN: Village Recruit -->
+  <BA_Turkic_Adult_RecruitedMilitia_2.title>村庄新兵</BA_Turkic_Adult_RecruitedMilitia_2.title>
+  <!-- EN: Recruit -->
+  <BA_Turkic_Adult_RecruitedMilitia_2.titleShort>新兵</BA_Turkic_Adult_RecruitedMilitia_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] specialized in acquiring and preparing exotic spices, learning negotiation, trade, and culinary techniques.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Spice_Trader.description>[PAWN_nameDef]专精异国香料的采购与加工，练就了谈判、贸易与烹饪技艺。</BA_Turkic_Adult_Spice_Trader.description>
+  <!-- EN: Spice Trader -->
+  <BA_Turkic_Adult_Spice_Trader.title>香料商人</BA_Turkic_Adult_Spice_Trader.title>
+  <!-- EN: Trader -->
+  <BA_Turkic_Adult_Spice_Trader.titleShort>商人</BA_Turkic_Adult_Spice_Trader.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] travels performing devotional Sufi music, inspiring reflection and devotion. [PAWN_pronoun] blends spiritual melodies with storytelling, creating a mesmerizing presence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_SufiMusician.description>[PAWN_nameDef]游历各地演奏苏菲派虔诚音乐，启迪人们沉思与敬奉。[PAWN_pronoun]将灵性旋律与故事讲述相融，营造出令人沉醉的氛围。</BA_Turkic_Adult_SufiMusician.description>
+  <!-- EN: Sufi Musician -->
+  <BA_Turkic_Adult_SufiMusician.title>苏菲音乐家</BA_Turkic_Adult_SufiMusician.title>
+  <!-- EN: Sufi -->
+  <BA_Turkic_Adult_SufiMusician.titleShort>苏菲信徒</BA_Turkic_Adult_SufiMusician.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] inherited the throne within the opulent walls of the palace. Surrounded by viziers and courtiers, [PAWN_pronoun] ruled with ceremony and prestige, yet rarely touched the battlefield.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sultan_1.description>[PAWN_nameDef]在宫殿奢华的宫墙内继承王位。在维齐尔与朝臣的环绕下，[PAWN_pronoun]以盛大的仪式与崇高的威望治国，但极少涉足战场。</BA_Turkic_Adult_Sultan_1.description>
+  <!-- EN: Palace Sultan -->
+  <BA_Turkic_Adult_Sultan_1.title>宫廷苏丹</BA_Turkic_Adult_Sultan_1.title>
+  <!-- EN: Sultan -->
+  <BA_Turkic_Adult_Sultan_1.titleShort>苏丹</BA_Turkic_Adult_Sultan_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] led armies across mountains and deserts, expanding the realm by fire and sword. [PAWN_pronoun] was feared as much as admired.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sultan_2.description>[PAWN_nameDef]率领军队穿越山川沙漠，以武力扩张帝国疆域。[PAWN_pronoun]既令人畏惧，也受人敬仰。</BA_Turkic_Adult_Sultan_2.description>
+  <!-- EN: Conqueror Sultan -->
+  <BA_Turkic_Adult_Sultan_2.title>征服者苏丹</BA_Turkic_Adult_Sultan_2.title>
+  <!-- EN: Sultan -->
+  <BA_Turkic_Adult_Sultan_2.titleShort>苏丹</BA_Turkic_Adult_Sultan_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] saw knowledge as the true foundation of empire. Patron of scholars, poets, and architects, [PAWN_pronoun] left behind libraries and mosques instead of battlefields.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sultan_3.description>[PAWN_nameDef]将知识视为帝国的真正根基。作为学者、诗人与建筑师的赞助人，[PAWN_pronoun]留下的不是战场遗迹，而是图书馆与清真寺。</BA_Turkic_Adult_Sultan_3.description>
+  <!-- EN: Scholar Sultan -->
+  <BA_Turkic_Adult_Sultan_3.title>学者苏丹</BA_Turkic_Adult_Sultan_3.title>
+  <!-- EN: Sultan -->
+  <BA_Turkic_Adult_Sultan_3.titleShort>苏丹</BA_Turkic_Adult_Sultan_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] dedicated [PAWN_possessive] reign to law and justice. Known for walking among the common folk in disguise, [PAWN_pronoun] balanced compassion with authority.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sultan_4.description>[PAWN_nameDef]将统治生涯致力于法律与正义。[PAWN_pronoun]常微服私访深入民间，在慈悲与权威之间寻求平衡。</BA_Turkic_Adult_Sultan_4.description>
+  <!-- EN: Just Sultan -->
+  <BA_Turkic_Adult_Sultan_4.title>公正苏丹</BA_Turkic_Adult_Sultan_4.title>
+  <!-- EN: Sultan -->
+  <BA_Turkic_Adult_Sultan_4.titleShort>苏丹</BA_Turkic_Adult_Sultan_4.titleShort>
+  
+  <!-- EN: Once the ruler of a mighty realm, [PAWN_nameDef] was overthrown in palace intrigue. Cast away from the throne, [PAWN_pronoun] carries scars of betrayal and the hunger for restoration.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Sultan_5.description>[PAWN_nameDef]曾是强大帝国的统治者，却在宫廷阴谋中被推翻。被剥夺王位后，[PAWN_pronoun]背负着背叛的伤痕，心中燃烧着重夺王位的渴望。</BA_Turkic_Adult_Sultan_5.description>
+  <!-- EN: Exiled Sultan -->
+  <BA_Turkic_Adult_Sultan_5.title>流亡苏丹</BA_Turkic_Adult_Sultan_5.title>
+  <!-- EN: Sultan -->
+  <BA_Turkic_Adult_Sultan_5.titleShort>苏丹</BA_Turkic_Adult_Sultan_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] travels from village to village performing spiritual music in the Sufi tradition, blending Qawwali and Asik storytelling. [PAWN_pronoun] inspires devotion and reflection wherever [PAWN_pronoun] goes.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_TravelingSufiMusician.description>[PAWN_nameDef]穿梭于各个村庄，演奏苏菲派传统的灵性音乐，融合了卡瓦利音乐与阿希克故事讲述风格。无论走到哪里，[PAWN_pronoun]都能唤起人们的虔诚之心与深思。</BA_Turkic_Adult_TravelingSufiMusician.description>
+  <!-- EN: Traveling Sufi Musician -->
+  <BA_Turkic_Adult_TravelingSufiMusician.title>旅行苏菲音乐家</BA_Turkic_Adult_TravelingSufiMusician.title>
+  <!-- EN: Sufi Musician -->
+  <BA_Turkic_Adult_TravelingSufiMusician.titleShort>苏菲音乐家</BA_Turkic_Adult_TravelingSufiMusician.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rose through the ranks of the imperial administration to become the Vezir-i Azam, the Sultan's chief advisor. [PAWN_pronoun] oversees state affairs, mediates disputes, and guides policy with wisdom and authority.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Vezir_i_Azam.description>[PAWN_nameDef]在帝国行政体系中逐步晋升，最终成为维齐尔·伊·阿扎姆（大维齐尔），即苏丹的首席顾问。[PAWN_pronoun]总揽国家事务，调解争端，并以智慧与权威主导政策制定。</BA_Turkic_Adult_Vezir_i_Azam.description>
+  <!-- EN: Vezir-i Azam -->
+  <BA_Turkic_Adult_Vezir_i_Azam.title>维齐尔·伊·阿扎姆</BA_Turkic_Adult_Vezir_i_Azam.title>
+  <!-- EN: Grand Vizier -->
+  <BA_Turkic_Adult_Vezir_i_Azam.titleShort>大维齐尔</BA_Turkic_Adult_Vezir_i_Azam.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a guard in the village, patrolling roads and keeping order. [PAWN_pronoun] learned vigilance, endurance, and basic combat skills.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_VillageGuard.description>[PAWN_nameDef]曾担任村庄守卫，负责巡逻道路并维护秩序。[PAWN_pronoun]练就了警觉的意识、坚韧的耐力以及基础的战斗技能。</BA_Turkic_Adult_VillageGuard.description>
+  <!-- EN: Village Guard -->
+  <BA_Turkic_Adult_VillageGuard.title>村庄守卫</BA_Turkic_Adult_VillageGuard.title>
+  <!-- EN: Guard -->
+  <BA_Turkic_Adult_VillageGuard.titleShort>守卫</BA_Turkic_Adult_VillageGuard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] serves the local mosque, teaching scripture, offering counsel, and guiding the faithful. [PAWN_pronoun] is respected for wisdom and piety.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_VillageImam.description>[PAWN_nameDef]在当地清真寺任职，传授经文、提供咨询并指引信徒。[PAWN_pronoun]因智慧与虔诚而备受尊敬。</BA_Turkic_Adult_VillageImam.description>
+  <!-- EN: Village Imam -->
+  <BA_Turkic_Adult_VillageImam.title>村庄阿訇</BA_Turkic_Adult_VillageImam.title>
+  <!-- EN: Imam -->
+  <BA_Turkic_Adult_VillageImam.titleShort>阿訇</BA_Turkic_Adult_VillageImam.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned to traverse the nearby forests and hills to watch for danger. [PAWN_pronoun] is alert, agile, and experienced with the land.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_VillageScout.description>[PAWN_nameDef]习得穿梭于周边森林与山地的技能，时刻警惕危险。[PAWN_pronoun]警觉性高、身手敏捷，对地形了如指掌。</BA_Turkic_Adult_VillageScout.description>
+  <!-- EN: Village Scout -->
+  <BA_Turkic_Adult_VillageScout.title>村庄侦察兵</BA_Turkic_Adult_VillageScout.title>
+  <!-- EN: Scout -->
+  <BA_Turkic_Adult_VillageScout.titleShort>侦察兵</BA_Turkic_Adult_VillageScout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trained under local minstrels, learning to play instruments, recite stories, and entertain crowds. [PAWN_pronoun] has a flair for performance and storytelling.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_WanderingMinstrel.description>[PAWN_nameDef]师从当地吟游诗人，学会了演奏乐器、吟诵故事并娱乐观众。[PAWN_pronoun]在表演与讲故事方面极具天赋。</BA_Turkic_Adult_WanderingMinstrel.description>
+  <!-- EN: Wandering Minstrel -->
+  <BA_Turkic_Adult_WanderingMinstrel.title>流浪吟游诗人</BA_Turkic_Adult_WanderingMinstrel.title>
+  <!-- EN: Minstrel -->
+  <BA_Turkic_Adult_WanderingMinstrel.titleShort>吟游诗人</BA_Turkic_Adult_WanderingMinstrel.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was drafted as a yaya, serving as a foot soldier in local campaigns. [PAWN_pronoun] learned basic sword and spear techniques while marching long distances.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Yaya_1.description>[PAWN_nameDef]被征召成为亚亚步兵，在地方战役中担任徒步士兵。[PAWN_pronoun]在长途行军中掌握了基础的刀剑与长矛使用技巧。</BA_Turkic_Adult_Yaya_1.description>
+  <!-- EN: Yaya Footman -->
+  <BA_Turkic_Adult_Yaya_1.title>亚亚步兵</BA_Turkic_Adult_Yaya_1.title>
+  <!-- EN: Yaya -->
+  <BA_Turkic_Adult_Yaya_1.titleShort>亚亚</BA_Turkic_Adult_Yaya_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the village militia during wartime, learning to fight alongside neighbors and defend local lands.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Adult_Yaya_2.description>[PAWN_nameDef]在战时加入村庄民兵，与邻里并肩作战，保卫家园。</BA_Turkic_Adult_Yaya_2.description>
+  <!-- EN: Village Militia -->
+  <BA_Turkic_Adult_Yaya_2.title>村庄民兵</BA_Turkic_Adult_Yaya_2.title>
+  <!-- EN: Militia -->
+  <BA_Turkic_Adult_Yaya_2.titleShort>民兵</BA_Turkic_Adult_Yaya_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] raised flocks on the open steppes, learning to ride and tend animals from a young age. [PAWN_pronoun] is hardy, patient, and accustomed to life outdoors.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_1.description>[PAWN_nameDef]在开阔的草原上饲养畜群，自幼便学会了骑马与照料动物。[PAWN_pronoun]体格健壮、极具耐心，早已习惯户外生活。</BA_Turkic_Basic_Adult_1.description>
+  <!-- EN: Steppe Shepherd -->
+  <BA_Turkic_Basic_Adult_1.title>草原牧羊人</BA_Turkic_Basic_Adult_1.title>
+  <!-- EN: Shepherd -->
+  <BA_Turkic_Basic_Adult_1.titleShort>牧羊人</BA_Turkic_Basic_Adult_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] assists in a local tekke, learning spiritual practices and guiding community members. [PAWN_pronoun] is contemplative, disciplined, and socially aware.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_10.description>[PAWN_nameDef]在当地苏菲派修道院协助工作，学习灵性修行之法并指引社区成员。[PAWN_pronoun]善于沉思、纪律严明，且具备较强的社会意识。</BA_Turkic_Basic_Adult_10.description>
+  <!-- EN: Sufi Attendant -->
+  <BA_Turkic_Basic_Adult_10.title>苏菲侍从</BA_Turkic_Basic_Adult_10.title>
+  <!-- EN: Sufi -->
+  <BA_Turkic_Basic_Adult_10.titleShort>苏菲信徒</BA_Turkic_Basic_Adult_10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] works the clay into pots, bowls, and vessels used in everyday life. [PAWN_pronoun] is patient, creative, and skilled with hands.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_11.description>[PAWN_nameDef]将黏土制成锅碗瓢盆等日常生活用具。[PAWN_pronoun]极具耐心与创造力，手工技艺娴熟。</BA_Turkic_Basic_Adult_11.description>
+  <!-- EN: Potter -->
+  <BA_Turkic_Basic_Adult_11.title>陶工</BA_Turkic_Basic_Adult_11.title>
+  <!-- EN: Potter -->
+  <BA_Turkic_Basic_Adult_11.titleShort>陶工</BA_Turkic_Basic_Adult_11.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spends long hours at the loom, producing cloth and carpets for the village or bazaar. [PAWN_pronoun] is diligent, dexterous, and focused.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_12.description>[PAWN_nameDef]长时间在织布机前劳作，为村庄或集市生产布料与地毯。[PAWN_pronoun]勤奋刻苦、手指灵巧，做事专注认真。</BA_Turkic_Basic_Adult_12.description>
+  <!-- EN: Weaver -->
+  <BA_Turkic_Basic_Adult_12.title>织工</BA_Turkic_Basic_Adult_12.title>
+  <!-- EN: Weaver -->
+  <BA_Turkic_Basic_Adult_12.titleShort>织工</BA_Turkic_Basic_Adult_12.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] travels with merchants along trade routes, selling spices, textiles, and rare goods. [PAWN_pronoun] is social, clever, and perceptive.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_13.description>[PAWN_nameDef]跟随商人沿商路旅行，贩卖香料、纺织品与稀有商品。[PAWN_pronoun]善于社交、机智灵活，洞察力敏锐。</BA_Turkic_Basic_Adult_13.description>
+  <!-- EN: Caravan Trader -->
+  <BA_Turkic_Basic_Adult_13.title>商队商人</BA_Turkic_Basic_Adult_13.title>
+  <!-- EN: Trader -->
+  <BA_Turkic_Basic_Adult_13.titleShort>商人</BA_Turkic_Basic_Adult_13.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] raises and trains horses, selecting the best stock for riding and work. [PAWN_pronoun] is strong, patient, and skilled with animals.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_14.description>[PAWN_nameDef]饲养并训练马匹，挑选最优质的马种用于骑乘与劳作。[PAWN_pronoun]体格强壮、极具耐心，擅长与动物打交道。</BA_Turkic_Basic_Adult_14.description>
+  <!-- EN: Horse Breeder -->
+  <BA_Turkic_Basic_Adult_14.title>育马师</BA_Turkic_Basic_Adult_14.title>
+  <!-- EN: Breeder -->
+  <BA_Turkic_Basic_Adult_14.titleShort>繁育者</BA_Turkic_Basic_Adult_14.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trains birds of prey for hunting, learning patience, observation, and precision. [PAWN_pronoun] is agile, keen-eyed, and resourceful.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_15.description>[PAWN_nameDef]训练猛禽用于狩猎，练就了耐心、观察力与精准度。[PAWN_pronoun]身手敏捷、目光锐利，应变能力强。</BA_Turkic_Basic_Adult_15.description>
+  <!-- EN: Falconer -->
+  <BA_Turkic_Basic_Adult_15.title>驯鹰师</BA_Turkic_Basic_Adult_15.title>
+  <!-- EN: Falconer -->
+  <BA_Turkic_Basic_Adult_15.titleShort>驯鹰师</BA_Turkic_Basic_Adult_15.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] gathers herbs and prepares remedies for villagers, learning nature’s secrets. [PAWN_pronoun] is knowledgeable, patient, and attentive.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_16.description>[PAWN_nameDef]为村民采集草药并配制药剂，探寻自然的奥秘。[PAWN_pronoun]知识渊博、耐心细致，关怀他人。</BA_Turkic_Basic_Adult_16.description>
+  <!-- EN: Herbalist -->
+  <BA_Turkic_Basic_Adult_16.title>草药师</BA_Turkic_Basic_Adult_16.title>
+  <!-- EN: Herbalist -->
+  <BA_Turkic_Basic_Adult_16.titleShort>草药师</BA_Turkic_Basic_Adult_16.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] uses trained falcons to track game and scout territories. [PAWN_pronoun] is observant, strategic, and swift.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_17.description>[PAWN_nameDef]利用训练有素的猎鹰追踪猎物并侦察领地。[PAWN_pronoun]观察力敏锐、富有策略，行动迅速。</BA_Turkic_Basic_Adult_17.description>
+  <!-- EN: Falcon Hunting Scout -->
+  <BA_Turkic_Basic_Adult_17.title>猎鹰侦察兵</BA_Turkic_Basic_Adult_17.title>
+  <!-- EN: Scout -->
+  <BA_Turkic_Basic_Adult_17.titleShort>侦察兵</BA_Turkic_Basic_Adult_17.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] sells woven fabrics, silk, and dyed cloth in bazaars. [PAWN_pronoun] is persuasive, meticulous, and social.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_18.description>[PAWN_nameDef]在集市售卖机织面料、丝绸与染色布匹。[PAWN_pronoun]极具说服力、做事细致，善于社交。</BA_Turkic_Basic_Adult_18.description>
+  <!-- EN: Textile Seller -->
+  <BA_Turkic_Basic_Adult_18.title>纺织品商贩</BA_Turkic_Basic_Adult_18.title>
+  <!-- EN: Cloth Trader -->
+  <BA_Turkic_Basic_Adult_18.titleShort>布匹商人</BA_Turkic_Basic_Adult_18.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] manages a flock, coordinates grazing, and defends animals from predators. [PAWN_pronoun] is responsible, resilient, and skilled with animals.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_19.description>[PAWN_nameDef]管理畜群，协调放牧事宜，并保护动物免受捕食者伤害。[PAWN_pronoun]责任心强、坚韧不拔，擅长饲养动物。</BA_Turkic_Basic_Adult_19.description>
+  <!-- EN: Shepherd Leader -->
+  <BA_Turkic_Basic_Adult_19.title>牧羊领队</BA_Turkic_Basic_Adult_19.title>
+  <!-- EN: Herd Leader -->
+  <BA_Turkic_Basic_Adult_19.titleShort>畜群领队</BA_Turkic_Basic_Adult_19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] works in the village forge, crafting tools, horseshoes, and weapons. [PAWN_pronoun] is strong, skilled with metal, and respected locally.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_2.description>[PAWN_nameDef]在村庄铁匠铺工作，打造工具、马蹄铁与武器。[PAWN_pronoun]体格强壮、精通金属加工技艺，在当地备受尊敬。</BA_Turkic_Basic_Adult_2.description>
+  <!-- EN: Village Blacksmith -->
+  <BA_Turkic_Basic_Adult_2.title>村庄铁匠</BA_Turkic_Basic_Adult_2.title>
+  <!-- EN: Blacksmith -->
+  <BA_Turkic_Basic_Adult_2.titleShort>铁匠</BA_Turkic_Basic_Adult_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] builds furniture, repairs homes, and shapes wood for tools. [PAWN_pronoun] is strong, precise, and hardworking.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_20.description>[PAWN_nameDef]制作家具、修缮房屋，并为工具加工木材。[PAWN_pronoun]体格强壮、做工精细，勤奋肯干。</BA_Turkic_Basic_Adult_20.description>
+  <!-- EN: Village Carpenter -->
+  <BA_Turkic_Basic_Adult_20.title>村庄木匠</BA_Turkic_Basic_Adult_20.title>
+  <!-- EN: Carpenter -->
+  <BA_Turkic_Basic_Adult_20.titleShort>木匠</BA_Turkic_Basic_Adult_20.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fishes along rivers to sustain the community. [PAWN_pronoun] is patient, resourceful, and in tune with nature.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_21.description>[PAWN_nameDef]沿河流捕鱼以维持社区生计。[PAWN_pronoun]极具耐心、足智多谋，与自然和谐共处。</BA_Turkic_Basic_Adult_21.description>
+  <!-- EN: River Fisher -->
+  <BA_Turkic_Basic_Adult_21.title>河流渔民</BA_Turkic_Basic_Adult_21.title>
+  <!-- EN: Fisher -->
+  <BA_Turkic_Basic_Adult_21.titleShort>渔民</BA_Turkic_Basic_Adult_21.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carries goods, crates, and merchandise in the town bazaar. [PAWN_pronoun] is strong, enduring, and attentive.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_22.description>[PAWN_nameDef]在城镇集市搬运货物、木箱与商品。[PAWN_pronoun]体格强壮、耐力十足，做事细心周到。</BA_Turkic_Basic_Adult_22.description>
+  <!-- EN: Market Porter -->
+  <BA_Turkic_Basic_Adult_22.title>集市搬运工</BA_Turkic_Basic_Adult_22.title>
+  <!-- EN: Porter -->
+  <BA_Turkic_Basic_Adult_22.titleShort>搬运工</BA_Turkic_Basic_Adult_22.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] crafts saddles, bridles, and leather goods for riders and warriors. [PAWN_pronoun] is dexterous, patient, and skilled with tools.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_23.description>[PAWN_nameDef]为骑手与战士制作马鞍、马笼头及各类皮革制品。[PAWN_pronoun]手指灵巧、极具耐心，工具使用技艺娴熟。</BA_Turkic_Basic_Adult_23.description>
+  <!-- EN: Saddle Maker -->
+  <BA_Turkic_Basic_Adult_23.title>马鞍匠</BA_Turkic_Basic_Adult_23.title>
+  <!-- EN: Leatherworker -->
+  <BA_Turkic_Basic_Adult_23.titleShort>皮革工匠</BA_Turkic_Basic_Adult_23.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] entertains villagers with traditional instruments and songs. [PAWN_pronoun] is social, creative, and dexterous.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_24.description>[PAWN_nameDef]用传统乐器与歌曲为村民助兴。[PAWN_pronoun]善于社交、富有创造力，手指灵活。</BA_Turkic_Basic_Adult_24.description>
+  <!-- EN: Village Musician -->
+  <BA_Turkic_Basic_Adult_24.title>村庄音乐家</BA_Turkic_Basic_Adult_24.title>
+  <!-- EN: Musician -->
+  <BA_Turkic_Basic_Adult_24.titleShort>音乐家</BA_Turkic_Basic_Adult_24.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] watches over livestock and scouts the surrounding area for threats. [PAWN_pronoun] is vigilant, agile, and skilled in tracking.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_25.description>[PAWN_nameDef]看管畜群并侦察周边区域的威胁。[PAWN_pronoun]警觉性高、身手敏捷，追踪技能娴熟。</BA_Turkic_Basic_Adult_25.description>
+  <!-- EN: Herder Scout -->
+  <BA_Turkic_Basic_Adult_25.title>牧民侦察兵</BA_Turkic_Basic_Adult_25.title>
+  <!-- EN: Scout -->
+  <BA_Turkic_Basic_Adult_25.titleShort>侦察兵</BA_Turkic_Basic_Adult_25.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] travels with merchants along trade routes, protecting goods and learning tales from distant lands. [PAWN_pronoun] is vigilant and experienced in combat.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_3.description>[PAWN_nameDef]跟随商人沿商路旅行，保护货物安全并聆听远方的故事。[PAWN_pronoun]警觉性高，拥有丰富的战斗经验。</BA_Turkic_Basic_Adult_3.description>
+  <!-- EN: Caravan Guard -->
+  <BA_Turkic_Basic_Adult_3.title>商队守卫</BA_Turkic_Basic_Adult_3.title>
+  <!-- EN: Guard -->
+  <BA_Turkic_Basic_Adult_3.titleShort>守卫</BA_Turkic_Basic_Adult_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] runs a small stall in the town bazaar, trading textiles, spices, and goods. [PAWN_pronoun] is clever, persuasive, and social.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_4.description>[PAWN_nameDef]在城镇集市经营一个小摊位，贩卖纺织品、香料与各类商品。[PAWN_pronoun]机智灵活、极具说服力，善于社交。</BA_Turkic_Basic_Adult_4.description>
+  <!-- EN: Bazaar Merchant -->
+  <BA_Turkic_Basic_Adult_4.title>集市商人</BA_Turkic_Basic_Adult_4.title>
+  <!-- EN: Merchant -->
+  <BA_Turkic_Basic_Adult_4.titleShort>商人</BA_Turkic_Basic_Adult_4.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up on the steppes, learning to ride and herd animals. [PAWN_pronoun] is agile, resilient, and accustomed to nomadic life.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_5.description>[PAWN_nameDef]在草原长大，学会了骑马与放牧。[PAWN_pronoun]身手敏捷、坚韧不拔，习惯了游牧生活。</BA_Turkic_Basic_Adult_5.description>
+  <!-- EN: Nomad Rider -->
+  <BA_Turkic_Basic_Adult_5.title>游牧骑手</BA_Turkic_Basic_Adult_5.title>
+  <!-- EN: Rider -->
+  <BA_Turkic_Basic_Adult_5.titleShort>骑手</BA_Turkic_Basic_Adult_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] prepares meals for the villagers, using local herbs and traditional recipes. [PAWN_pronoun] is skilled in cooking and attentive to detail.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_6.description>[PAWN_nameDef]用当地草药与传统食谱为村民准备餐食。[PAWN_pronoun]烹饪技艺娴熟，注重细节。</BA_Turkic_Basic_Adult_6.description>
+  <!-- EN: Village Cook -->
+  <BA_Turkic_Basic_Adult_6.title>村庄厨师</BA_Turkic_Basic_Adult_6.title>
+  <!-- EN: Cook -->
+  <BA_Turkic_Basic_Adult_6.titleShort>厨师</BA_Turkic_Basic_Adult_6.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] works in the local bathhouse, tending baths and assisting visitors. [PAWN_pronoun] is strong and social, accustomed to laborious routines.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_7.description>[PAWN_nameDef]在当地公共浴室工作，照料浴室设施并为访客提供协助。[PAWN_pronoun]体格强壮、善于社交，习惯了繁重的日常劳作。</BA_Turkic_Basic_Adult_7.description>
+  <!-- EN: Bathhouse Attendant -->
+  <BA_Turkic_Basic_Adult_7.title>浴室侍从</BA_Turkic_Basic_Adult_7.title>
+  <!-- EN: Attendant -->
+  <BA_Turkic_Basic_Adult_7.titleShort>侍从</BA_Turkic_Basic_Adult_7.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tends vineyards, harvesting grapes and producing wine or pekmez. [PAWN_pronoun] is patient, hardworking, and knowledgeable of the seasons.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_8.description>[PAWN_nameDef]照料葡萄园，采摘葡萄并酿造葡萄酒或葡萄糖浆。[PAWN_pronoun]极具耐心、勤奋肯干，对季节变化了如指掌。</BA_Turkic_Basic_Adult_8.description>
+  <!-- EN: Vineyard Keeper -->
+  <BA_Turkic_Basic_Adult_8.title>葡萄园管理员</BA_Turkic_Basic_Adult_8.title>
+  <!-- EN: Vineyard -->
+  <BA_Turkic_Basic_Adult_8.titleShort>葡萄园管理员</BA_Turkic_Basic_Adult_8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] fishes in rivers and lakes to feed their community. [PAWN_pronoun] is resourceful, patient, and familiar with local waterways.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Basic_Adult_9.description>[PAWN_nameDef]在河流与湖泊捕鱼以供给社区。[PAWN_pronoun]足智多谋、极具耐心，熟悉当地水道。</BA_Turkic_Basic_Adult_9.description>
+  <!-- EN: Fisher -->
+  <BA_Turkic_Basic_Adult_9.title>渔民</BA_Turkic_Basic_Adult_9.title>
+  <!-- EN: Fisher -->
+  <BA_Turkic_Basic_Adult_9.titleShort>渔民</BA_Turkic_Basic_Adult_9.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent years studying theology, philosophy, and literature in a medrese, becoming a learned individual respected in their town. [PAWN_pronoun] values knowledge and contemplation above all.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_1.description>[PAWN_nameDef]在伊斯兰宗教学校多年钻研神学、哲学与文学，成为镇上备受尊敬的饱学之士。[PAWN_pronoun]将知识与沉思置于首位。</BA_Turkic_Educated_Adult_1.description>
+  <!-- EN: Medrese Scholar -->
+  <BA_Turkic_Educated_Adult_1.title>宗教学校学者</BA_Turkic_Educated_Adult_1.title>
+  <!-- EN: Scholar -->
+  <BA_Turkic_Educated_Adult_1.titleShort>学者</BA_Turkic_Educated_Adult_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned medicine and herbal remedies outside the palace, providing care for villagers. [PAWN_pronoun] is knowledgeable, compassionate, but less inclined to combat.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_10.description>[PAWN_nameDef]在宫廷之外学习医学与草药疗法，为村民提供医疗服务。[PAWN_pronoun]知识渊博、富有同情心，但不擅长战斗。</BA_Turkic_Educated_Adult_10.description>
+  <!-- EN: Healer -->
+  <BA_Turkic_Educated_Adult_10.title>医师</BA_Turkic_Educated_Adult_10.title>
+  <!-- EN: Healer -->
+  <BA_Turkic_Educated_Adult_10.titleShort>医师</BA_Turkic_Educated_Adult_10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] teaches arithmetic, accounting, and geometry to local students. [PAWN_pronoun] is precise, logical, and disciplined.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_11.description>[PAWN_nameDef]向当地学生教授算术、会计与几何学。[PAWN_pronoun]做事精准、逻辑清晰，纪律严明。</BA_Turkic_Educated_Adult_11.description>
+  <!-- EN: Mathematics Tutor -->
+  <BA_Turkic_Educated_Adult_11.title>数学导师</BA_Turkic_Educated_Adult_11.title>
+  <!-- EN: Tutor -->
+  <BA_Turkic_Educated_Adult_11.titleShort>导师</BA_Turkic_Educated_Adult_11.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] manages finances and logistics for trading caravans. [PAWN_pronoun] is meticulous, persuasive, and has an eye for profit.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_12.description>[PAWN_nameDef]负责商队的财务与后勤管理。[PAWN_pronoun]做事细致、极具说服力，具备敏锐的盈利眼光。</BA_Turkic_Educated_Adult_12.description>
+  <!-- EN: Caravan Accountant -->
+  <BA_Turkic_Educated_Adult_12.title>商队会计</BA_Turkic_Educated_Adult_12.title>
+  <!-- EN: Merchant -->
+  <BA_Turkic_Educated_Adult_12.titleShort>商人</BA_Turkic_Educated_Adult_12.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] collects oral histories and legends of the region, preserving local knowledge. [PAWN_pronoun] is observant, thoughtful, and loves sharing stories.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_13.description>[PAWN_nameDef]收集该地区的口述历史与传说，传承当地知识。[PAWN_pronoun]观察力敏锐、善于思考，热爱分享故事。</BA_Turkic_Educated_Adult_13.description>
+  <!-- EN: Folk Historian -->
+  <BA_Turkic_Educated_Adult_13.title>民间历史学家</BA_Turkic_Educated_Adult_13.title>
+  <!-- EN: Historian -->
+  <BA_Turkic_Educated_Adult_13.titleShort>历史学家</BA_Turkic_Educated_Adult_13.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] teaches and composes poetry, inspiring others to appreciate art and language. [PAWN_pronoun] is eloquent, persuasive, and creative.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_14.description>[PAWN_nameDef]教授诗歌并从事创作，激励人们欣赏艺术与语言之美。[PAWN_pronoun]言辞流利、极具说服力，富有创造力。</BA_Turkic_Educated_Adult_14.description>
+  <!-- EN: Poetry Teacher -->
+  <BA_Turkic_Educated_Adult_14.title>诗歌教师</BA_Turkic_Educated_Adult_14.title>
+  <!-- EN: Poet -->
+  <BA_Turkic_Educated_Adult_14.titleShort>诗人</BA_Turkic_Educated_Adult_14.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] travels along the Silk Road, trading exotic goods and negotiating deals across distant lands. [PAWN_pronoun] has learned multiple languages, customs, and the value of diplomacy.\n\n[PAWN_pronoun] is clever, persuasive, and resourceful, though often away from home.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_16.description>[PAWN_nameDef]沿丝绸之路旅行，贩卖异国商品并在遥远的国度洽谈交易。[PAWN_pronoun]掌握了多种语言与习俗，深谙外交的重要性。[PAWN_pronoun]机智灵活、极具说服力、应变能力强，尽管常常远离家乡。</BA_Turkic_Educated_Adult_16.description>
+  <!-- EN: Silk Road Merchant -->
+  <BA_Turkic_Educated_Adult_16.title>丝绸之路商人</BA_Turkic_Educated_Adult_16.title>
+  <!-- EN: Merchant -->
+  <BA_Turkic_Educated_Adult_16.titleShort>商人</BA_Turkic_Educated_Adult_16.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled between villages and towns, educating children and young adults. [PAWN_pronoun] learned patience and persuasion, spreading knowledge wherever [PAWN_pronoun] went.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_2.description>[PAWN_nameDef]在村庄与城镇间游历，为儿童与年轻人传授知识。[PAWN_pronoun]练就了耐心与说服力，在所到之处传播知识。</BA_Turkic_Educated_Adult_2.description>
+  <!-- EN: Traveling Teacher -->
+  <BA_Turkic_Educated_Adult_2.title>旅行教师</BA_Turkic_Educated_Adult_2.title>
+  <!-- EN: Teacher -->
+  <BA_Turkic_Educated_Adult_2.titleShort>教师</BA_Turkic_Educated_Adult_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] mastered the art of beautiful handwriting and manuscript production. [PAWN_pronoun] is meticulous and patient, taking pride in every stroke of the pen.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_3.description>[PAWN_nameDef]精通优美书法与手稿制作艺术。[PAWN_pronoun]做事细致、极具耐心，对笔下的每一笔都充满自豪。</BA_Turkic_Educated_Adult_3.description>
+  <!-- EN: Master Calligrapher -->
+  <BA_Turkic_Educated_Adult_3.title>书法大师</BA_Turkic_Educated_Adult_3.title>
+  <!-- EN: Calligrapher -->
+  <BA_Turkic_Educated_Adult_3.titleShort>书法家</BA_Turkic_Educated_Adult_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent years pondering ethics, logic, and the natural world, engaging in debates and writing treatises. [PAWN_pronoun] is insightful and contemplative, respected by peers for wisdom.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_4.description>[PAWN_nameDef]多年来深入思考伦理、逻辑与自然世界，参与辩论并撰写论著。[PAWN_pronoun]富有洞察力、善于沉思，因智慧而深受同行尊敬。</BA_Turkic_Educated_Adult_4.description>
+  <!-- EN: Philosopher -->
+  <BA_Turkic_Educated_Adult_4.title>哲学家</BA_Turkic_Educated_Adult_4.title>
+  <!-- EN: Philosopher -->
+  <BA_Turkic_Educated_Adult_4.titleShort>哲学家</BA_Turkic_Educated_Adult_4.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned the arts of trade, negotiation, and accounting under a seasoned merchant. [PAWN_pronoun] became clever in business, skilled at spotting opportunities and avoiding losses.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_5.description>[PAWN_nameDef]师从资深商人，学习贸易、谈判与会计技艺。[PAWN_pronoun]在商业领域变得机智过人，善于发现机遇并规避损失。</BA_Turkic_Educated_Adult_5.description>
+  <!-- EN: Apprentice to a Merchant -->
+  <BA_Turkic_Educated_Adult_5.title>商人学徒</BA_Turkic_Educated_Adult_5.title>
+  <!-- EN: Merchant -->
+  <BA_Turkic_Educated_Adult_5.titleShort>商人</BA_Turkic_Educated_Adult_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] writes poems and tells stories inspired by local legends and heroic deeds. [PAWN_pronoun] is persuasive, creative, and loved in the community for entertaining and educating simultaneously.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_6.description>[PAWN_nameDef]创作诗歌并讲述以当地传说与英雄事迹为灵感的故事。[PAWN_pronoun]极具说服力与创造力，因同时兼具娱乐与教化功能而深受社区喜爱。</BA_Turkic_Educated_Adult_6.description>
+  <!-- EN: Poet and Storyteller -->
+  <BA_Turkic_Educated_Adult_6.title>诗人兼故事家</BA_Turkic_Educated_Adult_6.title>
+  <!-- EN: Poet -->
+  <BA_Turkic_Educated_Adult_6.titleShort>诗人</BA_Turkic_Educated_Adult_6.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] plays the ud, performing at festivals, weddings, and gatherings. [PAWN_pronoun] is dexterous, musical, and charming, bringing joy to those around [PAWN_pronoun].\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_7.description>[PAWN_nameDef]演奏乌德琴，在节日、婚礼与聚会等场合表演。[PAWN_pronoun]手指灵巧、极具音乐天赋，魅力十足，为身边的人带来欢乐。</BA_Turkic_Educated_Adult_7.description>
+  <!-- EN: Udi -->
+  <BA_Turkic_Educated_Adult_7.title>乌德琴演奏家</BA_Turkic_Educated_Adult_7.title>
+  <!-- EN: Udi -->
+  <BA_Turkic_Educated_Adult_7.titleShort>乌德琴师</BA_Turkic_Educated_Adult_7.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] is a master of folk singing and epic storytelling, performing tales of love and heroism. [PAWN_pronoun] captivates audiences with voice and presence.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_8.description>[PAWN_nameDef]是民间演唱与史诗讲述大师，演绎关于爱情与英雄主义的故事。[PAWN_pronoun]用歌声与气场征服观众。</BA_Turkic_Educated_Adult_8.description>
+  <!-- EN: Asik -->
+  <BA_Turkic_Educated_Adult_8.title>阿希克艺人</BA_Turkic_Educated_Adult_8.title>
+  <!-- EN: Asik -->
+  <BA_Turkic_Educated_Adult_8.titleShort>阿希克</BA_Turkic_Educated_Adult_8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] studied stars, calendars, and celestial movements, offering guidance on seasons and omens. [PAWN_pronoun] is curious, analytical, and patient.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Educated_Adult_9.description>[PAWN_nameDef]研究星辰、历法与天体运行，为季节判断与预兆解读提供指引。[PAWN_pronoun]充满好奇心、善于分析，极具耐心。</BA_Turkic_Educated_Adult_9.description>
+  <!-- EN: Astronomy Scholar -->
+  <BA_Turkic_Educated_Adult_9.title>天文学者</BA_Turkic_Educated_Adult_9.title>
+  <!-- EN: Astronomer -->
+  <BA_Turkic_Educated_Adult_9.titleShort>天文学家</BA_Turkic_Educated_Adult_9.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rose through the ranks to become the Janissary Agha, commander of the elite corps. [PAWN_pronoun] is respected, strategic, and wields authority over both soldiers and palace officials.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_Agha.description>[PAWN_nameDef]逐步晋升成为耶尼切里阿迦，即精英军团的指挥官。[PAWN_pronoun]备受尊敬、富有战略思维，对士兵与宫廷官员均拥有管辖权。</BA_Turkic_Janissary_Agha.description>
+  <!-- EN: Janissary Agha -->
+  <BA_Turkic_Janissary_Agha.title>耶尼切里阿迦</BA_Turkic_Janissary_Agha.title>
+  <!-- EN: Agha -->
+  <BA_Turkic_Janissary_Agha.titleShort>阿迦</BA_Turkic_Janissary_Agha.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] operates siege weapons and artillery, mastering ballistae, cannons, and other devices. [PAWN_pronoun] is precise and technically skilled.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_Artillery.description>[PAWN_nameDef]操作攻城武器与火炮，精通弩炮、加农炮及其他装备。[PAWN_pronoun]射击精准，技术娴熟。</BA_Turkic_Janissary_Artillery.description>
+  <!-- EN: Artillery Specialist -->
+  <BA_Turkic_Janissary_Artillery.title>炮兵专家</BA_Turkic_Janissary_Artillery.title>
+  <!-- EN: Siege Expert -->
+  <BA_Turkic_Janissary_Artillery.titleShort>攻城专家</BA_Turkic_Janissary_Artillery.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trains new recruits in the ways of the Janissary corps. [PAWN_pronoun] is strict, commanding, and demands discipline above all.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_DrillInstructor.description>[PAWN_nameDef]负责耶尼切里军团新兵的训练工作。[PAWN_pronoun]要求严格、极具威严，将纪律置于首位。</BA_Turkic_Janissary_DrillInstructor.description>
+  <!-- EN: Janissary Drill Instructor -->
+  <BA_Turkic_Janissary_DrillInstructor.title>耶尼切里操练教官</BA_Turkic_Janissary_DrillInstructor.title>
+  <!-- EN: Instructor -->
+  <BA_Turkic_Janissary_DrillInstructor.titleShort>教官</BA_Turkic_Janissary_DrillInstructor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] excelled in training and was chosen for special operations within the Janissary corps. [PAWN_pronoun] is agile, sharp-minded, and skilled in both arms and tactics.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_Elite.description>[PAWN_nameDef]在训练中表现优异，被选入耶尼切里军团执行特种任务。[PAWN_pronoun]身手敏捷、思维敏捷，武器使用与战术能力均十分出色。</BA_Turkic_Janissary_Elite.description>
+  <!-- EN: Elite Janissary -->
+  <BA_Turkic_Janissary_Elite.title>精英耶尼切里士兵</BA_Turkic_Janissary_Elite.title>
+  <!-- EN: Elite -->
+  <BA_Turkic_Janissary_Elite.titleShort>精英士兵</BA_Turkic_Janissary_Elite.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] delivers orders and communications across military camps. [PAWN_pronoun] is fast, observant, and reliable under pressure.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_Messenger.description>[PAWN_nameDef]在各个军营间传递命令与情报。[PAWN_pronoun]行动迅速、观察力敏锐，在压力下依然可靠。</BA_Turkic_Janissary_Messenger.description>
+  <!-- EN: Janissary Messenger -->
+  <BA_Turkic_Janissary_Messenger.title>耶尼切里信使</BA_Turkic_Janissary_Messenger.title>
+  <!-- EN: Messenger -->
+  <BA_Turkic_Janissary_Messenger.titleShort>信使</BA_Turkic_Janissary_Messenger.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] is trained in the use of matchlock muskets, combining discipline with marksmanship. [PAWN_pronoun] serves on the battlefield as a skilled firearm soldier of the Janissary corps.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_Musketeer.description>[PAWN_nameDef]接受火绳枪使用训练，兼具纪律性与射击精度。[PAWN_pronoun]作为耶尼切里军团的熟练火器士兵征战沙场。</BA_Turkic_Janissary_Musketeer.description>
+  <!-- EN: Janissary Musketeer -->
+  <BA_Turkic_Janissary_Musketeer.title>耶尼切里火绳枪兵</BA_Turkic_Janissary_Musketeer.title>
+  <!-- EN: Musketeer -->
+  <BA_Turkic_Janissary_Musketeer.titleShort>火绳枪兵</BA_Turkic_Janissary_Musketeer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was assigned to protect the Sultan and the palace. [PAWN_pronoun] learned loyalty, vigilance, and the ways of courtly discipline.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_PalaceGuard.description>[PAWN_nameDef]奉命保护苏丹与宫殿安全。[PAWN_pronoun]练就了忠诚的品性、警觉的意识以及宫廷礼仪纪律。</BA_Turkic_Janissary_PalaceGuard.description>
+  <!-- EN: Palace Guard -->
+  <BA_Turkic_Janissary_PalaceGuard.title>宫廷守卫</BA_Turkic_Janissary_PalaceGuard.title>
+  <!-- EN: Guard -->
+  <BA_Turkic_Janissary_PalaceGuard.titleShort>守卫</BA_Turkic_Janissary_PalaceGuard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] manages the equipment, supplies, and logistics of the Janissary corps. [PAWN_pronoun] is meticulous, organized, and trusted by the commanders.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_Quartermaster.description>[PAWN_nameDef]负责耶尼切里军团的装备、物资与后勤管理。[PAWN_pronoun]做事细致、组织有序，深受指挥官信任。</BA_Turkic_Janissary_Quartermaster.description>
+  <!-- EN: Janissary Quartermaster -->
+  <BA_Turkic_Janissary_Quartermaster.title>耶尼切里军需官</BA_Turkic_Janissary_Quartermaster.title>
+  <!-- EN: Quartermaster -->
+  <BA_Turkic_Janissary_Quartermaster.titleShort>军需官</BA_Turkic_Janissary_Quartermaster.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] has left active service but retains the discipline and knowledge of the Janissary corps. [PAWN_pronoun] mentors younger soldiers and occasionally takes up arms if needed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_Retired.description>[PAWN_nameDef]已从现役退役，但仍保留着耶尼切里军团的纪律性与专业知识。[PAWN_pronoun]指导年轻士兵，必要时也会重披战甲。</BA_Turkic_Janissary_Retired.description>
+  <!-- EN: Retired Janissary -->
+  <BA_Turkic_Janissary_Retired.title>退役耶尼切里士兵</BA_Turkic_Janissary_Retired.title>
+  <!-- EN: Retired -->
+  <BA_Turkic_Janissary_Retired.titleShort>退役士兵</BA_Turkic_Janissary_Retired.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] advises commanders on tactics and battlefield maneuvers. [PAWN_pronoun] combines battlefield experience with careful planning.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_Strategist.description>[PAWN_nameDef]为指挥官提供战术与战场机动方面的建议。[PAWN_pronoun]将战场经验与周密规划相结合。</BA_Turkic_Janissary_Strategist.description>
+  <!-- EN: Janissary Strategist -->
+  <BA_Turkic_Janissary_Strategist.title>耶尼切里战略家</BA_Turkic_Janissary_Strategist.title>
+  <!-- EN: Strategist -->
+  <BA_Turkic_Janissary_Strategist.titleShort>战略家</BA_Turkic_Janissary_Strategist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] has served in the Janissary corps for many years, participating in campaigns and palace duties. [PAWN_pronoun] is disciplined, strategic, and respected by comrades, though hardened by battle.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Janissary_Veteran.description>[PAWN_nameDef]在耶尼切里军团服役多年，参与过多次战役与宫廷任务。[PAWN_pronoun]纪律严明、富有战略思维，深受战友尊敬，尽管已被战争磨砺得十分坚毅。</BA_Turkic_Janissary_Veteran.description>
+  <!-- EN: Veteran Janissary -->
+  <BA_Turkic_Janissary_Veteran.title>资深耶尼切里士兵</BA_Turkic_Janissary_Veteran.title>
+  <!-- EN: Veteran -->
+  <BA_Turkic_Janissary_Veteran.titleShort>老兵</BA_Turkic_Janissary_Veteran.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commands a cavalry regiment, responsible for discipline, training, and battlefield tactics. [PAWN_pronoun] is respected for leadership and strategic thinking.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Military_Adult_1.description>[PAWN_nameDef]指挥一个骑兵团，负责部队的纪律、训练与战场战术制定。[PAWN_pronoun]因出色的领导力与战略思维而备受尊敬。</BA_Turkic_Military_Adult_1.description>
+  <!-- EN: Regiment Commander -->
+  <BA_Turkic_Military_Adult_1.title>骑兵团指挥官</BA_Turkic_Military_Adult_1.title>
+  <!-- EN: Commander -->
+  <BA_Turkic_Military_Adult_1.titleShort>指挥官</BA_Turkic_Military_Adult_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] oversees the soldiers stationed at a castle, managing both defense and internal order. [PAWN_pronoun] is disciplined and authoritative.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Military_Adult_2.description>[PAWN_nameDef]负责驻守城堡的士兵，管理防御事务与内部秩序。[PAWN_pronoun]纪律严明，极具权威。</BA_Turkic_Military_Adult_2.description>
+  <!-- EN: Castle Garrison Captain -->
+  <BA_Turkic_Military_Adult_2.title>城堡卫戍队长</BA_Turkic_Military_Adult_2.title>
+  <!-- EN: Garrison Captain -->
+  <BA_Turkic_Military_Adult_2.titleShort>卫戍队长</BA_Turkic_Military_Adult_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commands a border outpost, observing enemy movements and protecting the frontier. [PAWN_pronoun] is vigilant, strategic, and responsible.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Military_Adult_3.description>[PAWN_nameDef]指挥一个边境前哨站，监视敌方动向并保卫边境。[PAWN_pronoun]警觉性高、富有战略思维，责任心强。</BA_Turkic_Military_Adult_3.description>
+  <!-- EN: Border Outpost Commander -->
+  <BA_Turkic_Military_Adult_3.title>边境前哨指挥官</BA_Turkic_Military_Adult_3.title>
+  <!-- EN: Outpost Commander -->
+  <BA_Turkic_Military_Adult_3.titleShort>前哨指挥官</BA_Turkic_Military_Adult_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] serves as a high-ranking military advisor to the Sultan, planning campaigns and offering strategic counsel. [PAWN_pronoun] is respected, wise, and decisive.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Military_Adult_4.description>[PAWN_nameDef]担任苏丹的高阶军事顾问，规划战役并提供战略建议。[PAWN_pronoun]备受尊敬、睿智果断。</BA_Turkic_Military_Adult_4.description>
+  <!-- EN: Military Advisor to the Sultan -->
+  <BA_Turkic_Military_Adult_4.title>苏丹军事顾问</BA_Turkic_Military_Adult_4.title>
+  <!-- EN: Advisor -->
+  <BA_Turkic_Military_Adult_4.titleShort>顾问</BA_Turkic_Military_Adult_4.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commands armies in major campaigns, coordinating troops, logistics, and strategy. [PAWN_pronoun] is courageous, disciplined, and authoritative on the battlefield.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Military_Adult_5.description>[PAWN_nameDef]在重大战役中指挥军队，协调部队、后勤与战略部署。[PAWN_pronoun]勇敢无畏、纪律严明，在战场上极具权威。</BA_Turkic_Military_Adult_5.description>
+  <!-- EN: Campaign Marshal -->
+  <BA_Turkic_Military_Adult_5.title>战役元帅</BA_Turkic_Military_Adult_5.title>
+  <!-- EN: Marshal -->
+  <BA_Turkic_Military_Adult_5.titleShort>元帅</BA_Turkic_Military_Adult_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] serves as a learned scholar in the Sultan’s palace, studying theology, philosophy, and law. [PAWN_pronoun] advises nobles and teaches students, respected for wisdom and intellect.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Palace_Adult_1.description>[PAWN_nameDef]在苏丹宫廷中担任饱学学者，钻研神学、哲学与法律。[PAWN_pronoun]为贵族提供建议并教授学生，因智慧与学识而备受尊敬。</BA_Turkic_Palace_Adult_1.description>
+  <!-- EN: Royal Alim -->
+  <BA_Turkic_Palace_Adult_1.title>宫廷学者</BA_Turkic_Palace_Adult_1.title>
+  <!-- EN: Scholar -->
+  <BA_Turkic_Palace_Adult_1.titleShort>学者</BA_Turkic_Palace_Adult_1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] manages correspondence, documents, and administration for the palace. [PAWN_pronoun] is meticulous, organized, and trusted by the Sultan and his advisors.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Palace_Adult_2.description>[PAWN_nameDef]负责宫廷的通信、文书与行政事务。[PAWN_pronoun]做事细致、组织有序，深受苏丹及其顾问的信任。</BA_Turkic_Palace_Adult_2.description>
+  <!-- EN: Palace Secretary -->
+  <BA_Turkic_Palace_Adult_2.title>宫廷秘书</BA_Turkic_Palace_Adult_2.title>
+  <!-- EN: Secretary -->
+  <BA_Turkic_Palace_Adult_2.titleShort>秘书</BA_Turkic_Palace_Adult_2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] educates princes and nobles, teaching literature, history, and administration. [PAWN_pronoun] is patient, intelligent, and skilled in communication.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Palace_Adult_3.description>[PAWN_nameDef]负责王子与贵族的教育工作，教授文学、历史与行政管理。[PAWN_pronoun]极具耐心、聪慧过人，沟通能力出色。</BA_Turkic_Palace_Adult_3.description>
+  <!-- EN: Lala -->
+  <BA_Turkic_Palace_Adult_3.title>宫廷导师</BA_Turkic_Palace_Adult_3.title>
+  <!-- EN: Lala -->
+  <BA_Turkic_Palace_Adult_3.titleShort>导师</BA_Turkic_Palace_Adult_3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] represents the Sultan’s interests in negotiations and ceremonial matters. [PAWN_pronoun] is eloquent, clever, and skilled in managing social dynamics within and outside the court.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Palace_Adult_4.description>[PAWN_nameDef]在谈判与礼仪事务中代表苏丹的利益。[PAWN_pronoun]言辞流利、机智灵活，善于处理宫廷内外的社交关系。</BA_Turkic_Palace_Adult_4.description>
+  <!-- EN: Palace Diplomat -->
+  <BA_Turkic_Palace_Adult_4.title>宫廷外交官</BA_Turkic_Palace_Adult_4.title>
+  <!-- EN: Diplomat -->
+  <BA_Turkic_Palace_Adult_4.titleShort>外交官</BA_Turkic_Palace_Adult_4.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] organizes and preserves palace records, genealogies, and edicts. [PAWN_pronoun] is diligent, scholarly, and highly trusted for accuracy and discretion.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Palace_Adult_5.description>[PAWN_nameDef]整理并保存宫廷档案、家谱与法令。[PAWN_pronoun]勤奋刻苦、富有学识，因准确性与谨慎性而深受信任。</BA_Turkic_Palace_Adult_5.description>
+  <!-- EN: Keeper of Records -->
+  <BA_Turkic_Palace_Adult_5.title>档案管理员</BA_Turkic_Palace_Adult_5.title>
+  <!-- EN: Archivist -->
+  <BA_Turkic_Palace_Adult_5.titleShort>档案员</BA_Turkic_Palace_Adult_5.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] teaches young nobles at the Enderun Palace School, instructing in swordsmanship, etiquette, and administration. [PAWN_pronoun] is disciplined, patient, and respected for both intellect and skill.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Palace_Adult_6.description>[PAWN_nameDef]在恩德伦宫学校教授年轻贵族，课程包括剑术、礼仪与行政管理。[PAWN_pronoun]纪律严明、极具耐心，因学识与技能而备受尊敬。</BA_Turkic_Palace_Adult_6.description>
+  <!-- EN: Enderun Instructor -->
+  <BA_Turkic_Palace_Adult_6.title>恩德伦宫学校教官</BA_Turkic_Palace_Adult_6.title>
+  <!-- EN: Instructor -->
+  <BA_Turkic_Palace_Adult_6.titleShort>教官</BA_Turkic_Palace_Adult_6.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] manages the affairs of the palace harem, coordinating duties, education, and protocol. [PAWN_pronoun] is authoritative, discreet, and highly trusted by the Sultan and his household.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Palace_Adult_7.description>[PAWN_nameDef]管理宫廷后宫事务，协调职责分配、教育工作与礼仪规范。[PAWN_pronoun]极具权威、行事谨慎，深受苏丹及其家族的信任。</BA_Turkic_Palace_Adult_7.description>
+  <!-- EN: Harem Overseer -->
+  <BA_Turkic_Palace_Adult_7.title>后宫总管</BA_Turkic_Palace_Adult_7.title>
+  <!-- EN: Overseer -->
+  <BA_Turkic_Palace_Adult_7.titleShort>总管</BA_Turkic_Palace_Adult_7.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trains young pages in manners, loyalty, and palace duties. [PAWN_pronoun] is meticulous, patient, and serves as a mentor to the future elite.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Palace_Adult_8.description>[PAWN_nameDef]负责训练年轻侍从的礼仪规范、忠诚品格与宫廷职责。[PAWN_pronoun]做事细致、极具耐心，是未来精英的导师。</BA_Turkic_Palace_Adult_8.description>
+  <!-- EN: Royal Page Master -->
+  <BA_Turkic_Palace_Adult_8.title>宫廷侍从长</BA_Turkic_Palace_Adult_8.title>
+  <!-- EN: Page Master -->
+  <BA_Turkic_Palace_Adult_8.titleShort>侍从长</BA_Turkic_Palace_Adult_8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commands the elite guards within the Enderun Palace School, ensuring discipline and security. [PAWN_pronoun] is skilled in combat, leadership, and maintaining order.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Palace_Adult_9.description>[PAWN_nameDef]指挥恩德伦宫学校的精英守卫部队，确保校内纪律与安全。[PAWN_pronoun]精通格斗技艺、领导力出众，擅长维持秩序。</BA_Turkic_Palace_Adult_9.description>
+  <!-- EN: Enderun Guard Captain -->
+  <BA_Turkic_Palace_Adult_9.title>恩德伦宫守卫队长</BA_Turkic_Palace_Adult_9.title>
+  <!-- EN: Guard Captain -->
+  <BA_Turkic_Palace_Adult_9.titleShort>守卫队长</BA_Turkic_Palace_Adult_9.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] governed a large province as Beylerbeyi Pasha, overseeing multiple sancaks and coordinating military and civil administration. [PAWN_pronoun] became experienced in leadership, strategy, and diplomacy.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Pasha_Beylerbeyi.description>[PAWN_nameDef]以贝伊勒贝伊帕夏的身份管辖一个大行省，监管多个桑贾克区域，并协调军政行政事务。[PAWN_pronoun]在领导力、战略思维和外交领域积累了丰富经验。</BA_Turkic_Pasha_Beylerbeyi.description>
+  <!-- EN: Beylerbeyi Pasha -->
+  <BA_Turkic_Pasha_Beylerbeyi.title>贝伊勒贝伊帕夏</BA_Turkic_Pasha_Beylerbeyi.title>
+  <!-- EN: Regional Governor -->
+  <BA_Turkic_Pasha_Beylerbeyi.titleShort>地区总督</BA_Turkic_Pasha_Beylerbeyi.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] oversaw the empire's finances, taxation, and treasury as Defterdar Pasha. [PAWN_pronoun] became skilled in administration, accounting, and diplomacy.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Pasha_Defterdar.description>[PAWN_nameDef]以德夫泰达尔帕夏的身份掌管帝国财政、税收与国库事务。[PAWN_pronoun]在行政管理、会计核算和外交事务方面技艺精湛。</BA_Turkic_Pasha_Defterdar.description>
+  <!-- EN: Defterdar Pasha -->
+  <BA_Turkic_Pasha_Defterdar.title>德夫泰达尔帕夏</BA_Turkic_Pasha_Defterdar.title>
+  <!-- EN: Finance Minister -->
+  <BA_Turkic_Pasha_Defterdar.titleShort>财政大臣</BA_Turkic_Pasha_Defterdar.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] commanded the Ottoman navy as Kapudan Pasha, leading fleets into naval campaigns and defending the empire's coasts. [PAWN_pronoun] developed strategic thinking and leadership skills.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Pasha_Kapudan.description>[PAWN_nameDef]以卡普丹帕夏的身份指挥奥斯曼海军，率领舰队参与海战并保卫帝国海岸线。[PAWN_pronoun]培养了出色的战略思维与领导能力。</BA_Turkic_Pasha_Kapudan.description>
+  <!-- EN: Kapudan Pasha -->
+  <BA_Turkic_Pasha_Kapudan.title>卡普丹帕夏</BA_Turkic_Pasha_Kapudan.title>
+  <!-- EN: Admiral -->
+  <BA_Turkic_Pasha_Kapudan.titleShort>海军上将</BA_Turkic_Pasha_Kapudan.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed the official documents, edicts, and records of the empire as Nisanci Pasha. [PAWN_pronoun] became precise, organized, and respected for administrative skill.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Pasha_Nisanci.description>[PAWN_nameDef]以尼桑奇帕夏的身份管理帝国官方文书、法令与档案。[PAWN_pronoun]做事严谨、条理清晰，因出色的行政能力备受尊敬。</BA_Turkic_Pasha_Nisanci.description>
+  <!-- EN: Nisanci Pasha -->
+  <BA_Turkic_Pasha_Nisanci.title>尼桑奇帕夏</BA_Turkic_Pasha_Nisanci.title>
+  <!-- EN: Chancellor -->
+  <BA_Turkic_Pasha_Nisanci.titleShort>大臣</BA_Turkic_Pasha_Nisanci.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was appointed as a sancak pasha, governing a province with both administrative and military authority. [PAWN_pronoun] learned leadership, diplomacy, and the management of troops and local officials.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Pasha_Sancak.description>[PAWN_nameDef]被任命为桑贾克帕夏，拥有行政与军事双重权力管辖一个行省。[PAWN_pronoun]掌握了领导力、外交能力，以及军队和地方官员的管理技巧。</BA_Turkic_Pasha_Sancak.description>
+  <!-- EN: Sancak Pasha -->
+  <BA_Turkic_Pasha_Sancak.title>桑贾克帕夏</BA_Turkic_Pasha_Sancak.title>
+  <!-- EN: Provincial Governor -->
+  <BA_Turkic_Pasha_Sancak.titleShort>省长</BA_Turkic_Pasha_Sancak.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] trains young Sipahis in horse riding, tactics, and battlefield discipline. [PAWN_pronoun] is respected for experience and strategic mind.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_CavalryTrainer.description>[PAWN_nameDef]负责训练年轻的西帕希骑兵，教授马术、战术与战场纪律。[PAWN_pronoun]凭借丰富的经验和卓越的战略思维深受尊敬。</BA_Turkic_Sipahi_CavalryTrainer.description>
+  <!-- EN: Cavalry Trainer -->
+  <BA_Turkic_Sipahi_CavalryTrainer.title>骑兵教官</BA_Turkic_Sipahi_CavalryTrainer.title>
+  <!-- EN: Trainer -->
+  <BA_Turkic_Sipahi_CavalryTrainer.titleShort>教官</BA_Turkic_Sipahi_CavalryTrainer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] belongs to the elite corps of the Sipahi, tasked with protecting nobles and key locations. [PAWN_pronoun] is disciplined, vigilant, and highly skilled in mounted warfare.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_EliteGuard.description>[PAWN_nameDef]隶属于西帕希精英军团，肩负保护贵族与重要地点的重任。[PAWN_pronoun]纪律严明、警觉性高，精通骑战技艺。</BA_Turkic_Sipahi_EliteGuard.description>
+  <!-- EN: Elite Sipahi Guard -->
+  <BA_Turkic_Sipahi_EliteGuard.title>西帕希精英守卫</BA_Turkic_Sipahi_EliteGuard.title>
+  <!-- EN: Elite Guard -->
+  <BA_Turkic_Sipahi_EliteGuard.titleShort>精英守卫</BA_Turkic_Sipahi_EliteGuard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rides into battle clad in armor, wielding lance and sword. [PAWN_pronoun] embodies strength, courage, and the honor of the Sipahi lineage.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_HeavyCavalry.description>[PAWN_nameDef]身披盔甲奔赴战场，手持长矛与利剑奋勇杀敌。[PAWN_pronoun]是力量、勇气与西帕希家族荣誉的化身。</BA_Turkic_Sipahi_HeavyCavalry.description>
+  <!-- EN: Heavy Cavalry Sipahi -->
+  <BA_Turkic_Sipahi_HeavyCavalry.title>西帕希重骑兵</BA_Turkic_Sipahi_HeavyCavalry.title>
+  <!-- EN: Heavy Cavalry -->
+  <BA_Turkic_Sipahi_HeavyCavalry.titleShort>重骑兵</BA_Turkic_Sipahi_HeavyCavalry.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] serves as a personal guard to a noble family or local dignitary, upholding the traditions and honor of the Sipahi corps. [PAWN_pronoun] is disciplined, observant, and respected.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_HonorGuard.description>[PAWN_nameDef]担任贵族家族或地方显要的私人守卫，坚守西帕希军团的传统与荣誉。[PAWN_pronoun]纪律严明、观察力敏锐，深受众人尊敬。</BA_Turkic_Sipahi_HonorGuard.description>
+  <!-- EN: Qapiqulu Sipahi -->
+  <BA_Turkic_Sipahi_HonorGuard.title>卡皮库鲁西帕希</BA_Turkic_Sipahi_HonorGuard.title>
+  <!-- EN: Qapiqulu -->
+  <BA_Turkic_Sipahi_HonorGuard.titleShort>卡皮库鲁</BA_Turkic_Sipahi_HonorGuard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] retired from active duty and manages estates granted as reward for service. [PAWN_pronoun] uses leadership and strategic skills in civilian life, overseeing workers and protecting the lands.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_Landowner.description>[PAWN_nameDef]从现役退役后，负责管理因功勋获得的庄园领地。[PAWN_pronoun]将战场上学到的领导力与战略思维运用到平民生活中，监督工人劳作并守护领地安全。</BA_Turkic_Sipahi_Landowner.description>
+  <!-- EN: Sipahi Landowner -->
+  <BA_Turkic_Sipahi_Landowner.title>西帕希地主</BA_Turkic_Sipahi_Landowner.title>
+  <!-- EN: Landowner -->
+  <BA_Turkic_Sipahi_Landowner.titleShort>地主</BA_Turkic_Sipahi_Landowner.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] serves as a light cavalryman, patrolling borders and responding swiftly to threats. Skilled in mounted combat and scouting, [PAWN_pronoun] excels in mobility and reconnaissance.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_LightCavalry.description>[PAWN_nameDef]担任轻骑兵，负责边境巡逻并快速响应各类威胁。[PAWN_pronoun]精通骑战与侦察技艺，在机动性和情报侦察方面表现卓越。</BA_Turkic_Sipahi_LightCavalry.description>
+  <!-- EN: Light Cavalry Sipahi -->
+  <BA_Turkic_Sipahi_LightCavalry.title>西帕希轻骑兵</BA_Turkic_Sipahi_LightCavalry.title>
+  <!-- EN: Light Cavalry -->
+  <BA_Turkic_Sipahi_LightCavalry.titleShort>轻骑兵</BA_Turkic_Sipahi_LightCavalry.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] once served as a mounted warrior but retired to manage family lands and farm. [PAWN_pronoun] applies discipline and stamina learned from the battlefield to agricultural life.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_RetiredFarmer.description>[PAWN_nameDef]曾是一名骑战勇士，如今退役后专注管理家族土地与农田。[PAWN_pronoun]将战场上学到的纪律性与耐力运用到农耕生活中。</BA_Turkic_Sipahi_RetiredFarmer.description>
+  <!-- EN: Retired Sipahi Farmer -->
+  <BA_Turkic_Sipahi_RetiredFarmer.title>退役西帕希农夫</BA_Turkic_Sipahi_RetiredFarmer.title>
+  <!-- EN: Farmer -->
+  <BA_Turkic_Sipahi_RetiredFarmer.titleShort>农夫</BA_Turkic_Sipahi_RetiredFarmer.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent years in the service of a noble household as a mounted warrior. Now retired, [PAWN_pronoun] serves locally as a trainer or advisor, passing on skills to younger fighters.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_RetiredGuard.description>[PAWN_nameDef]曾作为骑战勇士效力于某个贵族家族多年。如今退役后，在当地担任教官或顾问，向年轻战士传授技艺。</BA_Turkic_Sipahi_RetiredGuard.description>
+  <!-- EN: Retired Sipahi Guard -->
+  <BA_Turkic_Sipahi_RetiredGuard.title>退役西帕希守卫</BA_Turkic_Sipahi_RetiredGuard.title>
+  <!-- EN: Guard -->
+  <BA_Turkic_Sipahi_RetiredGuard.titleShort>守卫</BA_Turkic_Sipahi_RetiredGuard.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] rides ahead of the main forces, gathering intelligence and reporting enemy movements. [PAWN_pronoun] is agile, observant, and skilled in survival and ranged combat.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_Scout.description>[PAWN_nameDef]冲在主力部队前方，收集情报并汇报敌军动向。[PAWN_pronoun]身手敏捷、观察力敏锐，精通生存技能与远程作战。</BA_Turkic_Sipahi_Scout.description>
+  <!-- EN: Sipahi Scout -->
+  <BA_Turkic_Sipahi_Scout.title>西帕希侦察兵</BA_Turkic_Sipahi_Scout.title>
+  <!-- EN: Scout -->
+  <BA_Turkic_Sipahi_Scout.titleShort>侦察兵</BA_Turkic_Sipahi_Scout.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent decades as a Sipahi and now advises commanders and nobles on military matters. [PAWN_pronoun] combines battlefield experience with wisdom in planning and leadership.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_VeteranAdvisor.description>[PAWN_nameDef]作为西帕希骑兵服役数十年，如今为指挥官与贵族提供军事事务建议。[PAWN_pronoun]将丰富的战场经验与规划、领导方面的智慧相结合。</BA_Turkic_Sipahi_VeteranAdvisor.description>
+  <!-- EN: Veteran Sipahi Advisor -->
+  <BA_Turkic_Sipahi_VeteranAdvisor.title>资深西帕希顾问</BA_Turkic_Sipahi_VeteranAdvisor.title>
+  <!-- EN: Advisor -->
+  <BA_Turkic_Sipahi_VeteranAdvisor.titleShort>顾问</BA_Turkic_Sipahi_VeteranAdvisor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] returned to [PAWN_pronoun] ancestral village after years of military service, taking up the role of protector against bandits and raiders. [PAWN_pronoun] is vigilant, disciplined, and highly skilled in combat.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_VillageDefender.description>[PAWN_nameDef]服完多年兵役后，回到祖居的村庄，承担起抵御匪徒与劫掠者的守卫职责。[PAWN_pronoun]警觉性高、纪律严明，战斗技艺精湛。</BA_Turkic_Sipahi_VillageDefender.description>
+  <!-- EN: Village Defender -->
+  <BA_Turkic_Sipahi_VillageDefender.title>西帕希村庄守卫</BA_Turkic_Sipahi_VillageDefender.title>
+  <!-- EN: Defender -->
+  <BA_Turkic_Sipahi_VillageDefender.titleShort>守卫</BA_Turkic_Sipahi_VillageDefender.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] survived countless campaigns as a Sipahi, bearing scars and wisdom from war. [PAWN_pronoun] now seeks a quieter life but is always ready for battle when needed.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_Turkic_Sipahi_WarVeteran.description>[PAWN_nameDef]作为西帕希骑兵经历了无数战役，身上带着战争留下的伤疤与智慧。[PAWN_pronoun]如今寻求平静的生活，但在需要时随时准备投身战场。</BA_Turkic_Sipahi_WarVeteran.description>
+  <!-- EN: War Veteran Sipahi -->
+  <BA_Turkic_Sipahi_WarVeteran.title>西帕希战争老兵</BA_Turkic_Sipahi_WarVeteran.title>
+  <!-- EN: Veteran -->
+  <BA_Turkic_Sipahi_WarVeteran.titleShort>老兵</BA_Turkic_Sipahi_WarVeteran.titleShort>
+  
+</LanguageData>

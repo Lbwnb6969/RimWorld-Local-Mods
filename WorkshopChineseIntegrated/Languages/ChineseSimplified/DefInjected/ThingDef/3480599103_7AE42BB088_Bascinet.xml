@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bascinet -->
+  <TA_Bascinet.label>猪面盔</TA_Bascinet.label>
+  <!-- EN: Conical steel helmet with removable visor, it's shaped to deflect blows to the head at the cost of restiricting vision. The visor's large beak somewhat reduces it's restriction of breathing. -->
+  <TA_Bascinet.description>带可拆卸面甲的锥形钢盔，设计用于偏转头部打击但会限制视野。面甲的大鸟嘴状设计略微减轻了呼吸限制。</TA_Bascinet.description>
+  <!-- EN: open visor -->
+  <TA_Bascinet.comps.CompSwitchApparel.Label>开面甲</TA_Bascinet.comps.CompSwitchApparel.Label>
+  
+  <!-- EN: bascinet -->
+  <TA_BascinetOpen.label>猪面盔(闭面)</TA_BascinetOpen.label>
+  <!-- EN: Conical steel helmet with removable visor, it's shaped to deflect blows to the head at the cost of restiricting vision. The visor's large beak somewhat reduces it's restriction of breathing. -->
+  <TA_BascinetOpen.description>带可拆卸面甲的锥形钢盔，设计用于偏转头部打击但会限制视野。面甲的大鸟嘴状设计略微减轻了呼吸限制。</TA_BascinetOpen.description>
+  <!-- EN: close visor -->
+  <TA_BascinetOpen.comps.CompSwitchApparel.Label>闭面甲</TA_BascinetOpen.comps.CompSwitchApparel.Label>
+  
+</LanguageData>

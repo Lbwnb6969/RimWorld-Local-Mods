@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Experienced Hunter -->
+  <CASacrilegHunters_ExperiencedHunter.label>老练的密藏猎人</CASacrilegHunters_ExperiencedHunter.label>
+  
+  <!-- EN: Experienced Hunter -->
+  <CASacrilegHunters_ExperiencedHunterVillage.label>老练的密藏猎人</CASacrilegHunters_ExperiencedHunterVillage.label>
+  
+  <!-- EN: Hunter -->
+  <CASacrilegHunters_Hunter.label>密藏猎人</CASacrilegHunters_Hunter.label>
+  
+  <!-- EN: Hunter -->
+  <CASacrilegHunters_HunterVillage.label>密藏猎人</CASacrilegHunters_HunterVillage.label>
+  
+  <!-- EN: town councilman -->
+  <CASacrilegHunters_Town_Councilman.label>城镇议员</CASacrilegHunters_Town_Councilman.label>
+  <!-- EN: town councilmen -->
+  <CASacrilegHunters_Town_Councilman.labelPlural>城镇议员</CASacrilegHunters_Town_Councilman.labelPlural>
+  
+  <!-- EN: town guard -->
+  <CASacrilegHunters_Town_Guard.label>城镇守卫</CASacrilegHunters_Town_Guard.label>
+  
+  <!-- EN: town trader -->
+  <CASacrilegHunters_Town_Trader.label>城镇商人</CASacrilegHunters_Town_Trader.label>
+  
+  <!-- EN: villager -->
+  <CASacrilegHunters_Villager.label>城镇居民</CASacrilegHunters_Villager.label>
+  
+</LanguageData>

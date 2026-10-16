@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harvest gene-seed -->
+  <BEWH_HarvestGeneseedsFromDead.label>收获基因种子</BEWH_HarvestGeneseedsFromDead.label>
+  <!-- EN: Harvest the secondary gene-seed of a fallen brother. -->
+  <BEWH_HarvestGeneseedsFromDead.description>回收阵亡兄弟的基因种子。</BEWH_HarvestGeneseedsFromDead.description>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Cider.label>苹果酒</DankPyon_Cider.label>
+  <DankPyon_Cider.description>苹果汁经过几天发酵提升酒精含量后制成的酒。饮酒过量会导致喝醉。</DankPyon_Cider.description>
+  <DankPyon_Cider.tools.0.label>瓶身</DankPyon_Cider.tools.0.label>
+  <DankPyon_Cider.tools.1.label>瓶颈</DankPyon_Cider.tools.1.label>
+  <DankPyon_Cider.ingestible.ingestCommandString>饮用{0}</DankPyon_Cider.ingestible.ingestCommandString>
+  <DankPyon_Cider.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Cider.ingestible.ingestReportString>
+
+
+</LanguageData>

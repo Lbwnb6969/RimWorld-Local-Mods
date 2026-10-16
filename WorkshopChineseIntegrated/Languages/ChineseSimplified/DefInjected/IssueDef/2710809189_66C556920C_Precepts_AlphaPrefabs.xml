@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: prefab acquisition -->
+  <AM_PrefabAcquisition.label>预制建筑获取</AM_PrefabAcquisition.label>
+  
+  <!-- EN: prefab buying -->
+  <AM_PrefabBuying.label>预制建筑购置</AM_PrefabBuying.label>
+  
+</LanguageData>

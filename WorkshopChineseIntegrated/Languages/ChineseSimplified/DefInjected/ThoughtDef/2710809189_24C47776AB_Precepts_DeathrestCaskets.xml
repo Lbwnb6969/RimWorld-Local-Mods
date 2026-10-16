@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deathrest casket nearby -->
+  <AM_DeathrestCaskets_Abhorrent.stages.deathrest_casket_nearby.label>附近有死眠棺材</AM_DeathrestCaskets_Abhorrent.stages.deathrest_casket_nearby.label>
+  <!-- EN: We have a deathrest casket in the colony. This is blasphemy, it should be dismantled as soon as possible. -->
+  <AM_DeathrestCaskets_Abhorrent.stages.deathrest_casket_nearby.description>我们的殖民地里有死眠棺材。这些亵渎至极的鬼东西就应该快点拆除。</AM_DeathrestCaskets_Abhorrent.stages.deathrest_casket_nearby.description>
+  
+  <!-- EN: draincasket nearby -->
+  <AM_DrainCaskets_Abhorrent.stages.draincasket_nearby.label>附近有血原汲取舱</AM_DrainCaskets_Abhorrent.stages.draincasket_nearby.label>
+  <!-- EN: We have a draincasket in the colony. This is blasphemy, it should be dismantled as soon as possible. -->
+  <AM_DrainCaskets_Abhorrent.stages.draincasket_nearby.description>我们的殖民地里有血原汲取舱。这些亵渎至极的鬼东西就应该快点拆除。</AM_DrainCaskets_Abhorrent.stages.draincasket_nearby.description>
+
+</LanguageData>

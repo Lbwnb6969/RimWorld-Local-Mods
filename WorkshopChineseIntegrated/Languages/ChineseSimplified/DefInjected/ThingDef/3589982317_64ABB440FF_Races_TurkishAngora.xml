@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Turkish Angora cat -->
+  <BA_AngoraCat.label>土耳其安哥拉猫</BA_AngoraCat.label>
+  <!-- EN: The Turkish Angora is a breed of domestic cat. Turkish Angoras are one of the ancient, natural breeds of cat, having originated in central Anatolia. These cats have slender and elegant bodies.\n\n<i><color=#66E0E4FF>Medieval Kingdoms: The Turks</color></i> -->
+  <BA_AngoraCat.description>土耳其安哥拉猫是一种家猫品种，作为古老的自然猫种之一，其起源地为安纳托利亚中部。这种猫咪拥有纤细优雅的体型。</BA_AngoraCat.description>
+  <!-- EN: left claw -->
+  <BA_AngoraCat.tools.left_claw.label>左爪</BA_AngoraCat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <BA_AngoraCat.tools.right_claw.label>右爪</BA_AngoraCat.tools.right_claw.label>
+  <!-- EN: head -->
+  <BA_AngoraCat.tools.head.label>头部</BA_AngoraCat.tools.head.label>
+  
+</LanguageData>

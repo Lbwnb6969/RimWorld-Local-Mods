@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KeyzAllowUtilities_SettingsCategory>Keyz' Allow Utilities</KeyzAllowUtilities_SettingsCategory>
+    <KAU_SettingsTitle>Keyz' Allow Utilities</KAU_SettingsTitle>
+    <KAU_Section_Selection>选择 &amp; 允许</KAU_Section_Selection>
+    <KAU_Section_Hauling>搬运</KAU_Section_Hauling>
+    <KAU_Section_Plants>植物</KAU_Section_Plants>
+    <KAU_Section_Combat>战斗</KAU_Section_Combat>
+    <KAU_Section_Mining>开采</KAU_Section_Mining>
+    <KAU_Section_Shortcuts>快捷键</KAU_Section_Shortcuts>
+    <KeyzAllowUtilities_Settings_MaxSelect>最大选择物品数：[{0}]</KeyzAllowUtilities_Settings_MaxSelect>
+    <KUA_AllowAll>允许地图上所有物品</KUA_AllowAll>
+    <KUA_AllowAllExcludingCorpses>允许地图上所有物品（尸体除外）</KUA_AllowAllExcludingCorpses>
+    <KUA_ForbidAll>禁止地图上所有物品</KUA_ForbidAll>
+    <KUA_Allowed>{0}个物品已允许</KUA_Allowed>
+    <KUA_AllowedExcludingCorpses>已允许 {0} 个物品（尸体除外）</KUA_AllowedExcludingCorpses>
+    <KUA_Forbidden>{0}个物品已禁止</KUA_Forbidden>
+    <KUA_MultiSelect>选择工具</KUA_MultiSelect>
+    <KUA_MultiSelectDesc>此物品类型的多选工具。按住 Shift 键忽略原材料差异</KUA_MultiSelectDesc>
+    <KUA_SelectOnScreen>选择屏幕上相似物品</KUA_SelectOnScreen>
+    <KUA_SelectOnMap>选择地图上相似物品</KUA_SelectOnMap>
+    <KUA_SelectInRect>选择框选区内相似物品</KUA_SelectInRect>
+    <KAU_DisableClaimAll>禁用全部占有</KAU_DisableClaimAll>
+
+    <KUA_SelectRotting>选择腐烂的尸体</KUA_SelectRotting>
+    <KUA_SelectRottingDesc>选择已经开始腐烂或已风化的尸体。右键可展开（屏幕上/地图上）的选项。</KUA_SelectRottingDesc>
+    <KUA_SelectRottingOnScreen>选择屏幕上腐烂的尸体</KUA_SelectRottingOnScreen>
+    <KUA_SelectRottingOnMap>选择地图上腐烂的尸体</KUA_SelectRottingOnMap>
+
+    <KUA_SelectOnScreenWithStuff>选择屏幕上由{0}制成的相似物品</KUA_SelectOnScreenWithStuff>
+    <KUA_SelectOnMapWithStuff>选择地图上由{0}制成的相似物品</KUA_SelectOnMapWithStuff>
+    <KUA_SelectInRectWithStuff>选择框选区内由{0}制成的相似物品</KUA_SelectInRectWithStuff>
+
+    <KUA_HarvestGrown>收获成熟作物</KUA_HarvestGrown>
+    <KUA_HarvestGrownDesc>标记完全成熟的植物以收获其食物或者其他产物。</KUA_HarvestGrownDesc>
+
+    <KUA_HarvestGrownWood>砍伐成熟树木</KUA_HarvestGrownWood>
+    <KUA_HarvestGrownWoodDesc>标记完全成熟的树木以砍伐获取木材。</KUA_HarvestGrownWoodDesc>
+
+    <KUA_HarvestOnScreen>收获屏幕上所有完全成熟的作物</KUA_HarvestOnScreen>
+    <KUA_HarvestOnMap>收获地图上所有完全成熟的作物</KUA_HarvestOnMap>
+
+    <KUA_CutGrown>割除成熟植物</KUA_CutGrown>
+    <KUA_CutGrownDesc>标记完全成熟的植物进行切割清除。植物将被完全清除，并收获所有食物或资源产出。</KUA_CutGrownDesc>
+
+    <KUA_CutGrownOnScreen>割除屏幕上所有完全成熟的植物</KUA_CutGrownOnScreen>
+    <KUA_CutGrownOnMap>割除地图上所有完全成熟的植物</KUA_CutGrownOnMap>
+
+    <KAU_NoKill>无法处决</KAU_NoKill>
+    <KAU_Kill>处决{0}[{1}]</KAU_Kill>
+    <KAU_StripKill>先剥光再处决{0}[{1}]</KAU_StripKill>
+    <KAU_MeleeTooLow>格斗技能过低{0}</KAU_MeleeTooLow>
+    <KAU_Unable>无法近战处决</KAU_Unable>
+
+    <KUA_HaulUrgently>紧急搬运</KUA_HaulUrgently>
+    <KUA_HaulUrgentlyDesc>高优先级搬运</KUA_HaulUrgentlyDesc>
+
+    <KUA_ToggleFinishOff>处决</KUA_ToggleFinishOff>
+    <KUA_ToggleFinishOffDesc>切换处决功能</KUA_ToggleFinishOffDesc>
+
+    <KUA_ToggleFinishOffDisable>取消处决</KUA_ToggleFinishOffDisable>
+    <KUA_ToggleFinishOffDisableDesc>取消处决功能</KUA_ToggleFinishOffDisableDesc>
+
+    <KUA_ToggleHaulUrgently>紧急搬运</KUA_ToggleHaulUrgently>
+    <KUA_ToggleHaulUrgentlyDesc>紧急搬运</KUA_ToggleHaulUrgentlyDesc>
+
+    <KUA_ToggleHaulUrgentlyDisable>取消紧急搬运</KUA_ToggleHaulUrgentlyDisable>
+    <KUA_ToggleHaulUrgentlyDisableDesc>取消紧急搬运</KUA_ToggleHaulUrgentlyDisableDesc>
+
+    <KUA_ToggleNoHaulUrgently>禁止搬运</KUA_ToggleNoHaulUrgently>
+    <KUA_ToggleNoHaulUrgentlyDesc>禁止搬运该物品</KUA_ToggleNoHaulUrgentlyDesc>
+
+    <KUA_ToggleNoHaulUrgentlyDisable>允许搬运</KUA_ToggleNoHaulUrgentlyDisable>
+    <KUA_ToggleNoHaulUrgentlyDisableDesc>允许搬运该物品</KUA_ToggleNoHaulUrgentlyDisableDesc>
+
+    <KAU_ToggleHaulUrgently>禁用紧急搬运</KAU_ToggleHaulUrgently>
+    <KAU_ToggleFinishOff>禁用处决</KAU_ToggleFinishOff>
+    <KAU_ToggleStripMine>禁用网格开采</KAU_ToggleStripMine>
+    <KAU_ToggleAllowFinishOffOnFriendly>允许处决友方小人</KAU_ToggleAllowFinishOffOnFriendly>
+      
+    <KAU_ToggleHarvest>禁用收获工具</KAU_ToggleHarvest>
+    <KAU_ToggleCut>禁用割除工具</KAU_ToggleCut>
+    <KAU_ToggleSelection>禁用选择工具</KAU_ToggleSelection>
+    <KAU_DisableSelectOnScreen>禁用“选择屏幕上的物品”</KAU_DisableSelectOnScreen>
+    <KAU_DisableSelectOnMap>禁用“选择地图上的物品”</KAU_DisableSelectOnMap>
+    <KAU_DisableSelectInRect>禁用“选择框选区内的物品”</KAU_DisableSelectInRect>
+
+    <KAU_ToggleFertileZone>禁用肥沃种植区</KAU_ToggleFertileZone>
+
+    <KAU_ToggleNoHauling>禁用禁止搬运</KAU_ToggleNoHauling>
+    <KAU_ToggleDisableAllowShortcuts>禁用允许/禁止快捷键</KAU_ToggleDisableAllowShortcuts>
+    <KAU_ExcludeCorpsesFromAllowAll>“允许全部”时排除尸体（Shift+“允许全部” 包含尸体）</KAU_ExcludeCorpsesFromAllowAll>
+    <KAU_DisableSelectStored>禁用“选择已存储物品”</KAU_DisableSelectStored>
+
+    <KUA_SelectSimilar>选择相似物品</KUA_SelectSimilar>
+    <KUA_SelectSimilarDesc>选择与已选物品相似的物品</KUA_SelectSimilarDesc>
+
+    <KAU_ToggleDisableAllShortcuts>禁用所有快捷键</KAU_ToggleDisableAllShortcuts>
+
+    <KAU_DefErrorLog>记录def错误来源</KAU_DefErrorLog>
+    <KAU_DefErrorLogToolTip>在错误信息后的日志中记录任何def错误的来源</KAU_DefErrorLogToolTip>
+
+    <KAU_DisableMeleeRequirementForFinishOff>取消处决的格斗技能要求</KAU_DisableMeleeRequirementForFinishOff>
+
+    <KUA_ToggleHaulUrgentlyOnScreen>紧急搬运屏幕上所有物品</KUA_ToggleHaulUrgentlyOnScreen>
+    <KUA_ToggleHaulUrgentlyOnMap>紧急搬运地图上所有物品</KUA_ToggleHaulUrgentlyOnMap>
+
+    <KAU_GrowingZone>种植区 (仅肥沃的土地)</KAU_GrowingZone>
+    <KAU_DesignatorGrowingZoneDesc>创建一片种植区，您的殖民者将尝试在其中种植特定种类的植物，且该区域仅针对肥沃的土地。</KAU_DesignatorGrowingZoneDesc>
+
+    <KAU_DesignatorZoneExpand>扩展区域 (仅肥沃的土地)</KAU_DesignatorZoneExpand>
+
+    <KAU_StripMine>网格状开采</KAU_StripMine>
+    <KAU_StripMineDesc>按网格模式开采而非全部</KAU_StripMineDesc>
+
+    <KUA_NoHaul>禁止搬运</KUA_NoHaul>
+    <KUA_NoHaulDesc>防止此物品被搬运至储存区，但不影响工作搬运（如原料运往工作台或被运往工作台上使用）</KUA_NoHaulDesc>
+
+    <KAU_DesignatorFloors>地板选择器</KAU_DesignatorFloors>
+    <KAU_DesignatorFloorsDesc>允许你选择一种地板进行建造</KAU_DesignatorFloorsDesc>
+    <KAU_GrabbedTerrain>已选取地面</KAU_GrabbedTerrain>
+    <KAU_GrabTerrain>选取</KAU_GrabTerrain>
+
+    <KAU_OOB>超出边界</KAU_OOB>
+    <KAU_NotBuildable>无法建造</KAU_NotBuildable>
+    <KAU_ResearchNotFinished>研究未完成</KAU_ResearchNotFinished>
+
+    <KAU_NotAPlant>不是植物</KAU_NotAPlant>
+    <KAU_NotHarvestable>不可割除</KAU_NotHarvestable>
+    <KAU_NoHarvestableThing>无可割除物品</KAU_NoHarvestableThing>
+    <KAU_AlreadyDesignated>已标记</KAU_AlreadyDesignated>
+    <KAU_NotFullyGrown>未完全成熟</KAU_NotFullyGrown>
+
+    <KUA_CutBlighted>割除枯萎病</KUA_CutBlighted>
+    <KUA_CutBlightedDesc>仅割除枯萎病植物</KUA_CutBlightedDesc>
+
+    <KUA_SelectStored>选择已存储</KUA_SelectStored>
+    <KUA_SelectStoredDesc>选择此储存区中的所有物品。按住Shift键可将物品添加到当前选择中。</KUA_SelectStoredDesc>
+
+    <KUA_ClaimAllDoors>占有所有门</KUA_ClaimAllDoors>
+    <KUA_ClaimAllDoorsDesc>占有当前地图上可被玩家占有的所有门</KUA_ClaimAllDoorsDesc>
+    <KUA_ClaimedDoors>已占有{0}扇门</KUA_ClaimedDoors>
+    <KUA_DesignatedCount>已标记 {0} 个物品</KUA_DesignatedCount>
+
+    <KAU_PlantGrownLevel>将此生长进度视为成熟：{0}%</KAU_PlantGrownLevel>
+
+    <KUA_HarvestAll>全部收获</KUA_HarvestAll>
+    <KUA_HarvestAllDesc>标记可收获的植物以进行收获。，无视其生长进度。</KUA_HarvestAllDesc>
+
+    <KUA_HarvestAllWood>全部砍伐</KUA_HarvestAllWood>
+    <KUA_HarvestAllWoodDesc>标记可砍伐的树木以进行砍伐，无视其生长进度。</KUA_HarvestAllWoodDesc>
+
+    <KUA_HarvestAllOnScreen>收获屏幕上所有植物（任意生长进度）</KUA_HarvestAllOnScreen>
+    <KUA_HarvestAllOnMap>收获地图上所有植物（任意生长进度）</KUA_HarvestAllOnMap>
+
+    <KUA_HarvestAllWoodOnScreen>砍伐屏幕上所有树木（任意生长进度）</KUA_HarvestAllWoodOnScreen>
+    <KUA_HarvestAllWoodOnMap>砍伐地图上所有树木（任意生长进度）</KUA_HarvestAllWoodOnMap>
+
+    <KAU_ToggleHarvestAll>禁用全部收割工具</KAU_ToggleHarvestAll>
+
+    <KAU_NotAPawn>不是目标</KAU_NotAPawn>
+    <KAU_NotFriendlyOrDowned>非友方或未倒地</KAU_NotFriendlyOrDowned>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suspicious stone -->
+  <DA_HibernatingTroll.label>可疑的石块</DA_HibernatingTroll.label>
+  <!-- EN: strange stone formation -->
+  <DA_HibernatingTroll.letterLabel>奇形怪状的石块</DA_HibernatingTroll.letterLabel>
+  <!-- EN: Strong winds brushed the soil, revealing a peculiar stone formation. -->
+  <DA_HibernatingTroll.letterText>强风刮走了土壤，显露出一块奇形怪状的石头。</DA_HibernatingTroll.letterText>
+  
+  <!-- EN: rock troll emergence -->
+  <DA_MigratingRockTroll.label>石巨魔显形</DA_MigratingRockTroll.label>
+  
+</LanguageData>

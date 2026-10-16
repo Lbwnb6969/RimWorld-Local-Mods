@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: karabal venom -->
+  <DA_AntiCoagulantVenom.label>卡拉巴毒液</DA_AntiCoagulantVenom.label>
+  <!-- EN: Struck by the anti-coagulant venom of a karabal. Greatly increase bloodloss. -->
+  <DA_AntiCoagulantVenom.description>受卡拉巴的抗凝毒液影响，大幅提高失血速度。</DA_AntiCoagulantVenom.description>
+  
+</LanguageData>

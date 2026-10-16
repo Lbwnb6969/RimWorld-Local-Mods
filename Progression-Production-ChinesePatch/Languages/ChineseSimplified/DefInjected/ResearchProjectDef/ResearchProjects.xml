@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ferny_ResearchBench.label>研究台</Ferny_ResearchBench.label>
+  <Ferny_ResearchBench.description>建造一座可用于研究科技的设施。</Ferny_ResearchBench.description>
+  <Ferny_SculptingBench.label>雕刻台</Ferny_SculptingBench.label>
+  <Ferny_SculptingBench.description>建造一座可用于雕刻艺术品的工作台。</Ferny_SculptingBench.description>
+  <DrugProduction.label>制药台</DrugProduction.label>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: padding -->
+  <TavPadding.label>软垫</TavPadding.label>
+  <!-- EN: Soft, dense padding made from mixed wool fibers. Used for crafting of upholstered furniture, and crafting warm clothing. -->
+  <TavPadding.description>用混合毛料制成的厚实软垫，通常用于建造柔软家具和制作保暖衣物。</TavPadding.description>
+  
+  <!-- EN: tallow -->
+  <TavTallow.label>油脂</TavTallow.label>
+  <!-- EN: A waxy, yellowish substance rendered from rotting corpses. Can be used for crafting tallow candle. -->
+  <TavTallow.description>从腐烂的尸体中提炼出来的蜡黄色物质，通常用于建造蜡烛和烛台。</TavTallow.description>
+  
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: red warmth -->
+  <DA_RedTearHigh.stages.red_warmth.label>红墨暖身</DA_RedTearHigh.stages.red_warmth.label>
+  <!-- EN: That droplet makes me feel warm, the sensation is strange but relaxing. -->
+  <DA_RedTearHigh.stages.red_warmth.description>这一滴红墨让我觉得很暖和，感觉怪怪的但很放松。</DA_RedTearHigh.stages.red_warmth.description>
+  <!-- EN: red burn -->
+  <DA_RedTearHigh.stages.red_burn.label>红墨灼热</DA_RedTearHigh.stages.red_burn.label>
+  <!-- EN: My eyes start to redden and the burning sensation feels more present, but it's not that unpleasant. -->
+  <DA_RedTearHigh.stages.red_burn.description>我眼睛泛红，灼烧感更具象了，但不甚难受。</DA_RedTearHigh.stages.red_burn.description>
+  <!-- EN: red scorch -->
+  <DA_RedTearHigh.stages.red_scorch.label>红墨烧灼</DA_RedTearHigh.stages.red_scorch.label>
+  <!-- EN: My eyes are crying and i feel as if a simple cut would feel as painful as a torn limb. -->
+  <DA_RedTearHigh.stages.red_scorch.description>我的眼睛在流泪，而且一点点的小伤口也会像扯断了肢体一样痛。</DA_RedTearHigh.stages.red_scorch.description>
+  <!-- EN: red blister -->
+  <DA_RedTearHigh.stages.red_blister.label>红墨焦灼</DA_RedTearHigh.stages.red_blister.label>
+  <!-- EN: Everythig hurts, from moving to breathing, make it stop ! -->
+  <DA_RedTearHigh.stages.red_blister.description>从呼吸到移动，每个动作都好痛，快停下！</DA_RedTearHigh.stages.red_blister.description>
+  
+  <!-- EN: red ink withdrawal -->
+  <DA_RedTearWithdrawal.stages.red_ink_withdrawal.label>红墨戒断</DA_RedTearWithdrawal.stages.red_ink_withdrawal.label>
+  <!-- EN: I feel cold, as if all warmth from my body was stripped away. -->
+  <DA_RedTearWithdrawal.stages.red_ink_withdrawal.description>我觉得好冷，好像身体里的热量都被剥夺了。</DA_RedTearWithdrawal.stages.red_ink_withdrawal.description>
+  
+</LanguageData>

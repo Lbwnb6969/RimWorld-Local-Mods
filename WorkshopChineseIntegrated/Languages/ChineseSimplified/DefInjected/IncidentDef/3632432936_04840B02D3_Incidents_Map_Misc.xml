@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construct cluster -->
+  <VR_ConstructCluster.label>构装体集群</VR_ConstructCluster.label>
+  <!-- EN: Construct cluster -->
+  <VR_ConstructCluster.letterLabel>构装体集群</VR_ConstructCluster.letterLabel>
+  <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
+  <VR_ConstructCluster.letterText>一个构装体战斗集群在附近着陆。集群最初处于休眠状态，你可以花时间决定如何进攻。\n\n它可能在被干扰前一直休眠，也可能有计时器或近距触发器。\n\n即使休眠，构装体集群也并非无害。休眠集群可能会不时组装构装体攻击者，或带来某些必须最终处理的更广泛负面影响。</VR_ConstructCluster.letterText>
+  
+</LanguageData>

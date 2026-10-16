@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bipedal lizard -->
+  <VAEWaste_BipedalLizard.label>污毒鬣蜥</VAEWaste_BipedalLizard.label>
+  <!-- EN: left lung -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_lung.customLabel>左肺</VAEWaste_BipedalLizard.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_lung.customLabel>右肺</VAEWaste_BipedalLizard.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_kidney.customLabel>左肾</VAEWaste_BipedalLizard.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_kidney.customLabel>右肾</VAEWaste_BipedalLizard.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left arm -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.customLabel>左臂</VAEWaste_BipedalLizard.corePart.parts.left_arm.customLabel>
+  <!-- EN: left arm first claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_first_claw.customLabel>第一左爪指</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_first_claw.customLabel>
+  <!-- EN: left arm second claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_second_claw.customLabel>第二左爪指</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_second_claw.customLabel>
+  <!-- EN: left arm third claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_third_claw.customLabel>第三左爪指</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_third_claw.customLabel>
+  <!-- EN: left arm fourth claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fourth_claw.customLabel>第四左爪指</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fourth_claw.customLabel>
+  <!-- EN: left arm fifth claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fifth_claw.customLabel>第五左爪指</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fifth_claw.customLabel>
+  <!-- EN: right arm -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.customLabel>右臂</VAEWaste_BipedalLizard.corePart.parts.right_arm.customLabel>
+  <!-- EN: right arm first claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_first_claw.customLabel>第一右爪指</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_first_claw.customLabel>
+  <!-- EN: right arm second claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_second_claw.customLabel>第二右爪指</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_second_claw.customLabel>
+  <!-- EN: right arm third claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_third_claw.customLabel>第三右爪指</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_third_claw.customLabel>
+  <!-- EN: right arm fourth claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fourth_claw.customLabel>第三右爪指</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fourth_claw.customLabel>
+  <!-- EN: right arm fifth claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fifth_claw.customLabel>第四右爪指</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fifth_claw.customLabel>
+  <!-- EN: left leg -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.customLabel>左腿</VAEWaste_BipedalLizard.corePart.parts.left_leg.customLabel>
+  <!-- EN: left leg first claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_first_claw.customLabel>第一左爪趾</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_first_claw.customLabel>
+  <!-- EN: left leg second claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_second_claw.customLabel>第二左爪趾</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_second_claw.customLabel>
+  <!-- EN: left leg third claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_third_claw.customLabel>第三左爪趾</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_third_claw.customLabel>
+  <!-- EN: left leg fourth claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fourth_claw.customLabel>第四左爪趾</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fourth_claw.customLabel>
+  <!-- EN: left leg fifth claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fifth_claw.customLabel>第五左爪趾</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fifth_claw.customLabel>
+  <!-- EN: right leg -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.customLabel>右腿</VAEWaste_BipedalLizard.corePart.parts.right_leg.customLabel>
+  <!-- EN: right leg first claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_first_claw.customLabel>第一右爪趾</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_first_claw.customLabel>
+  <!-- EN: right leg second claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_second_claw.customLabel>第二右爪趾</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_second_claw.customLabel>
+  <!-- EN: right leg third claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_third_claw.customLabel>第三右爪趾</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_third_claw.customLabel>
+  <!-- EN: right leg fourth claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fourth_claw.customLabel>第四右爪趾</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fourth_claw.customLabel>
+  <!-- EN: right leg fifth claw -->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fifth_claw.customLabel>第五右爪趾</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fifth_claw.customLabel>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The Big Bad -->
+
+  <DankPyon_DireBoar.label>恐猪</DankPyon_DireBoar.label>
+  <DankPyon_DireBoar.description>一种凶恶的杂食动物，配备有一对致命的獠牙，用来杀死对牠造成威胁的生物。恐猪经常成群结队地游荡，遭遇到一群恐猪会非常危险。\n\n每只恐猪的尸体上均有一对獠牙，可以透过屠宰来获得。</DankPyon_DireBoar.description>
+  <DankPyon_DireBoar.tools.0.label>獠牙</DankPyon_DireBoar.tools.0.label>
+  <DankPyon_DireBoar.tools.2.label>左蹄</DankPyon_DireBoar.tools.2.label>
+  <DankPyon_DireBoar.tools.3.label>右蹄</DankPyon_DireBoar.tools.3.label>
+  <DankPyon_DireBoar.tools.4.label>头</DankPyon_DireBoar.tools.4.label>
+
+
+</LanguageData>

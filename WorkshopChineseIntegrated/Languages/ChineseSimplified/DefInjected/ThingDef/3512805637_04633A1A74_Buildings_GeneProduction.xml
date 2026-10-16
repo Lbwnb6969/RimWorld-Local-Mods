@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gene manipulation table -->
+  <BEWH_GeneManipulationTable.label>基因操作台</BEWH_GeneManipulationTable.label>
+  <!-- EN: This specialized workstation is used to create Genetic Matrices, which serve as templates for the Ascendance Vials produced in the Gene-seed Gestator. These vials are later implanted into a subject to initiate the transformation process.\n\nThe Gene manipulation table also plays a critical role in the creation of Primarch embryos for the Primarch Project. -->
+  <BEWH_GeneManipulationTable.description>该工作台用于创建基因矩阵，作为基因种子培育器中生成的升华原液的模板。这些升华原液随后会被植入进受试者体内，以启动升华过程。\n\n基因操作台在基因原体计划中基因原体胚胎的创建过程中也发挥着关键作用。</BEWH_GeneManipulationTable.description>
+  
+  <!-- EN: gene-seed gestator -->
+  <BEWH_GeneseedGestator.label>基因种子培育器</BEWH_GeneseedGestator.label>
+  <!-- EN: Encased in reinforced adamantium plating and adorned with Mechanicus blessings, this machine carefully nurtures Ascendance Vials. It stabilizes and matures the genetic material for later implantation. Further research enables the creation of legion-specific gene-seeds. -->
+  <BEWH_GeneseedGestator.description>这台被精金外壳包裹着的机器经过了机械神教的安抚，它能够精密培育升华原液。它使基因物质稳定成熟以备植入，进一步的研究将使我们能够创造出各个军团专属的基因种子。</BEWH_GeneseedGestator.description>
+  
+  <!-- EN: primarch growth vat -->
+  <BEWH_PrimarchGrowthVat.label>原体培育舱</BEWH_PrimarchGrowthVat.label>
+  <!-- EN: A sacred and highly advanced chamber designed to nurture the embryonic development of a Primarch. Encased in reinforced adamantium and adorned with Mechanicus blessings, this vat regulates temperature, nutrient infusion, and genetic stability to ensure the flawless growth of the Emperor's demigods. -->
+  <BEWH_PrimarchGrowthVat.description>用于培育原体胚胎的神圣容器。强化精金外壳配以机械神祝福，它能精确调控温度、营养灌注与基因稳定性，确保帝皇子嗣的无瑕成长。</BEWH_PrimarchGrowthVat.description>
+  
+</LanguageData>

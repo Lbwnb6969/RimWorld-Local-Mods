@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AllowCrossFaction>允许跨派系宠物</AllowCrossFaction>
+  <AllowCrossFactionTooltip>允许殖民者与其他派系的宠物一起玩耍.</AllowCrossFactionTooltip>
+  <AllowExoticPets>允许奇异宠物</AllowExoticPets>
+  <AllowExoticPetsTooltip>有模组允许你把虫子、机械生物或血肉怪物当宠物养? 我有什么资格评判!? 此设置允许与这些动物互动.</AllowExoticPetsTooltip>
+  <AllowHumanLike>允许类人宠物</AllowHumanLike>
+  <AllowHumanLikeTooltip>有模组引入了类人动物? 此设置允许与类人宠物进行互动.</AllowHumanLikeTooltip>
+  <AllowNonColonist>允许非殖民者</AllowNonColonist>
+  <AllowNonColonistTooltip>允许其他派系的访客与您的宠物互动.</AllowNonColonistTooltip>
+  <Animals_are_fun_Continued>Animals are fun! (Continued)</Animals_are_fun_Continued>
+  <BondedAnimalsMustBeCute>可爱牵绊动物偏好</BondedAnimalsMustBeCute>
+  <BondedAnimalsMustBeCuteTooltip>使小人更喜欢与可爱的牵绊动物互动.</BondedAnimalsMustBeCuteTooltip>
+  <BondedAnimalsPreference>牵绊动物偏好</BondedAnimalsPreference>
+  <BondedAnimalsPreferenceTooltip>此设置决定了小人是喜欢与牵绊动物还是与非牵绊动物互动.</BondedAnimalsPreferenceTooltip>
+  <CacheExpirationTimeout>缓存时间 ({0} 刻)</CacheExpirationTimeout>
+  <CacheExpirationTimeoutTooltip>重新计算地图中动物的时间间隔. 较低的数值可能会导致低配机性能下降, 较高的数值会延迟殖民者与新进入地图动物互动的时间.</CacheExpirationTimeoutTooltip>
+  <DebuggingCategory>Debugging:</DebuggingCategory>
+  <DontCare>非牵绊动物</DontCare>
+  <ExperimentalCategory>实验性:</ExperimentalCategory>
+  <MaximumAnimalDistance>最远动物距离 ({0} 格)</MaximumAnimalDistance>
+  <MaximumAnimalDistanceTooltip>小人搜索动物的最大半径范围.</MaximumAnimalDistanceTooltip>
+  <MaxBodySize>最大值. 体型 ({0}cm) </MaxBodySize>
+  <MaxWildness>最大值. 野性 ({0}%)</MaxWildness>
+  <MinConsciousness>最小值. 意识 ({0}%)</MinConsciousness>
+  <MinMoving>最小值. 移动能力 ({0}%)</MinMoving>
+  <MustBeCute>一定很可爱</MustBeCute>
+  <MustBeCuteTooltip>仅与会互相蹭蹭的可爱动物玩耍或散步. 警告: 除非拥有非常宽阔的围栏区域, 或是安装了可以限制动物行动区域的Mod, 否则请勿关闭此功能.</MustBeCuteTooltip>
+  <OnlyBonded>牵绊动物</OnlyBonded>
+  <RequirementsCategory>需求:</RequirementsCategory>
+  <ResetToDefaults>重置为默认设置</ResetToDefaults>
+  <Reset>重置</Reset>
+  <ShowDebugMessages>显示Debug信息</ShowDebugMessages>
+</LanguageData>

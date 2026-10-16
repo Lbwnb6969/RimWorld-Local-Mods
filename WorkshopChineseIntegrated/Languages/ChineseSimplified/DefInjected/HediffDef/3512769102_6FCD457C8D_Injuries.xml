@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warp burn -->
+  <BEWH_WarpBurn.label>亚空间烧伤</BEWH_WarpBurn.label>
+  <!-- EN: A warp burn. -->
+  <BEWH_WarpBurn.description>一个亚空间烧伤伤口。</BEWH_WarpBurn.description>
+  <!-- EN: warp burn scar -->
+  <BEWH_WarpBurn.comps.HediffComp_GetsPermanent.permanentLabel>亚空间烧伤疤痕</BEWH_WarpBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Warp-burned off -->
+  <BEWH_WarpBurn.injuryProps.destroyedLabel>烧毁</BEWH_WarpBurn.injuryProps.destroyedLabel>
+  <!-- EN: Warp-burned out -->
+  <BEWH_WarpBurn.injuryProps.destroyedOutLabel>烧毁</BEWH_WarpBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: a warp burn -->
+  <BEWH_WarpBurn.labelNoun>亚空间烧伤</BEWH_WarpBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <BEWH_WarpBurn.labelNounPretty>{0}在{1}</BEWH_WarpBurn.labelNounPretty>
+  
+  <!-- EN: warp burn -->
+  <BEWH_WarpEnergyBurn.label>亚空间烧伤</BEWH_WarpEnergyBurn.label>
+  <!-- EN: A burn cause by exposure to the Warp. -->
+  <BEWH_WarpEnergyBurn.description>因暴露在亚空间中受到的烧伤。</BEWH_WarpEnergyBurn.description>
+  <!-- EN: burned scar -->
+  <BEWH_WarpEnergyBurn.comps.HediffComp_GetsPermanent.permanentLabel>烧伤疤痕</BEWH_WarpEnergyBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <BEWH_WarpEnergyBurn.injuryProps.destroyedLabel>烧毁</BEWH_WarpEnergyBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <BEWH_WarpEnergyBurn.injuryProps.destroyedOutLabel>烧毁</BEWH_WarpEnergyBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: a warp burn -->
+  <BEWH_WarpEnergyBurn.labelNoun>亚空间烧伤</BEWH_WarpEnergyBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <BEWH_WarpEnergyBurn.labelNounPretty>{0}在{1}</BEWH_WarpEnergyBurn.labelNounPretty>
+  
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Apparel_Quiver.label>箭袋</DankPyon_Apparel_Quiver.label>
+  <DankPyon_Apparel_Quiver.description>一种可穿戴的皮革容器，专为装箭而设计。佩戴箭袋可以缩短弓箭和弩的射击时间。</DankPyon_Apparel_Quiver.description>
+
+  <DankPyon_Apparel_FlashPotBelt.label>闪光罐腰带</DankPyon_Apparel_FlashPotBelt.label>
+  <DankPyon_Apparel_FlashPotBelt.description>专门用来携带可投掷闪光罐的多用途腰带，投掷闪光罐可以迷惑敌人并使其暂时失明。</DankPyon_Apparel_FlashPotBelt.description>
+  <DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.chargeNoun>闪光罐</DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.cooldownGerund>冷却时间中</DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.cooldownGerund>
+  <DankPyon_Apparel_FlashPotBelt.verbs.throw_flash_pot.label>投掷闪光罐</DankPyon_Apparel_FlashPotBelt.verbs.throw_flash_pot.label>
+
+  <DankPyon_Apparel_FirePotBelt.label>燃烧罐腰带</DankPyon_Apparel_FirePotBelt.label>
+  <DankPyon_Apparel_FirePotBelt.description>专门用来携带可投掷燃烧罐的多用途腰带，可让穿戴者从远处点燃特定区域或敌人。</DankPyon_Apparel_FirePotBelt.description>
+  <DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.chargeNoun>燃烧罐</DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.cooldownGerund>冷却时间中</DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.cooldownGerund>
+  <DankPyon_Apparel_FirePotBelt.verbs.throw_fire_pot.label>投掷燃烧罐</DankPyon_Apparel_FirePotBelt.verbs.throw_fire_pot.label>
+
+  <DankPyon_Apparel_SmokePotBelt.label>烟雾罐腰带</DankPyon_Apparel_SmokePotBelt.label>
+  <DankPyon_Apparel_SmokePotBelt.description>专门用来携带可投掷烟雾罐的多用途腰带，投掷烟雾罐可创造出一片烟幕，提供视线上的掩护。</DankPyon_Apparel_SmokePotBelt.description>
+  <DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.chargeNoun>烟雾罐</DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.cooldownGerund>冷却时间中</DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.cooldownGerund>
+  <DankPyon_Apparel_SmokePotBelt.verbs.throw_smoke_pot.label>投掷烟雾罐</DankPyon_Apparel_SmokePotBelt.verbs.throw_smoke_pot.label>
+
+  <DankPyon_Apparel_AcidFlaskBelt.label>强酸罐腰带</DankPyon_Apparel_AcidFlaskBelt.label>
+  <DankPyon_Apparel_AcidFlaskBelt.description>专门用来携带可投掷强酸罐的多用途腰带，投掷强酸罐可泼洒出强力的酸液，这些酸液可以融化盔甲，并随时间对敌人造成伤害。</DankPyon_Apparel_AcidFlaskBelt.description>
+  <DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.chargeNoun>强酸罐</DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.cooldownGerund>冷却时间中</DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.cooldownGerund>
+  <DankPyon_Apparel_AcidFlaskBelt.verbs.throw_acid_flask.label>投掷强酸罐</DankPyon_Apparel_AcidFlaskBelt.verbs.throw_acid_flask.label>
+
+
+</LanguageData>

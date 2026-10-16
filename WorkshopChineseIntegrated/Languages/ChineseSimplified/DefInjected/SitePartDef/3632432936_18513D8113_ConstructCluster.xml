@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construct cluster -->
+  <VR_ConstructCluster.label>构装体集群</VR_ConstructCluster.label>
+  <!-- EN: A construct combat cluster. -->
+  <VR_ConstructCluster.description>一处构装体战斗集群。</VR_ConstructCluster.description>
+  <!-- EN: There is a cluster of hostile constructs and their combat support structures in this area.\n\nThe cluster can include artillery, turrets, combat mechanoids, and other support and defense structures. -->
+  <VR_ConstructCluster.arrivedLetter>此区域内存在一群敌对构装体及其战斗支援结构。\n\n集群可能包含火炮、炮塔、战斗机械体以及其他支援和防御结构。</VR_ConstructCluster.arrivedLetter>
+  
+</LanguageData>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <Ratkin_Bastard.description>[PAWN_nameDef]是一个小妾所生的孩子。但是这种私生子的存在是不被允许的，这使得[PAWN_pronoun]成为了一个逃亡者。</Ratkin_Bastard.description>
+  
+  <Ratkin_Bastard.title>鼠族私生子</Ratkin_Bastard.title>
+  
+  <Ratkin_Bastard.titleShort>私生子</Ratkin_Bastard.titleShort>
+  
+  
+  <Ratkin_ChefStudent.description>[PAWN_nameDef]是个吃货，也乐于自己下厨。对于[PAWN_pronoun]来说，食物既是对生活的点缀，也是一种乐趣，所以[PAWN_pronoun]会为了寻找更多的美食而出门冒险。</Ratkin_ChefStudent.description>
+  
+  <Ratkin_ChefStudent.title>鼠族厨师学徒</Ratkin_ChefStudent.title>
+  
+  <Ratkin_ChefStudent.titleShort>厨师学徒</Ratkin_ChefStudent.titleShort>
+  
+  
+  <Ratkin_CityKid.description>[PAWN_nameDef]从小就在城市里长大。[PAWN_pronoun]受到都市文化的熏陶，所以无法理解其他乡下来的鼠族的生活方式。</Ratkin_CityKid.description>
+  
+  <Ratkin_CityKid.title>鼠族城市儿童</Ratkin_CityKid.title>
+  
+  <Ratkin_CityKid.titleShort>城市儿童</Ratkin_CityKid.titleShort>
+  
+  
+  <Ratkin_CountryKid.description>[PAWN_nameDef]的祖父母是农民，其父母亦是农民。根据家族的传统，[PAWN_pronoun]也将成为农民。</Ratkin_CountryKid.description>
+  
+  <Ratkin_CountryKid.title>鼠族农夫之子</Ratkin_CountryKid.title>
+  
+  <Ratkin_CountryKid.titleShort>农夫之子</Ratkin_CountryKid.titleShort>
+  
+  
+  <Ratkin_GoldenSpoon.description>[PAWN_nameDef]是一名富裕家庭的独生子。[PAWN_pronoun]在充满着各种艺术熏陶的家庭氛围里长大。</Ratkin_GoldenSpoon.description>
+  
+  <Ratkin_GoldenSpoon.title>鼠族富二代</Ratkin_GoldenSpoon.title>
+  
+  <Ratkin_GoldenSpoon.titleShort>富二代</Ratkin_GoldenSpoon.titleShort>
+  
+  
+  <Ratkin_GuardenerStudent.description>[PAWN_nameDef]走上了成为卫花使的道路。只有最厉害的鼠族才能从敌人的威胁下守护花园。</Ratkin_GuardenerStudent.description>
+  
+  <Ratkin_GuardenerStudent.title>鼠族见习卫花使</Ratkin_GuardenerStudent.title>
+  
+  <Ratkin_GuardenerStudent.titleShort>见习卫花使</Ratkin_GuardenerStudent.titleShort>
+  
+  
+  <Ratkin_HumanAssistant.description>[PAWN_nameDef]从小就作为人类的助理来辅佐工作。但主人在一次事故中丧命后，[PAWN_pronoun]就远走高飞寻找自己的生活了。</Ratkin_HumanAssistant.description>
+  
+  <Ratkin_HumanAssistant.title>鼠族人类助理</Ratkin_HumanAssistant.title>
+  
+  <Ratkin_HumanAssistant.titleShort>人类助理</Ratkin_HumanAssistant.titleShort>
+  
+  
+  <Ratkin_Kid.description>[PAWN_nameDef]是一个出身平庸的鼠族儿童。帮助父母在家里做过很多事情。但没有机会接受高等教育，因此无法学会专业性的知识。</Ratkin_Kid.description>
+  
+  <Ratkin_Kid.title>鼠族儿童</Ratkin_Kid.title>
+  
+  <Ratkin_Kid.titleShort>儿童</Ratkin_Kid.titleShort>
+  
+  
+  <Ratkin_LaboratoryRats.description>[PAWN_nameDef]是一名军用实验体，经过基因工程改造的[PAWN_pronoun]诞生于人类的实验室中。对自由的强烈渴望最终驱使[PAWN_pronoun]逃出了那里。</Ratkin_LaboratoryRats.description>
+  
+  <Ratkin_LaboratoryRats.title>鼠族实验体</Ratkin_LaboratoryRats.title>
+  
+  <Ratkin_LaboratoryRats.titleShort>实验体</Ratkin_LaboratoryRats.titleShort>
+  
+  
+  <Ratkin_LandRat.description>[PAWN_nameDef]诞生在黑暗中。经历了漫长的洞穴生活后，[PAWN_pronoun]变得非常擅长采矿。当众多同胞前往地面世界时，[PAWN_pronoun]却依然选择留在洞穴中。</Ratkin_LandRat.description>
+  
+  <Ratkin_LandRat.title>鼠族地鼠</Ratkin_LandRat.title>
+  
+  <Ratkin_LandRat.titleShort>地鼠</Ratkin_LandRat.titleShort>
+  
+  
+  <Ratkin_LittleLibrarian.description>由于父母是图书管理员，[PAWN_nameDef]平日里常与书为伴。虽然博览群书大大强化了[PAWN_pronoun]的学识水平，然而代价则是眼睛因此高度近视了。</Ratkin_LittleLibrarian.description>
+  
+  <Ratkin_LittleLibrarian.title>鼠族小书虫</Ratkin_LittleLibrarian.title>
+  
+  <Ratkin_LittleLibrarian.titleShort>小书虫</Ratkin_LittleLibrarian.titleShort>
+  
+  
+  <Ratkin_MerchantKid.description>[PAWN_nameDef]是一名商人的孩子。在父母身边耳濡目染的[PAWN_pronoun]学会了如何做生意和赚钱。</Ratkin_MerchantKid.description>
+  
+  <Ratkin_MerchantKid.title>鼠族商人之子</Ratkin_MerchantKid.title>
+  
+  <Ratkin_MerchantKid.titleShort>商人之子</Ratkin_MerchantKid.titleShort>
+  
+  
+  <Ratkin_OfficerChild.description>[PAWN_nameDef]是一名军官的孩子。父母从小就教授的射击技巧使得[PAWN_pronoun]得到了极大的成长，但恰恰性格上也变得傲慢自大。</Ratkin_OfficerChild.description>
+  
+  <Ratkin_OfficerChild.title>鼠族军官之子</Ratkin_OfficerChild.title>
+  
+  <Ratkin_OfficerChild.titleShort>军官之子</Ratkin_OfficerChild.titleShort>
+  
+  
+  <Ratkin_Orphan.description>[PAWN_nameDef]从小就被父母抛弃。[PAWN_pronoun]学会了独立生存，虽然没有任何技术知识，但可以做各种事情。</Ratkin_Orphan.description>
+  
+  <Ratkin_Orphan.title>鼠族孤儿</Ratkin_Orphan.title>
+  
+  <Ratkin_Orphan.titleShort>孤儿</Ratkin_Orphan.titleShort>
+  
+  
+  <Ratkin_PettyTheft.description>在[PAWN_nameDef]看来，偷窃只不过是把东西“借”来用用而已。俗话说“常在河边走，哪有不湿鞋”，由于频繁作案，[PAWN_nameDef]最终被抓住把柄，并处以奴役之刑。在押送途中，[PAWN_pronoun]恰好碰上了袭击，这才得以侥幸逃脱。</Ratkin_PettyTheft.description>
+  
+  <Ratkin_PettyTheft.title>鼠族小毛贼</Ratkin_PettyTheft.title>
+  
+  <Ratkin_PettyTheft.titleShort>小毛贼</Ratkin_PettyTheft.titleShort>
+  
+  
+  <Ratkin_RomanyKid.description>[PAWN_nameDef]是一名四处漂泊的流浪儿。虽然自身多才多艺，但无家可归的生活使[PAWN_pronoun]难以和别人建立起深厚的友谊。</Ratkin_RomanyKid.description>
+  
+  <Ratkin_RomanyKid.title>鼠族流浪儿</Ratkin_RomanyKid.title>
+  
+  <Ratkin_RomanyKid.titleShort>流浪儿</Ratkin_RomanyKid.titleShort>
+  
+  
+  <Ratkin_ServentChild.description>[PAWN_nameDef]是一名侍从的孩子。根据鼠族王国的法律，[PAWN_pronoun]将来也注定要成为侍从。为了改变自己的命运，[PAWN_pronoun]选择了叛逃。</Ratkin_ServentChild.description>
+  
+  <Ratkin_ServentChild.title>鼠族侍从之子</Ratkin_ServentChild.title>
+  
+  <Ratkin_ServentChild.titleShort>侍从之子</Ratkin_ServentChild.titleShort>
+  
+  
+  <Ratkin_ShepherdBoy.description>[PAWN_nameDef]小时候就习惯与各种家畜相处。[PAWN_pronoun]能把动物当成自己的朋友般对待。</Ratkin_ShepherdBoy.description>
+  
+  <Ratkin_ShepherdBoy.title>鼠族牧童</Ratkin_ShepherdBoy.title>
+  
+  <Ratkin_ShepherdBoy.titleFemale>鼠族牧童</Ratkin_ShepherdBoy.titleFemale>
+  
+  <Ratkin_ShepherdBoy.titleShort>牧童</Ratkin_ShepherdBoy.titleShort>
+  
+  <Ratkin_ShepherdBoy.titleShortFemale>牧童</Ratkin_ShepherdBoy.titleShortFemale>
+  
+  
+  <Ratkin_SlaveKid.description>自打懂事起，[PAWN_nameDef]就被烙上了象征奴隶身份的印记。饱受劳役之苦的[PAWN_pronoun]最终忍无可忍，为获自由而选择逃跑。</Ratkin_SlaveKid.description>
+  
+  <Ratkin_SlaveKid.title>鼠族奴隶儿童</Ratkin_SlaveKid.title>
+  
+  <Ratkin_SlaveKid.titleShort>奴隶儿童</Ratkin_SlaveKid.titleShort>
+  
+  
+  <Ratkin_Student.description>[PAWN_nameDef]的家庭并不富裕，但还不至于穷得上不起学。[PAWN_pronoun]擅长科学研究，但在体育方面却不怎么出众。</Ratkin_Student.description>
+  
+  <Ratkin_Student.title>鼠族学生</Ratkin_Student.title>
+  
+  <Ratkin_Student.titleShort>学生</Ratkin_Student.titleShort>
+  
+  
+  <Ratkin_Successor.description>[PAWN_nameDef]本是豪门贵族的继承人。然而曾经显赫的家族迅速败落后，[PAWN_pronoun]不得不背井离乡另寻他路。</Ratkin_Successor.description>
+  
+  <Ratkin_Successor.title>鼠族继承人</Ratkin_Successor.title>
+  
+  <Ratkin_Successor.titleFemale>鼠族继承人</Ratkin_Successor.titleFemale>
+  
+  <Ratkin_Successor.titleShort>继承人</Ratkin_Successor.titleShort>
+  
+  <Ratkin_Successor.titleShortFemale>继承人</Ratkin_Successor.titleShortFemale>
+  
+  
+  <Ratkin_WildChild.description>[PAWN_nameDef]在远离文明之地长大。危机四伏的荒野磨砺了[PAWN_pronoun]的身手，但却无法给予[PAWN_pronoun]良好的教育。</Ratkin_WildChild.description>
+  
+  <Ratkin_WildChild.title>鼠族野孩子</Ratkin_WildChild.title>
+  
+  <Ratkin_WildChild.titleShort>野孩子</Ratkin_WildChild.titleShort>
+  
+</LanguageData>

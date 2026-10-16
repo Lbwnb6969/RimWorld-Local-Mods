@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drog tusk -->
+  <DA_DrogTusk.label>野猪巨牙</DA_DrogTusk.label>
+  <!-- EN: The tusk of a northern drog. A valuable and durable trophy which can be wielded as a deadly weapon. -->
+  <DA_DrogTusk.description>北境野猪的巨牙。珍贵耐用的战利品，也可以作为致命的武器来挥舞。</DA_DrogTusk.description>
+  <!-- EN: point -->
+  <DA_DrogTusk.tools.point.label>牙尖</DA_DrogTusk.tools.point.label>
+  <!-- EN: base -->
+  <DA_DrogTusk.tools.base.label>牙基</DA_DrogTusk.tools.base.label>
+  
+  <!-- EN: emperor pearls -->
+  <DA_EmperorPearls.label>帝皇珍珠</DA_EmperorPearls.label>
+  <!-- EN: Large pearl-like outgrowths formed out of polished chitin, extracted from the claw of a fully grown leviathan. Quite the valuable trophy. -->
+  <DA_EmperorPearls.description>由细腻几丁质形成的巨大的珍珠状突起，是从一只完全成年的利维坦的爪子上取下的。这可真是件极有价值的战利品。</DA_EmperorPearls.description>
+  
+  <!-- EN: goldilox horn -->
+  <DA_GoldiloxHorn.label>金牦角</DA_GoldiloxHorn.label>
+  <!-- EN: The twisted horn of a goldilox. A valuable and durable trophy which can be wielded as a deadly weapon. -->
+  <DA_GoldiloxHorn.description>金牦扭曲的角。珍贵耐用的战利品，也可以作为致命的武器来挥舞。</DA_GoldiloxHorn.description>
+  <!-- EN: point -->
+  <DA_GoldiloxHorn.tools.point.label>角尖</DA_GoldiloxHorn.tools.point.label>
+  <!-- EN: base -->
+  <DA_GoldiloxHorn.tools.base.label>角基</DA_GoldiloxHorn.tools.base.label>
+  
+  <!-- EN: larpah antlers -->
+  <DA_LarpahAntlers.label>拉法红角</DA_LarpahAntlers.label>
+  <!-- EN: A set of valuable antlers belonging to a larpah. Some tribes use the marrow found inside the bone to concoct a precious mixture. -->
+  <DA_LarpahAntlers.description>一套拉法的珍贵红角。一些部落使用从其骨中提取出的骨髓来调制一种珍贵的混合物。</DA_LarpahAntlers.description>
+  
+  <!-- EN: petrifying gland -->
+  <DA_PetrifyingGland.label>石化腺体</DA_PetrifyingGland.label>
+  <!-- EN: A large gland extracted from a Crestel. It oozes a thick and potent venom capable of completely paralysing the muscles and nerves. -->
+  <DA_PetrifyingGland.description>从冠禽身上取来的一大块腺体。能分泌粘而强力的毒素，可以完全瘫痪神经与肌肉。</DA_PetrifyingGland.description>
+  
+</LanguageData>

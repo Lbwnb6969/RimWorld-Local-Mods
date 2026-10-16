@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Caravan Adventures - Trade Caravan -->
+  <TradeCaravanQuestName>远行大冒险 - 远道而来的商队</TradeCaravanQuestName>
+	<!-- EN: A Sacrileg Hunters caravan is approaching and it seems rather well equipped. Might be worth checking out what they're doing here.\n\nIf you miss this chance wait for further caravans, most may seek contact beyond just trade. -->
+  <TradeCaravanQuestDesc>一队来自渎神猎人的远行队正在接近，他们看起来装备精良。也许我们该留意一下他们此行的目的。\n\n如果你错过了此次机会，可以试着等待之后再次来访的商队，不过大多数人可能会尝试除商队贸易以外的联系方式。</TradeCaravanQuestDesc>
+	<!-- EN: You had a really nice chat with {0}, keeping in touch may provide great opportunities. -->
+  <TradeCaravanQuestInfoTalkedTo>你和{0}聊的很愉快，继续保持联系可能会得到些良好的机遇。</TradeCaravanQuestInfoTalkedTo>
+	<!-- EN: {0} left you a {1} after your chat. -->
+  <TradeCaravanQuestInfoTalkedToReward>{0}在交谈过后将{1}作为礼物送给了我们。</TradeCaravanQuestInfoTalkedToReward>
+
+	<!-- EN: {0} waves and comes closer -->
+  <TradeCaravan_Dia1_DiaTitle>{0}边挥手边向我们靠近</TradeCaravan_Dia1_DiaTitle>
+	<!-- EN: Hey you. We've been traveling for weeks now and we were hoping if we could make a few days rest at your village. We won't trouble you of course, we just need to relax for a bit. \nIt's been hard on the road. [{0} shivers] -->
+  <TradeCaravan_Dia1_1>嘿，伙计！我们已经连续旅行好几周了，希望能在这个镇子休息几天。我们保证不会为你们带来麻烦，商队里的大伙只是需要放松整备一下。\n这一路上真的很辛苦。 [{0}的身体已经开始打颤了]</TradeCaravan_Dia1_1>
+	<!-- EN: Sure, we don't mind. You're welcome to stay a while. -->
+  <TradeCaravan_Dia1_1_Option1>没关系，我们不会介意的！欢迎你们的到访！</TradeCaravan_Dia1_1_Option1>
+	<!-- EN: [{0} gives you a tired but beautiful smile] That's kind of you.\n[{0} takes a deep breath and {1} eyes glance over the village and beyond]\nThis is a fantastic village, it fades in with the beautiful nature all around perfectly. \nHow are you guys doing here? -->
+  <TradeCaravan_Dia1_2>[{0}露出了一个疲惫但美丽的笑容] 你真是个好人！\n[{0}深吸了一口气，开始用{1}眼睛扫视整个镇子和远处的景象]这里可真是个好地方，整个城镇就好像与大自然完美融合在一起了！\n你们在这儿过的怎么样？</TradeCaravan_Dia1_2>
+	<!-- EN: That's... nice of you to say, thanks. \nWe've put a lot of work into it so far, I hope we'll make it through the winter. -->
+  <TradeCaravan_Dia1_2_Option1>哈哈哈...感谢你能这么说。\n到目前为止，我们已经做了大量的准备工作，希望能借此熬过这个冬天。</TradeCaravan_Dia1_2_Option1>
+	<!-- EN: I'm sure you'll be fine. We started building a settlement not far from here. Hopefully Jack runs out of booze soon, so he can finally plan out the rest of the buildings. Our constructors are anxious to get to work.\n\nAnyway, you should come visit us when we're done and give us a chance to repay you guys for your hospitality. [You notice {0} starting to relax and smile] -->
+  <TradeCaravan_Dia1_3>我相信你们会渡过难关的！顺带一提，我们已经着手开始在附近建立新的定居点了。希望杰克那家伙的酒很快就喝完了，这样他才肯动手规划剩下的建筑设施。我们的建筑师正吵着要赶快开工呢。\n\n不管怎么说，当定居点完工后，我希望你们能来做做客，好给我们大伙一个报答的机会。[你注意到{0}脸上洋溢着轻松的笑容] </TradeCaravan_Dia1_3>
+	<!-- EN: Thanks, we'll be happy to come visit. What brings you guys here? -->
+  <TradeCaravan_Dia1_3_Option1>好啊，很高兴你能邀请我们。不过我有些好奇，你们是怎么来到这颗星球上的？</TradeCaravan_Dia1_3_Option1>
+	<!-- EN: We might swing by. I've got to go, duty calls. \nGood luck on your travels. -->
+  <TradeCaravan_Dia1_3_Option2>有机会我们会顺道拜访的。啊，都这个时间了，我得走了。还有很多活要干呢！ \n祝你们一路平安！</TradeCaravan_Dia1_3_Option2>
+	<!-- EN: [{0} looks down and bites on {1} lip] That's a long story...\n\nBut I guess we have time. We come from another planet, but endless war over powerful artifacts was the end of Valeron. My fiance died when we fled to our guild's ship. I have no idea how we made it out alive before the planets's core collapsed.\n\n[{0} looks up to the sky trying to shake the bad memories] Years later we came across your planet. We quickly noticed the ancient structures that can be found all over the planet and our thirst for knowledge drove us to settle here.\n[{0} shrugs] I'm not looking to repeat our mistakes, but in the end it's what we're good at. Settling here wasn't easy though, we were plagued by sickness, and raids from various factions.\n\n Any advice you can give us? -->
+  <TradeCaravan_Dia1_4>[{0}低下头，咬紧了{1}嘴唇]这可说来话长...\n\n不过我想时间还很充足。我们来自另一颗星球——瓦莱隆星。那里本来是个美妙的地方，但围绕着强大神器的无止境战争最终摧毁了我们赖以生存的家园。在我们逃到协会的飞船上时，我的未婚夫因意外去世了。我甚至都不知道飞船是怎么在行星内核开始坍缩时完好无损地飞走的。\n\n[{0}仰望天空，试图忘掉那些糟糕的回忆]几年后，我们发现了这颗星球。我们很快就注意到了遍布行星表面的古建筑物群，对于知识的渴望驱使我们在此地定居。\n[{0}耸了耸肩]虽然我们不想重蹈覆辙，但这也终究是我们所擅长的技能。在这里定居并非易事，我们也饱受着疾病与来自其它派系的袭击之苦。\n\n你有什么能帮助我们的建议吗？</TradeCaravan_Dia1_4>
+	<!-- EN: Wow, that's quite a story. Our ship crashed here as well not long ago.\nWe are just figuring things out same as you, i guess. \n[{1} points at {0}'s weapon] You seem well equipped for the challenge though. -->
+  <TradeCaravan_Dia1_4_Option1>哇哦，这可真是个奇妙的故事。事实上...我们乘坐的飞船不久前也坠毁在这里了。\n我们现在所想的事情大概是一样的。\n[{1}指了指{0}手上的武器]不过你们似乎已经准备好面对各种挑战了。</TradeCaravan_Dia1_4_Option1>
+	<!-- EN: [{0} starts playing with {1} hair nervously] You noticed hm? Ya, we managed to excavate a bunch of shrines already and found incredible artifacts, but the mechs inside worry me. We lost two of us when breaking open our second shrine.\n\nTheir deaths weren't in vain! We'd certainly be dead by now without all this gear we managed to scavenge.\n\n[Smiling again {0} looks you in the eyes] But things seem to work out fine, now that we have met you guys. I'm sure our factions will be able to help one another if you're interested. -->
+  <TradeCaravan_Dia1_5>[{0}有些紧张地卷弄起了{1}头发]呃...或许你已经注意到了？是的，我们已经在各地发掘了一些远古圣殿，找到了许多令人难以置信的神器，不过...圣殿内部那些敌意十足的机械体让我很是担心。在开启第二座圣殿时，我们因为大意失去了两名同伴。\n\n他们的死并非毫无意义！如果我们没有因此注意到清理机械体和机关装置的重要性，大家肯定早就死光了。\n\n[{0}再次笑着与你双目对视]但我们现在已经活着与你们相会了。一切都在朝着有利的方向发展。如果你们有兴趣的话，我相信我们双方可以建立起稳固友好的关系，大家一起互帮互助，共克难关！</TradeCaravan_Dia1_5>
+	<!-- EN: Definitely! Together we might actually make it in this strange place. -->
+  <TradeCaravan_Dia1_5_Option1>说得好！如果大家能一起互帮互助，在这个陌生的地方活下去也并非梦想！</TradeCaravan_Dia1_5_Option1>
+	<!-- EN: Can't make any commitments, sorry. -->
+  <TradeCaravan_Dia1_5_Option2>抱歉...我没法做出任何承诺...</TradeCaravan_Dia1_5_Option2>
+	<!-- EN: [{0} takes your hand and smiles] Amazing, I can't wait to bring the good news home... We're no longer alone.\n\nI'm going to leave this {1} with you, we can spare it.\n\nI should talk to the others and see if everyone is ok. Thank you for that amazing chat, you gave me... hope. [{0} blushed as she let go of your hand and turned to {2} fellow guild mates] -->
+  <TradeCaravan_Dia1_6_1>[{0}激动地握住了你的手，脸上笑开了花]真是...真是太好了！我已经迫不及待地要把这个消息带回去了！我们，终于不再孤单了...\n\n请拿好！虽然我已经用不上这个{1}了，但我想它一定能帮到你们！\n\n我该和其他人聊聊，看看大伙们的状态是否还好。感谢你能和我聊这么久！是你给了我...努力活下去的希望。[{0}放开了你的手，转头走向了{2}同伴们。你注意到{2}脸因为过于激动而变得一片通红] </TradeCaravan_Dia1_6_1>
+	<!-- EN: [Coughing perplexed] Alright, see ya soon. -->
+  <TradeCaravan_Dia1_6_1_Option1>[有些困惑地咳嗽了几下]咳咳...好吧。那我们回头见！</TradeCaravan_Dia1_6_1_Option1>
+	<!-- EN: [{0} seems disappointed] Oh... okay. We still won't forget your help. Thank you. -->
+  <TradeCaravan_Dia1_6_2>[{0}看起来很失望]啊...那...好吧。我们永远不会忘记你们的帮助。再次感谢你们！</TradeCaravan_Dia1_6_2>
+	<!-- EN: Take care on your travels! -->
+  <TradeCaravan_Dia1_6_2_Option1>祝你们一路顺风！</TradeCaravan_Dia1_6_2_Option1>
+
+</LanguageData>

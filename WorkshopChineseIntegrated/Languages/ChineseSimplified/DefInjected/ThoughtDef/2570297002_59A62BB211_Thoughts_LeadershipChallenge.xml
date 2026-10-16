@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boring leadership challenge -->
+  <VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.label>无聊的领袖角逐</VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.label>
+  <!-- EN: That leadership challenge was not good. The fighters wouldn't commit, so there were no exciting moments. At least our leader is the strongest. -->
+  <VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.description>那场领袖角逐非常无聊。战士们不愿背负承诺，而且角逐一点都不精彩。但至少我们的领袖仍旧是真正的最强者。</VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.description>
+  
+  <!-- EN: good leadership challenge -->
+  <VME_GoodLeadershipChallenge.stages.good_leadership_challenge.label>令人满意的领袖角逐</VME_GoodLeadershipChallenge.stages.good_leadership_challenge.label>
+  <!-- EN: A good leadership challenge. The fighters went for blood and showed real heart. We now know that our leader is the strongest. -->
+  <VME_GoodLeadershipChallenge.stages.good_leadership_challenge.description>那场领袖角逐令人满意。战士们洒下鲜血，表现出了自己真正强悍的内心。我们的领袖是真正的最强者。</VME_GoodLeadershipChallenge.stages.good_leadership_challenge.description>
+  
+  <!-- EN: terrible leadership challenge -->
+  <VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.label>糟糕的领袖角逐</VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.label>
+  <!-- EN: That leadership challenge was terrible. Watching it just made people sad. I guess we have a strong leader, at least... -->
+  <VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.description>那场领袖角逐非常糟糕。战士们跌跌撞撞，相互笨拙地避开对方的攻击，他们的怯懦与软弱暴露无遗。这可真让人感到悲哀。</VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.description>
+  
+  <!-- EN: unforgettable leadership challenge -->
+  <VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.label>令人难忘的领袖角逐</VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.label>
+  <!-- EN: That leadership challenge was unforgettable! Both fighters gave all they had, and we know that our leader is now the strongest among us! -->
+  <VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.description>那场领袖角逐真令人难忘！两位战士都献出了自身的一切，我们的领袖是真正的最强者!</VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.description>
+  
+</LanguageData>

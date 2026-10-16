@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ottoman miquelet arquebus -->
+  <TA_OttomanMiquelet.label>奥斯曼燧发火枪</TA_OttomanMiquelet.label>
+  <!-- EN: . -->
+  <TA_OttomanMiquelet.description>奥斯曼帝国特色的燧发火枪，采用特殊击发机构。</TA_OttomanMiquelet.description>
+  <!-- EN: stock -->
+  <TA_OttomanMiquelet.tools.stock.label>枪托</TA_OttomanMiquelet.tools.stock.label>
+  <!-- EN: barrel -->
+  <TA_OttomanMiquelet.tools.barrel.label>枪管</TA_OttomanMiquelet.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <TA_OttomanMiquelet.tools.muzzle.label>枪口</TA_OttomanMiquelet.tools.muzzle.label>
+  <!-- EN: Ottoman miquelet arquebus -->
+  <TA_OttomanMiquelet.verbs.Verb_ShootCE.label>奥斯曼燧发枪射击</TA_OttomanMiquelet.verbs.Verb_ShootCE.label>
+  
+</LanguageData>

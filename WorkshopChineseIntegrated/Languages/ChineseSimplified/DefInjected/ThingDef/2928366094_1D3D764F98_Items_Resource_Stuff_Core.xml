@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy dinosaurs hide -->
+  <RG_DinosaursHideHeavy.label>厚重恐龙皮</RG_DinosaursHideHeavy.label>
+  <!-- EN: Heavy hide from larger, tougher theropod or sauropod. It's reasonbly good at protection. -->
+  <RG_DinosaursHideHeavy.description>大型蜥脚亚目或兽脚亚目动物的厚重皮革。防护性能出色。</RG_DinosaursHideHeavy.description>
+  
+  <!-- EN: woolly stegosaurus wool -->
+  <RG_WoolStegosaurus.label>长毛剑龙毛</RG_WoolStegosaurus.label>
+  <!-- EN: Thick and coarse wool of a woolly stegosaurus. Quite warm. -->
+  <RG_WoolStegosaurus.description>茂密而粗糙的长毛剑龙毛。很暖和。</RG_WoolStegosaurus.description>
+  
+</LanguageData>

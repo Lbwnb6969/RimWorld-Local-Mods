@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Make Lesser Healing Potion -->
+  <Joe_LesserHealingRecipe.label>制作红药水(小)</Joe_LesserHealingRecipe.label>
+  <!-- EN: A vial containing a tribal lesser healing elixir that boosts healing and immunity.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_LesserHealingRecipe.description>制作红药水(小)，这种药水能增加自然治愈力及免疫力。</Joe_LesserHealingRecipe.description>
+  <!-- EN: Making Lesser Healing Potion. -->
+  <Joe_LesserHealingRecipe.jobString>正在制作红药水(小)。</Joe_LesserHealingRecipe.jobString>
+  
+  <!-- EN: Make Lesser Healing Potion x5 -->
+  <Joe_LesserHealingRecipeBulk.label>制作红药水(小) x5</Joe_LesserHealingRecipeBulk.label>
+  <!-- EN: A vial containing a tribal lesser healing elixir that boosts healing and immunity.\n(Medieval Medicines Medieval Overhaul Edition) -->
+  <Joe_LesserHealingRecipeBulk.description>制作5瓶红药水(小)，这种药水能增加自然治愈力及免疫力。</Joe_LesserHealingRecipeBulk.description>
+  <!-- EN: Making Lesser Healing Potion x5. -->
+  <Joe_LesserHealingRecipeBulk.jobString>正在制作红药水(小)。</Joe_LesserHealingRecipeBulk.jobString>
+  
+</LanguageData>

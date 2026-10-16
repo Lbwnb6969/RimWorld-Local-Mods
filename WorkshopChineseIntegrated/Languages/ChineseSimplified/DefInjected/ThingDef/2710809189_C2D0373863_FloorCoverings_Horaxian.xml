@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: horaxian slab (broad) -->
+  <AM_HoraxianSlab_Broad.label>霍拉克斯文化雕版（宽）</AM_HoraxianSlab_Broad.label>
+  <!-- EN: A stone bas relief of Horaxian imagery for decorating a floor. -->
+  <AM_HoraxianSlab_Broad.description>用来装饰地板的霍拉克斯文化图案石制浅浮雕。</AM_HoraxianSlab_Broad.description>
+  
+  <!-- EN: horaxian slab (medium) -->
+  <AM_HoraxianSlab_Medium.label>霍拉克斯文化雕版</AM_HoraxianSlab_Medium.label>
+  <!-- EN: A stone bas relief of Horaxian imagery for decorating a floor. -->
+  <AM_HoraxianSlab_Medium.description>用来装饰地板的霍拉克斯文化图案石制浅浮雕。</AM_HoraxianSlab_Medium.description>
+  
+</LanguageData>

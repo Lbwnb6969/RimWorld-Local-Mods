@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: craving dessert -->
+  <VME_NeedSweets.stages.craving_dessert.label>渴求甜点</VME_NeedSweets.stages.craving_dessert.label>
+  <!-- EN: I'm craving some sweet food badly... I feel so tired... this is ridiculous, I’d do just about anything for a single sprinkle. -->
+  <VME_NeedSweets.stages.craving_dessert.description>我好想吃些甜点啊...没有它们，一切都显得索然无味了...只要能吃上一点，我什么都会做的！</VME_NeedSweets.stages.craving_dessert.description>
+  <!-- EN: desiring dessert -->
+  <VME_NeedSweets.stages.desiring_dessert.label>需求甜点</VME_NeedSweets.stages.desiring_dessert.label>
+  <!-- EN: I haven't had a sweet treat in a while now. Is a chocolate bar or piece of cake too much to ask for? -->
+  <VME_NeedSweets.stages.desiring_dessert.description>我已经很久没吃甜点了。想要一块巧克力或蛋糕都是种奢望了吗？</VME_NeedSweets.stages.desiring_dessert.description>
+  <!-- EN: wanting dessert -->
+  <VME_NeedSweets.stages.wanting_dessert.label>想要甜点</VME_NeedSweets.stages.wanting_dessert.label>
+  <!-- EN: How about some dessert? It has been a while... -->
+  <VME_NeedSweets.stages.wanting_dessert.description>我已经有段时间没吃甜点了。给点给点。</VME_NeedSweets.stages.wanting_dessert.description>
+  <!-- EN: full -->
+  <VME_NeedSweets.stages.full.label>甜点满足</VME_NeedSweets.stages.full.label>
+  <!-- EN: I've recently eaten some dessert, it was amazing. -->
+  <VME_NeedSweets.stages.full.description>我最近吃了一些甜点。这可真棒！</VME_NeedSweets.stages.full.description>
+  <!-- EN: completely full -->
+  <VME_NeedSweets.stages.completely_full.label>甜点满足（完全）</VME_NeedSweets.stages.completely_full.label>
+  <!-- EN: I'm in heaven. Sweet, greasy, delicious heaven. -->
+  <VME_NeedSweets.stages.completely_full.description>流连忘返，飘飘欲仙。我正沉溺于甜点天国之中！</VME_NeedSweets.stages.completely_full.description>
+  
+</LanguageData>

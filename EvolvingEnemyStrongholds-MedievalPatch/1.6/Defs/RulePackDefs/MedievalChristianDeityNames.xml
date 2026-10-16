@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef MayRequire="Ludeon.RimWorld.Ideology">
+    <defName>Local_NamerDeityChristianMedieval</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_deityName-&gt;God</li>
+        <li>r_deityName-&gt;The Almighty</li>
+        <li>r_deityName-&gt;The Creator</li>
+        <li>r_deityName-&gt;The Eternal</li>
+        <li>r_deityName-&gt;The Most High</li>
+        <li>r_deityName-&gt;Lord of Hosts</li>
+        <li>r_deityName-&gt;King of Heaven</li>
+        <li>r_deityName-&gt;The Heavenly Father</li>
+        <li>r_deityName-&gt;Divine Providence</li>
+        <li>r_deityName-&gt;The Holy One</li>
+        <li>r_deityName-&gt;The Living Light</li>
+        <li>r_deityName-&gt;The Sacred Word</li>
+        <li>r_deityName-&gt;The True Shepherd</li>
+        <li>r_deityName-&gt;The Redeemer</li>
+        <li>r_deityName-&gt;The Comforter</li>
+        <li>r_deityName-&gt;The Just Judge</li>
+        <li>r_deityName-&gt;The Merciful One</li>
+        <li>r_deityName-&gt;The Radiant One</li>
+        <li>r_deityName-&gt;The Unconquered Lord</li>
+        <li>r_deityName-&gt;The Prince of Peace</li>
+        <li>r_deityName-&gt;The Wellspring</li>
+        <li>r_deityName-&gt;The First Light</li>
+        <li>r_deityName-&gt;The Last Light</li>
+        <li>r_deityName-&gt;The Maker</li>
+        <li>r_deityName-&gt;The Keeper</li>
+        <li>r_deityName-&gt;The Guardian</li>
+        <li>r_deityName-&gt;The Deliverer</li>
+        <li>r_deityName-&gt;The Protector</li>
+        <li>r_deityName-&gt;The Beacon</li>
+        <li>r_deityName-&gt;The Way</li>
+        <li>r_deityName-&gt;The Truth</li>
+        <li>r_deityName-&gt;The Life</li>
+        <li>r_deityName-&gt;The Covenant</li>
+        <li>r_deityName-&gt;Grace</li>
+        <li>r_deityName-&gt;Mercy</li>
+        <li>r_deityName-&gt;Wisdom</li>
+        <li>r_deityName-&gt;Hope</li>
+        <li>r_deityName-&gt;Salvation</li>
+        <li>r_deityName-&gt;The Dawn</li>
+        <li>r_deityName-&gt;The Morning Star</li>
+        <li>r_deityName-&gt;The Cornerstone</li>
+        <li>r_deityName-&gt;The Good Shepherd</li>
+        <li>r_deityName-&gt;The Lamb</li>
+        <li>r_deityName-&gt;The Lion of Heaven</li>
+        <li>r_deityName-&gt;The Ancient of Days</li>
+        <li>r_deityName-&gt;The Eternal Rock</li>
+        <li>r_deityName-&gt;The Fountain of Life</li>
+        <li>r_deityName-&gt;The Bread of Heaven</li>
+        <li>r_deityName-&gt;The Light of the World</li>
+        <li>r_deityName-&gt;The King of Kings</li>
+        <li>r_deityName-&gt;The Lord of Lords</li>
+        <li>r_deityName-&gt;The Holy Flame</li>
+        <li>r_deityName-&gt;The Sacred Heart</li>
+        <li>r_deityName-&gt;The Divine Hand</li>
+        <li>r_deityName-&gt;The Heavenly Crown</li>
+        <li>r_deityName-&gt;The Golden Throne</li>
+        <li>r_deityName-&gt;The Everlasting Word</li>
+        <li>r_deityName-&gt;The Blessed Protector</li>
+        <li>r_deityName-&gt;The Eternal Guardian</li>
+        <li>r_deityName-&gt;The Faithful Judge</li>
+        <li>r_deityName-&gt;The Gentle Shepherd</li>
+        <li>r_deityName-&gt;The Keeper of Souls</li>
+        <li>r_deityName-&gt;The Warden of Heaven</li>
+        <li>r_deityName-&gt;The Master of Mercy</li>
+        <li>r_deityName-&gt;The Father of Lights</li>
+        <li>r_deityName-&gt;The Lord of Dawn</li>
+        <li>r_deityName-&gt;The Lord of Grace</li>
+        <li>r_deityName-&gt;The Lord of Truth</li>
+        <li>r_deityName-&gt;The Lord of Peace</li>
+        <li>r_deityName-&gt;The Lord of Mercy</li>
+        <li>r_deityName-&gt;The Lord of Justice</li>
+        <li>r_deityName-&gt;The Lord of Creation</li>
+        <li>r_deityName-&gt;The Lord of Eternity</li>
+        <li>r_deityName-&gt;The Crown of Glory</li>
+        <li>r_deityName-&gt;The Shield of Faith</li>
+        <li>r_deityName-&gt;The Voice of Heaven</li>
+        <li>r_deityName-&gt;The Hand of Providence</li>
+        <li>r_deityName-&gt;The Eye of Wisdom</li>
+        <li>r_deityName-&gt;The Heart of Mercy</li>
+        <li>r_deityName-&gt;The Gate of Heaven</li>
+        <li>r_deityName-&gt;The Star of Salvation</li>
+        <li>r_deityName-&gt;The Hope of Nations</li>
+        <li>r_deityName-&gt;The Light Everlasting</li>
+        <li>r_deityName-&gt;The Holy Redeemer</li>
+        <li>r_deityName-&gt;The Divine Shepherd</li>
+        <li>r_deityName-&gt;The Eternal King</li>
+        <li>r_deityName-&gt;The Sacred Judge</li>
+        <li>r_deityName-&gt;The Blessed Maker</li>
+        <li>r_deityName-&gt;The Heavenly Guardian</li>
+        <li>r_deityName-&gt;The Everlasting Father</li>
+        <li>r_deityName-&gt;The Sovereign of Souls</li>
+        <li>r_deityName-&gt;The Keeper of the Covenant</li>
+        <li>r_deityName-&gt;The Guardian of the Faithful</li>
+        <li>r_deityName-&gt;The Refuge of the Just</li>
+        <li>r_deityName-&gt;The Strength of the Meek</li>
+        <li>r_deityName-&gt;The Glory Above</li>
+        <li>r_deityName-&gt;Mercy Unending</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>
